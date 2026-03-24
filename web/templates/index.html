@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GBS + IgA-brist — Kunskapsdatabas</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="topbar">
+  <h1>GBS &amp; IgA-brist &mdash; Kunskapsdatabas</h1>
+  <nav>
+    <div class="nav-main">
+      <button class="nav-primary" onclick="showView('search', this)">Sök i databasen</button>
+      <button class="nav-primary" onclick="showView('ask', this)">Fråga databasen</button>
+    </div>
+    <button class="nav-secondary active" onclick="showView('intro', this)">Om databasen</button>
+  </nav>
+</div>
+
+<!-- ── Intro view ── -->
+<div id="view-intro" class="view active">
+  <div class="intro-container">
+    <div class="intro-content">
+      {{ intro | safe }}
+    </div>
+  </div>
+</div>
+
+<!-- ── Search view ── -->
+<div id="view-search" class="view">
+  <div class="panel-container">
+    <div class="search-box">
+      <h2>Sök i databasen</h2>
+      <p class="search-desc">
+        Sök igenom alla indexerade forskningsdokument. Resultaten rankas efter semantisk relevans — klicka på ett resultat för att läsa mer.
+      </p>
+      <div class="input-row">
+        <input type="text" id="search-input" placeholder="T.ex. tanruprubart complement GBS, IgA anafylaxi IVIg, refractory treatment options..."
+               onkeydown="if(event.key==='Enter') doSearch()">
+        <button class="btn" id="search-btn" onclick="doSearch()">Sök</button>
+      </div>
+      <details class="usage-hint">
+        <summary>Så använder du sökningen</summary>
+        <ul>
+          <li>Skriv din sökning på <strong>svenska eller engelska</strong> — båda fungerar</li>
+          <li>Resultaten rankas efter hur semantiskt relevanta de är (inte nyckelordsträffar)</li>
+          <li>Klicka på ett resultat för att expandera hela texten</li>
+          <li>Referenser i texten är klickbara där DOI eller URL finns</li>
+          <li>Prova breda frågor: <em>"IgA-safe treatments"</em> eller specifika: <em>"efgartigimod dosering GBS"</em></li>
+        </ul>
+      </details>
+    </div>
+    <div id="search-results" class="results-area"></div>
+  </div>
+</div>
+
+<!-- ── Ask view ── -->
+<div id="view-ask" class="view">
+  <div class="panel-container">
+    <div class="search-box">
+      <h2>Fråga databasen</h2>
+      <p class="search-desc">
+        Ställ en klinisk fråga. Svaret genereras från kunskapsbasen med exakta källhänvisningar.
+      </p>
+      <div class="input-row">
+        <textarea id="ask-input" rows="2" placeholder="T.ex. Vad gör man om en patient med GBS och IgA-brist inte svarar på plasmaferes?"
+                  onkeydown="if(event.key==='Enter' && !event.shiftKey) { event.preventDefault(); doAsk(); }"></textarea>
+        <button class="btn" id="ask-btn" onclick="doAsk()">Fråga</button>
+      </div>
+      <details class="usage-hint">
+        <summary>Så använder du fråga-funktionen</summary>
+        <ul>
+          <li>Skriv din fråga på <strong>svenska eller engelska</strong> — svaret kommer på samma språk</li>
+          <li>Svaret genereras enbart från kunskapsbasens innehåll, med källhänvisning till varje påstående</li>
+          <li>Alla referenser i svaret är klickbara</li>
+          <li>Kan ta 10–20 sekunder — systemet söker igenom all forskning och syntetiserar ett svar</li>
+          <li>Vill du se svaret på ett annat språk? Tryck på <strong>Visa på engelska / Visa på svenska</strong> under svaret</li>
+        </ul>
+      </details>
+    </div>
+    <div id="ask-results" class="results-area"></div>
+  </div>
+</div>
+
+<!-- ── Disclaimer footer ── -->
+<footer class="disclaimer">
+  <div class="disclaimer-inner">
+    <p><strong>Medicinsk disclaimer</strong></p>
+    <p>
+      Denna kunskapsdatabas är ett forskningsverktyg och ersätter inte klinisk bedömning.
+      Innehållet baseras på publicerad peer-reviewed forskning och är avsett som beslutsstöd
+      för legitimerad sjukvårdspersonal. Informationen utgör inte medicinsk rådgivning och ska
+      inte användas som enda grund för behandlingsbeslut. Behandlande läkare ansvarar alltid
+      för den individuella kliniska bedömningen. Vissa behandlingar som nämns kan vara
+      experimentella, off-label eller begränsat tillgängliga.
+    </p>
+    <p class="disclaimer-meta">
+      Sammanställd mars 2026 &middot; ~250 peer-reviewed källor &middot;
+      Senast uppdaterad: mars 2026
+    </p>
+  </div>
+</footer>
+
+<script>
+// Store full texts and last question for language toggle
+const fullTexts = {};
+let lastQuestion = '';
+let lastAnswerLang = '';
+
+function showView(name, btn) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.querySelectorAll('.topbar nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById('view-' + name).classList.add('active');
+  btn.classList.add('active');
+}
+
+function linkifyRefs(text) {
+  // Make DOIs clickable
+  text = text.replace(
+    /DOI:\s*(10\.\S+?)([)\s,;.]|$)/g,
+    'DOI: <a href="https://doi.org/$1" target="_blank" rel="noopener">$1</a>$2'
+  );
+  text = text.replace(
+    /doi\.org\/(10\.\S+?)([)\s,;.]|$)/g,
+    '<a href="https://doi.org/$1" target="_blank" rel="noopener">doi.org/$1</a>$2'
+  );
+  // Make PMC IDs clickable
+  text = text.replace(
+    /PMC(\d{5,})/g,
+    '<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC$1/" target="_blank" rel="noopener">PMC$1</a>'
+  );
+  // Make PubMed IDs clickable
+  text = text.replace(
+    /PMID:\s*(\d+)/g,
+    'PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/$1/" target="_blank" rel="noopener">$1</a>'
+  );
+  // Make NCT trial IDs clickable
+  text = text.replace(
+    /(NCT\d{8,})/g,
+    '<a href="https://clinicaltrials.gov/study/$1" target="_blank" rel="noopener">$1</a>'
+  );
+  // Make bare https URLs clickable (if not already in an <a> tag)
+  text = text.replace(
+    /(?<!href="|">)(https?:\/\/[^\s<)"]+)/g,
+    '<a href="$1" target="_blank" rel="noopener">$1</a>'
+  );
+  return text;
+}
+
+function renderMarkdownText(text) {
+  // Simple markdown-to-HTML for chunk display
+  let html = escHtml(text);
+  // Bold
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  // Italic
+  html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+  // Headers
+  html = html.replace(/^#### (.+)$/gm, '<h4>$1</h4>');
+  html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+  // List items
+  html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
+  // Paragraphs (double newline)
+  html = html.replace(/\n\n/g, '</p><p>');
+  html = html.replace(/\n/g, '<br>');
+  html = '<p>' + html + '</p>';
+  // Linkify references
+  html = linkifyRefs(html);
+  return html;
+}
+
+async function doSearch() {
+  const query = document.getElementById('search-input').value.trim();
+  if (!query) return;
+
+  const btn = document.getElementById('search-btn');
+  const area = document.getElementById('search-results');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>Söker...';
+  area.innerHTML = '<p class="loading-text">Söker i kunskapsbasen...</p>';
+
+  try {
+    const res = await fetch('/api/search', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({query, top_k: 8})
+    });
+    const data = await res.json();
+
+    if (data.error) {
+      area.innerHTML = `<div class="result-card"><p style="color:red">${data.error}</p></div>`;
+      return;
+    }
+
+    if (!data.results.length) {
+      area.innerHTML = '<div class="result-card"><p>Inga resultat hittades.</p></div>';
+      return;
+    }
+
+    data.results.forEach((r, i) => { fullTexts[i] = r.text; });
+
+    area.innerHTML = data.results.map((r, i) => `
+      <div class="result-card clickable" onclick="toggleResult(${i}, this)">
+        <div class="result-header">
+          <span class="result-path">${escHtml(r.heading_path)}</span>
+          <span class="result-score">${(r.score * 100).toFixed(0)}% relevans</span>
+        </div>
+        <div class="result-file">${escHtml(r.source_file)}</div>
+        <div class="result-preview" id="rp-${i}">${escHtml(r.text.substring(0, 250)).replace(/\n/g, ' ')}${r.text.length > 250 ? '...' : ''}</div>
+        <div class="result-full" id="rf-${i}" style="display:none">${renderMarkdownText(r.text)}</div>
+      </div>
+    `).join('');
+  } catch (e) {
+    area.innerHTML = `<div class="result-card"><p style="color:red">Fel: ${e.message}</p></div>`;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Sök';
+  }
+}
+
+function toggleResult(idx, card) {
+  const preview = document.getElementById('rp-' + idx);
+  const full = document.getElementById('rf-' + idx);
+  const isOpen = full.style.display !== 'none';
+
+  if (isOpen) {
+    full.style.display = 'none';
+    preview.style.display = 'block';
+    card.classList.remove('expanded');
+  } else {
+    full.style.display = 'block';
+    preview.style.display = 'none';
+    card.classList.add('expanded');
+  }
+}
+
+async function doAsk(overrideLang) {
+  const inputEl = document.getElementById('ask-input');
+  let question = overrideLang ? lastQuestion : inputEl.value.trim();
+  if (!question) return;
+
+  lastQuestion = question;
+
+  // Detect language of question for toggle
+  const isSwedish = /[åäöÅÄÖ]/.test(question) || /\b(vad|hur|vilka|när|kan|finns|och|med|för|som|inte|vid|har|det)\b/i.test(question);
+  lastAnswerLang = isSwedish ? 'sv' : 'en';
+
+  // If language override requested, prepend instruction
+  if (overrideLang) {
+    const langName = overrideLang === 'sv' ? 'Swedish' : 'English';
+    question = `[Answer in ${langName}] ${question}`;
+  }
+
+  const btn = document.getElementById('ask-btn');
+  const area = document.getElementById('ask-results');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>Analyserar...';
+  area.innerHTML = '<p class="loading-text">Söker i kunskapsbasen och genererar svar... (kan ta 10–20 sekunder)</p>';
+
+  try {
+    const res = await fetch('/api/ask', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({question, top_k: 6})
+    });
+    const data = await res.json();
+
+    if (data.error) {
+      area.innerHTML = `<div class="result-card"><p style="color:red">${data.error}</p></div>`;
+      return;
+    }
+
+    // Linkify references in the HTML answer
+    const linkedAnswer = linkifyRefs(data.answer);
+
+    // Language toggle button
+    const currentLang = overrideLang || lastAnswerLang;
+    const toggleLang = currentLang === 'sv' ? 'en' : 'sv';
+    const toggleLabel = currentLang === 'sv' ? 'Visa på engelska' : 'Visa på svenska';
+
+    let sourcesHtml = '';
+    if (data.sources && data.sources.length) {
+      sourcesHtml = `
+        <div class="sources-list">
+          <h4>Källor som användes:</h4>
+          <ol>
+            ${data.sources.map(s =>
+              `<li><strong>${escHtml(s.heading_path)}</strong><br><code>${escHtml(s.source_file)}</code> <span class="source-score">${(s.score * 100).toFixed(0)}% relevans</span></li>`
+            ).join('')}
+          </ol>
+        </div>
+      `;
+    }
+
+    area.innerHTML = `
+      <div class="answer-card">${linkedAnswer}</div>
+      <div class="answer-actions">
+        <button class="btn btn-secondary" onclick="doAsk('${toggleLang}')">${toggleLabel}</button>
+      </div>
+      ${sourcesHtml}
+    `;
+  } catch (e) {
+    area.innerHTML = `<div class="result-card"><p style="color:red">Fel: ${e.message}</p></div>`;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Fråga';
+  }
+}
+
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+</script>
+
+</body>
+</html>
