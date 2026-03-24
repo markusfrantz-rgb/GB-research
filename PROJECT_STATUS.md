@@ -31,8 +31,9 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | Auth | Live | ACCESS_CODE via env var |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
 | Railway deploy | Live | Auto-deploy vid git push |
-| Domän | Railway default | `gb-research-production.up.railway.app` |
+| Domän | Live | `gb-research-production.up.railway.app` |
 | Egen domän | Ej konfigurerad | Väntar på domänval |
+| Åtkomstkod | Live | `ACCESS_CODE` env var, session-baserad (giltig tills browser stängs) |
 
 ## Klinisk kontext
 
@@ -73,3 +74,5 @@ Markus fru Madeleine:
 | 2026-03-24 | Initial release: 5 forskningsdokument, RAG, lokal webbsida |
 | 2026-03-24 | Utökad: +4 dokument (recidiverande GBS, IVA, SCIG/IVIg-säkerhet, PE-refraktär) |
 | 2026-03-24 | Deploy till Railway, auth, rate limiting, klickbara källor |
+| 2026-03-24 | Snabblänkar till nyckeldokument, CLAUDE.md + PROJECT_STATUS.md dokumentation |
+| 2026-03-25 | Auth verifierad och fungerande. Env var-felsökning dokumenterad. |

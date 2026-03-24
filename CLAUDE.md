@@ -59,6 +59,15 @@ GB-research/
 └── .env                     ← GOOGLE_API_KEY (gitignored)
 ```
 
+## Säkerhet & drift
+
+- **Åtkomstkod:** Sätts via `ACCESS_CODE` i Railway env vars. Session-baserad (giltig tills webbläsaren stängs).
+- **Rate limiting:** 10 frågor/min, 30 sökningar/min per IP. Konfigurerbart via `RATE_LIMIT_ASK` och `RATE_LIMIT_SEARCH` env vars.
+- **API-nyckel:** `GOOGLE_API_KEY` i Railway env vars (Gemini, för embeddings + LLM).
+- **SECRET_KEY:** Flask session-nyckel, default hårdkodad — bör sättas som env var i produktion.
+- **Railway env vars som MÅSTE finnas:** `GOOGLE_API_KEY`, `ACCESS_CODE`.
+- **OBS:** Env vars måste finnas som Service Variables på rätt service i Railway (inte projekt- eller environment-nivå). Verifiera med loggraden `[ENV] ACCESS_CODE is: SET` vid deploy.
+
 ## Sessionschecklista
 
 1. Läs `CLAUDE.md` (denna fil)
