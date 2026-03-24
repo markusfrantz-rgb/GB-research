@@ -24,6 +24,22 @@ Denna kunskapsbas är byggd för att ge kliniker tillgång till all tillgänglig
 
 ---
 
+## Nyckeldokument — direkt åtkomst
+
+| Dokument | Beskrivning |
+|----------|-------------|
+| [Beslutsalgoritm: GBS + IgA-brist](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) | Steg-för-steg klinisk beslutsalgoritm, IgA-säkra terapier, behandlingsdilemmat |
+| [PE-refraktär GBS — behandlingsalternativ](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | Vad göra när plasmaferes inte fungerar. Efgartigimod, imlifidase, svenska kontakter |
+| [Recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md) | R-GBS vs A-CIDP differentiering, EGRIS-scoring, trakeostomi, koagulopati |
+| [IgA-brist, SCIG-tolerans och IVIg-säkerhet](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | Gamanorm-tolerans → IVIg-implikationer, snabbtest anti-IgA, svenska produkter |
+| [Svår GBS — intensivvård](/doc/01-GBS/Severe_GBS_ICU_Management.md) | Ventilator, autonom dysfunktion, smärta, prognos, rehabilitering |
+| [GBS fullständig översikt](/doc/01-GBS/GBS_Comprehensive_Review.md) | Alla subtyper, patofysiologi, diagnostik, standardbehandling, prognos |
+| [Selektiv IgA-brist — översikt](/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md) | Genetik, CVID-spektrum, anti-IgA-antikroppar, autoimmuna associationer |
+| [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart fas 3, imlifidase fas 2, efgartigimod, biomarkörer |
+| [Autoimmuna tillstånd kopplade till GBS och IgA-brist](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | 6 överlappande sjukdomar, HLA-associationer, molekylär mimikry |
+
+---
+
 ## Vad databasen innehåller
 
 Kunskapsbasen består av systematiskt sammanställd forskning från peer-reviewed källor (Cochrane-reviews, RCT:er, fas 2/3-studier, EAN/PNS-guidelines, fallrapporter) organiserad i nio dokument:
@@ -83,7 +99,7 @@ Alla tre är monoklonala antikroppar eller enzymer — inte poolat humant immung
 
 ### 4. Patienten som inte svarar på plasmaferes — vad göra?
 
-Databasen innehåller en steg-för-steg beslutsalgoritm, men i korthet:
+Databasen innehåller en [fullständig steg-för-steg beslutsalgoritm](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) — men i korthet:
 
 1. **Uteslut akut-debuterande CIDP** (>3 fluktuationer eller progression >8 veckor)
 2. **Överväg IgA-depleterat IVIg** (GAMMAGARD LIQUID ERC, ≤2 µg/mL) om ej prövat — med premedicinering och anafylaxiberedskap
@@ -93,9 +109,13 @@ Databasen innehåller en steg-för-steg beslutsalgoritm, men i korthet:
 6. **Rituximab** — specifikt vid panneurofascin-antikroppspositiv GBS (identifiera med biomarkör)
 7. **Intensiv understödjande vård** — ventilatorstrategi, autonom dysfunktion, rehabilitering
 
+**&#8594; [Läs hela beslutsalgoritmen](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md)**
+
 ### 5. Recidiverande GBS — sällsynt men dokumenterat
 
 Recidiv förekommer hos 2–5 % av GBS-patienter. Intervallet mellan episoder varierar från 2 månader till 37 år (medelvärde ~7 år, Kuitwaard populationsbaserad studie). Kritisk differentialdiagnostik: **akut-debuterande CIDP (A-CIDP)** kräver helt annan behandlingsstrategi (underhållsimmunterapi). Ruts 2010-kriterierna skiljer på 8-veckorsregeln och antal fluktuationer (≥3 = misstänk CIDP). CSF IL-8 vid cut-off 70 pg/mL har 96,7 % specificitet för att skilja GBS från CIDP. Anti-NF155 IgG4-antikroppar är specifika för CIDP och bör testas.
+
+**&#8594; [Fullständig genomgång: recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md)**
 
 ### 6. PE-refraktär GBS — det finns alternativ nu
 
@@ -108,6 +128,8 @@ När plasmaferes inte ger förväntat svar finns det evidensbaserade vägar fram
 **IVIg efter PE** — 2023 EAN/PNS-riktlinjen avråder från planerad sekventiell PE+IVIg, men förbjuder inte uttryckligen byte av modalitet vid terapisvikt. Om patienten har tolererat Gamanorm (SCIG, IgA ≤82,5 µg/mL) talar det för att hon sannolikt tolererar IVIg — särskilt **Privigen** (IgA ≤25 µg/mL), som har lägre IgA-innehåll än Gamanorm och är rutinmässigt tillgängligt på svenska sjukhus.
 
 **Immunoadsorption** — selektivt avlägsnar immunglobuliner utan att deplettera koagulationsfaktorer. Adresserar direkt koagulationsproblemet som kan uppstå vid PE.
+
+**&#8594; [Fullständig genomgång: alla alternativ vid PE-svikt med svenska kontakter](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)**
 
 ### 7. Antikroppstester att överväga
 
@@ -130,6 +152,8 @@ Databasen innehåller en komplett panel av antikroppstester med svenska testlabo
 - Återhämtning fortsätter i upp till 1–2 år efter insjuknande
 - Mortaliteten vid ventilatorsberoende GBS i modern intensivvård: 10–15 %
 - GBS förblir en potentiellt reversibel sjukdom även i sina svåraste former
+
+**&#8594; [Fullständig genomgång: intensivvård, prognos och rehabilitering vid svår GBS](/doc/01-GBS/Severe_GBS_ICU_Management.md)**
 
 ### 9. Det som saknas — och varför det spelar roll
 
