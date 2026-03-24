@@ -24,6 +24,7 @@ _intro_path = _project_root / "KUNSKAPSBASEN.md"
 
 # --- Access control ---
 ACCESS_CODE = os.environ.get("ACCESS_CODE", "")  # Set in Railway to require a code
+print(f"[AUTH] ACCESS_CODE is {'SET (' + str(len(ACCESS_CODE)) + ' chars)' if ACCESS_CODE else 'NOT SET - site is open'}")
 
 # --- Rate limiting ---
 RATE_LIMIT_SEARCH = int(os.environ.get("RATE_LIMIT_SEARCH", "30"))   # per minute
