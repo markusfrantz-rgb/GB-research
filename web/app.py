@@ -91,6 +91,33 @@ def api_ask():
         return jsonify({"error": str(e)}), 500
 
 
+_project_root = Path(__file__).resolve().parent.parent
+
+
+@app.route("/doc/<path:filepath>")
+def view_doc(filepath):
+    """Render a markdown research document as HTML."""
+    doc_path = _project_root / filepath
+    if not doc_path.exists() or not str(doc_path).endswith(".md"):
+        return "Document not found", 404
+    # Security: ensure path stays within project
+    try:
+        doc_path.resolve().relative_to(_project_root.resolve())
+    except ValueError:
+        return "Access denied", 403
+
+    text = doc_path.read_text(encoding="utf-8")
+    # Strip YAML frontmatter
+    if text.startswith("---"):
+        parts = text.split("---", 2)
+        if len(parts) >= 3:
+            text = parts[2].strip()
+
+    doc_html = markdown.markdown(text, extensions=["tables", "fenced_code"])
+    title = filepath.split("/")[-1].replace(".md", "").replace("_", " ")
+    return render_template("document.html", title=title, content=doc_html, filepath=filepath)
+
+
 import os
 
 if __name__ == "__main__":

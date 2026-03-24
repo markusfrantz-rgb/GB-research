@@ -304,6 +304,27 @@ body {
   margin-bottom: 0.5rem;
   font-family: 'SF Mono', 'Fira Code', monospace;
 }
+.result-file a {
+  color: var(--accent-light);
+  text-decoration: none;
+}
+.result-file a:hover {
+  text-decoration: underline;
+}
+.sources-list a {
+  color: var(--accent-light);
+  text-decoration: none;
+}
+.sources-list a:hover {
+  text-decoration: underline;
+}
+.doc-view a {
+  color: var(--accent-light);
+  text-decoration: underline;
+}
+.doc-view a:hover {
+  color: var(--accent);
+}
 .result-preview {
   font-size: 0.88rem;
   line-height: 1.5;

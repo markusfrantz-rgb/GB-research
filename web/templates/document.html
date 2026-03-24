@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} — GBS &amp; IgA-brist Kunskapsdatabas</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="topbar">
+  <h1><a href="/" style="color:white; text-decoration:none;">GBS &amp; IgA-brist &mdash; Kunskapsdatabas</a></h1>
+  <nav>
+    <div class="nav-main">
+      <a href="/" class="nav-primary" style="text-decoration:none;">Tillbaka</a>
+    </div>
+    <span class="nav-secondary" style="border:none; cursor:default; font-size:0.75rem;">{{ filepath }}</span>
+  </nav>
+</div>
+
+<div class="intro-container">
+  <div class="intro-content doc-view">
+    {{ content | safe }}
+  </div>
+</div>
+
+<footer class="disclaimer">
+  <div class="disclaimer-inner">
+    <p><strong>Medicinsk disclaimer</strong></p>
+    <p>
+      Denna kunskapsdatabas är ett forskningsverktyg och ersätter inte klinisk bedömning.
+      Innehållet baseras på publicerad peer-reviewed forskning och är avsett som beslutsstöd
+      för legitimerad sjukvårdspersonal.
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

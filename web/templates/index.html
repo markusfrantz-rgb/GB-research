@@ -207,7 +207,7 @@ async function doSearch() {
           <span class="result-path">${escHtml(r.heading_path)}</span>
           <span class="result-score">${(r.score * 100).toFixed(0)}% relevans</span>
         </div>
-        <div class="result-file">${escHtml(r.source_file)}</div>
+        <div class="result-file"><a href="/doc/${encodeURI(r.source_file)}" target="_blank" onclick="event.stopPropagation()">${escHtml(r.source_file)}</a></div>
         <div class="result-preview" id="rp-${i}">${escHtml(r.text.substring(0, 250)).replace(/\n/g, ' ')}${r.text.length > 250 ? '...' : ''}</div>
         <div class="result-full" id="rf-${i}" style="display:none">${renderMarkdownText(r.text)}</div>
       </div>
@@ -287,7 +287,7 @@ async function doAsk(overrideLang) {
           <h4>Källor som användes:</h4>
           <ol>
             ${data.sources.map(s =>
-              `<li><strong>${escHtml(s.heading_path)}</strong><br><code>${escHtml(s.source_file)}</code> <span class="source-score">${(s.score * 100).toFixed(0)}% relevans</span></li>`
+              `<li><strong>${escHtml(s.heading_path)}</strong><br><a href="/doc/${encodeURI(s.source_file)}" target="_blank"><code>${escHtml(s.source_file)}</code></a> <span class="source-score">${(s.score * 100).toFixed(0)}% relevans</span></li>`
             ).join('')}
           </ol>
         </div>
