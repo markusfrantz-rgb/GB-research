@@ -31,8 +31,9 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | Auth | Live | ACCESS_CODE via env var |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
 | Railway deploy | Live | Auto-deploy vid git push |
-| Domän | Live | `gb-research-production.up.railway.app` |
-| Egen domän | Ej konfigurerad | Väntar på domänval |
+| Domän (Railway) | Live | `gb-research-production.up.railway.app` |
+| Domän (custom) | Live (DNS propagerar) | `gbs.ragbase.org` — CNAME → `kwv21e29.up.railway.app` |
+| Paraplydomän | Registrerad | `ragbase.org` (Namecheap, Auto-Renew, exp 2027-03-24) |
 | Åtkomstkod | Live | `ACCESS_CODE` env var, session-baserad (giltig tills browser stängs) |
 
 ## Klinisk kontext
@@ -57,7 +58,7 @@ Markus fru Madeleine:
 - [ ] CIDP-differentiering: fördjupa diagnostiska biomarkörer
 
 ### Teknik
-- [ ] Egen domän (subdomän under paraplydomän)
+- [x] Egen domän — `gbs.ragbase.org` (DNS propagerar, bör vara klart 2026-03-25 morgon)
 - [ ] Sökresultat: förbättra rendering av tabeller i expanderade chunks
 - [ ] Lösenordsskydd per användare (om fler behöver individuell access)
 - [ ] Exportfunktion: generera PDF av Q&A-svar med källor
@@ -76,3 +77,5 @@ Markus fru Madeleine:
 | 2026-03-24 | Deploy till Railway, auth, rate limiting, klickbara källor |
 | 2026-03-24 | Snabblänkar till nyckeldokument, CLAUDE.md + PROJECT_STATUS.md dokumentation |
 | 2026-03-25 | Auth verifierad och fungerande. Env var-felsökning dokumenterad. |
+| 2026-03-25 | Custom domain `gbs.ragbase.org` konfigurerad (Namecheap DNS + Railway). Paraplydomän `ragbase.org` registrerad. |
+| 2026-03-25 | Nyckeldokument-länktabell och deep-links från introsidan. Dokumentation färdigställd (CLAUDE.md, PROJECT_STATUS.md). |

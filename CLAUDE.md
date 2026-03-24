@@ -6,8 +6,9 @@
 
 En RAG-driven medicinsk kunskapsdatabas om Guillain-Barré syndrom (GBS) i kombination med selektiv IgA-brist. Databasen är byggd för neurologer och intensivvårdsläkare som beslutsunderlag.
 
-**Live:** https://gb-research-production.up.railway.app
+**Live:** https://gbs.ragbase.org (custom domain) | https://gb-research-production.up.railway.app (Railway default)
 **Åtkomstkod:** Satt som `ACCESS_CODE` i Railway env vars.
+**Paraplydomän:** `ragbase.org` (Namecheap) — framtida databaser läggs som subdomäner (t.ex. `brew.ragbase.org`)
 
 ## Varför finns det?
 
