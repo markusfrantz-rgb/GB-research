@@ -56,7 +56,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Ålder** | 52 år |
 | **Diagnoser** | Recidiverande GBS (1:a episod vid 16, ~37 år sedan), selektiv IgA-brist, Hashimotos tyreoidit, obstruktiv sömnapné, ospecificerad födoämnesallergi, pollenallergi |
 | **Autoimmunt kluster** | GBS + IgA-brist + Hashimotos — MAS typ 3 (HLA-B8/DR3/DQ2) |
-| **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **inga uppföljningsprover**), luftrörsvidgande inhalator + nässpray, antihistamin |
+| **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
 ### Aktuellt förlopp (2026-03-21 → 2026-03-25)
@@ -88,13 +88,13 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 | Anti-IgA-antikroppar (IgE + IgG) | **Ej skickade** | IVIg-säkerhet |
 | Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering |
 | Serum-NfL | **Ej taget** | Prognos, axonal skada, behandlingssvar under sedering |
-| TSH, fT4, fT3 | **Ej kontrollerade sedan inläggning** | Sköldkörtelstatus okänd pga dosjustering utan uppföljning |
+| TSH, fT4, fT3 | **Ej kontrollerade sedan inläggning** | Sköldkörtelstatus okänd — insjuknande före planerad uppföljning efter dosjustering |
 | CSF IL-8 | **Ej taget** | GBS vs CIDP (96,7% specificitet) |
 
 ### Hypoteser att utreda
 
 1. **SCIG-utsättning som bidragande faktor**: Stabil under ~3 år på Gamanorm, recidiv ~2 år efter utsättning. Mönstret påminner om CIDP-dependency. Oavsett om R-GBS eller A-CIDP bör SCIG återinsättas efter akutfasen.
-2. **Levotyroxin-dosjustering som trigger**: Dos ändrad 2-3 v före insjuknande, inga uppföljningsprover. TSH-instabilitet kan driva Th1/Th17-polarisering via DC-aktivering. Tidslinjen matchar GBS-triggerlatens (1-4 veckor).
+2. **Levotyroxin-dosjustering som trigger**: Dos ändrad 2-3 v före insjuknande, TSH/fT4 ej kontrollerade (insjuknande före planerad uppföljning). TSH-instabilitet kan driva Th1/Th17-polarisering via DC-aktivering. Tidslinjen matchar GBS-triggerlatens (1-4 veckor).
 3. **R-GBS vs A-CIDP**: 37-årsintervall talar starkt för R-GBS (Kuitwaard 2009). Men SCIG-utsättningens roll och behandlingsrespons kan tala för A-CIDP. Diagnostik behövs (NCS, CSF IL-8, anti-NF155).
 
 ## Möjliga nästa steg

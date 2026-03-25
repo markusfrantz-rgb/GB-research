@@ -136,7 +136,7 @@ GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med
 - Har TSH/fT4/fT3 kontrollerats sedan inlaggning? (Baslinjevarden behovs for att tolka forandringar under kritisk sjukdom)
 - Ges dosen minst 1 timme separerat fran sondfodning? (Absorption hammas av enteral nutrition)
 - Behovs dosjustering? Kritiskt sjuka kan behova 54% hogre doser i genomsnitt. Dessutom avlagsnar PE levotyroxin fran cirkulationen — extra dos kan behovas efter PE-sessioner.
-**Klinisk relevans:** TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (Wang 2022, 88.9% sensitivitet). Dosjustering utan uppfoljningsprov innebar att TSH-nivan vid insjuknandet ar okand — suboptimal tyreoideastatus kan ha bidragit.
+**Klinisk relevans:** TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (Wang 2022, 88.9% sensitivitet). TSH/fT4 ej kontrollerade efter dosjustering (insjuknande fore planerad uppfoljning), innebar att TSH-nivan vid insjuknandet ar okand — suboptimal tyreoideastatus kan ha bidragit.
 
 **16. TSH/fT4/fT3**
 Har tyreoideastatus kontrollerats? Kritisk sjukdom ger ofta "sick euthyroid syndrome" (lagt T3, normalt/lagt TSH) som ar svartolkad — men baslinjevarden behovs. T3 ar essentiellt for Schwann-cellsproliferation och myelinisering vid nervaterhamtning (Lopez-Espindola et al., 2019).

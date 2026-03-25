@@ -24,7 +24,7 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv sömnapné |
 | | Ospecificerad födoämnesallergi, pollenallergi |
-| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) — dosjustering ca 2–3 v före insjuknande, **inga uppföljningsprover togs** |
+| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) — dosjustering ca 2–3 v före insjuknande, **TSH/fT4 ej kontrollerade (insjuknande före planerad uppföljning)** |
 | | Luftrörsvidgande inhalator + nässpray (dagligen) |
 | | Antihistamin året runt (dubbel dos jan/feb, pollen) |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2–3 års behandling |
