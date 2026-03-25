@@ -77,10 +77,81 @@ GB-research/
 
 1. Läs `CLAUDE.md` (denna fil)
 2. Läs `PROJECT_STATUS.md` för aktuellt läge
-3. Kolla om det finns nya instruktioner eller prioriteringar
-4. Om forskning ska utökas: lägg till md-filer i rätt mapp, kör `python -m rag ingest --reindex -v`
-5. Om kod ändras: `git push` triggar automatisk Railway-deploy
-6. Uppdatera `PROJECT_STATUS.md` efter avslutat arbete
+3. Läs sprint-minnet (i Claude memory) för nästa sessions prioriteringar
+4. **Fråga Markus om klinisk uppdatering** — det styr allt annat
+5. Utför arbete (se arbetsflöde nedan)
+6. Uppdatera `PROJECT_STATUS.md` + sprint-minne efter avslutat arbete
+
+## Arbetsflöde — så här arbetar vi
+
+Varje session följer samma mönster. **Allt ska vara i ordning när sessionen avslutas.**
+
+### Steg 1: Klinisk uppdatering
+Fråga Markus vad som hänt. Uppdatera:
+- `PROJECT_STATUS.md` → klinisk tidslinje
+- `KUNSKAPSBASEN.md` → aktuellt förlopp
+- `Case_Madeleine_Fragor_och_Fynd.md` → status + nya frågor
+
+### Steg 2: Nya artiklar
+Om Markus har nya PDF:er (Downloads, sjukhusbibliotek, läkarvänner):
+1. Identifiera artikeln (pdftotext, kolla titel/författare/PMID)
+2. Kopiera till `sources/fulltext/` med namnkonvention: `Författare_År_Ämne_PMCID.pdf`
+3. Extrahera fulltext via NCBI API om möjligt (`.txt`-fil)
+4. Uppdatera `Tillgang_till_medicinska_kallor.md` med ny artikel + status
+5. Integrera relevant data i forskningsdokumenten (01-07-mapparna)
+
+### Steg 3: Uppdatera forskningsdokument
+Om klinisk utveckling kräver det (ny behandling, nytt provsvar, ny komplikation):
+1. Skapa nytt dokument i rätt mapp, ELLER uppdatera befintligt
+2. Följ formatkonventioner: YAML-frontmatter, H1-titel, H2-sektioner med TOC
+3. Evidensgradering `*[Level X]*` vid varje åtgärdbar rekommendation
+4. PMID vid varje nyckelreferens
+5. Korsreferera till relaterade dokument
+
+### Steg 4: Reindexera RAG
+```bash
+source .venv/bin/activate
+python -m rag ingest --reindex -v
+```
+Verifiera: rätt antal dokument, nya chunks inkluderade.
+
+### Steg 5: Synkronisera "Om databasen"
+`KUNSKAPSBASEN.md` är landningssidan — den MÅSTE spegla verkligheten:
+- Rätt antal dokument och referenser
+- Alla dokument listade med korrekta länkar (`/doc/XX-mapp/filnamn.md`)
+- Aktuell klinisk status
+- Artikelöversikten länkad (`/doc/Tillgang_till_medicinska_kallor.md`)
+
+### Steg 6: Commit + Deploy
+```bash
+git add [specifika filer]
+git commit -m "Beskrivande meddelande"
+git push  # Triggar Railway auto-deploy
+```
+
+### Steg 7: Dokumentera för nästa session
+- Uppdatera `PROJECT_STATUS.md` med ändringslogg
+- Uppdatera sprint-minne i Claude memory med:
+  - Madeleines senaste status
+  - Vad som gjorts
+  - Vad som bör göras härnäst
+  - Öppna kliniska frågor
+
+### Formatkonventioner (forskningsdokument)
+
+```yaml
+---
+doc_type: research
+date: 2026-03-25
+status: active
+---
+```
+- **Titlar:** H1 (`#`), sektioner H2 (`##`) med numrerad TOC, undersektioner H3+
+- **Evidens:** `*[Level 1 — Cochrane/RCT]*` till `*[Level 5 — expertutlåtande]*` inline
+- **Citeringar:** `> **Citation:** Författare. Titel. *Journal*. År. PMID: XXXXX`
+- **Tabeller:** Markdown pipe-tabeller med klinisk data
+- **Beslutalgoritmer:** Code blocks med if/then-logik
+- **Språk:** Engelska i forskningsdokument, svenska i kliniska dokument och UI
 
 ## Viktiga kommandon
 
