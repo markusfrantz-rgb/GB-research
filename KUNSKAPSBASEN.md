@@ -77,12 +77,13 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 | Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige (mars 2026) |
 |------------|---------|------------|-------------------------------------|
-| **Efgartigimod (Vyvgart)** | *[Level 4]* Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 *[Level 3]* (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
-| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane systematic review för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
+| **Efgartigimod (Vyvgart)** | *[Level 4]* Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025, Chen 2025). Retrospektiv analys n=17 *[Level 3]* (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
+| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane systematic review för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). **OBS:** Anti-IgA-antikroppars roll kontroversiell (Rachid 2012) — testa före behandling. | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
 | **Imlifidase** | *[Level 2]* Fas 2 (2024, n=30): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
 | **Tanruprubart (ANX005)** | *[Level 1]* Fas 3 RCT positiv (n=242): OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens — men enbart som monoterapi. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
 
 → [Fullständig genomgång: alla alternativ vid PE-svikt](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)
+
 → [Sekventiell terapi — timing och interaktioner](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md)
 
 ### Timing vid sekventiell terapi
