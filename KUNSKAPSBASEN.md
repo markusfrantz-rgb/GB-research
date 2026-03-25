@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~450 peer-reviewed referenser | 15 forskningsdokument | Semantisk sökning | Evidensgradering (Level 1-5)
+~480 peer-reviewed referenser | 16 forskningsdokument | 22 fulltexter verifierade | Evidensgradering (Level 1-5)
 
 ---
 
@@ -168,6 +168,17 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [Selektiv IgA-brist — översikt](/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md) | Genetik, CVID-spektrum, autoimmuna associationer |
 | [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart fas 3, imlifidase fas 2, efgartigimod |
 | [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA-associationer, molekylär mimikry |
+| [PE-svikt: definition och beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | PE-svikt efter 5 sessioner, biomarkörer under sedering, NfL-monitorering |
+| [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitet 6% vs 2%** |
+| [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | **NYTT:** FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
+
+---
+
+## Källbibliotek — verifierade fulltexter
+
+22 av 30 kartlagda nyckelartiklar finns i fulltext. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+
+> [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
 ---
 
@@ -188,4 +199,4 @@ Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom 
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~400 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars 2026. Baserad på ~480 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
