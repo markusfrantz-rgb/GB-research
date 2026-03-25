@@ -138,10 +138,6 @@ body {
   border-collapse: collapse;
   margin: 1rem 0;
   font-size: 0.9rem;
-  table-layout: fixed;
-}
-.doc-view table {
-  table-layout: auto;
 }
 .intro-content table td,
 .intro-content table th {
