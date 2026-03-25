@@ -43,6 +43,8 @@ status: active
 
 **Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 
+→ [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
+
 ---
 
 ## Om denna databas

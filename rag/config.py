@@ -29,6 +29,7 @@ class Config:
         "03-GBS-and-IgA-deficiency",
         "04-related-autoimmune",
         "05-treatment-resistance",
+        "06-monitoring-prognosis",
     )
 
     # Directories to exclude
