@@ -755,6 +755,72 @@ A nationwide observational study found:
 
 ---
 
+## 7. SCIG Discontinuation and GBS Recurrence — Diagnostic and Therapeutic Implications
+
+### 7.1 Immunoglobulin as Immunomodulator (Beyond Infection Prevention)
+
+Even at replacement doses (400–600 mg/kg/month), immunoglobulin exerts immunomodulatory effects:
+- **FcRn saturation**: Supraphysiological IgG reduces autoantibody half-life by ~40% (Dalakas, *Neurotherapeutics* 2021)
+- **Complement inhibition**: Prevents C3/C4 deposition and MAC formation
+- **Fc-γ-RIIb upregulation**: Enhanced inhibitory receptor expression blocks ADCC
+- **Cytokine suppression**: Dose-dependent downregulation of TNF-α, IL-1β, MMP-2/9
+- **Gene expression**: IVIg alters >2,200 genes in responsive autoimmune conditions
+
+SCIG at replacement doses (e.g., Gamanorm ~100 mg/kg/week) provides continuous low-level immunomodulation — a constant anti-inflammatory baseline, mechanistically distinct from simple infection prophylaxis.
+
+### 7.2 CIDP Parallel: Maintenance Immunoglobulin Prevents Relapses
+
+| Study | Finding |
+|-------|---------|
+| **PATH trial** (van Schaik, *Lancet Neurol* 2018) | SCIG 0.4 g/kg: 77.6% relapse-free vs 41.2% placebo. NNT = 2.7 |
+| **ICE trial** (Hughes, *Lancet Neurol* 2008) | IVIg maintenance: significantly fewer CIDP relapses over 48 weeks |
+| **Adrichem** (*Brain* 2022) | After IVIg withdrawal in stable CIDP: 59% relapsed (majority within 12 weeks). Only 28% stable at 76 weeks |
+
+**For R-GBS**: No RCTs exist (2–5% recurrence rate makes trials impractical). The CIDP parallel is the strongest available evidence by analogy.
+
+### 7.3 Immune Rebound After SCIG/IVIg Discontinuation
+
+Direct evidence of autoimmune rebound after SCIG discontinuation is limited:
+
+- **Stiff Person Syndrome**: In crossover trial, all patients rebounded during placebo phase (Dalakas, *Neurology* 2001)
+- **CIDP withdrawal**: Mean time to nadir 3.5 months (abrupt) to 8.8 months (gradual). 94% restabilized within 12 weeks of restarting (Adrichem 2022)
+- **Estimated 60%** of patients on chronic IVIg who stop experience objective neurological deterioration (Dalakas 2021)
+
+**For this patient**: The ~2-year interval between SCIG discontinuation (~2023) and GBS recurrence (March 2026) is longer than typical 3–6 month CIDP rebound window. This makes direct "rebound" less likely, but does not exclude loss of chronic protective immunomodulation that was suppressing a latent autoimmune predisposition.
+
+### 7.4 SCIG Discontinuation and the R-GBS vs A-CIDP Differential
+
+**Factors favoring R-GBS:**
+- 37-year interval (first episode at 16, recurrence at 53). Kuitwaard et al. (*JNNP* 2009) documented R-GBS intervals up to 37 years.
+- A-CIDP by definition evolves into chronicity within weeks to months, not decades later (Ruts, *Neurology* 2010)
+- R-GBS patients characteristically achieve complete recovery between episodes
+
+**Factors that could favor A-CIDP:**
+- Treatment dependency pattern: stable on SCIG, relapsed after withdrawal — exactly the pattern in CIDP dependency testing
+- If current episode shows progression >8 weeks or ≥3 fluctuations → reclassify as A-CIDP
+- Inan et al. (*Acta Neurol Belg* 2024) noted that recent evidence challenges whether R-GBS exists as truly distinct from CIDP variants
+
+**The SCIG discontinuation adds a new dimension:**
+This patient appears to have been "SCIG-dependent" in retrospect — clinically stable during ~2–3 years of treatment, relapse ~2 years after cessation. This is the pattern of immunoglobulin dependency.
+
+### 7.5 Diagnostic Workup to Resolve
+
+| Test | Purpose | Interpretation |
+|------|---------|----------------|
+| CSF IL-8 | GBS vs CIDP | <70 pg/mL: 96.7% specificity for CIDP |
+| Anti-NF155 IgG4 | Autoimmune nodopathy/A-CIDP | Positive → strongly favors CIDP |
+| Serial NCS | Electrophysiological pattern | Temporal dispersion, conduction block in non-entrapment → CIDP |
+| Clinical course >8 weeks | Ruts criteria | Progression beyond 8 weeks → reclassify as A-CIDP |
+
+### 7.6 Recommendation: Restart SCIG Regardless of Classification
+
+After the acute phase resolves, SCIG reinstatement is supported by dual indication:
+- **If R-GBS**: Prophylaxis by analogy to CIDP evidence + original IgA-deficiency indication
+- **If A-CIDP**: Maintenance immunoglobulin is standard of care
+- **IgA safety**: Patient previously tolerated Gamanorm; SCIG is inherently safer than IVIg for IgA-deficient patients (slow absorption, no serum IgA spike)
+
+---
+
 ## References (Complete List)
 
 1. Ali MI, Fernandez-Perez ER, Engstrom J, et al. Outcome of Guillain-Barre syndrome patients with respiratory paralysis. *Ann Indian Acad Neurol*. 2014;17(1):98-102. doi:10.4103/0972-2327.128569
