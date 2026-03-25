@@ -146,14 +146,4 @@
 
 ---
 
-## Andra resurser
-
-| Resurs | Vad det ger | Tillgång |
-|--------|-------------|----------|
-| **UpToDate** | Behandlingsalgoritmer, doseringsprotokoll, korsreferenser | Sjukhusbibliotek / ~500 USD/år |
-| **FASS.se** | IgA-innehåll per produkt, svenska indikationer, interaktioner | Gratis (grundversion) |
-| **Sjukhusbiblioteket** | Fulltext av betalväggsartiklar (alla 7 nu hämtade) | Ring, ange PMID, PDF via e-post |
-
----
-
-*30 nyckelartiklar. 29 i fulltext (19 PDF + 10 text). 0 saknas. 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-03-25.*
+*30 nyckelartiklar. 29 i fulltext (19 PDF + 10 text). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-03-25.*
