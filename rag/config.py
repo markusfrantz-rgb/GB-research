@@ -30,6 +30,7 @@ class Config:
         "04-related-autoimmune",
         "05-treatment-resistance",
         "06-monitoring-prognosis",
+        "07-acute-icu-protocols",
     )
 
     # Directories to exclude

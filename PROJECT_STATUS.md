@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-25 (eftermiddag)
+> Senast uppdaterad: 2026-03-25 (kväll)
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (13 st, ~330 chunks, ~400 referenser)
+### Forskningsdokument (15 st, ~380 chunks, ~440 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -25,6 +25,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 11 | `05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md` | PE-koagulopati, fibrinogen, DVT-profylax, trakeostomi-timing, blödning/trombos-balans | Komplett |
 | 12 | `05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md` | Sekventiell terapi: PE→IVIg→efgartigimod/imlifidase timing, interaktioner, beslutsstöd | Komplett |
 | 13 | `06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md` | Prognostisk monitorering: biomarkörer, kliniska skalor, elektrofysiologi, behandlingssvar, IVA-protokoll | Komplett |
+| 14 | `05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md` | PE-svikt efter 5 sessioner: definition, tidslinje, beslutsalgoritm, biomarkörsbaserad bedömning vid sedering, NfL-monitorering, klinisk beslutsram | Komplett |
+| 15 | `07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md` | Post-trakeostomivård vid GBS med svår autonom dysfunktion: sugningsprotokoll, atropin/glykopyrrolat, BP-hantering, autonom storm-prevention, monitorering | Komplett |
 
 ### Infrastruktur
 
@@ -111,3 +113,6 @@ Markus fru Madeleine:
 | 2026-03-25 | Nytt dokument: Hashimotos-IgA-brist-GBS autoimmunt kluster (48 referenser). TSH >3.87 som riskfaktor för GBS-recidiv, levotyroxin vid IVA, T3 och nervregeneration. |
 | 2026-03-25 | Utökad klinisk kontext: Madeleines fullständiga profil inkl. Hashimotos, sömnapné, allergier, anisokori, CT-huvud, sederingsgrad. |
 | 2026-03-25 | Totalt nu: 13 forskningsdokument, ~400 referenser. Fas 2 (rehab/livskvalitet) dokumenterad som framtida steg. |
+| 2026-03-25 | Nytt dokument: PE-svikt protokoll efter 5 sessioner (20 referenser). Definition av behandlingssvikt, tidslinje, beslutsalgoritm, biomarkörer under sedering, NfL-monitorering, klinisk ram för Madeleines scenario. |
+| 2026-03-25 | Nytt dokument: Post-trakeostomivård vid GBS med autonom dysfunktion (21 referenser). Sugningsprotokoll med vagolytika, sluten sugning, BP-hantering med kort-verkande medel, autonom storm-prevention, 72h monitoreringsprotokoll. |
+| 2026-03-25 | Ny mapp: `07-acute-icu-protocols/` för akuta IVA-protokoll. Totalt nu: 15 forskningsdokument, ~440 referenser. |

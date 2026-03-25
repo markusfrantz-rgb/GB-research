@@ -96,6 +96,7 @@ Detailed evidence on treatment-resistant GBS and the therapy pipeline.
 | [PE_Refractory_GBS_Treatment_Options.md](../05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | PE-refractory GBS treatment options | Switching modalities, efgartigimod, imlifidase, Swedish access pathways |
 | [PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md](../05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md) | PE-induced coagulopathy and thromboprophylaxis | Coagulation factor depletion, fibrinogen management, DVT prophylaxis, tracheostomy timing, dual-risk anticoagulation |
 | [Sequential_Combined_Therapy_After_PE_Failure.md](../05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md) | Sequential therapy after PE failure | IVIg after PE (timing, SID-GBS applicability), efgartigimod sequencing, imlifidase after PE (coagulopathy advantage), tanruprubart after PE, decision algorithm |
+| [Complete_PE_Failure_Protocol_and_Decision_Algorithm.md](../05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Complete PE failure protocol after 5 sessions | PE failure definition, expected improvement timeline, decision algorithm for IgA-deficient patient, PE interruption impact, biomarker assessment during sedation, NfL monitoring protocol, sedation lightening timeline, clinical decision framework |
 
 **Key topics covered:**
 - SID-GBS trial results (second IVIg course futility)
@@ -141,6 +142,29 @@ Comprehensive guide to monitoring disease status, treatment response, and predic
 
 ---
 
+### 07-acute-icu-protocols/ -- Acute ICU Protocols for GBS
+Detailed, actionable protocols for acute care situations in severe GBS.
+
+| Document | Description | Sections |
+|----------|-------------|----------|
+| [Post_Tracheostomy_Care_GBS_Dysautonomia.md](../07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Post-tracheostomy care in GBS with severe autonomic dysfunction | Suctioning Risks and Protocols (closed vs open, prophylactic atropine/glycopyrrolate dosing, suctioning checklist), BP Management (short-acting agents, nicardipine/clevidipine dosing, avoid beta-blockers), Autonomic Storm Prevention (known triggers, environmental modifications, sedation depth, dexmedetomidine), Post-Tracheostomy Monitoring (continuous parameters, alert thresholds, lab schedule), First 72 Hours Protocol (hour-by-hour care), Emergency Response (asystole, hypertensive crisis, autonomic storm) |
+
+**Key topics covered:**
+- Suctioning is the single most dangerous routine procedure in dysautonomic GBS
+- Closed suction systems MANDATORY (less hemodynamic instability, maintained PEEP)
+- Prophylactic vagolytic agents before suctioning: glycopyrrolate 0.2 mg IV (preferred) or atropine 0.5 mg IV
+- Nebulized atropine 0.05 mg/kg as longer-acting alternative (2-4 hour coverage)
+- Glycopyrrolate advantages: longer duration, no CNS effects, 5x more anti-sialagogue potency
+- BP management: ONLY short-acting agents (clevidipine, nicardipine); AVOID beta-blockers, clonidine
+- Norepinephrine preferred vasopressor; phenylephrine for isolated hypotension
+- Dexmedetomidine is ideal sedative for GBS dysautonomia (reduces sympathetic outflow, allows assessment)
+- Transcutaneous pacing pads should be applied prophylactically
+- Specific alert thresholds: HR <40 (immediate), SBP <70 or >220 (immediate), temp >38.5 (urgent)
+- Complete hour-by-hour protocol for first 12 hours post-tracheostomy
+- Emergency protocols for suctioning-induced asystole, hypertensive crisis, and autonomic storm
+
+---
+
 ## Quick Reference: Key Clinical Findings
 
 ### Most Important Treatment Facts
@@ -172,7 +196,9 @@ Comprehensive guide to monitoring disease status, treatment response, and predic
 | PE Coagulopathy & Thromboprophylaxis | 38 | Prospective studies, guidelines, systematic reviews |
 | Hashimoto-IgAD-GBS Cluster | 48 | GWAS, meta-analyses, case reports, guidelines, preclinical studies |
 | GBS Prognostic Monitoring | 27 | IGOS cohort, RCTs, Phase 3 trials, meta-analyses, guidelines |
-| **Total unique references** | **~325+** | |
+| Complete PE Failure Protocol | 20 | Guidelines, Cochrane reviews, case reports, prospective studies |
+| Post-Tracheostomy GBS Dysautonomia | 21 | Guidelines, systematic reviews, RCTs, case reports |
+| **Total unique references** | **~365+** | |
 
 ---
 
