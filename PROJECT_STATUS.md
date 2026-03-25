@@ -39,8 +39,9 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 7 indexerade mappar |
-| Webb (Flask) | Live | Sök, fråga, dokument-vy, case-baserad landningssida |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 7 mappar + 29 fulltexter, 609 chunks |
+| Fulltext-källor | Live | 29 originalartiklar (PDF+text) sökbara i RAG + nedladdningsbara via /source/ |
+| Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
 | Railway deploy | Live | Auto-deploy vid git push |
@@ -183,3 +184,9 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-25 | Rachid 2012 integrerad: anti-IgA-antikroppars kontroversiella roll, ~25% prevalens med känsliga metoder. |
 | 2026-03-25 | KUNSKAPSBASEN.md fullständigt synkroniserad: 29 fulltexter, ~480 ref, alla 16 dokument, alla länkar verifierade. |
 | 2026-03-25 | RAG reindexerad: 16 dokument, 393 chunks. Deploy till gbs.ragbase.org. |
+| 2026-03-26 | UI-förbättringar: TOC-ankarlänkar fixade, tabellkolumnbalans i doc-view, nowrap-scope. |
+| 2026-03-26 | Fulltext-serving: /source/-route för PDF (native) och text (HTML-wrapper). 6 PDF:er textextraherade (PyPDF2). |
+| 2026-03-26 | PMID/PMC-linkifiering: alla referenser klickbara till PubMed + grön [PDF]/[text]-badge vid lokal fulltext. Alla externa/käll-länkar öppnas i ny flik med distinkt stil. |
+| 2026-03-26 | Artikelöversikt: alla 29 filnamn klickbara [PDF]/[text]-länkar. |
+| 2026-03-26 | RAG utökad: 29 fulltext-källor indexerade. 609 chunks totalt. Sökresultat märks "Forskningssammanfattning" vs "Originalartikel". |
+| 2026-03-26 | Deploy till gbs.ragbase.org. |
