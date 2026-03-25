@@ -379,7 +379,60 @@ The genetic architecture of this triple cluster suggests two distinct pathogenic
 
 ---
 
-## 7. Clinical Recommendations Summary
+## 7. Levothyroxine Dose Adjustment as a Potential GBS Trigger
+
+### 7.1 Biological Plausibility
+
+Thyroid hormones are direct immunomodulators. T3 and T4 regulate immune cells via thyroid hormone receptors on neutrophils, NK cells, macrophages, dendritic cells, T cells, and B cells (Montesinos & Pellizas, *Front Endocrinol* 2019; Mooij et al., *Eur J Endocrinol* 2022).
+
+**Mechanisms linking thyroid hormone fluctuation to autoimmune activation:**
+- T3 promotes dendritic cell maturation via TRβ1-dependent Akt/NF-κB signaling, upregulating MHC-II and costimulatory molecules while **downregulating PD-L1 and Treg populations**
+- T3-activated dendritic cells increase IL-12, IL-6, IL-23, IL-1β, and TGFβ1 — driving Th1/Th17 differentiation (the exact effector lineages implicated in GBS)
+- T4 enhances NK cell lytic activity and IFN-γ production
+- GBS patients have lower TSH and higher FT4 than controls; FT4 levels correlate with severity (Li et al., *Int J Neurosci* 2017, 90 GBS vs 104 controls)
+
+### 7.2 Over-Replacement vs Under-Replacement
+
+| Scenario | Immune Effect | GBS Risk |
+|----------|--------------|----------|
+| **Over-replacement** (transient thyrotoxicosis) | Th1/Th17 shift, Treg suppression, DC activation | **Higher** — pro-inflammatory state favoring autoimmune attack |
+| **Under-replacement** (persistent hypothyroidism) | Impaired Treg function, reduced immune surveillance | **Indirect** — immune dysregulation, less direct GBS trigger |
+
+A dose increase creating even subclinical over-replacement could amplify the T3-driven Th1/Th17 cascade and suppress immune tolerance.
+
+### 7.3 Timeline Consistency
+
+The typical GBS trigger latency is **1–4 weeks** after an antecedent event (~70% of GBS cases have identifiable triggers in this window). A levothyroxine dose adjustment **2–3 weeks before onset** falls squarely within this expected range.
+
+**Molecular mimicry pathway:** Thyrocyte and neuronal cell membranes are both rich in gangliosides. Autoantibodies against thyrocytes can cross-react with neuronal gangliosides (Diagne et al., *Pan Afr Med J* 2016; Asano & Kenzaka, *BMC Endocr Disord* 2022).
+
+### 7.4 PE Removes Levothyroxine
+
+Levothyroxine is ~90% protein-bound with a low volume of distribution — highly susceptible to removal by plasmapheresis. Each PE session removes approximately 50% of circulating free thyroid hormones (Gauna et al., *J Pers Med* 2023).
+
+**In a Hashimoto's patient (minimal endogenous production): there is no endogenous rebound after PE-induced depletion.**
+
+**Protocol:**
+- Administer levothyroxine **AFTER** each PE session (not before, to avoid immediate removal)
+- Monitor TSH, fT3, fT4 after each PE cycle
+- Consider supplemental dosing during PE series (Stolk et al., *Neurocrit Care* 2020)
+- Hypothyroidism during PE may impair GBS recovery (T3 required for nerve remyelination)
+
+### 7.5 Clinical Relevance for This Patient
+
+The patient's levothyroxine dose was adjusted 2–3 weeks before GBS onset. **No follow-up thyroid function tests were performed.** Combined with:
+- TSH >3.87 as independent risk factor for GBS recurrence (Wang 2022)
+- 70.1% thyroid autoantibody positivity in GBS (Zhang 2020)
+- Ganglioside cross-reactivity in thyroid autoimmunity
+
+This represents a **biologically plausible contributing trigger** that warrants:
+1. Urgent TSH/fT4/fT3 measurement
+2. Thyroid function monitoring during and after PE
+3. Optimization of levothyroxine dosing for neurological recovery
+
+---
+
+## 8. Clinical Recommendations Summary
 
 ### 7.1 Immediate ICU Management (During Acute GBS)
 
@@ -484,3 +537,10 @@ The genetic architecture of this triple cluster suggests two distinct pathogenic
 
 ### Celiac/IgA Testing
 48. Mayo Clinic Labs. "Serologic testing for celiac disease in patients with IgA deficiency." Insights. 2021.
+
+### Levothyroxine Dose Adjustment and Immune Activation (added 2026-03-25)
+49. Montesinos MM, Pellizas CG. "Thyroid Hormone Action on Innate Immunity." *Front Endocrinol.* 2019;10:350. PMC6558108.
+50. Mooij CF, et al. "The interplay of thyroid hormones and the immune system — where we stand and why we need to know about it." *Eur J Endocrinol.* 2022;186(5):R65-R83. PMC9010816.
+51. Gauna AA, et al. "Therapeutic plasma exchange for treatment of thyrotoxicosis." *J Pers Med.* 2023;13(3):462. PMC10056870.
+52. Stolk RF, et al. "Drug Dosing in Patients Undergoing Therapeutic Plasma Exchange." *Neurocrit Care.* 2020;33:586-598.
+53. Villar L, et al. "Guillain-Barre syndrome developing in patient with Graves' disease." *JAFES.* 2021;36(1):99-103. PMC7784229.
