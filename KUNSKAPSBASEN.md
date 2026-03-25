@@ -24,8 +24,8 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv sömnapné |
 | | Ospecificerad födoämnesallergi, pollenallergi |
-| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) |
-| | Inhalator + nässpray (sömnapné, dagligen) |
+| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) — dosjustering ca 2–3 veckor före insjuknande |
+| | Luftrörsvidgande inhalator + nässpray (dagligen) |
 | | Antihistamin året runt (dubbel dos jan/feb, pollen) |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2–3 års behandling |
 
@@ -39,7 +39,7 @@ status: active
 | 2026-03-21–24 | 3 plasmaferesesessioner utan kliniskt svar |
 | 2026-03-23 | MR hjärna: **normal** |
 | 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
-| 2026-03-25 | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kräver stöd), anisokori (bedöms som autonom genes efter normal CT). |
+| 2026-03-25 | Trakeostomi planerad ~kl 12. PE planeras att återupptas efter trakeostomi (2 sessioner kvar av 5). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
 
 **Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 

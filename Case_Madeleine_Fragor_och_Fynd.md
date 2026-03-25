@@ -23,20 +23,20 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv somnapne |
 | | Ospecificerad fodoamnesallergi, pollenallergi |
-| **Lakemedel (aktuella)** | Levotyroxin (skoldkorteln) |
-| | Inhalator + nasspray (somnapne, dagligen) |
+| **Lakemedel (aktuella)** | Levotyroxin (skoldkorteln) — dosjustering ca 2-3 veckor fore insjuknande |
+| | Luftrorsvidgande inhalator + nasspray (dagligen) |
 | | Antihistamin aret runt (dubbel dos jan/feb, pollen) |
 | **Tidigare lakemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2-3 ars behandling |
 
 ### Aktuellt forlopp
 
-| Datum | Handelse |
-|-------|---------|
-| 2026-03-21 (fre) | Akut insjuknande, IVA/respirator inom timmar |
-| 2026-03-21--24 | 3 plasmaferesesessioner utan kliniskt svar |
-| 2026-03-23 | MR hjarna: **normal** |
-| 2026-03-24 (kv) | CT huvud utford pga anisokori (V pupill > H) + koagulopati — **normal**, inga blodningstecken |
-| 2026-03-25 | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
+| Datum            | Handelse                                                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026-03-21 (fre) | Akut insjuknande, IVA/respirator inom timmar                                                                                                     |
+| 2026-03-21--24   | 3 plasmaferesesessioner utan kliniskt svar                                                                                                       |
+| 2026-03-23       | MR hjarna: **normal**                                                                                                                            |
+| 2026-03-24 (kv)  | CT huvud utford pga anisokori (V pupill > H) + koagulopati — **normal**, inga blodningstecken                                                    |
+| 2026-03-25       | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
 
 ### Nuvarande status (2026-03-25)
 
@@ -73,7 +73,8 @@ Basta biomarkoren for axonal skada. Median 85.5 pg/mL vid GBS (vs 9.1 kontroller
 #### Behandling
 
 **6. Vad ar planen efter 3 PE-sessioner utan svar?**
-Standard ar 5 sessioner. Har alla 5 genomforts, eller avbryts de pga koagulopati?
+~~Standard ar 5 sessioner. Har alla 5 genomforts, eller avbryts de pga koagulopati?~~
+**Svar:** PE ateruptas efter trakeostomi (pausen var for koagulationsaterhamtning infor operation). 2 sessioner kvar av 5. **Uppfoljningsfraga:** Om de sista 2 sessionerna inte ger svar — vad ar nasta steg?
 
 **7. Har man diskuterat nasta behandlingssteg?**
 Tre alternativ med evidensunderlag:
@@ -107,7 +108,8 @@ Studie (Wang et al., Muscle Nerve 2022): TSH >3.87 uIU/mL ar en oberoende riskfa
 Feber forekommer hos ~29% av GBS-patienter med autonom dysfunktion och kan vara autonom genes. Men infektion maste uteslutas: VAP (ventilatorassocierad pneumoni), urinvagsinfektion, kateterrelaterad infektion. Odlingar tagna?
 
 **12. Sederingsdjup**
-Kan sederingen lattas for neurologisk bedomning? Djup sedering forsvarar bade monitorering av behandlingseffekt och bedomning av sjukdomsstatus.
+~~Kan sederingen lattas for neurologisk bedomning?~~
+**Svar:** Sedering ar for patientens bekvamligher. Neurologisk kontroll planeras. Sederingen planeras lattas nar trakeostomi ar pa plats (bekvamligare respiratorlosning). **Uppfoljningsfraga:** Nar trakeostomin ar pa plats och sederingen lattas — vilken neurologisk bedomning planeras (MRC-score, kranialnervsundersokning)?
 
 #### Koagulation
 
@@ -126,7 +128,8 @@ GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med
 #### Skoldkorteln
 
 **15. Far Madeleine sin levotyroxin?**
-Avbrott i levotyroxin hos kand Hashimotos-patient pa IVA riskerar myxedemkoma (25-60% mortalitet). Om enteral vag inte mojlig: IV levotyroxin 50-75% av oral dos. Sondfodning bor hallas 1 timme fore/efter levotyroxindos (absorption hammas).
+**Svar:** Ja, levotyroxin ges. Dos okat (hon justerade dosen ca 2-3 veckor fore insjuknande).
+**Uppfoljningsfraga:** Vilken dos far hon nu? Behovs dosjustering for kritisk sjukdom? (Kritiskt sjuka kan behova 54% hogre doser i genomsnitt.) Dosen justerades nyligen — var TSH i jamvikt vid insjuknande? Ges dosen minst 1 timme separerat fran sondfodning?
 
 **16. TSH/fT4/fT3**
 Har tyreoideastatus kontrollerats? Kritisk sjukdom ger ofta "sick euthyroid syndrome" (lagt T3, normalt/lagt TSH) som ar svartolkad — men baslinjevarden behovs. T3 ar essentiellt for Schwann-cellsproliferation och myelinisering vid nervaterhamtning (Lopez-Espindola et al., 2019).
@@ -141,8 +144,9 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 
 #### Ovrigt
 
-**19. Allergibehandling**
-Fortsatter antihistamin? Kan ha interaktion med sedering. Somnapnen ar relevant for framtida ventilatoravvanjningsplanering.
+**19. Allergibehandling och luftrogsvidgande**
+**Svar:** Allergibehandling ar pa plats. Luftrorsvidgande (bronkdilaterare) insatt pa IVA.
+**Observation:** Somnapnen ar relevant for framtida ventilatoravvanjningsplanering.
 
 ---
 
