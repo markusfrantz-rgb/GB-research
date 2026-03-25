@@ -146,21 +146,6 @@
 
 ---
 
-## Referenskorrigeringar
-
-| I kunskapsdatabasen | Problem | Korrekt |
-|---------------------|---------|---------|
-| "Martin-Aguilar L" eBioMedicine 2024 | Fel författare | **van Tilburg SJ** PMID: 38518653 |
-| "Kohle F" J Neuroinflammation 2020 | Fel författare | **Altmann P** PMID: 32183837 |
-| "Nagaoka A" Neurol Neuroimmunol 2023 | Fel författare | **Thomma RCM** PMID: 37059469 |
-| "Stolk RF" Neurocrit Care 2020 | Fel författare | **Mahmoud SH** PMID: 32445106 |
-| "Li Y" Front Neurol 2020 | Fel författare | **Tu Y** PMID: 33013669 |
-| "Haupt WF" J Neurol 2011 | Ej hittad i PubMed | Felaktiga publikationsdetaljer |
-| "Qiu Q" Neurol Sci 2022 | Ej hittad | Möjligen Kong L (PMID: 35469074) |
-| SID-GBS PMID 33743238 | Fel PMID | Korrekt: **33743237** |
-
----
-
 ## Andra resurser
 
 | Resurs | Vad det ger | Tillgång |
