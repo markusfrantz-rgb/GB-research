@@ -5,3 +5,4 @@ pyyaml>=6.0
 rich>=13.0
 flask>=3.0.0
 markdown>=3.5
+PyPDF2>=3.0

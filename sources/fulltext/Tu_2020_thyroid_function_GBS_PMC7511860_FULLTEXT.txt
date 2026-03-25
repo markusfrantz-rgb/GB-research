@@ -1,0 +1,701 @@
+ORIGINAL RESEARCH
+published: 10 September 2020
+doi: 10.3389/fneur.2020.01018
+Frontiers in Neurology | www.frontiersin.org 1 September 2020 | Volume 11 | Article 1018Editedby:
+Xin-MingShen,
+MayoClinic,UnitedStates
+Reviewedby:
+CristoforoComi,
+UniversityofEasternPiedmont,Italy
+LuisQuerol,
+HospitaldelaSantaCreuiSantPau,
+Spain
+*Correspondence:
+XueyingYu
+yuxueying6@aliyun.com
+†Theseauthorsshareﬁrstauthorship
+Specialtysection:
+Thisarticlewassubmittedto
+NeuromuscularDiseases,
+asectionofthejournal
+FrontiersinNeurology
+Received: 14April2020
+Accepted: 04August2020
+Published: 10September2020
+Citation:
+TuY,GongX,ZengG,ZhuoW,LiZ
+andYuX(2020)DifferencesinThyroid
+FunctionandAutoantibodiesinthe
+DevelopmentofGuillain–Barré
+Syndromevs.ChronicInﬂammatory
+Demyelinating
+Polyradiculoneuropathy.
+Front.Neurol.11:1018.
+doi:10.3389/fneur.2020.01018Differences in Thyroid Function and
+Autoantibodies in the Development
+of Guillain–Barré Syndrome vs.
+Chronic Inﬂammatory Demyelinating
+Polyradiculoneuropathy
+YuTu1†,XuanGong1†,GuanwenZeng1,WenyanZhuo1,ZhaoxiaLi2andXueyingYu2*
+1ZhuhaiPeople’sHospital(ZhuhaiHospitalAfﬁliatedWithJi nanUniversity),Zhuhai,China,2BeijingTiantanHospital,Capital
+MedicalUniversity,Beijing,China
+Background: Both Guillain–Barré syndrome (GBS) and chronic inﬂammator y
+demyelinating polyradiculoneuropathy (CIDP) are neurode generative and inﬂammatory
+demyelination disorders. Sporadic reports showed that the increased levels of thyroid
+function and autoantibodies are associated with GBS, CIDP, or both, but no systematic
+study has been reported. We assessed the differences of thyr oid function and
+autoantibodies between GBS and CIDP in a Chinese cohort.
+Methods: A total of 256 patients were enrolled in this study. 175 clini cally conﬁrmed
+GBS and CIDP patients were selected. Meanwhile, 81 patients hospitalized for diseases
+other than GBS or CIDP with mild symptoms were enrolled as a co ntrol group. Relevant
+clinical data, including thyroid function, and autoantibo dy examinations, were collected
+for statistical analysis.
+Results: In the comparison of thyroid function and autoantibody para meters, the levels
+oftotalthyroxine(TT4),thyroidperoxidaseantibody(TPO -Ab),andthyroglobulinantibody
+(TG-Ab) in the GBS group were all higher than those in the CIDP and Control groups
+(P<0.01). The thyroid antibody positive rates in the GBS and CID P groups were 70.10
+and14.10%,respectively( P<0.01).Inthereceiveroperatingcharacteristic(ROC)curv e
+analysis, TT4, TPO-Ab, and TG-Ab were higher in the GBS group and lower in the CIDP
+group (P<0.01). To achieve a high speciﬁcity of 97–99%, the diagnosti c cutoff value
+of TPO-Ab was higher than 133 IU/mL (Sensitivity: 11.34%) or lower than 0.01 IU/mL
+(Sensitivity: 9.09%), while the diagnostic cutoff value of TG-Ab was higher than 261.1
+IU/mL (Sensitivity: 2.06%) or lower than 0.46 IU/mL (Sensit ivity: 11.69%). Multivariate
+logistic regression analysis showed that the differences i n TPO-Ab were statistically
+signiﬁcant between GBS patients with TPO-Ab was higher than 133 IU/mL and CIDP
+patients (P<0.01); the differences in TG-Ab were statistically signiﬁc ant between GBS
+patients with TG-Ab was higher than 261.1 IU/mL and CIDP pati ents (P<0.05).
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+Conclusion: Theelevationofthyroidautoantibodieswasassociatedwit hGBS.TPO-Ab
+higher than 133 IU/mL or lower than 0.01 IU/mL and TG-Ab highe r than 261.1 IU/mL
+or lower than 0.46 IU/mL had high speciﬁcity for differentia ting between GBS and CIDP;
+therefore, TPO-Ab and TG-Ab can be used as biomarkers for the differential diagnosis
+of GBS and CIDP.
+Keywords: Guillain–Barré syndrome, chronic inﬂammatory demye linating polyradiculoneuropathy, thyroid
+peroxidase antibody, thyroglobulin antibody, serum total thyroxine
+INTRODUCTION
+Guillain–Barré syndrome (GBS) is an autoimmune peripheral
+neuropathy characterized by demyelination of peripheral nerv es
+and nerve roots. The clinical manifestation is acute symmet ric
+ﬂaccid limb paralysis, which usually peaks within 4 weeks of
+disease onset. Respiratory muscle involvement is common, and
+glucocorticoidtreatmentaloneisnoteﬀectiveintermsofcl inical
+outcomes( 1).
+Chronic inﬂammatory demyelinating
+polyradiculoneuropathy (CIDP) is a disease of the peripheral
+nervous system (PNS) that is clinically characterized by
+symmetrical proximal and distal weakness with altered
+sensation and hyporeﬂexia/areﬂexia ( 2). CIDP exhibits a
+chronic progression or remission–relapse disease course, an d
+thediseaseusuallypeaks8weeksafterdiseaseonset.Respirat ory
+muscle involvement is rare, and most patients have excellent
+responses to immunotherapy and corticosteroids ( 3). Clinically,
+the pathological characteristics and clinical symptoms of CI DP
+are similar to those of GBS. Diﬀerentiation between CIDP and
+GBS at the early stage is diﬃcult, as both diseases are easy
+tomisdiagnose.
+Thyroid peroxidase antibody (TPO-Ab) and thyroglobulin
+antibody (TG-Ab) are major indicators for the diagnosis of
+Hashimoto’s thyroiditis (HT). The general belief is that TP O-Ab
+should be measured to identify autoimmune thyroiditis dise ases
+in a manner similar to HT ( 4). Bairactaris et al. ( 5) reported
+one patient with CIDP and HT who had elevated TPO-Ab and
+TG-Ab levels. Toudou et al. ( 6) reported one patient with GBS
+and HT who had elevated TPO-Ab levels. The serum thyroxine
+(T4) level has been associated with the incidence and severi ty of
+GBS (7). Only sporadic case reports show that GBS, CIDP, and
+HT are associated, and no clinical study has analyzed all thre e
+diseases together. This study retrospectively analyzed thyro id
+autoantibodies (TPO-Ab and TG-Ab) and thyroid function to
+conﬁrm the associations between GBS, CIDP, and HT. These
+measurements were conducted to provide a more theoretical
+basis for the early diﬀerential diagnosis of GBS and CIDP and
+topreventclinicalmisdiagnosis.
+MATERIALS AND METHODS
+Study Subjects
+GBS and CIDP Groups
+GBS and CIDP patients who were discharged between October
+2014 and February 2020 were enrolled. The inclusion criteri awere as follows: ①GBS or CIDP diagnosed at Beijing Tiantan
+Hospital, Capital Medical University, and conﬁrmed according
+to Guillain–Barré and Miller Fisher syndromes—new diagnostic
+classiﬁcation ( 8) and the European Federation of Neurological
+Societies/Peripheral Nerve Society Guideline on managemen t
+of chronic inﬂammatory demyelinating polyradiculoneuropat hy
+(3), respectively; ②an age of 18–83 years; and ③complete
+cerebrospinal ﬂuid (CSF) examinations, including CSF cell
+counts, CSF protein measurement, and 24-h intrathecal IgG
+synthesis testing; complete electromyography (EMG); thyroid
+antibody detection; autoimmune antibody detection; and tu mor
+indicatordetection.Thisretrospectivestudywasapprovedbyo ur
+institutionalethicscommitteewithawaiverofinformedco nsent.
+④According to the Hughes Functional Grading Scale (HFGS)
+score(9),HFGSwas ≤4atthepeakofthedisease.
+The exclusion criteria were as follows: ①comorbid diseases
+aﬀecting brain function, such as stroke, transient ischaemi c
+attack, encephalitis, and subarachnoid hemorrhage; ②systemic
+infectious diseases, malignant tumors, severe heart, live r, or
+kidneydiseases,orhematologicaldiseases; ③sequelaeofnervous
+systemdiseasesprecludingdeterminationoftheseverityof GBS;
+④a history of treated or untreated thyroid disease; ⑤the use of
+drugsaﬀectingthyroidfunction; ⑥ahistoryofhypothalamicand
+pituitary diseases; and ⑦ventilator-assisted ventilation or death
+duetoGBSorCIDP.
+Control Group
+The control group consisted of patients who were discharged
+between October 2014 and February 2020. The control patients
+were hospitalized for conditions other than GBS and CIDP
+with mild symptoms, such as dizziness, primary headache,
+leukodystrophy,multiplesclerosis,andminorstroke.
+Research Methods
+Thyroid Functions and Autoantibody Detection
+A blood sample (5mL) was collected from the median cubital
+vein of each patient in the morning within 48h of admission.
+Blood samples were allowed to stand for 30min and centrifuged
+at 3,000 r/min for 10min. autoantibodies were detected with in
+1hofcentrifugation.TheAbbottautomaticbiochemicalimm une
+analyser (Architectcil6200) and original reagent detection and
+the chemiluminescence immunoassay method were used to
+detectserumlevelsoffreetriiodothyronine(FT3),freeth yroxine
+(FT4),T3,T4,thyroid-stimulatinghormone (TSH),TG-Ab,a nd
+TPO-Ab. When the autoantibodies concentration of the sample
+wasbelowthelowerdetectionlimit(orabovetheupperdetecti on
+Frontiers in Neurology | www.frontiersin.org 2 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+limit), the lower detection limit value (or the upper detectio n
+limitvalue)wasused.
+Determination Standards of Abnormal Thyroid
+Functions
+Based on the Clinical Practice Guidelines for Hypothyroidis m
+inAdults:
+Cosponsored by the American Association of Clinical
+Endocrinologists and the American Thyroid Association ( 4)
+and the standards used in Beijing Tiantan Hospital, Capital
+Medical University, the normal values for thyroid functions a nd
+autoantibodies were as follows: ①serum total thyroxine (TT4):
+69.97–152.52nmol/L; ②serumFT4:7.64–16.03pmol/L; ③serum
+total triiodothyronine (TT3): 1.01–2.48 nmol/L; ④serum FT3:
+3.28–6.47 pmol/L; ⑤serum TSH: 0.49–4.91 µIU/mL;⑥serum
+TG-Ab:0–4IU/mL;and ⑦serumTPO-Ab:0–9IU/mL.
+Statistical Methods
+The data were analyzed with SPSS 24.0 statistical software.
+Measurementdatathatconformedtoorapproximatedanormal
+distributionareexpressedbyx ±s.Thesemeanswerecompared
+betweenthegroupsbythetwo-independent-sample t-test.Non-
+normal data are expressedasthe medianandinterquartile ran ge
+andwerecomparedusingtheKruskal–Wallis H-test.Countdata
+are described as a ratio or percentage (%) and were compared
+between groups with the χ2test. The GBS or CIDP group
+assignment was used as the dependent variable, and general
+patient data that were signiﬁcantly diﬀerent between the grou ps
+were used as the independent variables for binary multivaria te
+logistic regression analyses. MedCalc19.1 was used to analys e
+receiver operating characteristic (ROC) curves to evaluate t he
+ability of thyroid functions and autoantibodies to predict G BS
+andCIDP. P<0.05wasconsideredstatisticallysigniﬁcant.
+RESULTS
+Comparison of Basic Data
+A total of 256 patients were enrolled in this study. The GBS
+group (97 cases) included 60 patients with classical acute
+inﬂammatory demyelinating polyneuropathy, 19 patients with
+acute motor axonal neuropathy, 4 patients with acute motor-
+sensory axonal neuropathy, 11 patients with Miller Fisher
+syndrome, and 3 patients with acute sensory neuropathy. The
+CIDP group (78 cases) included 66 patients with classical CID P,
+1 patient with pure motor CIDP, and 11 patients with Lewis-
+Sumner syndrome. Two acute-onset CIDP (A-CIDP) patients
+were identiﬁed through dynamic patient follow-up and review.
+Therewere81patientsinthecontrolgroup,andallofthemwere
+hospitalized patients with mild disease who did not have GBS
+orCIDP.
+The GBS group had an average age of 49.04 ±16.19 years,
+the CIDP group had an average age of 51.67 ±13.31 years, and
+the control group had an average age of 34.98 ±12.22 years.
+Age in the GBS and CIDP groups was higher than that in the
+control group ( P<0.01), but there was no signiﬁcant diﬀerence
+between the GBS and CIDP groups ( P>0.05). A comparison
+of the sex distribution showed that the CIDP group includedsigniﬁcantly more males than females ( χ2=7.69 andP<0.01).
+HFGS showed no signiﬁcant diﬀerence between the GBS and
+CIDPgroups( P>0.05;Table1).
+Comparison of Thyroid Functions and
+Autoantibody Parameters
+TT4,TPO-Ab,andTG-AblevelswereallhigherintheGBSgroup
+thanintheCIDPandControlgroups( P<0.01).FT4levelswere
+higherintheGBSgroupthanintheCIDPgroup( P<0.05)and
+Control group ( P<0.01). FT4 levels were higher in the CIDP
+group than in the control group ( P<0.05). TT3 was lower in
+theGBSgroupthanintheCIDPandControlgroups( P<0.05).
+The diﬀerences in TSH and FT3 between the three groups did
+not reach statistical signiﬁcance ( P>0.05). The comparisons
+of the above meaningful indicators are depicted in Table2and
+Figure1.
+Comparison of Thyroid Autoantibodies
+Positive Rates
+The normal values of thyroid functions and autoantibodies
+referenced by Beijing Tiantan Hospital were used as standards
+for analyses. Of the 97 patients in the GBS group, 68
+(70.10%)patientswerethyroidautoantibodiespositive.Ofthe 78
+patients in the CIDP group, 11 (14.10%) patients were thyroid
+autoantibody positive. Of the 81 patients in the control group, 7
+(8.64%)patientswerethyroidautoantibodypositive.Thepositiv e
+rates were signiﬁcantly diﬀerent between the GBS and CIDP
+groups ( χ2=54.75 and P<0.01). Moreover, the positive rates
+weresigniﬁcantlydiﬀerentbetweentheGBSandControlgroups
+(χ2=68.39 and P<0.01) although not between the CIDP and
+Controlgroups( P>0.05;Figure2).
+Analyses of ROC Curves of Thyroid
+Functions and Autoantibodies Parameters
+The CIDP group was used as the reference group, and the GBS
+group was used as the measurement group. The diﬀerences in
+TT4, FT4, TPO-Ab, and TG-Ab between the GBS and CIDP
+groups were statistically signiﬁcant ( P<0.05). The diagnostic
+cut-oﬀvaluecorrespondingtothemaximumpointoftheYouden
+TABLE 1 | Comparison among clinical data of the GBS, CIDP, and Control
+groups, x ±s.
+Subjects All patients Age (years) Sex HFGS
+Male Female
+GBS group 97 49.04 ±16.19 51 46 3.71 ±0.52
+CIDP group 78 51.67 ±13.31 57 21 3.85 ±0.40
+Control group 81 34.98 ±12.22 30 51 0.10 ±0.30
+F/χ232.79 20.88 2,088.69
+P 0.00** 0.00** 0.00**
+Differences in sex were statistically signiﬁcant between the GBS an d CIDP groups
+(χ2=7.69, P <0.01), while HFGS showed no signiﬁcant difference (P >0.05). Age
+and HFGS in the GBS and CIDP groups were higher than those in the control group
+(**P<0.01).
+Frontiers in Neurology | www.frontiersin.org 3 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+TABLE 2 | Comparison of thyroid function and autoantibodies paramet ers between GBS and CIDP groups M ( P25,P75).
+Subjects TT3 (nmol/L) TT4 (nmol/L) TSH ( µIU/mL) FT3 (pmol/L) FT4 (pmol/L) TPO-Ab (IU/mL) TG-Ab (IU/mL)
+GBS group 1.31
+(1.07, 1.57)101.62
+(84.50, 122.20)1.32
+(0.88, 2.16)4.36
+(3.85, 4.77)13.12
+(11.83, 14.49)47.91
+(0.99, 98.00)39.16
+(1.67, 69.78)
+CIDP group 1.45*
+(1.27, 1.58)86.94**
+(77.97, 105.41)1.55
+(0.96, 2.78)4.38
+(3.95, 4.78)12.32
+(11.52, 13.88)0.44**
+(0.21, 3.62)0.90**
+(0.84, 1.69)
+Control group 1.41*
+(1.28, 1.56)82.2**
+(71.63, 102.03)1.49
+(1.08, 2.55)4.29
+(3.85, 4.72)11.79**/Delta1
+(11.03, 13.01)0.31**
+(0.13, 0.77)0.90**
+(0.90, 1.27)
+P 0.042 0.000 0.327 0.776 0.000 0.000 0.000
+ComparedwiththeGBSgroup,Kruskal–WallisH-test, *P<0.05,**P<0.01.ComparedwiththeCIDPgroup,Kruskal–WallisH-test,/Delta1P<0.05.
+FIGURE 1 | Comparison of thyroid function and autoantibodies paramet ers among the GBS, CIDP, and Control groups. TT4, FT4, TPO-Ab, and TG-Ab levels were all
+higher in the GBS group than in the CIDP and Control groups (** P<0.01, *P<0.05).
+indexwasobtained.Thediagnosticcut-oﬀvalueofTPO-Abwa s
+13.7 IU/mL. At this cut-oﬀ value, the sensitivity was 63.92%,
+and the speciﬁcity was 96.15%. The diagnostic cut-oﬀ value
+of TG-Ab was 6.6 IU/mL. At this cut-oﬀ value, the sensitivity
+was 69.07%, and the speciﬁcity was 88.46%. The diagnostic
+cut-oﬀ value of TT4 was 89.15 nmol/L. At this cut-oﬀ value,
+the sensitivity was 70.10%, and the speciﬁcity was 55.13%. The
+diagnostic cut-oﬀ value of FT4 was 12.23 pmol/L. At this cut-
+oﬀ value, the sensitivity was 71.13%, and the speciﬁcity was
+48.72%. When the sensitivity was close to 60%, the diagnostic
+cut-oﬀ value of TPO-Ab was 18.6 IU/mL, with a speciﬁcity
+of 97.44%; the diagnostic cut-oﬀ value of TG-Ab was 17.36
+IU/mL, with a speciﬁcity of 94.87%; the diagnostic cut-oﬀ value
+of TT4 was 97.45 nmol/L, with a speciﬁcity of 60.26%; and
+the diagnostic cut-oﬀ value of FT4 was 12.71 pmol/L, with
+a speciﬁcity of 58.97%. When >133 IU/mL, TPO-Ab had a
+sensitivityof11.34%andaspeciﬁcityof98.72%[95%conﬁden ce
+interval (CI): 0.707–0.836]. When >261.1 IU/mL, TG-Ab had
+a sensitivity of 2.06% and a speciﬁcity of 98.72% (95%CI:
+0.742–0.864). When >218.25 nmol/L, TT4 had a sensitivity
+of 1.03% and a speciﬁcity of 98.72% (95%CI: 0.567–0.713).
+When >17.7 pmol/L, FT4 had a sensitivity of 4.12% and a
+speciﬁcity of 98.72% (95%CI: 0.514–0.664) ( Tables3,4and
+Figure3).TheGBSgroupwasusedasthereferencegroup,andtheCIDP
+group was used as the measurement group. The diﬀerences in
+TT4, FT4, TPO-Ab, and TG-Ab between the GBS and CIDP
+groupswerestatisticallysigniﬁcant( P<0.05).Whenlowerthan
+0.01 IU/mL, TPO-Ab had a sensitivity of 9.09% and a speciﬁcity
+of97.96%.Whenlowerthan0.46IU/mL,TG-Abhadasensitivity
+of 11.69% and a speciﬁcity of 98.98%. When lower than 69.03
+nmol/L, TT4 had a sensitivity of 6.49% and a speciﬁcity of
+98.98%. When lower than 9.08 pmol/L, FT4 had a sensitivity of
+1.30%andaspeciﬁcityof97.96%( Table4andFigure4).
+Logistic Regression Analysis of Risk
+Factors for GBS Patients With
+TPO-Ab >133 IU/mL or TG-Ab >261.1 IU/mL
+In the GBS and CIDP groups, GBS patients with TPO-Ab >133
+IU/mL or TG-Ab >261.1 IU/mL and CIDP patients were used
+as classiﬁcation dependent variables, respectively, and gen eral
+patient data, including sex, age, and levels of TT3, TT4, TSH,
+FT3,FT4,TPO-Ab,TG-Ab,andHFGS,wereusedasindependent
+variables for univariate logistic regression analysis. Va riables
+withP<0.05 were included in Multivariate logistic regression
+analysis. The results of the regression showed that when GBS
+patients with TPO-Ab >133 IU/mL, the diﬀerence in TT3 and
+Frontiers in Neurology | www.frontiersin.org 4 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+FIGURE 2 | Comparison of thyroid autoantibodies positive rates in the GBS,
+CIDP, and Control groups. Of the 97 patients in the GBS group, 6 8 (70.10%)
+patients were thyroid autoantibody positive. Of the 78 pati ents in the CIDP
+group, 11 (14.10%) patients were thyroid autoantibody posi tive. Of the 81
+patients in the control group, 7 (8.64%) patients were thyro id autoantibody
+positive. The positive rates were signiﬁcantly different be tween the GBS and
+CIDP groups ( χ2=54.75 and ** P<0.01) and between the GBS and Control
+groups ( χ2=68.39 and ** P<0.01). However, they were not signiﬁcantly
+different between the CIDP and Control groups ( P>0.05).
+TABLE 3 | Analysis of the ROC curves of thyroid function and autoantib odies
+parameters in the GBS and CIDP groups.
+Variable AUC SE 95% CI Youden index P
+TT3 0.600 0.043 0.523–0.673 0.228 0.020
+TT4 0.643 0.042 0.567–0.713 0.252 0.000**
+TSH 0.537 0.044 0.460–0.613 0.135 0.401
+FT3 0.528 0.044 0.451–0.603 0.120 0.530
+FT4 0.590 0.043 0.514–0.664 0.199 0.038*
+TPO-Ab 0.776 0.037 0.707–0.836 0.601 0.000**
+TG-Ab 0.809 0.035 0.742–0.864 0.575 0.000**
+The CIDP group was used as the reference group, and the GBS group was u sed as the
+measurementgroup.ThedifferencesinTT4,FT4,TPO-Ab,andTG-A bbetweentheGBS
+andCIDPgroupswerestatisticallysigniﬁcant, **P<0.01,*P<0.05.
+TPO-Ab was statistically signiﬁcant ( P<0.05), especially to the
+TPO-Ab ( P<0.01). When GBS patients with TG-Ab >261.1
+IU/mL, the diﬀerence in TG-Ab was statistically signiﬁcant
+(P<0.05).However,thediﬀerenceinHFGSwasnotstatistically
+signiﬁcant( P>0.05,Table5).
+DISCUSSION
+To search for biomarkers between GBS and CIDP, we carried
+out a data analysis on the disease. Ganglioside antibodies a reTABLE 4 | List of cut-off value, sensitivity, and speciﬁcity of thyroi d function and
+autoantibodies in GBS and CIDP ROC analysis.
+Variable Criterion Speciﬁcity (%) Sensitivity (%)
+TPO-Ab >13.7 IU/mL* 96.15 63.92
+>18.6 IU/mL#97.44 60.82
+>133 IU/mL/Delta198.72 11.34
+≤0.01IU/mL/Delta197.96 9.09
+TG-Ab >6.6 IU/mL* 88.46 69.07
+>17.36 IU/mL#94.87 60.82
+>261.1IU/mL/Delta198.72 2.06
+≤0.46 IU/mL/Delta198.98 11.69
+TT4 >89.15 nmol/L* 55.13 70.10
+>97.45 nmol/L#60.26 60.82
+>157.75nmol/L/Delta197.44 6.19
+≤69.03nmol/L/Delta198.98 6.49
+FT4 >12.23 pmol/L* 48.72 71.13
+>12.71 pmol/L#58.97 60.82
+>17.7pmol/L/Delta198.72 4.12
+≤9.08pmol/L/Delta197.96 1.30
+*Thediagnosticcut-offvaluecorrespondingtothemaximumpointoftheYoudenindex .
+#Thediagnosticcut-offvaluecorrespondstosensitivitynearto60%.
+/Delta1Thediagnosticcut-offvaluecorrespondstothemaximalspeciﬁcity.
+more closely associated with GBS ( 10). CIDP is associated
+with antibodies against the nodes of Ranvier/paranodal NF15 5
+and contactin-1 (CNTN1) antibody ( 11). In addition to
+our well-known serum and cerebrospinal ﬂuid immunology-
+related antibody tests, are there any other serum immune
+biomarkers that can be easily and quickly tested to identify
+these diseases? Relevant studies have reported that Fas is a
+transmembrane receptor involved in the death program of
+several cell lines, including T lymphocytes ( 12). Defective Fas
+functionisassociatedwithCIDP,A-CIDP,thyroidautoimmu nity
+(13) development and aggressive evolution, which can be used
+asabiomarkerforthediﬀerentialdiagnosisofGBSandA-CIDP
+(14).Gautier’sresearchshowedthattheIL-8inCSFasaPotenti al
+Biomarker in GBS ( 15). Our study found that increased thyroid
+function and thyroid autoantibodies are associated with th e
+occurrence of GBS. We envisage the early identiﬁcation of GB S
+and CIDP by detecting thyroid autoantibodies because thyro id
+functionevaluationismucheasiertoobtain,whereasaness ayof
+TcellapoptosisandIL-8acquisitioninCSFaretime-consumin g
+and require certain conditions. However, existing Chinese a nd
+internationalpublicationsaremostlycasereports,andnocli nical
+studies with large sample sizes have focused on this topic.
+The pathogenesis of GBS and thyroid autoantibody positivity
+has not been elucidated and requires further investigation in
+clinicalresearch.
+The Associations Between Thyroid
+Autoantibodies (TPO-Ab and TG-Ab) and
+GBS, CIDP, and Control Groups
+The presence of serum thyroid autoantibodies is a major
+indicator for the diagnosis of HT. TPO-Ab and TG-Ab are very
+Frontiers in Neurology | www.frontiersin.org 5 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+FIGURE 3 | Receiver operating characteristic curves of TPO-Ab, TG-Ab , TT4, and FT4 for GBS occurrence (A)TPO-Ab, (B)TG-Ab,(C)TT4, and (D)FT4. The CIDP
+group was used as the reference group, and the GBS group was us ed as the measurement group.
+ The diagnostic cut-off value corresponds to the maximum poi nt
+of the Youden index.
+ The diagnostic cut-off value corresponds to the maximal spe ciﬁcity.
+ The diagnostic cut-off value corresponds to sensitivity ne ar to 60%.
+sensitive,andincreasesintheseparameterscanconﬁrmHT( 16).
+This study showed that increases in TPO-Ab and TG-Ab were
+associated with GBS. The TPO-Ab and TG-Ab autoantibody
+levels of CIDP patients did not diﬀer from those of the control
+group. These results indicated that the positive rate of thyro id
+autoantibodiesinCIDPpatientswassimilartothatofthecon trol
+population, although we did not consider the possibility of
+elevated thyroid autoantibody levels in the general populatio n.
+There was no signiﬁcant diﬀerence in HFGS score (representing
+disease severity) between the GBS and CIDP groups. Therefore ,we concluded that there was no signiﬁcant correlation betwe en
+the increase of thyroid functions and autoantibody levels a nd
+disease severity. In logistic regression analysis, TT3 and TPO-
+Ab was a risk factor for GBS patients with TPO-Ab was higher
+than 133 IU/mL, especially to the TPO-Ab.TG-Ab was a risk
+factor for GBS patients with TG-Ab higher than 261.1 IU/mL.
+However, HFGS is not a risk factor. This study showed that the
+diﬀerences in thyroid autoantibody are not driven by severit y.
+Our ROC curve analysis showed that TPO-Ab higher than
+133IU/mL or lower than 0.01 IU/mL and TG-Ab higher than
+Frontiers in Neurology | www.frontiersin.org 6 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+FIGURE 4 | Receiver operating characteristic curves of TPO-Ab, TG-Ab , TT4, and FT4 for CIDP occurrence (A)TPO-Ab, (B)TG-Ab,(C)TT4, and (D)FT4. The GBS
+group was used as the reference group, and the CIDP group was us ed as the measurement group.
+ The diagnostic cut-off value corresponds to the maximum poi nt
+of the Youden index.
+ The diagnostic cut-off value corresponds to the maximal spe ciﬁcity.
+261.1 IU/mL or lower than 0.46 IU/mL had high speciﬁcity
+for diﬀerentiation between GBS and CIDP and could be used
+as an auxiliary reference indictor for diﬀerentiation betwe en
+the two diseases. HT with comorbid GBS may be caused by
+dysregulation of the immune system, which may be diﬀerent
+from the pathophysiology underlying HT with comorbid CIDP;
+thepossiblemechanismsareanalyzedbelow.
+The possible mechanism underlying the increase in thyroid
+autoantibodies in GBS patients may be a consequence of
+an immunological interaction between autoantibodies and
+neuronal cells ( 6). Indeed, ganglioside antibodies play an
+importantroleinthepossiblemechanism.Patientswithpositi vethyroid autoantibodies had signiﬁcantly increased respons es
+to ganglioside antibodies ( 17). Ganglioside is an important
+link between pathogens and nerve tissue components in the
+pathogenesis of GBS. The production of ganglioside antibodie s
+interferes with myelination and damages the integrity of my elin
+sheaths to beget GBS, while CIDP lacks pathogenic infection
+and other relevant links. Whether it is precursor infection t hat
+causes the thyroid autoantibodies titres in GBS to signiﬁca ntly
+increase needs further discussion. In addition to the eﬀect
+of ganglioside antibodies on the integrity of myelin sheath s,
+cytokines[suchasinterferon- γ,tumornecrosisfactor α(TNF- α),
+and interleukin 17 (IL-17)] ( 18,19) and oxidative stress [such as
+Frontiers in Neurology | www.frontiersin.org 7 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+TABLE 5 | Logistic regression analysis of risk factors for GBS patien ts with TPO-Ab >133 IU/mL or TG-Ab >261.1 IU/mL.
+Variable GBS patients with TPO-Ab >133 IU/mL GBS patients with TG-Ab >261.1 IU/mL
+Univariate logistic
+regression analysisMultivariate logistic
+regression analysisUnivariate logistic
+regression analysisMultivariate logistic
+regression analysis
+OR P OR P OR P OR P
+Sex 7.238 0.006** 2.539 0.358 0.000 0.998 – –
+Age 0.977 0.402 – – 0.925 0.337 – –
+TT3 54.378 0.004** 137.398 0.013* 1.316 0.899 – –
+TT4 0.992 0.452 – – 1.010 0.764 – –
+TSH 0.832 0.316 – – 0.685 0.108 – –
+FT3 1.402 0.374 – – 1.329 0.750 – –
+FT4 0.839 0.264 – – 1.673 0.325 – –
+TPO-Ab 0.986 0.002** 0.989 0.001** 0.994 0.039* 0.993 0.054
+TG-Ab 0.996 0.113 – – 0.994 0.014* 0.994 0.023*
+HFGS 1.691 0.400 – – 0.000 0.999 – –
+GBS patients with TPO-Ab >133 IU/mL or TG-Ab >261.1 IU/mL and CIDP patients were used as classiﬁcation dependent var iables, respectively, and general patient data, including
+sex, age, and levels of TT3, TT4, TSH, FT3, FT4, TPO-Ab, TG-Ab, an d HFGS, were used as independent variables for univariate logistic regr ession analysis. Variables with P <0.05
+wereincludedinMultivariatelogisticregressionanalysis.The resultsoftheregressionshowedthatwhenGBSpatientswithTPO-Ab >133IU/mL,thedifferenceinTT3andTPO-Abwas
+statisticallysigniﬁcant( *P<0.05),especiallytotheTPO-Ab( **P<0.01).WhenGBSpatientswithTG-Ab >261.1IU/mL,thedifferenceinTG-Abwasstatisticallysigniﬁcant, *P<0.05.
+theproductionoflargeamountsofreactiveoxygenspecies(ROS )
+in cells] ( 20,21) were also directly involved in the pathological
+process of demyelination in patients with GBS and CIDP,
+which are also associated with the occurrence of autoimmune
+thyroid disease and elevated TPO-Ab antibody levels ( 22,23).
+Moreover, a speciﬁc genetic background may cause shared
+susceptibility to these autoimmune diseases ( 24). Although GBS
+and CIDP both belong to immune-mediated peripheral nerve-
+demyelinating diseases, they have long been regarded diﬀere ntly
+in the disease spectrum. As mentioned above, defective Fas
+function has resulted in the simultaneous occurrence of CID P
+and autoimmune thyroid diseases ( 13). Thus, the possibility of
+common susceptibility between CIDP and HT is taken into
+account. However, are GBS and HT more susceptible? To date,
+no relevant reports have been issued. Further study is necess ary
+to explore whether the possible mechanism that promotes GBS
+andthe increasein thyroidautoantibodies diﬀerfrom those t hat
+actinCIDP.
+The Associations Between Thyroid
+Function (TT3, TT4, FT3, FT4, and TSH) and
+GBS, CIDP, and Control Groups
+Most T4 binds with its transport proteins (thyroxine-binding
+globulin(TBG),prealbumin,andalbumin).ChangesintheTBG -
+binding ability and the concentration of T4 under physiologi cal
+and pathological conditions inﬂuence TT4. This study showed
+that the TT4 and FT4 levels in GBS patients were higher than
+those in CIDP and Control group patients, especially the TT4
+level.Theexistenceofacertainstepinthediseasecourseo fGBS
+that aﬀects the binding ability of TBG and leads to an increase
+in TT4 cannot be ruled out, which still requires further clin ical
+studiesforconﬁrmation.The Associations Between Sex Differences
+and GBS and CIDP
+Autoimmune thyroid diseases are more common in women,
+but the incidence and prevalence of GBS among men are both
+increasing, and genetic and environmental factors likely pla y a
+roleinthistrend( 25).TheGBSandCIDPgroupsbothincluded
+morementhanwomeninthisstudy,whichisconsistentwiththe
+increasing trend of GBS among men mentioned above, but no
+reportsindicatethatCIDPismorecommoninmen.
+A limitation of this study is its retrospective design, and
+we could not ensure that each patient received complete
+examinations, such as thyroid color Doppler ultrasound and
+anti-ganglioside antibody detection. Furthermore, the Med ical
+Research Council (MRC) sum score was not assessed for each
+enrolled patient; therefore, the correlation between the MRC
+sum score and increased thyroid autoantibodies levels could
+not be evaluated. In the future, prospective studies should be
+performed with complete examinations to improve the accuracy
+oftheresults.
+In summary, our study indicated that an elevation of thyroid
+autoantibodies was associated with GBS. Among the GBS
+patients, TPO-Ab had higher auxiliary diagnostic value for ma le
+GBS patients. The use of thresholds of higher than 13.7 IU/mL
+for TPO-Ab or higher than 6.6 IU/mL for TG-Ab yielded the
+bestsensitivityandspeciﬁcityfordiﬀerentiatingGBSfromC IDP.
+When TPO-Ab was higher than 133 IU/mL and TG-Ab was
+higherthan261.1IU/mL,adiagnosisofGBSwasalmostcertain.
+However, when TPO-Ab was lower than 0.01 IU/mL and TG-
+Ab was lower than 0.46 IU/mL, a diagnosis of CIDP was almost
+certain. TPO-Ab and TG-Ab may be used as biomarkers for
+the diﬀerential diagnosis of GBS and CIDP. Early detection of
+thyroid autoantibodies abnormalities in patients has import ant
+clinicalvalueforpredictingGBS.
+Frontiers in Neurology | www.frontiersin.org 8 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+DATA AVAILABILITY STATEMENT
+All datasets presented in this study are included in the
+article/SupplementaryMaterial .
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by Ethics committee of Beijing tiantan hospital
+aﬃliatedtocapitalmedicaluniversity.Writteninformedco nsent
+fromtheparticipants’legalguardian/nextofkinwasnotrequ ired
+to participate in this study in accordance with the national
+legislationandtheinstitutionalrequirements.
+AUTHOR CONTRIBUTIONS
+YT managed and collected data and wrote the manuscript.
+XG researched data and wrote the manuscript. XY conceivedand designed the study and contributed to the manuscript.
+GZ, WZ, and ZL researched the data, contributed to
+the discussion, and reviewed and edited the manuscript.
+All authors contributed to the article and approved the
+submittedversion.
+FUNDING
+The present study was supported by the Zhuhai Science
+and Technology Plan Project (Grant No. 20191208
+E030034).
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fneur.
+2020.01018/full#supplementary-material
+REFERENCES
+1. Hughes RA, Brassington R, Gunn AA, van Doorn PA.
+Corticosteroids for Guillain-Barré syndrome. Cochrane Database
+Syst Rev. (2016) 10:CD001446. doi: 10.1002/14651858.CD001
+446.pub5
+2. Comi C, Gaviani P, Leone M, Ferretti M, Castelli L, Mesturini
+R, et al. Fas-mediated T-cell apoptosis is impaired in patients
+with chronic inﬂammatory demyelinating polyneuropathy. J
+Peripher Nerv Syst . (2006) 11:53–60. doi: 10.1111/j.1085-9489.2006.
+00063.x
+3. Van den Bergh PY, Hadden RD, Bouche P, Cornblath DR, Hahn A, Illa
+I, et al. European federation of neurological societies/peripheral ne rve
+society guideline on management of chronic inﬂammatory demyelinatin g
+polyradiculoneuropathy:reportofajointtaskforceoftheeuropeanfed eration
+ofneurologicalsocietiesandtheperipheralnervesociety-ﬁrstre vision.EurJ
+Neurol.(2010)17:356–63.
+4. Garber JR, Cobin RH, Gharib H, Hennessey JV, Klein I, Mechanick
+JI, et al. Clinical practice guidelines for hypothyroidism in adults :
+cosponsored by the american association of clinical endocrinologi sts and the
+americanthyroidassociation. Thyroid.(2012)22:1200–35.doi:10.1089/thy.20
+12.0205
+5. Bairactaris C, Stouraitis G, Papalias E, Fakas N, Papatheodorou
+G, Gourtzelidis P. Early neurophysiological evolution of chronic
+inﬂammatory demyelinating polyneuropathy in a patient with Hashimoto’ s
+thyroiditis. Muscle Nerve . (2008) 38:1518–22. doi: 10.1002/mus.
+21138
+6. Toudou Daouda M, Obenda NS, Maazou L, Camara D, Souirti Z, Elmida oui
+A, et al. Guillain–Barre syndrome and hashimoto’s thyroiditis. QJM. (2016)
+109:547–8.doi:10.1093/qjmed/hcw007
+7. Huang Y, Ying Z, Chen Z, Xiang W, Su Z, Quan W, et al. Thyroid
+hormonelevelisassociatedwiththefrequencyandseverityofGui llain-Barré
+syndrome. Int J Neurosci . (2017) 127:893–9. doi: 10.1080/00207454.2016.12
+78541
+8. Wakerley BR, Uncini A, Yuki N, GBS Classiﬁcation Group, Group
+GC. Guillain-Barré and miller ﬁsher syndromes–new diagnostic
+classiﬁcation. Nat Rev Neurol . (2014) 10:537–44. doi: 10.1038/nrneurol.
+2014.138
+9. Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled
+trial prednisolone in acute polyneuropathy. Lancet. (1978)
+2:750–3.doi:10.1016/S0140-6736(78)92644-2
+10. Fan C, Jin H, Hao H, Gao F, Sun Y, Lu Y, et al. Anti-ganglioside
+antibodies in Guillain-Barre syndrome and chronic inﬂammatorydemyelinating polyneuropathy in Chinese patients. Muscle Nerve . (2017)
+55:470–5.doi:10.1002/mus.25266
+11. Querol L, Siles AM, Alba-Rovira R, Jáuregui A, Devaux J, Faivre-
+Sarrailh C, et al. Antibodies against peripheral nerve antigens in ch ronic
+inﬂammatory demyelinating polyradiculoneuropathy. Sci Rep. (2017)
+7:14411.doi:10.1038/s41598-017-14853-4
+12. Comi C, Fleetwood T, Dianzani U. The role of T cell apoptosis
+in nervous system autoimmunity. Autoimmun Rev . (2012)
+12:150–6.doi:10.1016/j.autrev.2011.08.011
+13. Bona G, Defranco S, Chiocchetti A, Indelicato M, Biava A, Di franco
+D, et al. Defective function of Fas in T cells from paediatric patient s
+with autoimmune thyroid diseases. Clin Exp Immunol. (2003) 133:430–
+7.doi:10.1046/j.1365-2249.2003.02221.x
+14. Comi C, Osio M, Ferretti M, Mesturini R, Cappellano G, Chiocchetti
+A, et al. Defective Fas-mediated T-cell apoptosis predicts acute on set
+CIDP.J Peripher Nerv Syst . (2009) 14:101–6. doi: 10.1111/j.1529-8027.2009.
+00219.x
+15. Breville G, Lascano AM, Roux-Lombard P, Lalive PH. IL-8 as a potent ial
+biomarkerinGuillain-Barresyndrome. EurCytokineNetw .(2019)30:130–4.
+16. Radetti G. Clinical aspects of hashimoto’s thyroiditis. Endocr Dev. (2014)
+26:158–70.doi:10.1159/000363162
+17. Müssig K, Leyhe T, Holzmüller S, Klein R, Weinert C, Saur
+R, et al. Increased prevalence of antibodies to central nervous
+system tissue and gangliosides in hashimoto’s thyroiditis compa red
+to other thyroid illnesses. Psychoneuroendocrinology . (2009)
+34:1252–6.doi:10.1016/j.psyneuen.2009.03.011
+18. Yang QD, Wu Y. Role of related cytokines in the pathogenesis of Guillain-
+Barresyndrome. IntJImmunol. (2015)38:596–9.
+19. Beppu M, Sawai S, Misawa S, Sogawa K, Mori M, Ishige
+T, et al. Serum cytokine and chemokine proﬁles in patients
+with chronic inﬂammatory demyelinating polyneuropathy. J
+Neuroimmunol . (2015) 279:7–10. doi: 10.1016/j.jneuroim.2014.
+12.017
+20. Marrali G, Salamone P, Casale F, Fuda G, Cugnasco P, Caorsi C, et a l.
+NADPH oxidase 2 (NOX2) enzyme activation in patients with chroni c
+inﬂammatory demyelinating polyneuropathy. Eur J Neurol . (2016) 23:958–
+63.doi:10.1111/ene.12971
+21. Gümü¸ syaylaS,VuralG,YurtogullariÇevikS,AkdenizG,Neseliog luS,Deniz
+O,etal.Dynamicthiol-disulphidehomeostasisinpatientswithGui llain-Barre
+Syndrome. NeurolRes .(2019)41:413–8.doi:10.1080/01616412.2019.1573955
+22. Kokkotou E, Marafelia P, Mantzos EI, Tritos NA. Serum monocyte
+chemoattractant protein-1 is increased in chronic autoimmune thyroi ditis.
+Metabolism .(2002)51:1489–93.doi:10.1053/meta.2002.34717
+Frontiers in Neurology | www.frontiersin.org 9 September 2020 | Volume 11 | Article 1018
+Tu et al. Thyroid Autoantibodies in GBS and CIDP
+23. Karanikas G, Schuetz M, Wahl K, Paul M, Kontur S, Pietschman n P,
+et al. Relation of anti-TPO autoantibody titre and T-lymphocyte cy tokine
+production patterns in hashimoto’s thyroiditis. Clin Endocrinol . (2005)
+63:191–6.doi:10.1111/j.1365-2265.2005.02324.x
+24. Wang JY, Pan J, Luo BY, Zhang YY. Temporal coincidence of myast henia
+gravis and Guillain Barré syndrome associated with hashimoto
+thyroiditis. Neurol Sci . (2011) 32:515–7. doi: 10.1007/s10072-011-
+0579-3
+25. McCombe PA. Sexual dimorphism in autoimmune disease.
+Curr Mol Med . (2009) 9:1058–79. doi: 10.2174/1566524097898
+39116Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potentialconﬂictofinterest.
+Copyright © 2020 Tu, Gong, Zeng, Zhuo, Li and Yu. This is an open-ac cess article
+distributed under the terms of the Creative Commons Attribu tion License (CC BY).
+The use, distribution or reproduction in other forums is perm itted, provided the
+original author(s) and the copyright owner(s) are credited a nd that the original
+publication in this journal is cited, in accordance with acc epted academic practice.
+No use, distribution or reproduction is permitted which doe s not comply with these
+terms.
+Frontiers in Neurology | www.frontiersin.org 10 September 2020 | Volume 11 | Article 1018

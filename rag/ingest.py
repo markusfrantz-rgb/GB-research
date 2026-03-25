@@ -6,7 +6,7 @@ import chromadb
 from google import genai
 
 from .config import config
-from .chunker import Chunk, chunk_markdown, parse_frontmatter
+from .chunker import Chunk, chunk_markdown, chunk_plaintext, parse_frontmatter
 
 
 def _get_client() -> genai.Client:
@@ -21,6 +21,31 @@ def _find_documents() -> list[Path]:
         if dir_path.exists():
             docs.extend(sorted(dir_path.rglob("*.md")))
     return docs
+
+
+def _find_source_texts() -> list[Path]:
+    """Find all fulltext source files (.txt) in sources/fulltext/."""
+    sources_dir = config.docs_dir / "sources" / "fulltext"
+    if not sources_dir.exists():
+        return []
+    return sorted(sources_dir.glob("*.txt"))
+
+
+def _article_title_from_filename(filename: str) -> str:
+    """Extract a readable article title from a source filename.
+    e.g. 'Ripellino_2025_efgartigimod_refractory_GBS_FULLTEXT.txt'
+    -> 'Ripellino 2025 — efgartigimod refractory GBS'
+    """
+    name = filename.replace("_FULLTEXT", "").replace(".txt", "")
+    # Remove PMID/PMC suffixes
+    name = __import__("re").sub(r'_PMC\d+', '', name)
+    name = __import__("re").sub(r'_PMID\d+', '', name)
+    parts = name.split("_")
+    if len(parts) >= 2:
+        author_year = f"{parts[0]} {parts[1]}"
+        rest = " ".join(parts[2:])
+        return f"{author_year} — {rest}" if rest else author_year
+    return name
 
 
 def _embed_batch(client: genai.Client, texts: list[str]) -> list[list[float]]:
@@ -78,11 +103,30 @@ def ingest(reindex: bool = False, verbose: bool = False):
         if verbose:
             print(f"  {rel_path}: {len(chunks)} chunks")
 
+    # Process fulltext source files (.txt from sources/fulltext/)
+    source_paths = _find_source_texts()
+    source_count = 0
+    for src_path in source_paths:
+        rel_path = str(src_path.relative_to(config.docs_dir))
+        text = src_path.read_text(encoding="utf-8", errors="replace")
+
+        if not text.strip():
+            continue
+
+        title = _article_title_from_filename(src_path.name)
+        chunks = chunk_plaintext(text, rel_path, max_tokens=config.chunk_max_tokens,
+                                 article_title=title)
+        all_chunks.extend(chunks)
+        source_count += 1
+
+        if verbose:
+            print(f"  {rel_path}: {len(chunks)} chunks (fulltext)")
+
     if not all_chunks:
         print("No chunks generated.")
         return
 
-    print(f"Processing {len(doc_paths)} documents -> {len(all_chunks)} chunks")
+    print(f"Processing {len(doc_paths)} research docs + {source_count} fulltext sources -> {len(all_chunks)} chunks")
 
     # Embed in batches
     batch_size = 50

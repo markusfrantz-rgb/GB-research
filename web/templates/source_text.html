@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} — Fulltext</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <style>
+    .source-text {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 0.92rem;
+      line-height: 1.8;
+    }
+    .source-meta {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1><a href="/" style="color:white; text-decoration:none;">GBS &amp; IgA-brist &mdash; Kunskapsdatabas</a></h1>
+  <nav>
+    <div class="nav-main">
+      <a href="/" class="nav-primary" style="text-decoration:none;">Tillbaka</a>
+    </div>
+    <span class="nav-secondary" style="border:none; cursor:default; font-size:0.75rem;">sources/fulltext/{{ filename }}</span>
+  </nav>
+</div>
+
+<div class="intro-container">
+  <div class="intro-content">
+    <h1>{{ title }}</h1>
+    <p class="source-meta">Fulltext &mdash; <code>{{ filename }}</code></p>
+    <div class="source-text">{{ text }}</div>
+  </div>
+</div>
+
+<footer class="disclaimer">
+  <div class="disclaimer-inner">
+    <p><strong>Medicinsk disclaimer</strong></p>
+    <p>
+      Denna kunskapsdatabas är ett forskningsverktyg och ersätter inte klinisk bedömning.
+      Innehållet baseras på publicerad peer-reviewed forskning och är avsett som beslutsstöd
+      för legitimerad sjukvårdspersonal.
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

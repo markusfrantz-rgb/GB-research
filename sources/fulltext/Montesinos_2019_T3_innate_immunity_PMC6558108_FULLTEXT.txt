@@ -1,0 +1,877 @@
+MINI REVIEW
+published: 04 June 2019
+doi: 10.3389/fendo.2019.00350
+Frontiers in Endocrinology | www.frontiersin.org 1 June 2019 | Volume 10 | Article 350Editedby:
+WenKong,
+WuhanUnionHospital,China
+Reviewedby:
+LanWu,
+VanderbiltUniversityMedicalCenter,
+UnitedStates
+TaisenIguchi,
+NationalInstituteforBasicBiology,
+Japan
+*Correspondence:
+ClaudiaGabrielaPellizas
+claudia@fcq.unc.edu.ar
+Specialtysection:
+Thisarticlewassubmittedto
+ExperimentalEndocrinology,
+asectionofthejournal
+FrontiersinEndocrinology
+Received: 08January2019
+Accepted: 15May2019
+Published: 04June2019
+Citation:
+MontesinosMMandPellizasCG
+(2019)ThyroidHormoneActionon
+InnateImmunity.
+Front.Endocrinol.10:350.
+doi:10.3389/fendo.2019.00350Thyroid Hormone Action on Innate
+Immunity
+MaríadelMarMontesinosandClaudiaGabrielaPellizas *
+FacultaddeCienciasQuímicas,CentrodeInvestigacionesen BioquímicaClínicaeInmunología(CIBICI-CONICET)and
+DepartamentodeBioquímicaClínica,UniversidadNacional deCórdoba,Córdoba,Argentina
+The interplay between thyroid hormone action and the immune system has been
+established in physiological and pathological settings. H owever, their connection is
+complex and still not completely understood. The thyroid ho rmones (THs), 3,3′,5,5′
+tetraiodo-L-thyroxine (T4) and 3,3′,5-triiodo-L-thyronine (T3) play essential roles in both
+the innate and adaptive immune responses. Despite much rese arch having been
+carried out on this topic, the available data are sometimes d ifﬁcult to interpret or even
+contradictory. Innate immune cells act as the ﬁrst line of de fense, mainly involving
+granulocytes and natural killer cells. In turn, antigen pre senting cells, macrophages
+and dendritic cells capture, process and present antigens ( self and foreign) to naïve T
+lymphocytes in secondary lymphoid tissues for the developm ent of adaptive immunity.
+Here, we review the cellular and molecular mechanisms invol ved in T4 and T3 effects on
+innateimmunecells.Anoverviewofthestate-of-the-artof THtransportacrossthetarget
+cell membrane, TH metabolism inside these cells, and the gen omic and non-genomic
+mechanisms involved in the action of THs in the different inn ate immune cell subsets is
+included. The present knowledge of TH effects as well as the t hyroid status on innate
+immunity helps to understand the complex adaptive response s achieved with profound
+implicationsinimmunopathology,whichincludeinﬂammati on,cancerandautoimmunity,
+at the crossroads of the immune and endocrine systems.
+Keywords: thyroid hormones, innate immunity, neutrophils, na tural killer cells, macrophages, dendritic cells
+INTRODUCTION
+Growing evidence compiled over recent decades has revealed a bidirectional crosstalk between
+thyroidhormones(THs)andtheimmunesystem.Thisinterplay hasbeendemonstratedforseveral
+pathophysiological conditions of the thyroid functioning an d the innate and adaptive immunity.
+ManysituationsprimarilyaﬀectingtheactionofTHshaveanimpa ctonthecharacteristicsand/or
+functions of immune cells, and are translated to host defense status and related disorders. In
+turn,immune-relateddisordersconducttothemostfrequen tthyroiddysfunctions,whichhavean
+autoimmune origin. The connection between these systems is complex and not well-understood.
+Thisarticlereviewsthecurrentevidencesupportingthecont ributionofTHstothemodulationof
+innateimmunityatthecellularlevel.
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+Thyroid Hormone Action
+THs exert a pivotal role for normal development and function.
+The thyroid produces 3,3′,5,5′tetraiodo-L-thyroxine (T4) and
+3,3′,5-triiodo-L-thyronine(T3),mainlyunderthyrotropin(TS H)
+regulation. While this gland secretes 100% of circulating T 4,
+it provides only a low percentage of serum levels of the most
+physiologically active TH: T3, which for the major part derive s
+from peripheral 5′deiodination of T4 ( 1). At the target cell
+level, the action of THs is genomic (nuclear) and non-genomi c.
+The former requires T3 and the speciﬁc nuclear receptors
+(TRs): TR α1, TRβ1, TRβ2, and TR β3 (2) and is controlled
+by a multiprotein complex comprising both corepressors and
+coactivators( 3).
+Translocation of TRs from their synthesis in the cytosol to
+the nucleus is a functionally active process ( 4). In this regard,
+non-genomiceﬀectsexertedintracellularlybyTRsandtrunca ted
+variants occur rapidly, can be observed in the cytoplasm,
+mitochondria and other organelles, and are independent of
+nuclear receptor activity and protein synthesis. Many eﬀects
+conducted by cytoplasmic TRs involve PI3K-dependent Akt
+activation( 5).Furthermore,non-genomicactionsofTHsarealso
+initiatedattheplasmamembranethroughdiﬀerentproteins.Th e
+best studied is the integrin ανβ3, which binds mainly T4 and
+tetraiodothyroacetic acid (tetrac), a derivative of T4, in ducing
+activation of AMPK, PI3K/Akt, and MAPK ( 6,7). Overall, THs
+interactwithawidevarietyofsignalingpathwaysthatareno tyet
+fullydeciphered.
+Circulating levels of THs are not representative of what
+each cell type detects. Instead, the action of THs requires an
+appropriate interplay among membrane TH transporters, TH
+deiodinases and TR expression, and thus there is a ﬁne-tuned
+cellular TH responsiveness. The main TH transporters include
+monocarboxylate transporters (MCT) 8 and 10, organic anion
+transporter polypeptides (OATPs) and large neutral amino acid
+transporters (LATs), with MCT8, MCT10, and LATs having a
+higher aﬃnity for T3 than T4 uptake. Additionally, the cellula r
+concentrationsofTHsareregulatedbytheactivityofthe1, 2,and
+3 iodothyronine deiodinases: D1, 2, and 3. D2 is an “activati ng”
+enzyme, responsible for the peripheral production of 50–80% of
+thebodypoolofT3fromT4.Incontrast,D3restrainsT3action ,
+convertingT4andT3intoinactivemetabolites.THtransport ers
+and deiodinases exhibit a particular expression proﬁle that is
+cellular and metabolic state speciﬁc ( 8,9). Newly discovered
+actions of T4 and T3 metabolites, such as 3,5-diiodothyroni ne
+(3,5-T2),and3-iodothyronamine(T1AM)areemerging( 10).
+Innate Immunity
+The immune system includes cells that protect the organism
+from foreign antigens, such as microbes, cancer cells, toxi ns,
+and damage signals. It is simplistically referred to as innat e
+andadaptiveimmunity.Theformeroﬀersimmediateprotection
+against intruders, with speciﬁc cells being able to ﬁght a wid e
+range of pathogens, with the latter being speciﬁc and antigen-
+dependent ( 11). Moreover, adaptive immunity is orchestrated
+anddirectedbyitsinnatecounterpart.
+The main innate cells are polymorphonuclear leukocytes
+(PMNL, mainly neutrophils), innate lymphoid cells (ILCs)including natural killer (NK) cells and cytokine-producing
+helper-like ILCs, innate T-like cells comprising NKT and γδT
+cells, monocytes, macrophages and dendritic cells (DCs). Thei r
+complete classiﬁcation and plethora of functions have been
+extensivelyreviewed( 12–15).
+Thebeliefthatinnateimmunityisnon-speciﬁcwaschallenge d
+after the description of pattern-recognition receptors and
+molecules that recognize pathogen and damage-associated
+molecular patterns from intruders ( 16,17). Furthermore, the
+concept of exclusive memory for adaptive responses was
+weakened after the description of “trained innate memory,”
+involving a heightened response upon re-exposure to a certain
+stimulus ( 16,18) under the control of the cellular metabolism
+(19). Moreover, innate immune tolerance has also been
+demonstrated( 20).
+This review article focuses on the state-of-the-art of the T H
+mechanism of action and its eﬀects on innate immunity at
+cellular level, with the pathophysiological role of the reporte d
+ﬁndings also discussed. The main eﬀects of T3 and/or T4 in
+Neutrophils, NK cells, Macrophages and DCs are depicted in
+Figure1andconsideredbelow.
+Neutrophils
+Neutrophils are the ﬁrst line of defense against bacteria and
+fungi, and also help to combat parasites and viruses ( 21). They
+travel from the blood to the inﬂammatory site where they
+engage and kill microorganisms and clear infections through
+chemotaxis, phagocytosis, and cytokine synthesis, and the
+release of reactive oxygen species (ROS) and granular proteins
+such as myeloperoxidase (MPO) ( 22). Classical concepts of
+neutrophil biology are being increasingly challenged by rece nt
+ﬁndings( 23,24).
+Administration of T3 to rats increased the respiratory burst
+activity of isolated PMNLs with enhanced NADPH oxidase and
+MPO activities ( 25,26). Accordingly, increased mitochondrial
+oxygen consumption and ROS production were reported in
+PMNLs from both Graves’ disease and toxic adenoma patients
+(27).Moreover,T3administrationtoeuthyroidsubjectsinduce d
+ROS generation by PMNLs ( 28). However, a decrease in
+oxidative metabolism was registered in human PMNLs during
+hypothyroidism, which was reversed upon L-T4 substitution
+therapy ( 29). The authors suggest that this eﬀect was unlikely
+to result from direct actions of THs on PMNLs, considering
+that T3 showed no appreciable eﬀect on superoxide anion (O−
+2)
+generation in in vitroexperiments with PMNLs from healthy
+donors. In addition, hypothyroidism causes changes in the lipi d
+composition of PMNLs’ membranes that may be involved in
+theirimpairedfunction( 30).Tonote,humanneutrophilsexpress
+TR(31).
+T4 and the TH metabolite 3,5-T2 as well as T3 induced
+respiratory-burst activity and stimulated MPO activity in
+human PMNLs. These eﬀects were mediated by a non-genomic
+mechanism initiated at the plasma membrane, dependent on
+PKCandCa+levels.Moreover,O−
+2productioninrestingPMNLs
+of hyperthyroid patients was elevated compared with either
+controls or hypothyroid subjects ( 32). Furthermore, PMNLs
+Frontiers in Endocrinology | www.frontiersin.org 2 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+FIGURE 1 | Effects of thyroid hormones 3,3′,5,5′tetraiodo-L-thyroxine (T4) and 3,3′,5-triiodo-L-thyronine (T3) on innate immune cell subsets . The main reported
+effects of T3 and/or T4 in Neutrophils, Natural Killer (NK) ce lls, Macrophages and Dendritic Cells are depicted. Particu lar differences among the diverse origins of the
+cells (human, mice, cell lines, and/or tissue source) are sho wn and discussed in the main text.
+express receptors for T1AM, a T4 derivative, involved in the
+chemosensorymigrationtowardT1AM( 33).
+THmetabolismplaysanimportantroleinneutrophilfunction
+during infection. It has been demonstrated that D3 is strong ly
+expressed in murine neutrophils during chronic chemical
+inﬂammation and in acute bacterial infection. Accordingly ,
+human neutrophils express D3, D1, MCT10, and TR α1, which
+could therefore be involved in TH action in this cell type.
+Furthermore, evidence has supported the notion that D3 plays
+a role in the bacterial killing capacity of neutrophils, eithe r
+through generation of iodide for the MPO system or through
+modulationofintracellularTHbioavailability( 34).Recentresults
+have demonstrated that intracellular TH levels are regulat ed by
+D3, playing a key role in neutrophil function in zebraﬁsh, mice
+andhumans( 35).
+Natural Killer Cells
+NK cells mediate cytolytic activities against tumor and vir us-
+infected targets. Of note, NK cells also possess traits of ada ptive
+immunity and can acquire functional qualities associated wi th
+immunological memory ( 36). The studies of the eﬀects of THs
+on these cells have produced conﬂicting results. A positive
+correlationbetweenserumT3concentrationandNKcellacti vity
+in healthy elderly subjects was recorded but exogenous T3
+administration increased NK cell activity only in old indiv iduals
+who had T3 concentrations at the lower end of the reference
+range (37). Although NK cell functionality was impaired inGraves’ patients and restored in the euthyroid state ( 38,39),
+invitrotreatmentwithT4toperipheralbloodlymphocytesfrom
+these patients did not show any increase in NK cell activity ( 40).
+In agreement, hyperthyroxinemia induced in mice reduced NK
+cellcapacitytolysetargetcells( 41)whereasexogenousT4orT3
+administeredtomiceincreasedNKcelllyticactivity( 42),aswell
+asduringproteinstarvation( 43),oraging( 44).
+Endogenous IFN- γplays a relevant role in the host defense
+against infectious and neoplastic diseases by mechanisms tha t
+involvemodulationoftheNKcellfunction( 45,46).BothT3and
+T4boostedIFN γ-responseinmurineNKcells( 44,47),whileT4
+ampliﬁed the eﬀect induced by both IFN- γand IL-2 ( 48). These
+ﬁndings suggest a role for THs in the modulation of NK cell
+sensitivitytoIFN- γ.
+A recent study linked uterine NK cells (the most prominent
+leukocytes at the maternal-fetal interface) with THs. These cells
+express MCT8 and MCT10, as well as TR α1 and β1 in the ﬁrst
+trimesterofhumanpregnancy.AnincreaseofIL-6secretiona fter
+T3exposure invitrowasalsoreported( 49).
+Monocytes—Macrophages
+Macrophages are strategically positioned in all tissues of the
+body and can recognize and remove pathogens, toxins, cellular
+debris, and apoptotic cells. Tissue-resident macrophages in
+adulthood rely on replenishment by bone marrow (BM)-
+derived blood monocytes, with circulating monocytes being
+recruited to tissues by speciﬁc chemotactic factors. Among
+Frontiers in Endocrinology | www.frontiersin.org 3 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+other names, tissue-resident macrophages are referred to as
+“microglia” in the central nervous system and “Kupﬀer cells”
+in the liver ( 50–52). Depending on the signal and the dose, a
+second stimulation can result in tolerance or trained immun ity
+(53,54). In response to stimuli, diﬀerentiated macrophages
+polarize to classically activated M1 or alternatively activat ed M2
+macrophages, although a spectrum of phenotypes across the
+M1/M2 continuum is recognized. M1 macrophages phagocytize
+anddestroymicrobes,eliminatetumorcells,andpresentant igens
+to T cells through ROS production, expression of inducible
+nitric oxide synthase (iNOS) and release of proinﬂammatory
+cytokines, thereby promoting T helper (Th) 1 responses ( 55).
+In contrast, M2 macrophages show an immunosuppressive
+phenotype characterized by a decreased antigen presentation t o
+TcellsandproductionofcytokinesthatstimulateTh2respons es.
+These regulatory cells are involved in tissue repair, promote
+tumorgrowthandexertantiparasiticeﬀects( 56).
+In spite of controversial results concerning the expression
+of TR isoforms, macrophages express TR αandβ(57–61). In
+addition, murine and human macrophage cell lines express D2,
+MCT10, and MCT8 ( 59). Over the past decade, it has become
+clear that shifts in cellular metabolism are determinants o f
+macrophage function and phenotype ( 62). The activities of key
+enzymesofglycolysisareregulatedbyTHsinthesecells,aﬀe cting
+macrophage metabolism and function ( 63). Stimulation of the
+immune system in hyperthyroid rats revealed that monocyte
+migrationandROSproductionbymacrophagesweresuppressed.
+In contrast, hypothyroidism enhanced ROS release, whereas
+monocytemigrationwasnotaﬀected( 64).
+THs enhanced the phagocytic activity of intraperitoneal
+macrophages from hypothyroid rats ( 64). Moreover, T4
+administration to old mice also increased their phagocytic
+capacity ( 65). In agreement, a stimulatory eﬀect of T4 (but not
+T3) on the phagocytosis process of cultured peritoneal mouse
+macrophages was reported ( 66). However, both THs enhanced
+bacteria-cell interaction and intracellular killing in mi ce RAW
+264.7 and human THP-1 monocyte-derived macrophage cell
+lines (67). This mechanism involved the integrin αvβ3, TH-
+induced iNOS expression, generation of NO and triggering of
+thePI3KandERK1/2signalingpathways.
+The inﬂammatory response exerted by macrophages was
+stimulated during hypothyroid condition and inhibited in th e
+course of hyperthyroidism ( 68). T4 inhibited the migration
+inhibitory factor (MIF) in macrophages ( 67,69), and in
+agreement, low plasma T4 concentrations augmented plasma
+MIF levels in both patients and rats with severe sepsis ( 69).
+Although T4 attenuated proinﬂammatory responses in vivo, no
+signiﬁcant changes in IL-6 and TNF αlevels could be detected in
+T4-treated peritoneal macrophages from mice, or in mouse and
+humancelllines( 67).
+The “euthyroid sick syndrome” (or “nonthyroidal illness”)
+is distinctive of critically ill patients with severe infect ions
+or sepsis, being characterized by low serum T3 and in
+serious cases by also low serum T4 without the expected
+increase in TSH ( 70). Interestingly, supplementation of T4
+to rats and mice in bacterial infectious models enhanced
+animal survival and attenuated septicemia and inﬂammatoryresponses ( 67,71). In agreement, hypothyroid mice exhibited
+increased mortality during inﬂammation induced by LPS,
+whereas circulating T3, through TR β1 signaling, protected
+animals from endotoxemia ( 57). However, it was reported
+that hyperthyroidism increased mice mortality in response
+to LPS. Noteworthy, Signal Transducer and Activator of
+Transcription 3 (STAT3) activation induced by LPS or IL-6
+was inhibited by T3 through TR signaling in RAW 264.7 cells
+and in primary cultures of BM-derived macrophages. These
+authors suggested that inhibition of IL-6 signaling induce d
+by T3 has potent regulatory functions during infection and
+inﬂammation( 72).
+Switching from M1 to the M2 phenotype protects
+the organism from excessive inﬂammation, whereas
+switching from M2 to M1 prevents allergic and asthmatic
+Th2 reactions, decreases the bactericidal properties of
+macrophages and favors the resolution of inﬂammation
+(63). In this regard, T3 reduced monocyte diﬀerentiation into
+macrophages and induced a M1 signature. In agreement, T3
+decreased the expression of genes regulated by M2-activated
+macrophages through a TR β1-mediated mechanism ( 58).
+Although comparable results were registered in RAW264.7
+macrophages, a TR α-dependence was revealed ( 73). In
+contrast, in a model of kidney obstruction, ligand-bound
+TRαinhibited the NF- κB pathway and proinﬂammatory
+cytokines in macrophages isolated at the inﬂammatory
+site(61).
+The role of intracellular TH metabolism in macrophages has
+been extensively reported and reviewed by Boelen group ( 34),
+and is therefore not covered in this review. More recently, a
+reduction of intracellular T3 concentration due to a lack of D 2
+activity with impaired macrophage function was reported. Also,
+primary BM-derived macrophages treated with LPS decreased
+phagocytosis and proinﬂammatory cytokines in D2 KO mice
+(73),consistentwithearlierresultsinRAW264.7cells( 59).
+Modiﬁcations in the homeostatic conditions of the nervous
+tissue promote microglia activation, release of inﬂammator y
+mediatorsandphagocytosisofdegeneratingcells( 74).Limaetal.
+(75) reported that rat microglial cells in culture express TR α
+and TR β, whereas other authors did not observe the latter ( 76).
+αVβ3 integrin has also been described in these cells ( 77), and
+in mice microglia, the TH transporters OATP4A1, LAT2, and
+MCT10 were also found ( 78,79). It is known that T3 modulates
+microglialdevelopment( 75)andfunctionssuchasmigrationand
+phagocytosis by genomic and non-genomic pathways ( 80). The
+molecular mechanism involves T3 uptake by TH transporters
+and binding to TRs, thus triggering multiple signaling pathways
+(80,81). Moreover, T3 increased the release of soluble factors
+by the microglia through STAT3 activation, promoting glioma
+growth(82).
+LiverisoneofthemostrelevantTHtargettissues.T3induce d
+acceleration of cellular O−
+2consumption, resulting in elevated
+ROS and NO ( 83). In agreement, T3-stimulated free radical
+activity reduced the cellular antioxidant defenses leading to
+oxidative stress in rats, a phenomenon also observed in human
+hyperthyroidism ( 84,85). Kupﬀer cells are main scavengers
+constantly clearing gut-derived pathogens from the blood,
+Frontiers in Endocrinology | www.frontiersin.org 4 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+preventing liver diseases ( 86). T3 promoted hyperplasia and
+hypertrophy of these cells, with a resulting enhancement in th e
+respiratoryburstactivity.Furthermore,T3-inducedcalor igenesis
+resulted in transient elevations in serum TNF- α, determined
+by actions exerted in Kupﬀer cells and involving activation
+of NF-kB ( 87). The hepatic response induced by T3 involved
+cell proliferation associated with TNF- αgeneration by Kupﬀer
+cells(88).
+Dendritic Cells
+DCs are the main antigen presenting cells in the interface
+between innate and adaptive immunity. They integrate signal s
+derivedfrominfectionordamage,andpresentprocessedantig en
+to naive T cells to tailor the appropriate T cell program.
+Recent advances in DC immunobiology have led to a clearer
+understandingofhowTcellresponsesareshaped( 89).Themain
+DCs include conventional (classical or myeloid) DCs (cDCs,
+referred as DCs from now on) and plasmacytoid DCs (pDCs).
+ThegeneticsignatureofDCsfromdiﬀerenttissuesissimilar ,but
+diﬀersfromthatofpDCs,monocytesandmacrophages.Tonote,
+DCsarefunctionallydiﬀerenttomacrophages( 89,90).Immature
+DCs(iDCs)havesubstantialendocyticactivitybutlowersu rface
+expression of major histocompatibility complex (MHC) class I
+andIIproteins.Afterencounteringanystimulus,DCsmature to
+undergo considerable cytoplasmic reorganization, transpor ting
+peptide-MHC complexes to the cell surface and upregulating
+costimulatory molecules ( 90). Recent studies highlighted the
+relevance of DC migration in the maintenance of immune
+surveillance. Immature DCs are rather immotile, and after
+processing foreign and self-antigens or damage signals unde rgo
+an activation process, leading to an increase in motility
+corresponding to upregulation of CC-chemokine receptor 7
+(CCR7). The interaction of CCR7 with its ligand guides DCs
+towardsecondarylymphoidorgans( 91).
+The role of THs in the initiation of adaptive immunity
+remained uncertain for many years, with Mooij et al. providing
+the earliest clues that THs and other iodinated derivatives ,
+mainly T3, favored the maturation of human peripheral blood
+monocytes into functional DCs ( 92). Many years later, our
+laboratory initiated a study on the eﬀects of THs at the
+DC level ( Figure2). We observed the expression of TRs in
+BM-derived mouse DCs, principally the TR β1 isoform, and
+mainly in the cytoplasm of both iDCs and LPS-matured DCs.
+The ability of physiological concentrations of T3 to induce
+phenotypic and functional activation of DCs and to drive a Th1
+proﬁle was also demonstrated ( 93). Mechanistically, this eﬀect
+involved activation of the Akt and NF-kB pathways ( 94) and
+was counteracted by glucocorticoids ( 95). The requirement for
+an intact TR β-T3 signaling in T3-induced DC activation was
+conﬁrmedby invitroandinvivostudies(94,96).
+Interestingly,weshowedthatT4,themaincirculatingTH,d id
+notreproduceT3-dependenteﬀectsinDCs.Thecharacterizatio n
+of the mechanisms of TH transport and metabolism in DCs
+supports the notion of a homeostatic balance to prevent
+unspeciﬁcsystemicactivationofDCs.Inthisregard,DCsexpr ess
+MCT10 and LAT2 TH transporters, and mainly transport T3
+with a favored involvement of MCT10, as its inhibition almos tprevented T3 saturable uptake mechanism and reduced T3-
+induced IL-12 production. In addition, DCs express D2 and D3,
+and exhibit both enzymatic activities with a prevalence towa rd
+THinactivation( 97).
+Immunotherapy has become the fourth pillar of cancer care,
+complementing surgery, cytotoxic therapy, and radiotherapy
+(98). In this context, DCs have been the subject of numerous
+studies seeking new immunotherapeutic strategies against
+cancer. However, despite initial enthusiasm, disappointing
+results including a short half-life of DCs in circulation
+and induction of tolerogenic responses by death cells, have
+raised doubts regarding these approaches. Nevertheless, the
+increased understanding of DC immunobiology and the search
+for optimization strategies are allowing a more rational
+development of DC-based immunotherapies ( 99,100). A new
+role for THs in this ﬁeld has arisen, with T3 binding to
+TRβincreasing mice DC viability and augmenting CCR7
+expression, thereby driving migration of DCs to lymph nodes.
+Moreover, T3 stimulated the antigen cross-presentation abil ity
+of DCs, boosting antigen-speciﬁc cytotoxic T-cell responses.
+Also, vaccination with T3-stimulated DCs in mice bearing B16
+melanoma inhibited tumor growth and prolonged host survival
+(96,101). Overall, these results established the adjuvant eﬀect of
+T3-TR βsignalinginDCs,identifyingaDCvaccinationapproach
+incancerimmunotherapy.
+Further recent in vitro andin vivoevidence has shed
+light on the molecular and cellular mechanisms driven
+by T3-conditioned murine DCs ( 102). Findings revealed
+an induction of a proinﬂammatory cytokine proﬁle and a
+down-modulation of PDL expression in DCs. In co-cultures,
+these cells increased the frequency of IL-17-producing
+splenocytes, mainly by the γδ-T population. Thus, down-
+regulation of tolerogenic T regulatory (Treg) cells and PD1
+expression were induced, limiting the inhibitory signals
+and emphasizing the relevance of T3 as an additional
+immune-endocrinecheckpoint.
+The understanding of the eﬀect of THs in human DCs is still
+limited. Dedecjus et al. ( 103) reported that the thyrometabolic
+state inﬂuenced the major human peripheral blood DCs, pDCs,
+and cDCs, with T4 substitution to thyroid cancer patients aft er
+surgeryincreasingthefrequencyofthesecellsandtheexpres sion
+of CD86 and HLA-DR (activation markers). In hypothyroid
+patients with Hashimoto’s Thyroiditis, T4 supplementation
+exerted changes of peripheral blood DC subpopulations, with
+increasedexpressionofcostimulatorymolecules( 104).Although
+TRs in human DC populations have not yet been found,
+increased expression of CD86 by T3 addition to cell cultures
+of human peripheral blood pDCs was reported ( 103). Also, T3
+increasedtheabilityofhumanDCstoupregulatetheprolifera tive
+responseandsecretionofIL-12byperipheralbloodmononuclea r
+cells,similartoourﬁndingsinmicesplenocytesco-culture dwith
+T3-stimulatedDCs( 93).
+The proinﬂammatory role of IL-12 and its involvement in
+Th1-mediated organ-speciﬁc autoimmune diseases ( 105) confer
+potential clinical relevance of the aforementioned studies . An
+increasedsynthesisofIL-12byDCsobtainedfromhyperthyro id
+mice has been reported ( 106). Furthermore, patients with
+Frontiers in Endocrinology | www.frontiersin.org 5 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+FIGURE 2 | 3,3′,5-triiodo-L-thyronine (T3) promotes Dendritic Cell (DC) maturation and function, driving proinﬂammatory and cytoto xic adaptive responses. (Top)T3
+promotes DC phenotypic maturation upregulating MHCII and co stimulatory molecules. The functional DC activation promo tes a proinﬂammatory cytokine phenotype
+(increased production of IL-12, IL-6, IL-23, IL-1 β, and TGF β1) that drives adaptive responses favoring the development of Th1 and Th17T cells, IL-17-producing γδT
+cells, and cytotoxic T cells. In contrast, the Treg populatio n is restrained. T3-conditioned DCs also augment CCR7 expre ssion, which favors their migration to lymph
+nodes, where they present processed antigens in the context of MHCII to speciﬁc T cell receptors (TCR) from naïve T cells. T3 also modulates the immune checkpoint,
+reducing PDL expression on DCs and triggering the down-regu lation of PD-1-expressing T cells (not shown). (Bottom) DCs take up T3 more effectively than T4
+through MCT10 and LAT2. Inside DCs, D2 catalyzes the conversi on of T4 to T3, whereas D3 inactivates T3 resulting in T2. Thes e cells mainly express TR β1 with a
+preferred cytoplasmic localization, where it co-localize s with Akt. Upon T3 binding to TR β1, Akt is activated and translocated to the nucleus. This mec hanism includes
+IκB degradation and thus NF- κB cytoplasmic-nuclear shuttling that acts as a transcripti on factor upregulating TR β1 expression. An intact T3-TR β1 signaling is
+essential for T3-dependent DC induced effects.
+Graves’ disease exhibited elevated IL-12 circulating leve ls (107).
+Considering that DCs are involved in the pathogenesis of
+autoimmune thyroid diseases ( 108) and also their potential
+application for the treatment of these pathologies ( 109), further
+researchshouldshedlightinthisﬁeld.
+CONCLUDING REMARKS
+The relationship between THs and innate immune cells
+is complex, with an improved knowledge still necessary.Cellular and molecular signaling pathways involved in
+the crosstalk between THs and innate immune functions,
+and their role directing adaptive immunity have profound
+implications in immunopathology, including cancer and
+autoimmune manifestations of the thyroid gland, at the
+crossroads of the immune and endocrine systems. The
+etiopathogenic mechanism involved in both immune-related
+thyroid pathologies and immune disorders due to thyroid
+dysfunctions are now better understood. With a focus on
+particular cell subsets, further research will provide valua ble
+Frontiers in Endocrinology | www.frontiersin.org 6 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+tools for manipulating the immunogenic potential of innate
+immunecellstopositivelyregulatethedevelopmentofprotect ive
+immunity, or negatively control the generation of autoimmu ne
+thyroidinﬂammation.
+AUTHOR CONTRIBUTIONS
+MM and CP: conception and design, analysis and
+interpretation of available data, writing, review, and
+revision of the manuscript. MM: design of ﬁgures. CP:
+generalsupervision.FUNDING
+This study was supported by grants from Agencia Nacional
+de Promoción Cientíﬁca y Tecnológica (ANPCyT, PICT-2016-
+0254 y PICT-2016-0037), Secretaría de Ciencia y Tecnología
+delaUniversidadNacionaldeCórdoba(SeCyT,2018-2020),an d
+FundaciónSales.
+ACKNOWLEDGMENTS
+TheauthorsareextremelygratefultoIsabelMariaMontesino sfor
+herexcellentassistanceinthedesignanddrawingoftheﬁgu res.
+REFERENCES
+1. WilliamsGR,BassettJH.Deiodinases:thebalanceofthyroidhormo ne:local
+control of thyroid hormone action: role of type 2 deiodinase. J Endocrinol .
+(2011)209:261–72.doi:10.1530/JOE-10-0448
+2. Bernal J, Guadano-Ferraz A, Morte B. Thyroid hormone transporters-
+functions and clinical implications. Nat Rev Endocrinol . (2015)
+11:690.doi:10.1038/nrendo.2015.113
+3. Astapova I. Role of co-regulators in metabolic and transcriptional
+actions of thyroid hormone. J Mol Endocrinol . (2016) 56:73–
+97.doi:10.1530/JME-15-0246
+4. Anyetei-Anum CS, Roggero VR, Allison LA. Thyroid hormone
+receptor localization in target tissues. J Endocrinol . (2018)
+237:R19–34.doi:10.1530/JOE-17-0708
+5. Cao X, Kambe F, Moeller LC, Refetoﬀ S, Seo H. Thyroid hormone induces
+rapid activation of Akt/protein kinase B-mammalian target of rapamycin -
+p70S6Kcascadethroughphosphatidylinositol3-kinaseinhumanﬁb roblasts.
+MolEndocrinol .(2005)19:102–12.doi:10.1210/me.2004-0093
+6. Kalyanaraman H, Schwappacher R, Joshua J, Zhuang S, Scott BT,
+Klos M, et al. Nongenomic thyroid hormone signaling occurs
+through a plasma membrane-localized receptor. Sci Signal . (2014)
+7:ra48.doi:10.1126/scisignal.2004911
+7. DavisPJ,GogliaF,LeonardJL.Nongenomicactionsofthyroidh ormone.Nat
+RevEndocrinol .(2016)12:111–21.doi:10.1038/nrendo.2015.205
+8. Ortiga-Carvalho TM, Chiamolera MI, Pazos-Moura CC, Wondisford
+FE. Hypothalamus-pituitary-thyroid axis. Compr Physiol . (2016) 6:1387–
+428.doi:10.1002/cphy.c150027
+9. Mendoza A, Hollenberg AN. New insights into thyroid hormone acti on.
+PharmacolTher .(2017)173:135–45.doi:10.1016/j.pharmthera.2017.02.012
+10. Louzada RA, Carvalho DP. Similarities and diﬀerences in the peri pheral
+actionsofthyroidhormonesandtheirmetabolites. FrontEndocrinol. (2018)
+9:394.doi:10.3389/fendo.2018.00394
+11. Yatim KM, Lakkis FG. A brief journey through the immune system. Clin J
+AmSocNephrol .(2015)10:1274–81.doi:10.2215/CJN.10031014
+12. Diefenbach A, Colonna M, Koyasu S. Development, diﬀerentiati on,
+and diversity of innate lymphoid cells. Immunity . (2014) 41:354–
+65.doi:10.1016/j.immuni.2014.09.005
+13. Woo SR, Corrales L, Gajewski TF. Innate immune
+recognition of cancer. Annu Rev Immunol . (2015) 33:445–
+74.doi:10.1146/annurev-immunol-032414-112043
+14. Dadi S, Chhangawala S, Whitlock BM, Franklin RA, Luo CT, Oh SA, et al.
+Cancer immunosurveillance by tissue-resident innate lymphoid cells a nd
+innate-likeTcells. Cell.(2016)164:365–77.doi:10.1016/j.cell.2016.01.002
+15. Ebbo M, Crinier A, Vely F, Vivier E. Innate lymphoid cells: major
+players in inﬂammatory diseases. Nat Rev Immunol . (2017) 17:665–
+78.doi:10.1038/nri.2017.86
+16. Netea MG, Latz E, Mills KH, O’Neill LA. Innate immune memory: a
+paradigmshiftinunderstandinghostdefense. NatImmunol .(2015)16:675–
+9.doi:10.1038/ni.3178
+17. Herwald H, Egesten A. On PAMPs and DAMPs. J Innate Immun . (2016)
+8:427–8.doi:10.1159/00044843718. Netea MG, Quintin J, van der Meer JW. Trained immunity:
+a memory for innate host defense. Cell Host Microbe . (2011)
+9:355–61.doi:10.1016/j.chom.2011.04.006
+19. Penkov S, Mitroulis I, Hajishengallis G, Chavakis T. Immunometa bolic
+crosstalk: an ancestral principle of trained immunity? Trends Immunol .
+(2019)40:1–11.doi:10.1016/j.it.2018.11.002
+20. Dominguez-Andres J, Novakovic B, Li Y, Scicluna BP, Gresnigt MS, Arts
+RJW,etal.Theitaconatepathwayisacentralregulatorynodelinkin ginnate
+immune tolerance and trained immunity. Cell Metab . (2019) 29:211–20.e5.
+doi:10.1016/j.cmet.2018.09.003
+21. Ley K, Hoﬀman HM, Kubes P, Cassatella MA, Zychlinsky A, Hedrick CC,
+et al. Neutrophils: new insights and open questions. Sci Immunol . (2018)
+3:eaat4579.doi:10.1126/sciimmunol.aat4579
+22. Mortaz E, Alipoor SD, Adcock IM, Mumby S, Koenderman L. Update
+on neutrophil function in severe inﬂammation. Front Immunol . (2018)
+9:2171.doi:10.3389/ﬁmmu.2018.02171
+23. Silvestre-Roig C, Hidalgo A, Soehnlein O. Neutrophil heterogene ity:
+implications for homeostasis and pathogenesis. Blood. (2016) 127:2173–
+81.doi:10.1182/blood-2016-01-688887
+24. JablonskaJ,GranotZ.Neutrophil,quovadis? JLeukocBiol .(2017)102:685–
+8.doi:10.1189/jlb.3MR0117-015R
+25. Videla LA, Correa L, Rivera M, Sir T. Zymosan-induced luminol-
+ampliﬁed chemiluminescence of whole blood phagocytes in experimental
+and human hyperthyroidism. Free Radic Biol Med . (1993) 14:669–
+75.doi:10.1016/0891-5849(93)90149-O
+26. Fernandez V, Videla LA. On the mechanism of thyroid hormone-ind uced
+respiratory burst activity in rat polymorphonuclear leukocytes. Free Radic
+BiolMed.(1995)19:359–63.doi:10.1016/0891-5849(95)00016-Q
+27. SzaboJ,ForisG,MezosiE,NagyEV,ParaghG,SztojkaI,etal. Parametersof
+respiratory burst and arachidonic acid metabolism in polymorphonuclear
+granulocytes from patients with various thyroid diseases. Exp
+Clin Endocrinol Diabetes . (1996) 104:172–6. doi: 10.1055/s-0029-
+1211440
+28. Magsino CH Jr., Hamouda W, Ghanim H, Browne R, Aljada A, Dandona
+P. Eﬀect of triiodothyronine on reactive oxygen species generati on
+by leukocytes, indices of oxidative damage, and antioxidant re serve.
+Metabolism .(2000)49:799–803.doi:10.1053/meta.2000.6263
+29. MarinoF,GuastiL,CosentinoM,DePiazzaD,SimoniC,Piant anidaE,etal.
+Thyroid hormone regulation of cell migration and oxidative metabolism
+in polymorphonuclear leukocytes: clinical evidence in thyroidectomi zed
+subjects on thyroxine replacement therapy. Life Sci. (2006) 78:1071–
+7.doi:10.1016/j.lfs.2005.06.016
+30. Coria MJ, Carmona Viglianco YV, Marra CA, Gomez-Mejiba SE, Ramirez
+DC, Anzulovich AC, et al. Hypothyroidism modiﬁes lipid composition
+of polymorphonuclear leukocytes. Cell Physiol Biochem . (2012) 29:713–
+24.doi:10.1159/000170987
+31. Brisson-Lougarre A, Blum CJ. [Speciﬁc receptors for triiodothyro nine in
+nuclei isolated from normal human polynuclear neutrophils]. C R Acad Sci
+III.(1985)300:287–92.
+32. Mezosi E, Szabo J, Nagy EV, Borbely A, Varga E, Paragh G, et al.
+Nongenomic eﬀect of thyroid hormone on free-radical production in
+Frontiers in Endocrinology | www.frontiersin.org 7 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+human polymorphonuclear leukocytes. J Endocrinol . (2005) 185:121–
+9.doi:10.1677/joe.1.05968
+33. Babusyte A, Kotthoﬀ M, Fiedler J, Krautwurst D. Biogenic ami nes activate
+bloodleukocytesviatraceamine-associatedreceptorsTAAR1andT AAR2.J
+LeukocBiol .(2013)93:387–94.doi:10.1189/jlb.0912433
+34. vanderSpekAH,FliersE,BoelenA.Thyroidhormonemetabolisminin nate
+immunecells. JEndocrinol .(2017)232:R67–81.doi:10.1530/JOE-16-0462
+35. van der Spek AH, Jim KK, Karaczyn A, van Beeren HC, Ackermans MT,
+Darras VM, et al. The thyroid hormone inactivating type 3 deiodinase is
+essential for optimal neutrophil function: observations from th ree species.
+Endocrinology .(2018)159:826–35.doi:10.1210/en.2017-00666
+36. O’Sullivan TE, Sun JC, Lanier LL. Natural killer cell memory. Immunity .
+(2015)43:634–45.doi:10.1016/j.immuni.2015.09.013
+37. Kmiec Z, Mysliwska J, Rachon D, Kotlarz G, Sworczak K, Mysliwsk i A.
+Natural killer activity and thyroid hormone levels in young and elderly
+persons.Gerontology .(2001)47:282–8.doi:10.1159/000052813
+38. Papic M, Stein-Streilein J, Zakarija M, McKenzie JM, Guﬀee J, Fletcher MA.
+Suppression of peripheral blood natural killer cell activity by excess th yroid
+hormone. JClinInvest .(1987)79:404–8.doi:10.1172/JCI112826
+39. Wang PW, Luo SF, Huang BY, Lin JD, Huang MJ. Depressed natural
+killer activity in Graves’ disease and during antithyroid medicat ion.Clin
+Endocrinol. (1988)28:205–14.doi:10.1111/j.1365-2265.1988.tb0365 7.x
+40. Lee MS, Hong WS, Hong SW, Lee JO, Kang TW. Defective response of
+natural killer activity to thyroxine in Graves’ disease. Korean J Intern Med .
+(1990)5:93–6.doi:10.3904/kjim.1990.5.2.93
+41. Stein-Streilein J, Zakarija M, Papic M, McKenzie JM. Hyperthyrox inemic
+micehavereducednaturalkillercellactivity.Evidenceforadefe ctivetrigger
+mechanism. JImmunol .(1987)139:2502–7.
+42. Sharma SD, Tsai V, Proﬃtt MR. Enhancement of mouse
+natural killer cell activity by thyroxine. Cell Immunol . (1982)
+73:83–97.doi:10.1016/0008-8749(82)90437-3
+43. Ingram KG, Crouch DA, Douez DL, Croy BA, Woodward B. Eﬀects
+of triiodothyronine supplements on splenic natural killer cells in
+malnourished weanling mice. Int J Immunopharmacol . (1995) 17:21–
+32.doi:10.1016/0192-0561(94)00079-4
+44. Provinciali M, Muzzioli M, Di Stefano G, Fabris N. Recovery of s pleen cell
+naturalkilleractivitybythyroidhormonetreatmentinoldmice. NatImmun
+CellGrowthRegul .(1991)10:226–36.
+45. Vivier E, Ugolini S. Natural killer cells: from basic research to t reatments.
+FrontImmunol .(2011)2:18.doi:10.3389/ﬁmmu.2011.00018
+46. Vivier E, Ugolini S, Blaise D, Chabannon C, Brossay L. Target ing natural
+killer cells and natural killer T cells in cancer. Nat Rev Immunol . (2012)
+12:239–52.doi:10.1038/nri3174
+47. Provinciali M, Fabris N. Modulation of lymphoid cell sensitivity to
+interferon by thyroid hormones. J Endocrinol Invest . (1990) 13:187–
+91.doi:10.1007/BF03349536
+48. Provinciali M, Muzzioli M, Fabris N. Thyroxine-dependent modula tion of
+naturalkilleractivity. JExpPathol .(1987)3:617–22.
+49. Vasilopoulou E, Loubiere LS, Lash GE, Ohizua O, McCabe CJ, Fran klyn
+JA, et al. Triiodothyronine regulates angiogenic growth factor an d
+cytokine secretion by isolated human decidual cells in a cell-type spe ciﬁc
+and gestational age-dependent manner. Hum Reprod . (2014) 29:1161–
+72.doi:10.1093/humrep/deu046
+50. Varol C, Mildner A, Jung S. Macrophages: development and
+tissue specialization. Annu Rev Immunol . (2015) 33:643–
+75.doi:10.1146/annurev-immunol-032414-112220
+51. Ginhoux F, Guilliams M. Tissue-resident macrophage
+ontogeny and homeostasis. Immunity . (2016) 44:439–
+49.doi:10.1016/j.immuni.2016.02.024
+52. Stocks CJ, Schembri MA, Sweet MJ, Kapetanovic R. For when
+bacterial infections persist: toll-like receptor-inducible direct
+antimicrobial pathways in macrophages. J Leukoc Biol . (2018)
+103:35–51.doi:10.1002/JLB.4RI0917-358R
+53. Hoeksema MA, Glass CK. Nature and nurture of tissue-
+speciﬁc macrophage phenotypes. Atherosclerosis . (2019) 281:159–
+67doi:10.1016/j.atherosclerosis.2018.10.005
+54. Lo CH, Lynch CC. Multifaceted roles for macrophages in
+prostate cancer skeletal metastasis. Front Endocrinol. (2018)
+9:247.doi:10.3389/fendo.2018.0024755. Ruytinx P, Proost P, Van Damme J, Struyf S. Chemokine-induced
+macrophage polarization in inﬂammatory conditions. Front Immunol .
+(2018)9:1930.doi:10.3389/ﬁmmu.2018.01930
+56. Braga TT, Agudelo JS, Camara NO. Macrophages during the
+ﬁbrotic process: M2 as friend and foe. Front Immunol . (2015)
+6:602.doi:10.3389/ﬁmmu.2015.00602
+57. BarishGD,DownesM,AlaynickWA,YuRT,OcampoCB,BookoutAL, etal.
+A Nuclear Receptor Atlas: macrophage activation. Mol Endocrinol . (2005)
+19:2466–77.doi:10.1210/me.2004-0529
+58. Perrotta C, Buldorini M, Assi E, Cazzato D, De Palma C, Clementi E, e t al.
+The thyroid hormone triiodothyronine controls macrophage maturation
+and functions: protective role during inﬂammation. Am J Pathol . (2014)
+184:230–47.doi:10.1016/j.ajpath.2013.10.006
+59. Kwakkel J, Surovtseva OV, de Vries EM, Stap J, Fliers E, Boelen A. A novel
+role for the thyroid hormone-activating enzyme type 2 deiodinase in the
+inﬂammatory response of macrophages. Endocrinology . (2014) 155:2725–
+34.doi:10.1210/en.2013-2066
+60. Billon C, Canaple L, Fleury S, Deloire A, Beylot M, Dombrowicz D, et al.
+TRalpha protects against atherosclerosis in male mice: identiﬁcation of
+a novel anti-inﬂammatory property for TRalpha in mice. Endocrinology .
+(2014)155:2735–45.doi:10.1210/en.2014-1098
+61. Furuya F, Ishii T, Tamura S, Takahashi K, Kobayashi H, Ichijo M , et al. The
+ligand-boundthyroidhormonereceptorinmacrophagesameliorateskidne y
+injury via inhibition of nuclear factor-kappaB activities. Sci Rep. (2017)
+7:43960.doi:10.1038/srep43960
+62. Artyomov MN, Sergushichev A, Schilling JD. Integrating
+immunometabolism and macrophage diversity. Semin Immunol . (2016)
+28:417–24.doi:10.1016/j.smim.2016.10.004
+63. Curi R, de Siqueira Mendes R, de Campos Crispin LA, Norata
+GD, Sampaio SC, Newsholme P. A past and present overview of
+macrophage metabolism and functional outcomes. Clin Sci. (2017)
+131:1329–42.doi:10.1042/CS20170220
+64. Rosa LF, Saﬁ DA, Curi R. Eﬀect of hypo- and hyperthyroidism on th e
+functionandmetabolismofmacrophagesinrats. CellBiochemFunct .(1995)
+13:141–7.doi:10.1002/cbf.290130211
+65. El-Shaikh KA, Gabry MS, Othman GA. Recovery of age-dependent
+immunological deterioration in old mice by thyroxine treatment. J Anim
+Physiol Anim Nutr. (2006) 90:244–54. doi: 10.1111/j.1439-0396.2005.
+00602.x
+66. Forner MA, Barriga C, Ortega E. Exercise-induced stimulation o f murine
+macrophage phagocytosis may be mediated by thyroxine. J Appl Physiol.
+(1996)80:899–903.doi:10.1152/jappl.1996.80.3.899
+67. Chen Y, Sjolinder M, Wang X, Altenbacher G, Hagner M, Berglund P,
+et al. Thyroid hormone enhances nitric oxide-mediated bacterial cle arance
+and promotes survival after meningococcal infection. PLoS ONE . (2012)
+7:e41445.doi:10.1371/journal.pone.0041445
+68. De Vito P, Incerpi S, Pedersen JZ, Luly P, Davis FB, Davis PJ. T hyroid
+hormones as modulators of immune activities at the cellular level. Thyroid.
+(2011)21:879–90.doi:10.1089/thy.2010.0429
+69. Al-Abed Y, Metz CN, Cheng KF, Aljabari B, VanPatten S, Blau S, e t al.
+Thyroxine is a potential endogenous antagonist of macrophage migra tion
+inhibitory factor. (MIF) activity. Proc Natl Acad Sci USA . (2011) 108:8224–
+7.doi:10.1073/pnas.1017624108
+70. Ganesan K, Wadud K. Euthyroid Sick Syndrome . Treasure Island, FL:
+StatPearls(2018).
+71. Little JS. Eﬀect of thyroid hormone supplementation on
+survival after bacterial infection. Endocrinology . (1985) 117:1431–
+5.doi:10.1210/endo-117-4-1431
+72. Contreras-Jurado C, Alonso-Merino E, Saiz-Ladera C, Valino AJ,
+Regadera J, Alemany S, et al. The thyroid hormone receptors inhibit
+hepatic interleukin-6 signaling during endotoxemia. Sci Rep. (2016)
+6:30990.doi:10.1038/srep30990
+73. van der Spek AH, Surovtseva OV, Jim KK, van Oudenaren A, Brouwer MC,
+Vandenbroucke-Grauls C, et al. Regulation of intracellular triiodoth yronine
+is essential for optimal macrophage function. Endocrinology . (2018)
+159:2241–52.doi:10.1210/en.2018-00053
+74. Lenz KM, Nelson LH. Microglia and beyond: innate immune cells as
+regulators of brain development and behavioral function. Front Immunol .
+(2018)9:698.doi:10.3389/ﬁmmu.2018.00698
+Frontiers in Endocrinology | www.frontiersin.org 8 June 2019 | Volume 10 | Article 350
+Montesinos and Pellizas Thyroid Hormones on Innate Immunity
+75. LimaFR,GervaisA,ColinC,IzembartM,NetoVM,MallatM.Regulat ionof
+microglialdevelopment:anovelroleforthyroidhormone. JNeurosci .(2001)
+21:2028–38.doi:10.1523/JNEUROSCI.21-06-02028.2001
+76. Lourbopoulos A, Mourouzis I, Karapanayiotides T, Nousiopoulou E,
+Chatzigeorgiou S, Mavridis T, et al. Changes in thyroid hormone rec eptors
+after permanent cerebral ischemia in male rats. J Mol Neurosci . (2014)
+54:78–91.doi:10.1007/s12031-014-0253-3
+77. Jin YC, Lee H, Kim SW, Kim ID, Lee HK, Lee Y, et al. Intranasal deli very of
+RGDmotif-containingosteopontinicosamerconfersneuroprotect ioninthe
+postischemic brain via alphavbeta3 integrin binding. Mol Neurobiol . (2016)
+53:5652–63.doi:10.1007/s12035-015-9480-z
+78. Wirth EK, Roth S, Blechschmidt C, Holter SM, Becker L, Racz I,
+et al. Neuronal 3′,3,5-triiodothyronine. (T3) uptake and behavioral
+phenotype of mice deﬁcient in Mct8, the neuronal T3 transporter
+mutated in Allan-Herndon-Dudley syndrome. J Neurosci . (2009) 29:9439–
+49.doi:10.1523/JNEUROSCI.6055-08.2009
+79. Braun D, Kinne A, Brauer AU, Sapin R, Klein MO, Kohrle J, et al.
+Developmental and cell type-speciﬁc expression of thyroid hormone
+transporters in the mouse brain and in primary brain cells. Glia. (2011)
+59:463–71.doi:10.1002/glia.21116
+80. Mori Y, Tomonaga D, Kalashnikova A, Furuya F, Akimoto N, Ifuku M ,
+et al. Eﬀects of 3,3’,5-triiodothyronine on microglial functions .Glia. (2015)
+63:906–20.doi:10.1002/glia.22792
+81. Noda M. Thyroid hormone in the CNS: contribution of neuron-glia
+interaction. VitamHorm .(2018)106:313–31.doi:10.1016/bs.vh.2017.05.005
+82. Perrotta C, De Palma C, Clementi E, Cervia D. Hormones and immunity
+in cancer: are thyroid hormones endocrine players in the microglia/glio ma
+cross-talk? FrontCellNeurosci .(2015)9:236.doi:10.3389/fncel.2015.00236
+83. KowalikMA,ColumbanoA,PerraA.Thyroidhormones,thyromimeticsan d
+their metabolites in the treatment of liver disease. Front Endocrinol. (2018)
+9:382.doi:10.3389/fendo.2018.00382
+84. Videla LA. Energy metabolism, thyroid calorigenesis, and oxida tive
+stress: functional and cytotoxic consequences. Redox Rep . (2000) 5:265–
+75.doi:10.1179/135100000101535807
+85. Varela P, Tapia G, Fernandez V, Videla LA. The role of thyroid hormone
+calorigenesis in the redox regulation of gene expression. Biol Res. (2006)
+39:611–7.doi:10.4067/S0716-97602006000500004
+86. Krenkel O, Tacke F. Liver macrophages in tissue homeostasis an d disease.
+NatRevImmunol .(2017)17:306–21.doi:10.1038/nri.2017.11
+87. Videla LA, Fernandez V, Tapia G, Varela P. Thyroid hormone calorigen esis
+and mitochondrial redox signaling: upregulation of gene expression. Front
+Biosci.(2007)12:1220–8.doi:10.2741/2140
+88. FernandezV,ReyesS,BravoS,SepulvedaR,RomanqueP,Santand erG,etal.
+Involvement of Kupﬀer cell-dependent signaling in T3-induced hepat ocyte
+proliferation invivo.BiolChem .(2007)388:831–7.doi:10.1515/BC.2007.101
+89. Eisenbarth SC. Dendritic cell subsets in T cell programming:
+location dictates function. Nat Rev Immunol . (2019) 19:89–
+103.doi:10.1038/s41577-018-0088-1
+90. Satpathy AT, Kc W, Albring JC, Edelson BT, Kretzer NM, Bhattach arya
+D, et al. Zbtb46 expression distinguishes classical dendritic ce lls and their
+committed progenitors from other immune lineages. J Exp Med . (2012)
+209:1135–52.doi:10.1084/jem.20120030
+91. Worbs T, Hammerschmidt SI, Forster R. Dendritic cell migration i n health
+anddisease. NatRevImmunol .(2017)17:30–48.doi:10.1038/nri.2016.116
+92. Mooij P, Simons PJ, de Haan-Meulman M, de Wit HJ, Drexhage HA. Eﬀ ect
+of thyroid hormones and other iodinated compounds on the transitio n
+of monocytes into veiled/dendritic cells: role of granulocyte-macropha ge
+colony-stimulatingfactor,tumour-necrosisfactor-alphaandint erleukin-6. J
+Endocrinol .(1994)140:503–12.doi:10.1677/joe.0.1400503
+93. Mascanfroni I, Montesinos Mdel M, Susperreguy S, Cervi L, Ilarre gui JM,
+Ramseyer VD, et al. Control of dendritic cell maturation and functio n by
+triiodothyronine. FASEBJ.(2008)22:1032–42.doi:10.1096/fj.07-8652com
+94. MascanfroniID,MontesinosMdelM,AlaminoVA,SusperreguyS,N icolaJP,
+IlarreguiJM,etal.Nuclearfactor.(NF)-kappaB-dependentthyroidho rmonereceptorbeta1expressioncontrolsdendriticcellfunctionviaAkts ignaling.J
+BiolChem .(2010)285:9569–82.doi:10.1074/jbc.M109.071241
+95. Montesinos MM, Alamino VA, Mascanfroni ID, Susperreguy S,
+Gigena N, Masini-Repiso AM, et al. Dexamethasone counteracts th e
+immunostimulatory eﬀects of triiodothyronine. (T3) on dendritic ce lls.
+Steroids.(2012)77:67–76.doi:10.1016/j.steroids.2011.10.006
+96. Alamino VA, Mascanfroni ID, Montesinos MM, Gigena N, Donadi o AC,
+Blidner AG, et al. Antitumor responses stimulated by dendritic cells are
+improvedbytriiodothyroninebindingtothethyroidhormonereceptorb eta.
+CancerRes .(2015)75:1265–74.doi:10.1158/0008-5472.CAN-14-1875
+97. Gigena N, Alamino VA, Montesinos MD, Nazar M, Louzada RA, Wa jner
+SM,etal.Dissectingthyroidhormonetransportandmetabolismindend ritic
+cells.JEndocrinol .(2017)232:337–50.doi:10.1530/JOE-16-0423
+98. Emens LA, Ascierto PA, Darcy PK, Demaria S, Eggermont AMM,
+Redmond WL, et al. Cancer immunotherapy: opportunities and challenges
+in the rapidly evolving clinical landscape. Eur J Cancer . (2017) 81:116–
+29.doi:10.1016/j.ejca.2017.01.035
+99. Constantino J, Gomes C, Falcao A, Cruz MT, Neves BM. Antitumor
+dendritic cell-based vaccines: lessons from 20 years of clinical t rials and
+future perspectives. Transl Res . (2016) 168:74–95. doi: 10.1016/j.trsl.2015.
+07.008
+100. Veglia F, Gabrilovich DI. Dendritic cells in cancer: the role revi sited.Curr
+OpinImmunol .(2017)45:43–51.doi:10.1016/j.coi.2017.01.002
+101. Alamino VA, Montesinos MM, Rabinovich GA, Pellizas CG. The
+thyroid hormone triiodothyronine reinvigorates dendritic cells
+and potentiates anti-tumor immunity. Oncoimmunology . (2016)
+5:e1064579.doi:10.1080/2162402X.2015.1064579
+102. AlaminoVA,MontesinosMDM,SolerMF,GiusianoL,GigenaN, FozzattiL,
+et al. Dendritic cells exposed to triiodothyronine deliver pro-inﬂammat ory
+signals and amplify IL-17-driven immune responses. Cell Physiol Biochem .
+(2019)52:354–67.doi:10.33594/000000025
+103. Dedecjus M, Stasiolek M, Brzezinski J, Selmaj K, Lewinski A. Thyroid
+hormonesinﬂuencehumandendriticcells’phenotype,function,ands ubsets
+distribution. Thyroid.(2011)21:533–40.doi:10.1089/thy.2010.0183
+104. StasiolekM,DedecjusM,AdamczewskiZ,SliwkaPW,Brzezins kiJ,Lewinski
+A. Eﬀect of L-thyroxine treatment on peripheral blood dendritic cell
+subpopulations in patients with Hashimoto’s thyroiditis. Folia Histochem
+Cytobiol.(2014)52:138–43.doi:10.5603/FHC.2014.0013
+105. Trinchieri G. Interleukin-12 and the regulation of innate resi stance and
+adaptiveimmunity. NatRevImmunol .(2003)3:133–46.doi:10.1038/nri1001
+106. Tamura M, Matsuura B, Miyauchi S, Onji M. Dendritic cells produce
+interleukin-12 in hyperthyroid mice. Eur J Endocrinol . (1999) 141:625–
+9.doi:10.1530/eje.0.1410625
+107. Tamaru M, Matsuura B, Onji M. Increased levels of serum
+interleukin-12 in Graves’ disease. Eur J Endocrinol . (1999)
+141:111–6.doi:10.1530/eje.0.1410111
+108. Ganesh BB, Cheatem DM, Sheng JR, Vasu C, Prabhakar BS. GM-
+CSF-induced CD11c +CD8a–dendritic cells facilitate Foxp3 +and IL-10 +
+regulatory T cell expansion resulting in suppression of autoimmune
+thyroiditis. IntImmunol .(2009)21:269–82.doi:10.1093/intimm/dxn147
+109. Liu J, Cao X. Regulatory dendritic cells in autoimmunity: a comprehe nsive
+review. J Autoimmun . (2015) 63:1–12. doi: 10.1016/j.jaut.2015.
+07.011
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relations hips that could
+beconstruedasapotentialconﬂictofinterest.
+Copyright©2019MontesinosandPellizas.Thisisanopen-access articledistributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, p rovided the original
+author(s) and the copyright owner(s) are credited and that th e original publication
+in this journal is cited, in accordance with accepted academ ic practice. No use,
+distributionorreproductionispermittedwhichdoesnotco mplywiththeseterms.
+Frontiers in Endocrinology | www.frontiersin.org 9 June 2019 | Volume 10 | Article 350

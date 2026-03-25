@@ -1,0 +1,2393 @@
+REVIEW
+European Academy of Neurology/Peripheral Nerve
+Society Guideline on diagnosis and treatment of
+Guillain –Barré syndrome
+Pieter A. van Doorn1| Peter Y. K. Van den Bergh2| Robert D. M. Hadden3|
+Bert Avau4,5| Patrik Vankrunkelsven6| Shahram Attarian7|
+Patricia H. Blomkwist-Markens8| David R. Cornblath9| H. Stephan Goedee10|
+Thomas Harbo11| Bart C. Jacobs12| Susumu Kusunoki13|
+Helmar C. Lehmann14| Richard A. Lewis15| Michael P. Lunn16|
+Eduardo Nobile-Orazio17| Luis Querol18| Yusuf A. Rajabally19|
+Thirugnanam Umapathi20| Haluk A. Topaloglu21| Hugh J. Willison22
+Correspondence
+Pieter A. van Doorn, Department ofNeurology, Erasmus MC, University Medical
+Center, Room Nf-329, Dr Molewaterplein
+40, 3015 GD, Rotterdam, The Netherlands.
+Email:
+p.a.vandoorn@erasmusmc.nl
+Funding informationEuropean Academy of Neurology; GAIN
+Charity UK; GBS/CIDP Foundation
+International; Peripheral Nerve SocietyAbstract
+Guillain –Barré syndrome (GBS) is an acute polyradiculoneuropathy. Symptoms may
+vary greatly in presentation and severity. Besides weakness and sensory disturbances,
+patients may have cranial nerve involvement, respiratory insufficiency, autonomic dys-function and pain. To develop an evidence-based guideline for the diagnosis and treat-
+ment of GBS, using Grading of Recommendations, Assessment, Development and
+Evaluation (GRADE) methodology, a Task Force (TF) of the European Academy of Neu-
+rology (EAN) and the Peripheral Nerve Society (PNS) constructed 14 Population/Inter-
+vention/Comparison/Outcome questions (PICOs) covering diagnosis, treatment andprognosis of GBS, which guided the literature search. Data were extracted and sum-
+marised in GRADE Summaries of Findings (for treatment PICOs) or Evidence
+Tables (for diagnostic and prognostic PICOs). Statements were prepared according to
+GRADE Evidence-to-Decision (EtD) frameworks. For the six intervention PICOs,
+evidence-based recommendations are ma de. For other PICOs, good practice points
+(GPPs) are formulated. For diagnosis, the principal GPPs are: GBS is more likely if
+there is a history of recent diarrhoea or respiratory infection; CSF examination isvaluable, particularly when the diagnosis is less certain; electrodiagnostic testing is
+advised to support the diagnosis; testing for anti-ganglioside antibodies is of limited
+clinical value in most patients with typical motor-sensory GBS, but anti-GQ1b
+antibody testing should be considered when Miller Fisher syndrome (MFS) is
+For affiliations refer to page 555Received: 13 July 2023 Revised: 25 August 2023 Accepted: 28 August 2023
+DOI: 10.1111/jns.12594
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 The Authors. Journal of the Peripheral Nervous System published by Wiley Periodicals LLC on behalf of Peripheral Nerve Society.
+J Peripher Nerv Syst. 2023;28:535 –563. wileyonlinelibrary.com/journal/jns 535
+
+suspected; nodal –paranodal antibodies should be tested when autoimmune
+nodopathy is suspected; MRI or ultrasound imaging should be considered in atypi-
+cal cases; and changing the diagnosis to acute-onset chronic inflammatory demye-
+linating polyradiculoneuropathy (A-CIDP) should be considered if progression
+continues after 8 weeks from onset, which occurs in around 5% of patients initially
+diagnosed with GBS. For treatment, the TF recommends intravenous immunoglob-
+ulin (IVIg) 0.4 g/kg for 5 days, in patients within 2 weeks (GPP also within 2 –
+4 weeks) after onset of weakness if unable to walk unaided, or a course of plasmaexchange (PE) 12 –15 L in four to five exchanges over 1 –2 weeks, in patients within
+4 weeks after onset of weakness if unable to walk unaided. The TF recommends
+against a second IVIg course in GBS patients with a poor prognosis; recommends
+against using oral corticosteroids, and weakly recommends against using IV corticoste-
+roids; does not recommend PE followed immediately by IVIg; weakly recommendsgabapentinoids, tricyclic antidepressants or carbamazepine for treatment of pain; does
+not recommend a specific treatment for fatigue. To estimate the prognosis of individual
+patients, the TF advises using the modified Erasmus GBS outcome score (mEGOS) to
+assess outcome, and the modified Erasmus GBS Respiratory Insufficiency Score
+(mEGRIS) to assess the risk of requiring artificial ventilation. Based on the PICOs, avail-
+able literature and additional discussions, we provide flow charts to assist making clini-
+cal decisions on diagnosis, treatment and the need for intensive care unit admission.
+KEYWORDS
+diagnosis, GBS, GRADE, guideline, Guillain –Barré syndrome, prognosis, treatment
+1|OBJECTIVES AND SCOPE
+The aim was to develop an evidence-based international guideline on
+the diagnosis and treatment of Guillain –Barré syndrome (GBS) accord-
+ing to the Grading of Recommendations, Assessment, Developmentand Evaluation (GRADE) methodology
+1and to formulate evidence-
+based recommendations and consensus-based good practice points
+(GPPs) for clinical practice. The target population for the diagnostic
+part of the Guideline are patients of any age (including children), pre-senting with clinical features suggestive of GBS. The treatment rec-
+ommendations apply to patients diagnosed with GBS. The Guideline
+is intended for neurologists, paediatric neurologists and other physi-cians in secondary and tertiary care settings. The aim is to optimise
+diagnostic accuracy and to improve patient outcomes.
+2|BACKGROUND
+2.1 |Epidemiology of GBS
+GBS is the most common cause of acute flaccid paralysis with an
+annual global incidence of approximately 1 –2 per 100 000 person-
+years.2,3Worldwide, GBS affects about 100 000 people per year.2
+GBS can affect people at any age, but the incidence increases withage and reaches its peak between 50 and 70 years.4Males are about
+1.5 times more likely to be affected than females.2–4Only a few out-
+breaks and reports on seasonal variations have been reported on associ-
+ations of GBS with infections.5The diagnosis of GBS relies upon a
+combination of clinical features, often with support of electrodiagnosticand laboratory features. Most diagnostic criteria for GBS require a com-bination of history, neurological examination, cerebrospinal fluid (CSF)
+and electrodiagnostic results. Commonly used diagnostic criteria for
+GBS are the revised NINDS (1990)
+6and the Brighton criteria (2011).7
+The current Guideline on GBS is based upon the results of extensive
+literature searches on the diagnosis, treatment and prognosis of GBS.
+The evidence from randomised clinical therapeutic trials allows evidence-based recommendations about treatments according to GRADE.
+3|METHODS
+The methodology for the development of this Guideline followed the
+frameworks provided by AGREE II8and GRADE,1and the recommen-
+dations of the EAN on the development of a neurological manage-
+ment guideline.9During the initial meeting in March 2018, the Task
+Force (TF) formulated a list of relevant questions potentially to beaddressed in this GBS Guideline. Based on priorities and practical limi-
+tations (mainly relevance and likelihood to find relevant literature), we536 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+finally selected 14 questions that were constructed in the Population/
+Intervention/ Comparison/Outcome question (PICO) format (Box 1).
+The following databases were searched for identification of eligible
+studies for each PICO question, according to predefined selectioncriteria: Medline, via the PubMed interface; Embase, via the embase.
+com interface; the Cochrane Library, consisting of the Cochrane Data-
+base of Systematic Reviews; the Database of Abstracts of Reviews
+(DARE); and the Cochrane Central Register of Controlled Clinical
+BOX 1 : POPULATION/INTERVENTION/COMPARISON/OUTCOME QUESTIONS (PICOs).
+Diagnostic PICOs (systematic literature search and consensus)
+PICO 1. Antecedent events : In patients with clinically suspected GBS, does enquiring about antecedent events* compared with not
+enquiring about antecedent events influence the diagnostic test accuracy, treatment response and patient outcome? *Includes: infec-
+tion, vaccination, surgery, immune drug exposure within 6 weeks before onset of GBS, pregnancy or transplant within 6 months before
+onset of GBS or use of immunomodulatory drugs (especially monoclonal antibodies) within 1 year before onset of GBS.
+PICO 2. Cerebrospinal fluid (CSF) examination : In patients with clinically suspected GBS, does examination of the CSF* compared
+with no CSF examination influence the diagnostic test accuracy, treatment response and patient outcome? *Includes: leucocyte count,
+increased total protein level, presence of unmatched oligoclonal bands and presence of other biomarkers such as neurofilament.
+PICO 3. Antibody testing : In patients with clinically suspected GBS, does testing for serum antibodies* compared with not testing
+for these antibodies influence the diagnostic test accuracy, particularly for GBS subtypes such as AMAN and Miller Fisher syndrome,
+and patient outcome? *Includes, but not limited to anti-ganglioside antibodies (GM1, GQ1b), antibodies against Campylobacter jejuni , gly-
+colipids, nodal –paranodal structures.
+PICO 4. Electrodiagnosis : In patients with clinically suspected GBS, is a combination of clinical examination and electrophysiology/
+electrodiagnosis* compared with clinical examination only helpful in the early diagnosis (up to 4 weeks from onset of neurological symp-
+toms) and outcome of GBS? *Includes motor and sensory nerve conduction studies, somatosensory evoked potentials, root stimulation,triple stimulation technique, nerve excitability studies, sural sparing and needle electromyography.
+PICO 5. Nerve MRI or ultrasound (US) imaging : In patients with clinically suspected GBS, does using (contrast)-MRI (thickening,
+enhancement of cervical/lumbar nerve roots or brachial/lumbar plexus) or US (increased cross-sectional area of peripheral nerves orroots) compared with not using MRI or US influence the diagnostic accuracy in the early diagnosis ( ≤4 weeks from onset of weakness or
+≤1 week from hospital admission of GBS?
+PICO 6. Prediction of acute-onset CIDP (A-CIDP) : In patients initially diagnosed with GBS, does the presence of certain clinical
+symptoms* or laboratory features** compared with their absence predict the subsequent diagnosis of A-CIDP as confirmed by neuro-logical worsening at >8 weeks from onset? *Includes: progression of weakness, number of treatment-related fluctuations, antecedent
+events, oculomotor, facial, bulbar or respiratory weakness, autonomic dysfunction. **Includes: EDX abnormalities, CSF pleocytosis, MRI
+or nerve US abnormalities, anti-ganglioside or nodal –paranodal antibodies.
+Treatment PICOs (systematic literature search and GRADE —except consensus for PICO 7)
+PICO 7. Monitoring for admission to intensive care unit (ICU) : In patients diagnosed with GBS, does the use of formal protocols or
+criteria* to decide when admission to ICU is necessary for ventilation and other mechanical methods of life support, compared with nopre-planned management strategy to guide ICU admission, influence mortality, respiratory arrest, length of ICU stay and mechanical
+ventilation, disability or grip strength? * Includes: criteria sets, automatic protocols, mEGRIS score, respiratory monitoring by FVC,
+assessment of bulbar weakness, cardiac monitoring and monitoring of dysautonomia.
+PICO 8. Plasma exchange (PE): In patients diagnosed with GBS, does treatment with PE, influence disability, grip strength, mortal-
+ity, ICU admission, quality of life, time to ambulation or length of mechanical ventilation at 4 and 26 weeks after onset, compared with
+not using PE or using a different number/volume of PE sessions, a different replacement volume (albumin vs. plasma) or
+immunoadsorption.
+PICO 9. Intravenous immunoglobulins (IVIg) : In patients diagnosed with GBS, does treatment with IVIg, with or without corticoste-
+roids or PE influence disability, grip strength, mortality, ICU admission, quality of life, time to ambulation or length of mechanical ventila-
+tion at 4 and 26 weeks after onset compared with not using IVIg?
+PICO 10. Corticosteroids : In patients diagnosed with GBS, does treatment with corticosteroids (IV or oral), alone or in combination
+with IVIg or PE, influence disability, grip strength, mortality, ICU admission, quality of life, time to ambulation or length of mechanical
+ventilation at 4 and 26 weeks after onset compared with not using corticosteroids?
+PICO 11. Other disease-modifying treatments than PE, IVIg or corticosteroids : In patients diagnosed with GBS, does treatment
+with pharmacological therapies other than PE, IVIg, corticosteroids (or eculizumab, mycophenolate, interferons or other) influencevan DOORN ET AL. 537
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Trials (CENTRAL). The literature search for each PICO was conducted
+between April 2018 and November 2019 without restrictions regard-
+ing publication date. The Task Force (TF) additionally included rele-
+vant papers published during the preparation of this Guideline.Unpublished data were not used.
+The six PICOs on intervention were subjected to GRADE assess-
+ment. Data were extracted and summarised in GRADE Summary ofFindings Tables (treatment PICOs) or Evidence Tables (diagnostic,intensive care unit [ICU] admission and prognostic PICOs). To reach
+consensus, TF members prepared draft statements about definition,
+diagnosis and treatment, according to the elements of the GRADEEvidence-to-Decision (EtD) frameworks.
+10The TF made a strong rec-
+ommendation for or against an intervention when it judged that
+almost all informed people would make the recommended choice.11A
+weak recommendation was made when it judged that most informed
+people would choose the recommended course of action, but a sub-
+stantial number would not, either because it was applicable or avail-able only to a subgroup, the evidence had low certainty, or the risk/benefit ratio might not be favourable for all patients. For the six diag-
+nostic PICOs, and those on assessing the need for ICU admission and
+for prognosis, a formal GRADE approach was not considered useful,because of limited evidence. When appropriate, the TF offered
+GPPs,
+12phrased as ‘advises ’or ‘suggests ’depending on the strength
+of the GPP. The recommendations and GPPs were collated into a sin-gle document, which was then revised iteratively by the TF until con-
+sensus was reached. The patient representative from the GBS/CIDP
+Foundation International reviewed all recommendations and GPPsand participated in consensus votes in the capacity of TF member. A
+detailed protocol of the guideline development process can be found
+in the
+Supplementary Material online . It is planned to update the
+Guideline every 5 years.
+The TF decided to focus on a number of relevant diagnostic and
+treatment PICO questions, and acknowledges that some practical
+issues related to treatment and care of patients with GBS are not cov-ered in this Guideline. Almost all studies referred to in this Guideline
+are based on GBS diagnostic criteria and usually the motor-sensory ormotor form. If studies specifically focus on Miller Fisher syndrome
+(MFS) or other variants of GBS, this is mentioned.
+4|RESULTS
+This GBS Guideline is divided into four parts. The first part describes
+the clinical features and diagnostic criteria. The second part includesadditional information and GPPs based upon the six diagnostic PICOs.
+The third part focuses on treatment (PICOs 7 –13). The fourth part
+focuses on the prognosis and outcome (PICO 14). For all recommen-dations and GPPs, consensus was reached by all members of the TF.
+4.1 |Classification and clinical diagnostic criteria
+4.1.1 | Clinical features and diagnostic criteria
+for GBS
+The symptoms and severity of GBS vary greatly. There are several
+published sets of criteria for the diagnosis of GBS, of which the mostfrequently used are the NINDS criteria revised by Asbury and Corn-
+blath (1990),
+6The Brighton Collaboration Consensus Criteria (2011),7
+the Wakerley and Yuki (2015) criteria,13and the consensus guideline
+by Leonhard et al. (2019).14For making a clinical diagnosis at the
+onset of disease, the TF predominantly used the Leonhard et al. con-
+sensus guideline14and further updated these recommendations after
+extensive discussions (Table 1).
+Requirements for the diagnosis of s e n s o r y - m o t o ro rm o t o rG B Sa r e :
+•Progressive weakness of arms and legs
+•Absent or decreased deep tendon reflexes in affected limbs
+•Progressive worsening for no more than 4 weeks
+The maximal duration of progression originates from large studies
+showing that progression does not exceed 2 weeks in most patients,disability, grip strength, mortality, ICU admission, quality of life, time to ambulation or length of mechanical ventilation at 4 and26 weeks after onset compared with not using these therapies?
+PICO 12. Treatment of pain : In patients diagnosed with GBS, does pharmacological treatment (anti-epileptics, antidepressants, opi-
+oids or opioid analogues, cannabinoids, acetaminophen, NSAIDs or other analgesia), yoga or meditation relieve pain prevalence or inten-
+sity, fatigue or quality of life, compared with no pharmacological intervention, yoga or meditation?
+PICO 13. Treatment to reduce fatigue : In patients diagnosed with GBS do pharmacological interventions to treat fatigue (amanta-
+dine, modafinil, SSRI, dexamphetamine, other psychoactive amines or drugs), or behavioural and physical management strategies (gradedexercise programmes, physiotherapy, other therapies) compared with not using these treatments influence the presence and severity of
+fatigue, quality of life, return to work, disability or grip strength?
+Prognostic PICO (systematic literature search and consensus)
+PICO 14. Prognosis : In patients diagnosed with GBS, does the presence of certain clinical (e.g., age, severity of weakness) or non-
+clinical risk factors (e.g., electrodiagnostics, anti-ganglioside antibodies), GBS disability scores/I-RODS scores, grip strength, ability to
+walk/run at 6 or 12 months, or fatigue compared with the absence of these factors are related to the prognosis? Factors related to therequirement of mechanical ventilation are included in PICO 7.538 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and almost never exceeds 4 weeks.4,14,15The maximal duration of
+progression is often not known when a patient is admitted and isincluded because it helps to separate GBS from CIDP or other forms
+of chronic neuropathy. In addition to these main criteria, we list fea-
+tures and laboratory findings that support the diagnosis and findingsthat make GBS less likely (Table
+1). GBS is a spectrum, and most cases
+have limb weakness and fulfil the requirements for the diagnosis.
+Some GBS variants and MFS do not fulfil all requirements for GBS
+since there is not always progressive weakness of arms and legs. Insome patients, the deep tendon reflexes initially can be normal or
+hyperactive.There are several forms of GBS within the disease spectrum,
+which are defined by the clinical features, with some overlap.
+Motor-sensory and motor GBS are considered ‘typical ’GBS
+(Figure
+1)
+a. Motor-sensory and motor GBS
+The motor-sensory form (weakness with sensory symptoms
+and/or signs) is most frequent in Europe and in North America. MotorGBS (weakness without sensory symptoms or signs) is more frequent
+in some countries in Asia (e.g., Bangladesh).
+4,5TABLE 1 Diagnostic criteria for motor-sensory or motor Guillain –Barré syndrome (GBS).
+Features required
+•Progressive weakness of arms and legsa
+•Tendon reflexes absent or decreased in affected limbs
+•Progressive worsening for no more than 4 weeksb
+Features that support diagnosis
+•Relative symmetry
+•Relatively mild/absent sensory symptoms and signs
+•Cranial nerve involvement (especially bilateral facial palsy)
+•Autonomic dysfunction
+•Respiratory insufficiency (due to muscle weakness)
+•Pain (muscular/radicular in back or limb)
+•Recent history of infection (<6 weeks), (possibly also surgery) ( PICO 1)
+Laboratory findings that support diagnosis•CSF: increased protein; normal protein does not rule out diagnosis ( PICO 2). White cells usually <5 /C210
+6/L.
+•Blood : Anti-GQ1b antibodies usually present in Miller Fisher syndrome ( PICO 3)
+•Electrodiagnosis : nerve conduction studies (NCS) consistent with polyneuropathy. NCS may be normal during first days of disease ( PICO 4)
+Findings which make GBS less likely•Asymmetric weakness (marked and persistent)
+•Severe respiratory dysfunction at onset with mild limb weakness
+•Predominant sensory signs at onset (paraesthesias often occur) with mild weakness
+•Fever at onset
+•Sensory level, or extensor plantar responses
+•Hyperreflexia (initial hyper-reflexia does not exclude GBS)
+•Bladder/bowel dysfunction (does not exclude GBS)
+•Abdominal pain or vomiting
+•Nystagmus
+•Alteration of consciousness (except in BBE)
+•Abnormal routine blood tests
+c
+•CSF: >50 /C2106/L mono- or polymorphonuclear cells ( PICO 2)
+•No further worsening after 24 h
+•Relatively slow worsening (2 –4 weeks) with mild weakness
+•Continued worsening >4 weeks or ≥3 TRFs (consider A-CIDP) ( PICO 6)
+Abbreviations: A-CIDP, acute-onset chronic inflammatory demyelinating polyradiculoneuropathy (see: PICO 6); BBE, Bickerstaff brainstem encep halitis;
+CMAP, compound muscle action potential; CSF, cerebrospinal fluid.
+aWeakness may start in the legs (or other location in regional variants of GBS).
+bOnly applies if duration of progression is known (e.g., to separate from CIDP).
+cHyponatraemia may occur in some patients with GBS.van DOORN ET AL. 539
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+b. GBS variants
+These variants include those that predominantly involve certain
+parts of the body, also called ‘regional variants ’. Examples are
+pharyngeal –cervical –brachial GBS with weakness in the correspond-
+ing regions, bilateral facial weakness with limb paraesthesias (but nolimb weakness), and the paraparetic variant with weakness starting in
+the legs that may evolve to tetraparesis
+13,14,16(Figure 1). A small
+number of patients have been described with a pure sensory syn-drome of numbness or tingling, reduced or absent reflexes, and some-
+times ataxia or pseudoathetosis, but no weakness, with a time course
+like GBS. Nerve conduction in these patients may show signs ofdemyelination in sensory or motor nerves.
+4,14,17 –20Although the
+patients with this pure sensory syndrome do not fulfil all diagnostic
+criteria for GBS, this probably represents a rare sensory variantof GBS.
+c. MFS spectrum
+Patients with typical MFS have ophthalmoplegia, ataxia and are-
+flexia.
+3,7,13However, a fairly large proportion of MFS patients also
+have features of motor-sensory GBS (defined as GBS/MFS overlapsyndrome) or an incomplete form of MFS (without all three typical
+clinical features). Bickerstaff brainstem encephalitis (BBE) isconsidered a rare variant of MFS that clinically has a combination of
+ophthalmoplegia, ataxia, pyramidal tract signs and impaired conscious-ness. These patients may have white matter changes on a brain MRI
+scan.
+2,3,21,22Patients with MFS and BBE usually have antibodies
+against ganglioside GQ1b (PICO 3).
+Acute-onset chronic inflammatory demyelinating
+polyradiculoneuropathy
+About 5% of patients initially diagnosed with GBS later turn out to
+have acute-onset chronic inflammatory demyelinating polyradiculo-
+neuropathy (A-CIDP) and should be treated as for CIDP.23Clinical and
+laboratory features possibly related to A-CIDP are discussed (PICO 6).A few of these patients, especially those not responding well to IVIg
+or PE, may have antibodies against nodal –paranodal antigens (like
+NF155, Caspr1 or CNTN1), which define a different disease (autoim-mune nodopathy) (PICO 3).
+Pathogenetic subtypes
+Largely based on a combination of clinical, electrodiagnostic and morpho-logical features, GBS has been classifi ed into different pathogenetic sub-
+types: acute inflammatory demyelinat ing polyradiculoneuropathy (AIDP),
+acute motor axonal neuropathy (AMAN) and acute motor and sensoryaxonal neuropathy (AMSAN).
+14Multiple papers on this subject in humans
+and animal models have been published.24–27
+FIGURE 1 Diagnosis and classification of GBS. A-CIDP, acute-onset CIDP; BBE, Bickerstaff brainstem encephalitis; CSF, cerebrospinal fluid;
+GBS, Guillain –Barré syndrome; IVIg, intravenous immunoglobulin; MFS, Miller Fisher syndrome; PE, plasma exchange; TRF, treatment-related
+fluctuation.aOnly applies if duration of progression is known (e.g., to separate from CIDP).bCSF protein and electrodiagnostics may be normal
+early in the disease.cPercentages of motor-sensory GBS, motor GBS, GBS variants, MFS, BBE are estimated from various publications.
+dPercentage of motor GBS is strongly dependent on region of origin.4,14540 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+In AMAN cases, the pathophysiology is either (a) reversible
+conduction failure, due to reversible axonal conduction block at thenodes of Ranvier or the motor nerve terminal without axonal degener-
+ation, followed by rapid recovery,
+28,29or (b) extensive axonal degen-
+eration associated with inexcitable nerves and a worse outcome.30In
+AIDP cases, there is conduction slowing and/or conduction block,
+associated with segmental demyelination with or without secondary
+axonal degeneration, usually followed by recovery through regenera-tion of myelinating Schwann cells.
+27
+Preceding infections are relevant, especially Campylobacter jejuni ,
+which can induce cross-reactive antibodies that bind to human gangli-osides GM1 or GD1a at the nodes of Ranvier or motor nerve terminal,activate complement and disrupt sodium-channel clusters and axoglial
+junctions, leading to nerve conduction failure.
+3,31C. jejuni infections
+are particularly associated with AMAN and/or motor GBS, and worseoutcome
+32(see: PICO 14). The demyelinating subtype is predominant
+in all global regions tested, but AMAN and motor GBS are more fre-
+quent in Asia (especially Bangladesh) than Europe and America.4,31
+Some important issues remain only partially resolved. (a) The best
+electrophysiological criteria to distinguish AIDP from AMAN are cur-
+rently unknown, and all electrophysiological criteria have limitations.This led to the introduction of the concept of ‘nodo-paranodopathy ’
+to describe situations in which nodal membrane injury of the axon or
+through detachment of terminal myelin loops (or both) accounts foracute conduction failure, in the absence of segmental demyelin-ation.
+29(b) Anti-GM1 antibodies can also be found in some cases clas-
+sified as AIDP,33although much less commonly, and both subtypes of
+GBS can be mediated by complement-fixing anti-GM1 antibodies.34
+(c) There is some overlap, as both motor GBS and AMAN may have
+electrophysiology mimicking demyelination, AIDP often also has axo-
+nal degeneration, and there appears to be a spectrum of sensoryinvolvement in AMAN and AMSAN.
+34
+The TF acknowledges the relevance of studying the pathophysio-
+logical mechanisms leading to different subtypes of GBS. However,the TF deliberately avoided giving or endorsing specific diagnostic cri-teria for these entities, because there is currently no gold standard to
+choose between the various published criteria, and the distinction
+between these subtypes of GBS currently does not affect clinicalmanagement.
+Pain and fatigue
+Pain often occurs in GBS, at any time in the disease course, even
+before the onset of weakness, and may be severe.35Fatigue is an
+important and frequently occurring residual complaint that may per-sist when weakness has recovered.
+36,37
+4.1.2 | Outcome measures
+For assessment of outcome in GBS, various instruments are availablesuch as the Medical Research Council (MRC) sum score, GBS disabilityscale (GBS-DS) formerly also known as the Hughes Disability Scale,
+38
+Inflammatory neuropathy cause and treatment (INCAT) disability scaleand sensory sum score,39and the inflammatory Rasch-built overall
+disability scale (I-RODS).39–41For assessing the severity of disability
+in GBS, most randomised controlled trials (RCTs) have used the GBS-
+DS.38This seven-point scale ranges from 0 (no symptoms), 1 (minor
+symptoms and capable to run), 2 (able to walk 10 m without assis-tance but unable to run), 3 (able to walk 10 m across an open space
+with help; ‘unable to walk unaided ’), 4 (unable to walk 10 m even with
+help; 'wheelchair bound or bedridden'), 5 (requiring assisted ventila-tion for at least part of the day) to 6 (dead). Most RCTs have included
+GBS patients with a GBS-DS ranging from 3 to 5, a level of severity
+that is often considered to be ‘severe GBS ’. The GBS-DS primarily
+focuses on important clinical aspects in ambulation and respiration,but not on arm function, disability in many other daily activities, cra-
+nial nerve function, pain, fatigue or quality of life.
+39
+4.1.3 | Differential diagnosis
+Many disorders may mimic GBS.14Additional diagnostic tests should
+be considered according to the differential diagnosis (Table 2).
+4.2 |Diagnostic PICOs
+The diagnosis of GBS can be difficult, especially in the first days,
+which may delay treatment (Tables 1and2). A diagnostic delay in pre-
+school children seems partly due to non-specific presentations, pain
+and the rarity of GBS especially in this age group.42
+4.2.1 | Antecedent events (PICO 1)
+Many GBS patients report an infectious illness in the 6 weeks prior toonset of GBS.
+4.2.2 | Good practice points
+•The TF advises enquiry about antecedent events (especially diar-
+rhoea, respiratory infection or fever), which if present may support
+the diagnosis of GBS, especially if there is clinical uncertainty aboutthe diagnosis.
+•Although not assessed in controlled studies, it seems that the risk
+of developing GBS may be increased shortly after receiving a fewspecific biological drugs affecting the immune system.
+•Following a few specific vaccinations (such as influenza, herpes
+zoster, SARS-CoV2 adenovirus-vector vaccines), a very smallincreased risk of GBS has been reported, but the benefits of vacci-nation far outweigh this risk.
+3,43–48
+Considerations supporting the GPP ( supporting information )
+Evidence summary : In patients with suspected GBS, the diagnosis
+of GBS is more likely if there is a history of recent (within thevan DOORN ET AL. 541
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+previous 6 weeks) diarrhoea (sensitivity 13% –18%, specificity
+89%–100%),49–53Campylobacter infection,54respiratory infection
+(sensitivity 21% –68%, specificity 59% –98%),49–53fever (specificity up
+to 100%)49,52or influenza-like illness (specificity up to 100%).48,53
+However, around one third of GBS patients report none of these.Case–control studies showed that GBS is associated with infections
+(C. jejuni , cytomegalovirus (CMV), Epstein –Barr virus, Hepatitis E virus,
+Zika virus), and with Mycoplasma pneumoniae in children.
+14,54 –57
+Although large case –control studies are lacking, from the epidemio-
+logical and cohort studies that exist, GBS is not or marginally measur-able increased in incidence after SARS-CoV-2 infections.
+48,58As this
+PICO assesses the clinical history pr ior to the onset of GBS, infectionswith non-specific symptoms that typically require serological diagnosis fall
+outside the scope of this Guideline. Spe cific testing for these is generally
+not clinically useful, as laboratory results likely come after the diagnosishas been made, but may be warranted in selected cases.
+59There is some
+evidence about surgery related to GBS as retrospective and epidemiologi-
+cal studies reported an association between GBS and recent surgery(sensitivity 39%, specificity 98%), with a stronger association for surgeryon bones or digestive organs.
+60–62
+Although not assessed in controlled studies, the risk of GBS may
+be increased shortly after receiving select biological drugs affectingthe immune system,
+52,63especially immune checkpoint inhibitors or
+anti-tumour necrosis factor alpha agents.5,64–66TABLE 2 Differential diagnosis of Guillain –Barré syndrome.
+Adapted from: Leonhard et al.14
+CNS
+•Inflammation or infection of brainstem or spinal cord (e.g., acute transverse myelitis, neuromyelitis optica or anti-MOG-associated disorder,
+sarcoidosis, Sjögren)
+•Malignancy (e.g., leptomeningeal metastases, neurolymphomatosis)
+•Compression of brainstem or spinal cord (e.g., haematoma, abscess, herniated disc, tumour)
+•Brainstem stroke
+•Deficiency (e.g., vitamin B12 (especially nitrous oxide inhalation), copper: subacute degeneration spinal cord)
+Anterior horn cells•Acute flaccid myelitis (e.g., poliomyelitis virus, enterovirus, West Nile virus, Japanese encephalitis virus, rabies, Lyme disease)
+Nerve roots•Infection (e.g., cytomegalovirus, HIV, Epstein –Barr virus, varicella zoster virus, Lyme disease)
+•Leptomeningeal malignancy
+Peripheral nerves•CIDP, or acute-onset CIDP (A-CIDP)
+•Metabolic or electrolyte disorders (e.g., hypoglycaemia, hypothyroidism, porphyria or copper deficiency)
+•Vitamin deficiency (e.g., vitamin B1, vitamin B12)
+•Toxins (e.g., nitrous oxide, drugs, alcohol, vitamin B6, lead, thallium, arsenic, organophosphate, glycol, methanol, N-hexane, glue)
+•ICU acquired weakness
+•Neuralgic amyotrophy
+•Vasculitis
+•Infections (e.g., diphtheria, HIV, Lyme disease)
+Neuromuscular junction•Myasthenia gravis
+•Lambert –Eaton myasthenic syndrome
+•Neurotoxins (e.g., botulism, tetanus, tick paralysis or snake or other envenomations)
+•Organophosphate intoxication
+Muscles•Metabolic or electrolyte disorders (e.g., hypokalaemia, periodic paralysis, hypomagnesaemia, hypophosphataemia)
+•Inflammatory myopathies
+•Acute rhabdomyolysis (e.g., statins and other drugs)
+•Drug-induced or toxic myopathy (e.g., colchicine, chloroquine, emetine, glue sniffing)
+•Mitochondrial disease
+Conversion or functional disorder
+Note : This table is not intended to be comprehemsive.
+Abbreviations: CIDP, chronic inflammatory demyelinating polyradiculoneuropathy; ICU, intensive care unit; MOG, myelin oligodendrocyte glycop rotein.542 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Rationale : Asking about these antecedent events may increase
+diagnostic confidence and is generally more useful when present thanabsent.
+Vaccinations : Prior vaccinations were not originally part of this
+PICO. However, the TF considered it helpful to comment, althoughdid not systematically review the evidence. Most vaccinations have
+no proven association with any increased risk of GBS.
+3,45The risk of
+GBS after standard seasonal influenza vaccine (trivalent or quadriva-lent) is about one excess GBS case per million vaccines, though histor-
+ically higher after the 1976 monovalent H1N1 ‘swine ’influenza
+vaccine.
+46In a retrospective questionnaire study in 245 patients with
+previous GBS, subsequent influenza vaccination gave no significantincreased risk of recurrence of GBS.
+67After a recombinant herpes
+zoster vaccine, there was possibly a similar very small increased risk of
+GBS.47Large studies of SARS-CoV2 vaccines found a small excess risk
+of 4–7 excess cases of GBS per million after adenovirus-vector
+vaccines,43,44,48without association with any specific clinical
+features,44but no increased risk after pegylated mRNA vaccines.44
+When assessing a patient with GBS, a history of recent vaccination is
+likely of negligible importance towards making the diagnosis of GBS.
+For all these diseases, the benefits of vaccination (reducing morbidityand mortality from infection and infection-associated GBS) exceed
+any extremely small increased risk of developing vaccination-
+induced GBS.
+4.2.3 | CSF (PICO 2)
+CSF examination is often considered helpful to support the diagnosis
+of GBS, especially in cases of uncertainty.
+4.2.4 | Good practice points
+•The TF advises CSF examination, particularly when the diagnosis is
+uncertain or when an alternative diagnosis needs to be excluded.
+•Results supportive of GBS are an increased CSF protein concentra-
+tion, and a normal or only slightly increased CSF white blood cellcount (usually <5 cells/ μL, rarely 5 –50 cells/ μL and very rarely
+>50 cells/ μL).
+•Normal CSF protein is common during the first week of the disease
+and does not exclude GBS.
+•A CSF white blood cell count of >50 cells/ μL should raise suspicion
+for alternative diagnoses (Table
+2).
+Considerations supporting the GPP ( supporting information )
+Evidence summary : CSF examination in patients suspected to have
+GBS classically shows an increased CSF protein and normal CSF whitecell (leucocyte) count.
+4Diagnostic sensitivity of an increased CSF pro-
+tein depends on the time CSF is examined after onset of weakness.15
+In a study with over 1000 GBS patients, 50% had an elevated CSF
+protein at fewer than 3 days from ons et (median protein level 0.45 g/L),
+and 84% at more than 7 days from onset (median protein level0.98 g/L).4A CSF white cell count <5 cells/ μL was found in 80%, a
+mildly elevated white cell count (5 –50/μL) in 19% and more than
+50 white cells/ μL in 2% of patients.4The specificity of a raised CSF
+protein is unknown, and it does not rule out some mimics of GBS
+(Table 2). Normal values of CSF protein are higher in older people.68,69
+Both CSF protein and cell count may be artefactually raised after
+IVIg.70
+Rationale : Although CSF examination is often performed, because
+increased protein may support the diagnosis and to exclude mimics
+with increased cell count, the diagnostic accuracy is unknown.
+4.2.5 | Antibody testing (PICO 3)
+Serum antibodies against gangliosides and other antigens have been
+found in GBS, particularly in motor GBS and MFS.
+4.2.6 | Good practice points
+•In most patients with motor-sensory GBS, the TF does not advise
+routine testing for serum antibodies against gangliosides, because
+of low –moderate diagnostic sensitivity and test assay variability.
+•In some suspected motor GBS, GBS variants or some other cases
+with diagnostic uncertainty, the TF suggests that testing for anti-ganglioside antibodies could be helpful.
+•The TF does not advise testing for serum antibodies against gangli-
+osides for the purpose of subtyping into AIDP, AMAN or AMSAN,as this currently has no specific treatment implications.
+•In patients suspected to have MFS (or MFS spectrum), the TF
+advises testing for serum antibodies against GQ1b.
+•In patients with poor response to treatment, continuous worsen-
+ing or relapse after treatment, the TF suggests considering an
+autoimmune nodopathy (PICO 6). When this is suspected, anti-bodies against nodal –paranodal antigens should be tested. When
+testing for nodal –paranodal antibodies, the TF advises using cell-
+based assays using plasmids encoding human recombinant pro-
+teins and validation with a second technique (ELISA orimmunohistochemistry).
+Considerations supporting the GPPs ( supporting information )
+Evidence summary : Serum antibodies that have been tested in GBS
+cases include GM1,71–75GM1b,76GD1a,77GQ1b,78–83GalNAc-
+GD1a,84–86GT1a,87G D 1 b ,G D 3 ,O - G D 3 ,G T 3 ,O - G T 3 ,88
+sulfatide,89,90galactocerebroside,91,92CNTN1,93NF155 and NF
+186,94,95cardiolipin,96LM1,97–99sulphated glycolipids,89P0 and
+PMP22.100The test accuracy varies depending on GBS subtype,
+tested antigen and control group. Anti-GM1 IgG antibody sensitivityfor the whole group of GBS patients ranges from 20% to 69% and
+varies between geographical regions.
+71–75,101Anti-GM1 specificity is
+reported to be high (94% –98%) in GBS compared with healthy con-
+trols and other neurological diseases.25,54,73,102In GBS, the sensitivity
+of anti-ganglioside antibody panels is reported to vary betweenvan DOORN ET AL. 543
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+32% and 64%, depending on the presence of a recent infection or
+GBS subtype (AIDP or AMAN).103–105For MFS, sensitivity for
+anti-GQ1b antibodies is high (88% –100%),79–81with a very high
+specificity (100%).83Especially, when there is some clinical doubt
+a n dt e s tr e s u l t sc a nb eo b t a i n e dw i t h i nr e a s o n a b l et i m e ,t e s t i n gf o ranti-GQ1b antibodies is considered helpful. The INCAT group
+recommended using standardised methods for ELISA to test for
+anti-ganglioside antibodies.
+106Several studies looked for anti-
+bodies against microorganisms (Zika virus,107,108CMV,109,110
+C. jejuni ,111,112Haemophilis influenzae113) with varying sensitivity
+and specificity (PICO 1). For patients initially diagnosed with GBSbut who are subsequently cons idered to have an autoimmune
+nodopathy, see also the EAN/PNS CIDP Guideline for further
+details.
+114,115
+Rationale : To diagnose motor-sensory GBS, there is currently no
+indication to test for anti-ganglioside antibodies because of their low –
+moderate sensitivity and frequent delay in reporting results of anti-
+body assays beyond the therapeutic window. GQ1b antibody testingis useful when MFS is suspected.
+4.2.7 | Electrodiagnosis (PICO 4)
+When GBS is suspected clinically, the diagnostic certainty can beincreased using confirmatory tests, especially electrodiagnosticstudies.
+4.2.8 | Good practice points
+•The TF advises using electrodiagnosis to support the early diagno-
+sis of GBS.
+•Electrodiagnostic studies are helpful in the differential diagnosis of
+disorders, which may mimic GBS.
+•Electrodiagnostic subtype classification into AIDP, AMAN or
+AMSAN is not helpful in the early diagnosis of GBS and currently
+has no bearing on management and treatment.
+•In patients with suspected GBS examined within the first week
+after disease onset, the following electrodiagnostic features are
+supportive of the diagnosis, but do not exclude GBS mimics (high
+sensitivity but low specificity):/C14Sensory and/or motor conduction abnormalities consistent with
+a polyneuropathy.
+/C14Absent H-reflexes.
+/C14Facial nerve direct responses showing either increased distal
+motor latency or decreased compound muscle action potential
+(CMAP) amplitude.
+/C14Blink responses either absent or showing prolonged ipsilateral
+R1 and R2 responses and contralateral R2 response.
+•The diagnosis of GBS is supported by the following electrodiagnos-
+tic abnormalities with low to moderate sensitivity but highspecificity:/C14Sural sparing pattern (abnormal median or ulnar sensory nerve
+action potential (SNAP) with normal sural nerve SNAP, afterexcluding carpal tunnel syndrome).
+/C14Indirect discharges (often multiple and resembling A-waves and
+distinct from F waves).
+/C14Distal CMAP duration prolongation >8.5 ms (time from onset of
+first negative deflection to return to baseline of last negative
+deflection, using a filter bandpass of 2 Hz –10 kHz).
+•The presence of H-reflexes makes the diagnosis less likely.
+•Normal electrodiagnostic examination in the first week does not
+exclude the diagnosis. Performing a second electrodiagnostic studylater during the disease course can be helpful since abnormalitiesmay take several weeks to develop.
+•In patients with suspected MFS, the diagnosis may be supported
+by the following electrodiagnostic abnormalities:/C14Sural sparing pattern.
+/C14Any sensory and motor conduction abnormalities consistent
+with polyneuropathy.
+Considerations supporting the GPPs ( supplementary material online )
+Evidence summary : Prospective and retrospective studies that evalu-
+ated up to 84 patients with clinically suspected GBS or up to 66 AIDP
+cases with a variable number of controls concluded that numerous
+nerve conduction parameters are abnormal early after diseaseonset.
+116–131However, some studies included small numbers of
+patients and/or did not include controls. Sensitivity and specificity
+vary according to electrodiagnostic criteria and the control groups
+used. Absence of H-reflexes has a high sensitivity (95% –100%) for
+AIDP105,121with 33% specificity.119It was concluded that the pres-
+ence of H-reflexes renders the diagnosis of GBS unlikely.118,122A
+sural sparing pattern is present early in the disease course with 16% –
+100% sensitivity116,118,119,122,124and 91% –98% specificity.116,118
+Sural sparing pattern may occur in all subtype classifications (AIDP,
+AMAN, unclassified) and in MFS.125Distal CMAP duration prolonga-
+tion can especially be found in AIDP117and was reported to have
+32%–88% sensitivity with high specificity (91% –100%).118,117,128
+Decreased motor nerve conduction velocities and increased distal
+motor latencies were found in 78% of AIDP cases.122If a patient
+meets published criteria for AIDP,24,132this may support the diagno-
+sis of GBS, but the TF considered the evidence of insufficient cer-
+tainty, and does not advise electrodiagnostic subtyping in clinicalpractice. Indirect discharges (often multiple and resembling
+A-waves) are common in AIDP (sensitivity 59% –100%),
+121,126,133,134
+with a reported specificity of 73%, as these have also been reported
+in AMAN.118Facial nerve direct responses and blink responses are
+often abnormal early in the disease, but specificity is low.121,123,124,135
+Nerve root stimulation can detect very proximal conduction block by
+electrical stimulation of lumbar roots136or magnetic stimulation of the
+ulnar nerve,127but there is only low certainty evidence for this. In MFS,
+sensory and motor conduction abnormalities are present in >50% of
+cases (high sensitivity but low specificity), and sural sparing pattern haslow sensitivity but high specificity.
+129–131544 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Rationale : Electrodiagnosis is an important test that is relatively
+easy to conduct and that may help to diagnose GBS. Since there is noconsensus on definitions for electrophysiological subtyping between
+AIDP, AMAN and AMSAN,
+24,132,137 –139and currently it has no impact
+on management and treatment, the TF decided that electrodiagnosticsubtyping was not further considered in this Guideline.
+4.2.9 | Nerve MRI or nerve ultrasound (PICO 5)
+The TF explored whether nerve MRI or ultrasound (US) could be use-ful in selected cases with suspected GBS.
+4.2.10 | Good practice points
+•The TF advises against using nerve MRI or US as routine add-on
+tests for the diagnosis of GBS with typical presentation.
+•The TF suggests that nerve MRI and US should be considered in
+selected cases with atypical presentation.
+•The presence of MRI nerve root enhancement is supportive of
+GBS, but does not rule out other causes of polyradiculopathy
+(Table 2). When the disease course is considered compatible with
+A-CIDP, the presence of widespread nerve enlargement on nerveUS or MRI may favour the diagnosis of A-CIDP, but is not specificfor the diagnosis. Whole spine MRI with contrast may aid in ruling
+out spinal cord compression, transverse myelitis, spinal cord
+tumours or other mimics.
+Considerations supporting the GPPs ( supporting information )
+Evidence summary : Studies identified on nerve MRI in GBS were small
+(range 11 –40 patients) and uncontrolled; in these circumstances
+showing high sensitivities (82% –95%), but with unknown
+specificity.140–144Studies identified on nerve US in GBS were small
+(range 17 –50 patients) and were mostly controlled but used highly
+selected patient populations and often compared with healthy con-
+trols only. Furthermore, most studies lack objective cut-off values for
+abnormalities. Within these significant limitations, they report sensi-tivities ranging from 47% to 95% and specificities ranging from 36%
+to 91%.
+145–153
+Rationale : Nerve MRI or US should only be considered if the diag-
+nosis of GBS is uncertain, possibly to rule out other causes. Abnormal
+nerve MRI and US may help to localise the pathology to the nerve
+roots, but the tests lack specificity and do not rule out GBS when nor-mal. Further research to define cut-off values and to evaluate the
+specificity of nerve MRI and US in patients suspected to have GBS
+and its mimics are indicated.
+4.2.11 | A-CIDP (PICO 6)
+Some patients with clinically suspected GBS do not clearly
+improve, but continue to progress or relapse after 8 weeks. Afterexcluding alternative diagnoses , some patients may be diagnosed
+with A-CIDP, requiring another or an alternative treatment consis-tent with CIDP management (see EAN/PNS CIDP Guideline for
+further details
+114,115).
+4.2.12 | Good practice points
+•The TF suggests that the possibility of changing the diagnosis from
+GBS to A-CIDP may be considered a few weeks after onset in
+some patients initially diagnosed with GBS, especially if the patientworsens again after initial improvement or stabilisation (known asa treatment-related fluctuation, TRF), or presents as mild or slowly
+progressive GBS and continues to worsen.
+•A-CIDP is more likely if there are three (or more) TRFs.
+•A-CIDP is possibly more likely if there are any of the following:
+(a) marked sensory abnormality (including sensory ataxia);
+(b) absence of facial, bulbar or respiratory weakness; (c) slower dis-ease onset (threshold not defined but possibly >2 weeks from
+onset to nadir); (d) US evidence of widespread peripheral nerve
+enlargement; or (e) early significant reduction in motor nerve con-duction velocity (MNCV).
+•A-CIDP cannot be confirmed unless there is further worsening at
+least 8 weeks after onset.
+•If A-CIDP is considered (especially if there appears a poor response
+to treatment), the TF advises to test for antibodies against nodal –
+paranodal antigens (see also PICO 3).
+•In case of a TRF, the TF suggests to consider re-treatment with
+IVIg or PE.
+Considerations supporting the GPPs ( supporting information )
+Evidence summary : In a prospective study of 170 patients initially diag-
+nosed as GBS, 16 (9%) had a TRF and another 8 (5%) were subse-
+quently diagnosed with A-CIDP.23A-CIDP was reported more likely
+(>5%) if there are marked sensory disturbances on examination (sen-sory ataxia is the most specific), but facial or bulbar weakness and pre-
+ceding infections were less frequently observed in A-CIDP compared
+with GBS.
+149,154,155Confirmation of these results however warrant
+additional studies in larger numbers of patients. A-CIDP is likely in
+patients initially diagnosed with GBS, if there is further worsening
+after 8 weeks from onset (sensitivity 100%, specificity 92%), or whenthere are three (or more) TRFs (episodes of worsening following
+treatment-induced improvement/stabilisation) (sensitivity 52%, speci-
+ficity 96%).
+23Reduced MNCV < 90% of lower limit of normal
+(or <85% if small distal CMAP) was more frequently found in A-CIDP
+than in GBS.23,149,155Patients with A-CIDP tested with nerve US
+within 4 weeks of onset had greater enlargement of peripheral nervescompared with those with GBS (sensitivity 88%, specificity84%).
+147,149The absence of IgG anti-ganglioside antibodies has a sen-
+sitivity of 96% and specificity of 35% for A-CIDP compared with
+GBS.23,24,147,155Some patients suspected to have A-CIDP may have
+an autoimmune nodopathy.156These patients have a poorer response
+to conventional therapies for CIDP, and there is anecdotal evidencevan DOORN ET AL. 545
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+that these patients may response to rituximab (see EAN/PNS Guide-
+line CIDP).114,115
+There is no evidence from an RCT, but observational data indicate
+that a repeated course of IVIg or PE can be effective in case of a
+TRF.157,158
+Rationale : It is important to diagnose A-CIDP because treatment
+differs from GBS.114,115A-CIDP however should not be over-
+diagnosed in severely weak patients with slow or no improvement. Ifin doubt, the presence of muscle wasting and denervation on electro-
+myography indicates that GBS-related axonal degeneration is more
+likely than A-CIDP.
+4.3 |Part 3: Treatment
+4.3.1 | Prediction of the need for ICU admission
+(PICO 7, Figure 2)
+GBS can present with rapidly progressive weakness leading to respira-
+tory insufficiency in hours to days. Failure to recognise impending
+respiratory failure can result in death or hypoxia-induced disability.Elective transfer to an ICU may result in earlier recognition of the
+need for ventilatory support and intubation. This should result in
+fewer unanticipated emergencies and better outcomes.4.3.2 | Good practice points
+•The TF advises assessing the risk of respiratory failure early in the
+course of GBS.
+•The TF advises using a prognostic model at hospital admission
+to quantify the risk of requiring mechanical ventilation.
+This can be quantified using the modified Erasmus GBS Respi-
+ratory Insufficiency Score (mEGRIS).159mEGRIS requires four
+clinical factors to estimate the risk of requiring mechanical ven-
+tilation at any time during the first 2 months from disease
+onset. The risk of requiring mech anical ventilation is greater in
+patients with rapid disease progression, bulbar palsy andweaker (lower MRC scores of) neck flexion and bilateral hip
+flexion.
+•The TF advises regularly assessing risk factors for requiring
+mechanical ventilation during hospital admission.
+These include: rapid progression of limb weakness during hospital
+admission; GBS-DS grade 4 (unable to walk 10 m even with aid);neck flexion, facial or bulbar weakness, and especially the inability
+to cough; autonomic instability such as fluctuations in blood pres-
+sure or heart rate.
+•The TF advises regularly assessing any decline in respiratory func-
+tion by measuring forced vital capacity (FVC), and single breath
+count (SBC). Optionally (when available) measurement of maximum
+Assessment and monitoring of GBS
+mEGRIS scoreaat presentation
+Range 0–32
+Important risk factors at presentationb
+1. <7 days from symptom onset - admission
+2. Inability to cough
+3. GBS disability score grade > 4
+4. Inability to lift arm above horizontal5. Neck flexion weakness6. Abnormal liver function at presentationmEGRIS score 18-24 (20–70%)
+OR
+Important risk factors: any 1–3 positive
+AND
+Clinical assessment negativemEGRIS score 25–32 (>70%)
+OR
+Important risk factors: > 4o f6p o s i t i v e
+OR
+Clinical assessment: any positive
+Clinical Assessmentc
+FVC <60% predicted
+OR
+Aspiration or threatened aspiration
+OR
+Autonomic instabilitymEGRIS score 0–17 (<20%)
+OR
+Important risk factors: 0 of 6 positive
+AND
+Clinical assessment negativeICU admission assessment and decision making
+Additional adverse risk con ferred at any stage by abnormal Chest X-Ray, abnormal
+liver function, or evidence of CMV or other infectiondMonitoring until improvement Intensive Care Unit (ICU)
+Monitoring Assessment
+e.g. FVC 3– 4 hourly, single breath
+count
+Autonomic monitoring
+e.g. Continuous ECG monitoring,
+blood pressure fluctuation
+Clinical Examinationat least daily
+Lab. investigation (blood/CSF etc)
+mEGRIS score - at one week
+1Monitoring Assessment in ICU
+Respiratory
+e.g. FVC, MEP, MIP
+Autonomic
+e.g. continuous ECG monitoring
+Clinical Examinationat least daily FVC < 60% predicted
+ORSingle breath count <20
+ORAutonomic instability
+ORClinical deterioration,
+especially bulbar/neck weakness
+ORmEGRIS score > 23
+ Stable or improving FVC
+ No autonomic instability
+ No clinical deterioration
+m E G R I Ss c o r e ≤15
+S i n g l eb r e a t hc o u n t> 20
+Ward monitoring and careAssess for respiratory and
+thromboembolic complications
+and for pain also after extubationF V C< 2 0 m L /kg
+ORMEP <30 cmH2O
+ORMIP <40 cmH2O
+ORFVC reduction >30%
+from baseline
+Consider elective intubation before
+FVC < 10mL/kg
+Bulbar dysfunction with aspiration
+risk or aspiration ORFVC < 10mL/kg
+IntubationHIGH RISK
+MODERATE RISK
+LOW/MODERATE RISKMONITORINGMONITORING ASSESSMENT in ICU
+MONITORING in ICU/wardYESNO
+FIGURE 2 Assessment and monitoring of patients with GBS. This GPP based flowchart on the assessment and monitoring of GBS patients is
+based upon clinical studies and prognostic scales (PICO 7 and 14).aModified Erasmus GBS respiratory insufficiency scale (mEGRIS).159The
+mEGRIS score that correspondents with a specific predicted probability (and confidence intervals) of requiring mechanical ventilation slightlychanges within the first week after admission.
+bImportant risk factors at presentation is based upon several studies (see PICO 7).cClinical
+Assessment is based upon several studies (see PICO 7).dSigns of infection (abnormal chest x-ray), abnormal liver function, or evidence of CMV or
+other infection are factors that may indicate an additional adverse risk for ICU admission/artificial ventilation (PICO 7). FVC, forced vital capac ity;
+MEP, maximal expiratory pressure; MIP, maximal inspiratory pressure.546 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+inspiratory pressure (MIP) or maximum expiratory pressure (MEP)
+can be helpful to indicate respiratory insufficiency.
+•The TF suggests that some laboratory tests may indicate a greater
+risk of requiring mechanical ventilation (e.g., elevated liver function
+tests, infection with HSV or CMV, or electrodiagnostic features ofdemyelination).
+•The TF advises frequent monitoring of the following quantitative
+measures of ventilatory function:/C14FVC should be checked between three and six times a day,
+depending on severity, and until significant worsening seems
+unlikely. While the patient is still declining and there is a reduc-tion in FVC, 4-hourly monitoring is likely appropriate.
+/C14A fall of the FVC > 30% below the predicted baseline should
+alert concern, a fall of >30% in 24 h likely indicates immediate
+transfer to ICU, or a 50% decline in under 24 h likely indicatesthe need for ventilation. Elective ventilation should be consid-
+ered when FVC ≤20 mL/kg, and when the FVC is ≤10 mL/kg
+ventilation is almost inevitable.
+/C14SBC < 20 (inability to count in a single breath out loud from 1 to
+20) is a useful bedside tool to assess the need for transfer to ICU.
+/C14If measured, an MEP of <30 cmH
+2O or MIP < 40 cmH 2O indi-
+cates the need for elective mechanical ventilation to be consid-
+ered imminently.
+•After discharge from ICU, the TF advises that frequent careful
+monitoring for potential late respiratory or cardiovascular compli-cations should continue.
+Considerations supporting the GPPs ( supporting information )
+Evidence summary :
+mEGRIS prognostic model : An individual patient's risk of requir-
+ing mechanical ventilation can be estimated by using EGRIS160,161the
+updated version of EGRIS,162and now with the modified (and simpli-
+fied) version mEGRIS.159An advantage of mEGRIS is that it can be
+used across the full spectrum of GBS, including mild cases and vari-ants, and in patients from different regions. The original EGRIS isbased upon 397 GBS patients in a prospective cohort, and
+191 patients in a validation cohort, and has good discriminative ability
+(area under the curve [AUC] 0.84) (moderate certainty evidence).EGRIS was externally validated in a retrospective cohort of 177 Japa-
+nese patients.
+163The updated version of EGRIS is based upon 1023
+patients from the International GBS Outcome Study IGOS (Europe/North America n=842, Asia n=104, other n=77), aged ≥6 years,
+and includes GBS variants and those with mild symptoms.
+162In this
+cohort, 104 (10%) required mechanical ventilation within the firstweek from study entry.
+Individual factors were assessed for the certainty of evidence to
+predict respiratory failure (requiring mechanical ventilation) based onboth controlled and observational studies. Predictors of respiratory fail-
+ure (high certainty evidence) are: (1) Shorter time from onset to
+admission,
+160,164,165(2) Bulbar involvement,102,160,164,166and (3) MRC
+sum score <20/60.161,167Probable predictors of respiratory failure
+(moderate certainty evidence) are: (1) neck muscle weakness,167–169
+(2) greater GBS disability score,160,164,170(3) lower vital capacityand164,166,171(4) hypoalbuminemia.172Factors that may predict respira-
+tory failure (low certainty evidence) are: (1) inability to lift elbows,165
+(2) inability to stand,165(3) inability to cough,165(4) dysautonomia,102
+(5) lower single breath count (may be more an indicator than a
+predictor),166(6) increased liver enzymes,165(7) lower proximal/distal
+CMAP ratio,171AIDP versus AMAN or intermediate GBS sub-
+type163,173and (8) longer phrenic nerve latency.166The modified ver-
+sion (mEGRIS) is based upon the first 1500 patients included in theIGOS.
+159Of these, 1133 (76%) patients met the study criteria. Inde-
+pendent predictors of MV were a shorter time from onset of weak-
+ness until admission, the presence of bulbar palsy and weakness ofneck flexion and hip flexion. mEGRIS was based on these factors andaccurately predicts the risk of MV with an AUC of 0.84 (0.80 –0.88).
+The model was internally validated within the full IGOS cohort and
+within separate regional subgroups, which showed AUC values of0.83 (0.81 –0.88) and 0.85 (0.72 –0.98), respectively.
+Assessment of important risk factors : The TF found 10 studies
+assessing predictive factors of the need for mechanical (endotracheal)ventilation. In a large retrospective series of 722 adults, 313 were
+ventilated and six important predictors (see Figure
+2) of subsequent
+ventilation were identified165: (1) <7 days from symptoms to admis-
+sion (OR 2.51); (2) inability to cough (OR 9.09); (3) GBS disability grade
+≥4 (wheelchair bound or bedridden) (OR 2.53); (4) inability to abduct
+shoulder to horizontal (OR 2.99); (5) neck flexion weakness (OR 4.34);and (6) abnormal liver function tests at presentation (OR 2.09). If4 out of 6 predictors were present, mechanical ventilation was
+required in 85% of patients.
+In a subpopulation, it was found that three individual features
+were strongly associated with the need for subsequent ventila-
+tion. If there was neck flexion weakness (OR 5.00), a duration
+b e t w e e no n s e ta n dn a d i ro f< 7 d a y s( O R5 . 0 0 )a n da nF V Co f<60% predicted (OR 2.86) were all p resent, then mechanical ven-
+tilation was required in >85% of pa tients. Ventilation was also
+associated with the presence of facial, bulbar or clinical markersof autonomic failure.
+174Co-existing CMV (OR 8.81, CI 2.34 –33.1)
+or herpes simplex virus (HSV) infections (OR 4.83, CI 1.16 –20.1)
+were associated,175and pulmonary infection (abnormal chest
+x-ray) is possibly associated (49 vs. 29%, p=.06) with a subse-
+quent need for ventilation.174.
+Clinical assessment of respiratory function : Quantitative
+indicators of the likelihood of a need for ventilation are FVC of<20 mL/kg, MIP < 40 cm H
+2O, MEP < 30 cm H 2O or a recorded
+reduction of >30% in FVC from baseline.174A decline of FVC of
+>50% was associated with mechanical ventilation within 36 h, andad r o pi nt h eF V C < 1 Lw a sa s s o c i a t e dw i t ha r t i f i c i a lv e n t i l a t i o n
+within 18 h.
+176SBC < 20 predicted the need for subsequent
+ventilation.166
+Risk of prolonged mechanical ventilation : Risk factors for pro-
+longed mechanical ventilation (14 days or more) in individuals with
+GBS have been studied in a cohort of 552 participants (recruited from
+RCTs and observational studies).177Prolonged mechanical ventilation
+in GBS may be predicted by (1) inability to lift arms177or (2) axonal
+GBS or inexcitable nerves (low certainty evidence).van DOORN ET AL. 547
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Complications after ICU discharge : It was reported that two
+thirds of deaths of GBS patients occur in the period following ICU dis-charge and during the recovery phase, most frequently from respira-
+tory or cardiovascular complications.
+178
+Rationale : It is very important to regularly assess indicators of
+progressive respiratory impairment (ventilatory insufficiency due to
+muscle weakness and also infections) and autonomic dysfunction in
+the early and progressive phases of GBS to avoid emergency intuba-tions or otherwise life-threatening situations. The TF has constructed
+a flow chart that may aid (Figure
+2).
+4.3.3 | Immune treatment of GBS
+There are Cochrane Systematic Re views of the effects of plasma
+exchange (PE),179Intravenous Immunoglobulin (IVIg),180cortico-
+steroids181and other treatments for GBS.182Most RCTs have
+been conducted in GBS patients unable to walk unaided (GBS-DSgrade 3 or more). Recommendations are given for each treatment
+separately.4.3.4 | PE (PICO 8)
+The first large PE trials evaluated the effect of PE in GBS patientsunable to walk unaided within the first 4 weeks from onset of weak-
+ness. Later PE trials also investigated the number of PE sessions(volume exchanged) according to disease severity (Figure
+3).
+4.3.5 | Recommendations
+•The TF strongly recommends starting PE as soon as possible in
+GBS patients unable to walk unaided (GBS-DS grade 3 or more)and within 4 weeks from onset.
+•The TF strongly recommends four to five exchanges over
+1–2 weeks with a total exchanged volume of 12 –15 L in patients
+who are severely disabled (unable to walk unaided, bedridden or
+ventilated).
+•The TF weakly recommends two exchanges in GBS patients still
+able to walk unaided but who cannot run (GBS-DS grade 2) within
+the first 2 weeks from onset of weakness.
+FIGURE 3 Treatment of GBS. Flowchart focuses on immune treatment of patients with GBS, and is based upon the available RCTs and the
+information from PICOs 6 –12.aWeak recommendation for 2 /C2PE (RCT, see text). There is no RCT evaluating the effect of IVIg in ‘mild ’GBS.
+Severity and speed of deterioration can be relevant in decision to start treatment. It is not advised (GPP) to start PE or IVIg in very mildly affectedpatients (GBS-DS grade 1).
+bEffect of IVIg or PE has not been investigated in an RCT in these slowly progressive, mildly affected patients (GBS-
+DS grade 2). Chance to improve after IVIg or PE in this group of patients is considered low (see text).cRapidly deteriorating is unlikely later in
+course of disease (after 2 weeks). Prognostic factors (mEGOS) have not been determined after 2 weeks from onset of weakness.dPE is also
+effective when started 2 –4 weeks from onset of weakness in severely affected patients (see text). No RCT available on the effect of IVIg 2 –
+4 weeks from onset of weakness. Since both IVIg and PE are effective when started <2 weeks from onset of weakness, it is suggested (GPP) thatIVIg is also effective 2 –4 weeks from onset of weakness. The TF suggests (GPP) that patients still able to walk but having features like swallowing
+difficulties of autonomic disturbances are also eligible for treatment.
+eObservational data indicate that a repeated course of IVIg or PE can be
+effective in case of a TRF (see text). A-CIDP, acute-onset CIDP; GPP, good practice point; IVIg, intravenous immunoglobulin; mEGOS, modifiedErasmus GBS outcome score; PE, plasma exchange; TRF, treatment-related fluctuation. EAN/PNS Guideline CIDP.
+114,115548 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4.3.6 | Good practice points
+•The TF advises PE (four to five exchanges over 1 –2 weeks) also in
+patients who are still ambulatory, but who have a fast rate of dete-
+rioration, a risk of requiring ventilatory support, swallowing difficul-ties or other poor prognostic factors. These patients are
+considered at high risk of further deterioration, which may poten-
+tially be prevented by starting treatment early (PICO 7 and 14).
+•The TF does not advise to start PE (a) in very mildly affected
+patients (GBS-DS grade 1) with stable disease within the first
+2 weeks from onset of weakness; (b) in patients still mildly affected(GBS-DS grade 1 or 2) at weeks 2 –4 from onset of weakness. It is
+considered unlikely that these patients will further deteriorate to a
+higher GBS-DS grade within the time frame of progression of GBS
+(max 4 weeks).
+•The TF does not advise on the specific type of PE (most often con-
+tinuous flow machines are used) and on the use of specific replace-
+ment fluids.
+Considerations supporting the recommendations ( supporting
+information )
+Evidence summary : The TF considered the effectiveness of PE com-
+pared with supportive treatment only (evidence from 6 RCTs includ-
+ing 649 patients), its rather limited adverse effects and the highdisease burden, crucial in decision making.
+179,183 –188PE reduced the
+time to regain ability to walk with aid, reduced the time to onset of
+motor recovery and increased the proportion of patients who recov-
+ered the ability to walk unaided (low to moderate certainty evi-dence). After 1 year, full recovery of muscle strength was somewhat
+more likely and severe residual weakness somewhat less likely in
+patients treated with PE (moderate certainty evidence). Moderatecertainty evidence showed that the effect of PE was only demon-
+strable when started within the first 4 weeks of onset of weakness,
+and most effective when started within the first week of onset ofweakness.
+185,186
+The recommended total number and exchanged volume of PE
+sessions vary between studies.179The advice of the TF mainly origi-
+nates from three large studies.185–187Two trials compared different
+numbers of PEs related to the level of GBS disease severity.186,187
+The largest study in 161 ventilated GBS patients showed that six PEsessions (each of 40 mL/kg or 1.5 plasma volumes) may be as effec-tive as four PE sessions (low certainty evidence).
+187In 304 moderately
+severe GBS patients (not ventilated), four PE sessions (in total
+4/C23.75 L plasma removed) may be superior to two PE sessions (low
+to moderate certainty evidence).187In the 91 GBS patients still able
+to walk or stand up unaided, two PE sessions appeared to be better
+than no PE,187but this is considered to be a low certainty evidence. In
+the North American PE trial (including 245 GBS patients), in total,200–250 mL plasma/kg was removed in five exchanges over 7 –
+14 days.
+185According to the most frequently used PE schedules in
+the largest trials, the TF recommends four to five exchanges of about3 L plasma each, with a total removal of 12 –15 L plasma (dependent
+on body weight and possible side effects).
+158,179There is no RCT onthe effect of PE (or IVIg) in very mildly affected patients (GBS-DS 1)
+within the first 2 weeks from onset of weakness, nor in (very) mildlyaffected patients (GBS-DS grade 1 –2) 2–4 weeks after onset of weak-
+ness. In one trial, 57 participants were randomly allocated to receive
+PE with albumin and crystalloids, and 52 participants received freshfrozen plasma as the replacement fluid. No significant differences
+were found between the two arms in any of the outcomes. Although
+fibrinogen and prothrombin decreases were greater in participantsreceiving albumin, adverse events were more frequently found when
+fresh frozen plasma was used as replacement fluid.
+186,189,190
+A single report of a small number of patients suggested that small
+volume plasma exchange (SVPE) —a technique in which multiple
+small blood volumes are sequentially exchanged —can be used rela-
+tively safely without requiring specialised equipment (very low cer-
+tainty evidence).191Efficacy data on SVPE are not available.
+Rationale and implementation considerations : RCTs showed that
+PE is an effective treatment for patients with GBS. PE is a less favour-
+able option than IVIg in young children due to limited vascular accessand the child's possible fear of the procedure. Patients with severe
+cardiovascular autonomic instability have a relative contra-indication
+to PE with discontinuous filtration machines because of the large vol-ume shifts and possible blood pressure changes, but these are a lesser
+problem with continuous flow machines.
+In very mildly affected patients (GBS-DS grade 1) within the first
+2 weeks from onset of weakness, or in mildly affected patients (GBS-DSgrade 1 –2) without additional difficulties (like swallowing or autonomic
+disturbances) within 2 –4 weeks from onset of weakness, there is no indi-
+cation that PE (or IVIg) is beneficial. Because treatment may induce sideeffects and is expensive, it is not adv ised (GPP) to start treatment in these
+patients. PE requires local availability of specialised equipment and skills,
+not readily available in all hospitals. In under-resourced parts of the world
+where standard care for GBS (including ICU facilities, PE or IVIg treat-
+ment) is unaffordable or unavailable for many patients, efforts to find
+innovative treatment alternatives should be encouraged. Whether SVPE
+is as effective as standard PE and partially overcomes this problemrequires additional studies.
+4.3.7 | IVIg (PICO 9)
+There are no RCTs investigating the effect of IVIg in comparison withplacebo. As PE was considered a proven effective treatment for GBS
+at the time of the IVIg studies, studies investigated whether IVIg was
+as effective as PE (Figure
+3).
+4.3.8 | Recommendations
+•The TF strongly recommends starting IVIg as soon as possible in
+patients unable to walk unaided (GBS-DS grade 3 or more) if still
+within the first 2 weeks from onset of weakness.
+•The TF weakly recommends the most frequently used and proven
+effective standard course of IVIg (0.4 g/kg/day for 5 days) rathervan DOORN ET AL. 549
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+than a low-dose (0.4 g/kg/day for 3 days) or a high-dose (0.4 g/kg/
+day for 6 days) regimen or a 2-day regimen (1 g/kg/day).
+•The TF strongly recommends that patients with a poor prognosis
+should be treated with only one standard course of IVIg (0.4 g/kg/
+day for 5 days), rather than giving also a second 5-day IVIg course(PICO 14).
+•The TF has no preference for treatment with either IVIg or PE.
+Considerations supporting the recommendations ( supplementary
+material online )
+Evidence summary :
+•IVIg versus PE : Both IVIg and PE are effective treatments for GBS.
+The effect of IVIg versus PE has been studied in seven RCTs with a
+total of 613 participants, of which on RCT had insufficient data toanalyse.
+180Six of these trials (567 participants) investigated
+improvement of at least one grade on the GBS-DS 4 weeks after
+randomisation in patients unable to walk unaided, and startedwithin the first 2 weeks of the onset of weakness.
+38,192 –197Five of
+these trials (536 participants) investigated the change in disability
+grade 4 weeks after randomisation.192–196No significant differ-
+ence in treatment efficacy could be demonstrated between IVIg
+and PE (moderate certainty evidence), although IVIg treatment was
+less frequently discontinued than PE (high certainty evidence).180
+•IVIg dose and treatment schedule : In an open study of 51 children,
+participants were randomised to a 2-day 1 g/kg/day IVIg or a
+5-day 0.4 g/kg/day IVIg schedule.198This small study did not
+observe significant differences in time to regain unaided walkingnor in the secondary outcome measures (low certainty evidence).
+TRFs were more frequently found in the 2-day regimen (5/23) as
+compared with the 5-day (0/23) IVIg regimen.
+180,198The TF con-
+sidered there is too little evidence to support the use of a 2-day
+IVIg regimen.
+•High versus low IVIg dose : One study investigated lower dose IVIg
+(3 days 0.4 g/kg) versus higher dose IVIg (6 days 0.4 g/kg) in39 GBS patients with contra-indications for PE.
+180,199Patients
+treated with the high-dose regimen had a non-significant faster
+improvement in time to walking with assistance (low certainty evi-dence). There was a significant difference in the group of venti-
+lated patients in favour of the high-dose IVIg treatment. The TF
+considers there is too little evidence to support the use of lower ora higher dose IVIg compared with the standard IVIg regimen.
+•Second course of IVIg : Almost all studies with IVIg in GBS were
+conducted with a total dose of 2 g/kg administered over 5 days.The second IVIg dose RCT (SID-GBS trial) investigated, in 93 GBS
+patients with a poor prognosis (mEGOS ≥6), whether an early sec-
+ond course of IVIg (5 days of 0.4 g/kg/day started 7 –9 days after
+starting the first IVIg course) was more effective than placebo.
+200
+There was no significant benefit on any outcome measure (moder-
+ate certainty evidence). Patients receiving a second IVIg course
+more frequently had severe side effects, particularly thromboem-bolic events temporally associated with IVIg administration (mod-
+erate certainty evidence).
+200Rationale : IVIg is generally associated with few adverse events
+and is readily available in most hospitals. PE requires special facilities,good intravenous access and has a slightly higher adverse event
+(AE) rate (at least when non-continuous flow apheresis was used). In
+children, the relative burden of PE may be a reason to prefer IVIg.Due to the high costs, patients in some countries may be unable to
+afford either treatment.
+4.3.9 | Good practice points
+•The TF advises to start IVIg (or PE) also in patients who are still
+able to walk unaided (GBS-DS grade 2) within 4 weeks from onset
+of weakness, but who have a fast rate of deterioration, a risk of
+requiring ventilatory support, swallowing difficulties, autonomicdisturbances or poor prognostic factors (PICO 7 and 14, Figure
+3).
+•The TF suggests treating GBS patients unable to walk unaided
+2–4 weeks from onset, with either PE or IVIg.
+•The TF suggests considering IVIg (or PE) in GBS patients still able
+to walk unaided (GBS-DS grade 2) within 2 weeks from onset, with
+stable or slowly deteriorating disease, in particular when there arealso other features of GBS (like weakness of the arms or cranial
+nerve involvement).
+•The TF does not advise to start IVIg (a) in very mildly affected
+patients (GBS-DS grade 1) with stable disease within the first2 weeks from onset of weakness; (b) in mildly affected patients
+(GBS-DS grade 1 or 2) with stable disease presenting 2 –4 weeks
+from onset of weakness because there is no indication that IVIg(or PE) is beneficial in this clinical condition.
+Rationale : The effect of IVIg in GBS has only been studied in RCTs
+in patients unable to walk unaided, when started within 2 weeks from
+onset of weakness. As PE and IVIg are considered equally effective in
+this group of patients, it seems l ikely (GPP) that IVIg (like PE) is
+also indicated to treat severely affected patients 2 –4w e e k sf r o m
+onset of weakness. Therefore, it seems likely (GPP) that IVIg can
+also be considered if PE is indi c a t e di nm i l d l ya f f e c t e dG B S
+patients (GBS-DS grade 2) ea rly in the course of disease
+(Figure
+3). Starting IVIg (or PE) in mildly affected patients possi-
+bly could prevent additional neural damage and further complica-
+tions. There are no RCTs conducted in very mildly affectedpatients (GBS-DS grade 1). The chance that this group of
+patients, especially if stable, benefit from IVIg (or PE) seems low,
+treatment may induce side effects and is expensive. Therefore, itis not advised (GPP) to treat this group of patients with
+IVIg (or PE).
+4.3.10 | IVIg immediately after PE, or PE after IVIg
+Recommendation
+•The TF strongly recommends against treatment with PE followed
+immediately by IVIg, compared with PE or IVIg alone.550 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Good practice point
+•In patients who have not clearly improved or who further deterio-
+rate after IVIg or PE, the TF does not suggest subsequently treating
+with the alternative treatment (PE or IVIg), as there is no trial evi-
+dence of efficacy to support this regimen.
+Considerations supporting the recommendations ( supporting information ).
+Evidence summary : This recommendation is based upon one RCT com-
+paring IVIg or PE, with PE immediately followed (irrespective of the
+prognosis) by IVIg in 249 participants.193Treatment with IVIg or PE
+(standard treatment schedules) was started within 14 days of GBSonset. In the combined treatment group, the patients first received PE,followed by IVIg (0.4 g/kg/day for 5 days), which was started on the
+day after the last PE (irrespective on the effect PE). No significant dif-
+ferences were found in the three arms of this RCT (moderate certaintyevidence). There is no indication that a subgroup of patients would
+benefit more from the combined treatment with PE followed by IVIg.
+A small open-label study in nine selected paediatric patients with
+severe GBS describes the effect of alternating PE/IVIg (one PE ses-
+sion, immediately followed by IVIg (0.4 g/kg), both repeated alterna-
+tively five times, ‘Zipper method ’).
+201This unconventional treatment
+schedule washes out IVIg very rapidly by repeating the PE sessions.
+To assess whether it may have an objective positive clinical effect
+requires an appropriate-scale RCT.
+There are no appropriate data on the possible effect of giving the
+alternative treatment (PE or IVIg) in patients who further deteriorate
+despite standard treatment with IVIg or PE.
+Rationale : As the combined treatment of PE followed immediately
+by IVIg (in an RCT irrespective of the clinical course after PE) has
+probably no increased effectiveness, potential additional (limited)
+adverse events and an increase in costs, this treatment schedule is notrecommended.
+180,193PE and IVIg seem equally effective, and there
+are currently no subgroups identified which do better after either PE,
+IVIg or PE followed by IVIg. Starting PE immediately after IVIg washesout the treatment that has just been infused, which theoreticallyseems unattractive and expensive. It is not excluded that some
+patients who do not do well after their first treatment might possibly
+do better after a different treatment. However, based on a lack of trialevidence, and the arguments mentioned above, the TF does not
+advise giving the alternative treatment as a standard procedure in
+patients who further deteriorate despite a course of IVIg or PE.
+4.3.11 | Immunoadsorption (IA) and IA followed
+by IVIg
+Immunoadsorption (IA) is a technique to remove possible pathogenic
+antibodies.
+4.3.12 | Recommendations
+•The TF does not recommend IA for treatment of GBS.Considerations supporting the recommendation ( supporting
+information )
+Evidence summary : One small open pilot study, a prematurely
+stopped RCT and a very small retrospective cohort study were iden-
+tified.195,202,203The open randomised pilot study included 45 GBS
+patients, of which 11 received PE, 13 IA and 21 IA followed by IVIg,
+which may suggest some advantag es for the sequential regimen.202
+The RCT aimed to recruit 279 patients but was prematurely stopped
+after including 23 patients treated with IVIg, 26 with PE and
+18 with IA.195No significant benefit was found for IA alone, nor for
+the combination of IA followed by IVIg (very low certaintyevidence).
+180,195,202
+Rationale : Because IVIg is a proven effective treatment for GBS
+and there is insufficient data on t he effectiveness of IA, the TF
+concluded that there currently is insufficient information to sup-port the use of IA for treatment of GBS. IA is expensive and in
+most countries has only limited availability. Practical experience
+suggests that IA may be safe and e ffective; however, this requires
+proper validation.
+4.3.13 | Corticosteroids (PICO 10)
+GBS is considered an immune-mediated disease, therefore corticoste-roids have been studied. Trials have separately investigated the effectof oral and of IV corticosteroids.
+4.3.14 | Recommendations
+•The TF strongly recommends against oral corticosteroids for the
+treatment of GBS.
+•The TF weakly recommends against IV methylprednisolone (IVMP)
+alone or combined with IVIg for treatment of GBS.
+Considerations supporting the recommendations ( supporting
+information )
+Evidence summary : The TF considered the probable lack of efficacy
+of IVMP (moderate certainty evidence from a trial with
+242 patients),181,204the probable lack of efficacy of the combina-
+tion of IVIg and IVMP compared with IVIg and placebo (moderatecertainty evidence from a trial with 225 patients),
+205the probable
+harm (delayed recovery) of oral cor ticosteroids (low certainty evi-
+dence from 4 trials with a total of 120 patients) using various oralregimens of the equivalent of 40 mg prednisolone daily for at least
+2 weeks,
+38,181,205 –208and the high certainty evidence of adverse
+effects (diabetes more common), despite that hypertension wasless common in the corticosteroid-treated patients, which is crucialin decision making.
+204,205
+Rationale : Corticosteroids are inexpensive, but there is no trial
+evidence to support the use of corticosteroids in patients with GBS.Intermediate high dosages of oral corticosteroids may even harm GBS
+patients.van DOORN ET AL. 551
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4.3.15 | Other treatments (PICO 11)
+A variety of other agents has been tested in small studies and case
+series. Non-pharmacological treatments like physiotherapy, speech/
+swallowing therapy, occupational therapy and other forms of rehabili-tation treatment are often used in patients with GBS.
+4.3.16 | Pharmacological treatments
+4.3.17 | Eculizumab
+There is evidence for complement activation from pathological studies
+and from animal models of GBS.209–211Eculizumab, a complement
+blocking agent, was beneficial in an animal model.212
+4.3.18 | Recommendations
+•The TF weakly recommends against eculizumab for treatment
+of GBS.
+Considerations supporting the recommendation ( supporting
+information )
+Evidence summary : In two small phase 2 trials (including a total of
+41 patients), no beneficial effects of eculizumab could be demon-
+strated (very low to low certainty evidence).182,213,214Both trials used
+the same protocol. One trial in seven patients was prematurely endedbecause recruitment was very slow.
+214The Japanese eculizumab trial
+(JET-GBS) in 33 patients (randomised 2:1 for eculizumab compared to
+placebo) did not show significant effects on pre-specified outcomemeasures; however, more patients were able to run after 6 months
+compared with placebo.
+213
+Rationale : The lack of demonstrated efficacy, the known adverse
+effects (all patients had some adverse effects) and the high cost cur-rently result in a weak recommendation against eculizumab. Further
+trials are awaited.
+4.3.19 | Other pharmacological treatments
+4.3.20 | Recommendations
+•The TF strongly recommends against using alemtuzumab, brain-
+derived neurotrophic factor, CSF filtration, cyclophosphamide,
+interferon beta 1a, muronomab-CD3, mycophenolate mofetil or
+tripterygium polyglycoside for the treatment of GBS.
+•The TF does not make a recommendation either for or against
+using neuromuscular electrical stimulation within 2 weeks after
+onset of GBS.
+•The TF weakly recommends against using 3,4-diaminopyridine to
+improve muscle strength in patients with chronic disability
+after GBS.Considerations supporting the recommendation ( supporting
+information )
+Evidence summary : Only small, very low certainty RCTs and case series
+evaluating these drugs (see: recommendation 1) were identified, for
+which no clinically important differences in any of the outcome mea-sures could be demonstrated for any of the interventions
+described.
+182,215 –224Minor clinical benefit or harm cannot be
+excluded. As these treatments potentially can have side effects andimportant clinical benefit is unlikely, the TF recommended strongly
+against using these treatments.
+The TF considered that the effectiveness of neuromuscular elec-
+trical stimulation during early rehabilitation phase of disease is uncer-tain, based on one small RCT (12 participants).
+225,226Both the
+effectiveness and safety of 3,4-diaminopyridine (seizures have been
+observed in other studies) are considered uncertain (one observationalstudy, four GBS patients).
+227,228In a cross-over study (seven partici-
+pants) with chronic disability after GBS (over 12 months after onset),
+some improvement of motor function after 3,4-diaminopyridine wasfound.
+229Because of the small trial size, it is not possible to draw a
+conclusion about the effectiveness in patients with long-term stable
+weakness after GBS.
+Rationale : Given the costs and safety profiles, and the lack of proven
+clinical benefit, the TF currently recommended against alemtuzumab,
+brain-derived neurotrophic factor, CS F filtration, cyclophosphamide, inter-
+feron beta 1a, muronomab-CD3, mycophenolate mofetil and tripterygiumpolyglycoside. Because of the uncertainty about an effect on motor func-
+tion and the potential side effects, the TF weakly recommended against
+using 3,4-diaminopyridine for the treatment of GBS. Further researchneeds to be conducted before a reco mmendation about the possible
+effectiveness of neuromuscular electrical stimulation can be given.
+4.4 |Physiotherapy, speech, swallowing,
+occupational therapy or other forms of rehabilitationtreatment
+Most patients with GBS are treated with physiotherapy, and many
+with speech, swallowing, occupational therapy or other forms of reha-bilitation treatment after GBS. Psycho-emotional aspects and careful
+daily care are very important as well.
+4.4.1 | Recommendations
+•The TF does not make a recommendation on the use of high-
+intensity over a low-intensity rehabilitation programme in the
+chronic phase of GBS.
+Considerations supporting the recommendation ( supporting
+information )
+Evidence summary : No RCTs on physiotherapy, occupational therapy
+or rehabilitation treatment in the acute phase of GBS were identified.
+Only a small randomised study (79 patients) in the chronic phase of552 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+GBS was found. This study indicated that a high-intensity intervention
+may reduce disability more than a low-intensity intervention, but thisrequires additional studies.
+230Despite the absence of RCTs, TF is
+unanimous in their support of the use of physiotherapy, occupational
+therapy, speech or respiratory therapy (when indicated) and rehabilita-tion treatment in the various phases of GBS.
+4.4.2 | Good practice points
+•The TF advises to start physiotherapy, occupational therapy,
+speech therapy and rehabilitation treatment for patients with GBSduring the acute phase (already during hospital admission).
+•The TF advises transitioning to rehab ilitation centres when available, to
+assist both patients and their family /partners. The TF a dvises to continue
+home and/or outpatient physiother apy, occupational therapy, speech
+therapy and respiratory therapy (or other forms of therapy when indi-
+cated) for more than 6 months (when limitations persist) since functioncan continue to improve for man y months after acute disease.
+•The TF acknowledges that psycho-emotional effects of having GBS
+can be very important both for patients and their caregivers, andtherefore careful attention and professional help are often indicated.
+Rationale : Despite the lack of appropriate studies, the TF con-
+siders physiotherapy, occupational therapy and other forms of rehabil-itation treatment important for GBS patients both in the acute and
+more chronic phase of disease.
+4.5 |Treatment of pain (PICO 12)
+Pain often occurs in the acute and recovery phase of GBS, may be
+severe, and often precedes the onset of weakness.35Pain is heteroge-
+neous in location and type (nociceptive or neuropathic). Pain mayoccur in the back, interscapular region, muscles, in a radicular pain dis-tribution, or as painful par- or dysesthesias in the extremities.
+35
+Recommendations are made based upon trial evidence. Because painis frequent and its treatment may be complex, the TF additionally pro-vides GPPs to guide practical care. Both pharmacological and a variety
+of activities to improve emotional well-being are considered.
+4.5.1 | Pharmacological treatment
+4.5.2 | Recommendations
+•The TF weakly recommends using gabapentin or carbamazepine
+for the treatment of pain in GBS.
+•The TF weakly recommends against using high-dose corticoste-
+roids for the treatment of pain in GBS.4.5.3 | Good practice points
+•The TF advises asking about the presence of pain during the acute
+and recovery phases of GBS.
+•The TF advises assessing the cause(s) of pain and whether it is neu-
+ropathic or nociceptive (especially musculoskeletal pain) because
+treatment may differ.
+•The TF advises first using gabapentinoids (gabapentin and pregaba-
+lin) or tricyclic antidepressants prior to using carbamazepine. Care
+should be taken when using certain (like tricyclic anti-depressive)
+drugs in patients with autonomic failure.
+•The TF suggests that co-administration of medications may be fea-
+sible and useful. Opioids might be used but care should be given to
+adverse reactions (constipation, ileus, confusion, suppression of
+respiratory drive and addiction).
+•The TF advises using published guidelines for treatment of chronic
+neuropathic pain for treatment of pain or dysesthesias in GBS.
+These guidelines recommend tricyclic antidepressants, pregabalin,gabapentin or serotonin-noradrenaline reuptake inhibiters (duloxe-
+tine or venlafaxine) as first-line treatments.
+Considerations supporting the recommendations ( supporting
+information )
+Evidence summary : There are only small short-term studies in the
+acute phase of GBS available that provide low certainty evidence.Carbamazepine (100 –200 mg three times daily) was beneficial in two
+small trials versus placebo (low certainty evidence).
+231,232Two small
+RCTs support the use of gabapentin (5 mg/kg or 300 mg, three timesa day) for the treatment of neuropathic pain (low certainty evi-
+dence).
+232,233It has been argued that pain in the acute phase in some
+patients may be due to proximal localised endoneurial inflammatoryoedema that may be responsive to corticosteroids.
+234Methylprednis-
+olone (500 mg for 5 days) probably offers no clear benefit to the
+treatment of either pain or disability (moderate certainty evi-dence).
+35,235Guidelines for treatment of chronic neuropathic pain are
+available.236,237
+Rationale : There currently is no clear indication that neuropathic
+pain in GBS should be treated differently from neuropathic pain inother peripheral nerve diseases.
+4.5.4 | Yoga, meditation and other activities to
+improve emotional well-being
+Complementary techniques such as yoga, meditation and mindfulness,
+and some other forms of activities have been described in the man-
+agement of GBS, but very few have any evidence of efficacy. The onlytherapies with RCTs in the literature are pranayama yoga and medita-tion, and therefore these were considered specifically in this GBS
+Guideline.van DOORN ET AL. 553
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4.5.5 | Recommendations
+•The TF does not make a recommendation for or against using
+pranayama yoga and meditation techniques for the treatment
+of GBS.
+•The TF does not make a recommendation for or against other
+activities that improve emotional well-being for treatment of GBS.
+Considerations supporting the recommendations ( supporting
+information )
+Evidence summary : Only one small trial (22 patients) was identified
+that compared pranayama yoga (breathing practices) and meditationas add-on therapy to usual care.
+238The TF is uncertain whether pra-
+nayama yoga and meditation as add-on therapy influences sleep qual-
+ity and pain (very low certainty evidence), or changes in daily activities(low certainty evidence). There is no evidence that patients with GBS
+may benefit from activities that improve emotional well-being more
+or less than the general population.
+Rationale : Although there is no evidence to show that patients
+with GBS may benefit from yoga (in all its forms) and other comple-
+mentary therapies, patients who have had GBS may find that carefulintroduction of one of these activities may be worthwhile to try.
+4.6 |Treatment of fatigue (PICO 13)
+Fatigue is an important and frequently (38% –86%) occurring residual
+complaint in patients with GBS, especially during the recoveryphase.
+36,37The causes and treatment of fatigue are complex and
+poorly understood. Pharmacological and non-pharmacological strate-
+gies (graded exercise programmes, cognitive behavioural therapy andphysical fatigue management strategies) are used.
+4.6.1 | Pharmacological interventions
+4.6.2 | Recommendations
+•The TF weakly recommends against using amantadine to reduce
+fatigue in patients with GBS.
+•The TF does not make a recommendation for or against other
+pharmacological agents for the treatment of fatigue in patients
+recovering from GBS.
+Considerations supporting the recommendation ( supporting
+information )
+Evidence summary : There is low certainty evidence from a cross-over
+trial in 80 GBS patients that there is no effect of amantadine toreduce fatigue, improve quality of life or increase participation when
+used at standard doses for 6 weeks.
+36No other studies appropriately
+assessing other drugs to treat fatigue in GBS have been found.239
+Rationale : Although amantadine might reduce fatigue in other dis-
+orders, trial evidence in GBS did not show a positive effect. Other long-term conditions with associated fatigue are sometimes treated with
+anti-fatigue medication, including stimulants (modafinil, methylpheni-date), androgenic steroids (DHEA) and antidepressants (serotonin reup-
+take inhibitors), but this has not systematically been studied in GBS.
+240
+4.6.3 | Non-pharmacological interventions
+4.6.4 | Good practice point
+•The TF does not advise for or against exercise training for fatigue.
+Considerations supporting the GPP ( supporting information)
+Evidence summary : An open 12-week study of bicycle exercise
+training in 16 GBS patients and 4 CIDP patients with severefatigue, who were otherwise relatively well recovered from their
+disease, indicated that training was well tolerated and fatigue
+scores improved.
+241
+Rationale : It is very unlikely that exercise would be harmful in
+physically relatively well-recovered GBS patients. Exercise is often
+feasible and anecdotal reports from patients, clinicians and unpub-lished studies suggest that it has at least subjective and maintained
+benefits.
+4.7 |Part 4: Prognosis
+4.7.1 | Prognosis (PICO 14)
+The outcome of GBS is highly variable, and predicting the prognosis
+of GBS is relevant for treatment purposes and for counselling. Boththe short-term prognosis (e.g., likelihood of needing mechanical venti-
+lation, see Part 3 Prediction of ICU admission ,PICO 7 ) and the long-
+term prognosis (e.g., likelihood of being able to walk unaided after6 months) are relevant. Although outcome is more than the ability towalk, this is a main outcome parameter in the RCTs.
+4.7.2 | Good practice points
+•The TF advises assessing the risk of poor outcome in GBS at an
+early stage of the disease.
+•For clinical decision making and counselling, the TF advises to esti-
+mate the risk of being unable to walk unaided after 4 and26 weeks. This risk is increased in older patients, those with pre-
+ceding diarrhoea/gastroenteritis and in patients with higher GBS
+disability score or severe limb weakness at hospital admission, andcan be calculated using the mEGOS score.
+•Because the risk of being unable to walk unaided after 3 –6 months
+is increased in patients with low mean distal compound muscle
+action potential (CMAP) amplitude (<20% of lower limit of normal,averaged over at least 3 motor nerves), the TF advises to take this
+finding also into consideration when discussing outcome.554 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Considerations supporting the recommendations ( supporting
+information )
+Evidence summary :
+Risk of poor outcome (inability to walk unaided after 3 –
+6 months): Both controlled and observational studies have been foundand were used to identify factors related to poor outcome in GBS.
+Predictors for poor outcome (high certainty evidence) are
+(1) older age,
+164,168,171,242 –248(2) preceding diarrhoea/
+gastroenteritis,102,167,245 –249(3) higher GBS disability scores at
+admission,102,164,167,247,249(4) lower MRC sum scores at
+admission247,248,250and (5) decreased CMAP amplitude.243,244,251,252
+Probable predictors of poor outcome (moderate certainty evidence)
+are (1) preceding C. Jejuni infection,102,247(2) severe arm weakness,246
+(3) higher EGOS scores,161,249,253(4) higher mEGOS scores,161,247
+(5) higher GBS disability scores at nadir,164,242,243(6) absence of
+CMAPs167/Inexcitable motor nerves,242,246(7) decreased proximal/
+distal CMAP amplitude171and (8) hypoalbuminemia.172Preceding
+CMV infection probably does not independently predict poor out-come in GBS at 6 months, but may predict poor outcome at
+8 weeks.
+248The presence of any preceding infection may not inde-
+pendently predict poor outcome in GBS.243,254
+Factors that may predict poor outcome (low certainty evidence)
+are: (1) short time from onset to admission,242,244,247,248(2) short
+duration of active disease,245(3) upper or lower limb
+power < MRC grade 3,242(4) respiratory failure /history of
+mechanical ventilation,242,244,250,254,255,164(5) short time to nadir
+disability,245,243(6) lower MRC sum scores at nadir,254,256(7) being
+bedbound/having respiratory insufficiency at nadir,245
+(8) increased CSF protein,257(9) denervation with needle EMG,258
+(10) recruitment pattern of hypothenar muscles with needleEMG,
+258(11) anti-GM1 or GD1a antibodies,102(12) absence of
+IgM anti GM1 antibodies,246(13) diabetes,255and (14) BCII gluco-
+corticoid receptor gene polymorphisms.259Neck muscle weakness
+may not independently pre dict poor outcome in GBS.250,254
+Increased serum neurofilament lig ht chain (NFL) levels are associ-
+ated with axonal damage and poor outcome after GBS, but it is not
+yet known if this is independent of other prognostic factors.260,261
+Prognostic model : Risks of poor outcome for individual patients
+can be calculated by the mEGOS247(moderate certainty evidence). An
+IGOS validation study showed that mEGOS also accurately predicts
+the inability to walk after 4 –26 weeks in patients in countries outside
+The Netherlands. The region-specific version of mEGOS for patients
+from Europe/North America enables an even more accurate predic-
+tion of the inability to walk unaided for patients in those continents.32
+Rationale : The prognosis of GBS varies greatly. Prognostic models
+help to estimate the prognosis in an early stage of disease.
+AUTHOR CONTRIBUTIONS
+Pieter A. van Doorn : Conceptualisation —lead, funding acquisition —
+lead, methodology —equal, project administration —equal, writing —
+original draft —lead, writing —review and editing —lead. Peter Y. K. Van
+den Bergh : Conceptualisation —equal, funding acquisition —equal,
+methodology —equal, project administration —equal, writing —original
+draft—supporting, writing —review and editing —supporting. RobertD. M. Hadden : Conceptualisation —equal, funding acquisition —sup-
+porting, methodology —equal, project administration —supporting,
+writing —original draft —supporting, writing —review and editing —sup-
+porting. Bert Avau : Methodology —lead, software —supporting,
+supervision —supporting, writing —original draft —supporting, writing —
+review and editing —supporting. Patrick Vankrunkelsven :
+Methodology —supporting, project administration —supporting,
+supervision —supporting. Shahram Attarian : Investigation —supporting,
+writing —original draft —supporting, writing —review and editing —sup-
+porting. Patricia H. Blomkwist : Funding acquisition —supporting, inves-
+tigation supporting. D a v i dR .C o r n b l a t h : Investigation —supporting,
+writing —original draft —supporting, writing —review and editing —
+supporting. H. Stephan Goedee : Investigation —supporting, writing —
+original draft —supporting, writing —review and editing —supporting.
+Thomas Harbo : Investigation —supporting, writing —original draft —sup-
+porting, writing —review and editing —supporting. Bart C. Jacobs :
+Investigation —supporting, writing —original draft —supporting, writing —
+review and editing —supporting. Susumu Kusunoki : Investigation support-
+ing, writing —original draft —supporting, writing —review and editing —sup-
+porting. Helmar C Lehmann : Investigation —supporting, writing —original
+draft—supporting, writing —review and editing —supporting. Richard
+A. Lewis :I n v e s t i g a t i o n —supporting, writing —original, draft —supporting,
+writing —review and editing —supporting. Michael P. Lunn : Investigation —
+supporting, writing —original draft —supporting, writing —review and
+editing —supporting. Eduardo Nobile-Orazio : Investigation supporting,
+writing-original draft-supporting, writing-review and editing —supporting.
+Luis Querol : Investigation —supporting, writing —original draft —supporting,
+writing —review and editing —supporting. Yusuf A. Rajabally :
+Investigation —supporting, writing —original draft —supporting, writing —
+review and editing —supporting. Tirugnanam Umapathi : Investigation —
+supporting, writing —original draft —supporting, writing —review and
+editing —supporting. Haluk A. Topaloglu : Investigation —supporting,
+writing —original draft —supporting, writing —review and editing —support-
+ing.Hugh J. Willison : Investigation —supporting, writing —original draft —
+supporting, writing —review and editing —supporting.
+AFFILIATIONS
+1Department of Neurology, Erasmus MC, University Medical Center,
+Rotterdam, The Netherlands
+2Neuromuscular Reference Centre, Department of Neurology,
+University Hospital Saint-Luc, Brussels, Belgium
+3Department of Neurology, King's College Hospital, London, UK
+4Cochrane Belgium, CEBAM, Leuven, Belgium
+5CEBaP, Belgian Red Cross, Mechelen, Belgium
+6Department of Public Health and Primary Care KU Leuven, Cochrane
+Belgium, CEBAM, Leuven, Belgium
+7Centre de Référence des Maladies Neuromusculaires et de la SLA,
+APHM, CHU Timone, Marseille, France
+8Patient Representative GBS/CIDP Foundation International,
+International Office, Conshohocken, Pennsylvania, USA
+9Department of Neurology, Johns Hopkins University School of
+Medicine, Baltimore, Maryland, USA
+10Department of Neurology, University Medical Center Utrecht, Brain
+Center UMC Utrecht, Utrecht, The Netherlandsvan DOORN ET AL. 555
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+11Department of Neurology, Aarhus University Hospital,
+Aarhus, Denmark
+12Department of Neurology and Immunology, Erasmus MC,
+University Medical Center, Rotterdam, The Netherlands
+13Department of Neurology, Faculty of Medicine, Kindai University,
+Osaka, Japan
+14Department of Neurology, Medical Faculty Köln, University
+Hospital Köln, Cologne, Germany
+15Department of Neurology, Cedars-Sinai Medical Center, Los
+Angeles, California, USA
+16Department of Neurology and MRC Centre for Neuromuscular
+Diseases, National Hospital for Neurology and Neurosurgery,London, UK
+17Neuromuscular and Neuroimmunology Service, IRCCS Humanitas
+Research Institute, Department of Medical Biotechnology andTranslational Medicine, University of Milan, Milan, Italy
+18Neuromuscular Diseases Unit, Neurology Department, Hospital de
+la Santa Creu I Sant Pau, Universitat Autònoma de Barcelona,Barcelona, Spain
+19Neuromuscular Service, Neurology, Queen Elizabeth Hospital
+Birmingham, Birmingham, UK
+20Department of Neurology, National Neuroscience Institute,
+Singapore
+21Department of Pediatrics, Yeditepe University, Istanbul, Turkey
+22Glasgow Biomedical Research Centre, University of Glasgow,
+Glasgow, UK
+ACKNOWLEDGEMENTS
+The GBS Guideline Task Force is grateful to the European Academy
+of Neurology (EAN), the Peripheral Nerve Society (PNS), the
+GBS/CIDP Foundation International and GAIN Charity UK for grant-ing unrestricted financial support to develop this Guideline. The TF
+especially thanks Prof RAC Hughes for his continuous support and
+guidance during the development of this first international evidence-based GBS Guideline, and Prof KC Gorson for critically reviewing andhis helpful comments on the manuscript of this Guideline.
+CONFLICT OF INTEREST STATEMENT
+Pieter A. van Doorn received funding for research from Zon-MW,
+Prinses Beatrix Spierfonds, Grifols and Takeda; and payments to his
+department for serving on advisory boards for Annexon Biosciences,Argenx, Hansa Medical AB, Octapharma AG, Hoffmann-la Roche and
+Sanofi-Genzyme. Peter Y. K. Van den Bergh received fees for review
+activities or boards from Alnylam, CSL, Pfizer, Janssen, Novartis andGenzyme. Support for travel from CSL Behring, LFB, Pfizer, Natus,
+Alnylum, UCB, Genzyme and Novartis. Robert D. M. Hadden received
+conference expenses from CSL Behring; speaker fees from CSL Beh-ring and Alnylam; served on advisory boards for Takeda, Janssen andArgenx; and received payments to his department from CSL Behring
+and Grifols. Bert Avau reports no conflicts of interest. Patrik Vankrun-
+kelsven reports no conflicts of interest. Shahram Attarian reportsspeaker honorary and travel support: LFB, Alnylam, Akcea, Pfizer,
+Sanofi, Pharnext, Inflectis, Biogen, Novartis Hansa, UCB, Argenx,Alexion and Roche. Board members: Sanofi, Pfizer, Pharnext, InFlectis,
+Hansa, LFB, Biogen, Alnylam, Argenx, Alexion and Roche. Researchfunding: LFB, Pfizer and Biogen. Patricia H. Blomkwist-Markens is
+Liaison (volunteer) of the GBS jCIDP Foundation International and Vol-
+unteer of the GBS jCIDP jMMN group of Spierziekten Nederland
+(Dutch patient organisation for neuromuscular diseases). David R.
+Cornblath declares interests as consultant: Annexon Biosciences,
+Boehringer Ingelheim, Cigna Health Management, Inc., Grifols S.A.,Johnson & Johnson, Neura Bio, Octapharma AG, Pfizer Inc., Roche,
+Seattle Genetics Inc., Valenzabio; Data Safety Monitoring Board: Pled-
+Pharma AB, Hansa Medical AB, Mitsubishi Tanabe Pharma Corpora-tion; Technology Licensing: AstraZeneca Pharmaceuticals, LP,Genentech Inc., Levicept Inc., Seattle Genetics, Inc., Merrimack Phar-
+maceuticals, Disarm Therapeutics; SAB: Sinomab, Algotherapeutics,
+Nervosave. H. Stephan Goedee has received research grants fromPrinses Beatrix Spierfonds, travel support from Shire/Takeda and
+speaker fees from Takeda paid to the institution. Thomas Harbo has
+received speaker/consultancy honoraria from CSL Behring, Annexon,Argenx, Beigene and Roche. Bart C. Jacobs declares honoraria as
+speaker for Grifols, as consultant for Annexon Biosciences and
+Hoffmann-la Roche, technology licensing for Hoffmann-la Rocheand received funding for research from Zon-MW, EU Horizon 2020,
+Prinses Beatrix Spierfonds, GBS-CIDP Foundation International, CSL-
+Behring, Grifols, Hansa Medical AB, Annexon Biosciences andHoffmann-la Roche. Susumu Kusunoki: received grants and honorariafor lecturing from Teijin, Nihon Pharm, CSL Behring and from the
+Japan Blood Products Organization, and Data Safety Monitoring
+Board for Argenx. Helmar C. Lehmann: received honoraria for speak-ing and advisory board engagements by Alnylam, Biogen, CSL Behring,
+Grifols, Gruenenthal, LFB Pharma, Takeda and UCB. Richard A. Lewis
+provided advisory and consultancy services to Akcea, Alexion, Alny-lam, Annexon, Argenx, Boehringer Ingelheim, CSL Behring, Grifols,
+Johnson &Johnson, Pfizer, Roche, Sanofi and Takeda. Medical Advi-
+sory Board: GBS-CIDP Foundation International and MyastheniaGravis Foundation of America; Board of Directors: Peripheral NerveSociety —President. Speaker: Medscape; Royalties: Up to Date.
+Michael P. Lunn has advised NHS England for their IVIG Working
+group and IVIG Commissioning Panels as well as advising the MHRAon vaccine safety in COVID-19 on an invitational basis. He is Joint
+Coordinating Editor Cochrane Neuromuscular; has given advice on ad
+hoc advisory boards, particularly on trial design to Roche, AstraZe-neca, Sanofi, UCB, Sanofi, Takeda, Polyneuron and BeiGene. Unrest-
+ricted conference expenses have been received from BeiGene and
+CSL Behring. Eduardo Nobile-Orazio reports personal fees for Advi-sory or Steering Board from Argenx, Takeda, CSL Behring, Janssen,
+Kedrion, LFB, Roche and Honorarium for Lectures from Takeda, CSL
+Behring and Kedrion. Luis Querol received speaker honoraria fromMerck, Sanofi-Genzyme, Roche, Biogen, Grifols and CSL Behring; pro-vided expert testimony for Grifols, Johnson & Johnson, Annexon
+Pharmaceuticals, Sanofi-Genzyme, Novartis, Takeda and CSL-Behring;
+and received research funds from Roche, UCB and Grifols. YusufA. Rajabally has received speaker/consultancy honoraria from LFB,
+Polyneuron and Argenx and has received educational sponsorships556 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+from LFB and CSL Behring and has obtained research grants from LFB
+and CSL Behring. Thirugnanam Umapathi reports no conflicts of inter-est. Haluk A. Topaloglu reports no conflicts of interest. Hugh
+J. Willison provided advisory and consultancy services to Alexion,
+Argenx SE, Annexon, Polyneuron AG, GSK (US), Janssen (NL), Buhl-mann Labs AG, F.Hoffman-La Roche, GeneTx Biotherapeutics, Grifols,
+and received research funding from Annexon, Argenx, and Polyneuron
+AG. [Correction added on 13 October 2023, after first online publica-tion: The conflict of interest for David R. Cornblath was incorrectly
+listed for Patricia H. Blomkwist-Markens and this has been corrected
+in this version.]
+DATA AVAILABILITY STATEMENT
+Data sharing is not applicable to this article as no new data were cre-
+ated or analyzed in this study.
+ORCID
+Pieter A. van Doorn
+https://orcid.org/0000-0003-2584-3357
+Peter Y. K. Van den Bergh https://orcid.org/0000-0003-1954-4617
+Robert D. M. Hadden https://orcid.org/0000-0002-9702-0256
+Bert Avau https://orcid.org/0000-0002-9160-084X
+Patrik Vankrunkelsven https://orcid.org/0000-0003-1047-9732
+Shahram Attarian https://orcid.org/0000-0002-7211-4694
+David R. Cornblath https://orcid.org/0000-0003-2761-489X
+H. Stephan Goedee https://orcid.org/0000-0001-9591-1672
+Thomas Harbo https://orcid.org/0000-0003-2178-6076
+Bart C. Jacobs https://orcid.org/0000-0002-8985-2458
+Susumu Kusunoki https://orcid.org/0000-0002-1584-8704
+Helmar C. Lehmann https://orcid.org/0000-0003-0674-9891
+Richard A. Lewis https://orcid.org/0000-0002-1140-4575
+Michael P. Lunn https://orcid.org/0000-0003-3174-6027
+Eduardo Nobile-Orazio https://orcid.org/0000-0003-2624-8138
+Luis Querol https://orcid.org/0000-0002-4289-8264
+Yusuf A. Rajabally https://orcid.org/0000-0002-7170-8343
+Thirugnanam Umapathi https://orcid.org/0000-0001-5641-4374
+Haluk A. Topaloglu https://orcid.org/0000-0002-3545-3830
+Hugh J. Willison https://orcid.org/0000-0002-5997-1683
+REFERENCES
+1. Schünemann HJGG, Guyatt G, Oxman A. GRADE Handbook for Grad-
+ing Quality of Evidence and Strength of Recommendations . The GRADE
+Working Group; 2013. https://gdt.gradepro.org/app/handbook/
+handbook.html
+2. Sejvar JJ, Baughman AL, Wise M, Morgan OW. Population incidence
+of Guillain-Barre syndrome: a systematic review and meta-analysis.Neuroepidemiology . 2011;36:123-133.
+3. Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barre syndrome. Lan-
+cet. 2016;388:717-727.
+4. Doets AY, Verboon C, van den Berg B, et al. Regional variation of
+Guillain-Barre syndrome. Brain . 2018;141:2866-2877.
+5. Shahrizaila N, Lehmann HC, Kuwabara S. Guillain-Barre syndrome.
+Lancet . 2021;397:1214-1228.
+6. Asbury AK, Cornblath DR. Assessment of current diagnostic criteria
+for Guillain-Barre syndrome. Ann Neurol . 1990;27(S1):S21-S24.7. Sejvar JJ, Kohl KS, Gidudu J, et al. Guillain-Barre syndrome and
+Fisher syndrome: case definitions and guidelines for collection, anal-ysis, and presentation of immunization safety data. Vaccine . 2011;
+29:599-612.
+8. Brouwers MC, Kho ME, Browman GP, et al. AGREE II: advancing
+guideline development, reporting and evaluation in health care.CMAJ . 2010;182:E839-E842.
+9. Leone MA, Keindl M, Schapira AH, Deuschl G, Federico A. Practical
+recommendations for the process of proposing, planning and writing
+a neurological management guideline by EAN task forces. Eur J Neu-
+rol. 2015;22:1505-1510.
+10. Alonso-Coello P, Oxman AD, Moberg J, et al. GRADE Evidence To
+Decision (EtD) frameworks: a systematic and transparent approach
+to making well informed healthcare choices. 2: clinical practice
+guidelines. BMJ. 2016;353:i2089.
+11. Andrews JC, Schunemann HJ, Oxman AD, et al. GRADE guidelines:
+15. Going from evidence to recommendation-determinants of a rec-ommendation's direction and strength. J Clin Epidemiol . 2013;66:
+726-735.
+12. Guyatt GH, Schunemann HJ, Djulbegovic B, Akl EA. Guideline panels
+should not GRADE good practice statements. J Clin Epidemiol . 2015;
+68:597-600.
+13. Wakerley BR, Yuki N. Mimics and chameleons in Guillain-Barre and
+Miller Fisher syndromes. Pract Neurol . 2015;15:90-99.
+14. Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and
+management of Guillain-Barre syndrome in ten steps. Nat Rev Neu-
+rol. 2019;15:671-683.
+15. Fokke C, van den Berg B, Drenthen J, Walgaard C, van Doorn PA,
+Jacobs BC. Diagnosis of Guillain-Barre syndrome and validation ofBrighton criteria. Brain . 2014;137:33-43.
+16. van den Berg B, Fokke C, Drenthen J, van Doorn PA, Jacobs BC. Para-
+paretic Guillain-Barre syndrome. Neurology . 2014;82:1984-1989.
+17. Lee SS, Lee SH. Does sensory Guillain -Barre syndrome exist without any
+abnormalities in motor nerve conduction? Neurology . 2006;66:947-948.
+18. Miralles F, Montero J, Rene R, Martinez Matos JA. Pure sensory
+Guillain-Barre syndrome. J Neurol Neurosurg Psychiatry . 1992;55:
+411-412.
+19. Oh SJ, LaGanke C, Claussen GC. Sensory Guillain-Barre syndrome.
+Neurology . 2001;56:82-86.
+20. Yang J, Huan M, Jiang H, Song C, Zhong L, Liang Z. Pure sensory
+Guillain-Barre syndrome: a case report and review of the literature.Exp Ther Med . 2014;8:1397-1401.
+21. Ito M, Kuwabara S, Odaka M, et al. Bickerstaff's brainstem encepha-
+litis and Fisher syndrome form a continuous spectrum: clinical analy-sis of 581 cases. J Neurol . 2008;255:674-682.
+22. Yuki N. Fisher syndrome and Bickerstaff brainstem encephalitis
+(Fisher-Bickerstaff syndrome). J Neuroimmunol . 2009;215:1-9.
+23. Ruts L, Drenthen J, Jacobs BC, van Doorn PA. Distinguishing acute-
+onset CIDP from fluctuating Guillain-Barre syndrome: a prospectivestudy. Neurology . 2010;74:1680-1686.
+24. Hadden RD, Cornblath DR, Hughes RA, et al. Electrophysiological
+classification of Guillain-Barre syndrome: clinical associations and
+outcome. Plasma exchange/Sandoglobulin Guillain-Barre SyndromeTrial Group. Ann Neurol . 1998;44:780-788.
+25. Ho TW, Mishu B, Li CY, et al. Guillain-Barre syndrome in northern
+China. Relationship to Campylobacter jejuni
+infection and anti-
+glycolipid antibodies. Brain . 1995;118:597-605.
+26. Rajabally YA, Hiew FL, Winer JB. Influence of timing on electrodiag-
+nosis of Guillain-Barre syndrome in the first six weeks: a retrospec-
+tive study. J Neurol Sci . 2015;357:143-145.
+27. McGonigal R, Campbell CI, Barrie JA, et al. Schwann cell nodal mem-
+brane disruption triggers bystander axonal degeneration in a Guillain-
+Barre syndrome mouse model. J Clin Invest . 2022;132(14):e158524.van DOORN ET AL. 557
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+28. Ho TW, Hsieh ST, Nachamkin I, et al. Motor nerve terminal degener-
+ation provides a potential mechanism for rapid recovery in acutemotor axonal neuropathy after Campylobacter infection. Neurology .
+1997;48:717-724.
+29. Uncini A, Susuki K, Yuki N. Nodo-paranodopathy: beyond the demy-
+elinating and axonal classification in anti-ganglioside antibody-mediated neuropathies. Clin Neurophysiol . 2013;124:1928-1934.
+30. Feasby TE, Gilbert JJ, Brown WF, et al. An acute axonal form of
+Guillain-Barre polyneuropathy. Brain . 1986;109(Pt 6):1115-1126.
+31. Kuwabara S, Yuki N. Axonal Guillain-Barre syndrome: concepts and
+controversies. Lancet Neurol . 2013;12:1180-1188.
+32. Doets AY, Lingsma HF, Walgaard C, et al. Predicting outcome in
+Guillain-Barre syndrome: international validation of the modified
+Erasmus GBS outcome score. Neurology . 2022;98:e518-e532.
+33. Kuwabara S, Yuki N, Koga M, et al. IgG anti-GM1 antibody is associ-
+ated with reversible conduction failure and axonal degeneration inGuillain-Barre syndrome. Ann Neurol . 1998;44:202-208.
+34. Campbell CI, McGonigal R, Barrie JA, et al. Complement inhibition
+prevents glial nodal membrane injury in a GM1 antibody-mediated
+mouse model. Brain Commun . 2022;4:fcac306.
+35. Ruts L, van Koningsveld R, Jacobs BC, van Doorn PA. Determination
+of pain and response to methylprednisolone in Guillain-Barre syn-drome. J Neurol . 2007;254:1318-1322.
+36. Garssen MP, Schmitz PI, Merkies IS, Jacobs BC, van der Meche FG,
+van Doorn PA. Amantadine for treatment of fatigue in Guillain-Barresyndrome: a randomised, double blind, placebo controlled, crossovertrial. J Neurol Neurosurg Psychiatry . 2006;77:61-65.
+37. de Vries JM, Hagemans ML, Bussmann JB, van der Ploeg AT, van
+Doorn PA. Fatigue in neuromuscular disorders: focus on Guillain-Barre syndrome and Pompe disease. Cell Mol Life Sci . 2010;67:
+701-713.
+38. Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled
+trial prednisolone in acute polyneuropathy. Lancet . 1978;2:750-753.
+39. Vanhoutte EK, Faber CG, Merkies IS, Ssg PN. 196th ENMC inter-
+national workshop: outcome measures in inflammatory peripheralneuropathies 8-10 February 2013, Naarden, The Netherlands. Neu-
+romuscul Disord . 2013;23:924-933.
+40. Draak TH, Gorson KC, Vanhoutte EK, et al. Correlation of the patient's
+reported outcome inflammatory-RODS with an objective metric inimmune-mediated neuropathies. Eur J Neurol . 2016;23:1248-1253.
+41. Vanhoutte EK, Draak TH, Gorson KC, et al. Impairment measures
+versus inflammatory RODS in GBS and CIDP: a responsiveness com-
+parison. J Peripher Nerv Syst . 2015;20:289-295.
+42. Roodbol J, de Wit MC, Walgaard C, de Hoog M, Catsman-
+Berrevoets CE, Jacobs BC. Recognizing Guillain-Barre syndrome inpreschool children. Neurology . 2011;76:807-810.
+43. Woo EJ, Mba-Jonas A, Dimova RB, Alimchandani M, Zinderman CE,
+Nair N. Association of Receipt of the Ad26.COV2.S COVID-19 vac-cine with presumptive Guillain-Barre syndrome, February-July 2021.JAMA . 2021;326:1606-1613.
+44. Keh RYS, Scanlon S, Datta-Nemdharry P, et al. COVID-19 vaccina-
+tion and Guillain-Barre syndrome: analyses using the National Immu-
+noglobulin Database. Brain. 2023;146:739-748.
+45. Principi N, Esposito S. Vaccine-preventable diseases, vaccines and
+Guillain-Barre' syndrome. Vaccine . 2019;37:5544-5550.
+46. Martin Arias LH, Sanz R, Sainz M, Treceno C, Carvajal A. Guillain-
+Barre syndrome and influenza vaccines: a meta-analysis. Vaccine .
+2015;33:3773-3778.
+47. Goud R, Lufkin B, Duffy J, et al. Risk of Guillain-Barre syndrome fol-
+lowing recombinant zoster vaccine in Medicare beneficiaries. JAMA
+Intern Med . 2021;181:1623-1630.
+48. Patone M, Handunnetthi L, Saatci D, et al. Neurological complica-
+tions after first dose of COVID-19 vaccines and SARS-CoV-2 infec-tion. Nat Med . 2021;27:2144-2153.
+49. Sinha S, Prasad KN, Jain D, Pandey CM, Jha S, Pradhan S. Preced-
+ing infections and anti-ganglioside antibodies in patients withGuillain-Barrésyndrome: a single centre prospective case-control
+study. Clin Microbiol Infect . 2007;13:334-337.
+50. Winer JB, Hughes RAC, Anderson MJ, Jones DM, Kangro H,
+Watkins RPF. A prospective study of acute idiopathic neuropathy.II. Antecedent events. J Neurol Neurosurg Psychiatry . 1988;51:613-618.
+51. Cheng Q, Wang DS, Jiang GX, et al. A case-control study of Guillain-
+Barré syndrome in Harbin, China. Eur J Neurol . 2006;13:953-957.
+52. Stricker BH, van der Klauw MM, Ottervanger JP, van der Meche FG. A
+case-control study of drugs and other determinants as potential causes
+of Guillain-Barre syndrome. J Clin Epidemiol . 1994;47:1203-1210.
+53. Tam CC, O'Brien SJ, Petersen I, Islam A, Hayward A, Rodrigues LC.
+Guillain-Barre syndrome and preceding infection with Campylobac-
+ter, influenza and Epstein-Barr virus in the general practice research
+database. PloS One . 2007;2:e344.
+54. Jacobs BC, van Doorn PA, Schmitz PI, Herbrink P, Hooijkaas H. Cam-
+pylobacter jejuni infections and anti-GM1 antibodies in Guillain-Barre
+syndrome. Ann Neurol . 1996;40:181-187.
+55. Visser LH, van der Meche FG, Meulstee J, et al. Cytomegalovirus
+infection and Guillain-Barre syndrome: the clinical, electrophysio-
+logic, and prognostic features. Dutch Guillain-Barre Study Group.Neurology . 1996;47:668-673.
+56. Meyer Sauteur PM, Huizinga R, Tio-Gillen AP, et al. Mycoplasma
+pneumoniae triggering the Guillain-Barre syndrome: a case-control
+study. Ann Neurol . 2016;80:566-580.
+57. van den Berg B, van der Eijk AA, Pas SD, et al. Guillain-Barre syn-
+drome associated with preceding hepatitis E virus infection. Neurol-
+ogy. 2014;82:491-497.
+58. Keddie S, Pakpoor J, Mousele C, et al. Epidemiological and cohort
+study finds no association between COVID-19 and Guillain-Barresyndrome. Brain . 2021;144:682-693.
+59. Leonhard SE, van der Eijk AA, Andersen H, et al. An international
+perspective on preceding infections in Guillain-Barre syndrome: the
+IGOS-1000 cohort. Neurology . 2022;99:e1299-e1313.
+60. Rudant J, Dupont A, Mikaeloff Y, Bolgert F, Coste J, Weill A. Surgery
+and risk of Guillain-Barre syndrome: a French nationwide epidemio-logic study. Neurology . 2018;91:e1220-e1227.
+61. Hocker S, Nagarajan E, Rubin M, Wijdicks EFM. Clinical factors asso-
+ciated with Guillain-Barre syndrome following surgery. Neurol Clin
+Pract . 2018;8:201-206.
+62. Gensicke H, Datta AN, Dill P, Schindler C, Fischer D. Increased inci-
+dence of Guillain-Barre syndrome after surgery. Eur J Neurol . 2012;
+19:1239-1244.
+63. Zhang L, Arrington S, Keung YK. Guillain-Barre syndrome after
+transplantation. Leuk Lymphoma . 2008;49:291-297.
+64. Fan Q, Hu Y, Wang X, Zhao B. Guillain-Barre syndrome in patients
+treated with immune checkpoint inhibitors. J Neurol . 2021;268:
+2169-2174.
+65. Li Y, Zhang X, Zhao C. Guillain-Barre syndrome-like polyneuropathy
+associated with immune checkpoint inhibitors: a systematic reviewof 33 cases. Biomed Res Int . 2021;2021:9800488.
+6 6 . G o e d e eH S ,A t t a r i a nS ,K u n t z e rT ,V a nd e nB e r g hP ,
+Rajabally YA. Iatrogenic immune-mediated neuropathies: diag-
+nostic, epidemiological and mechanistic uncertainties for causal-ity and implications for clinical practice. J Neurol Neurosurg
+Psychiatry . 2021;92:975-982.
+67. Kuitwaard K, Bos-Eyssen ME, Blomkwist-Markens PH, van
+Doorn PA. Recurrences, vaccinations and long-term symptoms in
+GBS and CIDP. J Peripher Nerv Syst . 2009;14:310-315.
+68. Kahlmann V, Roodbol J, van Leeuwen N, et al. Validated age-specific
+reference values for CSF total protein levels in children. Eur J Pae-
+diatr Neurol . 2017;21:654-660.
+69. Breiner A, Bourque PR, Allen JA. Updated cerebrospinal fluid total
+protein reference values improve chronic inflammatory demyelinat-ing polyneuropathy diagnosis. Muscle Nerve . 2019;60:180-183.
+70. Guo Y, Tian X, Wang X, Xiao Z. Adverse effects of immunoglobulin
+therapy.
+Front Immunol . 2018;9:1299.558 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+71. Hashemilar M, Barzegar M, Nikanfar M, et al. Evaluating the status
+of antiganglioside antibodies in children with Guillain-Barre syn-drome. Neuroimmunomodulation . 2014;21:64-68.
+72. Zhang M, Li Q, He L, et al. Association study between an outbreak
+of Guillain-Barre syndrome in Jilin, China, and preceding Campylo-
+bacter jejuni infection. Foodborne Pathog Dis . 2010;7:913-919.
+73. Gregson NA, Koblar S, Hughes RA. Antibodies to gangliosides in
+Guillain-Barre syndrome: specificity and relationship to clinical fea-
+tures. Q J Med . 1993;86:111-117.
+74. Jacobs BC, Rothbarth PH, van der Meche FG, et al. The spectrum of
+antecedent infections in Guillain-Barre syndrome: a case-controlstudy. Neurology . 1998;51:1110-1115.
+75. Simone IL, Annunziata P, Maimone D, Liguori M, Leante R, Livrea P.
+Serum and CSF anti-GM1 antibodies in patients with Guillain-Barre
+syndrome and chronic inflammatory demyelinating polyneuropathy.J Neurol Sci . 1993;114:49-55.
+76. Kusunoki S, Iwamori M, Chiba A, Hitoshi S, Arita M, Kanazawa I.
+GM1b is a new member of antigen for serum antibody in Guillain-
+Barre syndrome. Neurology . 1996;47:237-242.
+77. Ho TW, Willison HJ, Nachamkin I, et al. Anti-GD1a antibody is asso-
+ciated with axonal but not demyelinating forms of Guillain-Barresyndrome. Ann Neurol . 1999;45:168-173.
+78. Caudie C, Quittard Pinon A, Taravel D, et al. Preceding infections
+and anti-ganglioside antibody profiles assessed by a dot immunoas-
+say in 306 French Guillain-Barre syndrome patients. J Neurol . 2011;
+258:1958-1964.
+79. Goffette S, Jeanjean A, Pierret F, Peeters A, Sindic CJ. Clinical rele-
+vance of the determination of anti-GQ1b antibodies in Miller Fisher
+and Guillain-Barre syndromes. Acta Neurol Belg . 1998;98:322-326.
+80. Spatola M, Du Pasquier R, Schluep M, Regeniter A. Serum and CSF
+GQ1b antibodies in isolated ophthalmologic syndromes. Neurology .
+2016;86:1780-1784.
+81. Carpo M, Pedotti R, Lolli F, et al. Clinical correlate and fine specific-
+ity of anti-GQ1b antibodies in peripheral neuropathy. J Neurol Sci .
+1998;155:186-191.
+82. Chiba A, Kusunoki S, Obata H, Machinami R, Kanazawa I. Serum
+anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller
+Fisher syndrome and Guillain-Barre syndrome: clinical and immuno-
+histochemical studies. Neurology . 1993;43:1911-1917.
+83. Chiba A, Kusunoki S, Shimizu T, Kanazawa I. Serum IgG antibody to
+ganglioside GQ1b is a possible marker of Miller Fisher syndrome.Ann Neurol . 1992;31:677-679.
+84. Tatsumoto M, Koga M, Gilbert M, et al. Spectrum of neurological
+diseases associated with antibodies to minor gangliosides GM1b andGalNAc-GD1a. J Neuroimmunol . 2006;177:201-208.
+85. Yuki N, Taki T, Handa S. Antibody to GalNAc-GD1a and GalNAc-
+GM1b in Guillain-Barre syndrome subsequent to Campylobacter
+jejuni enteritis. J Neuroimmunol . 1996;71:155-161.
+86. Ogawara K, Kuwabara S, Mori M, Hattori T, Koga M, Yuki N. Axonal
+Guillain-Barre syndrome: relation to anti-ganglioside antibodies andCampylobacter jejuni infection in Japan. Ann Neurol . 2000;48:624-631.
+87. Ilyas AA, Cook SD, Mithen FA, et al. Antibodies to GT1a ganglioside
+in patients with Guillain-Barre syndrome. J Neuroimmunol . 1998;82:
+160-167.
+88. Koga M, Yuki N, Ariga T, Hirata K. Antibodies to GD3, GT3, and
+O-acetylated species in Guillain-Barre and Fisher's syndromes: their
+association with cranial nerve dysfunction. JN e u r o lS c i . 1999;164:50-55.
+89. Ilyas AA, Mithen FA, Dalakas MC, et al. Antibodies to sulfated glyco-
+lipids in Guillain-Barre syndrome. J Neurol Sci . 1991;105:108-117.
+90. van den Berg LH, Lankamp CL, de Jager AE, et al. Anti-sulphatide
+antibodies in peripheral neuropathy. J Neurol Neurosurg Psychiatry .
+1993;56:1164-1168.
+91. Kusunoki S, Chiba A, Hitoshi S, Takizawa H, Kanazawa I. Anti-gal-C
+antibody in autoimmune neuropathies subsequent to mycoplasmainfection. Muscle Nerve
+. 1995;18:409-413.92. Samukawa M, Hamada Y, Kuwahara M, et al. Clinical features in
+Guillain-Barre syndrome with anti-gal-C antibody. J Neurol Sci . 2014;
+337:55-60.
+93. Doppler K, Appeltshauser L, Wilhelmi K, et al. Destruction of para-
+nodal architecture in inflammatory neuropathy with anti-contactin-1autoantibodies. J Neurol Neurosurg Psychiatry . 2015;86:720-728.
+94. Ng JK, Malotka J, Kawakami N, et al. Neurofascin as a target for
+autoantibodies in peripheral neuropathies. Neurology . 2012;79:
+2241-2248.
+95. Ogata H, Yamasaki R, Hiwatashi A, et al. Characterization of IgG4
+anti-neurofascin 155 antibody-positive polyneuropathy. Ann Clin
+Transl Neurol . 2015;2:960-971.
+96. Frampton G, Winer JB, Cameron JS, Hughes RA. Severe Guillain-
+Barre syndrome: an association with IgA anti-cardiolipin antibody in
+a series of 92 patients. J Neuroimmunol . 1988;19:133-139.
+97. Fredman P, Vedeler CA, Nyland H, Aarli JA, Svennerholm L. Anti-
+bodies in sera from patients with inflammatory demyelinating poly-radiculoneuropathy react with ganglioside LM1 and sulphatide of
+peripheral nerve myelin. J Neurol . 1991;238:75-79.
+98. Yako K, Kusunoki S, Kanazawa I. Serum antibody against a periph-
+eral nerve myelin ganglioside, LM1, in Guillain-Barre syndrome.J Neurol Sci . 1999;168:85-89.
+99. Harukawa H, Utsumi H, Asano A, Yoshino H. Anti-LM1 antibodies in
+the sera of patients with Guillain-Barre syndrome, Miller Fisher syn-
+drome, and motor neuron disease. J Peripher Nerv Syst . 2002;7:54-58.
+100. Makowska A, Pritchard J, Sanvito L, et al. Immune responses to
+myelin proteins in Guillain-Barre syndrome. J Neurol Neurosurg Psy-
+chiatry . 2008;79:664-671.
+101. Mata S, Lolli F, Soderstrom M, Pinto F, Link H. Multiple sclerosis is
+associated with enhanced B cell responses to the ganglioside GD1a.Mult Scler . 1999;5:379-388.
+102. Islam Z, Jacobs BC, Van Belkum A, et al. Axonal variant of Guillain-
+Barré syndrome associated with Campylobacter infection in
+Bangladesh. Neurology . 2010;74:581-587.
+103. Caudie C, Pinon AQ, Taravel D, et al. Preceding infections and anti-
+ganglioside antibody profiles assessed by a dot immunoassay in306 French Guillain-Barré syndrome patients. J Neurol . 2011;258:
+1958-1964.
+104. Halstead SK, Kalna G, Islam MB, et al. Microarray screening of
+Guillain-Barre syndrome sera for antibodies to glycolipid complexes.Neurol Neuroimmunol Neuroinflamm . 2016;3:e284.
+105. Pestronk A, Choksi R, Yee WC, Kornberg AJ, Lopate G, Trotter J.
+Serum antibodies to heparan sulfate glycosaminoglycans in Guillain-
+Barre syndrome and other demyelinating polyneuropathies.J Neuroimmunol . 1998;91:204-209.
+106. Willison HJ, Veitch J, Swan AV, et al. Inter-laboratory validation of
+an ELISA for the determination of serum anti-ganglioside antibodies.
+Eur J Neurol . 1999;6:71-77.
+107. da Silva IRF, Frontera JA, Bispo de Filippis AM, Nascimento O. Neu-
+rologic complications associated with the Zika virus in Brazilianadults. JAMA Neurol . 2017;74:1190-1198.
+108. GeurtsvanKessel CH, Islam Z, Islam MB, et al. Zika virus and
+Guillain-Barre syndrome in Bangladesh. Ann Clin Transl Neurol .
+2018;5:606-615.
+109. Dowling PC, Cook SD. Role of infection in Guillain-Barre syndrome:
+laboratory confirmation of herpesviruses in 41 cases. Ann Neurol .
+1981;9(Suppl):44-55.
+110. Hao Q, Saida T, Kuroki S, et al. Antibodies to gangliosides and
+galactocerebroside in patients with Guillain-Barre syndrome withpreceding Campylobacter jejuni and other identified infections.
+J Neuroimmunol . 1998;81:116-126.
+111. Enders U, Karch H, Toyka KV, et al. The spectrum of immune
+responses to Campylobacter jejuni and glycoconjugates in Guillain-
+Barre syndrome and in other neuroimmunological disorders. Ann
+Neurol . 1993;34:136-144.van DOORN ET AL. 559
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+112. Jackson BR, Alomía Zegarra J, L /C19oPez-Gatell H, et al. Binational out-
+break of Guillain-Barré syndrome associated with Campylobacter
+jejuni infection, Mexico and USA, 2011. Epidemiol Infect . 2014;142:
+1089-1099.
+113. Mori M, Kuwabara S, Miyake M, et al. Haemophilus influenzae infec-
+tion and Guillain-Barre syndrome. Brain . 2000;123(Pt 10):2171-
+2178.
+114. Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European
+Academy of Neurology/Peripheral Nerve Society guideline on diag-
+nosis and treatment of chronic inflammatory demyelinating polyradi-culoneuropathy: report of a joint Task Force-Second revision. Eur J
+Neurol . 2021;28:3556-3583.
+115. Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European
+Academy of Neurology/Peripheral Nerve Society guideline on diag-
+nosis and treatment of chronic inflammatory demyelinating polyradi-culoneuropathy: report of a joint Task Force-second revision.J Peripher Nerv Syst . 2021;26:242-268.
+116. Derksen A, Ritter C, Athar P, et al. Sural sparing pattern discrimi-
+nates Guillain-Barre syndrome from its mimics. Muscle Nerve . 2014;
+50:780-784.
+117. Cleland JC, Malik K, Thaisetthawatkul P, Herrmann DN, Logigian EL.
+Acute inflammatory demyelinating polyneuropathy: contribution ofa dispersed distal compound muscle action potential to electrodiag-
+nosis. Muscle Nerve . 2006;33:771-777.
+118. Scarpino M, Lolli F, Carrai R, et al. Diagnostic accuracy of neuro-
+physiological criteria for early diagnosis of AIDP: a prospectivestudy. Neurophysiol Clin . 2016;46:35-42.
+119. Al-Shekhlee A, Hachwi RN, Preston DC, Katirji B. New criteria for
+early electrodiagnosis of acute inflammatory demyelinating poly-neuropathy. Muscle Nerve . 2005;32:66-72.
+120. Gordon PH, Wilbourn AJ. Early electrodiagnostic findings in
+Guillain-Barre syndrome. Arch Neurol . 2001;58:913-917.
+121. Vucic S, Cairns KD, Black KR, Chong PS, Cros D. Neurophysiologic
+findings in early acute inflammatory demyelinating polyradiculo-neuropathy. Clin Neurophysiol . 2004;115:2329-2335.
+122. Chanson JB, Echaniz-Laguna A. Early electrodiagnostic abnormali-
+ties in acute inflammatory demyelinating polyneuropathy: a retro-
+spective study of 58 patients. Clin Neurophysiol . 2014;125:1900-
+1905.
+123. Kimura J. Conduction abnormalities of the facial and trigeminal
+nerves in polyneuropathy. Muscle Nerve . 1982;5:S139-S144.
+124. Albert ́MA, Alentorn A, Martínez-Yelamos S, et al. Very early elec-
+trodiagnostic findings in Guillain-Barré syndrome. J Peripher Nerv
+Syst. 2011;16:136-142.
+125. Umapathi T, Li Z, Verma K, Yuki N. Sural-sparing is seen in axonal as
+well as demyelinating forms of Guillain-Barre syndrome. Clin Neuro-
+physiol . 2015;126:2376-2380.
+126. Roth G, Magistris MR. Indirect discharges as an early nerve conduc-
+tion abnormality in the Guillain-Barre syndrome. Eur Neurol . 1999;
+42:83-89.
+127. Temuçin ÇM, Nurlu G. Measurement of motor root conduction time
+at the early stage of Guillain-Barre syndrome. Eur J Neurol . 2011;18:
+1240-1245.
+128. Rajabally YA, Nicolas G. Value of distal compound muscle action
+potential duration prolongation in acute inflammatory demyelinatingpolyneuropathy: a European perspective. Muscle Nerve . 2011;43:
+751-755.
+129. Lyu RK, Chang KH, Chu CC, Kuo HC, Ro LS. Sensory conduction
+study in fisher syndrome: patterns of abnormalities and their clinicalcorrelation. Eur Neurol . 2013;70:27-32.
+130. Lyu RK, Chu CC, Kuo HC, Chang KH, Ro LS. Motor conduction find-
+ings in Fisher syndrome. Eur Neurol . 2013;70:276-280.
+131. Umapathi T, Lim CSJ, Ng BCJ, Goh EJH, Ohnmar O. A simplified,
+graded, electrodiagnostic criterio n for Guillain-Barre syndrome that
+incorporates sensory nerve conduction studies. Sci Rep . 2019;9:7724.132. Rajabally YA, Durand MC, Mitchell J, Orlikowski D, Nicolas G. Elec-
+trophysiological diagnosis of Guillain-Barre syndrome subtype: coulda single study suffice? J Neurol Neurosurg Psychiatry . 2015;86:
+115-119.
+133. Sartucci F, Bocci T, Borghetti D, et al. Further insight on A-wave in
+acute and chronic demyelinating neuropathies. Neurol Sci . 2010;31:
+609-616.
+134. Veltsista D, Kefalopoulou Z, Kintos V, Chroni E. Identical late motor
+responses in early Guillain-Barre syndrome: A-waves and repeater
+F-waves. J Peripher Nerv Syst . 2022;28:41-46.
+135. Wali A, Kanwar D, Khan SA, Khan S. Early electrophysiological find-
+ings in acute inflammatory demyelinating polyradiculoneuropathyvariant of Guillain-Barre syndrome in the Pakistani population –a
+comparison with global data. J Peripher Nerv Syst . 2017;22:451-454.
+136. Kurt Incesu T, Secil Y, Tokucoglu F, et al. Diagnostic value of lumbar
+root stimulation at the early stage of Guillain-Barre syndrome. Clin
+Neurophysiol . 2013;124:197-203.
+137. Ibrahim J, Grapperon AM, Manfredonia F, van den Bergh PY,
+Attarian S, Rajabally YA. Serial electrophysiology in Guillain-Barre
+syndrome: a retrospective cohort and case-by-case multicentre anal-ysis. Acta Neurol Scand . 2018;137:335-340.
+138. Van den Bergh PYK, Pieret F, Woodard JL, et al. Guillain-Barre syn-
+drome subtype diagnosis: a prospective multicentric European
+study. Muscle Nerve . 2018;58:23-28.
+139. Rath J, Schober B, Zulehner G, et al. Nerve conduction studies in
+Guillain-Barre syndrome: influence of timing and value of repeatedmeasurements. J Neurol Sci . 2021;420:117267.
+140. Coskun A, Kumandas S, Pac A, Karahan OI, Gulec M, Baykara M.
+Childhood Guillain-Barre syndrome. MR imaging in diagnosis andfollow-up. Acta Radiol . 2003;44:230-235.
+141. Gorson KC, Ropper AH, Muriello MA, Blair R. Prospective evaluation
+of MRI lumbosacral nerve root enhancement in acute Guillain-Barre
+syndrome. Neurology . 1996;47:813-817.
+142. Zuccoli G, Panigrahy A, Bailey A, Fitz C. Redefining the Guillain-
+Barre spectrum in children: neuroimaging findings of cranial nerveinvolvement. AJNR Am J Neuroradiol . 2011;32:639-642.
+143. Mulkey SB, Glasier CM, El-Nabbout B, et al. Nerve root enhance-
+ment on spinal MRI in pediatric Guillain-Barre syndrome. Pediatr
+Neurol . 2010;43:263-269.
+144. Yikilmaz A, Doganay S, Gumus H, Per H, Kumandas S, Coskun A.
+Magnetic resonance imaging of childhood Guillain-Barre syndrome.Childs Nerv Syst . 2010;26:1103-1108.
+145. Grimm A, Decard BF, Axer H. Ultrasonography of the peripheral ner-
+vous system in the early stage of Guillain-Barre syndrome. J Peripher
+Nerv Syst . 2014;19:234-241.
+146. Grimm A, Decard BF, Axer H, Fuhr P. The ultrasound pattern sum
+score –UPSS. A new method to differentiate acute and subacute
+neuropathies using ultrasound of the peripheral nerves. Clin Neuro-
+physiol . 2015;126:2216-2225.
+147. Grimm A, Oertl H, Auffenberg E, et al. Differentiation between
+Guillain-Barre syndrome and acute-onset chronic inflammatory
+demyelinating polyradiculoneuritis: a prospective follow-up study
+using ultrasound and neurophysiological measurements. Neurothera-
+peutics . 2019;16:838-847.
+148. Grimm A, Rattay TW, Winter N, Axer H. Peripheral nerve ultrasound
+scoring systems: benchmarking and comparative analysis. J Neurol .
+2017;264:243-253.
+149. Kerasnoudis A, Pitarokoili K, Behrendt V, Gold R, Yoon MS. Bochum
+ultrasound score versus clinical and electrophysiological parametersin distinguishing acute-onset chronic from acute inflammatorydemyelinating polyneuropathy. Muscle Nerve . 2015;51:846-852.
+150. Kerasnoudis A, Pitarokoili K, Behrendt V, Gold R, Yoon MS. Nerve
+ultrasound score in distinguishing chronic from acute inflammatorydemyelinating polyneuropathy. Clin Neurophysiol . 2014;125:
+635-641.560 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+151. Grimm A, Decard BF, Schramm A, et al. Ultrasound and electrophys-
+iologic findings in patients with Guillain-Barre syndrome at diseaseonset and over a period of six months. Clin Neurophysiol . 2016;127:
+1657-1663.
+152. Zaidman CM, Al-Lozi M, Pestronk A. Peripheral nerve size in nor-
+mals and patients with polyneuropathy: an ultrasound study. Muscle
+Nerve . 2009;40:960-966.
+153. Zaidman CM, Harms MB, Pestronk A. Ultrasound of inherited
+vs. acquired demyelinating polyneuropathies. J Neurol . 2013;260:
+3115-3121.
+154. Alessandro L, Pastor Rueda JM, Wilken M, et al. Differences
+between acute-onset chronic inflammatory demyelinating poly-neuropathy and acute inflammatory demyelinating polyneuropathy
+in adult patients. J Peripher Nerv Syst . 2018;23:154-158.
+155. Dionne A, Nicolle MW, Hahn AF. Clinical and electrophysiological
+parameters distinguishing acute-onset chronic inflammatory demye-linating polyneuropathy from acute inflammatory demyelinatingpolyneuropathy. Muscle Nerve . 2010;41:202-207.
+156. Vural A, Doppler K, Meinl E. Autoantibodies against the node of
+Ranvier in seropositive chronic inflammatory demyelinating poly-neuropathy: diagnostic, pathogenic, and therapeutic relevance. Front
+Immunol . 2018;9:1029.
+157. Kleyweg RP, van der Meche FG. Treatment related fluctuations in
+Guillain-Barre syndrome after high-dose immunoglobulins or
+plasma-exchange. J Neurol Neurosurg Psychiatry . 1991;54:957-960.
+158. Hughes RA, Swan AV, Raphael JC, Annane D, van Koningsveld R,
+van Doorn PA. Immunotherapy for Guillain-Barre syndrome: a sys-
+tematic review. Brain . 2007;130:2245-2257.
+159. Luijten LWG, Doets AY, Arends S, et al. Modified Erasmus GBS
+Respiratory Insufficiency Score: a simplified clinical tool to predictthe risk of mechanical ventilation in Guillain-Barre syndrome.J Neurol Neurosurg Psychiatry . 2022;94:300-308.
+160. Walgaard C, Lingsma HF, Ruts L, et al. Prediction of respiratory
+insufficiency in Guillain-Barre syndrome. Ann Neurol . 2010;67:
+781-787.
+161. Tan CY, Razali SNO, Goh KJ, Shahrizaila N. The utility of Guillain-
+Barre syndrome prognostic models in Malaysian patients. J Peripher
+Nerv Syst . 2019;24:168-173.
+162. Doets AY, Walgaard C, Lingsma HF, et al. International validation of
+the Erasmus Guillain-Barre Syndrome Respiratory InsufficiencyScore. Ann Neurol . 2022;91:521-531.
+163. Yamagishi Y, Suzuki H, Sonoo M, et al. Markers for Guillain-Barre
+syndrome with poor prognosis: a multi-center study. J Peripher Nerv
+Syst. 2017;22:433-439.
+164. Orlikowski D, Porcher R, Sivadon-Tardy V, et al. Guillain-Barre syn-
+drome following primary cytomegalovirus infection: a prospective
+cohort study. Clin Infect Dis . 2011;52:837-844.
+165. Sharshar T, Chevret S, Bourdain F, Raphaël JC. Early predictors of
+mechanical ventilation in Guillain-Barré syndrome. Crit Care Med .
+2003;31:278-283.
+166. Kannan Kanikannan MA, Durga P, Venigalla NK, Kandadai RM,
+Jabeen SA, Borgohain R. Simple bedside predictors of mechanical
+ventilation in patients with Guillain-Barre syndrome. J Crit Care .
+2014;29:219-223.
+167. Barzegar M, Toopchizadeh V, Maher MHK, Sadeghi P, Jahanjoo F,
+Pishgahi A. Predictive factors for achieving independent walking in
+children with Guillain-Barre syndrome. Pediatr Res . 2017;82:
+333-339.
+168. Witsch J, Galldiks N, Bender A, et al. Long-term outcome in patients
+with Guillain-Barre syndrome requiring mechanical ventilation.J Neurol . 2013;260:1367-1374.
+169. Shankar V, Bhanu K, Sayeed ZA. Guillain Barre syndrome-
+electrodiagnostic features and therapeutic observations. J Assoc
+Physicians India . 1995;43:670-672.170. Ning P, Yang B, Yang X, et al. A nomogram to predict mechanical
+ventilation in Guillain-Barre syndrome patients. Acta Neurol Scand .
+2020;142:466-474.
+171. Durand MC, Porcher R, Orlikowski D, et al. Clinical and electrophysi-
+ological predictors of respiratory failure in Guillain-Barre syndrome:a prospective study. Lancet Neurol . 2006;5:1021-1028.
+172. Fokkink WR, Walgaard C, Kuitwaard K, Tio-Gillen AP, van
+Doorn PA, Jacobs BC. Association of albumin levels with outcome in
+intravenous immunoglobulin-treated Guillain-Barre syndrome. JAMA
+Neurol . 2017;74:189-196.
+173. Durand MC, Lofaso F, Lefaucheur JP, et al. Electrophysiology to pre-
+dict mechanical ventilation in Guillain-Barre syndrome. Eur J Neurol .
+2003;10:39-44.
+174. Lawn ND, Fletcher DD, Henderson RD, Wolter TD, Wijdicks EF.
+Anticipating mechanical ventilation in Guillain-Barre syndrome. Arch
+Neurol . 2001;58:893-898.
+175. Kobori S, Kubo T, Otani M, et al. Coexisting infectious diseases on
+admission as a risk factor for mechanical ventilation in patients with
+Guillain-Barre syndrome. J Epidemiol . 2017;27:311-316.
+176. Chevrolet JC, Deleamont P. Repeated vital capacity measurements
+as predictive parameters for mechanical ventilation need and wean-ing success in the Guillain-Barre syndrome. Am Rev Respir Dis . 1991;
+144:814-818.
+177. Walgaard C, Lingsma HF, van Doorn PA, van der Jagt M,
+Steyerberg EW, Jacobs BC. Tracheostomy or not: prediction of pro-longed mechanical ventilation in Guillain-Barre syndrome. Neurocrit
+Care. 2017;26:6-13.
+178. van den Berg B, Bunschoten C, van Doorn PA, Jacobs BC. Mortality
+in Guillain-Barre syndrome. Neurology . 2013;80:1650-1654.
+179. Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain-
+Barre syndrome. Cochrane Database Syst Rev . 2017;2:CD001798.
+180. Hughes RA, Swan AV, van Doorn PA. Intravenous immunoglobulin
+for Guillain-Barre syndrome. Cochrane Database Syst Rev . 2014;
+2019:CD002063.
+181. Hughes RA, Brassington R, Gunn AA, van Doorn PA. Corticosteroids
+for Guillain-Barre syndrome. Cochrane Database Syst Rev . 2016;10:
+CD001446.
+182. Doets AY, Hughes RA, Brassington R, Hadden RD, Pritchard J. Phar-
+macological treatment other than corticosteroids, intravenousimmunoglobulin and plasma exchange for Guillain-Barre syndrome.Cochrane Database Syst Rev . 2020;1:CD008630.
+183. Farkkila M, Kinnunen E, Haapanen E, Iivanainen M. Guillain-Barre
+syndrome: quantitative measurement of plasma exchange therapy.
+Neurology . 1987;37:837-840.
+184. Greenwood RJ, Hughes RA, Bowden AN, et al. Controlled trial of
+plasma exchange in acute inflammatory polyradiculoneuropathy.
+Lancet . 1984;1:877-879.
+185. The Guillain-Barre Syndrome Study Group. Plasmapheresis and
+acute Guillain-Barre syndrome. Neurology . 1985;35:1096-1104.
+186. French Cooperative Group on Plasma Exchange in Guillain-Barre
+Syndrome. Efficiency of plasma exchange in Guillain-Barre syn-
+drome: role of replacement fluids. Ann Neurol . 1987;22:753-761.
+187. The French Cooperative Group on Plasma Exchange in Guillain-
+Barre Syndrome. Appropriate number of plasma exchanges inGuillain-Barre syndrome. Ann Neurol . 1997;41:298-306.
+188. Osterman PO, Fagius J, Lundemo G, et al. Beneficial effects of
+plasma exchange in acute inflammatory polyradiculoneuropathy.
+Lancet . 1984;2:1296-1299.
+189. The French Cooperative Group on Plasma Exchange in Guillain-
+Barre Syndrome. Plasma exchange in Guillain-Barre syndrome: one-year follow-up. Ann Neurol . 1992;32:94-97.
+190. Bouget J, Chevret S, Chastang C, Raphael JC. Plasma exchange mor-
+bidity in Guillain-Barre syndrome: results from the French prospec-tive, randomized, multicenter study. Crit Care Med . 1993;21:651-658.van DOORN ET AL. 561
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+191. Islam B, Islam Z, Rahman S, et al. Small volume plasma exchange for
+Guillain-Barre syndrome in resource-limited settings: a phase IIsafety and feasibility study. BMJ Open . 2018;8:e022862.
+192. van der Meche FG, Schmitz PI, Dutch Guillain-Barre Study Group. A
+randomized trial comparing intravenous immune globulin andplasma exchange in Guillain-Barre syndrome. N Engl J Med . 1992;
+326:1123-1129.
+193. Plasma Exchange/Sandoglobulin Guillain-Barre Syndrome Trial
+Group. Randomised trial of plasma exchange, intravenous immuno-
+globulin, and combined treatments in Guillain-Barre syndrome. Lan-
+cet. 1997;349:225-230.
+194. Bril V, Ilse WK, Pearce R, Dhanani A, Sutton D, Kong K. Pilot trial of
+immunoglobulin versus plasma exchange in patients with Guillain-
+Barre syndrome. Neurology . 1996;46:100-103.
+195. Diener HC, Haupt WF, Kloss TM, et al. A preliminary, randomized,
+multicenter study comparing intravenous immunoglobulin, plasmaexchange, and immune adsorption in Guillain-Barre syndrome. Eur
+Neurol . 2001;46:107-109.
+196. Nomura KHK, Hosokawa T, Hattori T, Satou T, Mannen T. A random-
+ized controlled trial comparing intravenous immunoglobulin and plas-mapheresis in Guillain-Barré syndrome. Neurol Ther . 2001;18:69-81.
+197. El-Bayoumi MA, El-Refaey AM, Abdelkader AM, El-Assmy MM,
+Alwakeel AA, El-Tahan HM. Comparison of intravenous immuno-
+globulin and plasma exchange in treatment of mechanically venti-
+lated children with Guillain Barre syndrome: a randomized study.Crit Care . 2011;15:R164.
+198. Korinthenberg R, Schessl J, Kirschner J, Monting JS. Intravenously
+administered immunoglobulin in the treatment of childhood Guillain-
+Barre syndrome: a randomized trial. Pediatrics . 2005;116:8-14.
+199. Raphael JC, Chevret S, Harboun M, Jars-Guincestre MC, French
+Guillain-Barre Syndrome Cooperative Group. Intravenous immuneglobulins in patients with Guillain-Barre syndrome and contraindica-
+tions to plasma exchange: 3 days versus 6 days. J Neurol Neurosurg
+Psychiatry . 2001;71:235-238.
+200. Walgaard C, Jacobs BC, Lingsma HF, et al. Second intravenous
+immunoglobulin dose in patients with Guillain-Barre syndrome withpoor prognosis (SID-GBS): a double-blind, randomised, placebo-
+controlled trial. Lancet Neurol . 2021;20:275-283.
+201. Kesici S, Tanyildiz M, Yetimakman F, Bayrakci B. A novel treatment
+strategy for severe Guillain-Barre syndrome: zipper method. J Child
+Neurol . 2019;34:277-283.
+202. Haupt WF, Rosenow F, van der Ven C, Borberg H, Pawlik G. Sequential
+treatment of Guillain-Barre syndrome with extracorporeal elimination
+and intravenous immunoglobulin. JN e u r o lS c i . 1996;137:145-149.
+203. Rosenow F, Haupt WF, Grieb P, Jimenez-Klingberg C, Borberg H.
+Plasma exchange and selective adsorption in Guillain-Barre
+syndrome —a comparison of therapies by clinical course and side
+effects. Transfus Sci . 1993;14:13-15.
+204. Guillain-Barre Syndrome Steroid Trial Group. Double-blind trial of
+intravenous methylprednisolone in Guillain-Barre syndrome. Lancet .
+1993;341:586-590.
+205. van Koningsveld R, Schmitz PI, Meche FG, Visser LH, Meulstee J,
+Van Doorn PA. Effect of methylprednisolone when added to stan-dard treatment with intravenous immunoglobulin for Guillain-Barresyndrome: randomised trial. Lancet . 2004;363:192-196.
+206. Bansal BC, Sood AK, Gupta AK, Yadav P. Role of steroids in the
+treatment of Guillain Barre syndrome —a controlled trial. Neurol
+India . 1986;34:329-335.
+207. Shukla SK, Agarwal R, Gupta OP, Pande GS, Singh M. Double blind
+control trial of prednisolone in Guillain Barre syndrome –a clinical
+study. Clinician . 1988;52:128-134.
+208. Singh NK, Gupta A. Do corticosteroids influence the disease course
+or mortality in Guillain-Barre' syndrome? J Assoc Physicians India .
+1996;44:22-24.209. Hafer-Macko CE, Sheikh KA, Li CY, et al. Immune attack on the
+Schwann cell surface in acute inflammatory demyelinating poly-neuropathy. Ann Neurol . 1996;39:625-635.
+210. McGonigal R, Cunningham ME, Yao D, et al. C1q-targeted inhibition
+of the classical complement pathway prevents injury in a novel
+mouse model of acute motor axonal neuropathy. Acta Neuropathol
+Commun . 2016;4:23.
+211. Willison HJ. The translation of the pathological findings described in
+humans to experimental models of acute motor axonal neuropathy.
+J Peripher Nerv Syst . 2012;17(Suppl 3):3-8.
+212. Halstead SK, Zitman FM, Humphreys PD, et al. Eculizumab prevents
+anti-ganglioside antibody-mediated neuropathy in a murine model.Brain . 2008;131:1197-1208.
+213. Misawa S, Kuwabara S, Sato Y, et al. Safety and efficacy of eculizu-
+mab in Guillain-Barre syndrome: a multicentre, double-blind, ran-domised phase 2 trial. Lancet Neurol . 2018;17:519-529.
+214. Davidson AI, Halstead SK, Goodfellow JA, et al. Inhibition of com-
+plement in Guillain-Barre syndrome: the ICA-GBS study. J Peripher
+Nerv Syst . 2017;22:4-12.
+215. Tzachanis D, Hamdan A, Uhlmann EJ, Joyce RM. Successful treat-
+ment of refractory Guillain-Barre syndrome with alemtuzumab in apatient with chronic lymphocytic leukemia. Acta Haematol . 2014;
+132:240-243.
+216. Bensa S, Hadden RD, Hahn A, Hughes RA, Willison HJ. Randomized
+controlled trial of brain-derived neurotrophic factor in Guillain-Barresyndrome: a pilot study. Eur J Neurol . 2000;7:423-426.
+217. Wollinsky KH, Hulser PJ, Brinkmeier H, et al. CSF filtration is an
+effective treatment of Guillain-Barre syndrome: a randomized clini-
+cal trial. Neurology . 2001;57:774-780.
+218. Ahuja GK, Mohandas S, Virmani V. Cyclophosphamide in Landry-
+Guillain-Barre Syndrome. Acta Neurol . 1980;2:186-190.
+219. Rosen AD, Vastola EF. Clinical effects of cyclophosphamide in
+Guillain-Barre polyneuritis. J Neurol Sci . 1976;30:179-187.
+220. Pritchard J, Gray IA, Idrissova ZR, et al. A randomized controlled trial
+of recombinant interferon-beta 1a in Guillain-Barre syndrome. Neu-
+rology . 2003;61:1282-1284.
+221. Feasby TE. Treatment of Guillain-Barre syndrome with anti-T cell
+monoclonal antibodies. J Neurol Neurosurg Psychiatry . 1991;54:51-54.
+222. Garssen MP, van Koningsveld R, van Doorn PA, et al. Treatment of
+Guillain-Barre syndrome with mycophenolate mofetil: a pilot study.J Neurol Neurosurg Psychiatry . 2007;78:1012-1013.
+223. Ostronoff F, Perales MA, Stubblefield MD, Hsu KC. Rituximab-
+responsive Guillain-Barre syndrome following allogeneic hematopoi-
+etic SCT. Bone Marrow Transplant . 2008;42:71-72.
+224. Pritchard J, Hughes RA, Hadden RD, Brassington R. Pharmacological
+treatment other than corticosteroids, intravenous immunoglobulin
+and plasma exchange for Guillain-Barre syndrome. Cochrane Data-
+base Syst Rev . 2016;11:CD008630.
+225. Harbo T, Markvardsen LK, Hellfritzsch MB, Severinsen K,
+Nielsen JF, Andersen H. Neuromuscular electrical stimulation inearly rehabilitation of Guillain-Barre syndrome: a pilot study. Muscle
+Nerve . 2019;59:481-484.
+226. Jones S, Man WD, Gao W, Higginson IJ, Wilcock A, Maddocks M. Neu-
+romuscular electrical stimulation for muscle weakness in adults withadvanced disease. Cochrane Database Syst Rev . 2016;10:CD009419.
+227. Bergin PS, Miller DH, Hirsch NP, Murray NM. Failure of
+3,4-diaminopyridine to reverse conduction block in inflammatory
+demyelinating neuropathies. Ann Neurol . 1993;34:406-409.
+228. Solari A, Uitdehaag B, Giuliani G, Pucci E, Taus C. Aminopyridines
+for symptomatic treatment in multiple sclerosis. Cochrane Database
+Syst Rev . 2002;4:CD001330.
+229. Meythaler JM, Brunner RC. Improvement of motor, sensory, and
+functional status of post-Guillain-Barre syndrome with the use of4-aminopyridine. Int J Phys Med Rehabil . 2014;2:1000202.562 van DOORN ET AL.
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+230. Khan F, Pallant JF, Amatya B, Ng L, Gorelik A, Brand C. Outcomes of
+high- and low-intensity rehabilitation programme for persons inchronic phase after Guillain-Barre syndrome: a randomized con-
+trolled trial. J Rehabil Med . 2011;43:638-646.
+231. Tripathi M, Kaushik S. Carbamezapine for pain management in
+Guillain-Barre syndrome patients in the intensive care unit. Crit Care
+Med. 2000;28:655-658.
+232. Pandey CK, Raza M, Tripathi M, Navkar DV, Kumar A, Singh UK.
+The comparative evaluation of gabapentin and carbamazepine for
+pain management in Guillain-Barre syndrome patients in the inten-sive care unit. Anesth Analg . 2005;101:220-225.
+233. Pandey CK, Bose N, Garg G, et al. Gabapentin for the treatment of
+pain in guillain-Barre syndrome: a double-blinded, placebo-
+controlled, crossover study. Anesth Analg . 2002;95:1719-1723.
+234. Berciano J, Sedano MJ, Pelayo-Negro AL, et al. Proximal nerve
+lesions in early Guillain-Barre syndrome: implications for pathogene-sis and disease classification. J Neurol . 2017;264:221-236.
+235. Liu J, Wang LN, McNicol ED. Pharmacological treatment for pain in
+Guillain-Barre syndrome. Cochrane Database Syst Rev . 2015;4:
+CD009950.
+236. Wiffen PJ, Derry S, Moore RA, Kalso EA. Carbamazepine for chronic
+neuropathic pain and fibromyalgia in adults. Cochrane Database Syst
+Rev. 2014;4:CD005451.
+237. Wiffen PJ, Derry S, Moore RA, et al. Antiepileptic drugs for neuro-
+pathic pain and fibromyalgia —an overview of Cochrane reviews.
+Cochrane Database Syst Rev . 2013;11:CD010567.
+238. Sendhilkumar R, Gupta A, Nagarathna R, Taly AB. Effect of pra-
+nayama and meditation as an add-on therapy in rehabilitation of
+patients with Guillain-Barre syndrome —a randomized control pilot
+study. Disabil Rehabil . 2013;35:57-62.
+239. White CM, van Doorn PA, Garssen MP, Stockley RC. Interventions
+for fatigue in peripheral neuropathy. Cochrane Database Syst Rev .
+2014;12:CD008146.
+240. Hulme K, Safari R, Thomas S, et al. Fatigue interventions in long
+term, physical health conditions: a scoping review of systematicreviews. PloS One . 2018;13:e0203367.
+241. Garssen MP, Bussmann JB, Schmitz PI, et al. Physical training and
+fatigue, fitness, and quality of life in Guillain-Barre syndrome
+and CIDP. Neurology . 2004;63:2393-2395.
+242. Kalita J, Misra UK, Goyal G, Das M. Guillain-Barre syndrome: sub-
+types and predictors of outcome from India. J Peripher Nerv Syst .
+2014;19:36-43.
+243. A prospective study on the incidence and prognosis of Guillain-
+Barre syndrome in Emilia-Romagna region, Italy (1992-1993).Emilia-Romagna Study Group on Clinical and Epidemiological Prob-lems in Neurology. Neurology . 1997;48:214-221.
+244. McKhann GM, Griffin JW, Cornblath DR, Mellits ED, Fisher RS,
+Quaskey SA. Plasmapheresis and Guillain-Barre syndrome: analysisof prognostic factors and the effect of plasmapheresis. Ann Neurol .
+1988;23:347-353.
+245. Beghi E, Bono A, Bogliun G, et al. The prognosis and main prognostic
+indicators of Guillain-Barre syndrome. A multicentre prospective study
+of 297 patients. Brain J Neurol . 1996;119:2053-2061.
+246. Hadden RD, Karch H, Hartung HP, et al. Preceding infections,
+immune factors, and outcome in Guillain-Barré syndrome. Neurology .
+2001;56:758-765.
+247. Walgaard C, Lingsma HF, Ruts L, van Doorn PA, Steyerberg EW,
+Jacobs BC. Early recognition of poor prognosis in Guillain-Barre syn-drome. Neurology . 2011;76:968-975.248. Visser LH, Schmitz PI, Meulstee J, van Doorn PA, van der
+Meche FG, Dutch Guillain-Barre Study Group. Prognostic factors ofGuillain-Barre syndrome after intravenous immunoglobulin or
+plasma exchange. Neurology . 1999;53:598-604.
+249. van Koningsveld R, Steyerberg EW, Hughes RA, Swan AV, van
+Doorn PA, Jacobs BC. A clinical prognostic scoring system forGuillain-Barre syndrome. Lancet Neurol . 2007;6:589-594.
+250. Verma R, Chaudhari TS, Raut TP, Garg RK. Clinico-
+electrophysiological profile and predictors of functional outcome
+in Guillain-Barre syndrome (GBS). JN e u r o lS c i . 2013;335:
+105-111.
+251. Cornblath DR, Mellits ED, Griffin JW, et al. Motor conduction stud-
+ies in Guillain-Barre syndrome: description and prognostic value.
+Ann Neurol . 1988;23:354-359.
+252. Meulstee J, van der Meche FG. Electrodiagnostic criteria for poly-
+neuropathy and demyelination: application in 135 patients withGuillain-Barre syndrome. Dutch Guillain-Barre Study Group. J Neurol
+Neurosurg Psychiatry . 1995;59:482-486.
+253. Dourado Junior MET, Fernandes UT, Ramos ES, et al. Egos has a
+reduced capacity to predicts GBS prognosis in Northeast Brazil. Acta
+Neurol Scand . 2018;138:459-462.
+254. Gupta S, Verma R, Sethi R, et al. Cardiovascular complications and
+its relationship with functional outcomes in Guillain-Barre syn-
+drome. QJM . 2020;113:93-99.
+255. Bae JS, Kim YJ, Kim JK. Diabetes mellitus exacerbates the clinical
+and electrophysiological features of Guillain-Barre syndrome. Eur J
+Neurol . 2016;23:439-446.
+256. Cheng Q, Jiang GX, Press R, et al. Clinical epidemiology of Guillain-
+Barre syndrome in adults in Sweden 1996-97: a prospective study.Eur J Neurol . 2000;7:685-692.
+257. Korinthenberg R, Schessl J, Kirschner J. Clinical presentation and
+course of childhood Guillain-Barre syndrome: a prospective multi-
+centre study. Neuropediatrics . 2007;38:10-17.
+258. Meulstee J, van der Meche FG, Kleyweg RP, Schmitz PI. Prognostic
+value of electrodiagnosis in the Dutch Guillain-Barre study. Eur J
+Neurol . 1995;2:558-565.
+259. Dekker M, Van Den Akker ELT, Koper JW, et al. Effect of glucocorti-
+coid receptor gene polymorphisms in Guillain-Barré syndrome.
+J Peripher Nerv Syst . 2009;14:75-83.
+260. Martin-Aguilar L, Camps-Renom P, Lleixa C, et al. Serum neurofila-
+ment light chain predicts long-term prognosis in Guillain-Barre syn-drome patients. J Neurol Neurosurg Psychiatry . 2020;92:70-77.
+261. Jacobs BC. Neurofilament light chain as biomarker for axonal damage
+in Guillain-Barre syndrome. J Neurol Neurosurg Psychiatry . 2020;92:4.
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Support-
+ing Information section at the end of this article.
+How to cite this article: van Doorn PA, Van den Bergh PYK,
+Hadden RDM, et al. European Academy of Neurology/
+Peripheral Nerve Society Guideline on diagnosis andtreatment of Guillain –Barré syndrome. J Peripher Nerv Syst .
+2023;28(4):535 ‐563. doi:
+10.1111/jns.12594van DOORN ET AL. 563
+ 15298027, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12594, Wiley Online Library on [15/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

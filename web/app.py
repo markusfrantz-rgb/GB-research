@@ -10,7 +10,9 @@ from functools import wraps
 # Add project root to path so we can import rag modules
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from flask import Flask, render_template, request, jsonify, session, redirect, url_for
+import re
+
+from flask import Flask, render_template, request, jsonify, session, redirect, url_for, send_file
 import markdown
 
 from rag.search import search as rag_search
@@ -105,6 +107,7 @@ def api_search():
                     "heading_path": r.metadata.get("heading_path", ""),
                     "source_file": r.metadata.get("source_file", ""),
                     "section": r.metadata.get("section", ""),
+                    "doc_type": r.metadata.get("doc_type", "research"),
                 }
                 for r in results
             ]
@@ -129,8 +132,9 @@ def api_ask():
     try:
         answer, sources = rag_ask(question, top_k=top_k)
         answer_html = markdown.markdown(
-            answer, extensions=["tables", "fenced_code"]
+            answer, extensions=["tables", "fenced_code", "toc"]
         )
+        answer_html = _postprocess_html(answer_html)
         return jsonify({
             "answer": answer_html,
             "answer_raw": answer,
@@ -139,6 +143,7 @@ def api_ask():
                     "score": round(s.score, 3),
                     "heading_path": s.metadata.get("heading_path", ""),
                     "source_file": s.metadata.get("source_file", ""),
+                    "doc_type": s.metadata.get("doc_type", "research"),
                 }
                 for s in sources
             ],
@@ -166,9 +171,122 @@ def view_doc(filepath):
         if len(parts) >= 3:
             text = parts[2].strip()
 
-    doc_html = markdown.markdown(text, extensions=["tables", "fenced_code"])
+    doc_html = markdown.markdown(text, extensions=["tables", "fenced_code", "toc"])
+    doc_html = _postprocess_html(doc_html)
     title = filepath.split("/")[-1].replace(".md", "").replace("_", " ")
     return render_template("document.html", title=title, content=doc_html, filepath=filepath)
+
+
+# --- Source file serving & PMID mapping ---
+
+_sources_dir = _project_root / "sources" / "fulltext"
+
+
+def _build_source_map():
+    """Build PMID/PMC → filename mapping from sources/fulltext/."""
+    mapping = {}  # e.g. {"PMID:37814552": "Doorn_2023_...", "PMC7079539": "Altmann_2020_..."}
+    if not _sources_dir.exists():
+        return mapping
+    for f in _sources_dir.iterdir():
+        name = f.name
+        # Extract PMID from filename (pattern: PMID12345678)
+        pmid_match = re.search(r'PMID(\d+)', name)
+        if pmid_match:
+            mapping[pmid_match.group(1)] = name
+        # Extract PMC ID from filename (pattern: PMC12345678)
+        pmc_match = re.search(r'PMC(\d+)', name)
+        if pmc_match:
+            mapping[f"PMC{pmc_match.group(1)}"] = name
+    return mapping
+
+
+_source_map = _build_source_map()
+print(f"[SOURCES] Mapped {len(_source_map)} PMID/PMC IDs to local files")
+
+
+def _source_badge(ref_id):
+    """Return an HTML badge linking to the local file, or empty string."""
+    filename = _source_map.get(ref_id)
+    if not filename:
+        return ""
+    is_pdf = filename.endswith(".pdf")
+    label = "PDF" if is_pdf else "text"
+    return (f' <a href="/source/{filename}" target="_blank" rel="noopener"'
+            f' class="source-link" title="Visa fulltext lokalt">[{label}]</a>')
+
+
+def _postprocess_html(html):
+    """Add target=_blank to external links, linkify PMID/PMC, add local source badges."""
+    # Linkify PMID references (skip those already inside an <a> tag)
+    def _pmid_repl(m):
+        if m.group(1):  # preceded by "> — already inside a link
+            return m.group(0)
+        pmid = m.group(2)
+        link = (f'PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/{pmid}/"'
+                f' target="_blank" rel="noopener" class="ext-link">{pmid}</a>')
+        return link + _source_badge(pmid)
+
+    html = re.sub(r'(">)?PMID:\s*(\d+)', _pmid_repl, html)
+
+    # Linkify PMC references (skip those already inside an <a> tag or URL)
+    def _pmc_repl(m):
+        if m.group(1):  # preceded by / or " — part of URL or link
+            return m.group(0)
+        pmc_id = m.group(2)
+        link = (f'<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC{pmc_id}/"'
+                f' target="_blank" rel="noopener" class="ext-link">PMC{pmc_id}</a>')
+        return link + _source_badge(f"PMC{pmc_id}")
+
+    html = re.sub(r'(["/])?PMC(\d{5,})', _pmc_repl, html)
+
+    # Make all <a href="http..."> open in new tab with ext-link class
+    def _ext_link(m):
+        tag = m.group(0)
+        if 'target=' in tag:
+            return tag
+        return tag.replace('<a ', '<a target="_blank" rel="noopener" class="ext-link" ')
+
+    html = re.sub(r'<a\s+href="https?://[^"]*"[^>]*>', _ext_link, html)
+
+    # Make /source/ links open in new tab
+    def _source_link(m):
+        tag = m.group(0)
+        if 'target=' in tag:
+            return tag
+        return tag.replace('<a ', '<a target="_blank" rel="noopener" ')
+
+    html = re.sub(r'<a\s+href="/source/[^"]*"[^>]*>', _source_link, html)
+
+    return html
+
+
+@app.route("/source/<path:filename>")
+@require_access
+def view_source(filename):
+    """Serve a source file (PDF directly, txt in HTML wrapper)."""
+    file_path = _sources_dir / filename
+    if not file_path.exists():
+        return "Source file not found", 404
+    # Security: ensure path stays within sources dir
+    try:
+        file_path.resolve().relative_to(_sources_dir.resolve())
+    except ValueError:
+        return "Access denied", 403
+
+    if file_path.suffix == ".pdf":
+        return send_file(file_path, mimetype="application/pdf")
+
+    # Wrap text files in readable HTML
+    text = file_path.read_text(encoding="utf-8", errors="replace")
+    title = filename.replace("_FULLTEXT", "").replace(".txt", "").replace("_", " ")
+    return render_template("source_text.html", title=title, text=text, filename=filename)
+
+
+@app.route("/api/source-map")
+@require_access
+def api_source_map():
+    """Return PMID/PMC → local filename mapping for frontend linkification."""
+    return jsonify(_source_map)
 
 
 def _render_intro() -> str:
@@ -177,7 +295,8 @@ def _render_intro() -> str:
         parts = text.split("---", 2)
         if len(parts) >= 3:
             text = parts[2].strip()
-    return markdown.markdown(text, extensions=["tables", "fenced_code", "codehilite"])
+    html = markdown.markdown(text, extensions=["tables", "fenced_code", "codehilite", "toc"])
+    return _postprocess_html(html)
 
 
 if __name__ == "__main__":

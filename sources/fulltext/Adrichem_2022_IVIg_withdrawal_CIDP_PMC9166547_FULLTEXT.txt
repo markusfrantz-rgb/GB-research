@@ -1,0 +1,564 @@
+Withdrawal of intravenous immunoglobulin
+in chronic in ﬂammatory demyelinating
+polyradiculoneuropathy
+Max E. Adrichem,1,†Ilse M. Lucke,1,†Alexander F. J. E. Vrancken,2
+H. Stephan Goedee,2Luuk Wieske,1Marcel G. W. Dijkgraaf,3Nicol C. Voermans,4
+Nicolette C. Notermans,2Catharina G. Faber,5Leo H. Visser,6Krista Kuitwaard,7
+Pieter A. van Doorn,8Ingemar S. J. Merkies,4,9Rob J. de Haan,1Ivo N. van Schaik1,10
+and Filip Eftimov1
+†These authors contributed equally to this work.
+Intravenous immunoglobulins are an ef ﬁcacious treatment for chronic in ﬂammatory demyelinating polyradiculo-
+neuropathy. Biomarkers for disease activity are lacking, making the need for ongoing treatment dif ﬁcult to assess,
+leading to potential overtreatment and high health-care costs. Our objective was to determine whether intravenous
+immunoglobulin withdrawal is non-inferior to continuing intravenous immunoglobulin treatment and to determine
+how often patients are overtreated.
+We performed a randomized, double-blind, intravenous immunoglobulin-controlled non-inferiority trial in seven
+centres in the Netherlands (Trial registration: ISRCTN 13637698; www.isrctn.com/ISRCTN13637698). Adults with clin-
+ically stable chronic in ﬂammatory demyelinating polyradiculoneuropathy using intravenous immunoglobulin main-
+tenance treatment for at least 6 months were included. Patients received either intravenous immunoglobulin
+withdrawal (placebo) as investigational treatment or continuation of intravenous immunoglobulin treatment (con-
+trol). The primary outcome was the mean change in logit scores from baseline to 24-week follow-up on the pa-
+tient-reported In ﬂammatory Rasch –Overall Disability Scale. The non-inferiority margin was prede ﬁned as
+between-group difference in mean change scores of −0.65. Patients who deteriorated could reach a relapse end point
+according to prede ﬁned criteria. Patients with a relapse end point after intravenous immunoglobulin withdrawal en-
+tered a restabilization phase. All patients from the withdrawal group who remained stable were included in an open-
+label extension phase of 52 weeks.
+We included 60 patients, of whom 29 were randomized to intravenous immunoglobulin withdrawal and 31 to con-
+tinuation of treatment. The mean age was 58 years (SD 14.7) and 67% was male. The between-group difference in
+mean change In ﬂammatory Rasch –Overall Disability Scale scores was −0.47 (95% CI −1.24 to 0.31), indicating that
+non-inferiority of intravenous immunoglobulin withdrawal could not be established. In the intravenous immuno-
+globulin withdrawal group, 41% remained stable for 24 weeks, compared to 58% in the intravenous immunoglobulin
+continuation group ( −17%; 95% CI −39 to 8). Of the intravenous immunoglobulin withdrawal group, 28% remained
+stable at the end of the extension phase. Of the patients in the restabilization phase, 94% restabilized within 12 weeks.
+In conclusion, it remains inconclusive whether intravenous immunoglobulin withdrawal is non-inferior compared to
+continuing treatment, partly due to larger than expected con ﬁdence intervals leading to an underpowered study.
+Despite these limitations, a considerable proportion of patients could stop treatment and almost all patients who re-
+lapsed were restabilized quickly. Unexpectedly, a high proportion of intravenous immunoglobulin-treated patients
+Received March 09, 2021. Revised December 07, 2021. Accepted December 21, 2021. Advance access publication February 9, 2022
+© The Author(s) 2022. Published by Oxford University Press on behalf of the Guarantors of Brain.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.o rg/licenses/by-
+nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For com mercial re-use,
+please contact journals.permissions@oup.comhttps://doi.org/10.1093/brain/awac054 BRAIN 2022: 145; 1641 –1652 | 1641
+experienced a relapse end point, emphasizing the need for more objective measures for disease activity in future
+trials, as the patient-reported outcome measures might not have been able to identify true relapses reliably.
+Overall, this study suggests that withdrawal attempts are safe and should be performed regularly in clinically stable
+patients.
+1 Department of Neurology, Amsterdam UMC, University of Amsterdam, 1105 AZ Amsterdam, The Netherlands
+2 Department of Neurology, University Medical Centre, 3584 CX Utrecht, The Netherlands3 Department of Clinical Epidemiology, Amsterdam UMC, University of Amsterdam, 1105 AZ Amsterdam, The
+Netherlands
+4 Department of Neurology, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands5 Department of Neurology, Maastricht Academic Medical Centre, 6229 HX Maastricht, The Netherlands6 Department of Neurology, Elisabeth-Tweesteden Hospital, 5022 GC Tilburg, The Netherlands7 Department of Neurology, Albert Schweitzer Hospital, 3318 AT Dordrecht, The Netherlands8 Department of Neurology, Erasmus Medical Centre, 3015 GD Rotterdam, The Netherlands9 Department of Neurology, Curaçao Medical Centre, Willemstad, Curacao, The Netherlands10 Board of directors, Spaarne Gasthuis, 2035 RC Haarlem, The Netherlands
+Correspondence to: F. Eftimov
+Amsterdam UMCDepartment of NeurologyMeibergdreef 9, 1105 AZ Amsterdam, The NetherlandsE-mail: f.eftimov@amsterdamumc.nl
+Keywords: CIDP; IVIg; overtreatment; withdrawal
+Abbreviations: CIDP=chronic in ﬂammatory demyelinating polyradiculoneuropathy; IMP =investigational
+medicinal product; iRODS =inﬂammatory Rasch-Overall Disability Scale; IVIg =intravenous immunoglobulins;
+MCID=minimally clinically important difference; MRC =Medical Research Council sum score; PGIC =patient
+global impression of change
+Introduction
+Chronic in ﬂammatory demyelinating polyradiculoneuropathy
+(CIDP) is a heterogeneous disease with an unpredictable diseasecourse, which can be progressive, relapsing –remitting and mono-
+phasic.
+1Several studies demonstrated short-term superiority of
+treatment with intravenous immunoglobulins (IVIg) over placeboin CIDP.
+2In patients who improve on treatment, maintenance
+treatment is often started as most patients run a chronic course.1
+However, there is limited evidence on how long maintenance treat-ment should be given and how IVIg dependency should be as-sessed. IVIg overtreatment in up to 60% of CIDP patients has beensuggested in previous studies, based on lack of clinical deterior-ation in the patients who were included in placebo arms during avariable period of follow-up.
+3–6However, none of these trials were
+speci ﬁcally designed to assess IVIg overtreatment.
+Clinical evaluation after tapering or stopping IVIg is current-
+ly the only way to assess ongoing need for IVIg. Many patientsand physicians are reluctant to perform withdrawal trials be-cause of the risk of deterioration.
+7In practice, this means that
+many patients receive IVIg for years without verifying whetherongoing treatment is needed. Preventing IVIg overtreatmentwould reduce healthcare burden, adverse events and health-care costs.
+The objective of this study was to investigate whether with-
+drawal of IVIg treatment was non-inferior to continuing IVIg treat-ment in clinically stable CIDP patients and to determine how oftenthese patients are overtreated with IVIg.Materials and methods
+Study design
+We conducted a multicentre randomized, double-blind, non-inferiority trial in clinically stable CIDP patients based on the hy-pothesis that IVIg withdrawal is non-inferior to continuation ofIVIg treatment. IVIg withdrawal was considered as the interven-tional treatment, while continuation of IVIg treatment was consid-ered as the standard or control treatment. The trial was registeredat the ISRCTN registry (ISRCTN13637698). In addition, we per-formed an open-label prospective follow-up study to provide a bet-
+ter estimate of the risks of IVIg withdrawal by assessing the number
+of patients that successfully stopped IVIg for an additional period of52 weeks, and by assessing the rates and time to full restabilizationin patients who deteriorated after IVIg withdrawal. The study wasapproved by the ethical committee of the Amsterdam UMC.
+Patients
+Patients were included in ﬁve university hospitals and two regional
+hospitals in the Netherlands from April 2014 until November 2018when the last patient was included. Adult patients were eligible ifthey had been diagnosed with probable or de ﬁnite CIDP according
+to the European Federation of Neurological Societies/PeripheralNerve Society 2010 criteria, and had stable disease under IVIg treat-
+ment for at least 6 months with a treatment interval between 2 and
+6 weeks.
+1Disease stability was judged by treating physicians;1642 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.
+subjective, minor wear-off symptoms were permitted. Patients
+were excluded if they had experienced deterioration after IVIgwithdrawal in the previous 12 months; if there were changes inIVIg dose or interval in the previous 6 months or changes in add-itional CIDP treatment (e.g. corticosteroids) in the previous 3months; a prolonged period ( .6 weeks) of disability increase fol-
+lowing an earlier IVIg withdrawal attempt or a history ofCIDP-related respiratory failure. Written informed consent was ob-tained from all subjects according to the Declaration of Helsinki.
+Randomization and masking
+After informed consent, patients were randomly allocated to IVIgwithdrawal or continuation of IVIg treatment. The randomizationprocedure was web-based (TENALEA, https://www.aleaclinical.eu/products/), using the non-deterministic minimization method asdescribed by Pocock and Simon.
+8The method used duration of prior
+IVIg treatment (6 –12 months versus .12 months) for balancing. We
+chose the minimization procedure to prevent predictability of up-coming randomizations considering the fact that deblinding tookplace when a patient reached a study end point. After inclusion,the local investigator provided a prescription for IVIg to the trialpharmacist for a total period of 24 weeks. The randomizationcode and treatment allocations were provided by TENALEA alsoto the trial pharmacist. The pharmacist prepared investigationalmedicinal product (IMP). Blinded infusion bags and closure systemsand coated intravenous lines were used to ensure adequate mask-ing. As IVIg/placebo volume ratio changed during tapering, volumeand number of infusion bags of IVIg and/or placebo were adjustedto keep these parameters constant during the ﬁrst three study
+treatments in order to maintain blinding. An unblinded nurse pre-pared the IMP for administration at the central pharmacy site andtransported IMP to patients ’homes, where a second nurse, blinded
+for treatment allocation, administered the infusions. Outcome as-sessors were blinded for treatment allocation. After completion oftheﬁnal visit of each patient, the treating physician contacted the
+study team who contacted the trial pharmacist. The trial pharmacydisclosed the allocation of the patients to the treating physician.Deblinding during the trial was only possible in case of reaching a
+relapse end point requiring change or addition of treatment.
+Procedures
+After the baseline visit, patients received an unblinded IVIg treat-
+ment at the same dose and interval as prior to the study to measuretrough and peak IgG levels. Serum was collected at the same daydirectly before and after the IVIg treatment. Patients received IMPinfusions at the same interval as IVIg prior to the study ( Fig. 1A ).
+IVIg withdrawal consisted of an IVIg tapering phase and aplacebo-only phase. Tapering consisted of three infusions of 75%,50% and 25%, respectively, of the patients ’individual pre-study
+IVIg dose combined with placebo, which was followed by 100% pla-cebo infusions. Placebo consisted of a sodium chloride solution(NaCl 0.9%) in identical volume as the previous IVIg treatment.Patients allocated to continuation of treatment continued thesame IVIg treatment (brand, dose and interval) as prior to the study.Follow-up visits were scheduled every 6 weeks. Patients received aphone call in between visits to monitor a possible relapse.
+Patients randomized into the withdrawal group who reached a
+prede ﬁned relapse end point during follow-up received a rescue
+IVIg loading dose of 2 g/kg followed by maintenance IVIg treatment
+(Fig. 1B ). A maintenance dose equal to the second last dose prior totheﬁrst signs of deterioration was advised. For example, a patient
+who deteriorated after receiving 25% of their baseline IVIg dose re-ceived a maintenance dose of 75% of the baseline IVIg dose aftertheir rescue loading dose. We did not restart patients on a lowermaintenance dose than 50% of their baseline IVIg dose. Total dur-ation of the restabilization phase was 12 weeks. Visits were sched-uled at 3, 6 and 12 weeks after administering the loading dose.There was no ﬁxed restabilization schedule for patients rando-
+mized into the IVIg continuation group who reached a relapseend point. The treating physician made the decision if a loadingdose, an extra dose or just continuation of treatment wasnecessary.
+Patients from the IVIg withdrawal group who remained stable at
+24 weeks were included in an open-label 52-week extension phaseto assess potential relapses after the trial phase ( Fig. 1C ). In the ex-
+tension phase, follow-up visits were scheduled at 12, 24 and 52weeks, or earlier if a relapse occurred.
+Outcomes
+Trial phase
+The primary outcome was the mean change score from baseline toﬁnal follow-up on the in ﬂammatory Rasch –Overall Disability Scale
+(iRODS). The iRODS is an interval disability scale based on Raschmethodology ( Supplementary Table 1 ), with the standard unit of
+measurement expressed in logits.
+9The primary end point was
+reached at 24 weeks after ﬁrst study treatment or earlier, in case
+of a relapse. In the original protocol, a relapse end point was de ﬁned
+as a deterioration of .0.65 logits on the iRODS. In addition, deteri-
+oration warranting treatment according to the physicians ’or pa-
+tients ’judgement was regarded as a relapse end point regardless
+of the iRODS score.
+The main secondary outcome was the proportion of patients
+who did not meet the criteria for a relapse end point and completedthe 24-week follow-up. Other secondary outcomes were assessed at24 weeks, or at a relapse end point if appropriate. These included:muscle strength measured using the Medical Research Council(MRC) sum score; grip strength (Martin-Vigorimeter) of the domin-ant hand or, in case of asymmetric weakness, the most affectedhand; sensory impairment using the INCAT-Sensory Sum Score(INCAT-SS)
+10; pain using the Pain Intensity Numerical Rating
+Scale (PI-NRS); fatigue using a 7-item linear modi ﬁed Rasch-built
+Fatigue Severity Scale (FSS)11; disability using the generic AMC
+Linear Disability Score (ALDS)12; patient ’s perception of clinical de-
+terioration or improvement on a 5-point Patient Global Impressionof Change scale (PGIC), and quality of life using the 36-item ShortForm Health Survey (SF-36).
+13Additional information on the out-
+come measures, including ranges of the scales can be found inSupplementary Table 1 . The treating physician blinded for treat-
+ment allocation performed muscle strength, grip strength and sen-sory assessments. The other outcome instruments were based onpatient self-reports. Assessments were scheduled every 6 weeksduring 24 weeks of follow-up after the ﬁrst IMP treatment, or earlier
+if a relapse was suspected. At the end of the study, patients were
+asked to guess to which treatment group they were allocated.
+Restabilization phase
+Restabilization was assessed using the individual minimally clinic-
+ally important difference (MCID) on the iRODS and grip strength.
+Additionally, restabilization was assessed using a 5-point PGIC.
+Patients and physicians were asked to indicate whetherIVIg withdrawal trial in CIDP BRAIN 2022: 145; 1641 –1652 | 1643
+restabilization was reached up to the baseline level before entering
+the trial at each visit. For iRODS and grip strength, patients wereconsidered restabilized if the score difference between follow-up(before IVIg withdrawal) and baseline was less than the individualMCID on the iRODS and respectively less than 8 kPa on the gripstrength, or if score at follow-up was higher than baseline. On thePGIC and physician ’s questionnaire, restabilization was de ﬁned
+by scores at follow-up indicating no change or better compared tobaseline.
+Extension phase
+In the extension phase, the proportion of patients stable withoutthe need of treatment 76 weeks after start of treatment withdrawalwas assessed. This included the 24-week follow-up of the trialphase and the 52-week follow-up of the extension phase. Stabledisease was de ﬁned as no change or a change less than the MCID
+on the iRODS compared to baseline, without restart of treatment.
+Protocol changes during study
+The study protocol was changed twice during the study. After ran-domization of the ﬁrst two patients (both received a single IMP), apaper was published that enabled calculation of the MCID based
+on a change of at least 1.96 standard error, for each individualiRODS score across the iRODS continuum.
+14This MCID is equiva-
+lent to a score between 4 and 8 points on the non-linear scale (0 –
+48 points) in clinical practice, depending on the individual baselineiRODS score. The study protocol was amended to de ﬁne a relapse
+end point as the individual MCID on iRODS rather than a ﬁxed cut-
+off of−0.65 logits.
+Secondly, an explorative iRODS measurement was added just
+before the last regular IVIg infusion. This was advised by the DataSafety Monitoring Board to identify possible wear-off symptomsas a reason for the unexpectedly high number of patients in theIVIg group who reached a preliminary outcome.
+Statistical analyses
+Sample size calculation
+Rationale of the non-inferiority margin
+The non-inferiority margin was −0.65 logits. This non-inferiority
+threshold re ﬂects a deterioration to a functional ability level of
+(0.35 –0.65)=−0.30 logit. This means that an ‘average ’patient could
+Figure 1 IVIg withdrawal schedule in a patient on a 4-weekly interval. (A) An example schedule of the investigational treatment in a patient with an
+IVIg interval of 4 weeks. Follow-up visits were performed every 6 weeks. ( B) Restabilization phase consisting of a loading dose and maintenance treat-
+ment. Follow-up visits were performed at 3, 6 and 12 weeks. ( C) Extension study: maintenance treatment was at the physician ’s discretion. Follow-up
+visits were performed at 12, 24 and 52 weeks.1644 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.
+still do shopping, but experience minor dif ﬁculties to walk one
+ﬂight of stairs. This non-inferiority margin was considered clinical-
+ly acceptable given the given the extremely high cost of IVIg, poten-tial (severe) side effects of IVIg, the patient burden of treatment andpossibility to restart IVIg if necessary. The non-inferiority margincorresponds with a deterioration of approximately 3 points on thenon-linear iRODS score from 0 to 48.
+Conceptual background of the sample size calculation
+For the sample size calculation, we ﬁrst de ﬁned a clinically accept-
+able deterioration on the iRODS in an average CIDP patient based onthe original iRODS paper.
+9The functional ability level of stable pa-
+tients on the iRODS ranges from −6.95 to 8.11 logits, with a mean lo-
+git score of 0.35 (SD 0.84).9We considered a non-inferiority margin
+of−0.65 logit (lower con ﬁdence interval of the difference in mean
+change score) as acceptable given the very high costs and patientburden of IVIg overtreatment (for clari ﬁcation see Supplementary
+Table 1 ). The null hypothesis being tested is that withdrawal of
+IVIg is not non-inferior to the treatment continuation. In otherwords, withdrawal is worse than continuation of treatment. If thenull hypothesis is rejected, withdrawal is not worse than continu-ation. The null hypothesis is rejected if the lower bound of the95% CI of the difference between withdrawal and continuation oftreatment is higher than −0.65.
+When statistically testing the null hypothesis a one-sided 0.025
+signiﬁcance level is used as we are only interested in the lower
+boundary of the 95% CI.
+Sample size calculation
+When the sample size in each group is 27, a two-group one-sided
+0.025 signi ﬁcance level t-test will have 80% power to reject the
+null hypothesis that the mean change score of withdrawal of IVIgtreatment (µW) is more than 0.65 logit worse than the mean scoreof continuation of IVIg treatment (µC) (difference µW minus µC ,
+−0.65) in favour of the alternative hypothesis that the mean change
+score of withdrawal of IVIg treatment is more alike or even betterthan the mean change score of continuation of IVIg treatment (dif-ference µW minus µC .−0.65). It was assumed that the expected
+difference in mean change scores is 0 and the common SD is 0.84.Anticipating a 10% attrition rate, 30 (27/0.90) patients per treatmentarm (60 patients in total) were included.
+Trial phase
+The primary outcome was statistically tested for non-inferioritybased on the intention-to-treat principle. Additionally, the primaryoutcome was also analysed on a per-protocol basis. The intentionto treat population included all randomized patients, regardlessof protocol deviations. The per-protocol population encompassedpatients included and treated in accordance with the study proto-col. Patients who had been unblinded were excluded from the per-protocol population ( Supplementary Table 2 ).
+Baseline assessments were summarized using simple descrip-
+tive statistics. The main analysis focused on the between-group dif-ference in the mean change iRODS (logit) scores. Statisticaluncertainty of this difference was expressed in a two-sided 95%CI. If the lower limit of the CI crosses the non-inferiority marginof−0.65 logits, non-inferiority of the IVIg withdrawal group cannot
+be established (for additional explanation, see the previous text inthe subsection ‘Sample size calculation ’). Inferiority can be estab-
+lished when the upper limit of the CI is below the non-inferiority
+margin.Additionally, the non-inferiority of treatment withdrawal was
+tested using multivariable linear regression with iRODS follow-upscores as the dependent variable, adjusting for both the iRODSbaseline scores and the minimization variable (duration of priorIVIg treatment). The linear regression modelling was performedwithin the context of a non-inferiority design. The coef ﬁcient for
+withdrawal treatment was expressed with its 95% CI.
+Regarding the secondary end points, baseline, end point and
+group change scores were summarized using descriptive statistics.In all secondary outcomes analyses statistical uncertainty was ex-pressed in two-sided 95% CI. As the MRC scores were not normallydistributed we expressed the point estimate and CI were analysedusing the Hodges –Lehmann approach.
+15
+Unplanned post hoc analysis
+We described the number of patients experiencing wear off symp-
+toms at start of trial and with a relapse end point during the trialphase. Furthermore, the between-group difference in the time torelapse end point was analysed by plotting Kaplan –Meier curves
+and comparing them using the log-rank test.
+Restabilization phase
+For the restabilization phase, we described the number of patientswho restabilized within 12 weeks on the different scales.
+Extension phase
+For the extension phase, we described the number of patients fromthe IVIg withdrawal group with stable disease at end of follow up.
+An independent Data Safety Monitoring Board performed an in-
+terim safety analyses after 10 patients reached a relapse end pointand after the inclusion of 30 patients. No interim ef ﬁcacy analyses
+were performed. Sample size calculation and statistical analyseswere performed in nQuery (v8.5.1) and IBM SPSS Statistics (v25),respectively.
+Data availability
+The corresponding author (F.E.) has full access to the study protocoland all the data in the study. Data are available upon reasonablerequest.
+Results
+A total of 96 patients were considered eligible ( Fig. 2 ) and 60 patients
+were included between April 2014 and November 2018.Twenty-nine patients were allocated to the IVIg withdrawal groupand 31 to the IVIg continuation group ( Fig. 2 ).
+Baseline characteristics in both groups were comparable
+(Table 1 ). The baseline iRODS logit scores were higher in the IVIg
+continuation group [mean 4.66 (SD 2.29)] compared to the with-drawal group [3.80 (SD 2.86)]. Previous treatment withdrawal at-
+tempts had been performed in 11 of 29 patients (38%) in the IVIg
+withdrawal group and in 15 of 31 patients (54%) in the IVIg continu-ation group. Wear-off symptoms were reported in 6 of 29 patients(21%) in the IVIg withdrawal group and 9 of 31 patients (29%) inthe IVIg continuation group.
+Trial phase
+In the IVIg withdrawal group, 17 of 29 patients (59%) reached a pre-deﬁned relapse end point compared to 13 of 31 (42%) in the IVIgIVIg withdrawal trial in CIDP BRAIN 2022: 145; 1641 –1652 | 1645
+continuation group. In other words, 12 of 29 (41%) and 18 of 31 pa-
+tients (58%), respectively, remained stable during the 24-week
+follow-up in the trial phase (difference −17%; 95% CI −39 to 8).
+Of the patients with a relapse end point, 10 of 17 patients (59%)
+in the IVIg withdrawal group worsened by their individual MCID onthe iRODS compared to 5 of 13 (38%) in the IVIg continuation group.
+The primary outcome is depicted in Fig. 3 . Both groups showed a
+lower mean logit score at end point compared to baseline. Thebetween-group difference in mean change scores was −0.47 (95%
+CI:−1.24 to 0.31). The results from the primary outcome were in-
+conclusive. As the lower bound of the CI crosses the non-inferioritymargin of −0.65, non-inferiority of IVIg withdrawal could not be de-
+monstrated. Alternatively, we could also not demonstrate that IVIgwithdrawal was signi ﬁcantly inferior to IVIg continuation, as the
+upper bound of the CI was not below the non-inferiority margin.Additional multivariable linear regression also fails to demonstratenon-inferiority of IVIg withdrawal. After adjustment, the coef ﬁ-
+cient for withdrawal treatment was −0.56, with the lower bound
+of the CI well below the non-inferiority margin of −0.65 (95% CI:
+−1.35 to 0.23). See the Supplementary material for further details.
+In total, 28 patients from the IVIg withdrawal group and 30
+patients from the IVIg continuation group were included in theper-protocol analysis. Two patients were excluded because of earlyunblinding ( Supplementary Table 2 ). In the per-protocol population
+too, non-inferiority in the withdrawal group could not be demon-strated, with the lower bound of the CI of the between-group differ-ence in mean change scores of −0.47 again well below the
+non-inferiority margin (95% CI −1.27 to 0.33).The results of the secondary outcomes are shown in Table 2 .I n
+general, variable levels of deterioration were observed in all out-
+comes in both study arms. However, the deterioration seemed to
+be more pronounced in the IVIg withdrawal group with regard togrip strength and the PGIC. Fig. 4 shows the proportion of patients
+that reached a relapse end point on the different time points inboth groups. There was no signi ﬁcant difference in time to relapse
+between both treatment groups.
+Post hoc analysis
+Post hoc analysis showed that 10 of 15 patients (67%) with wear-off
+symptoms reached a relapse end point and 5 of 15 (33%) patients re-mained stable. Four of six patients (67%) with wear-off in the with-drawal group reached a relapse end point, compared to six of nine(67%) in the IVIg continuation group. In Table 3 we show the sec-
+ondary outcomes in all patients who reached a relapse end pointand in patients who reached a relapse end point based on theMCID on the iRODS. Most secondary outcomes showed a trend inwhich patients with relapse in the IVIg withdrawal group had a lar-ger difference compared to baseline compared to patients from theIVIg continuation group, Supplementary Table 3 shows deterior-
+ation on other outcome measures (grip strength, MRC sum scoreand the PGIC scale) in patients who reached a relapse end pointon the different time points.
+At the end of the study, 52 of 60 patients answered the question
+to which group they thought they were allocated. In the IVIg with-
+drawal group, 21 of 25 patients (84%) guessed they were in the IVIg
+Figure 2 Enrolment and randomization. (1) MCID on iRODS. (2) Decision of treating physician: relapse, but not captured on the iRODS. (3) Decision of
+patient: subjective relapse.1646 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.
+withdrawal group and 4 of 25 (16%) thought that they were in the
+IVIg continuation group. In the IVIg continuation group, 19 of 27 pa-
+tients (70%) guessed they were allocated to the IVIg withdrawal
+group and 8 of 27 (30%) to the IVIg continuation group. All patientswho reached a relapse end point (23/23) guessed they were in theplacebo group.In the IVIg withdrawal group, 4 of 12 patients (33%) who re-
+mained stable thought they were allocated to the IVIg continuation
+group. One patient still had side effects and one patient still had
+wear-off symptoms. Two patients did not give a speci ﬁc reason.
+Eight of 12 patients (67%) thought they were allocated to the IVIgwithdrawal group. Three patients experienced an increase inTable 1 Baseline demographic and clinical characteristics
+IVIg withdrawal group (29) IVIg continuation group (31)
+Sex, male 21 (72%) 21 (68%)
+Age [mean +SD, (range)] 60.1 (13.54, 21 –86) 57.7 (15.97, 29 –81)
+CIDP
+Typical 25 (86%) 22 (71%)
+Atypical 4 (14%) 9 (29%)
+Asymmetric CIDP 2 (7%) 4 (13%)
+Pure motor/sensory 2 (7%) 5 (16%)
+Disease duration in months (median, range) 64 (7 –586) 50 (9 –299)
+Wear-off symptoms 6 (21%) 9 (29%)
+MRC sum score (median, range) 58 (38 –60) 60 (49 –60)
+Grip strength [mean +SD, (range)] 84kPa (SD 34.37; 18 –145) 79kPa (SD 28.29; 9 –155)
+Duration of IVIg treatment
+6–12 months 15 (52%) 16 (51%)
+.12 months 14 (48%) 15 (49%)
+Patients with previous withdrawal attempts 11 (38%) 15 (54%)
+IVIg interval
+2 weeks 3 (10%) 1 (3%)
+3 weeks 16 (55%) 16 (52%)
+4 weeks 9 (31%) 9 (29%)
+5 weeks – 3 (10%)
+6 weeks 1 (3%) 2 (6%)
+IVIg dose per infusion (median, range) 45 g (10 –80) 40 g (10 –80)
+IVIg brand
+Nanogam® 18 (62%) 16 (52%)
+Kiovig® 10 (35%) 14 (45%)
+Privigen® 1 (3%) 0
+Gamunex® 0 1 (3%)
+Immunosuppressive treatment besides IVIga1 (3%) 0 (0%)
+Serum IgG level change after last regular IVIg infusionb(mean+SD) 13.19 g/l (SD 7.99) 12.80 g/l (SD 5.78)
+iRODS (mean +SD) logits 3.80 (SD 2.86) 4.66 (SD 2.29)
+aDaily oral prednisone 5 mg for rheumatic polymyalgia.
+bSerum was collected before and after IVIg treatment at the day of the treatment.
+Figure 3 Primary outcome. Between-group comparisons of the primary outcome expressed in mean change logit scores on the iRODS. The dotted line
+represents the non-inferiority margin of −0.65. The shaded area marks the non-inferiority zone.†Reported mean changes and differences in mean
+changes may slightly differ from apparent differences due to rounding.IVIg withdrawal trial in CIDP BRAIN 2022: 145; 1641 –1652 | 1647
+CIDP symptoms, one patient had no side effects and one patient
+had fewer wear-off symptoms. Three patients did not give a speci ﬁc
+reason.
+Of the patients who completed the 24-week follow up, 9 of 17
+(53%) patients in the IVIg group thought they were allocated toIVIg continuation group. Of these nine patients, four patients stillhad side effects and one patient still experienced wear-off symp-toms. The other four patients did not write down a speci ﬁc reason.
+Eight of 17 patients (47%) thought they were allocated to the IVIgwithdrawal group. One patient noted an increase in CIDP symp-toms, three patients had fewer side effects. Four patients did notgive a speci ﬁc reason.
+Restabilization
+Patients from the IVIg withdrawal group with a relapse end point
+during the trial phase entered the restabilization protocol.Overall, 16 of 17 (94%) restabilized within the restabilization phaseof 12 weeks on iRODS and grip strength ( Table 4 ). At 12 weeks, 14 of
+15 (93%) restabilized on the PGIC scale and 15 of 17 (88%) accordingto the treating physician. After the loading dose, ﬁve patients were
+restarted on a lower IVIg dose, based on the second to last dose onwhich they were stable during the trial. All ﬁve patients relapsed
+again during the follow-up period.
+Of the 13 patients who reached a relapse end point in the IVIg
+continuation group, two patients received a loading dose of IVIg(2 g/kg over 5 days), four patients received an extra IVIg dose andin seven patients their maintenance treatment was continued.During the extension phase, three patients needed a higher main-tenance dose or shorter interval and in four patients the mainten-ance dose was not changed. In two patients the maintenance dosewas lowered and in two patients the treatment was successfullystopped.
+Extension phase
+The 12 patients from the IVIg withdrawal group who remained
+stable during the trial phase entered the extension phase. Four pa-
+tients relapsed during the additional 52-week follow-up, two ofwhom just prior to their ﬁnal visit. Overall, 8 of 29 (28%) patients
+from the IVIg withdrawal group remained stable during the trialand extension phase (combined duration 76 weeks).
+Discussion
+We could not demonstrate non-inferiority of withdrawal of IVIgmaintenance treatment compared to continuation of treatmentin clinically stable CIDP patients, as our study turned out to beunderpowered due to much larger than expected con ﬁdence inter-
+vals. We chose a non-inferiority design as this re ﬂects best the clin-
+ical equipoise in patients who are stable on maintenance IVIgtreatment. Ef ﬁcacy of IVIg in CIDP in patients with active disease
+has been demonstrated in various trials and we expected that aproportion of patients would need ongoing treatment, as also de-monstrated in this study. Our hypothesis was that many patientson chronic treatment do not have active disease requiring furthertreatment, leading to non-inferiority on disability level on a grouplevel and that in these stable patients, withdrawing IVIg will notlead to deterioration in their daily functioning and permanentdisability.
+As expected, our ﬁndings con ﬁrm that many CIDP patients in-
+cluded in this trial required IVIg maintenance treatment.Table 2 Secondary outcomes
+IVIg withdrawal group IVIg continuation group Treatment comparison
+n Baseline End point Mean changean Baseline End point Mean changeaDifference in mean change scores 95% CI
+MRC sum score (median, range) 29 58 (38 –60) 58 (41 –60) 0b(−10 to−3) 31 60 (49 −60) 59 (42 −60) 0b(−7t o−2) 0c−1t o0d
+Grip strength (mean +SD) 29 85.3 kPa (34.4) 73.5 kPa (31.2) −11.8 kPa (14.2) 31 79.3 kPa (29.2) 75.8 kPa (28.9) −3.5 kPa (17.8) −8.3 −16.8 to 0.2
+INCAT-SS (mean +SD) 29 5.2 (4.6) 5.6 (4.2) 0.4 (2.4) 31 3.8 (3.7) 3.5 (3.6) −0.4 (2.3) 0.8 −0.4 to 2.0
+PI-NRS (mean +SD) 28 1.6 (1.9) 2.4 (2.5) 0.8 (2.4) 29 1.8 (2.4) 2.3 (2.5) 0.5 (1.6) 0.2 −0.9 to 1.3
+FSS score (mean +SD) 27 35.0 (10.1) 35.9 (12.1) 0.9 (6.5) 29 31.9 (12.3) 32.9 (12.4) 1.0 (10.8) −0.1 −6.3 to 4.0
+ALDS (mean +SD) 27 83.2 (10.3) 80.6 (12.5) −2.6 (7.4) 30 87.4 (6.0) 86.7 (11.7) −0.7 (5.0) 1.9 −1.5 to 5.3
+SF-36 (mean +SD) 27 29
+Physical component 42.1 (9.9) 37.8 (11.2) −4.4 (9.4) 45.2 (8.5) 41.2 (10.5) −4.0 (8.9) −0.4 −5.3 to 4.5
+Mental component 50.9 (10.3) 53.1 (7.9) 2.1 (9.4) 49.7 (11.8) 47.9 (12.4) −1.8 (13.9) 3.9 −2.4 to 10.4
+PGIC scale, n(%) 27 29
+Same or better than prior to study NA 10 (37%) NA NA 17 (59%) NA NA −44 to 4
+Worse than prior to the study NA 17 (63%) NA NA 12 (41%) NA NA
+ALDS =AMC Linear Disability Score; FSS =Fatigue Severity Scale; INCAT-SS =INCAT Sensory Sum Score; PI-NRS =Pain Intensity Numeric Rating Scale; SF 36 =Short Form 36.
+aReported mean changes and differences in mean changes may slightly differ from apparent differences due to rounding.
+bMedian change scores on the MRC.
+cThe within-group median change score was calculated as the 50th percentile of all individual differences.
+dBetween-group difference on the MRC expressed in median difference in change scores; point estimate and 95% CI were analysed using the Hodges –Lehmann approach.1648 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.
+Figure 4 Relapse end point during trial phase in both treatment arms.
+Table 3 Post hoc analyses in patients who reached a relapse end point
+IVIg withdrawal group IVIg continuation group Treatment comparison
+n Baseline Mean change n Baseline Mean change Difference in
+mean change
+scores95% CI
+iRODS(mean +SD)
+LogitsRelapse end
+point17 3.3 (3.1) −1.9 (1.3) 13 3.9 (2.6) −1.3 (1.0) 0.54 −0.33 to 1.42b
+MCID end pointa10 3.4 (2.4) −2.5 (1.2) 5 4.3 (2.7) −2.2 (0.8) −0.3 −1.6 to 1.01
+MRC sum score
+(median, range)Relapse end
+point17 58 (38 –60) 0 ( −10 to−3)c13 60 (49 −60) −1(−7t o−0)c0d−1.0 to 2.0d
+MCID end point 10 58.5 (52 –60)−2(−10 to−0) 5 60 (52 −60) 0 ( −6−0) 0d−4.0 to 2.0d
+Grip strength
+(mean+SD)Relapse end
+point17 79.5 kPa (38.1) −16.4 (15.4) 13 77.6 kPa (32.7) −11.6 (17.9) −4.9 kPa −17.8 to 8.1
+MCID End point 9 87.8 kPa (42.2) −19.4 (15.2) 5 82.0 kPa (52.8) −5.6 (9.0) −13.8 −30.1 to 2.4
+INCAT-SS
+(mean+SD)Relapse end
+point17 5.7 (5.1) 0.8 (2.2) 13 4.2 (3.5) 0.5 (2.9) 0.3 −1.7 to 2.2
+MCID end point 10 5.7 (4.1) 1.1 (2.3) 5 2.8 (3.0) 1.8 (2.2) −0.7 −3.4 to 2.4
+PI-NRS (mean +SD) Relapse end
+point16 1.8 (2.0) 1.8 (2.7) 11 2.0 (2.5) 1.1 (1.7) 0.7 −1.2 to 2.4
+MCID End point 9 1.1 (1.7) 3.1 (2.6) 5 1.2 (2.7) 1.4 (2.2) 1.7 −1.3 to 4.7
+FSS score (mean +SD) Relapse end
+point16 31.7 (13.1) −6.0 (6.5) 11 32.3 (13.0) −4.4 (8.0) −1.6 −7. to 1.4
+MCID end point 9 37.0 (7.4) −6.2 (7.0) 5 33.0 (11.5) −6.6 (4.6) 0.4 −9.6 to 10.3
+ALDS (mean +SD) Relapse end
+point15 81.4 (11.1) −3.9 (9.6) 13 85.3.8 (9.2) −2.6 (18.1) 1.4 −5.8 to 8.6
+MCID end point 10 82.9 (7.9) −7.1 (9.1) 4 79.8 (11.1) −7.4 (11.3) −0.2 −12.8 to 12.3
+SF-36 (mean +SD)
+Physical component Relapse end
+point15 38.8 (10.5) −7.2 (10.1) 12 42.4 (8.6) −8.0 (8.4) 0.8 −6.7 to 8.9
+MCID end point 9 41.2 (9.3) −10.9 (10.0) 4 41.5 (11.3) −8.8 (9.8) −2.1 −15.3 to 11.0
+Mental component Relapse end
+point15 50.9 (10.1) 0.3 (8.4) 12 47.2 (13.5) −4.5 (16.6) 4.8 −5.3 to 14.9
+MCID end point 9 51.4 (10.2) −0.5 (5.8) 4 44.7 (18.9) −3.8 (23.0) 3.2 −34.2 to 40.7
+ALDS=AMC Linear Disability Score; FSS =Fatigue Severity Scale; INCAT-SS =INCAT Sensory Sum Score; PI-NRS =Pain Intensity Numeric Rating Scale; SF 36 =Short Form 36.
+aPatients who reached a relapse end point based on the MCID on the iRODS. Change of −1.9 logits and −1.3 logits on the iRODS correspond with −12.4 and −8.8 centile points,
+respectively. Difference in mean change score of 0.54 logits corresponds with 3.6 centile points.
+bPoint estimate and 95% CI were analysed using an independent sample t-test according superiority analysis.
+cThe within-group median change score was calculated as the 50th percentile of all individual differences.
+dBetween-group difference on the MRC expressed in median difference in change scores; point estimate and 95% CI were analysed using the Hodges –Lehmann approach.IVIg withdrawal trial in CIDP BRAIN 2022: 145; 1641 –1652 | 1649
+Nevertheless, our study also con ﬁrms that a large proportion of pa-
+tients do not need IVIg maintenance treatment as 41% remainedclinically stable at 24 weeks after IVIg withdrawal during the trial.Overall, 28% remained stable during 76 weeks after start of IVIgwithdrawal. It might be possible that some of these patients experi-ence a relapse after these 76 weeks as reported by Nobile-Orazioet al.
+16However, the majority of relapse end points in both groups
+were reached within 12 weeks, as illustrated by Fig. 4 . Also in other
+studies, including the larger FORCIDP trial and the ICE trial, a re-lapse in most patients occurred within the ﬁrst months after treat-
+ment withdrawal.
+4,6Together with other studies, this suggests that
+most IVIg-dependent patients can be identi ﬁed within 3 –6 months
+after IVIg withdrawal.3,16
+If the main objective of an IVIg treatment withdrawal is to deter-
+mine whether there is any disease activity, stopping treatment dir-
+ectly is probably the fastest way to determine IVIg dependency. Our
+experience is that many patients feel more comfortable with slower
+withdrawal rather than directly stopping treatment. This was themain reason to choose a three-step withdrawal schedule, in whichthe initial maintenance dose was lowered with 25% per infusion.
+Currently, there is no consensus on the optimal way to attempt
+IVIg withdrawals. This is the ﬁrst study that uses the three-step
+withdrawal schedule, while in previous studies IVIg was often dir-
+ectly stopped. It is not clear whether IVIg-dependent patients de-
+teriorate less severely or restabilize more quickly after taperingcompared to directly stopping treatment. In the open-label IVIg de-pendency test of the PATH study, 11% of patients who stopped IVIg
+treatment and deteriorated could not be restabilized to their base-
+line disability score during a 12-week follow-up.
+17In this study, all
+but one patient with a relapse end point in our withdrawal groupwere restabilized within 12 weeks. More importantly, a vast major-
+ity of patients were considered restabilized by 3 weeks on the
+iRODS. As we expected that not all patients with a relapse end pointwould reach their MCID on the iRODS, we also used grip strengthand restabilization as perceived by the patient as well as the treat-
+ing physician to assess restabilization. Similar proportions and
+speed of restabilization was seen when using these alternativescales. All patients were considered restabilized within 24 weeks.Therefore, the three-step withdrawal schedule in combination
+with a loading dose of IVIg, if a patient relapses, used in this study
+appears to be a safe method to assess IVIg dependency, but giventhe small numbers of patients and not universally accepted criteriaof restabilization, we cannot con ﬁrm that complete restabilization
+will occur in all patients. In addition, although restabilization was
+fast in the majority of patients, occasionally restabilization cantake more time in some patients which will probably also in ﬂuence
+future withdrawal attempts.
+There is no commonly accepted threshold of a relapse in IVIg
+withdrawal or IVIg substitution trials. Generally, in CIDP, disabilityscales are considered the most appropriate outcome scales for both
+improvement and deterioration, but some have advocated to in-clude impairment scales to determine deterioration.
+18This study
+was designed to limit deterioration as much as possible to preventlong-term disability. Therefore, we used a broader de ﬁnition for a
+relapse end point, in which we allowed the judgement of the treat-ing physicians as well as the patients, which probably also mirrorsclinical practice. Not allowing severe relapses might explain whythere was no difference on the secondary outcomes between bothgroups when focusing only on patients who reached a relapseend point. Unexpectedly, however, 42% of the IVIg continuationgroup also reached a relapse end point. Disease progression despiteIVIg treatment is an unlikely cause of the high number of patientswith a relapse end point, as all were considered to have stable dis-ease at inclusion and because they were treated with the same IVIgbrand, dose and interval during the trial. Fluctuations of symptomsmight have contributed to this ﬁnding, especially when a longer
+follow-up period is performed. A minority of patients reported
+wear-off symptoms at the end of an IVIg cycle prior to the study
+that might have resulted in patients experiencing deterioration be-tween infusions during the trial. However, wear-off symptomswere not associated with a relapse end point, nor were they cap-tured by deterioration on the iRODS between baseline and thelast pre-trial infusion. Interestingly, of the patients who reached arelapse end point, a smaller proportion of patients in the IVIg con-tinuation group reached their MCID on the iRODS compared to thewithdrawal group (38% versus 59%). Similarly, the proportion of pa-tients with a relapse end point, whose end point was based on sub-jective deterioration as perceived by the patient, was higher in theIVIg continuation group (38% versus 18%). These ﬁndings empha-
+size the need to use validated clinical outcome measures, althoughfurther studies are needed to determine the clinically relevant dif-ferences on these scales. This is also illustrated by the fact that al-most half of patients who reached a relapse end point in the IVIgcontinuation group reached commonly accepted MCID criteria forgrip strength and MRC sum score.
+Finally, as patients can be reluctant to undergo IVIg withdrawal
+because of fear of increase of symptoms or reduced functioning, thepossibility of being randomized to placebo might have led to a no-cebo effect in some of our patients. The nocebo effect refers tothe phenomenon that negative expectations of patients have anegative effect on the outcome.
+19A clear majority of patients in
+this study indicated at their ﬁnal visit that they received placebo,
+including half of patients from the IVIg continuation group who re-mained stable during the trial period, both supporting this hypoth-esis of nocebo effect. This is in line with a recent systematic reviewthat showed a considerable nocebo effect in CIDP trials, especiallywhen using non-deterioration as the primary end point.
+20
+Importantly, a nocebo effect in this study might also have led to ahigher proportion of patients with a relapse end point in the with-drawal group and an underestimate of overtreatment. In addition,
+entering the trial might have been a negative trigger for patients to
+report worse than they normally would have (observation bias).Some patients might have been reluctant to take part in the trial,as suggested by the 30% of eligible patients that were not willingto participate in the study. This, together with the use of subjectiveoutcome measures, might have skewed the results in both treat-ment groups towards more frequent deterioration.
+This study had several limitations. First of all, the results of our
+primary outcome were inconclusive. We observed higher than ex-pected standard deviations of the iRODS changes scores in bothtreatment groups, partly due to the unexpectedly high number ofTable 4 Number of restabilized patients on different time
+points
+Week 3 Week 6 Week 12
+iRODS 15/17 (88%) 15/17 (88%) 16/17 (94%)
+Grip strength 12/17 (71%) 14/17(82%) 16/17 (94%)
+PGIC scale 9/15 (60%) 13/16 (81%) 14/15 (93%)
+Restabilization according
+to physician13/16 (81%) 14/17 (82%) 15/17 (88%)1650 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.
+patients in the IVIG continuation group who reached a relapse end
+point. As this lead to an imprecise estimate, this means that ourstudy turned out to be underpowered to address the primary ques-tion. Also, the non-inferiority margin was based on an earlier pub-lished average patient logit score of 0.35 on the iRODS and the MCIDat this position of the scale.
+9In our study, baseline scores in the IVIg
+withdrawal and continuation group were considerably higher.However, the non-inferiority margin of −0.65 logits remains valid,
+as the size of the individual MCID based on the expected averagescore was comparable to the individual MCID based on the (higher)average score found in this study. The non-inferiority margin mightalso be considered to be large and was based on what we believe isan acceptable clinically relevant deterioration, given the extremelyhigh cost of IVIg, potential (severe) side effects of IVIG and the pa-tient burden of treatment.
+Furthermore, a total of 50% of patients reached a relapse end
+point during the trial, of which only half were captured by the pre-deﬁned MCID on the iRODS. We believe that patients who experi-
+ence minor deterioration consider this as clinically important
+when they are on a stable IVIg dose. For these reasons, the use ofthe patient-reported disability scale, such as the iRODS, as theonly primary outcome measure might also be considered as a limi-tation in this trial. Combining the iRODS with impairment mea-surements, such as grip strength, could have made reportedhealth changes more objective.
+21On the other hand, a more strin-
+gent de ﬁnition of a relapse end point would probably have led to
+less willingness of patients to participate in the study. More import-ant, it would limit the external validity of the results, as we believethat the patient ’s voice is often leading in the decision to restart
+IVIg.
+The inclusion rate was slow, as over 30% of eligible patients re-
+fused to participate in the study. This may have resulted in a selec-tion of patients, limiting external validity. The majority of thesepatients did not want to taper treatment, although some wantedto stop treatment directly or preferred slower tapering than usedin the trial. Additionally, we only included patients who were pre-viously stable. Withdrawal attempts in patients with unstable dis-ease should generally be avoided as it is uncertain whether thesepatients can be restabilized as well as in our study population.
+We did not have any missing data on the primary end points and
+no patients were lost to follow-up. Two patients were unblindedduring the trial. Both patients completed the follow-up without ex-periencing a relapse end point and were included in theintention-to-treat analysis, but were excluded in the per-protocolanalysis. Before deblinding, all patients who deteriorated (bothtreatment groups) guessed that they received placebo, while simi-lar proportions of patients who remained stable guessed their treat-ment allocation correctly. For these reasons, we do not have reasonto believe that blinding was not maintained in this study.
+In conclusion, it remains inconclusive whether IVIg withdrawal
+is non-inferior compared to continuing treatment, partly due to
+much larger than expected con ﬁdence intervals, leading to an
+underpowered study. Despite these limitations, we found that aconsiderable proportion of CIDP patients could stop treatment.This study emphasizes that treatment withdrawal is safe and sug-gests that attempts should be performed regularly in clinicallystable CIDP patients, preferably including objective measurements.In our experience, discussing withdrawal attempts with patientswhen starting IVIg prevents reluctance in patients when a with-drawal attempt is actually planned in the future. Until we identifybiomarkers of disease activity that can identify patients in needof IVIg maintenance treatment, we should probably use at leastone objective outcome measure instead of solely relying on patient-
+reported outcomes, both in trials as well as clinical practice.Alternatively, for future withdrawal studies, other approachessuch as a causal interference design might be considered that allowstudying the effect of an intervention with adjustment for differentconfounders without the need for randomization.
+22
+Acknowledgements
+We thank Janneke Zwiers and Mary Muijs from Sanquin PlasmaProducts B.V., the research nurses from Penthecilia B.V. and
+Margit Dros from Mediq Tefa for ensuring the blinding and distribu-
+tion of the IMP. We also like to thank Michael Lunn, Joke Dijk andBrent Opmeer for participating in the Data Safety Monitoring Board.
+Funding
+The study was funded by a Dutch Governmental grant (ZonMw).Sanquin Plasma Products B.V. provided the placebo, preparation,blinding and distribution of the study treatment. The funders hadno role in the trial design, data collection, data analysis, data inter-pretation, or the writing of the report.
+Competing interests
+F.E. reports grants from ZonMw (Dutch Governmental Agency),non-ﬁnancial support from Sanquin Blood Supply, during the con-
+duct of this study; he also reports grants from CSL Behring, Kedrion,Terumo BCT and Takeda Pharmaceutical Company, outside thesubmitted work. Grants were paid to institution and are used forinvestigator-initiated studies within INCbase, an international
+CIDP registry. In addition, he received consultancy/lecturing fee
+from UCB pharma and CSL Behring, paid to institution, outsidethe submitted work. I.v.S. reports grants from DutchGovernmental grant (ZonMw/Rational Pharmacotherapy program),non-ﬁnancial support from Sanquin Plasma Products B.V., during
+the conduct of the study; other from CSL-Behring, outside the sub-mitted work. P.v.D. reports grants from Takeda, during the conductof the study; grants from Prinses Beatrix Spierfonds, grants fromSanquin Blood Supply, grants from Grifols, other from Hansa,Annexion, Argenx, CSL and Octapharma, outside the submittedwork. I.M. reports personal fees and other from UCB, personalfees from Octapharma, outside the submitted work. K.K. reportsgrants from Baxalta, other from Sanquin, outside the submittedwork. C.F. reports grants from European Union ’s Horizon 2020 re-
+search and innovation programme Marie Sklodowska-Curie grantfor PAIN-Net, Molecule-to-man pain network (grant no. 721841),grants from Prinses Beatrix Spierfonds, grants from Grifols andLamepro for a trial on IVIg in small ﬁbre neuropathy, other from
+steering committees/advisory board for studies in small ﬁbre neur-
+opathy of Biogen/Convergence and Vertex, outside the submittedwork. L.W. reports grants from Grifols, outside the submittedwork. H.S.G. reports grants from Prinses Beatrix Spierfonds, duringthe conduct of the study; grants and personal fees from Shire/Takeda, outside the submitted work. M.A., I.L., R.d.H., N.V., A.V.,L.V., M.D. and N.N. have nothing to disclose.
+Supplementary material
+Supplementary material is available at Brain online.IVIg withdrawal trial in CIDP BRAIN 2022: 145; 1641 –1652 | 1651
+References
+1. Van den Bergh PY, Hadden RD, Bouche P, et al. European
+Federation of Neurological Societies/Peripheral Nerve Society
+guideline on management of chronic in ﬂammatory demyelin-
+ating polyradiculoneuropathy: Report of a joint task force ofthe European Federation of Neurological Societies and thePeripheral nerve society. Eur J Neurol . 2010;17(3):356 –363.
+2. Eftimov F, Winer JB, Vermeulen M, de Haan R, van Schaik IN.
+Intravenous immunoglobulin for chronic in ﬂammatory demye-
+linating polyradiculoneuropathy. Cochrane Database Syst Rev
+2013;(12):CD001797.
+3. van Schaik IN, Bril V, van Geloven N, et al. Subcutaneous immuno-
+globulin for maintenance treatment in chronic in ﬂammatory de-
+myelinating polyneuropathy (PATH): A randomised, double-blind,placebo-controlled, phase 3 trial. Lancet Neurol . 2018;17(1):35 –46.
+4. Hughes RAC, Donofrio P, Bril V, et al. Intravenous immune
+globulin (10% caprylate-chromatography puri ﬁed) for the treat-
+ment of chronic in ﬂammatory demyelinating polyradiculo-
+neuropathy (ICE study): A randomised placebo-controlledtrial. Lancet Neurol . 2008;7(2):136 –144.
+5. Nobile-Orazio E, Cocito D, Jann S, et al. Intravenous immunoglobu-
+lin versus intravenous methylprednisolone for chronic in ﬂamma-
+tory demyelinating polyradiculoneuropathy: A randomised
+controlled trial. Lancet Neurol . 2012;11(6):493 –502.
+6. Hughes R, Dalakas MC, Merkies I, et al. Oral ﬁngolimod for
+chronic in ﬂammatory demyelinating polyradiculoneuropathy
+(FORCIDP Trial):A double-blind, multicentre, randomised con-
+trolled trial. Lancet Neurol . 2018;17(8):689 –698.
+7. Gelinas D, Katz J, Nisbet P, England JD. Current practice patterns
+in CIDP: A cross-sectional survey of neurologists in the UnitedStates. J Neurol Sci . 2019;397:84 –91.
+8. Pocock SJ, Simon R. Sequential treatment assignment with bal-
+ancing for prognostic factors in the controlled clinical trial.Biometrics . 1975;31(1):103 –115.
+9. van Nes SI, Vanhoutte EK, van Doorn PA, et al. Rasch-built
+Overall Disability Scale (R-ODS) for immune-mediated periph-
+eral neuropathies. Neurology . 2011;76(4):337 –345.
+10. Merkies ISJ, Schmitz PIM, van der Meché FGA, Van Doorn PA.
+Psychometric evaluation of a new sensory scale in immune-mediated polyneuropathies. Neurology . 2000;54(4):943 –949.
+11. van Nes SI, Vanhoutte EK, Faber CG, Garssen M, van Doorn PA,
+Merkies IS. Improving fatigue assessment in immune-mediatedneuropathies: The modi ﬁed Rasch-built fatigue severity scale.
+J Peripher Nerv Syst . 2009;14(4):268 –278.
+12. Holman R, Weisscher N, Glas CA, et al. The Academic Medical
+Center Linear Disability Score (ALDS) item bank: Item response
+theory analysis in a mixed patient population. Health Qual Life
+Outcomes . 2005;3:83.
+13. McHorney CA, Ware JE Jr, Raczek AE. The MOS 36-Item
+Short-Form Health Survey (SF-36): II. Psychometric and clinical
+tests of validity in measuring physical and mental health con-
+structs. Med Care . 1993;31(3):247 –263.
+14. Draak TH, Vanhoutte EK, van Nes SI, et al. Changing outcome in
+inﬂammatory neuropathies: Rasch-comparative responsive-
+ness. Neurology . 2014;83(23):2124 –2132.
+15. Hodges JL, Lehmann E. Estimates of location based on rank
+tests. Ann Math Statist . 1963;34:598 –611.
+16. Nobile-Orazio E, Cocito D, Jann S, et al. Frequency and time to re-
+lapse after discontinuing 6-month therapy with IVIg or pulsed
+methylprednisolone in CIDP. J Neurol Neurosurg Psychiatry .
+2015;86(7):729 –734.
+17. Mielke O, Bril V, Cornblath DR, et al. Restabilization treatment
+after intravenous immunoglobulin withdrawal in chronic in-ﬂammatory demyelinating polyneuropathy: Results from the
+pre-randomization phase of the Polyneuropathy and
+Treatment with Hizentra study. J Peripher Nerv Syst . 2019;
+24(1):72 –79.
+18. Draak TH, Gorson KC, Vanhoutte EK, et al. Correlation of the pa-
+tient ’s reported outcome In ﬂammatory-RODS with an objective
+metric in immune-mediated neuropathies. Eur J Neurol . 2016;
+23(7):1248 –1253.
+19. Wojtukiewicz MZ, Politynska B, Skalij P, Tokajuk P,
+Wojtukiewicz AM, Honn KV. It is not just the drugs that mat-ter: The nocebo effect. Cancer Metastasis Rev . 2019;38(1 –2):
+315–326.
+20. Lewis RA, Cornblath DR, Hartung HP, et al. Placebo effect in
+chronic in ﬂammatory demyelinating polyneuropathy: The
+PATH study and a systematic review. J Peripher Nerv Syst . 2020;
+25(3):230 –237.
+21. Vanhoutte EK, Latov N, Deng C, et al. Vigorimeter grip strength
+in CIDP: A responsive tool that rapidly measures the effect ofIVIG —the ICE study. Eur J Neurol
+. 2013;20(5):748 –755.
+22. Keil AP, Edwards JK, Richardson DB, Naimi AI, Cole SR. The para-
+metric g-formula for time-to-event data: Intuition and a worked
+example. Epidemiology . 2014;25(6):889 –897.1652 | BRAIN 2022: 145; 1641 –1652 M. E. Adrichem et al.

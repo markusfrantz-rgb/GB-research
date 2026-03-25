@@ -138,6 +138,15 @@ body {
   border-collapse: collapse;
   margin: 1rem 0;
   font-size: 0.9rem;
+  table-layout: fixed;
+}
+.doc-view table {
+  table-layout: auto;
+}
+.intro-content table td,
+.intro-content table th {
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 .intro-content th {
   background: var(--accent-bg);
@@ -188,7 +197,7 @@ body {
   font-size: 0.9rem;
 }
 .intro-content td:first-child em,
-.intro-content td:first-child {
+.intro-content:not(.doc-view) td:first-child {
   white-space: nowrap;
 }
 
@@ -447,6 +456,62 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 .sources-list li { margin-bottom: 0.2rem; }
+
+/* ── Result type labels ── */
+.result-type {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+}
+.result-type-research {
+  color: var(--accent);
+  background: var(--accent-bg);
+  border: 1px solid rgba(26,82,118,0.2);
+}
+.result-type-source {
+  color: #7d6608;
+  background: #fef9e7;
+  border: 1px solid rgba(125,102,8,0.2);
+}
+.result-card-source {
+  border-left: 3px solid #f4d03f;
+}
+
+/* ── External & source links ── */
+.ext-link {
+  color: var(--accent-light);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+}
+.ext-link:hover {
+  color: var(--accent);
+  text-decoration-style: solid;
+}
+.source-link {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: var(--success);
+  background: #eafaf1;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  text-decoration: none;
+  margin-left: 0.25rem;
+  vertical-align: baseline;
+  border: 1px solid rgba(39,174,96,0.25);
+}
+.source-link:hover {
+  background: #d5f5e3;
+  color: #1e8449;
+  border-color: rgba(39,174,96,0.5);
+}
 
 /* ── Loading ── */
 .spinner {

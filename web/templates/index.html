@@ -108,6 +108,10 @@
 const fullTexts = {};
 let lastQuestion = '';
 let lastAnswerLang = '';
+let sourceMap = {};  // PMID/PMC → local filename
+
+// Load source map at startup
+fetch('/api/source-map').then(r => r.json()).then(data => { sourceMap = data; }).catch(() => {});
 
 function showView(name, btn) {
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
@@ -116,35 +120,50 @@ function showView(name, btn) {
   btn.classList.add('active');
 }
 
+function sourceLink(id) {
+  // Return a fulltext link if we have the file locally
+  const file = sourceMap[id];
+  if (!file) return '';
+  const isPdf = file.endsWith('.pdf');
+  const label = isPdf ? 'PDF' : 'text';
+  return ` <a href="/source/${encodeURIComponent(file)}" target="_blank" rel="noopener" class="source-link" title="Visa fulltext lokalt">[${label}]</a>`;
+}
+
 function linkifyRefs(text) {
   // Make DOIs clickable
   text = text.replace(
     /DOI:\s*(10\.\S+?)([)\s,;.]|$)/g,
-    'DOI: <a href="https://doi.org/$1" target="_blank" rel="noopener">$1</a>$2'
+    'DOI: <a href="https://doi.org/$1" target="_blank" rel="noopener" class="ext-link">$1</a>$2'
   );
   text = text.replace(
     /doi\.org\/(10\.\S+?)([)\s,;.]|$)/g,
-    '<a href="https://doi.org/$1" target="_blank" rel="noopener">doi.org/$1</a>$2'
+    '<a href="https://doi.org/$1" target="_blank" rel="noopener" class="ext-link">doi.org/$1</a>$2'
   );
-  // Make PMC IDs clickable
+  // Make PMC IDs clickable + add local fulltext link
   text = text.replace(
     /PMC(\d{5,})/g,
-    '<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC$1/" target="_blank" rel="noopener">PMC$1</a>'
+    (match, id) => {
+      const pubLink = `<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC${id}/" target="_blank" rel="noopener" class="ext-link">PMC${id}</a>`;
+      return pubLink + sourceLink('PMC' + id);
+    }
   );
-  // Make PubMed IDs clickable
+  // Make PubMed IDs clickable + add local fulltext link
   text = text.replace(
     /PMID:\s*(\d+)/g,
-    'PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/$1/" target="_blank" rel="noopener">$1</a>'
+    (match, id) => {
+      const pubLink = `PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/${id}/" target="_blank" rel="noopener" class="ext-link">${id}</a>`;
+      return pubLink + sourceLink(id);
+    }
   );
   // Make NCT trial IDs clickable
   text = text.replace(
     /(NCT\d{8,})/g,
-    '<a href="https://clinicaltrials.gov/study/$1" target="_blank" rel="noopener">$1</a>'
+    '<a href="https://clinicaltrials.gov/study/$1" target="_blank" rel="noopener" class="ext-link">$1</a>'
   );
   // Make bare https URLs clickable (if not already in an <a> tag)
   text = text.replace(
     /(?<!href="|">)(https?:\/\/[^\s<)"]+)/g,
-    '<a href="$1" target="_blank" rel="noopener">$1</a>'
+    '<a href="$1" target="_blank" rel="noopener" class="ext-link">$1</a>'
   );
   return text;
 }
@@ -201,17 +220,26 @@ async function doSearch() {
 
     data.results.forEach((r, i) => { fullTexts[i] = r.text; });
 
-    area.innerHTML = data.results.map((r, i) => `
-      <div class="result-card clickable" onclick="toggleResult(${i}, this)">
+    area.innerHTML = data.results.map((r, i) => {
+      const isFulltext = r.doc_type === 'fulltext_source';
+      const typeLabel = isFulltext
+        ? '<span class="result-type result-type-source">Originalartikel</span>'
+        : '<span class="result-type result-type-research">Forskningssammanfattning</span>';
+      const fileLink = isFulltext
+        ? `<a href="/source/${encodeURIComponent(r.source_file.split('/').pop())}" target="_blank" onclick="event.stopPropagation()">${escHtml(r.source_file)}</a>`
+        : `<a href="/doc/${encodeURI(r.source_file)}" target="_blank" onclick="event.stopPropagation()">${escHtml(r.source_file)}</a>`;
+      return `
+      <div class="result-card clickable ${isFulltext ? 'result-card-source' : ''}" onclick="toggleResult(${i}, this)">
         <div class="result-header">
           <span class="result-path">${escHtml(r.heading_path)}</span>
+          ${typeLabel}
           <span class="result-score">${(r.score * 100).toFixed(0)}% relevans</span>
         </div>
-        <div class="result-file"><a href="/doc/${encodeURI(r.source_file)}" target="_blank" onclick="event.stopPropagation()">${escHtml(r.source_file)}</a></div>
+        <div class="result-file">${fileLink}</div>
         <div class="result-preview" id="rp-${i}">${escHtml(r.text.substring(0, 250)).replace(/\n/g, ' ')}${r.text.length > 250 ? '...' : ''}</div>
         <div class="result-full" id="rf-${i}" style="display:none">${renderMarkdownText(r.text)}</div>
-      </div>
-    `).join('');
+      </div>`;
+    }).join('');
   } catch (e) {
     area.innerHTML = `<div class="result-card"><p style="color:red">Fel: ${e.message}</p></div>`;
   } finally {
@@ -286,9 +314,14 @@ async function doAsk(overrideLang) {
         <div class="sources-list">
           <h4>Källor som användes:</h4>
           <ol>
-            ${data.sources.map(s =>
-              `<li><strong>${escHtml(s.heading_path)}</strong><br><a href="/doc/${encodeURI(s.source_file)}" target="_blank"><code>${escHtml(s.source_file)}</code></a> <span class="source-score">${(s.score * 100).toFixed(0)}% relevans</span></li>`
-            ).join('')}
+            ${data.sources.map(s => {
+              const isSrc = s.doc_type === 'fulltext_source';
+              const label = isSrc ? 'Originalartikel' : 'Forskningssammanfattning';
+              const link = isSrc
+                ? `/source/${encodeURIComponent(s.source_file.split('/').pop())}`
+                : `/doc/${encodeURI(s.source_file)}`;
+              return `<li><strong>${escHtml(s.heading_path)}</strong> <span class="result-type ${isSrc ? 'result-type-source' : 'result-type-research'}">${label}</span><br><a href="${link}" target="_blank"><code>${escHtml(s.source_file)}</code></a> <span class="source-score">${(s.score * 100).toFixed(0)}% relevans</span></li>`;
+            }).join('')}
           </ol>
         </div>
       `;

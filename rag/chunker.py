@@ -219,3 +219,73 @@ def chunk_markdown(
 
     # Filter out empty chunks
     return [c for c in chunks if c.text.strip()]
+
+
+def chunk_plaintext(
+    text: str,
+    source_file: str,
+    max_tokens: int = 1200,
+    article_title: str = "",
+) -> list[Chunk]:
+    """Chunk a plain-text article (extracted fulltext) by paragraph boundaries.
+
+    Produces chunks with metadata marking them as fulltext_source so they
+    can be visually distinguished from curated research summaries.
+    """
+    # Try to extract a title from the first ~200 chars if not provided
+    if not article_title:
+        first_line = text.split("\n")[0][:200].strip()
+        article_title = first_line if len(first_line) < 150 else first_line[:100] + "..."
+
+    # Split on double newlines (paragraph boundaries)
+    paragraphs = re.split(r'\n\s*\n', text)
+    # If no paragraph breaks (common in extracted text), split on sentence boundaries
+    if len(paragraphs) <= 1 and _estimate_tokens(text) > max_tokens:
+        paragraphs = re.split(r'(?<=[.!?])\s+(?=[A-Z])', text)
+
+    chunks = []
+    chunk_index = 0
+    current_text = ""
+
+    for para in paragraphs:
+        para = para.strip()
+        if not para:
+            continue
+
+        candidate = (current_text + "\n\n" + para).strip() if current_text else para
+
+        if _estimate_tokens(candidate) > max_tokens and current_text:
+            # Flush current chunk
+            chunks.append(Chunk(
+                text=current_text.strip(),
+                metadata={
+                    "source_file": source_file,
+                    "doc_title": article_title,
+                    "section": "",
+                    "subsection": "",
+                    "heading_path": article_title,
+                    "chunk_index": chunk_index,
+                    "doc_type": "fulltext_source",
+                },
+            ))
+            chunk_index += 1
+            current_text = para
+        else:
+            current_text = candidate
+
+    # Final chunk
+    if current_text.strip():
+        chunks.append(Chunk(
+            text=current_text.strip(),
+            metadata={
+                "source_file": source_file,
+                "doc_title": article_title,
+                "section": "",
+                "subsection": "",
+                "heading_path": article_title,
+                "chunk_index": chunk_index,
+                "doc_type": "fulltext_source",
+            },
+        ))
+
+    return [c for c in chunks if c.text.strip()]
