@@ -56,7 +56,7 @@ The co-occurrence of Guillain-Barre syndrome (GBS) and selective IgA deficiency 
 
 ### 2.1 Standard GBS Treatment Options
 
-Both IVIg and plasma exchange (PE) are established first-line treatments for GBS with equivalent efficacy (Level 1 evidence):
+Both IVIg and plasma exchange (PE) are established first-line treatments for GBS with equivalent efficacy *[Level 1 — Cochrane systematiska reviews]*:
 
 - **IVIg**: 0.4 g/kg/day for 5 consecutive days (total 2 g/kg)
 - **PE**: 5 exchanges over 7-14 days, 200-250 mL/kg total plasma volume
@@ -112,7 +112,7 @@ IVIg is contraindicated in patients who:
 
 ### 3.3 Challenging the Dogma: Rachid & Bonilla 2012
 
-A landmark systematic review challenged the traditional view that anti-IgA antibodies invariably cause anaphylaxis:
+A landmark systematic review *[Level 3 — systematisk review av fallrapporter]* challenged the traditional view that anti-IgA antibodies invariably cause anaphylaxis:
 
 **Key findings:**
 - The actual risk of severe anaphylaxis from anti-IgA antibodies is **much lower than traditionally believed**

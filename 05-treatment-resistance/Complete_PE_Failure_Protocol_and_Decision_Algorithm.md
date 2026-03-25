@@ -53,7 +53,7 @@ Based on available evidence, PE failure can be practically defined as:
 
 ### 1.3 Why "Failure" Is Hard to Define: The Time Factor
 
-PE's effect in GBS is to **accelerate recovery rather than fundamentally change the final outcome**. The Cochrane review of PE in GBS (Chevret et al., 2017) demonstrated:
+PE's effect in GBS is to **accelerate recovery rather than fundamentally change the final outcome**. The Cochrane review of PE in GBS (Chevret et al., 2017; PMID: 28241090) *[Level 1 — Cochrane systematic review]* demonstrated:
 
 - PE significantly reduced **time to improve one disability grade** (median 16.5 days PE vs longer for supportive care)
 - PE significantly reduced **time to walk unaided**
@@ -81,11 +81,11 @@ PE's effect in GBS is to **accelerate recovery rather than fundamentally change 
 
 ### 2.2 Data from Major Trials
 
-**North American GBS Study Group (1985, 245 patients):**
+**North American GBS Study Group (1985, 245 patients):** *[Level 1 — RCT]*
 - Median time to improve 1 grade: 19 days (PE) vs 40 days (supportive care)
 - At 4 weeks: 59% of PE patients improved >= 1 grade vs 39% supportive care
 
-**French Cooperative Group (1997, 556 patients):**
+**French Cooperative Group (1997, 556 patients):** *[Level 1 — RCT]*
 - At 1 month: 71% of PE patients improved >= 1 grade
 - Severe patients (unable to walk): 4 PE sessions superior to 2
 
@@ -169,7 +169,7 @@ Before declaring PE failure, the following diagnostic reassessment MUST occur:
 **FOR A PATIENT WITH IgA DEFICIENCY WHO HAS FAILED PE:**
 
 ```
-PRIORITY 1 (Strongest evidence + IgA-safe):
+PRIORITY 1 (Strongest evidence + IgA-safe) [Level 4 — fallrapporter/fallserier]:
 ------------------------------------------
 EFGARTIGIMOD (Vyvgart)
 - 10 mg/kg IV weekly x 4 doses
@@ -182,7 +182,7 @@ EFGARTIGIMOD (Vyvgart)
 - Available in Sweden: approved for gMG, off-label for GBS
   via individual patient access (enskild forskrivarforordning)
 
-PRIORITY 2 (Strong Phase 2 data, Swedish company):
+PRIORITY 2 (Strong Phase 2 data, Swedish company) [Level 2 — prospektiv fas 2]:
 ---------------------------------------------------
 IMLIFIDASE (Idefirix, Hansa Biopharma, Lund)
 - 0.25 mg/kg IV single dose, followed by IVIg
@@ -193,7 +193,7 @@ IMLIFIDASE (Idefirix, Hansa Biopharma, Lund)
 - NOT currently available for compassionate use (per Hansa statement)
 - Requires academic/clinical collaboration for access
 
-PRIORITY 3 (Phase 3 positive, but access limited):
+PRIORITY 3 (Phase 3 positive, but access limited) [Level 1 — RCT fas 3, men ENBART monoterapi]:
 ---------------------------------------------------
 TANRUPRUBART (ANX005, Annexon Biosciences)
 - 30 mg/kg IV single infusion
@@ -203,7 +203,7 @@ TANRUPRUBART (ANX005, Annexon Biosciences)
 - Not yet approved; EMA MAA submitted January 2026
 - Named patient/compassionate use: status unknown
 
-PRIORITY 4 (Weak evidence but pragmatic):
+PRIORITY 4 (Weak evidence but pragmatic) [Level 5 — ingen RCT för PE→IVIg-sekvens]:
 -----------------------------------------
 IVIg (IgA-DEPLETED, e.g., Gammagard S/D, IgA <1 mcg/mL)
 - 0.4 g/kg/day x 5 days, start >= 48 hours after last PE
@@ -213,7 +213,7 @@ IVIg (IgA-DEPLETED, e.g., Gammagard S/D, IgA <1 mcg/mL)
 - REQUIRES: premedication, slow start, ICU monitoring
 - Evidence for benefit after PE failure: weak (no RCT)
 
-PRIORITY 5 (Very limited evidence):
+PRIORITY 5 (Very limited evidence) [Level 4 — fallrapporter]:
 ------------------------------------
 RITUXIMAB (off-label)
 - Consider if anti-NF155/NF186 antibodies positive
@@ -322,7 +322,7 @@ Madeleine is deeply sedated post-tracheostomy. Standard clinical assessments (MR
 
 #### Serum Neurofilament Light Chain (NfL)
 
-**The most valuable biomarker for monitoring during sedation.**
+**The most valuable biomarker for monitoring during sedation.** *[Level 2 — prospektiv kohortstudie, IGOS]*
 
 | Parameter | Value | Clinical Meaning |
 |-----------|-------|-----------------|
@@ -340,8 +340,8 @@ Madeleine is deeply sedated post-tracheostomy. Standard clinical assessments (MR
 - If NfL is rising between days 5 and 14: treatment is not halting nerve damage; escalate
 - If NfL is stable or falling: biological evidence that the disease process is stabilizing, even if clinical improvement cannot yet be assessed
 
-> **Citation:** Martin-Aguilar L, et al. Dynamics and prognostic value of serum NfL in GBS. *eBioMedicine*. 2024;102:105072.
-> **Citation:** Kohle F, et al. Increased serum NfL indicates poor outcome in GBS. *J Neuroinflammation*. 2020;17:86.
+> **Citation:** van Tilburg SJ, et al. Dynamics and prognostic value of serum NfL in GBS. *eBioMedicine*. 2024;102:105072.
+> **Citation:** Altmann P, et al. Increased serum NfL indicates poor outcome in GBS. *J Neuroinflammation*. 2020;17:86.
 
 #### Total Serum IgG Levels
 
@@ -368,14 +368,14 @@ Madeleine is deeply sedated post-tracheostomy. Standard clinical assessments (MR
 #### Anti-Ganglioside Antibody Titers
 
 - Detectable in 40-60% of GBS patients
-- **Serial monitoring has prognostic value:**
+- **Serial monitoring has prognostic value:** *[Level 3 — retrospektiv analys]*
   - Persistently high anti-GM1 IgG titers (> 1,600) = slow/incomplete recovery
   - Falling titers = favorable response to treatment
   - HR = 2.11 for poor outcome with high vs low anti-GM1 IgG
 - PE should reduce titers (physical removal of antibodies)
 - **If titers remain high after 5 PE sessions:** suggests high antibody production rate; supports adding efgartigimod (FcRn blockade to accelerate IgG/antibody clearance)
 
-> **Citation:** Nagaoka A, et al. High and persistent anti-GM1 antibody titers predict poor recovery in GBS. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107.
+> **Citation:** Thomma RCM, et al. High and persistent anti-GM1 antibody titers predict poor recovery in GBS. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107.
 
 ### 5.3 Biomarkers That CANNOT Substitute for Clinical Assessment
 
@@ -573,27 +573,27 @@ DAY 21-28 (3-4 weeks from onset):
 
 ## 8. REFERENCES
 
-1. Doorn PA, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *Eur J Neurol*. 2023;30:3646-3674.
+1. Doorn PA, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *Eur J Neurol*. 2023;30:3646-3674. PMID: 37814552
 
-2. Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain-Barre syndrome. *Cochrane Database Syst Rev*. 2017;2:CD001798.
+2. Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain-Barre syndrome. *Cochrane Database Syst Rev*. 2017;2:CD001798. PMID: 28241090
 
-3. French Cooperative Group on Plasma Exchange in GBS. Appropriate number of plasma exchanges in GBS. *Ann Neurol*. 1997;41:298-306.
+3. French Cooperative Group on Plasma Exchange in GBS. Appropriate number of plasma exchanges in GBS. *Ann Neurol*. 1997;41:298-306. PMID: 9066350
 
-4. Alessandro L, et al. Treatment-related fluctuations in Guillain-Barre syndrome. *Arq Neuropsiquiatr*. 2022;80(5):516-522.
+4. Alessandro L, et al. Treatment-related fluctuations in Guillain-Barre syndrome. *Arq Neuropsiquiatr*. 2022;80(5):516-522. PMID: 35195232
 
-5. Bellanti R, Rinaldi S. Guillain-Barre syndrome: a comprehensive review. *Eur J Neurol*. 2024;31:e16365.
+5. Bellanti R, Rinaldi S. Guillain-Barre syndrome: a comprehensive review. *Eur J Neurol*. 2024;31:e16365. PMID: 38813755
 
-6. Walgaard C, et al. Second IVIg dose in patients with GBS with poor prognosis (SID-GBS). *Lancet Neurol*. 2021;20(4):275-283.
+6. Walgaard C, et al. Second IVIg dose in patients with GBS with poor prognosis (SID-GBS). *Lancet Neurol*. 2021;20(4):275-283. PMID: 33743237
 
-7. Martin-Aguilar L, et al. Dynamics and prognostic value of serum NfL in GBS. *eBioMedicine*. 2024;102:105072.
+7. van Tilburg SJ, et al. Dynamics and prognostic value of serum NfL in GBS. *eBioMedicine*. 2024;102:105072. PMID: 38518653
 
-8. Kohle F, et al. Increased serum NfL concentration indicates poor outcome in GBS. *J Neuroinflammation*. 2020;17:86.
+8. Altmann P, et al. Increased serum NfL concentration indicates poor outcome in GBS. *J Neuroinflammation*. 2020;17:86. PMID: 32183837
 
-9. Nagaoka A, et al. High and persistent anti-GM1 antibody titers predict poor clinical recovery in GBS. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107.
+9. Thomma RCM, et al. High and persistent anti-GM1 antibody titers predict poor clinical recovery in GBS. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107. PMID: 37059469
 
 10. Kleyweg RP, et al. Serum C3 complement levels predict prognosis in GBS. *J Neurol Sci*. 2023;444:120510.
 
-11. Ripellino P, et al. Efgartigimod as Add-On Treatment in Refractory GBS: A Case Report. *Eur J Neurol*. 2025;32(8):e70308.
+11. Ripellino P, et al. Efgartigimod as Add-On Treatment in Refractory GBS: A Case Report. *Eur J Neurol*. 2025;32(8):e70308. PMID: 40799081
 
 12. Cheng Y, et al. Rapid neurological recovery in GBS treated with efgartigimod. *Sci Rep*. 2026;16:44163.
 

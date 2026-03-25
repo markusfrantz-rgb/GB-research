@@ -39,8 +39,10 @@ GB-research/
 ├── 03-GBS-and-IgA-deficiency/ ← Kombinationen (1 dokument, nyckeldokument)
 ├── 04-related-autoimmune/   ← Relaterade autoimmuna tillstånd (2 dokument)
 ├── 05-treatment-resistance/ ← Refraktär GBS, nya terapier, koagulopati, sekventiell terapi, PE-svikt-protokoll (5 dokument)
-├── 06-monitoring-prognosis/ ← Prognostisk monitorering, biomarkörer, IVA-protokoll (1 dokument)
-├── 07-acute-icu-protocols/  ← Akuta IVA-protokoll: post-trakeostomivård vid dysautonomi (1 dokument)
+├── 06-monitoring-prognosis/ ← Prognostisk monitorering, biomarkörer, neuroprognostikering, EGRIS, beslutspunkter (1 dokument)
+├── 07-acute-icu-protocols/  ← Akuta IVA-protokoll: post-trakeostomivård, dysautonomi, respiratoravvänjning (2 dokument)
+├── sources/fulltext/        ← Källbibliotek: 12 PDF + 10 textfiler (22 fulltexter)
+├── Tillgang_till_medicinska_kallor.md ← Komplett artikelöversikt med status
 ├── metadata/                ← Index och källregister
 │
 ├── rag/                     ← RAG-systemet (Python)

@@ -46,8 +46,8 @@ Each episode must individually satisfy the Brighton Collaboration criteria or NI
 ### 1.2 Incidence
 
 - GBS is primarily a **monophasic** illness; recurrence is uncommon
-- Recurrence rate: **2-5%** of GBS patients (reported range 1-6% across studies)
-- In the largest population-based study (Kuitwaard et al.), 32 patients with recurrent GBS were identified, having a total of 81 episodes
+- Recurrence rate: **2-5%** of GBS patients (reported range 1-6% across studies) *[Level 3 — populationsbaserad studie]*
+- In the largest population-based study (Kuitwaard et al., PMID: 19091706), 32 patients with recurrent GBS were identified, having a total of 81 episodes
 - Das et al. reported 11 of 200 GBS patients (5.5%) experienced recurrence
 
 > Kuitwaard K, et al. *J Neurol Neurosurg Psychiatry*. 2009;80(1):56-59.
@@ -66,7 +66,7 @@ The interval between recurrences is highly variable:
 
 Patients with R-GBS had 2-7 episodes (median 3) occurring at irregular intervals over decades. The exceptionally long intervals (up to 37 years) documented in the literature support the concept that immunological predisposition, rather than specific trigger exposure, underlies recurrence.
 
-**Clinical implication**: A 37-year interval between episodes (e.g., first episode at age 16, recurrence at age 53) is consistent with documented R-GBS intervals and does not by itself argue against a diagnosis of recurrent GBS.
+**Clinical implication**: A 37-year interval between episodes (e.g., first episode at age 16, recurrence at age 53) is consistent with documented R-GBS intervals *[Level 3 — populationsbaserad studie, Kuitwaard 2009]* and does not by itself argue against a diagnosis of recurrent GBS.
 
 > Wijdicks EF, Ropper AH. Acute relapsing Guillain-Barre syndrome after long asymptomatic intervals. *Arch Neurol*. 1990;47(1):82-84. doi:10.1001/archneur.1990.00530010098024
 

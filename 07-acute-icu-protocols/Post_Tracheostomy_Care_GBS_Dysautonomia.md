@@ -16,6 +16,9 @@ status: active
 1. [Suctioning Risks and Protocols in Dysautonomic GBS](#1-suctioning-risks-and-protocols-in-dysautonomic-gbs)
 2. [Blood Pressure Management During Tracheostomy Care](#2-blood-pressure-management-during-tracheostomy-care)
 3. [Autonomic Storm Prevention](#3-autonomic-storm-prevention)
+   - 3.5 [Quantified Mortality Impact of Dysautonomia](#35-quantified-mortality-impact-of-dysautonomia)
+   - 3.6 [Dysautonomia Spectrum: Incidence Rates from Two Large Cohorts](#36-dysautonomia-spectrum-incidence-rates-from-two-large-cohorts)
+   - 3.7 [Cross-Reference: Ventilator Weaning in Dysautonomic GBS](#37-cross-reference-ventilator-weaning-in-dysautonomic-gbs)
 4. [Post-Tracheostomy Monitoring Protocol for GBS](#4-post-tracheostomy-monitoring-protocol-for-gbs)
 5. [First 24-72 Hours: Detailed Care Protocol](#5-first-24-72-hours-detailed-care-protocol)
 6. [Emergency Response Protocols](#6-emergency-response-protocols)
@@ -40,7 +43,7 @@ Tracheal suctioning is the **single most dangerous routine procedure** in a GBS 
 - Severe hypotension requiring vasopressor rescue
 - Hypertensive crisis (sympathetic surge during/after suctioning)
 
-(Zochodne, Muscle Nerve, 1994; Weiss et al., Frontiers in Pharmacology, 2025; Frankel et al., Intensive Care Med, 1975)
+(Zochodne, Muscle Nerve, 1994; Weiss et al., Frontiers in Pharmacology, 2025; Frankel et al., Intensive Care Med, 1975) *[Level 4 — fallrapporter och expertutlåtande]*
 
 ### 1.2 Closed-Circuit vs Open Suctioning: Which Is Safer?
 
@@ -60,7 +63,7 @@ Tracheal suctioning is the **single most dangerous routine procedure** in a GBS 
 
 - The hemodynamic instability during open suctioning is primarily driven by hypoxia, which stimulates the adrenergic nervous system. In GBS with dysautonomia, this adrenergic response is **unreliable and exaggerated**, making hemodynamic responses unpredictable.
 - Closed suctioning maintains continuous positive pressure ventilation, reducing the magnitude of cardiopulmonary parameter changes.
-- A 2024 systematic review and meta-analysis confirmed that closed tracheal suction systems reduce the incidence of hemodynamic disturbances compared to open systems in mechanically ventilated patients.
+- A 2024 systematic review and meta-analysis *[Level 1]* confirmed that closed tracheal suction systems reduce the incidence of hemodynamic disturbances compared to open systems in mechanically ventilated patients.
 
 > **Citation:** Andrade AL, et al. Comparative analysis of open and closed tracheal suction systems on mechanical ventilation efficiency in adults: A systematic review and meta-analysis. *Aust Crit Care*. 2024. DOI: 10.1016/j.aucc.2024.09.005
 > **Citation:** Jongerden IP, et al. Closed tracheal suction systems versus open tracheal suction systems for mechanically ventilated adult patients. *Cochrane Database Syst Rev*. 2007;4:CD004581.
@@ -69,7 +72,7 @@ Tracheal suctioning is the **single most dangerous routine procedure** in a GBS 
 
 #### Evidence
 
-Prophylactic atropine before tracheal suctioning is supported by evidence from both GBS and spinal cord injury literature (both conditions share the mechanism of impaired sympathetic function with intact vagal tone):
+Prophylactic atropine before tracheal suctioning is supported by evidence from both GBS and spinal cord injury literature (both conditions share the mechanism of impaired sympathetic function with intact vagal tone): *[Level 4 — fallrapporter, extrapolering från ryggmärksskada]*
 
 - **Frankel et al. (1975):** Demonstrated that atropine administration before tracheal suction prevented bradycardia and cardiac arrest in tetraplegic patients. Recommended "adequate oxygenation and atropine administration before tracheal suction in all artificially ventilated tetraplegic patients."
 - **Rosen & Hillard (1987):** Showed that both parenteral (IV) and nebulized atropine prevented bradycardic responses to endotracheal suctioning. Nebulized atropine had a wider margin of safety.
@@ -345,6 +348,56 @@ Sedation provides a **pharmacological buffer** against autonomic storms by dampe
 
 > **Citation:** Pandit L, Agrawal A. Neuromuscular disorders in critical illness. *Clin Neurol Neurosurg*. 2006;108:621-627.
 > **Citation:** Farkas J. Guillain-Barre Syndrome (GBS). EMCrit IBCC. Updated 2025.
+
+### 3.5 Quantified Mortality Impact of Dysautonomia
+
+A retrospective analysis from Mayo Clinic (2000-2017) provides the largest single-center dataset on the impact of autonomic dysfunction on GBS outcomes. *[Level 3 — retrospektiv analys, n=187]*
+
+**Study population:** 187 GBS patients; 71 (38%) had at least one manifestation of dysautonomia. The cohort was predominantly demyelinating (72% AIDP), and 36% of demyelinating patients had dysautonomia.
+
+**Mortality:** **6% in the dysautonomia group vs 2% in the entire cohort** (p=0.02). This three-fold mortality increase underscores the clinical significance of recognizing and managing autonomic dysfunction.
+
+**Dysautonomia manifestations (n=71 dysautonomic patients):**
+
+| Manifestation | Prevalence |
+|---|---|
+| Ileus | 42% |
+| Hypertension | 39% |
+| Hypotension | 37% |
+| Autonomic fever | 29% |
+| Tachycardia/bradycardia | 27% |
+| Urinary retention | 24% |
+
+**Associations with dysautonomia:**
+- Quadriparesis, bulbar weakness, neck flexor weakness, and need for mechanical ventilation were all significantly associated with dysautonomia
+- Higher GBS disability score and Erasmus GBS Outcome Score (EGOS) in the dysautonomia group
+- More cardiogenic complications and SIADH in the dysautonomia group
+
+> **Citation:** Chakraborty T, et al. Autonomic dysfunction in Guillain-Barré syndrome: prevalence, clinical spectrum, and outcomes. *Neurocrit Care*. 2020;32:113-120. PMID: 31297663
+
+### 3.6 Dysautonomia Spectrum: Incidence Rates from Two Large Cohorts
+
+The table below compares autonomic manifestation rates from two of the largest cohort studies, highlighting that reported rates vary substantially depending on how dysautonomia is defined and ascertained:
+
+| Manifestation | Chakraborty 2020 (n=71 dysautonomic) | Bazán-Rodríguez 2023 (n=51 dysautonomic) |
+|---|---|---|
+| Ileus/enteric dysmotility | 42% | 76.1% |
+| Hypertension | 39% | 84.8% |
+| Hypotension | 37% | 76.1% |
+| Tachycardia/bradycardia | 27% | 76.1% |
+| Fever (autonomic) | 29% | — |
+| Urinary retention | 24% | — |
+| Required vasopressor | — | 58.7% |
+
+The higher rates in Bazán-Rodríguez 2023 likely reflect a more severely affected subgroup (all hospitalized, Mexican tertiary center, n=214 total with 51 [23.8%] meeting dysautonomia criteria). Notably, Bazán-Rodríguez found that involvement of **cranial nerves VII, IX, and X** was significantly associated with dysautonomia (p=0.002), as was the need for **mechanical ventilation** (p=0.0001) and **ICU admission** (p=0.0001). *[Level 3 — retrospektiv kohortstudie, n=214]*
+
+> **Citation:** Bazán-Rodríguez L, et al. Autonomic dysfunction in Guillain-Barré syndrome: frequency and clinical associations. *Auton Neurosci*. 2023;245:103070. PMID: 36634383
+
+### 3.7 Cross-Reference: Ventilator Weaning in Dysautonomic GBS
+
+Autonomic dysfunction is a recognized independent risk factor for failed extubation in GBS. Nguyen et al. (2006) demonstrated that autonomic dysfunction was present in **73% of patients who failed extubation** compared with **27% of those successfully extubated** (p=0.008). This has direct implications for ventilator weaning strategy: all weaning attempts — including spontaneous breathing trials (SBT) — must be coordinated with a period of documented autonomic stability. If an autonomic storm or severe hemodynamic instability occurs during an SBT, the trial should be **immediately aborted** and the patient returned to full ventilatory support. For the complete weaning protocol, including SBT criteria and step-by-step procedures, see companion document: `Ventilator_Weaning_GBS_Protocol.md`.
+
+> **Citation:** Nguyen TN, et al. Factors predicting extubation failure in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290093
 
 ---
 
@@ -640,3 +693,7 @@ IF simultaneous HR/BP instability with diaphoresis:
 20. Comparison of clevidipine vs nicardipine in the treatment of hypertensive urgency and emergency in critically ill patients. *Am J Health-Syst Pharm*. 2024;81(21):e668-e679.
 
 21. Lin B, et al. Use of pacemaker in GBS dysautonomia. *Indian J Crit Care Med*. 2021;25:1066-1068.
+
+22. Bazán-Rodríguez L, et al. Autonomic dysfunction in Guillain-Barré syndrome: frequency and clinical associations. *Auton Neurosci*. 2023;245:103070. PMID: 36634383
+
+23. Nguyen TN, et al. Factors predicting extubation failure in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290093

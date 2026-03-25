@@ -36,16 +36,18 @@ status: active
 | 2026-03-21--24   | 3 plasmaferesesessioner utan kliniskt svar                                                                                                       |
 | 2026-03-23       | MR hjarna: **normal**                                                                                                                            |
 | 2026-03-24 (kv)  | CT huvud utford pga anisokori (V pupill > H) + koagulopati — **normal**, inga blodningstecken                                                    |
-| 2026-03-25       | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
+| 2026-03-25 (fm)  | Trakeostomi genomford (~kl 12). Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
+| 2026-03-25 (em)  | Sedering lattad for att bedoma spontanandning (diafragmafunktion). |
+| 2026-03-26 (plan)| PE session 4 planerad (2 kvar av 5). |
 
-### Nuvarande status (2026-03-25)
+### Nuvarande status (2026-03-25 em)
 
-- **Respirator:** Ja, beroende
-- **Trakeostomi:** Planerad ~kl 12:00 idag
-- **Medvetande:** Djupt sederad. Nar lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
+- **Respirator:** Ja, beroende. Spontanandningstest pagaende efter trakeostomi.
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12
+- **Medvetande:** Sedering lattas for bedomning av spontanandning. Tidigare vid lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
 - **Autonom dysfunktion:** Bekraftad — blodtrycksinstabilitet (kraver stod), anisokori (V > H, autonom genes efter normal CT), feber 38,1°C
-- **Koagulopati:** PE-relaterad (bedoms tillrackligt korrigerad for trakeostomi)
-- **Behandling given:** 3 PE-sessioner, ingen ytterligare GBS-specifik behandling
+- **Koagulopati:** PE-relaterad (bedomd tillrackligt korrigerad for trakeostomi)
+- **Behandling given:** 3 PE-sessioner, ingen ytterligare GBS-specifik behandling. PE4 planerad 2026-03-26.
 
 ---
 
@@ -74,7 +76,7 @@ Basta biomarkoren for axonal skada. Median 85.5 pg/mL vid GBS (vs 9.1 kontroller
 
 **6. Vad ar planen efter 3 PE-sessioner utan svar?**
 ~~Standard ar 5 sessioner. Har alla 5 genomforts, eller avbryts de pga koagulopati?~~
-**Svar:** PE ateruptas efter trakeostomi (pausen var for koagulationsaterhamtning infor operation). 2 sessioner kvar av 5. **Uppfoljningsfraga:** Om de sista 2 sessionerna inte ger svar — vad ar nasta steg?
+**Svar:** PE ateruptas efter trakeostomi (pausen var for koagulationsaterhamtning infor operation). 2 sessioner kvar av 5. PE4 planerad 2026-03-26. **Uppfoljningsfraga:** Om de sista 2 sessionerna inte ger svar — vad ar nasta steg?
 
 **7. Har man diskuterat nasta behandlingssteg?**
 Tre alternativ med evidensunderlag:
@@ -163,10 +165,10 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 
 | Alternativ | Evidens | IgA-sakert | Tillganglighet Sverige mars 2026 |
 |------------|---------|------------|-----------------------------------|
-| **Efgartigimod** | Fallrapporter: forbattring inom timmar-dagar vid refraktar GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 (Sci Rep 2026). Fas 2 pagar. | Ja (Fc-fragment, ingen Ig) | **Ja** — EMA-godkant MG/CIDP, off-label mojligt |
-| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 for IVIg vid GBS. Privigen IgA <=25 ug/mL. Patient har tidigare tolererat Gamanorm (IgA <=82.5). | Lag risk | **Ja** — rutinprodukt |
-| **Imlifidase** | Fas 2 (2024): 6 veckor tidigare gangformaga. Klyver IgG specifikt, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa, Lund |
-| **Tanruprubart** | Fas 3 positiv: OR 2.4, 31 dagar tidigare gangformaga. Bast evidens. | Ja (mAb anti-C1q) | **Nej** — EMA MAA under granskning, forvantad 2026/2027 |
+| **Efgartigimod** | *[Level 4]* Fallrapporter: forbattring inom timmar-dagar vid refraktar GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 *[Level 3]* (Sci Rep 2026). Fas 2 pagar. | Ja (Fc-fragment, ingen Ig) | **Ja** — EMA-godkant MG/CIDP, off-label mojligt |
+| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane systematic review for IVIg vid GBS. Privigen IgA <=25 ug/mL. Patient har tidigare tolererat Gamanorm (IgA <=82.5). | Lag risk | **Ja** — rutinprodukt |
+| **Imlifidase** | *[Level 2]* Fas 2 (2024, n=30): 6 veckor tidigare gangformaga. Klyver IgG specifikt, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa, Lund |
+| **Tanruprubart** | *[Level 1]* Fas 3 RCT positiv (n=242): OR 2.4, 31 dagar tidigare gangformaga. Bast evidens — enbart monoterapi. | Ja (mAb anti-C1q) | **Nej** — EMA MAA under granskning, forvantad 2026/2027 |
 
 ### Sekventiell terapi — timing
 
@@ -189,7 +191,7 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 
 | Fynd | Kalla |
 |------|-------|
-| TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (88.9% sens, 90.4% spec) | Wang et al., Muscle Nerve 2022 |
+| TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (88.9% sens, 90.4% spec) | Wang et al., Muscle Nerve 2022 (PMID: 35194803) *[Level 3]* |
 | 70.1% av GBS-patienter ar tyreoideaantikroppspositiva (vs 14.1% CIDP) | Li et al., Frontiers Neurol 2020 |
 | GBS + abnorm tyreoidea: langre vardtid, lagre MRC, hogre Hughes | Qiu et al., Neurol Sci 2022 |
 | T3 essentiellt for Schwann-cellsmyelinisering och neurotrofiska faktorer (BDNF, NGF) | Lopez-Espindola 2019, Barakat-Walter 1999 |

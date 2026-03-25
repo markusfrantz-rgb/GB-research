@@ -40,9 +40,9 @@ The 2023 EAN/PNS guideline recommends **against** combining PE followed immediat
 
 From the European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome (Doorn et al., Eur J Neurol 2023; J Peripher Nerv Syst 2023):
 
-1. **IVIg 0.4 g/kg/day for 5 days** recommended for patients within 2 weeks of symptom onset (Strong recommendation)
+1. **IVIg 0.4 g/kg/day for 5 days** recommended for patients within 2 weeks of symptom onset (Strong recommendation) *[Level 1]*
 2. **PE is effective** when started within 2-4 weeks of onset in severely affected patients
-3. **Recommends against** a second IVIg course in GBS patients with poor prognosis -- based on the landmark SID-GBS trial (Walgaard et al., Lancet Neurol 2021), which found no benefit and increased risk of adverse events from a second IVIg dose
+3. **Recommends against** a second IVIg course in GBS patients with poor prognosis -- based on the landmark SID-GBS trial (Walgaard et al., Lancet Neurol 2021; PMID: 33743237) *[Level 1 — RCT]*, which found no benefit and increased risk of adverse events from a second IVIg dose
 4. **Recommends against** PE followed immediately by IVIg as combined sequential therapy
 5. **Treatment-related fluctuation (TRF):** A repeated course of IVIg or PE can be considered in case of TRF (observational data only)
 6. **No specific recommendation** exists for what to do when either first-line treatment fails completely -- this is the critical gap in current guidelines
@@ -51,7 +51,7 @@ From the European Academy of Neurology/Peripheral Nerve Society Guideline on dia
 
 Walgaard C, Jacobs BC, et al. "Second intravenous immunoglobulin dose in patients with Guillain-Barre syndrome with poor prognosis (SID-GBS): a double-blind, randomised, placebo-controlled trial." *Lancet Neurology* 2021;20(4):275-283.
 
-- Patients with GBS and poor prognosis did NOT benefit from a second IVIg course
+- Patients with GBS and poor prognosis did NOT benefit from a second IVIg course *[Level 1]*
 - Moreover, repeat IVIg entailed a risk of serious adverse events
 - This trial definitively ended the widespread practice of giving repeat IVIg to non-responders
 - **However:** This trial studied repeat IVIg after initial IVIg failure, not IVIg after PE failure -- a different clinical scenario
@@ -150,7 +150,7 @@ Tanruprubart is a first-in-class monoclonal antibody that blocks C1q, the initia
 
 ### 3.3 Clinical Trial Data
 
-**Phase 3 pivotal trial (Southeast Asia):**
+**Phase 3 pivotal trial (Southeast Asia):** *[Level 1 — RCT, fas 3, dubbelblind]*
 - Randomized, placebo-controlled study
 - Demonstrated rapid impact on neuroinflammation markers
 - Patients recovered faster than controls
@@ -232,7 +232,7 @@ Efgartigimod is a human IgG1 Fc fragment that antagonizes the neonatal Fc recept
 | BMC Neurology 2025 | 800 mg (~16 mg/kg) | 4 doses | IV |
 | Chinese case (Medicine, 2024) | 800 mg | variable | IV |
 
-**Recommended protocol based on available evidence:**
+**Recommended protocol based on available evidence:** *[Level 4 — baserat på fallrapporter]*
 - **10 mg/kg IV weekly x 4 infusions** (consistent with MG dosing and most GBS case reports)
 - Infusion over 1 hour
 - Can be started immediately (no loading dose needed)
@@ -259,7 +259,7 @@ IgG level kinetics:
 
 ### 4.6 Case Reports of Efgartigimod in Ventilator-Dependent GBS
 
-1. **Ripellino et al. (2025)** -- 60-year-old woman, fulminant AIDP, ventilator-dependent within 12 hours. Failed PE + IVIg. Efgartigimod 10 mg/kg x4 doses starting Day 30. Upper limb improvement within hours. Walked at 2.5 months. Full recovery at 4 months. (Eur J Neurol 2025;32(8):e70308)
+1. **Ripellino et al. (2025)** *[Level 4]* -- 60-year-old woman, fulminant AIDP, ventilator-dependent within 12 hours. Failed PE + IVIg. Efgartigimod 10 mg/kg x4 doses starting Day 30. Upper limb improvement within hours. Walked at 2.5 months. Full recovery at 4 months. (Eur J Neurol 2025;32(8):e70308; PMID: 40799081)
 
 2. **Deng et al. (2025)** -- Four GBS cases (ages 30-51) including MFS-GBS overlap and AMSAN. Case 3: AMSAN, ventilator-dependent, MRC 3, received efgartigimod monotherapy (3 weekly infusions). Favorable outcome. (Front Immunol 2025;16:1586663)
 
@@ -300,7 +300,7 @@ Imlifidase (IdeS, marketed as Idefirix for kidney transplant) is a unique IgG-cl
 
 ### 5.3 GBS Phase 2 Results (15-HMedIdeS-09)
 
-**Study design:** Open-label, single-arm, multi-center study across UK, France, and the Netherlands
+**Study design:** Open-label, single-arm, multi-center study across UK, France, and the Netherlands *[Level 2 — prospektiv fas 2-studie]*
 
 **Dosing protocol:**
 - Single dose of imlifidase 0.25 mg/kg IV
@@ -588,7 +588,7 @@ The Japanese Phase 3 trial (JET-GBS Phase 3, Kuwabara et al., J Peripher Nerv Sy
 
 ## References
 
-1. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *Eur J Neurol* 2023;30(12):3646-3674. doi:10.1111/ene.16073
+1. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *Eur J Neurol* 2023;30(12):3646-3674. doi:10.1111/ene.16073. PMID: 37814552
 
 2. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *J Peripher Nerv Syst* 2023;28(4):535-563. doi:10.1111/jns.12594
 

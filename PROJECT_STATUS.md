@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (15 st, ~450 referenser)
+### Forskningsdokument (16 st, ~480 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -26,7 +26,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 12 | `05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md` | Sekventiell terapi, **efgartigimod off-label i Sverige (praktisk väg)**, timing, interaktioner | Komplett |
 | 13 | `05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md` | PE-svikt efter 5 sessioner, beslutsalgoritm, biomarkörer under sedering, NfL-monitorering | Komplett |
 | 14 | `06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md` | Prognostisk monitorering: biomarkörer, kliniska skalor, elektrofysiologi, IVA-protokoll | Komplett |
-| 15 | `07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md` | Post-trakeostomivård: sugningsprotokoll, vagolytika, BP-hantering, autonom storm, monitorering | Komplett |
+| 15 | `07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md` | Post-trakeostomivård: sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitetsdata (6% vs 2%)**, monitorering | Komplett |
+| 16 | `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` | **Respiratoravvänjning: FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk, långtidsutfall** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
@@ -67,11 +68,16 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-23 | MR hjärna: **normal** |
 | 2026-03-24 kväll | CT huvud: **normal** (inga blödningstecken). Anisokori = autonom dysfunktion. |
 | 2026-03-25 fm | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad (BP-instabilitet, anisokori). |
-| 2026-03-25 em | PE planeras att återupptas (2 sessioner kvar av 5). Levotyroxin ges. Luftrörsvidgande insatt. Allergimedel pågår. |
+| 2026-03-25 em | Sedering lättad för att bedöma spontanandning (diafragmafunktion). Levotyroxin ges. Luftrörsvidgande insatt. Allergimedel pågår. |
+| 2026-03-26 (plan) | PE session 4 planerad. 2 sessioner kvar av 5. |
 
 ### Kommunikation
 
 Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
+
+### Post-trakeostomi (2026-03-25 em)
+
+Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen på diafragmafunktion och djupet av den motoriska påverkan.
 
 ### Diagnostiska luckor (per 2026-03-25)
 
@@ -133,7 +139,9 @@ Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/de
 ### Kvalitetssäkring — att tänka på
 - [ ] Verifiera specifika doser/tröskelvärden mot originalartiklar (se disclaimer nedan)
 - [ ] Kontrollera att kontaktuppgifter (argenx, Hansa) fortfarande är aktuella
-- [ ] Lägga till PMID-nummer för nyckelreferenser
+- [ ] Korrigera författarattribution i 5 referenser (Martin-Aguilar→van Tilburg, Kohle→Altmann, Nagaoka→Thomma, Haupt 2011 ej hittad, Qiu 2022 ej hittad) — PMIDs stämmer, innehåll korrekt, men förstaförfattare fel
+- [x] Lägga till PMID-nummer för nyckelreferenser (genomfört 2026-03-25, ~30 PMIDs tillagda)
+- [x] Evidensgradering (Level 1-5) vid nyckelrekommendationer (genomfört 2026-03-25, 10 dokument annoterade)
 
 ## Disclaimer om evidenskvalitet
 
@@ -158,3 +166,12 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-25 | Levotyroxin-dosjustering som potentiell GBS-trigger: ny sektion med biologisk mekanism (T3→DC→Th1/Th17), tidslinjeanalys, PE-levotyroxin-interaktion (5 nya ref). |
 | 2026-03-25 | SCIG-utsättning och GBS-recidiv: ny sektion med immunmodulering, CIDP-parallell (PATH-studien), rebound-evidens, R-GBS vs A-CIDP diagnostisk implikation, rekommendation om SCIG-återinsättning. |
 | 2026-03-25 | RAG konfigurerad för alla 7 mappar (01-07). Totalt 15 dokument, ~450 referenser. |
+| 2026-03-25 | Klinisk uppdatering: trakeostomi genomförd, sedering lättad för spontanandningstest, PE4 planerad 2026-03-26. |
+| 2026-03-25 | Evidensgradering (Level 1-5) tillagd i 10 dokument. Evidensskala-legend tillagd i KUNSKAPSBASEN.md. |
+| 2026-03-25 | ~30 PMID-nummer tillagda vid nyckelreferenser (behandlingsrekommendationer, tröskelvärden, doseringsprotokoll). |
+| 2026-03-25 | Författarkorrigeringar: Martin-Aguilar→van Tilburg, Kohle→Altmann, Nagaoka→Thomma, Stolk→Mahmoud, SID-GBS PMID korrigerat. |
+| 2026-03-25 | Nytt dokument: `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` — respiratoravvänjning, FVC/NIF-trösklar, SBT-protokoll, decannulation, 7 referenser. |
+| 2026-03-25 | Dysautonomi-doc uppdaterat: mortalitet 6% vs 2% (Chakraborty), incidenstal från 2 kohorter, weaning-korsreferens. |
+| 2026-03-25 | Prognostik-doc uppdaterat: neuroprognostikering (Busl GRADE), EGRIS validering (n=1500), strukturerade beslutspunkter dag 7/14/28. |
+| 2026-03-25 | Källbibliotek: 22 fulltexter hämtade (12 PDF + 10 text), 30 artiklar kartlagda. `sources/fulltext/` + `Tillgang_till_medicinska_kallor.md`. |
+| 2026-03-25 | RAG reindexerad: 16 dokument, 391 chunks. Deploy till gbs.ragbase.org. |

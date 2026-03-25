@@ -33,7 +33,7 @@ Selective IgA deficiency (SIgAD) is the most common primary immunodeficiency in 
 
 **Key prevalence data:**
 
-- **IgAD prevalence in Graves' disease:** In a landmark Swedish study screening 841 TRAb-positive Graves' patients, 14 had IgA deficiency (1:60) — a markedly elevated prevalence compared to 1:600 in the general population (P = 0.006). Across five studies totaling 1,045 GD patients, 17 IgAD cases were identified (1:61). (Jorgensen et al., *Mol Med*, 2011)
+- **IgAD prevalence in Graves' disease:** In a landmark Swedish study *[Level 3 — kohortstudie, n=841]* screening 841 TRAb-positive Graves' patients, 14 had IgA deficiency (1:60) — a markedly elevated prevalence compared to 1:600 in the general population (P = 0.006). Across five studies totaling 1,045 GD patients, 17 IgAD cases were identified (1:61). (Jorgensen et al., *Mol Med*, 2011)
 - **IgAD prevalence in autoimmune thyroid disease generally:** IgAD shows a markedly increased prevalence in Graves' disease, SLE, type 1 diabetes, and celiac disease. Thyroiditis (both Hashimoto's and Graves') is listed among the autoimmune diseases more common in SIgAD patients. (Jorgensen et al., 2011; Yazdani et al., *Scand J Immunol*, 2017)
 - **Autoimmune disease prevalence in IgAD:** The overall prevalence of autoimmune diseases in SIgAD patients ranges from 5% to 30%, with the higher end (20-30%) in adult populations. (Yazdani et al., 2017)
 - **Isolated case reports:** Hashimoto's thyroiditis with selective IgA deficiency has been reported as a defined clinical entity, though the precise nature of the association remained unclear — simple coincidence could not be excluded. (Hadithi et al., *Acta Chir Scand*, 1996; Takcuchi et al., 1992)
@@ -105,10 +105,10 @@ The proposed pathophysiological link between Hashimoto's and GBS centers on **ga
    - TT4, TPO-Ab, and TG-Ab levels in GBS were all higher than in CIDP and controls (P < 0.01).
    (Wang et al., *Front Neurol*, 2020)
 
-2. **TSH is an independent risk factor for recurrent GBS:**
+2. **TSH is an independent risk factor for recurrent GBS:** *[Level 3 — retrospektiv analys]*
    - TSH > 3.87 uIU/mL predicted GBS recurrence with **88.9% sensitivity and 90.4% specificity**.
    - Multivariate regression: antecedent illness, AIDP subtype, and high TSH were independently associated with RGBS.
-   (Wang et al., *Muscle Nerve*, 2022)
+   (Wang et al., *Muscle Nerve*, 2022; PMID: 35194803)
 
 3. **Abnormal thyroid function predicts worse GBS outcomes:**
    - GBS patients with abnormal thyroid function had: longer hospitalization, higher frequency of cranial nerve damage, higher incidence of weakened tendon reflexes.
@@ -415,7 +415,7 @@ Levothyroxine is ~90% protein-bound with a low volume of distribution — highly
 **Protocol:**
 - Administer levothyroxine **AFTER** each PE session (not before, to avoid immediate removal)
 - Monitor TSH, fT3, fT4 after each PE cycle
-- Consider supplemental dosing during PE series (Stolk et al., *Neurocrit Care* 2020)
+- Consider supplemental dosing during PE series (Mahmoud et al., *Neurocrit Care* 2020)
 - Hypothyroidism during PE may impair GBS recovery (T3 required for nerve remyelination)
 
 ### 7.5 Clinical Relevance for This Patient
@@ -491,7 +491,7 @@ This represents a **biologically plausible contributing trigger** that warrants:
 
 ### Thyroid Function and GBS Severity / Recurrence
 16. Wang J, et al. "Differences in Thyroid Function and Autoantibodies in the Development of Guillain-Barre Syndrome vs. Chronic Inflammatory Demyelinating Polyradiculoneuropathy." *Front Neurol.* 2020;11:1018.
-17. Wang Y, et al. "Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome." *Muscle Nerve.* 2022;65(5):569-574.
+17. Wang Y, et al. "Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome." *Muscle Nerve.* 2022;65(5):569-574. PMID: 35194803
 18. Chen W, et al. "The prediction effects of thyroid function in the severity of Guillain-Barre syndrome." *Neurol Sci.* 2022;43(7):4479-4485.
 19. Huang W, et al. "Thyroid hormone level is associated with the frequency and severity of Guillain-Barre syndrome." *Int J Neurosci.* 2017;127(10):893-899.
 20. Huang Y, et al. "Association Between Thyroid Hormone Levels and Disease Prognosis in Guillain-Barre Syndrome: A Retrospective Study." *Health Sci Rep.* 2025;8:e70818.
@@ -542,5 +542,5 @@ This represents a **biologically plausible contributing trigger** that warrants:
 49. Montesinos MM, Pellizas CG. "Thyroid Hormone Action on Innate Immunity." *Front Endocrinol.* 2019;10:350. PMC6558108.
 50. Mooij CF, et al. "The interplay of thyroid hormones and the immune system — where we stand and why we need to know about it." *Eur J Endocrinol.* 2022;186(5):R65-R83. PMC9010816.
 51. Gauna AA, et al. "Therapeutic plasma exchange for treatment of thyrotoxicosis." *J Pers Med.* 2023;13(3):462. PMC10056870.
-52. Stolk RF, et al. "Drug Dosing in Patients Undergoing Therapeutic Plasma Exchange." *Neurocrit Care.* 2020;33:586-598.
+52. Mahmoud SH, et al. "Drug Dosing in Patients Undergoing Therapeutic Plasma Exchange." *Neurocrit Care.* 2021;34:301-311. PMID: 32445106
 53. Villar L, et al. "Guillain-Barre syndrome developing in patient with Graves' disease." *JAFES.* 2021;36(1):99-103. PMC7784229.

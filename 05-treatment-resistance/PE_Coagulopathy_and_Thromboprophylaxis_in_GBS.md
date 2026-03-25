@@ -19,7 +19,7 @@ status: active
 Therapeutic plasma exchange removes all plasma constituents non-selectively, including coagulation factors, immunoglobulins, albumin, and complement. The degree of depletion depends on the replacement fluid used.
 
 **Per-session depletion (1.0 plasma volume exchange with 5% albumin replacement):**
-- Each 1.0 plasma volume exchange depletes coagulation factors by approximately **60-65%** (Schwartz et al., J Clin Apher 2016; AJKD Core Curriculum 2023)
+- Each 1.0 plasma volume exchange depletes coagulation factors by approximately **60-65%** (Schwartz et al., J Clin Apher 2016; PMID: 27322218; AJKD Core Curriculum 2023) *[Level 3 — observationella data]*
 - **Fibrinogen** is the most clinically significant factor depleted: levels decrease **54-80%** post-procedure with albumin replacement (Blasi et al., Vox Sanguinis 2016)
 - Approximately **85% of circulating fibrinogen** is removed when albumin serves as the sole replacement solution (Medscape, Plasmapheresis Technique)
 - **Factor XIII** is also significantly depleted alongside fibrinogen
@@ -90,7 +90,7 @@ D-dimer may be elevated after PE due to fibrinolytic activity and does not neces
 - **Fibrinogen concentrate (RiaSTAP/Haemocomplettan):** 30-60 mg/kg IV. More precise dosing, no thawing required, lower volume, viral-inactivated
 - **FFP:** 10-15 mL/kg. Less effective for isolated hypofibrinogenemia because fibrinogen concentration in FFP is only ~2.5 g/L, but replaces all factors simultaneously
 
-**Evidence-based perspective:** Wodajo et al. (Transfusion, 2024) conducted a prospective study of 275 patients receiving 1406 PE procedures and found that a pre-procedure fibrinogen threshold of **80-100 mg/dL without plasma supplementation** did not increase bleeding risk in patients **not on anticoagulation**. Among patients on anticoagulants, bleeding occurred in 3% (2/62 patients). This suggests that fibrinogen thresholds may be safely lowered to 80 mg/dL in selected patients.
+**Evidence-based perspective:** Wodajo et al. (Transfusion, 2024) conducted a prospective study of 275 patients receiving 1406 PE procedures *[Level 2 — prospektiv studie]* and found that a pre-procedure fibrinogen threshold of **80-100 mg/dL without plasma supplementation** did not increase bleeding risk in patients **not on anticoagulation**. Among patients on anticoagulants, bleeding occurred in 3% (2/62 patients). This suggests that fibrinogen thresholds may be safely lowered to 80 mg/dL in selected patients.
 
 **However:** For GBS patients who are simultaneously receiving LMWH for DVT prophylaxis, the more conservative threshold of **1.0 g/L (100 mg/dL)** should be maintained, as the Wodajo data showed increased bleeding in anticoagulated patients.
 
@@ -149,7 +149,7 @@ GBS patients are at **very high risk** for venous thromboembolism due to immobil
 | Study | DVT Incidence | PE Incidence | Notes |
 |-------|--------------|--------------|-------|
 | Gaber et al. 2002, Clin Rehabil | 7% clinical DVT | 4% had PE (3/5 DVT patients) | 1 fatal PE despite enoxaparin |
-| Bersano et al. 2016, Neurol Sci | 52% DVT (ultrasound-screened) | 15% PE | Despite LMWH prophylaxis |
+| Bersano et al. 2016, Neurol Sci (PMID: 27240174) *[Level 3]* | 52% DVT (ultrasound-screened) | 15% PE | Despite LMWH prophylaxis |
 | Without prophylaxis (historical) | Up to **34%** DVT | Not specified | Before routine prophylaxis era |
 | Rehabilitation cohort (Yoo et al. 2003) | 11.1% DVT (4/36) | -- | During inpatient rehabilitation |
 
@@ -279,7 +279,7 @@ This is the central clinical dilemma: the GBS patient needs PE (which causes coa
 | **aPTT** | <50 seconds | <1.5x upper normal | Stop heparin infusion 4-6h before if applicable |
 
 **Important nuance -- evidence supports more liberal thresholds:**
-- Pilarczyk et al. (2016) analyzed 483 PDTs over 10 years: after multivariate analysis, **only low fibrinogen** retained significance as an independent predictor of bleeding
+- Pilarczyk et al. (2016) *[Level 3 — retrospektiv analys, n=483]* analyzed 483 PDTs over 10 years: after multivariate analysis, **only low fibrinogen** retained significance as an independent predictor of bleeding
 - Percutaneous tracheostomy was safely performed in 42 patients with **severe thrombocytopenia** (mean platelet count 26.4 x 10^9/L), with only 5% major bleeding (Kluge et al., Anesth Analg 2004)
 - A prospective study found no significant difference in bleeding between coagulopathic and non-coagulopathic patients undergoing PDT (9.7% vs 7.3% moderate bleeding) (Indian J Crit Care Med 2020)
 - The TOPIC trial (RCT) failed to show that FFP transfusion to correct INR (>1.5-3.0) prevented bleeding complications in patients undergoing PDT
@@ -435,11 +435,11 @@ This is the most challenging scenario. Management options:
 ## References
 
 ### PE-Induced Coagulopathy
-1. Schwartz J, Padmanabhan A, Aqui N, et al. "Guidelines on the Use of Therapeutic Apheresis in Clinical Practice -- Evidence-Based Approach (ASFA 2016, 7th Special Issue)." *J Clin Apher.* 2016;31(3):149-338.
+1. Schwartz J, Padmanabhan A, Aqui N, et al. "Guidelines on the Use of Therapeutic Apheresis in Clinical Practice -- Evidence-Based Approach (ASFA 2016, 7th Special Issue)." *J Clin Apher.* 2016;31(3):149-338. PMID: 27322218
 2. Connelly-Smith L, Alquist CR, Aqui NA, et al. "Guidelines on the Use of Therapeutic Apheresis in Clinical Practice -- Evidence-Based Approach (ASFA 2023, 9th Special Issue)." *J Clin Apher.* 2023;38(2):77-278.
 3. Orlin JB, Berkman EM. "Partial plasma exchange using albumin replacement: removal and recovery of normal plasma constituents." *Blood.* 1980;56(6):1055-1059.
 4. Blasi A, Beltran J, Pereira A, et al. "Coagulation profile after plasma exchange using albumin as a replacement solution measured by thromboelastometry." *Vox Sanguinis.* 2016;110(1):35-44.
-5. Wodajo A, Usmani A, Engel A, et al. "A lower fibrinogen threshold does not lead to increased bleeding risk in patients receiving therapeutic plasma exchange: A prospective single-center analysis." *Transfusion.* 2024;64(6):1050-1058.
+5. Wodajo A, Usmani A, Engel A, et al. "A lower fibrinogen threshold does not lead to increased bleeding risk in patients receiving therapeutic plasma exchange: A prospective single-center analysis." *Transfusion.* 2024;64(6):1050-1058. PMID: 38721846
 6. Zrimsek M. "On lower fibrinogen threshold for fibrinogen replacement in plasma exchange." *Transfusion.* 2025 (letter).
 7. Jacobs B. "Methodological considerations in assessing bleeding risk during therapeutic plasma exchange." *Transfusion.* 2025 (commentary).
 8. Krieger A, Glueck D, et al. "Fibrinogen reduction and bleeding complications in plasma exchange, immunoadsorption and a combination of the two." *Vox Sanguinis.* 2015;108(1):101-106.
@@ -453,18 +453,18 @@ This is the most challenging scenario. Management options:
 
 ### DVT/PE in GBS
 14. Gaber TA, Kirker S, Jenner JR. "Current practice of prophylactic anticoagulation in Guillain-Barré syndrome." *Clin Rehabil.* 2002;16(2):190-193.
-15. Bersano A, Strazzer S, et al. "Venous thromboembolism in patients with Guillain-Barré syndrome." *Neurol Sci.* 2016;37(9):1541-1545.
+15. Bersano A, Strazzer S, et al. "Venous thromboembolism in patients with Guillain-Barré syndrome." *Neurol Sci.* 2016;37(9):1541-1545. PMID: 27240174
 16. Yoo DS, et al. "Deep venous thrombosis in patients with Guillain-Barré syndrome undergoing inpatient rehabilitation." *Arch Phys Med Rehabil.* 2003;84(Suppl 2):S173.
 17. Bellanti R, Rinaldi S. "Guillain-Barré syndrome: a comprehensive review." *Eur J Neurol.* 2024;31(7):e16365.
 18. Ali MI, et al. "Tracheostomy in Guillain-Barré syndrome." *J Clin Neuromuscul Dis.* 1999;1(2):79-83.
 
 ### GBS Treatment Guidelines
-19. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. "European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barré syndrome." *Eur J Neurol.* 2023;30(12):3646-3674.
-20. Chevret S, Hughes RAC, Annane D. "Plasma exchange for Guillain-Barré syndrome." *Cochrane Database Syst Rev.* 2017;2:CD001798.
+19. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. "European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barré syndrome." *Eur J Neurol.* 2023;30(12):3646-3674. PMID: 37814552
+20. Chevret S, Hughes RAC, Annane D. "Plasma exchange for Guillain-Barré syndrome." *Cochrane Database Syst Rev.* 2017;2:CD001798. PMID: 28241090
 21. Walgaard C, Jacobs BC, et al. "Prediction of prolonged mechanical ventilation in Guillain-Barré syndrome." *Neurocrit Care.* 2017;26(3):416-427.
 
 ### Tracheostomy and Coagulopathy
-22. Pilarczyk K, Haake N, Dudasova M, et al. "Risk Factors for Bleeding Complications after Percutaneous Dilatational Tracheostomy: A Ten-year Institutional Analysis." *Anaesth Intensive Care.* 2016;44(2):227-236.
+22. Pilarczyk K, Haake N, Dudasova M, et al. "Risk Factors for Bleeding Complications after Percutaneous Dilatational Tracheostomy: A Ten-year Institutional Analysis." *Anaesth Intensive Care.* 2016;44(2):227-236. PMID: 27029655
 23. Kluge S, Meyer A, Kühnelt P, et al. "Percutaneous tracheostomy is safe in patients with severe thrombocytopenia." *Anesth Analg.* 2004;99(3):826-828.
 24. Beiderlinden M, Eikermann M, Lehmann N, et al. "The safety of percutaneous tracheostomy in patients with coagulopathy or thrombocytopenia." *Anesth Analg.* 2007;104(5):1029-1033.
 25. Pandian VJ, et al. "Patient selection and preoperative evaluation of percutaneous dilation tracheostomy in the intensive care unit." *J Thorac Dis.* 2021;13(8):5251-5260.

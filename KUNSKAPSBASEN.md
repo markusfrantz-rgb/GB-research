@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~400 peer-reviewed referenser | 13 forskningsdokument | Semantisk sökning
+~450 peer-reviewed referenser | 15 forskningsdokument | Semantisk sökning | Evidensgradering (Level 1-5)
 
 ---
 
@@ -39,7 +39,9 @@ status: active
 | 2026-03-21–24 | 3 plasmaferesesessioner utan kliniskt svar |
 | 2026-03-23 | MR hjärna: **normal** |
 | 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
-| 2026-03-25 | Trakeostomi planerad ~kl 12. PE planeras att återupptas efter trakeostomi (2 sessioner kvar av 5). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
+| 2026-03-25 (fm) | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
+| 2026-03-25 (em) | Sedering lättad — bedömning av spontanandningsförmåga (diafragmafunktion). |
+| 2026-03-26 (plan) | PE session 4 planerad (2 kvar av 5). |
 
 **Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 
@@ -51,7 +53,17 @@ status: active
 
 Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-brist. Databasen samlar tillgänglig evidens kring denna kliniska situation, organiserad för snabb åtkomst.
 
-**Metod:** Systematisk genomgång av PubMed, Cochrane Library, ClinicalTrials.gov och relevanta guidelines (EAN/PNS 2023). Sökperiod: primärt 2012–2026, med inkludering av äldre landmärkesreferenser. All evidens presenteras med källhänvisningar. Databasen använder RAG-teknik (Retrieval-Augmented Generation) för semantisk sökning.
+**Metod:** Systematisk genomgång av PubMed, Cochrane Library, ClinicalTrials.gov och relevanta guidelines (EAN/PNS 2023). Sökperiod: primärt 2012–2026, med inkludering av äldre landmärkesreferenser. All evidens presenteras med källhänvisningar och evidensgradering. Databasen använder RAG-teknik (Retrieval-Augmented Generation) för semantisk sökning.
+
+**Evidensskala:**
+
+| Nivå | Beskrivning | Exempel |
+|------|-------------|---------|
+| *[Level 1]* | Cochrane systematic review, RCT | SID-GBS (Walgaard 2021), PE Cochrane (Chevret 2017), Tanruprubart fas 3 |
+| *[Level 2]* | Prospektiv kohortstudie, fas 2/3-studie | NfL IGOS-kohort (Martin-Aguilar 2024), Imlifidase fas 2 |
+| *[Level 3]* | Retrospektiv analys, fallserie ≥10 pat | TSH som recidivrisk (Wang 2022), DVT-incidens (Bersano 2016) |
+| *[Level 4]* | Fallrapporter, fallserie <10 | Efgartigimod vid GBS (Ripellino 2025) |
+| *[Level 5]* | Expertutlåtande, mekanistisk extrapolering | Timing PE→IVIg, sekventiell terapi |
 
 **Begränsningar:** Sammanställningen är inte en systematisk review i formell mening och har inte genomgått peer review. Den ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.
 
@@ -65,10 +77,10 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 | Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige (mars 2026) |
 |------------|---------|------------|-------------------------------------|
-| **Efgartigimod (Vyvgart)** | Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
-| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
-| **Imlifidase** | Fas 2 (2024): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
-| **Tanruprubart (ANX005)** | Fas 3 positiv: OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
+| **Efgartigimod (Vyvgart)** | *[Level 4]* Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 *[Level 3]* (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
+| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane systematic review för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
+| **Imlifidase** | *[Level 2]* Fas 2 (2024, n=30): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
+| **Tanruprubart (ANX005)** | *[Level 1]* Fas 3 RCT positiv (n=242): OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens — men enbart som monoterapi. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
 
 → [Fullständig genomgång: alla alternativ vid PE-svikt](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)
 → [Sekventiell terapi — timing och interaktioner](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md)
@@ -85,9 +97,9 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 | Parameter | Tröskelvärde | Källa |
 |-----------|-------------|-------|
-| Fibrinogen <1,0 g/L | Pausa PE, ge ersättning | Wodajo et al., Transfusion 2024 |
-| Fibrinogen >1,5 g/L + TPK >50 + INR <1,5 | Säker trakeostomi | Pilarczyk et al., 2016 |
-| DVT-risk vid GBS + LMWH | 52% vid systematisk screening | Bersano et al., 2016 |
+| Fibrinogen <1,0 g/L | Pausa PE, ge ersättning | Wodajo et al., Transfusion 2024 *[Level 2]* |
+| Fibrinogen >1,5 g/L + TPK >50 + INR <1,5 | Säker trakeostomi | Pilarczyk et al., 2016 *[Level 3]* |
+| DVT-risk vid GBS + LMWH | 52% vid systematisk screening | Bersano et al., 2016 (PMID: 27240174) *[Level 3]* |
 
 → [PE-koagulopati: fullständig genomgång](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md)
 
@@ -95,7 +107,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 | Fynd | Källa |
 |------|-------|
-| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (88,9% sensitivitet, 90,4% specificitet) | Wang et al., *Muscle Nerve* 2022 |
+| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (88,9% sensitivitet, 90,4% specificitet) | Wang et al., *Muscle Nerve* 2022 (PMID: 35194803) *[Level 3]* |
 | 70,1% av GBS-patienter har positiva tyreoidea-autoantikroppar | Li et al., *Frontiers Neurol* 2020 |
 | GBS + abnorm sköldkörtelfunktion: längre vårdtid, lägre MRC, högre Hughes-grad | Qiu et al., *Neurol Sci* 2022 |
 | T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
@@ -117,7 +129,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 ### Evidens avseende upprepad IVIg-behandling
 
-SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, n=93, RCT): en andra IVIg-kur vid svår GBS visade ingen signifikant förbättring av utfallet och var associerad med fler allvarliga biverkningar (35% vs 16%). EAN/PNS 2023-riktlinjen avråder explicit från upprepad IVIg-behandling.
+SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, PMID: 33743237, n=93, RCT) *[Level 1]*: en andra IVIg-kur vid svår GBS visade ingen signifikant förbättring av utfallet och var associerad med fler allvarliga biverkningar (35% vs 16%). EAN/PNS 2023-riktlinjen avråder explicit från upprepad IVIg-behandling.
 
 ### Anti-IgA-antikroppar och anafylaxirisk — aktuell evidens
 

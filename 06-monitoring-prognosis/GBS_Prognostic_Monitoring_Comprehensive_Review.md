@@ -18,6 +18,9 @@ status: active
 4. [Monitoring Treatment Response](#4-monitoring-treatment-response)
 5. [ICU Monitoring Protocols](#5-icu-monitoring-protocols-for-gbs)
 6. [Prognostic Factors in Recurrent GBS](#6-prognostic-factors-specific-to-recurrent-gbs)
+7. [Formal Neuroprognostication Guidelines](#7-formal-neuroprognostication-guidelines-busl-2023)
+8. [EGRIS International Validation](#8-egris-international-validation-doets-2022)
+9. [Structured Prognostic Decision Points](#9-structured-prognostic-decision-points)
 
 ---
 
@@ -25,7 +28,7 @@ status: active
 
 ### 1.1 Neurofilament Light Chain (NfL)
 
-NfL is a structural protein of myelinated axons released into blood and CSF upon axonal damage. It has emerged as the most promising prognostic biomarker in GBS, reflecting the degree of acute axonal injury regardless of electrophysiological subtype.
+NfL is a structural protein of myelinated axons released into blood and CSF upon axonal damage. It has emerged as the most promising prognostic biomarker in GBS, reflecting the degree of acute axonal injury regardless of electrophysiological subtype. *[Level 2 — prospektiv kohortstudie, IGOS n=281]*
 
 #### Serum Levels and Reference Values
 
@@ -34,7 +37,7 @@ NfL is a structural protein of myelinated axons released into blood and CSF upon
 - **Elevation:** Median NfL at admission is approximately 5-fold higher than age-matched controls; individual patients range from normal to 100-fold increased levels
 - **Normal reference range in adults (US population):** age-dependent; generally <10-20 pg/mL in those under 60
 
-> **Citation:** Kohle F, et al. Increased serum neurofilament light chain concentration indicates poor outcome in Guillain-Barre syndrome. *J Neuroinflammation*. 2020;17(1):86. PMID: 32183837
+> **Citation:** Altmann P, et al. Increased serum neurofilament light chain concentration indicates poor outcome in Guillain-Barre syndrome. *J Neuroinflammation*. 2020;17(1):86. PMID: 32183837
 
 #### Correlation with Axonal Damage and Disability
 
@@ -45,7 +48,7 @@ NfL is a structural protein of myelinated axons released into blood and CSF upon
 - **Correlation with CSF albumin index:** rs = 0.57 (p = 0.002)
 - High NfL is strongly associated with AMAN subtype and inexcitable nerves
 
-> **Citation:** Kohle F, et al. *J Neuroinflammation*. 2020;17(1):86.
+> **Citation:** Altmann P, et al. *J Neuroinflammation*. 2020;17(1):86.
 
 #### Prognostic Cutoffs and Outcome Prediction
 
@@ -62,7 +65,7 @@ Using the **median of 85.5 pg/mL** as a threshold:
 - Unfavorable discharge (HFS >= 2): OR = 2.71 (95% CI: 1.10-6.67, p = 0.03)
 - ICU transfer: OR = 2.37 (95% CI: 1.14-4.95); AUROC for ICU transfer = 0.78 (95% CI: 0.60-0.96)
 
-> **Citation:** Kohle F, et al. *J Neuroinflammation*. 2020;17(1):86.
+> **Citation:** Altmann P, et al. *J Neuroinflammation*. 2020;17(1):86.
 
 #### Serial Monitoring and Dynamics (IGOS Cohort Data, 2024)
 
@@ -78,7 +81,7 @@ A large 2024 study (n = 281 patients) from the International GBS Outcome Study (
 
 **Clinical implication:** Serial sNfL measurement (at admission, 2 weeks, and 4 weeks) provides increasingly accurate prognostic information. The 2-week and 4-week values are stronger predictors than baseline.
 
-> **Citation:** Martin-Aguilar L, et al. Dynamics and prognostic value of serum neurofilament light chain in Guillain-Barre syndrome. *eBioMedicine*. 2024;102:105072. PMID: 38518653
+> **Citation:** van Tilburg SJ, et al. Dynamics and prognostic value of serum neurofilament light chain in Guillain-Barre syndrome. *eBioMedicine*. 2024;102:105072. PMID: 38518653
 
 #### NfL and Prognostic Models
 
@@ -90,7 +93,7 @@ A 2025 study demonstrated that adding NfL to existing clinical prognostic models
 
 ### 1.2 Anti-Ganglioside Antibodies
 
-Anti-ganglioside antibodies (anti-GM1, anti-GD1a, anti-GQ1b, etc.) are found in 40-60% of GBS patients. Their role in serial monitoring is now better defined.
+Anti-ganglioside antibodies (anti-GM1, anti-GD1a, anti-GQ1b, etc.) are found in 40-60% of GBS patients. Their role in serial monitoring is now better defined. *[Level 3 — retrospektiv kohortstudie]*
 
 #### Prevalence and Subtypes
 
@@ -129,7 +132,7 @@ Anti-ganglioside antibodies (anti-GM1, anti-GD1a, anti-GQ1b, etc.) are found in 
 
 **Clinical recommendation:** Serial anti-ganglioside monitoring (at diagnosis, 2-4 weeks, 3 months, 6 months) has prognostic value. Persistent high anti-GM1 IgG titers (>1,600) predict slow or incomplete recovery.
 
-> **Citation:** Nagaoka A, et al. High and persistent anti-GM1 antibody titers are associated with poor clinical recovery in Guillain-Barre syndrome. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107. PMC10119811
+> **Citation:** Thomma RCM, et al. High and persistent anti-GM1 antibody titers are associated with poor clinical recovery in Guillain-Barre syndrome. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107. PMC10119811
 
 ---
 
@@ -922,6 +925,198 @@ Age is one of the three variables in the mEGOS prognostic score and is consisten
 
 ---
 
+## 7. FORMAL NEUROPROGNOSTICATION GUIDELINES (Busl 2023)
+
+The Neurocritical Care Society published the first GRADE-based systematic review dedicated to neuroprognostication in adult GBS patients. The guideline synthesizes evidence on clinical, electrophysiological, and biomarker predictors and provides a framework for goals-of-care discussions. *[Level 1 — GRADE systematic review]*
+
+### 7.1 Validated Clinical Predictors
+
+The following clinical variables are validated for neuroprognostication in GBS:
+
+- **Age:** older age independently predicts worse functional outcome
+- **Preceding diarrhea:** associated with axonal subtypes (anti-GM1/GD1a) and poorer short-term outcome
+- **GBS disability score at admission:** higher disability at presentation correlates with worse outcome at 6 months
+- **MRC sum score:** the single strongest bedside predictor of both respiratory failure and walking ability at 6 months
+
+### 7.2 mEGOS for Outcome Prediction
+
+The modified Erasmus GBS Outcome Score (mEGOS), calculated at admission and at day 7, predicts inability to walk independently at 6 months:
+
+- **mEGOS at admission:** AUC 0.78 for inability to walk at 6 months
+- **mEGOS at day 7 (week-1 version):** more accurate than admission version due to incorporation of observed disease trajectory
+- mEGOS is recommended by both EAN/PNS 2023 and NCS neuroprognostication guidelines as a standard prognostic tool
+
+### 7.3 Electrophysiology as Prognostic Tool
+
+- **Inexcitable motor nerves in >= 4 nerves:** probability of walking at 6 months drops from 81% to 23%
+- This represents the single most powerful electrophysiological prognostic finding
+- NCS should be performed within the first 2 weeks and repeated at 3-8 weeks for definitive subtyping
+
+### 7.4 Neurofilament Light Chain (NfL) as Prognostic Adjunct
+
+NfL adds meaningful prognostic value beyond clinical models alone:
+
+- **C-statistic improvement when NfL is added to clinical models:** +0.109 (van Tilburg 2024)
+- Serial NfL measurements (admission, week 2, week 4) provide increasing prognostic accuracy
+- Week-4 NfL is the strongest single biomarker predictor (OR 2.79 for inability to walk at 26 weeks)
+
+### 7.5 Goals-of-Care: Avoiding Premature Prognostic Nihilism
+
+The guideline strongly emphasizes:
+
+- **Recovery continues up to 1-2 years** after GBS onset — premature prognostic conclusions are inappropriate
+- Even severely affected patients (ventilated, axonal subtype) have meaningful recovery rates
+- Goals-of-care discussions should be **informed but cautious**, presenting realistic expectations while acknowledging the potential for late improvement
+- **Prognostic nihilism** — concluding that recovery is impossible based on early severity — should be actively avoided
+- Family/patient communication should be staged: early discussions focus on short-term trajectory, with long-term prognosis refined over weeks to months
+
+> **Citation:** Busl KM, et al. Guidelines for Neuroprognostication in Adults with Guillain-Barré Syndrome. *Neurocrit Care*. 2023;38:791-812. PMID: 36964442
+
+---
+
+## 8. EGRIS INTERNATIONAL VALIDATION (Doets 2022)
+
+The Erasmus GBS Respiratory Insufficiency Score (EGRIS) was originally developed in a Dutch cohort. A 2022 study validated EGRIS in the large international IGOS cohort (n=1500), confirming its predictive value for mechanical ventilation and providing recalibrated risk estimates for European/North American populations. *[Level 2 — prospektiv kohortstudie, IGOS n=1500]*
+
+### 8.1 International Validation Performance
+
+- **Original EGRIS AUC:** 0.84 (Dutch derivation cohort)
+- **International validation AUC:** 0.86 (95% CI 0.80-0.91)
+- The original EGRIS slightly **overestimates MV risk** in European/North American patients
+- A **recalibrated EGRIS-Eu/NA** was developed that provides more accurate estimates for this population
+
+### 8.2 EGRIS Components
+
+EGRIS can be calculated at admission using three bedside variables — no additional tests are needed:
+
+| Variable | Category | Points |
+|----------|----------|--------|
+| **Days between onset and admission** | > 7 days | 0 |
+| | 4-7 days | 1 |
+| | <= 3 days | 2 |
+| **Facial and/or bulbar weakness** | Absent | 0 |
+| | Present | 1 |
+| **MRC sum score at admission** | 51-60 | 0 |
+| | 41-50 | 1 |
+| | 31-40 | 2 |
+| | 21-30 | 3 |
+| | <= 20 | 4 |
+
+**Total score range:** 0-7
+
+### 8.3 Recalibrated EGRIS Risk Stratification (Eu/NA)
+
+| EGRIS Score | Risk Category | Estimated MV Risk |
+|-------------|---------------|-------------------|
+| 0-2 | Low | ~4% |
+| 3-4 | Intermediate | ~25% |
+| 5-7 | High | ~65% |
+
+### 8.4 Clinical Implications
+
+- EGRIS should be calculated for **every GBS patient at admission**
+- Score >= 5: high risk — transfer to ICU for close respiratory monitoring
+- The recalibrated version (EGRIS-Eu/NA) is preferred for European and North American populations
+- EGRIS complements mEGOS: EGRIS predicts **respiratory failure**, mEGOS predicts **functional outcome**
+
+> **Citation:** Doets AY, et al. International Validation of the Erasmus Guillain-Barré Syndrome Respiratory Insufficiency Score. *Ann Neurol*. 2022;91(1):105-116. PMID: 35106830
+
+---
+
+## 9. STRUCTURED PROGNOSTIC DECISION POINTS
+
+This section provides a practical timeline with if/then logic for the treating team, integrating biomarkers, electrophysiology, and clinical scales into actionable decision points.
+
+### 9.1 Day 7 (from symptom onset)
+
+```
+ASSESSMENTS:
+- Calculate mEGOS (week-1 version) — more accurate than admission mEGOS
+- Assess deltoid MRC bilaterally
+- Request NCS/EMG (first study, if not already done)
+- First NfL measurement (if not done at admission)
+- EGRIS score for respiratory risk (if not calculated at admission)
+
+DECISION LOGIC:
+  IF deltoid MRC ≤2 bilaterally
+    → 95% probability of needing >14 days mechanical ventilation (Walgaard 2017)
+    → Plan tracheostomy if not already done
+  IF EGRIS ≥5 and patient not yet in ICU
+    → Transfer to ICU immediately
+```
+
+### 9.2 Day 14
+
+```
+ASSESSMENTS:
+- Second NfL measurement — KEY decision data point
+- NCS results: subtype classification
+- First meaningful clinical assessment post-tracheostomy (if applicable)
+- Assess for TRF (treatment-related fluctuation)
+
+DECISION LOGIC:
+  NfL trajectory:
+    IF NfL rising: ongoing axonal damage → consider treatment escalation
+    IF NfL stable/falling: biological stabilization → continue current management
+
+  NCS results:
+    IF inexcitable nerves ≥4 motor
+      → Walking at 6 months drops to 23%
+      → Inform family: prolonged rehabilitation expected
+      → Begin planning for long-term rehabilitation facility
+    IF demyelinating pattern (AIDP)
+      → Better prognosis — allow time for remyelination
+      → Recovery may continue for months
+
+  TRF assessment:
+    IF worsening after initial improvement/stabilization
+      → Repeat IVIg or PE may be considered
+    IF no improvement and ≥3 fluctuations
+      → Consider reclassification as A-CIDP
+```
+
+### 9.3 Day 28 (4 weeks)
+
+```
+ASSESSMENTS:
+- Third NfL (strongest prognostic value — OR 2.79 for inability to walk at 26 weeks)
+- mEGOS formal outcome prediction
+- Repeat NCS for definitive subtyping
+- Goals-of-care discussion with family, informed by ALL accumulated data
+
+DECISION LOGIC:
+  IF NfL at week 4 in highest quartile
+    → Poor prognosis for independent walking at 6 months
+    → Intensive rehabilitation planning
+  IF NCS shows progressive axonal degeneration (falling CMAPs)
+    → Prolonged recovery expected (months to years)
+  IF NCS shows improving conduction block
+    → Favorable sign — demyelination recovering
+
+  Weaning assessment (for ventilated patients):
+    → Cross-reference: Ventilator_Weaning_GBS_Protocol.md
+    → FVC > 15 mL/kg may suggest readiness for weaning trials
+```
+
+### 9.4 Mortality Stratification
+
+Understanding mortality risk by clinical status helps frame goals-of-care discussions:
+
+| Clinical Status | Estimated Mortality | Source |
+|----------------|--------------------:|--------|
+| Non-ventilated GBS | 1-2% | Chakraborty 2020 |
+| Mechanically ventilated, no dysautonomia | 2-4% | Chakraborty 2020 |
+| Mechanically ventilated + dysautonomia | ~6% | Chakraborty 2020, PMID 31297663 |
+| Overall ventilated GBS (large cohort) | 9.4% | Thille 2025, PMID 41114833, n=886 |
+
+**Key interpretation:** Even in the highest-risk group (ventilated + dysautonomia), >90% of patients survive. This reinforces the message from Section 7: **avoid premature prognostic nihilism**.
+
+> **Citation:** Walgaard C, et al. Early recognition of poor prognosis in Guillain-Barré syndrome. *Neurology*. 2017;89(3):228-236. PMID: 27538676
+> **Citation:** Chakraborty T, et al. Guillain-Barré syndrome in the ICU. *Neurocrit Care*. 2020;32:708-722. PMID: 31297663
+> **Citation:** Thille AW, et al. Outcomes of mechanically ventilated patients with Guillain-Barré syndrome. *Crit Care Med*. 2025. PMID: 41114833
+
+---
+
 ## SUMMARY: PRACTICAL MONITORING CHECKLIST FOR ACUTE GBS
 
 ### On Admission (Day 1)
@@ -983,13 +1178,13 @@ Age is one of the three variables in the mEGOS prognostic score and is consisten
 
 ## KEY REFERENCES
 
-1. Kohle F, et al. Increased serum neurofilament light chain concentration indicates poor outcome in Guillain-Barre syndrome. *J Neuroinflammation*. 2020;17(1):86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32183837/)
+1. Altmann P, et al. Increased serum neurofilament light chain concentration indicates poor outcome in Guillain-Barre syndrome. *J Neuroinflammation*. 2020;17(1):86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32183837/)
 
-2. Martin-Aguilar L, et al. Dynamics and prognostic value of serum neurofilament light chain in Guillain-Barre syndrome. *eBioMedicine*. 2024;102:105072. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38518653/)
+2. van Tilburg SJ, et al. Dynamics and prognostic value of serum neurofilament light chain in Guillain-Barre syndrome. *eBioMedicine*. 2024;102:105072. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38518653/)
 
 3. Vermeij FH, et al. Neurofilament light chain improves clinical prognostic models for Guillain-Barre syndrome. *Neurology*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40316442/)
 
-4. Nagaoka A, et al. High and persistent anti-GM1 antibody titers are associated with poor clinical recovery in Guillain-Barre syndrome. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10119811/)
+4. Thomma RCM, et al. High and persistent anti-GM1 antibody titers are associated with poor clinical recovery in Guillain-Barre syndrome. *Neurol Neuroimmunol Neuroinflamm*. 2023;10(3):e200107. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10119811/)
 
 5. Kleyweg RP, et al. Serum C3 complement levels predict prognosis and monitor disease activity in Guillain-Barre syndrome. *J Neurol Sci*. 2023;444:120510. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36462224/)
 
@@ -1036,3 +1231,13 @@ Age is one of the three variables in the mEGOS prognostic score and is consisten
 26. Ripellino P, et al. Expanding our understanding of Guillain-Barre syndrome: recent advances and clinical implications. *Eur J Immunol*. 2024;54:e202250336.
 
 27. NfL meta-analysis 2025: Neurofilament light chain levels as diagnostic and prognostic biomarkers in Guillain-Barre syndrome: an updated systematic review and meta-analysis. *Neurol Ther*. 2025. [Link](https://link.springer.com/article/10.1007/s40120-025-00830-x)
+
+28. Busl KM, et al. Guidelines for Neuroprognostication in Adults with Guillain-Barré Syndrome. *Neurocrit Care*. 2023;38:791-812. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36964442/)
+
+29. Doets AY, et al. International Validation of the Erasmus Guillain-Barré Syndrome Respiratory Insufficiency Score. *Ann Neurol*. 2022;91(1):105-116. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35106830/)
+
+30. Walgaard C, et al. Early recognition of poor prognosis in Guillain-Barré syndrome. *Neurology*. 2017;89(3):228-236. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27538676/)
+
+31. Chakraborty T, et al. Guillain-Barré syndrome in the ICU. *Neurocrit Care*. 2020;32:708-722. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31297663/)
+
+32. Thille AW, et al. Outcomes of mechanically ventilated patients with Guillain-Barré syndrome. *Crit Care Med*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41114833/)

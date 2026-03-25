@@ -29,7 +29,7 @@ status: active
 
 **Yes, IVIg can be given after PE, but the evidence for BENEFIT is weak.**
 
-The 1997 Plasma Exchange/Sandoglobulin GBS Trial (n=379) randomized patients to PE alone, IVIg alone, or PE followed immediately by IVIg. The combination arm showed **no additional benefit** over either treatment alone. This finding led the 2023 EAN/PNS guideline to recommend **against** planned sequential PE-then-IVIg as a treatment strategy.
+The 1997 Plasma Exchange/Sandoglobulin GBS Trial (n=379) *[Level 1]* randomized patients to PE alone, IVIg alone, or PE followed immediately by IVIg. The combination arm showed **no additional benefit** over either treatment alone. This finding led the 2023 EAN/PNS guideline to recommend **against** planned sequential PE-then-IVIg as a treatment strategy.
 
 **However, there is a critical distinction that must be understood:**
 
@@ -46,7 +46,7 @@ The 1997 Plasma Exchange/Sandoglobulin GBS Trial (n=379) randomized patients to 
 
 ### 1.2 Optimal Timing: How Long After Last PE Session Before Starting IVIg?
 
-**Minimum 48 hours after the last PE session is the widely cited practical recommendation.**
+**Minimum 48 hours after the last PE session is the widely cited practical recommendation.** *[Level 5 — pharmacokinetic reasoning, no direct RCT]*
 
 Rationale:
 - PE removes plasma proteins non-selectively from the intravascular space
@@ -77,7 +77,7 @@ Key pharmacokinetic data:
 
 **No, the SID-GBS trial findings do NOT directly apply to the PE-to-IVIg switch scenario.**
 
-The SID-GBS trial (Walgaard et al., *Lancet Neurology* 2021) demonstrated that a **second course of IVIg after an initial IVIg course** provided no benefit and increased serious adverse events in poor-prognosis GBS patients. Critically:
+The SID-GBS trial (Walgaard et al., *Lancet Neurology* 2021; PMID: 33743237) *[Level 1 — RCT]* demonstrated that a **second course of IVIg after an initial IVIg course** provided no benefit and increased serious adverse events in poor-prognosis GBS patients. Critically:
 
 - **SID-GBS studied:** IVIg (2 g/kg) --> Second IVIg (2 g/kg) vs. placebo
 - **The PE-to-IVIg switch is a fundamentally different scenario:** PE (failed) --> IVIg (first exposure to IVIg)
@@ -145,7 +145,7 @@ This mechanism is directly relevant to antibody-mediated GBS subtypes where anti
 
 **Timing:**
 - A formal PLEX-to-efgartigimod study protocol (multicentre, three-arm, open-label, 48-week study in generalized MG) is currently being conducted, investigating sequential PLEX followed by efgartigimod
-- Based on available evidence, efgartigimod can be started **as early as 24-48 hours after the last PE session**
+- Based on available evidence, efgartigimod can be started **as early as 24-48 hours after the last PE session** *[Level 5 — mechanistic reasoning]*
 - There is no pharmacological reason to wait longer -- efgartigimod works via a completely different mechanism than PE
 - Preclinical studies showed efgartigimod effectively reduced IgG when given **3 days** post-IVIg (and would work even sooner post-PE, as there is no competing IVIg to consider)
 
@@ -208,7 +208,7 @@ Arguments for including IVIg in the sequence:
 
 **All published GBS case reports to date (2024-2026):**
 
-#### Case 1: Ripellino et al., 2025 (*European Journal of Neurology*)
+#### Case 1: Ripellino et al., 2025 (*European Journal of Neurology*) *[Level 4 — case report]*
 - **Patient:** 60-year-old woman, fulminant AIDP
 - **Prior treatment:** 5 PE sessions + full IVIg course (2 g/kg) -- both FAILED
 - **Status at efgartigimod start:** Severely tetraparetic, bedridden, mechanically ventilated, minimal MRC improvement. Day 30 post-admission.
@@ -244,7 +244,7 @@ Arguments for including IVIg in the sequence:
 
 > **Citation:** Deng M, Kong Z, Wang Y, Wang X, Li T. Efgartigimod in the treatment of Guillain-Barre syndrome: case report. *Front Immunol*. 2025;16:1586663. DOI: 10.3389/fimmu.2025.1586663
 
-#### Case 5: Cheng et al., 2026 (*Scientific Reports*)
+#### Case 5: Cheng et al., 2026 (*Scientific Reports*) *[Level 3 — retrospektiv analys, n=17]*
 - **Study design:** Retrospective analysis of 17 GBS patients (5 efgartigimod, 8 IVIg, 4 PE)
 - **Key results:**
   - Efgartigimod: 1-point GBS-DS improvement in median **4.0 days** vs IVIg 7.0 days vs PE 11.5 days (p=0.033)
@@ -328,7 +328,7 @@ The Phase 2 15-HMedIdeS-09 trial used imlifidase + IVIg in combination:
 - Followed by standard IVIg (0.4 g/kg/day x 5 days)
 - The rationale: imlifidase rapidly clears pathogenic IgG autoantibodies, then IVIg provides immunomodulation
 
-**Results (n=30, open-label, severe GBS patients):**
+**Results (n=30, open-label, severe GBS patients):** *[Level 2 — prospektiv fas 2-studie]*
 - 37% independently walking by Week 1
 - Mean MRC sum score improvement of 10.7 points by Week 1
 - Median time to independently walk: **16 days**
@@ -400,7 +400,7 @@ Tanruprubart (ANX005, Annexon Biosciences) is a humanized monoclonal antibody th
 
 ### 4.3 Phase 3 Trial Results
 
-**NCT04701164 (Phase 3, double-blind, placebo-controlled, n=242):**
+**NCT04701164 (Phase 3, double-blind, placebo-controlled, n=242):** *[Level 1 — RCT, fas 3, men som monoterapi utan PE/IVIg]*
 - Patients randomized 1:1:1 to tanruprubart 30 mg/kg, 75 mg/kg, or placebo
 - **Primary endpoint met** for 30 mg/kg: OR 2.4 (95% CI 1.29-4.50; p=0.0058) for improved GBS-DS at Week 8
 - Patients walked independently **31 days earlier** (p=0.0211)
