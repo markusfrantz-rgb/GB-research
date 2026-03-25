@@ -24,10 +24,10 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv sömnapné |
 | | Ospecificerad födoämnesallergi, pollenallergi |
-| **Läkemedel (hemma)** | Levotyroxin (sköldkörteln) |
-| | Gamanorm SCIG (IgA-brist) |
+| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) |
 | | Inhalator + nässpray (sömnapné, dagligen) |
 | | Antihistamin året runt (dubbel dos jan/feb, pollen) |
+| **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2–3 års behandling |
 
 **Observation:** Patienten uppvisar tre autoimmuna tillstånd (GBS, selektiv IgA-brist, Hashimotos tyreoidit) som samtliga är kopplade till HLA-B8/DR3/DQ2-haplotypen (ancestral haplotype 8.1). Klassificeras som Multiple Autoimmune Syndrome (MAS) typ 3 (Cojocaru et al., 2010).
 
@@ -64,7 +64,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige (mars 2026) |
 |------------|---------|------------|-------------------------------------|
 | **Efgartigimod (Vyvgart)** | Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
-| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten tolererar Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
+| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
 | **Imlifidase** | Fas 2 (2024): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
 | **Tanruprubart (ANX005)** | Fas 3 positiv: OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
 
@@ -119,7 +119,7 @@ SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, n=93, RCT): en andra 
 
 ### Anti-IgA-antikroppar och anafylaxirisk — aktuell evidens
 
-Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxirisken vid dokumenterade anti-IgA-antikroppar varierar beroende på antikroppsisotyp. IgE-anti-IgA är starkast associerad med anafylaxi, medan IgG-anti-IgA (vanligare) sällan ger svåra reaktioner. Patientens tolerans av Gamanorm SCIG (IgA ≤82,5 µg/mL) kan vara relevant vid bedömning av IVIg-tolerans med produkter med lägre IgA-innehåll (Privigen ≤25 µg/mL, Gammagard S/D ≤1 µg/mL).
+Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxirisken vid dokumenterade anti-IgA-antikroppar varierar beroende på antikroppsisotyp. IgE-anti-IgA är starkast associerad med anafylaxi, medan IgG-anti-IgA (vanligare) sällan ger svåra reaktioner. Patienten har tidigare tolererat Gamanorm SCIG (IgA ≤82,5 µg/mL) under ca 2–3 år utan reaktion. Denna tidigare tolerans kan vara relevant vid bedömning av IVIg-tolerans med produkter med lägre IgA-innehåll (Privigen ≤25 µg/mL, Gammagard S/D ≤1 µg/mL), men avsaknaden av aktuell exponering innebär att anti-IgA-antikroppsstatus bör verifieras.
 
 ---
 

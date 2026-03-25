@@ -23,10 +23,10 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv somnapne |
 | | Ospecificerad fodoamnesallergi, pollenallergi |
-| **Lakemedel (hemma)** | Levotyroxin (skoldkorteln) |
-| | Gamanorm SCIG (IgA-brist) |
+| **Lakemedel (aktuella)** | Levotyroxin (skoldkorteln) |
 | | Inhalator + nasspray (somnapne, dagligen) |
 | | Antihistamin aret runt (dubbel dos jan/feb, pollen) |
+| **Tidigare lakemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2-3 ars behandling |
 
 ### Aktuellt forlopp
 
@@ -79,7 +79,7 @@ Tre alternativ med evidensunderlag:
 
 - **Efgartigimod (Vyvgart)** — EMA-godkant for MG (2022) och CIDP (2025) i Sverige. Off-label vid GBS. Fallrapporter visar forbattring inom timmar vid PE/IVIg-refraktar ventilatorsberoende GBS (Ripellino et al., Eur J Neurol 2025). Dosering: 10 mg/kg IV 1x/vecka i 4 veckor. *Kringgår IgA-problemet helt — ingen immunglobulinkomponent.*
 
-- **IgA-depleterat IVIg** — Privigen (IgA <=25 ug/mL) ar lagst-IgA-produkt tillganglig i Sverige. Madeleine tolererar Gamanorm (IgA <=82.5 ug/mL) vilket talar for tolerans. Administreras med premedicinering under IVA-overvakning med adrenalin i beredskap.
+- **IgA-depleterat IVIg** — Privigen (IgA <=25 ug/mL) ar lagst-IgA-produkt tillganglig i Sverige. Madeleine har tidigare tolererat Gamanorm (IgA <=82.5 ug/mL) vilket talar for tolerans. Administreras med premedicinering under IVA-overvakning med adrenalin i beredskap.
 
 - **Imlifidase** — Hansa Biopharma, Lund. Fas 2: patienter gick sjalvstandigt 6 veckor tidigare. Klyver specifikt IgG, *paverkar inte koagulationsfaktorer* (fordel vid koagulopati). Kontakt: medinfo@hansabiopharma.com, +46 46 16 56 70.
 
@@ -143,7 +143,7 @@ Fortsatter antihistamin? Kan ha interaktion med sedering. Somnapnen ar relevant 
 | Alternativ | Evidens | IgA-sakert | Tillganglighet Sverige mars 2026 |
 |------------|---------|------------|-----------------------------------|
 | **Efgartigimod** | Fallrapporter: forbattring inom timmar-dagar vid refraktar GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 (Sci Rep 2026). Fas 2 pagar. | Ja (Fc-fragment, ingen Ig) | **Ja** — EMA-godkant MG/CIDP, off-label mojligt |
-| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 for IVIg vid GBS. Privigen IgA <=25 ug/mL. Patient tolererar Gamanorm (IgA <=82.5). | Lag risk | **Ja** — rutinprodukt |
+| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 for IVIg vid GBS. Privigen IgA <=25 ug/mL. Patient har tidigare tolererat Gamanorm (IgA <=82.5). | Lag risk | **Ja** — rutinprodukt |
 | **Imlifidase** | Fas 2 (2024): 6 veckor tidigare gangformaga. Klyver IgG specifikt, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa, Lund |
 | **Tanruprubart** | Fas 3 positiv: OR 2.4, 31 dagar tidigare gangformaga. Bast evidens. | Ja (mAb anti-C1q) | **Nej** — EMA MAA under granskning, forvantad 2026/2027 |
 

@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-25
+> Senast uppdaterad: 2026-03-25 (eftermiddag)
 
 ## Fas: Live / Aktiv forskning
 
@@ -44,13 +44,19 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 Markus fru Madeleine:
 - 53 år, recidiverande GBS (första episod vid 16 års ålder, ~37 år sedan)
-- Känd selektiv IgA-brist, tolererat Gamanorm (SCIG)
+- Känd selektiv IgA-brist, tidigare behandlad med Gamanorm SCIG (~2020–2023, utsatt ca 2023)
 - Levotyroxin för sköldkörteln (troligen Hashimotos tyreoidit — autoimmun hypotyreos)
 - **Autoimmunt kluster:** GBS + selektiv IgA-brist + autoimmun sköldkörtelsjukdom (HLA-8.1-haplotyp-association)
 - Insjuknade fredag 2026-03-21, IVA/respirator inom timmar
 - Nära total förlamning
 - Fått 3 plasmaferesesessioner utan förväntat svar
 - Koagulopati utvecklad → trakeostomi uppskjuten
+- MR hjärna 2026-03-23: normal
+- CT huvud 2026-03-24 kväll: utförd pga anisokori (V > H) + koagulopati — inväntar svar
+- Djupt sederad. Kommunikation vid lättare sedering: svag höger ögonblinkning (ja), svag höger axel (nej)
+- Obstruktiv sömnapné (hemmabehandling: inhalator + nässpray)
+- Ospecificerad födoämnesallergi, pollenallergi (antihistamin året runt)
+- **Diagnostiska luckor per 2026-03-25:** Elektrofysiologi (NCS/EMG), gangliosid-antikroppar, anti-IgA-antikroppar, NfL, TSH/fT4/fT3 — ej utförda/skickade
 - Status per 2026-03-25: avvaktar vidare behandlingsbeslut
 
 ## Möjliga nästa steg
@@ -62,6 +68,11 @@ Markus fru Madeleine:
 - [ ] Tanruprubart EMA-status — bevaka
 - [ ] Nya fallrapporter GBS + IgA-brist (löpande PubMed-bevakning)
 - [ ] CIDP-differentiering: fördjupa diagnostiska biomarkörer
+- [x] Sekventiell terapi: PE→IVIg→efgartigimod/imlifidase timing och interaktioner
+- [x] Hashimotos + IgA-brist + GBS autoimmunt kluster (TSH-recidivdata, levotyroxin IVA)
+- [x] Prognostisk monitorering: NfL, mEGOS, EGRIS, NCS, IVA-protokoll
+- [x] Case-baserad landningssida med patientprofil och evidenspresentation
+- [x] Utskrivbart kliniskt sammanfattningsdokument (Case_Madeleine_Fragor_och_Fynd.md)
 - [x] PE-koagulopati: fibrinogendepletion, monitorering, ersättningsprotokoll
 - [x] DVT/PE-profylax vid immobiliserad GBS (incidens, LMWH, IPC)
 - [x] Trakeostomi-timing vid koagulopati (tröskelvärden, korrektion)
