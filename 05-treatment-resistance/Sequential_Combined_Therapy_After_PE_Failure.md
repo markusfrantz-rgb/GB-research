@@ -578,7 +578,58 @@ When IgG levels drop below 2 g/L (from PE, efgartigimod, or imlifidase):
 
 ---
 
-## 7. REFERENCES
+## 7. EFGARTIGIMOD OFF-LABEL I SVERIGE — PRAKTISK TILLGÅNGSVÄG
+
+### 7.1 Regulatorisk väg
+
+Efgartigimod (Vyvgart) har EU-marknadsgodkännande för generaliserad myastenia gravis (aug 2022) och CIDP (2024/2025). För GBS är användningen **off-label** men kräver **ingen särskild myndighetsgodkännande** — behandlande läkare har rätt att förskriva off-label under eget ansvar (Patientsäkerhetslagen 2010:659, HSLF-FS 2017:37).
+
+**Krav för off-label förskrivning:**
+- Dokumentera klinisk motivering i journal
+- Informerat samtycke (patient eller närstående)
+- Inga godkända alternativ tillräckliga (PE-refraktär + IgA-brist)
+
+### 7.2 Vem beslutar?
+
+| Aktör | Roll |
+|-------|------|
+| **Behandlande neurolog** | Förskriver off-label, bär medikolegalt ansvar |
+| **Verksamhetschef** | Godkänner kostnad (akut undantag vid livshotande tillstånd) |
+| **Sjukhusapotek** | Hanterar beställning, kontrollerar lagerstatus |
+
+### 7.3 Tidsram
+
+| Steg | Tid |
+|------|-----|
+| Kliniskt beslut + journal | Samma dag |
+| Kontakta sjukhusapotek — kolla lager | 1–2 timmar |
+| **Om i lager** (universitetsjukhus, MG-patienter) | **Samma dag eller nästa dag** |
+| **Om ej i lager** — akutbeställning | **1–3 arbetsdagar** |
+| Named patient-förfrågan till argenx | 3–7 dagar (kan snabbas) |
+
+### 7.4 Kontaktuppgifter argenx
+
+| Kanal | Detaljer |
+|-------|---------|
+| **Medical Information (EU)** | medicalinformation@argenx.com |
+| **Ämnesrad** | "Named Patient / Compassionate Use Request — Sweden" |
+| **Telefon (HQ Belgien)** | +32 (0)9 262 00 40 |
+| **Webb** | www.argenx.com/contact |
+
+### 7.5 Dosering och monitorering vid GBS
+
+| Parameter | Detaljer |
+|-----------|---------|
+| **Dos** | 10 mg/kg IV per infusion |
+| **Schema** | 1 gång/vecka × 4 (dag 1, 8, 15, 22) |
+| **Infusionstid** | 60 minuter |
+| **Kostnad** | Ca 240 000–400 000 SEK per 4-dosersregim |
+
+**Labmonitorering:** Total-IgG före varje infusion (håll om <2 g/L), IgA/IgM baseline (ej påverkade av FcRn-blockad — fördel vid IgA-brist), CRP/prokalcitonin (infektionsövervakning), leverfunktion baseline + efter cykel.
+
+---
+
+## 8. REFERENCES
 
 ### Primary Sources Cited
 
