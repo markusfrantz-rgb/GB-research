@@ -51,7 +51,7 @@ status: active
 
 ---
 
-## Fragor att diskutera med behandlande lakare
+## Oppna kliniska fragestallningar
 
 ### Till neurologen
 
