@@ -44,7 +44,6 @@
 | 20 | **Doets AY et al.** EGRIS International Validation (IGOS, n=1500). *Ann Neurol* 2022 | 35106830 | Level 2 | Text | `Doets_2022_EGRIS_validation_IGOS_FULLTEXT.txt` (37 KB) |
 | 21 | **Nguyen TN et al.** Factors predicting extubation success in GBS. NIF/FVC-trösklar. *Neurocrit Care* 2006 | 17290095 | Level 3 | Text | `Nguyen_2006_extubation_predictors_GBS_FULLTEXT.txt` (4 KB) |
 | 22 | **Cheng MCF et al.** Prolonged Ventilatory Support for GBS (76% weaned). *Neurol Clin Pract* 2021 | 33968468 | Level 3 | Text | `Cheng_2021_prolonged_ventilation_weaning_GBS_FULLTEXT.txt` (2 KB, sammanfattning) |
-
 | 23 | **Walgaard C et al.** Second IVIg dose in GBS with poor prognosis (SID-GBS, RCT n=93). *Lancet Neurol* 2021;20:275-283 | 33743237 | Level 1 | PDF+text | `Walgaard_2021_SID-GBS_second_IVIg_PMID33743237.pdf` · `…_FULLTEXT.txt` |
 | 24 | **Wang S et al.** Serum TSH is independent risk factor of recurrent GBS (n=320). TSH >3.87 μIU/mL. *Muscle Nerve* 2022;65(6):688-692 | 35342963 | Level 3 | PDF+text | `Wang_2022_TSH_recurrent_GBS_PMID35342963.pdf` · `…_FULLTEXT.txt` |
 | 25 | **Mahmoud SH et al.** Drug Dosing in Patients Undergoing Therapeutic PE. Review av läkemedelsavlägsnande vid TPE. *Neurocrit Care* 2021;34:301-311 | 32445106 | Review | PDF+text | `Mahmoud_2021_drug_dosing_PE_PMID32445106.pdf` · `…_FULLTEXT.txt` |
@@ -59,7 +58,7 @@
 
 | # | Artikel | Status | Källa |
 |---|---------|--------|-------|
-| 24 | **Hansa Biopharma** Imlifidase fas 2 GBS (15-HMedIdeS-09, n=30) | Konferensdata PNS 2025. Journal-publikation planerad H2 2025. | [Pressrelease dec 2024](https://www.hansabiopharma.com/media/press-releases/2024/) · [PNS 2025](https://www.hansabiopharma.com/media/press-releases/2025/) |
+| 30 | **Hansa Biopharma** Imlifidase fas 2 GBS (15-HMedIdeS-09, n=30) | Konferensdata PNS 2025. Journal-publikation planerad H2 2025. | [Pressrelease dec 2024](https://www.hansabiopharma.com/media/press-releases/2024/) · [PNS 2025](https://www.hansabiopharma.com/media/press-releases/2025/) |
 
 ---
 
