@@ -7,7 +7,7 @@ status: active
 # Hashimoto's Thyroiditis + Selective IgA Deficiency + Guillain-Barre Syndrome: The Autoimmune Cluster
 
 **Date compiled:** March 25, 2026
-**Clinical context:** 53-year-old woman with recurrent GBS, selective IgA deficiency, and Hashimoto's thyroiditis on levothyroxine
+**Clinical context:** 52-year-old woman with recurrent GBS, selective IgA deficiency, and Hashimoto's thyroiditis on levothyroxine
 **Scope:** Evidence-based review of the triple autoimmune cluster, treatment implications, and ICU management of thyroid disease during GBS
 
 ---
@@ -444,7 +444,7 @@ This represents a **biologically plausible contributing trigger** that warrants:
 
 ## 8. Clinical Recommendations Summary
 
-### 7.1 Immediate ICU Management (During Acute GBS)
+### 8.1 Immediate ICU Management (During Acute GBS)
 
 1. **Continue levothyroxine** — never interrupt.
 2. **Route:** Enteral via NG tube (liquid formulation preferred) with 1-hour feeding hold before and after. If enteral impossible: IV levothyroxine at 50-75% of oral dose.
@@ -453,13 +453,13 @@ This represents a **biologically plausible contributing trigger** that warrants:
 5. **PE note:** If plasma exchange is used, monitor thyroid function after each cycle — PE removes levothyroxine and thyroid hormones from circulation.
 6. **Myxedema prevention:** If levothyroxine has been missed for >3-5 days, consider IV loading dose after excluding adrenal insufficiency.
 
-### 7.2 Optimizing Recovery
+### 8.2 Optimizing Recovery
 
 1. **Target euthyroid state** with TSH 0.5-2.5 mIU/L for optimal peripheral nerve regeneration.
 2. **Monitor thyroid function more frequently** during recovery (monthly initially, then every 3 months).
 3. **Ensure adequate T3 availability:** If FT3 is persistently low after acute illness resolution despite normal TSH, discuss T3 supplementation with endocrinology (emerging evidence for nerve repair benefits).
 
-### 7.3 Long-Term Autoimmune Surveillance
+### 8.3 Long-Term Autoimmune Surveillance
 
 1. **Screen for celiac disease** with IgG-based tests (critical given IgA deficiency).
 2. **Exclude Addison's disease** (morning cortisol, anti-21-hydroxylase).
@@ -467,7 +467,7 @@ This represents a **biologically plausible contributing trigger** that warrants:
 4. **Annual autoimmune panel:** TSH, FT4, fasting glucose, B12, immunoglobulin levels, ANA.
 5. **TSH monitoring as GBS recurrence marker:** TSH > 3.87 uIU/mL is an independent risk factor for RGBS.
 
-### 7.4 Treatment Decisions
+### 8.4 Treatment Decisions
 
 1. **IVIg:** Use IgA-depleted products only; monitor for anaphylaxis.
 2. **Plasma exchange:** Good alternative avoiding IgA risk; monitor thyroid function after each session.
@@ -476,7 +476,7 @@ This represents a **biologically plausible contributing trigger** that warrants:
 
 ---
 
-## 8. Full Reference List
+## 9. Full Reference List
 
 ### Hashimoto's + IgA Deficiency
 1. Jorgensen CS, et al. "Selective IgA Deficiency in Autoimmune Diseases." *Mol Med.* 2011;17(7-8):644-651. PMC3321806.

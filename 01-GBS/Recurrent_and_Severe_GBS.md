@@ -724,9 +724,10 @@ A nationwide observational study found:
 - 59% (13/22) used noninvasive ventilation (NIV) as a bridge therapy during weaning
 - 14% (3/22) required long-term nocturnal NIV post-discharge
 
-**Recent multicenter study (Maltese et al., 2025):**
-- GBS patients were more likely to experience prolonged weaning than myasthenia gravis patients (64% vs 35%)
-- Weaning success and duration depend on the degree of axonal damage vs demyelination
+**Recent multicenter study (Thille et al., 2025, n=513 GBS, 47 ICUs):** *[Level 2]*
+- GBS: 64% prolonged weaning (≥7 days) vs 35% MG
+- 57% tracheostomy, 26% reintubation, 9.4% mortality
+- Ineffective cough strongest predictor of reintubation (61%)
 
 **Weaning assessment criteria:**
 - Adequate cough strength and secretion clearance
@@ -738,7 +739,7 @@ A nationwide observational study found:
 
 > Plant CL, Young CA, Baikie C, et al. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barre Syndrome. *Neurol Clin Pract*. 2021;11(4):e473-e479. doi:10.1212/CPJ.0000000000000793
 
-> Maltese G, Roche N, Faivret M, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barre syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51(3):382-392. doi:10.1007/s00134-025-08159-7
+> Thille AW, Bayon C, Gauvrit M, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barré syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51:2054-2064. PMID: 41114833
 
 ### 6.4 Recovery Timeline for Ventilator-Dependent Patients
 

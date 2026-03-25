@@ -867,11 +867,11 @@ Predicts inability to walk independently (GBS disability >=3) at 4 weeks, 3 mont
 | | 41-60 | 1 |
 | | >60 | 2 |
 | Preceding diarrhea | No | 0 |
-| | Yes | 2 |
+| | Yes | 1 |
 | MRC sum score day 7 | 51-60 | 0 |
 | | 41-50 | 3 |
 | | 31-40 | 6 |
-| | <=30 | 8 |
+| | <=30 | 9 |
 
 **Discriminative ability (AUC)**:
 - At admission: 0.73-0.77
@@ -953,7 +953,7 @@ Approximately 40% of GBS patients show no improvement in the first 4 weeks after
 
 ### 6.2 Second-Course Therapy
 
-- **Repeat IVIg**: Commonly used in clinical practice, but evidence is limited. A clinical trial investigating a second IVIg dose (SID-GBS trial) was conducted; preliminary results suggest no clear benefit for a routine second IVIg course, and increased thromboembolic risk was noted (Bellanti & Rinaldi, 2024)
+- **Repeat IVIg**: Commonly used in clinical practice, but evidence is limited. The SID-GBS trial (Walgaard et al., *Lancet Neurol* 2021, PMID: 33743237, n=93, RCT) definitively showed no benefit from a second IVIg course (OR 1.4, 95% CI 0.6-3.3, p=0.45) with significantly more serious adverse events (35% vs 16%, including thromboembolic events and 4 deaths in the intervention group). EAN/PNS 2023 recommends against routine second IVIg
 - **Switch from IVIg to PE (or vice versa)**: Practiced clinically, but no RCT evidence supports this approach
 - **Combined PE then IVIg**: Not more effective than either treatment alone (Plasma Exchange/Sandoglobulin GBS Trial Group, 1997)
 

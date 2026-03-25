@@ -898,7 +898,7 @@ Age is one of the three variables in the mEGOS prognostic score and is consisten
 | **60-69 years** | ~96% | **76.2%** | ~42% |
 | **>= 70 years** | ~96% | **33.4%** | 41.6% |
 
-**For patients aged 41-60 years (the relevant range for a 53-year-old patient):**
+**For patients aged 41-60 years (the relevant range for a 52-year-old patient):**
 - mEGOS assigns **1 point** for age (vs. 0 for <= 40, 2 for > 60)
 - This age range carries intermediate risk
 - Age 41-60 is NOT an independent risk factor for mortality in the available data
