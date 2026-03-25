@@ -175,3 +175,11 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-25 | Prognostik-doc uppdaterat: neuroprognostikering (Busl GRADE), EGRIS validering (n=1500), strukturerade beslutspunkter dag 7/14/28. |
 | 2026-03-25 | Källbibliotek: 22 fulltexter hämtade (12 PDF + 10 text), 30 artiklar kartlagda. `sources/fulltext/` + `Tillgang_till_medicinska_kallor.md`. |
 | 2026-03-25 | RAG reindexerad: 16 dokument, 391 chunks. Deploy till gbs.ragbase.org. |
+| 2026-03-25 | 7 betalväggsartiklar erhållna (SID-GBS, Wang TSH, Mahmoud PE-dosering, Thille weaning, Pilarczyk PDT, PATH SCIG, Rachid anti-IgA). 29 av 30 fulltexter nu i källbiblioteket. |
+| 2026-03-25 | **Datakorrigering:** PATH-trial data var FEL (77.6%→faktiskt: placebo 63%, låg 39%, hög 33%). Korrigerat mot fulltext. |
+| 2026-03-25 | **Datakorrigering:** Wang författare Y→S (Shi Wang), PMID 35194803→35342963. Pilarczyk n=483→1001, fibrinogen ~2.2→~2.5 g/L. Thille journal: Crit Care Med→Intensive Care Med. |
+| 2026-03-25 | Ny sektion: Risk Factors for Recurrence (Recurrent_and_Severe_GBS.md) med Wang 2022 multivariatanalys. FT3-fynd: lägre i RGBS. |
+| 2026-03-25 | Thille 2025 integrerad i weaning-doc: jämförelsetabell GBS vs MG, hostförmåga som riskfaktor, reintubationsdata. |
+| 2026-03-25 | Rachid 2012 integrerad: anti-IgA-antikroppars kontroversiella roll, ~25% prevalens med känsliga metoder. |
+| 2026-03-25 | KUNSKAPSBASEN.md fullständigt synkroniserad: 29 fulltexter, ~480 ref, alla 16 dokument, alla länkar verifierade. |
+| 2026-03-25 | RAG reindexerad: 16 dokument, 393 chunks. Deploy till gbs.ragbase.org. |
