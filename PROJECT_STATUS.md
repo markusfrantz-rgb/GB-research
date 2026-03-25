@@ -52,12 +52,14 @@ Markus fru Madeleine:
 - Fått 3 plasmaferesesessioner utan förväntat svar
 - Koagulopati utvecklad → trakeostomi uppskjuten
 - MR hjärna 2026-03-23: normal
-- CT huvud 2026-03-24 kväll: utförd pga anisokori (V > H) + koagulopati — inväntar svar
+- CT huvud 2026-03-24 kväll: **normal** — inga blödningstecken. Anisokori bedöms som autonom dysfunktion.
+- Autonom dysfunktion bekräftad: blodtrycksinstabilitet (kräver stöd), anisokori, feber 38,1°C (2026-03-25)
+- Trakeostomi planerad 2026-03-25 ~kl 12:00
 - Djupt sederad. Kommunikation vid lättare sedering: svag höger ögonblinkning (ja), svag höger axel (nej)
 - Obstruktiv sömnapné (hemmabehandling: inhalator + nässpray)
 - Ospecificerad födoämnesallergi, pollenallergi (antihistamin året runt)
 - **Diagnostiska luckor per 2026-03-25:** Elektrofysiologi (NCS/EMG), gangliosid-antikroppar, anti-IgA-antikroppar, NfL, TSH/fT4/fT3 — ej utförda/skickade
-- Status per 2026-03-25: avvaktar vidare behandlingsbeslut
+- Status per 2026-03-25 em: trakeostomi planerad, autonom dysfunktion bekräftad, behandlingsbeslut avvaktas
 
 ## Möjliga nästa steg
 

@@ -38,8 +38,8 @@ status: active
 | 2026-03-21 (fre) | Akut insjuknande. IVA/respirator inom timmar. Nära total förlamning. |
 | 2026-03-21–24 | 3 plasmaferesesessioner utan kliniskt svar |
 | 2026-03-23 | MR hjärna: **normal** |
-| 2026-03-24 (kväll) | CT huvud utförd — anisokori (V pupill > H) + koagulopati |
-| 2026-03-25 | Djupt sederad. Respiratorberoende. Koagulopati (PE-relaterad). Trakeostomi uppskjuten. |
+| 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
+| 2026-03-25 | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kräver stöd), anisokori (bedöms som autonom genes efter normal CT). |
 
 **Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 

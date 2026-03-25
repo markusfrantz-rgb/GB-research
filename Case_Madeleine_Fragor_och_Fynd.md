@@ -35,8 +35,8 @@ status: active
 | 2026-03-21 (fre) | Akut insjuknande, IVA/respirator inom timmar |
 | 2026-03-21--24 | 3 plasmaferesesessioner utan kliniskt svar |
 | 2026-03-23 | MR hjarna: **normal** |
-| 2026-03-24 (kv) | CT huvud utford pga anisokori (V pupill > H) + koagulopati — invantar svar |
-| 2026-03-25 | Djupt sovd. Nara total forlamning. Trakeostomi uppskjuten pga koagulopati. |
+| 2026-03-24 (kv) | CT huvud utford pga anisokori (V pupill > H) + koagulopati — **normal**, inga blodningstecken |
+| 2026-03-25 | Trakeostomi planerad ~kl 12. Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
 
 ### Nuvarande status (2026-03-25)
 
