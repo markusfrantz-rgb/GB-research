@@ -88,7 +88,7 @@ Tre alternativ med evidensunderlag:
 - **Imlifidase** — Hansa Biopharma, Lund. Fas 2: patienter gick sjalvstandigt 6 veckor tidigare. Klyver specifikt IgG, *paverkar inte koagulationsfaktorer* (fordel vid koagulopati). Kontakt: medinfo@hansabiopharma.com, +46 46 16 56 70.
 
 **8. R-GBS vs A-CIDP differentialdiagnos — och SCIG-utsattningens roll**
-Med 37 ars intervall sedan forsta episoden: 8-veckorsregeln (progression >8 veckor = misstank CIDP) och "rule of three" (>=3 fluktuationer = CIDP) bor utvarderats. CSF IL-8 vid cut-off 70 pg/mL har 96.7% specificitet for att skilja GBS fran CIDP.
+Med 36 ars intervall sedan forsta episoden: 8-veckorsregeln (progression >8 veckor = misstank CIDP) och "rule of three" (>=3 fluktuationer = CIDP) bor utvarderats. CSF IL-8 vid cut-off 70 pg/mL har 96.7% specificitet for att skilja GBS fran CIDP.
 
 Relevant observation: Patienten behandlades med Gamanorm SCIG i ca 2-3 ar (for IgA-brist) och var stabil under denna period. Preparatet sattes ut ca 2023. Recidivet intraffade ~2 ar efter utsattning. SCIG ger kontinuerlig immunmodulering via laga doser IgG, och vid CIDP ar underhallsbehandling med immunglobulin standard. Om sjukdomsforloppet ar fortrenligt med A-CIDP snarare an R-GBS kan utsattningen av SCIG vara kliniskt relevant, och fragan om aterinforande av underhallsimmunterapi bor overvagas.
 

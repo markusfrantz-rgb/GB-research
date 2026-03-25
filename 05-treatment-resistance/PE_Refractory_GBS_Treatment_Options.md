@@ -8,7 +8,7 @@ status: active
 
 ## Clinical Context
 
-**Patient:** Known IgA deficiency. Recurrent GBS (first episode 37 years ago). Currently ventilator-dependent, near-complete paralysis after 3 PE sessions with no improvement. Previous tolerance of Gamanorm (subcutaneous immunoglobulin, Octapharma). Coagulopathy developing from PE.
+**Patient:** Known IgA deficiency. Recurrent GBS (first episode 36 years ago, age 16). Currently ventilator-dependent, near-complete paralysis. 3 PE sessions without clinical improvement; PE4-5 planned. Previous tolerance of Gamanorm SCIG (Octapharma, ~2020–2023, discontinued). Tracheostomy day 5. Autonomic dysfunction confirmed (BP instability, anisocoria, fever). Coagulopathy developing from PE. Hashimoto's thyroiditis with recent levothyroxine dose adjustment (TSH/fT4 unknown).
 
 ---
 

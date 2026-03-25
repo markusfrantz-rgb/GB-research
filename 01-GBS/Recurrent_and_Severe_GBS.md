@@ -66,7 +66,7 @@ The interval between recurrences is highly variable:
 
 Patients with R-GBS had 2-7 episodes (median 3) occurring at irregular intervals over decades. The exceptionally long intervals (up to 37 years) documented in the literature support the concept that immunological predisposition, rather than specific trigger exposure, underlies recurrence.
 
-**Clinical implication**: A 37-year interval between episodes (e.g., first episode at age 16, recurrence at age 53) is consistent with documented R-GBS intervals *[Level 3 — populationsbaserad studie, Kuitwaard 2009]* and does not by itself argue against a diagnosis of recurrent GBS.
+**Clinical implication**: A 36-year interval between episodes (e.g., first episode at age 16, recurrence at age 52) is consistent with documented R-GBS intervals *[Level 3 — populationsbaserad studie, Kuitwaard 2009]* and does not by itself argue against a diagnosis of recurrent GBS.
 
 > Wijdicks EF, Ropper AH. Acute relapsing Guillain-Barre syndrome after long asymptomatic intervals. *Arch Neurol*. 1990;47(1):82-84. doi:10.1001/archneur.1990.00530010098024
 
@@ -219,9 +219,9 @@ The landmark prospective study by Ruts et al. (Neurology, 2010) established the 
 
 > Ruts L, Drenthen J, Jacobs BC, van Doorn PA. *Neurology*. 2010;74(21):1680-1686.
 
-### 2.3 A 37-Year Interval Between Episodes: What It Suggests
+### 2.3 A 36-Year Interval Between Episodes: What It Suggests
 
-A very long interval (e.g., first episode at age 16, recurrence at age 53 -- 37 years apart) **favors recurrent GBS** over A-CIDP for several reasons:
+A very long interval (e.g., first episode at age 16, recurrence at age 52 -- 36 years apart) **favors recurrent GBS** over A-CIDP for several reasons:
 
 1. **Complete recovery between episodes**: A decades-long asymptomatic interval with full neurological recovery is characteristic of monophasic R-GBS, not CIDP
 2. **Documented precedent**: The Kuitwaard population-based study documented intervals up to 37 years as the upper range for R-GBS
@@ -820,7 +820,7 @@ Direct evidence of autoimmune rebound after SCIG discontinuation is limited:
 ### 7.4 SCIG Discontinuation and the R-GBS vs A-CIDP Differential
 
 **Factors favoring R-GBS:**
-- 37-year interval (first episode at 16, recurrence at 53). Kuitwaard et al. (*JNNP* 2009) documented R-GBS intervals up to 37 years.
+- 36-year interval (first episode at 16, recurrence at 52). Kuitwaard et al. (*JNNP* 2009) documented R-GBS intervals up to 37 years.
 - A-CIDP by definition evolves into chronicity within weeks to months, not decades later (Ruts, *Neurology* 2010)
 - R-GBS patients characteristically achieve complete recovery between episodes
 
