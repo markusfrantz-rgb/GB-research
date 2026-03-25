@@ -128,8 +128,13 @@ GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med
 #### Skoldkorteln
 
 **15. Far Madeleine sin levotyroxin?**
-**Svar:** Ja, levotyroxin ges. Dos okat (hon justerade dosen ca 2-3 veckor fore insjuknande).
-**Uppfoljningsfraga:** Vilken dos far hon nu? Behovs dosjustering for kritisk sjukdom? (Kritiskt sjuka kan behova 54% hogre doser i genomsnitt.) Dosen justerades nyligen — var TSH i jamvikt vid insjuknande? Ges dosen minst 1 timme separerat fran sondfodning?
+**Svar:** Ja, levotyroxin ges pa IVA. Dosen justerades av ordinarie lakare ca 2-3 veckor fore insjuknande. **Inga prover (TSH/fT4/fT3) togs efter dosjusteringen innan hon insjuknade** — det ar alltsa okant om dosen var korrekt installad.
+**Uppfoljningsfragor:**
+- Vilken dos far hon nu pa IVA?
+- Har TSH/fT4/fT3 kontrollerats sedan inlaggning? (Baslinjevarden behovs for att tolka forandringar under kritisk sjukdom)
+- Ges dosen minst 1 timme separerat fran sondfodning? (Absorption hammas av enteral nutrition)
+- Behovs dosjustering? Kritiskt sjuka kan behova 54% hogre doser i genomsnitt. Dessutom avlagsnar PE levotyroxin fran cirkulationen — extra dos kan behovas efter PE-sessioner.
+**Klinisk relevans:** TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (Wang 2022, 88.9% sensitivitet). Dosjustering utan uppfoljningsprov innebar att TSH-nivan vid insjuknandet ar okand — suboptimal tyreoideastatus kan ha bidragit.
 
 **16. TSH/fT4/fT3**
 Har tyreoideastatus kontrollerats? Kritisk sjukdom ger ofta "sick euthyroid syndrome" (lagt T3, normalt/lagt TSH) som ar svartolkad — men baslinjevarden behovs. T3 ar essentiellt for Schwann-cellsproliferation och myelinisering vid nervaterhamtning (Lopez-Espindola et al., 2019).
