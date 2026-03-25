@@ -41,9 +41,10 @@ status: active
 ### Nuvarande status (2026-03-25)
 
 - **Respirator:** Ja, beroende
+- **Trakeostomi:** Planerad ~kl 12:00 idag
 - **Medvetande:** Djupt sederad. Nar lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
-- **Koagulopati:** PE-relaterad, under utveckling
-- **Anisokori:** Vanster pupill storre an hoger — utreds (CT 03-24)
+- **Autonom dysfunktion:** Bekraftad — blodtrycksinstabilitet (kraver stod), anisokori (V > H, autonom genes efter normal CT), feber 38,1°C
+- **Koagulopati:** PE-relaterad (bedoms tillrackligt korrigerad for trakeostomi)
 - **Behandling given:** 3 PE-sessioner, ingen ytterligare GBS-specifik behandling
 
 ---
@@ -83,8 +84,10 @@ Tre alternativ med evidensunderlag:
 
 - **Imlifidase** — Hansa Biopharma, Lund. Fas 2: patienter gick sjalvstandigt 6 veckor tidigare. Klyver specifikt IgG, *paverkar inte koagulationsfaktorer* (fordel vid koagulopati). Kontakt: medinfo@hansabiopharma.com, +46 46 16 56 70.
 
-**8. R-GBS vs A-CIDP differentialdiagnos**
+**8. R-GBS vs A-CIDP differentialdiagnos — och SCIG-utsattningens roll**
 Med 37 ars intervall sedan forsta episoden: 8-veckorsregeln (progression >8 veckor = misstank CIDP) och "rule of three" (>=3 fluktuationer = CIDP) bor utvarderats. CSF IL-8 vid cut-off 70 pg/mL har 96.7% specificitet for att skilja GBS fran CIDP.
+
+Relevant observation: Patienten behandlades med Gamanorm SCIG i ca 2-3 ar (for IgA-brist) och var stabil under denna period. Preparatet sattes ut ca 2023. Recidivet intraffade ~2 ar efter utsattning. SCIG ger kontinuerlig immunmodulering via laga doser IgG, och vid CIDP ar underhallsbehandling med immunglobulin standard. Om sjukdomsforloppet ar fortrenligt med A-CIDP snarare an R-GBS kan utsattningen av SCIG vara kliniskt relevant, och fragan om aterinforande av underhallsimmunterapi bor overvagas.
 
 **9. mEGOS-score**
 Har modified Erasmus GBS Outcome Score beraknats? Forutsager sannolikhet att ga sjalvstandigt vid 6 manader. Bor beraknas bade vid inlaggning och vid dag 7.
@@ -100,18 +103,19 @@ Studie (Wang et al., Muscle Nerve 2022): TSH >3.87 uIU/mL ar en oberoende riskfa
 
 #### Akut
 
-**11. CT-svar — anisokori**
-Har CT-svaret kommit? Om normalt: anisokori kan vara autonom dysfunktion (forekommer vid GBS — pupillabnormiteter beskrivna i 5-10% av fallen). Var anisokorin kand sedan tidigare?
+**11. Feber 38,1°C — genes?**
+Feber forekommer hos ~29% av GBS-patienter med autonom dysfunktion och kan vara autonom genes. Men infektion maste uteslutas: VAP (ventilatorassocierad pneumoni), urinvagsinfektion, kateterrelaterad infektion. Odlingar tagna?
 
 **12. Sederingsdjup**
 Kan sederingen lattas for neurologisk bedomning? Djup sedering forsvarar bade monitorering av behandlingseffekt och bedomning av sjukdomsstatus.
 
 #### Koagulation
 
-**13. Aktuella koagulationsvarden?**
-- Fibrinogen <1.0 g/L: pausa PE, ge ersattning (kryoprecipitat eller fibrinogenkoncentrat)
-- Fibrinogen >1.5 g/L, TPK >50, PK/INR <1.5: troskel for saker trakeostomi
-- Fibrinogen ar den enda oberoende prediktorn for blodning vid PDT (Pilarczyk et al., 2016)
+**13. Koagulationsvarden infor trakeostomi**
+Trakeostomi planerad idag. For referens — rekommenderade troskelarden:
+- Fibrinogen >1.5 g/L, TPK >50, PK/INR <1.5 (Pilarczyk et al., 2016)
+- Fibrinogen ar den enda oberoende prediktorn for blodning vid PDT
+- Vilka varden hade patienten infor ingreppet?
 
 **14. DVT-profylax**
 GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med LMWH (Bersano et al., 2016). Pagar:
@@ -127,9 +131,17 @@ Avbrott i levotyroxin hos kand Hashimotos-patient pa IVA riskerar myxedemkoma (2
 **16. TSH/fT4/fT3**
 Har tyreoideastatus kontrollerats? Kritisk sjukdom ger ofta "sick euthyroid syndrome" (lagt T3, normalt/lagt TSH) som ar svartolkad — men baslinjevarden behovs. T3 ar essentiellt for Schwann-cellsproliferation och myelinisering vid nervaterhamtning (Lopez-Espindola et al., 2019).
 
+#### Autonom dysfunktion
+
+**17. Atropin vid sangplatsen?**
+Autonom dysfunktion ar bekraftad (blodtrycksinstabilitet, anisokori, feber). Vid svar GBS med dysautonomi rekommenderas 1 mg IV atropin i beredskap vid sangplatsen — bradykardi till asystoli kan utlosas av sugning, vanding, munvard eller trakeostomivard (forekommer hos 7-34% av dysautonomipatienter). Mortaliteten ar 3x hogre vid dysautonomi (6% vs 2%).
+
+**18. Monitorering av autonoma systemet**
+Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. Pagar kontinuerlig hjartrytmovervakning?
+
 #### Ovrigt
 
-**17. Allergibehandling**
+**19. Allergibehandling**
 Fortsatter antihistamin? Kan ha interaktion med sedering. Somnapnen ar relevant for framtida ventilatoravvanjningsplanering.
 
 ---
