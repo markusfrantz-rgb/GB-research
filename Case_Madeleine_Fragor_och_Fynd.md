@@ -18,7 +18,7 @@ status: active
 |---|---|
 | **Namn** | Madeleine |
 | **Alder** | 52 ar |
-| **Kanda diagnoser** | Recidiverande GBS (forsta episod vid 16 ars alder, ~37 ar sedan) |
+| **Kanda diagnoser** | Recidiverande GBS (forsta episod vid 16 ars alder, ~36 ar sedan) |
 | | Selektiv IgA-brist |
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv somnapne |
@@ -98,7 +98,7 @@ Har modified Erasmus GBS Outcome Score beraknats? Forutsager sannolikhet att ga 
 #### Skoldkorteln
 
 **10. TSH och GBS-recidiv**
-Studie (Wang et al., Muscle Nerve 2022): TSH >3.87 uIU/mL ar en oberoende riskfaktor for GBS-recidiv med 88.9% sensitivitet och 90.4% specificitet. Madeleines recidiverande GBS i kombination med Hashimotos motiverar kontroll av aktuella sköldkörtelvärden.
+Studie (Wang S et al., Muscle Nerve 2022, n=320): TSH >3.87 uIU/mL ar oberoende riskfaktor for GBS-recidiv (OR 3.90 i multivariatanalys). Dessutom: FT3 signifikant lagre i recidivgruppen (p=.022), vilket ar relevant da levotyroxin-dosjustering nyligen genomforts. Madeleines recidiverande GBS i kombination med Hashimotos motiverar skyndsam kontroll av TSH/fT4/fT3.
 
 ---
 
@@ -109,17 +109,16 @@ Studie (Wang et al., Muscle Nerve 2022): TSH >3.87 uIU/mL ar en oberoende riskfa
 **11. Feber 38,1°C — genes?**
 Feber forekommer hos ~29% av GBS-patienter med autonom dysfunktion och kan vara autonom genes. Men infektion maste uteslutas: VAP (ventilatorassocierad pneumoni), urinvagsinfektion, kateterrelaterad infektion. Odlingar tagna?
 
-**12. Sederingsdjup**
-~~Kan sederingen lattas for neurologisk bedomning?~~
-**Svar:** Sedering ar for patientens bekvamligher. Neurologisk kontroll planeras. Sederingen planeras lattas nar trakeostomi ar pa plats (bekvamligare respiratorlosning). **Uppfoljningsfraga:** Nar trakeostomin ar pa plats och sederingen lattas — vilken neurologisk bedomning planeras (MRC-score, kranialnervsundersokning)?
+**12. Neurologisk bedomning nu nar sedering lattas**
+Trakeostomi genomford, sedering lattas. **Fraga:** Vilken neurologisk bedomning planeras? MRC-score (muskelstyrka), kranialnervsundersokning, bulbar funktion (svalj- och hostformaga)? Hostformaga ar sarskilt viktig — ineffektiv hosta ar starkaste prediktorn for reintubation (61% reintubation vid ineffektiv hosta, Thille 2025).
 
 #### Koagulation
 
-**13. Koagulationsvarden infor trakeostomi**
-Trakeostomi planerad idag. For referens — rekommenderade troskelarden:
-- Fibrinogen >1.5 g/L, TPK >50, PK/INR <1.5 (Pilarczyk et al., 2016)
-- Fibrinogen ar den enda oberoende prediktorn for blodning vid PDT
-- Vilka varden hade patienten infor ingreppet?
+**13. Koagulationsvarden — verifiering**
+Trakeostomi genomford 2026-03-25. Rekommenderade troskelarden for PDT:
+- Fibrinogen >1.5 g/L, TPK >50, PK/INR <1.5 (Pilarczyk et al., 2016, n=1001)
+- Fibrinogen <2.5 g/L (7.4 umol/L) ar oberoende prediktor for blodning (OR 1.85, p=.033)
+- Vilka varden hade patienten infor ingreppet? Eventuella komplikationer?
 
 **14. DVT-profylax**
 GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med LMWH (Bersano et al., 2016). Pagar:
@@ -153,13 +152,24 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 
 **19. Allergibehandling och luftrogsvidgande**
 **Svar:** Allergibehandling ar pa plats. Luftrorsvidgande (bronkdilaterare) insatt pa IVA.
-**Observation:** Somnapnen ar relevant for framtida ventilatoravvanjningsplanering.
+
+#### Respiratoravvanjning
+
+**20. Weaningplan och tidslinje**
+Storsta multicenter-studien (Thille 2025, n=513 GBS, 47 IVA): 64% prolonged weaning (>=7 dagar), 57% trakeostomi, median MV 25 dagar (IQR 13-51). Mortalitet 9.4%. Weaning readiness-kriterier:
+- FVC >22 mL/kg och NIF >-50 cmH2O (Nguyen 2006)
+- Effektiv hosta (starkaste prediktorn — 61% reintubation utan)
+- Bulbar funktion (svaljteknik)
+**Fraga:** Nar planeras forsta formella weaningbedomning (SBT)? Planeras FVC/NIF-monitorering?
+
+**21. Somnapne och weaning**
+Madeleines obstruktiva somnapne ar relevant for weaningplaneringen — CPAP/BiPAP kan behovas som brygga efter decannulation. Bor beaktas i avvanjningsprotokoll.
 
 ---
 
 ## Sammanstallda forskningsfynd
 
-*Nedan foljer en sammanfattning av potentiellt relevanta fynd fran ~400 peer-reviewed kallor (PubMed, Cochrane Library, ClinicalTrials.gov). Presenterat som evidenssammanstallning for klinisk bedomning. Sammanstallningen har inte genomgatt formell peer review.*
+*Nedan foljer en sammanfattning av potentiellt relevanta fynd fran ~480 peer-reviewed kallor (PubMed, Cochrane Library, ClinicalTrials.gov). Presenterat som evidenssammanstallning for klinisk bedomning. Sammanstallningen har inte genomgatt formell peer review.*
 
 ### Behandling vid PE-refraktar GBS med IgA-brist
 
@@ -192,20 +202,23 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 | Fynd | Kalla |
 |------|-------|
 | TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (OR 3.90, 88.9% sens, 90.4% spec; n=320). FT3 lagre i RGBS-gruppen (p=.022) | Wang S et al., Muscle Nerve 2022 (PMID: 35342963) *[Level 3]* |
-| 70.1% av GBS-patienter ar tyreoideaantikroppspositiva (vs 14.1% CIDP) | Li et al., Frontiers Neurol 2020 |
-| GBS + abnorm tyreoidea: langre vardtid, lagre MRC, hogre Hughes | Qiu et al., Neurol Sci 2022 |
+| 70.1% av GBS-patienter ar tyreoideaantikroppspositiva (vs 14.1% CIDP) | Tu Y et al., Front Neurol 2020 (PMID: 33013669) |
+| RGBS: lagre FT3 (p=.022), hogre TSH. Antecedent sjukdom + AIDP + hogt TSH = oberoende riskfaktorer | Wang S et al., Muscle Nerve 2022 (PMID: 35342963) |
 | T3 essentiellt for Schwann-cellsmyelinisering och neurotrofiska faktorer (BDNF, NGF) | Lopez-Espindola 2019, Barakat-Walter 1999 |
 | Levotyroxinavbrott pa IVA → myxedemkoma-risk (25-60% mortalitet) | Mathew et al., StatPearls 2024 |
 
 ### Prognos vid ventilatorsberoende GBS
 
-| Fakta | Siffra |
-|-------|--------|
-| Overlevande som gar igen | **79%** |
-| Median ventilatorstid | ~28 dagar (IQR 12-60) |
-| Framgangsrik avvanjning fran respirator | 76% |
-| Aterhamtning fortsatter | Upp till 1-2 ar |
-| Mortalitet i modern IVA-vard | 10-15% |
+| Fakta | Siffra | Kalla |
+|-------|--------|-------|
+| Overlevande som gar igen | **79%** | |
+| Median ventilatorstid | 25 dagar (IQR 13-51) | Thille 2025 (n=513 GBS) |
+| Prolonged weaning (>=7 dagar) | **64%** | Thille 2025 |
+| Trakeostomi | **57%** | Thille 2025 |
+| Reintubation efter extubationsforsok | **26%** | Thille 2025 |
+| Framgangsrik avvanjning | 76% | Cheng 2021 |
+| Aterhamtning fortsatter | Upp till 1-2 ar | |
+| Mortalitet | **9.4%** | Thille 2025 |
 
 ---
 
@@ -215,8 +228,8 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-13 forskningsdokument | ~400 peer-reviewed kallor | Semantisk sokning
+16 forskningsdokument | ~480 peer-reviewed kallor | 29 verifierade fulltexter | Semantisk sokning
 
 ---
 
-*Sammantalld 2026-03-25. Baserad pa ~400 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*
+*Sammantalld 2026-03-25. Baserad pa ~480 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*
