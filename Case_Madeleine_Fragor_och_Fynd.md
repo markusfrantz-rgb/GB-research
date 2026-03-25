@@ -17,7 +17,7 @@ status: active
 | | |
 |---|---|
 | **Namn** | Madeleine |
-| **Alder** | 53 ar |
+| **Alder** | 52 ar |
 | **Kanda diagnoser** | Recidiverande GBS (forsta episod vid 16 ars alder, ~37 ar sedan) |
 | | Selektiv IgA-brist |
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |

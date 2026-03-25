@@ -53,7 +53,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | | |
 |---|---|
-| **Ålder** | 53 år |
+| **Ålder** | 52 år |
 | **Diagnoser** | Recidiverande GBS (1:a episod vid 16, ~37 år sedan), selektiv IgA-brist, Hashimotos tyreoidit, obstruktiv sömnapné, ospecificerad födoämnesallergi, pollenallergi |
 | **Autoimmunt kluster** | GBS + IgA-brist + Hashimotos — MAS typ 3 (HLA-B8/DR3/DQ2) |
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **inga uppföljningsprover**), luftrörsvidgande inhalator + nässpray, antihistamin |

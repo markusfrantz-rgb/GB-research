@@ -18,7 +18,7 @@ status: active
 | | |
 |---|---|
 | **Namn** | Madeleine |
-| **Ålder** | 53 år |
+| **Ålder** | 52 år |
 | **Kända diagnoser** | Recidiverande GBS (första episod vid 16 års ålder, ~37 år sedan) |
 | | Selektiv IgA-brist |
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |

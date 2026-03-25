@@ -12,7 +12,7 @@ En RAG-driven medicinsk kunskapsdatabas om Guillain-Barré syndrom (GBS) i kombi
 
 ## Varför finns det?
 
-Markus fru Madeleine (53 år) insjuknade akut i svår recidiverande GBS (första episoden vid 16 års ålder) i mars 2026. Hon har känd selektiv IgA-brist. Ingen publicerad guideline täcker denna kombination specifikt. Databasen samlar all tillgänglig evidens för att ge behandlande läkare bästa möjliga underlag.
+Markus fru Madeleine (52 år) insjuknade akut i svår recidiverande GBS (första episoden vid 16 års ålder) i mars 2026. Hon har känd selektiv IgA-brist. Ingen publicerad guideline täcker denna kombination specifikt. Databasen samlar all tillgänglig evidens för att ge behandlande läkare bästa möjliga underlag.
 
 ## Tech stack
 
