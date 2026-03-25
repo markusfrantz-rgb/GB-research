@@ -1,181 +1,177 @@
 ---
 doc_type: reference
-date: 2026-03-24
+date: 2026-03-25
 status: active
 ---
 
-# GBS + IgA-brist: En evidensbaserad kunskapsdatabas för kliniker
+# Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
-**Målgrupp:** Neurologer, intensivvårdsläkare, immunologer
-**Innehåll:** 245 semantiskt indexerade kunskapssegment | ~250 peer-reviewed referenser | 9 forskningsdokument
-
----
-
-## Det kliniska problemet ingen guideline täcker
-
-En patient inkommer med snabbt progredierande bilateral svaghet, areflexia och albuminocytologisk dissociation. Guillain-Barré syndrom. Standardbehandling initieras — men patienten har känd selektiv IgA-brist.
-
-Nu uppstår ett behandlingsdilemma som **ingen publicerad guideline specifikt adresserar**:
-
-- IVIg — förstahandsval vid GBS — kan utlösa anafylaxi hos patienter med anti-IgA-antikroppar (förekommer hos 20–40 % av IgA-deficienta)
-- Plasmaferes inleds istället. Patienten svarar inte. Vad gör vi nu?
-
-Denna kunskapsbas är byggd för att ge kliniker tillgång till all tillgänglig evidens kring just denna situation — och de nya behandlingsvägar som faktiskt har öppnats de senaste åren.
+**Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
+~400 peer-reviewed referenser | 13 forskningsdokument | Semantisk sökning
 
 ---
 
-## Nyckeldokument — direkt åtkomst
+## Patientprofil
 
-| Dokument | Beskrivning |
-|----------|-------------|
-| [Beslutsalgoritm: GBS + IgA-brist](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) | Steg-för-steg klinisk beslutsalgoritm, IgA-säkra terapier, behandlingsdilemmat |
-| [PE-refraktär GBS — behandlingsalternativ](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | Vad göra när plasmaferes inte fungerar. Efgartigimod, imlifidase, svenska kontakter |
-| [Recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md) | R-GBS vs A-CIDP differentiering, EGRIS-scoring, trakeostomi, koagulopati |
-| [IgA-brist, SCIG-tolerans och IVIg-säkerhet](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | Gamanorm-tolerans → IVIg-implikationer, snabbtest anti-IgA, svenska produkter |
-| [Svår GBS — intensivvård](/doc/01-GBS/Severe_GBS_ICU_Management.md) | Ventilator, autonom dysfunktion, smärta, prognos, rehabilitering |
-| [GBS fullständig översikt](/doc/01-GBS/GBS_Comprehensive_Review.md) | Alla subtyper, patofysiologi, diagnostik, standardbehandling, prognos |
-| [Selektiv IgA-brist — översikt](/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md) | Genetik, CVID-spektrum, anti-IgA-antikroppar, autoimmuna associationer |
-| [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart fas 3, imlifidase fas 2, efgartigimod, biomarkörer |
-| [Autoimmuna tillstånd kopplade till GBS och IgA-brist](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | 6 överlappande sjukdomar, HLA-associationer, molekylär mimikry |
+*Uppgifterna nedan baseras på anhöriganamnes och kan behöva verifieras och kompletteras av behandlande läkare.*
+
+| | |
+|---|---|
+| **Namn** | Madeleine |
+| **Ålder** | 53 år |
+| **Kända diagnoser** | Recidiverande GBS (första episod vid 16 års ålder, ~37 år sedan) |
+| | Selektiv IgA-brist |
+| | Hashimotos tyreoidit (autoimmun hypotyreos) |
+| | Obstruktiv sömnapné |
+| | Ospecificerad födoämnesallergi, pollenallergi |
+| **Läkemedel (hemma)** | Levotyroxin (sköldkörteln) |
+| | Gamanorm SCIG (IgA-brist) |
+| | Inhalator + nässpray (sömnapné, dagligen) |
+| | Antihistamin året runt (dubbel dos jan/feb, pollen) |
+
+**Observation:** Patienten uppvisar tre autoimmuna tillstånd (GBS, selektiv IgA-brist, Hashimotos tyreoidit) som samtliga är kopplade till HLA-B8/DR3/DQ2-haplotypen (ancestral haplotype 8.1). Klassificeras som Multiple Autoimmune Syndrome (MAS) typ 3 (Cojocaru et al., 2010).
+
+### Aktuellt förlopp
+
+| Datum | Händelse |
+|-------|---------|
+| 2026-03-21 (fre) | Akut insjuknande. IVA/respirator inom timmar. Nära total förlamning. |
+| 2026-03-21–24 | 3 plasmaferesesessioner utan kliniskt svar |
+| 2026-03-23 | MR hjärna: **normal** |
+| 2026-03-24 (kväll) | CT huvud utförd — anisokori (V pupill > H) + koagulopati |
+| 2026-03-25 | Djupt sederad. Respiratorberoende. Koagulopati (PE-relaterad). Trakeostomi uppskjuten. |
+
+**Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 
 ---
 
-## Vad databasen innehåller
+## Om denna databas
 
-Kunskapsbasen består av systematiskt sammanställd forskning från peer-reviewed källor (Cochrane-reviews, RCT:er, fas 2/3-studier, EAN/PNS-guidelines, fallrapporter) organiserad i nio dokument:
+Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-brist. Databasen samlar tillgänglig evidens kring denna kliniska situation, organiserad för snabb åtkomst.
 
-| Område | Innehåll |
-|--------|----------|
-| **GBS — fullständig översikt** | Patofysiologi (alla subtyper inkl. panneurofascin), diagnostik (Brighton, elektrofysiologi), standardbehandling, prognostiska verktyg (mEGOS, EGRIS), senaste T-cellsupptäckten (Sukenikova et al., *Nature* 2024) |
-| **Recidiverande och fulminant GBS** | R-GBS diagnostik och prognostik, differentiering mot akut-debuterande CIDP, EGRIS-scoring, koagulopati vid plasmaferes, trakeostomitidpunkt, ventilatoravvänjning |
-| **Svår GBS — intensivvård** | Ventilatorhantering, autonom dysfunktion, smärtbehandling, komplikationsprevention, prognos vid respiratorberoende, rehabilitering, kommunikation med närstående |
-| **Selektiv IgA-brist** | Genetik (HLA 8.1-haplotypen, GWAS-loci), CVID-spektrum, anti-IgA-antikroppar (IgE vs IgG-klass), IgA-innehåll i alla IVIg-produkter, anafylaxirisk och protokoll |
-| **IgA-brist, SCIG och IVIg-säkerhet** | Gamanorm-tolerans och implikationer för IVIg, snabbtest anti-IgA (Sahlgrenska), IgA-depleterade produkter i Sverige, administreringsprotokoll, svenska riktlinjer |
-| **GBS + IgA-brist i kombination** | Klinisk beslutsalgoritm, behandlingsdilemmat steg för steg, IgA-säkra terapier, refraktära scenarion, delade immunologiska mekanismer |
-| **Relaterade autoimmuna tillstånd** | 6 överlappande sjukdomar (SLE, T1D, celiaki, IBD, tyreoideasjukdom, RA), delade HLA-associationer, molekylär mimikry |
-| **Behandlingsresistens** | SID-GBS-studien, komplementhämmare, FcRn-hämmare, IgG-klyvande enzymer, biomarkörer, pågående kliniska prövningar |
-| **PE-refraktär GBS — behandlingsalternativ** | Vad göra när plasmaferes inte fungerar, IVIg efter PE, efgartigimod off-label i Sverige, imlifidase compassionate use (Hansa Biopharma, Lund), immunoadsorption, antikroppspanel att beställa nu |
+**Metod:** Systematisk genomgång av PubMed, Cochrane Library, ClinicalTrials.gov och relevanta guidelines (EAN/PNS 2023). Sökperiod: primärt 2012–2026, med inkludering av äldre landmärkesreferenser. All evidens presenteras med källhänvisningar. Databasen använder RAG-teknik (Retrieval-Augmented Generation) för semantisk sökning.
+
+**Begränsningar:** Sammanställningen är inte en systematisk review i formell mening och har inte genomgått peer review. Den ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.
 
 ---
 
-## Nyckelinsikter för den behandlande klinikern
+## Forskningsfynd av möjlig klinisk relevans
 
-### 1. Andra IVIg-kuren hjälper inte — och skadar
+*Sammanställda från ~400 peer-reviewed källor. Presenterade som evidens för bedömning.*
 
-SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, n=93) visade definitivt att en andra IVIg-kur vid svår GBS **inte förbättrar utfallet** och **ökar allvarliga biverkningar** (35 % vs 16 %, inklusive tromboemboliska händelser och dödsfall). EAN/PNS 2023-riktlinjen avråder nu explicit från detta. Ändå är det fortfarande klinisk praxis på många håll.
+### Behandlingsalternativ vid PE-refraktär GBS med IgA-brist
 
-### 2. Anti-IgA-anafylaxirisken är lägre än man trott
+| Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige (mars 2026) |
+|------------|---------|------------|-------------------------------------|
+| **Efgartigimod (Vyvgart)** | Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025). Retrospektiv analys n=17 (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
+| **IgA-depleterat IVIg** (Privigen) | Cochrane Level 1 för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten tolererar Gamanorm (IgA ≤82,5 µg/mL). | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
+| **Imlifidase** | Fas 2 (2024): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
+| **Tanruprubart (ANX005)** | Fas 3 positiv: OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
 
-Rachid & Bonilla (*JACI* 2012) visade i en systematisk genomgång att den faktiska anafylaxirisken vid anti-IgA-antikroppar är **betydligt lägre än den traditionella uppfattningen**. Många patienter med dokumenterade anti-IgA-antikroppar tolererar IVIg utan reaktion. Risken beror på antikroppsisotyp: **IgE-anti-IgA** innebär reell anafylaxirisk, medan **IgG-anti-IgA** (vanligare) sällan ger svåra reaktioner. Det finns nu även en ny lågIgA-produkt att använda:
+→ [Fullständig genomgång: alla alternativ vid PE-svikt](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)
+→ [Sekventiell terapi — timing och interaktioner](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md)
 
-**GAMMAGARD LIQUID ERC** (Takeda) — FDA-godkänd juni 2025, tillgänglig i USA sedan januari 2026 — är den **enda färdigberedda flytande IVIg-produkten med lågt IgA-innehåll** (≤2 µg/mL). Detta eliminerar behovet av lyofiliserad beredning och gör lågIgA-IVIg praktiskt genomförbart akut.
+### Timing vid sekventiell terapi
 
-### 3. Det finns nu IgA-säkra terapier för refraktär GBS
+| Sekvens | Timing | Kommentar |
+|---------|--------|-----------|
+| PE → IVIg | ≥48 timmar efter sista PE | PE vaskar inte ut IVIg givet *efteråt*. SID-GBS (andra IVIg-kuren) gäller ej vid byte från PE. |
+| PE → Efgartigimod | 24–48 timmar efter sista PE | Ingen farmakologisk konflikt. Kringgår IgA-risk helt. |
+| PE → Imlifidase | Ingen väntetid krävs | Klyver enbart IgG. Påverkar ej koagulationsfaktorer — fördel vid koagulopati. |
 
-Här är den mest relevanta utvecklingen för patienter som inte svarar på plasmaferes:
+### Koagulation och trakeostomi
 
-**Tanruprubart (ANX005)** — anti-C1q komplementhämmare (Annexon Biosciences)
-- Första läkemedlet med **positiva fas 3-resultat vid GBS** (OR 2.4, 95 % CI 1.29–4.50, p=0.0058)
-- Patienter gick självständigt **31 dagar tidigare** (p=0.021)
-- **28 färre dagar i respirator** (p=0.036)
-- En singeldos (30 mg/kg)
-- Monoklonal antikropp — **innehåller ingen IgA**. Helt säker vid IgA-brist.
-- EMA MAA inskickad Q1 2026; FDA BLA-diskussion pågår
+| Parameter | Tröskelvärde | Källa |
+|-----------|-------------|-------|
+| Fibrinogen <1,0 g/L | Pausa PE, ge ersättning | Wodajo et al., Transfusion 2024 |
+| Fibrinogen >1,5 g/L + TPK >50 + INR <1,5 | Säker trakeostomi | Pilarczyk et al., 2016 |
+| DVT-risk vid GBS + LMWH | 52% vid systematisk screening | Bersano et al., 2016 |
 
-**Efgartigimod (Vyvgart)** — FcRn-hämmare (argenx)
-- Accelererar nedbrytning av patogena IgG-antikroppar
-- Retrospektiv analys (17 patienter, *Scientific Reports* 2026): signifikant snabbare förbättring
-- Fallrapporter visar effekt vid IVIg-refraktär GBS och MFS-GBS-överlapp
-- Fas 2-studie pågår (NCT05701189)
-- Monoklonal antikropp — **ingen IgA**
+→ [PE-koagulopati: fullständig genomgång](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md)
 
-**Imlifidase** — IgG-klyvande enzym (Hansa Biopharma)
-- Klyver alla IgG-molekyler inom timmar — neutraliserar patogena antikroppar snabbt
-- Fas 2 (2024): patienter gick självständigt **6 veckor tidigare** jämfört med IGOS-kohorter
-- 37 % gick självständigt efter 1 vecka
-- Specifikt IgG — **interagerar inte med IgA**
+### Sköldkörteln och GBS
 
-Alla tre är monoklonala antikroppar eller enzymer — inte poolat humant immunglobulin. De innehåller ingen IgA och utgör inget anafylaxirisiko för IgA-deficienta patienter. Det gör dem till **de första reellt användbara alternativen** när en GBS-patient med IgA-brist inte svarar på plasmaferes.
+| Fynd | Källa |
+|------|-------|
+| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (88,9% sensitivitet, 90,4% specificitet) | Wang et al., *Muscle Nerve* 2022 |
+| 70,1% av GBS-patienter har positiva tyreoidea-autoantikroppar | Li et al., *Frontiers Neurol* 2020 |
+| GBS + abnorm sköldkörtelfunktion: längre vårdtid, lägre MRC, högre Hughes-grad | Qiu et al., *Neurol Sci* 2022 |
+| T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
+| Levotyroxinavbrott på IVA → myxedemkoma-risk (25–60% mortalitet) | Mathew et al., StatPearls 2024 |
 
-### 4. Patienten som inte svarar på plasmaferes — vad göra?
+→ [Hashimotos + IgA-brist + GBS: fullständig genomgång](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md)
 
-Databasen innehåller en [fullständig steg-för-steg beslutsalgoritm](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) — men i korthet:
+### Prognos vid svår ventilatorsberoende GBS
 
-1. **Uteslut akut-debuterande CIDP** (>3 fluktuationer eller progression >8 veckor)
-2. **Överväg IgA-depleterat IVIg** (GAMMAGARD LIQUID ERC, ≤2 µg/mL) om ej prövat — med premedicinering och anafylaxiberedskap
-3. **Kolla anti-IgA-antikroppsstatus** — IgE-klass innebär reell risk, IgG-klass sällan
-4. **Tanruprubart** — om tillgängligt via compassionate use eller klinisk prövning (starkaste evidensen: fas 3 positiv)
-5. **Efgartigimod** — fallrapportevidensbaserat men lovande, särskilt vid FcRn-medierad patologi
-6. **Rituximab** — specifikt vid panneurofascin-antikroppspositiv GBS (identifiera med biomarkör)
-7. **Intensiv understödjande vård** — ventilatorstrategi, autonom dysfunktion, rehabilitering
+| | |
+|---|---|
+| Överlevande som går igen | **79%** |
+| Median ventilatorstid | ~28 dagar (IQR 12–60) |
+| Framgångsrik respiratoravvänjning | 76% |
+| Återhämtning fortsätter | Upp till 1–2 år |
+| Mortalitet i modern IVA-vård | 10–15% |
 
-**&#8594; [Läs hela beslutsalgoritmen](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md)**
+→ [Prognostisk monitorering — biomarkörer, skalor, protokoll](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md)
 
-### 5. Recidiverande GBS — sällsynt men dokumenterat
+### Evidens avseende upprepad IVIg-behandling
 
-Recidiv förekommer hos 2–5 % av GBS-patienter. Intervallet mellan episoder varierar från 2 månader till 37 år (medelvärde ~7 år, Kuitwaard populationsbaserad studie). Kritisk differentialdiagnostik: **akut-debuterande CIDP (A-CIDP)** kräver helt annan behandlingsstrategi (underhållsimmunterapi). Ruts 2010-kriterierna skiljer på 8-veckorsregeln och antal fluktuationer (≥3 = misstänk CIDP). CSF IL-8 vid cut-off 70 pg/mL har 96,7 % specificitet för att skilja GBS från CIDP. Anti-NF155 IgG4-antikroppar är specifika för CIDP och bör testas.
+SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, n=93, RCT): en andra IVIg-kur vid svår GBS visade ingen signifikant förbättring av utfallet och var associerad med fler allvarliga biverkningar (35% vs 16%). EAN/PNS 2023-riktlinjen avråder explicit från upprepad IVIg-behandling.
 
-**&#8594; [Fullständig genomgång: recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md)**
+### Anti-IgA-antikroppar och anafylaxirisk — aktuell evidens
 
-### 6. PE-refraktär GBS — det finns alternativ nu
+Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxirisken vid dokumenterade anti-IgA-antikroppar varierar beroende på antikroppsisotyp. IgE-anti-IgA är starkast associerad med anafylaxi, medan IgG-anti-IgA (vanligare) sällan ger svåra reaktioner. Patientens tolerans av Gamanorm SCIG (IgA ≤82,5 µg/mL) kan vara relevant vid bedömning av IVIg-tolerans med produkter med lägre IgA-innehåll (Privigen ≤25 µg/mL, Gammagard S/D ≤1 µg/mL).
 
-När plasmaferes inte ger förväntat svar finns det evidensbaserade vägar framåt. Databasen innehåller detaljerad genomgång av varje alternativ med tillgänglighet i Sverige:
+---
 
-**Efgartigimod (Vyvgart)** — redan EU-godkänt för MG (2022) och CIDP (2025). **Mest omedelbart tillgängligt** för off-label-användning i Sverige. Flera fallrapporter visar effekt vid PE/IVIg-refraktär, ventilatorsberoende GBS. Dosering 10 mg/kg IV. Förbättring rapporterad inom timmar i enstaka fall (Ripellino et al., *Eur J Neurol* 2025).
-
-**Imlifidase** — Hansa Biopharma, **Lund, Sverige**. Fas 2-resultat visade att patienter gick självständigt 6 veckor tidigare. Klyver specifikt IgG, påverkar inte koagulationsfaktorer (relevant när PE-inducerad koagulopati föreligger). Compassionate use potentiellt möjligt. Kontakt: medinfo@hansabiopharma.com, +46 46 16 56 70.
-
-**IVIg efter PE** — 2023 EAN/PNS-riktlinjen avråder från planerad sekventiell PE+IVIg, men förbjuder inte uttryckligen byte av modalitet vid terapisvikt. Om patienten har tolererat Gamanorm (SCIG, IgA ≤82,5 µg/mL) talar det för att hon sannolikt tolererar IVIg — särskilt **Privigen** (IgA ≤25 µg/mL), som har lägre IgA-innehåll än Gamanorm och är rutinmässigt tillgängligt på svenska sjukhus.
-
-**Immunoadsorption** — selektivt avlägsnar immunglobuliner utan att deplettera koagulationsfaktorer. Adresserar direkt koagulationsproblemet som kan uppstå vid PE.
-
-**&#8594; [Fullständig genomgång: alla alternativ vid PE-svikt med svenska kontakter](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)**
-
-### 7. Antikroppstester att överväga
-
-Databasen innehåller en komplett panel av antikroppstester med svenska testlaboratorier:
+## Diagnostik som kan vara relevant
 
 | Test | Klinisk relevans | Laboratorium |
 |------|-------------------|--------------|
-| Anti-gangliosidantikroppar (GM1, GD1a, GQ1b m.fl.) | Subtypning, behandlingsval | Sahlgrenska, Göteborg |
+| Anti-gangliosidantikroppar (GM1, GD1a, GQ1b m.fl.) | Subtypning, prognos, behandlingsval | Sahlgrenska, Göteborg |
 | Anti-neurofascin (NF155, NF186) | CIDP-differentiering, rituximab-indikation | Specialiserade europeiska laboratorier |
-| Anti-IgA-antikroppar (IgE + IgG) | IVIg-säkerhet | DiaMed ID-PaGIA snabbtest, Sahlgrenska (resultat inom timmar) |
-| Neurofilament light chain (NfL) | Prognos, axonal skadegrad | Wieslab/Malmö (brådskande svar 48 h) |
-
-### 8. Prognos vid svår ventilatorsberoende GBS — det finns hopp
-
-Även vid nära total förlamning och långvarig ventilatorvård visar evidensen att:
-
-- **79 % av överlevande ventilatorsberoende GBS-patienter kan gå igen**
-- Median ventilatorstid vid svår GBS: ~28 dagar
-- 76 % avvänjs framgångsrikt från respirator
-- Återhämtning fortsätter i upp till 1–2 år efter insjuknande
-- Mortaliteten vid ventilatorsberoende GBS i modern intensivvård: 10–15 %
-- GBS förblir en potentiellt reversibel sjukdom även i sina svåraste former
-
-**&#8594; [Fullständig genomgång: intensivvård, prognos och rehabilitering vid svår GBS](/doc/01-GBS/Severe_GBS_ICU_Management.md)**
-
-### 9. Det som saknas — och varför det spelar roll
-
-Ingen prospektiv studie har undersökt GBS-utfall specifikt hos IgA-deficienta patienter. Ingen guideline täcker kombinationen. Inga registerdata spårar den. Vi vet inte den faktiska incidensen. Det innebär att varje kliniker som möter denna kombination gör beslut baserade på extrapolering — och denna databas samlar den evidens som finns att extrapolera ifrån.
+| Anti-IgA-antikroppar (IgE + IgG) | IVIg-säkerhetsbedömning | DiaMed ID-PaGIA snabbtest (timmar); Sahlgrenska |
+| Neurofilament light chain (NfL) | Prognos, axonal skadegrad | Wieslab/Malmö (brådskande 48 h) |
+| TSH, fT4, fT3 | Sköldkörtelstatus, recidivrisk, nervregeneration | Standardlaboratorium |
+| Elektrofysiologi (NCS/EMG) | Subtypning (AIDP/AMAN/AMSAN), prognos | Neurofysiologiskt lab |
+| CSF IL-8 | GBS vs CIDP-differentiering (cut-off 70 pg/mL, 96,7% specificitet) | Speciallab |
 
 ---
 
-## Hur du använder databasen
+## Alla forskningsdokument
 
-Använd flikarna **Sök** och **Fråga** ovan. Skriv din fråga på svenska eller engelska — systemet söker semantiskt genom all indexerad forskning och genererar svar med exakta källhänvisningar.
+| Dokument | Beskrivning |
+|----------|-------------|
+| [Beslutsalgoritm: GBS + IgA-brist](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) | Steg-för-steg klinisk beslutsalgoritm, IgA-säkra terapier |
+| [PE-refraktär GBS — behandlingsalternativ](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | Efgartigimod, imlifidase, svenska kontakter |
+| [Sekventiell terapi efter PE-svikt](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md) | PE→IVIg/efgartigimod/imlifidase timing och interaktioner |
+| [PE-koagulopati och trombosprofylax](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md) | Fibrinogendepletion, DVT-profylax, trakeostomitidpunkt |
+| [Hashimotos + IgA-brist + GBS](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md) | Autoimmunt kluster, levotyroxin vid IVA, sköldkörtel och nervregeneration |
+| [Prognostisk monitorering](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md) | NfL, mEGOS, EGRIS, elektrofysiologi, IVA-protokoll |
+| [Recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md) | R-GBS vs A-CIDP, EGRIS-scoring, koagulopati, trakeostomi |
+| [Svår GBS — intensivvård](/doc/01-GBS/Severe_GBS_ICU_Management.md) | Ventilator, autonom dysfunktion, smärta, prognos |
+| [IgA-brist, SCIG-tolerans och IVIg-säkerhet](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | Gamanorm → IVIg-implikationer, svenska produkter |
+| [GBS fullständig översikt](/doc/01-GBS/GBS_Comprehensive_Review.md) | Alla subtyper, patofysiologi, diagnostik, behandling |
+| [Selektiv IgA-brist — översikt](/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md) | Genetik, CVID-spektrum, autoimmuna associationer |
+| [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart fas 3, imlifidase fas 2, efgartigimod |
+| [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA-associationer, molekylär mimikry |
 
-**Exempelfrågor att prova:**
+---
+
+## Sök i databasen
+
+Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning och genererar svar med källhänvisningar.
+
+**Exempelfrågor:**
 
 - *What are the IgA-safe treatment options for refractory GBS?*
 - *Vilka biomarkörer kan prediktera behandlingssvar vid GBS?*
-- *What is the evidence for tanruprubart in GBS and when will it be available?*
-- *Hur skiljer man akut-debuterande CIDP från refraktär GBS?*
+- *Vad finns det för evidens vid plasmaferes-refraktär GBS med IgA-brist?*
 - *What is the anaphylaxis risk with IVIg in selective IgA deficiency?*
-- *Vad gör man när plasmaferes inte fungerar vid GBS med IgA-brist?*
-- *What antibody tests should be ordered in severe refractory GBS?*
-- *Vilka behandlingsalternativ finns tillgängliga i Sverige?*
+- *Hur skiljer man akut-debuterande CIDP från recidiverande GBS?*
+- *What is the evidence for efgartigimod in ventilator-dependent GBS?*
+- *Vilka koagulationströsklar gäller för trakeostomi?*
+- *How does thyroid function affect GBS prognosis and recurrence?*
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~250 peer-reviewed källor inklusive Cochrane-reviews, fas 2/3-data, EAN/PNS 2023-riktlinjer och publicerade fallrapporter. Senaste inkluderade data: januari 2026 (GAMMAGARD LIQUID ERC tillgänglighet), fas 3-resultat tanruprubart (2025), efgartigimod-fallrapporter (2025–2026), imlifidase fas 2 (2024).*
+*Sammanställd mars 2026. Baserad på ~400 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*

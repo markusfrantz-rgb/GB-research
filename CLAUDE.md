@@ -37,8 +37,9 @@ GB-research/
 ├── 01-GBS/                  ← GBS-forskning (3 dokument)
 ├── 02-IgA-deficiency/       ← IgA-brist-forskning (2 dokument)
 ├── 03-GBS-and-IgA-deficiency/ ← Kombinationen (1 dokument, nyckeldokument)
-├── 04-related-autoimmune/   ← Relaterade autoimmuna tillstånd
-├── 05-treatment-resistance/ ← Refraktär GBS och nya terapier (2 dokument)
+├── 04-related-autoimmune/   ← Relaterade autoimmuna tillstånd (2 dokument)
+├── 05-treatment-resistance/ ← Refraktär GBS, nya terapier, koagulopati, sekventiell terapi (4 dokument)
+├── 06-monitoring-prognosis/ ← Prognostisk monitorering, biomarkörer, IVA-protokoll (1 dokument)
 ├── metadata/                ← Index och källregister
 │
 ├── rag/                     ← RAG-systemet (Python)

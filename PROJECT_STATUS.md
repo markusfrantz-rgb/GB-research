@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-24
+> Senast uppdaterad: 2026-03-25
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (9 st, 245 chunks, ~250 referenser)
+### Forskningsdokument (13 st, ~330 chunks, ~400 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -19,8 +19,12 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 5 | `02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md` | Gamanorm-tolerans, IVIg-säkerhet, svenska produkter | Komplett |
 | 6 | `03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md` | Kombinationen: behandlingsalgoritm, IgA-säkra terapier | Komplett |
 | 7 | `04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md` | Relaterade autoimmuna tillstånd, delade mekanismer | Komplett |
-| 8 | `05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md` | Refraktär GBS, SID-GBS, komplementhämmare | Komplett |
-| 9 | `05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md` | PE-refraktär GBS, efgartigimod, imlifidase, svenska möjligheter | Komplett |
+| 8 | `04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md` | Trippelt autoimmunt kluster: Hashimotos + IgA-brist + GBS, levotyroxin vid IVA, sköldkörtel & nervåterhämtning | Komplett |
+| 9 | `05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md` | Refraktär GBS, SID-GBS, komplementhämmare | Komplett |
+| 10 | `05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md` | PE-refraktär GBS, efgartigimod, imlifidase, svenska möjligheter | Komplett |
+| 11 | `05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md` | PE-koagulopati, fibrinogen, DVT-profylax, trakeostomi-timing, blödning/trombos-balans | Komplett |
+| 12 | `05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md` | Sekventiell terapi: PE→IVIg→efgartigimod/imlifidase timing, interaktioner, beslutsstöd | Komplett |
+| 13 | `06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md` | Prognostisk monitorering: biomarkörer, kliniska skalor, elektrofysiologi, behandlingssvar, IVA-protokoll | Komplett |
 
 ### Infrastruktur
 
@@ -39,13 +43,15 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 ## Klinisk kontext
 
 Markus fru Madeleine:
-- 53 år, recidiverande GBS (första episod vid 16 års ålder)
+- 53 år, recidiverande GBS (första episod vid 16 års ålder, ~37 år sedan)
 - Känd selektiv IgA-brist, tolererat Gamanorm (SCIG)
+- Levotyroxin för sköldkörteln (troligen Hashimotos tyreoidit — autoimmun hypotyreos)
+- **Autoimmunt kluster:** GBS + selektiv IgA-brist + autoimmun sköldkörtelsjukdom (HLA-8.1-haplotyp-association)
 - Insjuknade fredag 2026-03-21, IVA/respirator inom timmar
 - Nära total förlamning
 - Fått 3 plasmaferesesessioner utan förväntat svar
 - Koagulopati utvecklad → trakeostomi uppskjuten
-- Status per 2026-03-24: avvaktar vidare behandlingsbeslut
+- Status per 2026-03-25: avvaktar vidare behandlingsbeslut
 
 ## Möjliga nästa steg
 
@@ -56,6 +62,10 @@ Markus fru Madeleine:
 - [ ] Tanruprubart EMA-status — bevaka
 - [ ] Nya fallrapporter GBS + IgA-brist (löpande PubMed-bevakning)
 - [ ] CIDP-differentiering: fördjupa diagnostiska biomarkörer
+- [x] PE-koagulopati: fibrinogendepletion, monitorering, ersättningsprotokoll
+- [x] DVT/PE-profylax vid immobiliserad GBS (incidens, LMWH, IPC)
+- [x] Trakeostomi-timing vid koagulopati (tröskelvärden, korrektion)
+- [x] Antikoagulationsbeslut vid samtidig koagulopati och immobilisering
 
 ### Teknik
 - [x] Egen domän — `gbs.ragbase.org` (DNS propagerar, bör vara klart 2026-03-25 morgon)
@@ -65,8 +75,11 @@ Markus fru Madeleine:
 
 ### Innehåll
 - [ ] Översätt KUNSKAPSBASEN.md till engelska (parallellversion)
-- [ ] Lägg till dokument om rehabilitering efter svår GBS
-- [ ] Lägg till dokument om psykologiskt stöd för närstående
+- [ ] **Fas 2 — Rehabilitering & livskvalitet** (pausad, tas efter akutfasen):
+  - [ ] Rehabilitering efter svår GBS (evidensbaserade protokoll, tidslinjer, milstolpar)
+  - [ ] Fatigue, kronisk smärta och livskvalitet långsiktigt
+  - [ ] Psykologiskt stöd: PICS, IVA-delirium, anhörigstöd
+  - [ ] Kommunikationsstrategier vid locked-in/ventilator
 
 ## Ändringslogg
 
@@ -79,3 +92,9 @@ Markus fru Madeleine:
 | 2026-03-25 | Auth verifierad och fungerande. Env var-felsökning dokumenterad. |
 | 2026-03-25 | Custom domain `gbs.ragbase.org` konfigurerad (Namecheap DNS + Railway). Paraplydomän `ragbase.org` registrerad. |
 | 2026-03-25 | Nyckeldokument-länktabell och deep-links från introsidan. Dokumentation färdigställd (CLAUDE.md, PROJECT_STATUS.md). |
+| 2026-03-25 | Nytt dokument: PE-koagulopati och trombosprofylax vid GBS (38 referenser). Täcker fibrinogendepletion, lab-monitorering, DVT-profylax, trakeostomi-timing, antikoagulationsbeslut. |
+| 2026-03-25 | Nytt dokument: Prognostisk monitorering vid akut GBS (27 referenser). NfL, mEGOS/EGRIS, NCS-timing, IVA-protokoll. |
+| 2026-03-25 | Nytt dokument: Sekventiell/kombinerad terapi efter PE-svikt. PE→IVIg timing, PE→efgartigimod (24-48h), imlifidase fördel vid koagulopati, beslutsstödsalgoritm. |
+| 2026-03-25 | Nytt dokument: Hashimotos-IgA-brist-GBS autoimmunt kluster (48 referenser). TSH >3.87 som riskfaktor för GBS-recidiv, levotyroxin vid IVA, T3 och nervregeneration. |
+| 2026-03-25 | Utökad klinisk kontext: Madeleines fullständiga profil inkl. Hashimotos, sömnapné, allergier, anisokori, CT-huvud, sederingsgrad. |
+| 2026-03-25 | Totalt nu: 13 forskningsdokument, ~400 referenser. Fas 2 (rehab/livskvalitet) dokumenterad som framtida steg. |

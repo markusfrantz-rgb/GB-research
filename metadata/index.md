@@ -69,6 +69,7 @@ Mapping of autoimmune conditions connected to GBS, IgA deficiency, or both.
 | Document | Description | Sections |
 |----------|-------------|----------|
 | [GBS-IgAD-Autoimmune-Conditions-Research.md](../04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Autoimmune comorbidity research | GBS-Associated, IgA-Associated, Overlapping Conditions, Immune Dysregulation Spectrum, Molecular Mechanisms, Clinical Implications |
+| [Hashimoto-IgAD-GBS-Autoimmune-Cluster.md](../04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md) | Triple autoimmune cluster: Hashimoto's + IgAD + GBS | Hashimoto's-IgAD Association, Hashimoto's-GBS Link, Levothyroxine ICU Management, Thyroid and Nerve Regeneration, Treatment Implications, HLA/Genetics |
 
 **Key topics covered:**
 - 6 overlapping conditions (SLE, T1D, thyroid disease, IBD, celiac, RA)
@@ -76,6 +77,13 @@ Mapping of autoimmune conditions connected to GBS, IgA deficiency, or both.
 - Molecular mimicry across conditions
 - Complement and cytokine pathway overlap
 - Clinical implications for treatment decisions
+- **Hashimoto's thyroiditis + IgA deficiency + GBS triple cluster**
+- TSH > 3.87 as independent risk factor for GBS recurrence (88.9% sensitivity, 90.4% specificity)
+- 70.1% thyroid autoantibody positivity rate in GBS patients
+- Levothyroxine management during ICU: enteral vs IV, drug interactions, NTIS interpretation
+- Thyroid hormone role in peripheral nerve regeneration (Schwann cells, myelination, neurotrophic factors)
+- Multiple Autoimmune Syndrome classification and screening protocol
+- Comprehensive autoimmune screening panel for IgA-deficient patients (IgG-based celiac tests)
 
 ---
 
@@ -85,6 +93,9 @@ Detailed evidence on treatment-resistant GBS and the therapy pipeline.
 | Document | Description | Sections |
 |----------|-------------|----------|
 | [Refractory_GBS_Comprehensive_Research.md](../05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | Complete refractory GBS research | TRF Definition, Second-Line Treatments, Clinical Trials, Biomarkers, Special Populations, Guidelines, Emerging Therapies |
+| [PE_Refractory_GBS_Treatment_Options.md](../05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | PE-refractory GBS treatment options | Switching modalities, efgartigimod, imlifidase, Swedish access pathways |
+| [PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md](../05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md) | PE-induced coagulopathy and thromboprophylaxis | Coagulation factor depletion, fibrinogen management, DVT prophylaxis, tracheostomy timing, dual-risk anticoagulation |
+| [Sequential_Combined_Therapy_After_PE_Failure.md](../05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md) | Sequential therapy after PE failure | IVIg after PE (timing, SID-GBS applicability), efgartigimod sequencing, imlifidase after PE (coagulopathy advantage), tanruprubart after PE, decision algorithm |
 
 **Key topics covered:**
 - SID-GBS trial results (second IVIg course futility)
@@ -93,6 +104,40 @@ Detailed evidence on treatment-resistant GBS and the therapy pipeline.
 - Efgartigimod case reports and ongoing Phase 2
 - NfL, delta-IgG, and complement biomarkers
 - 2023 EAN/PNS guideline recommendations
+- PE-induced coagulopathy: fibrinogen depletion kinetics, monitoring protocols, replacement strategies
+- DVT/PE incidence in GBS (up to 52% with LMWH prophylaxis) and prevention
+- Tracheostomy timing and coagulation thresholds
+- Balancing bleeding vs thrombotic risk in immobilized GBS patients on PE
+- **Sequential therapy after PE failure**: IVIg timing (≥48h after last PE), efgartigimod (24-48h after PE, bypasses IgA risk)
+- Efgartigimod removes therapeutic IVIg (wait 7-14 days if IVIg given first)
+- Imlifidase: no clotting factor depletion (advantage over PE in coagulopathic patients)
+- PE → efgartigimod is safest sequence for IgA-deficient patients (no immunoglobulin exposure)
+- Decision algorithm for PE-refractory GBS with IgA deficiency in Sweden (March 2026)
+
+---
+
+### 06-monitoring-prognosis/ -- Prognostic Monitoring and Disease Assessment
+Comprehensive guide to monitoring disease status, treatment response, and predicting outcomes in acute GBS.
+
+| Document | Description | Sections |
+|----------|-------------|----------|
+| [GBS_Prognostic_Monitoring_Comprehensive_Review.md](../06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md) | Complete prognostic monitoring guide | Biomarkers (NfL, anti-ganglioside, complement, CSF, cytokines), Clinical Scales (Hughes, MRC, mEGOS, EGRIS, R-ODS), Electrophysiology (NCS timing, serial studies, inexcitable nerves), Treatment Response Monitoring (TRF, IgG kinetics, ANX005), ICU Protocols (respiratory, autonomic, nutrition, infection, lab schedule), Recurrent GBS Prognosis |
+
+**Key topics covered:**
+- Serum NfL: cutoff 85.5 pg/mL, serial dynamics peaking at 22.8 days, IGOS cohort data (n=281)
+- Anti-GM1 titers: persistence rates, dose-response with outcome, HR = 2.11 for high titers
+- Complete mEGOS scoring tables (admission and week 1 versions) with AUC values
+- Complete EGRIS scoring table with risk stratification
+- NCS timing protocol: first study within 10 days, follow-up within 3 weeks
+- Inexcitable nerves dose-response: 0 IM = 81% recovery, 6 IM = 23% recovery
+- IgG pharmacokinetics: deltaIgG target > 7.3 g/L, only 33% of severe patients reach it
+- FVC monitoring thresholds and the 20-30-40 rule with current evidence critique
+- Autonomic dysautonomia: systolic BP variation > 85 mmHg predicts bradyarrhythmias
+- Complete ICU lab monitoring schedule (daily, 2-3x/week, weekly)
+- ANX005 Phase 3 data: NfL as pharmacodynamic biomarker
+- Recurrent GBS: 2-5% rate, younger patients, severity varies between episodes
+- Age-specific prognostic data for patients aged 41-60 and >= 70 years
+- Practical monitoring checklist organized by time point
 
 ---
 
@@ -123,7 +168,11 @@ Detailed evidence on treatment-resistant GBS and the therapy pipeline.
 | Combined GBS+IgA Review | 26 | Cochrane reviews, Phase 3 trials, systematic reviews |
 | Autoimmune Conditions | 44 | Systematic reviews, meta-analyses, case series |
 | Refractory GBS Research | 29 | RCTs, Phase 2/3 trials, guidelines |
-| **Total unique references** | **~150+** | |
+| PE-Refractory Treatment Options | 25+ | Guidelines, case reports, off-label protocols |
+| PE Coagulopathy & Thromboprophylaxis | 38 | Prospective studies, guidelines, systematic reviews |
+| Hashimoto-IgAD-GBS Cluster | 48 | GWAS, meta-analyses, case reports, guidelines, preclinical studies |
+| GBS Prognostic Monitoring | 27 | IGOS cohort, RCTs, Phase 3 trials, meta-analyses, guidelines |
+| **Total unique references** | **~325+** | |
 
 ---
 
