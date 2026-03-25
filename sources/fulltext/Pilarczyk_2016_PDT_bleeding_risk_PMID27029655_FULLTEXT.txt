@@ -1,0 +1,1416 @@
+Anaesth Intensive Care 2016 | 44:2
+
+Bleeding complications after tracheostomy
+
+Risk factors for bleeding complications after percutaneous
+dilatational tracheostomy: a ten-year institutional analysis
+K. Pilarczyk*, N. Haake†, M. Dudasova‡, B. Huschens§, D. Wendt**, E. Demircioglu††, H. Jakob‡‡, F. Dusse§§
+
+Summary
+
+Bleeding complications after percutaneous dilatational tracheostomy (PDT) are infrequent but may have a tremendous impact
+on a patient's further clinical course. Therefore, it seems necessary to perform risk stratification for patients scheduled for
+PDT. We retrospectively reviewed the records of 1001 patients (46% male, mean age 68.1 years) undergoing PDT (using the
+Ciaglia Blue Rhino® technique with direct bronchoscopic guidance) in our cardiothoracic ICU between January 2003 and
+February 2013. Patients were stratified into two groups: patients suffering acute moderate, severe, or major bleeding (Group
+A) and patients who had no or only mild bleeding (Group B). In the majority of patients, no or only mild bleeding during PDT
+occurred (none: 425 [42.5%], mild: 488 [48.8%]). In 84 patients (8.4%), bleeding was classified as moderate. Three patients
+suffered from severe bleeding; only one major bleed with need for emergency surgery occured. Patients in Group A had a
+significantly higher Simplified Acute Physiology Score on the day of PDT (P=0.042), higher prevalence of renal replacement
+therapy on the day of PDT (P=0.026), higher incidence of coagulopathy (P=0.043), lower platelet counts (P=0.037), lower
+fibrinogen levels (P=0.012), higher proportion of PDTs performed by residents (P=0.034) and higher difficulty grading of PDT
+(P=0.001). Using logistic regression analyses, difficult PDT, less experienced operator, Simplified Acute Physiology Score >40
+and low fibrinogen levels were independent predictors of clinically significant bleeding after PDT.
+
+Key Words: percutaneous dilatational tracheostomy, coagulopathy, bleeding
+Tracheostomy is regularly considered as an airway access
+option in critically ill patients requiring prolonged mechanical
+ventilation to facilitate adequate airway management and
+ventilatory weaning. Since the introduction of guide-wire–
+assisted percutaneous dilatational tracheostomy (PDT) into
+routine clinical practice by Ciaglia et al, this technique or its
+modifications have been increasingly used in different patient
+populations1,2. Although complication rates of PDT seem to
+be lower or comparable to open surgical tracheostomy, this
+approach is an invasive procedure with early complications
+including bleeding, infection, pneumothorax, technical
+failure and perioperative hypoxia due to tube obstruction or
+* MD, Cardiac Surgeon, Specialist Intensive Care Medicine, West German Heart and
+Vascular Center, Department for Thoracic and Cardiovascular Surgery, University
+Hospital Essen, Essen, Germany
+† MD, Cardiac Surgeon, Medical Director, Specialist Intensive Care Medicine,
+Department of Intensive Care Medicine, Imland Klinik Rendsburg, Rendsburg,
+Germany
+‡ MD, Resident Cardiac Surgeon, West German Heart and Vascular Center, Department
+for Thoracic and Cardiovascular Surgery, University Hospital Essen, Essen, Germany
+§ MD, Anaesthesiology Resident, Department for Anaesthesiology and Intensive Care,
+University Hospital Essen, Essen, Germany
+** MD, Specialist Cardiac Surgeon, West German Heart and Vascular Center,
+Department for Thoracic and Cardiovascular Surgery, University Hospital Essen,
+Essen, Germany
+†† MD, Specialist Cardiologist and Critical Care Specialist, West German Heart and
+Vascular Center, Department for Thoracic and Cardiovascular Surgery, University
+Hospital Essen, Essen, Germany
+‡‡ MD PhD, Professor of Cardiac Surgery, Chief of Department for Thoracic and
+Cardiovascular Surgery, West German Heart and Vascular Center, Department for
+Thoracic and Cardiovascular Surgery, University Hospital Essen, Essen, Germany
+§§ MD, Specialist Anaesthesiologist and Intensive Care Medicine, West German Heart
+and Vascular Center, Department for Thoracic and Cardiovascular Surgery, University
+Hospital Essen, Essen, Germany
+Address for correspondence: Dr Kevin Pilarczyk. Email: kevin.pilarczyk@imland.de
+Accepted for publication on October 20, 2015
+
+accidental decannulation3. Bleeding can have a tremendous
+impact on further clinical course as bleeding or vascular
+injury account for the majority of fatal complications4.
+Against this background, it seems necessary to perform
+risk stratification for patients scheduled for PDT, which
+is a common elective procedure. A number of potential
+risk factors for periprocedural complications during PDT
+have been stated, including coagulopathy, repeat PDT, less
+experienced operator, obesity and low puncture site5–7.
+However, most studies included patients with percutaneous
+and open surgical tracheostomy, had a small sample size,
+and the definition and classification of complications varied
+significantly. Consequently, there is still controversy about the
+association of specific risk factors and complications during
+percutaneous tracheostomy. Therefore, it was the aim of our
+study to assess the risk factors for periprocedural bleeding of
+PDT in patients after cardiothoracic surgery.
+
+Materials and methods
+Patients
+Between January 2003 and February 2013, data were
+prospectively collected on all consecutive patients undergoing
+PDT at our cardiothoracic ICU, in our institutional database.
+A retrospective analysis was then performed. The study was
+approved by the Institutional Review Board. All patients
+had previously granted permission for use of their medical
+records for research purposes. Within the observation
+period, all patients with expected prolonged mechanical
+
+227
+
+Anaesth Intensive Care 2016 | 44:2
+
+K. Pilarczyk et al
+
+Figure 1: Description of the study population and classification of patients according to periprocedural bleeding complications.
+
+ventilation were evaluated for PDT. Risk stratification of
+patients undergoing PDT was mainly based on medical history
+(e.g. difficult airway, coagulation abnormalities) as well as
+clinical assessment by the performing physician. Absolute
+contraindications to PDT in our institution included unstable
+fractures of the cervical spine and severe local infection of
+the anterior neck. In these cases, patients were primarily
+assigned to surgical tracheostomy. Other conditions, such
+as difficult anatomy (e.g. morbid obesity, short thick neck,
+reduced neck extension, excessive goitre and tracheal
+deviation), elevated intracranial pressure, haemodynamic
+instability and previous radiotherapy to the neck were
+considered as relative contraindications. To identify risk
+factors for periprocedural bleeding, patients were divided
+into patients suffering acute moderate, severe, or major
+bleeding (Group A) and patients who had no or only mild
+bleeding (Group B). Patients were considered to have a
+coagulopathy if one or more of the following criteria were
+met: 1) platelets <50 x 109/l, 2) prothrombin time (PT) > 50%
+of the normal reference value, and/or 3) activated partial
+thromboplastin time (aPTT) >50 seconds. Perioperative risk
+evaluation was based on two critical care scoring systems: the
+Simplified Acute Physiology Score (SAPS) and the Therapeutic
+Intervention Scoring System-288. In addition, the European
+System for Cardiac Operation Risk Evaluation (EuroSCORE)
+II was calculated for every patient9. The EuroSCORE is the
+most commonly used tool to assess operative mortality risk
+in cardiac surgery. The first EuroSCORE, initially based on
+an additive system derived by a logistic regression model,
+was developed on data collected in 1995 and reported in
+1999 to predict in-hospital or 30-day mortality. Recently,
+
+228
+
+in order to improve the poor calibration and to optimise
+EuroSCORE usefulness, an updated version of this model has
+been proposed for the assessment of cardiac surgical risk
+(EuroSCORE II).
+
+Performance of PDT
+The decision to perform tracheostomy was made by the
+executive consultant or the head of the department. The
+indication for tracheostomy was respiratory failure attributed
+to a variety of underlying medical conditions, most commonly
+exacerbation of chronic lung disease, muscle weakness,
+neurological deterioration, pulmonary infection or acute
+lung injury. The Ciaglia Blue Rhino® technique, with direct
+bronchoscopic guidance by the Tracoe Medical™ system
+(experc Dilatation Set, Tracoe Medical GmbH, Nieder-Olm,
+Germany) was used in all patients. All procedures were
+performed at the bedside in the ICU by an experienced
+consultant in cardiothoracic surgery or anaesthesiology with
+specialisation in critical care (at least 50 PDTs performed)
+or a senior ICU trainee under consultant supervision. Two
+physicians and at least one nurse were always present; the
+cardiothoracic surgery team provided surgical cover. One
+physician provided video bronchoscopic guidance and the
+other performed the procedure. Informed consent was
+obtained prior to intervention from the patient’s next of kin.
+Patients were sedated and given analgesia as needed.
+Commonly used sedatives were remifentanil, propofol and
+midazolam. Neuromuscular blockade was achieved in most
+cases with rocuronium. The fraction of inspired oxygen was
+increased to 1.0 and ventilator settings were kept unchanged;
+apart from patients on pressure support ventilation, in
+
+Anaesth Intensive Care 2016 | 44:2
+
+whom a controlled mode of ventilation was initiated for the
+period of the intervention and maintained until reversal of
+paralysis. Continuous monitoring of heart rate, peripheral
+transcutaneous oxygen saturation and invasive arterial blood
+pressure was performed in all patients. Resuscitation and
+difficult airway equipment was present at the bedside.
+Patients were placed in the supine position with their necks
+extended and were prepared and draped in a sterile manner.
+Routine pre-PDT ultrasound screening was not performed
+during the whole observation period but was established in
+2013. Flexible bronchoscopic visualisation was routinely used
+to facilitate insertion in all patients. A bronchoscope was
+advanced to the end of the endotracheal tube (ETT). After
+deflating the cuff, the ETT was slowly withdrawn until the
+bronchoscope light illuminated the planned tracheostomy
+site or digital pressure of the trachea over the site could be
+seen through the bronchoscope.
+A 16-gauge introducer needle with introducer sheath was
+advanced into the trachea in the midline between the first
+and second or the second and third tracheal cartilage rings.
+The needle was removed and a J-wire was advanced inferiorly
+through the introducer sheath, then the introducer sheath
+was removed. A small skin incision (approximately 1.0 to 1.5
+cm) was made with a scalpel at the entry site of the wire. A
+14F introducer dilator was then advanced. Following this, one
+large hydrophilic dilator with a guiding catheter was advanced
+over the wire until the stoma was appropriately dilated
+for passage of the cannula and the dilator was removed. A
+tracheostomy cannula—loaded onto a guiding catheter—was
+advanced over the J-wire into the trachea followed by balloon
+insufflation. The guiding catheter and J-wire were removed,
+leaving the tracheostomy cannula in place. Ventilation was
+then switched from the ETT to the tracheostomy tube.
+Regions of the trachea superior and inferior to the cannula
+were examined, blood was aspirated if necessary, and the
+ETT was removed. The tracheostomy tube was secured with
+neck ties. Chest X-ray was routinely performed after PDT to
+rule out a pneumothorax. Coagulopathy, if present before
+percutaneous tracheostomy, was not routinely corrected.
+
+Statistical analysis
+Statistical analyses were performed with SPSS Statistics
+19 (IBM, Chicago, IL, USA). Continuous data were expressed
+as mean ± standard deviation; categorical data were
+expressed as percentages. Comparisons between the two
+groups were carried out using unpaired student’s t-test for
+normally, or the Mann–Whitney Rank Sum Test for nonnormally, distributed data. Multiple groups were compared
+with analysis of variance. Univariate analysis was performed
+on the quantitative variables using student’s t-test or the
+Mann–Whitney U test, and on the qualitative variables
+using the chi-square test or Fisher’s exact test. All variables
+showing a P-value of less than 0.1 between the two groups
+using student’s t-test, Mann–Whitney U test, chi-square test
+
+Bleeding complications after tracheostomy
+
+or Fisher’s exact test were selected for univariate analysis.
+In addition, previously published risk factors for bleeding
+complications such as obesity were included, even if they
+did not meet the criteria mentioned above. Variables
+with P <0.1 in the univariate analysis were included in a
+logistic regression model to determine independent factors
+associated with bleeding complications. Model calibration
+was tested using the Hosmer–Lemeshow test. Statistical
+significance was assumed for a P-value <0.05.
+
+Assessment of complications
+Complications related to PDT such as death, hypoxaemia,
+pneumothorax, bleeding, tracheal injuries (posterior
+wall perforation, fractures of tracheal rings), cannula
+dislocation, premature decannulation and stomal
+infections were documented. Acute bleeding was defined
+as endo- or extrabronchial bleeding occurring during
+tracheostomy (between skin incision and insertion of the
+tracheostomy tube). Acute bleeds were subclassified as
+mild (extrabronchial: 1 to 5 ml, endobronchial: 1 to 2 bloodcovered tracheal rings or presence of some blood on the
+posterior tracheal wall not requiring intratracheal suction),
+moderate (extrabronchial: 5 to 20 ml, endobronchial: PDT site
+blood-covered or segmental bronchus obstructed by blood),
+severe (extrabronchial: 20 to 50 ml, endobronchial: mainstem
+bronchus obstructed by blood) and major (>50 ml and/
+or surgical intervention/transfusion required). The volume
+of periprocedural extrabronchial blood loss was calculated
+by measuring the difference in weight of the gauzes before
+and after the procedure. Insertion of the tracheostomy tube
+was graded as easy, moderately difficult, very difficult or
+impossible based on subjective assessment by the performing
+physician rather than objective criteria. Obesity was defined
+as a body mass index >30 kg/m2; low PDT puncture was
+defined as puncture below the fourth tracheal ring. Patients
+were followed up until discharge from the hospital.
+
+Results
+During the observation period, a total of 13,542 patients
+were admitted to our cardiothoracic ICU. Out of these, 1012
+patients (7.5%) were scheduled for tracheostomy (see Figure
+1). Excluding patients primarily assigned for open surgical
+tracheostomy due to contraindications for PDT (n=11),
+1001 patients underwent PDT with a success rate of 99.8%
+(999/1001). No patients were lost to follow-up.
+One patient had major bleeding due to a periprocedural
+laceration of the brachiocephalic trunk with need for
+emergency surgery; three patients had severe bleeding; and
+84 (8.4%) were classed as having moderate bleeding (Group
+A, n=88). Bleeding was classed as nil in 425 patients (42.5%)
+and mild in 488 (48.8%), thus there were 913 patients in
+Group B (Figure 1).
+There were no deaths associated with PDT, and no patient
+
+229
+
+Anaesth Intensive Care 2016 | 44:2
+
+K. Pilarczyk et al
+
+suffered a major complication, such as cardiac arrest,
+hypoxaemia, accidental extubation or pneumothorax.
+Other early complications were observed infrequently:
+misplacement in one patient (0.1%), posterior wall injury
+in two patients (0.2%), and hypotension in three patients
+(0.3%). Fracture of the tracheal ring occurred in 24/84
+(28.6%) and 295/913 (32.3%) without any effect on further
+clinical course. Late complications included purulent stomal
+infection in three cases (0.3%), mediastinitis in 34 cases
+(3.4%) and development of granuloma in two patients (0.2%).
+Table 1 shows the main characteristics of patients with
+bleeding complications compared to those without. Whereas
+baseline demographics including age, gender, body mass
+index, EuroSCOREII, SAPS and Therapeutic Intervention
+Scoring System-28 on the day of admission to ICU as well as
+
+type of surgery did not differ between the two groups; SAPS
+on the day of PDT was significantly higher in Group A (47.0 ±
+13.1 versus 32.9 ± 11.2, P=0.042). Renal replacement therapy
+(RRT) on the day of PDT was more frequently performed in
+patients with bleeding complications (53 [60.2%] versus 439
+[48.1%], P=0.026). ICU stay (25.8 ± 26.6 versus 24.8 ± 22.4
+days), as well as hospital mortality (29 [32.9%] versus 284
+[31.1%]) were comparable between the two study groups.
+Whereas activated clotting time, aPTT, and PT did not
+differ between the two study groups, mean platelet count
+and mean fibrinogen levels were significantly lower in the
+bleeding group (platelet count: 91.6 ± 59.2 versus 111.5 ±
+79.8 × 109/l, P=0.037; fibrinogen level: 10.9 ± 4.7 versus 13.3
+± 7.6 μmol/l, P=0.012, Table 2). Accordingly, proportions of
+patients with platelets <80 × 109 /l (51 [57.9%] versus 378
+
+Table 1
+Patient characteristics comparing patients with and without moderate to major bleeding
+complications
+Group A
+Acute Bleeding
+(n=88)
+
+Group B
+No Bleeding
+(n=913)
+
+P-value
+
+Age (years)
+
+70.5±10.6
+
+70.5±11.9
+
+n.s.
+
+BMI (kg/m )
+
+26.8±4.6
+
+27.1±6.2
+
+n.s.
+
+Obesity (n, %)
+
+14 (15.9)
+
+190 (20.4)
+
+n.s.
+
+2
+
+Male gender (n, %)
+
+57 (64.7)
+
+596 (65.3)
+
+n.s.
+
+Time from intubation to PDT (days)
+
+3.7±3.2
+
+3.8±3.3
+
+n.s.
+
+Reintubation (n,%)
+
+36 (40.9)
+
+376 (41.2)
+
+n.s.
+
+RRT (n, %)
+
+53 (60.2)
+
+439 (48.1)
+
+0.026
+
+SAPS, day of surgery
+
+37.3±8.1
+
+33.1±12.6
+
+n.s.
+
+SAPS, day of PDT
+
+47.0±13.1
+
+32.9±11.2
+
+0.042
+
+SAPS >40 (n, %)
+
+60 (68.2)
+
+230 (25.2)
+
+<0.001
+
+TISS-28, day of surgery
+
+23.0±5.2
+
+23.0±12.1
+
+n.s.
+
+TISS-28, day of PDT
+
+23.0±5.2
+
+21.9±8.8
+
+n.s.
+
+EuroSCORE II (%)
+
+10.1±11.1
+
+10.9±11.6
+
+n.s.
+
+CABG
+
+36 (40.9)
+
+343 (37.6)
+
+n.s.
+
+AVS
+
+10 (11.4)
+
+108 (11.8)
+
+n.s.
+
+MVS
+
+5 (5.7)
+
+44 (4.8)
+
+n.s.
+
+Combined surgery
+
+27 (30.7)
+
+266 (29.1)
+
+n.s.
+
+Aortic surgery
+
+5 (5.7)
+
+89 (9.7)
+
+n.s.
+
+Thoracic transplant
+
+1 (1.1)
+
+20 (2.2)
+
+n.s.
+
+Others
+
+4 (4.5)
+
+43 (4.7)
+
+n.s.
+
+ICU stay (days)
+
+25.8±26.6
+
+24.8±22.4
+
+n.s.
+
+Hospital mortality (n, %)
+
+29 (32.9)
+
+284 (31.1)
+
+n.s.
+
+Surgery (n, %)
+
+n.s.
+
+BMI=body mass index, PDT=percutaneous dilatational tracheostomy, RRT=renal replacement
+therapy, SAPS=Simplified Acute Physiology Score, TISS-28=Therapeutic Intervention Scoring
+System 28, EuroSCORE=European System for Cardiac Operation Risk Evaluation, CABG=coronary
+artery bypass grafting, AVS=aortic valve surgery, MVS=mitral valve surgery, n.s.=not significant.
+
+230
+
+Anaesth Intensive Care 2016 | 44:2
+
+Bleeding complications after tracheostomy
+
+[41.4%], P=0.007) and patients with low fibrinogen levels <7.4
+μmol/l (27 [30.7%] versus 171 [18.7%], P=0.022) was higher
+in the group of patients with bleeding complications as well
+as the proportion of patients with coagulopathy (48 [54.5%]
+versus 393 [43.0%], P=0.043). There was no significant
+difference in the prevalence of antiplatelet therapy (aspirin
+or clopidogrel as monotherapy or both as dual therapy)
+between patients with bleeding during tracheostomy and
+those without.
+Detailed technical information about PDT comparing
+patients with and without bleeding complications are given
+in Table 3. Most PDT tube insertions were graded as easy
+or moderately difficult in both groups. However, grading
+of PDT as moderately or very difficult was more frequently
+observed in patients with bleeding complications (31 [35.2%]
+versus 141 [15.4%], P=0.001). The majority of all tubes were
+placed between the 1st and 2nd, or 2nd and 3rd ring, without
+any group difference. In 36 cases, patients had undergone
+previous PDT with equal distribution between the two
+groups. In Group A, statistically more PDTs were performed
+by residents than in Group B (72 [81.8%] versus 632 [69.2%],
+P=0.034).
+The results of univariate and multivariate logistic regression
+analyses are presented in Table 4. In univariate analyses,
+difficult PDT (odds ratio [OR] 2.98, 95% confidence interval
+[CI] 1.86 to 4.78, P <0.001), resident-status of the operator
+(OR 2.00, 95% CI 1.4 to 3.50, P=0.015), low fibrinogen
+Table 2
+Coagulative status of patients with and without moderate to major bleeding
+complications
+
+<7.4 μmol/l (OR 1.92, 95% CI 1.19 to 3.11, P=0.008), low
+platelets <80 × 109 /l (OR 1.95, 95% CI 1.25 to 3.04, P=0.003),
+coagulopathy (OR 1.56, 95% CI 1.01 to 2.43, P=0.046),
+need for RRT on the day of PDT (OR 1.64, 95% CI 1.05 to
+2.55, P=0.0308), and SAPS >40 (OR 6.87, 95% CI 4.24 to
+10.54, P <0.001) were predictors of moderate to major
+bleeding complications. In contrast, obesity, repeat PDT and
+low PDT puncture site did not affect incidence of bleeding
+complications. After adjusting for all significant factors in
+univariate analyses, difficult PDT (OR 2.01, 95% CI 1.27 to
+3.20, P=0.003), resident-status of the operator (OR 2.10, 95%
+CI 1.12 to 3.97, P=0.021), SAPS >40 (OR 6.40, 95% CI 3.79 to
+10.82, P <0.001) and low fibrinogen (OR 1.85, 95% CI 1.05 to
+3.27, P=0.033) remained independent predictors of moderate
+to major bleeding complications after PDT.
+
+Discussion
+The present study demonstrated that low fibrinogen
+levels as well as difficult PDT, less experienced operator and
+SAPS >40 are independent predictors of moderate to major
+bleeding complications after PDT.
+The overall incidence of bleeding complications—including
+moderate as well as severe bleeding events—was 8.8 % in
+our series, being somewhat higher than in recent reports10,11.
+However, it has to be mentioned that it is difficult to
+compare different studies about bleeding complications
+Table 3
+Technical details of PDT comparing patients with and without moderate to
+major bleeding complications
+Group A
+Acute Bleeding
+(n=88)
+
+Group B
+No Bleeding
+(n=913)
+
+P-value
+
+1st/2nd ring or 2nd/3rd ring
+
+69 (78.4)
+
+786 (86.1)
+
+n.s.
+
+3rd/4th ring or below
+
+15 (17.9)
+
+110 (12.4)
+
+n.s.
+
+Easy
+
+57 (64.8)
+
+785 (85.9)
+
+0.001
+
+Moderately difficult
+
+27 (30.7)
+
+108 (11.8)
+
+0.001
+
+n.s.
+
+Very difficult
+
+2 (2.3)
+
+33 (3.6)
+
+n.s.
+
+160 (17.5)
+
+n.s.
+
+Impossible
+
+2 (2.3)
+
+0 (0)
+
+n.s.
+
+10.9±4.7
+
+13.3±7.6
+
+0.012
+
+Other than easy
+
+31 (35.2)
+
+141 (15.4)
+
+0.001
+
+Fibrinogen <7.4 μmol/l (n, %)
+
+27 (30.7)
+
+171 (18.7)
+
+0.022
+
+Tracheostomy tube used (n, %)
+
+Mono antiplatelet therapy (n, %)
+
+52 (59.0)
+
+526 (57.6)
+
+n.s.
+
+8 mm ID
+
+32 (36.4)
+
+346 (37.9)
+
+n.s.
+
+Dual antiplatelet therapy (n, %)
+
+6 (6.8)
+
+44 (4.8)
+
+n.s.
+
+9 mm ID
+
+56 (63.6)
+
+567 (62.1)
+
+n.s.
+
+Coagulopathy (n, %) *
+
+48 (54.5)
+
+393 (43.0)
+
+0.043
+
+Success rate
+
+86 (97.7)
+
+931 (100)
+
+n.s.
+
+Performed by resident
+
+72 (81.8)
+
+632 (69.2)
+
+0.034
+
+Repeat PDT
+
+3 (3.4)
+
+33 (3.6)
+
+n.s.
+
+Group A
+Acute Bleeding
+(n=88)
+
+Group B
+No Bleeding
+(n=913)
+
+P-value
+
+ACT (s)
+
+126.0±21.9
+
+124.3±22.8
+
+n.s.
+
+Platelets (× 109 /l)
+
+91.6±59.2
+
+111.5±79.8
+
+0.037
+
+Platelets <80 × 109 /l (n, %)
+
+51 (57.9)
+
+378 (41.4)
+
+0.007
+
+Difficulty of insertion (n, %)
+
+aPTT (s)
+
+48.0±18.9
+
+45.8±16.1
+
+n.s.
+
+aPTT >50 s (n, %)
+
+28 (31.8)
+
+239 (26.2)
+
+n.s.
+
+PT (% normal reference)
+
+70.1±22.6
+
+78.8±59.5
+
+PT >50% normal reference (n, %)
+
+16 (18.2)
+
+Fibrinogen (mean, μmol/l)
+
+Puncture site between (n, %)
+
+ACT=activated clotting time, aPTT=activated partial thromboplastin time,
+PT=prothrombin time, n.s.=not significant.
+*one or more of the following criteria were met: 1) platelets <50 x 109 /l,
+2) prothrombin time (PT) > 50% of the normal reference value, and/or 3)
+activated partial thromboplastin time (aPTT) >50 seconds.
+
+PDT=percutaneous dilatational tracheostomy, ID=internal diameter, n.s.=not
+significant.
+
+231
+
+Anaesth Intensive Care 2016 | 44:2
+
+K. Pilarczyk et al
+
+Table 4
+Univariate and multivariate analysis of risk factors for acute moderate to major bleeding
+Univariate analysis
+Difficult PDT
+
+Multivariate analysis
+
+OR
+
+95% CI
+
+P-value
+
+OR
+
+95% CI
+
+P-value
+
+2.98
+
+1.86–4.78
+
+<0.001
+
+2.01
+
+1.27–3.20
+
+0.003
+
+Resident
+
+2.00
+
+1.43–3.502
+
+0.015
+
+2.11
+
+1.12–3.97
+
+0.021
+
+Obesity*
+
+0.72
+
+0.39–1.33
+
+0.277
+
+-
+
+-
+
+-
+
+Re-PDT
+
+0.94
+
+0.28–3.13
+
+0.921
+
+-
+
+-
+
+-
+
+Fibrinogen <7.4 μmol/l
+
+1.92
+
+1.19–3.11
+
+0.008
+
+1.85
+
+1.05–3.27
+
+0.033
+
+Platelets <80 × 109 /l
+
+1.95
+
+1.25–3.04
+
+0.003
+
+1.52
+
+0.88–2.61
+
+0.133
+
+Coagulopathy†
+
+1.56
+
+1.01–2.43
+
+0.046
+
+1.45
+
+0.84–2.48
+
+0.180
+
+SAPS >40
+
+6.87
+
+4.24–10.54
+
+<0.001
+
+6.40
+
+3.79–10.82
+
+<0.001
+
+Low puncture‡
+
+1.50
+
+0.83–2.71
+
+0.178
+
+-
+
+-
+
+-
+
+RRT
+
+1.64
+
+1.05–2.55
+
+0.0308
+
+1.42
+
+0.71–2.82
+
+0.144
+
+*Body mass index >30 kg/m2. † prothrombin time > 50% of the normal reference value, activated partial thromboplastin
+time >50 seconds, and/or platelet count <50 × 109 /l. ‡ PDT below 3rd tracheal ring. PDT=percutaneous tracheostomy,
+SAPS=Simplified Acute Physiology Score, RRT=renal replacement therapy.
+
+as the definition and classification of bleeding is not
+consistent throughout the studies and some did not include
+endobronchial bleeding at all. As our definition of bleeding
+includes both endobronchial and extrabronchial bleeding
+and the grading is very strict, this may be at least partly
+responsible for the higher overall incidence of bleeding
+events in our cohort.
+There is little data in the literature about the impact of
+coagulopathy/thrombocytopenia on bleeding events after
+PDT. Beiderlinden investigated the effect of the preoperative
+coagulation status on the incidence of acute and chronic
+bleeding in 415 consecutive patients11. Acute bleeding was
+not related to coagulopathy in general, but prolonged aPTT,
+a low platelet count and abnormalities of two or more of
+aPTT, platelets and PT significantly increased the risk for
+chronic bleeding. One limitation of this study is the fact that
+different techniques of PDT were used during the observation
+period. In another retrospective study, the number of
+bleeding complications related to PDT was minimal, despite
+elevated aPTT or International Normalized Ratio (INR) or
+thrombocytopenia10. A prospective cohort study with 60
+consecutive patients in need of tracheostomy insertion
+showed that PDT in coagulopathic patients with liver disease
+or following liver transplantation for acute liver failure
+is safe12. Clinically relevant bleeding complications were
+infrequent, even in patients with refractory coagulopathy12.
+Although patients after cardiac surgery represent a
+high risk population as most of them require adequate
+anticoagulation, especially after valve replacement and
+with any kind of assist device, data about the association of
+bleeding complications during PDT and coagulation disorders
+after cardiac surgery are rare. Takahashi reported no bleeding
+complications in 149 patients undergoing PDT, 75 of whom
+
+232
+
+(49%) were coagulopathic13. Another retrospective study with
+213 patients (85 with coagulopathy) could not detect any
+impact of impaired haemostasis on periprocedural bleeding
+complications14.
+In our study, coagulopathy was more frequently observed
+in patients with moderate to major bleeding after PDT, and
+coagulopathy as well as low platelets and low fibrinogen
+levels represented a risk factor for bleeding events in
+univariate analysis. In multivariate analyses, only low
+fibrinogen levels remained a significant predictor. To our
+knowledge, this is the first study describing an association of
+fibrinogen levels and bleeding after PDT. All studies including
+ours did not include fibrinogen in their primary definition
+of coagulopathy but used platelets, PT or INR and aPTT as
+criteria for a coagulation disorder. In addition, no other
+study reported fibrinogen levels at all. A fibrinogen level of
+2.9 μmol/l is traditionally considered to be the threshold
+plasma concentration required for adequate haemostasis.
+Recently published data have shown an increased peri- and
+postoperative bleeding risk in different patient populations
+with low plasma fibrinogen levels15. A recent study showed
+that a low fibrinogen level is independently associated
+with injury severity and replacement with cryoprecipitate
+improved survival in trauma patients16. Based on our results,
+low fibrinogen levels are an independent predictor for acute
+bleeding complications during PDT.
+Thrombocytopenia is a common finding in critically ill
+patients, often associated with a higher incidence of bleeding,
+prolonged ICU stay and increased mortality17. This applies, in
+particular, for patients undergoing cardiac surgery, with
+cardiopulmonary bypass resulting in an initial drop in the
+platelet count of approximately 50% on the initiation of bypass,
+and a nadir of platelet count on the second or third day after
+
+Anaesth Intensive Care 2016 | 44:2
+
+surgery17. There is little data about the association of
+thrombocytopenia and bleeding complications after PDT.
+Beiderlinden et al found thrombocytopenia to be the strongest
+single risk factor of chronic bleeding and recommended platelet
+transfusion when the platelet count is below 50 × 109 /l11.
+Kluge et al described a low complication rate in patients with
+severe thrombocytopenia, if platelets were administered
+beforehand18. In our study, mean platelet count was
+significantly lower in the group with bleeding complications
+and low platelet count was a risk factor for bleeding events in
+univariate, but not in multivariate, analysis.
+In addition, no association between the intake of platelet
+inhibitors and bleeding complications was observed,
+supporting the hypothesis that tracheostomy during (dual)
+antiplatelet therapy can be safely performed and that
+interruption of antiplatelet therapy is not required19.
+Repeat PDT is regularly cited as a relative contraindication
+due to distortion of the normal anatomy with difficulty
+in identifying landmarks and risk of excessive bleeding.
+In contrast, there are no published data supporting this
+hypothesis and several case reports describe the successful
+performance of PDT in patients with previous tracheostomy20.
+Based on our experience, repeat PDT is a safe procedure
+in experienced hands and under controlled conditions and
+should not be generally considered a contraindication.
+However, the only patient suffering from a near-fatal
+complication in our series underwent repeat PDT. Therefore,
+special attention should be paid to the anatomical situation
+with an increased risk of vascular complications.
+Incidence of complications after invasive procedures does
+not only depend on the inherent problems of the technique,
+but also on the experience of the performing physician. A
+learning curve for percutaneous tracheostomy is described
+in the literature with a decreased rate of complications
+and procedure time with increasing experience being most
+prominent in the first 20 patients21. Congruently, Petros
+observed a threefold reduction in the complication rate
+after two years of practising22. Our results are consistent
+with these reports, identifying a less experienced physician
+performing PDT as an independent risk factor for bleeding
+complications. However, the overall low rate of complications
+and the high number of PDTs performed by residents
+rather than by ICU staff physicians indicate that PDT can
+be performed safely and can be considered as a routine
+procedure in the care of ICU patients in daily practice by
+physicians during their training.
+Since the introduction of PDT into clinical practice, obesity
+has been considered as a relative contraindication based
+on the assumption that anatomical landmarks might be
+more difficult to identify due to larger and thicker necks in
+obese patients. However, studies addressing the safety of
+PDT in obese patients are contrary. Mansharamani reported
+PDT successfully performed on 13 consecutive obese
+
+Bleeding complications after tracheostomy
+
+patients with a body mass index >27 kg/m2 with minimal
+complications23. Romero et al compared 25 obese patients
+(body mass index >30 kg/m2) with 80 non-obese patients
+undergoing PDT with no significant difference between
+the two groups in terms of complications24. These findings
+are supported by recently published studies25. In contrast,
+Byhahn suggested that PDT in obese patients is almost
+five times more likely to result in serious adverse events5.
+However, observed serious complications included posterior
+tracheal wall injury, airway loss and cardiac arrest but not
+bleeding. The largest series with 1175 PDTs identified obesity
+and the use of large endotracheal tubes (size >7.5 mm ID) as
+major risk factors for complications such as development of
+airway stenosis, but not for bleeding events26. In our series,
+no association between obesity and bleeding complications
+could be observed, confirming the safety of PDT in these
+patients as regards bleeding.
+Recent reviews demonstrated that in a significant number
+of patients suffering from fatal bleeding complications after
+PDT, the tracheostomy tube was positioned too low (in the
+majority of patients below the sixth tracheal ring)6. In our
+study, low puncture site was not a risk factor for bleeding
+complications. However, all of our PDTs were performed
+under fibreoptic visualisation during the whole procedure.
+Therefore, we could not observe puncture sites as low
+as described in the cited review and cannot draw a clear
+conclusion about the association of a very low puncture site
+and bleeding complications.
+In our study, grading of PDT as moderately or very difficult
+was an independent predictor for bleeding complications.
+However, this finding has to be interpreted with caution;
+grading of PDT difficulty was based on the subjective
+assessment of the performing physician rather than objective
+criteria. Therefore, it cannot be ruled out that bleeding
+complications observed during PDT served as a criterion for
+difficult tracheostomy.
+In addition, severity of illness assessed by the SAPS was
+a strong independent predictor for bleeding complications.
+The SAPS II is a severity score and mortality estimation
+tool developed from a large sample of medical and surgical
+patients in North America and Europe27. The SAPS II score
+is made up of 12 physiological variables and three diseaserelated variables but no coagulation parameters. Coagulation
+abnormalities are commonly found in critically ill patients,
+of which some are measurable, such as thrombocytopenia,
+prolonged global coagulation times or reduced levels of
+coagulation inhibitors28. However, routine coagulation tests
+might miss clinically significant coagulation defects that can
+contribute to bleeding. The most important coagulation
+defects after cardiac surgery that may remain undetected
+with routine coagulation tests are platelet dysfunction and
+hyperfibrinolysis29. Therefore, it might be hypothesised
+that the degree of these ‘non-measurable’ coagulation
+
+233
+
+Anaesth Intensive Care 2016 | 44:2
+
+K. Pilarczyk et al
+
+disorders might be correlated to the severity of illness. Studies
+with septic patients did show that severity of haemostatic
+imbalance was significantly correlated to the severity of
+illness assessed by the SAPS30.
+RRT on the day of PDT was identified as a risk factor
+in univariate, but not multivariate, analysis. There are
+some possible explanations for this finding. For example,
+RRT can be considered as a surrogate marker for a high
+severity of illness and be related to coagulation disorders
+by this pathway. In addition, RRT requires some kind of
+anticoagulation, regionally with citrate or systemically with
+heparin; in the latter case, with a consequent coagulation
+disorder. However, most of our patients with a need for
+RRT early after cardiac surgery are treated with local
+citrate-based anticoagulation for the many proposed
+advantages, such as prolonged filter life while decreasing RRT
+downtime, transfusion rates, and supplementation needs for
+antithrombin III and platelets.
+In the current literature, prevalence of PDT after cardiac
+surgery ranges between 2.2% and 6%31,32. Due to our
+experience with this technique and our low complication
+rate, we use a very liberal approach to early tracheostomy.
+Therefore, in our cohort, 1001 patients (7.4%) underwent
+percutaneous tracheostomy for prolonged mechanical
+ventilation. Although mean time from intubation to PDT
+might appear very short, with less than four days as the
+mean, it has to be kept in mind that a significant proportion
+had undergone reintubation, and mean time from surgery
+to PDT was approximately six days. Against the background
+of missing evidence-based recommendations, there is no
+clear cut-off for optimal timing of PDT and in most cases
+we consider tracheostomy after seven to ten days of
+mechanical ventilation. However, in selected cases with
+specific conditions, PDT is considered within in the first
+postoperative days. This applies in particular for patients with
+major intraoperative complications, preoperative mechanical
+ventilation or critical status, and severe perioperative
+neurological complications. In these specific patient groups,
+we believe to be able to predict the need for long-term
+mechanical ventilation at a very early time. This practice
+might not be routine in all centres but others also consider
+very early tracheostomy, such as in severely neurologically
+compromised patients, as it appears easier to predict need
+for long-term ventilatory support compared to other patients
+populations and might offer a mortality advantage. The
+randomised pilot trial Stroke-related Early Tracheostomy
+versus Prolonged Orotracheal Intubation in Neurocritical
+Care Trial (SETPOINT) showed that use of sedatives, ICU
+mortality and six-month mortality were lower in the early
+PDT group than in the standard group33. Others have also
+identified subgroups of patients benefiting from very early
+PDT. Rumbak et al showed a benefit in medical ICU patients
+with Acute Physiology and Chronic Health scores >25 when
+tracheostomy was performed very early (within 48 hours)
+
+234
+
+compared to late tracheostomy (14 days)34.
+
+Limitations
+This is a retrospective, single-centre study with designspecific limitations. One major limitation of the present study
+is the lack of randomisation of treatment versus no treatment
+of coagulation disorders. Therefore, we cannot draw any
+conclusions about a potential benefit of pre-PDT correction
+of coagulation disorders, especially about replacement of
+fibrinogen. A prospective randomised trial evaluating the
+effect of preprocedural administration of fresh frozen plasma
+in patients with a prolonged INR undergoing placement of a
+central venous catheter, percutaneous tracheostomy, chest
+tube or abscess drainage could not detect any difference
+in bleeding complications35. These findings are confirmed
+by another randomised trial demonstrating that correction
+of subclinical coagulation disorders by transfusion of fresh
+frozen plasma and/or platelets does not affect bleeding,
+either during or after PDT36.
+As all PDTs in this series were performed under
+bronchoscopic guidance, our results might not be
+applicable to institutions not using routine bronchoscopy.
+Although there is a lack of evidence in the literature, blind
+PDT without direct visualisation of the trachea might be
+associated with an increased risk of uncentred tracheal
+positioning, paratracheal insertion and posterior tracheal
+wall laceration or perforation, with subsequent potential
+for increased incidence of complications based on our
+experience.
+Previous studies have emphasised the usefulness of
+ultrasound in addition to clinical examination to detect
+cases of abnormal pre-tracheal vascular anatomy to
+avoid bleeding complications during and after PDT. The
+only randomised controlled trial assigning a total of 50
+patients to have tracheal puncture carried out using either
+traditional anatomical landmarks or real-time ultrasound
+guidance demonstrated that ultrasound guidance
+significantly improved the rate of first-pass puncture and
+puncture accuracy37. There was a trend towards fewer
+procedural complications without statistical significance. As
+we only established routine pre-PDT ultrasound screening of
+the ventral neck with special attention to the thyroid gland
+and subcutaneous vessels recently, we cannot make any
+statements about the impact of pre-PDT ultrasound on the
+incidence of bleeding complications.
+As mentioned above, platelet dysfunction and
+hyperfibrinolysis can be missed by routine coagulation
+tests. Therefore, we cannot draw any conclusions about the
+association of these non-measurable coagulation disorders
+and bleeding complications.
+
+Conclusion
+Periprocedural bleeding complications during PDT are
+
+Anaesth Intensive Care 2016 | 44:2
+
+rare. However, low fibrinogen levels as well as difficult PDT,
+less experienced operator and SAPS >40 are associated with
+an increased risk for bleeding complications. Therefore,
+preprocedural risk evaluation for bleeding should include
+these factors and further studies are necessary to prove
+if modification of adaptable risk factors, e.g. replacement
+of fibrinogen prior to PDT, is able to reduce incidence of
+bleeding complications.
+
+References
+1. Ciaglia P, Firsching R, Syniec C. Elective percutaneous dilatational
+tracheostomy. A new simple bedside procedure; preliminary
+report. Chest 1985; 87:715-719.
+2. Dennis BM, Eckert MJ, Gunter OL, Morris JA Jr, May AK. Safety
+of bedside percutaneous tracheostomy in the critically ill:
+evaluation of more than 3,000 procedures. J Am Coll Surg 2013;
+216:858-865.
+3. Higgins KM, Punthakee X. Meta-analysis comparison of open
+versus percutaneous tracheostomy. Laryngoscope 2007;
+117:447-454.
+4. Gilbey P. Fatal complications of percutaneous dilatational
+tracheostomy. Am J Otolaryngol 2012; 33:770-773.
+5. Byhahn C, Lischke V, Meininger D, Halbig S, Westphal K. Perioperative complications during percutaneous tracheostomy in
+obese patients. Anaesthesia 2005; 60:12-15.
+6. Simon M, Metschke M, Braune SA, Püschel K, Kluge S. Death
+after percutaneous dilatational tracheostomy: a systematic
+review and analysis of risk factors. Crit Care 2013; 17:R258.
+7. Díaz-Regañón G, Miñambres E, Ruiz A, González-Herrera S,
+Holanda-Peña M, López-Espadas F. Safety and complications
+of percutaneous tracheostomy in a cohort of 800 mixed ICU
+patients. Anaesthesia 2008; 63:1198-1203.
+8. Vincent JL, Moreno R. Clinical review: scoring systems in the
+critically ill. Crit Care 2010; 14:207.
+9. Nashef SA, Roques F, Sharples LD et al. EuroSCORE II. Eur J
+Cardiothorac Surg 2012; 41:734-744.
+10. Pandian V, Vaswani RS, Mirski MA, Haut E, Gupta S, Bhatti NI.
+Safety of percutaneous dilational tracheostomy in coagulopathic
+patients. Ear Nose Throat J 2010; 89:387-395.
+11. Beiderlinden M, Eikermann M, Lehmann N, Adamzik M,
+Peters J. Risk factors associated with bleeding during and after
+percutaneous dilational tracheostomy. Anaesthesia. 2007;
+62:342-346.
+12. Auzinger G, O’Callaghan GP, Bernal W, Sizer E, Wendon JA.
+Percutaneous tracheostomy in patients with severe liver disease
+and a high incidence of refractory coagulopathy: a prospective
+trial. Crit Care 2007; 11:R110.
+13. Takahashi M, Itagaki S, Laskaris J, Filsoufi F, Reddy RC.
+Percutaneous tracheostomy can be safely performed in patients
+with uncorrected coagulopathy after cardiothoracic surgery.
+Innovations (Phila) 2014; 9:22-26.
+14. Deppe AC, Kuhn E, Scherner M et al. Coagulation disorders
+do not increase the risk for bleeding during percutaneous
+dilatational tracheotomy. Thorac Cardiovasc Surg 2013; 61:234239.
+15. Gielen C, Dekkers O, Stijnen T et al. The effects of pre- and
+postoperative fibrinogen levels on blood loss after cardiac
+surgery: a systematic review and meta-analysis. Interact
+
+Bleeding complications after tracheostomy
+
+Cardiovasc Thorac Surg 2014; 18:292-298.
+16. Rourke C, Curry N, Khan S et al. Fibrinogen levels during trauma
+hemorrhage, response to replacement therapy, and association
+with patient outcomes. J Thromb Haemost 2012; 10:1342–1351.
+17. Greinacher A, Selleng K. Thrombocytopenia in the intensive care
+unit patient. Hematology Am Soc Hematol Educ Program 2010;
+2010:135-143.
+18. Kluge S, Meyer A, Kühnelt P, Baumann HJ, Kreymann G.
+Percutaneous tracheostomy is safe in patients with severe
+thrombocytopenia. Chest 2004; 126:547-551.
+19. Abouzgheib W, Meena N, Jagtap P, Schorr C, Boujaoude Z,
+Bartter T. Percutaneous dilational tracheostomy in patients
+receiving antiplatelet therapy: is it safe? J Bronchology Interv
+Pulmonol 2013; 20:322-325.
+20. Meyer M, Critchlow J, Mansharamani N, Angel LF, Garland R,
+Ernst A. Repeat bedside percutaneous dilational tracheostomy is
+a safe procedure. Crit Care Med 2002; 30:986-988.
+21. Massick DD, Powell DM, Price PD. Quantification of the learning
+curve for percutaneous dilatational tracheotomy. Laryngoscope
+2000; 110:222-228.
+22. Petros S. Percutaneous tracheostomy. Crit Care 1999; 3:R5-R10.
+23. Mansharamani NG, Koziel H, Garland R, LoCicero J 3rd,
+Critchlow J, Ernst A. Safety of bedside percutaneous dilatational
+tracheostomy in obese patients in the ICU. Chest 2000;
+117:1426-1429.
+24. Romero CM, Cornejo RA, Ruiz MH. Fiberoptic bronchoscopyassisted percutaneous tracheostomy is safe in obese critically ill
+patients: a prospective and comparative study. J Crit Care 2009;
+24:494-500.
+25. McCague A, Aljanabi H, Wong DT. Safety analysis of
+percutaneous dilational tracheostomies with bronchoscopy in
+the obese patient. Laryngoscope 2012; 122:1031-1034.
+26. Halum SL, Ting JY, Plowman EK et al. A multi-institutional analysis
+of tracheotomy complications. Laryngoscope 2011; 122:38-45.
+27. Le Gall JR, Lemeshow S, Saulnier F. A new Simplified Acute
+Physiology Score (SAPS II) based on a European/North American
+multicenter study. JAMA 1993; 270:2957-2963.
+28. Chakraverty R, Davidson S, Peggs K, Stross P, Garrard C,
+Littlewood TJ. The incidence and cause of coagulopathies in an
+intensive care population. Br J Haematol 1996; 93:460-463.
+29. Teufelsbauer H, Proidl S, Havel M, Vukovich T. Early activation
+of hemostasis during cardiopulmonary bypass: evidence for
+thrombin mediated hyperfibrinolysis. Thromb Haemost 1992;
+68:250-252.
+30. Massignon D, Lepape A, Bienvenu J, Barbier Y, Boileau C, Coeur
+P. Coagulation/fibrinolysis balance in septic shock related to
+cytokines and clinical state. Haemostasis 1994; 24:36-48.
+31. Rahmanian PB, Adams DH, Castillo JG, Chikwe J, Filsoufi F.
+Tracheostomy is not a risk factor for deep sternal wound
+infection after cardiac surgery. Ann Thorac Surg 2007; 84:19841991.
+32. Ben-Avi R, Ben-Nun A, Levin S et al. Tracheostomy after cardiac
+surgery: timing of tracheostomy as a risk factor for mortality. J
+Cardiothorac Vasc Anesth 2014; 28:493-496.
+33. Bösel J, Schiller P, Hook Y et al. Stroke-related Early
+Tracheostomy versus Prolonged Orotracheal Intubation in
+Neurocritical Care Trial (SETPOINT): a randomized pilot trial.
+Stroke 2013; 44:21-28.
+34. Rumbak MJ, Newton M, Truncale T, Schwartz SW, Adams
+
+235
+
+K. Pilarczyk et al
+
+JW, Hazard PB. A prospective, randomized, study comparing
+early percutaneous dilational tracheotomy to prolonged
+translaryngeal intubation (delayed tracheotomy) in critically ill
+medical patients. Crit Care Med 2004; 32:1689-1694.
+35. Müller MC, Arbous MS, Spoelstra-de Man AM et al. Transfusion
+of fresh-frozen plasma in critically ill patients with a
+coagulopathy before invasive procedures: a randomized clinical
+trial (CME). Transfusion 2015; 55:26-35.
+36. Veelo DP, Vlaar AP, Dongelmans DA. Correction of subclinical
+coagulation disorders before percutaneous dilatational
+tracheotomy. Blood Transfus 2012; 10:213-220.
+37. Rudas M, Seppelt I, Herkes R, Hislop R, Rajbhandari D, Weisbrodt
+L. Traditional landmark versus ultrasound guided tracheal
+puncture during percutaneous dilatational tracheostomy in adult
+intensive care patients: a randomised controlled trial. Crit Care
+2014; 18:514.
+
+236
+
+Anaesth Intensive Care 2016 | 44:2
+
+

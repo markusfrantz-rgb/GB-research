@@ -1,0 +1,1654 @@
+Articles
+
+Second intravenous immunoglobulin dose in patients with
+Guillain-Barré syndrome with poor prognosis (SID-GBS):
+a double-blind, randomised, placebo-controlled trial
+Christa Walgaard, Bart C Jacobs, Hester F Lingsma, Ewout W Steyerberg, Bianca van den Berg, Alexandra Y Doets, Sonja E Leonhard,
+Christine Verboon, Ruth Huizinga, Judith Drenthen, Samuel Arends, Ilona Kleine Budde, Ruud P Kleyweg, Krista Kuitwaard,
+Marjon F G van der Meulen, Johnny P A Samijn, Frederique H Vermeij, Jan B M Kuks, Gert W van Dijk, Paul W Wirtz, Filip Eftimov,
+Anneke J van der Kooi, Marcel P J Garssen, Cees J Gijsbers, Maarten C de Rijk, Leo H Visser, Roderik J Blom, Wim H J P Linssen, Elly L van der Kooi,
+Jan J G M Verschuuren, Rinske van Koningsveld, Rita J G Dieks, H Job Gilhuis, Korné Jellema, Taco C van der Ree, Henriette M E Bienfait,
+Catharina G Faber, Harry Lovenich, Baziel G M van Engelen, Rutger J Groen, Ingemar S J Merkies, Bob W van Oosten, W Ludo van der Pol,
+Willem D M van der Meulen, Umesh A Badrising, Martijn Stevens, Albert-Jan J Breukelman, Casper P Zwetsloot, Maaike M van der Graaff,
+Marielle Wohlgemuth, Richard A C Hughes, David R Cornblath, Pieter A van Doorn, on behalf of the Dutch GBS Study Group*
+
+Summary
+
+Background Treatment with one standard dose (2 g/kg) of intravenous immunoglobulin is insufficient in a propor­tion
+of patients with severe Guillain-Barré syndrome. Worldwide, around 25% of patients severely affected with the
+syndrome are given a second intravenous immunoglobulin dose (SID), although it has not been proven effective. We
+aimed to investigate whether a SID is effective in patients with Guillain-Barré syndrome with a predicted poor outcome.
+
+Lancet Neurol 2021; 20: 275–83
+
+Methods In this randomised, double-blind, placebo-controlled trial (SID-GBS), we included patients (≥12 years) with
+Guillain-Barré syndrome admitted to one of 59 participating hospitals in the Netherlands. Patients were included on
+the first day of standard intravenous immunoglobulin treatment (2 g/kg over 5 days). Only patients with a poor
+prognosis (score of ≥6) according to the modified Erasmus Guillain-Barré syndrome Outcome Score were randomly
+assigned, via block randomisation stratified by centre, to SID (2 g/kg over 5 days) or to placebo, 7–9 days after
+inclusion. Patients, outcome adjudicators, monitors, and the steering committee were masked to treatment allocation.
+The primary outcome measure was the Guillain-Barré syndrome disability score 4 weeks after inclusion. All patients
+in whom allocated trial medication was started were included in the modified intention-to-treat analysis. This study is
+registered with the Netherlands Trial Register, NTR 2224/NL2107.
+
+Department of Neurology
+(C Walgaard MD,
+Prof B C Jacobs MD,
+B van den Berg MD,
+A Y Doets MD, S E Leonhard MD,
+C Verboon MD, J Drenthen MD,
+S Arends MD, K Kuitwaard MD,
+Prof P A van Doorn MD),
+Department of Immunology
+(Prof B C Jacobs,
+R Huizinga PhD), and
+Department of Public Health
+(H F Lingsma PhD,
+Prof E W Steyerberg PhD),
+Erasmus MC University Medical
+Center, Rotterdam,
+Netherlands; Department of
+Biomedical Data Sciences,
+(Prof E W Steyerberg) and
+Department of Neurology
+(Prof J J G M Verschuuren MD,
+U A Badrising MD), Leiden
+University Medical Center,
+Leiden, Netherlands;
+Department of Neurology,
+Elisabeth-TweeSteden
+Hospital, Tilburg, Netherlands
+(B van den Berg,
+Prof L H Visser MD,
+M Wohlgemuth MD);
+The Medical Department,
+Sanquin Plasma Products,
+Amsterdam, Netherlands
+(I K Budde PhD); Department
+of Neurology, Albert
+Schweitzer Hospital,
+Dordrecht, Netherlands
+(R P Kleyweg MD, K Kuitwaard);
+Department of Neurology,
+Sint Antonius Hospital,
+Nieuwegein, Netherlands
+(M F G van der Meulen MD);
+Department of Neurology,
+Maasstad Hospital, Rotterdam,
+Netherlands (J P A Samijn MD);
+
+Findings Between Feb 16, 2010, and June 5, 2018, 327 of 339 patients assessed for eligibility were included. 112 had a
+poor prognosis. Of those, 93 patients with a poor prognosis were included in the modified intention-to-treat analysis:
+49 (53%) received SID and 44 (47%) received placebo. The adjusted common odds ratio for improvement on the
+Guillain-Barré syndrome disability score at 4 weeks was 1·4 (95% CI 0·6–3·3; p=0·45). Patients given SID had more
+serious adverse events (35% vs 16% in the first 30 days), including thromboembolic events, than those in the placebo
+group. Four patients died in the intervention group (13–24 weeks after randomisation).
+Interpretation Our study does not provide evidence that patients with Guillain-Barré syndrome with a poor prognosis
+benefit from a second intravenous immunoglobulin course; moreover, it entails a risk of serious adverse events.
+Therefore, a second intravenous immunoglobulin course should not be considered for treatment of Guillain-Barre
+syndrome because of a poor prognosis. The results indicate the need for treatment trials with other immune
+modulators in patients severely affected by Guillain-Barré syndrome.
+Funding Prinses Beatrix Spierfonds and Sanquin Plasma Products.
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+Introduction
+Guillain-Barré syndrome is an immune-mediated
+polyradi­c­ulo­­neuropathy, which affects 0·81–1·89 per
+100 000 people annually worldwide.1 Guillain-Barré syn­
+drome is usually a monophasic disease with rapidly pro­
+gres­sive limb weak­ness.2 The clinical severity, course, and
+outcome are vari­­able.1 Intravenous immunoglobulin and
+plasma exchange are proven effective treatments.3,4 Even
+with standard intravenous immunoglobulin treatment,
+
+about 20% of patients remain unable to walk after
+6 months. In 20–30% of patients, mechanical ventila­
+tion is needed, 3–7% die, and many have persistent
+residual complaints such as fatigue and pain.5 Patients
+with a poor prognosis early in their disease course might
+gain particular benefit from additional treatment. A
+second intravenous immunoglobulin dose (SID), admin­
+istered early in the course of disease, before severe or
+irreversible nerve damage has occurred, might be
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+See Comment page 249
+*A complete list of investigators
+in the SID-GBS trial is provided in
+the appendix (p 2)
+
+275
+
+Articles
+
+Department of Neurology,
+Franciscus en Vlietland
+Hospital, Rotterdam,
+Netherlands (F H Vermeij MD,
+C J Gijsbers MD), Department of
+Neurology, University Medical
+Center Groningen, Groningen,
+Netherlands
+(Prof J B M Kuks MD);
+Department of Neurology,
+Canisius Wilhelmina Hospital,
+Nijmegen, Netherlands
+(G W van Dijk MD); Department
+of Neurology, Haga Hospital,
+Den Haag, Netherlands
+(P W Wirtz MD); Department of
+Neurology, Amsterdam UMC,
+University of Amsterdam,
+Amsterdam, Netherlands
+(F Eftimov MD,
+A J van der Kooi MD);
+Department of Neurology,
+Jeroen Bosch hospital,
+Den Bosch, Netherlands
+(M P J Garssen MD); Department
+of Neurology, Catharina
+Hospital, Eindhoven,
+Netherlands (M C de Rijk MD);
+Department of Neurology,
+Diakonessenhuis, Utrecht,
+Netherlands (R J Blom MD);
+Department of Neurology,
+Onze Lieve Vrouwen
+Gasthuis-West,
+Amsterdam, Netherlands
+(W H J P Linssen MD); Zaans
+Medical Center, Zaandam,
+Netherlands (W H J P Linssen);
+Department of Neurology,
+Leeuwarden Medical Center,
+Leeuwarden, Netherlands
+(E L van der Kooi MD);
+Department of Neurology,
+Elkerliek Hospital, Helmond,
+Netherlands
+(R van Koningsveld MD);
+Department of Neurology,
+Röpke-Zweers Hospital,
+Hardenberg, Netherlands
+(R J G Dieks MD); Department of
+Neurology, Reinier de Graaf
+Hospital, Delft, Netherlands
+(H J Gilhuis MD); Department of
+Neurology, Haaglanden
+Medical Center, Den Haag,
+Netherlands (K Jellema MD,
+R J Groen MD); Department of
+Neurology, Dijklander hospital,
+Hoorn, Netherlands
+(T C van der Ree MD);
+Department of Neurology,
+Spaarne Gasthuis, Haarlem,
+Netherlands (H M E Bienfait MD,
+I S J Merkies MD); Department
+of Neurology, Maastricht
+University Medical Center,
+Maastricht, Netherlands
+(Prof C G Faber MD, I S J Merkies);
+Department of Neurology,
+St Jans Hospital, Weert,
+Netherlands (H Lovenich MD);
+
+276
+
+Research in context
+Evidence before this study
+A PubMed search for articles in English, published from
+database inception up until May 22, 2020, for “[Guillain-Barré
+syndrome], and [second IVIg course]”, “[Guillain-Barré
+syndrome], and [repeated intravenous immunoglobulin]”,
+and “[Guillain-Barré syndrome], and [second cycle
+immunoglobulin]” identified four case reports, two case series,
+and one observational study in which additional intravenous
+immunoglobulin treatment was investigated in patients with
+Guillain-Barré syndrome with a severe disease course. The case
+reports and case series (n=11) suggested additional benefit from
+a second intravenous immunoglobulin course. The observational
+study based on patients with Guillain-Barré syndrome enrolled
+in the international Guillain-Barré syndrome outcome study
+selected patients with a poor predicted outcome according to
+the modified Erasmus GBS Outcome Scale prognostic model.
+No difference in outcome was found between patients given one
+intravenous immunoglobulin course (n=199) or two intravenous
+immunoglobulin courses (n=38). None of these studies reported
+complications possibly attributable to the additional intravenous
+immunoglobulin treatment. Not all patients in these studies
+received an early second intravenous immunoglobulin course
+and publication bias could have played an important role in the
+positive findings.
+
+Added value of this study
+The SID-GBS trial is the first randomised, placebo-controlled,
+double-blind trial investigating the added value of a
+second intravenous immunoglobulin course in patients with
+Guillain-Barré syndrome with a poor predicted outcome, to our
+knowledge. The study showed that a second intravenous
+immunoglobulin course in these patients does not have a
+clinically meaningful benefit for recovery. All secondary
+endpoints did not differ between treatment groups. This trial
+was the first controlled study to show a possible harmful effect
+of a second intravenous immunoglobulin course.
+
+beneficial, although there is scant evidence to support
+this approach.6,7
+In current practice, about a quarter of patients with
+Guillain-Barré syndrome given intravenous immuno­
+globulin who show no clinical improvement are re-treated
+with intravenous immunoglobulin.7 This practice could be
+based on results from a small uncontrolled case series of
+patients with severe Guillain-Barré syndrome and a phase 2
+trial suggesting that a higher dose of intravenous immuno­
+globulin was more beneficial than a lower dose.8–10 Another
+argument that repeated intravenous immuno­
+globulin
+doses might be effective comes from the observation
+that about 10% of patients with Guillain-Barré syndrome
+have a so-called treatment-related fluctuation, which
+seems to respond to a SID.11 Additionally, patients have
+a variable increase in serum IgG concentration after a
+standard dose of intravenous immunoglobulin, and a low
+IgG increase is associated with poor outcome, indicating
+that these patients might benefit from additional intra­
+venous immuno­globulin treat­ment.12 However, intravenous
+immuno­globulin is costly; moreover uncommon severe
+side-effects might be more frequent when administered
+repeatedly. We aimed to evaluate the effect of SID in
+patients with Guillain-Barré syndrome with poor prognosis.
+
+syndrome with a poor prognosis. The protocol of this trial
+has been published.13 Patients were included from
+59 hospitals in the Netherlands (a list of participating
+centres and number of inclusions per centre is available
+in the appendix (p 17). Patients aged 12 years or older,
+diagnosed with Guillain-Barré syndrome, and with an
+indication for intravenous immunoglobulin treatment
+according to the treating neurologist, were potentially
+eligible for inclusion in the trial.2 Full eligibility criteria
+are available in the appendix (p 18).
+Patients were randomly allocated (1:1) to receive SID or
+placebo for 5 days, which was administered at 7–9 days
+after the start of the first standard intravenous immu­
+noglobulin treatment (2 g/kg administered over 5 con­
+secutive days). Interim monitoring was done after
+36 randomisations.
+All patients (poor and good prognosis) were included on
+the first day of their standard intravenous immuno­
+globulin treatment. We used the modified Erasmus GBS
+Outcome Scale (mEGOS) 7–9 days after start of the
+standard intravenous immunoglobulin dose to select
+patients with a poor prognosis.6 Only patients with a poor
+prognosis were randomly assigned to SID or placebo. The
+mEGOS prognostic model ranges from 0 (best prognosis)
+to 12 (worst prognosis) and uses age, preceding diarrhoea,
+and the Medical Research Council (MRC) sumscore14 as
+clinical predictors of outcome (appendix pp 9, 19).6 In
+this trial, an mEGOS of six or more was used as the cutoff
+for poor prognosis. Using this cutoff, we expected to
+
+Methods
+
+Study design and participants
+We did a double-blind, randomised, placebo-controlled
+phase 3 trial (SID-GBS) in patients with Guillain-Barre
+
+Implications of all the available evidence
+A second intravenous immunoglobulin course in patients with
+Guillain-Barré syndrome with a poor prognosis is not
+recommended. The results are based on the absence of evidence
+for a better outcome and on the higher frequency of serious
+adverse events, including severe thromboembolic
+complications. Although the absence of evidence does not
+equate to evidence of ineffectiveness, it is very unlikely that
+a second intravenous immunoglobulin course will have a
+clinically relevant positive effect.
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Articles
+
+select about 50% of the included patients for random
+assignment.
+The trial was approved by the ethics committee of all
+participating centres, and all patients provided written
+informed consent before random assignment.
+
+339 assessed for eligibility
+
+12 excluded
+7 did not meet inclusion criteria
+3 declined to participate
+2 other reasons*
+
+Randomisation and masking
+A web-based computerised random number generator
+from an external party (Clinical Trial Centre Maastricht)
+allocated treatment in a 1:1 ratio by block randomisation
+(six patients per block with the block size unknown to local
+sites), stratified according to participating centre. Placebo
+(albumin) was matched to the study drug by volume
+(8 mL/kg) and fluid aspect (due to proteins in intravenous
+immunoglobulin and albumin, both are slightly foaming
+liquids). As the colour of intravenous immunoglobulin
+can differ between batches, the bag (ethylene vinyl acetate)
+containing the trial medication was concealed using
+aluminum foil and opaque connecting lines were used to
+mask study staff. Patients, outcome adjudicators, monitors,
+and the steering committee were masked to treatment
+allocation.
+
+Procedures
+Patients with a poor prognosis were randomly assigned to
+receive either SID (Nanogam 50 mg/mL, Sanquin Plasma
+Products, Amsterdam, Netherlands) or placebo (albu­
+min 4%, pasteurised plasma protein solution until
+June, 2012, and Albuman 40 g/L from June, 2012,
+onwards, Sanquin Plasma Products) in a dose of 8 mL/kg,
+both for 5 days. Patients with a good prognosis
+(mEGOS 0–5) were not randomly assigned, but had
+otherwise the same follow-up and outcome parameters
+assessment as the randomly assigned participants.
+All patients underwent clinical assess­ments at the start
+of standard intravenous immunoglobulin treatment;
+at week 1 (randomisation); weeks 2 and 4 (primary
+endpoint); and weeks 8, 12, and 26 after start of standard
+intravenous immunoglobulin treatment. Adverse events
+were assessed at every study visit. At study entry, blood
+was collected and serum was stored for detection of
+antiganglioside antibodies, anti­
+bodies to cytomegalo­
+virus, Epstein-Barr virus, hepatitis E, and Campylobacter
+jejuni using routine diagnostic assays.15–18 Also IgG
+and albumin concentrations were measured in serial
+serum samples (baseline, 1, 2, 4, and 13 weeks). Nerve
+conduction studies were reviewed in the coordinating
+centre by two masked trial electro­phys­iologists (JD and
+SA) and classified according to the Hadden criteria.19
+All patients were given standard sup­
+portive care as
+recommended by guidelines, including low molecular
+weight heparin.20
+
+Outcomes
+The primary outcome was Guillain-Barré syndrome
+disability scale21 score at 4 weeks after the start of standard
+intravenous immunoglobulin treatment. This disability
+
+327 included
+
+112 assessed to have a
+poor prognosis
+
+215 assessed to have a
+good prognosis
+
+13 excluded
+2 did not meet inclusion criteria
+6 declined to participate
+5 other reasons†
+
+99 randomised
+
+53 allocated to second intravenous immunoglobulin
+course
+
+4 not included in analysis
+1 lost to follow-up before primary
+endpoint
+1 did not receive allocated treatment
+2 declined to participate before the start
+of allocated treatment
+
+49 analysed in the modified intention-to-treat
+analysis
+
+46 allocated to placebo
+
+2 not included in analysis
+1 lost to follow-up before primary
+endpoint
+1 did not receive allocated treatment
+
+44 analysed in the modified intention-to-treat
+analysis
+
+Figure 1: Trial profile
+*Other refers to transfer to hospital abroad or pharmacy not prepared to deliver allocated treatment. †Other refers
+to receiving open second intravenous immunoglobulin dose before random assignment, erroneously marked as
+good prognosis (n=3), or case report files lost in participating hospital.
+
+scale is the most frequently used clinical outcome
+measure in Guillain-Barré syndrome trials. It is a
+seven-point scale ranging from 0 (no symptoms) to
+6 (death).4 Prespecified secondary outcomes were assessed
+at weeks 4, 8, 12, and 26, and comprised the Guillain-Barré
+syndrome disability scale,21 improvement of at least one
+grade on the Guillain-Barré syndrome disability scale,21
+the MRC sumscore,14 the Overall Neuropathy Limita­tions
+Scale,22 the percentage of patients needing arti­
+ficial
+ventilation, duration of arti­ficial ventilation, inten­sive care
+admis­sion and hospital admission, mor­tality, percentage
+of treatment-related fluctuations, and serum IgG con­
+centrations at subse­
+quent timepoints. Adverse events
+and serious adverse events were collected by treating
+physi­
+cians, according to the International Conference
+on Harmonization Good Clinical Practice guidelines,
+and compared between the randomised groups using
+descriptive statistics.
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Department of Neurology,
+Radboud University Medical
+Center, Nijmegen, Netherlands
+(Prof B G M van Engelen MD);
+Department of Neurology,
+Amsterdam University
+Medical Centers, VUmc,
+Amsterdam, Netherlands
+(Prof B W van Oosten MD);
+Department of Neurology,
+University Medical Center
+Utrecht, Utrecht, Netherlands
+(Prof W L van der Pol MD);
+Department of Neurology,
+Rode Kruis Hospital,
+Beverwijk, Netherlands
+(W D M van der Meulen MD);
+Department of Neurology,
+van Weel-Bethesda Hospital,
+Dirksland, Netherlands
+(U A Badrising); Department of
+Neurology, Tergooi Hospitals,
+
+277
+
+Articles
+
+Blaricum, Netherlands
+(M Stevens MD); Department of
+Neurology, ZorgSaam Hospital,
+Terneuzen, Netherlands
+(A-J J Breukelman MD);
+Department of Neurology,
+Dijklander Hospital,
+Purmerend, Netherlands
+(C P Zwetsloot MD);
+Department of Neurology,
+BovenIJ Hospital,
+Amsterdam, Netherlands
+(M M van der Graaff MD);
+MRC Centre for Neuromuscular
+Diseases, National Hospital
+for Neurology and
+Neurosurgery, London, UK
+(Prof R A C Hughes MD);
+Department of Neurology,
+Johns Hopkins University,
+Baltimore, MD, USA
+(Prof D R Cornblath MD)
+Correspondence to:
+Prof Pieter A van Doorn,
+Department of Neurology,
+Erasmus MC University Medical
+Center, 3015 GD Rotterdam,
+Netherlands
+p.a.vandoorn@erasmusmc.nl
+See Online for appendix
+
+Age, years
+
+SID (n=49)
+
+Placebo (n=44)
+
+66·0 (59·5–74·0)
+
+59·0 (42·5–70·0)
+
+Sex
+Women
+
+18 (37%)
+
+10 (23%)
+
+Men
+
+31 (63%)
+
+34 (77%)
+
+24 (49%)
+
+14 (32%)
+
+Preceding diarrhoea*
+
+Disability score at randomisation
+3
+
+1 (2%)
+
+1 (2%)
+
+4
+
+28 (57%)
+
+23 (52%)
+
+5
+
+20 (41%)
+
+20 (45%)
+
+23 (6–38)
+
+26 (12–35)
+
+Demyelinating
+
+31 (63%)
+
+29 (66%)
+
+Axonal
+
+2 (4%)
+
+2 (5%)
+
+Equivocal
+
+7 (14%)
+
+4 (9%)
+
+Inexcitable
+
+7 (14%)
+
+4 (9%)
+
+Not performed or
+unjudgable
+
+2 (4%)
+
+5 (11%)
+
+Positive Campylobacter
+jejuni serology‡
+
+16 (33%)
+
+10/42 (24%)
+
+MRC sumscore at
+randomisation, 0–60
+Nerve conduction studies†
+
+Antiganglioside IgM or IgG antibodies
+GM1
+
+15/48 (31%)
+
+GD1a
+
+5/48 (10%)
+
+11/42 (26%)
+4/42 (10%)
+
+Mean serum delta IgG
+concentration, g/L§
+
+16·1
+(95% CI 13·6–18·5)
+
+18·4
+(95% CI 15·7–21·1)
+
+Mean serum albumin
+concentration after
+intravenous
+immunoglobulin, g/dL¶
+
+32·5
+(95% CI 30·7–34·3)
+
+35·1
+(95% CI 33·5–36·7)
+
+Data are median (IQR), n (%), or n/N (%), unless specified. SID=second intravenous
+immunoglobulin dose. MRC=Medical Research Council. *Diarrhoea in the 4 weeks
+preceding the onset of weakness. †According to the Hadden criteria.19 ‡Data were
+missing for two patients in the placebo group. §Value 1 week after start of the first
+standard intravenous immunoglobulin dose: baseline (pre-treatment) or, when
+missing, 3 months after intravenous immunoglobulin treatment. ¶Data were
+missing for five patients in the intervention group and five patients in the
+control group.
+
+Table 1: Baseline characteristics
+
+Statistical analysis
+We assumed that a 20% difference in the proportion of
+patients improving at least one grade on the Guillain-Barré
+syndrome disability scale between the patients with and
+without SID treatment 4 weeks after the start of stan­
+dard intravenous immunoglobulin treatment would be
+clinically relevant. Without covariate adjustment and
+ordinal outcome analysis, we needed to randomly assign
+145 patients with a poor prognosis (α=0·05, power 0·80)
+to detect this difference. We expected covariate adjust­
+ment and ordinal outcome analysis to result in a reduction
+in required sample size of 40–50%.23 This expecta­
+tion reduced the required sample size to between 73
+and 88 patients.13
+The primary analysis was modified intention to treat, in
+which all randomly assigned patients in whom allocated
+trial medication was started were included. The primary
+efficacy outcome was estimated with a proportional odds
+278
+
+regression analysis.24,25 For both primary and secondary
+endpoints, prespecified covariate adjust­ment was done to
+adjust for variation in baseline prognostic risk between
+patients. We adjusted for age, preceding diarrhoea, and
+MRC sumscore at randomisa­
+tion.13,26 This adjustment
+resulted in an adjusted common odds ratio for the effect
+of treatment with a 95% CI and corresponding p value. A
+two-tailed p value of less than 0·05 was considered
+statistically significant. Multiple imputation was applied
+to account for missing values in covariates and secondary
+endpoints; the primary endpoint was not imputed. There
+was no adjustment for multiple comparisons of secondary
+outcomes and these are presented as point estimates with
+unadjusted 95% CIs, from which no inferences can be
+made. Treatment-effect modification was explored in
+prespecified subgroups of patients as defined in the
+appendix (p 7). A trial data safety and monitoring board
+overlooked the trial and interim monitoring was done
+after 36 randomisations. This study is registered with
+the Netherlands Trial Register, NTR 2224/NL2107 and the
+statistical analysis plan was pub­
+lished here before
+unblinding the trial data. Analyses were done using R
+Studio version 3.6.1.
+
+Role of the funding source
+The funder of the study had no role in study design, data
+collection, data analysis, data interpretation, or writing of
+the report.
+
+Results
+Between Feb 16, 2010, and June 5, 2018, 327 of
+339 patients assessed for eligibility with Guillain-Barré
+syndrome were included (figure 1). 12 were excluded
+before mEGOS could be determined at days 7–9 (figure 1).
+215 had a good prognosis (mEGOS <6), and 112 had a poor
+prognosis (mEGOS ≥6). 13 (12%) of the 112 patients with a
+poor prognosis were excluded before random assignment
+(mainly because of with­
+drawal of consent). Of the
+99 randomly assigned patients, 53 (54%) were assigned to
+the SID group and 46 (46%) to the placebo group.
+Six patients were excluded after random assignment:
+two declined to participate before the start of allocated
+treatment, two patients did not receive the allocated
+treatment, and two patients were lost to follow-up shortly
+after randomisation when it became clear that they had an
+alternative diagnosis (one case of eosinophilic vasculitis in
+the placebo group and one case of myelopathy in the SID
+group). Of these patients, four had been assigned to SID
+and two had been assigned to placebo (figure 1). In the
+modified intention-to-treat analysis, 49 (53%) patients
+received SID and 44 (47%) received placebo.
+Almost all patients who had been randomly assigned
+had severe weakness (as assessed with the MRC sum­
+score and Guillain-Barré syndrome disability score) and
+85% were still deteriorating at 1 week according to the
+MRC sumscore, despite a standard intravenous immuno­
+globulin course (appendix pp 14–16).
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Articles
+
+Predictors of poor outcome were not evenly distributed
+between the two groups. Typically, patients in the SID
+group were older and had preceding diarrhoea more
+commonly than those in the placebo group (table 1,
+appendix p 12). Prespecified covariate adjustment was
+done for known prognostic factors.
+Data for the primary outcome were complete (table 2).
+The adjusted common odds ratio for improvement on the
+Guillain-Barré syndrome disability score at 4 weeks was
+1·4 (95% CI 0·6–3·3; p=0·45; figure 2, table 2). The
+unadjusted common odds ratio was 1·3 (95% CI 0·6–3·3).
+There was no evidence of a difference between treatment
+groups for any of the secondary outcomes. Guillain-Barré
+syndrome disability scores at weeks 8, 12, and 26 did not
+differ between groups (appendix p 16). Additionally,
+the probability of improving one grade or more on the
+Guillain-Barré syndrome disability scale at four different
+timepoints did not differ between groups. The MRC
+sumscore and Overall Neuropathy Limitations Scale were
+not different between groups at weeks 4, 8, 12, and 26
+(appendix pp 14–15). Duration of hospital admission,
+intensive care unit admission, and mechanical ventilation
+were not different between groups (table 2, appendix p 11).
+Outcomes in the prespecified subgroups did not differ
+between treatment groups (figure 3). Patients with a good
+prognosis (n=208, seven excluded) had a median GuillainBarré syndrome disability score of 2 (IQR 2–3) at 4 weeks,
+1 (1–2) at 12 weeks, and 1 (0–2) at 26 weeks, indicating a
+generally good outcome in this group.
+Four patients died during the trial, all of whom were
+assigned to SID. The deaths included a 59-year-old man
+who was previously healthy before developing GuillainBarré syndrome, who died 16 weeks after random
+assignment due to asystole that was deemed possibly
+related to a serious adverse event (acute coronary syn­
+drome), which occurred 4 days after administration of SID.
+An 82-year-old woman died 13 weeks after random­isation
+due to discontinuation of artificial ventilation at the request
+of the patient, after no signs of improvement, multiple
+complications, and severe pain. A 72-year-old woman died
+21 weeks after randomisation from a cardiac cause in a
+nursing home. An 81-year-old woman died 24 weeks after
+randomisation, because of discontinuation of artificial
+venti­lation at the request of the patient after no signs of
+improve­ment, and multiple complications. Serious adverse
+events, including thromboembolic events, occurred more
+often in the SID group than the placebo group (51% vs 23%,
+table 3, appendix p 12). Trial medica­tion was not completed
+in two cases due to adverse events (ophthal­moplegia due to
+pituitary adenoma after placebo and severe skin rash after
+SID). From 2015 onward, randomly assigned patients
+(24 [26%] of 93) were tested for haemolytic anaemia after a
+protocol amendment based on a report about this possible
+adverse event in high-dose intravenous immuno­globulin
+treat­ment, but this adverse event was not seen in our trial.27
+In the SID group, serum IgG was maintained at a high
+concentration longer than in the placebo group (median
+
+SID (n=49)
+
+Placebo (n=44)
+
+Adjusted common
+odds ratio (95% CI)
+
+4 (4–5)
+
+4 (4–5)
+
+1·4 (0·6 to 3·3)
+
+Primary outcome
+Disability score at 4 weeks
+Secondary outcomes
+Disability score at 8 weeks
+
+4 (3–4)
+
+4 (2–4)
+
+1·5 (0·7 to 3·3)
+
+Disability score at 12 weeks
+
+3 (2–3)
+
+3 (2–3)
+
+2·1 (0·9 to 4·6)
+
+Disability score at 26 weeks
+
+2 (1–4)
+
+2 (1–3)
+
+1·0 (0·5 to 2·2)
+1·8 (0·6 to 5·3)
+
+Disability score improvement (≥1 point)
+4 weeks
+
+18 (37%)
+
+12 (27%)
+
+8 weeks
+
+27 (55%)
+
+26 (59%)
+
+1·0 (0·4 to 2·5)
+
+12 weeks
+
+36 (73%)
+
+34 (77%)
+
+1·7 (0·5 to 5·4)
+
+26 weeks
+
+40 (82%)
+
+41 (93%)
+
+0·4 (0·1 to 2·6)
+
+ONLS score
+4 weeks
+
+10 (8–12)
+
+10 (7–12)
+
+1·2 (0·5 to 2·6)
+
+8 weeks
+
+8 (6–10)
+
+9 (4–11)
+
+0·9 (0·4 to 1·9)
+
+12 weeks
+
+6 (3–9)
+
+7 (2–10)
+
+1·8 (0·8 to 3·7)
+
+26 weeks
+
+3 (1–7)
+
+3 (1–5)
+
+0·9 (0·4 to 1·9)
+
+Mechanical ventilation
+
+30 (61%)
+
+25 (57%)
+
+1·3 (0·5 to 3·3)
+
+Treatment related fluctuation
+
+3 (6%)
+
+5 (11%)
+
+0·6 (0·1 to 2·7)
+
+Mean MRC sumscore
+4 weeks
+
+32 (26–37)
+
+30 (25–36)
+
+1·3 (–1·6 to 4·1)*
+
+8 weeks
+
+37 (32–43)
+
+37 (32–42)
+
+1·2 (–1·9 to 4·3)*
+
+12 weeks
+
+40 (35–46)
+
+43 (38–48)
+
+–0·1 (–3·2 to 3·0)*
+
+26 weeks
+
+46 (41–52)
+
+51 (47–55)
+
+–2·0 (-4·8 to 0·8)*
+
+26 (12–58)
+
+43 (9–80)
+
+NA
+
+Duration of mechanical ventilation, days
+Duration of intensive care unit admission, days
+
+23 (8–55)
+
+25 (4–77)
+
+NA
+
+Duration of hospital admission, days
+
+39 (21–67)
+
+30 (21–73)
+
+NA
+
+Data are median (IQR), n (%), or mean (95% CI) unless specified. SID=second intravenous immunoglobulin dose.
+NA=not analysed as the assumptions of the linear regression model were not met due to non-normal distributions of
+the outcome. ONLS=Overall Neuropathy Limitations Scale. MRC=Medical Research Council. *β coefficient from linear
+regression presented here.
+
+Table 2: Primary and secondary endpoints
+
+34 g/L [IQR 30–43] vs 17 g/L [16–20] at 2 weeks after start
+of the standard intravenous immunoglobulin dose;
+appendix p 13). Median serum IgG at 4 weeks was still
+higher in the SID group than in the placebo group
+(median 19 g/L [IQR 16–22] vs 15 g/L [12–18]), but serum
+IgG concentrations were similar in both groups after
+12 weeks.
+We compared IgG concentrations in association
+with throm­
+bo­
+em­
+bolic events, and found that patients
+with throm­
+bo­
+em­
+bolic events did not have higher IgG
+concen­trations after one standard course of intravenous
+immunoglobulin (mean IgG 26 g/L compared with 30 g/L
+in patients without thromboembolic events) or after SID
+(mean IgG 29 g/L compared with 37 g/L in patients
+without thromboembolic events).
+
+Discussion
+This randomised trial did not show a significant clinical
+benefit of SID in selected patients with Guillain-Barré
+syndrome who had a predicted poor outcome after a first
+course of intravenous immunoglobulin. These patients
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+279
+
+Articles
+
+Guillain-Barré syndrome disability score
+Second intravenous
+immunoglobulin dose
+
+1
+2
+(n=2, (n=2,
+4%) 4%)
+
+2
+(n=5,
+11%)
+
+Intravenous
+immunoglobulin
+and placebo
+0%
+
+5
+(n=16,
+33%)
+
+4
+(n=21,
+43%)
+
+3
+(n=8,
+16%)
+
+4
+(n=22,
+50%)
+
+3
+(n=3,
+7%)
+20%
+
+40%
+
+5
+(n=14,
+32%)
+
+60%
+
+80%
+
+100%
+
+Figure 2: Guillain-Barré syndrome disability score at 4 weeks in the modified intention-to-treat population
+
+Number of patients
+Age, years
+36
+<60
+57
+≥60
+MRC sumscore
+26
+0–12
+67
+>12
+mEGOS
+49
+10–12
+44
+6–9
+Mechanical ventilation
+40
+Yes
+53
+No
+Acute CIDP or Guillain-Barre syndrome
+4
+Acute-CIDP
+Guillain-Barre syndrome 89
+Nerve connection studies
+60
+Demyelinating
+4
+Axonal
+11
+Inexcitable nerves
+18
+Other
+Delta IgG
+(IgG at 1 week minus baseline)
+36
+50% lowest
+37
+50% highest
+Campylobacter jejuni serology
+26
+Positive
+65
+Negative
+GM1 or GD1a antibodies
+30
+Positive
+60
+Negative
+93
+Overall
+
+Adjusted common
+odds ratio (95% Cl)
+1·9 (0·4–9·4)
+1·3 (0·4–4·2)
+4·1 (0·3–65)
+1·2 (0·5–3·4)
+1·8 (0·5–6·8)
+0·8 (0·2–2·9)
+1·1 (0·2–5·1)
+1·4 (0·4–4·4)
+NA
+0·9 (0·4–2·0)
+1·5 (0·6–4·2)
+NA
+0·6 (0·0–13·0)
+0·8 (0·1–5·4)
+2·3 (0·6–9·7)
+0·3 (0·1–1·1)
+0·5 (0·1–2·3)
+1·1 (0·4–2·9)
+1·0 (0·2–4·4)
+1·4 (0·5–4·0)
+1·4 (0·6–3·3)
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Favours intravenous Favours second
+immunoglobulin intravenous
+and placebo immunoglobulin dose
+
+Figure 3: Subgroup analyses
+Treatment effect in prespecified subgroup analyses. The outcome is improvement on the Guillain-Barré syndrome
+disability score at 4 weeks after inclusion (using proportional odds analysis, after covariate adjustment for mEGOS
+at 1 week). Each dot represents the adjusted common odds ratio, the size of the dot represents the number of
+patients in each subgroup, and the line represents the 95% CI. mEGOS=modified Erasmus GBS Outcome Scale.
+NA=not applicable. CIDP=chronic inflammatory demyelinating polyneuropathy. MRC=Medical Research Council.
+
+almost all continued to deteriorate at 1 week after the first
+intravenous immunoglobulin course, and were in a poor
+neurological condition based on the MRC sumscore and
+Guillain-Barré syndrome disability score. Our results
+complement earlier studies, which found that additional
+immunotherapy (ie, either intravenous immuno­­
+globu­
+lin after plasma exchange, six instead of four cycles of
+plasma exchange, or intravenous methyl­prednisolone with
+280
+
+intravenous immunoglobulin) in the general GuillainBarré syndrome population was not bene­­
+ficial.28–31 We
+believe our results can be generalised to the entire GuillainBarré syndrome population even though we studied SID
+only in those with a poor prognosis.
+One of the arguments that suggests a second series of
+intravenous immunoglobulin might be effective was the
+observation that a larger increase in serum IgG concen­
+tration after intravenous immunoglobulin treat­ment was
+related to a more substantial recovery.12,13 Our trial showed
+that SID is able to increase the serum IgG concentration
+further and for a prolonged period of time than controls
+(appendix p 13), but this effect did not improve outcome.
+It might be that a relatively small rise in serum IgG after
+standard intravenous immunoglobulin treatment is an
+indicator for disease severity or more rapid intravenous
+immunoglobulin catabolism, rather than a target for
+therapy. It seems probable that intravenous immuno­
+globulin in Guillain-Barré syndrome is predominantly
+effective very early in the course of disease and that
+prolonging a high serum IgG concentration provides no
+additional benefit. This hypothesis could explain both the
+results of the previous study, in which a higher delta IgG
+was related to a better outcome than a lower delta IgG,12
+and the results of the current trial. Further research into
+the mechanisms of the treatment-modifying effect of
+IgG in Guillain-Barré syndrome is needed.
+Another possible reason for not finding a positive effect
+of a SID could be that the included patients had too severe
+disease. Too much axonal damage might have already
+occured at the time of SID administration to find a
+difference between the groups. However, there was no
+suggestion of a positive effect of a SID in the subgroup of
+patients predicted to have a less severe outcome. Instead
+of repeating the standard dose, doubling the initial
+intravenous immuno­globulin dose could have resulted in
+better outcomes, but even more serious adverse events
+might have occurred as a consequence.
+Patients who were given SID had more serious adverse
+events than those who were given a single intravenous
+immunoglobulin dose and placebo. Thromboembolic
+events were reported more often in patients who were
+given SID than in those who were given placebo. Thrombo­
+embolic events are a well known, rare, side-effect of
+­­
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Articles
+
+intravenous immunoglobulin, and their mechanism is
+thought to be due to a dose-dependent increase of plasma
+viscosity.32 For this reason, known pre-existing vascular
+risk factors were a contraindication for random­isation in
+this trial (appendix p 18). However, other factors such as
+immobility, dehydration, leucocytosis, and coexist­
+ing
+inflammation can also cause a critical increase of plasma
+viscosity causing this serious adverse event. Patients with
+thrombo­embolic events did not have higher IgG concen­
+trations after one standard course of intravenous immuno­
+globulin or after SID when compared with patients without
+these events, and therefore the administration of a second
+intravenous immunoglobulin course rather than the
+serum IgG concentration only might be related to these
+serious adverse events.
+Our trial has several limitations. First, the sample size
+was relatively small, and the estimated odds ratio of 1·45
+had wide CIs. However, we believe that our results are
+valid as the main trial result is the same using modi­
+fied intention-to-treat or full intention-to-treat analyses;
+covariate adjustment as prespecified in the statistical
+analysis plan and protocol did not change the interpretation
+of the trial; there were no differences between treatment
+groups for any of the secondary endpoints; and we did not
+find differences in the subgroup analysis. Although a
+larger sample size would have increased the statistical
+power, the trial was powered to find a large treatment
+effect to improve treatment for this group of severely
+affected patients, considering that smaller effects would
+not be clinically meaningful.
+Second, some of the baseline variables were unbalanced
+between groups even though the patients were randomly
+assigned, which could have affected the outcome. Both
+age and preceding diarrhoea are known prognostic
+factors, and correction for these factors (together with
+baseline MRC sumscore) using covariate adjustment was
+prespecified in the proto­col. Covariate adjustment did not
+change the interpretation of the trial, as the unadjusted
+and adjusted common odds ratios were similar.25,26
+Third, acute-onset chronic inflammatory demyelinating
+polyneuropathy (CIDP) was diagnosed in four patients
+during follow-up (two in each group), which is consistent
+with the frequency reported in the literature in general in
+trials for the syndrome.11 Patients with acute-onset CIDP
+or with a treatment related fluctuation were given addi­
+tional intravenous immunoglobulin in the trial (accord­ing
+to established guidelines).11 These patients were retained
+in the main analysis; their exclusion did not affect the
+results of the trial in a prespecified subgroup analysis. The
+results of the trial should not change treatment practice of
+patients with acute-onset CIDP or with treatment related
+fluctuations.
+Fourth, in two patients, the diagnosis was changed
+(eosinophilic vasculitis in the placebo group and myelo­
+pathy in the SID group) shortly after random assignment
+and initiation of trial medi­cation. Once the alterna­tive
+diagnosis was made, follow-up stopped, and primary
+
+SID (n=49)
+
+Placebo (n=44)
+
+Any serious adverse event during study
+(excluding deaths)†
+
+25 (51%)
+
+10 (23%)
+
+Any serious adverse event in the first
+30 days (excluding deaths)
+
+17 (35%)
+
+7 (16%)
+
+Serious adverse events*
+
+Coronary ischaemia
+
+1 (2%)
+
+1 (2%)
+
+Asystole
+
+2 (4%)
+
+0
+
+Transient ischaemic attack (multiple)
+
+1 (2%)
+
+0
+
+Pulmonary embolism
+
+2 (4%)
+
+0
+0
+
+Radial artery thrombosis
+
+1 (2%)
+
+Renal insufficiency
+
+1 (2%)
+
+1 (2%)
+
+Pneumonia
+
+12 (24%)
+
+7 (16%)
+
+Other infection
+
+2 (4%)
+
+1 (2%)
+
+Other serious complications‡
+
+8 (16%)
+
+3 (7%)
+
+Haemolytic anaemia
+
+0
+
+0
+
+Blood transfusion¶
+
+3 (6%)
+
+0
+
+Other possible related complications§
+
+Data are n (%). SID=second intravenous immunoglobulin dose. *Only first events
+of a certain type are listed. Patients having multiple events of one type were
+counted once. †Odds ratio 3·54 (95% CI 1·44–8·72); p=0·0050. ‡See appendix
+(p 21). §Prospectively collected from 2015 onward (24 of 93 patients).
+¶For various reasons other than haemolytic anaemia.
+
+Table 3: Safety measures and serious adverse events
+
+end­point analysis was not possible. A full intention-to-treat
+analysis (n=96, three missing endpoints) resulted in an
+adjusted common odds ratio of 1·3 (95% CI 0·6–3·1),
+which was not different from the modified intention-totreat analysis.
+Lastly, our trial had an inclusion period of more than
+8 years. This long inclusion period was largely due to the
+rarity of Guillain-Barré syndrome, and only patients with
+a poor prognosis were randomly assigned. However,
+immune treatment of Guillain-Barré syndrome in the
+Netherlands has not changed over the past 8 years, so
+we expect that the population recruited in this trial was
+given the same treatments, despite the long recruitment
+period.
+In conclusion, we found no significant clinical benefit of
+a second intravenous immunoglobulin course admin­
+istered shortly after the first standard intravenous immu­
+no­globulin dose in patients with Guillain-Barré syndrome
+with poor prognosis. Additionally, the group given a
+second series of intra­venous immunoglobulin had more
+serious adverse events than those given placebo. When
+looking for better treat­ments for Guillain-Barré syndrome,
+we should consider agents acting through a different
+mechanism than intravenous immuno­globulin, includ­
+ing complement inhibitors (NCT04035135) and IgG
+degrading enzymes (NCT03943589).
+Contributors
+CW was responsible for study conception, design, data acquisition,
+analysis, access and verification of the data, and interpretation and
+drafting of the manuscript. BCJ and PAvD were responsible for study
+conception, design, supervision, data acquisition, access and verification
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+281
+
+Articles
+
+of the data, and interpretation and drafting of the manuscript. HFL was
+responsible for study conception, design, access and verification of the
+data, analysis and interpretation, and drafting of the manuscript.
+EWS was responsible for study conception, design, and interpretation
+and drafting of the manuscript. RACH and DRC were responsible for
+study conception, design, supervision, and interpretation and drafting of
+the manuscript. All other authors were responsible for data acquisition
+and for revision of the manuscript. All authors vouch for the fidelity
+of trial conduct to the protocol, accuracy of outcome reporting, and of
+adverse events. All authors had full access to all the data in the study and
+had final responsibility for the decision to submit for publication.
+Declaration of interests
+BCJ reports grants from Baxalta, Grifols, CSL-Behring, Annexon,
+Prinses-Beatrix Spierfonds, Guillain-Barré syndrome/chronic
+inflammatory demyelinating polyneuropathy (GBS/CIDP) Foundation
+International, Hansa Biopharma, and EU’s Horizon 2020, outside the
+submitted work. AYD declares that her host institution, the Erasmus MC,
+pays her salary with a fund from Annexon Biosciences (January, 2017),
+a pharmaceutical company that develops complement inhibitors for
+Guillain-Barré syndrome. Neither her PhD research nor her employment
+is contingent on this funding, and AYD has no control over the use of
+the funds. AYD has also received an honorarium for a lecture from
+CSL Behring (November, 2018). The money was paid directly to the
+Erasmus MC and AYD did not financially benefit from this honorarium.
+KK reports grants from Baxalta now part of Shire/Takeda, outside the
+submitted work. RH reports grants from Grifols, and GBS/CIDP
+Foundation International, outside the submitted work. AJvdK reports a
+grant from CSL Behring, outside the submitted work. FE reports grants
+from CSL Behring, Kedrion, Terumo BCT, and Takeda Pharmaceutical
+Company, outside the submitted work. Grants were paid to their institution
+and were used for investigator-initiated studies within INCbase, an
+international CIDP registry. He also received consultancy fees from
+UCB pharma, paid to his institution, outside the submitted work.
+CGF reports grants from EU’s Horizon 2020 research and innovation
+programme, Marie Sklodowska-Curie grant for PAIN-Net,
+Molecule-to-man pain network (grant number 721841), Prinses Beatrix
+Spierfonds, Grifols, and Lamepro for a trial on intravenous
+immunoglobulin in small fibre neuropathy, was a member on steering
+committees and an advisory board for studies in small fibre neuropathy of
+Biogen/Convergence and Vertex, outside the submitted work. ISJM reports
+grants from Talecris Talents program, GBS/CIDP Foundation International
+and FP7 EU program, outside the submitted work; Furthermore,
+a research foundation at the University of Maastricht received honoraria on
+behalf of him for participation in steering committees of the Talecris
+Immune Globulin Intravenous For Chronic Inflammatory Demyelinating
+Polyneuropathy Study, Commonwealth Serum Laboratories, Behring,
+Octapharma, LFB, Novartis, Union Chimique Belge, outside the submitted
+work. UAB reports financial compensation for costs made to include
+patients in a trial from Novartis, outside the submitted work.
+RACH reports personal fees from LFB, Hansa Biopharma, and Sanofi,
+outside the submitted work and is a medical patron of GAIN. DRC reports
+consulting for Amgen, Annexon Biosciences, argenx SE, Biotest
+Pharmaceuticals, Cigna Health Management, CSL Behring, CytomX
+Therapeutics, Grifols, New Enterprise Associates, Octapharma, Pfizer,
+Pharnext, Polyneuron Pharmaceuticals, Seattle Genetics, Syntimmune,
+and UCB. DRC was on the Data Safety Monitoring Board for the following:
+Alnylam Pharmaceuticals, PledPharma, Momenta Pharma, Hansa
+Medical, and Mitsubishi Tanabe Pharma Corporation. DRC was involved
+with technology licensing for AstraZeneca Pharmaceuticals,
+LP Pharmaceuticals (Xiamen), Genentech, Levicept, Seattle Genetics,
+Merrimack Pharmaceuticals, and Disarm Therapeutics, outside the
+submitted work. PAvD reports grants from Sanquin Blood Supply and
+Prinses Beatrix Spierfonds, during the conduct of the study; and grants
+from Grifols, Takeda, Annexion, Argenx, Commonwealth Serum
+Laboratories, Octapharma, and Hansa, outside the submitted work.
+All grants were paid to the institution and used for investigator-initiated
+studies. All other authors declare no competing interests.
+Data sharing
+In compliance with the General Data Protection Regulation, source data
+are not available for other researchers as no patient approval has been
+
+282
+
+obtained for sharing coded data. Information about analytic methods,
+syntax, and output files of statistical analyses will be made available by
+the corresponding author upon reasonable request.
+Acknowledgments
+We thank the following people for their help and advice during the
+conduct of the SID-GBS trial:
+Data monitoring and safety committee: Chair: DWJ Dippel; Member:
+RQ Hintzen; Independent statistician: SE Hoeks, all from Erasmus
+MC University Medical Center, Rotterdam, Netherlands.
+Trial coordinator: M van Woerkom, Erasmus MC University Medical
+Center, Rotterdam, Netherlands.
+Laboratory investigations: AP Tio-Gillen, W van Rijs; Department of
+Immunology, Erasmus MC University Medical Center, Rotterdam,
+Netherlands. S Scherbeijn, AA van der Eijk, Department of Virology,
+Erasmus MC University Medical Center, Rotterdam, Netherlands;
+M de Waart, CRB Ramakers, Department of Clinical Chemistry,
+Erasmus MC University Medical Center, Rotterdam, Netherlands.
+M Maas, M Batstra, P Herbrink, Department of Microbiology,
+Reinier de Graaf Hospital, Delft, Netherlands.
+Handling trial medication and drug accountability:
+M Zoetekouw–Bakker; The Medical Department, Sanquin Plasma
+Products, Amsterdam, Netherlands.
+References
+1
+Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barré syndrome.
+Lancet 2016; 388: 717–27.
+2
+Asbury AK, Cornblath DR. Assessment of current diagnostic
+criteria for Guillain-Barré syndrome. Ann Neurol 1990;
+27 (suppl): S21–24.
+3
+Chevret S, Hughes RA, Annane D. Plasma exchange for
+Guillain-Barré syndrome. Cochrane Database Syst Rev 2017;
+2: CD001798.
+4
+Hughes RA, Swan AV, van Doorn PA. Intravenous immunoglobulin
+for Guillain-Barré syndrome. Cochrane Database Syst Rev 2014;
+9: CD002063.
+5
+van den Berg B, Walgaard C, Drenthen J, Fokke C, Jacobs BC,
+van Doorn PA. Guillain-Barré syndrome: pathogenesis, diagnosis,
+treatment and prognosis. Nat Rev Neurol 2014; 10: 469–82.
+6
+Walgaard C, Lingsma HF, Ruts L, van Doorn PA, Steyerberg EW,
+Jacobs BC. Early recognition of poor prognosis in Guillain-Barre
+syndrome. Neurology 2011; 76: 968–75.
+7
+Verboon C, Doets AY, Galassi G, et al. Current treatment practice of
+Guillain-Barré syndrome. Neurology 2019; 93: e59–76.
+8
+Farcas P, Avnun L, Frisher S, Herishanu YO, Wirguin I. Efficacy of
+repeated intravenous immunoglobulin in severe unresponsive
+Guillain-Barré syndrome. Lancet 1997; 350: 1747.
+9
+Godoy DA, Rabinstein A. Is a second cycle of immunoglobulin
+justified in axonal forms of Guillain-Barré syndrome?
+Arq Neuropsiquiatr 2015; 73: 848–51.
+10 Raphael JC, Chevret S, Harboun M, Jars-Guincestre MC.
+Intravenous immune globulins in patients with Guillain-Barré
+syndrome and contraindications to plasma exchange: 3 days versus
+6 days. J Neurol Neurosurg Psychiatry 2001; 71: 235–38.
+11 Ruts L, Drenthen J, Jacobs BC, van Doorn PA. Distinguishing
+acute-onset CIDP from fluctuating Guillain-Barre syndrome:
+a prospective study. Neurology 2010; 74: 1680–86.
+12 Kuitwaard K, de Gelder J, Tio-Gillen AP, et al. Pharmacokinetics of
+intravenous immunoglobulin and outcome in Guillain-Barré
+syndrome. Ann Neurol 2009; 66: 597–603.
+13 Walgaard C, Jacobs BC, Lingsma HF, et al. Second IVIg course in
+Guillain-Barré syndrome patients with poor prognosis (SID-GBS
+trial): protocol for a double-blind randomized, placebo-controlled
+clinical trial. J Peripher Nerv Syst 2018; 23: 210–15.
+14 Kleyweg RP, van der Meché FG, Schmitz PI. Interobserver
+agreement in the assessment of muscle strength and functional
+abilities in Guillain-Barré syndrome. Muscle Nerve 1991; 14: 1103–09.
+15 Ang CW, Krogfelt K, Herbrink P, et al. Validation of an ELISA for
+the diagnosis of recent Campylobacter infections in Guillain-Barré
+and reactive arthritis patients. Clin Microbiol Infect 2007; 13: 915–22.
+16 Jacobs BC, van Doorn PA, Schmitz PI, et al. Campylobacter jejuni
+infections and anti-GM1 antibodies in Guillain-Barré syndrome.
+Ann Neurol 1996; 40: 181–87.
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+Articles
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Kuijf ML, van Doorn PA, Tio-Gillen AP, et al. Diagnostic value of
+anti-GM1 ganglioside serology and validation of the INCAT-ELISA.
+J Neurol Sci 2005; 239: 37–44.
+van den Berg B, van der Eijk AA, Pas SD, et al. Guillain-Barré
+syndrome associated with preceding hepatitis E virus infection.
+Neurology 2014; 82: 491–97.
+Hadden RD, Cornblath DR, Hughes RA, et al. Electrophysiological
+classification of Guillain-Barré syndrome: clinical associations and
+outcome. Ann Neurol 1998; 44: 780–88.
+Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and
+management of Guillain-Barré syndrome in ten steps.
+Nat Rev Neurol 2019; 15: 671–83.
+Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled
+trial prednisolone in acute polyneuropathy. Lancet 1978; 2: 750–53.
+Graham RC, Hughes RA. A modified peripheral neuropathy scale:
+the Overall Neuropathy Limitations Scale.
+J Neurol Neurosurg Psychiatry 2006; 77: 973–76.
+Maas AI, Murray GD, Roozenbeek B, et al. Advancing care for
+traumatic brain injury: findings from the IMPACT studies and
+perspectives on future research. Lancet Neurol 2013; 12: 1200–10.
+Scott SC, Goldberg MS, Mayo NE. Statistical assessment of
+ordinal outcomes in comparative studies. J Clin Epidemiol 1997;
+50: 45–55.
+van Leeuwen N, Walgaard C, van Doorn PA, Jacobs BC,
+Steyerberg EW, Lingsma HF. Efficient design and analysis of
+randomized controlled trials in rare neurological diseases: an example
+in Guillain-Barré syndrome. PLoS One 2019; 14: e0211404.
+
+26
+
+27
+28
+
+29
+
+30
+
+31
+
+32
+
+Roozenbeek B, Maas AI, Lingsma HF, et al. Baseline characteristics
+and statistical power in randomized controlled trials: selection,
+prognostic targeting, or covariate adjustment? Crit Care Med 2009;
+37: 2683–90.
+Nguyen TP, Biliciler S, Wahed A, Sheikh K. Occurrence of
+hemolytic anemia in patients with GBS treated with high-dose IVIg.
+Neurol Neuroimmunol Neuroinflamm 2014; 1: e50.
+Plasma Exchange/Sandoglobulin Guillain-Barré Syndrome Trial
+Group. Randomised trial of plasma exchange, intravenous
+immunoglobulin, and combined treatments in Guillain-Barré
+syndrome. Lancet 1997; 349: 225–30.
+Verboon C, van den Berg B, Cornblath DR, et al. Original research:
+second IVIg course in Guillain-Barré syndrome with poor prognosis:
+the non-randomised ISID study. J Neurol Neurosurg Psychiatry 2020;
+91: 113–21.
+van Koningsveld R, Schmitz PI, Meché FG, Visser LH, Meulstee J,
+van Doorn PA. Effect of methylprednisolone when added to
+standard treatment with intravenous immunoglobulin for
+Guillain-Barré syndrome: randomised trial. Lancet 2004;
+363: 192–96.
+The French Cooperative Group on Plasma Exchange in
+Guillain-Barré Syndrome. Appropriate number of plasma
+exchanges in Guillain-Barré syndrome. Ann Neurol 1997;
+41: 298–306.
+Kapoor M, Spillane J, Englezou C, et al. Thromboembolic risk with
+IVIg: Incidence and risk factors in patients with inflammatory
+neuropathy. Neurology 2020; 94: e635–38.
+
+www.thelancet.com/neurology Vol 20 April 2021
+Downloaded for Anonymous User (n/a) at Vastra Gotaland Region from ClinicalKey.com by Elsevier on March 25,
+2026. For personal use only. No other uses without permission. Copyright ©2026. Elsevier Inc. All rights reserved.
+
+283
+
+

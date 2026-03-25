@@ -269,17 +269,22 @@ This is the central clinical dilemma: the GBS patient needs PE (which causes coa
 
 ### 3.2 Minimum Coagulation Parameters for Safe Tracheostomy
 
-**Consensus thresholds from ICU literature (Pilarczyk et al. 2016; PMC Patient Selection PDT 2021):**
+**Consensus thresholds from ICU literature (Pilarczyk et al. 2016, n=1001 PDTs; PMC Patient Selection PDT 2021):**
 
 | Parameter | Minimum for Tracheostomy | Preferred Target | Notes |
 |-----------|-------------------------|-----------------|-------|
-| **Fibrinogen** | >1.5 g/L (150 mg/dL) | >2.0 g/L (200 mg/dL) | Fibrinogen <7.4 umol/L (~2.2 g/L) identified as independent risk factor for bleeding (Pilarczyk et al. 2016) |
+| **Fibrinogen** | >1.5 g/L (150 mg/dL) | >2.0 g/L (200 mg/dL) | Fibrinogen <7.4 umol/L (~2.5 g/L) identified as independent risk factor for bleeding (OR 1.85, Pilarczyk et al. 2016) |
 | **Platelet count** | >50 x 10^9/L | >80 x 10^9/L | Some centers accept >50 with ultrasound guidance |
 | **INR** | <1.5 | <1.3 | Higher-risk procedures: INR <1.5 (SIR guidelines) |
 | **aPTT** | <50 seconds | <1.5x upper normal | Stop heparin infusion 4-6h before if applicable |
 
 **Important nuance -- evidence supports more liberal thresholds:**
-- Pilarczyk et al. (2016) *[Level 3 — retrospektiv analys, n=483]* analyzed 483 PDTs over 10 years: after multivariate analysis, **only low fibrinogen** retained significance as an independent predictor of bleeding
+- Pilarczyk et al. (2016) *[Level 3 — retrospektiv analys, n=1001]* analyzed **1,001 PDTs** over 10 years in a cardiothoracic ICU: overall bleeding rate was **8.4% moderate and 0.4% severe/major**. Independent predictors of bleeding (multivariate logistic regression):
+  - Difficult PDT procedure: OR 4.46
+  - Less experienced operator: OR 2.00
+  - SAPS II score >40
+  - **Fibrinogen <7.4 umol/L (~2.5 g/L):** OR 1.85 (95% CI 1.05-3.27, P = .033)
+  - **Platelet count** was lower in the bleeding group (91.6 vs 111.5 x 10^9/L) but was **not an independent predictor** in multivariate analysis — reinforcing that fibrinogen, not platelets, is the critical coagulation parameter for PDT safety
 - Percutaneous tracheostomy was safely performed in 42 patients with **severe thrombocytopenia** (mean platelet count 26.4 x 10^9/L), with only 5% major bleeding (Kluge et al., Anesth Analg 2004)
 - A prospective study found no significant difference in bleeding between coagulopathic and non-coagulopathic patients undergoing PDT (9.7% vs 7.3% moderate bleeding) (Indian J Crit Care Med 2020)
 - The TOPIC trial (RCT) failed to show that FFP transfusion to correct INR (>1.5-3.0) prevented bleeding complications in patients undergoing PDT

@@ -105,10 +105,18 @@ The proposed pathophysiological link between Hashimoto's and GBS centers on **ga
    - TT4, TPO-Ab, and TG-Ab levels in GBS were all higher than in CIDP and controls (P < 0.01).
    (Wang et al., *Front Neurol*, 2020)
 
-2. **TSH is an independent risk factor for recurrent GBS:** *[Level 3 — retrospektiv analys]*
-   - TSH > 3.87 uIU/mL predicted GBS recurrence with **88.9% sensitivity and 90.4% specificity**.
-   - Multivariate regression: antecedent illness, AIDP subtype, and high TSH were independently associated with RGBS.
-   (Wang et al., *Muscle Nerve*, 2022; PMID: 35194803)
+2. **TSH is an independent risk factor for recurrent GBS:** *[Level 3 — retrospektiv analys, n=320]*
+   - In a retrospective study of 320 GBS patients (302 monophasic, 18 RGBS) at Zhengzhou University (2014-2020):
+   - TSH was significantly higher in RGBS patients: median 4.42 vs 1.81 uIU/mL (P < .001).
+   - **FT3 was significantly lower in RGBS patients:** median 4.40 vs 4.89 pmol/L (P = .022). This finding is notable — lower FT3 in recurrent patients supports the hypothesis that suboptimal thyroid hormone availability (not just elevated TSH) may contribute to recurrence risk.
+   - ROC analysis: TSH > 3.87 uIU/mL predicted GBS recurrence with **88.9% sensitivity and 90.4% specificity** (AUC 0.899).
+   - Multivariate logistic regression — independent risk factors for RGBS:
+     - Antecedent illness: OR 5.37 (95% CI 1.32-21.90, P = .019)
+     - AIDP subtype: OR 5.37 (95% CI 1.09-26.58, P = .039)
+     - High TSH: OR 3.90 (95% CI 2.07-7.34, P < .001)
+   - FT3 was NOT independently associated with RGBS in multivariate analysis (OR 0.58, 95% CI 0.24-1.39, P = .224), suggesting TSH exerts its effect through a pathway other than simple T3 deficiency.
+   - **Proposed mechanism:** Oxidative stress. Higher TSH is associated with elevated malondialdehyde (MDA, a marker of oxidative damage) and increased reactive oxygen species (ROS). Excess ROS is a recognized mediator of demyelination and axonal injury, and has been shown to activate the MAP kinase pathway in Schwann cells. The authors propose that TSH may indirectly contribute to recurrent peripheral nerve damage through oxidative stress pathways.
+   (Wang S, Luo Z, Peng T. *Muscle Nerve*. 2022;65(6):688-692. PMID: 35342963)
 
 3. **Abnormal thyroid function predicts worse GBS outcomes:**
    - GBS patients with abnormal thyroid function had: longer hospitalization, higher frequency of cranial nerve damage, higher incidence of weakened tendon reflexes.
@@ -127,10 +135,12 @@ The proposed pathophysiological link between Hashimoto's and GBS centers on **ga
 ### 2.4 Clinical Significance for Madeleine
 
 The combination of Hashimoto's thyroiditis with recurrent GBS is especially concerning because:
-- TSH > 3.87 is an independent risk factor for GBS recurrence (high sensitivity/specificity)
+- TSH > 3.87 is an independent risk factor for GBS recurrence (OR 3.90, 88.9% sensitivity/90.4% specificity)
+- **FT3 was significantly lower in RGBS patients** (median 4.40 vs 4.89 pmol/L), reinforcing the levothyroxine-trigger hypothesis: even subclinical T3 insufficiency may predispose to recurrence
 - Hypothyroidism (undertreated Hashimoto's) worsens GBS severity markers
 - 70% of GBS patients have positive thyroid autoantibodies — this is not coincidental
-- **Maintaining optimal thyroid function may be a modifiable factor in reducing recurrence risk and improving outcomes**
+- Higher TSH is linked to oxidative stress (elevated MDA, increased ROS), which is itself a mediator of demyelination and axonal injury
+- **Maintaining optimal thyroid function — both adequate TSH suppression and sufficient FT3 — may be a modifiable factor in reducing recurrence risk and improving outcomes**
 
 ---
 
@@ -491,7 +501,7 @@ This represents a **biologically plausible contributing trigger** that warrants:
 
 ### Thyroid Function and GBS Severity / Recurrence
 16. Wang J, et al. "Differences in Thyroid Function and Autoantibodies in the Development of Guillain-Barre Syndrome vs. Chronic Inflammatory Demyelinating Polyradiculoneuropathy." *Front Neurol.* 2020;11:1018.
-17. Wang Y, et al. "Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome." *Muscle Nerve.* 2022;65(5):569-574. PMID: 35194803
+17. Wang S, Luo Z, Peng T. "Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome." *Muscle Nerve.* 2022;65(6):688-692. PMID: 35342963
 18. Chen W, et al. "The prediction effects of thyroid function in the severity of Guillain-Barre syndrome." *Neurol Sci.* 2022;43(7):4479-4485.
 19. Huang W, et al. "Thyroid hormone level is associated with the frequency and severity of Guillain-Barre syndrome." *Int J Neurosci.* 2017;127(10):893-899.
 20. Huang Y, et al. "Association Between Thyroid Hormone Levels and Disease Prognosis in Guillain-Barre Syndrome: A Retrospective Study." *Health Sci Rep.* 2025;8:e70818.

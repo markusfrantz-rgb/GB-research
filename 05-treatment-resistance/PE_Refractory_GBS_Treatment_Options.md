@@ -51,8 +51,10 @@ From the European Academy of Neurology/Peripheral Nerve Society Guideline on dia
 
 Walgaard C, Jacobs BC, et al. "Second intravenous immunoglobulin dose in patients with Guillain-Barre syndrome with poor prognosis (SID-GBS): a double-blind, randomised, placebo-controlled trial." *Lancet Neurology* 2021;20(4):275-283.
 
-- Patients with GBS and poor prognosis did NOT benefit from a second IVIg course *[Level 1]*
-- Moreover, repeat IVIg entailed a risk of serious adverse events
+- **Design:** Double-blind, placebo-controlled RCT, n=93 (49 SID, 44 placebo), 59 hospitals in the Netherlands. Inclusion: mEGOS >=6 (poor prognosis) *[Level 1]*
+- **Primary endpoint:** Adjusted common OR 1.4 (95% CI 0.6-3.3, p=0.45) -- NOT significant
+- **SAE:** 35% in second-dose group vs 16% in placebo group in first 30 days, predominantly thromboembolic events
+- **Deaths:** 4 deaths in the SID group (13-24 weeks post-randomization)
 - This trial definitively ended the widespread practice of giving repeat IVIg to non-responders
 - **However:** This trial studied repeat IVIg after initial IVIg failure, not IVIg after PE failure -- a different clinical scenario
 
@@ -592,7 +594,7 @@ The Japanese Phase 3 trial (JET-GBS Phase 3, Kuwabara et al., J Peripher Nerv Sy
 
 2. Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome. *J Peripher Nerv Syst* 2023;28(4):535-563. doi:10.1111/jns.12594
 
-3. Walgaard C, Jacobs BC, Lingsma HF, et al. Second intravenous immunoglobulin dose in patients with Guillain-Barre syndrome with poor prognosis (SID-GBS): a double-blind, randomised, placebo-controlled trial. *Lancet Neurology* 2021;20(4):275-283. doi:10.1016/S1474-4422(20)30494-4
+3. Walgaard C, Jacobs BC, Lingsma HF, et al. Second intravenous immunoglobulin dose in patients with Guillain-Barre syndrome with poor prognosis (SID-GBS): a double-blind, randomised, placebo-controlled trial. *Lancet Neurology* 2021;20(4):275-283. PMID: 33743237. doi:10.1016/S1474-4422(20)30494-4
 
 4. Roe T, Gordon A, Gourd N, et al. Immunoglobulin unresponsive Guillain-Barre syndrome: rinse or repeat? A systematic review. *BMJ Neurol Open* 2025;7(1):e000907. doi:10.1136/bmjno-2024-000907
 

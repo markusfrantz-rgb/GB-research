@@ -1,0 +1,2092 @@
+Neurocrit Care (2021) 34:301–311
+https://doi.org/10.1007/s12028-020-00989-1
+
+REVIEW ARTICLE
+
+Drug Dosing in Patients Undergoing
+Therapeutic Plasma Exchange
+Sherif Hanafy Mahmoud1* , Jessica Buhler1, Eric Chu1, Suzie A. Chen2 and Theresa Human2,3
+© 2020 Springer Science+Business Media, LLC, part of Springer Nature and Neurocritical Care Society
+
+Abstract
+Therapeutic plasma exchange (TPE) is an extracorporeal process in which a large volume of whole blood is taken from
+the patient’s vein. Plasma is then separated from the other cellular components of the blood and discarded while the
+remaining blood components may then be returned to the patient. Replacement fluids such as albumin or fresh-frozen plasma may or may not be used. TPE has been used clinically for the removal of pathologic targets in the plasma
+in a variety of conditions, such as pathogenic antibodies in autoimmune disorders. TPE is becoming more common in
+the neurointensive care space as autoimmunity has been shown to play an etiological role in many acute neurological disorders. It is important to note that not only does TPE removes pathologic elements from the plasma, but may
+also remove drugs, which may be an intended or unintended consequence. The objective of the current review is to
+provide an up-to-date summary of the available evidence pertaining to drug removal via TPE and provide relevant
+clinical suggestions where applicable. This review also aims to provide an easy-to-follow clinical tool in order to determine the possibility of a drug removal via TPE given the procedure-specific and pharmacokinetic drug properties.
+Keywords: Plasmapheresis, TPE plasma exchange, Drug removal, Apheresis
+Introduction
+Therapeutic plasma exchange (TPE), also referred to as
+plasmapheresis, is an extracorporeal process in which
+a large volume of whole blood, taken from the patient’s
+vein, is separated into its various blood components
+through filtration or centrifugation. The plasma is then
+separated from the other cellular components of the
+blood and discarded while the remaining blood components may then be returned to the patient with or without replacement fluids such as albumin or fresh-frozen
+plasma (FFP) [1]. The filtration method uses a microporous filter, which allows plasma to pass through, filtering
+it from other cellular components found in whole blood.
+Conversely, centrifugation uses a device which separates
+the whole blood into layers based on density: plasma,
+
+*Correspondence: smahmoud@ualberta.ca
+1
+Faculty of Pharmacy and Pharmaceutical Sciences, 3–142H, Katz
+Group Centre for Pharmacy and Health Research, University of Alberta,
+Edmonton, AB T6G 2E1, Canada
+Full list of author information is available at the end of the article
+
+platelets, lymphocytes, granulocytes and erythrocytes
+[1]. The centrifugation device allows for selective extraction of any of these layers, leading to other types of therapeutic apheresis in which blood components other than
+plasma are the target for removal [2].
+TPE has been used clinically since the early 1970s for
+the removal of pathologic targets in the plasma in a variety of conditions, such as pathogenic antibodies in autoimmune disorders [3]. TPE is becoming more common
+in the neurointensive care space as autoimmunity has
+been shown to play an etiological role in many acute neurological disorders. It is important to note that not only
+does TPE removes pathologic elements from the plasma,
+but may also remove drugs and coagulation factors,
+which may be an intended or unintended consequence
+[4]. Inadequate drug concentrations can be a serious
+unintended consequence for patients treated with medications in which sustained adequate drug concentrations
+are vital, such as with many antimicrobials. The removal
+of coagulation factors by TPE may lead to bleeding or
+thrombosis and may further cause clinical downstream
+
+302
+
+effects in medications that rely on these factors. However,
+the degree of drug and coagulation factor removal and
+its implication on potential dosing adjustments is still
+not yet well understood, as not all drugs are equivalent
+with regard to their removal by TPE. There are many factors that can affect drug removal in patients undergoing
+TPE; however, the scarcity of quality evidence and conflicting conclusions stated in case reports and case series
+can lead to confusion and uncertainty among clinicians.
+There have been few reviews of the existing literature of
+the effects of TPE on drug disposition; however, there are
+no definitive guidelines or manufacturers’ recommendations regarding drug removal in patients undergoing TPE
+[5–8].
+The objective of the current review is to provide an upto-date summary of the available evidence pertaining to
+drug removal via TPE and provide relevant clinical suggestions where applicable. This review also aims to provide an easy-to-follow clinical tool in order to determine
+the possibility of a drug removal via TPE given the procedure-specific and pharmacokinetic drug properties.
+
+Methods of Literature Search
+A literature search of the databases MEDLINE (1946–
+April 2019), PubMed (1973–February 2019) and
+EMBASE (1974–April 2019) was completed using the
+following search terms: “Pharmacokinetics,” “Drug Clearance,” “Drug Dialysability,” “Drug Distribution,” “Drug
+Elimination,” “Drug Excretion,” “Plasma Concentration–
+Time Curve,” “Drug Overdose” and “Drug Monitoring.”
+These terms were combined with the following search
+terms: “Plasmapheresis” and “Plasma Exchange.” Title
+and Abstract screening were performed to eliminate
+irrelevant articles and duplicates. A full text review was
+performed to further refine the search results. Books,
+reviews, animal studies and editorials were excluded. In
+addition, a manual search for additional relevant studies was performed by reviewing the reference lists of the
+relevant reviews and the selected studies. Data collected
+included drug name, study type (overdose versus therapeutic), study design, time from last dose to TPE, drug
+concentration change and fraction eliminated from the
+body as a result of TPE and TPE duration.
+Summary of Evidence
+A total of 125 studies were included in this review. The
+information presented was categorized by therapeutic
+drug classes and summarized in Tables 1, 2, 3, 4, 5 and
+6 along with the percent protein binding (fb %), volume
+of distribution (Vd) and half-life for each drug as a reference. Approximately, one-third of the reports were about
+drug removal by TPE during therapy, while approximately two-thirds were about using TPE during drug
+
+overdose. It is important to consider that in overdose
+situations, drug pharmacokinetics may be significantly
+different than in normal dosing conditions [9] and much
+of the literature reported on this subject is related to
+overdose situations. Therefore, caution is recommended
+when applying previous findings to current clinical scenarios if the patient in question has a significantly different clinical status than those previously reported.
+
+Factors Affecting Drug Removal by TPE
+The degree of drug removal by TPE is affected by both
+the drug pharmacokinetic characteristics and TPE-specific properties. These factors and their relevance to the
+extent of drug removal are summarized in the following
+sections.
+Pharmacokinetics
+Distribution: Protein Binding, Volume of Distribution
+and Multi‑compartmental Kinetics
+
+The most literature regarding drug removal via TPE
+highlights the importance of two key pharmacokinetic
+factors affecting drug removal: volume of distribution
+and plasma protein binding [5]. Additionally, the kinetic
+model that the drug in question displays can result in
+differing consequences regarding the amount of drug
+removed during TPE.
+Volume of distribution (Vd) is the apparent volume in
+which the drug distributes in the body. In other terms,
+the higher the Vd is, the larger the amount of the drug
+that is distributed to tissues. Drugs that exhibit a low Vd
+(< 0.2–0.3 L/kg), correlating to a higher drug plasma concentrations, are more susceptible to removal by TPE [10].
+Changes in body volumes, due to factors such as critical
+illness or hydration status, affect drug distribution and
+protein binding and, hence, propensity to TPE removal.
+Additionally, drugs that are distributed into tissues may
+display post-distribution rebound effect after TPE due
+to the drug redistributing back into the blood after it has
+been removed [6]. This post-distribution rebound effect
+has been documented in drugs with high Vd, such as vancomycin, [11] phenytoin, [12, 13] and carbamazepine
+[14] as well as those with moderate to low Vd such as
+gentamicin [15] and tobramycin [16]. The results in the
+literature have reported that TPE has the most influence
+on drugs with a low Vd, regardless of the extent of protein binding [10]. Therefore, in light of the scarcity of evidence, volume of distribution should be one of the first
+parameters considered when determining if a drug will
+be removed with TPE.
+Many drugs bind to proteins found in plasma, including albumin and alpha acid glycoprotein. Drugs that have
+high protein binding affinity, defined as > 80% of fraction
+bound (fb), remain in the plasma and are therefore more
+
+303
+
+Table 1 Summary of the effect of therapeutic plasma exchange (TPE) on antimicrobials
+Drug
+
+ (%)
+Red
+>80
+
+Vd (L/kg)
+Red
+<0.2-0.3
+
+Half-life
+(h)
+Red > 2h
+
+T/OD
+
+Acyclovir[29]
+(PK study)
+Amphotericin B
+deoxycholate[30,
+31] (CR x 2)
+Amphotericin B
+liposomal[32] (CR)
+Ampicillin[33]
+(Ph II)
+Cefepime[34] (Ph II)
+Ceazidime[35]
+(Ph II)
+Ceriaxone[36, 37]
+(Ph II x 2)
+Chloramphenicol[3
+8] (CR)
+
+9-32
+
+0.69-0.8
+
+2.5
+
+T
+
+90
+
+4
+
+α: 15-48h*
+β: 15 days
+
+OD
+
+95
+
+0.1-0.16
+
+7-153
+
+15-20
+
+0.2-0.3
+
+20
+10-20
+
+0.26
+0.23
+
+83-96
+
+n
+
+3
+
+Time
+from
+last
+dose
+to TPE
+(h)
+1-3
+
+2
+
+36-72
+
+T
+
+1
+
+38
+
+1-2
+
+T**
+
+15
+
+2
+1-2
+
+T
+T
+
+9
+11
+
+0.1-0.2
+
+5-9
+
+T
+
+40
+
+0.6-1
+
+10-24**
+
+Dapsone[39] (CR)
+Darunavir[40] (CR)
+Ganciclovir[41] (CR)
+Gentamicin[15, 33,
+42, 43] (Ph II x 4)
+
+70-80
+95
+1-2
+30
+
+1.5
+88 L
+0.5-0.8
+0.2-0.35
+
+28
+15
+3.5
+2
+
+Pip-Tazo [44] (CR)
+
+26-33
+
+0.243
+
+0.7-1.2
+
+T
+
+1
+
+CI
+
+Tobramycin[16, 45,
+46] (CR x 2, CS)
+
+< 30
+
+0.2-0.3
+
+2-3
+
+T
+
+4
+
+0.7–18
+
+Vancomycin[11, 4750] (CRx4, Ph II)
+
+55-70
+
+0.4-1
+
+4-6
+
+T
+
+16
+
+5-134
+
+Voriconazole[51,
+52] (CR x 2)
+Zidovudine[53](CR)
+
+58
+
+4.6
+
+6
+
+T
+
+2
+
+25-38
+
+1-2.2
+
+0.5-3
+
+T
+
+1
+
+∆C from
+TPE
+(post-TPE
+vs preTPE) %
+
+TPE
+fracon
+eliminaon
+of body
+stores (%)
+
+Drug
+Removed
+
+Recommendaon
+Comments
+Likely to be removed by TPE?
+
+56.6
+
+2.5
+
+No
+
+No dose adjustment required
+
+5-63
+
+NR
+
+Possible
+
+Higher concertaon decline when TPE instuted closer to administraon;
+High Vd suggest less eliminaon with chronic dosing; Administer aer TPE
+
+40
+
+NR
+
+Yes
+
+2-10
+
+35
+
+NR
+
+Possible
+
+Supplementaon post-TPE may be required as concentraon fell below
+minimum inhibitory concentraon
+PK suggest no significant removal; possibly removed if given during TPE run
+
+1.5
+0.25-2
+
+NR
+NR
+
+2.1-6.7
+4.6 - 6.9
+
+No
+No
+
+22
+
+0-15
+
+26-53
+
+5.7-25
+
+Possible
+
+OD**
+
+1
+
+29
+
+See
+comment
+
+NR
+
+Possible
+
+OD
+T
+T
+T**
+
+1
+1
+1
+41
+
+72
+NR
+NR
+2-12
+
+NR
+60
+NR
+26-62
+
+2
+1.5
+8
+5
+
+No
+Possible
+No
+Possible
+
+NR
+
+NR
+
+No
+
+13.8-52.4
+
+4 -11
+
+Possible
+
+8-55
+
+4.5-8.1
+
+Possible
+
+0-2.5
+
+0
+
+2
+
+No
+
+Concentraon declined from 135 to <10 µg/ml with 8-10 exchanges; Halflife shortened from 80 (in-between runs) to 6.5h (during TPE)
+The study suggests possible removal
+Report suggests no dose adjustment required; give aer TPE
+Mean amount removed 9.3 mg of 600 mg dose; dose aer TPE if possible
+No dose adjustment required
+Higher % of removal if TPE iniated right aer the dose given; Administer
+dose aer TPE if possible; TDM is available (For TDM, follow instuonal
+protocols; EID: monitor 8h post or trough level; CD, monitor pre/post levels)
+TPE contributed to 7.1-10.9% of total clearance of the drug; no dosage
+adjustment necessary; for intermient dosing, give dose aer TPE
+Higher % of removal if TPE iniated right aer the dose; Administer dose
+aer TPE if possible; TDM is available (For TDM, follow instuonal
+protocols; EID: monitor 8h post/trough level; CD, monitor pre/post levels)
+Higher % of removal if TPE iniated right aer the dose given; Administer
+dose aer TPE if possible; TDM is available (For TDM, follow instuonal
+protocols; monitor trough level or AUC)
+No dose adjustment required
+
+4
+
+50-71
+
+≤1
+
+No
+
+No dose adjustment required
+
+No dose adjustment required
+No dose adjustment required; If given before TPE, allow me for
+distribuon (~1-2h) before iniang TPE
+Less removal if TPE aer distribuon phase (3h)
+
+PK parameters may change in critical illness, and they were added here to show the possibility of removal by TPE
+AUC​area under the concentration–time curve, ∆C concentration change, CD conventional dosing, CI continuous infusion, CR case report, CS case series, EID
+extended interval dosing, fb fraction bound, n number of subjects, NR not reported, OD report of overdose, Ph II phase II study, Pip-Tazo piperacillin tazobactam, PK
+pharmacokinetic, T report of therapeutic dosing, TDM therapeutic drug monitoring, Vd volume of distribution
+*α is distribution half-life while β is elimination half-life; **data from neonates
+
+susceptible to removal by TPE than drugs that are considered to have low or negligible protein binding [17]. It is
+important to keep in mind that the extent of drug protein
+binding is not uniform among patients and that reported
+values given in drug monographs are based on a population average of healthy subjects or non-critically ill patients.
+Many factors can affect drug protein binding which consequently can change the effect of TPE in regard to drug
+removal and efficacy [5]. To illustrate, disease states, such
+as renal and hepatic failure, can cause decreased levels of
+albumin which, in turn, will cause decreased binding of
+acidic drugs [18]. Factors such as trauma, surgery and
+infections resulting in inflammation may cause an increase
+in the level of alpha acid glycoprotein and cause increased
+binding of basic drugs [19]. Additionally, factors affecting
+protein metabolism, such as nutritional status, can also
+have an effect on plasma protein concentrations [20]. Furthermore, the administration of FFP or albumin as replacement fluids after TPE can affect drug distribution and
+pharmacodynamics [2]. While drugs bound to plasma proteins during TPE will be removed during the process, TPE
+without protein replacement can increase the free fraction
+of the drug after TPE due to redistribution. The free drug
+
+fraction is the pharmacologically active form, and factors
+that alter its concentration have the potential to change the
+drug’s efficacy and adverse reactions. On the other hand,
+albumin replacement results in more bound drug and
+potential reduction in drug efficacy [21].
+Another factor to consider is the multi-compartmental
+distribution of drugs. Drugs that exhibit multi-compartmental pharmacokinetics display a distribution phase and
+elimination phase as depicted in Fig. 1. The initial decline
+in the distribution phase represents the drug leaving the
+plasma (central) compartment, either by entering into a
+tissue (peripheral) compartment or through endogenous
+elimination, until a drug plasma equilibrium occurs with
+peripheral tissues. The elimination phase occurs after this
+equilibrium is reached, and the drug must diffuse back
+from the peripheral compartment to the plasma in order to
+be eliminated. For drugs that exhibit multi-compartmental
+kinetics, it is important to recognize that the timing of TPE
+will have an effect on drug removal. If TPE is implemented
+during the distribution phase of the drug, the drug will be
+more susceptible to removal than if TPE is run during the
+elimination phase, as a much more considerable drug concentration will be present in the plasma [5, 7, 22].
+
+304
+
+Table 2 Summary of the effect of therapeutic plasma exchange (TPE) on antiepileptic drugs
+Drug
+
+ (%)
+Red
+>80
+
+Vd (L/kg)
+Red <0.2
+
+Half-life
+(h)
+Red > 2h
+
+T/OD
+
+n
+
+∆C from
+TPE
+(post-TPE
+vs preTPE) %
+
+TPE
+fracon
+eliminaon
+of body
+stores (%)
+
+Drug
+Removed
+
+Recommendaon
+Comments
+Likely to be removed by TPE?
+
+6
+
+Time
+from
+last
+dose
+to TPE
+(h)
+12-32
+
+Carbamazepine[1
+4, 54-58] (CR x 6)
+
+70-80
+
+0.59-2
+
+17-40
+
+T (1);
+OD (5)
+
+4-46.8
+
+5.7
+
+Possible
+
+T
+
+1
+
+0-4
+
+25-29
+
+NR
+
+Possible
+
+T
+
+2
+
+4-12
+
+17-28
+
+5
+
+Possible
+
+9
+
+T
+
+1
+
+1
+
+NR
+
+5.8
+
+Possible
+
+In overdose cases, small amount is removed as Vd is large. Transient
+reducon of concentraons post TPE may be of clinical relevance. Dose
+adjustment not likely required; TDM available.
+Transient reducon of concentraons post TPE may be of clinical
+relevance. Esmated 3-4mg removed/TPE session
+Negligible amount removed. Dose adjustment not likely required.
+Transient reducon of levels post TPE may be of clinical relevance.
+Administer dose aer TPE if possible
+No dose adjustment required; Transient reducon of concentraons post
+TPE may be of clinical relevance.
+
+Clobazam[59]
+(CR x 1)
+Leveracetam[59,
+60]
+(CR x 2)
+Oxcarbazepine[61
+]
+(CR)
+Phenobarbital[62,
+63]
+(CR x 2)
+Phenytoin[12, 13,
+64-70]
+(CR x 7 CS x 2)
+
+80-90
+
+100 L
+
+10-30
+
+< 10
+
+0.5-0.7
+
+6-8
+
+40
+
+0.75
+
+75-95
+
+0.6
+
+7d
+
+T
+
+2
+
+118
+
+NR
+
+3-38
+
+Possible
+
+No dose adjustment required; Allow me for distribuon before TPE
+
+88-92
+
+0.52-0.78
+
+7-42
+
+T (8);
+OD (1)
+
+15
+
+1.5>72
+
+3-10
+
+Possible
+
+Negligible amount removed. Dose adjustment not likely required. May
+see larger changes in total levels immediately post-TPE, but free levels do
+not change much. Also, redistribuon and level rebound seen; TDM
+available (Monitor trough levels; post TPE levels within 1h may be needed
+if poor seizure control while on TPE; monitor free levels if available)
+
+Topiramate[59]
+(CR)
+
+13-17
+
+0.55-0.8
+
+21
+
+T
+
+1
+
+4-8
+
+Total:
+19-43 %
+1h post:
+15-19.5%
+(rebound)
+Free:
+0-49.5 % 1
+h post:
+3.4-18%
+21-26
+
+NR
+
+Possible
+
+Valproic acid[63,
+71]
+(CR x 2)
+
+80-90
+
+0.3-0.7
+
+9-19
+
+T
+
+2
+
+3.5
+
+45
+
+7-8.6
+
+Possible
+
+Transient reducon of levels post TPE may be of clinical relevance.
+Administer dose aer TPE if possible; Esmated 47 mg removed per one
+TPE session
+Likely no dosage adjustment required, but should check trough levels and
+adjust as required unless poor control around TPE session (post TPE levels
+within 1h may be needed); monitor free levels if available.
+
+Pharmacokinetic parameters may change in critical illness and added here to show the possibility of removal by TPE
+CR case report, CS case series, ∆C concentration change, fb fraction bound, n number of subjects, NR not reported, OD report of overdose, T report of therapeutic
+dosing, TDM therapeutic drug monitoring, Vd volume of distribution
+
+Table 3 Summary of the effect of therapeutic plasma exchange (TPE) on antithrombotics
+
+PK parameters may change in critical illness and added here to show the possibility of removal by TPE
+AT III antithrombin III, CR case report, CS case series, ∆C concentration change, fb fraction bound, FFP fresh frozen plasma, INR international normalised, n number of
+subjects, NR not reported, OD report of overdose, Ph II phase II study, PK pharmacokinetic, T report of therapeutic dosing, Vd volume of distribution
+
+305
+
+Table 4 Summary of the effect of therapeutic plasma exchange (TPE) on cardiovascular drugs
+Drug
+
+ (%)
+Red
+>80
+
+Vd (L/kg)
+Red <0.20.3
+
+Half-life
+(h)
+Red > 2h
+
+T/OD
+
+n
+
+Time
+from
+last
+dose
+to TPE
+(h)
+18-31
+d
+
+∆C from
+TPE
+(post-TPE
+vs preTPE) %
+
+TPE
+fracon
+eliminaon
+of body
+stores (%)
+
+Drug
+Removed
+
+Recommendaon
+Comments
+Likely to be removed by TPE?
+
+Amiodarone[81,
+82]
+(CR x 2)
+Amlodipine[83,
+84]
+(CR x 2)
+Carvedilol[85]
+(CR)
+Digoxin[79, 8691]
+(CR x 3, CS x 4)
+Dilazem[92]
+(CR)
+Disopyramide[93]
+(CR)
+
+>96
+
+66
+
+26-107 d
+
+T
+
+2
+
+Negligible
+
+NR
+
+No
+
+Not likely to be removed owing the very high volume of distribuon; no
+dosage adjustment required
+
+93
+
+21
+
+30-50
+
+OD
+
+2
+
+36
+
+48-73
+
+NR
+
+Possible
+
+Potenal opon in OD. Would expect redistribuon as high Vd, therefore
+may not need to re-dose post TPE. Monitor clinical status of paent.
+
+>98
+
+115 L
+
+7-10
+
+OD
+
+1
+
+NR
+
+50
+
+NR
+
+Possible
+
+36-48
+
+OD
+
+17
+
+0-72
+
+14-75
+
+0.1-3.4
+
+No
+
+Potenal opon in OD. Would expect redistribuon as high Vd, therefore
+may not need to re-dose post TPE. Monitor clinical status of paent.
+Not significantly removed. Potenally significant amount of digoxin
+removed if given DigiFab given prior to TPE
+
+25
+
+5-8
+
+70-94
+
+3-13
+
+3-4
+
+OD
+
+1
+
+5-16
+
+92
+
+NR
+
+Possible
+
+50-65
+
+0.8-2
+
+4-10
+
+T
+
+1
+
+2.5
+
+2.7
+
+No
+
+60
+
+5-7
+
+10-12
+
+T
+
+1
+
+CI
+
+Inial 60%
+rebound
+to 7% 1.5h
+post TPE
+NR
+
+Possibly removed. Monitor response of the paent and determine if
+supplemental dose needed.
+Not significantly removed. No dose adjustment needed
+
+Mexilene[94]
+(CR)
+Propafenone[79]
+(CR)
+Propranolol[9597]
+(CR x 3)
+Verapamil[96, 98,
+99]
+(CR x 3)
+
+See note
+
+No
+
+4.5 mg removed from 60 mg/h infusion; less likely to be removed
+
+95
+
+1.1
+
+2-32
+
+OD
+
+1
+
+23
+
+NR
+
+NR
+
+Possible
+
+Symptomac improvement; not clear if related to TPE
+
+90
+
+4
+
+IR: 3-6
+ER: 8-10
+
+T (1);
+OD (2)
+
+3
+
+3-36
+
+74-80
+
+NR
+
+Possible
+
+Potenal opon in OD. Would expect redistribuon as high Vd, therefore
+may not need to re-dose post TPE. Monitor clinical status of paent.
+
+90
+
+3.89
+
+IR: 3-7
+ER: 12
+
+OD
+
+3
+
+2.5-36
+
+58-69
+
+NR
+
+Possible
+
+Potenal opon in OD. Would expect redistribuon as high Vd, therefore
+may not need to re-dose post TPE. Monitor clinical status of paent.
+
+PK parameters may change in critical illness, and they were added here to show the possibility of removal by TPE
+∆C concentration change, CI continuous infusion, CR case report, CS case series, ER extended release formulation, fb fraction bound, IR immediate release formulation,
+n number of subjects, NR not reported, OD report of overdose, T report of therapeutic dosing, Vd volume of distribution
+
+Table 5 Summary of the effect of therapeutic plasma exchange (TPE) on immunosuppressants and chemotherapy
+Drug
+
+ (%)
+Red
+>80
+
+Vd (L/kg)
+Red <0.20.3
+
+Half-life
+(h)
+Red > 2h
+
+T/OD
+
+n
+
+Time
+from
+last
+dose
+to TPE
+(h)
+6
+
+∆C from
+TPE
+(post-TPE
+vs preTPE) %
+
+TPE
+fracon
+eliminaon
+of body
+stores (%)
+
+Drug
+Removed
+
+Recommendaon
+Comments
+Likely to be removed by TPE?
+
+Basiliximab[100,
+101]
+(CR x 2)
+Cisplan[22, 102105]
+(CR x 5)
+Cyclosporine[106110]
+(CR x 5)
+Methotrexate[11
+1-113]
+(CR x 3)
+Mycophenolate[1
+14, 115]
+(CR, CS)
+Natalizumab[116]
+(Ph II)
+
+N/A
+
+4.5-12.7 L
+
+4-10.4
+days
+
+T
+
+2
+
+65-72
+
+46
+
+Yes
+
+May need to give supplemental dose to concentraons above IL-2R
+saturaon levels (0.2 ug/mL)
+
+90
+
+11-12
+2
+L/m
+
+Planum:
+>5days
+
+OD
+
+5
+
+5h-22
+days
+
+24-93
+
+NR
+
+Yes
+
+Likely removed, would expect redistribuon as high Vd, therefore may
+not need to re-dose post TPE. Monitor clinical status of paent.
+
+90-98
+
+4-6
+
+8.4
+
+T (2)
+OD (3)
+
+5
+
+2-13
+
+6-36
+
+0.2-0.3
+
+No
+
+Drug is distributed to erythrocytes; in a case report of OD, whole blood
+exchange and TPE reduced concentraon by 95%
+
+50-60
+
+0.4-0.8
+
+3-15
+
+OD
+
+3
+
+24120
+
+NR
+
+0.9-2
+
+No
+
+TPE may promote beneficial effect in renal funcon, however, TPE largely
+ineffecve in removing drug
+
+97
+
+MMF: 3.6
+MPA: 54 L
+
+MMF: 18
+MPA: 8-16
+
+T
+
+3
+
+4-7.5
+
+19-70
+
+0.44-2.8
+
+No
+
+N/A
+
+3.8-7.6 L
+
+7-15 days
+
+T
+
+12
+
+10-14
+days
+
+65-82
+
+NR
+
+Yes
+
+90-95
+
+0.6-0.7
+
+3-4
+
+T
+
+2
+
+NR
+
+0.83
+
+Possible
+
+N/A
+
+3.1-4.5 L
+
+18-32
+days
+
+T
+
+53
+
+0.421.16
+24165
+
+Higher % of removal if TPE iniated right aer the dose given or within
+distribuon phase (<4 hrs prior to TPE); Administer dose aer TPE if
+possible
+TPE may help with reducing levels if paent develops PML.
+α4-integrin saturaon: May need natalizumab below certain threshold
+(i.e. 1 ug/mL) to achieve reducon in receptor saturaon; Uncertain if
+drug removal affects clinical response
+Not likely removed; dose post TPE
+
+Prednisone[117]
+(CS)
+Rituximab[118121]
+(CR x 2, Ph II x 2)
+Tacrolimus[122124]
+(CR, CSx2)
+Vincrisne[125,
+126]
+(CR, CS)
+
+45-77
+
+9-54
+
+Yes
+
+Drug is likely removed, administer aer TPE if possible. Uncertain if drug
+removal affects clinical response
+
+99
+
+0.85-1.41
+
+23-46
+
+T
+
+6
+
+1-7.5
+
+NR
+
+NR
+
+No
+
+Drug is distributed to erythrocytes and negligibly removed by TPE.
+Monitor trough levels.
+
+50-80
+
+215
+2
+L/1.73
+
+19-155
+
+OD
+
+4
+
+6
+
+8-72
+
+NR
+
+Possible
+
+Potenal opon in OD. Would expect redistribuon as high Vd
+
+PK parameters may change in critical illness, and they were added here to show the possibility of removal by TPE
+∆C concentration change, CR case report, CS case series, ER extended release formulation, fb fraction bound, IR immediate release formulation, MMF mycophenolate
+mofetil, MPA mycophenolic acid, n number of subjects, NR not reported, OD report of overdose, Ph II phase II study, PML progressive multifocal leukoencephalopathy,
+T report of therapeutic dosing, Vd volume of distribution
+
+306
+
+Table 6 Summary of the effect of therapeutic plasma exchange (TPE) on other drugs
+Drug
+
+ (%)
+Red
+>80
+
+Vd
+(L/kg)
+Red
+<0.20.3
+
+Half-life
+(h)
+Red > 2h
+
+T/OD
+
+n
+
+∆C from
+TPE
+(post-TPE
+vs preTPE) %
+
+TPE
+fracon
+eliminaon
+of body
+stores (%)
+
+Drug
+Removed
+
+Recommendaon
+Comments
+Likely to be removed by TPE?
+
+5
+
+Time
+from
+last
+dose
+to TPE
+(h)
+1
+
+Acetaminophen[127
+]
+(Ph II)
+Amitriptyline[128132]
+(CR x 4, CS)
+Diclofenac[127]
+(Ph II)
+Ibuprofen[133]
+(CR)
+Quinine[134] (CR)
+
+10-25
+
+1
+
+2
+
+T
+
+NR
+
+4
+
+No
+
+Not likely removed; no dose adjustment needed
+
+95
+
+19
+
+13-36
+
+OD
+
+7
+
+2-39
+
+60-92
+
+NR
+
+Possible
+
+Potenal opon in OD
+
+>99
+
+1.3-1.4
+
+2
+
+T
+
+4
+
+1
+
+NR
+
+17
+
+Possible
+
+Possible; dose post TPE
+
+99
+
+0.110.19
+1.8
+
+2
+
+OD
+
+1
+
+9
+
+85-95
+
+10-13
+
+OD
+
+1
+
+45
+
+35
+
+NR
+
+Possible
+
+Possibly removed
+
+NR
+
+NR
+
+Possible
+
+NR
+
+Possible
+
+Percent fracon removed is not clear and paent was on concomitant
+peritoneal dialysis; 8.5 mg was recovered in waste plasma. Give aer TPE
+if possible.
+Give aer TPE if possible
+
+Theophylline[135, 136]
+
+40
+
+0.45
+
+6-12
+
+T* (1);
+
+4
+
+3->15
+
+16.9-36
+
+Pharmacokinetic parameters may change in critical illness, and they were added here to show the possibility of removal by TPE
+∆C concentration change, CR case report, CS case series, fb fraction bound, n number of subjects, NR not reported, OD report of overdose, Ph II phase II study, T report
+of therapeutic dosing, Vd volume of distribution
+*Data from neonates
+
+have short half-lives [21] or are rapidly metabolized
+[23], they will be cleared from the body quickly and will
+therefore be less susceptible to removal by TPE. It has
+been suggested that if endogenous clearance is < 4 mL/
+min [24] or drug metabolism is impaired, due to factors
+such as kidney or liver dysfunction, there is a greater likelihood that the drug will be removed via TPE as more
+drug would be present in the system. While clearance is
+an important parameter to take into consideration, it is
+difficult to measure in practice and not readily available
+for clinicians in drug product monographs. Therefore,
+it is much easier to use the half-life of the drug as it is
+often available from the drug monograph, as a surrogate
+marker of clearance as half-life is dependent on both
+clearance and Vd. As the approximate duration of most
+TPE procedures is 2 h, drugs that have half-lives longer
+than 2 h are more susceptible to TPE removal [21].
+Fig. 1 Drugs that exhibit multi-compartmental pharmacokinetics
+display a distribution phase and elimination phase. The initial decline
+in drug concentration (the distribution phase) represents the drug
+leaving the plasma (central) compartment, either by entering into a
+tissue (peripheral) compartment or through endogenous elimination, until a drug plasma equilibrium occurs with peripheral tissues.
+The elimination phase occurs after this equilibrium is reached, and
+the drug must diffuse back from the peripheral compartment to the
+plasma in order to be eliminated. If therapeutic plasma exchange is
+implemented during the distribution phase of the drug, the drug will
+be more susceptible to removal than if TPE is run during the elimination phase, as a much more considerable drug concentration will be
+present in the plasma
+
+Metabolism and Excretion: Clearance and Half‑Life
+
+The clearance of a drug can be defined as the volume of
+blood cleared from the drug per unit time. When drugs
+
+TPE‑Specific Factors
+
+Related to the pharmacokinetic distribution of the drug,
+the time between the drug dose and TPE initiation is a
+major factor in the amount of drug extracted with TPE
+[7]. Evidence has suggested that if given enough time to
+fully distribute, drug elimination via TPE will be significantly decreased due to much lower concentrations of
+the drug in the plasma regardless of Vd or protein binding
+[7]. With this in mind, if TPE is not being used for the
+purpose of drug extraction (such as in the case of a drug
+overdose), whenever possible, it is beneficial to dose the
+drug after TPE has completed. If dosing after TPE is not
+an option, the drugs distribution half-life, if available, can
+be used to help estimate the amount of drug distributed
+to the extravascular space at the time of TPE initiation
+[25]. It is worth noting that a distribution half-life and
+
+307
+
+Fig. 2 Stepwise approach on managing drugs in patients undergoing therapeutic plasma exchange (TPE). *, the distribution half-life is shorter than
+the elimination half-life. If the distribution half-life is not available, we suggest using the elimination half-life as a surrogate to gauge drug distribution. For example, for a drug with an elimination half-life of 3 h and administered by an intravenous bolus, we suggest waiting for at least 3 h following dose administration before TPE initiation. Waiting for 3 h (one half-life) will allow at least 50% of the drug to be distributed to the tissues
+
+elimination half-life of a drug are not representative of
+the same mechanism. However, distribution half-life values are not readily available for clinicians in drug product
+monographs and are mainly obtained from pharmacokinetic reports. Since distribution half-lives are always
+shorter than the elimination half-lives, we suggest using
+the elimination half-lives as surrogate to gauge drug distribution if distribution half-lives are not available.
+Other TPE-specific factors relating to the amount
+of drug removed are the duration, volume of exchange
+and frequency of the procedure. The procedure typically occurs over 2–3 h [1] while the frequency is largely
+dependent on the underlying reason for the treatment.
+Exchanges of 1.0, 1.5, and 2.0 times plasma volume
+(~ 60 ml/kg) correlate with a removal of approximately
+63%, 78% and 86% of plasma contents, respectively
+[2]. An increase in duration, frequency or volume of
+exchange all increases the likelihood of a greater amount
+of drug extracted.
+
+Clinical Recommendations
+Given that the majority of the studies published on this
+topic are based of case reports, which correspond to a
+very low level of evidence [26], no definitive guidelines
+have been created regarding drug removal while undergoing TPE. Additionally, drug extraction by TPE should
+not be categorized into absolute “yes” or “no” terms as
+the clinical status of the patient in question may be different than those previously reported [6]. As such, we
+suggest Figs. 2 and 3 to provide a step-by-step guide
+for clinicians to apply practical knowledge and form
+
+applicable clinical judgments surrounding the topic. The
+clinical status of the patient needs to be kept at the forefront when deciding if a drug requires a dose adjustment
+due to TPE. If a transient change in drug concentration is
+of clinical relevance, such as antiepileptic drugs or concentration dependant antibiotics, then more significance
+should be given to the potential removal of the drug compared to those in which a transient change has less of an
+effect on clinical outcome.
+Therapeutic drug monitoring (TDM), if available, is a
+very useful tool to use if TPE is suspected to influence
+the clinical response to the drug. TDM protocols for
+drugs with narrow therapeutic range in patients undergoing TPE are similar to those not on TPE. For example,
+if monitoring trough levels is recommended such as in
+case of antiepileptic drugs, clinicians still need to monitor trough levels in patients undergoing TPE. However,
+additional levels may be required in patient-specific scenarios. For example, although phenytoin and valproic
+acid are less likely to be significantly removed by TPE,
+patients may experience poor seizure control due to
+transient reduction in drug concentrations post-TPE. A
+post-TPE level (within 1 h) may be required to determine
+if an extra dose is needed to be given before subsequent
+TPE runs to maintain seizure control. For drugs that are
+highly protein bound, it is recommended to monitor free
+levels, if available.
+
+Limitations
+A review of the current literature mostly consists of case
+reports or case series investigating the effects of TPE on
+
+308
+
+Fig. 3 Checklist to determine how likely drugs are removed by therapeutic plasma exchange (TPE)
+
+drug levels mostly related to accidental or intentional
+drug overdose [27]. Many of these case reports are often
+studied in patients undergoing TPE for different diseases
+and in conjunction with other treatments as well [28].
+In addition, many case reports utilized TPE with different durations, volumes, frequency and initiation time of
+TPE along with different measured endpoints resulting
+with the incomparable results [10]. Furthermore, drugs
+behave differently under different clinical contexts, and
+therefore, caution is recommended when applying previous findings to current clinical scenarios if the clinical context is markedly different. In addition, reported
+Vd, protein binding and half-lives are based on population averages in non-critically ill adult populations.
+These parameters can be notably different in critically ill
+patients, which are often those who require TPE. These
+limitations make it difficult to draw definitive conclusions
+regarding the amount of drug removed via TPE.
+
+Conclusion and Future Directions
+TPE is a procedure that can influence the disposition of
+drugs in circulation. The current review suggests that
+when predicting drug removal via TPE, patient-specific
+parameters and clinical status should be taken into consideration before making a clinical decision. Whenever
+possible, administer the medication after TPE. Additionally, the use of Vd, extent of protein binding and the
+half-life of the drug combined with available evidence
+can further assist in determining the likelihood of drug
+
+removal by TPE. Future studies conducted in a standardized manner with detailed information are needed to further enhance our knowledge of the effects of TPE.
+Author details
+1
+Faculty of Pharmacy and Pharmaceutical Sciences, 3–142H, Katz Group
+Centre for Pharmacy and Health Research, University of Alberta, Edmonton, AB
+T6G 2E1, Canada. 2 Barnes-Jewish Hospital, St. Louis, MO, USA. 3 Washington
+University, St Louis, MO, USA.
+Acknowledgements
+Janice Kung, Librarian at John W. Scott Library, for assisting with the keywords’
+selection and search strategy.
+Author contributions
+SHM and TH designed the study. MEDLINE and EMBASE search and data
+extraction were conducted by EC and confirmed by JB and SHM. Additionally,
+TH and SC conducted MEDLINE and PubMed search and data extraction, independent from the other search. All authors wrote and revised the manuscript.
+Source of Support
+There is no funding associated with this work.
+Conflict of interest
+The authors declare that they have no conflicts of interest
+Ethics approval and Informed Consent
+This article does not contain any studies with human participants or animals
+performed by any of the authors. For this type of work, formal consent is not
+required.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Published online: 22 May 2020
+
+309
+
+References
+1. El-Ghariani K, Unsworth DJ. Therapeutic apheresis–plasmapheresis. Clin
+Med (Lond). 2006;6(4):343–7.
+2. Shelat SG. Practical considerations for planning a therapeutic apheresis
+procedure. Am J Med. 2010;123(9):777–84.
+3. Szczepiorkowski ZM, Bandarenko N, Kim HC, et al. Guidelines on
+the use of therapeutic apheresis in clinical practice: evidence-based
+approach from the Apheresis Applications Committee of the American
+Society for Apheresis. J Clin Apher. 2007;22(3):106–75.
+4. Abel JJ, Rowntree LG, Turner BB. Plasma removal with return of corpuscles (plasmaphaeresis). J Pharmacol Exp Ther. 1914; 5(6). Transfus Sci.
+1990;11(2):166–77.
+5. Cheng CW, Hendrickson JE, Tormey CA, Sidhu D. Therapeutic plasma
+exchange and its impact on drug levels: an ACLPS critical review. Am J
+Clin Pathol. 2017;148(3):190–8.
+6. Ibrahim RB, Liu C, Cronin SM, et al. Drug removal by plasmapheresis: an
+evidence-based review. Pharmacotherapy. 2007;27(11):1529–49.
+7. Ibrahim RB, Balogun RA. Medications in patients treated with therapeutic plasma exchange: prescription dosage, timing, and drug overdose.
+Semin Dial. 2012;25(2):176–89.
+8. Kale-Pradhan PB, Woo MH. A review of the effects of plasmapheresis on
+drug clearance. Pharmacotherapy. 1997;17(4):684–95.
+9. Keller F, Wagner K, Faber U, et al. Elimination kinetics of plasma
+exchange. Klin Wochenschr. 1983;61(22):1115–22.
+10. Fauvelle F, Petitjean O, Tod M, Guillevin L. Clinical pharmacokinetics
+during plasma exchange. Therapie. 2000;55(2):269–75.
+11. McClellan SD, Whitaker CH, Friedberg RC. Removal of vancomycin during plasmapheresis. Ann Pharmacother. 1997;31(10):1132–6.
+12. Nasca TJ, Huff N, Livengood BH. Phenytoin pharmacokinetics in therapeutic plasmapheresis. J Clin Pharmacol. 1985;25:302–4.
+13. Mansur LI, Murrow RW, Garrelts JC, Minns GO. Rebound of plasma
+free phenytoin concentration following plasmapheresisin a patient
+with thrombotic thrombocytopenic purpura. Ann Pharmacother.
+1995;29(6):592–5.
+14. Kale PB, Thomson PA, Provenzano R, Higgins MJ. Evaluation of plasmapheresis in the treatment of an acute overdose of carbamazepine. Ann
+Pharmacother. 1993;27:866–70.
+15. Bertino JS, Kliegman RM, Myers CM, Blumer JL. Alterations in gentamicin pharmacokinetics during neonatal exchange-transfusion. Dev
+Pharmacol Ther. 1982;4(3–4):205–15.
+16. Ouellette SM, Visconti JA, Kennedy MS. A pharmacokinetic evaluation
+of the effect of plasma exchange on tobramycin disposition. Clin Exp
+Dial Apher. 1983;7:225–33.
+17. Jones JS, Dougherty J. Current status of plasmapheresis in toxicology.
+Ann Emerg Med. 1986;15(4):474–82.
+18. Haller C. Hypoalbuminemia in renal failure: pathogenesis and therapeutic considerations. Kidney Blood Press Res. 2005;28(5–6):307–10.
+19. Huang Z, Ung T. Effect of alpha-1-acid glycoprotein binding on
+pharmacokinetics and pharmacodynamics. Curr Drug Metab.
+2013;14(2):226–38.
+20. Cabrerizo S, Cuadras D, Gomez-Busto F, et al. Serum albumin and health
+in older people: review and meta analysis. Maturitas. 2015;81(1):17–27.
+21. Ghannoum M, Roberts DM, Hoffman RS, et al. A stepwise approach for
+the management of poisoning with extracorporeal treatments. Semin
+Dial. 2014;27(4):362–70.
+22. Choi JH, Oh JC, Kim KH, et al. Successful treatment of cisplatin overdose
+with plasma exchange. Yonsei Med J. 2002;43(1):128–32.
+23. Samtleben W, Mistry-Burchardi N, Hartmann B, Lennertz A, Bosch T.
+Therapeutic plasma exchange in the intensive care setting. Ther Apher.
+2001;5(5):351–7.
+24. Khan E, Huggan P, Celi L, et al. Sustained low-efficiency dialysis with
+filtration (SLEDD-f ) in the management of acute sodium valproate
+intoxication. Hemodial Int. 2008;12(2):211–4.
+25. Kintzel PE, Eastlund T, Calis KA. Extracorporeal removal of antimicrobials
+during plasmapheresis. J Clin Apher. 2003;18(4):194–205.
+26. Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines: 1. IntroductionGRADE evidence profiles and summary of findings tables. J Clin Epidemiol. 2011;64(4):383–94.
+27. Lavergne V, Nolin TD, Hoffman RS, et al. The EXTRIP (EXtracorporeal
+TReatments In Poisoning) workgroup: guideline methodology. Clin
+Toxicol (Phila). 2012;50(5):403–13.
+
+28. Unal S, Bayrakci B, Yasar U, Karagoz T. Successful treatment of
+propafenone, digoxin and warfarin overdosage with plasma exchange
+therapy and rifampicin. Clin Drug Investig. 2007;27(7):505–8.
+29. Chavanet PY, Bailly F, Mousson C, et al. Acyclovir pharmacokinetics in
+plasmapheresis. J Clin Apher. 1990;5(2):68–9.
+30. Monroig-Bosque PDC, Balk J, Segura F, et al. The utility of therapeutic
+plasma exchange for amphotericin B overdose. Transfus Apheres Sci.
+2018;57:756–8.
+31. Wang GS, Banerji S, Roussil TK, et al. Survival after amphotericin B overdose treated with plasmapheresis. Ann Pharmacother. 2013;47:e9.
+32. Lew SQ. Amphotericin B removal by plasma exchange. J Clin Pharm
+Ther. 2009;34:115–7.
+33. Prince AS, Kliegman R, Phaneuf D, Neu HC. The effect of exchangetransfusion on the blood-levels of ampicillin and gentamicin in
+neonates. Infection. 1981;9(1):2–6.
+34. Ibrahim RB, Liu CY, Cronin SM, et al. Influence of plasma exchange on
+the disposition of the fourth generation cephalosporin cefepime. J
+Oncol Pharm Pract. 2009;15(4):217–22.
+35. Bozkurt F, Schollmeyer P, Keller E. Kinetics of ceftazidime during plasmapheresis. Eur J Clin Pharmacol. 1987;33:197–201.
+36. Fauvelle F, Lortholary O, Tod M, et al. Pharmacokinetics of ceftriaxone
+during plasma exchange in polyarteritis nodosa patients. Antimicrob
+Agents Chemother. 1994;38:1519–22.
+37. Bakken JS, Cavalieri SJ, Gangeness D, et al. Influence of therapeutic
+plasmapheresis on elimination of ceftiaxone. Antimicrob Agents Chemother. 1993;37:1171–3.
+38. Kessler DL Jr, Smith AL, Woodrum DE. Chloramphenicol toxicity in a
+neonate treated with exchange transfusion. J Pediatr. 1980;96(1):140–1.
+39. Berlin G, Brodin B, Hilden JO, Martensson J. Acute dapsone intoxication: a case treated with continuous infusion of methylene blue, forced
+diuresis and plasma exchange. J Toxicol Clin Toxicol. 1984;22(6):537–48.
+40. Garcia M, Le Moal G, Dupuis A, et al. Plasma exchange significantly
+affects darunavir exposure. J Antimicrob Chemother. 2014;69:2296–7.
+41. Nunez-Nunez M, Bellapart J, O’Donoghue S, et al. Variable ganciclovir
+concentrations in a critically ill patient receiving continuous renal
+replacement therapy and plasma exchange? Int J Antimicrob Agents.
+2014;43(6):572–3.
+42. Kliegman RM, Bertino JS, Fanaroff AA, Gavan TL, Speck WT. Pharmacokinetics of gentamicin during exchange transfusions in neonates. J
+Pediatr. 1980;96(5):927–30.
+43. Fuquay D, Koup J, Epstein MF, Smith AL. Effect of exchange transfusion on serum gentamicin concentrations. Dev Pharmacol Ther.
+1981;3(4):214–21.
+44. Roberts JA, Roberts MS, Robertson TA, et al. A novel way to investigate
+the effects of plasma exchange on antibiotic levels: use of microdialysis.
+Int J Antimicrob Agents. 2008;31:240–4.
+45. Kale-Pradhan PB, Dehoorne-Smith ML, Jaworski DA, et al. Evaluation
+of plasmapheresis on the removal of tobramycin. Pharmacotherapy.
+1995;15:673–6.
+46. Appelgate R, Schwartz D, Bennett WM. Removal of tobramycin during
+plasma exchange therapy. Ann Intern Med. 1981;94(6):820–1.
+47. Sirvent AE, Borras-Blasco J, Enriquez R, Navarro-Ruiz A, Amoros FA.
+Extracorporeal removal of vancomycin by plasmapheresis. Ann
+Pharmacother. 2006;40(12):2279–80.
+48. Foral MA, Heineman SM. Vancomycin removal during a plasma
+exchange transfusion. Ann Pharmacother. 2001;35(11):1400–2.
+49. Osman BA, Lew SQ. Vancomycin removal by plasmapheresis. Pharmacol Toxicol. 1997;81(5):245–6.
+50. Brophy DF, Mueller BA. Vancomycin removal by plasmapheresis. Ann
+Pharmacother. 1996;30(9):1038.
+51. Vay M, Foerster KI, Mahmoudi M, Seessle J, Mikus G. No alteration
+of voriconazole concentration by plasmapheresis in a critically ill
+patient. Eur J Clin Pharmacol. 2019;75(2):287–8.
+52. Spriet I, Bruggemann RJM, Annaert P, et al. Pharmacokinetic profile
+of voriconazole in a critically Ill patient on therapeutic plasma
+exchange. Ther Drug Monit. 2013;35:141–3.
+53. Fauvelle F, Leon A, Petitjean O, Guillevin L. Zidovudine removal during plasma exchange. J Clin Apher. 1991;6(3):155–7.
+54. Agulnik A, Kelly DP, Bruccoleri R, et al. combination clearance therapy
+and barbiturate coma for severe carbamazepine overdose. Pediatrics.
+2017;139:e20161560.
+
+310
+
+55. Kozanoglu I, Kahveci S, Asma S, et al. Plasma-exchange treatment
+for severe carbamazepine intoxication: a case study. J Clin Apher.
+2014;29(3):178–80.
+56. Gambi D, Oggioni R, Mangani V, et al. Acute carbamazepine poisoning treated with plasmapheresis. Description of a clinical case. Min
+Anestesiol. 1993;59(10):547–52.
+57. Siddiqi ZA, Holt A, Ahmed SN. Effect of plasma exchange on carbamazepine levels in a patient with myasthenia gravis and epilepsy.
+Epilepsia. 2005;46(11):1841–2.
+58. Duzova A, Baskin E, Usta Y, Ozen S. Carbamazepine poisoning: treatment with plasma exchange. Hum Exp Toxicol. 2001;20(4):175–7.
+59. Hau Man TH, Shek-Kwan CR, On-Kei CA, Lam CPW. Effect of plasmapheresis on serum levels of clobazam, levetiracetam and topiramate.
+Epilepsy Behav Case Rep. 2017;8:66–8.
+60. Peters BJ, Hofer M, Daniels CE, et al. Effect of plasma exchange on
+antifactor Xa activity of enoxaparin and serum levetiracetam levels.
+Am J Health Syst Pharm AJHP Off J Am Soc Health Syst Pharm.
+2018;75:1883–8.
+61. Christensen J, Balslev T, Villadsen J, et al. Removal of 10-hydroxycarbazepine by plasmapheresis. Ther Drug Monit. 2001;23:374–9.
+62. Sagraves R, Bradberry JC. The effects of exchange transfusion on
+the pharmacokinetics of phenobarbital. Drug Intell Clin Pharm.
+1983;17(12):901–3.
+63. Lai CW, Leppik IE, Jenkins DC, Sood P. Epilepsy, myasthenia gravis,
+and effect of plasmapheresis on antiepileptic drug concentrations.
+Arch Neurol. 1990;47(1):66–8.
+64. Olsen KM, Marx MA, Monaghan MS, et al. Phenytoin and plasmapheresis: importance of sampling times and impact of obesity. Ther Drug
+Monit. 1994;16(6):624–8.
+65. Tobias JD, Baker DK, Hurwitz CA, et al. Removal of phenytoin by plasmapheresis in a patient with thrombotic thrombocytopenia purpura.
+Clin Pediatr. 1992;31:105–8.
+66. White RL, Garnett WR, Allen JH, Kline BJ, Sharp DE. Phenytoin removal
+during plasma exchange. J Clin Apher. 1987;3(3):147–50.
+67. Liu E, Rubenstein M. Phenytoin removal by plasmapheresis in
+thrombotic thrombocytopenic purpura. Clin Pharmacol Ther.
+1982;31:762–5.
+68. Larsen LS, Sterrett JR, Whitehead B, Marcus SM. Adjunctive therapy of
+phenytoin overdose—a case report using plasmaphoresis. J Toxicol
+Clin Toxicol. 1986;24(1):37–49.
+69. Silberstein LE, Shaw LM. Effect of plasma exchange on phenytoin
+plasma concentration. Ther Drug Monit. 1986;8(2):172–6.
+70. Brown-Molnar CS, Bauer LA, Horn JR. Phenytoin removal by plasmapheresis in renal insufficiency. Am J Nephrol. 1986;6(4):302–6.
+71. Bastiaans DET, van Uden IWM, Ruiterkamp RA, et al. Removal of valproic acid by plasmapheresis in a patient treated for multiple sclerosis.
+Ther Drug Monit. 2013;35:1–3.
+72. White RL, Garnett WR, Poynor WJ, Allen JH, Sharp DE. Salicylate
+removal during plasma exchange in normal volunteers. Clin Pharm.
+1984;3(4):396–402.
+73. Lam WW, Reyes MA, Seger JJ. Plasma exchange for urgent Apixaban
+reversal in a case of hemorrhagic tamponade after pacemaker implantation. Tex Heart Inst J. 2015;42(4):377–80.
+74. Schinzel H, Berghoff K, Beuermann I, et al. Anticoagulation with lowmolecular-weight heparin (dalteparin) in plasmapheresis therapy: initial
+experience. Transfusion. 2006;46(4):624–9.
+75. Sabloff M, Wells PS. The effect of plasmapheresis on the serum
+activity level of dalteparin: a case report. Blood Coagul Fibrinolysis.
+2000;11(4):395–400.
+76. Rahawi KW, Higgins KL, Noda C, Stultz JS. Effect of plasmapheresis on
+the anti-factor Xa activity of enoxaparin in an obese adolescent patient.
+Pharmacotherapy. 2017;37(4):e16–20.
+77. Kaplan A, Raut P, Totoe G, et al. Management of systemic unfractionated
+heparin anticoagulation during therapeutic plasma exchange. J Clin
+Apher. 2016;31:507–15.
+78. Kumar V, Allencherril J, Bracey A, Chen AJ, Lam WW. Therapeutic plasma
+exchange for urgent rivaroxaban reversal. Tex Heart Inst J. 2018;45:96–8.
+79. Unal S, Bayrakci B, Yasar U, et al. Successful treatment of propafenone,
+digoxin and warfarin overdosage with plasma exchange therapy and
+rifampicin. Clin Drug Investig. 2007;27:505–8.
+
+80. Zantek ND, Morgan S, Zantek PF, et al. Effect of therapeutic plasma
+exchange on coagulation parameters in patients on warfarin. J Clin
+Apher. 2014;29(2):75–82.
+81. Uzzan B, Pussard E, Leon A, et al. The effects of plasmapheresis on thyroid hormone and plasma drug concentrations in amiodarone-induced
+thyrotoxicosis. Br J Clin Pharmacol. 1991;31(3):371–2.
+82. Russell DC, Paton L, Douglas AC. Amiodarone associated alveolitis
+and polyarthropathy. Treatment by plasma exchange. Br Heart J.
+1983;50(5):491–4.
+83. Chudow M, Ferguson K. A case of severe, refractory hypotension after
+amlodipine overdose. Cardiovasc Toxicol. 2018;18(2):192–7.
+84. Ezidiegwu C, Spektor Z, Nasr MR, et al. A case report on the role
+of plasma exchange in the management of a massive amlodipine
+besylate intoxication. Ther Apher Dial. 2008;12:180–4.
+85. Koschny R, Lutz M, Seckinger J, et al. Extracorporeal life support and
+plasmapheresis in a case of severe polyintoxication. J Emerg Med.
+2014;47:527–31.
+86. Rajpal S, Beedupalli J, Reddy P. Recrudescent digoxin toxicity treated
+with plasma exchange: a case report and review of literature. Cardiovasc Toxicol. 2012;12(4):363–8.
+87. Keller F, Kreutz G, Vohringer HF, et al. Effect of plasma exchange on
+the steady-state kinetics of digoxin and digitoxin. Clin Pharmacokinet.
+1985;10:514–23.
+88. Rabetoy GM, Price CA, Findlay JW, et al. Treatment of digoxin intoxication in a renal failure patient with digoxin-specific antibody fragments
+and plasmapheresis. Am J Nephrol. 1990;10:518–21.
+89. Coltart DJ, Watson D, Howard MR. Effect of exchange transfusions on
+plasma digoxin levels. Arch Dis Child. 1972;47(255):814–5.
+90. Rosegger H, Zach M, Gleispach H, Beitzke A. Digoxin elimination by
+exchange transfusion. Eur J Pediatr. 1977;124(3):217–22.
+91. Keller F, Hauff A, Schultze G, et al. Effect of repeated plasma exchange
+on steady state kinetics of digoxin and digitoxin. Arzneimittelforschung.
+1984;34(1):83–6.
+92. Gutschmidt HJ. Successful plasmapheresis in severe diltiazem poisoning. Dtsch Med Wochenschr. 1995;120(3):81–2.
+93. Martin SG, Kearns GL, Brod M, Austin G, Vaughan BC. Impact of
+plasmapheresis on disopyramide elimination. Pediatr Nephrol.
+1999;13(4):323–5.
+94. Evers J, Messer W, Aboudan F, Finke K. Mexiletine in terminal
+renal failure and various dialysis procedures. Klin Wochenschr.
+1989;67(19):995–8.
+95. Chen L-W, Mao DR, Chen Y-S. Extracorporeal life support: the final
+‘antidote’ for massive propranolol overdose. Hong Kong J Emerg Med.
+2019;26(2):118–23.
+96. Kolcz J, Pietrzyk J, Januszewska K, et al. Extracorporeal life support in
+severe propranolol and verapamil intoxication. J Intensive Care Med.
+2007;22:381–5.
+97. Talbert RL, Wong YY, Duncan DB. Propranolol plasma concentrations
+and plasmapheresis. Drug Intell Clin Pharm. 1981;15(12):993–6.
+98. Kuhlmann U, Schoenemann H, Muller T, Keuchel M, Lange H. Plasmapheresis in life-threatening verapamil intoxication. Artif Cells Blood
+Substit Immobil Biotechnol. 2000;28:429–40.
+99. Siebenlist D. Plasma separation in verapamil poisoning. Dtsch Med
+Wochenschr. 1990;115(20):797.
+100. Nojima M, Yoshimoto T, Nakao A, et al. Sequential blood level monitoring of basiliximab during multisession plasmapheresis in a kidney
+transplant recipient. Transpl Proc. 2005;37:875–8.
+101. Okechukwu CN, Meier-Kriesche HU, Armstrong D, et al. Removal of
+basiliximab by plasmapheresis. Am J Kidney Dis. 2001;37(1):E11.
+102. Emir S, Ozyoruk D, Arman O, et al. Accidental cisplatin overdose in a
+child: successful management with repetitive plasmapheresis and use
+of chemoprotective agents. Turk J Pediatr. 2016;58:315–7.
+103. Chu G, Mantin R, Shen YM, et al. Massive cisplatin overdose by accidental substitution for carboplatin. Toxicity and management. Cancer.
+1993;72:3707–14.
+104. Hofmann G, Bauernhofer T, Krippl P, et al. Plasmapheresis reverses
+all side-effects of a cisplatin overdose—a case report and treatment
+recommendation. BMC Cancer. 2006;6:1.
+105. Jung HK, Lee J, Lee SN. A case of massive cisplatin overdose managed
+by plasmapheresis. Korean J Intern Med. 1995;10:150–4.
+
+311
+
+106. Balogun RA, Sahadevan M, Sevigny J, et al. Impact of therapeutic
+plasma exchange on cyclosporine kinetics during membrane-based
+lipid apheresis. Am J Kidney Dis. 2001;37:1286–9.
+107. Moorman MT, Epstein RB, Smith JW, et al. Management of cyclosporine overdose in a hematopoietic stem cell transplant patient with
+sequential plasma exchange and red blood cell exchange. J Clin Apher.
+2011;26:156–8.
+108. Chan GL, Hodge EE. Effect of plasmapheresis on cyclosporine pharmacokinetics. DICP. 1991;25(2):211.
+109. Kwon SU, Lim SH, Rhee I, et al. Successful whole blood exchange by
+apheresis in a patient with acute cyclosporine intoxication without
+long-term sequelae. J Heart Lung Transpl. 2006;25(4):483–5.
+110. Leitner GC, Hiesmayr M, Hoecker P, Jilma B. Therapeutic approaches in
+the management of oral cyclosporine a intoxication. Transplantation.
+2003;75(10):1764–5.
+111. Cecyn KZ, Lee J, Oguro T, Petrilli AS, Bordin JO. Use of plasma exchange
+in methotrexate removal in a patient with osteosarcoma and acute
+renal insufficiency. Am J Hematol. 2003;72(3):209–11.
+112. Kepka L, De Lassence A, Ribrag V, et al. Successful rescue in a patient
+with high dose methotrexate-induced nephrotoxicity and acute renal
+failure. Leuk lymphoma. 1998;29:205–9.
+113. Thierry FX, Vernier I, Dueymes JM, et al. Acute renal failure after highdose methotrexate therapy. Role of hemodialysis and plasma exchange
+in methotrexate removal. Nephron. 1989;51:416–7.
+114. Maldonado AQ, Davies NM, Crow SA, et al. Effects of plasmapheresis on
+mycophenolic acid concentrations. Transplantation. 2011;91(1):e3–4.
+115. Kawauchi S, Wada K, Oita A. Changes in blood concentration of
+mycophenolic acid and FK506 in a heart-transplant patient treated with
+plasmapheresis. Int J Clin Pharmacol Ther. 2019;57(1):32–6.
+116. Khatri BO, Man S, Giovannoni G, et al. Effect of plasma exchange in
+accelerating natalizumab clearance and restoring leukocyte function.
+Neurology. 2009;72:402–9.
+117. Stigelman WH Jr, Henry DH, Talbert RL, Townsend RJ. Removal of
+prednisone and prednisolone by plasma exchange. Clin Pharm.
+1984;3(4):402–7.
+118. Wienzek-Lischka S, Burchardt A, Schoelz C, et al. Plasma exchange (PE)
+therapy for rituximab (R) induced progressive multifocal leukoencephalopathy (PML) in hematologic disorders. Plenary and keynote speakers
+summaries. Transf Med Hemother. 2013;40(suppl 1):76.
+119. Azzopardi N, Francois M, Laurent E, Paintaud G, Birmele B. Influence of
+plasma exchange on rituximab pharmacokinetics. Br J Clin Pharmacol.
+2013;76:486–8.
+120. Puisset F, White-Koning M, Kamar N, et al. Population pharmacokinetics
+of rituximab with or without plasmapheresis in kidney patients with
+antibody-mediated disease. Br J Clin Pharmacol. 2013;76(5):734–40.
+
+121. McDonald V, Manns K, Mackie IJ, Machin SJ, Scully MA. Rituximab pharmacokinetics during the management of acute idiopathic thrombotic
+thrombocytopenic purpura. J Thromb Haemost. 2010;8:1201–8.
+122. Kawauchi S, Wada K, Oita A. Changes in blood concentration of
+mycophenolic acid and FK in a heart-transplant patient treated with
+plasmapheresis. Int J Clin Pharmacol Ther. 2019;57:32–6.
+123. Hale GA, Reece DE, Munn RK, Kniska AB, Phillips GL. Blood tacrolimus
+concentrations in bone marrow transplant patients undergoing plasmapheresis. Bone Marrow Transpl. 2000;25(4):449–51.
+124. Przepiorka D, Suzuki J, Ippoliti C, Hester JP, Fritsche HA. Blood tacrolimus
+concentration unchanged by plasmapheresis. Am J Hosp Pharm.
+1994;51(13):1708.
+125. Kosmidis HV, Bouhoutsou DO, Varvoutsi MC, et al. Vincristine overdose:
+experience with 3 patients. Pediatr Hematol Oncol. 1991;8(2):171–8.
+126. Pierga JY, Beuzeboc P, Dorval T, et al. Favourable outcome after plasmapheresis for vincristine overdose. Lancet. 1992;340:185.
+127. Fauvelle F, Nicolas P, Leon A, et al. Diclofenac, paracetamol, and vidarabine removal during plasma exchange in polyarteritis nodosa patients.
+Biopharm Drug Dispos. 1991;12:411–24.
+128. Sari I, Turkcuer I, Erurker T, et al. Therapeutic plasma exchange in amitriptyline intoxication: case report and review of the literature. Transfus
+Apher Sci. 2011;45(2):183–5.
+129. Karaci M, Ozcetin M, Dilsiz G, Guclu-Songur YG. Severe childhood amitriptyline intoxication and plasmapheresis: a case report. Turk J Pediatr.
+2013;55(6):645–7.
+130. Bayrakci B, Unal S, Erkocoglu M, Gungor HY, Aksu S. Case reports of successful therapeutic plasma exchange in severe amitriptyline poisoning.
+Ther Apher Dial. 2007;11(6):452–4.
+131. Belen B, Akman A, Yuksel N, et al. A case report of amitriptyline poisoning successfully treated with the application of plasma exchange. Ther
+Apher Dial. 2009;13(2):147–9.
+132. Kolsal E, Tekin IO, Piskin E, et al. Treatment of severe amitriptyline intoxication with plasmapheresis. J Clin Apher. 2009;24(1):21–4.
+133. Geith S, Renner B, Rabe C, et al. Ibuprofen plasma concentration profile
+in deliberate ibuprofen overdose with circulatory depression treated
+with therapeutic plasma exchange: a case report. BMC Pharmacol
+Toxicol. 2017;18:81.
+134. Sabto JK, Pierce RM, West RH, Gurr FW. Hemodialysis, peritoneal dialysis,
+plasmapheresis and forced diuresis for the treatment of quinine overdose. Clin Nephrol. 1981;16(5):264–8.
+135. Assael BM, Caccamo ML, Gerna M, et al. Effect of exchange transfusion on elimination of theophylline in premature neonates. J Pediatr.
+1977;91(2):331–2.
+136. Laussen P, Shann F, Butt W, Tibballs J. Use of plasmapheresis in acute
+theophylline toxicity. Crit Care Med. 1991;19(2):288–90.
+
+

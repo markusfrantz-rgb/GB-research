@@ -77,11 +77,11 @@ Key pharmacokinetic data:
 
 **No, the SID-GBS trial findings do NOT directly apply to the PE-to-IVIg switch scenario.**
 
-The SID-GBS trial (Walgaard et al., *Lancet Neurology* 2021; PMID: 33743237) *[Level 1 — RCT]* demonstrated that a **second course of IVIg after an initial IVIg course** provided no benefit and increased serious adverse events in poor-prognosis GBS patients. Critically:
+The SID-GBS trial (Walgaard et al., *Lancet Neurology* 2021; PMID: 33743237) *[Level 1 — RCT]* demonstrated that a **second course of IVIg after an initial IVIg course** provided no benefit and increased serious adverse events in poor-prognosis GBS patients. The trial enrolled n=93 (49 SID, 44 placebo) across 59 hospitals in the Netherlands (mEGOS >=6 for inclusion). Primary endpoint: adjusted common OR 1.4 (95% CI 0.6-3.3, p=0.45). SAE were notably higher in the treatment arm: **35% vs 16% in the first 30 days**, predominantly thromboembolic events; 4 deaths in the SID group (13-24 weeks post-randomization). Critically:
 
 - **SID-GBS studied:** IVIg (2 g/kg) --> Second IVIg (2 g/kg) vs. placebo
 - **The PE-to-IVIg switch is a fundamentally different scenario:** PE (failed) --> IVIg (first exposure to IVIg)
-- In SID-GBS, patients had already received a full IVIg course, and the second course raised IgG levels even higher without clinical benefit while increasing thromboembolic risk
+- In SID-GBS, patients had already received a full IVIg course, and the second course raised IgG levels even higher without clinical benefit while increasing thromboembolic risk (35% SAE rate)
 - In the PE-to-IVIg switch, the patient has never received IVIg, and PE has actually **depleted** IgG levels, creating a very different immunological starting point
 
 **The 2025 pharmacodynamic analysis** of SID-GBS (van Tilburg et al., *Ann Clin Transl Neurol*) confirmed that the problem with a second IVIg dose was not about IgG levels per se but about the lack of additional immunomodulatory benefit when IVIg had already been given. This mechanism-based argument further supports that giving IVIg de novo after PE failure is a different clinical question.

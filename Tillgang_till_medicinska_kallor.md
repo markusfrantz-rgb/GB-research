@@ -9,10 +9,10 @@
 
 | | Antal |
 |---|---|
-| ✅ Fulltext i källmappen | **22** (12 PDF + 10 enbart text) |
-| ❌ Saknas — betalvägg | **7** |
+| ✅ Fulltext i källmappen | **29** (19 PDF + 10 text) |
+| ❌ Saknas — betalvägg | **0** |
 | ⏳ Ej publicerad i journal | **1** |
-| **Totalt kartlagda** | **30** |
+| **Totalt kartlagda** | **30** (alla hämtade) |
 
 ---
 
@@ -45,23 +45,13 @@
 | 21 | **Nguyen TN et al.** Factors predicting extubation success in GBS. NIF/FVC-trösklar. *Neurocrit Care* 2006 | 17290095 | Level 3 | Text | `Nguyen_2006_extubation_predictors_GBS_FULLTEXT.txt` (4 KB) |
 | 22 | **Cheng MCF et al.** Prolonged Ventilatory Support for GBS (76% weaned). *Neurol Clin Pract* 2021 | 33968468 | Level 3 | Text | `Cheng_2021_prolonged_ventilation_weaning_GBS_FULLTEXT.txt` (2 KB, sammanfattning) |
 
----
-
-### ❌ SAKNAS — behöver sjukhusbibliotek
-
-*Ring sjukhusbiblioteket, ange PMID, be om PDF via e-post.*
-
-| # | Artikel | PMID | Tidskrift | Behöver verifiera | Prioritet |
-|---|---------|------|-----------|-------------------|-----------|
-| 17 | **Walgaard C et al.** Second IVIg dose in GBS (SID-GBS). 2021 | 33743237 | Lancet Neurol | Biverkningssiffror, subgruppsanalyser, IgG-nivåer | **HÖG** |
-| 18 | **Wang Y et al.** TSH >3.87 som recidivriskfaktor. 2022 | 35342963 | Muscle Nerve | TSH-tröskelvärde, sens/spec, studiepopulation | **HÖG** |
-| 19 | **Mahmoud SH et al.** Drug Dosing During Therapeutic PE. 2021 | 32445106 | Neurocrit Care | Levotyroxin vid PE, proteinbindning, doseringsprotokoll | **HÖG** |
-| 20 | **Thille AW et al.** Ventilator weaning in GBS/MG (n=886, 47 IVA). 2025 | 41114833 | Intensive Care Med | 64% prolonged weaning, 57% trakeostomi, 26% reintubation | **HÖG** |
-| 21 | **Pilarczyk K et al.** Bleeding risk after PDT (n=483). 2016 | 27029655 | Anaesth Intensive Care | Fibrinogentröskelvärdet 1.5 g/L, multivariat analys | MEDEL |
-| 22 | **van Schaik IN et al.** PATH trial: SCIG for CIDP. 2018 | 29122523 | Lancet Neurol | NNT 2.7, dosgrupper, relapskriterier | MEDEL |
-| 23 | **Rachid R, Bonilla FA.** Anti-IgA antibodies review. 2012 | 21835445 | J Allergy Clin Immunol | Anafylaxirisk per isotyp (IgE vs IgG), produktspecifik | MEDEL |
-
-**Tips:** SID-GBS (#17) kan vara "free to read" på [Lancet](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30494-4/fulltext) — testa i webbläsaren.
+| 23 | **Walgaard C et al.** Second IVIg dose in GBS with poor prognosis (SID-GBS, RCT n=93). *Lancet Neurol* 2021;20:275-283 | 33743237 | Level 1 | PDF+text | `Walgaard_2021_SID-GBS_second_IVIg_PMID33743237.pdf` · `…_FULLTEXT.txt` |
+| 24 | **Wang S et al.** Serum TSH is independent risk factor of recurrent GBS (n=320). TSH >3.87 μIU/mL. *Muscle Nerve* 2022;65(6):688-692 | 35342963 | Level 3 | PDF+text | `Wang_2022_TSH_recurrent_GBS_PMID35342963.pdf` · `…_FULLTEXT.txt` |
+| 25 | **Mahmoud SH et al.** Drug Dosing in Patients Undergoing Therapeutic PE. Review av läkemedelsavlägsnande vid TPE. *Neurocrit Care* 2021;34:301-311 | 32445106 | Review | PDF+text | `Mahmoud_2021_drug_dosing_PE_PMID32445106.pdf` · `…_FULLTEXT.txt` |
+| 26 | **Thille AW et al.** Ventilator weaning in GBS/MG (n=886, 47 IVA, 10 år). 64% prolonged weaning, 57% trakeostomi, 26% reintubation. *Intensive Care Med* 2025;51:2054-2064 | 41114833 | Level 2 | PDF+text | `Thille_2025_ventilator_weaning_GBS_MG_PMID41114833.pdf` · `…_FULLTEXT.txt` |
+| 27 | **Pilarczyk K et al.** Bleeding risk after PDT (n=1001). Fibrinogen <7.4 μmol/L (≈2.5 g/L) oberoende riskfaktor. *Anaesth Intensive Care* 2016;44:227-236 | 27029655 | Level 3 | PDF+text | `Pilarczyk_2016_PDT_bleeding_risk_PMID27029655.pdf` · `…_FULLTEXT.txt` |
+| 28 | **van Schaik IN et al.** PATH trial: SCIG for CIDP (n=172, RCT). 0.4 g/kg/v: 33% relaps vs 63% placebo (p=0.001). *Lancet Neurol* 2018;17:35-46 | 29122523 | Level 1 | PDF+text | `vanSchaik_2018_PATH_SCIG_CIDP_PMID29122523.pdf` · `…_FULLTEXT.txt` |
+| 29 | **Rachid R, Bonilla FA.** Anti-IgA antibodies: comprehensive review. Kontroversiell roll — varierande mätmetoder. *J Allergy Clin Immunol* 2012;129:628-634 | 21835445 | Review | PDF+text | `Rachid_2012_antiIgA_antibodies_review_PMID21835445.pdf` · `…_FULLTEXT.txt` |
 
 ---
 
@@ -113,6 +103,48 @@
 - Ileus 42%, hypertension 39%, hypotension 37%, bradykardi/takykardi 27%
 - Associerat med quadriplegi, bulbär svaghet, ventilator
 
+### SID-GBS: Second IVIg dose (Walgaard 2021) ✅
+- n=93 (49 SID, 44 placebo), RCT, dubbelblind, 59 sjukhus i Nederländerna
+- mEGOS ≥6 (dålig prognos) för inklusion
+- **Primärt utfall:** OR 1.4 (95% CI 0.6–3.3, p=0.45) — ingen signifikant förbättring
+- **SAE:** 35% SID vs 16% placebo inom 30 dagar, inkl. tromboemboliska händelser
+- 4 dödsfall i SID-gruppen (13–24 veckor efter randomisering)
+- **Slutsats:** Second IVIg rekommenderas inte — ökad risk utan dokumenterad nytta
+
+### TSH som recidivriskfaktor (Wang 2022) ✅
+- n=320 (302 monofasisk, 18 RGBS), retrospektiv, Zhengzhou University 2014–2020
+- RGBS: signifikant högre TSH (p<0.001), lägre FT3 (p=0.022)
+- **Multivariat:** antecedent sjukdom, AIDP, högt TSH = oberoende riskfaktorer
+- **ROC:** TSH >3.87 μIU/mL som tröskel för recidivrisk
+- Oxidativ stress som potentiell mekanism
+
+### Ventilatoravvänjning GBS vs MG (Thille 2025) ✅
+- n=886 (513 GBS, 373 MG), 47 IVA i Frankrike, 10 år (2014–2023)
+- **GBS:** 64% prolonged weaning (≥7d), 57% trakeostomi, 46% extubationsförsök
+- **Reintubation:** 26% GBS, 29% MG
+- **Mortalitet:** 9.4% GBS, 9.7% MG
+- GBS: längre MV-tid och IVA-vistelse än MG
+
+### PDT blödningsrisk (Pilarczyk 2016) ✅
+- n=1001 PDT-patienter, 10 år, kardiotorakal IVA
+- 8.4% moderat blödning, 0.4% svår/major
+- **Oberoende prediktorer:** svår PDT (OR 4.46), oerfaren operatör (OR 2.00), SAPS >40, fibrinogen <7.4 μmol/L (≈2.5 g/L, OR 1.85, p=0.033)
+- Lägre trombocyter i blödningsgruppen (91.6 vs 111.5 ×10⁹/L)
+
+### PATH trial: SCIG vid CIDP (van Schaik 2018) ✅
+- n=172, RCT, dubbelblind, placebo-kontrollerad, fas 3, 69 centra
+- IgPro20 (20% SCIG) veckovis i 24 veckor
+- **Placebo:** 63% relaps/uttag. **Låg dos (0.2 g/kg/v):** 39% (ARR 25%, p=0.007). **Hög dos (0.4 g/kg/v):** 33% (ARR 30%, p=0.001)
+- NNT: ~4 (låg dos), ~3.3 (hög dos)
+- Väl tolererat, låg SAE-frekvens (3%)
+
+### Anti-IgA-antikroppar (Rachid 2012) ✅
+- Comprehensive review av anti-IgA-antikroppars roll vid anafylaxi
+- **Kontroversiellt:** Några rapporter stödjer association, andra inte
+- Faktorer som påverkar: serumkoncentration, isotyp (IgG vs IgE), specificitet, mätmetod, IgA-innehåll i produkten, administreringssätt
+- ~25% av IgA-deficienta har mätbara nivåer med känsligare metoder
+- Ingen definitiv konsensus — multicenter-studier behövs
+
 ---
 
 ## Referenskorrigeringar
@@ -136,8 +168,8 @@
 |--------|-------------|----------|
 | **UpToDate** | Behandlingsalgoritmer, doseringsprotokoll, korsreferenser | Sjukhusbibliotek / ~500 USD/år |
 | **FASS.se** | IgA-innehåll per produkt, svenska indikationer, interaktioner | Gratis (grundversion) |
-| **Sjukhusbiblioteket** | Fulltext av betalväggsartiklar (#17-23 ovan) | Ring, ange PMID, PDF via e-post |
+| **Sjukhusbiblioteket** | Fulltext av betalväggsartiklar (alla 7 nu hämtade) | Ring, ange PMID, PDF via e-post |
 
 ---
 
-*30 nyckelartiklar. 22 i fulltext. 7 saknas (betalvägg). 1 ej publicerad. Uppdaterad 2026-03-25.*
+*30 nyckelartiklar. 29 i fulltext (19 PDF + 10 text). 0 saknas. 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-03-25.*

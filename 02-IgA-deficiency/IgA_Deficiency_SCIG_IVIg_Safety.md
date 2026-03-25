@@ -131,6 +131,10 @@ For this specific patient (tolerating Gamanorm with IgA <= 82.5 mcg/mL):
 
 **Key insight:** IgE anti-IgA is the most clinically relevant. In the Boston Children's Hospital cohort study, IgE anti-IgA was **not detected in any** of 22 IgA-deficient patients receiving IgG therapy, and no anaphylactic events occurred [7].
 
+**Important nuance (Rachid & Bonilla 2012):** A comprehensive review of the literature concluded that the role of anti-IgA antibodies in causing anaphylaxis remains **controversial** *[Level 3 — systematic review]*. Approximately 25% of IgA-deficient patients have measurable anti-IgA levels with sensitive methods, yet severe reactions are rare. The clinical significance depends on multiple factors: antibody concentration, isotype (IgG vs IgE), specificity (class-specific vs subclass-specific), measurement method, IgA content of the product, and route of administration. Detection of anti-IgA antibodies alone is insufficient to predict clinical reactions [6b].
+
+> **Citation:** Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. PMID: 21835445. DOI: 10.1016/j.jaci.2011.06.047
+
 ### 3.3 Laboratories in Sweden/Scandinavia
 
 #### Established Testing Centers
@@ -507,6 +511,8 @@ For the specific clinical scenario of an ICU patient with selective IgA deficien
 5. Immune Deficiency Foundation. "Immunoglobulin replacement therapy." Available at: https://primaryimmune.org/understanding-primary-immunodeficiency/treatment/immunoglobulin-replacement-therapy
 
 6. Immune Deficiency Foundation. "Selective IgA deficiency." Available at: https://primaryimmune.org/understanding-primary-immunodeficiency/types-of-pi/selective-iga-deficiency
+
+6b. Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. PMID: 21835445. DOI: 10.1016/j.jaci.2011.06.047
 
 7. Horn J, Thon V, Bartonkova D, et al. "Association of anti-IgA antibodies with adverse reactions to gamma globulin infusion." Journal of Clinical Immunology. 2007. PMC3129450. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC3129450/
 

@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~480 peer-reviewed referenser | 16 forskningsdokument | 22 fulltexter verifierade | Evidensgradering (Level 1-5)
+~480 peer-reviewed referenser | 16 forskningsdokument | 29 fulltexter verifierade | Evidensgradering (Level 1-5)
 
 ---
 
@@ -60,7 +60,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | Nivå | Beskrivning | Exempel |
 |------|-------------|---------|
 | *[Level 1]* | Cochrane systematic review, RCT | SID-GBS (Walgaard 2021), PE Cochrane (Chevret 2017), Tanruprubart fas 3 |
-| *[Level 2]* | Prospektiv kohortstudie, fas 2/3-studie | NfL IGOS-kohort (Martin-Aguilar 2024), Imlifidase fas 2 |
+| *[Level 2]* | Prospektiv kohortstudie, fas 2/3-studie | NfL IGOS-kohort (van Tilburg 2024), Imlifidase fas 2 |
 | *[Level 3]* | Retrospektiv analys, fallserie ≥10 pat | TSH som recidivrisk (Wang 2022), DVT-incidens (Bersano 2016) |
 | *[Level 4]* | Fallrapporter, fallserie <10 | Efgartigimod vid GBS (Ripellino 2025) |
 | *[Level 5]* | Expertutlåtande, mekanistisk extrapolering | Timing PE→IVIg, sekventiell terapi |
@@ -71,7 +71,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 ## Forskningsfynd av möjlig klinisk relevans
 
-*Sammanställda från ~400 peer-reviewed källor. Presenterade som evidens för bedömning.*
+*Sammanställda från ~480 peer-reviewed källor. Presenterade som evidens för bedömning.*
 
 ### Behandlingsalternativ vid PE-refraktär GBS med IgA-brist
 
@@ -107,9 +107,9 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 | Fynd | Källa |
 |------|-------|
-| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (88,9% sensitivitet, 90,4% specificitet) | Wang et al., *Muscle Nerve* 2022 (PMID: 35194803) *[Level 3]* |
-| 70,1% av GBS-patienter har positiva tyreoidea-autoantikroppar | Li et al., *Frontiers Neurol* 2020 |
-| GBS + abnorm sköldkörtelfunktion: längre vårdtid, lägre MRC, högre Hughes-grad | Qiu et al., *Neurol Sci* 2022 |
+| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (multivariat, n=320) | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
+| 70,1% av GBS-patienter har positiva tyreoidea-autoantikroppar | Tu et al., *Front Neurol* 2020 (PMID: 33013669) *[Level 3]* |
+| RGBS: lägre FT3, högre TSH. Antecedent sjukdom + AIDP + högt TSH = oberoende riskfaktorer | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
 | T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
 | Levotyroxinavbrott på IVA → myxedemkoma-risk (25–60% mortalitet) | Mathew et al., StatPearls 2024 |
 
@@ -121,9 +121,12 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 |---|---|
 | Överlevande som går igen | **79%** |
 | Median ventilatorstid | ~28 dagar (IQR 12–60) |
+| Prolonged weaning (≥7 dagar) | **64%** (Thille 2025, n=513 GBS, 47 IVA) |
+| Trakeostomi | **57%** av ventilerade GBS-patienter |
+| Reintubation efter extubationsförsök | **26%** |
 | Framgångsrik respiratoravvänjning | 76% |
 | Återhämtning fortsätter | Upp till 1–2 år |
-| Mortalitet i modern IVA-vård | 10–15% |
+| Mortalitet i modern IVA-vård | **9,4%** (Thille 2025) |
 
 → [Prognostisk monitorering — biomarkörer, skalor, protokoll](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md)
 
@@ -176,7 +179,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 
 ## Källbibliotek — verifierade fulltexter
 
-22 av 30 kartlagda nyckelartiklar finns i fulltext. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+29 av 30 kartlagda nyckelartiklar finns i fulltext (19 PDF + 10 text). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 

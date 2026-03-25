@@ -191,7 +191,7 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 
 | Fynd | Kalla |
 |------|-------|
-| TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (88.9% sens, 90.4% spec) | Wang et al., Muscle Nerve 2022 (PMID: 35194803) *[Level 3]* |
+| TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (OR 3.90, 88.9% sens, 90.4% spec; n=320). FT3 lagre i RGBS-gruppen (p=.022) | Wang S et al., Muscle Nerve 2022 (PMID: 35342963) *[Level 3]* |
 | 70.1% av GBS-patienter ar tyreoideaantikroppspositiva (vs 14.1% CIDP) | Li et al., Frontiers Neurol 2020 |
 | GBS + abnorm tyreoidea: langre vardtid, lagre MRC, hogre Hughes | Qiu et al., Neurol Sci 2022 |
 | T3 essentiellt for Schwann-cellsmyelinisering och neurotrofiska faktorer (BDNF, NGF) | Lopez-Espindola 2019, Barakat-Walter 1999 |

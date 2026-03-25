@@ -1,0 +1,840 @@
+Received: 16 November 2021
+
+Revised: 21 March 2022
+
+Accepted: 22 March 2022
+
+DOI: 10.1002/mus.27539
+
+CLINICAL RESEARCH ARTICLE
+
+Serum thyroid-stimulating hormone is an independent risk
+factor of recurrent Guillain-Barré syndrome
+Shi Wang MS1
+
+| Zhiya Luo MS2 |
+
+1
+Department of Neurology, The First Affiliated
+Hospital of Zhengzhou University,
+Zhengzhou, China
+
+Tao Peng PhD1
+
+Abstract
+Introduction/Aims: Guillain-Barré syndrome (GBS) is generally considered to be
+
+2
+
+Department of Otolaryngology, The First
+Affiliated Hospital of Dalian Medical
+University, Dalian, China
+Correspondence
+Tao Peng, PhD, Department of Neurology,
+The First Affiliated Hospital of Zhengzhou
+University, Zhengzhou 450052, China.
+Email: pengtao2022@126.com
+Funding information
+None
+
+monophasic, but some patients have recurrences. The purpose of this study was to
+clarify the possible link between thyroid parameters and recurrent GBS (RGBS)
+patients in China.
+Methods: In this retrospective study we enrolled patients who were admitted to the
+Department of Neurology of The First Affiliated Hospital of Zhengzhou University
+from 2014 to 2020 and fulfilled the diagnostic criteria of GBS or Miller Fisher syndrome. We evaluated clinical characteristics; cerebrospinal fluid parameters; and
+serum levels of thyroid-stimulating hormone (TSH), free thyroxine, and free triiodothyronine in 320 individuals, including 302 with monophasic GBS and 18 with
+recurrent GBS.
+Results: Serum levels of TSH in monophasic GBS patients were significantly lower
+than those in RGBS patients (P < .001), whereas FT3 levels were higher in the monophasic GBS group (P = .022). Age at onset, incidence of antecedent illness, time from
+onset
+
+to
+
+nadir,
+
+proportion
+
+with
+
+acute
+
+inflammatory
+
+demyelinating
+
+poly-
+
+radiculoneuropathy, and Hughes Functional Grading Scale score at nadir were statistically significant between monophasic GBS patients and RGBS patients (P < .05).
+The multivariate regression analysis revealed that antecedent illness, AIDP, and high
+TSH were independent risk factors for RGBS. Our receiver-operating characteristic
+curve analysis showed that the risk of recurrence in GBS patients increases when the
+TSH concentration is higher than 3.87 μIU/mL.
+Discussion: Our results demonstrate an association between TSH and RGBS. Oxidative stress is one of the possible interpretations for this association.
+KEYWORDS
+
+free thyroxine, free triiodothyronine, Guillain-Barré syndrome, recurrence, thyroid-stimulating
+hormone
+
+Abbreviations: A-CIDP, chronic inflammatory demyelinating polyneuropathy with acute
+onset; AIDP, acute inflammatory demyelinating polyradiculoneuropathy; ALS, amyotrophic
+
+1
+
+|
+
+INTRODUCTION
+
+lateral sclerosis; AUC, area under the curve; CIDP, chronic inflammatory demyelinating
+polyneuropathy; CNS, central nervous system; CSF, cerebrospinal fluid; FT3, free
+triiodothyronine; FT4, free thyroxine; GBS, Guillain-Barré syndrome; GBS-TRF, GBS patients
+with treatment-related fluctuations; HFGS, Hughes Functional Grading Scale; MAP, mitogenactivated protein; MDA, malondialdehyde; MFS, Miller Fisher syndrome; RGBS, recurrent
+Guillain-Barré syndrome; ROS, reactive oxygen species; TH, thyroid hormone; TSH, thyroidstimulating hormone.
+
+688
+
+© 2022 Wiley Periodicals LLC.
+
+Guillain-Barré syndrome (GBS) is an immune-mediated peripheral neuropathy.1 It is generally considered to be a monophasic disease, but
+some patients have recurrences after long periods of remission. The
+frequency of recurrent Guillain-Barré syndrome (RGBS) has been
+
+wileyonlinelibrary.com/journal/mus
+
+Muscle & Nerve. 2022;65:688–692.
+
+reported at approximately 2% to 6%.2,3 and the recurrence rate of its
+
+infection and diarrhea, with the time of antecedent illness, defined as
+
+variant, Miller Fisher syndrome (MFS), is up to 12%.4 Higher numbers
+
+1 to 4 weeks before the onset of GBS); time from onset to nadir;
+
+of GBS recurrences are associated with increased disease severity and
+
+Hughes Functional Grading Scale (HFGS)10 score at nadir; sensory dis-
+
+5
+
+disability. It is unclear why some patients have a recurrence, whether
+
+turbances and cranial nerve deficits; autonomic dysfunction; mechani-
+
+some GBS variants recur more frequently, and if predictors of recur-
+
+cal ventilation; and electrophysiological findings. Electrodiagnosis of
+
+rence exist. Early prediction of recurrence in patients with GBS would
+
+acute inflammatory demyelinating polyneuropathy (AIDP) was based
+
+be of great significance, enabling clinicians to individualize treatment
+
+on nerve conduction criteria established by Ho and colleagues.11
+
+and improve outcomes. Recently, a systematic study revealed that
+thyroid autoantibodies may be used as biomarkers to distinguish GBS
+from chronic inflammatory demyelinating polyneuropathy (CIDP).6
+
+2.4
+
+|
+
+Cerebrospinal fluid parameters
+
+Therefore, the purpose of this study was to clarify the possible link
+between thyroid parameters and recurrent Guillain-Barré syndrome
+
+Cerebrospinal fluid (CSF) data were collected, including opening pres-
+
+(RGBS) in China.
+
+sure, white blood cell count, protein content, and chloride.
+
+2
+
+2.5
+
+2.1
+
+METHODS
+
+|
+|
+
+Subjects
+
+|
+
+Statistical analysis
+
+SPSS version 23.0 (IBM Corp, Armonk, New York) was used for data
+processing and analysis. Measurement data conforming to a normal
+
+In this retrospective study we enrolled patients who were admitted to
+
+distribution were expressed as mean ± standard deviation, and an
+
+the Department of Neurology of The First Affiliated Hospital of
+
+independent sample t test was used for comparison; measurement
+
+Zhengzhou University from 2014 to 2020 and had fulfilled the diag-
+
+data not conforming to a normal distribution were expressed as
+
+7,8
+
+Patients with RGBS were identified
+
+median and interquartile range, and the Mann-Whitney U test was
+
+according to the following criteria: (1) at least two acute episodes with
+
+used for comparison. Count data are expressed as ratio or percent,
+
+a nadir within 4 weeks, fulfilling the diagnostic criteria for GBS and
+
+and were compared using the chi-square test or Fisher exact test.
+
+MFS; and (2) an interval of at least 4 months between episodes if
+
+Multivariate logistic regression was used to analyze the factors affect-
+
+recovery was incomplete (GBS disability scale score ≥2) or minimum
+
+ing RGBS. A receiver-operating characteristic (ROC) curve was used
+
+interval of at least 2 months when there was complete or nearly com-
+
+to evaluate the effect of thyroid parameters on GBS recurrence and
+
+plete recovery (GBS disability scale score <2) after the previous epi-
+
+determine the optimal cut-off value for hormone level. A two-sided
+
+sode. Participant exclusion criteria were: (1) being less than 18 years
+
+P < .05 was considered statistically significant for all statistical tests.
+
+nostic criteria of GBS and MFS.
+
+This study was approved by the ethics committee of The First
+
+of age; (2) having GBS with treatment-related fluctuations (GBS-TRF)
+or chronic inflammatory demyelinating polyneuropathy with acute
+
+Affiliated Hospital of Zhengzhou University.
+
+onset (A-CIDP), with A-CIDP being defined as CIDP with a nadir
+occurring in the first episode within 8 weeks of onset, and the consecutive course being chronic, as in CIDP9; (3) a history of thyroid dis-
+
+3
+
+RE SU LT S
+
+|
+
+ease, treated or untreated; and (4) having complications of
+neurological deficits that would affect disease assessment.
+
+3.1
+
+|
+
+Comparison of thyroid parameters
+
+We found that serum levels of TSH in patients with monophasic GBS
+
+2.2
+
+|
+
+2.2 Thyroid parameters in serum
+
+were significantly lower when compared with those of RGBS patients,
+but no statistically significant difference was observed for FT4 levels
+
+Because GBS needs to be differentiated from peripheral neuropathy
+
+between monophasic GBS and RGBS. FT3 levels were significantly
+
+caused by thyroid disease, most GBS patients in our hospital are
+
+higher in the monophasic GBS group. Comparisons of the aforemen-
+
+tested for thyroid function within 48 hours after admission. A blood
+
+tioned indicators are shown in Table 1.
+
+sample was collected in the morning within 48 hours of admission to
+measure free thyroxine (FT4), free triiodothyronine (FT3), and thyroidstimulating hormone (TSH).
+
+3.2 | Comparison of clinical characteristics and
+CSF parameters
+
+2.3
+
+The clinical characteristics of patients with monophasic GBS and
+
+|
+
+Clinical characteristics data
+
+RGBS during their first episodes are shown in Table 2. A total of
+For all included subjects, the following data were collected: age at
+
+320 patients were enrolled in this retrospective study. The monoph-
+
+onset; sex; antecedent illness (mainly including upper respiratory
+
+asic GBS group (302 patients) included 283 patients with typical GBS
+
+10974598, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mus.27539 by Vastra Gotaland County Council, Wiley Online Library on [25/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+689
+
+WANG ET AL.
+
+TABLE 1
+
+WANG ET AL.
+
+Comparison of thyroid parameters between monophasic GBS patients and RGBS patients
+
+Characteristics
+
+Monophasic GBS (n = 302)
+
+Recurrent GBS (n = 18)
+
+Z
+
+P value
+
+TSH 0.34-5.60, μIU/mL
+
+1.81 (1.03-2.75)
+
+4.42 (3.94-5.07)
+
+5.682
+
+<.001a
+
+FT3 3.8-7.0, pmol/L
+
+4.89 (4.34-5.73)
+
+4.40 (4.08-4.79)
+
+2.289
+
+.022a
+
+FT4 7.9-18.4, pmol/L
+
+12.34 (10.60-14.28)
+
+13.90 (11.41-15.43)
+
+1.904
+
+.057
+
+Abbreviations: FT3, free triiodothyronine; FT4, free thyroxine; GBS, Guillain-Barré syndrome; RGBS, recurrent Guillain-Barré syndrome; TSH, thyroidstimulating hormone.
+Note: Data expressed as median (interquartile range).
+Bold values are statistically significant.
+a
+Statistically significant (P < .05).
+
+TABLE 2
+
+Comparison of characteristics between monophasic GBS patients and RGBS patients
+
+Characteristics
+
+Monophasic GBS (n = 302)
+
+Male
+
+193 (64%)
+
+Age (years)
+
+51.5 (37.0-63.0)
+
+Antecedent illness
+
+143 (47%)
+
+Recurrent GBS (n = 18)
+
+Z/χ2
+
+P value
+
+8 (44%)
+
+2.755
+
+.097
+
+46.5 (37.3-51.0)
+
+2.012
+
+.044a
+
+14 (78%)
+
+6.293
+
+.012a
+
+7 (4-10)
+
+5 (4-7)
+
+2.069
+
+.039a
+
+197 (65%)
+
+13 (72%)
+
+0.368
+
+.544
+
+3 (2-4)
+
+2 (2-3)
+
+2.045
+
+.041a
+
+117 (39%)
+
+7 (39%)
+
+0.000
+
+.990
+
+Autonomic dysfunctions
+
+67 (22%)
+
+3 (17%)
+
+.772
+
+Mechanical ventilation
+
+41 (14%)
+
+1 (6%)
+
+.486
+
+Electrophysiology: AIDP
+MFS
+
+129 (43%)
+19 (6%)
+
+15 (83%)
+1 (6%)
+
+11.324
+
+.001a
+1.000
+
+Opening pressure (mmH2O)
+
+150 (130-180)
+
+170 (149-193)
+
+1.745
+
+.081
+
+2 (0-4)
+
+2 (0-2)
+
+1.916
+
+.055
+
+Time from onset to nadir (days)
+Sensory disturbances
+HFGS at nadir
+Cranial nerve deficits
+
+CSF white blood cell count (cells/mm3)
+CSF protein content (g/L)
+
+0.69 (0.50-1.19)
+
+0.77 (0.54-0.97)
+
+0.180
+
+.857
+
+CSF chloride (mmol/L)
+
+124.0 (123.0-126.7)
+
+123.5 (123.0-127.0)
+
+0.181
+
+.857
+
+Abbreviations: AIDP, acute inflammatory demyelinating polyneuropathy; CSF, cerebrospinal fluid; GBS, Guillain-Barré syndrome; HFGS, Hughes Functional
+Grading Scale; MFS, Miller Fisher syndrome; RGBS, recurrent Guillain-Barré syndrome.
+Note: Data expressed as number (%) or as median (interquartile range).
+a
+Statistically significant (P < .05).
+
+and 19 patients with MFS. The RGBS group included 18 patients,
+excluding those with GBS-TRF and A-CIDP. Compared with monoph-
+
+T A B L E 3 TSH and other characteristics in multivariate logistic
+regression analysis
+
+asic GBS patients, those with RGBS were significantly younger at age
+
+Characteristics
+
+OR
+
+95% CI
+
+P value
+
+at onset and had a shorter time from onset to nadir. Furthermore, we
+
+Age (years)
+
+0.975
+
+0.937-1.015
+
+.214
+
+Antecedent illness
+
+5.373
+
+1.318-21.904
+
+.019a
+
+Time from onset to nadir (days)
+
+0.842
+
+0.676-1.049
+
+.126
+
+HFGS at nadir
+
+0.544
+
+0.277-1.069
+
+.077
+
+Electrophysiology: AIDP
+
+5.371
+
+1.086-26.576
+
+.039a
+
+TSH (μIU/ml)
+
+3.902
+
+2.073-7.342
+
+<.001a
+
+FT3 (pmol/L)
+
+0.582
+
+0.243-1.393
+
+.224
+
+found that antecedent illness was more common in the RGBS
+patients, whose HFGS at nadir was significantly lower. AIDP was significantly more common in the recurrent patients than in the monophasic GBS patients. However, cranial nerve deficits, autonomic
+dysfunction, mechanical ventilation, and MFS were not statistically
+different between the two groups. In addition, we compared CSF
+parameters and found them to be comparable between the two
+groups (Table 2).
+
+3.3 | Multivariate logistic regression analysis of
+factors for RGBS patients
+
+Abbreviations: AIDP, acute inflammatory demyelinating polyneuropathy;
+CI, confidence interval; FT3, free triiodothyronine; HFGS, Hughes
+Functional Grading Scale; OR, odds ratio; TSH, thyroid-stimulating
+hormone.
+a
+Statistically significant (P < .05).
+
+in Table 3, multivariate logistic analysis revealed that antecedent illIndicators that were significantly different on univariate analysis were
+
+ness, AIDP, and high TSH were independent risk factors for RGBS,
+
+included in multivariate logistic regression analysis (Table 2). As shown
+
+adjusted for other risk factors.
+
+10974598, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mus.27539 by Vastra Gotaland County Council, Wiley Online Library on [25/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+690
+
+numerous studies that depicted the mechanism by which TH affects
+myelin in the central nervous system (CNS),14,15 it remains to be
+determined whether TH could induce recurrences in patients with
+GBS by influencing peripheral nerve myelination.
+A relationship has been demonstrated between TSH and a variety
+of neurological diseases, including multiple sclerosis, diabetic peripheral neuropathy, and Alzheimer disease.16,17 Research has also shown
+that malondialdehyde (MDA), a final product of oxidative stress, is elevated in a higher TSH concentration group compared with a control
+group. This may indirectly suggest increased oxidative stress, an inadequate increase in antioxidant status, and changed lipid metabolism in
+the higher TSH group.18 Some studies supported a strong positive correlation between oxidative stress and TSH levels, because of the
+increasing oxidative stress in patients with higher TSH.19 Free radical
+toxicity due to unbalanced maintenance of cellular redox levels has
+been implicated in the pathogenesis of some CNS diseases, such as
+amyotrophic lateral sclerosis (ALS) and Alzheimer disease.20 Furthermore, recent studies showed that increased reactive oxygen species
+F I G U R E 1 Receiver-operating characteristic curves of TSH to
+indicate RGBS. AUC = 0.899 (P < .001); 95% CI, 0.828 to 0.969;
+identified TSH cut-off value = 3.87 μIU/mL; Youden index = 0.793;
+sensitivity, 88.9%; specificity, 90.4%. AUC, area under curve; RGBS,
+recurrent Guillain-Barré syndrome; ROC, receiver operating
+characteristic; TSH, thyroid-stimulating hormone
+
+(ROS) and imbalance of MDA and antioxidant activity in the plasma of
+GBS patients compared with healthy controls triggered activation of
+the mitogen-activated protein (MAP) kinase pathway in Schwann cells
+and caused subsequent axonal damage.21,22 Excess ROS, as a product
+of oxidative stress, has been widely considered to be a mediator of
+demyelination and axonal injury.21 Thus, it is possible that TSH induces
+oxidative damage through oxidative stress. Although some studies
+reported patients with a combination of GBS and hyperthyroidism or
+
+3.4 | Analyses of ROC curves of thyroid
+parameters
+
+hypothyroidism,23,24 the relationship between TSH and RGBS remains
+unclear. Our results demonstrate an association between TSH and
+RGBS, but it is unknown whether TSH can indirectly cause repeated
+
+ROC-curve analysis was used to verify the accuracy of TSH for
+
+myelin and axonal damage in RGBS patients through oxidative stress.
+
+predicting RGBS. The optimal cut-off point for TSH was 3.87 μIU/mL
+
+The frequency of recurrent GBS in this study was 6.0%, which is
+
+for predicting RGBS (Figure 1). At this cut-off value, the sensitivity
+
+consistent with previous reports. Our study has also demonstrated a
+
+was 88.9% and the specificity was 90.4%.
+
+higher incidence of antecedent illness in RGBS patients, which is an
+independent risk factor for GBS recurrence. It is unclear whether
+recurrence is associated with repeated immune cross-reactivity trig-
+
+4
+
+|
+
+DISCUSSION
+
+gered by antecedent illness as well as the immune status of host. We
+found that patients with GBS who were considered on the basis of
+
+In this study, RGBS patients were found to have significantly higher
+
+nerve conduction studies to have AIDP were more likely to have
+
+serum TSH levels than GBS patients. TSH was an independent risk
+
+recurrences, and that AIDP is an independent risk factor for RGBS.
+
+factor for RGBS. Our ROC-curve analysis shows that the risk of recur-
+
+The underlying mechanism of more frequent recurrences of AIDP
+
+rence in GBS patients increased when the TSH concentration was
+
+may be caused by defective Fas function, which is expressed by acti-
+
+over 3.87 μIU/mL. One study showed that TSH levels were lower in
+
+vated T lymphocytes and inhibits the immune response by mediating
+
+12
+
+GBS patients compared with healthy controls ; further large-scale
+
+T-lymphocyte apoptosis to eliminate autoimmune T cells.25
+
+studies are needed to investigate the effect of TSH on GBS and
+
+Our study has some limitations. First, monophasic recurrent GBS
+
+RGBS. Although our results do not show that FT3 was independently
+
+in some patients may have occurred after the end of the study period.
+
+associated with RGBS, FT3 was lower in RGBS patients, prompting
+
+Second, although it is meaningful for us to suggest thyroid parameters
+
+further thinking about the possible relationship between thyroid hor-
+
+as RGBS biomarkers, the mechanisms by which these biomarkers
+
+mone (TH) and RGBS.
+
+affect RGBS remain to be confirmed and investigated. Third, the num-
+
+Extensive experiments have demonstrated that the process of
+myelination in multiple sclerosis patients depends on TH, which can
+
+ber of RGBS patients in this study was small, and the impact of thyroid parameters on RGBS will need further large-scale studies.
+
+enhance remyelination and relieve demyelination by shifting the
+
+Finally, TSH may have a role in determining which patients with
+
+demyelination/remyelination ratio toward remyelination and promot-
+
+GBS have a high risk of developing RGBS. GBS patients with AIDP
+
+ing the development of oligodendrocyte lineage cells.13 Despite
+
+and antecedent illness may be more likely to have a recurrence.
+
+10974598, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mus.27539 by Vastra Gotaland County Council, Wiley Online Library on [25/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+691
+
+WANG ET AL.
+
+WANG ET AL.
+
+CONF LICT OF IN TE RE ST
+None of the authors has any conflict of interest to disclose.
+AUTHOR CONTRIBUTIONS
+All authors assisted with writing, editing, and review of the
+manuscript.
+DATA AVAI LAB ILITY S TATEMENT
+The data that support the findings of this study are available on
+request from the corresponding author.
+E THI CAL P UBLI CATI ON S TAT EME NT
+We confirm that we have read the Journal0 s position on issues
+involved in ethical publication and affirm that this report is consistent
+with those guidelines.
+ORCID
+Tao Peng
+
+https://orcid.org/0000-0003-2473-997X
+
+RE FE R ENC E S
+1. Wakerley BR, Yuki N. Infectious and noninfectious triggers in
+Guillain-Barré syndrome. Expert Rev Clin Immunol. 2013;9:627-639.
+2. Grand0 Maison F, Feasby TE, Hahn AF, et al. Recurrent Guillain-Barré
+syndrome. Clinical and laboratory features. Brain. 1992;115:1093-1106.
+3. Das A, Kalita J, Misra UK. Recurrent Guillain Barré syndrome. Electromyogr Clin Neurophysiol. 2004;44:95-102.
+4. Ishii J, Yuki N, Kawamoto M, Yoshimura H, Kusunoki S, Kohara N.
+Recurrent Guillain-Barré syndrome, Miller Fisher syndrome and
+Bickerstaff brainstem encephalitis. J Neurol Sci. 2016;364:59-64.
+5. Malek E, Salameh J. Guillain-Barré syndrome. Semin Neurol. 2019;39:
+589-595.
+6. Tu Y, Gong X, Zeng G, et al. Differences in thyroid function and autoantibodies in the development of Guillain-Barré syndrome vs chronic
+inflammatory demyelinating polyradiculoneuropathy. Front Neurol.
+2020;11:1018.
+7. Van der Meché FG, Van Doorn PA, Meulstee J, et al. Diagnostic and
+classification criteria for the Guillain-Barré syndrome. Eur Neurol.
+2001;45:133-139.
+8. Wakerley BR, Uncini A, Yuki N. Guillain-Barré and Miller Fisher
+syndromes---new diagnostic classification. Nat Rev Neurol. 2014;10:
+537-444.
+9. Ruts L, Drenthen J, Jacobs BC, van Doorn PA, on behalf of the Dutch
+GBS Study Group. Distinguishing acute-onset CIDP from fluctuating
+Guillain-Barré syndrome: a prospective study. Neurology. 2010;74:
+1680-1686.
+10. Hughes RA, Newsom-Davis JM, Perkin GD, et al. Controlled trial
+prednisolone in acute polyneuropathy. Lancet. 1978;2:750-753.
+11. Ho TW, Mishu B, Li CY, et al. Guillain-Barré syndrome in northern
+China. Relationship to Campylobacter jejuni infection and antiglycolipid antibodies. Brain. 1995;118:597-605.
+
+12. Huang Y, Ying Z, Chen Z, et al. Thyroid hormone level is associated
+with the frequency and severity of Guillain-Barré syndrome. Int J
+Neurosci. 2017;127:893-899.
+13. Zhang M, Ma Z, Qin H, Yao Z. Thyroid hormone potentially benefits
+multiple sclerosis via facilitating remyelination. Mol Neurobiol. 2016;
+53:4406-4416.
+14. Aus 
+o E, Lavado-Autric R, Cuevas E, et al. A moderate and transient
+deficiency of maternal thyroid function at the beginning of fetal
+neocorticogenesis alters neuronal migration. Endocrinology. 2004;
+145:4037-4047.
+15. Zhang M, Zhan XL, Ma ZY, Chen XS, Cai QY, Yao ZX. Thyroid hormone alleviates demyelination induced by cuprizone through its role
+in remyelination during the remission period. Exp Biol Med (Maywood).
+2015;240:1183-1196.
+16. Long Y, Zheng Y, Chen M, et al. Serum thyroid-stimulating hormone
+and anti-thyroglobulin antibody are independently associated with
+lesions in spinal cord in central nervous system demyelinating diseases. PLoS One. 2014;9:e100672.
+17. Zhao W, Zeng H, Zhang X, et al. A high thyroid stimulating hormone
+level is associated with diabetic peripheral neuropathy in type 2 diabetes patients. Diabetes Res Clin Pract. 2016;115:122-129.
+18. Torun AN, Kulaksizoglu S, Kulaksizoglu M, Pamuk BO, Isbilen E,
+Tutuncu NB. Serum total antioxidant status and lipid peroxidation
+marker malondialdehyde levels in overt and subclinical hypothyroidism. Clin Endocrinol. 2009;70:469-474.
+19. Cebeci E, Alibaz-Oner F, Usta M, Yurdakul S, Erguney M. Evaluation
+of oxidative stress, the activities of paraoxonase and arylesterase in
+patients with subclinical hypothyroidism. J Invest Med. 2012;60:
+23-28.
+20. Dib M, Garrel C, Favier A, Robin V, Desnuelle C. Can
+malondialdehyde be used as a biological marker of progression in
+neurodegenerative disease. J Neurol. 2002;249:367-374.
+21. Smith KJ, Kapoor R, Felts PA. Demyelination: the role of reactive oxygen and nitrogen species. Brain Pathol. 1999;9:69-92.
+22. Rodella U, Scorzeto M, Duregotti E, et al. An animal model of Miller
+Fisher syndrome: mitochondrial hydrogen peroxide is produced by
+the autoimmune attack of nerve terminals and activates Schwann
+cells. Neurobiol Dis. 2016;96:95-104.
+23. Pandolfi C, Filippi C. Guillain-Barré syndrome associated with hypothyroidism. Report of a case. Minerva Med. 1989;80:1129-1131.
+24. Ali A, Malik WT, Raja U, Khan FA, Javaid I. Thyroid storm, a mimicker
+of Guillain-Barre syndrome: a case report. Cureus. 2020;12:e9918.
+25. Comi C. Fas-mediated T-cell apoptosis in chronic inflammatory demyelinating polyneuropathy. J Peripher Nerv Syst. 2011;16(Suppl 1):
+45-47.
+
+How to cite this article: Wang S, Luo Z, Peng T. Serum
+thyroid-stimulating hormone is an independent risk factor of
+recurrent Guillain-Barré syndrome. Muscle & Nerve. 2022;
+65(6):688‐692. doi:10.1002/mus.27539
+
+10974598, 2022, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mus.27539 by Vastra Gotaland County Council, Wiley Online Library on [25/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+692
+
+

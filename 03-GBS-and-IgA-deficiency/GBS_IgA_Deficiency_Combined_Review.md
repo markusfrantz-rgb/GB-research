@@ -98,9 +98,12 @@ IVIg is contraindicated in patients who:
 | Patient Population | Anti-IgA Prevalence | Reference |
 |---|---|---|
 | Selective IgA deficiency | 20-40% (IgG class) | Ferreira et al., 1988; Horn et al., 2007 |
+| Selective IgA deficiency (sensitive methods) | ~25% (any measurable level) | Rachid & Bonilla, 2012 (PMID: 21835445) |
 | CVID patients | 9-25% | Horn et al., 2007 |
 | Healthy controls | ~2% | Multiple studies |
 | IgA-deficient patients (IgE class) | Rare (exact prevalence unknown) | Burks et al., 1986 |
+
+**Note:** Prevalence figures vary substantially depending on measurement method and sensitivity threshold. Rachid & Bonilla (2012) emphasized that detection of anti-IgA antibodies does not equate to clinical risk -- the isotype, specificity, and concentration all determine whether a reaction will occur.
 
 ### 3.2 Types of Anti-IgA Antibodies and Clinical Significance
 
@@ -112,15 +115,17 @@ IVIg is contraindicated in patients who:
 
 ### 3.3 Challenging the Dogma: Rachid & Bonilla 2012
 
-A landmark systematic review *[Level 3 — systematisk review av fallrapporter]* challenged the traditional view that anti-IgA antibodies invariably cause anaphylaxis:
+A landmark comprehensive review *[Level 3 — systematic review of case reports and case series]* challenged the traditional view that anti-IgA antibodies invariably cause anaphylaxis:
 
 **Key findings:**
 - The actual risk of severe anaphylaxis from anti-IgA antibodies is **much lower than traditionally believed**
 - Many patients with documented anti-IgA antibodies tolerate IVIg without reaction
-- The causal link between anti-IgA antibodies and anaphylactic reactions remains **controversial**
-- A variety of factors influence risk: antibody isotype (IgG vs IgE), specificity, titer, IgA content of the product, infusion rate, and route
+- The causal link between anti-IgA antibodies and anaphylactic reactions remains **controversial** -- no definitive consensus exists
+- ~25% of IgA-deficient patients have measurable anti-IgA levels when sensitive detection methods are used, yet severe reactions remain rare
+- Multiple factors determine risk: serum antibody concentration, isotype (IgG vs IgE), specificity (class-specific vs subclass-specific), measurement method sensitivity, IgA content of the product, and route of administration
+- The review highlights that detection of anti-IgA antibodies alone is insufficient to predict clinical reactions -- the clinical context and antibody characteristics must be interpreted together
 
-> **Citation:** Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. DOI: 10.1016/j.jaci.2011.06.047
+> **Citation:** Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. PMID: 21835445. DOI: 10.1016/j.jaci.2011.06.047
 
 ### 3.4 Recent Evidence (2024)
 
@@ -506,7 +511,7 @@ For ongoing monitoring of new evidence:
 3. van der Meche FGA, Schmitz PIM. "A randomized trial comparing intravenous immune globulin and plasma exchange in Guillain-Barre syndrome." *N Engl J Med.* 1992;326(17):1123-1129.
 4. Burks AW, Sampson HA, Buckley RH. "Anaphylactic reactions after gamma globulin administration in patients with hypogammaglobulinemia." *N Engl J Med.* 1986;314(9):560-564.
 5. Ferreira A, Garcia Rodriguez MC, Lopez-Trascasa M, et al. "Anti-IgA antibodies in selective IgA deficiency and in primary immunodeficient patients treated with gamma-globulin." *Clin Immunol Immunopathol.* 1988;47(2):199-207.
-6. Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. DOI: 10.1016/j.jaci.2011.06.047
+6. Rachid R, Bonilla FA. "The role of anti-IgA antibodies in causing adverse reactions to gamma globulin infusion in immunodeficient patients: a comprehensive review of the literature." *J Allergy Clin Immunol.* 2012;129(3):628-634. PMID: 21835445. DOI: 10.1016/j.jaci.2011.06.047
 7. Sundin U, Nava S, Hammarstrom L. "Induction of unresponsiveness against IgA in IgA-deficient patients on subcutaneous immunoglobulin infusion." *Clin Exp Immunol.* 1998;112(2):341-346.
 8. Orange JS, Hossny EM, Weiler CR, et al. "Use of intravenous immunoglobulin in human disease." *J Allergy Clin Immunol.* 2006;117(4 Suppl):S525-S553.
 9. van Doorn PA, Van den Bergh PYK, Hadden RDM, et al. "European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barre syndrome." *Eur J Neurol.* 2023;30:3646-3674. DOI: 10.1111/ene.16073

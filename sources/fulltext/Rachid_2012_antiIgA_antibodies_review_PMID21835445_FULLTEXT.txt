@@ -1,0 +1,1424 @@
+The role of anti-IgA antibodies in causing adverse reactions
+to gamma globulin infusion in immunodeficient patients:
+A comprehensive review of the literature
+Rima Rachid, MD, and Francisco A. Bonilla, MD, PhD
+
+Boston, Mass
+
+Anaphylactic reactions to immunoglobulin infusions in
+immunodeficient patients with undetectable IgA have been
+attributed in several reports to IgG or IgE anti-IgA antibodies.
+However, other reports have not supported an association
+between such antibodies and the development of severe
+reactions. We have reviewed the articles reporting reactions to
+immunoglobulin products in IgA-deficient patients, as well as
+those describing the presence of such antibodies in the absence
+of reactions to infusions. A variety of factors might influence the
+association of adverse reactions with anti-IgA antibodies,
+including the serum concentration and isotype (IgG or IgE) of
+the anti-IgA antibody, its specificity (class or subclass specific),
+the method of measurement, and the IgA content of the gamma
+globulin infusion and its route of administration. The role of
+anti-IgA antibodies in causing anaphylaxis in IgA-deficient
+patients receiving gamma globulin therapy is still controversial.
+Larger (multicenter) studies are needed to further evaluate this
+association. (J Allergy Clin Immunol 2012;129:628-34.)
+Key words: Anaphylaxis, anti-IgA antibody, IgA deficiency, immunoglobulin therapy
+
+There are 2 subclasses of IgA (IgA1 and IgA2) in human subjects. Furthermore, there are 2 allotypes of IgA2 (IgA2m1 and
+IgA2m2). The normal adult serum IgA level ranges between approximately 70 and 300 mg/dL. The clinical definition of IgA deficiency varies among reports and usually ranges between less
+than approximately 5 to 10 mg/dL.1 However, approximately
+25% of these subjects have levels of IgA that are measurable by
+using more sensitive methods; the remainder are completely lacking IgA.2 In this review the term IgA deficiency refers to a level
+less than the detectable clinical range. This degree of IgA deficiency was found in 0.03% to 0.3% of healthy subjects (1:3,333
+to 1:328) in the United States in 4 large prevalence studies including between 3,024 and 73,569 subjects each, although the definition of IgA deficiency was not consistent across all studies (range,
+
+From the Division of Immunology, Children’s Hospital Boston, and the Department of
+Pediatrics, Harvard Medical School.
+Disclosure of potential conflict of interest: F. A. Bonilla has consultant arrangements with
+CSL Behring, Spring Leaf Pharmaceuticals, and Prescription Solutions; receives
+research support from Talecris; is an advisor/consultant for the Immune Deficiency
+Foundation, and is BCI Vice Chair for the American Academy of Allergy, Asthma &
+Immunology. R. Rachid had declared no conflict of interest.
+Received for publication April 6, 2011; revised June 29, 2011; accepted for publication
+June 30, 2011.
+Available online August 11, 2011.
+Reprint requests: Rima Rachid, MD, Children’s Hospital Boston, Division of Immunology, Fegan 6, 300 Longwood Ave, Boston, MA 02115. E-mail: rima.rachid@
+childrens.harvard.edu.
+0091-6749/$36.00
+Ó 2011 American Academy of Allergy, Asthma & Immunology
+doi:10.1016/j.jaci.2011.06.047
+
+628
+
+Abbreviations used
+CVID: Common variable immunodeficiency
+IGG2D: IgG2 subclass deficiency
+IRMA: Immunoradiometric assay
+IVIG: Intravenous immunoglobulin
+MIA: Membrane immunoassay
+PHA: Passive hemagglutination
+SCIG: Subcutaneous immunoglobulin
+SIGAD: Selective IgA deficiency
+
+1-10 mg/dL).2-6 A similar range of prevalence has been found in 8
+additional reports from the United Kingdom, Scandinavia, and
+Australia.3
+Life-threatening reactions to administration of human IgG are
+rare in clinical practice.7 In 1968, Vyas et al8 reported the first anaphylactic reaction associated with intravenous infusion of a commercial gamma globulin product in a patient lacking serum IgA
+who had IgG anti-IgA antibodies. (In this review the term anaphylaxis is used for severe life-threatening systemic hypersensitivity
+reactions that might or might not be IgE mediated, as recommended in the Revised Nomenclature for Allergy for Global Use.9)
+Since that time, there have been several reports of anaphylactic reactions to immunoglobulin infusions in immunodeficient patients
+with undetectable IgA that were attributed to IgG or IgE anti-IgA
+antibodies.10-13 However, other reports have not supported an association between such antibodies and the development of severe
+reactions.14,15 Consequently, the significance of anti-IgA antibodies is still controversial. Nevertheless, as a result of these reports, virtually all gamma globulin products carry a warning
+advising caution when administering to IgA-deficient patients
+or even listing this condition as a contraindication for product administration. Anti-IgA antibodies that bind to all forms of IgA are
+designated class specific, and those that bind to 1 subclass or 1 allotype are designated limited specificity or subclass specific.16,17
+A variety of methods have been applied for measurement of antiIgA antibodies. These include passive hemagglutination (PHA),8
+ELISA,11 RIA,18 immunoradiometric assay (IRMA),19 particle
+gel immunoassay,20 membrane immunoassay (MIA), and flow cytometry–based fluorescent bead immunoassays.21
+A variety of factors might influence the association of adverse
+reactions with anti-IgA antibodies, including the serum concentration and isotype (IgG or IgE) of the anti-IgA antibody, its
+specificity (class or subclass specific), the method of measurement,
+the characteristics of the IgG product (IgA content), and the route
+of administration (intramuscular, intravenous, or subcutaneous).
+We have reviewed reports of reactions to gamma globulin
+products in IgA-deficient patients. We performed a PubMed
+search using combinations of key words, such as ‘‘IgA-deficient,’’
+‘‘IgA deficiency,’’ ‘‘anti-IgA antibody(ies),’’ ‘‘immunoglobulin
+infusion,’’ ‘‘gamma globulin,’’ ‘‘reaction,’’ ‘‘anaphylaxis,’’ and
+
+J ALLERGY CLIN IMMUNOL
+VOLUME 129, NUMBER 3
+
+‘‘anaphylactoid.’’ We identified additional pertinent literature in
+the references of these reports. We reviewed all articles we found
+since 1968, when the first reaction was described by Vyas et al.8
+We have omitted reports that focus exclusively on reactions to
+other blood products.
+
+IgG ANTI-IgA ANTIBODIES IN HEALTHY SUBJECTS
+Among studies evaluating between 19 and 358 IgA-deficient
+subjects each, class-specific IgG anti-IgA was detected in 24% to
+32%. Class-specific IgG anti-IgA was not found in 333 subjects
+with detectable IgA.2,6 However, in one other report class-specific
+anti-IgA was present in 17% of 58 IgA-deficient blood donors, in
+3 (2%) of 142 non–IgA-deficient (pregnant and nonpregnant)
+women, and in 1 (0.5%) of 200 non–IgA-deficient blood donors.22
+Note that in this report a titer as low as 1:4 determined by using the
+PHA method was considered positive.
+Subclass-specific IgG anti-IgA antibodies have been found in
+5% to 7% of IgA-deficient blood donors,3,16,22 as well as 6% of
+non–IgA-deficient subjects.22 Rivat et al23 found subclassspecific IgG anti-IgA by means of PHA in as many as 59% of
+1010 blood donors. The reason for such a high frequency is unclear, but the authors speculated it could be because they included
+PHA titers of less than 1:8.
+IgG ANTI-IgA ANTIBODIES ASSOCIATED WITH
+ADVERSE REACTIONS TO GAMMA GLOBULIN
+PRODUCTS
+Three studies including a total of 325 immunodeficient (common variable immunodeficiency [CVID], IgG2 subclass deficiency (IGG2D), and selective IgA deficiency [SIGAD])
+patients lacking IgA found 99 (30%) patients with IgG anti-IgA
+antibodies.18,24,25 For most of these, the specificity of the antiIgA was not determined; only 7 were stated to have classspecific IgG anti-IgA, and no patient with IgA levels of greater
+than 5 mg/dL had anti-IgA antibodies.18 The great majority of
+those who received immunoglobulin therapy tolerated their infusions (a precise number or fraction could not be determined from
+the data in the report).
+After Vyas et al8 reported the first IgA-deficient patient with
+class-specific IgG anti-IgA and anaphylaxis to intramuscular immunoglobulin, several reports described similar patients with
+moderate symptoms (eg, abdominal pain, myalgia, nausea, fevers, and/or rigors) or anaphylaxis to gamma globulin infusions
+in the presence of IgG anti-IgA antibodies, which were detected
+by using different methods. We found reports of 27 patients
+with such presentations, the characteristics of whom are listed
+in Table I.8,10-13,20,24-33 Some of these reports lacked information
+about the type of anti-IgA antibodies (class or subclass specific),
+patient diagnosis, or total IgA level.
+Apart from 1 patient whose IgA level was not stated, all
+patients had IgA levels of less than 10 mg/dL. When the
+specificity of the IgG anti-IgA was reported (10 of the 27 cases),
+all antibodies were class specific. Twenty-four (89%) of 27
+patients were given a diagnosis of CVID, whereas only 2 had
+SIGAD and 1 had IGG2D. There was no sex predilection in the
+development of these reactions. Interestingly, apart from 1 pediatric patient (age 15 years), all other patients with age reported
+were adults. It is impossible to gauge accurately the age composition of the patient populations represented in these reports,
+
+RACHID AND BONILLA 629
+
+although it appears that there is a great preponderance of adults.
+The IgA content for all reported immunoglobulin infusions
+ranged from 0.4 to 2500 mg/mL.
+There were 23 (85%) patients who had anaphylaxis, whereas 4
+others had only moderate reactions. All episodes were secondary
+to intravenous or intramuscular administration. When the IgA
+content of the formulation was reported, most patients had
+reactions to an intravenous immunoglobulin (IVIG) product with
+IgA levels of 50 mg/mL or greater. Ten of these patients
+(including those with very high IgG anti-IgA titers) tolerated
+IVIG infusion with much lower IgA content, and 1 tolerated the
+same product after treating it with autologous plasma (patient
+17). One other patient (patient 6) was premedicated with a
+corticosteroid and antihistamine and tolerated an IVIG formulation with mildly higher IgA content. In addition, 3 of the above
+patients, as well 1 other patient (patient 16) tolerated IVIG with
+_2.5 mg/mL) when their anti-IgA titers
+high IgA content (<
+became undetectable after initial therapy with low-IgA IVIG or
+after IVIG pretreatment with autologous plasma. In addition, 8 of
+these 27 patients tolerated subcutaneous immunoglobulin
+(SCIG). Six did not receive further gamma globulin therapy.
+The ability to tolerate SCIG was thought to be due to gradual
+exposure to IgA absorbed slowly from the subcutaneous
+compartment.13
+Given that IgG anti-IgA antibodies are found in roughly one
+third of patients who are IgA deficient, their role in triggering
+anaphylaxis with gamma globulin infusion is not firmly established. Some reports described complement consumption during
+anaphylaxis to IVIG in patients with class-specific IgG antiIgA,10,26 whereas another did not.27 In addition, low-level complement activation has been observed after infusions of IVIG
+with 2.9 mg/mL IgA or less without reactions in patients with
+or without class-specific IgG anti-IgA.28
+Nadorp et al18 conducted a unique study in which they administered purified radiolabeled IgA to IgA-deficient patients (IgA
+level, <2 mg/dL) with IgG anti-IgA antibodies. They described
+1 patient with class-specific IgG anti-IgA measured by means
+of RIA who had an anaphylactic reaction after intravenous injection of less than 1 mg of purified iodine 131–labeled IgA. One
+other patient with IgG anti-IgA had fever and vomiting after radiolabeled IgA infusion. They described 5 additional patients with
+class-specific and 1 with subclass-specific IgG anti-IgA, all of
+whom tolerated intravenous infusions of purified radiolabeled
+IgA. The occurrence of symptoms was directly related to higher
+concentrations of anti-IgA. These IgG anti-IgA antibodies could
+fix complement in vitro, but this was not studied in vivo. These authors also showed that patients with IgG anti-IgA demonstrated
+increased catabolism of IgA in vivo.
+Ferreira et al15 reported 2 patients with Wiskott-Aldrich syndrome with high titers of subclass-specific IgG anti-IgA1 who
+also had increased endogenous serum IgA levels (288 and 436
+mg/dL). One had anaphylaxis, and 1 had a moderate reaction.
+In summary, most reported adverse events occur in patients
+with very low IgA levels and high-titer class-specific anti-IgA
+receiving gamma globulin products containing relatively high
+concentrations of IgA. There might be a threshold phenomenon
+for symptoms associated with IgG anti-IgA because patients
+reported to react tend to have higher levels. However, it is difficult
+to compare values across studies because of different methods of
+measurement. Furthermore, some of these patients were reported
+to have IgE anti-IgA antibodies, which might also be pathogenic
+
+630 RACHID AND BONILLA
+
+J ALLERGY CLIN IMMUNOL
+MARCH 2012
+
+TABLE I. Characteristics of IgA-deficient patients with IgG anti-IgA antibodies reacting to gamma globulin products
+
+Diagnosis
+
+IgA
+(mg/dL)
+
+IgG anti-IgA
+titer
+
+Method
+
+Specificity
+
+Reaction
+
+Product causing
+reaction/IgA
+content*
+
+M
+F
+F
+M
+M
+M
+F
+F
+F
+M
+F
+F
+F
+F
+F
+F
+M
+
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+IGG2D
+CVID
+CVID
+CVID
+SIGAD
+CVID
+CVID
+CVID
+
+<5
+<1
+1.2
+0
+0
+<0.09
+<0.09
+<0.09
+<10
+<1
+7
+<0.09
+<0.09
+<0.05
+<1
+<5-10
+<6.7
+
+1:262,144
+1:32,718
+1:12,800
+1:2,560-10,240
+1:8,000
+1:6,400
+1:6,400
+1:1,600
+1:1,000
+1:500
+1:500
+1:400
+1:400
+1:256
+1:200
+1:64
+1:32
+
+PHA
+ELISA
+ELISA
+PHA
+PHA
+ELISA
+ELISA
+ELISA
+PHA
+ELISA
+ELISA
+ELISA
+ELISA
+PGI
+ELISA
+PGI
+PGI
+
+UK
+Class
+Class
+Class
+UK
+UK
+UK
+UK
+Class
+Class
+Class
+UK
+UK
+UK
+Class
+UK
+UK
+
+ANA
+MOD
+ANA
+ANA
+ANA
+ANA
+ANA
+ANA
+ANA
+ANA
+MOD
+ANA
+MOD
+ANA
+ANA
+ANA
+ANA
+
+IVIG/<20
+IVIG/720
+IVIG
+IVIG/500
+IVIG/15
+IVIG (<100)
+IVIG/<100
+IVIG/2,500
+IVIG/270
+IVIG/270
+IVIG/720
+IVIG <100
+IVIG/(50-6,000)
+RhoGAM
+IVIG/270-720
+IVIG
+IVIG/100
+
+33
+
+F
+
+CVID
+
+<5
+
+1:4
+
+PGI
+
+UK
+
+ANA
+
+19
+
+62
+
+F
+
+CVID
+
+<5
+
+1:4
+
+PGI
+
+UK
+
+ANA
+
+IVIG/(2,0002,500)
+IVIG (15-2,500)
+
+20
+
+70
+
+M
+
+CVID
+
+<5
+
+1:2
+
+PGI
+
+UK
+
+ANA
+
+IVIG (<2,000)
+
+21
+22
+23
+24
+25
+26
+27
+
+19
+18
+UK
+UK
+UK
+UK
+29
+
+F
+F
+M
+M
+M
+F
+F
+
+CVID
+SIGAD
+UK
+CVID
+CVID
+CVID
+CVID
+
+<0.001
+0
+UK
+<0.1
+<0.1
+<0.1
+<5
+
+3.95 mg/mL
+Yesjj
+Yes
+Yes
+Yes
+Yes
+Yes
+
+ELISA
+PHA
+PHA
+PHA
+PHA
+PHA
+UK
+
+Class
+Class
+Class
+UK
+UK
+UK
+UK
+
+ANA
+ANA
+ANA
+ANA
+ANA
+ANA
+MOD
+
+IVIG <10
+IMIG
+IMIG or IVIG
+IMIG
+IMIG
+IVIG/1,140
+IVIG
+
+Patient
+no.
+
+Age
+(y)
+
+Sex
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+UK
+44
+22
+41
+15
+28
+33
+33
+45
+39
+49
+49
+36
+30
+20
+52
+40
+
+18
+
+Product
+tolerated/IgA
+content*
+
+IVIG/20
+IVIG/3-23
+IVIG/1.6
+IVIG/160à
+SCIG
+SCIG
+IVIG (0.4-2.9)
+IVIG (0.4-2.9)
+SCIG
+SCIG
+IVIG (0.4-2.9)
+IVIG (50-2,500)§
+IVIG
+(100-2,500){
+IVIG (<50)
+IVIG
+(50-2,500){
+IVIG
+(<50-2,500){
+SCIG
+
+SCIG
+SCIG
+SCIG
+IVIG
+
+Reference
+
+24
+10
+25
+26
+11
+12
+12
+12
+27
+28
+28
+12
+12
+20
+28
+30
+30, 31
+30
+30
+30
+29
+8
+32
+13
+13
+13
+33
+
+ANA, Anaphylaxis; F, female; IMIG, intramuscular immunoglobulin; M, male; MOD, moderate systemic symptoms, including abdominal pain, myalgia, nausea, fever, and rigors;
+PGI, particle gel immunoassay; UK, unknown.
+*Expressed as micrograms per milliliter.
+Patient with IgE anti-IgA.
+àPremedicated with steroids and antihistamine.
+§IVIG was well tolerated when anti-IgA titer was no more detectable.
+{IVIG with increased IgA content was well tolerated when anti-IgA titer was no more detectable.
+jjYes indicates anti-IgA is present, titer not specified.
+
+and have been less frequently studied (see below). In addition,
+there are examples of patients with anti-IgA who tolerate many
+exposures to IgA-containing blood products (also see the next
+section) or even infusion of purified IgA.
+
+IgG ANTI-IgA ANTIBODIES NOT ASSOCIATED WITH
+ADVERSE REACTIONS
+The literature cited above contained some patients with antiIgA antibodies who reacted to gamma globulin but more who
+did not. A few studies have focused on patients with anti-IgA
+who tolerated gamma globulin.14,17,25,34,35 We have found reports of a total of 49 IgA-deficient patients with IgG anti-IgA
+who tolerated gamma globulin. The IgA level was less than 7
+mg/dL in 37 (76%) of the patients; the level was not stated for
+12 others. The characteristics of these patients are summarized
+in Table II.* Some reports also omitted details, such as age,
+sex, and the specificity and titer of IgG anti-IgA. More than
+*References 12–14, 17, 20, 24, 25, 29, 32, 35, and 36.
+
+70% of patients had CVID, and the others had diagnoses including unspecified hypogammaglobulinemia, SIGAD, IGG2D, and
+unspecified ‘‘primary immunodeficiency.’’ There were no patients noted in the pediatric age group; however, age was not
+stated for two thirds of these patients. Sixty-five percent of these
+patients tolerated IVIG, intramuscular immunoglobulin, or both,
+and the others only received SCIG. The IgA content for most infusions was not stated, but many patients were reported to toler>500 mg/mL).
+ate IVIG with an increased IgA concentration (_
+IgG anti-IgA specificity was only reported in 18% of these patients (6 subclass and 3 class specific).
+
+IGE ANTIBODIES TO IGA
+A few studies have reported adverse reactions to blood
+products associated with anti-IgA antibodies of the IgE class.
+Burks et al11 reported 2 patients with CVID and undetectable IgA
+with IgE anti-IgA (specificity unknown). One had anaphylaxis
+with IVIG and 1 with IgA-deficient plasma. They subsequently
+tolerated IVIG products with a lower content of IgA. Both
+
+RACHID AND BONILLA 631
+
+J ALLERGY CLIN IMMUNOL
+VOLUME 129, NUMBER 3
+
+TABLE II. Characteristics of IgA-deficient patients with IgG anti-IgA antibodies tolerating gamma globulin products
+Patient
+no.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+Age (y)
+
+Sex
+
+Diagnosis
+
+IgA
+(mg/dL)
+
+IgG anti-IgA titer
+
+Method
+
+Specificity
+
+Product tolerated/IgA
+content*
+
+Reference
+
+49
+UK
+46
+40
+UK
+UK
+44
+UK
+31
+UK
+UK
+UK
+50
+53
+UK
+UK
+UK
+UK
+42
+UK
+55
+60
+60
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+
+F
+F
+F
+M
+M
+M
+M
+UK
+M
+M
+M
+UK
+F
+F
+UK
+UK
+UK
+UK
+M
+UK
+F
+F
+M
+M
+M
+F
+M
+M
+M
+F
+F
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+F
+M
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+
+CVID
+CVID
+Hypogam
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+SIGAD
+SIGAD
+PID
+PID
+PID
+PID
+CVID
+CVID
+CVID
+CVID
+CVID
+Hypogam
+Hypogam
+Hypogam
+SIGAD
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+IGG2D
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+CVID
+SIGAD
+
+<7
+UK
+<0.001
+<0.09
+UK
+UK
+<0.09
+1.6
+<0.09
+UK
+UK
+1.6
+<0.05
+<0.05
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+0.002
+0.003
+<5
+<5
+<5
+<5
+<0.1
+<0.1
+<0.1
+<0.1
+<5
+<5
+<5
+<5
+<5
+<5
+<5
+<0.1
+<0.1
+<5
+<5
+<5
+<5
+<5
+<5
+<5
+<5
+<5
+
+1:524,000
+1:3,200
+1:2,000
+1:800
+1:640
+1:320
+1:200
+1:200
+1:100
+1:80
+1:50
+1:50
+1:32
+1:32
+1:8-256
+1:8-256
+1:8-256
+1:8-256
+1:8
+1:4
+1:2
+3.98 mg/mL
+0.461 mg/mL
+31
+31
+31
+31
+Yesà
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+PHA
+ELISA
+PHA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+PGI
+PGI
+PHA
+PHA
+PHA
+PHA
+PGI
+PGI
+PGI
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+PHA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+ELISA
+
+UK
+UK
+Class
+UK
+UK
+UK
+UK
+Class
+UK
+UK
+UK
+Limited
+UK
+UK
+Limited
+Limited
+Limited
+Limited
+UK
+UK
+UK
+Class
+Limited
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+
+IVIG/18
+IVIG/540
+IMIG
+IVIG/SCIG
+IVIG/540
+IVIG/540
+IVIG
+IVIG/IMIG
+IVIG/SCIG
+IVIG/540
+IVIG/540
+IVIG
+IVIG/100-500
+IVIG/100-500
+IMIG or IVIG
+IMIG or IVIG
+IMIG or IVIG
+IMIG or IVIG
+IVIG/100-500
+IVIG/100-500
+IVIG/100-500
+SCIG
+SGIG
+SCIG
+SCIG
+SCIG
+SCIG
+IVIG
+IVIG
+IVIG
+IVIG
+IVIG/<20
+IVIG/<20
+IVIG/<20
+IVIG/<20
+IVIG/<20
+IVIG/<20
+IVIG/<20
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+SCIG
+
+36
+17
+14
+12
+17
+17
+12
+25
+12
+17
+17
+25
+20
+20
+32
+32
+32
+32
+20
+20
+20
+29
+29
+35
+35
+35
+35
+13
+13
+13
+13
+24
+24
+24
+24
+24
+24
+24
+13
+13
+35
+35
+35
+35
+35
+35
+35
+35
+35
+
+F, Female; Hypogam, hypogammaglobulinemia; IMIG, intramuscular immunoglobulin; M, male; PGI, particle gel immunoassay; PID, primary immunodeficiency; UK, unknown
+(in the column ‘‘IgA level,’’ UK indicates that the actual IgA level was not stated clearly in the report).
+*Expressed as micrograms per millimeter.
+Indicates that the titer was read as strongly positive on a semiquantitative scale.
+àYes indicates anti-IgA present, titer not specified.
+
+patients also had high-titer IgG anti-IgA (specificity unknown).
+IgE anti-IgA was not detected in 20 healthy control subjects, in
+10 patients with CVID without adverse reactions to IVIG, and
+in 10 atopic patients with increased serum IgE levels. In 1 of these
+patients, the presence of IgE anti-IgA was not replicated in another study using a similar ELISA method.24
+
+Ferreira et al25 found subclass-specific IgE anti-IgA1 by means
+of ELISA in 1 patient with CVID having high-titer class-specific
+IgG anti-IgA. This patient had anaphylaxis with IVIG, which was
+discontinued, and further therapy was refused. Both IgG and IgE
+anti-IgA antibodies disappeared after cessation of therapy. In a
+follow-up study these authors reported a patient with hyper-IgM
+
+632 RACHID AND BONILLA
+
+syndrome, a diagnosis that is generally not compatible with an
+ability to produce specific IgE, who was not found to have IgG
+anti-IgA but had subclass-specific IgE anti-IgA1. This patient tolerated IVIG.15
+Limaye et al36 reported a patient with CVID with IgA levels of
+less than 7 mg/dL and an increased IgG anti-IgA titer who had a
+history of 2 anaphylactic reactions to blood products. Before
+IVIG therapy, she underwent skin testing with 2 different IVIG
+concentrations. They did not measure IgE anti-IgA levels but
+did report a positive skin test result (‘‘inflammation at 30 minutes’’) with an IVIG product containing between 61 and 540
+mg/mL IgA and a negative skin prick test result with an IVIG product with a lower IgA content (18 mg/mL). The patient tolerated
+treatment with the latter.
+Bjorkander et al24 found IgG anti-IgA in 74 immunodeficient
+patients with IgA levels of less than 5 mg/dL, 8 of whom were receiving IVIG (IgA level, <20 mg/mL). One of these patients had
+anaphylaxis, whereas the other patients tolerated their IVIG infusions. None had IgE anti-IgA,24 including 1 patient who was reported to be IgE anti-IgA positive by Burks et al.11 The
+discrepancy could not be resolved because both ELISA systems
+had comparable sensitivity (1 ng/mL). De Albuquerque Campos
+et al17 found IgG anti-IgA in 5 of 20 patients with CVID, 18 of
+whom received gamma globulin; none of these had IgE antiIgA by means of ELISA. Homburger et al19 did not find any
+patients with IgE anti-IgA among 20 with IgG class-specific or
+subclass-specific anti-IgA. Nadorp et al18 also did not detect
+IgE anti-IgA by means of radioimmunoelectrophoresis and documented negative skin test results with purified IgA in 7 patients
+with IgG anti-IgA, including 1 with class-specific IgG anti-IgA
+who had anaphylaxis with intravenous injection of purified IgA
+(see above). The patients in the last 2 studies were not reported
+to receive immunoglobulin therapy.
+We have evaluated 22 immunodeficient patients with IgA
+levels of less than 5 mg/dL receiving immunoglobulin
+therapy. One patient (patient 17, Table I) had class-specific
+IgG anti-IgA antibodies and a history of anaphylaxis to
+IVIG. One other patient had class-specific IgG anti-IgA,
+and a third had subclass-specific IgG anti-IgA2 (patients 22
+and 23, Table II). Both of these patients only received
+SCIG, which was well tolerated. None of the 22 patients
+evaluated had IgE anti-IgA antibodies by means of ImmunoCAP or ELISA.29
+Thus IgE anti-IgA has been less frequently studied than IgG
+anti-IgA. When both have been studied together, anti-IgA of the
+IgE class occurs much less frequently than IgG. As detailed at the
+beginning of this section, we found 4 patients described in the
+literature who were reported to have IgE anti-IgA antibodies.11,15,25 Three of them have had anaphylactic reactions to
+gamma globulin or another blood product and also had IgG
+anti-IgA. It is therefore unclear which antibody (if either) is responsible for the reactions in these patients.
+
+IgG SUBCLASSES OF ANTI-IgA ANTIBODIES
+Bjorkander et al24 measured IgG subclasses of anti-IgA antibodies in 74 immunodeficient patients with IgA levels of less
+than 5 mg/dL. All had IgG1 anti-IgA, and IgG2 anti-IgA occurred
+in 26%, IgG3 occurred in 15%, and IgG4 occurred in 30%. Du Albuquerque Campos et al17 measured subclasses of IgG anti-IgA in
+5 patients. Similarly, all had IgG1, 2 also had IgG2 and IgG4, and
+
+J ALLERGY CLIN IMMUNOL
+MARCH 2012
+
+1 also had IgG2, IgG3, and IgG4. Only 1 patient had an anaphylactic reaction to IVIG, and no correlation with IgG subclass of antiIgA was noted. Similarly, Hammarstrom et al37 measured IgG
+subclasses of anti-IgA antibodies in 7 patients; all had IgG1,
+and some had varying amounts of other subclasses of IgG (IgG2
+> IgG4 > IgG3).
+
+OTHER CLASSES OF ANTI-IgA ANTIBODIES
+Very few studies have looked for classes of anti-IgA antibodies
+other than IgG or IgE. In patients with absent serum IgA and having
+IgG anti-IgA, Bjorkander et al24 also found IgM anti-IgA in 15%
+and IgD anti-IgA in 9%. There was no clinical correlation with
+these classes of anti-IgA, and no patient who did not make IgG
+anti-IgA produced an anti-IgA of another class. Ferreira et al25 reported a single patient among 106 healthy blood donors with
+subclass-specific IgM anti-IgA1 who did not have IgG anti-IgA.
+VARIABILITY OVER TIME
+Several studies have observed increasing titers of IgG (or IgE)
+anti-IgA before an anaphylactic reaction.10,11,24,26 Furthermore,
+some studies found decreasing levels of IgG anti-IgA after continued therapy either with IVIG or SCIG.10,11,26,30,35,36
+Sundin et al35 followed 40 patients with IgA deficiency and IgG
+anti-IgA for an average of 14 years. Anti-IgA persisted in 36 and
+disappeared in 4 patients. Thirteen patients (2 with IgA deficiency
+and 11 with CVID) were treated with SCIG. For 7 of these patients, SCIG contained up to 5 mg/mL IgA, whereas for the other
+6 patients, SCIG contained less than 80 mg/mL IgA. The anti-IgA
+disappeared in patients receiving SCIG with high IgA content,
+whereas it persisted in those who received the low IgA product.
+We found 1 patient with CVID and class-specific IgG anti-IgA
+that doubled during a 6-month observation period while being
+treated without adverse reactions with SCIG.29
+COMPARISON OF DIFFERENT METHODS FOR
+MEASURING IgG ANTI-IgA ANTIBODIES
+Several studies have compared different methods of measuring
+IgG anti-IgA antibodies in the same groups of patients.11,19,35,38
+The methods compared included PHA, ELISA, IRMA, MIA,
+and flow cytometric platform solid immunoassays. Some consider the ELISA and MIA methods slightly more sensitive than
+PHA.38 We have found good correlation between ELISA, PHA,
+and a fluorescent bead method.29 For measurement of IgG antiIgA levels, the PHA, IRMA, and fluorescent bead methods are
+available commercially from reference laboratories.
+Mainly ELISA methods have been used to measure IgE antiIgA. ImmunoCap has also been used in our study29; no IgE antiIgA was found in 3 patients with IgG anti-IgA, one of whom had
+anaphylaxis with IVIG.
+CONCLUSION
+The role of IgG or IgE anti-IgA antibodies in anaphylaxis in
+IgA-deficient patients receiving gamma globulin therapy remains
+controversial. Anaphylaxis has been reported in IgA-deficient
+patients when these antibodies were not detected,13 and many patients with these antibodies can tolerate gamma globulin infusion.
+Nevertheless, it is possible that IgG anti-IgA antibodies could
+have a role in very rare anaphylactic reactions to IgG therapy.
+
+J ALLERGY CLIN IMMUNOL
+VOLUME 129, NUMBER 3
+
+There might be a threshold phenomenon because among cases
+reported in the literature, most appear to be associated with the
+highest levels measured. There might also be a role for the amount
+of IgA in the infused IgG because some who reacted tolerated
+infusions with products containing less IgA. It is possible that
+low-IgA-content products do not lead to a sufficient concentration
+of IgG-IgA immune complexes to provoke a reaction in the
+recipient. However, it is also possible that some other characteristic of low-IgA-content products causes them to be better
+tolerated. Most reported cases of anaphylaxis with anti-IgA
+appear to occur in adults, and there might be a role of prolonged
+exposure over time, leading to increased levels that eventually
+precipitate a reaction. Class-specific antibodies are found in the
+majority of reacting patients, and all reported IgA-deficient
+patients with IgG anti-IgA of limited specificity tolerate their
+infusions. Of note, we have not found reports of fatal anaphylaxis
+from gamma globulin infusion, regardless of IgA status. Subcutaneous infusions appear to be tolerated by patients with anti-IgA
+antibodies. We found no reports of anaphylactic reactions to
+SCIG in IgA-deficient patients, and several patients with IgG antiIgA antibodies have been found to tolerate SCIG without any
+adverse effects. Larger multicenter studies are needed to evaluate
+the role of these antibodies and their association with the rare
+anaphylactic reactions to gamma globulin. Animal models might
+be helpful in providing a proof of principle and identifying
+possible mechanisms.
+IgG therapy should never be withheld from an IgA-deficient
+patient solely because of concern for the theoretic risk of a rare
+serious adverse reaction. There are insufficient data to warrant a
+general recommendation for screening for anti-IgA antibodies in
+these patients. The predictive value of a positive result of any level
+is not established, although there might be increased risk at higher
+levels. In any patient, regardless of IgA level, who is having
+significant systemic symptoms with IVIG, switching to SCIG
+should be considered. If an IgA-deficient patient is reacting to
+IVIG and SCIG is not an option (eg, the patient requires high antiinflammatory doses of IVIG), use of a low-IgA-content product
+should be considered. The presence of a high level of IgG antiIgA antibodies could support such a choice.
+REFERENCES
+1. Bonilla FA, Bernstein IL, Khan DA, Ballas ZK, Chinen J, Frank MM, et al. Practice parameter for the diagnosis and management of primary immunodeficiency.
+Ann Allergy Asthma Immunol 2005;94(suppl):S1-63.
+2. Vyas GN, Perkins HA, Yang YM, Basantani GK. Healthy blood donors with selective absence of immunoglobulin A: prevention of anaphylactic transfusion reactions caused by antibodies to IgA. J Lab Clin Med 1975;85:838-42.
+3. Clark JA, Callicoat PA, Brenner NA, Bradley CA, Smith DM Jr. Selective IgA deficiency in blood donors. Am J Clin Pathol 1983;80:210-3.
+4. Cassidy JT, Burt A, Petty R, Sullivan D. Selective IgA deficiency in connective tissue diseases. N Engl J Med 1969;280:275.
+5. Cassidy JT, Nordby GL. Human serum immunoglobulin concentrations: prevalence of immunoglobulin deficiencies. J Allergy Clin Immunol 1975;55:35-48.
+6. Sandler SG, Eckrich R, Malamut D, Mallory D. Hemagglutination assays for the
+diagnosis and prevention of IgA anaphylactic transfusion reactions. Blood 1994;
+84:2031-5.
+7. Brennan VM, Salome-Bentley NJ, Chapel HM. Prospective audit of adverse reactions occurring in 459 primary antibody-deficient patients receiving intravenous
+immunoglobulin. Clin Exp Immunol 2003;133:247-51.
+8. Vyas GN, Perkins HA, Fudenberg HH. Anaphylactoid transfusion reactions associated with anti-IgA. Lancet 1968;2:312-5.
+9. Johansson SG, Bieber T, Dahl R, Friedmann PS, Lanier BQ, Lockey RF, et al. Revised nomenclature for allergy for global use: Report of the Nomenclature Review
+Committee of the World Allergy Organization, October 2003. J Allergy Clin Immunol 2004;113:832-6.
+
+RACHID AND BONILLA 633
+
+10. Cunningham-Rundles C, Wong S, Bjorkander J, Hanson LA. Use of an IgAdepleted intravenous immunoglobulin in a patient with an anti-IgA antibody.
+Clin Immunol Immunopathol 1986;38:141-9.
+11. Burks AW, Sampson HA, Buckley RH. Anaphylactic reactions after gamma globulin administration in patients with hypogammaglobulinemia. Detection of IgE antibodies to IgA. N Engl J Med 1986;314:560-4.
+12. Horn J, Thon V, Bartonkova D, Salzer U, Warnatz K, Schlesier M, et al. Anti-IgA
+antibodies in common variable immunodeficiency (CVID): diagnostic workup and
+therapeutic strategy. Clin Immunol 2007;122:156-62.
+13. Eijkhout HW, van den Broek PJ, van der Meer JW. Substitution therapy in immunodeficient patients with anti-IgA antibodies or severe adverse reactions to previous immunoglobulin therapy. Neth J Med 2003;61:213-7.
+14. Koistinen J, Heikkila M, Leikola J. Gammaglobulin treatment and anti-IgA antibodies in IgA-deficient patients. BMJ 1978;2:923-4.
+15. Ferreira A, Garcia Rodriguez MC, Fontan G. Follow-up of anti-IgA antibodies in
+primary immunodeficient patients treated with gamma-globulin. Vox Sang 1989;
+56:218-22.
+16. Koistinen J, Cardenas RM, Fudenberg HH. Anti-IgA antibodies of limited specificity in healthy IgA deficient subjects. J Immunogenet 1977;4:295-300.
+17. de Albuquerque Campos R, Sato MN, da Silva Duarte AJ. IgG anti-IgA subclasses in common variable immunodeficiency and association with severe adverse reactions to intravenous immunoglobulin therapy. J Clin Immunol 2000;
+20:77-82.
+18. Nadorp JH, Voss M, Buys WC, van Munster PJ, van Tongeren JH, Aalberse RC,
+et al. The significance of the presence of anti-IgA antibodies in individuals with
+an IgA deficiency. Eur J Clin Invest 1973;3:317-23.
+19. Homburger HA, Smith JR, Jacob GL, Laschinger C, Naylor DH, Pineda AA. Measurement of anti-IgA antibodies by a two-site immunoradiometric assay. Transfusion 1981;21:38-44.
+20. Salama A, Schwind P, Schonhage K, Genth R, Cotting C, Hustinx H, et al. Rapid
+detection of antibodies to immunoglobulin A molecules by using the particle gel
+immunoassay. Vox Sang 2001;81:45-8.
+21. Rumilla KM, Winters JL, Peterman JM, Jedynak EA, Homburger HA. Development and validation of a fluorescent microsphere immunoassay for anti-IgA. Immunohematology 2009;25:24-8.
+22. Petty RE, Sherry DD, Johannson J. Anti-IgA antibodies in pregnancy. N Engl J
+Med 1985;313:1620-5.
+23. Rivat L, Rivat C, Daveau M, Ropartz C. Comparative frequencies of anti-IgA antibodies among patients with anaphylactic transfusion reactions and among normal
+blood donors. Clin Immunol Immunopathol 1977;7:340-8.
+24. Bjorkander J, Hammarstrom L, Smith CI, Buckley RH, Cunningham-Rundles C,
+Hanson LA. Immunoglobulin prophylaxis in patients with antibody deficiency syndromes and anti-IgA antibodies. J Clin Immunol 1987;7:8-15.
+25. Ferreira A, Garcia Rodriguez MC, Lopez-Trascasa M, Pascual Salcedo D, Fontan
+G. Anti-IgA antibodies in selective IgA deficiency and in primary immunodeficient
+patients treated with gamma-globulin. Clin Immunol Immunopathol 1988;47:
+199-207.
+26. Hedderich U, Kratzsch G, Stephen W, Dichtelmuller H, Olischlager K, Heimpel H.
+Immunoglobulin substitution therapy in a patient with primary hypogammaglobulinaemia and anti-IgA antibodies. Clin Allergy 1986;16:339-44.
+27. Frankel SJ, Polmar SH, Grumet FC, Wedner HJ. Anti-IgA antibody associated reactions to intravenous gammaglobulin in a patient who tolerated intramuscular
+gammaglobulin. Ann Allergy 1986;56:436-9.
+28. Cunningham-Rundles C, Zhou Z, Mankarious S, Courter S. Long-term use of IgAdepleted intravenous immunoglobulin in immunodeficient subjects with anti-IgA
+antibodies. J Clin Immunol 1993;13:272-8.
+29. Rachid R, Castells M, Cunningham-Rundles C, Bonilla FA. Association of antiIgA antibodies with adverse reactions to g-globulin infusion. J Allergy Clin Immunol 2011;128:228-30, e1.
+30. Ahrens N, Hoflich C, Bombard S, Lochs H, Kiesewetter H, Salama A. Immune tolerance induction in patients with IgA anaphylactoid reactions following long-term
+intravenous IgG treatment. Clin Exp Immunol 2008;151:455-8.
+31. Salama A, Temmesfeld B, Hippenstiel S, Kalus U, Suttorp N, Kiesewetter H. A
+new strategy for the prevention of IgA anaphylactic transfusion reactions. Transfusion 2004;44:509-11.
+32. Ropars C, Caldera LH, Griscelli C, Homberg JC, Salmon C. Anti-immunoglobulin
+antibodies in immunodeficiencies: their influence on intolerance reactions to
+gamma-globulin administration. Vox Sang 1974;27:294-301.
+33. Seligmann M, Aucouturier P, Danon F, Preud’Homme JL. Changes in serum immunoglobulin patterns in adults with common variable immunodeficiency. Clin
+Exp Immunol 1991;84:23-7.
+34. Bjorkander J, Wadsworth C, Hanson LA. 1040 Prophylactic infusions with an unmodified intravenous immunoglobulin product causing few side-effects in patients
+with antibody deficiency syndromes. Infection 1985;13:102-10.
+
+634 RACHID AND BONILLA
+
+35. Sundin U, Nava S, Hammarstrom L. Induction of unresponsiveness against IgA in
+IgA-deficient patients on subcutaneous immunoglobulin infusion therapy. Clin Exp
+Immunol 1998;112:341-6.
+36. Limaye S, Walls RS, Riminton S. Safe and effective use of chromatographically
+purified intravenous immunoglobulin despite profound anti-IgA sensitization. Intern Med J 2001;31:256-7.
+
+J ALLERGY CLIN IMMUNOL
+MARCH 2012
+
+37. Hammarstrom L, Persson MA, Smith CI. Anti-IgA in selective IgA deficiency.
+in vitro effects and Ig subclass pattern of human anti-IgA. Scand J Immunol
+1983;18:509-13.
+38. Syrjala MT, Tolo H, Koistinen J, Krusius T. Determination of anti-IgA antibodies
+with a flow cytometer-based microbead immunoassay (MIA). J Immunol Methods
+1991;139:265-70.
+
+

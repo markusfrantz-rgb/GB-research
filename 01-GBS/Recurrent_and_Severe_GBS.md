@@ -1,13 +1,13 @@
 ---
 doc_type: research
-date: 2026-03-24
+date: 2026-03-25
 status: active
 ---
 
 # Recurrent and Severe Guillain-Barre Syndrome: A Comprehensive Evidence Review
 
 > **Purpose**: Clinical knowledge base for treating physicians managing recurrent GBS, severe/fulminant GBS, treatment-refractory cases, and associated ICU complications.
-> **Last Updated**: 2026-03-24
+> **Last Updated**: 2026-03-25
 
 ---
 
@@ -140,6 +140,35 @@ A 77-year-old woman with pharyngeal-cervical-brachial variant R-GBS:
   - Liu et al. (2025): All three episodes showed "severe axonal damage with concurrent demyelinating features" -- the subtype remained consistent
 
 **Clinical relevance**: Clinicians should not rule out R-GBS solely because the electrophysiological subtype differs from the prior episode. Phenotypic heterogeneity between episodes is well documented.
+
+### 1.8 Risk Factors for Recurrence
+
+A retrospective study of 320 GBS patients (302 monophasic, 18 RGBS) at Zhengzhou University (2014-2020) identified independent risk factors for recurrence through multivariate logistic regression analysis: *[Level 3 — retrospektiv analys, n=320]*
+
+**Independent risk factors (multivariate analysis):**
+
+| Risk Factor | Odds Ratio | 95% CI | P value |
+|-------------|-----------|--------|---------|
+| Antecedent illness | 5.37 | 1.32-21.90 | .019 |
+| AIDP subtype | 5.37 | 1.09-26.58 | .039 |
+| Elevated TSH | 3.90 | 2.07-7.34 | <.001 |
+
+**TSH as a biomarker for recurrence risk:**
+- RGBS patients had significantly higher TSH: median 4.42 vs 1.81 uIU/mL (P < .001)
+- ROC analysis: TSH > 3.87 uIU/mL predicted recurrence with **88.9% sensitivity and 90.4% specificity** (AUC 0.899, Youden index 0.793)
+- **FT3 was significantly lower in RGBS patients:** median 4.40 vs 4.89 pmol/L (P = .022), though FT3 was not independently significant in multivariate analysis
+- Proposed mechanism: elevated TSH is associated with increased oxidative stress (elevated malondialdehyde, increased reactive oxygen species), which mediates demyelination and axonal injury via MAP kinase pathway activation in Schwann cells
+
+**Other univariate associations with recurrence (not independent in multivariate):**
+- Younger age at onset: median 46.5 vs 51.5 years (P = .044)
+- Shorter time from onset to nadir: median 5 vs 7 days (P = .039)
+- Lower HFGS at nadir: median 2 vs 3 (P = .041)
+
+**Recurrence rate:** 6.0% in this cohort (18/320), consistent with previously reported rates of 2-6%.
+
+> Wang S, Luo Z, Peng T. Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome. *Muscle Nerve*. 2022;65(6):688-692. PMID: 35342963
+
+**Cross-reference:** For detailed analysis of TSH, FT3, thyroid autoantibodies, and the levothyroxine-trigger hypothesis, see [Hashimoto-IgAD-GBS Autoimmune Cluster](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md), Section 2.3.
 
 ---
 
@@ -772,7 +801,7 @@ SCIG at replacement doses (e.g., Gamanorm ~100 mg/kg/week) provides continuous l
 
 | Study | Finding |
 |-------|---------|
-| **PATH trial** (van Schaik, *Lancet Neurol* 2018) | SCIG 0.4 g/kg: 77.6% relapse-free vs 41.2% placebo. NNT = 2.7 |
+| **PATH trial** (van Schaik, *Lancet Neurol* 2018; PMID: 29122523) | Phase 3 RCT, n=172, 69 centers. IgPro20 (20% SCIg) weekly x 24 wk. Relapse/withdrawal: placebo 63%, low dose (0.2 g/kg/wk) 39% (p=0.007), high dose (0.4 g/kg/wk) 33% (p=0.001). NNT ~4 (low dose), ~3.3 (high dose). Well tolerated. |
 | **ICE trial** (Hughes, *Lancet Neurol* 2008) | IVIg maintenance: significantly fewer CIDP relapses over 48 weeks |
 | **Adrichem** (*Brain* 2022) | After IVIg withdrawal in stable CIDP: 59% relapsed (majority within 12 weeks). Only 28% stable at 76 weeks |
 
@@ -893,10 +922,12 @@ After the acute phase resolves, SCIG reinstatement is supported by dual indicati
 
 35. Walgaard C, Lingsma HF, van Doorn PA, et al. Tracheostomy or Not: Prediction of Prolonged Mechanical Ventilation in Guillain-Barre Syndrome. *Neurocrit Care*. 2017;26(2):228-235. doi:10.1007/s12028-016-0311-5
 
-36. Ward DM, Grupp C, Tiede A. Fibrinogen reduction and bleeding complications in plasma exchange, immunoadsorption and a combination of the two. *Vox Sang*. 2015;108(3):262-270. doi:10.1111/vox.12219
+36. Wang S, Luo Z, Peng T. Serum thyroid-stimulating hormone is an independent risk factor of recurrent Guillain-Barre syndrome. *Muscle Nerve*. 2022;65(6):688-692. doi:10.1002/mus.27539. PMID: 35342963
 
-37. Wijdicks EF, Ropper AH. Acute relapsing Guillain-Barre syndrome after long asymptomatic intervals. *Arch Neurol*. 1990;47(1):82-84. doi:10.1001/archneur.1990.00530010098024
+37. Ward DM, Grupp C, Tiede A. Fibrinogen reduction and bleeding complications in plasma exchange, immunoadsorption and a combination of the two. *Vox Sang*. 2015;108(3):262-270. doi:10.1111/vox.12219
 
-38. Wodajo AB, Goel R, Engel ER, et al. A lower fibrinogen threshold does not lead to increased bleeding risk in patients receiving therapeutic plasma exchange. *Transfusion*. 2024;64(7):1215-1223. doi:10.1111/trf.17865
+38. Wijdicks EF, Ropper AH. Acute relapsing Guillain-Barre syndrome after long asymptomatic intervals. *Arch Neurol*. 1990;47(1):82-84. doi:10.1001/archneur.1990.00530010098024
 
-39. Xie Q, Chen W, Lin Y, et al. Recurrent Guillain-Barre syndrome presenting as pharyngeal-cervical-brachial variant with three species of ganglioside antibodies. *BMC Neurol*. 2022;22(1):446. doi:10.1186/s12883-022-02955-0
+39. Wodajo AB, Goel R, Engel ER, et al. A lower fibrinogen threshold does not lead to increased bleeding risk in patients receiving therapeutic plasma exchange. *Transfusion*. 2024;64(7):1215-1223. doi:10.1111/trf.17865
+
+40. Xie Q, Chen W, Lin Y, et al. Recurrent Guillain-Barre syndrome presenting as pharyngeal-cervical-brachial variant with three species of ganglioside antibodies. *BMC Neurol*. 2022;22(1):446. doi:10.1186/s12883-022-02955-0
