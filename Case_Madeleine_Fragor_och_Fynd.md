@@ -40,19 +40,22 @@ status: active
 | 2026-03-25 (em)  | Sedering lattad for att bedoma spontanandning (diafragmafunktion). |
 | 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
 | 2026-03-26 (fm) | **Lab:** TSH mycket lågt, fT4 10-12 pmol/L (låg-normal). Sannolikt sick euthyroid syndrome. fT3 beställd — avgörande för nervregeneration. |
-| 2026-03-26 (plan) | PE session 5 planerad (sista av 5). |
+| 2026-03-26 (em) | Sedering lattad — neurologisk bedomning: sa gott som obefintliga reaktioner. Svag pupillreaktion vid ljus (hjarenstamsfunktion bevarad). CT/MR planeras for att utesluta centrala orsaker. |
+| 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat. |
+| 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
 
-### Nuvarande status (2026-03-26 fm)
+### Nuvarande status (2026-03-26 em)
 
 - **Respirator:** Ja, beroende. Spontanandningstest under bedomning.
 - **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 1 post-trakeostomi)
-- **Medvetande:** Sedering lattas for neurologisk bedomning efter PE4. Tidigare vid lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
+- **Medvetande:** Sedering lattad for neurologisk bedomning. Sa gott som obefintliga neurologiska reaktioner. Svag pupillreaktion vid ljus (hjarenstamsfunktion bevarad). OBS: kvarvarande sederingseffekt kan maskera sant neurologiskt status (24-48h kravs for full bedomning).
 - **Autonom dysfunktion:** Bekraftad — blodtrycksinstabilitet, anisokori, feber
 - **Koagulopati:** PE-relaterad, monitoreras
 - **Temp:** 37,5°C (mojlig PE-relaterad)
-- **Behandling given:** 4 PE-sessioner (av 5). PE5 planerad.
+- **Behandling given:** 4 PE-sessioner (av 5). PE5 planerad 2026-03-27.
 - **Lab (2026-03-26):** TSH mycket lagt, fT4 10-12 pmol/L (lag-normal). fT3 bestald. Sannolikt sick euthyroid syndrome. Levotyroxin fortsatter i nuvarande dos, ges EFTER PE.
-- **Ny diagnostik bestald:** fT3-monitorering paborjad.
+- **Ny diagnostik bestald:** fT3-monitorering paborjad. CT/MR planerad (utesluta centrala orsaker).
+- **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Teamet engagerat och bollar strategier.
 
 ---
 

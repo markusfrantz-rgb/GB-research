@@ -72,7 +72,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-25 fm | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad (BP-instabilitet, anisokori). |
 | 2026-03-25 em | Sedering lättad för att bedöma spontanandning (diafragmafunktion). Levotyroxin ges. Luftrörsvidgande insatt. Allergimedel pågår. |
 | 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
-| 2026-03-26 (plan) | PE session 5 planerad (sista av 5). |
+| 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion (hjärnstam bevarad). CT/MR planeras. Plan B diskuterad med neurolog + specialist — teamet engagerat. |
+| 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
 
 ### Kommunikation
 
