@@ -248,12 +248,14 @@ def _postprocess_html(html):
 
     html = re.sub(r'<a\s+href="https?://[^"]*"[^>]*>', _ext_link, html)
 
-    # Make /source/ links open in new tab
+    # Make /source/ PDF links open in new tab (native viewer), text links stay in same tab (our HTML wrapper)
     def _source_link(m):
         tag = m.group(0)
         if 'target=' in tag:
             return tag
-        return tag.replace('<a ', '<a target="_blank" rel="noopener" ')
+        if '.pdf' in tag.lower():
+            return tag.replace('<a ', '<a target="_blank" rel="noopener" ')
+        return tag
 
     html = re.sub(r'<a\s+href="/source/[^"]*"[^>]*>', _source_link, html)
 
