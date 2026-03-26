@@ -217,27 +217,27 @@ def _source_badge(ref_id):
 
 def _postprocess_html(html):
     """Add target=_blank to external links, linkify PMID/PMC, add local source badges."""
-    # Linkify PMID references (skip those already inside an <a> tag)
+    # Linkify PMID references (skip those inside URLs or existing links)
     def _pmid_repl(m):
-        if m.group(1):  # preceded by "> — already inside a link
+        if m.group(1):  # preceded by chars that mean we're inside a URL or tag
             return m.group(0)
         pmid = m.group(2)
         link = (f'PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/{pmid}/"'
                 f' target="_blank" rel="noopener" class="ext-link">{pmid}</a>')
         return link + _source_badge(pmid)
 
-    html = re.sub(r'(">)?PMID:\s*(\d+)', _pmid_repl, html)
+    html = re.sub(r'([a-zA-Z0-9_/">])?PMID:\s*(\d+)', _pmid_repl, html)
 
-    # Linkify PMC references (skip those already inside an <a> tag or URL)
+    # Linkify PMC references (skip those inside URLs, filenames or existing links)
     def _pmc_repl(m):
-        if m.group(1):  # preceded by / or " — part of URL or link
+        if m.group(1):  # preceded by alphanumeric, _, / or " — part of URL/filename
             return m.group(0)
         pmc_id = m.group(2)
         link = (f'<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC{pmc_id}/"'
                 f' target="_blank" rel="noopener" class="ext-link">PMC{pmc_id}</a>')
         return link + _source_badge(f"PMC{pmc_id}")
 
-    html = re.sub(r'(["/])?PMC(\d{5,})', _pmc_repl, html)
+    html = re.sub(r'([a-zA-Z0-9_/"])?PMC(\d{5,})', _pmc_repl, html)
 
     # Make all <a href="http..."> open in new tab with ext-link class
     def _ext_link(m):
