@@ -1,0 +1,657 @@
+THERAPEUTIC ADVANCES  in 
+Neurological Disorders Plain Language Summary of Publication
+© The Author(s), 2026.
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202Efgartigimod as a treatment for people 
+with chronic inflammatory demyelinating 
+polyradiculoneuropathy (CIDP): a plain language 
+summary of publication of the ADHERE trial
+Jeffrey A. Allen1, Luis Querol2,3, Niraja Suresh4, Anneleen Remmerie5, Trevor Mole5, Kelly McCoy6,7 
+Lisa Butler7, Benjamin van Hoorick5, Satoshi Kuwabara8, Pieter A. van Doorn9 and Richard A. Lewis10
+Received: 18 August  2025; Revised article accepted: 21 November 2025Article reuse guidelines: sagepub.com/journalspermissions
+Summary
+1Department of Neurology, University of Minnesota, Minneapolis, MN, USA; 2Department of Neurology, Neuromuscular Diseases Unit, Hospital de La Santa Creu i Sant Pau, Universitat Autònoma de Barcelona, Barcelona, Spain; 
+3Centro De Investigación Biomédica en Red en Enfermedades Raras (CIBERER), Madrid, Spain; 4Lakeland Regional Health, Lakeland, FL, USA; 5argenx, Ghent, Belgium; 6Patient author; 7GBS/CIDP Foundation, Conshohocken, 
+PA, USA; 8Department of Neurology, Graduate School of Medicine, Chiba University, Chiba, Japan; 9Department of Neurology, Erasmus University Medical Center, Rotterdam, the Netherlands; 10Department of Neurology, 
+Cedars-Sinai Medical Center, Los Angeles, CA, USAWhat is this summary about?
+This is a plain language summary of an article published in The Lancet 
+Neurology  in 2024. The article describes the results of the ADHERE 
+clinical study, which involved people with chronic inflammatory 
+demyelinating polyradiculoneuropathy, or CIDP for short. CIDP is a rare 
+autoimmune disease that affects nerves in the arms and legs. There is 
+a need for new treatment options for CIDP that reduce symptoms, are 
+convenient to take, and have manageable side effects.
+What happened in this study?
+In this study, researchers looked at how well efgartigimod worked in 
+people with CIDP and the side effects people had during the study. 
+Stage A of the study aimed to find people who had signs of reduced 
+symptoms and disability after receiving efgartigimod. People received 
+weekly injections of efgartigimod under the skin (subcutaneous). Stage 
+B compared efgartigimod with a placebo treatment to find out how 
+well efgartigimod worked and the side effects that people had. 
+What were the results? 
+Overall, 66% of all participants in ADHERE showed signs of clinical 
+improvement after receiving efgartigimod. Half of these people had 
+first signs of clinical improvement in about 22 days. Compared to a placebo, people who received efgartigimod had a 
+reduced risk of CIDP symptoms getting worse or returning (relapsing). More people who received efgartigimod were able 
+to carry out their daily activities and maintained grip strength than those who took a placebo. Most side effects that 
+people developed during the study were mild or moderate.
+What do the results mean?  
+In this study, people who received efgartigimod had stable or improving symptoms for up to 48 weeks, while more people 
+who received a placebo had worsening strength, disability, and quality of life. Subcutaneous injections of efgartigimod 
+may offer a more convenient option for people with CIDP compared with current treatments.
+Keywords:  chronic inflammatory demyelinating polyradiculoneuropathy, efgartigimod, health-related quality of life, 
+immunoglobulin Fc fragment, plain language summary of publication, randomized clinical trial.How to say it...
+Autoantibody :  
+AW-toh-AN-tee-BAH-dee
+Immunoglobulin :  
+IH-myoo-noh-GLAH-byoo-lin
+Chronic inflammatory 
+demyelinating 
+polyradiculoneuropathy : KRAH-
+nik-in-FLA-muh-TOR-ee-dee-my-
+uh-lin-AH-ting-PAH-lee-rad-ih-
+kyoo-loh-noor-AH-puh-thee
+Efgartigimod : ef-gar-TIG-i-mod
+Myelin : MY-eh-lin  
+Placebo : pluh-SEE-boh
+
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Where can I find the original article on which this summary is based?
+The original article titled ‘Safety, tolerability, and efficacy of subcutaneous efgartigimod in patients with chronic 
+inflammatory demyelinating polyradiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double-blind, 
+placebo-controlled, phase 2 trial’ was published in The Lancet Neurology .
+You can read the original article for a fee at: https://www.thelancet.com/article/S1474-4422(24)00309-0/abstract
+Who is this summary for?
+This summary aims to help people with CIDP, their caregivers, patient advocates, payors, and healthcare professionals to 
+understand how effective and safe efgartigimod is as a treatment option for people living with CIDP.
+What is chronic inflammatory demyelinating polyradiculoneuropathy?
+Autoantibody : an antibody made against 
+substances formed by a person’s own body. 
+Autoantibodies can mistakenly attack the body’s 
+own cells, thinking they are harmful. Some 
+autoimmune diseases are caused by autoantibodies.• Chronic inflammatory demyelinating polyradiculoneuropathy, 
+or CIDP for short, is a rare autoimmune disease that affects 
+nerves in the arms and legs.
+ –An autoimmune disease occurs when the body’s 
+natural defense system, known as the immune system, 
+mistakenly attacks its own cells or tissues
+• In people with CIDP, nerves in the peripheral nervous system 
+are damaged. The peripheral nerves are outside the brain 
+and spinal cord (the central nervous system).
+• People can develop CIDP at any age, but it is more common 
+in people who are aged between 50 to 60 years. CIDP is 
+more common in men than in women.
+• Many peripheral nerves are covered by a fatty substance 
+called a myelin sheath that protects the nerves.
+ –Myelin acts like the insulation around an electrical wire. 
+It allows electrical signals (impulses) to travel along the 
+nerves to deliver messages to and from the brain and 
+muscles
+ –When myelin is damaged or removed, these electrical 
+impulses slow down or stop. This means that messages 
+are not reliably sent to and from the arms and legs
+• In CIDP, researchers think that autoantibodies attack 
+the myelin sheath. However, in most cases the specific 
+autoantibody  is unknown.Brain
+Spinal cord
+Central nervous 
+system
+Peripheral   
+nervous system
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Main CIDP symptomsWhat are the main symptoms of CIDP?
+• Symptoms can start at any age and vary 
+depending on the type of CIDP.
+ –The most common symptoms are muscle 
+weakness, numbness, and tingling in the arms 
+and legs 
+ –Symptoms of CIDP get worse over 8 weeks or 
+more and progress over time
+ –Usually, symptoms occur on both sides of the 
+body at the same time. In some people, CIDP 
+only affects 1 side of the body 
+• Other symptoms include:
+ –Numbness or loss of sensation
+ –Problems walking or using arms or legs due to 
+weakness or numbness
+ –Extreme tiredness and lack of energy (fatigue)
+ –Pain
+ –Feelings of burning, or tingling in the hands 
+and feet
+ –Problems of balance
+ –Clumsiness or lack of coordination
+ –Muscle wasting (atrophy)
+Muscle    
+weaknessDifficulty 
+walking  or loss 
+of balance
+Numbness and 
+tingling in the 
+arms and legs Pain or burning 
+in the hands   
+and feet
+How is CIDP diagnosed?
+CIDP can be difficult to diagnose as symptoms vary between individuals and the type of CIDP. Also, some symptoms are 
+similar to those seen in other nervous system diseases.
+There is no single test that can reliably diagnose CIDP. Doctors can perform some or all these tests to diagnose CIDP:
+• Physical exam: Checks muscle strength, sensation, reflexes, and coordination.
+• Nerve conduction studies:  Measures how well electrical signals travel along the nerves. In CIDP, electrical signals 
+travel slowly or are blocked.
+• Blood tests:  Rules out other conditions, and doctors may test for raised levels of certain antibodies that are linked  
+to CIDP.
+• Lumbar puncture: Checks for proteins that indicate nerve damage and inflammation. Taken as a sample of the fluid 
+around the spinal cord.
+• Imaging scans: Shows enlarged nerves or signs of nerve inflammation. Performed by magnetic resonance imaging or 
+ultrasound scans.
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+It is important for doctors to look for conditions that have similar symptoms to CIDP. 
+• This may include reviewing a person’s medical history or obtaining laboratory or other tests to exclude other conditions 
+that could cause nerve problems.
+• If doctors suspect a diagnosis of CIDP, then they may look at whether symptoms improve after trying corticosteroids, 
+immunoglobulins, or plasma exchange.
+How is CIDP treated?
+Before efgartigimod was approved in the United States for the treatment of adults with CIDP in June 2024, there were 3 
+main treatments for CIDP:
+• Corticosteroids (such as prednisone and prednisolone):  Corticosteroids work by suppressing the immune system and 
+reducing inflammation in the body. These can be taken by mouth or intravenously when a needle or tube is inserted 
+into a vein. 
+• Immunoglobulins:  Immunoglobulins are proteins or antibodies taken from healthy people who donate blood. The 
+immunoglobulins from healthy blood donors are pooled together. People can receive intravenous immunoglobulin 
+(IVIg) or receive subcutaneous immunoglobulins as an injection under the skin (SCIg).
+ –Researchers think the antibodies in IVIg and SCIg block the immune and inflammatory processes in the body that 
+attack and destroy myelin in people with CIDP.
+• Plasma exchange (PLEX):  Blood is removed from a vein, then is passed through a machine before the blood is returned 
+into another vein. Plasma, the fluid part of the blood, is replaced with a substitute. This removes harmful antibodies 
+and other molecules of the immune system in plasma.
+These available treatments have limitations:
+• Around one-third of people with CIDP do not initially improve with one of these treatments. 
+• In some people, symptoms can persist even with treatment. 
+• IVIg, PLEX, and to a lesser degree SCIg require several hours to receive the treatments, which can disrupt daily life.
+• These treatments can also cause side effects. For example, corticosteroids can lead to weight gain and IVIg can cause 
+headaches. 
+Apart from SCIg, in the last 30 years there have been no new treatments approved for use in people with CIDP.
+There is a need for new treatment options for CIDP that reduce symptoms, are convenient to take, and have manageable 
+side effects.
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+What is efgartigimod?
+Efgartigimod is an antibody fragment that is designed to target and specifically bind to a protein called the neonatal  
+Fc receptor (FcRn).
+• FcRn is a protein found in cells throughout the body. The FcRn receptor acts as a gatekeeper to sort different proteins 
+(immunoglobulins or IgG) in the body and to determine which ones to destroy.
+• Proteins that attach to the receptor are spared, while proteins that fail to bind to the receptor are destroyed.
+• When efgartigimod binds to FcRn, it stops IgG from binding which causes IgG to be destroyed.
+Researchers think that many people with CIDP have an IgG autoantibody that causes nerve damage. The exact antibody 
+is unknown and cannot be measured. 
+Efgartigimod is thought to work by blocking these autoantibodies from binding to FcRn, which helps the body break down 
+more IgG antibodies, including the harmful ones. This may help reduce nerve damage.
+In CIDP, FcRn can’t distinguish 
+between the healthy  and IgG 
+autoantibodies so it recycles bothEfgartigimod binds to FcRn instead 
+of IgG  so more IgG antibodies 
+including harmful  autoantibodies 
+are removed from the body
+In June 2024, efgartigimod was approved to treat adults with CIDP in the United States. 
+• People receive efgartigimod as a weekly injection under the skin (subcutaneous), which takes around 30 to 90 seconds. 
+• In April 2025, a prefilled syringe for efgartigimod was approved in the United States to allow people to have injections 
+at home.
+FcRn FcRnIgG
+Harmful 
+autoantibodyEfgartigimod
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+What did researchers look at in the ADHERE study?
+In the ADHERE study, researchers wanted to 
+find out how well subcutaneous efgartigimod 
+reduced symptoms in people with CIDP. They 
+also looked at the side effects  that people 
+developed during the study.
+At the start of the study, there was a run-in 
+period  after participants stopped taking their 
+usual CIDP treatments .
+Side effect : a side effect is something expected or unexpected 
+that happened after the treatment started.
+Run-in period : a phase at the start of the study after 
+participants stopped taking their usual CIDP medications 
+before starting efgartigimod treatment. In the ADHERE study, 
+this was to make sure that participants had active CIDP.
+Main groups of people included in the ADHERE study
+People who had  not received 
+treatment  for CIDP before
+People who had 
+taken  CIDP treatment 
+ (corticosteroids, IVIg, or 
+SCIg) within 6 months  of 
+starting the study
+During a run-in period 
+ (no more than 3 
+months) people stopped 
+treatment,  so they had 
+active CIDP  before 
+moving to stage A  of the 
+studyPeople who took CIDP treatment 
+(corticosteroids, IVIg, or SCIg) in 
+the past but had no treatment with 
+the 6 months before the start of 
+the study 
+If it was not clear if their CIDP was 
+worsening within the 3 months 
+before starting the study then 
+these people went through the 
+run-in period to show active CIDP
+If their condition worsened in the 
+3 months before starting the study 
+they could skip the run-in and go 
+directly to stage A of the study 
+The ADHERE study had 2 stages:
+• The aim of stage A was to find people who had signs of reduced symptoms and disability showing that their CIDP 
+responded to efgartigimod.
+ –Researchers measured clinical improvements using the aINCAT  scale, I-RODS  scale, and changes in grip strength.
+• The aim of stage B was to find out how well efgartigimod worked and the side effects that people had compared to  
+a placebo .
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT):  a scale neurologists use to study the impact 
+of CIDP on upper and lower limb function with a score between 0 and 10 points; a higher number represents  
+more disability.
+Inflammatory Rasch-built Overall Disability Scale (I-RODS):  a scale neurologists use to look at the impact of 
+CIDP on a person’s daily activities. The score ranges from 0 to 48 points. Higher scores show that people can 
+perform more daily activities without difficulty. Scores can also be converted to a score out of 100 points.
+Placebo:  a placebo looks like the study medicine and is taken in the same way, but it does not have active 
+medicine. The effects of the study medicine are compared to the effects of the placebo.
+Stage A Stage B
+Identifying responders Studying safety and reduction in symptoms
+Open-label  
+Both researchers and participants were 
+aware of the treatment given
+Treatment   
+1000 mg of efgartigimod as a 
+subcutaneous  injection once a week for 
+a maximum of 12 weeks
+Researchers looked at signs of clinical 
+improvement which was confirmed by 
+doctors using at least 1  of the following:
+• A decrease of at least 1 point in the 
+aINCAT disability scale showing 
+CIDP was improving
+• An increase of at least 4 points in  
+the I-RODS
+• An increase of at least 8 points in 
+grip strengthRandomized, double-blinded  
+Both researchers and participants did 
+not know which treatment participants  
+were receiving
+Treatment  
+1000 mg of efgartigimod or a placebo 
+as a subcutaneous injection once a 
+week for up  to 48 weeks
+Researchers looked at the time to 
+relapse 
+• This was the time to the first 
+increase of  1 point in aINCAT score 
+from the start of stage B showing 
+CIDP was worsening
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Who took part in the study?
+146 sites across 22 countries in America, Europe, and Asia took part in the ADHERE study
+Austria  
+Belgium  
+Bulgaria  
+China  
+Denmark  
+France  
+Georgia  
+Germany  
+Israel  
+Italy  
+Japan  
+NetherlandsPoland  
+Romania  
+Russian Federation  
+Serbia  
+Spain  
+Taiwan  
+Turkey  
+Ukraine  
+United Kingdom  
+United States
+Between April 2020 and May 2023, researchers looked at 629 people to see if they could take part in the study.  
+People could take part if they:
+• Were 18 years or older.
+• Had a diagnosis of CIDP or probable CIDP according to standard CIDP diagnostic criteria, which was confirmed by a 
+panel of expert neurologists who have studied CIDP for many years.
+• Were confident that they had active CIDP.
+• Had an INCAT score of at least 2 at the start of the study. This means they had difficulty using their hands, legs,  
+or both.
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Stage A Stage B
+A total of 342 people met the 
+ criteria needed to be able to take 
+part  in the study
+322 people  took part in stage A  
+ receiving weekly subcutaneous 
+injections of efgartigimod for up to  
+12 weeks
+Average age was 54 years
+65%  of people were men
+66%  were White
+28%  were AsianAGE
+Average time since diagnosis  was  
+4.9 years
+51%  of people had taken IVIg
+20%  had taken corticosteroids
+29%  had never taken any CIDP 
+treatment or had not received any 
+treatment for CIDP within at least 
+6 months before starting the study
+Average INCAT score of 4.6
+Average I-RODS score of 40.1  Of the 322 people who took part in Stage A:
+Overall, 221 people  took part in stage B . 
+ They were randomly placed into groups to 
+receive weekly subcutaneous injections of 
+efgartigimod  or a placebo for up to 48 weeks
+Average age
+Men
+White
+Asian
+Had taken IVIg
+Had taken 
+corticosteroids
+Had not taken any 
+CIDP treatment 
+before or they did so 
+more than 6 months 
+before they started 
+the studyAverage time  
+since diagnosis
+Average INCAT score
+Average I-RODS scoreEfgartigimod Placebo
+AGE 54 years
+66%
+66%
+30%51 years
+63%
+65%
+31%
+3.7 years 3.8 years
+43%
+22%
+35% 36%44%
+21%
+3.1
+53.63.3
+51.2
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+What were the main results of the study?
+Stage A
+Overall, 214 out of 322 people (66%)  showed signs of clinical improvement 
+after receiving efgartigimod.
+Overall, 128 out of 322 people (40%)  showed signs of clinical improvement 
+within 4 weeks of starting efgartigimod.
+Half of the people  had first signs of clinical improvement in about 22 days .
+66%
+40%
+22 days
+Stage B
+People who received efgartigimod had a 61% 
+reduced risk  of relapse  (an increase in aINCAT score) 
+compared with those who received a placebo:
+• 31 people (28%)  who received efgartigimod had a 
+relapse.
+• 59 people (54%)  who received a placebo had a 
+relapse.Average aINCAT scores
+• People who received efgartigimod had an 
+increase (worsening) of 0.1 points.
+• People who received a placebo had an 
+increase (worsening) of 0.9 points.
+Relapse
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+More people who received efgartigimod showed 
+improvement in disability (measured by I-RODS) 
+compared with those who received a placebo. 
+Efgartigimod PlaceboStage B
+36%
+45%
+52%
+36%Percentage of people who:
+Were less able to carry 
+out daily activities 
+I-RODS decreased  by 
+more than 4 points
+Were more able to 
+carry out  daily activities 
+I-RODS increased  by 
+more  than 4 points
+In stage B, more people who received efgartigimod 
+maintained their grip strength, while those who 
+received a placebo had a decline in grip strength. 
+Researchers measure grip strength using a unit 
+called kiloPascals or kPa for short.Efgartigimod PlaceboStage B
+2.1 
+kPa
+2.0 
+kPa
+-8.2 
+kPa
+-6.9 
+kPaDominant hand
+Non-dominant handAverage change in  
+grip strength:
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Researchers looked at the impact of efgartigimod 
+on people’s health-related quality of life by asking 
+people to complete the EQ-5D-5L  questionnaire at 
+various stages of the study.
+• From the start to the end of stage A of the study, 
+the average scores improved from 50.8 to 61.7 .
+• People who received efgartigimod maintained 
+improvements during stage B, but people who 
+received a placebo did not and their symptoms 
+got worse.
+EuroQol 5-dimensions-5-levels (EQ-5D-5L) : a 
+questionnaire that people complete to measure quality 
+of life across 5 categories relating to health: mobility, 
+self-care, usual activities, pain/discomfort, and anxiety/
+depression. 
+People also rate how good or bad their health is on the day 
+of taking the questionnaire. A score of 100 indicates the 
+best health and a score of 0 indicates the worst health.
+Side effects that people had during the ADHERE study
+In stages A and B of the ADHERE study, the side effects that people developed after treatment were mainly mild or moderate.
+PlaceboStage B Stage A
+Percentage of people who had:
+Any side effect after 
+starting treatment
+Any serious side effect 
+after starting treatment
+A side effect researchers 
+believe was related to 
+treatment
+63%
+7%
+31%
+64%
+5%
+24%
+56%
+5%
+20%Efgartigimod Efgartigimod
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+PlaceboStage B Stage A
+Percentage of people who had:
+A reaction at the site  of 
+injection 
+Headache
+Infection
+19%
+5%
+14%
+14%
+4%
+32%
+6%
+2%
+34%
+In stage A of the study, 22 people (7%) had to stop receiving efgartigimod due to side effects.
+In stage B of the study, 3 people (3%) receiving efgartigimod and 1 person (1%) receiving a placebo had to stop treatment 
+due to side effects.
+3 people died during the study, 2 in stage A and 1 in stage B who was receiving a placebo.
+• Researchers agreed that the deaths were not related or were unlikely to be related to treatment.Efgartigimod Efgartigimod
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+What do the results of this study mean?
+In stage A of the study, 66% of people had CIDP that responded to efgartigimod.
+In stage B, compared with people who received a placebo, those who received efgartigimod had:
+• A reduced risk of relapse.
+• Stable symptoms for up to 48 weeks, while more people who received a placebo had worsening strength, disability, 
+and quality of life.
+In stages A and B of the ADHERE study, the side effects that people developed after efgartigimod treatment were mainly 
+mild or moderate.
+Efgartigimod is the first new treatment in 30 years that works in a different way to other CIDP treatments, providing an 
+alternative to traditional treatments, which may not be effective for all patients.
+Subcutaneous injections may offer a convenient option for treatment for some people with CIDP compared with current 
+treatments.
+What is the patient perspective of the results?
+“The approval of efgartigimod marks a significant advancement for the CIDP community, offering a novel treatment 
+approach that directly addresses the need for more targeted and flexible options. As an FcRn inhibitor, efgartigimod 
+provides an alternative to traditional treatments, which may not be effective for all patients. 
+The ADHERE trial, the largest CIDP clinical trial to date, demonstrated that efgartigimod significantly improved disability 
+outcomes in some patients. The treatment’s ability to reduce disease activity and support long-term symptom management 
+offers new hope for those who have struggled with existing disease and residual management.
+From a patient-centered perspective, efgartigimod introduces more options for flexibility and convenience of 
+administration. This shift in administration may significantly reduce time spent in infusion centers, or offer an at-home 
+option, offering a more manageable and personalized approach to care. At the GBS|CIDP Foundation International, we 
+recognize the importance of expanding treatment options that prioritize both efficacy and quality of life. The introduction 
+of efgartigimod underscores the critical need for continued innovation in CIDP treatment, ensuring that all patients have 
+access to therapies that best suit their individual needs and lifestyles. ”
+– GBS|CIDP Foundation
+Where can readers find more information on this study?
+This is a summary of an article titled ‘Safety, tolerability, and efficacy of subcutaneous efgartigimod in patients with 
+chronic inflammatory demyelinating polyradiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double-
+blind, placebo-controlled, phase 2 trial’, which is published in the journal The Lancet Neurology . To read the original 
+article, please visit:
+https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(24)00309-0/abstract
+Original publication citation: Allen JA, Lin J, Basta I, et al. Lancet Neurol. 2024;23(10):1013-1024.
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202
+Who sponsored the ADHERE study? 
+The ADHERE study was sponsored by argenx. 
+As the sponsor, argenx was responsible for overseeing and paying for the clinical study and collecting and analyzing the 
+information generated during the study.
+argenx would like to thank everyone who took part in the ADHERE study.
+Where can I find further information and educational resources? 
+You can find more information on the ADHERE study here: https://clinicaltrials.gov/study/NCT04281472
+You can find further educational resources on CIDP here: https://www.gbs-cidp.org/
+Are there any plans for further studies?
+Ongoing studies will collect more information on efgartigimod to provide more guidance to the CIDP community.
+A phase 4 study is looking at adults with CIDP who switch from intravenous immunoglobulin treatment to subcutaneous 
+efgartigimod.
+• You can find more information on this study here: https://clinicaltrials.gov/study/NCT06637072  
+A real-world study will look at adults with CIDP who receive subcutaneous efgartigimod in everyday clinical practice. 
+• The aim is to understand how well efgartigimod works, the treatment journey of participants and use of healthcare 
+resources in adults receiving efgartigimod in clinical practice.
+
+Plain Language Summary of Publication
+ Allen, Querol, Suresh and coauthors
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202Acknowledgements
+We thank the participants, caregivers, participant advocates, clinicians, and support staff who have collaborated on the design and 
+execution of this trial; support staff can be found on the original article (appendix pp 8–12). We also thank Halozyme Therapeutics 
+for their partnership and providing their proprietary technology for the treatment. Writing support for this plain language summary 
+of publication was provided by Macarena Ramos Gonzalez and Jacqui Oliver from Envision Pharma Group (funded by argenx) and 
+Victoria Golub (argenx).
+Funding
+The ADHERE trial was sponsored by argenx. 
+Competing interests
+Jeffrey A. Allen reports consulting fees from Akcea Therapeutics, Alexion, Alnylam, Annexon Biosciences, argenx, CSL Behring, Grifols, 
+Immunovant, ImmuPharma, Johnson & Johnson, and Takeda, and payment or honoraria for lectures, presentations, speakers bureaus, 
+manuscript writing or educational events from Alnylam, Annexon Biosciences, argenx, CSL Behring, and Takeda.Anneleen Remmerie:  investigation, supervision, project administration, formal analysis, methodology, validation, writing – original 
+draft, writing – review and editing.
+Trevor Mole:  investigation, supervision, formal analysis, methodology, validation, writing – original draft, writing – review and editing.
+Kelly McCoy:  writing – original draft, writing – review and editing.
+Lisa Butler:  writing – original draft, writing – review and editing.
+Benjamin van Hoorick:  investigation, supervision, formal analysis, methodology, validation, writing – original draft, writing – review 
+and editing.
+Satoshi Kuwabara:  investigation, writing – original draft, writing – review and editing.
+Pieter A. van Doorn:  conceptualization, methodology, investigation, validation, writing – original draft, writing – review and editing.
+Richard A. Lewis:  conceptualization, methodology, investigation, writing – original draft, writing – review and editing.Declarations
+Ethics approval and consent to participate
+As described in the original publication, the ADHERE trial was conducted in accordance with the protocol and consensus ethical 
+principles derived from international guidelines, including the Declaration of Helsinki, Council for International Organizations of 
+Medical Sciences International Ethical Guidelines, applicable International Council for Harmonization of Technical Requirements for 
+Pharmaceuticals for Human Use Good Clinical Practice Guidelines, and other applicable laws and regulations. The protocol was 
+approved by an institutional review board or independent ethics committees at each participating site.
+Consent for publication
+Not applicable.
+Author contributions
+Jeffrey A. Allen:  conceptualization, investigation, methodology, validation, writing – original draft, writing – review and editing.
+Luis Querol:  investigation, writing – original draft, writing – review and editing.
+Niraja Suresh:  investigation, writing – original draft, writing – review and editing.
+
+Plain Language Summary of Publication
+ Efgartigimod as a treatment for people with CIDP
+Ther. Adv. Neurol. Dis.DOI: 10.1177/17562864251405202Richard A. Lewis reports royalties or licenses from UpToDate; consulting fees from Annexon Biosciences, argenx, CSL Behring, Dianthus 
+Therapeutics, Grifols, Immunovant, Janssen, Nuvig Therapeutics, Sanofi, and Takeda; payment or honoraria for lectures, presentations, 
+speakers bureaus, manuscript writing, or educational events from argenx, CSL Behring, Medscape, and Sanofi; participation on a data 
+safety monitoring board or advisory board for Boehringer Ingelheim and Novartis; and leadership or fiduciary role in other board, 
+society, committee, or advocacy group, paid or unpaid, for Peripheral Nerve Society and GBS-CIDP Foundation International.
+Availability of data and materials
+argenx is committed to responsible data sharing regarding the clinical trials it funds. Included in this commitment is access to 
+anonymized individual-level and trial-level data (analysis data sets), and other information (eg, protocols and clinical study reports), 
+as long as the trial is not part of an ongoing or planned regulatory submission. These clinical trial data can be requested by qualified 
+researchers who engage in rigorous independent scientific research and will only be provided after review and approval of a research 
+proposal and statistical analysis plan, and execution of a data sharing agreement. Data requests can be submitted at any time, and 
+the data will be accessible for 12 months. Requests can be submitted to esr@argenx.com.Niraja Suresh reports payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events 
+from Alnylam, and participation on a data safety monitoring board or advisory board for Takeda.
+Anneleen Remmerie, Trevor Mole, and Benjamin van Hoorick are employees of argenx.
+Kelly McCoy and Lisa Butler are employees of the GBS|CIDP Foundation.
+Satoshi Kuwabara declares no competing interests.
+Pieter A. van Doorn reports support for attending meetings and travel, participation on a data safety monitoring board or advisory board 
+from argenx, and payment or honoraria for consulting or steering committees for Annexon, Hansa Biopharma, Octapharma and Sanofi.Luis Querol reports grants or contracts from argenx, CIBERER, Instituto de Salud Carlos III–Ministry of Economy and Innovation (Spain), 
+and UCB; consulting fees from Annexon Biosciences, Alnylam, argenx, Avilar Therapeutics, CSL Behring, Dianthus Therapeutics, 
+Janssen, LFB, Novartis, Nuvig Therapeutics, Roche, Sanofi, and Takeda; payment or honoraria for lectures, presentations, speakers 
+bureaus, manuscript writing, or educational events from Alnylam, argenx, CSL Behring, Novartis, Roche, and Sanofi; support for 
+attending meetings and travel from Alnylam and Sanofi; participation on a data safety monitoring board or advisory board for argenx, 
+CSL Behring, Sanofi, and UCB; and a leadership or fiduciary role in other board, society, committee, or advocacy group, paid or unpaid, 
+for Inflammatory Neuropathy Consortium and Peripheral Nerve Society.
+Open access
+This article is distributed under the terms of the Creative Commons Attribution NonCommercial 4.0 Unported License  (https://
+creativecommons.org/licenses/by-nc/4.0/ ) which permits any use, reproduction and distribution of the work without further permission 
+provided the original work is attributed as specified on the SAGE and Open Access pages ( https://us.sagepub.com/en-us/nam/open-
+access-at-sage ).

@@ -1,0 +1,674 @@
+Journal of Clinical Immunology, VoL 13, No. 4, 1993 
+Long-Term Use of IgA-Depleted Intravenous 
+Immunoglobulin in Immunodeficient Subjects with 
+Anti-IgA Antibodies 
+CHARLOTrE CUNNINGHAM-RUNDLES, 1'3 ZHUO ZHOU, 1 SAMIA MANKARIOUS, ~ and 
+SUZANNE COURTER z 
+Accepted: March 16, 1993 
+The use of intravenous immunoglobulin is standard prac- 
+tice for antibody replacement in the humoral immunode- 
+ficiency diseases. Most infusions proceed uneventfully, 
+but a proportion of infusions (5-8%) produces some 
+degree of an infusion reaction. While the cause of most of 
+these infusion reactions is unknown, an established, but 
+rare cause of reactions is IgA antibodies in the serum of 
+the patient, which apparently forms an immune complex 
+with the traces of IgA in the infused immunoglobulin. 
+This article describes our studies of five immunodeficient 
+patients who had high-titered anti-IgA antibodies and a 
+history of severe infusion reactions to intravenous immu- 
+noglobulin products not depleted of IgA (IgA content, 
+270-720 tzg/ml). Over a 6-year period we gave these 
+patients IgA-depleted intravenous immunoglobulin for a 
+total of 170 infusions. These infusions were generally well 
+tolerated; however, mild to moderate infusion reactions 
+did occur in 9 of the 170 infusions (5.3%). These reactions 
+were not related to the IgA content of the immunoglob- 
+ulin solutions used--ascertained to vary between 0.4 and 
+2.9 p.g/ml of IgA. Levels of plasma C3a and C4a increased 
+after immunoglobulin infusions but the appearance of 
+these components was not accompanied by any infusion 
+reaction. We conclude that the long-term infusions of 
+IgA-depleted intravenous immunoglobulin, within the 
+range of IgA concentrations investigated, into patients 
+with even very high-titered antibodies to IgA, is a safe 
+practice. 
+KEY WORDS: IgA deficiency; hypogammaglobulinemia; anti- 
+IgA antibodies; intravenous immunoglobulin; IgA content. 
+aMount Sinai Medical Center, One Gustave Levy Place, New 
+York, New York 10029. 
+ZBaxter Healthcare Corporation, Hyland Division, Glendale, 
+California 91203. 
+3To whom correspondence should be addressed at Box 1089, Mt. 
+Sinai Medical Center, One Gustave-Levy Place, New York, 
+New York 10029. 
+272 INTRODUCTION 
+Antibodies to IgA may be present in sera of as many 
+as 40% of patients with selective IgA deficiency 
+(1-6) or 10% of patients with common variable 
+immunodeficiency (CVI) (4). Since the presence of 
+this antibody can be associated with severe anaphy- 
+lactic reactions to infusions of blood or blood prod- 
+ucts (1-6), the recognition of this antibody can be of 
+clinical importance. Patients with CVI are often 
+treated with intravenous immunoglobulin prepara- 
+tions which contain variable amounts of IgA, while 
+most patients with selective IgA deficiency do not 
+receive immunoglobulin prophylaxis, those who 
+have IgG2 subclass deficiency and lack sufficient 
+antibodies to bacterial carbohydrate antigens may 
+benefit by treatment with intravenous immunoglob- 
+ulin (7-9). In both cases, the therapeutic need for an 
+IgA-depleted immunoglobulin product arises. We 
+and others have reported that IgA-depleted intrave- 
+nous immunoglobulin can be given in a few cases 
+(10, 11) but the continued safety of this practice 
+over time has not been ascertained. It is also not 
+clear exactly how much depletion of IgA is neces- 
+sary to avoid an infusion reaction in patients who 
+have anti IgA antibodies. 
+In the past 12 years we have treated 105 patients 
+with humoral immunodeficiency with intravenous 
+immunoglobulin. In this period of time we have 
+seen five patients who had a history of severe 
+infusion reactions, who had high serum titers of 
+anti-IgA antibodies. This article describes our eval- 
+uation and long-term medical management of such 
+patients. 
+0271-9142/93/0700-0272507.00/0 © 1993 Plenum Publishing Corporation 
+
+
+IgA-DEPLETED INTRAVENOUS IMMUNOGLOBULIN 273 
+METHODS 
+Patients 
+In these studies five patients with either CVI or IgA 
+deficiency and IgG subclass deficiency, who also had 
+anti-IgA antibodies, were infused with an IgA- 
+depleted intravenous immunoglobulin. Patient data 
+are summarized in Table I. Patients 1, 2, 4, and 5 had 
+a history of moderate to severe infusion reactions 
+when previously given blood (one patient) and/or one 
+to three infusions of various types of intravenous 
+immunoglobulin solutions, not depleted of IgA. these 
+infusion reactions are summarized in Table II. Reac- 
+tions to these infusions included severe myalgias, 
+shortness of breath and chest pain, fever, severe 
+abdominal pain, and/or hypotension. 
+Anti-IgA Antibodies 
+Antibodies (of IgG isotype) to IgA were detected as 
+previously described (10). Briefly, 96-well microtiter 
+plates (NUNC, Vanguard International) were coated 
+with 10 txg/ml of IgA myeloma LM or LAK (IgA1 or 
+IgA2) in 0.1 M Na carbonate buffer. Serum from 
+various patients or normal controls (10 to 15 samples 
+in each assay), diluted 1:200 in 200 tzl of PBS-0.2% 
+Tween, was added to each well in duplicate, and after 
+incubation for 3 to 5 hr at room temperature, the wells 
+were washed, and goat anti-human IgG (1:2000 in 
+PBS-Tween) (Sigma, St. Louis, MO) was added. (This reagent was chosen over three other commer- 
+cial alkaline phosphatase anti-human IgG reagents 
+tested since it had the lowest reactivity to purified IgA 
+and IgM proteins.) After further incubation of micro- 
+titer plates overnight at room temperature, the 
+washed wells were incubated at 37°C with nitrophenyl 
+phosphate (Sigma), 1 mg/ml in 0.05 M Na carbonate- 
+containing 0.1 mM MgC12. The absorbance at 405 nm 
+was then read in a microtiter plate reader. Using this 
+assay, sera were titered by serial twofold dilutions to 
+determine the comparative amount of anti-IgA anti- 
+body in each sample. Sera from 20 normal controls, 
+IgG from two pools of human immunoglobulin in- 
+tended for intramuscular injection, and sera of 55 
+hypogammaglobulinemic subjects drawn prior to im- 
+munoglobulin infusion were tested in this assay; sera 
+from all but the five patients discussed here were 
+negative in this assay. 
+Immunoglobulin Infusions 
+The infused immunoglobulin was Gammagard 
+(Baxter, Hyland Division, Glendale, CA). After the 
+reactions experienced using non-IgA-depleted immu- 
+noglobulins and the finding of positive anti-IgA anti- 
+bodies, patients were infused for 1 to 5 years with an 
+IgA-depleted immunoglobulin at intervals of 3 to 4 
+weeks at a dose of 300 mg/kg body weight. A total of 
+28 lots of immunoglobulin was used with a measured 
+level of IgA between 0.4 and 2.9 ~g of IgA per ml, 
+Table I. Patients Treated with IgA-Depleted Intravenous Immunoglobulin 
+Serum 
+immunoglobulins IgA-depleted 
+(mg/dl) Titer of IVGG, Immunoglobulin 
+Patient IgG subclass anti-IgA number given 
+No. Age Sex IgG IgA IgM deficiency antibody" Clinical course infusions given (g/infusion) 
+Recurrent 
+respiratory 
+1 54 F 54 <1 36 IgG1 to IgG4 1:7000 infections 67 20 
+Recurrent 
+2 46 M 554 < 1 28 IgG2 1:500 bronchitis 47 20 
+Recurrent 
+respiratory 
+infections, S/P 
+Hodgldn's 
+3 13 M 449 26 58 IgG2 + IgG3 1:500 disease 30 12.5 
+Recurrent 
+respiratory 
+4 27 F 210 <1 21 IgG1 to IgG4 1:200 infections 8 20 
+5 54 F 270 7 90 IgG1 to IgG4 1:500 Recurrent sinusitis 20 20 
+aTiter of anti-IgA antibody was determined by ELISA as described (10). These titers were compared to sera of 50 other 
+hypogammaglobulinemic subjects who had no detectable antibody to IgA, 20 normal control sera, and two pools of human 
+immunoglobulin intended for intramuscular injection, suitably diluted. Titers were the same when using either the IgA1 and IgA2 
+myeloma proteins to coat ELISA plates. 
+Journal of Clinical Immunology, Vol. 13, No. 4, 1993 
+
+
+274 CUNNINGHAM-RUNDLES, ZHOU, MANKARIOUS, AND COURTER 
+Table II. History of Infusion Reactions 
+Patient 
+No. Immunoglobulin treatment a Reactions 
+1 1. Intramuscular Ig, 1975-1990 
+2. Sandoglobulin, 1980; 3 
+infusions 
+3. Gamonative, 1983-1984; 16 
+infusions 
+4. Gammagard, 1985; 67 
+infusions, 3 reactions 
+1. Blood transfusion, 1979 
+2. Sandoglobulin, 1986; 1 
+infusion 
+3. Gammagard; 1986-present; 
+47 infusions, 6 reactions 
+1. Gamimmune-N, 1985-1986; 
+10 infusions 
+2. Sandoglobulin, 1986; 1 
+infusion 
+3. Gammagard, 1986-1987; 8 
+infusions 
+1. Sandoglobulin, 1988; 1 
+infusion 
+2. Gammagard, 1988-present; 
+20 infusions None 
+Severe abdominal pain, lumbar 
+myalgias, chills, fever 101°C, 
+shortness of breath, and chest 
+pain on all 3 infusions, increasing 
+symptoms with each infusion. 
+None (reviewed in Ref. 10) 
+As described in text 
+Hypotension, cyanosis, rigors, 
+shortness of breath, abdominal 
+pain, chest pain, sense of 
+"impending doom" 
+Hypotension, cyanosis, rigors, 
+myalgias, sense of "impending 
+doom" 
+As described in text 
+After 8 infusions, hypotension, 
+myalgias, shortness of breath on 
+the last 2 infusions 
+Hypotension, myalgias, shortness 
+of breath 
+None 
+Severe myalgias, chills, fever 101°C 
+None 
+aAverage IgA content in Sandoglobulin, 720 I~g/ml (24); in Gamonative, 3-5 ~g/ml (10); and in Gamimune-N, 270 i~g/ml (24). 
+reconstituted as a 5% immunoglobulin solution. The 
+number of grams of immunoglobulin given to each 
+patient at each infusion is given in Table I. The 
+solution was infused at 0.5 ml/min for 10 min, and the 
+rate was increased to 1 ml/minutes for 1 hr, then 
+increased to 1.5 to 25.0 ml/min as tolerated after this 
+time. 
+Complement Activation Studies 
+Prior to studies of complement activation, all pa- 
+tients had been receiving the IgA-depleted immuno- 
+globulin preparation for at least 5 months. Plasma 
+samples were obtained from four patients prior to 
+infusion of immunoglobulin and subsequently after 
+specified time intervals. Blood samples were collected 
+in Vacutalner tubes containing EDTA to prevent 
+further complement activation. Anticoagulated blood 
+samples were centrifuged at 4°C to remove cells and 
+the plasma was frozen within 30 min of collection at 
+-70°C. C3a and C4a were tested by an RIA using 
+commercial kits for human complement C3a and CAa 
+des Arg [1251] (Amersham, Arlington Heights, IL). In principle, the test is based on the ability of a fixed 
+amount of antibody to bind 125I-labeled complement 
+as an antigen, separating the bound from unbound 
+antigen by precipitation, and centrifugation and 
+counting the radioactivity of the labeled immune 
+complex (12). A standard curve was prepared by 
+holding the labeled antigen at a fixed concentration 
+while increasing amounts of unlabeled antigen were 
+added. Samples were quantitated by comparison to 
+the standard. 
+In addition to the five patients who were infused 
+with immunoglobulin and studied for complement 
+activation at specified intervals, one additional hypog- 
+ammaglobulinemic patient, who did not have an anti 
+IgA-antibody, was infused with the same lot of immu- 
+noglobulin and tested as described above, as a con- 
+trol. 
+RESULTS 
+Anti-IgA Antibodies 
+The relative amounts of anti IgA-antibodies were 
+compared by ELISA on serial, twofold diluted 
+Journal of Clinical Immunology, VoL 13, No. 4, 1993 
+
+
+IgA-DEPLETED INTRAVENOUS IMMUNOGLOBULIN 275 
+samples of serum on microtiter plates coated with 
+the two myeloma IgA proteins, LM and LAK. The 
+results for the various sera ranged from 1:200 to 
+1:7000 and were similar for each myeloma; these 
+titers are given in Table I. 
+Infusion Reactions 
+During a 5-year period, 170 infusions with the 
+IgA-depleted immunoglobulin were given to these 
+five subjects. Most of these infusions were accom- 
+panied by no detectable infusion reactions; how- 
+ever, there were 9 significant reactions which oc- 
+curred of the 170 infusions, (5.3%). Only two 
+patients had reactions: patients 1 and 2, who had 
+the highest titers of anti IgA-antibodies. None of 
+these reactions were classified as severe; six reac- 
+tions were moderate, with involuntary muscle con- 
+tractions, shaking, chills, rigors, hives, or muscle 
+aches, being the common symptoms. Three reac- 
+tions were mild, with slight chills, and achiness 
+being the manifestations. In each case, the infusions 
+were stopped, and treatment with 100 mg of hydro- 
+cortisone and 50 mg diphenhydramine (moderate 
+reactions) or diphenhydramine alone (mild reac- 
+tions) was given. 
+To determine if the reactions were related to the 
+amount of infused IgA, we retrospectively ascer- 
+tained the IgA content of each lot of IgG and 
+compared it to the number of reactions which 
+occurred with each lot. From these comparisons we 
+found that reactions took place with lots of immu- 
+noglobulin which contained various amounts of 
+IgA, spanning a range from 0.4 to 1.1 ixg/ml (Table 
+III). Thus, there was no clear association between 
+reactions and IgA content. Although there were a 
+few lots which contained more than 2.0 izg/ml of Table III. Lots Associated with Reactions 
+Content of Lot Number of Patient 
+IgA (Izg/ml) No. reactions No. 
+0.4 25 1 1 
+0.6 21 2 2 
+0.7 20 1 2 
+0.8 13 4 1,2 
+1.1 11 1 2 
+IgA, by chance, Patients 1 and 2 did not receive 
+these lots. 
+Complement Activation 
+For first four patients studied, complement acti- 
+vation was investigated after one lot of immuno- 
+globulin containing 0.4 p~g/ml of IgA was adminis- 
+tered. Calculating from the total dose of 
+immunoglobulin infused, for patients 1, 2, and 4, the 
+total amount of IgA infused was 160 p,g; for patient 
+3, the amount of IgA infused was 100 Izg. Prior to, 
+during, and after this set of infusions, complement 
+split products C3a and C4a were determined in 
+plasma samples from each patient (Tables IV and 
+V). Even prior to infusion, C3a and C4a were found 
+increased in the plasma of all studied patients when 
+compared to the amounts in plasma of normal 
+donors. After infusion, all patients had evidence of 
+complement activation as judged by increased C3a 
+and C4a levels, with the greatest amounts of these 
+products being found in the plasma of patient 4, 
+who also had the largest amounts of C4a, even 
+before the infusion was started. However, no clin- 
+ical reaction of any kind during this set of infusions 
+was observed for any patient. 
+For comparison, a fifth patient who did not have 
+a detectable anti-IgA antibody was similarly infused 
+Table IV. C3a (ng/ml) ~ in Plasma of Patients Treated with Immunoglobulin 
+Patient No. 
+Time 1 2 3 4 Hypogammaglobulinemic 
+patient with no anti-IgA 
+antibody 
+Preinfusion 176 256 100 224 
+2.5 min 200 280 108 420 
+5.0 min 320 352 176 440 
+10.0 min 400 376 200 580 
+30.0 min 480 500 232 540 
+45.0 rain 540 580 200 580 
+60.0 min 880 680 224 540 
+120.0 min 880 376 240 1240 
+180.0 min 376 420 192 540 
+240.0 rain 320 280 136 440 224 
+240 
+296 
+336 
+420 
+420 
+500 
+480 
+280 
+208 
+aNormal range for C3a (ng/ml) in normal plasma is 150 ± 18 or 25-100 ng/mt. (18) 
+Journal of Clinical lmmunology, Vol. 13, No. 4, 1993 
+
+
+276 CUNNINGHAM-RUNDLES, ZHOU, MANKARIOUS, AND COURTER 
+Table V. C4a Levels (ng/ml) ~ in Plasma of Patients Treated with Immunoglobulin 
+Patient with Anti-IgA antibodies 
+Time 1 2 3 4 Hypogammaglobulinemic 
+patient with no anti-IgA 
+antibody 
+Preinfuslon 
+2.5 mln 
+5.0 mm 
+10.0 mm 
+30.0 mm 
+45.0 Ran 
+60.0 mm 
+120.0 mm 
+180.0 mm 
+240.0 mm 480 280 280 820 
+600 352 320 880 
+720 368 368 920 
+600 384 400 1000 
+780 420 420 1040 
+820 384 480 1120 
+880 384 520 1200 
+920 440 280 1120 
+720 440 340 1000 
+520 368 296 740 240 
+272 
+312 
+304 
+340 
+328 
+368 
+600 
+340 
+264 
+#Normal range for C4a in plasma is 8-150 ng/ml (19). 
+and tested for complement activation. These data 
+are also included in Tables III and IV. Prior to, and 
+after immunoglobulin infusion, elevated levels of 
+C3a and CAa, in a range similar to that of other 
+patients, was found. 
+DISCUSSION 
+In these analyses, five patients with anti-IgA 
+antibodies had a history of severe infusion reactions 
+when exposed to immunoglobulins not depleted of 
+IgA. Aside from patient 1, the data for whom are 
+published (10, 13), we cannot prove that the prior 
+infusion reactions experienced by these patients 
+were due to IgA-anti IgA interactions. However, 
+the reactions were quite severe, high-titered anti- 
+bodies to IgA were present in the serum of these 
+patients (but not 50 other hypogammaglobulinemic 
+patients who have had no such infusion reactions to 
+IgA-containing products), and these five patients 
+subsequently have tolerated IgA-depleted immuno- 
+globulins. Thus, we believe that the most likely 
+explanation is that IgA-anti IgA interactions were 
+involved in the severe reactions observed. 
+However, whether or not the prior infusion reac- 
+tions were caused by anti-IgA antibodies, the ques- 
+tion of medical management is still an important 
+one. Could these patients with anti-IgA antibodies 
+tolerate months or years of treatment with an IgA- 
+depleted immunoglobulin? Were the few infusion 
+reactions we saw related to the infusion of more IgA 
+on that day? 
+The successful infusion of IgA-depleted immuno- 
+globlin concentrates into immunodeficient patients 
+who have anti-IgA antibodies and a history of 
+severe infusion reactions has been previously re- 
+ported by ourselves and others (6, 10, 11). From the available data, a few patients have been success- 
+fully treated even though small amounts of IgA are 
+still being infused; the titer of antMgA antibody is 
+not boosted after this treatment (6, 10). In the 
+present studies, 170 infusions of an IgA-depleted 
+intravenous immunoglobulin were given to 5 pa- 
+tients with anti-IgA antibodies over a period of 6 
+years. The overall reaction rate for these infusions 
+(5.3%) was similar to that often quoted for hypo- 
+gammaglobulinemic patients as a whole (14-17). 
+This number of infusion reactions was also not 
+different overall from the incidence of reactions 
+encountered by our large group of 105 hypogamma- 
+globulinemic patients who do not have anti-IgA 
+antibodies. Thus the infusions in this group did not 
+produce more reactions than the number generally 
+expected. However, hypogammaglobulinemic pa- 
+tients tend to have reactions at the start of intrave- 
+nous immunoglobulin therapy (14, 15) but rarely 
+afterward. The patients treated here had reactions 
+intermittently during the months or years in which 
+they have been treated. Because we knew that the 
+immunoglobulin solutions contained varying 
+amounts of IgA, our initial impression was that 
+reactions were more likely to occur if the lot of 
+immunoglobulin used on that date contained more 
+IgA. 
+To determine if this was true or not, we retro- 
+spectively ascertained the IgA content of each of 
+the lots of intravenous immunoglobulin used and 
+compared this to the clinical observations made 
+during and after each infusion. Only two patients 
+had reactions; those patients who had the highest 
+titers of anti-IgA antibodies. Patient 1 received six 
+lots of immunoglobulin which contained 1.1 p.g/ml 
+IgA and patient 2 received five lots of similar 
+concentration; neither received any lots containing 
+Journal of Clinical Immunology, Vol. 13, No. 4, 1993 
+
+
+IgA-DEPLETED INTRAVENOUS IMMUNOGLOBULIN 277 
+more IgA than this amount. Only patient 2 had a 
+reaction associated with one infusion of this group, 
+while patient 1 had no reaction to these six infu- 
+sions. Patients 1 and 2 had a total of four reactions 
+to lots containing 0.8 t~g/ml and scattered reactions 
+to infusions containing less than this amount. Thus 
+we concluded that the actual IgA content, at least in 
+this range, was not a determining factor for an 
+infusion reaction. 
+The presence of an anti-IgA titer of 1:500 in the 
+serum of patient 3 was somewhat unexpected since 
+this patient had an IgA serum level of 26 mg/dl. 
+While we assume that it is directed to specific 
+antigenic epitopes of IgA not possessed by the 
+patient, we did not find that this antibody was 
+directed exclusively to either IgA1 or IgA2. An- 
+other unusual situation is presented by patient 2, 
+who tolerated intramuscular injections of immuno- 
+globulin for 10 years with no reactions but who had 
+severe reactions to an intravenous immunoglobulin 
+not depleted of IgA (Sandoglobulin). We assume 
+that these reactions were due to the larger amounts 
+of IgA administered in the infused immunoglobulin. 
+The cause of infusion reactions in general is 
+unfortunately still poorly understood. Certainly a 
+major factor determining the likelihood of infusion 
+reactions is the rate of infusion (14-17). The reac- 
+tions experienced by these patients could have 
+conceivably been due to infusion speed. While the 
+infusion of aggregates may have produced some of 
+the adverse effects reported by Barandun et al. (14), 
+present IVGG preparations are almost devoid of 
+such aggregates. 
+We have previously found that many hypogam- 
+maglobulinemic patients who are treated with 
+IVGG do have immune complexes formed in vivo 
+(18). Although all of the antigens are not elucidated, 
+dietary sources provide part of the antigens in- 
+volved (18). After patients are infused with immu- 
+noglobulin (as were the patients studied here), the 
+amount of immune complex tends to diminish pro- 
+gressively (18). However, we have not found that 
+the occurrence of infusion reactions is connected 
+with immune complex formation since many infu- 
+sions, for which immune complexes are found, 
+proceed with no evidence of reactions (18). While 
+we cannot specify the cause of the reactions seen in 
+these studies, one potential cause, infusion of 
+higher levels of IgA on these dates, can probably be 
+eliminated. 
+Ferreira et aL (6) have also infused patients with 
+known IgA antibodies with IgA-depleted intrave- nous immunoglobulin; however, the amounts of 
+IgA in these infusions were greater than those in the 
+solutions we used. The lots tested in that study 
+contained between 20 and 70 Ixg/ml, more than 20 
+times the IgA level in most of our infusions. Seven 
+patients of the treated group in the Ferreira study 
+had anti-IgA antibodies; all but two had very low 
+titers. The success of the infusions in six of these 
+patients, despite the amount of infused IgA, could 
+have been due to the low titer of anti-IgA antibody 
+in these subjects. 
+In our analyses, we also studied if complement 
+activation could be documented by measurement of 
+C3a and C4a before, during, and after a selected 
+group of immunoglobutin infusions. While normal 
+amounts of C3a and C4a in human serum have not 
+been definitively settled, normal values for C3a 
+determined by radioimmuno assays similar to the 
+one used here have been 150 --- 70 ng/ml (19) or 
+25-100 ng/ml (20); for CAa a level of 8-150 ng/ml has 
+been cited (!9). For the hypogammaglobulinemic 
+patients with anti-IgA antibodies studied here, lev- 
+els of C3a and C4a were elevated even before 
+infusions were started and increased afterward for 
+each patient up to a maximum of 1240 ng/ml for C3a 
+and 1200 ng/ml for C4a for one patient. While these 
+levels are certainly increased, C3a measured in 
+asymptomatic patients receiving hemodialysis 
+treatment was 2907 _ 372 ng/ml, whereas patients 
+experiencing recurrent allergic reactions can have 
+much higher levels of C3a, 8533 ___ 157 ng/ml (21). 
+The absence of clinical reactions in our patients was 
+thus not surprising since the C3a levels observed 
+were well below the expected symptomatic range. 
+Additionally, one hypogammaglobulinemic patient 
+who did not have a detectable anti-IgA antibody 
+was tested for complement split products. After 
+intravenous infusion, small increases over preinfu- 
+sion levels were found at 60 and 120 min after the 
+start of the infusion. The complement activation 
+seen in this patient was similar to that found for 
+patients known to have anti-IgA antibodies. The 
+cause of this mild complement activation in these 
+patients is obviously unknown, but for patients with 
+anti-IgA antibodies, the formation of IgG-IgA com- 
+plexes would be a possible reason. Such complexes 
+have been observed previously to appear in this 
+clinical situation (13, 22). 
+While there are many unresolved issues concern- 
+ing anti-IgA antibodies, we have concluded that 
+most patients with even high-titered anti-IgA anti- 
+bodies can be safely infused with IgA-depleted 
+Journal of Clinical Immunology, Iiol. 13, No. 4, 1993 
+
+
+278 CUNNINGHAM-RUNDLES, ZHOU, MANKARIOUS, AND COURTER 
+intravenous immunoglobulin solutions for pro- 
+longed periods. While the rare development of 
+anti-IgA antibodies of the IgE class can develop in 
+these circumstances which may lead to reactions (6, 
+23), such patients can also be successfully infused if 
+the IgA content of the infused solution is sufficiently 
+reduced (23). In our studies, patients with very high 
+titers of anti-IgA antibodies of the IgG class had 
+sporadic mild to moderate reactions, but the total 
+amount of IgA infused, within the range 0.2 to 1.1 
+l~g IgA/ml, was apparently not the causative factor. 
+REFERENCES 
+1. Vyas GN, Perkins HA, Fudenberg HH: Anaphylactoid 
+transfusion reaction associated with anti-IgA. Lancet 2:312- 
+314, 1971 
+2. Schmidt AP, Taswell HF, Gleich GJ: Anaphylactic transfu- 
+sion reactions associated with anti-IgA antibody. N Engl J 
+Med 280:188-193, 1969 
+3. Rivat I, Rivat C, Daveau M, Ropartz C: Comparative 
+frequencies of anti-IgA antibodies among patients with ana- 
+phylactic transfusion reactions and among normal blood 
+donors. Clin Immunol Immunopathol 7:340-348, 1977 
+4. Wells JV, Buckley RH, Schanfield MS: Anaphylactoid reac- 
+tions to plasma infusions in patients with hypogammaglobu- 
+linemia and anti-IgA antibodies. Clin Immunol Immunopa- 
+thol 8:265-271, 1971 
+5. Hammarstr6m L, Persson MAA, Smith CIE: Anti-IgA in 
+selective IgA deficiency in vitro effects and Ig subclass 
+patterns of human anti-IgA. Scand J Immunol 18:509-513, 
+1983 
+6. Ferreira A, Garcia-Rodriguez MC, Lopez-Trascasa M, Pas- 
+cual-Salcedo D, Fontan G: Anti-IgA antibodies in selective 
+IgA deficiency and in primary immunodeficient patients 
+treated with gamma-globulin. Clin Immunol Immunopathol 
+47:199-207, 1988 
+7. Oxelius VA, Laurell AB, Lindqvist B, Golebiowska M, 
+Axelsson U, Bjrrkander J, Hanson L/~: IgG subclasses in 
+selective IgA deficiency. Importance of IgG2-IgA deft- 
+ciency. N Engl J Med 302:1476-1477, 1981 
+8. Oxelius VA: Immunoglobulin (IgG) subclasses and human 
+disease. Am J Med 76:7-18, 1984 
+9. Bjrrkander J, Hammarstrrm L, Smith CI, Buckiey RH, 
+Cunningham-Rundles C, Hanson L~: Immunoglobulin pro- 
+phylaxis in patients with antibody deficiency syndromes and 
+anti-IgA antibodies. J Clin Immunol 7:8-15, 1987 
+10. Cunningham-Rundles C, Wong S, Bjrrkander J, Hanson 
+L]~: Use of an IgA-depleted intravenous immunoglobulin in 
+a patient with an IgA antibody. Clin Immunol Immunopathol 
+38:141-9, 1986 
+11. Bjrrkander J, Bengtsson U, Oxelius VA, Hanson L~: 
+Symptoms in patients with lowered levels of IgG subclasses, with or without IgA deficiency and effects of immunoglob- 
+ulin prophylaxis. Monogr Allergy 20:157-163, 1986 
+12. Hugli TE, Chenoweth DF: Biologically active peptides of 
+complement: Techniques and significance of C3a and C5a 
+measurements. In Laboratory and Research Methods in 
+Biology and Medicine, RM Nakamusa, WR Dito (eds.). New 
+York, Alan R. Liss, 1980, p 443 
+13. Day NK, Good RA, Wahn V: Adverse reaction in selected 
+patients following intravenous infusions of gammaglobulin. 
+Am J Med Suppl 3A:25-31, 1984 
+14. Barandun S, Morrell A: Adverse reactions to immunoglob- 
+ulin preparations. In Immunohemotherapy, UE Nydegger 
+(ed). London, Academic Press, 1981, pp 223-230 
+15. Cunningham-Rundles C, Siegal FP, Smithwick EM, Cun- 
+ningham-Rundles S, Lion-Boule A, O'Malley J, Barandun S, 
+Good RA: Efficacy of intravenous gammagtobulin in hu- 
+moral immunodeficiency disease. Ann Intern Med 101:435- 
+439, 1984 
+16. Ammann AJ, Ashman RF, Buckley RH, Hardie WR, Krant- 
+man HJ, Nelson J, Ochs H, Stiehm ER, Tiller T, Wara DW, 
+Wedgewood R: Use of intravenous gammaglobulin in anti- 
+body immunodeficiency: Results of a multicenter controlled 
+trial. Clin Immunol Immunopathol 22:60-67, 1982 
+17. Stiehm ER, Ashida E, Kim KS, Winston D J, Haas A, Gale 
+RP: Intravenous immunoglobulin as therapeutic agents. Ann 
+Intern Med 107:367-382, 1987 
+18. Cunningham-Rundles C, Carr RI: Dietary bovine antigens 
+and immune complex formation after intravenous immuno- 
+globulin in common variable immunodeficiency. J Clin Im- 
+munol 6:381-388, 1986 
+19. Zilow G, Sturm JA, Rother U, Kirschfink M: Complement 
+activation and the prognostic value of C3a in patients at risk 
+of adult respiratory distress syndrome. Clin Exp Immunol 
+79:151-157, 1990 
+20. Sundsmo JS, Papin RA, Wood L, Hirani S, Waldeck N, 
+Buckingham B, Kershnar A, Ascher M, Charles MA: Com- 
+plement activation in Type 1 human diabetes. Clin Immunol 
+Immunopathol 35:211-225, 1985 
+21. Hakim RM, Breillatt J, Lazarus MJ, Port F: Complement 
+activation and hyper-sensitivity reactions to dialysis mem- 
+branes. N Engl J Med 311:878-882, 1984 
+22. Cunningham-Rundles C, Day NK, Wahn V, Smithwick EM, 
+Siegal FP, Gupta S, Good RA: In Reaction to Intravenous 
+Gammaglobulin Infusions and Immune Complex Formation, 
+Immunohemotherapy, UE Nydegger (ed). London, Aca- 
+demic Press, London, 1981, pp 447-449 
+23. Burks AW, Sampson HA, Buckley RH: Anaphylactic reac- 
+tions after garmnaglobulin administration in patients with 
+hypogammaglobulinemia. N Engl J Med 314:560-562, 1986 
+24. Romer J, Morgenthaler J J, Scherz R, Skvaril F: Character- 
+ization of various immunoglobulin preparations for intrave- 
+nous application. I. Protein composition and antibody con- 
+tent. Vox Sang 42:62-73, 1982 
+Journal of Clinical Immunology, Vol. 13, No. 4, 1993 

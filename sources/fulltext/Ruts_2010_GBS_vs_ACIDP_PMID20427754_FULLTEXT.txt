@@ -1,0 +1,431 @@
+Distinguishing acute-onset CIDP from
+fluctuating Guillain-Barre ´ syndrome
+A prospective study
+L. Ruts, MD
+J. Drenthen, MDB.C. Jacobs, MD, PhDP.A. van Doorn, MD,
+PhD
+On behalf of the
+Dutch GBS StudyGroupABSTRACT
+Objective: The aim of the study was to provide criteria that can help to distinguish between GBS-
+TRF and A-CIDP in the early phase of disease.
+Background: The distinction between Guillain-Barre ´ syndrome (GBS) with fluctuations shortly af-
+ter start of treatment (treatment-related fluctuations, or GBS-TRF) and chronic inflammatory de-myelinating polyneuropathy with acute onset (A-CIDP) is difficult but important becauseprognosis and treatment strategy largely differ.
+Methods: Patients with GBS (n /H11005170) were included in a prospective longitudinal study. Patients with
+GBS-TRF (n /H1100516) and patients with A-CIDP (n /H110058) were analyzed and compared. Extended clinical
+data, biologic material, and electrophysiologic data were collected during 1 year follow-up.
+Results: The first TRF in the GBS-TRF group always occurred within 8 weeks (median 18 days;
+range 10 –54 days) from onset of weakness. In the GBS-TRF group, 5 (31%) patients had asecond TRF and none had more TRFs. At all timepoints, patients in the A-CIDP group were lessseverely affected than patients with GBS-TRF, did not need artificial ventilation, rarely had cra-nial nerve dysfunction, and tended to have more CIDP-like electrophysiologic abnormalities. MoreGBS-TRF patients were severely affected and more patients had sensory disturbances whencompared to the GBS group without fluctuations.
+Conclusions: The diagnosis of acute-onset chronic inflammatory demyelinating polyneuropathy
+(CIDP) should be considered when a patient thought to have Guillain-Barre ´ syndrome deteriorates
+again after 8 weeks from onset or when deterioration occurs 3 times or more. Especially when thepatient remains able to walk independently and has no cranial nerve dysfunction or electrophysi-ologic features likely to be compatible with CIDP, maintenance treatment for CIDP should beconsidered.
+Neurology®2010;74:1680–1686
+GLOSSARY
+A-CIDP /H11005acute-onset chronic inflammatory demyelinating polyneuropathy; CI/H11005confidence interval; CIDP/H11005chronic inflam-
+matory demyelinating polyneuropathy; dCMAP /H11005distal compound muscle action potential; DML/H11005distal motor latency;
+GBS/H11005Guillain-Barre ´ syndrome; GBS-TRF /H11005Guillain-Barre ´ syndrome with treatment-related fluctuations; GRAPH /H11005GBS
+Research about Pain and Heterogeneity study; IgG/H11005immunoglobulin G; IgM/H11005immunoglobulin M; IVIg/H11005IV immunoglobulin;
+MFS/H11005Miller Fisher syndrome; mNCV /H11005motor nerve conduction velocity; MP/H11005methylprednisolone; pCMAP /H11005proximal
+compound muscle action potential; SIDP/H11005subacute inflammatory demyelinating polyneuropathy; SNAP /H11005sensory nerve
+action potential; sNCV/H11005sensory nerve conduction velocity; TRF/H11005treatment-related fluctuation.
+Guillain-Barre ´ syndrome (GBS) and chronic inflammatory demyelinating polyneuropathy
+(CIDP) are immune-mediated neuropathies, sharing many symptoms and signs in the acutephase of disease.
+1-3To differentiate between GBS and CIDP in the early phase of disease,
+clinicians primarily use the time to reach maximum severity (nadir) and the subsequent courseof the disease. GBS is a monophasic disease in which the time to reach nadir by definition iswithin 4 weeks.
+4,5In CIDP, the initial progressive phase lasts more than 2 months, whereafter
+the course may be relapsing-remitting, steadily progressive, or monophasic.6
+However, not all patients fulfill all diagnostic criteria for either GBS or CIDP. It has been
+reported that 16% of patients with CIDP have rapidly progressive weakness, with a nadir
+e-Pub ahead of print on April 28, 2010, at www.neurology.org.
+From the Department of Neurology, Erasmus MC, Rotterdam, the Netherlands.Disclosure: Author disclosures are provided at the end of the article.Editorial, page 1664Address correspondence and
+reprint requests to Dr. L. Ruts,Erasmus MC, University MedicalCenter, Department ofNeurology, Room Ee-2230, P.O.Box 2040, 3000 CA Rotterdam,the Netherlandsl.ruts@erasmusmc.nl
+1680 Copyright © 2010 by AAN Enterprises, Inc.
+
+within 8 weeks from onset of disease, which is
+followed by a chronic course. These patientsare considered to have acute-onset CIDP(A-CIDP).
+7On the other hand, 8%–16% of
+patients with GBS have 1 or more deteriora-tions shortly after initial improvement or sta-bilization following plasma exchange orIV immunoglobulin (IVIg), described astreatment-related fluctuations (TRF).
+8-11Ad-
+ditionally a group of patients with a progres-sive phase of 4–8 weeks and a monophasiccourse has been described as subacute inflam-
+matory demyelinating polyneuropathy (SIDP).
+12,13
+In clinical practice, it may be very difficult todistinguish a patient with GBS having a sec-ondary deterioration after initial improve-ment or stabilization within the first weeks ormonths after onset of disease (GBS-TRF)from a patient having a second episode of
+weakness due to A-CIDP.
+14,15
+Because treatment strategy and prognosis for
+GBS-TRF and A-CIDP differ considerably, it isrelevant to distinguish between these 2 variantsearly in the course of disease. A patient withGBS-TRF generally requires a repeated IVIgcourse or plasma exchanges, whereas A-CIDPpatients require long-term maintenance treat-ment with steroids, IVIg, or plasma exchangewith or without immunosuppressive agents. In aretrospective study, we suggested that the diag-nosis of A-CIDP should be considered when apatient with GBS deteriorates after 9 weeksfrom onset, or when deterioration occurs 3times or more.
+11There currently is no prospec-
+tive study that provides robust criteria that canhelp to distinguish between GBS-TRF andA-CIDP in the early phase of disease.
+Regarding electrophysiologic patterns, a
+direct comparison between GBS-TRF andA-CIDP in the literature is also lacking. How-ever, patients with A-CIDP seem to havesome distinct electrophysiologic featureswhen compared to patients with CIDP with amore chronic onset of disease.
+16Patients with
+GBS-TRF more frequently have sensory dis-turbances, but otherwise no distinct electro-physiologic characteristics when compared topatients with GBS.
+17
+In this study we prospectively investigated
+a large number of patients initially diagnosedwith GBS. Detailed clinical, biologic, and
+electrophysiologic characteristics were ana-lyzed in more detail. We aimed to providemore criteria that can help to distinguish be-tween GBS-TRF and A-CIDP in the earlyphase of disease.
+METHODS Patients. A total of 170 patients diagnosed with
+GBS or MFS were prospectively included in the GBS Researchabout Pain and Heterogeneity (GRAPH) study.
+4,18During
+follow-up, part of the patients showed 1 or more TRFs. Somepatients initially diagnosed and included in the GRAPH study ashaving GBS finally were revealed to have a chronic relapsing andremitting course. These patients were reclassified as A-CIDP.
+11
+Because we aimed to differentiate between GBS-TRF and
+A-CIDP, we only analyzed these 2 groups of patients.
+Study design. Between February 2005 and October 2008, pa-
+tients admitted to one of the 55 participating Dutch centers wereincluded in the GRAPH study. Exclusion criteria were age below12 and significant comorbidity with a worse prognosis (less than1 year survival). The protocol was approved by the ethics com-mittee of the Erasmus MC and subsequently by the otherparticipating centers. Clinical data, biologic material, and elec-trophysiologic data were collected systematically during 1 yearfollow-up after obtaining written informed consent for partici-pating in the study.
+Questionnaires were filled in by the neurologist twice a week
+during hospital stay and once after 6 months. If the patient, dueto deterioration after hospital discharge, visited the hospitalagain during 1-year follow-up, an additional questionnaire wasfilled in by the neurologist.
+When the patient was discharged from the hospital, addi-
+tional questionnaires were filled in by the patient or relatives at3, 6, 9, and 12 months after inclusion. After receiving the ques-tionnaires back, the research coordinator phoned the patientwhen questions were not filled in.
+Questionnaires. Baseline characteristics and data about medi-
+cal history were obtained.
+Neurologic symptoms and signs, disability scale (GBS dis-
+ability scale ranging from 0 “no symptoms or signs” to 6“dead”
+19), impairment scale (MRC sumscore ranging from 0
+“paralysis” to 60 “normal strength”20,21), treatment, and course of
+disease were obtained from the questionnaire filled in by theneurologist. After hospital discharge, the GBS disability scoreand course of disease were obtained from the questionnaire filledin by the patient.
+To determine nadir, improvement, deterioration, or stabili-
+zation during 1 year follow-up, the GBS disability score
+19and
+MRC sumscore20,21were used. The first progressive phase needs
+to have its nadir within 4 weeks, in accordance with the criteriafor GBS. Thereafter, TRFs (in case of GBS-TRF) and exacerba-tions (in case of A-CIDP) occurred with their own nadir. Be-cause only part of the exacerbations in A-CIDP is treatmentrelated (especially during the later phase of disease), here we usedthe term exacerbations instead of TRFs. In every questionnaire,information on improvement, stabilization, or deterioration wasobtained and we questioned if there was a new hospital visit orany retreatment. A TRF or exacerbation was defined as follows:1) improvement in GBS disability score of at least 1 grade orimprovement in MRC sumscore of more than 5 points aftercompletion of therapy, followed by a worsening in GBS disabil-
+Neurology 74 May 25, 2010 1681
+
+ity score of at least 1 grade or a decrease in MRC sumscore of
+more than 5 points within the first months after onset of disease;or 2) stabilization of the clinical course for more than 1 weekafter completion of therapy, followed by a worsening of at least 1grade of the GBS disability score or more than 5 points on theMRC sumscore.
+8,11
+For both groups, follow-up was 1 year after inclusion. How-
+ever, for counting the number of exacerbations in case ofA-CIDP, we only used the period before maintenance treatmentwith IVIg or steroids was started. Time to TRF or exacerbation isdefined as the number of days from onset of first weakness untilnadir of the TRF or exacerbation.
+We defined patients as pure motor when pinprick and vibra-
+tion sense were normal. We used the MRC sumscore and theGBS disability scale to indicate the severity of disease (mildlyaffected /H11005able to walk unaided /H11005GBS disability scale /H113492;
+severely affected /H11005unable to walk unaided /H11005GBS disability
+scale/H110222).
+Preceding infections. The following preceding infections
+were scored within 4 weeks of onset of GBS: respiratory tractinfection or influenza(-like) illness and gastroenteritis or diar-rhea. These patients were considered to have a clinically definedinfection when these symptoms met the criteria for these infec-
+tions according to the Centers for Disease Control and Preven-tion definitions for nosocomial infections.
+22Acute phase serum
+samples were tested to determine recent infection with Campy-
+lobacter jejuni using the assay described before.23
+Antiganglioside antibodies. We screened for the presence of
+immunoglobulin G (IgG) and immunoglobulin M (IgM) anti-bodies against GM1, GM2, GD1a, GD1b, and GQ1b inELISA, according to methods described earlier.
+24,25
+CSF examination. In the acute phase of disease, number of
+cells and protein level in the CSF was determined.
+Electrophysiology. According to the protocol, electrophysi-
+ologic investigations were scheduled within 3 weeks after inclu-sion in the GRAPH study. Patients were analyzed whether theyfulfilled the electrophysiologic criteria for CIDP.
+26The electro-
+physiologic investigations were executed according to local set-tings of the participating hospitals. Motor nerve conductionstudies were performed orthodromically in the ulnar, peroneal,and optionally in the median and tibial nerve. In these nerves thedistal and proximal compound muscle action potential (dCMAPand pCMAP) amplitude, distal motor latency (DML), motornerve conduction velocity (mNCV), and F-wave latencies weremeasured. Antidromic sensory nerve conduction studies wereperformed in the median, ulnar, and optionally in the suralnerves. The sensory nerve action potential (SNAP) amplitudeand sensory nerve conduction velocity (sNCV) were measured.The nerves were stimulated at the conventional stimulationpoints.
+27Needle EMG was performed optionally. Patients were
+classified as demyelinating, axonal, equivocal, or normal accord-ing to the published classification.
+28Reference values were de-
+rived from Buschbacher.27In 6 patients with A-CIDP, a second
+electrophysiologic investigation was also performed.
+Statistics. To compare characteristics of patients with GBS and
+controls, we performed an unpaired ttest or 2-sided /H92732test. If
+appropriate, the Mann-Whitney Utest or the Fisher exact test
+was used. Data are cited with mean /H11006SD or median /H1100195%
+confidence interval (95% CI). For categorical variables, frequen-
+cies and percentages are given. All calculations were performedusing SPSS for Windows 2000 (version 15.0 SPSS, Chicago). Apvalue/H110210.05 was considered to be significant.
+RESULTS
+Patients. Between February 2005 and
+October 2008, 170 patients with GBS or MFS wereenrolled in the GRAPH study. Three misdiagnosedpatients were excluded. Three other patients were ex-cluded because they had Bickerstaff encephalitis(n/H110052) or myelitis (n /H110051). Of the remaining 164
+patients (146 GBS and 18 MFS), there were 16 pa-tients (10%) with at least 1 TRF, and 8 patients(5%) who turned out to have A-CIDP. None ofthese 24 patients were included in our previous retro-spective study.
+11There were no patients with SIDP.
+Clinical characteristics, preceding infections, and
+laboratory findings in GBS-TRF (n /H1100516) and
+A-CIDP (n /H110058) in the acute phase are listed in table
+1. Patients with A-CIDP had significantly less cranialnerve dysfunction compared to patients with GBS-TRF (13% vs 69%, p/H110050.03). One A-CIDP and no
+GBS-TRF patients had a preceding vaccination. TheTable 1 Clinical characteristics, preceding infections, and laboratory findings in
+the acute phase in patients with GBS-TRF and patients with A-CIDP
+GBS-TRF
+(n/H1154916)A-CIDP
+(n/H115498) pValue
+Male, n (%) 12 (75) 6 (75) 1.0
+Age at onset, y, mean /H11550SD 54/H1100617 47 /H1100618 0.37
+Previous GBS-like episode in medical
+history, n (%)1 (6) 1 (13) 1.0
+Paresthetic/hypesthetic sensations, n (%) 14 (88) 8 (100) 0.54
+Pure motor, n (%) 1 (6) 2 (25) 0.25
+Pain before onset of weakness, n (%) 6 (38) 4 (50) 0.67
+Pain in acute phase, n (%) 13 (81) 5 (71)a0.62
+Cranial nerve dysfunction, n (%) 11 (69) 1 (13) 0.03
+III, IV, or VI 6 (38) 0
+VII 10 (63) 1 (13)
+I X ,X ,o rX I I 4 (25) 0
+Clinical preceding infections
+Respiratory tract/influenza(-like), n (%) 5 (31) 2 (25) 1.0
+Gastroenteritis/diarrhea, n (%) 4 (25) 2 (25) 1.0
+CSF
+Cells, 106/L, median (95% CI) 2 (2–4)b2 (0–5)c0.30
+Protein, g/L, median (95% CI) 0.9 (0.4–1.8) 0.7 (0.5–1.6)a0.68
+Increased protein, >0.55 g/L, n (%) 10 (63) 4 (57)a1.0
+Antiganglioside antibodies
+IgM reactivity against GM1, GM2,
+GD1a, GD1b, or GQ1b2 (13) 1 (13) 1.0
+IgG reactivity against GM1, GM2,
+GD1a, GD1b, or GQ1b3 (19) 0 0.53
+Abbreviations: A-CIDP /H11005acute-onset chronic inflammatory demyelinating polyneuropathy;
+CI/H11005confidence interval; GBS-TRF /H11005Guillain-Barré syndrome with treatment-related fluc-
+tuations; IgG /H11005immunoglobulin G; IgM /H11005immunoglobulin M.
+an/H110057.
+bn/H1100515.
+cn/H110056.
+1682 Neurology 74 May 25, 2010
+
+same items listed in table 1 were also compared be-
+tween GBS (n /H11005140) and GBS-TRF (n /H1100516) pa-
+tients. The only significant difference we found was alower percentage of pure motor patients in the GBS-TRF group compared to the GBS group withoutfluctuations (6% vs 39%; p/H110210.05).
+TRFs and exacerbations. The course of disease during
+follow-up is indicated in table 2. There was a signifi-cant difference in the median time to reach nadir,first TRF/exacerbation, and second TRF/exacerba-tion between GBS-TRF and A-CIDP. All patientswith GBS-TRF had their nadir within 16 days andthe patients with A-CIDP within 22 days. The me-dian time to reach nadir in the GBS group withoutfluctuations was 8 days which was very much compa-rable with the GBS-TRF group.
+The first TRF in the GBS-TRF group was always
+within 8 weeks (median 18 days; range 10–54 days),and 14 of the 16 patients with GBS-TRF had theirfirst TRF within 4 weeks. Five (31%) patients withGBS-TRF also had a second TRF and none of these
+patients had more than 2 TRFs. All patients withA-CIDP had their exacerbations after 4.5 weeks (me-dian 51 days; range first exacerbation: 31–63 days).The patients with A-CIDP had 2 to 5 exacerbationsuntil intermittent treatment was started. At all time-points there was a significant difference in level ofweakness and severity between GBS-TRF andA-CIDP (table 2). The GBS-TRF group, in compar-ison with the GBS group without fluctuations, wasmore severely affected (100% vs 79%; p/H110210.05) and
+contained more ventilated patients (44% vs 15%;p/H110210.05) at nadir.
+Laboratory findings. Table 1 shows the results from
+the laboratory findings. There were no differences inCSF protein level and number of cells in CSF be-tween GBS-TRF and A-CIDP. In 1 patient withGBS-TRF (6%) and none of the patients withA-CIDP, serologic evidence was found for recent in-fection with C jejuni . One patient with GBS-TRF
+had IgG and IgM reactivity against GM1 and GD1b.In 1 patient with GBS-TRF, IgG reactivity againstGD1b and GQ1b was found; in another patient withGBS-TRF, IgG reactivity against GD1b was found.In 1 patient with GBS-TRF and 1 patient with
+A-CIDP, IgM reactivity against GM1 was found.
+Electrophysiologic findings. Electrophysiologic inves-
+tigations of 14 patients with GBS-TRF and 8 pa-tients with A-CIDP were performed after 13 days(median; 95% CI 0–16 days). In 18 patients, theelectrophysiologic investigations were performedwithin 3 weeks after inclusion (as was formulated inthe protocol). Due to clinical conditions, 4 patientshad their electrophysiologic investigation 1 or 2weeks later. In 6 patients with A-CIDP, a secondelectrophysiologic investigation was performed (me-dian 67 days, 95% CI 15–187 days). Of 2 patientswith GBS-TRF, the electrophysiologic investigationscould not be retrieved. The A-CIDP group tended tohave more CIDP-like abnormalities (table 3). Ahigher percentage of patients with A-CIDP showeddecreased mNCVs compared to the GBS-TRF group(p/H110050.04). The A-CIDP group showed a higher
+percentage of other demyelinating features, moresensory abnormalities, and a lower percentage of pa-tients showed active denervation. However, thesedifferences did not reach significance. Only 2 pa-tients in the A-CIDP group fulfilled the electrophysi-ologic criteria for CIDP.
+26Yet, also in the GBS-TRF
+group, 2 patients fulfilled these criteria. In the secondEMG, the demyelinating features of the A-CIDPgroup were more pronounced, though still only 2patients fulfilled the strict electrophysiologic criteriafor CIDP.
+26Table 2 Course, number, and severity of TRFs in GBS-TRF and exacerbations
+in A-CIDP
+GBS-TRF
+(n/H1154916)A-CIDP
+(n/H115498) pValue
+Course
+Days to reach nadir, median (95% CI)a8.5 (6–11) 16.5 (5–22) 0.03
+Days to reach first TRF/exacerbation,
+median (95% CI)a18 (15–27) 51 (31–63) 0.00
+Days to reach second TRF/exacerbation,
+median (95% CI)a38 (31–46)b105 (52–116)b0.01
+Days from onset of weakness to inclusion 5 (2–10) 14.5 (5–26) 0.01
+Days from onset of paresthesia to
+inclusion8 (5–17)c12.5 (7–24) 0.04
+Days from onset of hypesthesia to
+inclusion6.5 (3–12)d10 (7–21)e0.12
+Number
+>2 TRFs/exacerbations, n (%)f0 4 (50) 0.01
+Severity
+GBS disability score <2a tn a d i r ,n( % ) 0 5 (63) 0.00
+MRC sumscore at nadir, median (95% CI) 42 (26–48) 49 (46–54) 0.01
+GBS disability score <2 at first
+TRF/exacerbation, n (%)0 4 (50) 0.01
+MRC sumscore at first TRF/exacerbation,
+median (95% CI)31 (10–40)c50 (45–52)g0.00
+Ventilatory support after onset of
+disease, n (%)7 (44) 0 (0) 0.05
+Abbreviations: A-CIDP /H11005acute-onset chronic inflammatory demyelinating polyneuropathy;
+CI/H11005confidence interval; GBS-TRF /H11005Guillain-Barré syndrome with treatment-related fluc-
+tuations; GBS disability score /H113492/H11005able to walk independently (mildly affected); MRC /H11005
+Medical Research Council.
+aFrom onset of disease.
+bn/H110055.
+cn/H1100514.
+dn/H1100510.
+en/H110056.
+fUntil intermittent treatment was started.
+gn/H110057.
+Neurology 74 May 25, 2010 1683
+
+DISCUSSION Because prognosis and treatment
+strategy in patients with GBS-TRF and patients withA-CIDP differ, it is important to distinguish these 2entities in an early phase of disease. We prospectivelyinvestigated the differences between patients withGBS-TRF and patients with A-CIDP.
+In the current study, 5% of the patients initially
+diagnosed with GBS were revealed to have A-CIDP.This is the first study that prospectively investigatedthe development of A-CIDP in a large group of pa-tients initially diagnosed with GBS. By definition,patients with CIDP should have their nadir beyond 8weeks. In this study, all patients with A-CIDP hadtheir nadir already within 4 weeks, being the reasonthat they initially were diagnosed with GBS; how-ever, active disease exceeded 8 weeks in all patientswith A-CIDP.
+4,5In our retrospective study on this
+issue for which we used our CIDP database, it ap-peared that over half of the patients with A-CIDPalready reached their nadir within 4 weeks.
+11The fact
+that nadir for A-CIDP often already is reachedwithin 4 weeks underscores the diagnostic difficultiesbetween GBS-TRF and A-CIDP. In this study, 10%
+of the patients with GBS had at least 1 TRF. Thispercentage is comparable with the percentages de-scribed before.
+9,11,17
+This prospective study showed different clinical,
+biological, and electrophysiologic characteristics ofpatients with A-CIDP compared to patients withGBS-TRF. The median time to reach nadir, first ex-acerbation, and second exacerbation was significantlylonger in the A-CIDP group compared to the GBS-TRF group. In contrast to patients with A-CIDP,none of the patients with GBS-TRF deteriorated af-ter 8 weeks. Most patients with GBS-TRF had theirfirst deterioration within 4 weeks and none of thepatients with GBS-TRF had more than 2 TRFs. Atleast half of the patients with A-CIDP were able towalk independently at nadir of the different deterio-rations and none of the patients with A-CIDPneeded artificial ventilation. This is significantly dif-ferent from the patients with GBS-TRF, where noneof the patients were able to walk independently and44% needed artificial ventilation at nadir of the dif-ferent deteriorations. In line with the differences inseverity based on the GBS disability score, the MRCsumscore was significantly lower in the GBS-TRFgroup compared to the A-CIDP group. In countingthe number of, time to, and severity during the dete-riorations it should be considered that therapy is aconfounder in both groups. Therefore, we onlycounted the exacerbations in the A-CIDP group be-fore the start of intermittent treatment.
+Patients with A-CIDP had significantly less cra-
+nial nerve dysfunction compared with the group ofpatients having GBS-TRF, which is in line with ourprevious retrospective study.
+11The percentage of pa-
+tients with cranial nerve involvement and the level ofdisability and weakness in the A-CIDP group are inline with the clinical characteristics usually found inCIDP.
+7There were no differences in preceding infec-
+tions between the GBS-TRF and A-CIDP group. InGBS-TRF, preceding infections have been describedbefore in a similar percentage.
+17There are no studies
+known about preceding infections in A-CIDP; how-ever, the percentage of preceding infections found inthe group of patients with A-CIDP are comparablewith the preceding infections found in CIDP.
+7None
+of the patients with A-CIDP had a positive C jejuni
+serology. In the GBS-TRF group, there was only 1patient with a positive C jejuni serology and the pure
+motor form. In a previous study, none of the patientswith GBS-TRF had the pure motor form.
+17
+While not significant, patients with GBS-TRF
+more frequently had IgM and IgG reactivity againstantigangliosides as compared to the patients withA-CIDP. IgM anti-GM1 reactivity has been de-Table 3 Electrophysiologic findings in patients with GBS-TRF and patients
+with A-CIDP
+GBS-TRF
+(n/H1154914)A-CIDP
+(n/H115498)p
+ValueaA-CIDP secondEMG (n /H115496)
+Demyelinating features, n (%)
+Prolonged DML 9 (64) 6 (75) 0.86 6 (100)
+Decreased mNCV 4 (29) 6 (75) 0.04 4 (67)
+Conduction block and/or temporal
+dispersion4 (29) 3 (38) 0.67 2 (33)
+Increased latency F-wave 5 (50)
+b5 (83)c0.18 5 (100)d
+Axonal features, n (%)
+Denervation potentials 7 (54)e6 (75) 0.06 1 (20)d
+Sensory abnormality arms, n (%) 7 (50) 0 (0) 0.08 5 (83)
+Classification, n (%) 0.53
+Demyelinating 9 (64) 6 (75) 5 (83)
+Axonal 2 (14) 0 0
+Equivocal 3 (21) 2 (25) 1 (17)
+Normal 00 0
+CIDP criteria fulfilled 2 (14) 2 (25) 0.90 2 (33)
+Abbreviations: A-CIDP /H11005acute-onset chronic inflammatory demyelinating polyneuropathy;
+conduction block or temporal dispersion /H11005with proximal compound muscle action poten-
+tial/distal compound muscle action potential ratio of /H1134950% (distal compound muscle action
+potential /H1135020% lower limit of normal); decreased mNCV /H11005mNCV /H1102190% lower limit of
+normal (85% if dCMAP /H1102150% lower limit of normal); DML /H11005distal motor latency; F-wave
+abnormality /H11005F-wave latency /H11022120% upper limit of normal or absent F-wave; GBS-TRF /H11005
+Guillain-Barré syndrome with treatment-related fluctuations; mNCV /H11005motor nerve con-
+duction velocity; prolonged DML /H11005DML/H11022110% of upper limit of normal (120% if dCMAP
+/H11021100% of lower limit of normal); sensory abnormality /H11005sensory nerve action potential
+/H1102150% lower limit of normal or absent.
+apValue of differences between first EMGs of GBS-TRF group and A-CIDP group.
+bn/H1100510.
+cn/H110056.
+dn/H110055.
+en/H1100513.
+1684 Neurology 74 May 25, 2010
+
+scribed before in CIDP and other chronic neuropa-
+thies, but in lower percentages than in GBS,comparable with our previous findings.
+25
+Although for most individual electrophysiologic
+variables there was no statistical significance, theA-CIDP group displayed a trend toward a more CIDP-like electrophysiologic investigation.
+26Signs of axonal
+damage (denervation potentials) are rare in the A-CIDPgroup, while more than half of the patients with GBS-TRF showed signs of axonal damage in the acute phase.Probably the numbers of patients per group were toosmall to reach statistical significance.
+None of the 18 patients with Miller Fisher syn-
+drome (MFS) enrolled in this study developed TRFs.This is a remarkable observation because recurrencesof MFS are more frequent compared to GBS.
+29
+Compared to the group of patients with GBS
+without TRFs, this study additionally showed thatthe more severely affected patients with GBS withsensory disturbances are at risk for developing TRFs.
+This prospective study confirmed the results of our
+retrospective study and added more robust factors andrefined the results that can help to distinguish more ac-curately between these variants of inflammatory poly-neuropathy in the early phase of disease.
+11These results
+and our experience indicate that the diagnosis ofA-CIDP should be considered when a patient thoughtto have GBS deteriorates again beyond 8 weeks fromonset or when deterioration occurs 3 times or more.Patients with A-CIDP generally are less severely dis-abled compared to patients with GBS-TRF. Patientsremaining able to walk independently at nadir of differ-ent deteriorations, having no cranial dysfunction, andshowing electrophysiologic features likely to becompatible with CIDP are more likely to haveA-CIDP. In these patients, maintenance treatmentshould be considered.
+AUTHOR CONTRIBUTIONS
+Statistical analysis was conducted by Dr. L. Ruts.
+COINVESTIGATORS
+The Dutch GBS Study Group: L. Ruts and Prof. dr. P.A. van Doorn
+(Erasmus MC, Rotterdam, n /H1100533), H.A.W. Sinnige (Maasstad ZH,
+locatie Clara & Zuider, n /H1100512), Dr. A.J. van der Kooi (AMC, Amster-
+dam, n/H1100510), Dr. G.W. van Dijk (Canisius-Wilhelmina, Nijmegen, n /H11005
+10), F.H. Vermeij (SFG, Rotterdam, n /H1100510), Dr. U.A. Badrising (Be-
+thesda ZH, Middelharnis, n /H110058), Dr. I.N. van Schaik (OLVG, Amster-
+dam, n/H110057), J.C.B. Verhey (Vlietland ZH, Schiedam, n /H110057), J.S. Straver
+(Hofpoort ZH, Woerden, n /H110056), Dr. W.H.J.P. Linssen (Lucas Andreas
+ZH, Amsterdam, n /H110055), E.G.J. Zandbergen (ZH Rijnstate, Arnhem,
+n/H110054), Dr. M.C. de Rijk (Catharina-ZH, Eindhoven, n /H110054), Dr. W.L.
+van der Pol (UMCU, Utrecht, n /H110054), Dr. J.P. Blankevoort (Flevo ZH,
+Almere, n /H110053), D.G. Oenema (Wilhelmina ZH, Assen, n /H110053), B.
+Feenstra (Lievensberg ZH, Bergen op Zoom, n /H110053), D.J. Hofstee (St.
+Jansdal ZH, Harderwijk, n /H110053), Dr. R. Beekman (Atrium MC, Heerlen,
+n/H110053), Dr. C.G. Faber (UMCM, Maastricht, n /H110053), Dr. R.A.I.A.M.
+Bernsen (Jeroen Bosch ZH, Den Bosch, n /H110053), W.G.H. Oerlemans
+(Meander MC, Amersfoort, n /H110052), Dr. R.W.M. Keunen (HAGA ZH
+loc. Leyenburg, Den Haag, n /H110052), G.H.M. Verheul (Groene Hart ZH,Gouda, n /H110052), Dr. J.W. Snoek (Martini ZH, Groningen, n /H110052), T.C.
+van der Ree (Westfries Gasthuis, Hoorn, n /H110052), W.J. Schuiling (MC
+Leeuwarden, Leeuwarden, n /H110052), Dr. J.L.M. Jongen (Ruwaard van
+Putten ZH, Spijkenisse, n /H110052), Dr. L.H. Visser (Sint Elisabeth ZH,
+Tilburg, n /H110052), G.M.J. Lassouw (VieCuri MC, Venlo, n /H110052), Dr. I.H.
+de Kwa (Slotervaart ZH, Amsterdam, n /H110051), J.A. Don (Delfzicht ZH,
+Delfzijl, n /H110051), Dr. M.J.B. Taphoorn (HAGA ZH loc. Westeinde, Den
+Haag, n /H110051), F. Visscher (St. Oosterschelde ZH, Goes, n /H110051), R.J.W.
+Witteveen (Rijnland ZH, Leiderdorp, n /H110051), Prof. dr. J.J.G.M. Vers-
+chuuren (LUMC, Leiden, n /H110051), E.M. Leenders (IJsselmeer ZH, Lelys-
+tad, n/H110051), Dr. P.H.M.F. van Domburg (Laurentius ZH, Roermond,
+n/H110051), D.M.H. Zuidgeest (Ikazia ZH, Rotterdam, n /H110051), H.J. Vroon
+(Haven ZH, Rotterdam, n /H110051), R.J. Groen (Lange Land ZH, Zoeter-
+meer, n /H110051).
+ACKNOWLEDGMENT
+The authors thank the patients for taking part in the study and Dr. K.
+Kuitwaard, Dr. M.L. Kuijf, and Dr. S.I. van Nes, residents in Neurology(Erasmus MC, Rotterdam), and Dr. R. van Koniningsveld (currentlyworking in Elkerliek ziekenhuis, Helmond), for including patients. Theyalso thank A.P. Tio-Gillen for determining the antiganglioside antibodies(Erasmus MC, Rotterdam) and M.M. de Kimpe, research coordinator,GRAPH study (Erasmus MC, Rotterdam).
+DISCLOSURE
+Dr. Ruts reports no disclosures. Dr. Drenthen receives research supportfrom the Prinses Beatrix Fonds. Dr. Jacobs receives research support fromthe Netherlands Organization for Health Research and Development,Erasmus MC, the Prinses Beatrix Fonds, and the GBS-CIDP FoundationInternational. Dr. van Doorn receives research support from the PrinsesBeatrix Fonds, the GBS-CIDP Foundation International, and BaxterBiopharmaceutics.
+Received October 24, 2009. Accepted in final form February 3, 2010.
+REFERENCES
+1. Hughes RA, Cornblath DR. Guillain-Barre ´ syndrome.
+Lancet 2005;366:1653–1666.
+2. Koller H, Kieseier BC, Jander S, Hartung HP. Acute and
+chronic inflammatory neuropathies: diagnosis. Dtsch MedWochenschr 2003;128:1357–1360.
+3. van Doorn PA, Ruts L, Jacobs BC. Clinical features,
+pathogenesis, and treatment of Guillain-Barre ´ syndrome.
+Lancet Neurol 2008;7:939–950.
+4. Asbury AK, Cornblath DR. Assessment of current diag-
+nostic criteria for Guillain-Barre ´ syndrome. Ann Neurol
+1990;27:S21–S24.
+5. van der Meche ´ FG, Van Doorn PA, Meulstee J, Jennekens
+FG. Diagnostic and classification criteria for the Guillain-Barre´ syndrome. Eur Neurol 2001;45:133–139.
+6. Research criteria for diagnosis of chronic inflammatory de-
+myelinating polyneuropathy (CIDP): Report from an AdHoc Subcommittee of the American Academy of Neurol-ogy AIDS Task Force. Neurology 1991;41:617–618.
+7. McCombe PA, Pollard JD, McLeod JG. Chronic inflam-
+matory demyelinating polyradiculoneuropathy: a clinicaland electrophysiological study of 92 cases. Brain 1987;110:1617–1630.
+8. Kleyweg RP, van der Meche ´ FG. Treatment related fluctu-
+ations in Guillain-Barre ´ syndrome after high-dose immu-
+noglobulins or plasma-exchange. J Neurol NeurosurgPsychiatry 1991;54:957–960.
+9. Osterman PO, Fagius J, Safwenberg J, Wikstrom B. Early
+relapse of acute inflammatory polyradiculoneuropathy af-ter successful treatment with plasma exchange. Acta Neu-rol Scand 1988;77:273–277.
+Neurology 74 May 25, 2010 1685
+
+10. Ropper AE, Albert JW, Addison R. Limited relapse in
+Guillain-Barre ´ syndrome after plasma exchange. Arch
+Neurol 1988;45:314–315.
+11. Ruts L, van Koningsveld R, van Doorn PA. Distinguishing
+acute-onset CIDP from Guillain-Barre ´ syndrome with
+treatment related fluctuations. Neurology 2005;65:138–140.
+12. Hughes RA. The spectrum of acquired demyelinating
+polyradiculoneuropathy. Acta Neurol Belg 1994;94:128–132.
+13. Oh SJ, Kurokawa K, de Almeida DF, Ryan HF, Jr., Claus-
+sen GC. Subacute inflammatory demyelinating polyneu-ropathy. Neurology 2003;61:1507–1512.
+14. Mori K, Hattori N, Sugiura M, et al. Chronic inflamma-
+tory demyelinating polyneuropathy presenting with fea-tures of GBS. Neurology 2002;58:979–982.
+15. Odaka M, Yuki N, Hirata K. Patients with chronic inflam-
+matory demyelinating polyneuropathy initially diagnosedas Guillain-Barre ´ syndrome. J Neurol 2003;250:913–916.
+16. Mygland A, Monstad P, Vedeler C. Onset and course of
+chronic inflammatory demyelinating polyneuropathy.Muscle Nerve 2005;31:589–593.
+17. Visser LH, van der Meche ´ FG, Meulstee J, van Doorn PA.
+Risk factors for treatment related clinical fluctuations inGuillain-Barre ´ syndrome: Dutch Guillain-Barre ´ study
+group. J Neurol Neurosurg Psychiatry 1998;64:242–244.
+18. Ropper AH. The Guillain-Barre ´ syndrome. N Engl J Med
+1992;326:1130–1136.
+19. Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM.
+Controlled trial prednisolone in acute polyneuropathy.Lancet 1978;2:750–753.
+20. Kleyweg RP, van der Meche ´ FG, Schmitz PI. Interobserver
+agreement in the assessment of muscle strength and func-tional abilities in Guillain-Barre ´ syndrome. Muscle Nerve
+1991;14:1103–1109.
+21. Merkies IS, Schmitz PI, van der Meche ´ FG, van Doorn
+PA. Comparison between impairment and disability scalesin immune-mediated polyneuropathies. Muscle Nerve2003;28:93–100.
+22. Garner JS, Jarvis WR, Emori TG, Horan TC, Hughes JM.
+CDC definitions for nosocomial infections, 1988. Am J
+Infect Control 1988;16:128–140.
+23. Jacobs BC, van Doorn PA, Schmitz PI, et al. Campy-
+lobacter jejuni infections and anti-GM1 antibodies in
+Guillain-Barre ´ syndrome. Ann Neurol 1996;40:181–187.
+24. Ang CW, Jacobs BC, Brandenburg AH, et al. Cross-
+reactive antibodies against GM2 and CMV-infected fibro-blasts in Guillain-Barre ´ syndrome. Neurology 2000;54:
+1453–1458.
+25. Kuijf ML, Van Doorn PA, Tio-Gillen AP, et al. Diagnos-
+tic value of anti-GM1 ganglioside serology and validationof the INCAT-ELISA. J Neurol Sci 2005;239:37–44.
+26. Franssen H. Chronic Inflammatory Neuropathies: Diag-
+nostic Criteria for Neuromuscular Disorders. London:Royal Society of Medicine Press; 1997:53–59.
+27. Buschbacher RM. Manual of Nerve Conduction Studies,
+2nd ed. New York: Demos Medical Publishing; 2006.
+28. Hadden RD, Cornblath DR, Hughes RA, et al. Electro-
+physiological classification of Guillain-Barre ´ syndrome:
+clinical associations and outcome: Plasma Exchange/San-doglobulin Guillain-Barre ´ Syndrome Trial Group. Ann
+Neurol 1998;44:780–788.
+29. Kuitwaard K, van KR, Ruts L, Jacobs BC, van Doorn PA.
+Recurrent Guillain-Barre ´ syndrome. J Neurol Neurosurg
+Psychiatry 2009;80:56–59.
+Save Money and Time, Earn Practice Management
+CME from the AAN
+Looking to streamline your costs and still stay current on coding, reimbursement, and Medicare
+changes? Register for the 2010 Practice Management Webinars for neurologists from the AAN andsave on training your entire staff—in only one hour. Invite your practice managers and coding staffto learn about the latest updates and other important issues in running an efficient and effectivepractice. There’s no limit on the number of attendees per webinar. 1 CME per webinar. Learn moreatwww.aan.com/view/pm .
+1686 Neurology 74 May 25, 2010

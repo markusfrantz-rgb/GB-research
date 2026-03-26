@@ -1,0 +1,404 @@
+Vol:.(1234567890)Journal of Neurology (2024) 271:3506–3511
+https://doi.org/10.1007/s00415-024-12321-4
+ORIGINAL COMMUNICATION
+Efgartigimod in the treatment of Guillain–Barré syndrome
+Huiqiu Zhang1,2 · Jing Ma1,2 · Yingna Feng1 · Hui Ma1 · Dan Liu1 · Xiaomin Pang1 · Xueli Chang1 · Rongjuan Zhao1 · 
+Juan Wang1 · Junhong Guo1 · Wei Zhang1 
+Received: 14 February 2024 / Revised: 8 March 2024 / Accepted: 10 March 2024 / Published online: 26 March 2024 
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany 2024
+Abstract
+Background Guillain–Barré Syndrome (GBS) is caused by immunoglobulin G (IgG) autoantibodies. Efgartigimod, a human 
+IgG antibody Fc fragment that acts as a natural ligand for the FcRn, can increase IgG degradation, which thus may be a 
+promising therapeutic drug for GBS.
+Case presentation The two patients presented with postinfectious and acute flaccid paralysis. On admission, they were bed-
+ridden. Nerve conduction studies indicated peripheral neuropathy. GBS was suspected and they are treated with two doses 
+of efgartigimod (10 mg/kg) within 5 days. Their muscle strength improved gradually and 4 weeks after the initial dose, they 
+could walk independently. Following the first dose, Patient 1 complaint of muscle soreness, which subsided the next morn-
+ing. Patient 2 was intubated due to respiratory failure the day after the initial dose, and did not report other adverse effects.
+Discussion In GBS patients, two doses of efgartigimod (10 mg/kg) were effective in rapidly improving muscle strength, 
+with a satisfactory safety profile. The findings suggest a potential role for efgartigimod in modifying the disease process in 
+GBS patients.
+Conclusion Efgartigimod seems effective and safe in the treatment of GBS. This study indicates the potential role of efgar -
+tigimod as a novel treatment option for GBS. Well-designed clinical trials should be conducted.
+Keywords Guillain–Barré syndrome · Efgartigimod · FcRn inhibitor · IgG
+Introduction
+Guillain–Barré syndrome (GBS) is an immune-mediated 
+polyneuropathy, with an annual global incidence of approxi-
+mately 100,000 cases [1 ]. It typically presents as a mono-
+phasic disease marked by progressive flaccid paralysis. GBS 
+is caused by immunoglobulin G (IgG) autoantibodies and 
+molecular mimicry is the mechanism by which infectious 
+agents trigger an immune response against autoantigens 
+[2–4].
+Current immunotherapies for GBS mainly include 
+intravenous immunoglobulin (IVIg) and plasma exchange (PLEX) [5 ]. IVIg is a biologic agent obtained through the 
+fractionation of blood from 2000 to 16,000 healthy donors 
+and plasma exchange is a blood separation technique [6 ]. 
+IVIg and plasma are not always available, especially given 
+the growing global shortage of blood products. In addition, it 
+has been documented IVIg takes two weeks to become effec-
+tive [7 ]. And patients treated with IVIg commonly experi-
+enced side effects (headache, tachycardia, nausea, vomiting, 
+etc.), and 2–6% of patients had serious side effects (thrombo-
+sis, aseptic meningitis, renal insufficiency, neutropenia, etc.) 
+[8]. Plasma exchange can show clinical effects within the 
+first week of treatment [7 ], but it may also remove immune 
+complexes and cytokines and can induce arrhythmias and 
+hypotension [9 ]. Furthermore, despite the application of con-
+ventional immunotherapeutic approaches, around 3–7% of 
+patients die, and 20% remain unable to walk after 6 months 
+[10]. Therefore, there is an urgent need for effective, rap -
+idly acting, and well-tolerated therapeutic drugs for GBS 
+patients, independent of blood donations.
+The neonatal Fc receptor (FcRn) ensures IgG homeo-
+stasis by preventing the degradation of IgG in lysosomes  * Junhong Guo 
+ neuroguo@163.com
+ * Wei Zhang 
+ zhangvey@126.com
+1 Department of Neurology, First Hospital, Shanxi Medical 
+University, No.85, Jiefang South Street, Taiyuan, China
+2 First Clinical Medical College, Shanxi Medical University, 
+Taiyuan, China
+
+3507 Journal of Neurology (2024) 271:3506–3511 
+and prolonging their half-life [11]. Efgartigimod, a human 
+IgG antibody Fc fragment that acts as a natural ligand for 
+the FcRn, can increase IgG degradation [12]. In the Phase I 
+trial of efgartigimod [13], it significantly reduced IgG lev -
+els without serious adverse events which provide a basis 
+for treating IgG autoantibody-mediated diseases. Sev -
+eral studies have reported the safety and effectiveness of 
+efgartigimod in IgG autoantibody-mediated diseases, such 
+as myasthenia gravis, primary immune thrombocytope-
+nia, pemphigus vulgaris, and foliaceus [14 –18]. However, 
+no study has yet investigated the efficacy of efgartigimod 
+in patients with GBS. Here, we report the first two GBS 
+patients treated with efgartigimod.
+Case presentation
+Patient 1
+An 81-year-old female patient with a history of hypertension 
+and diabetes mellitus presented with progressive limb weak -
+ness and numbness for 8 days. She also had a diarrhea bout 
+9 days prior to presentation. On admission, she was bedrid-
+den. The cranial nerves were intact. The Medical Research 
+Council (MRC) scale values were grade 3 for neck flexors 
+and bilateral upper limb muscles, and grade 2 for lower limb 
+muscles. Deep tendon reflexes were decreased diffusely. 
+Hypoesthesia to temperature and pain in a stocking-and-
+glove pattern was noted. Nerve conduction studies showed 
+mixed demyelination and axonal sensory-motor abnormali-
+ties (Table  1). Cerebrospinal fluid (CSF) analysis revealed 
+albuminocytological dissociation with a normal cell count 
+and an elevated protein level of 1.56 g/L (reference range 
+0.2–0.45 g/L). She was diagnosed with GBS, even though 
+serum anti-ganglioside antibodies (GM1, GM2, GM3, GM4, 
+GD1a, GD1b, GD2, GD3, GT1a, GT1b, GQ1b, and sulfa -
+tide) were negative.
+The patient was immediately managed with efgartigi-
+mod at a dose of 10 mg/kg, and the progression of her 
+muscle weakness was halted. A second dose of efgartigi-
+mod (10 mg/kg) was administered 4 days later. After the 
+initial dose, the patient had complaint of muscle soreness, 
+which was untreated and subsided the next morning. The 
+patient’s condition improved gradually, as reflected by the 
+GBS disability scale [19], Inflammatory Neuropathy Cause 
+and Treatment (INCAT) disability score [20], MRC sum 
+score [21, 22], Inflammatory Rasch‐ Built Overall Dis-
+ability Scale (I-RODS) [23], and grip strength measured 
+with an electronic hand dynamometer (EH101, CAMRY, 
+CHINA) (Fig.  1a, c; Supplementary Table 1). The MRC sum 
+score is the sum of the MRC score of six muscles (deltoid, 
+biceps brachii, extensor carpi radialis, iliopsoas, quadriceps 
+femoris, and the tibialis anterior) on both sides, with scores 
+Table 1  Nerve conduction study findings in the two patients
+CMAP compound motor action potential; SNAP sensory nerve action potential; DML distal motor latency; MCV motor conduction velocity; SCV sensory conduction velocity; ↓ decrease; ↑ 
+increase; NT not tested; NR non-responsiveNever Patient 1 Patient 2
+CMAP (mV)/
+SNAP (uV) ampli-
+tudeDML (ms) MCV/SCV (m/s) F wave 
+latency 
+(ms)Frequency 
+of F waveCMAP (mV)/
+SNAP (uV) ampli-
+tudeDML (ms) MCV/SCV (m/s) F wave 
+latency 
+(ms)the fre-
+quency of F 
+wave
+Median Left 1.32↓/NR 6.75↑ 44.2↓/NR 29.5 60%↓ 7.2/23.2 3.24 55.3/48.5 22.9 30%↓
+Right 2.1↓/NR 7.94↑ 35.4↓/NR 28.8 90% 7.2/23.2 3.00 61.2/46.8 23.8 50%↓
+Ulnar Left 2.2↓/NR 4.20↑ 49.5↓/NR 25.7 100% 6.1↓/10.1 2.44 61.0/47.9 24.9 70%↓
+Right 4.5↓/NR 3.05 41.0↓/NR 24.6 100% 6.1↓/8.5 2.38 63.2/46.2 25.7 100%
+Tibial Left 2.3↓/NR 6.17↑ NT/NR NR 0%↓ 5.0/ NR 3.28 NT/ NR 45.9 100%
+Right 1.86↓/NR 5.73↑ NT/NR 41.9 30%↓ 5.7/ NR 4.12 NT/ NR 48.6 100%
+common peroneal Left 0.70↓/NR 6.72↑ 27.8↓/NR 67.4↑ 20%↓ 4.4/2.3 3.51 49.5/48.7 46.1 40%↓
+Right 0.27↓/NR 11.9↑ 34.2↓/NR NR 0%↓ 6.0/1.42 3.68 45.6/51.3 45.6 50%↓
+
+3508 Journal of Neurology (2024) 271:3506–3511
+ranging from 0 to 60 [21, 22]. Two weeks after the initial 
+dose, the serum albumin level (reference range 40–55 g/L) 
+decreased by 8.93%, and the serum IgG level (reference 
+range 8.6–17.4 g/L) decreased by 52.21% (Fig.  2; Supple -
+mentary Table 1). Four weeks later, the patient was able to 
+walk independently.
+Patient 2
+A 65-year-old woman with a history of hypertension and 
+coronary heart disease presented with progressive weak -
+ness and numbness in four limbs for 3 days and shortness 
+of breath for 2 days. She had a sore throat and stuffy nose 
+7 days earlier. Physical examination on admission revealed 
+bilateral ptosis and dysarthria. The MRC scale value was 
+grade 1 for 4 limb muscles and grade 2 for neck flexors. 
+Deep tendon reflexes were diminished diffusely. Hypoes-
+thesia to temperature and pain in hands and feet were noted. 
+A nerve conduction study revealed reduced amplitudes of 
+bilateral ulnar nerve in motor conduction (Table  1). Arte-
+rial blood gas analysis showed a low  PO2 (55 mmHg) and 
+a high  PCO2 (46.6 mmHg). A diagnosis of GBS was made, although lumbar puncture and anti-ganglioside antibody 
+analysis were not conducted.
+The patient was treated with low-flow oxygen therapy and 
+a dose of efgartigimod (10 mg/kg). Three hours later, her 
+Fig. 1  The changes of the GBS disability score, Inflammatory Neuropathy Cause and Treatment (INCAT) disability score, Medical Research 
+Council (MRC) sum score, Inflammatory Rasch‐Built Overall Disability Scale (I-RODS), and grip strength in Patient 1 (a, c) and Patient 2 (b, d)
+Fig. 2  The levels of albumin and IgG at baseline and 1  week, 
+2 weeks, and 4 weeks after the initial dose of efgartigimod in the two 
+patients
+
+3509 Journal of Neurology (2024) 271:3506–3511 
+muscle strength improved dramatically with an MRC scale 
+value of 3 in four limbs. However, the patient was intubated 
+the next morning for respiratory failure and transferred to 
+the intensive care unit (ICU). On the same day, another dose 
+of efgartigimod (10 mg/kg) was administered. A gradual 
+improvement of muscle strength was noted (Fig.  1b, d; Sup-
+plementary Table 1) and she was successfully extubated 
+after 12 days. Two weeks after the initial dose, the serum 
+albumin level decreased by 22.72%, and the serum IgG level 
+decreased by 29.97% (Fig.  2; Supplementary Table 1). Four 
+weeks later, the patient was able to walk independently.
+Discussion
+GBS is considered an IgG antibody-mediated autoimmune 
+disease [3 ]. Studies support that blockade of the FcRn may 
+serve as a unique treatment approach for such diseases [24]. 
+In the present study, we reported two GBS patients, who 
+were treated with a neonatal Fc receptor antagonist efgar -
+tigimod and experienced rapid improvement within 4 weeks.
+The fundamental mechanism underlying FcRn-mediated 
+IgG recycling is its pH-dependent affinity [25, 26]. When 
+IgG undergoes endocytosis and enters cells within the acidic 
+environment of endocytic vesicles (pH 5.0–6.5), FcRn binds 
+to IgG, preventing its transport to lysosomes for enzymatic 
+degradation. In the extracellular physiological environment 
+(pH 7.4), their affinity diminishes, leading to the release of 
+IgG and completing the recycling process. Efgartigimod has 
+been designed with ABDEG-equipped molecules to increase 
+affinity while preserving the pH-dependent characteristics of 
+FcRn interaction to decrease pathogenic IgG [12]. A study 
+suggested that efgartigimod has a more effective and rapid 
+impact on clearing IgG in cynomolgus monkeys compared 
+to standard IVIg therapy [13].
+To date, there have been no published clinical studies on 
+the treatment of GBS patients with efgartigimod. The Phase 
+I clinical trial indicated that multiple injections of 10 mg/kg 
+efgartigimod resulted in the maximum decrease in IgG lev -
+els. Higher doses did not significantly lower IgG levels fur -
+ther and increased the risk of adverse events [13]. Therefore, 
+two doses of efgartigimod (10 mg/kg) were administered for 
+our patients in consideration of the monophasic course of 
+GBS, and they responded well to the treatment. Four weeks 
+after the initial dose, the score of the GBS disability scale 
+decreased by 2 and 3 in the two patients, respectively, and 
+the mean change of the score was less than 2 in GBS patients 
+treated with IVIg or PLEX [27]. However, the best regimen 
+for efgartigimod should be investigated in the future.
+Efgartigimod is well tolerated in our two patients. 
+Patient 1 experienced muscle soreness after treatment. In 
+fact, myalgia is common in GBS patients [28] and might 
+be not associated with efgartigimod. Patient 2 did not report adverse effects, and respiratory failure following 
+intravenous infusion of efgartigimod was considered as a 
+manifestation of disease progression.
+The FcRn plays a crucial role in mediating the recycling 
+pathways of both IgG and albumin, yet IgG interacting at a 
+distinct site from albumin [29]. Efgartigimod has selectiv -
+ity for the IgG binding site of FcRn, and it did not reduce 
+albumin levels in patients with myasthenia gravis [ 15]. 
+However, Patient 2 exhibited a decrease in albumin lev -
+els two weeks after the initial dose. As the median serum 
+albumin level also decreased in IVIg-treated GBS patients 
+[30], the causal link between efgartigimod and decreased 
+albumin levels in GBS patients remains unclear and fur -
+ther studies are needed.
+This study pioneers in presenting case reports of GBS 
+patients undergoing treatment with efgartigimod. It pro-
+vides detailed documentation of drug dosage, drug usage, 
+and changes in relevant scales post-treatment. Additionally, 
+attention is given to the variations in IgG and albumin levels. 
+Encouragingly, both patients achieved favorable outcomes, 
+bolstering confidence in using efgartigimod for treating GBS 
+and other IgG-mediated immune-related disorders.
+Conclusion
+In conclusion, efgartigimod with two doses of 10 mg/kg 
+demonstrates rapid and significant neurological relief in 
+the treatment of GBS, with good tolerability. The findings 
+suggest that efgartigimod may be a promising new treat-
+ment option for GBS, warranting further investigation in 
+studies with larger sample sizes.
+Supplementary Information The online version contains supplemen-
+tary material available at https:// doi. org/ 10. 1007/ s00415- 024- 12321-4.
+Author contributions All authors contributed to the study conception 
+and design. Wei Zhang and Huiqiu Zhang wrote the first draft of the 
+manuscript. All authors read and approved the manuscript.
+Funding This work was supported by the Shanxi Science and Technol-
+ogy Department under grant no. 20210302123245 and Health Com-
+mission of Shanxi Province under grant no.2019034.
+Data availability The data underlying this article are available in the 
+article and in its online supplementary material.
+Declarations  
+Conflicts of interest None of the authors have any financial and con-
+flict of interest to disclose.
+Ethical approval This report has been performed in accordance with 
+the ethical standards laid down in the 1964 Declaration of Helsinki 
+and its later amendments. All the patients provided written informed 
+consent according to the Declaration of Helsinki.
+
+3510 Journal of Neurology (2024) 271:3506–3511
+References
+ 1. Shahrizaila N, Lehmann HC, Kuwabara S (2021) Guillain-Barré 
+syndrome. Lancet (London, England) 397(10280):1214–1228. 
+https:// doi. org/ 10. 1016/ s0140- 6736(21) 00517-1
+ 2. Yuki N, Susuki K, Koga M, Nishimoto Y, Odaka M, Hirata 
+K et al (2004) Carbohydrate mimicry between human gan-
+glioside GM1 and Campylobacter jejuni lipooligosaccharide 
+causes Guillain-Barre syndrome. Proc Natl Acad Sci USA 
+101(31):11404–11409. https:// doi. org/ 10. 1073/ pnas. 04023  
+91101
+ 3. Illa I, Ortiz N, Gallard E, Juarez C, Grau JM, Dalakas MC 
+(1995) Acute axonal Guillain-Barré syndrome with IgG anti-
+bodies against motor axons following parenteral gangliosides. 
+Ann Neurol 38(2):218–224. https:// doi. org/ 10. 1002/ ana. 41038  
+0214
+ 4. Koga M, Takahashi M, Yokoyama K, Kanda T (2015) Ambigu-
+ous value of anti-ganglioside IgM autoantibodies in Guillain-
+Barré syndrome and its variants. J Neurol 262(8):1954–1960. 
+https:// doi. org/ 10. 1007/ s00415- 015- 7806-4
+ 5. (1997) Randomised trial of plasma exchange, intravenous immu-
+noglobulin, and combined treatments in Guillain-Barré syndrome. 
+Plasma exchange/sandoglobulin Guillain-Barré syndrome trial 
+group. Lancet (London, England). 349(9047):225–30.
+ 6. Donofrio PD, Berger A, Brannagan TH 3rd, Bromberg MB, 
+Howard JF, Latov N et al (2009) Consensus statement: the use 
+of intravenous immunoglobulin in the treatment of neuromuscu-
+lar conditions report of the AANEM ad hoc committee. Muscle 
+Nerve 40(5):890–900. https:// doi. org/ 10. 1002/ mus. 21433
+ 7. Patel A, Lynch F, Shepherd SA (2020) Newer immunotherapies 
+for the treatment of acute neuromuscular disease in the critical 
+care unit. Curr Treat Options Neurol 22(3):7. https:// doi. org/ 10.  
+1007/ s11940- 020- 0616-8
+ 8. Burakgazi AZ (2019) Immunoglobulin treatment in neuromus-
+cular medicine. J Clin Neuromuscul Dis 20(4):182–193. https://  
+doi. org/ 10. 1097/ cnd. 00000 00000 000235
+ 9. Szczeklik W, Wawrzycka K, Włudarczyk A, Sega A, Nowak I, 
+Seczyńska B et al (2013) Complications in patients treated with 
+plasmapheresis in the intensive care unit. Anaesthesiol Intensiv 
+Ther 45(1):7–13. https:// doi. org/ 10. 5603/ ait. 2013. 0002
+ 10. Walgaard C, Jacobs BC, Lingsma HF, Steyerberg EW, van den 
+Berg B, Doets AY et al (2021) Second intravenous immunoglob-
+ulin dose in patients with Guillain-Barré syndrome with poor 
+prognosis (SID-GBS): a double-blind, randomised, placebo-
+controlled trial. Lancet Neurol 20(4):275–283. https:// doi. org/  
+10. 1016/ s1474- 4422(20) 30494-4
+ 11. Roopenian DC, Akilesh S (2007) FcRn: the neonatal Fc receptor 
+comes of age. Nat Rev Immunol 7(9):715–725. https:// doi. org/  
+10. 1038/ nri21 55
+ 12. Newland AC, Sánchez-González B, Rejtő L, Egyed M, Rom-
+anyuk N, Godar M et al (2020) Phase 2 study of efgartigimod, 
+a novel FcRn antagonist, in adult patients with primary immune 
+thrombocytopenia. Am J Hematol 95(2):178–187. https:// doi.  
+org/ 10. 1002/ ajh. 25680
+ 13. Ulrichts P, Guglietta A, Dreier T, van Bragt T, Hanssens V, Hof-
+man E et al (2018) Neonatal Fc receptor antagonist efgartigimod 
+safely and sustainably reduces IgGs in humans. J Clin Investig 
+128(10):4372–4386. https:// doi. org/ 10. 1172/ jci97 911
+ 14. Howard JF Jr, Bril V, Burns TM, Mantegazza R, Bilinska M, 
+Szczudlik A et al (2019) Randomized phase 2 study of FcRn 
+antagonist efgartigimod in generalized myasthenia gravis. Neu -
+rology 92(23):e2661–e2673. https:// doi. org/ 10. 1212/ wnl. 00000  
+00000 007600
+ 15. Howard JF Jr, Bril V, Vu T, Karam C, Peric S, Margania T 
+et al (2021) Safety, efficacy, and tolerability of efgartigimod in patients with generalised myasthenia gravis (ADAPT): a mul-
+ticentre, randomised, placebo-controlled, phase 3 trial. Lancet 
+Neurol 20(7):526–536. https:// doi. org/ 10. 1016/ s1474- 4422(21)  
+00159-9
+ 16. Suzuki S, Uzawa A, Murai H (2022) Efgartigimod for general-
+ized myasthenia gravis with or without anti-acetylcholine receptor 
+antibodies: a worldwide and Japanese perspective. Expert Rev 
+Clin Immunol 18(12):1207–1215. https:// doi. org/ 10. 1080/ 17446  
+66x. 2022. 21361 67
+ 17. Broome CM, McDonald V, Miyakawa Y, Carpenedo M, Kuter DJ, 
+Al-Samkari H et al (2023) Efficacy and safety of the neonatal Fc 
+receptor inhibitor efgartigimod in adults with primary immune 
+thrombocytopenia (ADVANCE IV): a multicentre, randomised, 
+placebo-controlled, phase 3 trial. Lancet (London, England) 
+402(10413):1648–1659. https:// doi. org/ 10. 1016/ s0140- 6736(23)  
+01460-5
+ 18. Goebeler M, Bata-Csörgő Z, De Simone C, Didona B, Remenyik 
+E, Reznichenko N et al (2022) Treatment of pemphigus vulgaris 
+and foliaceus with efgartigimod, a neonatal Fc receptor inhibitor: 
+a phase II multicentre, open-label feasibility trial. Br J Dermatol 
+186(3):429–439. https:// doi. org/ 10. 1111/ bjd. 20782
+ 19. Misawa S, Kuwabara S, Sato Y, Yamaguchi N, Nagashima K, 
+Katayama K et al (2018) Safety and efficacy of eculizumab in 
+Guillain-Barré syndrome: a multicentre, double-blind, randomised 
+phase 2 trial. Lancet Neurol 17(6):519–529. https://  doi. org/ 10. 
+1016/ s1474- 4422(18) 30114-5
+ 20. Breiner A, Barnett C, Bril V (2014) INCAT disability score: a 
+critical analysis of its measurement properties. Muscle Nerve 
+50(2):164–169. https:// doi. org/ 10. 1002/ mus. 24207
+ 21. Ren K, Yang A, Lu J, Zhao D, Bai M, Ding J et al (2022) Asso-
+ciation between serum low-density neutrophils and acute-onset 
+and recurrent Guillain-Barré syndrome. Brain Behav 12(1):e2456. 
+https:// doi. org/ 10. 1002/ brb3. 2456
+ 22. Kleyweg RP, van der Meché FG, Schmitz PI (1991) Interobserver 
+agreement in the assessment of muscle strength and functional 
+abilities in Guillain-Barré syndrome. Muscle Nerve 14(11):1103–
+1109. https:// doi. org/ 10. 1002/ mus. 88014 1111
+ 23. Vanhoutte EK, Draak TH, Gorson KC, van Nes SI, Hoeijmakers 
+JG, Van der Pol WL et al (2015) Impairment measures versus 
+inflammatory RODS in GBS and CIDP: a responsiveness com -
+parison. J Peripher Nerv Syst: JPNS 20(3):289–295. https:// doi. 
+org/ 10. 1111/ jns. 12118
+ 24. Blumberg LJ, Humphries JE, Jones SD, Pearce LB, Holgate R, 
+Hearn A et al (2019) Blocking FcRn in humans reduces circu-
+lating IgG levels and inhibits IgG immune complex-mediated 
+immune responses. Sci Adv 5(12):eaax9586. https:// doi. org/ 10.  
+1126/ sciadv. aax95 86
+ 25. Pyzik M, Sand KMK, Hubbard JJ, Andersen JT, Sandlie I, Blum -
+berg RS (2019) The neonatal Fc receptor (FcRn): a misnomer? 
+Front Immunol 10:1540. https:// doi.  org/ 10. 3389/ fimmu.  2019.  
+01540
+ 26. Jaffry M, Menkes DL, Shaikh A, Mandava K, Kothari O, Jaf -
+fry K et al (2023) Neonatal Fc receptor inhibitor therapeutics in 
+neuromuscular disease. J Clin Neuromuscul Dis 24(4):188–198. 
+https:// doi. org/ 10. 1097/ cnd. 00000 00000 000451
+ 27. Hughes RA, Swan AV, van Doorn PA (2014) Intravenous immu-
+noglobulin for Guillain-Barré syndrome. Cochrane Database Syst 
+Rev 2014(9):Cd002063. https:// doi. org/ 10. 1002/ 14651 858. CD002  
+063. pub6
+ 28. Zhao F, Wang J, Zhang J, Pang X, Huang S, Chang X et al (2021) 
+Pain in acute motor axonal neuropathy. Muscle Nerve 64(6):739–
+743. https:// doi. org/ 10. 1002/ mus. 27414
+ 29. Sand KM, Bern M, Nilsen J, Noordzij HT, Sandlie I, Andersen 
+JT (2014) Unraveling the interaction between FcRn and albumin: 
+opportunities for design of albumin-based therapeutics. Front 
+Immunol 5:682. https:// doi. org/ 10. 3389/ fimmu. 2014. 00682
+
+3511 Journal of Neurology (2024) 271:3506–3511 
+ 30. Fokkink WR, Walgaard C, Kuitwaard K, Tio-Gillen AP, van 
+Doorn PA, Jacobs BC (2017) Association of albumin levels with 
+outcome in intravenous immunoglobulin-treated Guillain-Barré 
+syndrome. JAMA Neurol 74(2):189–196. https:// doi. org/ 10. 1001/  
+jaman eurol. 2016. 4480Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.

@@ -1,0 +1,810 @@
+Vol.:(0123456789)Acta Neurologica Belgica (2024) 124:1467–1475 
+https://doi.org/10.1007/s13760-024-02557-2
+REVIEW ARTICLE
+Differentiating recurrent Guillain–Barre syndrome and acute‑onset 
+chronic inflammatory polyneuropathy: literature review
+Berin Inan1,2  · Can Ebru Bekircan‑Kurt1  · Mehmet Demirci3  · Sevim Erdem‑Ozdamar1  · Ersin Tan1 
+Received: 6 December 2023 / Accepted: 7 April 2024 / Published online: 25 April 2024 
+© The Author(s) under exclusive licence to Belgian Neurological Society 2024
+Abstract
+Guillain–Barre syndrome (GBS) is an acute-onset immune-mediated polyneuropathy characterized by ascending symmetrical 
+muscle weakness, diminished reflexes, and sensory symptoms. While GBS typically follows a monophasic course, some 
+patients experience treatment-related fluctuations or recurrences, posing diagnostic challenges in distinguishing GBS from 
+acute-onset chronic inflammatory polyneuropathy (A-CIDP). A-CIDP, may present acutely, simulating GBS, with a nadir 
+in less than 8 weeks, subsequently evolving into a chronic or relapsing course. The distinction between recurrent GBS and 
+A-CIDP is crucial, as A-CIDP necessitates long-term immunosuppression. A PubMed search was conducted using the search 
+terms ‘recurrent Guillain Barre syndrome’ and ‘acute onset CIDP’ focusing on studies in the English language, published 
+between January 1, 2004 and April 30, 2023. Overlapping clinical features, particularly in the early stages, complicate dif-
+ferentiation between recurrent GBS and CIDP. Electrophysiological studies, ultrasonography, and immunological markers 
+have been explored for discrimination; however, definitive criteria for differentiation remain elusive. Recent follow-up studies 
+have further blurred the boundaries between recurrent GBS and A-CIDP, suggesting the persistence of underlying immune 
+processes even in GBS patients without clinical deterioration. This emphasizes the necessity of reevaluating diagnostic 
+criteria and treatment strategies. In conclusion, distinguishing recurrent GBS from A-CIDP remains an ongoing challenge. 
+Existing evidence questions the categorization of recurrent GBS as a distinct entity, challenging its very existence. Continued 
+research is necessary to refine diagnostic criteria and deepen our understanding of these conditions, ultimately advancing 
+patient care. This review delves into the intricacies of recurrent GBS and A-CIDP differentiation and highlights the need for 
+a reevaluation of the recurrent GBS concept.
+Keywords Recurrent Guillain–Barre syndrome · Acute-onset chronic inflammatory demyelinating polyneuropathy · 
+Treatment-related fluctuations · Inflammatory polyneuropathy
+Introduction
+Guillain–Barre syndrome (GBS) is an acute-onset immune-
+mediated polyneuropathy with an incidence of 1–2/1,00,000 
+people per year [1 –5]. GBS is typically characterized by 
+ascending symmetrical muscle weakness and absent or 
+decreased deep tendon reflexes. Patients may also have sensory and autonomic symptoms [2 ]. GBS has several vari-
+ants, with acute inflammatory demyelinating polyneuropathy 
+(AIDP) constituting approximately 85–90% of all GBS cases 
+in the United States and Europe [6 ]. In contrast, the pri-
+mary axonal forms of GBS, acute motor axonal neuropathy 
+(AMAN) and acute motor and sensory axonal neuropathy 
+(AMSAN), are more prevalent in Asia [7 ]. Miller Fisher syn-
+drome (MFS) and Bickerstaff brainstem encephalitis (BBE) 
+are other common variants [3 ]. GBS is often triggered by 
+an immune response to a preceding infection or other event 
+that cross-reacts with peripheral nerve components because 
+of molecular mimicry [3 ]. Campylobacter jejuni infection is 
+the most common antecedent event in GBS [8 ]. Cytomegalo-
+virus (CMV), Influenza A and B, human immunodeficiency 
+virus (HIV), COVID-19 virus, and Zika virus are some of 
+the other viruses which have been associated with GBS 
+ * Berin Inan 
+ berin.inan@yahoo.com
+1 Department of Neurology, Faculty of Medicine, Hacettepe 
+University, Ankara, Turkey
+2 Department of Neurology, Gulhane Faculty of Medicine, 
+University of Health Sciences, Ankara, Turkey
+3 Private Neurology Practice, Ankara, Turkey
+
+1468 Acta Neurologica Belgica (2024) 124:1467–1475
+[8–14]. GBS has also been linked to vaccinations, trauma, 
+and surgery [15, 16].
+GBS has a monophasic course and reaches its peak sever -
+ity within 4 weeks in most cases [1 , 2]. However, approxi-
+mately 5–6% of patients with GBS exhibit treatment-related 
+fluctuations (TRF) [1 , 17–19], defined as worsening of at 
+least one grade on the GBS disability scale or by at least 
+five points on the Medical Research Council (MRC) sum 
+score after improvement or stabilization is achieved by 
+immunotherapy within the first 8 weeks after the disease 
+onset, not occurring more than two times [3 , 17, 18, 20]. In 
+addition, recurrences have been reported in 2–5% of patients 
+with GBS [21]. Recurrent GBS is defined as the presence 
+of at least two GBS episodes with a nadir within 4 weeks 
+and with an interval of ≥ 4 months if the recovery is incom-
+plete after the first episode or an interval of ≥ 2 months if 
+the recovery is complete / near-complete [22]. On the other 
+hand, chronic inflammatory demyelinating polyneuropathy 
+(CIDP) is a chronic acquired immune-mediated neuropathy 
+[23], typically characterized by clinical worsening over the 
+course of at least 8 weeks [23, 24]. Yet, 16% of patients 
+with CIDP, classified as acute-onset CIDP (A-CIDP), may 
+present acutely with a nadir in less than 8 weeks simulat-
+ing GBS, followed by a chronic or relapsing course beyond 
+8 weeks [20, 25, 26]. Patients with three or more TRFs are 
+also included in this definition [25]. However, boundaries 
+between diagnoses are not crystal-clear in all cases. There 
+are overlapping clinical presentations, especially in the early 
+stages, and 2–5% of patients initially diagnosed with GBS 
+turn out to have A-CIDP subsequently [20].
+Distinguishing the patients with GBS and A-CIDP cor -
+rectly is crucial because patients with A-CIDP require long-
+term immunosuppression. Hence, we aim to provide a nar -
+rative review of literature on recurrent GBS (AIDP, AMAN 
+and AMSAN variants) and A-CIDP.
+Materials and methods
+We conducted a PubMed search using the search terms 
+‘recurrent Guillain Barre syndrome’ and ‘acute onset CIDP’ 
+to reach all article types written in English language. All rel-
+evant articles published between January 1, 2004 and April 
+30, 2023 were examined.
+Results
+Studies about recurrent GBS
+Recurrent GBS is a contentious diagnosis reported to be 
+present in 2–5% of patients with GBS in the literature [21, 
+27]. Several studies and case series have provided insights into the common characteristics and distinctions among 
+recurrent GBS cases. Various studies have indicated that 
+younger patients are more likely to experience recurrences 
+[22, 27–29], particularly those under 30 years of age [29]. 
+However, there have been cases of recurrent GBS presented 
+with first episode after the age of 60 [30– 32]. Recurrences 
+are more frequent in AIDP when compared to axonal vari-
+ants of GBS [22, 27, 33]. Antecedent illness serves an inde -
+pendent risk factor for recurrent GBS [22]. The preceding 
+events may vary [9 , 12, 29–31, 34–39] or remain consistent 
+[10, 32, 40–42] in recurrent episodes. Furthermore, a recent 
+study has demonstrated that a high level of thyroid-stimu-
+lating hormone (TSH) is another independent risk factor for 
+recurrent GBS [22].
+Clinical features during episodes are usually similar with 
+varying severity [29, 32, 36, 39, 43, 44]. Some cases have 
+shown milder symptoms in recurrent episodes compared to 
+the initial episode [12, 37, 41], while others have experi-
+enced exacerbations of symptoms or more severe presen-
+tations in following episodes [9 , 30, 31, 40, 45, 46]. The 
+time interval between recurrent episodes varies considerably 
+in the literature. In addition to cases of recurrence after as 
+short as 2 months, cases with long periods of up to 43 years 
+between attacks have also been reported [34, 35, 37, 41–43, 
+46]. Moreover, previous studies have shown that time from 
+onset to nadir of the recurrent episodes slightly diminishes 
+during the course, and time from the triggering infection to 
+the onset of recurrence tends to shorten in successive epi-
+sodes [31, 33, 34].
+The presence of anti-ganglioside antibodies (i.e. GM1, 
+GM2, GM3, GM4, GD1a, GD1b, GD2, GD3, GT1a, GT1b, 
+GQ1b, GalNAc-GD1a), especially IgG type, is known to be 
+pathogenic in GBS patients [ 35, 38, 42], while the role of 
+anti-ganglioside IgM antibodies is still a subject of debate 
+[43]. Moreover, the pattern of antibody positivity may differ 
+from one episode to another in the same patient. The posi-
+tivity of same [32, 36] or distinct [12, 40] anti-ganglioside 
+antibodies in the recurrent episodes have been documented.
+The literature also presents a limited number of cases 
+with recurrent axonal GBS [30, 32, 33, 36]. In a retrospec-
+tive study from Sweden, one of the fifteen recurrent GBS 
+cases was the axonal variant [33]. In another case report, a 
+61-year-old male patient with a history of AMAN experienc-
+ing a recurrence following the second dose of the shingles 
+vaccine has been reported [30]. Jo et al. reported a 75-year-
+old female who underwent two episodes of AMAN after 
+a urinary tract infection, 8 months apart. Anti-GM1 and 
+anti-GD1a IgG antibodies were positive in serum in both 
+episodes [32]. Another case was a 37-year-old male with 
+three episodes of acute axonal motor neuropathy. First and 
+second episodes were 54 days apart, with full recovery, both 
+were following diarrhea. The third episode was 3 years later. 
+Anti-GM1, anti-GM2, anti-GD1b, and anti-GalNAc-GD1a 
+
+1469 Acta Neurologica Belgica (2024) 124:1467–1475 
+antibodies were positive in the first and third episodes. The 
+authors initially interpreted the case as TRF after the second 
+episode and later diagnosed it as recurrent GBS [36].
+Recurrent GBS may also manifest as a part of combined 
+central and peripheral demyelination (CCPD). We had a 
+young male patient with recurrent simultaneous central and 
+peripheral nervous system demyelination, 12 years apart. 
+The peripheral nervous system involvement was compatible 
+with two episodes of recurrent GBS. Anti-neurofascin-155 
+and anti-neurofascin-186 antibodies were negative. The 
+prognosis was excellent with pulse methylprednisolone, 
+intravenous immunoglobulin, and plasmapheresis [47].
+Studies about A‑CIDP
+A-CIDP represents a unique subset of CIDP with acute onset 
+of symptoms followed by a chronic course lasting beyond 
+8 weeks and associations with various antecedent events. 
+Herein, we have examined the literature, encompassing stud-
+ies and case reports, to present the properties and clinical 
+characteristics of A-CIDP patients.
+In CIDP, the frequency of antecedent events, includ-
+ing infections and vaccinations, has been reported to range 
+between 10 and 33% [48]. On the other hand, chronic inflam-
+matory diseases such as systemic lupus erythematosus and 
+sarcoidosis are predominantly associated with CIDP rather 
+than GBS [49– 52]. Notably, CIDP cases associated with 
+antecedent events are more likely to be classified as A-CIDP 
+[48, 53], occur at a younger age [54], and exhibit cranial 
+nerve involvement [48, 54, 55] than those without anteced-
+ent events. Recently, A-CIDP cases following COVID-19 
+infection or vaccination have been reported [ 11, 13, 56]. 
+Some reported significant clinical improvement over a 
+2-month follow-up period [11].
+Anti-ganglioside antibody testing in chronic immune-
+mediated neuropathies is not as common as in acute 
+immune-mediated neuropathies, and IgM type anti-gan-
+glioside antibodies are more common in chronic immune-
+mediated neuropathies than acute ones [43, 57]. An atypical 
+case of A-CIDP has been reported with three episodes in 
+a 3-year period [58]. The first episode was 2 weeks after 
+an upper respiratory infection, presenting with progressive 
+paraparesis. Electroneuromyography (ENMG) revealed pro-
+longed F-wave latencies and the absence of sensory nerve 
+action potentials, suggesting a demyelinating pathology. 
+Recovery was complete after the first episode. The second 
+episode was 1 year later, following a diarrheal illness, pre-
+senting with recurrence of paraparesis. ENMG was not per -
+formed, and the patient was treated with supportive care. 
+Recovery was incomplete, reaching approximately 80% of 
+the patient’s baseline. The last episode occurred 3 years after 
+the initial episode, with worsening quadriparesis. ENMG 
+revealed pure axonal features which has been interpreted as axonal loss due to progressive untreated demyelination or 
+primary axonal neuropathy by the authors. Anti-GM1, anti-
+GD1a, and anti-GD1b antibodies have been positive which 
+are known to be prominent in AMAN but have also been 
+seen in CIDP variants. Eight months later, the recovery was 
+partial [ 58]. Other intriguing cases include A-CIDP evolv -
+ing from post-partum GBS [59] and VEXAS (vacuoles, E1 
+enzyme, X-linked, autoinflammation, somatic) syndrome 
+[60], Zika virus-associated A-CIDP [14], A-CIDP follow -
+ing Hantavirus infection in a hepatitis B virus carrier [61], 
+and after Influenza vaccination [26].
+Over the past few decades, several antibodies (anti-con-
+tactin-1, anti-neurofascin-155, anti-neurofascin-186, anti-
+contactin-associated protein-1) against nodal/paranodal 
+proteins have been identified in a subset of patients with 
+peripheral neuropathies [62]. Initially classified as CIDP 
+according to the European Federation of Neurological Sci-
+ences / Peripheral Nerve Society (PNS) 2010 guideline [24], 
+these cases have recently been redefined as a distinct cat -
+egory known as autoimmune nodopathies. The European 
+Academy of Neurology / PNS 2021 guideline [63] now rec -
+ognizes them as separate entities, distinct from CIDP, due 
+to their specific clinical features and responses to treatment. 
+It is imperative to bear in mind that certain patients with 
+clinical presentations resembling A-CIDP may indeed be 
+afflicted by autoimmune nodopathies. This is particularly 
+relevant for anti-neurofascin-186 antibody positive ones, as 
+they can present symptoms indicative of acute or subacute 
+onset acquired demyelinating polyneuropathies [64].
+Studies about differentiating A‑CIDP from GBS
+The differentiation between A-CIDP and GBS with or with-
+out recurrences poses a significant clinical challenge due 
+to their overlapping clinical features and distinct treatment 
+strategies. Moreover, in some instances, CIDP may have 
+a monophasic course and enter complete remission [ 65], 
+making the differential diagnosis from GBS more challeng-
+ing. Some clinical clues have been suggested to distinguish 
+between GBS and A-CIDP [20, 25, 66]. Recently, several 
+ultrasonographic and immunological markers have also been 
+proposed [67– 70]. Nonetheless, how to differentiate A-CIDP 
+from GBS electrophysiologically remains unclear [66].
+Patients with A-CIDP are more likely to have an older age 
+at disease onset [25], exhibit prominent sensory symptoms, 
+impaired vibration sensation, sensory ataxia [66] and less 
+likely to have cranial, and autonomic involvement, and loss 
+of pinprick sensation compared to patients with GBS [20, 
+25, 66]. Additionally, a history of type 2 diabetes mellitus 
+is more frequent in patients with A-CIDP [25]. On the other 
+hand, there are discrepancies in the literature regarding the 
+need for mechanical ventilation in patients with A-CIDP 
+and GBS. While one study has been found similar rates for 
+
+1470 Acta Neurologica Belgica (2024) 124:1467–1475
+mechanical ventilation in both patient groups [25], other 
+studies have been stated that the need for mechanical ven-
+tilation is more common in patients with GBS [20, 66]. In 
+addition, patients with GBS can be differentiated from CIDP 
+by long asymptomatic periods, rapid onset of symptoms, 
+normal cerebrospinal fluid (CSF) proteins in the early phase, 
+and more frequent antecedent infections [29, 66]. However, 
+in a study comparing patients with A-CIDP and fluctuat -
+ing GBS, the frequency of antecedent infections has been 
+similar in both groups of patients [20]. Another distinc-
+tion between these diseases is the time from neurological 
+symptoms to maximum disability, which is often less than 
+4 weeks in patients with GBS, while by definition, it is more 
+than 8 weeks in patients with CIDP [24].
+Distinguishing between A-CIDP and AIDP through 
+electrophysiological means remains challenging. Currently, 
+no specific electrophysiological markers, including sural-
+sparing pattern, sensory ratio, or presence of A waves have 
+been identified to definitely distinguish between these two 
+neuropathies [66]. There are conflicting results regarding 
+sural-sparing pattern and the presence of A waves. While 
+one study indicates that these parameters are more com-
+monly seen in AIDP [68], another study suggests that these 
+parameters do not differ significantly in A-CIDP and AIDP 
+[66]. Nevertheless, in a prospective study, they speculated 
+that nerve excitability studies may assist in differentiating 
+A-CIDP from AIDP in the early stages. They found abnor -
+malities in the recovery cycle of excitability, including sig-
+nificantly reduced superexcitability and prolonged relative 
+refractory period without changes in threshold electroto-
+nus in AIDP. On the other hand, different pattern changes 
+observed in the recovery cycle, suggesting early repolariza-
+tion in A-CIDP [71]. Therefore, it is difficult to differenti-
+ate A-CIDP from AIDP electrophysiologically in the early 
+stages, and the usefulness of electromyographic follow-up 
+in differentiation of those pathologies is also debatable. It 
+has been stated that as the disease progresses, the sural nerve 
+might become affected in CIDP and sural-sparing pattern 
+might be used for differential diagnosis [66]. On the other 
+hand, in a recent follow-up study of patients with AIDP, 
+it was reported that approximately 39% of patients contin-
+ued to meet the definite CIDP criteria 1 year after the acute 
+AIDP episode, and approximately 10% of the patients did 
+so more than 18 months after. Conduction blocks were pre-
+sent in three patients on nerve conduction studies at 1 year, 
+suggesting active demyelination [72]. So, nerve conduction 
+study results should be interpreted cautiously with symp -
+toms and clinical examination findings during follow-up, 
+before reaching a diagnosis.
+Ultrasonography is another modality that has been stud-
+ied for A-CIDP and GBS discrimination. The Bochum 
+ultrasound score (BUS), based on cross-sectional areas of 
+ulnar, radial, and sural nerves, has emerged as a potentially valuable tool. Given the higher Bochum scores indicating 
+increased thickness of the nerve; presence of sensory symp-
+toms and a sum BUS of ≥ 2 points were more frequent in 
+A-CIDP and had the highest sensitivity and specificity in 
+distinguishing A-CIDP from GBS [67, 73]. Similarly, in a 
+recent study they demonstrated that patients with CIDP had 
+significantly enlarged nerves, except for the roots and vagus, 
+which were enlarged in both CIDP and GBS. Moreover, pure 
+sensory nerves were mostly enlarged in CIDP, while remain-
+ing normal in GBS. This ultrasonic sensory-sparing pattern 
+combined with enlarged roots / vagus has been defined as a 
+hallmark of GBS [68].
+Immunological differences between A-CIDP and GBS 
+have also been explored. Studies have indicated that Fas-
+mediated T-cell apoptosis is impaired in A-CIDP but not in 
+GBS. This suggests that evaluating Fas function may aid in 
+the early identification of GBS and A-CIDP [70, 74]. Addi-
+tionally, CSF markers have also been investigated. In a ret-
+rospective study, they have found higher CSF interleukin-8 
+(IL-8) levels in patients with GBS compared to those with 
+CIDP, and proposed an optimal cut-off value of 70 pg/mL 
+[69].
+The differential features between A-CIDP and GBS are 
+presented in Table  1.
+Discussion
+The differential diagnosis between A-CIDP and GBS, or 
+whether recurrent GBS is a real entity or not, remains the 
+subject of ongoing debate and poses several challenges. 
+While there is some consensus on distinguishing these 
+two entities, it is crucial to critically analyze existing 
+studies to question the existence of recurrent GBS. The 
+traditional definition of recurrent GBS includes episodes 
+with a time to nadir of no more than 4 weeks [33]. How -
+ever, it is worth noting that some authors include relaps-
+ing–remitting cases into the CIDP category, such as those 
+with intermittent episodes associated with respiratory 
+failure [75] or recurrence after 18 months of full recovery 
+[66]. CIDP progresses gradually over more than 8 weeks. 
+However, patients with A-CIDP present with more rap -
+idly progressive symptoms. Some authors have described 
+A-CIDP with a time to nadir of less than 4 weeks [20]. 
+GBS is often caused by an immune response to a preced-
+ing infection, or other event that cross-reacts with periph-
+eral nerve components [ 3, 8]. Although the exact cause 
+of CIDP is unknown, CIDP is also an immunologically 
+mediated neuropathy with multiple possible triggers. Both 
+cellular and humoral immunity are involved in the patho-
+genesis of CIDP [48– 51]. Although the pathophysiology 
+of CIDP and GBS is quite different, there is not enough 
+data whether recurrent GBS is a unique entity or another 
+
+1471 Acta Neurologica Belgica (2024) 124:1467–1475 
+variant of CIDP. Some authors speculates that instead of 
+being distinct entities, recurrent GBS and CIDP may rep-
+resent a spectrum of inflammatory demyelinating polyra-
+diculopathies [ 65, 76]. Drawing an analogy with the dif -
+ferentiation between clinical isolated syndrome (CIS) and 
+multiple sclerosis (MS) can further support the idea that 
+recurrent GBS may actually be part of the CIDP spectrum. 
+While CIS refers to a single clinical demyelination episode 
+resembling GBS, CIDP shares similarities with the chronic 
+and relapsing nature of MS. On the other hand, differenti-
+ating A-CIDP from GBS in the early stages is challenging 
+but crucial as they require different treatment strategies. 
+Unfortunately, despite some clinical clues [20, 25, 66], 
+ultrasonographic and immunological markers [67– 70], 
+and electrophysiological studies [66, 68] differentiation 
+of A-CIDP from GBS remains elusive.In a retrospective study, it was showed that nerve conduc-
+tion studies continued to worsen up to 18 months after the 
+onset of symptoms in AIDP, and CIDP-like abnormalities 
+suggestive of demyelination were identified [72]. These find-
+ings suggest that the underlying autoimmune process may 
+persist in a subset of AIDP patients, even in the absence 
+of clinical deterioration. The findings may also potentially 
+explain residual symptoms such as paresthesia, severe pain, 
+or fatigue [77] that are observed in some individuals after 
+a single acute GBS attack. Based on this study, it is impor -
+tant to reconsider treatment strategies for patients with 
+recurrent GBS and A-CIDP. Patients classified as having 
+recurrent GBS after a second attack do not receive long-
+term immunotherapy, while those diagnosed with A-CIDP 
+do receive. However, we believe that this approach may 
+potentially increase the disabilities of patients with recurrent Table 1  The differential features between acute-onset chronic inflammatory polyneuropathy and Guillain–Barre syndrome
+Bold indicates statistical significance
+A-CIDP acute-onset chronic inflammatory demyelinating polyneuropathy, GBS Guillain–Barre syndrome, MV mechanical ventilation, DM dia-
+betes mellitus, u ultrasonic, CSF cerebrospinal fluid, IL interleukin, IQR interquartile range, NS not significant, NA  not availableAuthor Parameter A-CIDP GBS p value
+Dionne et al. Impaired proprioception; n (%) 7 (46.7) 4 (13.3) 0.030
+Dionne et al. Sensory ataxia; n (%) 8 (53.3) 1 (3.0)  < 0.001
+Cranial nerve involvement
+Alessandro et al. n (%) 5 (36) 36 (47) NS
+Ruts et al. n (%) 1 (13) 11 (69) 0.030
+Autonomic dysfunction
+Alessandro et al. n (%) 6 (46) 28 (36) NS
+Dionne et al. n (%) 2 (13.3) 21 (70)  < 0.001
+Need for MV
+Alessandro et al. n (%) 1 (7) 5 (6) NS
+Dionne et al. n (%) 1 (6.7) 11 (36.7) 0.040
+Ruts et al. n (%) 0 (0) 7 (44) 0.050
+Alessandro et al. Type 2 DM; n (%) 4 (29) 6 (8) 0.040
+Antecedent infections
+Ruts et al. n (%) 4 (50.0) 9 (56.3) NS
+Dionne et al. n (%) 5 (33.3) 23 (76.7) 0.008
+Sural-sparing pattern
+Dionne et al. n (%) 7 (46.7) 20 (66.7) 0.22
+Grimm et al. n (%) 17 (50) 24 (73) 0.048
+Dionne et al. Sensory ratio > 1; n (%) 5 (41.7) 17 (63.0) 0.3
+Presence of A waves
+Dionne et al. n (%) 4 (40.0) 11 (52.4) 0.7
+Grimm et al. n (%) 6 (18) 19 (58) 0.001
+Kerasnoudis et al. Bochum ultrasound score ≥ 2 points; n (%) 9 (90) 3 (20)  < 0.001
+Grimm et al. Nerve enlargement Significant nerve enlargement, 
+except for roots and vagusEnlarged roots and vagus  < 0.001
+Grimm et al. u-Sensory nerve sparing Rare Common  < 0.050
+Breville et al. CSF IL-8 level; median (IQR) 41.0 pg/ml (17.3) 83.9 pg/ml (64.4)  < 0.001
+Comi et al. Fas-mediated T-cell apoptosis Defective Normal NA
+
+1472 Acta Neurologica Belgica (2024) 124:1467–1475
+GBS due to the underlying, subtly ongoing immune pro -
+cess. Therefore, it is crucial to closely monitor patients after 
+recurrent episodes, evaluate the initiation of immunotherapy, 
+and even reevaluate the diagnosis. By doing so, we can pro-
+vide appropriate treatment strategies and potentially improve 
+outcomes.
+Reconsidering certain aspects, including cases that are 
+positive for antiganglioside antibodies, cases with a relaps-
+ing axonal presentation (AMAN, AMSAN), and cases with 
+antecedent events, is essential when suggesting that patients 
+with recurrent GBS might be acute-onset axonal or demy -
+elinating CIDP cases. Although less common than in GBS, 
+anti-ganglioside antibody positivity and antecedent events 
+such as vaccinations and infections can also be observed 
+in patients with CIDP [35, 38, 42, 48, 57]. In recent years, 
+the term of “chronic inflammatory axonal polyneuropa-
+thy (CIAP)” has been proposed instead of axonal CIDP. It 
+has been stated that CIAP, by definition, progresses over a 
+period of > 8 weeks, and the distinction between CIAP and 
+axonal CIDP lies in the assumption that in axonal CIDP, 
+axonal changes are secondary to CIDP. Moreover, among 
+the patients presented, there are two cases that initially pre-
+sented as axonal GBS but were later diagnosed with CIAP 
+/ axonal CIDP [78], suggesting the presence of acute-onset 
+axonal CIDP cases.
+Conclusion
+The differentiation between A-CIDP and GBS, especially 
+recurrent cases, presents a significant challenge within the 
+field of neurology. Existing evidence raises doubts regarding 
+the distinct classification of recurrent GBS as a separate clin-
+ical entity. We argue that the arbitrary distinction between 
+recurrent GBS and CIDP, the overlapping clinical presenta-
+tions, and the presence of ongoing autoimmune processes 
+all underscore the need for a reevaluation of diagnostic cri-
+teria for CIDP and recurrent GBS. Moreover, the presence 
+of axonal cases further complicates the clinical landscape. 
+Recurrent GBS may represent another variant of CIDP 
+that has not been fully described yet. Therefore, additional 
+research and clinical investigations are warranted to enhance 
+our understanding of these conditions, ultimately leading to 
+the development of more effective treatment strategies and 
+advanced patient care.
+Funding Not applicable.
+Declarations  
+Conflict of interest None.
+Ethical approval Not applicable.Informed consent Not applicable.
+References
+ 1. Ruts L, van Koningsveld R, van Doorn PA (2005) Distinguishing 
+acute-onset CIDP from Guillain-Barré syndrome with treatment 
+related fluctuations. Neurology 65(1):138–140. https:// doi. org/ 10.  
+1212/ 01. wnl. 00001 67549. 09664. b8
+ 2. Yuki N, Hartung HP (2012) Guillain-Barre syndrome. N Engl J 
+Med 366(24):2294–2304. https:// doi. org/ 10. 1056/ NEJMr  a1114  
+525
+ 3. Shahrizaila N, Lehmann HC, Kuwabara S (2021) Guillain-Barre 
+syndrome. Lancet 397(10280):1214–1228. https:// doi. org/ 10.  
+1016/ S0140- 6736(21) 00517-1
+ 4. McGrogan A, Madle GC, Seaman HE, de Vries CS (2009) The 
+epidemiology of Guillain-Barre syndrome worldwide a systematic 
+literature review. Neuroepidemiology 32(2):150–163. https:// doi.  
+org/ 10. 1159/ 00018 4748
+ 5. Sejvar JJ, Baughman AL, Wise M, Morgan OW (2011) Population 
+incidence of Guillain-Barre syndrome: a systematic review and 
+meta-analysis. Neuroepidemiology 36(2):123–133. https:// doi. org/  
+10. 1159/ 00032 4710
+ 6. Doets AY, Verboon C, van den Berg B et al (2018) Regional vari-
+ation of Guillain-Barre syndrome. Brain 141(10):2866–2877. 
+https:// doi. org/ 10. 1093/ brain/ awy232
+ 7. Bae JS, Yuki N, Kuwabara S et al (2014) Guillain-Barre syndrome 
+in Asia. J Neurol Neurosurg Psychiatry 85(8):907–913. https:// doi.  
+org/ 10. 1136/ jnnp- 2013- 306212
+ 8. Leonhard SE, van der Eijk AA, Andersen H et al (2022) An inter -
+national perspective on preceding infections in Guillain-Barre 
+syndrome: the IGOS-1000 cohort. Neurology 99(12):e1299–
+e1313. https:// doi. org/ 10. 1212/ WNL. 00000 00000 200885
+ 9. McDonnell EP, Altomare NJ, Parekh YH et al (2020) COVID-
+19 as a trigger of recurrent Guillain-Barre syndrome. Pathogens. 
+https:// doi. org/ 10. 3390/ patho gens9 110965
+ 10. de Castro G, Bastos PG, Martinez R, de Castro Figueiredo JF 
+(2006) Episodes of Guillain-Barré syndrome associated with the 
+acute phase of HIV-1 infection and with recurrence of viremia. 
+Arq Neuropsiquiatr 64(3a):606–8. https:// doi. org/ 10. 1590/ s0004-  
+282x2 00600 04000 16
+ 11. Fotiadou A, Tsiptsios D, Karatzetzou S, Kitmeridou S, Iliopoulos I 
+(2022) Acute-onset chronic inflammatory demyelinating polyneu-
+ropathy complicating SARS-CoV-2 infection and Ad26.COV2.S 
+vaccination: report of two cases. Egypt J Neurol Psychiatr Neu-
+rosurg 58(1):116. https:// doi. org/ 10. 1186/ s41983- 022- 00515-4
+ 12. Bellucci M, Germano F, Grisanti S et al (2022) Case report: 
+post-COVID-19 vaccine recurrence of Guillain-Barre syndrome 
+following an antecedent parainfectious COVID-19-related GBS. 
+Front Immunol 13:894872. https:// doi. org/ 10. 3389/ fimmu. 2022.  
+894872
+ 13. Suri V, Pandey S, Singh J, Jena A (2021) Acute-onset chronic 
+inflammatory demyelinating polyneuropathy after COVID-19 
+infection and subsequent ChAdOx1 nCoV-19 vaccination. BMJ 
+Case Rep. https:// doi. org/ 10. 1136/ bcr- 2021- 245816
+ 14. Leonhard SE, Munts AG, van der Eijk AA, Jacobs BC (2018) 
+Acute-onset chronic inflammatory demyelinating polyneuropa-
+thy after Zika virus infection. J Neurol Neurosurg Psychiatry 
+89(10):1118–1119. https:// doi. org/ 10. 1136/ jnnp- 2017- 317346
+ 15. Yang B, Lian Y, Liu Y, Wu BY, Duan RS (2016) A retrospective 
+analysis of possible triggers of Guillain-Barre syndrome. J Neu-
+roimmunol 293:17–21. https:// doi. org/ 10. 1016/j. jneur  oim. 2016.  
+02. 003
+
+1473 Acta Neurologica Belgica (2024) 124:1467–1475 
+ 16. Huang C, Zhang Y, Deng S, Ren Y, Lu W (2020) Trauma-
+related Guillain-Barre syndrome: systematic review of an 
+emerging concept. Front Neurol 11:588290. https:// doi. org/ 10.  
+3389/ fneur. 2020. 588290
+ 17. Leonhard SE, Mandarakas MR, Gondim FAA et al (2019) 
+Diagnosis and management of Guillain-Barre syndrome in ten 
+steps. Nat Rev Neurol 15(11):671–683. https:// doi. org/ 10. 1038/  
+s41582- 019- 0250-9
+ 18. Verboon C, Doets AY, Galassi G et al (2019) Current treatment 
+practice of Guillain-Barre syndrome. Neurology 93(1):e59–e76. 
+https:// doi. org/ 10. 1212/ WNL. 00000 00000 007719
+ 19. Alessandro L, Castiglione JI, Brand P, Bruno V, Barroso F 
+(2022) Treatment-related fluctuations in Guillain-Barre syn-
+drome : clinical features and predictors of recurrence. Arq 
+Neuropsiquiatr 80(5):516–522. https:// doi. org/ 10. 1590/  
+0004- 282X-  ANP- 2021- 0226
+ 20. Ruts L, Drenthen J, Jacobs BC, van Doorn PA, Dutch GBSSG 
+(2010) Distinguishing acute-onset CIDP from fluctuating 
+Guillain-Barre syndrome: a prospective study. Neurology 
+74(21):1680–6. https:// doi. org/ 10. 1212/ WNL. 0b013 e3181  
+e07d14
+ 21. Das A, Kalita J, Misra UK (2004) Recurrent Guillain Barre’ syn-
+drome. Electromyogr Clin Neurophysiol 44(2):95–102
+ 22. Wang S, Luo Z, Peng T (2022) Serum thyroid-stimulating hor -
+mone is an independent risk factor of recurrent Guillain-Barre 
+syndrome. Muscle Nerve 65(6):688–692. https:// doi. org/ 10. 1002/  
+mus. 27539
+ 23. Dalakas MC, Medscape, (2011) Advances in the diagnosis, 
+pathogenesis and treatment of CIDP. Nat Rev Neurol 7(9):07–17. 
+https:// doi. org/ 10. 1038/ nrneu rol. 2011. 121
+ 24. Van den Bergh PY, Hadden RD, Bouche P et al (2010) European 
+Federation of Neurological Societies/Peripheral Nerve Society 
+guideline on management of chronic inflammatory demyelinat-
+ing polyradiculoneuropathy: report of a joint task force of the 
+European Federation of Neurological Societies and the Peripheral 
+Nerve Society - first revision. Eur J Neurol 17(3):356–363. https://  
+doi. org/ 10. 1111/j. 1468- 1331. 2009. 02930.x
+ 25. Alessandro L, Pastor Rueda JM, Wilken M et al (2018) Differ -
+ences between acute-onset chronic inflammatory demyelinating 
+polyneuropathy and acute inflammatory demyelinating poly -
+neuropathy in adult patients. J Peripher Nerv Syst. 23(3):154–8. 
+https:// doi. org/ 10. 1111/ jns. 12266
+ 26. Anadani M, Katirji B (2015) Acute-onset chronic inflammatory 
+demyelinating polyneuropathy: an electrodiagnostic study. Muscle 
+Nerve 52(5):900–905. https:// doi. org/ 10. 1002/ mus. 24667
+ 27. Basta I, Bozovic I, Berisavac I et al (2019) Recurrent Guillain-
+Barre syndrome—case Series. Neurol India 67(6):1536–1538. 
+https:// doi. org/ 10. 4103/ 0028- 3886. 273649
+ 28. Ishii J, Yuki N, Kawamoto M, Yoshimura H, Kusunoki S, Kohara 
+N (2016) Recurrent Guillain-Barre syndrome, Miller Fisher 
+syndrome and Bickerstaff brainstem encephalitis. J Neurol Sci 
+364:59–64. https:// doi. org/ 10. 1016/j. jns. 2016. 03. 008
+ 29. Kuitwaard K, van Koningsveld R, Ruts L, Jacobs BC, van Doorn 
+PA (2009) Recurrent Guillain-Barre syndrome. J Neurol Neuro-
+surg Psychiatry 80(1):56–59. https:// doi. org/ 10. 1136/ jnnp. 2008.  
+156463
+ 30. Chohan S, Chohan A (2022) Recurrence of a rare subtype of 
+Guillain-Barre syndrome following a second dose of the shingles 
+vaccine. Cureus 14(10):e30717. https:// doi. org/ 10. 7759/ cureus.  
+30717
+ 31. Yelam A, Nagarajan E, Govindarajan R, Bollu PC (2018) A Rare 
+case of recurrent Guillain-Barre syndrome without albuminocy -
+tological dissociation. BMJ Case Rep. https:// doi. org/ 10. 1136/  
+bcr- 2018- 226572
+ 32. Jo YS, Choi JY, Chung H, Kim Y, Na SJ (2018) Recurrent 
+Guillain-Barre syndrome following urinary tract infection by Escherichia coli. J Korean Med Sci 33(4):e29. https:// doi. org/ 10.  
+3346/ jkms. 2018. 33. e29
+ 33. Mossberg N, Nordin M, Movitz C et al (2012) The recurrent 
+Guillain-Barre syndrome: a long-term population-based study. 
+Acta Neurol Scand 126(3):154–161. https:// doi. org/ 10. 1111/j.  
+1600- 0404. 2012. 01667.x
+ 34. Ling L, Bagshaw SM, Villeneuve PM (2021) Guillain-Barre 
+syndrome after SARS-CoV-2 vaccination in a patient with 
+previous vaccine-associated Guillain-Barre syndrome. CMAJ 
+193(46):E1766–E1769. https:// doi. org/ 10. 1503/ cmaj. 210947
+ 35. Imam K, Liu A (2020) A case of recurrent Guillain-Barre syn-
+drome observed by the same clinician 12 years apart. Clin Case 
+Rep 8(8):1376–1378. https:// doi. org/ 10. 1002/ ccr3. 2903
+ 36. Togawa J, Nakaoku Y, Hagiwara M et al (2015) Similarities 
+of serum anti-ganglioside antibodies in first and third episodes 
+of recurrent Guillain-Barre syndrome: case report. J Neurol 
+262(5):1360–1362. https:// doi. org/ 10. 1007/ s00415- 015- 7714-7
+ 37. Dy M, Leshner RL, Crawford JR (2013) An unusual case of recur -
+rent guillain-barre syndrome of a different subtype five years after 
+initial diagnosis. Case Rep Neurol Med 2013:356157. https:// doi.  
+org/ 10. 1155/ 2013/ 356157
+ 38. Yalinay Dikmen P, Emre Oge A (2012) Recurrent GBS with GD1a 
+anti-ganglioside antibodies. J Peripher Nerv Syst 17(1):135–7. 
+https:// doi. org/ 10. 1111/j. 1529- 8027. 2012. 00384.x
+ 39. Notturno F, Kokubun N, Sekiguki Y et al (2016) Demyelinat-
+ing Guillain-Barré syndrome recurs more frequently than axonal 
+subtypes. J Neurol Sci 365:132–136. https:// doi. org/ 10. 1016/j. jns.  
+2016. 02. 053
+ 40. Takemoto K, Kawahara M, Atagi K (2023) Recurrent Guillain-
+Barre syndrome associated with the second episode of campylo-
+bacter jejuni infection: a case report. Intern Med. https:// doi. org/  
+10. 2169/ inter  nalme dicine. 1094- 22
+ 41. Griffin G, Cunningham B, Beary JM, Spolter Y, Gandee R, Newey 
+CR (2021) Lighting strikes twice: recurrent Guillain-Barre Syn-
+drome (GBS) after influenza vaccination. Case Rep Neurol Med 
+2021:6690643. https:// doi. org/ 10. 1155/ 2021/ 66906 43
+ 42. Takahashi H, Kimura T, Yuki N, Yoshioka A (2018) An adult case 
+of recurrent Guillain-Barre syndrome with anti-galactocerebroside 
+antibodies. Intern Med 57(3):409–412. https:// doi. org/ 10. 2169/  
+inter  nalme dicine. 8941- 17
+ 43. Pyun SY, Jeong JH, Bae JS (2015) Recurrent Guillain-Barre syn-
+drome presenting stereotypic manifestations, positive antigan-
+glioside antibodies, and rapid recovery. Clin Neurol Neurosurg 
+139:230–233. https:// doi. org/ 10. 1016/j. cline uro. 2015. 10. 022
+ 44. Heckmann JG, Dütsch M (2012) Recurrent Miller Fisher syn-
+drome: clinical and laboratory features. Eur J Neurol 19(7):944–
+954. https:// doi. org/ 10. 1111/j. 1468- 1331. 2011. 03584.x
+ 45. Hwang J, Kwon YJ, Kim JK, Kim NJ, Baek SH (2019) Recurrent 
+Guillain-Barre syndrome with anti-GT1a and anti-GQ1b ganglio-
+side antibodies. J Clin Neurol 15(3):404–406. https:// doi. org/ 10.  
+3988/ jcn. 2019. 15.3. 404
+ 46. Martic V, Lepic T (2007) Recurrence of childhood Guillain-Barre 
+syndrome after a long asymptomatic interval: a case report. J Clin 
+Neuromuscul Dis 9(1):256–261. https:// doi. org/ 10. 1097/ CND.  
+0b013 e3181 563d90
+ 47. Bekircan-Kurt C.E., F. Yildiz, C. Temucin, A. Tuncer Kurne, E. 
+Tan, S. Erdem Ozdamar. 2017 Recurrent peripheral and central 
+demyelination in a seronegative patient. in Peripheral Nerve Soci-
+ety Annual Meeting. Barcelona, Spain.
+ 48. Doneddu PE, Bianchi E, Cocito D et al (2020) Risk factors for 
+chronic inflammatory demyelinating polyradiculoneuropathy 
+(CIDP): antecedent events, lifestyle and dietary habits data from 
+the Italian CIDP database. Eur J Neurol 27(1):136–43. https:// doi.  
+org/ 10. 1111/ ene. 14044
+ 49. Abraham H, Kuzhively J, Rizvi SW (2017) Chronic inflam-
+matory demyelinating polyneuropathy (CIDP): an uncommon 
+
+1474 Acta Neurologica Belgica (2024) 124:1467–1475
+manifestation of systemic lupus erythematosus (SLE). Am J 
+Case Rep 18:980–983. https:// doi. org/ 10. 12659/ ajcr. 903541
+ 50. Vialatte de Pemille C, Noel N, Adam C et al (2023) Red flags 
+for chronic inflammatory demyelinating polyradiculoneuropathy 
+associated with sarcoidosis or connective tissue diseases. J Clin 
+Med. https:// doi. org/ 10. 3390/ jcm12 093281
+ 51. Julio PR, Cortes MMM, Costallat LTL, Gaino JZ, Franca MC 
+Jr, Appenzeller S (2021) Chronic inflammatory demyelinating 
+polyradiculoneuropathy associated with systemic lupus erythe-
+matosus. Semin Arthritis Rheum 51(1):158–165. https:// doi. org/  
+10. 1016/j. semar  thrit. 2020. 09. 018
+ 52. Toledano P, Orueta R, Rodriguez-Pinto I, Valls-Sole J, Cer -
+vera R, Espinosa G (2017) Peripheral nervous system involve-
+ment in systemic lupus erythematosus: Prevalence, clinical and 
+immunological characteristics, treatment and outcome of a large 
+cohort from a single centre. Autoimmun Rev 16(7):750–755. 
+https:// doi. org/ 10. 1016/j. autrev. 2017. 05. 011
+ 53. Kuitwaard K, van der Pol WL, Ruts L, van Doorn PA (2009) 
+Individual patients who experienced both Guillain-Barre syn-
+drome and CIDP. J Peripher Nerv Syst 14(1):66–68. https:// doi.  
+org/ 10. 1111/j. 1529- 8027. 2009. 00208.x
+ 54. Rajabally YA, Peric S, Bozovic I et al (2021) Antecedent infec-
+tions and vaccinations in chronic inflammatory demyelinating 
+polyneuropathy: a European collaborative study. Muscle Nerve 
+64(6):657–661. https:// doi. org/ 10. 1002/ mus. 27374
+ 55. Mansour M, Ouerdiene A, Bedoui I, Kacem A, Zaouali J, 
+Mrissa R (2020) Acute-onset chronic inflammatory demyeli-
+nating polyneuropathy with cranial nerves and respiratory tract 
+involvement: a case report. Clin Case Rep 8(11):2199–2203. 
+https:// doi. org/ 10. 1002/ ccr3. 3087
+ 56. Dennis E, Hartman E, Cortes-Penfield N, Piccione E, 
+Thaisetthawatkul P (2023) Acute and Chronic demyelinating 
+neuropathies after COVID-19 vaccination: a report of 4 cases. J 
+Clin Neuromuscul Dis 24(3):147–156. https:// doi. org/ 10. 1097/  
+CND. 00000 00000 000418
+ 57. Klehmet J, Marschenz S, Ruprecht K et al (2018) Analysis of 
+anti-ganglioside antibodies by a line immunoassay in patients 
+with chronic-inflammatory demyelinating polyneuropathies 
+(CIDP). Clin Chem Lab Med 56(6):919–926. https:// doi. org/  
+10. 1515/ cclm- 2017- 0792
+ 58. Patnaik AP, Mininni J, Porter NC, Morris NA (2021) A severe 
+course of relapsing-remitting acute-onset chronic inflammatory 
+demyelinating polyneuropathy in a young man. Case Rep Neu-
+rol 13(1):73–77. https:// doi. org/ 10. 1159/ 00051 1956
+ 59. Kim W, An JY (2021) Vaccination-associated acute-onset 
+chronic inflammatory demyelinating polyneuropathy followed 
+by acute disseminated encephalomyelitis in a postpartum 
+woman. Acta Neurol Belg 121(3):771–774. https:// doi. org/ 10.  
+1007/ s13760- 020- 01468-2
+ 60. Bert-Marcaz C, Briantais A, Faucher B et al (2022) Expanding 
+the spectrum of VEXAS syndrome: association with acute-onset 
+CIDP. J Neurol Neurosurg Psychiatry 93(7):797–798. https://  
+doi. org/ 10. 1136/ jnnp- 2021- 327949
+ 61. Lim JY, Lim YH, Choi EH (2016) Acute-onset chronic inflam-
+matory demyelinating polyneuropathy in hantavirus and hepa-
+titis B virus coinfection: a case report. Medicine (Baltimore) 
+95(49):e5580. https:// doi. org/ 10. 1097/ MD. 00000 00000 005580
+ 62. Martin-Aguilar L, Lleixa C, Pascual-Goni E (2022) Autoim-
+mune nodopathies, an emerging diagnostic category. Curr Opin 
+Neurol 35(5):579–585. https://  doi. org/ 10. 1097/  WCO.  00000  
+00000 001107
+ 63. Van den Bergh PYK, van Doorn PA, Hadden RDM et al (2021) 
+European academy of neurology/peripheral nerve society 
+guideline on diagnosis and treatment of chronic inflammatory 
+demyelinating polyradiculoneuropathy: report of a joint task force-second revision. Eur J Neurol 28(11):3556–3583. https://  
+doi. org/ 10. 1111/ ene. 14959
+ 64. Liu B, Zhou L, Sun C et al (2023) Clinical profile of autoim-
+mune nodopathy with anti-neurofascin 186 antibody. Ann Clin 
+Transl Neurol 10(6):944–952. https:// doi. org/ 10. 1002/ acn3.  
+51775
+ 65. Hadden RD (2009) Deterioration after Guillain-Barré syn-
+drome: recurrence, treatment-related fluctuation or CIDP? J 
+Neurol Neurosurg Psychiatry 80(1):3. https:// doi. org/ 10. 1136/  
+jnnp. 2008. 160069
+ 66. Dionne A, Nicolle MW, Hahn AF (2010) Clinical and elec-
+trophysiological parameters distinguishing acute-onset chronic 
+inflammatory demyelinating polyneuropathy from acute 
+inflammatory demyelinating polyneuropathy. Muscle Nerve 
+41(2):202–207. https:// doi. org/ 10. 1002/ mus. 21480
+ 67. Kerasnoudis A, Pitarokoili K, Behrendt V, Gold R, Yoon MS 
+(2015) Bochum ultrasound score versus clinical and electro-
+physiological parameters in distinguishing acute-onset chronic 
+from acute inflammatory demyelinating polyneuropathy. Muscle 
+Nerve 51(6):846–852. https:// doi. org/ 10. 1002/ mus. 24484
+ 68. Grimm A, Oertl H, Auffenberg E et al (2019) Differentiation 
+between Guillain-Barré syndrome and acute-onset chronic 
+inflammatory demyelinating polyradiculoneuritis-a prospec-
+tive follow-up study using ultrasound and neurophysiological 
+measurements. Neurotherapeutics 16(3):838–847. https:// doi.  
+org/ 10. 1007/ s13311- 019- 00716-5
+ 69. Breville G, Lascano AM, Roux-Lombard P, Vuilleumier N, 
+Lalive PH (2021) Interleukin 8, a biomarker to differentiate 
+Guillain-Barre syndrome from CIDP. Neurol Neuroimmu-
+nol Neuroinflamm. https:// doi. org/ 10. 1212/ NXI. 00000 00000  
+001031
+ 70. Comi C (2011) Fas-mediated T-cell apoptosis in chronic inflam -
+matory demyelinating polyneuropathy. J Peripher Nerv Syst 
+16(Suppl 1):45–47. https:// doi. org/ 10. 1111/j. 1529- 8027. 2011.  
+00306.x
+ 71. Sung JY, Tani J, Park SB, Kiernan MC, Lin CS (2014) Early 
+identification of “acute-onset” chronic inflammatory demyeli-
+nating polyneuropathy. Brain 137(Pt 8):2155–2163. https:// doi.  
+org/ 10. 1093/ brain/ awu158
+ 72. Guemy C, Durand MC, Brisset M, Nicolas G (2023) Changes in 
+electrophysiological findings suggestive of demyelination fol-
+lowing Guillain-Barre syndrome: a retrospective study. Muscle 
+Nerve. https:// doi. org/ 10. 1002/ mus. 27803
+ 73. Kerasnoudis A, Pitarokoili K, Behrendt V, Gold R, Yoon MS 
+(2014) Nerve ultrasound score in distinguishing chronic from 
+acute inflammatory demyelinating polyneuropathy. Clin Neuro-
+physiol 125(3):635–641. https:// doi. org/ 10. 1016/j. clinph. 2013.  
+08. 014
+ 74. Comi C, Osio M, Ferretti M et al (2009) Defective Fas-mediated 
+T-cell apoptosis predicts acute onset CIDP. J Peripher Nerv 
+Syst 14(2):101–106. https:// doi. org/ 10. 1111/j. 1529- 8027. 2009.  
+00219.x
+ 75. Zivkovic SA, Peltier AC, Iacob T, Lacomis D (2011) Chronic 
+inflammatory demyelinating polyneuropathy and ventilatory 
+failure: report of seven new cases and review of the literature. 
+Acta Neurol Scand 124(1):59–63. https:// doi. org/ 10. 1111/j.  
+1600- 0404. 2010. 01431.x
+ 76. Min YG, Hong YH (2020) Treatment-related fluctuations in 
+subacute inflammatory demyelinating polyneuropathy. ENeuro-
+logicalSci. https:// doi. org/ 10. 1016/j. ensci. 2020. 100224
+ 77. Kuitwaard K, Bos-Eyssen ME, Blomkwist-Markens PH, van 
+Doorn PA (2009) Recurrences, vaccinations and long-term 
+symptoms in GBS and CIDP. J Peripher Nerv Syst 14(4):310–
+315. https:// doi. org/ 10. 1111/j. 1529- 8027. 2009. 00243.x
+ 78. Oh SJ, Lu L, Alsharabati M, Morgan MB, King P (2020) 
+Chronic inflammatory axonal polyneuropathy. J Neurol 
+
+1475 Acta Neurologica Belgica (2024) 124:1467–1475 
+Neurosurg Psychiatry 91(11):1175–1180. https:// doi. org/ 10.  
+1136/ jnnp- 2020- 323787
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.

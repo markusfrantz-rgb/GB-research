@@ -9,10 +9,10 @@
 
 | | Antal |
 |---|---|
-| ✅ Fulltext i sources/fulltext/ | **29** (19 PDF + 10 text) |
+| ✅ Fulltext i sources/fulltext/ | **37** (28 PDF + 18 text, varav 8 nya 2026-03-26 kväll) |
 | ✅ Fulltext i research-ivig-iga/fulltexts/ | **34** (text) |
 | ⏳ Ej publicerad i journal | **1** |
-| **Totalt kartlagda** | **64** (63 i fulltext, 1 ej publicerad) |
+| **Totalt kartlagda** | **72** (71 i fulltext, 1 ej publicerad) |
 
 ---
 
@@ -145,6 +145,23 @@
 - Ingen definitiv konsensus — multicenter-studier behövs
 
 ---
+
+---
+
+### ✅ NYA FULLTEXTAR — Betalväggspapper hämtade manuellt (2026-03-26 kväll)
+
+Hämtade via universitetsbibliotek. Källmapp: `sources/fulltext/` (PDF + text, sökbara i RAG)
+
+| # | Artikel | PMID | Evidens | Nyckeldata |
+|---|---------|------|---------|------------|
+| 65 | Cunningham-Rundles C et al. Long-term use of IgA-depleted IVIG. *J Clin Immunol* 1993. | 8227286 | *[Level 3]* | **5 pat, 170 infusioner, 6 år. IgA 0,4-2,9 µg/mL. Reaktioner 5,3% — alla milda. Långtids-säkerhet bekräftad.** |
+| 66 | Kiani-Alikhan S et al. Successful desensitization to IgA. *Transfusion* 2010. | 20456696 | *[Level 4]* | **DETALJERAT DESENSITISERINGSPROTOKOLL: IgA-anrikat 6 mg/mL, gradvis ökning. 19-årig kvinna, levertransplant. Framgångsrikt.** |
+| 67 | Zhang H et al. Efgartigimod in the treatment of GBS. *J Neurol* 2024. | 38532142 | *[Level 4]* | **Första efgartigimod-GBS-datan. 2 pat (56M AMAN, 54M MFS-GBS). 10 mg/kg x 2 inom 5 dagar. Båda gick vid 4 veckor.** |
+| 68 | Allen JA et al. Efgartigimod ADHERE CIDP plain language. *Ther Adv Neurol Disord* 2026. | — | *[Level 1]* | Plain language av ADHERE-studien. 61% relapsreduktion. FDA-godkänd för CIDP. |
+| 69 | Ruts L et al. Distinguishing acute-onset CIDP from fluctuating GBS. *Neurology* 2010. | 20427754 | *[Level 2]* | **8-veckorsregeln + "rule of three". TRF alltid inom 8 v. A-CIDP aldrig ventilator, sällan kranialnerver.** |
+| 70 | Inan B et al. Differentiating recurrent GBS and A-CIDP. *Acta Neurol Belg* 2024. | 38664341 | *[Level 3]* | **Ifrågasätter RGBS som distinkt entitet. Överlappande kliniska drag. Diagnostiska kriterier otillräckliga.** |
+| 71 | Campagnolo M et al. Rituximab vs placebo for CIDP (CIDPRIT). *Brain* 2025. | 39658326 | *[Level 1]* | **NEGATIVT RCT: rituximab 63% vs placebo 67% försämrades. Rituximab EJ bättre i typisk CIDP.** |
+| 72 | Qin J et al. Efgartigimod in neurological autoimmune diseases. *J Clin Neurosci* 2025. | — | *[Level 3]* | Efgartigimod säkerhet/effekt vid flera neurologiska autoimmuna sjukdomar. |
 
 ---
 

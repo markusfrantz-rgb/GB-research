@@ -1,0 +1,804 @@
+https://doi.org/10.1093/brain/awae400 BRAIN 2025: 148; 1112–1121 | 1112
+Rituximab versus placebo for chronic 
+inflammatory demyelinating 
+polyradiculoneuropathy: a randomized trial
+Eduardo Nobile-Orazio,1,2Dario Cocito,3
+Fiore Manganelli,4Raffaella Fazio,5
+Giuseppe Lauria Pinter,2,6Luana Benedetti,7Anna Mazzeo,8Erdita Peci,3
+Emanuele Spina,4Yuri Falzone,5Eleonora Dalla Bella,6Francesco Germano,7,9
+Luca Gentile,8
+Giuseppe Liberatore,1Francesca Gallia,1
+Roger Collet-Vidiella,10
+Elisa Bianchi11and Pietro Emiliano Doneddu1,12
+Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) often requires prolonged ongoing treatment to 
+prevent worsening. The efficacy of rituximab in preventing worsening after the discontinuation of immunoglobulin 
+therapy in patients with CIDP was assessed.
+In this randomized, double-blind, placebo-controlled study, conducted at seven Italian hospitals, CIDP patients under 
+immunoglobulin therapy were assigned to receive either rituximab (1 g on Days 1, 15 and 180 ± 7) or placebo. Both 
+groups continued their regular immunoglobulin doses for 6 months post-intervention. The primary end point was 
+the proportion of patients who worsened in any of the following three measures at Month 12, within 6 months after 
+immunoglobulin discontinuation: a decrease of at least one point on the adjusted INCAT score, two points on the MRC 
+sum score, or four points on the RODS centile score. Secondary end points included the proportion of patients deteri -
+orating at Month 18 (within 12 months after immunoglobulin discontinuation), treatment cessation due to adverse 
+events or voluntary reasons, and the time until deterioration after immunoglobulin discontinuation. This study was registered with 
+ClinicalTrials.gov (NCT06325943) and EUDRACT (number 2017-005034-36), and is now complete.
+From April 2019 to March 2022, 39 patients were recruited; two withdrew consent. The remaining 37 patients were assigned to rituximab (
+n = 19) or placebo (n = 18). Median age was 53 (interquartile range 45–64), with 11 (30%) females. 
+A similar proportion of patients in both the rituximab (12/19, 63.2%) and placebo (12/18, 66.6%) groups worsened at Month 12 [odds ratio (OR) 0.86; 95% confidence interval (CI) 0.22–3.32]. No significant differences were noted at 
+Month 18 (OR 0.62; 95% CI 0.14–2.70), or in the mean scores of each scale at Months 6, 12 and 18. The median time 
+to worsening was 5 months for rituximab and 2 months for placebo (Log-rank P = 0.4372). Treatment was suspended 
+due to adverse events in one rituximab patient.
+In this study, rituximab was not more effective than placebo in preventing clinical deterioration following the discon -
+tinuation of immunoglobulin therapy in CIDP. Further studies might evaluate the efficacy of more frequent or earlier administration of rituximab.
+1Neuromuscular and Neuroimmunology Unit, IRCCS Humanitas Research Hospital, Milan, Rozzano 20089, Italy
+2Department of Medical Biotechnology and Translational Medicine, Milan University, Milano 20133, Italy
+3Department of Clinical and Biological Sciences, University of Turin, Torino 10124, Italy
+4Department of Neuroscience, Reproductive Sciences and Odontostomatology, University of Naples ‘Federico II’, 
+Napoli 80131, Italy
+Received September 02, 2024. Revised November 18, 2024. Accepted November 30, 2024. Advance access publication December 10, 2024
+© The Author(s) 2024. Published by Oxford University Press on behalf of the Guarantors of Brain. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/licenses/by- 
+nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, 
+please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained through our RightsLink service via the 
+Permissions link on the article page on our site—for further information please contact journals.permissions@oup.com.Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+5Division of Neuroscience, Department of Neurology, Institute of Experimental Neurology (INSPE), San Raffaele 
+Scientific Institute, Milano 20132, Italy
+6Unit of Neuroalgology, IRCCS Foundation ‘Carlo Besta’ Neurological Institute, Milano 20133, Italy
+7Neurology Clinic, IRCCS Ospedale Policlinico San Martino Genova, Genova 16132, Italy
+8Department of Clinical and Experimental Medicine, Unit of Neurology, University of Messina, Messina 98122, Italy
+9Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and Maternal Infantile Science (DINOGMI), 
+Genoa University, Genova 16126, Italy
+10Neuromuscular Diseases Unit, Department of Neurology, Hospital de La Santa Creu I Sant Pau, Universitat 
+Autonoma de Barcelona; Biomedical Research Institute Sant Paul, Barcelona 08041, Spain
+11Laboratorio di Malattie Neurologiche, Istituto di ricerche farmacologiche Mario Negri IRCCS, Milan 20156, Italy
+12Department of Biomedical Sciences, Humanitas University, Milan, Pieve Emanuele 20072, Italy
+Correspondence to: Eduardo Nobile-Orazio  
+Neuromuscular and Neuroimmunology Service, IRCCS Humanitas Research Hospital  
+Via Manzoni 56, Milan Rozzano 20089, Italy  
+E-mail: eduardo.nobile@unimi.it
+Keywords: CIDP; treatment; therapy: immunosuppressive therapy; randomized clinical trial; randomized controlled 
+trial
+Introduction
+Chronic inflammatory demyelinating polyradiculoneuropathy 
+(CIDP) is a disabling chronic immune-mediated neuropathy with 
+a prevalence ranging from 0.8 to 8.9 cases per 100 000 individuals.1,2
+The majority of CIDP patients improve after therapy with steroids, 
+plasma exchange, intravenous (IVIg) or subcutaneous (SCIg) immu -
+noglobulins with an efficacy ranging from 50–80% of treated 
+patients.3-7Most patients require continuous treatment to prevent 
+clinical deterioration, with clinical worsening usually occurring a 
+mean of 4.5 months after IVIg suspension and 14 months after ster-
+oid suspension8and up to 80% relapsing within 3.5 years from 
+suspension.8-10Prolonged treatment increases the cost of immuno -
+globulin therapy, raises the risk of side effects associated with ster-
+oids and the inconvenience associated to repeated courses of 
+plasma exchanges. This has spurred the search for alternative ther-
+apies, whose efficacy has been observed in uncontrolled studies but 
+was not confirmed in randomized trials.11,12
+Rituximab, a chimeric monoclonal antibody that targets the 
+CD-20 antigen on pre-B and mature B cells, reduces the synthesis 
+of new plasma cells and interferes with B cells’ antigen-presenting 
+role.13The possible efficacy of rituximab in CIDP has been summar -
+ized in two reviews showing an improvement in >70% of the pa-
+tients,11,14and in three series of CIDP patients refractory to 
+conventional therapies.15-17Uncontrolled studies on patients with 
+autoimmune nodopathy—a demyelinating neuropathy associated 
+with anti-nodal/paranodal antibodies—and not improving after 
+IVIg, also showed a potential benefit of rituximab.18-20
+We performed a phase 2, multicentre, randomized, placebo- 
+controlled study to determine the efficacy of rituximab in prevent -
+ing clinical deterioration after immunoglobulin discontinuation in 
+patients with CIDP.
+Materials and methods
+Study design
+This was a multicentre, randomized, double-blind, placebo- 
+controlled study in patients with CIDP under chronic effective treatment with IVIg or SCIg. The study was conducted at seven hos-
+pitals in Italy. The trial protocol and the subsequent amendments 
+were approved by the ethics committees of all participating centres. 
+The trial is registered with ClinicalTrials.gov (ID: NCT06325943), 
+EUDRACT number 2017-005034-36, and was conducted in accord -
+ance with the Declaration of Helsinki. All patients provided written 
+informed consent before participation in any trial-related proce -
+dures. The reporting of the study adhered to the Consolidated 
+Standards of Reporting Trials (CONSORT) reporting guidelines.
+Patients
+Patients with a documented diagnosis of definite or probable CIDP 
+according to the 2010 European Federation of Neurological 
+Societies/Peripheral Nerve Society (EFNS/PNS) criteria were re-
+cruited.21Eligibility required documented improvement after ini-
+tial immunoglobulin therapy and ongoing (minimum of 6 
+months) effective maintenance therapy with IVIg or SCIg prior to 
+study entry. Clinically meaningful treatment improvement was de-
+fined as a change of at least one point on the adjusted Inflammatory 
+Neuropathy Cause and Treatment (INCAT) score, two points on the 
+Medical Research Council (MRC) sum score, or four points on the 
+Inflammatory Rasch-built Overall Disability Scale (I-RODS) centile 
+score.22Additional inclusion criteria included the following: 
+(i) age 18 years or older; (ii) Ig-dependency confirmed by clinical 
+examination in the 12 months before screening, with a clinically 
+relevant worsening (as defined by the aforementioned criteria) after 
+IVIg reduction or withdrawal; (iii) stable SCIg or IVIg dosage (not ex-
+ceeding ±20% deviation) and frequency for at least 3 months prior to 
+enrolment, corresponding to once or twice weekly ±2 days for SCIg, 
+or every 2 to 8 weeks ±5 days for IVIg, with clinical stability between 
+doses; (iv) possible steroid use up to a maximum of 12.5 mg/day or 
+25 mg on alternate days of prednisone, or pulsed methylpredniso -
+lone at 400 mg/monthly, provided the dosage had been stable 
+(± 20%) in the previous 6 months and remained unchanged during 
+the study; (v) female subjects of childbearing potential were re-
+quired to provide a negative serum pregnancy test and use a highly 
+effective contraceptive method throughout the study and for 
+12 months following the last drug dose; and (vi) male subjects Rituximab treatment in CIDP                                                                                                   BRAIN 2025: 148; 1112–1121 | 1113Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+with partners of childbearing potential had to be willing to use a 
+highly effective contraceptive method for the same period. 
+Exclusion criteria included: (i) current diagnosis or history of 
+type 1 or type 2 diabetes mellitus; (ii) IgM paraprotein with anti- 
+myelin-associated glycoprotein (MAG) antibodies; (iii) multifocal 
+motor neuropathy; (iv) CIDP relapse or significant worsening 
+within 6 months before randomization; (v) clinical or known evi-
+dence of other medical conditions that might cause neuropathy; 
+(vi) pregnant or lactating females; (vii) any medical or psychiatric 
+condition that could compromise the ability to participate in the 
+study; (viii) congestive heart failure or moderate-to-severe impair -
+ment of cardiac function; (ix) renal or liver impairment defined 
+by serology tests; (x) leukopenia, lymphopenia or platelet count 
+<100 000/mm3; (xi) history or serological evidence of clinically 
+relevant ongoing chronic or active infections or hospitalization 
+for infection within 6 weeks prior to the first dose of rituximab; 
+(xii) family history of primary immunodeficiency; (xiii) active 
+neoplastic disease or within 5 years before study entry, except for de-
+finitively treated skin basal or squamous cell carcinoma or carcin -
+oma in situ of the uterine cervix; (xiv) treatment with plasma 
+exchange or immune absorption within 3 months before randomiza -
+tion, immune suppressive or chemotherapeutic medications within 
+6 months before randomization, mitoxantrone, alemtuzumab, cla-
+dribine at any time, total lymphoid irradiation or haematopoietic 
+stem cell transplantation at any time, any biological therapy within 
+12 months before randomization; (xv) administration of a live vac-
+cination within 8 weeks before the baseline visit, or its planning 
+during the study, or within 7 weeks after the final dose of rituximab; 
+(xvi) prior rituximab treatment within 12 months before inclusion; 
+and (xvii) history of hypersensitivity to any of the study drugs or of 
+similar chemical classes.
+Randomization and masking
+Eligible patients were randomized in a 1:1 ratio to receive either ri-
+tuximab or placebo, using a computer-generated procedure ba-
+lanced across centres. An unblinded pharmacist prepared the 
+treatment solution separately from where the patient was treated. 
+Trial drugs were transferred in identical blind bottles, labelled with 
+the patient’s identification number, and delivered to the trial nurse, 
+who was blind to treatment allocation. For emergency unblinding, 
+sealed envelopes containing the assigned product’s name were 
+held at each centre, to be opened only in case of a serious adverse 
+reaction. Blinding of the treatment identity was maintained for pa-
+tients, investigators, assessors and data analysts until the database 
+lock. This was ensured by: (i) maintaining the confidentiality of ran-
+domization data, which was not accessible to anyone except in 
+medical emergencies prior to database lock; and (ii) the use of 
+identical-looking study drugs for both physicians and patients.
+Procedures
+Following the rheumatoid arthritis treatment protocol,23patients 
+received 1 g of rituximab intravenously or a placebo on Days 1 
+and 15 (1 week before and 1 week after the first immunoglobulin in-
+fusion in the study), and at 6 months (180 ± 7, 1 week after the final 
+immunoglobulin infusion) post-randomization.
+Pre-medication included 1 g of oral paracetamol, 10 mg of chlor -
+phenamine maleate and 125 mg of methylprednisolone, diluted 
+in 100 ml of sodium chloride solution and infused over 20 min, at 
+least 30 min prior to each infusion. All patients continued their 
+established doses of IVIg or SCIg for 6 months following the first dose of rituximab/placebo. Participants who experienced objective 
+deterioration or who reported feeling worse, requesting to exit the 
+study, were considered treatment failures. They were withdrawn 
+from the study and received an IVIg dose of 2 g/kg over 4–5 days, 
+followed by the maintenance dose previously established prior to 
+therapy cessation.
+Evaluation protocols
+Evaluation before inclusion
+Each patient underwent assessment at the hospital within 30 days 
+prior to treatment initiation by: (i) complete neurological examin -
+ation; (ii) internal medicine evaluation with ECG, blood pressure 
+(BP) measurement and chest X-ray; (iii) blood chemistry and haema -
+tology tests, including complete blood cell count, urea, creatinine, 
+glucose, erythrocyte sedimentation rate (ESR), alanine aminotrans -
+ferase (ALT), aspartate aminotransferase (AST), gamma GT, alkaline 
+phosphatase, bilirubin, Na+, K+, Ca++, serum protein electrophor -
+esis, anti-HCV antibodies, anti-HIV1 and HIV2 antibodies, HBsAg, 
+anti-HbcAb, anti-HbsAb and blood lymphocyte subpopulation 
+including CD19; (iv) serum pregnancy test for females; (v) CSF exam -
+ination if not previously conducted and if needed to support the 
+diagnosis21,22; (vi) neurophysiological evaluation of motor median, 
+ulnar, peroneal and tibial nerves, and of sensory ulnar and sural 
+nerves; (vii) muscle strength assessment on 12 muscles using the 
+MRC scale24(range of 0–60, with 0 indicating most impairment); 
+(viii) disability assessment with the INCAT scale25(ranges 0 to 10, 
+with 10 indicating most impairment), and the I-RODS26(ranges 0 to 
+48, with 0 indicating most impairment); and (ix) quality of life assess -
+ment using the 36-Item Short Form Health Survey questionnaire 
+(SF-36).27
+Evaluation during the study
+Pre-infusion samples were collected on the day of the second and 
+third rituximab/placebo infusions to analyse red and white blood 
+cells, platelet, lymphocytes and neutrophil counts, and to evaluate 
+AST, ALT, gamma GT, creatinine, blood urea, Na+, K+ and Ca++, 
+and lymphocyte subpopulation. Following the initial assessment, 
+patients were re-examined at the hospital before the first and the se-
+cond infusion of rituximab/placebo, and subsequently at Months 2, 
+4, 6, 8, 10, 12, 15 and 18, as well as at times of CIDP worsening or 
+when the patient opted to resume immunoglobulin therapy. 
+Assessment included: (i) evaluation of therapy side effects, with 
+recording of vital signs and any concurrent diseases, disorders or 
+treatments; (ii) the MRC sum scale, INCAT and I-RODS disability 
+scales, with the SF-36 assessed at Months 6, 12 and 18 post- 
+treatment; (iii) electroneurographic evaluation of the two most diag-
+nostic nerves at Month 6, and a complete evaluation at Month 12; 
+(iv) comprehensive haematology and chemistry blood tests (as de-
+tailed previously) at Months 2, 4, 6 and 12 post-treatment; (v) a serum 
+pregnancy test before the last dose of rituximab; (vi) a blood lympho -
+cyte subpopulation count after 2, 6 (before rituximab/placebo infu-
+sion) and 12 months; and (vii) BP evaluation before and after each 
+infusion of rituximab/placebo.
+Outcomes
+The primary end point of the study was the difference in the pro-
+portion of patients who experienced a deterioration in any of the 
+following three measures at Month 12, within 6 months after im-
+munoglobulin discontinuation: ≥1-point on the adjusted INCAT 
+score, ≥ 2 points on the MRC sum-score, or ≥ 4 points on the 1114 | BRAIN 2025: 148; 1112–1121                                                                                                                 E. Nobile-Orazio et al.Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+I-RODS centile score. The decision to use three different outcome 
+measures to define clinical improvement aligns with the 2021 
+EAN/PNS guidelines for CIDP,22which propose various clinically 
+meaningful change criteria, all of which have been utilized in pre-
+vious clinical trials.
+Secondary end points included: (i) the difference in the mean 
+change in the adjusted INCAT, I-RODS centile, and MRC scores at 
+Months 6, 12 and 18 post-treatment compared to baseline in the ri-
+tuximab and placebo arms; (ii) the difference in the proportion of 
+patients who worsened by ≥1 point in the adjusted INCAT score 
+or ≥2 points in the MRC sum score or ≥4 points in the I-RODS centile 
+score at Month 18, within 12 months post-immunoglobulin discon -
+tinuation; (iii) the difference in the proportion of patients who had 
+suspended treatment for adverse events (AEs) or voluntary reasons 
+in the 12 months following the start of treatment; (iv) the difference 
+in the cumulative probability of worsening after immunoglobulin 
+discontinuation; and (v) the difference in the mean variation com -
+pared to the baseline in quality of life measured by the SF-36 scale 
+at Months 6, 12 and 18.
+Exploratory end points included: (i) the mean variation of motor 
+conduction block, negative distal compound muscle action poten -
+tial (CMAP) amplitude, motor conduction velocity, distal and 
+F-wave latencies in the median, ulnar, tibial and peroneal nerves 
+between baseline and Months 12 and 18 in the rituximab and pla-
+cebo groups; (ii) the response to therapy in relation to the clinical 
+form of typical CIDP or its variants; and (iii) the response to therapy 
+in relation to the presence of anti-nodal/paranodal antibodies.
+Antibody testing
+All the sera were tested before treatment for the presence of 
+anti-nodal/paranodal antibodies by ELISA using recombinant 
+Neurofascin (NF) 155 protein (OriGene RC228652) or Contactin 
+(CNTN) 1 protein (OriGene RC214706) or NF186 protein (TP 329070 
+Origene) or Contactin-Associated Protein (Caspr) 1 protein 
+(2418-CR R&D). Results were verified by cell-based assay on trans -
+fected human embryonic kidney (HEK) 293 at the Hospital de la 
+Santa Creu in Barcelona.18
+Statistical analysis
+Sample size calculation
+Given that ∼50% of CIDP patients relapse within 6 months of IVIg dis-
+continuation (median time to deterioration being 4.5 months in one 
+study8and 45% worsening by 6 months in another9) it was estimated 
+that 38 patients (19 in each group) were needed to detect a 40% 
+absolute reduction in the proportion of patients worsening after im-
+munoglobulin discontinuation in the experimental arm, with 80% 
+power and 5% significance level using a one-side chi-square test. 
+This sample size was also supported by two uncontrolled studies 
+showing ∼10% worsening rate after rituximab therapy.15,16
+Statistical analysis plan
+Primary efficacy analyses were conducted on the intention-to-treat 
+population, including all participants who received at least one 
+dose of the study medication. Per-protocol analyses for those with 
+protocol deviations were also planned but not executed as only 
+one patient had a deviation. Demographic and clinical variables at 
+study entry were described using medians with interquartile ranges 
+(IQRs) for continuous variables, and frequencies and percentages for 
+categorical variables, reported by treatment group. Comparisons used the Wilcoxon-Mann-Whitney test for continuous variables 
+and the chi-square or Fisher’s exact test for categorical variables. 
+For the primary end point, the proportion of participants worsening 
+at Month 12, 6 months post-immunoglobulin discontinuation was 
+assessed for each group. Odds ratios (ORs) for worsening, with 95% 
+confidence intervals (CIs), were calculated using a univariable logis -
+tic regression model, with treatment as the independent variable 
+and worsening as the dependent variable, and comparisons made 
+using the Wald test. A multivariable logistic regression model ad-
+justed for any unbalanced variables between groups was used to cal-
+culate adjusted ORs and 95% CIs. Secondary end points (i) and (v) 
+were analysed with repeated measures linear mixed models using 
+an unstructured variance-covariance matrix. The model separately 
+incorporated the total scores of adjusted INCAT, MRC, I-RODS cen-
+tiles, and SF-36 score—which includes eight different domains and 
+two indexes for physical and mental components—as dependent 
+variables. Treatment, time (in months), and their interaction were 
+included as independent variables. These models estimated mean 
+scores for each treatment group at each time point (Months 0, 6, 
+12, 18), differences between treatment groups at each time point, 
+and changes within each group over 6 months (slopes).
+The treatment effect was quantified in terms of difference in the 
+variation over time between the two groups (difference between 
+the slopes) and was tested by the treatment-time interaction 
+term. Differences within treatment groups were tested by the 
+time main effect, while the treatment main effect was used to iden -
+tify differences in the estimated mean scores at baseline (Month 0). 
+Secondary end points (ii) and (iii) were analysed using the same 
+methods described for the primary end point. Secondary end point 
+(iv) was assessed with Kaplan-Meier survival curves, with worsen -
+ing as event variable, and time from immunoglobulin suspension to 
+worsening as time variable; treatment groups were compared with 
+the log-rank test. Exploratory end point (i) was evaluated using a re-
+peated measures linear mixed model, similar to end points (i) and 
+(v). The dependent variables in this model included motor conduc -
+tion block (measured as the ratio of proximal to distal CMAP multi -
+plied by 100), negative distal CMAP amplitude, motor conduction 
+velocity, and distal and F-wave latencies across the median, ulnar, 
+tibial and peroneal nerves. Exploratory end points (ii) and (iii) were 
+analysed similarly to the primary end point, stratifying patients by 
+clinical form (typical CIDP or its variants) and antibody reactivity.
+Results
+Of 48 patients screened, 11 (23%) were excluded and 37 (77%) under -
+went randomization (Fig. 1) between April 2019 and March 2022. 
+Screening failure was most commonly due to exclusion criteria 
+such as relevant medical history (n = 4), positive hepatitis serology 
+(n = 2) or incompatible cardiac medication (n = 1). Two patients 
+withdrew consent prior to treatment. Of the 37 patients included 
+in the analyses, 24 were receiving IVIg and 13 SCIg as effective 
+maintenance treatment. Median age was 53 years (IQR 45–64) and 
+11 participants (30%) were female. Nineteen patients were assigned 
+to rituximab and 18 to placebo.
+Demographic and clinical features at entry are detailed in 
+Table 1. All but one patient in the placebo group had a definite 
+CIDP diagnosis versus all patients in the rituximab group. 
+Diagnoses included typical CIDP (31 patients), multifocal CIDP 
+(n = 5; 2 placebo group, 3 rituximab) and motor CIDP (n =  1 in the 
+rituximab group). Patients in the rituximab group had a longer dis-
+ease duration (6.1 years versus 3.4 years) and higher baseline MRC Rituximab treatment in CIDP                                                                                                   BRAIN 2025: 148; 1112–1121 | 1115Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+score (median 54 versus 57) but reported superior quality of life 
+metrics. None exhibited anti-node/paranode antibodies at entry. 
+Three patients (16%) in the rituximab group and one (6%) in the pla -
+cebo group were receiving oral prednisone before inclusion and continued the same dosage during the study.
+The same proportion of patients relapsed at Month 12, within 
+6 months after therapy discontinuation, in both the rituximab (12/19; 63.2%) and placebo (12/18; 66.7%) groups (OR 0.86; 95% CI 0.22–3.32) (Table 2
+), with no significant differences upon adjusting 
+for disease duration and baseline MRC sum score (adjusted OR 1.15; 95% CI 0.23–5.82) and steroid use (adjusted OR 0.88; 95% CI 0.16–4.88). By Month 18, within 12 months after therapy discontinu
+-
+ation, the proportions were 68.4% (13/19) for rituximab and 77.8% 
+(14/18) for placebo (OR 0.62; 95% CI 0.14–2.70), with the adjusted out -
+come also showing no statistical significance (adjusted OR 0.59; 95% 
+CI 0.09–3.71) ( Table 2 ). When the analyses were repeated, evaluat -
+ing worsening in at least two outcome measures, there was still 
+no statistically significant difference between the two groups (OR 
+1.5; 95% CI 0.22–10.40). Similarly, no significant difference was found when the analyses was repeated considering a four point de
+-
+crease as the threshold for change on the MRC sum score (OR 0.86; 
+95% CI 0.22–3.32). In none of the patients was relapse captured by all 
+three outcome measures simultaneously.
+Disability and impairment trajectories, quantified via INCAT, 
+I-RODS and MRC total scores, demonstrated no significant intergroup differences across the study period (Supplementary 
+Table 1 ), indicating that rituximab did not modify disease progres -
+sion, as assessed by these scales. The change in the adjusted INCAT 
+score during the study, compared to baseline, was not significant (
+P = 0.3420), with an estimated increase of 0.166 points every 
+6 months in the placebo group and 0.141 in the rituximab group. No difference was observed between the two groups in the change of the adjusted INCAT score during the follow-up, with a difference in the slopes between rituximab and placebo of −0.024 (95% CI 
+−0.651; 0.603; P = 0.9396). The estimated variation of the I-RODS 
+centile score during the follow-up compared to baseline was also not significant (P = 0.8789), with an increase of 0.649 every 6 months 
+in the placebo group and a reduction of −1.151 in the rituximab 
+group, without significant differences between the two groups (difference in the slopes: −1.800; 95% CI −8.248; 4.649; P = 0.5829). 
+The same was observed for the MRC sum score: the estimated vari
+-
+ation during the follow-up compared to baseline was not significant 
+(
+P = 0.8559), with an increase of 0.308 every 6 months in the placebo 
+group and a decrease of −0.154 every 6 months in the rituximab 
+group. The difference in slopes was not significant (rituximab ver -
+sus placebo: −
+0.462; 95% CI −2.116; 1.191; P = 0.5825).
+Quality of life analysis using the SF36 revealed that despite high -
+er baseline scores in the rituximab group on some parameters, 
+there was no significant temporal change in any of the parameters, 
+nor were there significant differences between treatment groups 
+Figure 1 Study diagram. CIDP = chronic inflammatory demyelinating polyradiculoneuropathy.1116 | BRAIN 2025: 148; 1112–1121                                                                                                                 E. Nobile-Orazio et al.Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+across any domain or in the standardized physical and mental 
+component scales (Supplementary Table 2).
+Figure 2 depicts the cumulative probability of worsening over 
+time following the discontinuation of immunoglobulin in patients 
+receiving rituximab versus placebo. Median time to relapse was 5 
+months (IQR 2.3 to not estimable) in the rituximab group compared 
+to 2 months (IQR 1.4–12.0) in the placebo group. At Month 8, 2 months after immunoglobulin discontinuation, the cumulative probability of relapse was lower in the rituximab group (22%) 
+than in the placebo group (47%). This difference persisted at 
+Month 10, 4 months after discontinuation (39% rituximab versus 59% placebo). By Month 12, 6 months after discontinuation, the gap narrowed and the Kaplan-Meier curves showed no significant 
+difference between the groups (Log-rank P = 0.4372).
+Two patients did not complete the 6-month treatment course: 
+one developed severe, diffuse petechial erythema on limbs and 
+trunk, along with wrist and ankle swelling and high fever (39°C) Table 1 Demographic and clinical features of treated patients at entry
+Placebo (n = 18) Rituximab (n = 19) P-value
+Gender, n (%) – – 0.2963
+Female 7 (39) 4 (21)
+Male 11 (61) 15 (79)
+EFNS/PNS category, n (%) – – 0.4865
+Definite 17 (94) 19 (100)
+Probable 1 (6) 0 (0)
+CIDP clinical form, n (%) – – 0.6599
+CIDP variant 2 (11) 4 (2)
+Typical 16 (89) 15 (79)
+CIDP variant form, n (%) – – >0.9999
+Multifocal 2 (11) 3 (16)
+Motor NA 1 (5)
+Therapy, n (%) – – 0.3615
+IVIg 13 (72) 11 (58)
+SCIg 5 (28) 8 (42)
+IVIg/SCIg dosage, g/kg/week, median (range) 0.25 (0.1–0.9) 0.28 (0.1–0.8) 0.9021
+IVIg frequency – – 0.1484
+Every 2–4 weeks 10 (77) 7 (64)
+Every 5–8 weeks 3 (23) 4 (36)
+Anti-nodal/paranodal antibodies 0 0
+Median (IQR) Median (IQR)
+Age at diagnosis 51 (44–61) 42 (31–52) 0.0743
+Age at randomization 54 (4–65) 49 (37–63) 0.3015
+Disease duration, years 3 (2–6) 6 (4–11) 0.0209
+Diagnostic delay 9 (3–30) 8 (2–13) 0.4613
+INCAT 2 (1–3) 3 (2–4) 0.2365
+RODS 34 (28–43) 36 (32–41) 0.5827
+MRC 57 (56–60) 54 (50–58) 0.0258
+SF36 – –
+Physical functioning 57 (40–70) 65 (45–75) 0.5717
+Role physical index 0 (0–100) 50 (50–75) 0.0411
+Body pain 52 (41–100) 84 (42–100) 0.2864
+General health perceptions 48 (32–67) 52 (37–62) >0.9999
+Vitality 47 (40–65) 60 (45–70) 0.3876
+Social functioning 75 (50–87) 75 (50–87) 0.7989
+Role emotional index 33 (0–100) 100 (67–100) 0.0110
+Mental health index 70 (52–80) 74 (48–88) 0.4325
+Standardized Physical Component Scale 34 (32–39) 40 (36–42) 0.1419
+Standardized Mental Component Scale 48 (37–54) 52 (43–57) 0.1502
+CIDP = chronic inflammatory demyelinating polyradiculoneuropathy; EFNS/PNS = European Federation of Neurological Societies/Peripheral Nerve Society; INCAT =  
+Inflammatory Neuropathy Cause and Treatment; IQR = interquartile range; IVIg = intravenous immunoglobulin; MRC = Medical Research Council; NA = not applicable; RODS =  
+Rasch-built Overall Disability Scale; SCIg = subcutaneous immunoglobulin; SF36 = Short Form Health Survey-36.
+Table 2 Worsening at Months 12 and 18 (6 and 12 months 
+post-immunoglobulin therapy discontinuation)
+Placebo (n = 18) Rituximab (n = 19)
+Worsening at Month 12 (primary end point)
+n 12 (67%) 12 (63%)
+OR 95% CI – 0.86 (0.22–3.32)
+P-value – 0.8232
+Adjusted OR, 95% CI – 1.15 (0.23–5.82)
+P-value – 0.8620
+Worsening at Month 18 (secondary end point)
+n and percentage 14 (78%) 13 (68%)
+OR, 95% CI – 0.62 (0.14–2.70)
+P-value – 0.5235
+Adjusted OR 95% CI – 0.59 (0.09–3.71)
+P-value – 0.5742
+CI = confidence interval; OR = odds ratio.Rituximab treatment in CIDP                                                                                                   BRAIN 2025: 148; 1112–1121 | 1117Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+11 days after the first rituximab infusion. This patient was treated 
+in the emergency room with intravenous methylprednisolone, 
+amoxicillin and chlorphenamine maleate, and discharged 2 days later following symptom resolution. The other experienced severe clinical worsening 5 months after initiating placebo, despite on
+-
+going IVIg therapy. Both were withdrawn but monitored until Month 6. One rituximab-treated patient worsened at Month 5 due to an unexpected IVIg treatment delay but recovered after resum
+-
+ing IVIg at Month 6. A higher proportion of rituximab-treated pa -
+tients (47.4%) experienced at least one adverse event within 12 months versus the placebo group (27.8%), though this difference was not statistically significant (
+P = 0.2194). Details on AE severity, 
+their relationship with the study drug, serious AEs and AEs leading 
+to treatment discontinuation are provided in Supplementary 
+Table 3.
+Differences in haematological parameters between groups were 
+noted only in CD19 counts, which significantly decreased (
+P < 0.001) 
+in the rituximab group at Months 2, 6 and 12 (Table 3 and 
+Supplementary Table 4). More patients showed absent CD19+ cells at Month 2 (n = 15) compared to Month 6 (n = 5) and Month 12 (n = 3) (Table 3). At Month 8, within 2 months after therapy discontinuation, 
+1 out of 15 (7%) patients with CD19 = 0 relapsed, while none (0/2) with 
+CD19 > 0 relapsed. The corresponding relapse rates at Month 12, 
+within 6 months after discontinuation, were 0/5 for CD19 = 0 patients 
+and 2/12 (17%) for CD19 > 0 patients. At Month 18, relapse occurred in 
+2/3 (67%) of CD19 = 0 patients and 7/12 (58%) of CD19 > 0 patients. 
+Differences in relapse rates between CD19 = 0 and CD19 > 0 groups 
+were not statistically significant.
+No significant differences were observed in the mean variation 
+of nerve conduction study parameters across nerves from treat -
+ment start to Months 6 and 12, nor in the slope of changes between the two groups (
+Supplementary Table 5).
+The majority of patients had typical CIDP (31/37) and their treat -
+ment response was consistent with the entire cohort: 66.7% in the 
+rituximab group worsened by Months 12 and 18, compared to 75% 
+and 81.3% in the placebo group, without significant differences be -
+tween treatment groups ( Supplementary Table 6 ). Among the six 
+patients with CIDP variants, 50% of the four patients treated with ri -
+tuximab deteriorated at Month 12 and 75% at Month 18, while none worsened by Month 12 and one by Month 18 in the placebo group. 
+The small number of patients in this subgroup precluded reliable 
+statistical analysis (
+Supplementary Table 6).
+An additional subgroup analysis examined relapse rates in 
+rituximab-treated patients with disease durations below or at/ 
+above the median (6 years). At Month 12, relapse rates were 67% 
+(6/9) in the shorter duration group and 60% (6/10) in the longer dur -
+ation group, and by Month 18, 78% (7/9) and 60% (6/10), respectively. Differences between groups were not statistically significant.
+Discussion
+In this double-blind randomized controlled study, no significant 
+difference was found between patients treated with rituximab or 
+Figure 2 Cumulative probability of worsening after immunoglobulin discontinuation in the rituximab and placebo groups. The figure displays the cu-
+mulative probability of relapse in the rituximab and placebo groups following discontinuation of immunoglobulin therapy. Time is measured in 
+months. Shaded bands represent 95% confidence intervals. The number of patients at risk in each treatment group at each time point is shown below 
+the x-axis. IVIg = intravenous immunoglobulins; SCIg = subcutaneous immunoglobulins.
+Table 3 Results of CD19+ examinations at entry and during the 
+study
+Time point Group Mean (%) Range CD19 > 0 (%)
+Screening Rituximab 9.22 3.00–20.00 18/18 (100%)
+Placebo 11.14 6.00–18.00 15/15 (100%)
+Month 2 Rituximab 1.06 0.00–15.00 2/17 (12%)
+Placebo 10.55 4.00–18.00 13/13 (100%)
+Month 6 Rituximab 1.86 0.00–6.00 12/17 (71%)
+Placebo 11.47 3.91–24.00 14/14 (100%)
+Month 12 Rituximab 1.70 0.00–6.00 12/15 (80%)
+Placebo 10.36 4.30–20.00 14/14 (100%)1118 | BRAIN 2025: 148; 1112–1121                                                                                                                 E. Nobile-Orazio et al.Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+placebo regarding the proportion and time to relapse at Months 12 
+and 18, within 6 and 12 months after discontinuation of effective 
+immunoglobulin therapy. No significant differences in the other 
+outcomes were observed between the two groups of patients either. 
+Additionally, no patients tested positive for anti-node/paranode 
+antibodies at entry; thus, this study provides no data on the role 
+of rituximab in patients with autoimmune nodopathies. 
+Rituximab was well tolerated, with only one patient discontinuing 
+the therapy due to a serious AE that was possibly related to an aller -
+gic reaction to the drug.
+A non-significant increase in the median time to deterioration 
+was noted, with rituximab-treated patients experiencing a median 
+of 5 months to relapse compared to 2 months in those treated with 
+placebo. There was a 25% absolute reduction in the proportion of 
+patients worsening at Month 8 and 20% at Month 10 (2 and 4 
+months, respectively, after discontinuation of effective immuno -
+globulin therapy). However, these differences vanished by Month 
+12 (6 months after discontinuation) and remained absent through -
+out the follow-up period.
+A similar 26% difference at 6 months was noted in the PATH 
+study6between low-dose SCIg and placebo, where the larger sam-
+ple size revealed a significant difference. The sample size for our 
+study was determined based on the findings from two previous 
+studies,8,9which, however, differed in inclusion criteria, outcome 
+measures and sample size. In one study, 21% of patients were re-
+ceiving concomitant azathioprine or steroid therapy, and the out-
+come measures included the overall neuropathy limitation scale 
+(ONLS) and the modified Rankin scale (mRS).8In the other study, 
+patients with an INCAT disability score >2 were included, and the 
+primary end point was based on the INCAT disability scale.9
+Notably, the proportion of patients experiencing relapse at 6 
+months following IVIg discontinuation was higher in our study 
+compared to these prior studies.
+In this study, non-zero CD19 levels at Months 12 and 18 suggest 
+that additional doses of rituximab might have given greater benefit. 
+Our decision to assess the response to rituximab at Months 12 and 
+18 (6 and 12 months, respectively, after discontinuation of im-
+munoglobulin therapy) was informed by previous studies of ritux -
+imab in anti-MAG antibody neuropathy.28,29It is also possible that 
+immune reactivity in our patients, treated on average of 6.1 years 
+after disease onset, had stabilized, resulting in a plasma cell pool 
+less responsive to rituximab. For instance, early treatment efficacy 
+with rituximab is documented in conditions like myasthenia 
+gravis,30optic neuromyelitis31and pemphigus.32
+Our study did not confirm the efficacy of rituximab seen in pre-
+vious uncontrolled studies on CIDP patients unresponsive to IVIg or 
+other standard immune therapies,15-17or in those with auto -
+immune nodopathies.18-20This discrepancy might reflect different 
+pathogenic mechanisms in immunoglobulin responsive patients. 
+Confirming the efficacy of rituximab in these populations, however, 
+requires randomized study.
+This study has some limitations. First, the small sample size. 
+The trial was designed to detect only a large difference between 
+groups, making it possible that a larger sample size could have al-
+tered the results. Despite multicentre collaboration,7,8,17recruit -
+ment proved difficult due to the low prevalence of the disease 
+and the reluctance of investigators and patients to discontinue ef-
+fective immunoglobulin treatment for an unproven drug or pla-
+cebo. Only patients receiving treatment were eligible, excluding 
+treatment-naïve individuals, which further narrowed the pool of 
+potential participants. It was ethically untenable to test an unproven treatment on untreated patients, and difficult to iden -
+tify participants who required ongoing treatment to prevent de-
+terioration. Second, the study design does not allow to exclude 
+the potential efficacy of earlier or more frequent rituximab treat -
+ment in CIDP, as observed in other diseases. Third, the imbalance 
+at baseline in certain parameters between the two groups, includ -
+ing disease duration, may have negatively impacted the remis -
+sion rate for rituximab, as longer disease duration has 
+previously been associated with a higher likelihood of IVIg de-
+pendency.33,34Fourth, the trial was not designed to assess the 
+long-term safety of rituximab in patients with CIDP. 
+Additionally, despite the trial design targeting active disease, 
+∼20–30% of participants, consistent with previous studies,6,12
+did not experience a confirmed worsening event 12 months post- 
+immunoglobulin discontinuation, suggesting possible remission. 
+Finally, the study excluded patients on maintenance steroid ther -
+apy, except for those receiving a maximum dose of 12.5 mg/day of 
+prednisone, which may limit the generalizability of the findings. 
+This exclusion was based on the typically longer interval before 
+relapse observed after discontinuing steroid therapy, compared 
+to the shorter relapse interval following the discontinuation of 
+intravenous immunoglobulin.8-10
+In conclusion, in this randomized placebo-controlled trial, 
+rituximab did not demonstrate greater efficacy than placebo in pre-
+venting clinical deterioration following the discontinuation of 
+immunoglobulin therapy in CIDP. Future studies are warranted to 
+explore the efficacy of treatment with rituximab in CIDP either earl-
+ier in the disease course or more frequently.
+Data availability
+Anonymized data used for this study are available upon reasonable 
+request from the corresponding author.
+Acknowledgements
+We deeply thank Dr Claudia Giannotta for immunological studies 
+on patients’ sera and for storing their sera and Antonietta Scarale 
+for the enormous support in reviewing and completing the case re-
+port forms (CRF) of the study.
+Funding
+The study was supported by a grant from Agenzia Italiana del 
+Farmaco (AIFA-2016-02364540) (AIFA) and from the GBS/CIDP 
+Foundation International (USA). Open Access Funding provided 
+by BIBLIOSAN.
+Competing interests
+E.N.O. reports personal fees for Advisory or Scientific Board from 
+ArgenX (Belgium), Dianthus (USA); Janssen (USA), LFB (France), 
+Longboard Pharma (USA), Sanofi (USA), Janssen (USA), for lecturing 
+from CSL-Behring (Italy). Received a research grant from Baxalta/ 
+Takeda, USA, on Multifocal Motor Neuropathy, from Agenzia 
+Italiana del Farmaco (AIFA) and from GBS/CIDP Foundation 
+International. He received travel grants to attend scientific meet -
+ings from Kedrion (Italy). F.M. reports honoraria for lectures from 
+Alnylam, Alfa Sigma, and SOBI. G.L.P. has received travel grants 
+to attend scientific meetings from CSL Behring (Italy) and Kedrion Rituximab treatment in CIDP                                                                                                   BRAIN 2025: 148; 1112–1121 | 1119Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+(Italy). R.C.V. received personal grant from Rio Hortega CM23/00002. 
+P.E.D. reports personal fees for advisory from ArgenX (Belgium), 
+Dianthus (USA), received travel grants to attend scientific meetings 
+from CSL Behring (Italy) and Kedrion (Italy), and honorarium for lec-
+turing from Takeda (USA).
+Supplementary material
+Supplementary material is available at Brain online.
+References
+1.Lehmann HC, Burke D, Kuwabara S. Chronic inflammatory 
+demyelinating polyneuropathy: Update on diagnosis, immuno -
+pathogenesis and treatment. J Neurol Neurosurg Psychiatry. 2019; 
+90:981-987.
+2.Lunn MPT, Manji H, Choudhary PP, et al. Chronic inflammatory 
+demyelinating polyradiculoneuropathy: A prevalence study 
+in south east England. J Neurol Neurosurg Psychiatry. 1999;66: 
+677-680.
+3.Hughes RA, Mehndiratta MM, Rajabally YA. Corticosteroids for 
+chronic inflammatory demyelinating polyradiculoneuropathy. 
+Cochrane Database Syst Rev. 2017;11:CD002062.
+4.Mehndiratta MM, Hughes RA, Agarwall P. Plasma exchange for 
+chronic inflammatory demyelinating polyradiculoneuropathy. 
+Cochrane Database Syst Rev. 2015;2015:CD003906.
+5.Bus SR, de Haan RJ, Vermeulen M, et al. Intravenous immuno -
+globulin for chronic inflammatory demyelinating polyradiculo -
+neuropathy. Cochrane Database Syst Rev. 2024;2:CD001797.
+6.van Schaik IN, Bril V, van Geloven N, et al. Subcutaneous im-
+munoglobulin for maintenance treatment in chronic inflamma -
+tory demyelinating polyneuropathy (PATH): A randomised, 
+double-blind, placebo-controlled, phase 3 trial. Lancet Neurol. 
+2018;17:35-46.
+7.Nobile-Orazio E, Cocito D, Jann S, et al. Intravenous immuno -
+globulin versus intravenous methylprednisolone for chronic 
+inflammatory demyelinating polyradiculoneuropathy: A rando -
+mised controlled trial. Lancet Neurol. 2012;11:493-502.
+8.Nobile-Orazio E, Cocito D, Jann S, et al. Frequency and time to 
+relapse after discontinuing 6-month therapy with IVIg or pulsed 
+methylprednisolone in CIDP. J Neurol Neurosurg Psychiatry. 2015; 
+86:729-734.
+9.Hughes RA, Donofrio P, Bril V, et al. Intravenous immune globu -
+lin (10% caprylate-chromatography purified) for the treatment 
+of chronic inflammatory demyelinating polyradiculoneuropa -
+thy (ICE study): A randomised placebo-controlled trial. Lancet 
+Neurol. 2008;7:136-144.
+10.Eftimov F, Vermeulen M, van Doorn PA, et al. Long-term re-
+mission of CIDP after pulsed high-dose dexamethasone or 
+short-term prednisolone treatment. Neurology. 2012;78: 
+1079-1084.
+11.Mahdi-Rogers M, Brassington R, Gunn AA, et al. 
+Immunomodulatory treatment other than corticosteroids, im-
+munoglobulin and plasma exchange for chronic inflammatory 
+demyelinating polyradiculoneuropathy. Cochrane Database Syst 
+Rev. 2017;5:CD003280.
+12.Hughes R, Dalakas MC, Merkies I, et al. Oral fingolimod for 
+chronic inflammatory demyelinating polyradiculoneuropathy 
+(FORCIDP trial): A double-blind, multicentre, randomised con-
+trolled trial. Lancet Neurol. 2018;17:689-698.13.Pescovitz MD. Rituximab, an anti-CD20 monoclonal antibody: 
+History and mechanism of action. Am J Transplant. 2006;6: 
+859-866.
+14.Hu J, Sun C, Lu J, et al. Efficacy of rituximab treatment in chronic 
+inflammatory demyelinating polyradiculoneuropathy: A sys-
+tematic review and meta-analysis. J Neurol. 2022;269:1250-1263.
+15.Muley SA, Jacobsen B, Parry G, et al. Rituximab in refractory 
+chronic inflammatory demyelinating polyneuropathy. Muscle 
+Nerve. 2020;61:575-579.
+16.Fatehi F, Okhovat AA, Panahi A, et al. Retrospective analysis of 
+response to rituximab in chronic inflammatory demyelinating 
+polyneuropathy refractory to first-line therapy. J Peripher Nerv 
+Syst. 2021;26:469-474.
+17.Doneddu PE, Cocito D, Fazio R, et al. Prospective open-label trial 
+with rituximab in patients with chronic inflammatory demye -
+linating polyradiculoneuropathy not responding to convention -
+al immune therapies. J Neurol Neurosurg Psychiatry. 2024;95: 
+838-844.
+18.Querol L, Rojas-García R, Diaz-Manera J, et al. Rituximab in 
+treatment-resistant CIDP with antibodies against paranodal 
+proteins. Neuroimmunol Neuroinflamm. 2015;2:e149.
+19.Vural A, Doppler K, Meinl E. Autoantibodies against the node of 
+ranvier in seropositive chronic inflammatory demyelinating 
+polyneuropathy: Diagnostic, pathogenic, and therapeutic rele-
+vance. Front Immunol. 2018;9:1029.
+20.Liu B, Hu J, Sun C, et al. Effectiveness and safety of rituximab in 
+autoimmune nodopathy: A single-center cohort study. J Neurol. 
+2023;270:4288-4295.
+21.Joint Task Force of the EFNS and the PNS. European Federation 
+of Neurological Societies/Peripheral Nerve Society guideline on 
+management of chronic inflammatory demyelinating polyradi -
+culoneuropathy. Report of a joint task force of the European 
+Federation of Neurological Societies and the Peripheral Nerve 
+Society. J Peripher Nerv Syst. 2010;15:1-9.
+22.Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European 
+Academy of Neurology/Peripheral Nerve Society guideline on 
+diagnosis and treatment of chronic inflammatory demyelinat -
+ing polyradiculoneuropathy: Report of a joint Task Force- 
+Second revision. Eur J Neurol. 2021;28:3556-3583.
+23.Edwards JCW, Szczepanski L, Szechinski J, et al. Efficacy of 
+B-cell–targeted therapy with rituximab in patients with 
+rheumatoid arthritis. N Engl J Med. 2004;350:2572-2581.
+24.Kleyweg RP, van der Meche FG, Schmitz PI. Interobserver agree -
+ment in the assessment of muscle strength and functional 
+abilities in Guillain-Barre syndrome. Muscle Nerve. 1991;14: 
+1103-1109.
+25.Merkies IS, Schmitz PI, van der Meche FG, et al. Clinimetric 
+evaluation of a new overall disability scale in immune mediated 
+polyneuropathies. J Neurol Neurosurg Psychiatry. 2002;72: 
+596-601.
+26.van Nes SI, Vanhoutte EK, van Doorn PA, et al. Rasch-built 
+Overall Disability Scale (R-ODS) for immune-mediated periph -
+eral neuropathies. Neurology. 2011;76:337-345.
+27.Ware JE  Jr, Sherbourne CD. The MOS 36-item short form health 
+survey (SF-36): I: Conceptual framework and item selection. Med 
+Care. 1992;30:473-483.
+28.Dalakas MC, Rakocevic G, Salajegheh M, et al. Placebo- 
+controlled trial of rituximab in IgM anti-myelin-associated 
+glycoprotein antibody demyelinating neuropathy. Ann Neurol. 
+2009;65:286-293.
+29.Leger JM, Viala K, Nicolas G, et al. Placebo-controlled trial of ri-
+tuximab in IgM anti-myelin-associated glycoprotein neur -
+opathy. Neurology. 2013;80:2217-2225.1120 | BRAIN 2025: 148; 1112–1121                                                                                                                 E. Nobile-Orazio et al.Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026
+
+
+30.Piehl F, Eriksson-Dufva A, Budzianowska A, et al. Efficacy and 
+safety of rituximab for new-onset generalized myasthenia 
+Gravis. The RINOMAX randomized clinical trial. JAMA Neurol. 
+2022;79:1105-1112.
+31.Park SY, Kwon YN, Kim S, et al. Early rituximab treatment 
+reduces long-term disability in aquaporin-4 antibody-positive 
+neuromyelitis optica spectrum. J Neurol Neurosurg Psychiatry. 
+2023;94:800-805.
+32.Nosrati A, Mimouni T, Hodak E, et al. Early rituximab treatment 
+is associated with increased and sustained remission in pemphigus patients: A retrospective cohort of 99 patients. 
+Dermatol Ther. 2022;35:e15397.
+33.Rabin M, Mutlu G, Stojkovic T, et al. Chronic inflammatory 
+demyelinating polyradiculoneuropathy: Search for factors as-
+sociated with treatment dependence or successful withdrawal. 
+J Neurol Neurosurg Psychiatry. 2014;85:901-906.
+34.Rajabally YA, Min YG, Nazeer KK, Englezou C. Treatment 
+response amplitude and timing in chronic inflammatory de-
+myelinating polyneuropathy with routine care: Study of a UK 
+cohort. Eur J Neurol. 2024;31:e16399.Rituximab treatment in CIDP                                                                                                   BRAIN 2025: 148; 1112–1121 | 1121Downloaded from https://academic.oup.com/brain/article/148/4/1112/7920650 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 26 March 2026

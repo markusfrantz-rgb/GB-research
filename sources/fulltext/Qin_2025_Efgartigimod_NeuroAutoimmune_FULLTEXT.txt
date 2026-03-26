@@ -1,0 +1,649 @@
+Efficacyandsafetyofefgartigimod inpatientswithneurological
+autoimmune diseases
+JinQin1,WeiLi,LipinYuan,HuiqinLiu,RuiPang,JiewenZhang*
+DepartmentofNeurology,HenanProvincialPeople ’sHospital,ZhengzhouUniversityPeople ’sHospital,Zhengzhou,Henan,China
+ARTICLE INFO
+Keywords:
+Neurological autoimmune diseases
+Efgartigimod
+IgG
+Myasthenia gravis
+EncephalitisABSTRACT
+Objective: Myasthenia gravis(MG)isanautoimmune diseasecharacterized bydisrupted neuromuscular synaptic
+transmission. Efgartigimod, ahumanFcreceptorantagonist, hasbeenapproved forpatientswithMG.Itspo-
+tentialuseforotherIgG-mediated neurological autoimmune diseasesisunclear.Thisstudyaimedtoretro-
+spectively evaluatetheefficacyandsafetyofefgartigimod inpatientswithneurological autoimmune diseases.
+Methods:Thisretrospective studyinvestigated patientswithneurological autoimmune diseaseswhoweretreated
+withefgartigimod intheHenanProvincial People ’sHospital.Theefficacyofthemedication wasanalyzedusing
+thequality-of-life improvement scoreandtheIgGlevelpre-andpost-efgartigimod treatment. Thesafetyofthe
+medication wasassessedbyconsidering adverseeventsandbloodparameters. Thebloodparameters, including
+routinebloodparameters, coagulation, liver,kidney,andimmunefunction.
+Results:Seventeen patientsreceivedefgartigimod intheHenanProvincial People ’sHospitalfromSeptember 1,
+2023,toJanuary31,2024.InMGpatients,myasthenia gravisactivitiesofdailyliving(MG-ADL) reducedafter
+efgartigimod treatment for4weekscompared withbaseline(PD0.05).Autoimmune encephalitis (AE)isagroup
+ofinflammatory diseasewithantibodies againstneuronalsynapticandcellsurfaceantigens.Similarly, patients
+withAEhadastatistically significant reduction inmodifiedRankinscale(mRS)afterefgartigimod treatment for
+4weekscompared withbaseline(PD0.05).GuillainBarresyndrome (GBS)isanimmune-mediated diseaseof
+theperipheral nervesandnerveroots.However, theinflammatory neuropathy causeandtreatment (INCAT)
+scalescoredidn ’tstatistically differinGBSpatientsbeforeandafterefgartigimod treatment (PF0.05).TheIgG
+levelssignificantly reducedafterthefirstinfusionandgradually decreased aftermultipleinfusions(PD0.05).
+Mostsubjectsdidnothaveincreased IgGserumlevelsbeforetreatment. IgA,IgM,andcomplement levelsdidn ’t
+differsignificantly withefgartigimod treatment (PF0.05).Therewerenochangesinbloodparameters during
+thetreatment (PF0.05).
+Conclusions: Efgartigimod waseffectiveandsafeinneurological IgG-mediated autoimmune diseases,evenin
+patientswithoutincreased IgGserumlevels.
+1.Introduction
+Neurological autoimmune diseasesareabnormal immuneresponses
+againstthecentralnervoussystem(CNS)andtheperipheral nervous
+system[1].However, themanifestations ofthesediseaseshighlyvary,
+andthesemanifestations areoftensevere,resultinginmorbidity and
+mortality [2].Manifestations ofautoimmune diseasesresultfrom
+autoantibody-mediated disorders, T-cellorB-cellmediated disorders,
+andgranulomatous inflammation [3,4].Neurological autoimmune dis-
+ordersarecommonly treatedwithimmunosuppressive therapies,including glucocorticoid, intravenous immunoglobulin, plasmaex-
+change(PLEX),andimmunoregulators [5].Thestandard immuno-
+therapyisofteninsufficient forsomepatientstopreventthedisease
+progression.
+TheneonatalFcreceptor(FcRn)isamajorhistocompatibility com-
+plex(MHC)classI-likemoleculethatbindstoimmunoglobulin G(IgG)
+topreventlysosomal degradation [6].ItwasinitiallythoughtthatFcRn
+transports IgGfromthemothertothefetus[7].Subsequently, itwas
+identified thatFcRnregulatesIgGdynamiclevelsthroughdistribution,
+transport, andprevention ofdegradation [8].InIgG-mediated
+*Corresponding authorat:Department ofNeurology, HenanProvincial People ’sHospital,Zhengzhou 450003,Henan,China.
+E-mailaddress:zhangjiewen9900@126.com (J.Zhang).
+1Firstauthor:JinQin
+ContentslistsavailableatScienceDirect
+Immunology Letters
+u{�~zkw s{yo| kro> ÐÐÐ1 ow�o�to~1m{y2 w{mk�o2tyyw o�
+https://doi.org/10.1016/j.imlet.2025.106983
+Received11July2024;Receivedinrevisedform4January2025;Accepted 9February2025Immunology  Letters  273 (2025)  106983  
+Available  online  10 February  2025  
+0165-2478/©  2025  Published  by Elsevier  B.V. on behalf  of European  Federation  of Immunological  Societies.  
+
+autoimmune diseases,mostpatientshaveautoantibodies whileasmall
+proportion ofpatientshavenoidentifiable antibodies. Antagonizing
+FcRnpreventsbindingtoitstargetIgG,resultinginthedegradation of
+IgG,including pathogenic autoantibodies withtherapeutic effects[9].
+Therefore, antagonizing FcRnpreventsIgGautoantibodies frombinding
+andresultsindegradation ofantibodies causingIgG-mediated neuro-
+logicalautoimmune diseases.
+Efgartigimod isahumanIgG1antibodyagainstFcfragmentwitha
+highaffinitytoFcRncompared withtheendogenous IgG[10].Inphase
+1and2trials,efgartigimod significantly reducedthelevelsofIgGand
+improved symptoms andactivities ofdailylivinginpatientswith
+generalized myasthenia gravis[11,12].Further,efgartigimod wasvery
+effectiveandsafeinpatientswithMGinaphase3trial[13].Recently,
+severalclinicalstudiesofefgartigimod investigated itsefficacyforother
+autoimmune diseaseslikebullouspemphigoid andimmunethrombo-
+cytopenia. Efgartigimod significantly increased themeaningful platelet
+responses compared withplaceboinpatientswithPrimaryImmune
+Thrombocytopenia [14,15].Furthermore, efgartigimod exhibited an
+earlyeffectonearlydiseaseactivityforpemphigus [16].Recentlythe
+ADHERE studydemonstrated thatefgartigimod improved clinical
+symptoms anddecreased theriskofrecurrence inpatientswithchronic
+inflammatory demyelinating polyradiculoneuropathy (CIDP)compared
+withplacebo[17].Withincreasing evidenceonitstherapeutic effectin
+MGandCIDP,itsefficacyonneurological autoimmune disorders,
+especially neurological autoimmune disorderswithouttheincreased IgG
+serumlevels,remainsunclear.
+Therefore, thisstudyaimedtoassesstheefficacyandsafetyof
+efgartigimod inneurological autoimmune diseases,especially neuro-
+logicalautoimmune diseaseswithouttheincreased IgGserumlevels.
+Anotherobjectivewastoanalyzetheimmunefunctionandadversere-
+actionsinpatientswithautoimmune neurological diseasesfollowing
+efgartigimod treatment.
+2.Methods
+2.1.Participants
+Patientswithneurological autoimmune diseaseswhoreceived
+efgartigimod treatment attheNeurology Department ofHenanProvin-
+cialPeople ’sHospitalfromSeptember 1,2023,toJanuary31,2024,
+wereincludedinthisanalysis.Theneurological autoimmune diseases
+wereMG,GBS,AE,neuromyelitis opticaspectrum disorder(NMOSD),
+andpolymyositis (PM).NMOSDisanautoimmune diseaseoftheCNS
+thatprimarily affectstheopticnervesandspinalcord.PMisakindof
+idiopathic inflammatory myopathies. Patientswithsevereinfection,
+acutecardiovascular andcerebrovascular events,andparticipants who
+hadsevereliverandkidneydysfunction wereexcludedfromthestudy.
+Amongthe18patientswithefgartigimod treatment, 1casewas
+excludedduetoundiagnosed idiopathic inflammatory myopathy, and
+17subjectsweresubsequently included. Allpatientsconsented to
+efgartigimod therapyandsignedinformed consentforefgartigimod
+therapy.Thisretrospective datacollection wasinaccordance withethics
+compliance andrelevantregulations. Efgartigimod (10mg/kg)was
+intravenously injectedatfourinfusions percycle(oneinfusionper
+week).Theefgartigimod regimenwasadjustedbasedonthesymptoms ’
+improvement andthepatient ’seconomic burden.
+2.2.Outcomemeasures
+Clinicalparameters wereassessedatbaseline,1week,and4weeks
+afterthefirstinfusionofefgartigimod inpatientswithMG,AE,andGBS
+usingMG-ADL, mRS,andINCATscale,respectively. Outcomes were
+definedassignificantly favorable withtheimprovement inMG-ADL≽2
+points,inmRS≽1pointandinINCAT≽1pointcompared tothe
+baseline,respectively. Atthesametime,thechangesinimmunein-
+dicatorswererecordedatbaselineandafteroneinfusion,twoinfusions,Table1
+Asummary ofclinicaldataandoutcomes forpatients.
+#Diagnosis Clinical
+manifestationsTreatments Outcomes
+1GBS Inabilitytostand
+orholdobjects
+unaideddueto
+limbweaknessCorticosteroids,
+IVIG,plasma
+exchange and
+ofatumumabImprovement in
+upperlimb
+weakness but
+difficultyin
+walking
+2GBS Lowerlimb
+weakness and
+limbnumbnessCorticosteroids,
+IVIGand
+RituximabRecovery ofmotor
+andsensory
+function,and
+abilitytowalk
+quicklyagain
+3GBS Difficulty in
+walkingand
+lifting,
+paresthesia inthe
+limbCorticosteroids,
+IVIG,andplasma
+exchangeIncreased muscle
+powerandwalk
+again,
+accompanied by
+recoveryof
+numbness
+4AE Difficulty
+swallowing and
+talking,andwalk
+unsteadilyCorticosteroids
+andMMFRecovery of
+swallowing,
+talking,and
+walking.
+5AE Seizures,
+cognitive
+impairment and
+inabilityto
+recognize peopleNo Reducedseizures,
+normal
+communication
+duetoimproved
+cognitive function
+6AE Seizuresand
+cognitive
+impairment, poor
+memoryCorticosteroids Epilepsywaswell
+controlled and
+memoryshowed
+significant
+improvement.
+7AE Behavioral and
+psychological
+abnormalities and
+cognitive
+impairmentCorticosteroids
+andIVIGRecovery of
+cognitive function
+andnormallife
+wasachieved.
+8AE Seizures,
+behavioral and
+psychological
+symptomsCorticosteroids Reducedseizures
+andimprovement
+inbehavioral
+abnormalities
+9MG EyelidPtosis,
+difficultylifting
+neck,swallowing
+andtalkingpyridostigmine
+bromide
+(Mestinon),
+corticosteroids,
+andazathioprine
+(Imuran)Significant
+recoveryofneck
+strength,
+swallowing and
+talking.Eyelid
+Ptosisshowed
+slightimprovement
+10MG EyelidPtosisand
+diplopiapyridostigmine
+bromide
+(Mestinon) and
+corticosteroidsDisappearance of
+eyelidPtosisand
+diplopia
+11MG Limbweakness,
+difficultyin
+walking,lifting
+and
+uncomfortable
+swallowingpyridostigmine
+bromide
+(Mestinon) and
+corticosteroidsRestoredinlimb
+weakness and
+abilitytowalk
+quicklyagain,and
+smooth
+swallowing.
+12MG EyelidPtosis,
+weakness inneck
+andlowerlimbspyridostigmine
+bromide
+(Mestinon),
+corticosteroids and
+tacrolimusImprovement in
+eyes,neckandlimb
+weakness
+13MG EyelidPtosisand
+dyspneapyridostigmine
+bromide
+(Mestinon),
+corticosteroids,
+IVIGandMMFDisappearance of
+dyspneaandeyelid
+Ptosisshowed
+obvious
+improvement
+14MG EyelidPtosis pyridostigmine
+bromide
+(Mestinon),
+corticosteroids and
+tacrolimusEyelidweakness
+showedobvious
+improvement.
+15MG Limbweakness,
+dyspnea,pyridostigmine
+bromideImprovement in
+limbweakness,
+(continuedonnextpage)J.Qinetal. Immunology  Letters  273 (2025)  106983  
+2 
+
+threeinfusions, andfourinfusionsofefgartigimod. Dataarepresented as
+mean±sd,fordataexpectedtobenormallydistributed, andasmedium
+(interquartile range)fordataexpectedtonotbenormallydistributed.
+Thesafetyofefgartigimod wasassessedbythechangesinblood
+parameters andincidence ofadverseevents.Theeffectsofefgartigimod
+onbloodparameters wereassessedduringthetreatment period.The
+bloodparameters wererecordedatbaselineandafteroneinfusion,two
+infusions, threeinfusions, andfourinfusionsofefgartigimod. Reported
+adverseevents,including headache, respiratory infection, gastrointes-
+tinaldisorder,sensoryabnormality, andmuscularpainwereevaluated.
+2.3.Statisticalanalysis
+SPSSversion23.0(IBMSPSS,Chicago,IL,USA)wasusedforsta-
+tisticalanalysis.AEThequalitative variables werereportedasfre-
+quencies. Thetwogroupswerecompared usingthestudent ’st-test,
+whilethecomparisons ofmoregroupsweredoneusingone-wayanalysis
+ofvariance(ANOVA) orKruskal-Wallis testaccording tothenormality
+orhomogeneity ofvariance. Ap-valueofD0.05wasconsidered sta-
+tisticallysignificant.3.Results
+3.1.Baselinecharacteristics
+Seventeen patients,12(71%)malesand5(29%)females,who
+receivedefgartigimod wereinvestigated. Amongthem,8(47%)patients
+hadMG,5(29%)patientshadAE,3(18%)patientssufferedfromGBS,
+and1(6%)patienthadNMOSD.Wesummarized clinicaldataand
+outcomes forpatients(Table1).MGpatientshad7(87.5%)malesand1
+(12.5%)female.AEpatientshad3(60%)malesand2(40%)females.
+GBSpatientshad2(67%)malesand1(33%)female.Theaverageage
+ofMGpatientswas59±14yearsandtheaveragecourseofMGwas4±4
+years.TheaverageageofAEpatientswas38±20yearsandtheaverage
+courseofAEwas0.9±0.7months.TheaverageageofGBSpatientswas
+23±6yearsandtheaveragecourseofGBSwas15±19months(Table2).
+ThepatientwithNMOSDwasa51-year-old femalewithadiseasecourse
+of7years.
+BasedontheMyasthenia GravisFoundation (MGFA)classification, 2
+(25%)patientshadclassIMG,2(25%)patientshadclassIIaMG,2(25
+%)patientshadclassIIbMG,and2(25%)patientshadclassIVMG.
+AmongAEpatients,1(20%)patienthadanti-N-methyl- D-aspartate-
+receptor(NMDAR) encephalitis, 3(60%)patientshadmarginal en-
+cephalitis, and1(20%)patienthadanotherAEsyndrome. Therewere1
+(33%)patientdisplaying signsofacuteinflammatory demyelinating
+polyneuropathy (AIDP)and2(67%)patientsexhibiting signsofCIDP.
+Three(37.5%)MGpatientsunderwent previousthymectomy. Most
+patients[16of17(94%)]receivedcombined hormonetherapy.Com-
+binedhormonetherapyreferstotheuseofcorticosteroids duringthe
+treatment ofefgartigimod. Twopatientshadoneinfusion,8patientshad
+twoinfusions, 2patientsreceivedthreeinfusions, 4patientsreceived
+fourinfusions, and1patientreceivedfiveinfusions. MGpatientshad1
+(12.5%)patientreceivingoneinfusion,4(50%)patientsreceivingtwo
+infusions, 1(12.5%)patientreceiving threeinfusions, and2(25%)
+patientsreceiving fourinfusions. AEpatientshad4(80%)patients
+receiving twoinfusionsand1(20%)patientreceiving threeinfusions.
+GBSpatientshad1patientreceiving oneinfusion,thesecondpatient
+receiving fourinfusions, andthethirdpatientreceiving fiveinfusions.
+TheNMOSDpatientreceiving fourinfusions.
+3.2.Clinicalcharacteristics
+TheMG-ADLscoreinpatientswithMGwas10±5atbaseline,8±5
+at1week,and4±4at4weeksafterefgartigimod treatment, respec-
+tively.PatientswithMGshowedastatistically significant improvementTable1(continued)
+#Diagnosis Clinical
+manifestationsTreatments Outcomes
+difficultyin
+swallowing and
+talking(Mestinon) and
+corticosteroidsswallowing and
+talkingand
+disappearance of
+dyspnea
+16MG EyelidPtosis,
+diplopia,upper
+limbweakness
+anddifficulty
+liftingpyridostigmine
+bromide
+(Mestinon),
+corticosteroids and
+tacrolimusRestoredineyelid
+Ptosisandlimb
+weakness returnsto
+normallife.
+17NMOSD Numbness below
+thewaistand
+lowerlimb
+weaknessCorticosteroids Improved in
+paresthesia.
+Lowerlimb
+weakness showed
+slight
+improvement.
+IVIG:Immunoglobulin, MMF:mycophenolate mofetil(CellCept).
+Table2
+Baselinecharacteristics andmedicalhistoryofthepatients.
+MG(n
+8)AE(n5)GBS(n3)NMOSD(n
+1)
+Age,years 59±1438±20 23±6 51
+Sex ​ ​ ​ ​
+Male 7(87.5
+%)3(60%) 2(67%) 0
+Female 1(12.5
+%)2(40%) 1(33%) 1(100%)
+Diseasecourse 4±4
+years0.9±0.7
+months15±19
+months7years
+Previous
+thymectomy​ ​ ​ ​
+Yes 3(37.5
+%)0 0 0
+No 5(62.5
+%)5(100%) 3(100%)1(100%)
+Combined
+corticosteroids8(100
+%)4(80%) 3(100%)1(100%)
+Infusionofefgartigimod, numbers ​
+1 1(12.5
+%)0 1(33.3%)0
+2
+34(50%)
+1(12.5
+%)4(80%)
+1(20%)0
+00
+0
+4
+52(25%)
+00
+01(33.3%)
+1(33.3%)1(100%)
+0
+Fig.1.ChangeinMG-ADL, mRS,andINCATpre-andpost-efgartigi-
+modtherapy.J.Qinetal. Immunology  Letters  273 (2025)  106983  
+3 
+
+inmeanMG-ADLscoreafter4weeksofefgartigimod therapycompared
+withbaseline(PD0.05)(Fig.1)(Table3).
+ThemRSinpatientswithAEwas4±1atbaseline,4±1at1week,
+and2±0.7at4weeksafterefgartigimod treatment, respectively. Pa-
+tientswithAEshowedastatistically significant improvement inmean
+mRSafter4weeksofefgartigimod therapycompared withbaseline(PD
+0.05)(Fig.1)(Table3).
+TheINCATscoreinpatientswithGBSwas7±3atbaseline,6±4at
+1week,and6±3at4weeksafterefgartigimod therapy,respectively.
+Although theINCATscoreshowedadecreasing trendafter4weeksof
+efgartigimod therapycompared withbaseline,therewasnostatistical
+difference (PF0.05)(Fig.1)(Table3).
+Twelve(71%)patientsweretestedforIgG,IgA,andIgMlevels
+beforeefgartigimod therapy,withoutincreased IgGserumlevels.
+Compared tothebaselinelevel,theIgGlevelsweresignificantly reduced
+afteroneinfusion(PD0.01),twoinfusions(PD0.05),andafterthree
+infusions(PD0.01).TheIgGlevelgradually decreased afterinfusions(P
+D0.05).Nine(53%)patientsweretestedforcomplement 3(C3)and
+complement 4(C4)beforeefgartigimod therapy,andtherewereno
+significant differences intheIgA,IgM,andcomplement levelsafter
+efgartigimod treatment (PF0.05)(Fig.2)(Table4).
+Eachpatient ’streatment andefficacywerevisualized byswimmer
+plot.Thelengthdenotesthedurationoftreatment andcolorsdenote
+differentdiseases.Swimmer plotdemonstrated thatefgartigimod ther-
+apyachievedsignificant clinicalimprovement inpatientswithneuro-
+logicalautoimmune diseases(Fig.3).
+3.3.Safety
+Noseriousadverseeventsoccurredduringtheefgartigimod therapy.
+Onepatientexhibited amildupperrespiratory tractinfection. Routine
+bloodparameters atbaselineandafteroneinfusion,two,three,andfour
+infusionsofefgartigimod treatment wereevaluated in17,12,7,5,and3
+patients, respectively. Bloodcoagulation atbaselineandafterone
+infusionandtwoinfusionsofefgartigimod therapywasassessedin17,5,and3patients,respectively. Liverfunctionatbaselineandafterone
+infusion,two,three,andfourinfusions ofefgartigimod therapywas
+evaluated in15,10,7,4,and3patients,respectively. Kidneyfunctionat
+baselineandafteroneinfusion,two,three,andfourinfusionsofefgar-
+tigimodtherapywasassessedin16,10,7,3,and3patients,respectively.
+Bloodparameters, including routinebloodparameters, coagulation
+time,bloodalbumin,liverfunction,andkidneyfunctiondidn ’tchange
+withthetreatment (PF0.05).Treatment-emergent adverseevents
+(TEAEs),including bleeding, didn ’toccur(Table5).
+4.Discussion
+Inthisstudy,theefficacyandsafetyofefgartigimod forneurological
+autoimmune diseaseswereinvestigated. Thestudyfindingsshowedthat
+efgartigimod waseffectiveandwelltolerated inpatientswithneuro-
+logicalautoimmune diseases,eveninpatientswithoutincreased levels
+ofIgG.Thus,efgartigimod mayserveasanoptionalchoiceforthe
+treatment ofneurological autoimmune diseases.
+Therearestandard immunotherapy treatments forneurological
+autoimmune diseases.However, itisofteninsufficient forsomepatients
+topreventthediseaseprogression. Thus,newmedications aresought
+andmoreattentionhasbeenpaidtothetherapeutic effectofefgartigi-
+modintreatingIgG-mediated autoimmune diseases.Inrecentyears,an
+increasing numberofclinicaltrialsonefgartigimod haveshown
+considerable clinicalimprovement inMGpatients[12,13].Inthe
+ADHEREstudy,efgartigimod improved thesymptoms anddecreased the
+riskofrecurrence inpatientswithCIDP.However, information on
+efgartigimod useinclinicalpracticeissparse.Thisstudyenrolleda
+broadrangeofneurological autoimmune diseases,including GBS,AE,
+andNMOSD.Improvements inqualityoflifeinpatientswithMGandAETable3
+Outcomemeasures pre-andpost-efgartigimod therapy.
+Baseline Oneweekafter
+therapyFourweeksafter
+therapyp-
+value
+MG-ADL
+(n8)10±58±5 4±4 D0.05
+mRS
+(n5)4±14±1 2±0.7 D0.05
+INCAT
+(n3)7±36±4 6±3 F0.05
+Fig.2.Changeinimmuneindicators pre-andpost-efgartigimod therapy.(A)thelevelsofIgG,(B)thelevelsofIgA,IgM,C3andC4.C3:Complement 3,C4:
+Complement 4.Table4
+Theimmune-related parameters pre-andpost-efgartigimod therapy.
+Baseline Oneweek
+aftertherapy
+(n9)Twoweeks
+aftertherapy
+(n3)Threeweeks
+aftertherapy
+(n4)p-
+value
+IgG,
+g/L10±46±3 5±2 4±0.9 D
+0.05
+IgA,
+g/L2±0.62±1 2±0.9 2(2,3) F
+0.05
+IgM,
+g/L1±0.50.9±0.5 0.8±0.1 2±2 F
+0.05
+C3,g/
+L1±0.21±0.2 1±0.1 1(1,1) F
+0.05
+C4,g/
+L0.3±
+0.10.3±0.1 0.2±0.9 0.2(0.2,0.3)F
+0.05
+Abbreviation: C3,Complement 3,C4,Complement 4.J.Qinetal. Immunology  Letters  273 (2025)  106983  
+4 
+
+wereobserved, whichwasconsistent withpreviousresearchfindingsin
+MGpatients[12,13].InpatientswithGBS,theINCATscoreshoweda
+decreasing trendbutnotwithstatistical significance. Thismayhave
+beenduetothesmallnumberofcases,necessitating moreresearchinto
+otherneurological autoimmune diseases.
+Inpreviousstudies,efgartigimod withorwithoutacetylcholine re-
+ceptorantibodies reducedIgGlevelsinMGpatients,andthereduction
+inIgGlevelsparalleled theimprovement insymptoms [12,13].How-
+ever,theeffectofefgartigimod onneurological autoimmune diseasesin
+patientswithoutincreased IgGserumlevelsremainsunclear.Inthis
+study,alargeportionofpatientshadnormalIgGserumlevelsbefore
+efgartigimod treatment. Asignificant rapidreduction intotalIgGwas
+observed inefgartigimod-treated patientseitherwithnormalor
+increased IgGserumlevelsatbaseline.Thereduction wasseenafterthe
+firstadministration andcontinued witheachinfusionofthemedication.
+Moreover, theimprovements inclinicalparameters wereconsistent and
+long-lasting throughout the4weeksofefgartigimod treatment. This
+outcomemayhavebeenduetotheclearingofpathogenic IgGantibodies
+byefgartigimod eveninpatientswithoutincreased IgGserumlevels.
+Moreover, theefgartigimod hadnoimpactontheIgA,IgM,andcom-
+plementlevels,suggesting aselectiveremovalofIgG,possiblypatho-
+genicIgGinneurological autoimmune diseases.
+Inthisstudy,theincidence ofadverseeventswaslowandtheadverse
+eventsthatoccurredweregenerally mild.Onepatientexperienced amildupperrespiratory tractinfection duringtheefgartigimod treat-
+ment.Consistent withtheliterature results,efgartigimod waswell
+toleratedinthisstudy[12,13].Although theIgGreduction byefgarti-
+gimodwasobserved, therewasnoimpactonalbuminlevels,whichwas
+consistent withpreviousresearch[13].Thisstudycomprehensively
+evaluated thesafetyofefgartigimod. Theclinicallaboratory parameters,
+including bloodcells,coagulation, bloodalbumin,liverfunction, and
+kidneyfunctionwerenotnoticeably changed.Thus,efgartigimod was
+welltoleratedinpatientswithneurological autoimmune diseases.
+Thisretrospective analysishadseverallimitations. Unlikeprospec-
+tivestudies,thisstudyhadalackofstandardized protocols forefgarti-
+gimod,insufficiency inevaluating therapeutic effects,anddifficulty in
+determining theeconomic burdenduringthetreatment. Somepatients
+didn ’tcomplete acyclewithefgartigimod. Secondly, weeklyscoreson
+theMG-ADL, INCAT,ormRSscoreswerenotobtainedinpatientswith
+autoimmune diseasesfromtheretrospectively collecteddata.Moreover,
+notallpatientswerenottestedfortheIgGlevelsbeforeefgartigimod
+treatment. Finally,bloodparameters wereonlyobtainedinasubsetof
+patientsandtheseoutcomemeasures werenotprospectively collected.
+Funding
+Thisresearchwasnotreceivedanyfunding.
+Fig.3.Patientsreceivedefgartigimod wererepresented intheswimmer plot.
+Table5
+Outcomemeasures fortheevaluation ofdrugsafety.
+Baseline Oneweekaftertherapy Twoweeksaftertherapy Threeweeksaftertherapy Fourweeksaftertherapy p-value
+WBC, ☓109/L 9±2 9±3 9±3 8(6,9) 6±1 F0.05
+LYC, ☓109/L 2±1 2±0.9 2±0.9 2±0.8 2±0.2 F0.05
+HGB,g/L 134±16 125±18 134±21 135(122,139) 135±12 F0.05
+PLT, ☓109/L 233±59 226±70 247±36 230±45 244±34 F0.05
+PT,s 11(11,12) 12±0.7 11±0.4 / / F0.05
+APTT,s 27±3 30±5 31±4 / / F0.05
+INR 1(1,1.1) 1±0.1 1±0.04 / / F0.05
+ALT,U/L 19(15,26) 31±20 39±24 18(13,76) 24±22 F0.05
+AST,U/L 19(15,23) 18±9 17(14,19) 20±15 24±14 F0.05
+TP,g/L 61±9 55±6 56±7 56±9 61±3 F0.05
+ALB,g/L 38±7 37(35,42) 39±6 39±7 43±4 F0.05
+TBIL,umol/L 9(8,14) 10±4 12±5 10(8,10) 7±2 F0.05
+CR,umol/L 63±20 52±14 61±17 59±14 59±10 F0.05
+Abbreviations: WBC,Whitebloodcellcount;C4,Lymphocyte count;HGB,Hemoglobin; PLT,Platelet;PT,Prothrombin time;APTT,activatedpartialthromboplastin
+time;INR,international normalized ratio;ALT,alanineaminotransferase; AST,aspartateaminotransferase; TP,Totalprotein;ALB,Albumin;TBIL,Totalbilirubin; CR,
+Creatinine.
+Dataarepresented asmean±sd,fordataexpectedtobenormallydistributed, andasmedium(interquartile range)fordataexpectedtonotbenormallydistributed.J.Qinetal. Immunology  Letters  273 (2025)  106983  
+5 
+
+CRediTauthorshipcontribution statement
+JinQin:Writing –originaldraft,Investigation, Formalanalysis,
+Conceptualization. WeiLi:Writing –originaldraft,Investigation. Lipin
+Yuan:Investigation, Datacuration.HuiqinLiu:Formalanalysis,Data
+curation.RuiPang:Formalanalysis.JiewenZhang:Writing –review &
+editing,Supervision, Projectadministration, Conceptualization.
+Declaration ofcompetinginterest
+Wedeclarethatallauthorshavenocompeting conflictsofinterest.
+Acknowledgments
+Wethankalltheauthorsfortheirhardworkandparticipation.
+References
+[1]S.Jacob,G.Mazibrada, S.R.Irani,A.Jacob,A.Yudina,Theroleofplasma
+exchange inthetreatment ofrefractory autoimmune neurological diseases:a
+narrativereview,J.Neuroimmune Pharmacol. 16(4)(2021)806–817,https://doi.
+org/10.1007/s11481-021-10004-9 .
+[2]J.A.McCombe, S.J.Pittock,Anti-complement agentsforautoimmune neurological
+disease,Neurotherapeutics. 19(3)(2022)711–728,https://doi.org/10.1007/
+s13311-022-01223-w .
+[3]D.B.Rubin,A.Batra,H.Vaitkevicius, I.Vodopivec, Autoimmune neurologic
+disorders, Am.J.Med.131(3)(2018)226–236,https://doi.org/10.1016/j.
+amjmed.2017.10.033 .
+[4]P.Stathopoulos, M.C.Dalakas,Evolution ofanti-Bcelltherapeutics inautoimmune
+neurological diseases,Neurotherapeutics. 19(3)(2022)691–710,https://doi.org/
+10.1007/s13311-022-01196-w .
+[5]G.Song,M.Zhao,H.Chen,C.Lenahan, X.Zhou,Y.Ou,Y.He,Theroleof
+nanomaterials instroketreatment: targetingoxidative stress,Oxid.Med.Cell
+Longev.2021(2021)8857486, https://doi.org/10.1155/2021/8857486 .
+[6]P.F.Jensen,A.Schoch,V.Larraillet, M.Hilger,T.Schlothauer, T.Emrich,K.
+D.Rand,Atwo-pronged bindingmechanism ofIgGtotheneonatalfcreceptor
+controlscomplexstabilityandIgGserumhalf-life,Mol.CellProteomics. 16(3)
+(2017)451–456,https://doi.org/10.1074/mcp.M116.064675 .
+[7]D.D.Patel,J.B.Bussel,NeonatalFcreceptorinhumanimmunity: functionandrole
+intherapeutic intervention, J.AllergyClin.Immunol. 146(3)(2020)467–478,
+https://doi.org/10.1016/j.jaci.2020.07.015 .[8]E.S.Ward,R.J.Ober,Targeting FcRntogenerateantibody-based therapeutics,
+Trends.Pharmacol. Sci.39(10)(2018)892–904,https://doi.org/10.1016/j.
+tips.2018.07.007 .
+[9]L.N.Zhu,H.M.Hou,S.Wang,S.Zhang,G.G.Wang,Z.Y.Guo,J.Wu,FcRn
+inhibitors: anoveloptionforthetreatment ofmyasthenia gravis,NeuralRegen.
+Res.18(8)(2023)1637 –1644,https://doi.org/10.4103/1673-5374.363824 .
+[10]A.W.Zuercher, R.Spirig,A.BazMorelli,T.Rowe,F.Kasermann, Next-generation
+Fcreceptor-targeting biologicsforautoimmune diseases,Autoimmun. Rev.18(10)
+(2019)102366,https://doi.org/10.1016/j.autrev.2019.102366 .
+[11]P.Ulrichts,A.Guglietta, T.Dreier,T.vanBragt,V.Hanssens, E.Hofman,
+B.Vankerckhoven, P.Verheesen, N.Ongenae, V.Lykhopiy, F.J.Enriquez, J.Cho,
+R.J.Ober,E.S.Ward,H.deHaard,N.Leupin,NeonatalFcreceptorantagonist
+efgartigimod safelyandsustainably reducesIgGsinhumans,J.Clin.Invest.128
+(10)(2018)4372 –4386,https://doi.org/10.1172/jci97911 .
+[12]J.F.HowardJr.,V.Bril,T.M.Burns,R.Mantegazza, M.Bilinska,A.Szczudlik,
+S.Beydoun, F.Garrido,F.Piehl,M.Rottoli,P.VanDamme,T.Vu,A.Evoli,
+M.Freimer,T.Mozaffar, E.S.Ward,T.Dreier,P.Ulrichts,K.Verschueren,
+A.Guglietta, H.deHaard,N.Leupin,J.Verschuuren, Randomized phase2studyof
+FcRnantagonist efgartigimod ingeneralized myasthenia gravis,Neurology. 92(23)
+(2019)e2661 –e2673,https://doi.org/10.1212/wnl.0000000000007600 .
+[13]J.F.HowardJr.,V.Bril,T.Vu,C.Karam,S.Peric,T.Margania, H.Murai,
+M.Bilinska,R.Shakarishvili, M.Smilowski, A.Guglietta, P.Ulrichts,
+T.Vangeneugden, K.Utsugisawa, J.Verschuuren, R.Mantegazza, Safety,efficacy,
+andtolerability ofefgartigimod inpatientswithgeneralised myasthenia gravis
+(ADAPT): amulticentre, randomised, placebo-controlled, phase3trial,Lancet
+Neurol.20(7)(2021)526–536,https://doi.org/10.1016/s1474-4422(21)00159-9 .
+[14]C.M.Broome,V.McDonald, Y.Miyakawa, M.Carpenedo, D.J.Kuter,H.Al-
+Samkari,J.B.Bussel,M.Godar,J.Ayguasanosa, K.DeBeuf,F.Rodeghiero,
+M.Michel,A.Newland, EfficacyandsafetyoftheneonatalFcreceptorinhibitor
+efgartigimod inadultswithprimaryimmunethrombocytopenia (ADVANCE IV):a
+multicentre, randomised, placebo-controlled, phase3trial,Lancet402(10413)
+(2023)1648 –1659,https://doi.org/10.1016/S0140-6736(23)01460-5 .
+[15]A.C.Newland, B.S˘anchez-Gonz ˘alez,L.Rejt}o,M.Egyed,N.Romanyuk, M.Godar,
+K.Verschueren, D.Gandini,P.Ulrichts,J.Beauchamp, T.Dreier,E.S.Ward,
+M.Michel,H.A.Liebman, H.deHaard,N.Leupin,D.J.Kuter,Phase2studyof
+efgartigimod, anovelFcRnantagonist, inadultpatientswithprimaryimmune
+thrombocytopenia, Am.J.Hematol. 95(2)(2020)178–187,https://doi.org/
+10.1002/ajh.25680 .
+[16]M.Goebeler, Z.Bata-Cs org}o,C.DeSimone,B.Didona,E.Remenyik,
+N.Reznichenko, J.Stoevesandt, E.S.Ward,W.Parys,H.deHaard,P.Dupuy,
+P.Verheesen, E.Schmidt,P.Joly,Treatment ofpemphigus vulgarisandfoliaceus
+withefgartigimod, aneonatalFcreceptorinhibitor: aphaseIImulticentre, open-
+labelfeasibility trial,Br.J.Dermatol. 186(3)(2022)429–439,https://doi.org/
+10.1111/bjd.20782 .
+[17]Y.A.Heo,Efgartigimod: firstapproval, Drugs82(3)(2022)341–348,https://doi.
+org/10.1007/s40265-022-01678-3 .J.Qinetal. Immunology  Letters  273 (2025)  106983  
+6 

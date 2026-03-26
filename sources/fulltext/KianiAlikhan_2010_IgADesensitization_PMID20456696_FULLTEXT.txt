@@ -1,0 +1,158 @@
+TRANSFUSION PRACTICE
+Successful desensitization to immunoglobulin A in a case of
+transfusion-related anaphylaxis _2662 1897..1901
+Sorena Kiani-Alikhan, Patrick F .K. Yong, Dorothea Grosse-Kreul, Susan E. Height,
+Aleksandar Mijovic, Abid R. Suddle, and Mohammad A.A. Ibrahim
+BACKGROUND: A history of anaphylaxis after transfu-
+sion of immunoglobulin A (IgA)-containing blood prod-ucts in selective IgA-deﬁcient (sIgAD) patients can be amajor problem, particularly in emergencies, when largequantities of blood products are required.CASE REPORT: A 19-year-old woman with end-stage
+Type 2 autoimmune hepatitis required liver transplanta-tion as her only remaining treatment option. However,she also had sIgAD, anti-IgA antibodies, and episodesof anaphylaxis after receiving IgA-containing bloodproducts. Liver transplantation would have beenextremely challenging due to the difficulty of obtainingsufficient blood products from suitable IgA-deﬁcientdonors. Hence, it became imperative to devise a proto-col to desensitize her to IgA-containing blood products.RESULTS: Using a continuous infusion of an IgA-
+enriched (6 mg/mL IgA) immunoglobulin preparationwith gradual increases in concentration, she was suc-cessfully desensitized to IgA. Consequently, she wasable to receive standard platelets, fresh-frozen plasma,and red blood cells with no complications.CONCLUSION: This approach could prove very useful
+in similar cases that may require administration of largequantities of blood products particularly in emergencylifesaving circumstances.Anti-immunoglobulin A (IgA) antibodies are
+found in approximately one-third of patientswith selective IgA deﬁciency (sIgAD) and can beassociated with severe transfusion reactions
+including anaphylaxis,
+1if patients receive blood products
+containing IgA from normal donors. Difﬁculties arisewhen such patients require treatment with large quanti-ties and many different blood products. We present apatient with end-stage autoimmune hepatitis, sIgAD, andIgA-related anaphylaxis. The only remaining treatmentoption, liver transplantation, would have been a signiﬁ-cant undertaking due to the scarcity of suitable IgA-deﬁcient blood donors. There are two reports of successfulliver transplantation in IgA-deﬁcient patients with ahistory of transfusion reactions to IgA-containing bloodproducts.
+2,3In one of these reports,2the patients did not
+have a very serious transfusion reaction and toleratedwashed red blood cells (RBCs) and standard platelets(PLTs). However, our patient did not tolerate RBCs or PLTstreated with washing or leukoreduction, respectively. Inthe other report,
+3elaborate logistical measures were taken
+to maintain the availability of viable IgA-deﬁcient PLTsbecause of the short PLT shelf life of only 5 days. Thisapproach, although possible, would have reduced thechances of receiving a transplant within the limit of timedictated by the terminal nature of our patient’s illness.Therefore, in view of the very good outcomes of livertransplantation for autoimmune hepatitis,
+4we desensi-
+tized this patient to IgA to allow the use of blood productsso that transplantation could proceed.
+CASE REPORT
+A 19-year-old who at the age of 11 developed autoimmunehypothyroidism was diagnosed with liver kidneymicrosomal–positive autoimmune hepatitis at the age of16 years. During the investigation of her liver disease, shereceived an infusion of PLTs for thrombocytopenia beforea liver biopsy. Approximately 10 minutes into the transfu-sion, she became short of breath and wheezy, developedcentral abdominal pain and a widespread rash all overher body, and became hypotensive (blood pressureABBREVIATION: sIgAD =selective IgA deﬁciency.
+From the Department of Clinical Immunology and Allergy, the
+Department of Haematological Medicine, and the Institute ofLiver Studies, King’s College Hospital; and the National HealthService Blood and Transplant, London, United Kingdom.
+Address reprint requests to: Sorena Kiani, Department of
+Allergy and Clinical Immunology, King’s College NHS Founda-tion Trust, London SE5 9RS UK; e-mail: skiani@nhs.net.
+Received for publication November 29, 2009; revision
+received February 22, 2010; and accepted February 24, 2010.
+doi: 10.1111/j.1537-2995.2010.02662.xTRANSFUSION 2010;50:1897-1901.
+Volume 50, September 2010 TRANSFUSION 1897
+
+96/48 mmHg, pulse 88). She had two further episodes of
+anaphylactic reactions to RBCs, cryoprecipitate, and PLTs.She was investigated and found to have sIgAD with anti-IgA antibodies detected by passive hemagglutinationassay. A diagnosis of IgA-related anaphylaxis was con-ﬁrmed on the basis of transfusion-associated anaphylaxisafter administration of IgA-containing blood products onmore than one occasion, IgA deﬁciency, and the presenceof anti-IgA antibodies.
+Progression of her liver disease resulted in portal
+hypertension, esophageal varices, clotting abnormalities,and episodes of gastrointestinal bleeding. She did nottolerate washed standard RBCs or leukoreduced PLTs;therefore, RBCs, fresh-frozen plasma (FFP), and PLTs,from IgA-deﬁcient donors,
+5were required to treat the
+episodes of gastrointestinal bleeds.
+By 19 years of age, her autoimmune liver disease had
+progressed to end-stage hepatic failure requiring trans-plantation. However, signiﬁcant difﬁculty was anticipatedfor the procedure because of the limited availability ofsuitable blood products from IgA-deﬁcient donors tosupport liver transplantation. Consequently, placementon the liver transplant waiting list was deferred and there-fore a protocol for desensitization to IgA was devised onthe basis of a few reported observations and the protocolsused for desensitization against protein compounds.
+6,7
+METHODS AND RESULTS
+IgA levels were measured using the turbidometry methodon a clinical chemistry system (ADVIA 2400, Bayer UKLtd, Cambridge, UK). In addition, anti-IgA and IgA anti-body levels were measured at the Red Cell Immuno-hematology Laboratory, NHS National Blood Services(Colindale, UK) by the hemagglutination or the hemag-glutination inhibition assays using the method of Huntand colleagues,
+8respectively. Brieﬂy, blood group
+O–negative RBCs were coated with IgA1 or IgA2 myelomaproteins and, as controls, RBCs were either coated withrandom blood group AB serum or were left uncoated.Anti-IgA in test sera was detected by hemagglutinationinduced by titrations of test sera. IgA in test sera wasdetected by inhibition of hemagglutination induced bycommercially obtained anti-IgA antibodies (Dako UKLtd, Ely, UK).Before desensitization, skin prick tests were per-
+formed by placing drops of 10-fold dilutions of thetest antigen (1:10,000-1:1) on the volar aspect of theforearm followed by breaching the skin barrier throughthe drops using a sterile lancet as per standard protocol.
+9
+The test antigens were Intratect (50 mg/mL, 96% IgG,2 mg/mL IgA, Biotest, Dreieich, Germany) or Pentaglobin(36 mg/mL IgG, 6 mg/mL IgM, and 6 mg/mL IgA, Biotest).The response was measured after 15 minutes. The intra-dermal skin tests were done by intradermal injections of25mL of 10-fold dilutions (1:10,000-1:1) of the test anti-
+gens in the volar aspect of the forearm and measuring theresponses after 15 minutes. Both skin prick and intrader-mal tests were negative at all dilutions in the presence of apositive reaction to histamine.
+One day later the patient was desensitized. At the
+time of desensitization the patient was on thyroxine,ciproﬂoxacin, spironolactone, calcium supplements,multivitamins, vitamin K, and ranitidine. She was taking750 mg of mycophenolate mofetil twice a day and 5 mg ofprednisolone once a day for treatment of autoimmunehepatitis. Desensitization was performed by slow infusion(0.4 mL/kg/hr) of serial dilutions of Pentaglobin startingat a dilution of 10
+-7. Every 30 minutes the concentration
+was increased 10-fold until a neat solution of Pentaglobinwas infused. No side effects were detected; hence an addi-tional 100 mL of Pentaglobin was infused at the same rate(32 mL/hr). The next day, the patient was challenged withthe intravenous (IV) infusion of 3 mL of standard PLTswith no adverse effects. This was followed by infusion of30 mL and ﬁnally 300 mL of PLTs with no side effects. Shethen tolerated 3 units of standard FFP to correct her inter-national normalized ratio for a planned paracentesis. Twodays later she received 3 units of standard RBCs with noadverse reactions in the course of emergency treatment ofbleeding esophageal varices. To maintain this state ofunresponsiveness, weekly IV infusions of IgA-enrichedimmunoglobulins had been administered. The weeklyinfusions would continue until after a successful livertransplantation, when the case would be reappraised. Thisregimen had so far resulted in maintenance of a state ofunresponsiveness as anti-IgA antibodies could not bedetected either immediately after desensitization or 1month later (Table 1). In addition, by 3 months postdesen-sitization the patient had received 6 units of random
+TABLE 1. Changes in serum antibodies, complement, and tryptase in relation to desensitization and challenge
+Time IgA (g/L) Anti-IgA antibodies Tryptase ( mg/L) C3 (g/L) C4 (g/L)
+Predesensitization 0.03 POS 1.28 0.95 0.21
+1 day postdesensitization 0.72 ND 1.09 0.65 0.091 day postchallenge with PLTs and FFP 0.39 ND 1.27 0.63 0.1127 days postdesensitization 0.36* ND
+* Trough level of weekly Pentaglobin.ND=not detectable; POS =positive (titer range, 2-16).KIANI-ALIKHAN ET AL.
+1898 TRANSFUSION Volume 50, September 2010
+ 15372995, 2010, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.02662.x by Goteborgs, Wiley Online Library on [26/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+RBCs, 9 units of random PLTs, and 15 units of random FFP
+without any adverse events.
+DISCUSSION
+The diagnosis of IgA-related anaphylaxis is made on thebasis of IgA and anti-IgA measurements after transfusion-related anaphylaxis. Detection of IgA would exclude adiagnosis of sIgAD and IgA-related anaphylaxis. In sIgADpatients with a history of anaphylaxis, blood componentsfrom IgA-deﬁcient donors are used unless in an emer-gency where such products are not available. Under thesecircumstances, controlled transfusion of standard leuko-reduced RBCs, PLTs, and plasma is recommended.
+5
+However, our patient had anaphylactic reactions to PLTsand even to RBCs that had undergone leukoreduction andwashing, respectively. Therefore, considering the potentialneed for large-volume and emergency transfusions forliver transplantation and the added complication of ahistory of esophageal varices and gastrointestinal bleed-ing, in our patient, we could not rely on the methods usedpreviously
+2,3for management of IgA-deﬁcient patients
+undergoing liver transplantation.
+Three conference abstracts have reported methods of
+giving intravenous immune globulin (IVIG) in a form thatwas tolerated by patients who previously had reactions toIgA-containing IVIG. One abstract
+10reported that nine
+patients who had not tolerated immunoglobulin productscontaining 0.7 g/L of IgA did tolerate “IgA-poor”(IgA <0.001 g/L im, IgA <0.004 g/L IV) immunoglobulin
+preparations. In the second abstract,
+11it was shown that a
+6-year-old child who had anaphylactic reactions to IVIG,with an unknown anti-IgA status, on one occasiontolerated incremental (140 mL/hr) IV infusion of 5% Gam-magard, containing less than 1 g/L of IgA, when premedi-cated with methylprednisolone and diphenhydraminehydrochloride. In the third,
+12graded subcutaneous immu-
+noglobulin injections were tolerated by an IgA-deﬁcientpatient who had a history of anaphylactic reactions toIVIG (brand or IgA content not mentioned). This patientdid not have anti-IgA antibodies before the procedure andsubsequently tolerated infusions of the actual agent usedfor desensitization. However, two published observationsalerted us to the possibility of desensitization to IgA in ourpatient. The ﬁrst interesting observation was an incidentalﬁnding of reduction or loss of anti-IgA antibodies in onesIgAD
+7and three common variable immunodeﬁciency6
+patients after subcutaneous infusion of an immunoglobu-lin preparation containing up to 5 mg/mL IgA. The secondobservation was a report of two common variable immu-nodeﬁciency patients with IgA deﬁciency and a history ofanaphylactic reactions to IgA-containing IVIG. In onepatient, slow infusion (10 g in 8 hr) of IVIG was toleratedand was associated with disappearance of circulating anti-IgA antibodies. Subsequent infusions at the usual ratewere also tolerated. In the other patient, autologous
+plasma was mixed with an IgA-containing immunoglobu-lin preparation ex vivo and then transfused with no sideeffects. The anti-IgA activity diminished and the patientsubsequently received IgA-containing IVIG with noadverse effects.
+It is likely that IgA-related anaphylaxis is caused by
+more than one mechanism as anti-IgA antibodies cannotbe demonstrated in all IgA-deﬁcient patients who haveposttransfusion anaphylactic reactions. While it might beargued that this suggests that anti-IgA antibodies do notcontribute to the mechanism leading to IgA-related ana-phylaxis, it has been shown that a signiﬁcantly higher pro-portion of IgA-deﬁcient patients with anaphylaxis haveanti-IgA antibodies compared to IgA-deﬁcient patientswith no history of anaphylaxis. In one study,
+1361 of 80
+(76.3%) IgA-deﬁcient patients with transfusion-relatedanaphylaxis had anti-IgA antibodies, whereas only 21 of 97(21.7%) IgA-deﬁcient patients with no history of anaphy-laxis had anti-IgA antibodies. The majority of case reportsand studies describe the presence of anti-IgA antibodiesof the IgG class,
+6,14but some have demonstrated IgE anti-
+IgA antibodies in association with anaphylaxis.15,16This
+lends further support to the hypothesis that differentmechanisms are involved in anti-IgA–related anaphylaxis.Where IgE is involved, anaphylaxis is likely to be a Type 1hypersensitivity reaction despite the absence of anyreports of positive skin tests in these cases. On the otherhand, based on murine models, an alternative mechanismof anaphylaxis mediated by IgG and basophils has beenproposed.
+17,18This pathway is associated with an increase
+in anaphylatoxins C3a and C5a but not in tryptase. Anincrease in C3a and C4a without an infusion reaction hasalso been reported after IV administration of immunoglo-bulins with low IgA (0.4-2.9 mg/mL) in patients with anti-
+IgA–associated anaphylaxis.
+19In our patient, tryptase
+levels did not change with desensitization. However, lossof anti-IgA activity was associated with a reduction in thelevel of complement components C3 and C4 (Table 1).This implies generation of anaphylatoxins (C3a and C5a);however, the kinetics were probably too slow to result inanaphylaxis. In addition, given that we have not detectedcutaneous sensitization to IgA and that anti-IgA hemag-glutinins of the IgG class have been detected in ourpatient’s plasma, we speculate that the mechanism ofanti-IgA–related anaphylaxis in our case is most probablyIgG-mediated.
+In general, desensitization is mainly performed for
+common allergens. This is done either by repeated expo-sures to very small doses of the antigen or by gradualintroduction of increasing concentrations of the antigen.The mechanism of desensitization is poorly understoodand is likely to differ when desensitizing different immuneresponses. In an in vitro murine model of IgE-mediatedanaphylaxis, using a knock-out mouse for signalSUCCESSFUL DESENSITIZATION TO IgA
+Volume 50, September 2010 TRANSFUSION 1899
+ 15372995, 2010, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.02662.x by Goteborgs, Wiley Online Library on [26/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+transducer and activator of transcription (STAT)-6, it has
+been shown that the process of desensitization of marrow-derived mast cells is an active process that involves sub-optimal activation of mast cell high-afﬁnity IgE receptor,FCeRI.
+20However, in the majority of IgA-related transfu-
+sion reactions the anti-IgA antibodies are of IgG subclass.It is possible that introduction of the antigen, in this caseIgA, in the context of an immunoglobulin preparationresulted in engagement of inhibitory receptors by IgG andcontrol basophil or mast cell degranulation while anti-IgAwas being neutralized. In a mouse system where IgE-mediated anaphylaxis was induced by prior sensitizationto a model antigen—interestingly, in this case an immu-noglobulin, goat IgG—it has been demonstrated thatblocking mouse antibodies prevented anaphylaxis
+21by at
+least two mechanisms. The ﬁrst mechanism was throughinterception of the antigen by mouse IgG before theantigen could induce target cell (mast cells or basophils)activation and degranulation. The second mechanism wasby binding and cross-linking the inhibitory receptorsFCgRIIb to the activating receptors FC eRI on target cells.
+This case illustrates for the ﬁrst time the use of IgA-
+enriched immunoglobulin preparations as a source ofantigen for desensitization in cases of IgA-related post-transfusion anaphylaxis. Currently in this patient, as aresult of IVIG infusions a signiﬁcant level of serum IgA(Table 1) is detected without any evidence of an immuno-logic reaction. Desensitization should be considered incases with a history of IgA-related anaphylaxis who sufferfrom other medical conditions requiring frequent admin-istration of blood products as an emergency lifesavingtreatment. Considerably more experience is needed todetermine the efﬁcacy of this approach and hence suchpatients should be referred to immunologists to be inves-tigated and considered for desensitization. This approachmay be effective in at least two groups of IgA-deﬁcientpatients: 1) those with a history of anaphylactic transfu-sion reactions and anti-IgA antibodies or 2) patients inwhom anti-IgA antibodies are not detected but have adeﬁnite history of tolerating IgA-deﬁcient products.
+CONFLICT OF INTEREST
+SKA, PFKY, DGK, SEH, AM, and ARS declare no conﬂict of interest.
+MAAI is a member of the medical advisory boards for BaxterHealthcare Ltd and Biotest (UK) Ltd.
+REFERENCES
+1. Pineda AA, Taswell HF. Transfusion reactions associated
+with anti-IgA antibodies: report of four cases and review ofthe literature. Transfusion 1975;15:10-5.
+2. Davenport RD, Burnie KL, Barr RM. Transfusion manage-
+ment of patients with IgA deﬁciency and anti-IgA duringliver transplantation. Vox Sang 1992;63:247-50.3. Win N, Hambley H, Heaton N, Williams R. Transfusion
+support for a patient with severe common variable immu-nodeﬁciency with anti-IgA undergoing orthotopic livertransplantation. Vox Sang 1997;72:251.
+4. Montano-Loza AJ, Mason AL, Ma M, Bastiampillai RJ, Bain
+VG, Tandon P. Risk factors for recurrence of autoimmunehepatitis after liver transplantation. Liver Transpl 2009;15:1254-61.
+5. Sandler SG. How I manage patients suspected of having
+had an IgA anaphylactic transfusion reaction. Transfusion2006;46:10-3.
+6. Horn J, Thon V, Bartonkova D, Salzer U, Warnatz K,
+Schlesier M, Peter HH, Grimbacher B. Anti-IgA antibodiesin common variable immunodeﬁciency (CVID): diagnosticworkup and therapeutic strategy. Clin Immunol 2007;122:156-62.
+7. Sundin U, Nava S, Hammarstrom L. Induction of unre-
+sponsiveness against IgA in IgA-deﬁcient patients on sub-cutaneous immunoglobulin infusion therapy. Clin ExpImmunol 1998;112:341-6.
+8. Hunt AF, Allen DL, Aries DL, Strange JJ. A protocol for sen-
+sitive large-scale screening of blood donors for IgA deﬁ-ciency. Vox Sang 1985;48:84-8.
+9. Durham R. ABC of allergies: BMJ books. Oxford: Blackwell
+Publishing Ltd; 1998.
+10. Bjorkander J, Hammarstrom L, Smith CI, Buckley RH,
+Cunningham-Rundles C, Hanson LA. Antibody deﬁciencysyndromes with anti-IgA antibodies and successful immu-noglobulin prophylaxis. J Allergy Clin Immun 1985;75:137.
+11. Salomon M, Hostoffer R. A protocol for the desensitization
+to intravenous immunoglobulin (IVIg). J Allergy ClinImmun 2007;119:S180.
+12. Boursiquot JN, Shuster J, Soukos C. Successful desensitiza-
+tion with subcutaneous immunoglobulin after recurrentanaphylaxis to intravenous immunoglobulin. ClinImmunol 2008;127:S67.
+13. Sandler SG, Eckrich R, Malamut D, Mallory D. Hemaggluti-
+nation assays for the diagnosis and prevention of IgA ana-phylactic transfusion reactions. Blood 1994;84:2031-5.
+14. de Albuquerque Campos R, Sato MN, da Silva Duarte AJ.
+IgG anti-IgA subclasses in common variable immunodeﬁ-ciency and association with severe adverse reactions tointravenous immunoglobulin therapy. J Clin Immunol2000;20:77-82.
+15. Burks AW, Sampson HA, Buckley RH. Anaphylactic reac-
+tions after gamma globulin administration in patients withhypogammaglobulinemia. Detection of IgE antibodies toIgA. N Engl J Med 1986;314:560-4.
+16. Ferreira A, Garcia Rodriguez MC, Lopez-Trascasa M,
+Pascual Salcedo D, Fontan G. Anti-IgA antibodies in selec-tive IgA deﬁciency and in primary immunodeﬁcientpatients treated with gamma-globulin. Clin ImmunolImmunopathol 1988;47:199-207.
+17. Finkelman FD. Anaphylaxis: lessons from mouse models.
+J Allergy Clin Immunol 2007;120:506-15; quiz 16-7.KIANI-ALIKHAN ET AL.
+1900 TRANSFUSION Volume 50, September 2010
+ 15372995, 2010, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.02662.x by Goteborgs, Wiley Online Library on [26/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+18. Tsujimura Y, Obata K, Mukai K et al. Basophils play a
+pivotal role in immunoglobulin-G-mediated but notimmunoglobulin-E-mediated systemic anaphylaxis.Immunity 2008;28:581-9.
+19. Cunningham-Rundles C, Zhou Z, Mankarious S, Courter S.
+Long-term use of IgA-depleted intravenous immunoglobu-lin in immunodeﬁcient subjects with anti-IgA antibodies.J Clin Immunol 1993;13:272-8.20. Morales AR, Shah N, Castells M. Antigen-IgE desensitiza-
+tion in signal transducer and activator of transcription6-deﬁcient mast cells by suboptimal doses of antigen. AnnAllergy Asthma Immunol 2005;94:575-80.
+21. Strait RT, Morris SC, Finkelman FD. IgG-blocking antibod-
+ies inhibit IgE-mediated anaphylaxis in vivo through bothantigen interception and Fc gamma RIIb cross-linking.J Clin Invest 2006;116:833-41.
+SUCCESSFUL DESENSITIZATION TO IgA
+Volume 50, September 2010 TRANSFUSION 1901
+ 15372995, 2010, 9, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.02662.x by Goteborgs, Wiley Online Library on [26/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
