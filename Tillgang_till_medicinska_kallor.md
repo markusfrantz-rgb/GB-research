@@ -58,7 +58,7 @@
 
 | # | Artikel | Status | Källa |
 |---|---------|--------|-------|
-| 30 | **Hansa Biopharma** Imlifidase fas 2 GBS (15-HMedIdeS-09, n=30) | Konferensdata PNS 2025. Journal-publikation planerad H2 2025. | [Pressrelease dec 2024](https://www.hansabiopharma.com/media/press-releases/2024/) · [PNS 2025](https://www.hansabiopharma.com/media/press-releases/2025/) |
+| 30 | **Hansa Biopharma** Imlifidase fas 2 GBS (15-HMedIdeS-09, n=30) | Konferensdata PNS 2025. Journal-publikation planerad H2 2025. | [Pressrelease dec 2024](https://www.hansabiopharma.com/media/press-releases/2024/) <br> [PNS 2025](https://www.hansabiopharma.com/media/press-releases/2025/) |
 
 ---
 
