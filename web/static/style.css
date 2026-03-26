@@ -192,8 +192,7 @@ body {
   color: var(--text-secondary);
   font-size: 0.9rem;
 }
-.intro-content td:first-child em,
-.intro-content:not(.doc-view) td:first-child {
+.intro-content td:first-child em {
   white-space: nowrap;
 }
 
