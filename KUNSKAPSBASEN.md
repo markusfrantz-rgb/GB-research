@@ -114,6 +114,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | RGBS: lägre FT3, högre TSH. Antecedent sjukdom + AIDP + högt TSH = oberoende riskfaktorer | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
 | T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
 | Levotyroxinavbrott på IVA → myxedemkoma-risk (25–60% mortalitet) | Mathew et al., StatPearls 2024 |
+| **2026-03-26 lab:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. fT3 beställd. | Klinisk data |
 
 → [Hashimotos + IgA-brist + GBS: fullständig genomgång](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md)
 

@@ -91,7 +91,8 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 | Anti-IgA-antikroppar (IgE + IgG) | **Ej skickade** | IVIg-säkerhet |
 | Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering |
 | Serum-NfL | **Ej taget** | Prognos, axonal skada, behandlingssvar under sedering |
-| TSH, fT4, fT3 | **Ej kontrollerade sedan inläggning** | Sköldkörtelstatus okänd — insjuknande före planerad uppföljning efter dosjustering |
+| TSH, fT4 | **Kontrollerade 2026-03-26:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. | Levotyroxindos verkar ok — men fT3 behövs |
+| fT3 | **Beställd 2026-03-26** — ännu ej tillgänglig | Avgörande för nervregeneration (Schwann-celler, BDNF, NGF) |
 | CSF IL-8 | **Ej taget** | GBS vs CIDP (96,7% specificitet) |
 
 ### Hypoteser att utreda

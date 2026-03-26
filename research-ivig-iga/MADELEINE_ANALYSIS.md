@@ -9,6 +9,13 @@ status: active
 
 Uppdaterad: 2026-03-26 (efter PE4, ~kl 11:00)
 
+### Senaste labvärden (2026-03-26)
+- **TSH:** Mycket lågt
+- **fT4:** 10-12 pmol/L (låg-normal)
+- **fT3:** Beställd — ännu ej tillgänglig
+- **Tolkning:** Sannolikt sick euthyroid syndrome. Levotyroxindos bör INTE sänkas (fT4 inte förhöjt). fT3 avgörande för nervregeneration.
+- **Temp:** 37,5°C (möjlig PE-relaterad)
+
 ---
 
 ## 1. Sammanfattning -- de 5 viktigaste nya insikterna

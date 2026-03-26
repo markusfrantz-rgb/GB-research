@@ -38,16 +38,21 @@ status: active
 | 2026-03-24 (kv)  | CT huvud utford pga anisokori (V pupill > H) + koagulopati — **normal**, inga blodningstecken                                                    |
 | 2026-03-25 (fm)  | Trakeostomi genomford (~kl 12). Feber 38,1°C. Autonom dysfunktion: blodtrycksinstabilitet (kraver stod), anisokori (autonom genes efter normal CT). |
 | 2026-03-25 (em)  | Sedering lattad for att bedoma spontanandning (diafragmafunktion). |
-| 2026-03-26 (plan)| PE session 4 planerad (2 kvar av 5). |
+| 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
+| 2026-03-26 (fm) | **Lab:** TSH mycket lågt, fT4 10-12 pmol/L (låg-normal). Sannolikt sick euthyroid syndrome. fT3 beställd — avgörande för nervregeneration. |
+| 2026-03-26 (plan) | PE session 5 planerad (sista av 5). |
 
-### Nuvarande status (2026-03-25 em)
+### Nuvarande status (2026-03-26 fm)
 
-- **Respirator:** Ja, beroende. Spontanandningstest pagaende efter trakeostomi.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12
-- **Medvetande:** Sedering lattas for bedomning av spontanandning. Tidigare vid lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
-- **Autonom dysfunktion:** Bekraftad — blodtrycksinstabilitet (kraver stod), anisokori (V > H, autonom genes efter normal CT), feber 38,1°C
-- **Koagulopati:** PE-relaterad (bedomd tillrackligt korrigerad for trakeostomi)
-- **Behandling given:** 3 PE-sessioner, ingen ytterligare GBS-specifik behandling. PE4 planerad 2026-03-26.
+- **Respirator:** Ja, beroende. Spontanandningstest under bedomning.
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 1 post-trakeostomi)
+- **Medvetande:** Sedering lattas for neurologisk bedomning efter PE4. Tidigare vid lattare somndjup: svag hoger ogonblinkning (ja), svag hoger axel/deltoideus (nej)
+- **Autonom dysfunktion:** Bekraftad — blodtrycksinstabilitet, anisokori, feber
+- **Koagulopati:** PE-relaterad, monitoreras
+- **Temp:** 37,5°C (mojlig PE-relaterad)
+- **Behandling given:** 4 PE-sessioner (av 5). PE5 planerad.
+- **Lab (2026-03-26):** TSH mycket lagt, fT4 10-12 pmol/L (lag-normal). fT3 bestald. Sannolikt sick euthyroid syndrome. Levotyroxin fortsatter i nuvarande dos, ges EFTER PE.
+- **Ny diagnostik bestald:** fT3-monitorering paborjad.
 
 ---
 
@@ -129,16 +134,17 @@ GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med
 #### Skoldkorteln
 
 **15. Far Madeleine sin levotyroxin?**
-**Svar:** Ja, levotyroxin ges pa IVA. Dosen justerades av ordinarie lakare ca 2-3 veckor fore insjuknande. **Inga prover (TSH/fT4/fT3) togs efter dosjusteringen innan hon insjuknade** — det ar alltsa okant om dosen var korrekt installad.
+**Svar:** Ja, levotyroxin ges pa IVA. Dosen justerades av ordinarie lakare ca 2-3 veckor fore insjuknande. **Inga prover (TSH/fT4/fT3) togs efter dosjusteringen innan hon insjuknade.**
 **Uppfoljningsfragor:**
 - Vilken dos far hon nu pa IVA?
-- Har TSH/fT4/fT3 kontrollerats sedan inlaggning? (Baslinjevarden behovs for att tolka forandringar under kritisk sjukdom)
 - Ges dosen minst 1 timme separerat fran sondfodning? (Absorption hammas av enteral nutrition)
-- Behovs dosjustering? Kritiskt sjuka kan behova 54% hogre doser i genomsnitt. Dessutom avlagsnar PE levotyroxin fran cirkulationen — extra dos kan behovas efter PE-sessioner.
-**Klinisk relevans:** TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (Wang 2022, 88.9% sensitivitet). TSH/fT4 ej kontrollerade efter dosjustering (insjuknande fore planerad uppfoljning), innebar att TSH-nivan vid insjuknandet ar okand — suboptimal tyreoideastatus kan ha bidragit.
+- Ges dosen EFTER PE-session? (PE avlagsnar levotyroxin fran cirkulationen)
 
-**16. TSH/fT4/fT3**
-Har tyreoideastatus kontrollerats? Kritisk sjukdom ger ofta "sick euthyroid syndrome" (lagt T3, normalt/lagt TSH) som ar svartolkad — men baslinjevarden behovs. T3 ar essentiellt for Schwann-cellsproliferation och myelinisering vid nervaterhamtning (Lopez-Espindola et al., 2019).
+**16. TSH/fT4/fT3 — DELVIS BESVARAT 2026-03-26**
+**Svar (2026-03-26):** TSH mycket lagt, fT4 10-12 pmol/L (lag-normal). fT3 bestald — annu ej tillganglig.
+**Tolkning:** Sannolikt **sick euthyroid syndrome** (non-thyroidal illness) — cytokiner fran svar sjukdom trycker ner TSH, perifer T4→T3-konvertering minskar. fT4 10-12 ar lag-normal, alltsa INTE overreplacement — levotyroxindosen bor INTE sankas.
+**Klinisk relevans:** fT3 ar avgorrande — lagt fT3 hammar Schwann-cellernas myelinisering och neurotrofiska faktorer (BDNF, NGF) som behovs for nervregeneration (Lopez-Espindola 2019). Lakarna har borjat monitorera fT3 regelbundet — bra beslut.
+**Kvarstaende fraga:** Om fT3 visar sig vara mycket lagt, bor diskussion med endokrinolog overvagas avseende T3-substitution (kontroversiellt men relevant vid prolongerad IVA-vard).
 
 #### Autonom dysfunktion
 
@@ -228,8 +234,8 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-16 forskningsdokument | ~480 peer-reviewed kallor | 29 verifierade fulltexter | Semantisk sokning
+17 forskningsdokument | ~660 peer-reviewed kallor | 63 verifierade fulltexter | Semantisk sokning
 
 ---
 
-*Sammantalld 2026-03-25. Baserad pa ~480 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*
+*Sammantalld 2026-03-26. Baserad pa ~660 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*
