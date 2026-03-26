@@ -196,6 +196,10 @@ body {
 .intro-content td:first-child em {
   white-space: nowrap;
 }
+.doc-view td:last-child,
+.doc-view td:nth-last-child(2) {
+  white-space: nowrap;
+}
 
 /* ── Search & Ask panels ── */
 .panel-container {

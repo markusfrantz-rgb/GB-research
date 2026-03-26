@@ -20,8 +20,8 @@
 
 ### ✅ HAR FULLTEXT (PDF + text)
 
-| # | Artikel | PMID | Evidens | Fulltext |
-|---|---------|------|---------|----------|
+| # | Artikel | PMID | Evidens | |
+|---|---------|------|---------|--|
 | 1 | **Doorn PA et al.** EAN/PNS Guideline on diagnosis and treatment of GBS. *J Periph Nerv Syst* 2023;28:535-563 | 37814552 | Guideline | [PDF](/source/Doorn_2023_EAN_PNS_GBS_Guideline_PMID37814552.pdf) |
 | 2 | **Bellanti R, Rinaldi S.** GBS: a comprehensive review. *Eur J Neurol* 2024;31:e16365 | 38813755 | Review | [PDF](/source/Bellanti_2024_GBS_comprehensive_review_PMC11235944.pdf) · [text](/source/Bellanti_2024_GBS_comprehensive_review_FULLTEXT.txt) |
 | 3 | **Ripellino P et al.** Efgartigimod as Add-On in Refractory GBS. *Eur J Neurol* 2025;32(8):e70308 | 40799081 | Level 4 | [PDF](/source/Ripellino_2025_efgartigimod_refractory_GBS_PMC12344377.pdf) · [text](/source/Ripellino_2025_efgartigimod_refractory_GBS_FULLTEXT.txt) |
