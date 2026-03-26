@@ -190,3 +190,7 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-26 | Artikelöversikt: alla 29 filnamn klickbara [PDF]/[text]-länkar. |
 | 2026-03-26 | RAG utökad: 29 fulltext-källor indexerade. 609 chunks totalt. Sökresultat märks "Forskningssammanfattning" vs "Originalartikel". |
 | 2026-03-26 | Deploy till gbs.ragbase.org. |
+| 2026-03-26 | Artikelöversikt rengjord: Format-kolumn borttagen, kolumnrubriker nowrap, PDF/text på varsin rad, onödig rad borttagen. |
+| 2026-03-26 | Tillbaka-knappen använder history.back() i dokument- och fulltext-vy. Text-länkar öppnas i samma flik, PDF i ny flik. |
+| 2026-03-26 | PDF:er inkluderade i git (borttagna från .gitignore) — tillgängliga online. |
+| 2026-03-26 | Konsekvent grön badge-stil på alla /source/-länkar. 14 commits totalt denna session. |
