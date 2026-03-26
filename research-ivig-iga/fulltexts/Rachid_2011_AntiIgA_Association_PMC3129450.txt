@@ -1,0 +1,76 @@
+================================================================================
+Title: Association of anti-IgA antibodies with adverse reactions to gamma globulin infusion
+Authors: Rima Rachid, Mariana Castells, Charlotte Cunningham-Rundles, Francisco A Bonilla
+Journal: Journal of Allergy and Clinical Immunology
+Year: 2011
+Volume: 128(1)
+Pages: 228-230.e1
+PMID: 21397310
+PMC: PMC3129450
+DOI: 10.1016/j.jaci.2011.01.061
+Downloaded: 2026-03-26
+================================================================================
+
+ASSOCIATION OF ANTI-IGA ANTIBODIES WITH ADVERSE REACTIONS TO GAMMA GLOBULIN INFUSION
+
+Rima Rachid, Mariana Castells, Charlotte Cunningham-Rundles, Francisco A Bonilla
+
+BACKGROUND
+
+The article addresses the association between IgG anti-IgA antibodies and adverse reactions to immunoglobulin therapy. Serum IgG anti-IgA antibody has been associated with the development of adverse reactions including non-IgE mediated anaphylaxis in patients with undetectable IgA levels.
+
+Anti-IgA antibodies exist in class-specific and subclass-specific forms. Class-specific variants bind both IgA1 and IgA2, occurring in approximately 25-30% of IgA-deficient individuals. Subclass-specific antibodies react with only one IgA subtype. The prevalence ranges from 40% in selective IgA deficiency to 9-25% in common variable immunodeficiency patients.
+
+STUDY DESIGN AND METHODS
+
+The investigators conducted a retrospective and prospective observational study to evaluate the possible association with adverse reactions of IgG and/or IgE anti-IgA in IgA-deficient patients receiving IVIG or subcutaneous immunoglobulin.
+
+Among 425 immunodeficient patients receiving IgG therapy, the researchers identified 35 with undetectable IgA; 22 were enrolled. The study examined 20 patients retrospectively (reviewing one year of medical records) and prospectively (over 6 months). Two additional patients were studied prospectively only.
+
+Data collection included: immunoglobulin product details, dosing, infusion rates, premedications, and symptom timing (acute within 1 hour or delayed up to 72 hours post-infusion). Symptoms were categorized as mild, moderate, or severe based on clinical significance and intervention requirements.
+
+Laboratory testing employed multiple methodologies:
+- ELISA assays at Children's Hospital Boston
+- Luminex-based assays at Mayo Clinic Laboratory
+- Passive hemagglutination at Red Cross Laboratory
+- ImmunoCAP assays for IgE anti-IgA at ViraCor-IBT Laboratories
+
+RESULTS
+
+All patients throughout the study reported only mild symptoms, including headache, fatigue and malaise. These symptoms were not correlated with immunoassay results due to their frequency in typical IgG therapy trials.
+
+Immunochemical analysis revealed three subjects with elevated IgG anti-IgA levels:
+
+Subject #23: Female, age 26, with CVID. This patient demonstrated IgG anti-IgA (mean of anti-IgA1 and anti-IgA2) of 3,946 ng/mL. Seven years prior to enrollment, she experienced anaphylaxis requiring epinephrine during IVIG infusion containing less than 10 mcg/mL IgA. At study enrollment, she began receiving subcutaneous immunoglobulin, which she tolerated for 2.5 years without adverse effects.
+
+Subject #32: Female, age 60, with CVID receiving SCIG. She had class-specific IgG anti-IgA with levels ranging from 2,821-4,398 ng/mL on repeat testing. She has only received subcutaneous therapy and tolerated treatment without adverse reactions.
+
+Subject #33: Male, age 60, with CVID receiving SCIG. This patient demonstrated subclass-specific IgG anti-IgA2 (levels 130-755 ng/mL). He has exclusively received subcutaneous immunoglobulin without adverse effects.
+
+Notably, IgE anti-IgA was not detected in any patient. There was reasonable concordance between the three testing laboratories, though subject #32 tested positive at Mayo and Children's Hospital Boston but not at the Red Cross Laboratory.
+
+DISCUSSION
+
+The authors emphasize that anaphylaxis is very rare among patients receiving IVIG. This rarity makes quantifying increased risk associated with IgG anti-IgA challenging. The mechanism by which anti-IgA antibodies might trigger adverse reactions remains speculative. The researchers note conflicting evidence: some patients react to high-IgA products but tolerate low-IgA formulations, yet patient #23 appears not to tolerate IVIG products containing even trace amounts of IgA and some patients with IgG anti-IgA tolerate IVIG without symptoms.
+
+The findings suggest that the clinical significance of class-specific versus subclass-specific anti-IgA antibodies remains uncertain.
+
+CLINICAL IMPLICATIONS
+
+The researchers recommend that in an individual patient, the presence of IgG anti-IgA may indicate a need for closer monitoring, or consideration of alternative therapy such as SCIG, which appears to be tolerated in many of these patients. All three patients with detected anti-IgA antibodies tolerated subcutaneous immunoglobulin therapy.
+
+CONCLUSIONS
+
+The study demonstrates that while IgG anti-IgA antibodies appear in a small subset of IgA-deficient patients receiving immunoglobulin therapy, establishing definitive clinical risk requires larger prospective studies. The authors advocate for continued investigation into whether anti-IgA antibodies serve as a biomarker for increased anaphylaxis risk, while acknowledging the current limitations in understanding this potential association.
+
+REFERENCES
+
+1. Eijkhout HW, van den Broek PJ, van der Meer JW. Substitution therapy in immunodeficient patients with anti-IgA antibodies or severe adverse reactions to previous immunoglobulin therapy. Neth J Med. 2003;61:213-7.
+2. Sandler SG, Eckrich R, Malamut D, Mallory D. Hemagglutination assays for the diagnosis and prevention of IgA anaphylactic transfusion reactions. Blood. 1994;84:2031-5.
+3. de Albuquerque Campos R, Sato MN, da Silva Duarte AJ. IgG anti-IgA subclasses in common variable immunodeficiency and association with severe adverse reactions to intravenous immunoglobulin therapy. J Clin Immunol. 2000;20:77-82.
+4. Ferreira A, Garcia Rodriguez MC, Fontan G. Follow-up of anti-IgA antibodies in primary immunodeficient patients treated with gamma-globulin. Vox Sang. 1989;56:218-22.
+5. Burks AW, Sampson HA, Buckley RH. Anaphylactic reactions after gamma globulin administration in patients with hypogammaglobulinemia. Detection of IgE antibodies to IgA. N Engl J Med. 1986;314:560-4.
+6. Brennan VM, Salome-Bentley NJ, Chapel HM. Prospective audit of adverse reactions occurring in 459 primary antibody-deficient patients receiving intravenous immunoglobulin. Clin Exp Immunol. 2003;133:247-51.
+7. Hedderich U, Kratzsch G, Stephen W, Dichtelmuller H, Olischlager K, Heimpel H. Immunoglobulin substitution therapy in a patient with primary hypogammaglobulinaemia and anti-IgA antibodies. Clin Allergy. 1986;16:339-44.
+8. Cunningham-Rundles C, Wong S, Bjorkander J, Hanson LA. Use of an IgA-depleted intravenous immunoglobulin in a patient with an anti-IgA antibody. Clin Immunol Immunopathol. 1986;38:141-9.
+9. Ferreira A, Garcia Rodriguez MC, Lopez-Trascasa M, Pascual Salcedo D, Fontan G. Anti-IgA antibodies in selective IgA deficiency and in primary immunodeficient patients treated with gamma-globulin. Clin Immunol Immunopathol. 1988;47:199-207.

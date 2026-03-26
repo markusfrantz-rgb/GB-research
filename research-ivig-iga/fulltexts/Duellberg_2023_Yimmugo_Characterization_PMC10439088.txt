@@ -1,0 +1,71 @@
+================================================================================
+Title: Biochemical Characterization of a New 10% IVIG Preparation [IgG Next Generation (BT595)/Yimmugo] Obtained from a Manufacturing Process Preserving IgA/IgM Potential of Human Plasma
+Authors: Christian Duellberg, Achim Hannappel, Steffen Kistner, Oliver Maneg
+Journal: Drugs in R&D
+Year: 2023
+Volume: 23(3)
+Pages: 245-255
+PMID: 37466834
+PMC: PMC10439088
+DOI: 10.1007/s40268-023-00430-w
+Downloaded: 2026-03-26
+================================================================================
+
+BIOCHEMICAL CHARACTERIZATION OF A NEW 10% IVIG PREPARATION [IGG NEXT GENERATION (BT595)/YIMMUGO] OBTAINED FROM A MANUFACTURING PROCESS PRESERVING IGA/IGM POTENTIAL OF HUMAN PLASMA
+
+Christian Duellberg, Achim Hannappel, Steffen Kistner, Oliver Maneg
+
+ABSTRACT
+
+Human plasma contains valuable antibodies (IgG, IgM, IgA) used for treating immunodeficiencies. Standard IVIG manufacturing discards IgM and IgA as contaminants. The authors describe a novel dual-product manufacturing process yielding Yimmugo (purified IgG) and trimodulin (IgM/IgA/IgG combination). Key improvements include vibration-based gentle mixing to minimize protein damage and removal of properdin to reduce complement system activation. The preparation demonstrated excellent tolerability and excellent efficacy in protecting PID patients.
+
+INTRODUCTION
+
+IVIGs treat immunological disorders and autoimmune diseases including primary immunodeficiencies (PID) and secondary immunodeficiencies (SID). Human plasma contains approximately 75% IgG, 15% IgA, and 10% IgM antibodies. Conventional manufacturing discards IgA and IgM, representing resource waste of limited plasma supplies. Global demand for plasma-derived antibody products increased 12% annually from 2010-2018. Manufacturing processes must reduce adverse reaction risks associated with thrombogenic factors, complement activation, damaged proteins, and blood group antibodies.
+
+MATERIALS AND METHODS
+
+Manufacturing Process: Beginning with Fraction I/II/III, steps include: protein solubilization with sodium acetate buffer, caprylic acid treatment with vibromixing, depth filtration, concentration/diafiltration, pH 4/37 degrees C treatment, anion exchange chromatography (separating IgG from IgA/IgM), cation exchange chromatography, nanofiltration (20 nm), diafiltration, pH/protein adjustment, polysorbate 80 addition, final filtration, and packaging.
+
+Analytical Methods: Nineteen batches underwent general biochemical characterization. Three or more batches underwent extended biological characterization.
+
+RESULTS
+
+General Properties: Analysis of 19 batches showed low variability (CV% <= 2%), indicating stable, reproducible manufacturing. IgG subclass distribution resembled human plasma values: IgG1 (63.9%), IgG2 (30.4%), IgG3 (4.2%), IgG4 (1.4%). Gamma globulin content reached 100% of total protein.
+
+Purity:
+IgA/IgM Content: Anion exchange chromatography achieved 0.1% residual IgA and IgM levels, comparable to competitor IVIGs (0.01-0.22% IgA). Flow-through recovery exceeded 90%, with 72% protein in Yimmugo fraction and 21% in trimodulin fraction.
+
+Complement System Components: No measurable C3, C3a, or C5a contamination detected.
+
+Coagulation Factors: All functional assays showed signals below detection limits. Non-activated partial thromboplastin time (NaPTT) exceeded 250 seconds. FXIa below 1.5 mIU/ml detection limit.
+
+Blood Group Antibodies: Anti-D antibodies essentially absent. Anti-A titers averaged 1:16 and anti-B averaged 1:8, comparable to competitor products.
+
+Molecular Size Distribution: Aggregates very low; fragments undetectable. Dimer content measured 7.1% (+/-1.2%), comparable to competitor IVIGs (8.8% +/-2.0%).
+
+Properdin Removal and Anticomplementary Activity: Elevated anticomplementary activity (ACA) persisted after initial processing, caused by properdin. Additional cation exchange chromatography efficiently removed properdin. Implementation achieved very low properdin levels (0.8 +/- 0.14 ng/mg protein) and approximately 50% ACA reduction.
+
+Potency and Functionality: Antibody titers against hepatitis A, hepatitis B surface antigen, polio, measles, streptolysin O toxin, diphtheria toxin, and Pseudomonas aeruginosa all remained at protective levels. Fc part activity reached nearly 100%, demonstrating intact, functionally active antibodies.
+
+Stability: Over 36 months at 5 degrees C storage, all parameters remained within specifications.
+
+DISCUSSION
+
+Yimmugo represents a high-quality IgG preparation from an innovative manufacturing process utilizing human plasma to produce both Yimmugo and trimodulin, maximizing yield from limited resources. Very low ACA, aggregates, impurities, and absent measurable thrombogenic activity characterized the preparation. Properdin removal contributed approximately 50% ACA reduction.
+
+0.1% IgA/IgM levels don't constitute risk for most patients, though special precautions exist for selective IgA deficiency populations. Phase III clinical trial data showed excellent efficacy in both primary immunodeficiency protection and immune thrombocytopenia treatment.
+
+CONCLUSION
+
+Yimmugo constitutes a high-quality IVIG derived from novel manufacturing preserving the full therapeutic immunoglobulin potential of human plasma while implementing multiple safety improvements including vibromixing, properdin removal, and enhanced viral reduction steps.
+
+REFERENCES
+
+[47 citations in original, key references include:]
+1. Perez EE, et al. Update on the use of immunoglobulin in human disease. J Allergy Clin Immunol. 2017;139:S1-S46.
+2. Gelfand EW. Intravenous immune globulin in autoimmune and inflammatory diseases. N Engl J Med. 2012;367:2015-25.
+3. Market Research Future. Immunoglobulin Market Information Report 2019. 2020.
+4. Buchacher A, Iberer G. Purification of intravenous immunoglobulin G from human plasma. Biotechnol J. 2006;1:148-63.
+5. Brennan VM, et al. Prospective audit of adverse reactions in 459 primary antibody-deficient patients receiving IVIG. Clin Exp Immunol. 2003;133:247-51.
+6. European Pharmacopoeia. Human normal immunoglobulin for intravenous administration. Monograph 0918.

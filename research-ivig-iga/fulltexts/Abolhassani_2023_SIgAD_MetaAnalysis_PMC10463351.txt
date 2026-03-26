@@ -1,0 +1,93 @@
+================================================================================
+Title: Clinical manifestation for immunoglobulin A deficiency: a systematic review and meta-analysis
+Authors: Ahmad Vosughimotlagh, Seyed Erfan Rasouli, Hosein Rafiemanesh, Molood Safarirad, Niusha Sharifinejad, Atossa Madanipour, Maria Marluce Dos Santos Vilela, Edyta Heropolitanska-Pliszka, Gholamreza Azizi
+Journal: Allergy, Asthma & Clinical Immunology
+Year: 2023
+Volume: 19
+Article Number: 75
+PMID: 37641141
+PMC: PMC10463351
+DOI: 10.1186/s13223-023-00826-y
+Downloaded: 2026-03-26
+================================================================================
+
+CLINICAL MANIFESTATION FOR IMMUNOGLOBULIN A DEFICIENCY: A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Ahmad Vosughimotlagh, Seyed Erfan Rasouli, Hosein Rafiemanesh, Molood Safarirad, Niusha Sharifinejad, Atossa Madanipour, Maria Marluce Dos Santos Vilela, Edyta Heropolitanska-Pliszka, Gholamreza Azizi
+
+ABSTRACT
+
+Objectives: This investigation evaluated the prevalence and categorization of clinical presentations in immunoglobulin A deficiency (IgAD).
+
+Methods: Researchers searched PubMed, Web of Science, and Scopus databases through January 2022, employing random-effects models to calculate pooled prevalence estimates with 95% confidence intervals.
+
+Results: Key findings revealed infection predominated at 64.8%, followed by allergic diseases (26.16%) and autoimmunity (22.0%). Within selective IgA deficiency populations, celiac disease emerged most prevalent among autoimmune manifestations at 6.57%, alongside inflammatory bowel disease (4.01%) and rheumatoid arthritis (3.80%). Respiratory tract infection (50.74%), fungal infection (18.48%), and gastrointestinal infection (15.79%) represented primary infectious complications. Asthma (19.06%), allergic rhinitis (15.46%), and allergic conjunctivitis (11.68%) constituted predominant allergic presentations.
+
+Conclusions: IgAD patients demonstrate extensive clinical heterogeneity. Concurrent IgA and IgG subclass deficiency correlates with heightened infection susceptibility. Periodic reassessment proves essential given emerging complications during extended follow-up periods.
+
+INTRODUCTION
+
+Selective immunoglobulin A deficiency (SIgAD) represents the decreased or absent level of serum immunoglobulin A (IgA) in the presence of normal serum levels of immunoglobulin G (IgG) and immunoglobulin M (IgM). Diagnostic criteria require patient age exceeding 4 years with serum IgA concentration below 7 mg/dL, after excluding alternative causes of hypogammaglobulinemia.
+
+Partial IgAD (PIgAD) exists when serum IgA exceeds 7 mg/dL but remains two standard deviations below normal age-adjusted values. SIgAD constitutes the most common humoral immunodeficiency with prevalence estimates ranging between 1:3000 to 1:150 depending on population demographics. More than half of affected individuals remain asymptomatic.
+
+MATERIALS AND METHODS
+
+Search Strategy: Systematic literature searches utilized Web of Science, PubMed, and Scopus databases for English documents published through February 2022. This systematic review and meta-analysis adhered to Cochrane Handbook guidelines with PRISMA reporting standards.
+
+Study Selection: Two-step process involving preliminary screening based on titles and abstracts, followed by detailed full-text eligibility assessments.
+
+Statistical Analysis: Random-effects models assessed pooled prevalence. The I-squared statistic quantified heterogeneity. Stata v.14 performed meta-analyses.
+
+RESULTS
+
+Study Selection: Initial database searches retrieved 8,485 articles; 2,977 represented duplicates. After screening 5,419 unique titles and abstracts, 236 articles underwent full-text assessment. Final extraction yielded 40 articles.
+
+Frequency of Clinical Manifestations in IgAD:
+- Infection: 64.0% (95% CI: 49.8-77.2%; I-squared=95.4%)
+- Autoimmunity: 21.9% (95% CI: 17.9-26.1%; I-squared=71.6%)
+- Allergic disease: 29.0% (95% CI: 20.5-38.2%; I-squared=92.3%)
+- Malignancy: 3.5% (95% CI: 1.0-7.1%; I-squared=75.5%)
+
+Infection Prevalence in SIgAD:
+Pooled prevalence among 952 participants: 64.8% (95% CI: 50.2-78.2%). Primary infectious manifestations: respiratory tract infection (50.74%), fungal infection (18.48%), gastrointestinal infection (15.79%). Pneumonia 12.15%, otitis 7.19%, sinusitis 8.13%.
+
+Autoimmunity Prevalence in SIgAD:
+Pooled prevalence among 1,596 participants: 22.0% (95% CI: 18.0-26.4%). Primary autoimmune presentations: celiac disease (6.57%), inflammatory bowel disease (4.01%), rheumatoid arthritis (3.80%), autoimmune thyroiditis (2.99%), IDDM (3.29%), SLE (3.56%).
+
+Allergic Diseases Prevalence in SIgAD:
+Pooled prevalence among 1,274 participants: 29.16% (95% CI: 20.17-39.01%). Primary: asthma (19.06%), allergic rhinitis (15.49%), allergic conjunctivitis (11.68%).
+
+Malignancy and Bronchiectasis:
+Malignancy pooled prevalence: 3.7% (95% CI: 1.3-7.0%). Bronchiectasis: 14.9% (95% CI: 2.6-34.0%).
+
+Clinical Manifestations in Partial IgAD:
+Infection: 66.36%. Autoimmunity: 12.87%. Allergic diseases: 24.41%.
+
+Clinical Manifestations in IgA Deficient Patients with IgG Subclass Deficiency:
+Infection: 66.36%. Respiratory tract infection predominated at 87.76%.
+
+DISCUSSION
+
+IgAD encompasses primary immunodeficiency in patients exceeding 4 years old. Infection predominated (64.8%) with respiratory (50.7%) and gastrointestinal (15.7%) tract involvement. Fungal pathogens emerged as major infectious agents (18.5%), underscoring secretory IgA in mucosal immunity against fungi.
+
+Secondary major complications included: allergy (29.16%), autoimmunity (22%), and malignancy (3.7%). Impaired mucosal immunity without secretory IgA facilitates aeroallergen and food allergen sensitization.
+
+Celiac disease (6.57%), IBD (4.01%), and RA (3.80%) represented most prevalent autoimmunities. Celiac disease shares significance with IgA deficiency possibly through certain HLA haplotypes. Only 9.3% of biopsy-confirmed celiac-SIgAD cases demonstrated IgG antibodies against tissue transglutaminase.
+
+CVID and IgAD demonstrate comparable clinical and immunological features, with IgAD potentially representing early CVID development. While rare, IgAD progression toward CVID has occurred.
+
+CONCLUSIONS
+
+Infection represents the predominant clinical manifestation in IgAD populations, succeeded by allergic and autoimmune disorders. Due to functional role of secretory IgA in maintaining mucosal surface homeostasis, complications primarily involved respiratory and gastrointestinal systems. Periodic patient assessment proves necessary given potential new clinical complication emergence during extended follow-up periods.
+
+REFERENCES
+
+[40 studies analyzed, 77 total references in original. Key references include:]
+1. Yel L. Selective IgA deficiency. J Clin Immunol. 2010;30:10-16.
+2. Singh K, et al. IgA deficiency and autoimmunity. Autoimmun Rev. 2014;13:163-177.
+3. Swain S, et al. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025.
+4. Ludvigsson JF, et al. Risk of infections among 2100 individuals with IgA deficiency. J Clin Immunol. 2016;36:134-140.
+5. Aghamohammadi A, et al. IgA deficiency: correlation between clinical and immunological phenotypes. J Clin Immunol. 2009;29:130-136.
+6. Hammarstrom L, et al. Selective IgA deficiency and common variable immunodeficiency. Clin Exp Immunol. 2000;120:225-31.
+7. Odineal DD, Gershwin ME. The epidemiology and clinical manifestations of autoimmunity in selective IgA deficiency. Clin Rev Allergy Immunol. 2020;58:107-133.

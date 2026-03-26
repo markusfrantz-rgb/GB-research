@@ -1,0 +1,95 @@
+Title: Non-allergic Hypersensitivity Reactions to Immunoglobulin Preparations in Antibody Deficiencies
+Authors: Collet et al.
+Journal: Clinical Reviews in Allergy & Immunology
+Year: 2024
+PMID: 39436576
+PMC: PMC11638320
+DOI: 10.1007/s12016-024-09007-0
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+NON-ALLERGIC HYPERSENSITIVITY REACTIONS TO IMMUNOGLOBULIN PREPARATIONS IN ANTIBODY DEFICIENCIES
+
+Clinical Reviews in Allergy & Immunology, 2024, 67(1-3):47-57
+
+ABSTRACT
+
+The research examined whether IgG anti-IgA antibodies truly cause hypersensitivity reactions to immunoglobulin preparations (IgPs) in primary immunodeficiency patients. Authors measured anti-IgA IgG levels, reviewed existing literature systematically, and explored complement system activation as an alternative mechanism. Results showed anti-IgA IgG detected in 6% of CVID patients, 30% of selective IgA deficiency patients, and 2% of healthy controls. Critically, 38 patients had anti-IgA IgG with hypersensitivity reactions, while 9 had anti-IgA IgG without reactions. Complement activation occurred consistently after IgP infusion across all tested groups. The findings question "the clinical relevance and pathophysiological implication of IgG anti-IgA," suggesting instead that complement activation-related pseudoallergy (CARPA) better explains hypersensitivity symptoms.
+
+INTRODUCTION
+
+Patients with antibody deficiencies benefit from immunoglobulin replacement therapy (IgRT), available since 1952. However, some experience hypersensitivity reactions to infusions. In 1962, researchers first described anti-IgA antibody formation in IgA-deficient patients, and subsequent work associated these antibodies with hypersensitivity risk.
+
+However, the anti-IgA connection remains controversial. While some studies report increased anaphylaxis risk in anti-IgA positive patients, others question clinical significance. The underlying mechanisms remain unclear.
+
+An allergic IgE-mediated mechanism against IgA seems unlikely for several reasons: anti-IgA IgE assessments are usually negative, and when positive, almost always coincide with anti-IgA IgG. Additionally, hypersensitivity typically occurs on first infusion without prior sensitization, contradicting allergic patterns. Symptoms improve with slower infusion rates and repeated exposure, inconsistent with IgE-mediated mechanisms.
+
+Instead, this pattern mirrors complement activation-related pseudoallergy (CARPA), increasingly recognized with drugs like liposomal preparations and monoclonal antibodies. CARPA involves complement system activation causing anaphylatoxin release, triggering mast cell and basophil mediator secretion. Symptoms include angioedema, bronchospasm, flushing, nausea, and chest pain -- matching observed immunoglobulin hypersensitivity presentations.
+
+METHODS
+
+Anti-IgA IgG Assay: Fluorescent enzyme immunoassay (ImmunoCAP, Thermo Fischer Scientific) on serum samples. Retrospectively included all patients tested at Lille University Hospital Centre between March 2022 and January 2024.
+
+Systematic Literature Review: PubMed search for original articles about anti-IgA antibodies and immunoglobulin preparation hypersensitivity, 1962-2023.
+
+Complement Assays: In vitro complement activation evaluated using complement split products sC5b9 and Bb via ELISA. In vivo complement activation assessed by comparing CP50 activity, C3c, C4, and complement split products before and after infusion.
+
+RESULTS
+
+Anti-IgA IgG in Primary Immunodeficiency Patients and Healthy Controls
+
+152 samples from 131 patients analyzed. Six patients (4.5%) tested positive for anti-IgA IgG. In the local cohort: 2 of 32 CVID patients (6.2%) tested positive (neither with detectable serum IgA), and 3 of 10 selective IgA deficiency patients (30%) tested positive. One patient with isolated IgG3 deficiency had anti-IgA IgG despite normal IgA levels. Among 46 healthy subjects, 1 (2%) tested positive.
+
+Anti-IgA IgG levels in immunoglobulin preparations showed positive levels in 4 of 6 preparations when undiluted.
+
+Clinical Significance of Anti-IgA Antibodies
+
+38 patients identified with anti-IgA antibodies and immunoglobulin preparation hypersensitivity. Majority had CVID diagnosis (n=34, 89%). All except one had undetectable IgA levels.
+
+Anti-IgA antibody isotype was isolated IgG in 92% of cases.
+
+Various immunoglobulin preparations caused hypersensitivity, with IgA concentrations ranging from <10 to 2500 ug/mL. Reactions ranged from mild to severe. Despite hypersensitivity to one preparation, many patients continued immunoglobulin therapy with the same preparation at reduced rate or with different preparations, showing improved tolerance. Several authors reported desensitization: reaction risk and intensity decreased with repeated exposure.
+
+49 immunoglobulin-treated patients with positive anti-IgA antibodies but WITHOUT hypersensitivity were also identified.
+
+10 patients (19%) among 51 without anti-IgA IgG receiving immunoglobulin therapy experienced hypersensitivity at least once -- demonstrating hypersensitivity occurs even without anti-IgA antibodies.
+
+Complement System Activation Analysis
+
+In vitro: sC5b9 consistently increased with immunoglobulin preparation compared to PBS in ALL groups (mean fold change 2.2). No difference between anti-IgA IgG-positive and negative patients (1.26 vs. 2.83 fold change, p=0.27), nor between patients with and without hypersensitivity history (1.93 vs. 2.56 fold change, p=0.78).
+
+In vivo: In all 11 patients regardless of hypersensitivity status, CH50 decreased and Bb increased after infusion. C3 and C4 also decreased. The moderate-hypersensitivity patient showed higher sC5b9 and Bb levels than others, consistent with higher complement activation.
+
+DISCUSSION
+
+Key findings questioning anti-IgA antibody relevance:
+
+1. Anti-IgA antibody presence neither suffices nor proves necessary for adverse reactions. Literature identified patients with anti-IgA antibodies without hypersensitivity AND patients with hypersensitivity lacking anti-IgA antibodies.
+
+2. No specific patterns emerged predicting hypersensitivity risk. No association appeared between hypersensitivity presence and anti-IgA antibody levels, nor with immunoglobulin preparation IgA content.
+
+3. A passive transfer experiment opposed anti-IgA pathogenicity. Robitaille et al. transferred anti-IgA-containing blood products to IgA-positive patients, finding no increased hypersensitivity risk.
+
+"Dispelling the myth of IgA allergy carries major implications for primary immunodeficiency patient care." Some patients despite adequate immunoglobulin therapy experience recurrent/chronic bacterial respiratory infections. Lack of IgA and IgM in conventional preparations could explain this. Lower IgM and IgA levels associated with bronchiectasis in CVID patients, and low IgA associated with higher pulmonary and sinus infection risk. These findings support IgA/IgM-enriched preparation use in selected severe patients.
+
+Immunoglobulin-Induced Complement Activation
+
+The data suggest immunoglobulin preparations activate complement both in vivo and in vitro. Bb elevation indicates potential alternative pathway activation.
+
+Immunoglobulin hypersensitivity risk may not strictly correlate with complement activation level, but rather with anaphylatoxin clearance speed and mast cell mediator release susceptibility.
+
+Some immunoglobulin preparations contain polysorbate 80, a polyethylene glycol derivative implicated in complement activation and CARPA reactions.
+
+CONCLUSION
+
+The data and literature review findings do not support anti-IgA antibody predictive value in immunoglobulin preparation hypersensitivity. Breaking the "IgA allergy" myth has major primary immunodeficiency patient care implications.
+
+The study's CARPA parallels suggest complement activation involvement, requiring confirmation through larger prospective primary immunodeficiency studies.
+
+REFERENCES
+
+1. Bruton OC. Pediatrics. 1952;9(6):722-728.
+2. Williams SJ, Gupta S. Arch Immunol Ther Exp. 2017;65(1):11-19.
+3-41. [Full reference list as in original]

@@ -1,0 +1,98 @@
+Title: Anaphylaxis to IGIV in immunoglobulin-naive common variable immunodeficiency patient in the absence of IgG anti-IgA antibodies: successful administration of low IgA-containing immunoglobulin
+Authors: Asal Gharib, Caroline Caperton, Sudhir Gupta
+Journal: Allergy, Asthma & Clinical Immunology
+Year: 2016
+PMID: 27190527
+PMC: PMC4869305
+DOI: 10.1186/s13223-016-0132-2
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+ANAPHYLAXIS TO IGIV IN IMMUNOGLOBULIN-NAIVE COMMON VARIABLE IMMUNODEFICIENCY PATIENT IN THE ABSENCE OF IGG ANTI-IGA ANTIBODIES: SUCCESSFUL ADMINISTRATION OF LOW IGA-CONTAINING IMMUNOGLOBULIN
+
+Asal Gharib, Caroline Caperton, Sudhir Gupta
+
+Division of Basic and Clinical Immunology, University of California, Irvine
+Allergy, Asthma & Clinical Immunology, 2016, 12:23
+
+ABSTRACT
+
+Although severe reactions to immunoglobulin preparations have been frequently reported, IgE antibodies against IgA are usually not investigated; and occur predominantly in previously sensitized patients. The purpose is to report anaphylaxis to IGIV during initial infusion in a patient with common variable immunodeficiency with absent IgA without prior sensitization and in the absence of detectable IgG anti-IgA antibodies, and positive skin tests for immediate hypersensitivity to four different preparations of IGIV, one subcutaneous immunoglobulin preparation, and to purified IgA. Patient was treated without side effects with IGIV preparation depleted of IgA to which immediate hypersensitivity skin test was negative.
+
+This case demonstrates that patients with CVID with no IgA and without prior exposure to immunoglobulin or plasma may develop anaphylaxis following initial infusion of IGIV, which appears to be due to IgE anti-IgA, and independent of IgG anti-IgA antibodies.
+
+Keywords: CVID, Anaphylaxis, IVIG, Case report
+
+BACKGROUND
+
+Common variable immunodeficiency (CVID) is a heterogeneous disorder characterized by decreased levels of at least two immunoglobulin isotypes. Anaphylactic/anaphylactic reactions to blood and plasma transfusion have been reported in subjects with IgG anti-IgA antibodies. However, there is a lack of correlation between IgG anti-IgA antibodies and anaphylactic/anaphylaxis reaction. True IgE-mediated anaphylaxis to IGIV preparations is exceedingly rare and usually requires prior sensitization.
+
+CASE DESCRIPTION
+
+A 37 year-old male with history of chronic ear infections throughout childhood, and childhood asthma and rhinitis. Since age 15, having 2-3 episodes of bronchitis per year, recurrent otitis media requiring myringotomy tubes, and six image-proven sinus infections in 2 years. Hospitalized twice for pneumonia in 2013. No history of prior blood or blood product transfusions.
+
+Diagnosis: CVID confirmed August 2014.
+
+Laboratory findings:
+- IgG: <33 mg/dl (ref 694-1618)
+- IgA: <6.7 mg/dl (ref 68-378)
+- IgM: <4.2 mg/dl (ref 65-263)
+- IgE: <1 IU/ml (ref 10-150)
+- IgG anti-IgA antibody: <16 U/ml (ref <99) -- NEGATIVE
+- Complement CH50, C3, C4: all NORMAL
+- Lymphocyte subsets: all NORMAL
+
+Event: Gammagard 10% IV infusion started at 30 cc/h. Within 5 minutes: tightness of chest, difficulty breathing, facial flushing, bilateral wheezes, pulse 126/min, severe rigor, oxygen saturation drop to 86%. Treated with IV famotidine, meperidine, hydrocortisone, Benadryl, and O2 at 6L.
+
+Skin Testing Results:
+
+Immunoglobulin preparation         Wheal (mm)  Flare (mm)
+Gammagard liquid (37 ug/ml IgA)    9           58
+Hizentra (50 ug/ml IgA)            18          80
+Privigen (25 ug/ml IgA)            21          78
+Octagam (200 ug/ml IgA, 1:10)     10          60
+Gammagard S/D (<1 ug/ml IgA)      2           3    -- NEGATIVE
+Purified human IgA (10 ug/ml)     10          25
+Normal saline                      3           4    -- NEGATIVE
+
+Resolution: Patient given graded dosage of IgA-depleted IGIV (Gammagard SD) with premedication. Tolerated infusion without any side effects at 80 ml/h.
+
+DISCUSSION
+
+Key Points:
+
+1. This patient was NAIVE to immunoglobulin -- no prior sensitization. Had no IgG anti-IgA antibodies. CH50, C3, C4 were normal. Since IgE does not fix complement, immune complex-mediated complement activation appears unlikely.
+
+2. Positive immediate hypersensitivity skin tests to four IGIV preparations, one SCIG preparation, AND to purified IgA -- establishing that anaphylaxis was most likely IgE anti-IgA-mediated.
+
+3. Skin test was NEGATIVE to Gammagard S/D (very low IgA) and to normal saline.
+
+4. Patient had very low serum IgE (<1 IU/ml), suggesting either traces of serum IgE have anti-IgA activity or most IgE anti-IgA antibodies are mast cell-associated with very little free antibody in serum.
+
+5. IgE anti-IgA antibody test is NOT commercially available.
+
+6. No good correlation exists between IgG anti-IgA antibodies and anaphylaxis.
+
+CONCLUSIONS
+
+Patients with CVID with absence of IgA, even those naive to immunoglobulin or plasma products, may be skin tested for immediate hypersensitivity to immunoglobulin preparations prior to initiation. In case of positive skin test, an IgA-depleted preparation may be used. However, a study of large number of patients is needed prior to universal recommendation.
+
+REFERENCES
+
+1. Ameratunga R, et al. Front Immunol. 2014;5:415.
+2. Vyas GN, et al. Lancet. 1968;1:312-315.
+3-4. [Transfusion reaction references]
+5. Rachid R, Bonilla FA. J Allergy Clin Immunol. 2012;129:628-634.
+6. Koistinen J, et al. Brit Med J. 1978;2:923-924.
+7. Ferreira A, et al. Vox Sang. 1989;56:218-222.
+8. Burks AW, et al. N Engl J Med. 1986;314:560-564.
+9. de Albuquerque Campos R, et al. J Clin Immunol. 2000;20:77-82.
+10. Horn J, et al. Clin Immunol. 2007;122:156-162.
+11. Cunningham-Rundles C, et al. Clin Immunol Immunopath. 1986;38:141-149.
+12. Bjorkander J, et al. J Clin Immunol. 1987;7:8-15.
+13. Ferreira A, et al. Clin Immunol Immunopath. 1988;47:199-207.
+14. Shade KT, et al. J Exp Med. 2015;212:457-467.
+15. Limaye S, et al. Int Med J. 2001;31:256-257.
+16. Bernstein IL, et al. Ann Allergy Asthma Immunol. 2008;100(Suppl 3):S1-S148.

@@ -1,0 +1,117 @@
+================================================================================
+Title: Understanding the Natural History of Selective IgA Deficiency
+Authors: Nayara Maria Furquim Nasser, Antonio Carlos Pastorino, Thais Costa Lima de Moura, Beni Morgenstern, Mayra de Barros Dorna, Ana Paula Beltran Moschione Castro
+Journal: Jornal de Pediatria (Rio J)
+Year: 2025
+Volume: 101(4)
+Pages: 569-575
+PMID: 40169156
+PMC: PMC12276590
+DOI: 10.1016/j.jped.2025.03.002
+Downloaded: 2026-03-26
+================================================================================
+
+UNDERSTANDING THE NATURAL HISTORY OF SELECTIVE IGA DEFICIENCY
+
+Nayara Maria Furquim Nasser, Antonio Carlos Pastorino, Thais Costa Lima de Moura, Beni Morgenstern, Mayra de Barros Dorna, Ana Paula Beltran Moschione Castro
+
+Faculdade de Medicina, Universidade de Sao Paulo (HC-FMUSP), Instituto da Crianca e do Adolescente, Departamento de Pediatria, Divisao de Alergia e Imunologia, Hospital das Clinicas, Sao Paulo, SP, Brazil
+
+ABSTRACT
+
+This research examined clinical manifestations, disease progression, and laboratory findings in a cohort of pediatric patients with SIgAD. Investigators studied 51 symptomatic patients over minimum 5-year periods. Results revealed infections occurred in 98% of cases (pneumonia 94%, sinusitis 70%), allergic manifestations in 92.1%, autoimmune conditions in 19.6%, and neoplasms in 5.8%. The study identified a natural progression, beginning with infectious diseases, followed significantly by allergic and autoimmune conditions. Elevated immunoglobulin levels correlated significantly with autoimmunity (p < 0.05). The authors concluded that monitoring immunoglobulin levels may identify biomarkers for predicting autoimmune disease development.
+
+INTRODUCTION
+
+Selective immunoglobulin A deficiency (SIgAD) represents the most prevalent inborn errors of immunity (IEI). The condition involves serum IgA levels below 0.07 g/L with normal IgG and IgM in patients over 4 years old. Incidence varies by ethnicity, estimated at 1:600 in the general population and 1:965 in Brazil. Most carriers remain asymptomatic; symptomatic patients represent approximately 10-35% of all cases.
+
+Symptomatic individuals exhibit a predominance of infectious processes, primarily affecting the respiratory and gastrointestinal mucosa, accompanied by allergic conditions such as asthma and rhinitis, as well as autoimmune disorders and neoplasms. In pediatric populations, recurrent infections constitute the primary manifestation warranting immunological evaluation, though diagnosis requires investigation after age 4 to exclude delayed immune maturation.
+
+The authors note that despite well-documented symptoms, there are few studies exploring the natural history of the disease and the potential for progression over the years. Their goal was describing clinical presentations, progression patterns, and laboratory findings in symptomatic pediatric SIgAD patients.
+
+METHODS
+
+This prospective descriptive study reviewed medical records from a reference center specializing in inborn errors of immunity. Ethics approval was obtained (approval number 5.051.369, 2021).
+
+Inclusion criteria: Confirmed symptomatic SIgAD diagnosis (serum IgA <0.07 g/L or 7 mg/dL, normal IgG and IgM in patients >4 years, after excluding other hypogammaglobulinemia causes) with minimum 5-year clinical history.
+
+Exclusion criteria: Other inborn errors of immunity, genetic syndromes, or secondary IgA deficiency from pharmacological treatments.
+
+Data extraction included: Epidemiological information (birth date, sex, symptom onset age), infection profiles (type, onset, frequency), allergies (asthma, allergic rhinitis, atopic dermatitis, food allergy histories), autoimmune diseases (rheumatologist-confirmed), and neoplasms (oncologist-confirmed).
+
+Laboratory analysis: Immunoglobulin A, M, and G quantified via immunoturbidimetry (mg/dL); IgE via electrochemiluminescence (IU/mL); hematological parameters assessed; autoantibodies evaluated including ANA, Anti-TPO, Anti-Tg, RF, ANCA, Anti-SSA/RO, Anti-SSB/LA, and Anti-Native DNA.
+
+Statistical analysis: Kruskal-Wallis test with Dwass-Steel-Critchlow-Fligner post-hoc test assessed differences in symptom onset timing (p<0.05 significance threshold). Chi-Square and Fisher's exact tests evaluated laboratory value correlations with clinical manifestations.
+
+RESULTS
+
+Of 79 patients initially referred for IEI investigation, 51 met inclusion criteria. Demographics: 1.2 female-to-male ratio, average 10-year follow-up (+/-2.8 years, range 5-16 years), median diagnosis age 6 years (range 4-13 years), median symptom onset age 1 year.
+
+Family history: Consanguinity reported in two families with one SIgAD association; eight patients showed family SIgAD history.
+
+Infections: Occurred in 50 patients (98.0%) with median onset age 1 year. Pneumonia affected 47 (94.0%), sinusitis 35 (75.0%), otitis 27 (54.0%), gastrointestinal infections 27 (54.0%), tonsillitis 22 (44.0%), UTI 13 (26.0%), with rarer manifestations including impetigos, parotitis, viral meningitis, osteomastoiditis, sepsis, osteomyelitis, and skin abscess. Over 66% experienced multiple infectious sites during follow-up.
+
+Allergies: Affected 47 patients (92.1%) with median onset age 5 years. Rhinitis occurred in 46 (97.8%), asthma in 30 (63.8%), atopic dermatitis in 9 (19.1%), food allergy in 3 (6.3%). Association between respiratory allergies and airway infections observed in 45 patients (88.2%).
+
+Autoimmunity: Identified in 10 patients (19.6%) with median onset age 8 years. Thyroiditis predominated (60.0%), followed by DM1, rheumatic fever, celiac disease, ITP, JIA, vitiligo, Graves' disease, and SLE (each 10.0%). Concomitant autoimmune diseases occurred in two patients.
+
+Autoantibodies: Detected in 31 patients (60.7%) without clinical manifestations, beginning age 3 with median detection age 9. ANA appeared most common (21 patients, 67.7%), followed by antithyroglobulin and anti-TPO antibodies (12 patients each, 38.7%).
+
+Neoplasms: Occurred in 3 patients (5.8%) with median onset age 9. Langerhans histiocytosis affected 2 (66.6%), Hodgkin's lymphoma 1 (33.3%).
+
+Disease progression: Statistically significant differences existed in symptom onset ages among cardinal symptoms (p<0.05), with infections emerging earliest compared to allergies and autoimmune conditions. Most patients exhibited multiple associated manifestations. None presented autoimmune disease in isolation.
+
+Immunodeficiency progression: Nine patients progressed to partial IgA deficiency (average age 10.6 years, range 6-14 years); four subsequently normalized IgA levels (average age 13 years, range 9-15 years). Two patients progressed to CVID (ages 12 and 18).
+
+Immunoglobulin levels: Twenty-five patients (49%) demonstrated hypergammaglobulinemia with values above the 97.5th percentile. IgG elevation occurred in 20 of 25 patients; IgM elevation in 5 of 25. Elevated IgG or IgM correlated significantly with autoimmune diseases and autoantibodies without clinical manifestations (p<0.05), but showed no significant correlation with infections or allergies.
+
+DISCUSSION
+
+SIgAD represents the most prevalent IEI, with prevalence rates among blood donors varying from 1:163 in Spain and 1:143 in the Arabian Peninsula to 1:4100 in China and 1:18,550 in Japan, suggesting a lower prevalence among Asian populations. The authors note that few studies have examined the long-term outcomes of patients with SIgAD, making our case series relevant for specialists, pediatricians, and clinicians.
+
+Infection mechanisms: The association between IgA deficiency and infections results from the lack of mucosal defense mechanisms, which are not fully compensated for by other immunoglobulins. IgA functions by blocking the adhesion and aggregation of microorganisms and may assist in the intracellular neutralization of pathogens. Respiratory and gastrointestinal tract infections are the most common clinical manifestations in children with symptomatic SIgAD, occurring in 40-90% of cases.
+
+Allergies: In SIgAD, although the underlying pathogenetic mechanism is not yet fully elucidated, the reduction of serum and secretory IgA can lead to colonization and penetration by pathogenic bacteria, and facilitate the passage of aeroallergens and food antigens, predisposing patients with SIgAD to a higher risk of developing allergies.
+
+Compensatory mechanisms: Some studies demonstrate SIgAD leads to the activation of compensatory mechanisms, such as the increase in secretory IgM. Another mechanism suggests systemic IgG and secretory IgA work together in different body compartments to limit systemic pro-inflammatory pathways. The authors' data suggests patients with SIgAD exhibited elevated levels of IgG and IgM, along with a higher prevalence of autoimmunities and autoantibodies.
+
+Autoimmunity: Proposed mechanisms include HLA genes on chromosome 6 favoring SIgAD and autoimmune disease development, or unknown genetic defects. The lack of IgA might contribute to a state of persistent local and systemic inflammation through release of IFN-gamma, type I IFNs, IL-1beta, IL-12, IL-17, and TNF-alpha. IgA interactions with FcalphaRI receptors negatively regulate immune pathways.
+
+CONCLUSIONS
+
+SIgAD constitutes a clinically significant condition. Understanding the natural history of patients with SIgAD deepens the comprehension of the disease and helps early awareness and diagnosis of comorbidities that may arise at different stages of the patient's life.
+
+Key recommendations include regular IgA level monitoring with attention to the potential for normalization; however, ongoing follow-up is crucial due to the risk of progression to other immunodeficiencies, the development of autoimmune diseases, and vigilance for neoplasms. Additionally, monitoring other immunoglobulins may aid in identifying potential biomarkers for autoimmunity, though further studies are needed to validate these biomarkers.
+
+REFERENCES
+
+1. Jacob CM, et al. Autoimmunity in IgA deficiency: revisiting the role of IgA as a silent housekeeper. J Clin Immunol. 2008;28:S56-S61.
+2. de Sousa-Pereira P, Woof JM. IgA: structure, function, and developability. Antibodies (Basel). 2019;8:57.
+3. Modell V, et al. Global report on primary immunodeficiencies: 2018 update. Immunol Res. 2018;66:367-380.
+4. Yel L. Selective IgA deficiency. J Clin Immunol. 2010;30:10-16.
+5. Conley ME, et al. Diagnostic criteria for primary immunodeficiencies. Clin Immunol. 1999;93:190-197.
+6. Carneiro-Sampaio MM, et al. Frequency of selective IgA deficiency among Brazilian blood donors. Allergol Immunopathol (Madr). 1989;17:213-216.
+7. Cinicola BL, et al. Selective IgA deficiency and allergy: a fresh look to an old story. Medicina (Kaunas). 2022;58:129.
+8. Moschese V, et al. Follow-up and outcome of symptomatic partial or absolute IgA deficiency in children. Eur J Pediatr. 2019;178:51-60.
+9. Singh K, et al. IgA deficiency and autoimmunity. Autoimmun Rev. 2014;13:163-177.
+10. Corsello A, et al. Recurrent upper respiratory tract infections in early childhood. Ital J Pediatr. 2024;50:30.
+11. Yazdani R, et al. Clinical phenotype classification for selective immunoglobulin A deficiency. Expert Rev Clin Immunol. 2015;11:1245-1254.
+12. Santos S, et al. Inbreeding levels in Northeast Brazil. Genet Mol Biol. 2010;33:220-223.
+13. Ludvigsson JF, et al. Risk of infections among 2100 individuals with IgA deficiency. J Clin Immunol. 2016;36:134-140.
+14. Swain S, et al. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025.
+15. Morawska I, et al. The epidemiology and clinical presentations of atopic diseases in selective IgA deficiency. J Clin Med. 2021;10:3809.
+16. Aghamohammadi A, et al. IgA deficiency: correlation between clinical and immunological phenotypes. J Clin Immunol. 2009;29:130-136.
+17. Lougaris V, et al. Clinical and laboratory features of 184 italian pediatric patients affected with selective IgA deficiency. J Clin Immunol. 2019;39:470-475.
+18. El-Sayed ZA, et al. Allergic manifestations of inborn errors of immunity. World Allergy Organ J. 2022;15:100657.
+19. Pastorino AC, et al. Asthma - clinical and epidemiological aspects of 237 outpatients. J Pediatr (Rio J). 1998;74:49-58.
+20. Catanzaro JR, et al. IgA-deficient humans exhibit gut microbiota dysbiosis despite secretion of compensatory IgM. Sci Rep. 2019;9.
+21. Fadlallah J, et al. Synergistic convergence of microbiota-specific systemic IgG and secretory IgA. J Allergy Clin Immunol. 2019;143:1575-1585.
+22. Wang N, et al. Selective IgA deficiency in autoimmune diseases. Mol Med. 2011;17:1383-1396.
+23. Lovell DJ, et al. Prevalence of autoimmune diseases in children with juvenile idiopathic arthritis. RMD Open. 2021;7.
+24. Odineal DD, Gershwin ME. The epidemiology and clinical manifestations of autoimmunity in selective IgA deficiency. Clin Rev Allergy Immunol. 2020;58:107-133.
+25. Erkocoglu M, et al. Allergic and autoimmune disorders in families with selective IgA deficiency. Turk J Med Sci. 2017;47:592-598.
+26. Calcaterra V, et al. Gender differences at the onset of autoimmune thyroid diseases in children. Front Endocrinol (Lausanne). 2020;11:229.
+27. Koskinen S. Long-term follow-up of health in blood donors with primary selective IgA deficiency. J Clin Immunol. 1996;16:165-170.
+28. Gulez N, et al. Increased percentages of autoantibodies in immunoglobulin A-deficient children do not correlate with clinical manifestations. Autoimmunity. 2009;42:74-79.
+29. Plebani A, et al. IgM and IgD concentrations in the serum and secretions of children with selective IgA deficiency. Clin Exp Immunol. 1983;53:689-696.
+30. Conrey PE, et al. IgA deficiency destabilizes homeostasis toward intestinal microbes and increases systemic immune dysregulation. Sci Immunol. 2023;8:eade2335.

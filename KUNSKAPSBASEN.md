@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~480 peer-reviewed referenser | 16 forskningsdokument | 29 fulltexter verifierade | Evidensgradering (Level 1-5)
+~660 peer-reviewed referenser | 17 forskningsdokument | 63 fulltexter verifierade | Evidensgradering (Level 1-5)
 
 ---
 
@@ -41,7 +41,8 @@ status: active
 | 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
 | 2026-03-25 (fm) | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
 | 2026-03-25 (em) | Sedering lättad — bedömning av spontanandningsförmåga (diafragmafunktion). |
-| 2026-03-26 (plan) | PE session 4 planerad (2 kvar av 5). |
+| 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
+| 2026-03-26 (plan) | PE session 5 planerad (sista av 5). |
 
 **Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 
@@ -174,13 +175,14 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA-associationer, molekylär mimikry |
 | [PE-svikt: definition och beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | PE-svikt efter 5 sessioner, biomarkörer under sedering, NfL-monitorering |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitet 6% vs 2%** |
-| [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | **NYTT:** FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
+| [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
+| [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
 
 ---
 
 ## Källbibliotek — verifierade fulltexter
 
-29 av 30 kartlagda nyckelartiklar finns i fulltext (19 PDF + 10 text). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+63 kartlagda nyckelartiklar finns i fulltext (19 PDF + 10 text i `sources/fulltext/` + 34 text i `research-ivig-iga/fulltexts/`). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
@@ -203,4 +205,4 @@ Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom 
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~480 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars 2026. Baserad på ~660 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*

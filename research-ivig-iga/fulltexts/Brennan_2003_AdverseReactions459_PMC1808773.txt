@@ -1,0 +1,105 @@
+================================================================================
+Title: Prospective audit of adverse reactions occurring in 459 primary antibody-deficient patients receiving intravenous immunoglobulin
+Authors: V M Brennan, N J Salome-Bentley, H M Chapel
+Journal: Clinical and Experimental Immunology
+Year: 2003
+Volume: 133(2)
+Pages: 247-251
+PMID: 12869031
+PMC: PMC1808773
+DOI: 10.1046/j.1365-2249.2003.02199.x
+Downloaded: 2026-03-26
+================================================================================
+
+PROSPECTIVE AUDIT OF ADVERSE REACTIONS OCCURRING IN 459 PRIMARY ANTIBODY-DEFICIENT PATIENTS RECEIVING INTRAVENOUS IMMUNOGLOBULIN
+
+V M Brennan, N J Salome-Bentley, H M Chapel
+Department of Immunology, Oxford Radcliffe Hospital, Oxford, UK
+
+ABSTRACT
+
+Intravenous immunoglobulin (IVIG) is used as the standard replacement therapy for patients with primary antibody deficiencies. A previous single-year study showed 0.7% adverse reaction rates. This larger prospective investigation enrolled 459 participants across multiple immunology centres, including both children and adults receiving infusions in various settings. Over 13,508 total infusions were administered during the 2-year study period. No severe reactions occurred, with overall reaction incidence at 0.8%. Without predisposing factors, this could have decreased to 0.5%.
+
+INTRODUCTION
+
+An initial adverse reaction surveillance project conducted in 1993-94 examined 119 adult patients from four centres across the UK. That study showed that the overall reaction rate in patients who self-infused replacement doses of IVIG at home was low (0.7%). This expanded investigation enrolled 459 patients for a further 2 years.
+
+MATERIALS AND METHODS
+
+Study Design: Multi-centre investigation collecting data from 12 immunology facilities across the UK. Six different immunoglobulin preparations were used throughout.
+
+Inclusion criteria: Primary antibody deficiencies, established stable IVIG treatment with minimum six prior infusions. Patients were not selected - the centres who agreed to take part entered all patients receiving treatment, provided they had received at least six infusions uneventfully. Standard dosing ranged 300-600 mg/kg/month.
+
+Infusion locations:
+- Established (EST): Self-infusing IVIG at home
+- GP-based (GP): Self-infusing at general practitioner surgery
+- Out-patient (OP): Regular hospital out-patient infusions
+
+Classification of Reactions:
+Mild: Symptoms included headache, flushing, muscle aches, shivering, feeling sick, itching, urticaria, anxiety, light-headedness. These subsided when the infusion rate was decreased.
+Moderate: Mild reactions becoming worse, or symptoms such as chest pain or wheezing, necessitating the infusion to be discontinued.
+Severe: Moderate reactions persisting or becoming worse, including tightness of throat, severe headache, severe breathlessness, collapse. Would have required adrenaline and medical attention.
+
+RESULTS
+
+Study Population: 459 patients enrolled (261 male, 198 female); age range 2-88 years (92 under 18).
+- 290 self-infused at home
+- 160 received out-patient infusions
+- 9 infused at GP surgeries
+Total: 13,508 infusions over two years.
+
+Adverse Reactions Summary: 111 documented adverse reactions, of which 91 were mild and 20 were moderate. No severe reactions occurred. The overall reaction rate was 0.8%.
+
+Reactions by Age and Location:
+- Children 0-9: 7/1,049 (0.67%)
+- Young adults 10-17: 12/1,455 (0.82%)
+- Adults 18+: 92/11,004 (0.84%)
+- EST total: 87/9,474 (0.92%)
+- OP total: 16/3,746 (0.43%)
+- GP total: 8/288 (2.78%)
+
+400 patients did not have any reaction; 59 patients had either mild or moderate reactions.
+
+Timing: Of 111 reactions, only 12 occurred within 30 min of start, only one within 10 min. None required the infusion to be stopped, no treatment was given, no sequelae.
+
+Associated Factors:
+- Known infection: 23 reactions
+- Delay since last infusion: 13 reactions
+- Too fast infusion: 5 reactions
+- Anti-IgA antibodies: 4 reactions (documented in only 2 patients)
+- None identified: 66 reactions
+
+Infection association: 1,001 infusions during infection showed 5.1% reaction rate vs 0.48% without infection.
+
+Anti-IgA antibodies: Documented in only two patients and associated with reactions on only four occasions; however, as their presence or absence was not routinely tested, the relevance is unknown.
+
+Prophylaxis: Of 111 reactions, 47 occurred despite prophylaxis (antihistamines, aspirin, paracetamol combinations).
+
+Centre variation: Three centres showed higher rates than the remaining nine combined.
+
+Product differences: No differences between IVIG preparations.
+
+DISCUSSION
+
+Patients with primary antibody deficiencies require lifelong treatment with immunoglobulin. The finding that no reaction was severe and adrenaline was not used in 13,508 infusions in 459 patients questions the need for prescribing adrenaline for all home-infusing patients.
+
+Preventable causes of reactions were identified in 45 patients. Once preventable factors were taken into consideration, the overall reaction rate would have been 0.5%.
+
+In a total of 16,223 intravenous immunoglobulin infusions (combining this and previous studies), no serious adverse reactions have occurred; over 11,500 of these were self-administered at home safely.
+
+Only 12 reactions occurred within 30 min of the start of infusion and none were thought to be anaphylactic in origin.
+
+CONCLUSIONS
+
+This study has shown that the incidence of adverse reactions in patients receiving intravenous immunoglobulin is very low when patients have been stabilized on treatment. It has shown the importance of being fully trained in risk prevention: avoiding delays, not infusing during intercurrent infection, and not exceeding recommended maximum administration rates. Regular assessment and continual education of staff and patients who administer IVIG is necessary to prevent avoidable reactions.
+
+REFERENCES
+
+1. Brennan VM, et al. Surveillance of adverse reactions in patients self-infusing IVIG at home. J Clin Immunol. 1995;15:116-9.
+2. Chapel HM. Consensus on diagnosis and management of primary antibody deficiencies. Br Med J. 1994;308:581-5.
+3. Misbah SA, Chapel HM. Adverse effects of intravenous immunoglobulin. Drug Safety. 1993;9:254-62.
+4. Chapel HM, et al. Immunoglobulin replacement therapy by self-infusion at home. J Clin Immunol. 1988;73:160-2.
+5. Bjorkander J, et al. Successful immunoglobulin prophylaxis in patients with antibody deficiency syndromes in the presence of anti-IgA. J Clin Immunol. 1987;7:8-15.
+6. Chapel HM, et al. Comparison of efficacy and safety of IVIG versus SCIG replacement therapy. J Clin Immunol. 2000;20:94-100.
+7. Toogood JH. Risk of anaphylaxis in patients receiving beta-blocker drugs. J Allergy Clin Immunol. 1988;81:1-5.
+8. Goulet JP, et al. Contraindications to vasoconstrictors in dentistry. Oral Surg Oral Med Oral Path. 1992;74:692-7.

@@ -1,7 +1,7 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-03-25
-> Källmapp: `sources/fulltext/`
+> Senast uppdaterad: 2026-03-26
+> Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
 
@@ -9,9 +9,10 @@
 
 | | Antal |
 |---|---|
-| ✅ Fulltext i källmappen | **29** (19 PDF + 10 text) |
+| ✅ Fulltext i sources/fulltext/ | **29** (19 PDF + 10 text) |
+| ✅ Fulltext i research-ivig-iga/fulltexts/ | **34** (text) |
 | ⏳ Ej publicerad i journal | **1** |
-| **Totalt kartlagda** | **30** (alla hämtade) |
+| **Totalt kartlagda** | **64** (63 i fulltext, 1 ej publicerad) |
 
 ---
 
@@ -145,4 +146,49 @@
 
 ---
 
-*30 nyckelartiklar. 29 i fulltext (19 PDF + 10 text). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-03-25.*
+---
+
+### ✅ NYA FULLTEXTAR — Immunoglobulin-IgA-säkerhet (2026-03-26)
+
+Hämtade som del av IVIG/IgA-brist-djupdykning. Källmapp: `research-ivig-iga/fulltexts/`
+
+| # | Artikel | PMID | Evidens | Sökväg | Nyckeldata |
+|---|---------|------|---------|--------|-----------|
+| 31 | **Abolhassani / Vosughimotlagh A et al.** Clinical manifestation for IgA deficiency: systematic review and meta-analysis. *Allergy Asthma Clin Immunol* 2023;19:75 | 37641141 | Level 2 | [text](/source-research/Abolhassani_2023_SIgAD_MetaAnalysis_PMC10463351.txt) | Infektion 64.8%, allergi 26.2%, autoimmunitet 22.0% av symtomatiska SIgAD |
+| 32 | **Ahrens N et al.** Immune tolerance induction in patients with IgA anaphylactoid reactions following long-term IV IgG treatment. *Clin Exp Immunol* 2008;151:455-458 | 18234056 | Level 3 | [text](/source-research/Ahrens_2008_ToleranceInductionIVIG_PMC2276973.txt) | 5 CVID-patienter med anti-IgA: toleransinduktion i alla; långtids-IVIg tolererat |
+| 33 | **Albin S, Cunningham-Rundles C.** Update on use of immunoglobulin for immunodeficiency disorders. *Immunotherapy* 2014;6:1113-1126 | 25428649 | Review | [text](/source-research/Albin_2014_IgTreatmentUpdate_PMC4324501.txt) | SIgAD behöver sällan Ig-ersättning; anafylaxirisk ovanlig |
+| 34 | **Brennan VM et al.** Prospective audit of adverse reactions in 459 primary antibody-deficient patients. *Clin Exp Immunol* 2003;133:247-251 | 12869031 | Level 2 | [text](/source-research/Brennan_2003_AdverseReactions459_PMC1808773.txt) | 13,508 infusioner; 0.8% reaktionsfrekvens; inga svåra reaktioner |
+| 35 | **Chen FYS et al.** Robot-assisted gait training for ambulation in geriatric GBS. *Medicina* 2024;60:1209 | 39202490 | Level 4 | [text](/source-research/Chen_2024_Robot_Assisted_Gait_GBS_PMC11356725.txt) | 75-åring: sängbunden till måttligt beroende (Barthel 15→65) |
+| 36 | **Collet A et al.** Non-allergic hypersensitivity reactions to Ig preparations: role for anti-IgA IgG and complement activation? *Clin Rev Allergy Immunol* 2024;67:47-57 | 39436576 | Level 3 | [text](/source-research/Collet_2024_AntiIgAComplementActivation_PMC11638320.txt) | CARPA-hypotes: komplementaktivering, inte anti-IgA, driver reaktioner |
+| 37 | **Duellberg C et al.** Biochemical characterization of Yimmugo (10% IVIG). *Drugs R D* 2023;23:245-255 | 37466834 | Level 3 | [text](/source-research/Duellberg_2023_Yimmugo_Characterization_PMC10439088.txt) | Yimmugo: IgA ~500 mcg/mL — undvik vid IgA-brist |
+| 38 | **Garssen MP et al.** Amantadine for fatigue in GBS: RCT. *JNNP* 2006;77:61-65 | 16361594 | Level 1 | [text](/source-research/Garssen_2006_Amantadine_Fatigue_GBS_PMC2117395.txt) | NEGATIVT: amantadin ej bättre än placebo för GBS-trötthet |
+| 39 | **Gharib A et al.** Anaphylaxis to IGIV in Ig-naiv CVID utan anti-IgA IgG. *Allergy Asthma Clin Immunol* 2016;12:23 | 27190527 | Level 4 | [text](/source-research/Gharib_2016_AnaphylaxisWithoutAntiIgA_PMC4869305.txt) | Anafylaxi kan uppstå utan mätbart anti-IgA IgG; IgE anti-IgA misstänkt |
+| 40 | **Grigoriadou S et al.** BSI/UKPIN consensus: management of Ig replacement therapy. *Clin Exp Immunol* 2022;210:1-13 | 35924867 | Guideline | [text](/source-research/Grigoriadou_2022_BSI_UKPIN_IgReplacementGuideline_PMC9585546.txt) | Anti-IgA-nivåer krävs INTE rutinmässigt före Ig-terapi |
+| 41 | **Hu BQ et al.** Efgartigimod for GBS with poor IVIg response: case report. *BMC Neurol* 2025;25:403 | 41029230 | Level 4 | [text](/source-research/Hu_2025_EfgartigimodRefractoryGBS_PMC12486986.txt) | MFS-GBS överlapp; extuberad efter 2:a dosen; GBS-DS 5→1 |
+| 42 | **Kiper P et al.** Physical exercise in GBS: scoping review. *J Clin Med* 2025;14:2655 | 40283485 | Level 2 | [text](/source-research/Kiper_2025_Physical_Exercise_GBS_Scoping_Review_PMC12028042.txt) | Styrketräning förbättrade 81%; funktionsträning 87.5% |
+| 43 | **Krecak I et al.** Refractory GBS with myelom behandlad med lågdos-rituximab. *Acta Clin Croat* 2023;62:382-386 | 38549594 | Level 4 | [text](/source-research/Krecak_2024_Rituximab_Refractory_GBS_Myeloma_PMC10969645.txt) | Lågdos rituximab (100 mg/m2 ×4) efter IVIg+PE-svikt |
+| 44 | **Lilic D, Sewell WA.** IgA deficiency: what we should — or should not — be doing. *J Clin Pathol* 2001;54:337-338 | 11328829 | Review | [text](/source-research/Lilic_2001_IgADeficiency_Management_PMC1731431.txt) | Praktisk klinisk vägledning: de flesta IgA-brister är asymtomatiska |
+| 45 | **Lopez-Pizano A et al.** Vitamin D levels and clinical implications in GBS. *Neurohospitalist* 2026 | 40520471 | Level 3 | [text](/source-research/Lopez-Pizano_2025_Vitamin_D_GBS_PMC12162538.txt) | 91% av GBS-patienter D-vitaminbrist; D ≤15 ng/mL → sämre prognos |
+| 46 | **Martinez C et al.** IVIg and current risk of anaphylactic events. *Clin Exp Immunol* 2021;206:384-394 | 34562316 | Level 2 | [text](/source-research/Martinez_2021_IVIGAnaphylaxisCohort_PMC8561696.txt) | 24,919 patienter; 68% minskning av anafylaxi över dekad |
+| 47 | **McGregor CE, English AW.** Role of BDNF in peripheral nerve regeneration. *Front Cell Neurosci* 2019;12:522 | 30687012 | Level 3 | [text](/source-research/McGregor_2019_BDNF_Peripheral_Nerve_Regeneration_PMC6336700.txt) | BDNF stimulerar axontillväxt; aktivitetsberoende behandling förstärker |
+| 48 | **Meythaler JM et al.** Phase IIB 4-aminopyridin i GBS. *Arch Rehabil Res Clin Transl* 2021;3:100123 | 34179759 | Level 2 | [text](/source-research/Meythaler_2021_4-Aminopyridine_GBS_PhaseIIB_PMC8212006.txt) | Säkert men ej statistiskt signifikant förbättring; trend (p=0.065) |
+| 49 | **Motamed-Gorji N et al.** Biological drugs in GBS: an update. *Curr Neuropharmacol* 2017;15:938-950 | 27964705 | Review | [text](/source-research/Motamed-Gorji_2017_Biological_Drugs_GBS_PMC5652014.txt) | Översikt biologiska läkemedel i GBS inkl. komplement- och B-cellshämmare |
+| 50 | **Nasser NMF et al.** Natural history of selective IgA deficiency. *J Pediatr (Rio J)* 2025;101:569-575 | 40169156 | Level 3 | [text](/source-research/Nasser_2025_NaturalHistory_SIgAD_PMC12276590.txt) | 17.6% partiell recovery; infektioner→allergi→autoimmunitet |
+| 51 | **Oltean S et al.** Anti-IgA detection via particle gel immunoassay. *Blood Transfus* 2014;12:334-339 | 24887222 | Level 3 | [text](/source-research/Oltean_2014_AntiIgA_RapidTest_PMC4111814.txt) | Snabbtest: sensitivitet 89.3%, specificitet 100% |
+| 52 | **Othman R et al.** Rare recurrence of GBS. *Cureus* 2024;16:e63006 | 39050281 | Level 4 | [text](/source-research/Othman_2024_Rare_GBS_Recurrence_PMC11267106.txt) | 80-åring, 17 års intervall; 2:a episoden SVÅRARE |
+| 53 | **Querol L et al.** Rozanolixizumab in CIDP: Phase 2a. *JNNP* 2024;95:845-854 | 38729747 | Level 2 | [text](/source-research/Querol_2024_Rozanolixizumab_CIDP_PMC11347201.txt) | NEGATIVT: trots >80% IgG-reduktion, ingen effekt i CIDP |
+| 54 | **Rachid R et al.** Association of anti-IgA with adverse reactions. *JACI* 2011;128:228-230 | 21397310 | Level 3 | [text](/source-research/Rachid_2011_AntiIgA_Association_PMC3129450.txt) | 22 IgA-brister; 3 hade anti-IgA; alla tolererade SCIG |
+| 55 | **Roe T et al.** IVIg-unresponsive GBS: systematic review. *BMJ Neurol Open* 2025;7:e000907 | 39950094 | Level 2 | [text](/source-research/Roe_2025_IVIgUnresponsiveGBS_PMC11822392.txt) | Ingen nytta av upprepad IVIg eller PE vid IVIg-svikt |
+| 56 | **Salama A et al.** Long-term tolerance induction in patients with anti-IgA. *Transfus Med Hemother* 2014;41:381-387 | 25538541 | Level 3 | [text](/source-research/Salama_2014_LongTermToleranceInduction_PMC4264496.txt) | 10 patienter toleransinduk.; tolererat ≤10 år; avbrott→relaps |
+| 57 | **Sundin U et al.** SCIG tolerance induction in IgA-deficient patients. *Clin Exp Immunol* 1998;112:341-346 | 9649200 | Level 3 | [text](/source-research/Sundin_1998_SCIGToleranceInduction_PMC1904967.txt) | Anti-IgA försvann inom 1 månad; tolerans ≥5 år |
+| 58 | **Swain S et al.** Clinical implications of selective IgA deficiency. *J Transl Autoimmun* 2019;2:100025 | 32743511 | Review | [text](/source-research/Swain_2019_ClinicalImplications_SIgAD_PMC7388344.txt) | SCIG föredras för IgA-brister; omfattande hanteringsöversikt |
+| 59 | **Uz FB et al.** Three-year follow-up outcomes of adult GBS patients. *Malawi Med J* 2023;35:156-162 | 38362288 | Level 3 | [text](/source-research/Uz_2024_Three_Year_GBS_Rehabilitation_PMC10865062.txt) | 6MWT 114→414m vid 3 år; trötthet kvarstår hos 53% |
+| 60 | **Wang Y et al.** GBS with three episodes and literature review. *Front Immunol* 2025;16:1559937 | 40386770 | Level 4 | [text](/source-research/Wang_2025_GBS_Three_Episodes_Recurrence_PMC12081461.txt) | Recidiverande GBS kräver normalt INTE långtidsbehandling |
+| 61 | **Webb C et al.** An acute transfusion reaction. *Clin Med* 2018;18:95-97 | 29436447 | Level 4 | [text](/source-research/Webb_2018_AcuteTransfusionReaction_PMC6330927.txt) | Kliniskt fall: akut transfusionsreaktion pga anti-IgA |
+| 62 | **Wiegers EJA, Jacobs BC.** New insights in immune treatment of GBS. *Curr Opin Neurol* 2025;38:471-477 | 40748027 | Level 3 | [text](/source-research/Wiegers_2025_NewInsightsGBSImmuneTreatment_PMC12419018.txt) | Tanruprubart fas 3+, imlifidase fas 2+, efgartigimod fallserier |
+| 63 | **Yoshino Y, Kosugi N.** SIgAD with pernicious anemia after transfusion reaction. *Am J Case Rep* 2025;26:e947678 | 40629683 | Level 4 | [text](/source-research/Yoshino_2025_CaseReport_SIgAD_PMC12257979.txt) | IgA-brist diagnostiserad efter febril transfusionsreaktion |
+| 64 | **Zhang G et al.** EPO enhances nerve repair in anti-ganglioside antibody-mediated models. *PLoS ONE* 2011;6:e27067 | 22046448 | Level 3 | [text](/source-research/Zhang_2011_EPO_Nerve_Repair_GBS_Model_PMC3203932.txt) | EPO reverserade anti-gangliosid-medierad axonregenerationshämning |
+
+---
+
+*64 nyckelartiklar. 63 i fulltext (19 PDF + 10 text i sources/fulltext/; 34 text i research-ivig-iga/fulltexts/). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-03-26.*

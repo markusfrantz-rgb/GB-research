@@ -1,0 +1,45 @@
+========================================================================
+Title: The Role of BDNF in Peripheral Nerve Regeneration: Activity-Dependent Treatments and Val66Met
+Authors: Claire Emma McGregor, Arthur W English
+Journal: Frontiers in Cellular Neuroscience
+Year: 2019
+Volume: 12:522
+PMID: 30687012
+PMC: PMC6336700
+DOI: 10.3389/fncel.2018.00522
+Downloaded: 2026-03-26
+========================================================================
+
+THE ROLE OF BDNF IN PERIPHERAL NERVE REGENERATION: ACTIVITY-DEPENDENT TREATMENTS AND VAL66MET
+
+ABSTRACT
+
+The authors examine how brain-derived neurotrophic factor (BDNF) regulates axon regeneration following peripheral nerve injury. They discuss activity-dependent treatments -- electrical stimulation, exercise, and optogenetic stimulation -- that enhance regeneration by promoting BDNF signaling. The paper addresses the Val66Met polymorphism, present in approximately 30% of humans, which impairs activity-dependent BDNF secretion and may reduce treatment efficacy. Preliminary findings show Met-carriers have enhanced baseline regeneration despite exercise ineffectiveness, suggesting population-specific response variations.
+
+BDNF REGULATION
+
+The nine-exon BDNF gene produces 17 distinct mRNA transcripts through alternative splicing, enabling spatial and temporal control of expression via multiple promoters and regulatory elements.
+
+BDNF TRAFFICKING
+
+BDNF follows constitutive and regulated secretory pathways, with sortilin and carboxypeptidase E mediating sorting into calcium-dependent vesicles for activity-dependent release.
+
+RECEPTOR SIGNALING
+
+Mature BDNF preferentially binds tropomyosin receptor kinase B (trkB) for pro-growth signaling, while proBDNF activates p75NTR with opposing, anti-growth effects.
+
+ACTIVITY-DEPENDENT TREATMENTS
+
+Electrical Stimulation: One hour of 20 Hz stimulation accelerates axon crossing at injury sites and enhances pathway-specific regeneration.
+
+Exercise: Treadmill training sustains pro-growth signaling throughout regeneration; effectiveness shows sex-dependent differences.
+
+Optogenetics: Light-activated channelrhodopsin enables neuron-specific stimulation with regenerative benefits.
+
+VAL66MET POLYMORPHISM
+
+The valine-to-methionine substitution disrupts prodomain folding, impairing sortilin binding and reducing calcium-dependent BDNF vesicle packaging, thereby limiting activity-dependent secretion.
+
+CONCLUSIONS
+
+Activity-dependent treatments enhance peripheral nerve regeneration through endogenous BDNF signaling. However, the Val66Met polymorphism creates population-level response heterogeneity. Paradoxically, Met-carriers demonstrate enhanced baseline regeneration without treatment, though exercise fails to provide additional benefit. Future therapeutic approaches must account for genetic variation to optimize personalized medicine strategies for nerve injury recovery.

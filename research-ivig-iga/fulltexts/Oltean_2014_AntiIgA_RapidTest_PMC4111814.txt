@@ -1,0 +1,105 @@
+================================================================================
+Title: Detection of anti-IgA antibodies using the particle gel immunoassay: a rapid test for increased patient safety
+Authors: Simona Oltean, Andreea Epure, Karin Lindstrom, Cecilia Pardi
+Journal: Blood Transfusion
+Year: 2014
+Volume: 12(3)
+Pages: 334-339
+PMID: 24887222
+PMC: PMC4111814
+DOI: 10.2450/2014.0219-13
+Downloaded: 2026-03-26
+================================================================================
+
+DETECTION OF ANTI-IGA ANTIBODIES USING THE PARTICLE GEL IMMUNOASSAY: A RAPID TEST FOR INCREASED PATIENT SAFETY
+
+Simona Oltean, Andreea Epure, Karin Lindstrom, Cecilia Pardi
+Transfusion Centre, Department of Clinical Immunology and Transfusion Medicine, Sahlgrenska University Hospital, Gothenburg, Sweden
+
+ABSTRACT
+
+Patient safety in transfusion medicine requires reliable methods to prevent serious complications. Anti-IgA antibodies can cause anaphylactic reactions in IgA-deficient individuals. Standard quantitative testing is time-intensive; emergency situations demand rapid results. This study validated a fast assay for identifying patients with anti-IgA antibodies.
+
+Forty-six samples (six controls, forty IgA-deficient patients) underwent blind analysis using DiaMed particle gel immunoassays (ID-PaGIA) for IgA deficiency and anti-IgA detection, with results compared against fluorescence enzyme immunoassay reference testing.
+
+ID-PaGIA demonstrated 91.7% sensitivity and 97.1% specificity for IgA deficiency; 89.3% sensitivity and 100% specificity for anti-IgA detection. Test reproducibility reached 100%.
+
+INTRODUCTION
+
+Emergency transfusion in IgA-deficient individuals presents medical and logistical challenges. If undiagnosed, patients with anti-IgA antibodies may experience severe transfusion reactions and anaphylaxis when receiving blood components containing even minute amounts of IgA. Rapid recognition of IgA-related reactions is essential for patient outcomes.
+
+Current diagnostic methods prove time-consuming and labor-intensive. Hemagglutination and flow cytometry offer reliability but demand technical expertise and extended processing times. Particle gel immunoassay (PaGIA) represents a newer, qualitative approach.
+
+MATERIALS AND METHODS
+
+Serum Samples: Study spanned September 2010 through February 2011. Forty serum samples from patients previously tested for IgA deficiency and anti-IgA antibody presence via FEIA underwent analysis. Six blood donor samples served as healthy controls.
+
+Standard Diagnostic Method: Reference laboratory employed enzyme fluoroimmunoassays from Phadia, executed on automated ImmunoCAP 250 analyzer (Thermo Fisher Scientific/Phadia, Uppsala, Sweden).
+
+Reference classifications:
+- IgA values <0.0021 mg/dL: total IgA-deficiency
+- IgA values 0.0021-0.2 mg/dL: partial IgA deficiency
+- Anti-IgA <=5 units/mL: negative
+- Anti-IgA 6-50 units/mL: low positive
+- Anti-IgA >=50 units/mL: intensely positive
+
+Particle Gel Immunoassays: Three clinical laboratory technologists blindly analyzed samples using DiaMed GmbH kits (IgA deficiency test B020701, Anti-IgA antibody test kit B020601). Manufacturer-specified IgA detection limit: <=0.05 mg/dL.
+
+Procedure: 10 microL sample pipetted into reaction chamber, 50 microL particle suspension added. Five-minute incubation, then centrifugation at 1,174 rpm for ten minutes. Results read within fifteen minutes.
+
+Result interpretation:
+- Positive: Complete agglutination as red line on top of gel or just below surface
+- Weak positive: Particles reaching bottom with visible upper gel agglutinates
+- Negative: Complete sedimentation of particles as pellet at bottom with no agglutinated particles visible within gel
+- Mixed field: Fine red surface lines with pelletted bottom particles
+
+RESULTS
+
+Overview:
+- 8 patients with total IgA deficiency, no anti-IgA: All correctly identified on both cards
+- 26 patients with total IgA deficiency and anti-IgA: 23 correctly positive on both; 3 false-negative on anti-IgA card (all had low antibody levels)
+- 4 patients with partial IgA deficiency, no anti-IgA: 3 correctly identified; 1 false-negative on IgA card
+- 1 patient with partial IgA deficiency and anti-IgA: Correctly identified on both
+- 6 healthy controls: All correctly identified
+
+ID-PaGIA Accuracy:
+IgA detection: Sensitivity 91.7% (95% CI: 61.5-99.8%), Specificity 97.1% (95% CI: 84.7-99.9%), PPV 91.7%, NPV 97.1%, p<0.0001
+Anti-IgA detection: Sensitivity 89.3% (95% CI: 71.8-97.7%), Specificity 100% (95% CI: 81.5-100%), PPV 100%, NPV 85.7%, p<0.0001
+
+Test reproducibility: 100% across three different technologists.
+
+False results: 4 false-negative reactions (1 IgA card, 3 anti-IgA cards) and 1 false-positive IgA card reaction. Two of four patients with very low anti-IgA levels (6-7 U/mL) were correctly identified positive by ID-PaGIA.
+
+DISCUSSION
+
+Selective IgA deficiency represents the most prevalent primary immunodeficiency in Western populations, varying between 1:406 and 1:886 in various series of blood donors. Approximately one-third of IgA-deficient individuals may develop anti-IgA antibodies.
+
+Clinical significance of specific anti-IgA levels remains unclear. Severe IgA-deficient patients with anti-IgA antibodies experience severe transfusion complications when receiving IgA-containing blood components. Emergency situations intensify urgency when patients require immediate continuing transfusion after anaphylactic reactions.
+
+Preventing serious transfusion reactions and rapid interpretation during reactions present challenges. Quantitative IgA assays are faster and more widely accessible than anti-IgA assays, so many anaphylaxis evaluation algorithms begin with pre-transfusion serum IgA determination, though definitive IgA-mediated allergic reaction diagnosis requires anti-IgA demonstration.
+
+Results demonstrated very high sensitivity and specificity for both IgA and anti-IgA gel cards. The IgA test detects minute IgA amounts. Among five partial IgA-deficiency patients, only one false-negative appeared, suggesting ID-PaGIA and FEIA share similar IgA detection limits.
+
+Based on findings, the authors introduced ID-PaGIA anti-IgA antibody testing into transfusion practice for all anaphylactic transfusion reaction emergency diagnosis and for testing known IgA-deficient individuals requiring blood transfusions.
+
+Although ID-PaGIA lacks anti-IgA level quantification, it is readily available and provides an effective and simple strategy for the diagnosis or prevention of anaphylaxis related to the presence of anti-IgA antibodies. The approach could generate significant blood bank savings regarding staffing and rare IgA-depleted component utilization.
+
+REFERENCES
+
+1. Sandler SG, et al. Hemagglutination assays for diagnosis and prevention of IgA anaphylactic transfusion reactions. Blood. 1994;84:2031-35.
+2. Sandler SG, Zantek ND. Review: IgA anaphylactic transfusion reactions. Part II. Immunohematology. 2004;20:234-8.
+3. Vassallo RR. Review: IgA anaphylactic transfusion reactions. Part I. Immunohematology. 2004;20:226-33.
+4. Yuan S, Goldfinger D. A readily available assay for anti-immunoglobulin A. Transfusion. 2008;48:2048-50.
+5. Hammarstrom L, et al. Selective IgA deficiency and common variable immunodeficiency. Clin Exp Immunol. 2000;120:225-31.
+6. Litzman J, et al. IgA deficiency in Czech healthy individuals. Int Arch Allergy Immunol. 2000;123:177-80.
+7. Koskinen S, et al. Long-term follow-up of anti-IgA antibodies in healthy IgA-deficient adults. J Clin Immunol. 1995;15:194-8.
+8. Munks R, et al. A comprehensive IgA service provided by a blood transfusion center. Immunohematology. 1998;14:155-60.
+9. Eckrich RJ, et al. Laboratory tests to exclude IgA deficiency in investigation of suspected anti-IgA transfusion reactions. Transfusion. 1993;33:488-92.
+10. Petty RE, et al. Association of autoimmune diseases and anti-IgA antibodies in patients with selective IgA deficiency. Clin Exp Immunol. 1979;37:83-8.
+11. Bjorkander J, et al. Immunoglobulin prophylaxis in patients with antibody deficiency syndromes and anti-IgA antibodies. J Clin Immunol. 1987;7:8-15.
+12. Sandler SG. How I manage patients suspected of having had an IgA anaphylactic transfusion reaction. Transfusion. 2006;46:10-3.
+13. Salama A, et al. Rapid detection of antibodies to immunoglobulin A molecules by using the particle gel immunoassay. Vox Sang. 2001;81:45-8.
+14. Brown R, et al. An evaluation of the DiaMed assays for immunoglobulin A antibodies and IgA deficiency. Transfusion. 2008;48:2057-9.
+15. Palmer DS, et al. Evaluation of particle gel immunoassays for detection of severe IgA deficiency and anti-human IgA antibodies. Transfusion. 2012;52:1792-8.
+16. Feng ML, et al. Prevalence of immunoglobulin A deficiency in Chinese blood donors. Transfus Med. 2011;21:338-43.
+17. Ahrens N, et al. Immune tolerance induction in patients with IgA anaphylactoid reactions following long-term intravenous IgG treatment. Clin Exp Immunol. 2008;51:55-8.

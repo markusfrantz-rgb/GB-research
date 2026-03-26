@@ -1,0 +1,181 @@
+Title: British Society for Immunology and United Kingdom Primary Immunodeficiency Network (UKPIN) consensus guideline for the management of immunoglobulin replacement therapy
+Authors: Grigoriadou S, Clubbe R, Garcez T, Huissoon A, Grosse-Kreul D, Jolles S, Henderson K, Edmonds J, Lowe D, Bethune C
+Journal: Clinical and Experimental Immunology
+Year: 2022
+PMID: 35924867
+PMC: PMC9585546
+DOI: 10.1093/cei/uxac070
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+BRITISH SOCIETY FOR IMMUNOLOGY AND UNITED KINGDOM PRIMARY IMMUNODEFICIENCY NETWORK (UKPIN) CONSENSUS GUIDELINE FOR THE MANAGEMENT OF IMMUNOGLOBULIN REPLACEMENT THERAPY
+
+Grigoriadou S, Clubbe R, Garcez T, Huissoon A, Grosse-Kreul D, Jolles S, Henderson K, Edmonds J, Lowe D, Bethune C
+
+Clinical and Experimental Immunology, 2022, 210(1):1-13
+
+SUMMARY
+
+This guideline addresses a gap in UK clinical practice regarding immunoglobulin replacement therapy (IgRT) management. "Currently, there is no guideline to support the use of immunoglobulin replacement therapy (IgRT) in primary and secondary immunodeficiency disorders in UK." Using a modified Delphi methodology involving consultant immunologists and nurse specialists, the collaborative effort produced 74 consensus statements addressing initiation, monitoring, home therapy, and discontinuation of IgRT across multiple immunodeficiency presentations.
+
+INTRODUCTION
+
+Immunoglobulin replacement therapy represents a critical intervention for patients with antibody deficiencies. "It was identified by the UK Primary Immunodeficiency Network steering group (UKPIN) that there was a need for national guidelines regarding the use of replacement immunoglobulin in both primary and secondary immunodeficiencies."
+
+"As there was a lack of published evidence, a modified Delphi process was used to generate consensus from specialists with experience in managing immunodeficiency from across the UK."
+
+METHODS
+
+Study Design and Participants: Guideline steering committee comprised six consultant immunologists, three immunology nurse specialists, and a National Guidelines Centre facilitator. Sixty-eight participants from across the UK completed the first-round survey, including 46 consultant adult immunologists, 10 paediatric immunologists, 10 specialist nurses, and 2 haematologists. "65% had over 10 years' experience of caring for immunodeficiency patients on IgRT; 18% had spent over 20 years supervising IgRT patients."
+
+Delphi Methodology: Four-point Likert scale (Strongly Agree, Agree, Disagree, Strongly Disagree), with consensus threshold of 75% agreement. Of 67 first-round statements, 59 achieved consensus exceeding 75% agreement. In second round, 27 of 35 statements reached consensus. 62 participants completed the second round (91% retention).
+
+Literature Review: Systematic literature searches across Embase, Medline, CENTRAL, and CDSR databases. Thirty-eight comparative studies met inclusion criteria, examining IV versus SC administration, dosing strategies, and home therapy outcomes.
+
+KEY DEFINITIONS
+
+Increased Burden of Infection: ">=4 infections per annum requiring treatment with antibiotics (ideally microbiologically proven)" along with radiologically confirmed pneumonia, sepsis with positive cultures, or infections requiring hospitalization and IV antibiotics. "Demonstration of infection with encapsulated organisms (e.g. Haemophilus influenzae, Streptococcus pneumoniae) is important in predicting efficacy of immunoglobulin."
+
+Vaccine Response: "At least a 3-fold increase in antibody level or titre and/or a rise to an accepted reference range of protection," with specific criteria for pneumococcal serotypes (>=7/13) and Salmonella typhi (>50 U/mL).
+
+STARTING IMMUNOGLOBULIN REPLACEMENT THERAPY
+
+Recommendation 1 - Specific diagnoses warranting routine IgRT initiation:
+- Common Variable Immunodeficiency (CVID) per ESID criteria with recurrent infections
+- CVID without recurrent infections but with significant autoimmunity or inflammatory disease (e.g., GLILD)
+- X-linked agammaglobulinaemia (XLA) or autosomal recessive agammaglobulinaemia (ARA)
+- Severe Combined Immunodeficiency (SCID)
+- Hyper IgM syndromes
+- Good's syndrome with low IgG and recurrent infections
+
+Recommendation 2: For other immunodeficiencies, IgRT should not be routinely started unless IgG levels are low or impaired humoral responses exist. Multidisciplinary team discussion required.
+
+Recommendation 3: IgRT is NOT indicated if IgG >=4 g/L with preserved vaccine responses and low infection burden.
+
+Recommendation 4: IgRT should NOT be routinely started if IgG >=4 g/L and vaccine responses are poor, UNLESS recurrent/significant infection despite 6 months of prophylactic antibiotics, optimized management, and/or radiologically confirmed bronchiectasis.
+
+Recommendation 5: IgRT SHOULD be considered if IgG <4 g/L with poor vaccine responses, unless infection frequency/severity is minimal.
+
+Recommendation 6: IgRT should NOT be routinely started if IgG <4 g/L with preserved vaccine responses, unless recurrent/significant infection persists despite prophylactic antibiotics for 6 months.
+
+Recommendation 7: In primary immunodeficiency with increased infection burden, IgRT may begin WITHOUT prophylactic antibiotic trial if IgG <2 g/L. (No consensus for secondary immunodeficiency.)
+
+Recommendation 8: If IgG <2 g/L, vaccine response testing is unlikely helpful, and IgRT should be considered unless low IgG results from protein loss.
+
+"It is recognised that using IgG levels with defined cut offs (eg 2 or 4 g/l) relies on arbitrarily chosen threshold values and is not evidence based."
+
+Recommendation 9: Reversible causes of secondary immunodeficiency should be treated prior to considering IgRT. "In some cases the use of IgRT may be necessary as a short-term bridging measure."
+
+Recommendation 10 - Dosing: All patients beginning IgRT should receive doses calculated per ideal body weight at "400-500 mg/kg every month (in divided doses according to delivery method)."
+
+Evidence review found "400 mg/kg body weight per month was recommended as the dosage for best protection against infection and highest number of infection-free months, even when compared to a dose of 600 mg/kg per month."
+
+Recommendation 11 - Pre-Treatment Testing: Prior to starting IgRT, patients should undergo long-term serum archiving, PCR for hepatitis C, hepatitis B surface antigen testing, full blood count, liver function tests, urea and electrolyte testing.
+
+Recommendation 12 - Anti-IgA levels are NOT routinely required before commencing IgRT.
+
+Recommendation 13: Written informed consent required, supported by written information.
+
+Recommendation 14 - Consent Content: Discussions should address thrombosis risk, potential transmission of infectious agents, immediate and delayed systemic reactions, local reactions, severe reactions (e.g., aseptic meningitis), forward plan for stopping IgRT, need for monitoring.
+
+Recommendation 15 - Route of Administration: "In the majority of cases, intravenous (IV) and subcutaneous (SC) immunoglobulin delivery should be considered equivalent and patients should be given a choice between them."
+
+Evidence review (9 adult studies, 3 pediatric): "Subcutaneous therapy routinely produces higher mean serum IgG levels than the same doses given via the intravenous route."
+
+Recommendation 16 - SC immunoglobulin should be favored in patients with:
+- Past thrombosis
+- Renal failure
+- Risk of hyperviscosity syndromes
+- Conditions associated with IgM paraprotein
+- Past history of aseptic meningitis
+- Past complications with IV therapy
+- Poor venous access
+
+Recommendation 17 - IV immunoglobulin should be favored in patients with:
+- Past history of adverse reactions to subcutaneous delivery
+- Physical inability to self-administer SC without support
+
+Recommendation 18: First IgRT doses should NOT be routinely given to patients with severe active infection.
+
+Recommendation 20: Patients should NOT routinely receive pre-medication before first SC IgRT infusion.
+
+MONITORING IMMUNOGLOBULIN REPLACEMENT THERAPY
+
+Recommendation 23: IgG levels should only assess IgRT dosing adequacy after "a minimum of 3 months."
+
+Recommendation 24: For most primary immunodeficiency patients, optimal IgG target is ">=8 g/L (trough for IV, random for SC) to avoid recurrent infection."
+
+Recommendation 25: Some primary immunodeficiency cases (XLA, antibody deficiency with end organ damage/persistent infections) require maintenance of ">=10 g/L."
+
+Recommendation 26: Some secondary immunodeficiency cases may require "up to 10 g/L."
+
+Recommendation 27: In primary immunodeficiency, immunoglobulin doses should adjust according to infection burden and/or organ disease progression.
+
+Recommendation 28: If stable and infection-free, "immunoglobulin dose reduction should be considered."
+
+Recommendation 29: Primary immunodeficiency patients continuing high infection burden despite trough IgG >=8 g/L should have other treatments optimized before dose increases.
+
+Recommendation 31: Dose increases should be "undertaken on a trial basis for 6-12 months."
+
+Recommendation 32: Dose decreases similarly "on a trial basis for 6-12 months."
+
+Evidence review on target IgG levels: "At a trough IgG serum concentration of 8 g/L or above (study mean 9.4 g/L) there was a significant reduction in number of infections compared to 6 g/L (study mean 6.5 g/L)."
+
+Recommendation 33 - Minimum testing every six months: IgG levels (trough for IV, any time for SC), full blood count, liver function tests, urea and electrolyte tests.
+
+Recommendation 34: Stable patients should be monitored at specialist immunology clinics at least every six months.
+
+Recommendation 35: Track infection frequency/sites, hospital admissions, microbiological cultures, antibiotic usage. "Patients should be encouraged to keep their own personal infection diaries."
+
+Recommendation 37: IgRT should NOT be administered to patients with severe active infection until they have "received at least 48 hours of appropriate antimicrobial therapy and are clinically improving."
+
+SWITCHING PRODUCTS
+
+Recommendation 42: When switching, "blood should be taken for serum save."
+Recommendation 43: Should NOT switch "except for clinical or supply reasons."
+Recommendation 44: Switching between IV products should occur "in a hospital setting."
+
+HOME THERAPY
+
+Recommendation 45: "All patients should have the option to have treatment provided at home."
+Recommendation 46-55: Detailed requirements for training, competency assessment, home visits, and ongoing monitoring. Training by immunology specialist nurse or appropriately trained professional. Annual practical competency assessments required.
+
+Evidence review (9 studies): Six studies showed home therapy improved quality of life. Five studies documented patient preference for home subcutaneous therapy.
+
+STOPPING IMMUNOGLOBULIN REPLACEMENT THERAPY
+
+Recommendation 56: Annual IgRT necessity review for all patients except established conditions (CVID, XLA/ARA, SCID, hyper-IgM, Good's syndrome).
+
+Recommendation 58: Patients with definite primary antibody deficiency diagnoses should NOT normally have IgRT stopped.
+
+Recommendation 59: Secondary hypogammaglobulinaemia patients should trial withdrawal if causes reverse.
+
+Recommendation 60: Withdrawal trial should be considered if humoral system recovery evidence exists (unexplained IgA/IgM/IgG increases, improved B cells, improved vaccination response).
+
+Recommendation 62: Withdrawal-trial patients should be monitored closely with self-management plan, emergency infection treatment strategy, and specialist team access.
+
+Recommendation 64: IgG should be monitored "at least every 12 weeks (until stable)" during withdrawal trials.
+
+Recommendation 69: If patients fail two IgRT withdrawal trials, "no further trials off treatment should be undertaken unless there is clear evidence of immune reconstitution."
+
+Recommendation 70: For end-of-life patients, IgRT discontinuation decisions should be "proactively discussed with the patient/carers."
+
+AREAS FOR RESEARCH
+
+"The IgG level at which IgRT should be initiated in patients with hypogammaglobulinaemia outside the listed established diagnoses of PID remains a matter of controversy."
+
+"Although there is some evidence of the optimal trough IgG level for IgRT in PID, there was no consensus for this in the setting of secondary antibody deficiency and this is an area where further studies are warranted."
+
+Improved and consistent infection rate data collection using standardized quality-of-life questionnaires needed. Service delivery improvements explored. Long-term outcome data needed.
+
+CONCLUSIONS
+
+"The first consensus guideline for the initiation, monitoring and discontinuation of IgRT for primary and secondary immunodeficiency disorders in the UK."
+
+"There was more consensus for the management of IgRT for patients with primary immunodeficiency compared to those with secondary immunodeficiency."
+
+"As the cases of iatrogenic secondary immunodeficiencies are increasing and better recognised, further research into optimal management of IgRT in this heterogeneous group of patients is warranted."
+
+Equal funding from UK-PIN and The British Society of Immunology. No financial conflicts of interest reported. Based on 38 comparative studies and consensus from 68 UK immunology specialists (46 adult, 10 pediatric consultant immunologists; 10 specialist nurses; 2 haematologists).

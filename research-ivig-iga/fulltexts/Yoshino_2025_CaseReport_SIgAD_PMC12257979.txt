@@ -1,0 +1,99 @@
+================================================================================
+Title: Selective IgA Deficiency Complicated with Pernicious Anemia Diagnosed After Febrile Non-Hemolytic Transfusion Reaction
+Authors: Yuta Yoshino, Natsumi Kosugi
+Journal: American Journal of Case Reports
+Year: 2025
+Volume: 26
+Article Number: e947678
+PMID: 40629683
+PMC: PMC12257979
+DOI: 10.12659/AJCR.947678
+Downloaded: 2026-03-26
+================================================================================
+
+SELECTIVE IGA DEFICIENCY COMPLICATED WITH PERNICIOUS ANEMIA DIAGNOSED AFTER FEBRILE NON-HEMOLYTIC TRANSFUSION REACTION
+
+Yuta Yoshino, Natsumi Kosugi
+
+ABSTRACT
+
+A 70-year-old male with surgical history of gastric carcinoid and sigmoid colon cancer presented with persistent fatigue and malaise lasting two months. Initial blood testing revealed severe anemia with hyperbilirubinemia, prompting erythrocyte transfusion. Within 30 minutes, the patient developed fever (39.4 degrees C) with shivering, consistent with febrile non-hemolytic transfusion reaction (FNHTR). Post-discharge serum testing showed IgA levels below 3 microg/dL with positive serum anti-IgA antibodies, confirming selective IgA deficiency (SIgAD). Investigation identified the anemia's underlying cause as pernicious anemia. The case demonstrates the importance of investigating transfusion reaction causes and implementing preventive measures including medical alert bracelets for SIgAD patients.
+
+INTRODUCTION
+
+Selective immunoglobulin A deficiency represents the most frequent primary immunodeficiency, with global prevalence estimates ranging from 1:150 to 1:3,000. Japanese incidence appears lower, ranging from 1:14840 to 1:18500. Over 50% of SIgAD patients remain asymptomatic, typically identified during blood donation screening or unexpected transfusion complications.
+
+SIgAD definition requires serum IgA levels below 7 mg/dL in patients over 4 years with normal IgG and IgM levels, normal vaccine response, and exclusion of secondary hypogammaglobulinemia or T-cell deficiency.
+
+The pathophysiology involves hypothesized B-cell differentiation defects preventing IgA-secreting plasma cell formation. Despite IgA's critical mucosal immunity role, deficiency doesn't necessarily cause frequent infections. Individuals diagnosed with SIgAD may have sufficient amounts of IgA to protect their mucosal systems.
+
+Compensatory mechanisms may include increased secretory IgM production, though IgM cannot efficiently bind all bacteria targeted by IgA in the intestinal tract. Screening programs for IgA deficiency have not yet been established, and the exact etiology of IgA deficiency remains unclear.
+
+CASE REPORT
+
+Patient Presentation: A 70-year-old man with prior surgical history of gastric carcinoid and sigmoid colon cancer presented with two months of persistent fatigue and general malaise. Blood testing revealed severe anemia (hemoglobin 5.2 g/dL). Esophagogastroduodenoscopy showed no peptic ulcers or gastric neoplasms.
+
+Initial Laboratory Findings:
+- Hemoglobin: 5.0 g/dL
+- MCV: 113.5 fL (macrocytic)
+- Reticulocyte count: 3.21 x 10^4/microL
+- Platelets: 5.8 x 10^4/microL
+- Total bilirubin: 2.2 mg/dL
+- LDH: 3,220 U/L
+- Direct Coombs test: Negative
+- Irregular antibodies: Negative
+
+Transfusion Reaction: Erythrocyte transfusion was initiated. Thirty minutes after starting, fever of 39.4 degrees C with shivering developed. The transfusion was immediately stopped. Blood cultures obtained, empirical meropenem administered. Classified as febrile non-hemolytic transfusion reaction.
+
+Diagnostic Workup: Peripheral blood smear revealed hypersegmented polymorphonuclear leukocytes and erythrocyte fragmentation. Haptoglobin low (2 mg/dL). ADAMTS13 activity normal. TMA excluded.
+
+Vitamin B12 deficiency identified: Vitamin B12 = 102 pg/mL (normal 233-914), Folic acid = 11.8 ng/mL (normal 3.6-12.9).
+
+Esophagogastroduodenoscopy revealed atrophic gastritis consistent with autoimmune gastritis. Pathological examination confirmed pernicious anemia despite negative anti-parietal cell and anti-intrinsic factor antibodies.
+
+IgA Deficiency Diagnosis: Post-discharge testing on day 20: serum IgA level was <3 microg/dL with positive serum anti-IgA antibodies of IgG isotype, confirming SIgAD.
+
+Immunoglobulin levels:
+- IgG: 1,303 mg/dL (normal 820-1,740)
+- IgA: <3.0 mg/dL (normal 90-400)
+- IgM: 44 mg/dL (normal 31-200)
+
+Treatment: Intravenous vitamin B12 (500 microg/dose) initiated day 1 and administered every other day. Hemoglobin increased to 7.4 g/dL following treatment. Patient discharged on hospital day 11. Weekly intramuscular B12 for first month, then every 3 months.
+
+Recovery: Reticulocyte count peaked at 43.9 x 10^4/microL on day 6, then declined as hematologic parameters normalized. LDH decreased from 3,220 to 175 U/L. MCV normalized from 113.5 to 100.4 fL by day 15.
+
+DISCUSSION
+
+Association of SIgAD with Pernicious Anemia: One of the most important complications of SIgAD is its well-known clinical association with autoimmune diseases, such as celiac disease and rheumatoid arthritis. Systematic reviews have indicated a relationship between pernicious anemia and SIgAD. It may be helpful to make a histopathological diagnosis of pernicious anemia in SIgAD cases with vitamin B12 deficiency even if autoantibodies are serologically negative.
+
+Transfusion Reactions: The most commonly reported cause of AHTR is major ABO mismatch of red blood cells due to human error. Transfusion reactions can develop in patients deficient in plasma proteins, such as IgA or haptoglobin, who produce antibodies to these proteins. In SIgAD, particularly severe reactions develop when IgE-type anti-IgA antibodies are present.
+
+Prevention: Patients with SIgAD are recommended to undergo screening for anti-IgA antibodies before blood transfusions. If anti-IgA antibodies are detected, appropriate interventions include IgA-free blood products from patients with IgA deficiency or serum washed with saline. Patients are recommended to wear medical alert bracelets.
+
+CONCLUSIONS
+
+If systemic signs such as fever or shivering are present during or after blood transfusion, their relevance to transfusion should be considered. The cause of transfusion reaction should be immediately investigated, and appropriate medical instruction should be provided.
+
+REFERENCES
+
+1. Vo Ngoc DTL, et al. The long and winding road to IgA deficiency. Expert Rev Clin Immunol. 2017;13:371-82.
+2. Morawska I, et al. Epidemiology and clinical presentations of atopic diseases in selective IgA deficiency. J Clin Med. 2021;10:3809.
+3. Kanoh T, et al. Selective IgA deficiency in Japanese blood donors. Vox Sang. 1986;50:81-86.
+4. Abolhassani H, et al. Monogenic mutations associated with IgA deficiency. Expert Rev Clin Immunol. 2016;12:1321-35.
+5. Saghafi S, et al. Selective immunoglobulin A deficiency in Iranian blood donors. Iran J Allergy Asthma Immunol. 2008;7:157-62.
+6. Bonilla FA, et al. Practice parameter for diagnosis and management of primary immunodeficiency. J Allergy Clin Immunol. 2015;136:1186-205.
+7. Cunningham-Rundles C. Physiology of IgA and IgA deficiency. J Clin Immunol. 2001;21:303-9.
+8. Brandtzaeg P, et al. Clinical condition of IgA-deficient patients related to IgD- and IgM-producing cells. Clin Exp Immunol. 1987;67:626-36.
+9. Klemola T. Immunohistochemical findings in the intestine of IgA-deficient persons. J Pediatr Gastroenterol Nutr. 1988;7:537-43.
+10. Fadlallah J, et al. Microbial ecology perturbation in human IgA deficiency. Sci Transl Med. 2018;10:eaan1217.
+11. Yazdani R, et al. Selective IgA deficiency: epidemiology, pathogenesis, clinical phenotype, diagnosis, prognosis and management. Scand J Immunol. 2017;85:3-12.
+12. Abolhassani H, et al. Autoimmunity in patients with selective IgA deficiency. J Investig Allergol Clin Immunol. 2015;25:112-19.
+13. Aghamohammadi A, et al. IgA deficiency: correlation between clinical and immunological phenotypes. J Clin Immunol. 2009;29:130-36.
+14. Swain S, et al. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025.
+15. Vosughimotlagh A, et al. Clinical manifestation for immunoglobulin A deficiency: a systematic review and meta-analysis. Allergy Asthma Clin Immunol. 2023;19:75.
+16. Gilliss BM, et al. Reducing noninfectious risks of blood transfusion. Anesthesiology. 2011;115:635-49.
+17. Sharma S, et al. Transfusion of blood and blood products. Am Fam Physician. 2011;83:719-24.
+18. Leo A, Pedal I. Diagnostic approaches to acute transfusion reactions. Forensic Sci Med Pathol. 2010;6:135-45.
+19. Sandler SG, et al. IgA anaphylactic transfusion reactions. Transfus Med Rev. 1995;9:1-8.
+20. Yel L. Selective IgA deficiency. J Clin Immunol. 2010;30:10-16.
+21. Sandler SG. How I manage patients suspected of having had an IgA anaphylactic transfusion reaction. Transfusion. 2006;46:10-13.

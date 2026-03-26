@@ -1,0 +1,74 @@
+================================================================================
+Title: The Clinical Implications of Selective IgA Deficiency
+Authors: Samantha Swain, Carlo Selmi, M Eric Gershwin, Suzanne S Teuber
+Journal: Journal of Translational Autoimmunity
+Year: 2019
+Volume: 2
+Pages: 100025
+PMID: 32743511
+PMC: PMC7388344
+DOI: 10.1016/j.jtauto.2019.100025
+Downloaded: 2026-03-26
+================================================================================
+
+THE CLINICAL IMPLICATIONS OF SELECTIVE IGA DEFICIENCY
+
+Samantha Swain, Carlo Selmi, M Eric Gershwin, Suzanne S Teuber
+
+UC Davis, Veterans Affairs Northern California; Humanitas Research Hospital, Milan
+
+ABSTRACT
+
+Selective IgA deficiency (SIgAD) is the most common primary immunodeficiency but does not always result in clinical disease. Clinical complications include sinopulmonary infections, gastrointestinal infections particularly with Giardia lamblia, and diverse autoimmune conditions including systemic lupus erythematosus, thyroid disease, Type 1 diabetes, and celiac disease. The condition must be differentiated from IgA deficiency associated with subclass deficiencies or as an early manifestation of common variable immunodeficiency. Secondary IgA deficiency may result from medications or microbiome disruption. Monitoring and patient education are essential, particularly regarding risk of transfusion reactions from anti-IgA antibodies.
+
+1. INTRODUCTION
+
+Immunoglobulin A accounts for more than 70% of total immunoglobulins in the body, functioning predominantly in mucosal immunity. IgA exists as dimers in tissues and secretions from gastrointestinal and respiratory tracts. SIgAD is defined by the European Society for Immunodeficiency as serum IgA of less than 7 mg/dl in patients greater than 4 years old with normal levels of IgG and IgM, normal vaccine responses.
+
+2. EPIDEMIOLOGY
+
+SIgAD prevalence varies by ethnicity and study population, ranging from 1:163 in Spain to 1:14,840 in Japan. Family history serves as a risk factor. Among Finnish families, SIgAD was found in 7.2% of first-degree relatives among 35 index cases. Twin studies in Sweden demonstrated concordance rates of 31% in monozygotic and 13% in dizygotic pairs.
+
+3. PATHOGENESIS
+
+The underlying mechanism remains incompletely understood but involves multiple concurrent defects. B cell development appears arrested before maturation into IgA-secreting plasma cells. Low serum levels of transforming growth factor beta (TGF-beta) impair isotype switching. Some patients demonstrate decreased proportions of FoxP3 regulatory T cells (Tregs), potentially contributing to autoimmunity and infections.
+
+4. DIAGNOSIS
+
+SIgAD diagnosis requires serum IgA less than 7 mg/dL in patients older than 4 years with normal IgG and IgM levels, normal vaccine responses, and exclusion of secondary causes. Secondary causes include medications: anti-epileptic drugs, non-steroidal anti-inflammatory drugs, disease-modifying anti-rheumatic drugs, and even angiotensin-converting enzyme inhibitors.
+
+5. CLINICAL MANIFESTATIONS AND MANAGEMENT
+
+5.1 Infections
+
+SIgAD is associated with a higher risk of infections, most often affecting the upper and lower respiratory tract. Immunologic societies consider four or more sinus or ear infections or two or more episodes of pneumonia within one year suspicious for primary immunodeficiency. Encapsulated bacteria (Streptococcus pneumoniae, Haemophilus influenzae) predominate.
+
+An increased risk of gastrointestinal infections due to Giardia lamblia causing chronic diarrhea, malabsorption, and lymphoid hyperplasia exists. Patients with symptomatic giardiasis were found to have significantly lower secretory IgA from the small intestine.
+
+Management: Acute infections require judicious antibiotic therapy; recurrent infections warrant daily prophylactic antibiotics or seasonal prophylaxis. Immunoglobulin replacement therapy is controversial in patients with isolated SIgAD, warranted only in selected cases or those with concomitant specific antibody deficiency. Subcutaneous routes are preferred to minimize anti-IgA antibody development.
+
+5.2 Allergic Disease
+
+SIgAD has been associated with atopic manifestations including allergic rhinoconjunctivitis, asthma, urticaria, food allergy, and atopic dermatitis. Reduced IgA to gastrointestinal antigens was found in the mucosa of atopic children.
+
+5.3 Autoimmunity
+
+One of the most relevant clinical associations with SIgAD is represented by autoimmune disease which has a higher incidence in SIgAD. Autoimmune prevalence ranges from 3-79% depending on population and disease.
+
+Pathogenesis mechanisms: Increased gastrointestinal permeability from mucosal IgA loss may enable cross-reactive antigen presentation and molecular mimicry. Decreased regulatory T cells have been noted in SIgAD individuals with autoimmunity.
+
+Specific HLA haplotypes, particularly HLA-A1, B8, DR3 and DQ2 (8.1 haplotype) associate with SIgAD and independently with autoimmune diseases including SLE, celiac disease, dermatitis herpetiformis, Type 1 diabetes, myasthenia gravis, and scleroderma.
+
+Celiac Disease: The prevalence of SIgAD among those with celiac disease is approximately 2-2.5%. Most laboratories use IgA based assays to screen for celiac disease, complicating diagnosis in SIgAD. The most reliable serum marker for celiac disease in SIgAD appears to be IgG anti-tissue transglutaminase. Patients with celiac disease and SIgAD had significantly higher proportion of other associated autoimmune diseases (67% vs 23%, P = 0.03).
+
+5.4 Cancer Risk
+
+Recent Danish and Swedish studies found no overall increased cancer incidence. A large Swedish cohort demonstrated increased risk of gastrointestinal cancer in SIgAD that was not explained by the association with celiac disease. SIgAD patients with nodular lymphoid hyperplasia should be screened with capsule endoscopies at regular intervals.
+
+6. CONCLUSIONS
+
+SIgAD is a heterogeneous disease likely due to the varying mechanisms involved in the disease pathogenesis. Initial presentations range from asymptomatic to childhood infections and allergies, progressing to adult autoimmunity. SIgAD is a condition that all immunologists, gastroenterologists and rheumatologists should consider during their laboratory and clinical workup.
+
+REFERENCES
+
+[89 numbered references in original publication covering IgA physiology, immunodeficiency mechanisms, epidemiology, clinical associations, and management from 1975-2019]

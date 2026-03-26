@@ -1,0 +1,80 @@
+========================================================================
+Title: Exploring the Link: Vitamin D Levels and Its Clinical Implications in Guillain-Barre Syndrome Patients
+Authors: Alejandro Lopez-Pizano, Edwin Steven Vargas-Canas, Martin Bedolla-Barajas, Javier Andres Galnares-Olalde, Victoria Martinez-Angeles, Juan Carlos Lopez-Hernandez
+Journal: The Neurohospitalist
+Year: 2025
+Volume: Online ahead of print
+PMID: 40520471
+PMC: PMC12162538
+DOI: 10.1177/19418744251350831
+Downloaded: 2026-03-26
+========================================================================
+
+EXPLORING THE LINK: VITAMIN D LEVELS AND ITS CLINICAL IMPLICATIONS IN GUILLAIN-BARRE SYNDROME PATIENTS
+
+ABSTRACT
+
+Introduction: Low vitamin D levels correlate with severe manifestations in autoimmune and inflammatory diseases, though limited data exists regarding Guillain-Barre Syndrome.
+
+Objective: Determine serum vitamin D levels in GBS patients versus healthy controls.
+
+Materials and Methods: Prospective observational study of consecutive GBS patients meeting EAN/PNS criteria over one year from a single center. Serum vitamin D (ng/ml) was measured and categorized as: sufficient >30 ng/mL, insufficient 20-30 ng/mL, deficient <20 ng/mL. Poor prognosis was defined as inability to walk independently at 3-month follow-up.
+
+Results: Study included 56 GBS patients and 56 healthy controls. Control group exhibited significantly higher median vitamin D levels: 29.9 ng/dL (IQR 24-34.8) versus 17.1 ng/dL (IQR 13.7-23.8) in GBS patients (P < 0.001). Only 9% of GBS patients had sufficient vitamin D levels. Significant correlations emerged between vitamin D and glucose (r2 = -0.36, P = 0.007) and glucose-leukocyte index (r2 = -0.42, P < 0.001). Patients with vitamin D <=15 ng/mL showed higher dysautonomia frequency, elevated glucose-leukocyte index, and reduced independent walking recovery at 3 months (log-rank = 0.047).
+
+Conclusion: GBS patients with low vitamin D demonstrate elevated dysautonomia frequency, higher glucose-leukocyte index, and diminished functional recovery.
+
+INTRODUCTION
+
+Vitamin D deficiency represents a global health concern. Developed nations show substantial deficiency rates: 24% in the US, 37% in Canada, 40% in European countries, and 31% in Australia. Vitamin D plays crucial roles in calcium metabolism and regulating both innate and adaptive immune responses. Deficiency associates with systemic autoimmune diseases including systemic lupus erythematosus, rheumatoid arthritis, and Sjogren syndrome.
+
+Guillain-Barre Syndrome (GBS) is an acute immune-mediated inflammatory polyradiculoneuropathy, with an incidence rate of 1-2 cases per 100,000 inhabitants. It is frequently triggered by environmental agents in immunologically predisposed individuals. Low vitamin D levels are commonly observed in autoimmune central nervous system diseases, notably multiple sclerosis. However, limited information exists regarding serum vitamin D levels in peripheral nervous system autoimmune diseases like GBS.
+
+MATERIALS AND METHODS
+
+Prospective observational study enrolling GBS patients meeting EAN/PNS criteria from a single center during January 1-December 31, 2022.
+
+Upon admission before treatment initiation, serum 25-hydroxy vitamin D was measured using Abbot's Chemiluminescence-Architect. Results categorized as: sufficient (>30 ng/mL), insufficient (20-30 ng/mL), deficient (<20 ng/mL).
+
+Cardiovascular dysautonomia was defined as unexplained blood pressure variability or heart rate changes (tachycardia >=110 bpm or bradycardia <60 bpm) not attributed to sepsis, hypoxemia, or medications.
+
+RESULTS
+
+56 GBS patients (85.7% male, mean age 46.1 +/- 15 years, BMI 27.2 +/- 4.2). MRC score averaged 30 +/- 16.6 points at admission. 93% had Hughes scale scores >=3. Cardiovascular dysautonomia occurred in 34%; 27% required invasive mechanical ventilation. AIDP was the most common variant (50%), followed by axonal variants (28.6%).
+
+Vitamin D Levels:
+- Control group median: 29.9 ng/dL (IQR 24-34.8)
+- GBS patients median: 17.1 ng/dL (IQR 13.7-23.8)
+- P < 0.001
+
+GBS patient vitamin D distribution:
+- Sufficient (>30): 5 (9%)
+- Insufficient (20-30): 18 (32%)
+- Deficient (<20): 33 (59%)
+
+Patients with vitamin D <=15 ng/mL vs >=16 ng/mL:
+- Higher cardiovascular dysautonomia: 52.4% vs 22.8% (P = 0.040)
+- Greater facial biparesis: 66.6% vs 28.6% (P = 0.011)
+- Elevated white blood cell counts: 10,535 vs 9,450 (P = 0.042)
+- Higher glycoleukocyte indices: 1,346 vs 1,078 (P = 0.001)
+- Increased glucose levels: 123 vs 102 (P = 0.01)
+
+Kaplan-Meier analysis: Significant difference in independent walking recovery between vitamin D <=15 vs >=16 ng/mL groups (log-rank = 0.047).
+
+Patients with insufficient or deficient vitamin D received oral vitamin D3 (cholecalciferol) supplementation at 800 IU daily for 3 months.
+
+DISCUSSION
+
+This study found that 91% of GBS patients had low vitamin D levels. The active vitamin D component, 1,25(OH)2D (calcitriol), plays significant immune system roles. It aids macrophage activation in innate responses, suppresses dendritic cell antigen presentation, promotes T cell tolerance, suppresses Th1-mediated interleukin production, favors Th2 interleukin production, suppresses B lymphocyte proliferation, and induces activated B cell apoptosis.
+
+In Campylobacter jejuni-associated GBS, molecular mimicry triggers immune response: B cells produce ganglioside-targeting antibodies found in peripheral nerves, while Th1 cell-mediated cellular responses invade and damage peripheral nerves alongside complement activation.
+
+Multiple sclerosis studies show having sufficient vitamin D levels reduces the risk of developing MS by 60%. A Swedish study examining vitamin D in immune-mediated polyneuropathy patients (including 5 GBS patients) found lower vitamin D levels compared to controls, with all patients showing insufficient ranges. A Greek study found peripheral neuropathy populations (CIDP/GBS) had lower vitamin D levels at 42.1 +/- 11.5 nmol/L.
+
+Patients with vitamin D <=15 ng/mL exhibited higher severe clinical characteristic frequencies, including cardiovascular dysautonomias and elevated glycoleukocyte index. Cardiovascular dysautonomias increase in-hospital mortality risk, longer ICU stays, and poorer functional prognosis.
+
+Limitations: Observational study design -- causation cannot be claimed. Single-center design limits generalizability.
+
+CONCLUSIONS
+
+Low vitamin D levels are frequent in GBS patients (91% in this population); low vitamin D levels exhibit elevated dysautonomia frequency, higher glycoleukocyte indices, and reduced independent walking recovery.

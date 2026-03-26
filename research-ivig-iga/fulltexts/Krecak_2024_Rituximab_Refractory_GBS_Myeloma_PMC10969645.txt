@@ -1,0 +1,49 @@
+========================================================================
+Title: Refractory Guillain-Barre Syndrome in a Patient with Asymptomatic Multiple Myeloma Successfully Treated with Low-Dose Rituximab
+Authors: Ivan Krecak, Velka Gveric-Krecak
+Journal: Acta Clinica Croatica
+Year: 2023
+Volume: 62(2):382-386
+PMID: 38549594
+PMC: PMC10969645
+DOI: 10.20471/acc.2023.62.02.19
+Downloaded: 2026-03-26
+========================================================================
+
+REFRACTORY GUILLAIN-BARRE SYNDROME IN A PATIENT WITH ASYMPTOMATIC MULTIPLE MYELOMA SUCCESSFULLY TREATED WITH LOW-DOSE RITUXIMAB
+
+SUMMARY
+
+An 85-year-old female patient presented with asymptomatic multiple myeloma (aMM) complicated by Guillain-Barre syndrome (GBS) that proved refractory to standard therapies. The patient demonstrated ascending symmetrical lower limb weakness that lasted for four days and was initially unresponsive to plasmapheresis and intravenous immunoglobulins. After conventional anti-myeloma chemotherapy (bortezomib, melphalan, prednisone) failed, low-dose rituximab (100 mg/m2 weekly for four doses) produced dramatic clinical improvement. This represents the first documented case of successful refractory GBS treatment associated with asymptomatic myeloma using low-dose rituximab.
+
+INTRODUCTION
+
+Guillain-Barre syndrome represents an acute-onset, immune-mediated disorder of the peripheral nervous system, typically presenting with rapidly evolving ascending muscle weakness. Standard first-line treatments include plasmapheresis and intravenous immunoglobulins, though 20-30% of patients experience persistent disability. GBS association with multiple myeloma remains extremely rare.
+
+The emergence of monoclonal gammopathy of clinical significance (MGCS) has recognized that small plasma cell clones can produce severe organ damage through monoclonal immunoglobulin toxicity. Treatment recommendations increasingly favor plasma/B-cell clone-directed therapies for MGCS presentations.
+
+CASE REPORT
+
+An 85-year-old Caucasian female presented to the Neurology Department with four days of progressive ascending lower limb weakness. Clinical examination revealed absent deep tendon reflexes and distal sensory loss. CSF analysis showed elevated protein (1.2 g/L) without pleocytosis. Nerve conduction studies demonstrated demyelination patterns; anti-ganglioside antibodies were negative.
+
+GBS diagnosis (AIDP subtype) was established and therapeutic plasmapheresis initiated (5 sessions, 1.5 plasma volumes daily). Although ascending weakness halted, overall clinical response remained inadequate -- the patient remained immobile with persistent distal sensory loss. Subsequent IVIG therapy (0.4 g/kg daily for five days) produced only transient, minimal improvement lasting three days.
+
+Diagnostic workup revealed serum monoclonal immunoglobulin of IgA kappa type (15 g/L) with kappa/lambda ratio of 30. Bone marrow examination identified 25% aberrant CD20-CD138+CD56+ plasma cells. Asymptomatic multiple myeloma diagnosis was established.
+
+Given potential pathogenic relationship between the hematologic disorder and neurological complication, the patient received VMP chemotherapy (bortezomib, melphalan, prednisone). After three cycles, no neurological improvement occurred despite partial myeloma remission (bone marrow plasma cells decreasing to 10%, IgA declining to 7 g/L). VMP was complicated by pneumonia and deep vein thrombosis.
+
+Rituximab treatment was initiated using low-dose administration (100 mg weekly for four doses) due to advanced age and recent infectious complications.
+
+Dramatic clinical improvement occurred within one week of the first rituximab dose. The patient began moving her feet with distal sensory loss resolution. After completing four low-dose rituximab doses, neurological improvement continued gradually. Three months post-rituximab initiation, the patient achieved slow walking capability with assistance. At twelve months post-VMP and eight months post-rituximab, neurological status and myeloma remained stable.
+
+DISCUSSION
+
+Peripheral neuropathies represent recognized monoclonal gammopathy complications, predominantly involving IgM types. Rituximab constitutes the standard treatment for refractory IgM neuropathies.
+
+This case represents the first documented successful refractory GBS treatment associated with asymptomatic myeloma using low-dose rituximab. A single previously reported case demonstrated full-dose rituximab (375 mg/m2 weekly for four doses) effectiveness for GBS following allogeneic bone marrow transplantation.
+
+Rituximab has gained increasing application for treating PE- and IVIG-refractory chronic inflammatory demyelinating polyneuropathy (CIDP). CIDP research demonstrates particular rituximab efficacy when associated with hematologic or autoimmune diseases.
+
+VMP chemotherapy produced significant toxicities in this elderly patient and proved ineffective for GBS. Conversely, rituximab demonstrated remarkable therapeutic efficacy, suggesting immune dysregulation as the primary neurological condition etiology.
+
+The authors acknowledge that additional studies are needed to elucidate the pathophysiological processes between the dysregulated immune response, MG, and neural tissue damage in GBS.

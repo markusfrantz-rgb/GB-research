@@ -1,0 +1,65 @@
+================================================================================
+Title: An update on the use of immunoglobulin for the treatment of immunodeficiency disorders
+Authors: Stephanie Albin, Charlotte Cunningham-Rundles
+Journal: Immunotherapy
+Year: 2014
+Volume: 6(10)
+Pages: 1113-1126
+PMID: 25428649
+PMC: PMC4324501
+DOI: 10.2217/imt.14.67
+Downloaded: 2026-03-26
+================================================================================
+
+AN UPDATE ON THE USE OF IMMUNOGLOBULIN FOR THE TREATMENT OF IMMUNODEFICIENCY DISORDERS
+
+Stephanie Albin, Charlotte Cunningham-Rundles
+
+ABSTRACT
+
+Immunoglobulin therapy represents the mainstay of treatment for patients with significant antibody deficiencies, reducing both infection frequency and severity. Formulations and delivery methods of immunoglobulin have evolved over time, enabling broader therapeutic access. This review covers mechanisms, dosing strategies, and clinical indications for immunoglobulin replacement across various immunodeficiency conditions.
+
+IMMUNOGLOBULIN THERAPY OVERVIEW
+
+Therapeutic immunoglobulin derives from pooled healthy donor blood, consisting almost exclusively of IgG with trace IgA and IgM amounts. Replacement dosing typically begins at 400 and 600 mg/kg every 3-4 weeks intravenously or equivalent subcutaneous schedules to achieve levels of functional serum IgG expected in normal subjects.
+
+PRIMARY INDICATIONS
+
+The article identifies major antibody deficiency conditions requiring immunoglobulin replacement:
+
+X-linked agammaglobulinemia (XLA): Results from Bruton's tyrosine kinase mutations causing marked B-cell reduction.
+
+Common variable immunodeficiency (CVID): Heterogeneous disorder affecting approximately 1/20,000 to 1/50,000 individuals.
+
+IgG subclass deficiency: Controversial diagnosis where clinically symptomatic patients are rare.
+
+Specific antibody deficiency: Characterized by normal concentrations of IgG, IgA, IgM with impaired vaccine responses.
+
+Selective IgA deficiency: Most common primary immunodeficiency, affecting 1:500 to 1:3000 Caucasians.
+
+Hyper IgM syndromes: Group disorders with defective CD40/CD40L interactions.
+
+Wiskott-Aldrich syndrome: X-linked disease described as triad of recurrent infections, microthrombocytopenia and eczema.
+
+Severe combined immunodeficiency (SCID): Affects both cellular and humoral immunity.
+
+DOSING AND ADMINISTRATION
+
+Two administration routes exist: intravenous (IVIG, approved 1979) and subcutaneous (SCIG, approved 2006). Guidelines recommend starting between 400 and 600 mg/kg every 3-4 weeks intravenously to achieve trough levels around 6-8 g/l. The article notes strict evidence-based data on starting doses, infusion intervals and titration schedules do not exist.
+
+CLINICAL CONSIDERATIONS
+
+Treatment decisions require individualization based on patient factors. For conditions like specific antibody deficiency in young patients, clinicians should be thoughtful about the duration as the ability to mount responses improves with age. Conversely, XLA patients require lifelong Ig replacement.
+
+FUTURE DIRECTIONS
+
+Emerging developments include recombinant human hyaluronidase (rHuPH20) combined with subcutaneous immunoglobulin to enhance absorption, and immunoglobulin preparations leveraging neonatal Fc receptor mechanisms to extend serum half-life.
+
+EXECUTIVE SUMMARY POINTS
+
+- Immunoglobulin replacement remains critical for antibody deficiency disorders
+- Standardized guidelines for modest immunodeficiencies remain undefined
+- Pre-treatment baseline immunoglobulin levels and vaccine antibody titers require documentation before initiating therapy
+- Emerging formulations promise improved convenience and bioavailability
+
+NOTE: The extracted text represents a summarized version of the full article. The complete publication contains detailed sections on each immunodeficiency condition, dosing tables, adverse effect profiles, and extensive discussion of subcutaneous vs intravenous administration routes. The full reference list contains citations spanning immunology and immunodeficiency literature.

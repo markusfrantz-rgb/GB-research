@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (16 st, ~480 referenser)
+### Forskningsdokument (17 st, ~660 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -27,7 +27,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 13 | `05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md` | PE-svikt efter 5 sessioner, beslutsalgoritm, biomarkörer under sedering, NfL-monitorering | Komplett |
 | 14 | `06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md` | Prognostisk monitorering: biomarkörer, kliniska skalor, elektrofysiologi, IVA-protokoll | Komplett |
 | 15 | `07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md` | Post-trakeostomivård: sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitetsdata (6% vs 2%)**, monitorering | Komplett |
-| 16 | `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` | **Respiratoravvänjning: FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk, långtidsutfall** | Komplett |
+| 16 | `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` | Respiratoravvänjning: FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk, långtidsutfall | Komplett |
+| 17 | `08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md` | **Immunoglobulin-IgA-säkerhet: 183 papers, paradigmskifte, produktjämförelse, toleransinduktion, beslutsalgoritm** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
@@ -39,8 +40,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 7 mappar + 29 fulltexter, 609 chunks |
-| Fulltext-källor | Live | 29 originalartiklar (PDF+text) sökbara i RAG + nedladdningsbara via /source/ |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + 29 fulltexter, 649 chunks |
+| Fulltext-källor | Live | 63 originalartiklar (29 i sources/fulltext/ + 34 i research-ivig-iga/fulltexts/) |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -70,7 +71,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-24 kväll | CT huvud: **normal** (inga blödningstecken). Anisokori = autonom dysfunktion. |
 | 2026-03-25 fm | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad (BP-instabilitet, anisokori). |
 | 2026-03-25 em | Sedering lättad för att bedöma spontanandning (diafragmafunktion). Levotyroxin ges. Luftrörsvidgande insatt. Allergimedel pågår. |
-| 2026-03-26 (plan) | PE session 4 planerad. 2 sessioner kvar av 5. |
+| 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
+| 2026-03-26 (plan) | PE session 5 planerad (sista av 5). |
 
 ### Kommunikation
 
@@ -130,8 +132,18 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 - [ ] Lösenordsskydd per användare (om fler behöver individuell access)
 - [ ] Exportfunktion: generera PDF av Q&A-svar med källor
 
+### Forskning — genomförda denna session (2026-03-26)
+- [x] Stor immunoglobulin-IgA-kartläggning: 11 sökagenter, ~100 sökfrågor, 183 papers identifierade
+- [x] 34 open access-fulltexer nedladdade till `research-ivig-iga/fulltexts/`
+- [x] Klinisk syntes: 973 rader, 14 sektioner, beslutsalgoritm (08-immunoglobulin-iga-safety/)
+- [x] Madeleine-analys: 419 rader, svenska, 12 frågor till läkarna (research-ivig-iga/MADELEINE_ANALYSIS.md)
+- [x] 4 befintliga dokument uppdaterade med ny evidens (Martinez, Collet CARPA, BSI/UKPIN, Wiegers, Roe)
+- [x] Artikelöversikten: 29→63 fulltexter registrerade
+- [x] Betalväggslista: 104 papers med 3 prioritetsnivåer (research-ivig-iga/PAYWALL_DOWNLOAD_LIST.md)
+- [x] RAG: ny mapp 08- tillagd, reindexerad till 649 chunks
+
 ### Innehåll — Fas 2 (pausad, tas efter akutfasen)
-- [ ] Rehabilitering efter svår GBS (evidensbaserade protokoll, tidslinjer, milstolpar)
+- [x] Rehabilitering efter svår GBS (evidensbaserade protokoll, tidslinjer, milstolpar) — täckt i CLINICAL_SYNTHESIS.md sektion 11
 - [ ] Fatigue, kronisk smärta och livskvalitet långsiktigt
 - [ ] Psykologiskt stöd: PICS, IVA-delirium, anhörigstöd
 - [ ] Kommunikationsstrategier vid locked-in/ventilator
@@ -194,3 +206,13 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-26 | Tillbaka-knappen använder history.back() i dokument- och fulltext-vy. Text-länkar öppnas i samma flik, PDF i ny flik. |
 | 2026-03-26 | PDF:er inkluderade i git (borttagna från .gitignore) — tillgängliga online. |
 | 2026-03-26 | Konsekvent grön badge-stil på alla /source/-länkar. 14 commits totalt denna session. |
+| 2026-03-26 | **STOR FORSKNINGSKARTLÄGGNING:** Immunoglobulin-IgA-säkerhet. 11 parallella sökagenter, ~100 sökfrågor mot PubMed/Google Scholar. |
+| 2026-03-26 | **183 unika papers** identifierade, dedupliserade. 14 kategorier. Masterlista: `research-ivig-iga/MASTER_PAPER_LIST.md`. |
+| 2026-03-26 | **34 open access-fulltexer** nedladdade till `research-ivig-iga/fulltexts/`. 104 papers bakom betalvägg identifierade med prioritetslista. |
+| 2026-03-26 | **Klinisk syntes:** `08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md` — 973 rader, 14 sektioner, beslutsalgoritm, evidensgradering. |
+| 2026-03-26 | **Madeleine-analys:** `research-ivig-iga/MADELEINE_ANALYSIS.md` — 419 rader, på svenska, 12 frågor till läkarna, kontaktinfo compassionate use. |
+| 2026-03-26 | 4 befintliga forskningsdokument uppdaterade med ny evidens (Martinez 2021, Collet 2024 CARPA, BSI/UKPIN 2022, Wiegers 2025, Roe 2025, fas 3/2-data). |
+| 2026-03-26 | Artikelöversikten uppdaterad: 29→63 fulltexter registrerade. |
+| 2026-03-26 | Ny mapp `08-immunoglobulin-iga-safety/` tillagd i RAG-config. RAG reindexerad: 649 chunks (var 617). |
+| 2026-03-26 | Klinisk uppdatering: PE4 genomförd, sedering lättas, temp 37,5°C. |
+| 2026-03-26 | **Paradigmskifte dokumenterat:** IgA-brist ej längre absolut kontraindikation för IVIg (NHS 2025, BSI/UKPIN 2022). Anti-IgA-testning ej rutinmässigt rekommenderad. Komplementaktivering (CARPA) föreslagen alternativ mekanism (Collet 2024). |

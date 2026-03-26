@@ -1,0 +1,74 @@
+========================================================================
+Title: Three-year follow-up outcomes of adult patients with Guillain-Barre Syndrome after rehabilitation
+Authors: Fatma Balli Uz, Cuma Uz, Ozgur Zeliha Karaahmet
+Journal: Malawi Medical Journal
+Year: 2023
+Volume: 35(3):156-162
+PMID: 38362288
+PMC: PMC10865062
+DOI: 10.4314/mmj.v35i3.4
+Downloaded: 2026-03-26
+========================================================================
+
+THREE-YEAR FOLLOW-UP OUTCOMES OF ADULT PATIENTS WITH GUILLAIN-BARRE SYNDROME AFTER REHABILITATION
+
+ABSTRACT
+
+Guillain-Barre syndrome (GBS), representing the most common cause of acute paralytic neuropathy, comprises multiple recognizable variants. This study examined clinical characteristics and rehabilitation outcomes in GBS patients. The research enrolled 24 adult patients, evaluating demographic features, symptoms, complications, and functional levels at admission, discharge, and 1st/3rd-year follow-ups using Functional Independence Scale (FIM), Functional Ambulation Scale (FAS), Hughes functional grading scale, Six-Minute Walking Test (6MWT), and Fatigue Severity Scale (FSS).
+
+Patients averaged 47.29 +/- 16.2 years (40% female) with mean hospitalization of 28.91 +/- 25.6 days. Predominant symptoms included fatigue (100%), neuropathic pain (70.8%), joint pain (54.2%), and autonomic dysfunction (50%). Significant improvements occurred in FIM, Hughes scale, FAS, 6MWT, and MRC scores across timepoints (p=0.000 for most measures). Fatigue and Hughes scores increased significantly with age; negative correlations emerged between age and functional ambulation, walking endurance, and muscle strength at first-year follow-up. While GBS clinical types showed no significant differences, residual symptoms -- particularly fatigue and neuropathic pain -- persisted despite functional improvement at 3rd-year follow-up.
+
+INTRODUCTION
+
+Guillain-Barre syndrome constitutes a potentially life-threatening postinfectious disease characterized by rapidly progressive, symmetrical weakness of the extremities. The condition demonstrates variable incidence (0.6-4/100,000 across geographies) and can affect individuals of all ages and races, with increased incidence correlating with advancing age.
+
+Treatment emphasizes supportive therapy and rehabilitation. Literature indicates most patients with GBS recover within 2 to 4 weeks; 40% need rehabilitation in the chronic period; 20% continue to need rehabilitation and assistive devices. Rehabilitation objectives include increasing functional levels, preventing sequelae, and restoring independence.
+
+METHODS
+
+The study included patients with GBS admitted to the Department of Physical Medicine and Rehabilitation between January 2015 and January 2019. Following discharge, patients participated in prospective follow-up evaluations at 1st, 2nd, and 3rd years.
+
+Clinical type distribution included AIDP in 12 (50%), AMAN in 6 (25%), and AMSAN in 6 (25%) patients. Treatment comprised IVIG in 21 (87.5%) and IVIG + plasmapheresis in 3 (12.5%).
+
+RESULTS
+
+Patient Characteristics: Twenty-four adult patients; mean age 47.29 +/- 16.2 years; 9 (37.5%) female; 15 (62.5%) male. Mean hospitalization 28.91 +/- 25.6 days.
+
+Clinical Findings and Complications:
+- Fatigue: 24 (100%)
+- Neuropathic pain: 17 (70.8%)
+- Joint pain: 13 (54.2%)
+- Autonomic dysfunction: 12 (50%)
+- Cramps: 14 (58.3%)
+- Facial nerve involvement: 10 (41.7%)
+- Sleeping disorders: 14 (58.3%)
+- Depression: 6 (25%)
+- Dysphagia: 4 (16.7%)
+- Dysarthria: 4 (16.7%)
+- Pressure sores: 4 (16.7%)
+
+Functional Assessment Improvements (Admission to Discharge):
+- FIM motor: 64.2 +/- 21.71 to 77.0 +/- 14.44 (p=0.000)
+- Hughes score: 3(1-5) to 2(0-4) (p=0.000)
+- FAS: 1(0-4) to 4(0-5) (p=0.000)
+- 6MWT: 113.95+/-113.83m to 210.6 +/- 142.2m (p=0.001)
+- MRC: 42.5 +/- 12.3 to 48.91 +/- 9.30 (p=0.000)
+
+Fatigue Outcomes:
+Baseline FSS was 5.85 +/- 0.94 at admission and 5.36 +/- 1.38 at discharge. At discharge, 19 (79%) patients maintained FSS >4; at 1st-year, 18 (74.8%); at 3rd-year, 9 (53.1%). Significant negative correlations between FSS and 6MWT across timepoints.
+
+Age-Related Correlations:
+Fatigue scores increased significantly with older age at 1st-year follow-up (p=0.019). Negative correlations between age and FAS, 6MWT, and MRC sum score at 1st-year control.
+
+GBS Clinical Types:
+No significant differences between AIDP, AMAN, and AMSAN patients across evaluations at admission and discharge.
+
+DISCUSSION
+
+This study demonstrated significant functional improvements after neurological rehabilitation; however, residual symptoms such as fatigue and neuropathic pain continued in patients at the 3rd-year follow-up. Neuropathic pain persisted in 58.8% at 3rd-year control. All patients demonstrated pre-rehabilitation FSS>4 (severe fatigue).
+
+Many studies have shown that fatigue is one of the most disabling symptoms in GBS patients and can seriously affect their functionality and quality of life. Our study supports the notion that older age is associated with slower and poorer recovery outcomes in GBS patients.
+
+CONCLUSION
+
+Early initiation of a rehabilitation program can prevent and treat complications in GBS patients, leading to functional improvement in the long term. However, residual symptoms such as fatigue and neuropathic pain may persist.

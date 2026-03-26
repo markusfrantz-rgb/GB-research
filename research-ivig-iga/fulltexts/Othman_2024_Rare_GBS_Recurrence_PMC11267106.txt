@@ -1,0 +1,74 @@
+========================================================================
+Title: A Rare Recurrence of Guillain-Barre Syndrome
+Authors: Rima Othman, Mohammed Abdallah, Georges Chalouhy
+Journal: Cureus
+Year: 2024
+Volume: 16(6):e63006
+PMID: 39050281
+PMC: PMC11267106
+DOI: 10.7759/cureus.63006
+Downloaded: 2026-03-26
+========================================================================
+
+A RARE RECURRENCE OF GUILLAIN-BARRE SYNDROME
+
+ABSTRACT
+
+Guillain-Barre syndrome (GBS) is described as "an autoimmune polyneuroradiculopathy that is often characterized by progressive motor and sensory deficits." Recurrence affects only 2-3% of previously diagnosed patients. While recurrent episodes typically present as milder than initial episodes, this case illustrates an exception. The authors present an 80-year-old woman who experienced severe recurrent GBS with rapid deterioration. Standard treatment involved supportive care, intravenous immunoglobulin (IVIG) administration, and plasmapheresis, with steroids showing no prognostic impact.
+
+INTRODUCTION
+
+GBS affects myelinated nerves and produces progressive sensory and motor deficits reaching maximum severity within two to four weeks. Approximately 75% of patients with GBS who have developed tetraplegia have symptoms of dysautonomia. Dysautonomia accounts for up to 50% of GBS-related mortality. Mechanical ventilation requirements correlate with a 20% higher mortality rate compared to non-ventilated patients.
+
+A Korean nationwide study documented disability rates reaching 10% in previously healthy GBS patients. Disabilities range from decreased motor strength to cranial nerve involvement; severe cases may result in complete functional dependence.
+
+Although idiopathic cases exist, GBS is most commonly diagnosed after an infection. The condition occurs more frequently in males with variable clinical presentation and disease progression. Diagnosis relies on electrophysiology studies and cerebrospinal fluid analysis. Treatment guidelines include respiratory support, immunoglobulin administration, and plasmapheresis. Long-term rehabilitation is typically required due to persistent neurological sequelae.
+
+GBS is generally monophasic, though recurrences have been documented in up to 3% of affected individuals. Risk factors for recurrence remain unclear. Most recurrences share clinical presentations with initial episodes despite different triggering causes. Recent research indicates that genetic and immunologic host factors determine the patient's risk of developing recurrent GBS.
+
+Meta-analyses show patients with recurrent GBS tend to be younger and experienced milder initial episodes. Many had prior Miller Fisher syndrome (MFS) -- a GBS variant characterized by ophthalmoplegia, ataxia, and areflexia. MFS recurrences are rare and often classified as GBS episodes.
+
+CASE PRESENTATION
+
+An 80-year-old woman presented to the emergency department with upper and lower extremity weakness following diarrhea two weeks prior requiring antibiotics. Medical history included coronary artery disease, hypertension, and diabetes. She experienced a GBS episode 17 years earlier without preceding infection, characterized by gradual ascending weakness reaching the neck over weeks without respiratory compromise. That episode was treated with IVIG, resulting in near-complete recovery within three months following physical rehabilitation.
+
+Current presentation included altered mental status with unclear etiology. Within 12 hours, she developed paraplegia and respiratory failure requiring intubation. Cerebrospinal fluid analysis revealed elevated protein with normal cell count and glucose. Brain MRI showed normal results. Electroencephalography (EEG) demonstrated normal electrical activity. Nerve conduction studies and electromyography were unavailable.
+
+Neural examination revealed bilateral upper and lower motor deficits with complete areflexia, supporting peripheral neuropathy GBS diagnosis. The patient received fulminant GBS diagnosis and was started on IVIG at 2 g/kg divided over three days. Glasgow Coma Scale score was 3; the patient failed spontaneous breathing trials.
+
+EEG one week post-admission showed normal activity. After 15 days of intubation, the patient underwent tracheostomy and percutaneous endoscopic gastrostomy (PEG) placement. Following a 15-day IVIG washout with persistent GCS of 3, plasmapheresis was initiated. The patient underwent six plasmapheresis sessions with control brain computed tomography and laboratory testing.
+
+After completing plasmapheresis, prognosis appeared very poor, and palliative care was initiated. Hospital complications included pneumonia, urinary tract infection at admission, PEG site infection, and nonresuscitable hypotensive episodes requiring norepinephrine.
+
+At 110 days post-admission, spontaneous eye opening returned. The following week brought progression to finger-following in visual fields, blinking on command, and response via blinking. Days 117-124 showed spontaneous breathing maintenance through tracheostomy with normal arterial blood gas levels. Improvement was spontaneous, independent of medication changes. Twice-daily physiotherapy continued throughout hospitalization.
+
+Discharge followed tracheostomy ablation. Current status shows 2+ motor strength bilaterally in upper and lower extremities with 2+ reflexes. The patient speaks short phrases and continues physiotherapy and speech therapy at a rehabilitation center.
+
+DISCUSSION
+
+Multiple differential diagnoses were considered. Stroke was excluded with normal imaging. Seizures were ruled out -- EEG tracings did not show any epileptic activities -- and prior GBS history minimized other suspicions.
+
+GBS grading follows National Institute of Neurological and Communicative Diseases and Strokes criteria via a seven-point disability scale: zero indicates no symptoms; six indicates death. Bed-bound patients automatically score 4 or higher. This patient rapidly progressed to score 4+ within hours, appearing to have very poor prognosis.
+
+Poor prognosis parameters include rapid illness onset, severe paralysis and muscle wasting, bulbar paralysis, and respiratory compromise. Our patient had these parameters within hours of admission and was hence in a critical state. However, spontaneous muscle function recovery after three months of intubation proved exceptionally rare, particularly when independent of medication changes.
+
+Literature on recurrent GBS describes subsequent episodes as milder and shorter in duration than the first. Underlying mechanisms remain unclear; some speculate involvement of host immunological susceptibility and priming. However, this patient's recurrence was notably more severe than her previous episode and progressed considerably more rapidly.
+
+Management proved difficult given significant knowledge gaps regarding GBS. Understanding limitations stem partly from low disease incidence combined with high associated mortality and disability.
+
+CONCLUSIONS
+
+Although GBS itself is rare with recurrence in only 2%-3% of previously diagnosed individuals, recurrent episodes can occur and may deviate from expected courses. Current guidelines suggest poor prognosis expectations in such cases. However, exceptions are possible. These cases raise important questions whose answers may inform different management approaches and improve patient outcomes. Further research on recurrent GBS is needed to better understand disease pathophysiology.
+
+REFERENCES
+
+1. Busl KM, Fried H, Muehlschlegel S, et al. Guidelines for neuroprognostication in adults with Guillain-Barre syndrome. Neurocrit Care. 2023;38:564-583.
+2. Fletcher DD, Lawn ND, Wolter TD, Wijdicks EF. Long-term outcome in patients with Guillain-Barre syndrome requiring mechanical ventilation. Neurology. 2000;54:2311-2315.
+3. Koeppen S, Kraywinkel K, Wessendorf TE, et al. Long-term outcome of Guillain-Barre syndrome. Neurocrit Care. 2006;5:235-242.
+4. Yi SW, Lee JH, Hong JM, Choi YC, Park HJ. Incidence, disability, and mortality in patients with Guillain-Barre syndrome in Korea. J Clin Neurol. 2022;18:48-58.
+5. Morales-Ruiz V, et al. Efficacy of intravenous immunoglobulin in autoimmune neurological diseases. Autoimmun Rev. 2022;21:103019.
+6. Sulli S, et al. The efficacy of rehabilitation in people with Guillain-Barre syndrome. Expert Rev Neurother. 2021;21:455-461.
+7. Kuitwaard K, van Koningsveld R, Ruts L, Jacobs BC, van Doorn PA. Recurrent Guillain-Barre syndrome. J Neurol Neurosurg Psychiatry. 2009;80:56-59.
+8. Grand'Maison F, Feasby TE, Hahn AF, Koopman WJ. Recurrent Guillain-Barre syndrome. Brain. 1992;115:1093-1106.
+9. Mossberg N, et al. The recurrent Guillain-Barre syndrome: a long-term population-based study. Acta Neurol Scand. 2012;126:154-161.
+10. Madhavan S, Geetha Geetha, Bhargavan PV. Recurrent Miller Fisher syndrome. J Assoc Physicians India. 2004;52:582-584.

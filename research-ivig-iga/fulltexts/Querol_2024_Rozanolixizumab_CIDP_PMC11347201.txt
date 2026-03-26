@@ -1,0 +1,99 @@
+================================================================================
+Title: Efficacy, safety and tolerability of rozanolixizumab in patients with chronic inflammatory demyelinating polyradiculoneuropathy: a randomised, subject-blind, investigator-blind, placebo-controlled, phase 2a trial and open-label extension study
+Authors: Luis Querol, Jerome De Seze, Tina Dysgaard, Todd Levine, T Hemanth Rao, Michael Rivner, Hans-Peter Hartung, Peter Kiessling, Saori Shimizu, Dominika Marmol, Ali Bozorg, Anny-Odile Colson, Ute Massow, Filip Eftimov
+Journal: Journal of Neurology, Neurosurgery, and Psychiatry
+Year: 2024
+Volume: 95(9)
+Pages: 845-854
+PMID: 38729747
+PMC: PMC11347201
+DOI: 10.1136/jnnp-2023-333112
+Downloaded: 2026-03-26
+================================================================================
+
+EFFICACY, SAFETY AND TOLERABILITY OF ROZANOLIXIZUMAB IN PATIENTS WITH CHRONIC INFLAMMATORY DEMYELINATING POLYRADICULONEUROPATHY
+
+Luis Querol, Jerome De Seze, Tina Dysgaard, Todd Levine, T Hemanth Rao, Michael Rivner, Hans-Peter Hartung, Peter Kiessling, Saori Shimizu, Dominika Marmol, Ali Bozorg, Anny-Odile Colson, Ute Massow, Filip Eftimov
+
+ABSTRACT
+
+Background: Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) represents a peripheral nerve disorder marked by progressive weakness and sensory loss. The study evaluated the neonatal Fc receptor inhibitor rozanolixizumab in CIDP management.
+
+Methods: CIDP01 (NCT03861481) was a randomised, subject-blind, investigator-blind, placebo-controlled, phase 2a study. Adults with definite or probable CIDP receiving subcutaneous or intravenous immunoglobulin maintenance therapy underwent randomisation (1:1) to 12 once-weekly subcutaneous infusions of rozanolixizumab 10 mg/kg or placebo, stratified by previous immunoglobulin administration route. The primary outcome measured change from baseline (CFB) to day 85 in inflammatory Rasch-built Overall Disability Scale (iRODS) score.
+
+Results: Between 26 March 2019 and 31 March 2021, 34 patients received randomisation to rozanolixizumab or placebo (17 each). No significant difference in CFB to day 85 in iRODS centile score emerged between rozanolixizumab (least squares mean 2.0 [SE 3.2]) and placebo (3.4 [2.6]; difference -1.5 [90% CI -7.5 to 4.5]). Overall, 14 (82%) patients receiving rozanolixizumab and 13 (76%) receiving placebo experienced treatment-emergent adverse events during the treatment period. Across CIDP01 and CIDP04, rozanolixizumab demonstrated good tolerability over up to 614 days; no clinically meaningful efficacy results emerged. No deaths occurred.
+
+Conclusions: Rozanolixizumab demonstrated no efficacy in patients with CIDP in this investigation, although this finding could reflect a relatively high placebo stability rate. Rozanolixizumab showed good tolerability across medium-to-long-term weekly use, maintaining an acceptable safety profile.
+
+INTRODUCTION
+
+Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) constitutes a rare peripheral nerve disorder characterized by chronic and progressive weakness and sensation loss. Cellular and humoral immune mechanisms appear involved in CIDP pathogenesis but remain incompletely understood, with their relative contribution in individual patients probably varying considerably. However, therapeutic response to plasma exchange, intravenous immunoglobulin (IVIg) and immunoadsorption suggests autoantibody involvement in CIDP pathogenesis.
+
+The neonatal Fc receptor (FcRn) prolongs IgG half-life by preventing IgG degradation. Targeted FcRn inhibition accelerates IgG destruction, encompassing pathogenic IgG autoantibodies. Rozanolixizumab represents a humanised IgG4 monoclonal antibody targeting the FcRn IgG binding region.
+
+METHODS
+
+Study Design and Patients
+
+CIDP01 (NCT03861481) represented a multicentre, randomised, subject-blind, investigator-blind, placebo-controlled, phase 2a trial. Patients underwent recruitment from 22 clinics and hospitals across Europe and the USA. CIDP04 (NCT04051944) constituted a single-arm, open-label extension study.
+
+CIDP01 enrolled adults with a definite or probable CIDP diagnosis, with suspected therapeutic immunoglobulin dependency and on a stable dose of SCIg or IVIg at a fixed interval for >=4 months.
+
+Randomisation and Blinding
+
+Patients underwent randomisation 1:1 to receive rozanolixizumab or placebo, stratified according to previous route of immunoglobulin administration (SCIg or IVIg).
+
+Procedures
+
+In CIDP01, patients received 12 once-weekly subcutaneous rozanolixizumab 10 mg/kg or placebo infusions during an 11-week treatment period. The 10 mg/kg dose could undergo reduction to 7 mg/kg for tolerability issues. Patients who relapsed could receive rescue medication, comprising SoC immunoglobulin treatment (e.g., IVIg 2 g/kg).
+
+In CIDP04, patients received weekly subcutaneous infusions of rozanolixizumab for 24 weeks and then an optional additional 52 weeks, followed by an 8-week observation period.
+
+Statistical Analysis
+
+Sample size calculation employed a one-sided 5.0% t-test. A sample size of 15 in each group was required to provide 80% power to detect a statistically significant difference. 34 patients underwent randomisation.
+
+RESULTS
+
+CIDP01
+
+Between 26 March 2019 and 31 March 2021, 34 patients underwent enrollment. 21 (62%) patients completed the study. Baseline characteristics demonstrated mostly balanced comparison between treatment groups, although patients in the placebo group exhibited a longer disease duration.
+
+Primary Efficacy Results: No significant difference in change from baseline to week 13 in iRODS score between rozanolixizumab (mean 4.1 (SD 9.8); LSM 2.0 (SE 3.2)) and placebo (mean 3.9 (SD 8.9); LSM 3.4 (SE 2.6); LSM difference -1.5 (90% CI -7.5 to 4.5)). A similar proportion of patients required rescue medication in the rozanolixizumab (5/16, 31%) and placebo (5/17, 29%) groups.
+
+Pharmacokinetic and Pharmacodynamic Data: Rozanolixizumab reduced IgG levels by >80% to a mean of approximately 2 g/L, with concentrations stabilising by around day 36.
+
+Safety: The TEAE profile demonstrated similarity between rozanolixizumab and placebo. No severe reactions occurred with placebo; two serious TEAEs occurred in the rozanolixizumab group (both CIDP worsening). No deaths occurred.
+
+CIDP04
+
+All 21 patients who completed CIDP01 entered CIDP04. Exposure to rozanolixizumab was 1-527 days in the placebo/rozanolixizumab group and 85-614 days in the rozanolixizumab/rozanolixizumab group. No clinically meaningful changes over time in efficacy measures emerged. 10 (50%) patients relapsed based on combined assessments.
+
+Rozanolixizumab effectively reduced mean total IgG levels by >70% in CIDP04. Eight patients experienced decreased blood IgG, six with severe events (IgG <1 g/L). IgG values returned to normal ranges after the final visit.
+
+DISCUSSION
+
+In the phase 2a CIDP01 trial and OLE CIDP04, rozanolixizumab did not demonstrate efficacy in patients with CIDP. Rozanolixizumab demonstrated general good tolerability, with an acceptable safety profile and no new safety findings over chronic weekly treatment lasting up to 614 days.
+
+FcRn inhibition reduces IgG levels, including pathogenic IgG autoantibodies. Rozanolixizumab reduced IgG levels by >80% in CIDP01 and >70% in CIDP04. However, this reduction did not significantly affect CIDP efficacy outcomes.
+
+Multiple immunopathological mechanisms may contribute to CIDP pathogenesis. The fact that rozanolixizumab consistently lowered IgG levels yet did not provide benefit supports the hypothesis that CIDP does not represent a purely IgG-mediated disease in all patients.
+
+The ADHERE trial found that efgartigimod had a significant benefit on relapse rates (26% for efgartigimod vs 54% for placebo), indicating that FcRn inhibition can be effective in some patients with CIDP. Careful selection of the trial population and enrichment to include patients who respond to the study drug are likely the main reasons explaining disparity of results between the ADHERE and CIDP01 trials.
+
+In conclusion, this study provides important data on the medium-to-long-term safety profile of rozanolixizumab. Various factors, encompassing heterogeneity of the disease and a low proportion of patients with active disease, could have influenced the negative results.
+
+REFERENCES
+
+1. Broers MC, et al. Incidence and prevalence of CIDP. Neuroepidemiology 2019;52:161-72.
+2. Bunschoten C, et al. Progress in diagnosis and treatment of CIDP. Lancet Neurol 2019;18:784-94.
+3. Dalakas MC. Advances in the diagnosis, pathogenesis and treatment of CIDP. Nat Rev Neurol 2011;7:507-17.
+4. Galldiks N, et al. Immunoadsorption in patients with CIDP. Eur Neurol 2011;66:183-9.
+5. Davies AJ, et al. Immunoadsorption and plasma exchange in immune-mediated neuropathies. J Clin Med 2020;9:2025.
+6. Kuitwaard K, et al. IVIg response in treatment-naive CIDP. J Neurol Neurosurg Psychiatry 2015;86:1331-6.
+7. Koike H, Katsuno M. Pathophysiology of CIDP. Neurol Ther 2020;9:213-27.
+8. Zhang H, et al. Serum IgG subclasses in autoimmune diseases. Medicine (Baltimore) 2015;94:e387.
+9. Roopenian DC, Akilesh S. FcRn: the neonatal FC receptor comes of age. Nat Rev Immunol 2007;7:715-25.
+10. Querol L, et al. Autoantibodies in chronic inflammatory neuropathies. Nat Rev Neurol 2017;13:533-47.
+11. Van den Bergh PYK, et al. EAN/PNS guideline on diagnosis and treatment of CIDP. J Peripher Nerv Syst 2021;26:242-68.
+12-30. [Additional references available in original publication]

@@ -58,7 +58,20 @@ Walgaard C, Jacobs BC, et al. "Second intravenous immunoglobulin dose in patient
 - This trial definitively ended the widespread practice of giving repeat IVIg to non-responders
 - **However:** This trial studied repeat IVIg after initial IVIg failure, not IVIg after PE failure -- a different clinical scenario
 
-### 1.5 Case Reports of PE-Refractory GBS Responding to Other Therapies
+### 1.5 Roe 2025 Systematic Review: No Benefit from Second IVIg or PE After Failure (Added 2026-03-26)
+
+**Roe et al. (2025)** conducted a systematic review of IVIg-unresponsive GBS in *BMJ Neurology Open* *[Level 2 — systematic review]* (PMID: 39950094; PMC: PMC11822392):
+
+**Key findings:**
+- No superiority of repeat IVIg or TPE in IVIg-unresponsive GBS
+- "Insufficient evidence" regarding TPE after IVIg failure, and IVIg after PE failure is similarly under-studied
+- Combined with the SID-GBS trial (Walgaard 2021, PMID: 33743237), the evidence clearly shows that **repeating the same treatment modality after failure is not supported**
+- The review reinforces that the "rinse or repeat" approach (either repeating IVIg or switching to PE after IVIg) has no proven benefit
+- **Clinical implication:** Treatment-refractory GBS patients should be considered for emerging targeted therapies (tanruprubart, efgartigimod, imlifidase) rather than repeating standard treatments
+
+> **Citation:** Roe T, Gordon A, Gourd N, et al. "Immunoglobulin unresponsive Guillain-Barre syndrome: rinse or repeat? A systematic review." *BMJ Neurol Open.* 2025;7(1):e000907. PMID: 39950094
+
+### 1.6 Case Reports of PE-Refractory GBS Responding to Other Therapies
 
 - Fulminant GBS refractory to IVIg successfully treated with TPE has been reported (MedCrave, Hepatology and Transplantation International Journal)
 - A refractory GBS patient with multiple myeloma who failed PE, IVIg, AND anti-myeloma therapy was successfully treated with low-dose rituximab (PMC10969645)
@@ -153,9 +166,15 @@ Tanruprubart is a first-in-class monoclonal antibody that blocks C1q, the initia
 ### 3.3 Clinical Trial Data
 
 **Phase 3 pivotal trial (Southeast Asia):** *[Level 1 — RCT, fas 3, dubbelblind]*
-- Randomized, placebo-controlled study
-- Demonstrated rapid impact on neuroinflammation markers
-- Patients recovered faster than controls
+- 241 patients randomized in Bangladesh and Philippines (supportive care only setting)
+- Single 30 mg/kg IV dose showed:
+  - **OR 2.4** (95% CI 1.29-4.50; p=0.0058) for improved GBS-DS at Week 8
+  - Patients walked independently **31 days earlier** (p=0.0211)
+  - **28 fewer days on mechanical ventilation** (p=0.0356)
+  - Both 30 mg/kg and 75 mg/kg inhibited complement; 30 mg/kg was clinically superior
+- Safety: Transient infusion-related reactions in 35%; no increased mortality or infection
+
+> **Citation:** Wiegers EJA, Jacobs BC. "New insights in the immune treatment of Guillain-Barre syndrome." *Curr Opin Neurol.* 2025;38(5):471-477. PMID: 40748027
 
 **FORWARD Study (NCT07020819):**
 - Open-label Phase 3 study in US, Canada, and Europe
@@ -259,6 +278,17 @@ IgG level kinetics:
 - Progressive reduction with efgartigimod: 13.5 -> 7.2 -> 6.3 g/L
 - Week 10: 12.2 g/L (normalized)
 
+### 4.5b Cheng 2026 — Largest Efgartigimod GBS Series (Added 2026-03-26)
+
+**Cheng et al. (2026)** published the largest efgartigimod series in GBS to date (n=17, retrospective) in *Scientific Reports* *[Level 4 — retrospective case series]* (PMID: 41851318):
+
+- **17 GBS patients** treated with efgartigimod (various dosing protocols)
+- **Key finding:** 1-point GBS-DS improvement in **4 days** — significantly faster than comparator groups
+- This provides the strongest quantitative evidence to date supporting efgartigimod's rapid onset of action in GBS
+- **Clinical implication:** Efgartigimod may offer the fastest route to neurological improvement among currently available therapies for refractory GBS
+
+> **Citation:** Cheng Y et al. "Rapid neurological recovery in Guillain-Barre syndrome treated with efgartigimod." *Sci Rep.* 2026. PMID: 41851318
+
 ### 4.6 Case Reports of Efgartigimod in Ventilator-Dependent GBS
 
 1. **Ripellino et al. (2025)** *[Level 4]* -- 60-year-old woman, fulminant AIDP, ventilator-dependent within 12 hours. Failed PE + IVIg. Efgartigimod 10 mg/kg x4 doses starting Day 30. Upper limb improvement within hours. Walked at 2.5 months. Full recovery at 4 months. (Eur J Neurol 2025;32(8):e70308; PMID: 40799081)
@@ -300,28 +330,36 @@ Imlifidase (IdeS, marketed as Idefirix for kidney transplant) is a unique IgG-cl
 - Eliminates IgG-mediated immune response before IVIg can be given 48 hours later
 - Does NOT affect IgA, IgM, IgE, or complement directly
 
-### 5.3 GBS Phase 2 Results (15-HMedIdeS-09)
+### 5.3 GBS Phase 2 Results (15-HMedIdeS-09) — Full Data (Updated 2026-03-26)
 
 **Study design:** Open-label, single-arm, multi-center study across UK, France, and the Netherlands *[Level 2 — prospektiv fas 2-studie]*
 
 **Dosing protocol:**
 - Single dose of imlifidase 0.25 mg/kg IV
-- Followed by standard IVIg (0.4 g/kg/day x 5 days) starting 48 hours after imlifidase
+- Followed by standard IVIg (0.4 g/kg/day x 5 days) starting >=48 hours after imlifidase (to allow IgG clearance before replenishment)
 
 **Patients:** 30 adults with severe GBS (27 in efficacy analysis)
 
-**Results:**
-- Week 1: 37% achieved independent walking; mean MRC sum score improvement 10.7 points
-- Median 6 days to improve >= 1 GBS Disability Scale grade
-- Median 16 days to independent walking (GBS DS <= 2)
-- Week 8: 67% walking independently; 40.7% able to run
-- 6 months: 63% could run or had no functional disability (GBS DS <= 1)
+**Full results (PNS 2025 + December 2024 data):**
+
+| Timepoint | Outcome | Value |
+|-----------|---------|-------|
+| Week 1 | Walking independently | **37%** |
+| Week 1 | Mean MRC sum score improvement | **10.9 points** |
+| Median | Time to >=1 GBS-DS grade improvement | **6 days** |
+| Median | Time to independent walking (GBS DS <=2) | **16 days** |
+| Week 8 | Walking independently | **67%** |
+| Week 8 | Able to run | **40.7%** |
+| 6 months | Could run or no functional disability (GBS DS <=1) | **63%** |
+| 6 months | Walking independently | **85%** |
 
 **Comparative analysis vs. IGOS real-world data (IVIg alone):**
 - Improved >= 1 GBS DS step **3 weeks sooner** (p=0.002)
 - Returned to independent walking **6 weeks sooner** (p=0.03)
 - Week 1: **6.4 times more likely** to walk independently (p<0.001)
 - Week 4: **4.2 times more likely** to walk independently (p=0.005)
+
+**Unique advantage:** Extremely rapid onset of action (IgG cleavage within hours). The sequential combination with IVIg (started >=48h after imlifidase) provides both rapid antibody clearance and sustained immunomodulation.
 
 ### 5.4 Current Regulatory Status
 
@@ -579,9 +617,9 @@ The Japanese Phase 3 trial (JET-GBS Phase 3, Kuwabara et al., J Peripher Nerv Sy
 
 | Therapy | Evidence Level | Availability in Sweden | Key Advantage | Key Risk/Limitation |
 |---------|---------------|----------------------|---------------|---------------------|
-| **Efgartigimod (Vyvgart)** | Case reports (n~10) | Approved (off-label for GBS) | Immediate availability; rapid onset | Off-label; limited GBS evidence |
+| **Efgartigimod (Vyvgart)** | Retrospective series (n=17) + case reports | Approved (off-label for GBS) | Immediate availability; 1-point improvement in 4 days (Cheng 2026) | Off-label; Phase 2 RCT ongoing |
 | **IVIg (IgA-depleted)** | RCT for GBS (not after PE failure) | Available (Gammagard S/D, Privigen) | Established GBS treatment | IgA deficiency risk; may not work after PE failure |
-| **Imlifidase** | Phase 2 (n=27) | Compassionate use (Hansa, Lund) | Fastest IgG removal; no coagulopathy | Investigational; temporary immunodeficiency |
+| **Imlifidase** | Phase 2 (n=30; 85% walking at 6mo) | Compassionate use (Hansa, Lund) | Fastest IgG removal; no coagulopathy; 6 days to 1-grade improvement | Investigational; temporary immunodeficiency |
 | **Tanruprubart** | Phase 3 positive | Compassionate use (MAA submitted) | Targeted complement inhibition | Investigational; access uncertain |
 | **Rituximab** | Case reports only | Approved (off-label for GBS) | Available; effective if NF155+ | Slow onset (weeks); limited GBS evidence |
 | **Immunoadsorption** | Retrospective data | Available at some centers | No coagulopathy worsening | Limited GBS evidence; availability varies |

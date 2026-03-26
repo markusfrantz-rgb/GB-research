@@ -1,0 +1,174 @@
+Title: Immunoglobulin unresponsive Guillain-Barré syndrome: rinse or repeat? A systematic review
+Authors: Thomas Roe, Alex Gordon, Nicholas Gourd, Charlotte Thomas, James Ward, Chinar Osman, Ahilanandan Dushianthan
+Journal: BMJ Neurology Open
+Year: 2025
+PMID: 39950094
+PMC: PMC11822392
+DOI: 10.1136/bmjno-2024-000907
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+IMMUNOGLOBULIN UNRESPONSIVE GUILLAIN-BARRÉ SYNDROME: RINSE OR REPEAT? A SYSTEMATIC REVIEW
+
+Thomas Roe, Alex Gordon, Nicholas Gourd, Charlotte Thomas, James Ward, Chinar Osman, Ahilanandan Dushianthan
+
+BMJ Neurology Open, 2025, 7(1)
+
+ABSTRACT
+
+Introduction: Severe GBS patients may not show improvement after a single course of intravenous immunoglobulin (IVIg) therapy. Current treatment options include either a second course of IVIg or therapeutic plasma exchange (TPE). This systematic review aims to evaluate the current literature on the use of a second course of IVIg or TPE in patients who fail to show clinical improvement after the first IVIg course.
+
+Methods: Searches of PubMed, Embase and Medline databases through October 26, 2023 identified studies evaluating adult patients with confirmed GBS who failed one full IVIg course and subsequently received either repeat IVIg or TPE. Risk of bias was assessed using study-specific checklists. Narrative synthesis of results is presented.
+
+Results: Thirty-seven articles were identified (1 randomised controlled trial, 3 observational, 33 case reports/series), totaling 422 patients. Twelve studies evaluated repeat IVIg and 24 evaluated TPE after IVIg. No superiority of repeat IVIg or TPE was demonstrated across all clinical outcome measures.
+
+Conclusions: Evidence with low certainty suggests no beneficial effect of further IVIg in unresponsive GBS. TPE evidence quality is insufficient due to lack of RCTs. The authors recommend standardised case reporting, consideration for multinational registries, and RCTs to determine efficacy of TPE after initial IVIg unresponsiveness.
+
+Keywords: Guillain-Barré syndrome, peripheral neuropathology, intensive care
+
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+- IVIg treatment can prove ineffective in some severe GBS cases, creating clinical dilemmas regarding repeat IVIg versus switching to TPE
+
+WHAT THIS STUDY ADDS
+- First systematic review of IVIg-unresponsive GBS; 12 studies (including one RCT) on repeat IVIg showed no clinical benefit with potential for harm; 22 TPE studies showed variable efficacy; overall evidence quality was poor with reporting heterogeneity preventing meta-analysis
+
+HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY
+- Standardised case reporting for IVIg-unresponsive GBS patients is recommended along with further research regarding TPE efficacy and safety
+
+INTRODUCTION
+
+Guillain-Barré syndrome (GBS) is an autoimmune-mediated acute peripheral polyneuropathy. Although rare, it represents the most common cause of acute flaccid paralysis worldwide. Classically, patients present one to two weeks following an immunological stimulus with acute onset bilateral ascending paralysis and reduced deep tendon reflexes.
+
+A significant proportion (32%-40%) of severely affected patients fail to show improvement following a single course of intravenous immunoglobulins (IVIg). Management options in this refractory group include either giving a second course of IVIg or changing to therapeutic plasma exchange (TPE). However, there is currently only low-quality, indirect evidence to support decision-making in this context. Achieving an answer for this patient cohort is essential for patients, their families, and from a health economic perspective given the dependency on costly intensive care unit services for organ support.
+
+This systematic review objective is to comprehensively evaluate the current published evidence regarding GBS management following a lack of response to the first course of IVIg, to assess whether a second course of IVIg or TPE initiation within an appropriate time frame should be considered.
+
+METHODOLOGY
+
+This review is reported according to Preferred Reporting Items for Systematic Reviews and Meta-Analysis 2020 standards. A protocol was created and published into the PROSPERO database (CRD42020200389) and updated accordingly.
+
+Patient and Public Involvement: No patient or public involvement was sought for the purposes of this systematic review.
+
+Eligibility Criteria
+
+Population: Confirmed GBS cases using established clinical criteria (NINDS); adults over 18 years; defined as no clinical improvement within 4 weeks after IVIg treatment.
+
+Exclusion criteria: Responders to initial treatment; pregnancy; treatment-related fluctuations (defined as temporary improvement following initial treatment); paediatric patients under 18 years; TPE/alternative treatment as initial therapy.
+
+Intervention: Repeat full course IVIg (0.4 g/kg/day for 5 days); change to and completion of full course TPE; change to alternative treatments including medications used in active clinical trials.
+
+Outcomes:
+Primary outcome: Disability assessment using various scoring methods (Hughes Functional Grading Scale, MRC sum score, etc.)
+Secondary outcomes: Mortality; ICU admission/intubation; hospital/ICU length of stay
+
+Information Sources and Search Strategy
+
+A broad search strategy was used across PubMed, Embase, Web of Science, Medline, Trip and Cochrane from July 20, 2020, with updates on October 26, 2023. No limitation on study design was applied, although conference abstracts and editorials were excluded. No date limitation was applied. Only articles published in English were included. Article reference screening was also performed.
+
+RESULTS
+
+Study Selection: A total of 37 studies were included after database searching revealed 5456 studies.
+
+Study Characteristics: Among the 37 studies, there were 1 RCT, 3 observational studies and 33 case reports/series. In total, 422 patients were assessed, with 261 patients receiving either placebo or control (single course of IVIg).
+
+Repeat IVIg for all outcomes included: 12 studies (1 RCT, 2 observational, 9 case reports/series) totaling 374 patients, including 261 control participants.
+
+TPE group included: 24 studies (2 observational trials and 22 case reports/series).
+
+DISABILITY ASSESSMENT
+
+IVIg Repeat
+
+All 12 studies reported disability assessment including 1 RCT, 2 observational studies and 9 case reports/series, totaling 374 patients (261 receiving placebo or single IVIg therapy).
+
+Walgaard et al RCT Findings:
+- Repeat IVIg: 49 patients; Median age 66.0 years (IQR 59.5-74.0); 63% male
+- Placebo: 44 patients; Median age 59 years (IQR 42.5-70.0); 77% male
+
+Results demonstrated no difference in HFGS at measured time points up to 26 weeks between single IVIg course and repeat IVIg:
+- aOR at 4 weeks: 1.4 (95% CI 0.6 to 3.3)
+- aOR at 8 weeks: 1.5 (95% CI 0.7 to 3.3)
+- aOR at 12 weeks: 2.1 (95% CI 0.9 to 4.6)
+- aOR at 26 weeks: 1.0 (95% CI 0.5 to 2.2)
+
+Second IVIg course failed to increase HFGS by more than one point compared with placebo across measured time periods.
+
+Verboon et al Observational Study:
+Early IVIg (within 2 weeks): 20 patients, median age 65 years (IQR 54-70), 60% male
+Late IVIg (2-4 weeks): 18 patients, median age 59 years (IQR 53-71), 67% male
+Control: 199 patients, median age 59 years (IQR 43-70), 55% male
+
+Findings demonstrated no significant difference in HFGS at 4 or 26 weeks between control and repeat IVIg groups. However, significantly more patients improved disability score at 26 weeks in control versus late repeat IVIg (p=0.001). Significantly fewer patients could walk at 6 months in late repeat IVIg group versus early and control groups (18% vs 69% and 64%, respectively, p=0.01).
+
+Faustino et al Observational Study:
+Found no difference in HFGS between single and repeat IVIg groups (aOR 0.21, 95% CI 0.19-2.22, p=0.19).
+
+Switch to TPE
+
+Two observational trials and 22 case reports/series reviewed patients receiving TPE following first IVIg course, totaling 72 patients including 22 receiving placebo or single IVIg.
+
+Faustino et al: Demonstrated no significant improvement in HFGS in TPE patients compared with controls (aOR 10.60, 95% CI 0.97 to 1115.90, p=0.53).
+
+Oczko-Walker et al: Eighteen patients were assessed. At discharge, non-significant improvement in HFGS was noted compared with before TPE (p=0.154). Notably, HFGS significantly deteriorated compared with admission (p=0.0438). No association was found between time to initiate TPE after IVIg failure and outcome (p=0.1929).
+
+Case Reports/Series: Among 22 case reports, 6 studies showed improvement in muscle strength within 1 month of TPE initiation; 3 reports demonstrated improvement by 3 months; 1 report showed improvement within 6 months; 6 reports showed improvement beyond 6 months; 2 reports had unspecified timing.
+
+SECONDARY OUTCOMES
+
+Mortality
+
+Repeat IVIg cohort: Walgaard et al reported death of four patients (8%) within second IVIg group versus no patients in control arm. One death was deemed serious adverse event of IVIg intervention (acute coronary syndrome).
+
+TPE switch group: Four case reports reported mortality with mean age 52 years; all male patients. Three died within 2 months.
+
+ICU Admission/Requirement of IMV
+
+Walgaard et al noted no statistically significant difference in ICU admission/IMV requirement between repeat IVIg and placebo (30 patients (61%) vs 25 patients (57%), aOR 1.3 (95% CI 0.5 to 3.3)).
+
+Verboon et al noted 28 of 38 (74%) repeat IVIg patients required IMV: 16 in early IVIg (80%) and 12 in late IVIg (67%). Control group had only 88 patients (44%) IMV requirement, significantly less than early repeat IVIg group (p=0.003).
+
+Length of Stay (ICU/Hospital)
+
+Walgaard et al noted very similar ICU length of stay: repeat IVIg median 23 days (IQR 8-55) versus placebo 25 days (IQR 4-77). Hospital length of stay: repeat IVIg median 39 days (IQR 21-67) versus placebo 30 days (IQR 21-73).
+
+DISCUSSION
+
+This is the first systematic review identifying all current literature on GBS patients failing to respond or show any clinical improvement (including ongoing decline) to IVIg and exploring the efficacy of second IVIg course or switching to TPE.
+
+Only one RCT has evaluated additional IVIg use, with remaining evidence from case reports and observational studies. Currently, no evidence supports repeating IVIg in GBS patients without improvement following first IVIg course for disability, mortality, mechanical ventilation requirement, or ICU admission.
+
+Mechanism of IVIg Action and Resistance: Although not fully understood, IVIg is thought to exert disease-mitigating effects through blockade of macrophage-induced Schwann cell membrane damage, regulation of complement cascade and cytokine activity, and immunomodulation of B-cells.
+
+Lack of response in some patients may be explained by interindividual differences in IVIg pharmacokinetics, with significant half-life variation between individuals of 18 to 33 days.
+
+Safety Concerns with Repeat IVIg: Walgaard et al noted significant increase in IVIg-related serious adverse events including venous thromboembolic events in the repeat IVIg group.
+
+TPE Evidence Quality: Evidence quality determining TPE efficacy after IVIg unresponsiveness is sparse compared with repeat IVIg studies.
+
+Concern About IVIg Removal: Given that approximately 60%-70% of intravascular compartment substances are removed during full plasma exchange course, concern that TPE following IVIg administration may effectively "rinse" circulating IVIg, negating potential efficacy, is reasonable.
+
+Antibody Subtyping: GBS patients producing IgG1-3 antibodies against para-nodal proteins exert pathogenic effects via complement-associated mechanisms, making IVIg effects more effective. IgG4 antibodies exert pathogenic effects via non-complement pathways, resulting in minimally effective or transient treatment response.
+
+CONCLUSION
+
+Currently, no evidence supports second IVIg course use in GBS patients for improving disability, mortality or ICU admission, and the practice poses potentially significant patient risk through adverse events. However, certainty degree is low.
+
+Furthermore, TPE evidence quality after IVIg is very low and presently there is insufficient high-quality evidence demonstrating benefit or no harm. Standardised case reporting with multinational case registry consideration and RCTs are recommended to determine TPE or further IVIg efficacy after initial IVIg unresponsiveness.
+
+REFERENCES
+
+1. Leonhard SE, et al. Nat Rev Neurol. 2019;15:671-83.
+2. Sejvar JJ, et al. Neuroepidemiology. 2011;36:123-33.
+3. Verboon C, et al. Neurology. 2019;93.
+4. Huang HY, et al. J Clin Med. 2022;11:2451.
+5. Asbury AK, Cornblath DR. Ann Neurol. 1990;27 Suppl:S21-4.
+6. Willison HJ, et al. The Lancet. 2016;388:717-27.
+7-9. [Assessment tools references]
+10. Walgaard C, et al. Lancet Neurol. 2021;20:275-83.
+11. Faustino P, et al. J Neurol Sci. 2022;441:120368.
+12. Oczko-Walker M, et al. J Clin Neuromuscul Dis. 2010;12:55-61.
+13. Verboon C, et al. J Neurol Neurosurg Psychiatry. 2020;91:113-21.
+14-46. [Case reports and series references]
+47-55. [Mechanism and related references]

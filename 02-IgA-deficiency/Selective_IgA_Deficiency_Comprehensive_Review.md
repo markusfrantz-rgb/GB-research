@@ -145,6 +145,37 @@ The natural history of SIgAD has been characterized in a longitudinal pediatric 
   - Autoimmunity: latest onset (median 8 years)
 - **Asymptomatic cases**: 85-90% of IgA-deficient individuals are asymptomatic and remain undetected except through coincidental screening [2].
 
+### 2.2b Updated Natural History Data (Added 2026-03-26)
+
+**Nasser et al. (2025)** published important new natural history data from a prospective pediatric cohort (n=51, mean follow-up 10 years) *[Level 3 — prospective longitudinal cohort]* (PMID: 40169156; PMC: PMC12276590):
+
+- **Disease is usually lifelong**, though spontaneous normalization can occur
+- **Partial IgA recovery:** 9 patients (17.6%) progressed to partial IgA deficiency at an average age of 10.6 years (range 6-14 years)
+- **Full normalization:** 4 of these 9 patients eventually normalized IgA levels by an average age of 13 years (range 9-15 years)
+- **Clinical manifestations timeline:**
+  - Infections: earliest onset (median 1 year of age)
+  - Allergies: secondary onset (median 5 years)
+  - Autoimmunity: latest onset (median 8 years)
+- **Autoantibodies without clinical disease** were detected in 60.7% of patients (median detection age 9 years), warranting ongoing surveillance
+- **Neoplasms** were documented in 5.8% of the cohort
+
+> **Citation:** Nasser NMF, Pastorino AC, de Moura TCL, et al. "Understanding the natural history of selective IgA deficiency." *J Pediatr (Rio J).* 2025;101(4):569-575. PMID: 40169156
+
+### 2.2c Abolhassani 2023 Meta-Analysis: Clinical Manifestation Spectrum (Added 2026-03-26)
+
+**Abolhassani / Vosughimotlagh et al. (2023)** conducted a systematic review and meta-analysis of 40 studies on clinical manifestations in SIgAD *[Level 2 — meta-analysis]* (PMID: 37641141; PMC: PMC10463351):
+
+| Manifestation | Prevalence (pooled) |
+|--------------|-------------------|
+| Infections | **64.8%** |
+| Allergic diseases | **26.2%** |
+| Autoimmunity | **22.0%** |
+| Gastrointestinal disease | Variable |
+
+This meta-analysis provides the most robust prevalence estimates for SIgAD clinical phenotypes and confirms that the majority of symptomatic patients present with recurrent infections, while autoimmunity and allergic disease represent the second and third most common manifestation categories.
+
+> **Citation:** Vosughimotlagh A et al. "Clinical manifestation for immunoglobulin A deficiency: a systematic review and meta-analysis." *Allergy Asthma Clin Immunol.* 2023;19:75. PMID: 37641141
+
 ### 2.3 Progression to CVID
 
 SIgAD may evolve into CVID, typically during adolescence or young adulthood:

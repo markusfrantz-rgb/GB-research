@@ -31,6 +31,7 @@ class Config:
         "05-treatment-resistance",
         "06-monitoring-prognosis",
         "07-acute-icu-protocols",
+        "08-immunoglobulin-iga-safety",
     )
 
     # Directories to exclude

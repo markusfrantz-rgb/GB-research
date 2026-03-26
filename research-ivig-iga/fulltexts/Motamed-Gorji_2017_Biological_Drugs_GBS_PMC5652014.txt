@@ -1,0 +1,109 @@
+========================================================================
+Title: Biological Drugs in Guillain-Barre Syndrome: An Update
+Authors: Nazgol Motamed-Gorji, Nassim Matin, Omidreza Tabatabaie, Piero Pavone, Catia Romano, Raffaele Falsaperla, Giovanna Vitaliti
+Journal: Current Neuropharmacology
+Year: 2017
+Volume: 15(7):938-950
+PMID: 27964705
+PMC: PMC5652014
+DOI: 10.2174/1570159X14666161213114904
+Downloaded: 2026-03-26
+========================================================================
+
+BIOLOGICAL DRUGS IN GUILLAIN-BARRE SYNDROME: AN UPDATE
+
+ABSTRACT
+
+Background: Guillain-Barre Syndrome represents the most common global cause of acute flaccid paralysis. Standard treatments include intravenous immunoglobulin or plasma exchange, though many patients fail to achieve full recovery.
+
+Objective: This review addresses emerging biological therapeutic approaches to GBS, evaluating efficiency and safety.
+
+Methods: Electronic literature search conducted April-July 2016 across MEDLINE, SCOPUS, Google Scholar, and Cochrane Library.
+
+Results: Biological agents investigated include anti-C5 monoclonal antibody (Eculizumab), anti-C1q antibody, anti-T cell antibodies, anti-CD2, anti-L-selectin, anti-CD20 (Rituximab), anti-CD52 (Alemtuzumab), and cytokine targets. None achieved FDA approval for GBS.
+
+Conclusion: Literature findings suggest promising results for biological therapeutic targets, though further studies remain necessary.
+
+1. INTRODUCTION
+
+Guillain-Barre Syndrome constitutes acute autoimmune peripheral neuropathy with specific characteristic of ascending symmetrical flaccid paralysis of limbs accompanied with hyporeflexia or areflexia.
+
+Pathogenesis Understanding:
+Historical understanding initially emphasized T-cell mediated immunity. Research indicates both Th-1 and Th-2 immune response involvement. Th-1 (pro-inflammatory) cytokines including IFN-gamma, IL-1beta, TNF, IL-6 have been found to rise in progressive (acute) phase of GBS. Conversely, TH-2 cytokines (TGF-beta, IL-4) increase during recovery phases.
+
+AIDP typically involves cellular infiltration. Molecular mimicry represents an alternative mechanism, whereby antibodies produced as a response to virulent antigens cross-react and bind to self-antigens located on peripheral nerves, activating complement cascade.
+
+Current Standard Therapy:
+IVIg and PE are used for treating nearly all cases of GBS. Both significantly accelerate recovery compared to supportive treatment alone. Despite advances, many treated patients experience incomplete recovery with frequent disability.
+
+3. APPROACHES TO COMPLEMENT PATHWAY AND ANTIBODIES
+
+3.1 Cobra Venom Factor, Soluble Complement Receptor, and APT070
+- Cobra venom factor (1987): Delayed neurological signs in EAN rats with milder disease
+- sCR1 (1995): Binds to C3b and C4b, inhibiting both classical and alternative pathways; protective effects
+- APT070 (2005): C5 and C3 convertase regulatory functions, protected nerve terminals in MFS model
+
+3.2 Anti-C5 Monoclonal Antibody (Eculizumab)
+A humanized monoclonal antibody binding to C5 component of complement system with high affinity. FDA approved in 2007 for paroxysmal nocturnal hematuria. Mice studies showed complete protection from neurological symptoms including respiratory paralysis. First human GBS case report (2014): a 13-year-old IVIg-unresponsive patient requiring mechanical ventilation showed recovery after eculizumab. Two Phase II RCTs ongoing: ICA-GBS (Scotland, 2014) and JET-GBS (Japan, 2015).
+
+3.3 rEV576
+Derived from tick saliva protein; C5-binding agent. Significant decrease in NMJ damage in MFS mice models. No clinical trials conducted.
+
+3.4 Nafamostat Mesilate (NM)
+Synthetic serine protease inhibitor tested in AMAN rabbit models. Inhibits initial complement components C1r and C1s, shutting down the entire cascade. No RCTs conducted specifically for GBS.
+
+3.5 Anti-GD3 Idiotype Monoclonal Antibody (BEC2)
+Anti-idiotype antibody proposed as IVIg alternative. Significant amelioration in demyelination and clinical course. No further investigations.
+
+3.6 Anti-C1q Monoclonal Antibody (M1)
+C1q inhibition reduced complement deposition, nerve injuries and other immune cells recruitment. Advantage over C5 inhibition: does not produce C3a and C5a chemotaxis agents.
+
+4. APPROACHES TO CELLULAR AND HUMORAL IMMUNE SYSTEM
+
+4.1 OK3 (Anti-T Cell Monoclonal Antibody)
+Pilot study with three GBS patients: ineffective. Produced lymphopenia, aseptic meningitis, and herpes reactivation. Abandoned.
+
+4.2 OX34 (Anti-CD2 Monoclonal Antibody)
+Prevented clinical signs of EAN significantly in Lewis rats by inhibiting T cell migration through blood-nerve-barrier. No further GBS investigations.
+
+4.3 HRL3 (Anti L-selectin Monoclonal Antibody)
+Severity of EAN significantly reduced in treated rats. Lesser demyelination. No subsequent studies.
+
+4.4 Rituximab (Anti-CD20 Monoclonal Antibody)
+Targets CD20+ B cells via complement-dependent cytotoxicity (CDC), antibody-dependent cell cytotoxicity (ADCC), and phagocytosis. FDA-approved 1997 for Non-Hodgkin Lymphoma.
+- Case report (2008): 58-year-old male with post-transplant GVHD-associated AMAN GBS. Rituximab (375 mg/m2 weekly x4) ameliorated both GBS and EBV viremia.
+- Note: Rituximab itself has been associated with iatrogenic GBS cases.
+
+4.5 Alemtuzumab (Anti-CD52 Monoclonal Antibody)
+Produces prolonged B and T cell depletion. Case report (2014): 79-year-old male with CLL-associated rapidly progressive GBS and high-titer anti-GQ1b antibodies. After failed corticosteroids, IVIg, and PE, alemtuzumab produced significant improvement. 22% cumulative autoimmune disorder risk post-treatment.
+
+5. APPROACHES TO CYTOKINE MODULATION
+
+5.1 Interferons
+- Anti-IFN-gamma monoclonal antibody: ameliorating effects in EAN
+- Oral IFN type I: effective in reducing clinical/histological severity
+- IFN-beta case reports: one patient recovered after failed PE; another improved with combined IVIg + IFN-beta
+- Pritchard's 2003 RCT (19 patients): no significant difference between IVIg + IFN-beta vs placebo
+
+5.2 TNF Receptor Type I (sTNFR I)
+Both severity and duration significantly reduced in treated rats. Decreased TNF-alpha levels and T cell proliferation.
+
+5.3 Linomide
+Daily subcutaneous administration produced amelioration of clinical signs in EAN. Suppressed IL-1beta, TNF-alpha, and IL-6 mRNA expression.
+
+5.4 Rolipram (Phosphodiesterase Type 4 Inhibitor)
+Reduced macrophage and lymphocyte infiltration in EAN. Clinical relapse observed upon discontinuation after 7 days.
+
+5.5 Anti-IL-18 Monoclonal Antibody
+Improved pathophysiological and clinical signs in mice EAN. Shift towards Th2 cells and cytokines.
+
+5.6 Macrophage Migration Inhibitory Factor (MIF)
+Anti-MIF antibody and ISO-1 pharmacological inhibitor both produced milder disease course. ISO-1 advantageous due to lower cost than monoclonal antibodies.
+
+5.7 Erythropoietin (EPO)
+- Mausberg 2011: Decreased T cell infiltration, reduced demyelination and axonal degeneration in rat EAN. Higher TGF-beta expression.
+- Zhang 2011: EPO reversed anti-ganglioside antibody-mediated neurite outgrowth inhibition via JAK2/STAT5 signaling. Wide clinical experience in hematologic disorders makes EPO a viable candidate.
+
+CONCLUSION
+
+GBS treatment presents significant clinical challenges. Though many patients achieve full recovery with IVIg and PE, residual defects could be still detected in a high prevalence of cases. Advanced molecular understanding reveals extensive potential biological treatments. Current review represents a summary of what is already investigated regarding immunotherapeutic biological approaches to GBS, and what progress is required.

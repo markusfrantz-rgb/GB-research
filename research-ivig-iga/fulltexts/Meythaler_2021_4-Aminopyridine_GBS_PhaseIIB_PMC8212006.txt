@@ -1,0 +1,99 @@
+========================================================================
+Title: Phase IIB Randomized Trial on the Use of 4-Aminopyridine in Guillain-Barre Syndrome
+Authors: Jay M Meythaler, Robert C Brunner, Jean Peduzzi
+Journal: Archives of Rehabilitation Research and Clinical Translation
+Year: 2021
+Volume: 3(2):100123
+PMID: 34179759
+PMC: PMC8212006
+DOI: 10.1016/j.arrct.2021.100123
+Downloaded: 2026-03-26
+========================================================================
+
+PHASE IIB RANDOMIZED TRIAL ON THE USE OF 4-AMINOPYRIDINE IN GUILLAIN-BARRE SYNDROME
+
+ABSTRACT
+
+Objective: To assess the safety and efficacy of orally administered 4-aminopyridine (4-AP) in individuals with chronic functional deficits from Guillain-Barre Syndrome (GBS) occurring more than six months post-diagnosis.
+
+Design: A randomized, double-blind, placebo-controlled crossover study design.
+
+Setting: Tertiary care clinical outpatient rehabilitation program.
+
+Participants: Nineteen individuals enrolled (14 male, 5 female); twelve completed the study (mean age 59 years; range 23-77 years). Inclusion required neurologic impairment from GBS with stable functional loss for at least twelve months and motor scores between 3.0 and 5.0 on the American Spinal Injury motor scale.
+
+Interventions: 4-AP dose escalation over eight weeks (target dose 30 mg daily in divided doses), followed by three-week placebo washout, crossover to alternate treatment, then three months open-label follow-up.
+
+Primary Outcome Measures: Functional Independence Measure (FIM) motor score served as the primary functional outcome; American Spinal Injury motor strength score provided the physiologic assessment.
+
+Results: Three participants discontinued due to adverse events (tremor, cramping, weakness, dizziness, ataxia, and postural hypotension); three withdrew for travel/relocation reasons; one for pretreatment laboratory abnormalities. Among the twelve study completers, 4-AP treatment showed a trend toward improvement in FIM motor scores compared to placebo (P=.065) when three participants with maximum baseline FIM scores were excluded. However, the study noted significant ceiling effects limiting detection of functional improvements. No seizures, electrocardiogram abnormalities, or nerve conduction velocity changes occurred.
+
+Conclusions: This trial represents one of the first controlled studies investigating 4-AP in GBS. While demonstrating excellent safety at prescribed dosages, efficacy results proved inconclusive. The authors recommended further investigation and larger-scale Phase III trials with more carefully defined patient subgroups.
+
+INTRODUCTION
+
+Guillain-Barre syndrome (GBS) is described as an immunopathy associated with an acute, often fulminate, evolution of a demyelinating inflammatory polyradiculoneuropathy. The condition represents the most common cause of acute nontraumatic neuromuscular paralysis in developed countries, affecting approximately 0.4-1.9 cases per 100,000 people annually, with geographic variation reaching up to 3.93 cases per 100,000 in some areas.
+
+Recent epidemiological data indicates that up to 80% of patients with GBS have lifelong residual motor complaints, fatigue, and weakness and/or chronic pain. Early interventions such as plasma exchange or intravenous immunoglobulin can reduce disease severity and accelerate recovery; however, there is no approved treatment of any kind for the debilitating fatigue and motor weakness in patients who have not fully recovered from GBS.
+
+Mechanism of 4-Aminopyridine:
+
+4-aminopyridine (4-AP) functions as a specific blocker of voltage-dependent, fast-activating neuronal potassium channels. The drug restores action potential conduction in demyelinated nerve fibers through two primary mechanisms:
+
+1. Restoring conduction in damaged, poorly myelinated fibers by increasing the duration and amplitude of the compound action potential
+2. Enhancing synaptic transmission at the synaptic terminal, thereby restoring conduction in nerves with conduction blocks
+
+The mechanism operates by blocking membrane potassium channels, thereby enhancing the voltage action potential that can extend the effect beyond damaged nodes of Ranvier from segmental demyelination. Additionally, 4-AP may enhance neuromuscular transmission at the muscle level by increasing transmitter release, potentially improving strength similar to effects demonstrated in Lambert-Eaton syndrome.
+
+METHODS
+
+Study Design and Administration
+
+This Phase IIB randomized, double-blind, placebo-controlled crossover dose-escalation study extended the previous Phase IIA investigation. Patients received randomization via coin toss determining intervention sequence. The research pharmacy maintained all medication logs and issued all study medication. The investigation spanned three years, with all providers and coordinators blinded to treatment assignments.
+
+Inclusion Criteria:
+1. Male or female, aged 19-75 years
+2. Voluntary informed consent
+3. Neurologic impairment secondary to GBS with stability for at least twelve months
+4. Motor score averaging between 3.0 and 5.0 on the American Spinal Injury motor scale
+5. Ability and willingness to comply with protocol requirements
+6. Agreement to maintain consistent outpatient therapy and home exercise programs
+
+Treatment Protocol:
+- Initial dose: 5.0 mg capsule daily at bedtime
+- Escalation targeting 10 mg three times daily after two weeks
+- Sustained treatment at 30 mg daily for additional six weeks (eight weeks total)
+- Three-week placebo washout period
+- Crossover to second treatment (eight weeks total)
+
+RESULTS
+
+Participant Characteristics and Study Completion
+
+Fourteen male and five female participants were enrolled. Mean age was fifty-nine years (range 23-77). Seven participants discontinued prematurely: three due to adverse events, two due to travel difficulties, one due to relocation, one due to pretreatment laboratory abnormalities.
+
+Primary Outcomes
+
+Physiologic: Motor Strength Scores
+The mean baseline motor strength score was 105.08+/-13.64 (max 120). Higher mean motor strength scores appeared for placebo (109.6+/-2.2) compared with 4-AP treatment (107.2+/-2.2). A trend toward statistical significance emerged (F1,10=3.30, P=.10), although not in the desired direction.
+
+Function: FIM Motor Scores
+The mean baseline FIM motor score was 83.58+/-10.80 (max 91). At eight weeks, mean FIM score for 4-AP was 85.7 compared with 83.7 for placebo. The group on average tended to have FIM scores near the upper limit at baseline, which produced a ceiling effect that reduced the amount of change detectable with the FIM.
+
+Safety
+The 1 laboratory test that changed while on 4-AP was mean alkaline phosphatase, which increased statistically (P=.04), but this was not felt to be clinically important. No seizures were reported, nor were there any other clinically significant changes in laboratory tests, vital signs, ECG parameters, or nerve conduction studies.
+
+DISCUSSION
+
+The primary focus of this Phase IIB trial emphasized safety as required by the FDA. The study demonstrated excellent safety at the prescribed dosing. A trend for improvement of the FIM motor score was observed, but the results are clearly inconclusive and not clinically meaningful for motor function as the primary outcome.
+
+There were some indications of a carryover effect of 4-AP, indicating a prolonged neurologic effect long after the drug is cleared from the general systemic circulation. Those outcome measures that have more of a motor endurance measure appear to demonstrate more meaningful trends.
+
+Similar to the findings with MS, there could be a distinct subgroup of patients with GBS who may benefit from the use of 4-AP for functional skills, either because of timing after illness or because of a specific functional deficit.
+
+CONCLUSIONS
+
+This trial along with a previously reported small trial are the first trials to have been performed to investigate the effects of 4-AP in the therapy of GBS including a control group. The current investigation is inconclusive on the use of 4-AP in patients with chronic functional limitations from GBS several months from the acute occurrence. There were indications of benefits of 4-AP in GBS because positive trends were also observed for other endpoints in the study.
+
+Study Registration: NCT00056810
+Funding: FDA (grant no. FD-R-1983-01) and Neurorecovery Inc (now part of Acorda Pharmaceuticals)

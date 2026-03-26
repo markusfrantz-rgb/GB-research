@@ -1,0 +1,148 @@
+Title: New Insights in the Immune Treatment of Guillain-Barré Syndrome
+Authors: Eveline JA Wiegers, Bart C Jacobs
+Journal: Current Opinion in Neurology
+Year: 2025
+PMID: 40748027
+PMC: PMC12419018
+DOI: 10.1097/WCO.0000000000001408
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+NEW INSIGHTS IN THE IMMUNE TREATMENT OF GUILLAIN-BARRÉ SYNDROME
+
+Eveline JA Wiegers, Bart C Jacobs
+
+Current Opinion in Neurology, 2025, 38(5):471-477
+
+ABSTRACT
+
+Purpose of Review
+
+Guillain-Barré syndrome (GBS) represents a severe yet treatable form of immune-mediated neuropathy. This review examines current immune treatment approaches for GBS, identifies practical challenges in clinical settings and research environments, and explores emerging therapeutic strategies aimed at reducing inflammation and preventing additional nerve damage.
+
+Recent Findings
+
+The European Academy of Neurology and Peripheral Nerve Society published a GRADE-based guideline in 2023 addressing GBS diagnosis and treatment. Recent clinical trials utilizing observational comparative study designs have been conducted in GBS populations.
+
+Summary
+
+For three decades, intravenous immunoglobulins and plasma exchange have remained the only established effective immune treatments for GBS. Despite availability of these interventions, many patients experience incomplete recovery with lasting disability and quality-of-life impacts. Emerging treatment approaches target immunoglobulin G antibody reduction and complement activation inhibition. Observational comparative studies utilizing well-defined cohorts offer alternative evaluation methods for GBS treatment efficacy. Several novel study designs are presented to facilitate future trials with improved data sustainability.
+
+Keywords: clinical trials, comparative effectiveness research, complement, Guillain-Barré syndrome, immunoglobulin G, treatments
+
+INTRODUCTION
+
+Guillain-Barré syndrome represents the leading cause of acute flaccid paralysis globally, with an incidence of 1-2 per 100,000 individuals annually. This immune-mediated polyradiculopathy typically follows a monophasic disease trajectory. GBS characteristically initiates with rapidly advancing limb weakness, potentially extending to cranial muscles (50% of cases) and respiratory muscles (20% of cases). Patients frequently experience severe sensory deficits and autonomic dysfunction. Following the progressive phase lasting up to four weeks, patients stabilize and gradually improve over months to years, though complete recovery remains uncommon.
+
+Preceding infections associated with GBS include Campylobacter jejuni, Mycoplasma pneumoniae, cytomegalovirus, Epstein-Barr virus, hepatitis virus, and Zika virus. C. jejuni and M. pneumoniae infections trigger cross-reactive antibody responses to glycosylated peripheral nerve antigens through molecular mimicry mechanisms. The pathogenic mechanism following viral infections remains incompletely understood. Multiple antibody reactivity patterns to nerve gangliosides and glycolipids have been documented in GBS, correlating with clinical presentation and disease progression patterns. Upon nerve binding, these antibodies activate complement, resulting in axonal and myelin dysfunction and injury. Recent investigations suggest nerve-targeting T-cells participate in GBS pathogenesis.
+
+The monophasic disease course reflects the transient immune response and peripheral nerve regenerative capacity. Most patients reach clinical nadir within one week of weakness onset and subsequently improve, even without treatment. Preceding infections typically self-resolve and frequently manifest mildly or subclinically. Serum ganglioside-targeting antibodies normally disappear within weeks to months; however, persistent antibody presence associates with unfavorable recovery patterns. All current GBS immune treatments target the acute disease stage, aiming to prevent further immune-mediated peripheral nerve damage. Specific treatment targets include antineural antibodies (through neutralization, plasma exchange, immune absorption, degrading enzymes, FcRn blockade, or saturation) and complement activation (targeting C1q, C2, C3, and other complement factors) and their subsequent damaging mechanisms.
+
+GUIDELINES FOR THE TREATMENT OF GUILLAIN-BARRÉ SYNDROME
+
+Multiple guidelines have addressed GBS treatment. A consensus guideline supporting global clinicians emerged following the Zika virus outbreak (2015-2016). In 2023, the European Association of Neurology and Peripheral Nerve Society published a GRADE-based guideline on GBS diagnosis and treatment. According to these guidelines, "plasma exchange (PE) and intravenous immunoglobulins (IVIg) are the only proven effective immune treatments for the acute stage of GBS." No evidence supports corticosteroid efficacy or other immune treatments in GBS. PE and IVIg demonstrate equivalent effectiveness, with preference depending on local costs and availability.
+
+The recommended IVIg regimen consists of 0.4 g/kg/day for five consecutive days, while PE involves 4-5 exchanges over 1-2 weeks (or 2 exchanges in mild GBS forms). Treatment initiation depends on clinical severity (measured by GBS disability score), disease progression rate, and symptom onset timing. General indications include patients unable to walk independently (GBS-DS ≥3), experiencing rapid disease progression, developing swallowing difficulties, or facing high ventilator support risk.
+
+For milder GBS forms, treatment within two weeks of onset could be considered, though previous observational comparative research found no IVIg effect compared with no treatment. However, some patients further deteriorate and experience residual complaints. To assess new treatment effectiveness in preventing disease progression and residual symptoms in mild GBS, randomization to new treatment or placebo at earliest disease stages merits consideration.
+
+CONTROVERSIES AND CHALLENGES IN CURRENT TREATMENT STRATEGY
+
+Despite proven IVIg efficacy, certain patients demonstrate no clinical response or further deterioration after treatment initiation. Previous investigations documented highly variable IVIg pharmacokinetics among GBS patients, with rapid clearance correlating with poor recovery. Administering second IVIg doses in patients with poor predicted outcomes fails to improve recovery and increases complication risk, therefore remaining not recommended. Second treatment courses are recommended solely for treatment-related fluctuations occurring within 8 weeks of symptom onset, affecting approximately 10% of patients. Currently, evidence remains undefined regarding whether IVIg non-responders benefit from PE switching.
+
+The EAN/PNS guideline recommends treatment initiation within 4 weeks of weakness onset, commencing as promptly as possible in patients able to walk unaided. Recent studies indicate approximately one-quarter of patients receive treatment beyond seven days after onset, suggesting improvement opportunities. For various acute neurological diseases, earlier treatment produces superior outcomes. A retrospective Korean study examining over 100 IVIg-treated GBS patients discovered shorter IVIg administration timing independently associated with better 12-month outcomes. This finding underscores early diagnosis and treatment importance in GBS. Further research addressing active disease duration variation in GBS would support more personalized treatment windows.
+
+RECENT AND ONGOING CLINICAL TRIALS IN GUILLAIN-BARRÉ SYNDROME
+
+Eculizumab
+
+Eculizumab, a humanized monoclonal IgG2/IgG4 antibody targeting C5, prevents complement activation and limits tissue damage. In a phase II randomized controlled trial (RCT), Japanese GBS patients unable to walk received IVIg plus either eculizumab (900 mg) or placebo. Results indicated the primary endpoint of independent walking at week 4 was unmet. However, eculizumab recipients experienced slightly improved functional long-term outcomes regarding running ability. Eculizumab efficacy as IVIg add-on therapy underwent further study in a phase III trial involving 57 Japanese GBS patients. Despite good tolerability and significant serum C5 concentration reduction, eculizumab demonstrated no functional outcome improvements versus placebo. Consequently, the EAN/PNS guideline does not recommend eculizumab for GBS treatment.
+
+Tanruprubart
+
+Tanruprubart represents a fully humanized recombinant IgG4 monoclonal antibody blocking C1q and classical complement pathway activation. A completed phase III RCT investigated tanruprubart in GBS patients from Bangladesh and the Philippines. In these countries, many patients receive supportive care only due to IVIg or PE unavailability or unaffordability. In total, 241 patients unable to walk independently and within 10 days of weakness onset (not receiving IVIg or PE) were randomized to single intravenous infusions of 30 mg/kg or 75 mg/kg tanruprubart, or placebo. Both doses inhibited complement activation; however, 30 mg/kg tanruprubart recipients demonstrated superior neurological outcomes at week 8 and achieved independent mobility earlier compared to placebo and 75 mg/kg groups.
+
+Imlifidase
+
+Imlifidase, already approved for highly sensitized kidney transplant candidates, specifically targets and cleaves IgG antibodies. Recently, a single-arm phase II clinical trial studying imlifidase efficacy in GBS concluded. This study enrolled 30 patients unable to walk independently, presenting within 10 days of weakness onset, meeting IVIg treatment criteria per local protocols. On day 1, patients received 0.25 mg/kg imlifidase, followed by complete IVIg course starting at least 48 hours later. Safety, adverse events, and functional outcomes underwent assessment. Treatment proved safe and well tolerated. By week one, mean muscle strength improved 10.9 points on the Medical Research Council sum score compared to baseline. The median time to one-grade GBS-DS improvement was 6 days, and 16 days for two-grade improvement. By eight weeks, 67% achieved independent walking, increasing to 85% at 6 months.
+
+Efgartigimod
+
+Efgartigimod, a human IgG antibody Fc fragment targeting the neonatal Fc receptor, enhances IgG degradation and undergoes investigation as potential GBS therapy. A recent case report described two Chinese severe GBS patients treated with efgartigimod exhibiting rapid clinical improvement and favorable outcomes with good tolerability. These findings align with recent Chronic Inflammatory Demyelinating Polyneuropathy phase II research demonstrating subcutaneous efgartigimod efficacy in reducing relapse risk versus placebo. An ongoing phase II clinical trial evaluates efgartigimod (20 mg/kg on days 1 and 5) efficacy and safety compared to IVIg.
+
+IMPROVING EFFICIENCY OF TREATMENT STUDIES IN GUILLAIN-BARRÉ SYNDROME
+
+Further studies remain necessary to comprehend new treatment implications for routine clinical practice. Although randomized controlled trials represent the evidence standard regarding treatment efficacy, they face increasing criticism for poor generalizability. GBS randomized controlled trials encounter several obstacles, including timely and adequate patient enrollment with this acute and rare disease. Randomized controlled trials in GBS face additional complications from pathogenesis heterogeneity, clinical severity variation, and disease course differences. Ethical concerns emerge when potential treatments cannot be administered alongside current standard care (IVIg/PE). These considerations highlight needs for more efficient trial strategies and encourage exploring alternative study designs and more sustainable previously acquired data usage.
+
+Use of Observational Datasets
+
+An emerging rare disease approach leverages observational data for treatment effect estimation through two methods: utilizing observational data independently and augmenting clinical trial data with observational data.
+
+In the first option, high-quality observational datasets enable comparative effectiveness research (CER) by comparing outcomes between patients receiving specific treatments and those who did not. "Comparative effectiveness research measures differences in outcomes in daily clinical practice across diverse populations and is typically designed for already approved interventions." The randomization absence in observational studies increases confounding by indication risks, where treatment administration reasons link to patient prognosis. Methods including instrumental variable analysis and propensity scores address this concern. An example involves comparing one versus two IVIg courses in poor prognosis patients from the International GBS Outcome Study cohort using propensity score matching. The study found second IVIg course recipients had worse outcomes than single-course recipients. Although later confirmed through randomized controlled trial, unobserved confounding factors likely influenced clinician second IVIg administration decisions. These unaccounted factors may explain observed results and limit interpretation.
+
+In the second option, observational data serve as external control arms comparing phase II or III trial patients. Two GBS examples involve comparing IGOS cohort patients to imlifidase and tanruprubart trial patients. Single-arm imlifidase trial patients receiving imlifidase plus IVIg underwent comparison with IGOS IVIg-only treated patients meeting trial inclusion criteria. To compare tanruprubart versus IVIg/PE effectiveness, a developed framework replaces the placebo arm with IGOS patients matching original trial eligibility criteria. Propensity score methods establish comparable clinical profiles between intervention and external control arms, targeting unbiased efficacy estimates. Discussion indicates randomized controlled trial emulation improves when observational databases closely match RCT designs. This particularly matters when replacing tanruprubart phase III trial placebo arms, since identifying sufficient IVIg or PE-treated patients in these countries poses challenges.
+
+Bayesian Adaptive Platform Studies
+
+Bayesian adaptive platform studies enhance trial efficiency through randomization leverage and simultaneous multiple treatment evaluation under single protocols. Participating centers require meeting basic requirements only once, conserving time and resources in data collection, analysis, and ethical approval. Successful examples include REMAP-CAP in pneumonia and TRICALS in amyotrophic lateral sclerosis. Bayesian randomization updates hypothesis probabilities with new data while adaptive randomization adjusts patient allocation based on interim results. This design shows promise for accelerating rare and complex disease treatment evaluation, including GBS.
+
+Outcome Analyses
+
+Outcome analyses represent crucial components for investigating treatment effects. Most GBS clinical trials employ the GBS-DS as primary endpoint, an ordinal scale assessing functional status with scores from 0 (healthy) to 6 (death). Clinical trial practice commonly dichotomizes ordinal scales into categories, such as walking versus non-walking ability for GBS-DS, though reducing statistical power. An alternative preventing information loss involves ordinal analysis using the full GBS-DS scale rank ordering.
+
+GBS trials typically include repeated outcome measurements enabling longitudinal analyses characterizing treatment efficacy evolution throughout study periods. This approach holds particular value in monophasic diseases like GBS, where temporal response variations might otherwise escape notice. Longitudinal method application remains uncommon in GBS trials, representing potential methodological improvement areas.
+
+While widely used for treatment effectiveness evaluation, the GBS-DS primarily focuses on walking and respiration disability, not capturing other GBS effects including arm functioning, pain, psychological well-being, and quality of life. This has generated increased patient-reported outcome measures (PROMs) interest—standardized instruments allowing patients to report health status and treatment outcomes. However, PROMs face criticism for subjectivity and bias susceptibility. Blinded randomized controlled trials with placebo control and multiple PROMs collected over time combined with standardized clinical outcome measures improve efficacy evidence.
+
+CONCLUSION
+
+In summary, several promising GBS treatments are emerging, focusing on reducing inflammation and preventing further nerve damage. Various GBS research challenges complicate randomized controlled trial conduct. Alternative research methods may expedite these treatments' daily clinical practice applicability evaluation.
+
+ACKNOWLEDGEMENTS
+
+The authors acknowledge Microsoft Copilot use in manuscript drafting to refine language and assist editing for clarity and coherence. To comply with scientific and ethical standards, the authors critically reviewed and assessed all content ensuring accuracy and compliance.
+
+Financial Support and Sponsorship: None.
+
+Conflicts of Interest: E.W. reports no conflicts of interest. B.J. received research support from Prinses Beatrix Spierfonds, GBS-CIDP Foundation International, Annexon, CSL-Behring, Grifols, Roche, Hansa Biopharma and Octapharma. B.J. chairs the International GBS Outcome Study Steering Committee.
+
+REFERENCES
+
+1. Bragazzi NL, Kolahi AA, Nejadghaderi SA, et al. Global, regional, and national burden of Guillain-Barré syndrome and its underlying causes from 1990 to 2019. J Neuroinflamm. 2021;18:264.
+2. Leonhard SE, Papri N, Querol L, et al. Guillain-Barré syndrome. Nat Rev Dis Primers. 2024;10:97.
+3. Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and management of Guillain-Barré syndrome in ten steps. Nat Rev Neurol. 2019;15:671-683.
+4. Fokke C, van den Berg B, Drenthen J, et al. Diagnosis of Guillain-Barré syndrome and validation of Brighton criteria. Brain. 2014;137(Pt 1):33-43.
+5. Doets AY, Verboon C, van den Berg B, et al. Regional variation of Guillain Barré syndrome. Brain. 2018;141:2866-2877.
+6. Leonhard SE, van der Eijk AA, Andersen H, et al. An international perspective on preceding infections in Guillain-Barré syndrome: the IGOS-1000 Cohort. Neurology. 2022;99:e1299-e1313.
+7. Thomma RCM, Halstead SK, de Koning LC, et al. Large-scale profiling of antibody reactivity to glycolipids in patients with Guillain-Barré syndrome. Brain. 2025.
+8. Súkeníková L, Mallone A, Schreiner B, et al. Autoreactive T cells target peripheral nerves in Guillain-Barré syndrome. Nature. 2024;626:160-168.
+9. Thomma RCM, Fokke C, Walgaard C, et al. High and persistent anti-GM1 antibody titers are associated with poor clinical recovery in Guillain-Barré syndrome. Neurol Neuroimmunol Neuroinflamm. 2023;10:e200107.
+10. van Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of Guillain-Barré syndrome. Eur J Neurol. 2023;30:3646-3674.
+11. Hughes RA, Brassington R, Gunn AA, van Doorn PA. Corticosteroids for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2016;10:CD001446.
+12. Verboon C, Harbo T, Cornblath DR, et al. Intravenous immunoglobulin treatment for mild Guillain-Barré syndrome: an international observational study. J Neurol Neurosurg Psychiatry. 2021;92:1080-1088.
+13. Kuitwaard K, de Gelder J, Tio-Gillen AP, et al. Pharmacokinetics of intravenous immunoglobulin and outcome in Guillain-Barré syndrome. Ann Neurol. 2009;66:597-603.
+14. Walgaard C, Jacobs BC, Lingsma HF, et al. Second intravenous immunoglobulin dose in patients with Guillain-Barré syndrome with poor prognosis (SID-GBS): a double-blind, randomised, placebo-controlled trial. Lancet Neurol. 2021;20:275-283.
+15. Min YG, Hong Y-H, Rajabally YA, Sung J-J. Timing of intravenous immunoglobulin treatment and outcome in Guillain-Barré syndrome: is time nerve? Muscle Nerve. 2024;70(6):1215-1222.
+16. Mulder M, Jansen IGH, Goldhoorn RB, et al. Time to endovascular treatment and outcome in acute ischemic stroke: MR CLEAN Registry results. Circulation. 2018;138:232-240.
+17. Misawa S, Kuwabara S, Sato Y, et al. Safety and efficacy of eculizumab in Guillain-Barré syndrome: a multicentre, double-blind, randomised phase 2 trial. Lancet Neurol. 2018;17:519-529.
+18. Kuwabara S, Kusunoki S, Kuwahara M, et al. Efficacy and safety of eculizumab in Guillain-Barré syndrome: a phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. J Peripher Nerv Syst. 2024;29:339-349.
+19. Kroon H-A, Islam Z, Collins P, et al. Efficacy and safety of targeted immunotherapy with ANX005 in treating Guillain-Barré syndrome: a phase 3 multicenter study (PL5.006). Neurology. 2025;104(Suppl 1):4954.
+20. Al-Salama ZT. Imlifidase: first approval. Drugs. 2020;80:1859-1864.
+21. An open-label, single arm, multicentre, phase II study investigating safety, tolerability, efficacy, pharmacodynamics and pharmacokinetics of imlifidase in patients with Guillain-Barré syndrome, in comparison with matched control patients. 2019. https://clinicaltrials.gov/study/NCT03943589.
+22. Zhang H, Ma J, Feng Y, et al. Efgartigimod in the treatment of Guillain-Barré syndrome. J Neurol. 2024;271:3506-3511.
+23. Allen JA, Lin J, Basta I, et al. Safety, tolerability, and efficacy of subcutaneous efgartigimod in patients with chronic inflammatory demyelinating polyradiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double blind, placebo-controlled, phase 2 trial. Lancet Neurol. 2024;23:1013-1024.
+24. Phase 2, randomized, patient- and rater-blinded single-site trial evaluating safety and efficacy of efgartigimod in patients with Guillain-Barré syndrome. 2023. https://clinicaltrials.gov/study/NCT05701189.
+25. Malmivaara A. Generalizability of findings from randomized controlled trials is limited in the leading general medical journals. J Clin Epidemiol. 2019;107:36-41.
+26. Rogers JR, Liu C, Hripcsak G, et al. Comparison of clinical characteristics between clinical trial participants and nonparticipants using electronic health record data. JAMA Network Open. 2021;4:e214732.
+27. Williams CM, Skinner EH, James AM, et al. Comparative effectiveness research for the clinician researcher: a framework for making a methodological design choice. Trials. 2016;17:406.
+28. Verboon C, van den Berg B, Cornblath DR, et al. Original research: second IVIg course in Guillain-Barré syndrome with poor prognosis: the nonrandomised ISID study. J Neurol Neurosurg Psychiatry. 2020;91:113-121.
+29. PNS Abstracts 2023. J Peripheral Nervous Syst. 2023;28(S4):S3-254.
+30. PNS Abstracts 2024. J Peripheral Nervous Syst. 2024;29(S3):S3-193.
+31. Wang SV, Schneeweiss S, Franklin JM. Emulation of randomized clinical trials with nonrandomized database analyses: results of 32 clinical trials. JAMA. 2023;329:1376-1385.
+32. Angus DC, Berry S, Lewis RJ, et al. The REMAP-CAP (Randomized Embedded Multifactorial Adaptive Platform for Community acquired Pneumonia) study. Rationale and design. Ann Am Thorac Soc. 2020;17(7):879-891.
+33. van Eijk RPA, Kliest T, McDermott CJ, et al. TRICALS: creating a highway toward a cure. Amyotroph Lateral Scler Frontotemporal Degener. 2020;21(7-8):496-501.
+34. Adaptive Platform Trials C. Adaptive platform trials: definition, design, conduct and reporting considerations. Nat Rev Drug Discov. 2019;18(10):797-807.
+35. Long Y, de Ruiter SC, Luijten LWG, et al. Statistical practice of ordinal outcome analysis in neurologic trials: a literature review. Neurology. 2025;104:e210229.
+36. Kluzek S, Dean B, Wartolowska KA. Patient-reported outcome measures (PROMs) as proof of treatment efficacy. BMJ Evid Based Med. 2022;27:153-155.

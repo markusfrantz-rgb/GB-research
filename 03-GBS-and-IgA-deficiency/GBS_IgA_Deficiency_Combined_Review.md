@@ -390,9 +390,44 @@ Treatment resistance is particularly challenging in this combination because:
 
 > **Citation:** Hansa Biopharma. "Positive full results from 15-HMedIdeS-09 Phase 2 study of imlifidase in patients with Guillain-Barre Syndrome." December 2024.
 
-### 8.4 Summary: Emerging Therapy IgA Safety
+### 8.4 Updated Evidence from Wiegers & Jacobs 2025 Review (Added 2026-03-26)
 
-All three emerging therapies (tanruprubart, efgartigimod, imlifidase) are IgA-safe because they are either monoclonal antibodies or enzymes -- NOT pooled human immunoglobulin products. This makes them particularly attractive for the GBS + IgA deficiency population.
+**Wiegers & Jacobs (2025)** published a key review article covering new insights in immune treatment of GBS, synthesizing the emerging therapy landscape *[Level 3 — expert review]* (PMID: 40748027; PMC: PMC12419018):
+
+**Tanruprubart — updated Phase 3 data:**
+- 241 patients randomized (Bangladesh and Philippines, supportive care only setting)
+- Single 30 mg/kg IV dose: OR 2.4 (95% CI 1.29-4.50; p=0.0058) for improved GBS-DS at Week 8
+- Patients walked independently **31 days earlier** (p=0.0211)
+- **28 fewer days on mechanical ventilation** (p=0.0356)
+- Both 30 mg/kg and 75 mg/kg inhibited complement; 30 mg/kg was clinically superior
+- EMA MAA submission Q1 2026; FDA BLA discussion ongoing
+
+**Efgartigimod — Cheng 2026 retrospective data:**
+- 17 GBS patients (largest efgartigimod GBS series to date)
+- 1-point GBS-DS improvement in **4 days** (vs longer in comparator groups)
+- Supports significantly faster neurological recovery *[Level 4 — retrospective case series]* (PMID: 41851318)
+
+**Hu 2025 — Efgartigimod in MFS-GBS overlap:**
+- MFS-GBS overlap patient with poor IVIg response
+- Efgartigimod 800 mg x4 doses → extubated after 2nd dose; GBS-DS 5 → 1
+- Confirms efgartigimod efficacy even in treatment-refractory cases *[Level 4 — case report]* (PMID: 41029230)
+
+### 8.5 Next-Generation Complement and B-cell Therapies in Pipeline (Added 2026-03-26)
+
+Two additional IgA-safe targeted therapies are in advanced clinical development for autoimmune neuropathies:
+
+| Therapy | Target | Indication | Phase | Key Data | IgA-Safe? |
+|---------|--------|-----------|-------|----------|-----------|
+| **Crovalimab** | Anti-C5 (recycling mAb) | GBS | Phase 3 (ongoing) | Novel recycling antibody; longer half-life than eculizumab; no GBS results yet | Yes |
+| **Riliprubart** | Anti-C5 | CIDP | Phase 3 | Phase 2: 89% improved/stable at 24 weeks (PMID: 35378684); Phase 3 ongoing | Yes |
+
+Both are monoclonal antibodies with no IgA content, making them safe for IgA-deficient patients. Riliprubart is particularly relevant if Madeleine is reclassified as A-CIDP, as it targets complement-mediated demyelination in CIDP specifically.
+
+> **Citation:** Wiegers EJA, Jacobs BC. "New insights in the immune treatment of Guillain-Barre syndrome." *Curr Opin Neurol.* 2025;38(5):471-477. PMID: 40748027
+
+### 8.6 Summary: Emerging Therapy IgA Safety
+
+All emerging therapies (tanruprubart, efgartigimod, imlifidase, crovalimab, riliprubart) are IgA-safe because they are either monoclonal antibodies or enzymes -- NOT pooled human immunoglobulin products. This makes them particularly attractive for the GBS + IgA deficiency population.
 
 ---
 
@@ -459,11 +494,13 @@ The published literature on GBS specifically in patients with known IgA deficien
 | PE efficacy in GBS | Level 1 (multiple RCTs, Cochrane review) |
 | IVIg = PE equivalence in GBS | Level 1 (RCT, Cochrane) |
 | Anti-IgA anaphylaxis risk | Level 3-4 (case series, systematic review) |
-| Risk of anti-IgA reactions overestimated | Level 3 (systematic review: Rachid & Bonilla 2012) |
+| Risk of anti-IgA reactions overestimated | Level 3 (systematic review: Rachid & Bonilla 2012; Collet 2024 CARPA hypothesis) |
+| IVIg anaphylaxis declining 68% over decade | Level 2 (Martinez 2021 cohort, 24,919 patients) |
+| Anti-IgA testing not routinely required | Level 4 (BSI/UKPIN 2022 guideline; NHS England 2025) |
 | GBS + IgA deficiency management | Level 5 (expert opinion, extrapolation) |
-| Tanruprubart in GBS | Level 2 (Phase 3 RCT, positive) |
-| Efgartigimod in GBS | Level 4 (case reports, Phase 2 ongoing) |
-| Imlifidase in GBS | Level 2 (Phase 2 positive) |
+| Tanruprubart in GBS | Level 2 (Phase 3 RCT, positive; OR 2.4, p=0.0058) |
+| Efgartigimod in GBS | Level 4 (case series n=17: Cheng 2026; Phase 2 ongoing) |
+| Imlifidase in GBS | Level 2 (Phase 2 positive, n=30) |
 | Second IVIg course futility | Level 1 (RCT: SID-GBS) |
 | Shared immunological mechanisms | Level 5 (hypothesis, indirect evidence) |
 

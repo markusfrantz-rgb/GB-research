@@ -1,0 +1,95 @@
+Title: Intravenous immunoglobulin and the current risk of moderate and severe anaphylactic events, a cohort study
+Authors: Carlos Martinez, Christopher Wallenhorst, Sheryl van Nunen
+Journal: Clinical and Experimental Immunology
+Year: 2021
+PMID: 34562316
+PMC: PMC8561696
+DOI: 10.1111/cei.13665
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+INTRAVENOUS IMMUNOGLOBULIN AND THE CURRENT RISK OF MODERATE AND SEVERE ANAPHYLACTIC EVENTS, A COHORT STUDY
+
+Carlos Martinez, Christopher Wallenhorst, Sheryl van Nunen
+
+Clinical and Experimental Immunology, 2021, 206(3):384-394
+
+ABSTRACT
+
+This large cohort study from the US Premier Healthcare Database evaluated the risk and predictors of anaphylaxis in association with intravenous immunoglobulin (IvIg) therapy in the inpatient and outpatient setting. Data were collected retrospectively (January 2009-December 2018) from 24,919 patients administered IgPro10 IvIg, median age 54 years. Immunoglobulins of interest were IgPro10 and other IvIg given before or after IgPro10. Moderate and severe anaphylaxis was identified from same-day parenteral epinephrine and IvIg use and reviews of patient record summaries. Predictors for first anaphylactic reactions associated with IvIg administration were derived from adjusted incidence rate ratios (IRR) using Poisson regression. Moderate anaphylaxis in IvIg use was rare and severe anaphylaxis very rare based on a total of 124 moderate and four non-fatal severe first anaphylactic events, incidence rate of 7.11 and 0.23/10,000 IvIg administrations, respectively. Age under 18 years was an independent predictor of moderate or severe anaphylactic events [adjusted incidence rate ratio = 2.94, 0.95 confidence interval = 1.91-4.52] compared with those aged 18 years and older. First IvIg administration was a strong predictor of anaphylaxis. The IRR in those with a subsequent IvIg administration in the preceding 42 days decreased to 0.27 (0.17-0.42) and in those effectively IvIg-naive (no IvIg for > 42 days) to 0.76 (0.44-1.32) compared with first IvIg use. The key conclusions from this study are that the risk of anaphylaxis has progressively reduced over the last decade, from 14.87 of 10,000 in 2009-10 to 4.39 of 10,000 IvIg administrations in 2017-18 and is rare overall, and that the risk of anaphylaxis is increased in those aged under 18 years.
+
+Keywords: anaphylaxis, incidence rate, intravenous immunoglobulins, predictors, Premier Healthcare Database
+
+INTRODUCTION
+
+Intravenous immunoglobulin (IvIg) is a fractionated blood product made from pooled human plasma from healthy donors. Typically, IvIg contains >96% unmodified immunoglobulin (Ig)G which has intact Fc-dependent effector functions with a broad spectrum of activity. Stabilizers and trace amounts of non-IgG plasma proteins, including IgA and other plasma proteins are also present. Introduced as immunoglobulin-replacement therapy in primary immunodeficiency syndromes, the indications for the use of IvIg have since expanded considerably. Approved indications for IvIg use in the United States are product-specific and encompass chronic inflammatory demyelinating polyneuropathy, immune thrombocytopenic purpura, Kawasaki syndrome and primary humoral immunodeficiency. Other established therapeutic uses currently include Ig replacement therapy in immunodeficiency secondary to hematological malignancies and immunomodulation treatment in autoimmune and inflammatory diseases (stiff person syndrome, neonatal hemochromatosis, Guillain-Barré syndrome, myasthenia gravis, Lambert-Eaton syndrome, inflammatory myopathies and multi-focal motor neuropathy).
+
+While adverse effects to IvIg are common, these are usually mild, transient and infusion rate-related. Rarely, serious adverse effects, including aseptic meningitis, renal impairment, thrombosis, hemolytic anemia, transfusion-related acute lung injury and anaphylaxis, are experienced.
+
+Anaphylaxis is reported rarely in patients administered IvIg, with 23 non-fatal case reports in immunodeficient patients in the literature until 2017, and an estimated incidence rate of one per 1000 IvIg administrations.
+
+Development of serum IgG anti-IgA antibody in patients with constitutionally undetectable IgA is common, and has been associated with adverse reactions to IvIg (including non-IgE-mediated anaphylaxis); however, it correlates poorly with adverse reactions. Conversely, formation of IgE anti-IgA antibodies, while very rare, is very likely to result in anaphylaxis (three of four patients given IvIg or other blood products had an anaphylaxis).
+
+METHODS
+
+Data source: Data were obtained from the US Premier Healthcare Database (PHD), containing data from approximately one-sixth of all hospital discharges in the country.
+
+Design: Retrospective observational cohort study. Patients of any age with at least one administration of the IvIg IgPro10 in the in- or outpatient setting between 1 January 2009 and 31 December 2018 and without IvIg administration history before 1 January 2009 formed the study cohort.
+
+Exposure: IvIg treatment during the entire study period. Categorized into: (1) first ever IvIg use and (2) repeat IvIg use (effectively IvIg-naive >42 days gap, or subsequent use ≤42 days gap).
+
+Outcome: Moderate or severe anaphylactic reaction in association with IvIg use. Brown grading used to classify reactions. Potential events identified when parenteral epinephrine was administered on the same day as IvIg.
+
+RESULTS
+
+The study cohort comprised 24,919 patients with a total of 175,535 IvIg administrations; median age 54 years, 20.8% children, 48.7% males, 72.6% white. Most frequent indications: hematological disease (35.1%), neurological disease (24.2%), immunodeficiency (19.1%).
+
+728 epinephrine ampoules prescribed on the day of IvIg administration. Manual review identified 192 anaphylactic reactions in 128 patients (incidence rate = 10.94 per 10,000 IvIg administrations). There were no fatal events.
+
+Key findings:
+
+1. Incidence rates: 124 moderate first events (7.11/10,000), 4 severe first events (0.23/10,000 or 1 in 43,400).
+
+2. Progressive risk reduction: From 14.87/10,000 in 2009-10 to 4.39/10,000 in 2017-18 (68% reduction over decade). Adjusted IRR 2017-18 vs 2009-10: 0.32 (0.16-0.65).
+
+3. Age as predictor: Age <18 years: adjusted IRR = 2.94 (1.91-4.52) vs age ≥18.
+
+4. First dose risk: Incidence rate of first moderate/severe anaphylaxis was 22.87/10,000 with first IvIg. Risk reduced 73% with subsequent use within 42 days (3.89/10,000). 43.5% of moderate reactions and 75% of severe reactions occurred with first IvIg.
+
+5. No dose effect: Neither the IvIg dose nor the indication for its use affected the risk of anaphylaxis.
+
+6. No fatalities: The absence of any fatalities indicates fatal anaphylactic events are less frequent than 1 in 45,000 IvIg administrations.
+
+DISCUSSION
+
+The overall risk of moderate or severe anaphylaxis was 10.94 per 10,000 IvIg administrations. The most important finding is the 68% decrease in anaphylactic reactions between 2009-10 and 2017-18, a progressive reduction throughout the entire study period.
+
+Potential explanations for the progressive reduction include: increasing incidence of pretreatment to prevent systemic reactions, changes in manufacturing processes (exclusion of high anti-A titer donors, immunoaffinity chromatography, modified Cohn-Oncley fractionation).
+
+The finding that first IvIg administration carries highest risk supports the recommendation to regard individuals changing IvIg preparations or having treatment interruptions of 6 weeks or more as effectively IvIg-naive.
+
+CONCLUSIONS
+
+Anaphylaxis is rare, severe anaphylaxis is very rare and fatal anaphylaxis did not eventuate in this large cohort. There has been a substantial reduction during the last decade in the risk of anaphylaxis. Predictors of anaphylaxis are age under 18 years, first dose of IvIg or being effectively IvIg-naive. Neither the IvIg dose nor the indication for its use affected the risk of anaphylaxis.
+
+REFERENCES
+
+1. Rutter A, Luger TA. J Am Acad Dermatol. 2001;44:1010-24.
+2. Nolte MT, et al. Clin Exp Immunol. 1979;36:237-43.
+3. Perez EE, et al. J Allergy Clin Immunol. 2017;139:S1-S46.
+4. US FDA Immune globulin intravenous (IGIV) indications. 2018.
+5. Perez E, et al. Front Immunol. 2017;8:586.
+6. Darenberg J, et al. Clin Infect Dis. 2003;37:333-40.
+7. Nydegger UE, Sturzenegger M. Drug Saf. 1999;21:171-85.
+8. Katz U, et al. Autoimmun Rev. 2007;6:257-9.
+9. Williams SJ, Gupta S. Arch Immunol Ther Exp. 2017;65:11-9.
+10. Bichuetti-Silva DC, et al. Int Immunopharmacol. 2014;23:442-6.
+11. Dashti-Khavidaki S, et al. J Invest Allergol Clin Immunol. 2009;19:139-45.
+12. Horn J, et al. Clin Immunol. 2007;122:156-62.
+13. Rachid R, et al. J Allergy Clin Immunol. 2011;128:228-30.
+14. Gharib A, et al. Allergy Asthma Clin Immunol. 2016;12:23.
+15. Ferreira A, et al. Vox Sang. 1989;56:218-22.
+16. Burks AW, et al. N Engl J Med. 1986;314:560-4.
+17-30. [Additional references]

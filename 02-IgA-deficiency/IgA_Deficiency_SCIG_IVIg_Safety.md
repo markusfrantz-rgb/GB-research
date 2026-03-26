@@ -202,7 +202,7 @@ The following products are approved for intravenous use in Sweden:
 | Product | Manufacturer | IgA Content | Status in Europe/Sweden |
 |---------|-------------|-------------|-------------------------|
 | **Gammagard S/D** | Takeda | **<= 1 mcg/mL** (5%) | **Not routinely available in Sweden.** Manufacturing will be discontinued end of December 2027. Inventory maintained until depleted/expired [22]. |
-| **DEQSIGA (Gammagard Liquid ERC)** | Takeda | **<= 2 mcg/mL** (10%) | **EMA-approved May 2, 2025.** EU commercial rollout expected **2027**. Not yet available in Swedish hospitals as of March 2026 [23, 24]. |
+| **DEQSIGA (Gammagard Liquid ERC)** | Takeda | **<= 2 mcg/mL** (10%) | **EMA-approved May 2, 2025.** FDA-approved June 2025. US available January 2026. EU commercial rollout expected **2027**. Not yet available in Swedish hospitals as of March 2026. Ready-to-use liquid — no reconstitution needed. [23, 24]. |
 
 ### 4.3 SCIG Products in Sweden
 
@@ -385,7 +385,63 @@ A Swedish regional guideline (Region Kalmar, updated October 2024) addresses man
 
 **Source:** Region Kalmar clinical guideline [30].
 
-### 6.5 Sahlgrenska University Hospital -- Anti-IgA Rapid Testing
+### 6.5 New Evidence: Declining Anaphylaxis Rates and Revised Risk Framework (Added 2026-03-26)
+
+#### Martinez 2021 — Large Cohort: IVIg Anaphylaxis Declining
+
+**Martinez et al. (2021)** analyzed 24,919 patients receiving IVIg (175,535 administrations) in a retrospective cohort study *[Level 2 — large retrospective cohort]* (PMID: 34562316):
+
+| Parameter | Value |
+|-----------|-------|
+| Moderate anaphylaxis rate | 7.11/10,000 administrations |
+| Severe anaphylaxis rate | 0.23/10,000 (1 in 43,400) |
+| Fatality rate | <1 in 45,000 (zero deaths in 24,919 patients) |
+| First-dose risk | 22.87/10,000 (1 in 437) — highest risk |
+| Subsequent dose within 42 days | 73% risk reduction (adjusted IRR 0.27) |
+| Trend over decade (2009-2018) | **68% decline** (14.87 to 4.39 per 10,000) |
+
+**Key insight:** Anaphylaxis rates have declined dramatically over the past decade, likely due to improved manufacturing processes and product purity. The first dose carries the highest risk; regular exposure provides a protective effect.
+
+#### Collet 2024 — CARPA Hypothesis: Complement Activation, Not Anti-IgA
+
+**Collet et al. (2024)** published a landmark analysis proposing complement activation-related pseudoallergy (CARPA) as the primary mechanism for IVIg hypersensitivity reactions, challenging the anti-IgA hypothesis *[Level 3 — systematic review with in vitro/in vivo analysis]* (PMID: 39436576):
+
+- Anti-IgA IgG was detected in 6% of CVID patients, 30% of SIgAD patients, and 2% of healthy controls
+- 38 patients with anti-IgA had hypersensitivity reactions, BUT 49 patients with anti-IgA had **no reactions** — anti-IgA is neither necessary nor sufficient
+- 10 patients (19%) **without** anti-IgA still experienced hypersensitivity
+- Complement activation (sC5b9 elevation, Bb increases, CH50 decreases) occurred consistently after IVIg infusion in **all** tested patients, regardless of anti-IgA status
+- **Conclusion:** "Dispelling the myth of IgA allergy carries major implications for primary immunodeficiency patient care"
+
+This supports the position that IgA deficiency should be considered a **relative**, not absolute, contraindication to IVIg — and that premedication, slow infusion rates, and monitoring are more relevant risk mitigation strategies than anti-IgA testing alone.
+
+#### BSI/UKPIN 2022 and NHS England 2025 — Guideline Shifts
+
+Two major UK guideline positions have formally de-emphasized anti-IgA testing:
+
+- **BSI/UKPIN 2022 Consensus Guideline (Grigoriadou et al.):** "Anti-IgA levels are NOT routinely required before commencing immunoglobulin replacement therapy" *[Level 4 — consensus guideline]* (PMID: 35924867)
+
+- **NHS England 2025 Statement:** IgA deficiency is explicitly stated as NOT being a contraindication to immunoglobulin therapy, formalizing the paradigm shift at the national health system level.
+
+These positions align with the Swedish Internetmedicin.se guideline that routine anti-IgA measurement is not considered necessary.
+
+#### GAMMAGARD LIQUID ERC — Ultra-Low IgA Product Data
+
+**GAMMAGARD LIQUID ERC / DEQSIGA (Takeda)** — the first ready-to-use liquid IVIg with ultra-low IgA content:
+
+| Parameter | Value |
+|-----------|-------|
+| IgA content | **<=2 mcg/mL** |
+| Concentration | 10% (100 mg/mL) |
+| FDA approval | June 30, 2025 |
+| US availability | January 22, 2026 |
+| EU name | DEQSIGA |
+| EMA status | Approved May 2025 |
+| EU commercial rollout | Expected 2027 |
+| Route | IV or subcutaneous |
+
+**Clinical significance:** This product eliminates the reconstitution requirement of Gammagard S/D while maintaining ultra-low IgA content. It represents the most practical option for IgA-deficient patients requiring IVIg, once commercially available in Sweden.
+
+### 6.6 Sahlgrenska University Hospital -- Anti-IgA Rapid Testing
 
 The Transfusion Centre at Sahlgrenska University Hospital (Gothenburg) validated the DiaMed ID-PaGIA rapid test for anti-IgA antibody detection:
 

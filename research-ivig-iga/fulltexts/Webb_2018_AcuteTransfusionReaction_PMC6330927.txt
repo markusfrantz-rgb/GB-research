@@ -1,0 +1,98 @@
+================================================================================
+Title: An acute transfusion reaction
+Authors: Clare Webb, Alan Norris, Katie Hands
+Journal: Clinical Medicine (Lond)
+Year: 2018
+Volume: 18(1)
+Pages: 95-97
+PMID: 29436447
+PMC: PMC6330927
+DOI: 10.7861/clinmedicine.18-1-95
+Downloaded: 2026-03-26
+================================================================================
+
+AN ACUTE TRANSFUSION REACTION
+
+Clare Webb, Alan Norris, Katie Hands
+
+ABSTRACT
+
+The authors present a case of a 67-year-old man experiencing an acute anaphylactic reaction during red cell transfusion due to the presence of anti-IgA antibodies. The article reviews the incidence and clinical relevance of anti-IgA antibodies in IgA deficiency and discusses investigation and management of acute transfusion reactions generally.
+
+CASE PRESENTATION
+
+A previously healthy 67-year-old man consulted his general practitioner with an eight-week history of exertional dyspnea and chest tightness. Initial blood work revealed macrocytic anemia with hemoglobin 88 g/L and mean corpuscular volume 140 fL. Vitamin B12 measured 110 ng/L, suggesting pernicious anemia. Further testing included anti-intrinsic factor, anti-gastric parietal cell antibodies, anti-tissue transglutaminase, anti-endomysial antibodies, and total immunoglobulin levels. A red cell transfusion was scheduled at a community hospital.
+
+Ten minutes into transfusion, the patient experienced malaise and diaphoresis while remaining afebrile without tachycardia or blood pressure changes. Medical staff slowed the infusion rate. The patient's condition deteriorated with progressive sweating and sense of impending doom. At sixty minutes, he developed fever (38.2 degrees C), systolic blood pressure dropped from 140 to 90 mmHg, and widespread urticarial rash appeared. No angioedema or wheezing occurred.
+
+DIAGNOSIS
+
+Types of Acute Transfusion Reaction:
+
+Non-haemolytic:
+- Bacterial contamination
+- Febrile non-haemolytic transfusion reaction
+- Allergic reaction
+- Anaphylactic reaction
+- Transfusion-related acute lung injury
+- Transfusion-associated circulatory overload
+
+Haemolytic:
+- ABO incompatibility (immediate intravascular red cell destruction)
+- Other red cell incompatibility (e.g., Rhesus, Kell - extravascular destruction)
+
+INITIAL MANAGEMENT
+
+The transfusion was immediately discontinued. Staff performed rapid airway, breathing, and circulatory assessment. The blood component bag and label were verified with no discrepancies. The patient received intravenous saline, hydrocortisone, and chlorpheniramine immediately. Transfer to Emergency Department occurred.
+
+Investigation included full blood count, renal and liver function tests, and hemolysis markers. The implicated unit returned to the laboratory for repeat compatibility testing and antibody screening. Bacterial culture was performed on the unit.
+
+Initial Blood Tests:
+- Hemoglobin: 90 g/L
+- WBC: 9.8 x 10^9/L
+- Platelets: 245 x 10^9/L
+- MCV: 130.4 fL
+- LDH: 600 U/L
+- Haptoglobin: <0.08 g/L
+- Direct Coombs (Anti-IgG): Negative
+- Direct Coombs (Anti-C3d): Negative
+- Blood group: O positive
+- No red cell antibodies detected
+
+Previous immunology investigations demonstrated isolated IgA deficiency with a level of <0.0005 g/L. Subsequent investigation confirmed anti-IgA antibodies. Diagnosis: anaphylaxis to IgA present in the donor red cell unit.
+
+CASE PROGRESSION AND OUTCOME
+
+The patient remained in the Emergency Department for six hours observation and made complete recovery. Hemoglobin and MCV normalized after four weeks with parenteral vitamin B12 replacement.
+
+DISCUSSION
+
+Anti-IgA mediated anaphylactic transfusion reactions are extremely rare. The total annual incidence of severe anaphylactic or hypotensive acute transfusion reaction in the UK in 2015 was 86 out of 2.5 million blood transfusions, with only one attributed to anti-IgA mediated anaphylaxis. Other estimates cite 1 in 1.3 million blood components transfused.
+
+Isolated IgA deficiency is common, with prevalence between 1 in 500 and 1 in 200. Although anti-IgA mediated anaphylaxis rates are higher in this group, it remains rare. The proposed mechanism involves sensitization of IgA-deficient patients through IgA exposure, followed by anti-IgA mediated anaphylaxis upon subsequent exposure.
+
+This patient had never received a previous blood transfusion and could not recall treatment exposing him to IgA. Many anti-IgA antibodies occur naturally; in one study, only 9 out of 39 blood donors with detectable anti-IgA antibodies had a history of transfusion or pregnancy. Sensitization might occur in utero through maternal IgA or postnatally through breast milk IgA or bovine IgA absorption.
+
+Patients with anti-IgA antibodies face high risk of future anaphylaxis to blood products containing donor plasma. Red cells or platelets from IgA-deficient donors are not routinely available. Red cells and platelets can be washed to minimize donor plasma. In life-threatening emergencies, if delay waiting for washed cells outweighs urgent transfusion need, standard cells should be used with trained staff and adrenaline access. IgA-deficient plasma stocks are held at national centers.
+
+KEY LEARNING POINTS
+
+- Initial management of acute transfusion reaction is independent of laboratory results
+- Anaphylactic transfusion reaction management includes prompt supportive measures and intramuscular adrenaline
+- Patients experiencing anaphylactic transfusion reaction should have IgA levels measured
+- Blood transfusion is very safe in the UK; risk of serious harm is <1 in 15,000, and risk of death <100,000
+- Over 2.5 million blood product units transfuse annually in the UK
+
+REFERENCES
+
+1. Hoffbrand AV, et al. Postgraduate Haematology. 6th ed. John Wiley and Sons; 2010.
+2. Tinegate H, et al. Guideline on investigation and management of acute transfusion reactions. Br J Haematol. 2012;159:143-53.
+3. Serious Hazards of Transfusion (SHOT). SHOT bites No 5. 2015.
+4. Serious Hazards of Transfusion (SHOT). Annual SHOT report. 2015.
+5. Latiff AHA, Kerr MA. Clinical significance of immunoglobulin A deficiency. Ann Clin Biochem. 2007;44:131-9.
+6. Thibault L, et al. Establishment of an IgA-deficient blood donor registry. Transfusion. 2006;46:2115-21.
+7. Laschinger CA, Naylor DH. IgA antibodies and transfusion reactions in Canada. Can Med Assoc J. 1983;128:381-2.
+8. Nadorp JH, et al. Significance of anti-IgA antibodies in IgA deficiency. Eur J Clin Invest. 1973;3:317-23.
+9. Latham T. Investigation and clinical management of suspected reactions to IgA. NHSBT; 2010.
+10. Kiani-Alikhan S, et al. Successful desensitization to immunoglobulin A in transfusion-related anaphylaxis. Transfusion. 2010;50:1897-901.
+11. Salama A, et al. Long-term treatment and transfusion of normal blood components following tolerance induction in patients with anti-IgA. Transfus Med Hemotherapy. 2014;41:381-7.

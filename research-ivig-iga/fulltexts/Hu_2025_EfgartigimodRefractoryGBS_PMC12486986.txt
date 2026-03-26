@@ -1,0 +1,112 @@
+Title: Efgartigimod for treating Guillain-Barré syndrome with poor response to intravenous immunoglobulin: a case report
+Authors: Bai Qi Hu, Sen Xiang Wu, Qiao Wen Tong, Hua Ye, Ping Ping Jin
+Journal: BMC Neurology
+Year: 2025
+PMID: 41029230
+PMC: PMC12486986
+DOI: 10.1186/s12883-025-04412-0
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+EFGARTIGIMOD FOR TREATING GUILLAIN-BARRÉ SYNDROME WITH POOR RESPONSE TO INTRAVENOUS IMMUNOGLOBULIN: A CASE REPORT
+
+Bai Qi Hu, Sen Xiang Wu, Qiao Wen Tong, Hua Ye, Ping Ping Jin
+
+Department of Neurology, Wenzhou People's Hospital, Wenzhou, China
+BMC Neurology, 2025, 25:403
+
+ABSTRACT
+
+Guillain-Barré syndrome (GBS) is a peripheral neuropathy mediated by immunoglobulin G (IgG) autoantibodies causing acute flaccid paralysis. Miller-Fisher syndrome (MFS) is a GBS variant; some cases present as MFS-GBS overlap syndrome. Current standard care includes intravenous immunoglobulin (IVIg) and plasma exchange (PLEX). However, "at least 20-30% of patients develop acute respiratory failure during or shortly after IVIg or PLEX, and about 3-7% of patients die." Efgartigimod, a neonatal Fc receptor (FcRn) antagonist, shows promise for GBS treatment.
+
+This case involved an MFS-GBS overlap patient with serum ganglioside IgG antibodies. Despite completing standard IVIg therapy, symptoms worsened with respiratory failure development. Efgartigimod treatment (800 mg, four doses) produced symptom relief with only external ophthalmoplegia remaining. Serum IgG levels declined from maximum 21.96 g/L to 5.42 g/L. This represents the first reported treatment regimen using this dosing protocol.
+
+Sequential efgartigimod treatment (800 mg, four doses) proved safe and effective for MFS-GBS overlap patients with poor IVIg response, potentially reducing disease duration. Efgartigimod represents significant advancement in GBS treatment through ongoing research.
+
+Keywords: Guillain-Barré syndrome, Efgartigimod, FcRn inhibitor, Immunoglobulin G, Intravenous immunoglobulin
+
+BACKGROUND
+
+Guillain-Barré syndrome (GBS) is an immunoglobulin G (IgG) autoantibodies mediated peripheral neuropathy caused by several variables such as infection, vaccination history, and toxins, leading to acute flaccid paralysis. A typical triad of external ophthalmoplegia, ataxia, and areflexia characterizes Miller-Fisher syndrome (MFS), a GBS variation. GBS treatment primarily uses intravenous immunoglobulin (IVIg) and plasma exchange (PLEX). However, "at least 20-30% of patients develop acute respiratory failure during or shortly after IVIg or PLEX, necessitating mechanical ventilation, and even death in severe cases."
+
+Efgartigimod is an antagonist targeting neonatal Fc receptor (FcRn) that accelerates pathogenic IgG degradation in lysosomes by competitively binding to FcRn with IgG, thereby blocking IgG circulation. Efgartigimod treats autoimmune diseases including myasthenia gravis. Recent case reports showed two GBS patients receiving efgartigimod monotherapy demonstrated possible therapeutic benefits. Another case report documented three GBS patients with various phenotypes whose symptoms failed to improve or worsened after IVIg; sequential efgartigimod treatment effectively reduced serum anti-ganglioside antibody titers and potentially shortened disease course.
+
+This report presents a patient with MFS-GBS overlap syndrome who experienced deteriorating symptoms during IVIg use, developing respiratory failure. Sequential efgartigimod treatment (800 mg, four doses) was administered. This case explores efgartigimod therapeutic effects on MFS-GBS overlap patients with poor IVIg response, representing the first reported treatment regimen using this specific protocol.
+
+CASE PRESENTATION
+
+A 58-year-old female experienced dizziness without obvious cause on February 12, 2025, with heaviness sensation and no limb weakness. One day later, dysarthria and dysphagia developed, prompting admission to Wenzhou People's Hospital neurology department. The patient had "hypertension" for over 3 years, with blood pressure stabilized through irbesartan therapy.
+
+Neurological examination revealed dysarthria, external ophthalmoplegia, areflexia, and slightly shallow left nasolabial groove. Limb muscle strength measured grade 5 on the Medical Research Council (MRC) scale; limb muscle tone was normal. Lumbar puncture and electromyography occurred on day two post-onset. Cerebrospinal fluid pressure was normal; white blood cell count was 5.0x10^6/L; protein concentration was 446 mg/L. Electromyography showed no significant abnormalities.
+
+Immunoblotting detected ganglioside antibodies. Serum analysis revealed anti-GD3 IgG (+++), anti-GT1a IgG (+++), and anti-GQ1b IgG (+++). Clinical symptoms, neurological examination, and auxiliary examinations confirmed MFS-GBS overlap syndrome diagnosis.
+
+Clinical Course
+
+On day two post-onset, the patient received intravenous immunoglobulin (IVIg) at 400 mg/kg for 5 days. On day four, symptoms gradually worsened with limb weakness emergence; upper limb muscle strength deteriorated to grade 4 (GBS disability score of 4), accompanied by areflexia, ataxia, and external ophthalmoplegia worsening, plus fever, cough, and sputum production. On day six, despite completing standardized IVIg course, symptoms continued worsening with further limb weakness deterioration to grade 3. Respiratory failure developed, manifested as breathing difficulty and decreased oxygen saturation. Arterial blood gas analysis showed PaCO2 of 46.3 mmHg, PaO2 of 64.6 mmHg, and pH of 7.403. Noninvasive mechanical ventilation was initiated, but peripheral blood oxygen saturation only reached 85-90%. Endotracheal intubation and invasive mechanical ventilation were performed (GBS disability score of 5).
+
+On day eight post-onset, following intravenous efgartigimod administration (800 mg), respiratory failure symptoms gradually stabilized without further worsening. On day thirteen, the second efgartigimod dose (800 mg) was administered. The patient was extubated, breathing spontaneously, with limb muscle strength improving to grade 4 (GBS disability score of 4). On day twenty, the third efgartigimod dose (800 mg) was given; limb muscle strength returned to normal, but external ophthalmoplegia and dysphagia persisted (GBS disability score of 2). On day twenty-eight, the fourth efgartigimod dose (800 mg) was completed; only external ophthalmoplegia remained with other symptoms significantly improved. Serum IgG testing showed gradual decline from maximum 21.96 g/L to 5.42 g/L.
+
+By day 60 follow-up, external ophthalmoplegia persisted.
+
+Table 1: Nerve Conduction Study
+
+Motor nerve conduction tests:
+- Median Left: Latency 6.9 ms, Amp 6.4 mV, Velocity 61.4 m/s
+- Median Right: Latency 8.2 ms, Amp 5.3 mV, Velocity 55.7 m/s
+- Ulnar Left: Latency 6.1 ms, Amp 11.5 mV, Velocity 69.9 m/s
+- Ulnar Right: Latency 6.9 ms, Amp 8.6 mV, Velocity 60.8 m/s
+- Common peroneal Left: Latency 8.7 ms, Amp 3.7 mV, Velocity 47.0 m/s
+- Common peroneal Right: Latency 9.3 ms, Amp 4.3 mV, Velocity 43.4 m/s
+
+Sensory nerve conduction tests:
+- Median Left: Latency 2.9 ms, Amp 21.4 uV, Velocity 52.8 m/s
+- Median Right: Latency 3.8 ms, Amp 8.2 uV, Velocity 44.0 m/s
+- Ulnar Left: Latency 2.2 ms, Amp 9.0 uV, Velocity 61.8 m/s
+- Ulnar Right: Latency 2.3 ms, Amp 10.2 uV, Velocity 63.9 m/s
+- Sural Left: Latency 2.4 ms, Amp 15.8 uV, Velocity 60.1 m/s
+- Sural Right: Latency 2.4 ms, Amp 15.1 uV, Velocity 60.4 m/s
+
+Table 2: Summary of Key Events in Patient's Clinical Course
+
+Day 2: Dizzy, dysarthria, dysphagia, external ophthalmoplegia, areflexia | IVIg 400 mg/kg | GBS-DS 1
+Day 4: Weakness, areflexia, external ophthalmoplegia, ataxia, pneumonia | IVIg 400 mg/kg | GBS-DS 4
+Day 6: Respiratory failure | IVIg, intubation, invasive MV | GBS-DS 5
+Day 8: Respiratory failure | Efgartigimod 800 mg IV | GBS-DS 5
+Day 13: Weakness, ophthalmoplegia, dysphagia, ataxia | Efgartigimod 800 mg, extubation | GBS-DS 4
+Day 20: External ophthalmoplegia, dysphagia | Efgartigimod 800 mg | GBS-DS 2
+Day 28: External ophthalmoplegia | Efgartigimod 800 mg | GBS-DS 1
+Day 60: External ophthalmoplegia | -- | GBS-DS 1
+
+DISCUSSION
+
+Sequential efgartigimod treatment (800 mg, four doses) proved effective, safe, and capable of shortening disease course in MFS-GBS overlap patients with poor IVIg response.
+
+The patient was diagnosed with MFS-GBS overlap syndrome. IVIg administration began on day two post-onset. Despite standard IVIg therapy completion, symptoms worsened, ultimately causing acute respiratory failure requiring mechanical ventilation. Given severity, sequential efgartigimod (800 mg per dose, four total treatments) was administered. With the first efgartigimod dose, symptoms stabilized without further worsening. Following second and third doses, symptoms improved significantly; the patient was extubated with spontaneous breathing and normal limb muscle strength restoration. After fourth efgartigimod consolidation treatment, symptoms improved substantially, leaving only external ophthalmoplegia. The four-dose efgartigimod regimen based on long-term usage for myasthenia gravis (standard: 10 mg/kg weekly for 4 weeks) was employed. Serum IgG levels gradually decreased with efgartigimod use.
+
+GBS is a severe, IgG-mediated peripheral neuropathy. Early immunotherapy initiation is essential for preventing irreversible nerve damage and improving clinical outcomes. Recommended immunotherapies include IVIG and PLEX. IVIG often represents the treatment preference due to easier administration. However, due to tight blood product supply and high costs, IVIg and PLEX availability varies. Studies show IVIg requires 2 weeks for effectiveness, while PLEX may require 1 week. Additionally, "at least 20-30% of patients develop acute respiratory failure during or shortly after IVIg or PLEX," with "approximately 3-7% of patients dying." Therefore, targeted immunotherapy with novel mechanisms offers new treatment directions for safer, more effective GBS management.
+
+Efgartigimod, as an FcRn inhibitor, is clinically used for autoimmune diseases including myasthenia gravis. FcRn binds IgG in acidic intracellular environments, protecting IgG from lysosomal degradation and transporting it extracellularly, where it dissociates in neutral conditions and promotes IgG recirculation in bloodstream, prolonging IgG half-life and maintaining plasma IgG concentration. FcRn inhibitors bind efficiently to FcRn in acidic and neutral environments with significantly higher affinity than IgG. FcRn inhibitors block IgG recirculation by competitively binding FcRn to IgG, thereby accelerating rapid endogenous clearance of pathogenic IgG and sustainably lowering circulating levels. IgG removal by FcRn inhibitors typically achieves 70-90% of IgG removal by PLEX. Studies demonstrate FcRn inhibitors target and reduce all IgG subtypes without significant effects on other immunoglobulins such as albumin, IgA, and IgM, demonstrating high specificity and efficacy.
+
+Limitations: Although this case report suggests efgartigimod sequential therapy is safe and effective in MFS-GBS overlap patients, this represents only one case. Clinical studies involving multiple centers and more cases are needed for confirming effectiveness.
+
+CONCLUSION
+
+Sequential efgartigimod treatment (800 mg, four doses) proved safe, effective, and capable of shortening disease course in patients with MFS-GBS overlap syndrome. Efgartigimod represents an anticipated significant breakthrough in GBS treatment through ongoing comprehensive scientific and clinical research, providing patients access to more potent therapy options.
+
+REFERENCES
+
+1. Mirian A, et al. CMAJ. 2021;193(11):E378.
+2. Bellanti R, Rinaldi S. Eur J Neurol. 2024;31(8):e16365.
+3. Noioso CM, et al. Front Neurol. 2023;14:1250774.
+4. Zaki HA, et al. eNeurologicalSci. 2023;31:100468.
+5. Traub R, Chaudhry V. Semin Neurol. 2023;43(5):791-8.
+6. Magy L, Frachet S. Expert Rev Neurother. 2023;23(6):549-57.
+7. Heo YA. Drugs. 2022;82(3):341-8.
+8. Sivadasan A, Bril V. Immunotherapy. 2023;15(8):553-63.
+9. Howard JF Jr., et al. Lancet Neurol. 2021;20(7):526-36.
+10. Zhang H, et al. J Neurol. 2024;271(6):3506-11.
+11. Chen S, et al. Ther Adv Neurol Disord. 2025;18:17562864251314746.
+12-25. [Additional references]

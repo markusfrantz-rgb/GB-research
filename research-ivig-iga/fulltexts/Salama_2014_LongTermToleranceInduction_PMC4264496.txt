@@ -1,0 +1,107 @@
+Title: Long-Term Treatment and Transfusion of Normal Blood Components Following Tolerance Induction in Patients with Anti-IgA Anaphylactic Reactions
+Authors: Abdulgabar Salama, Romina Kardashi, Olga Arbach
+Journal: Transfusion Medicine and Hemotherapy
+Year: 2014
+PMID: 25538541
+PMC: PMC4264496
+DOI: 10.1159/000366240
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+LONG-TERM TREATMENT AND TRANSFUSION OF NORMAL BLOOD COMPONENTS FOLLOWING TOLERANCE INDUCTION IN PATIENTS WITH ANTI-IGA ANAPHYLACTIC REACTIONS
+
+Abdulgabar Salama, Romina Kardashi, Olga Arbach
+
+Transfusion Medicine, Charite University Medicine, Berlin, Germany
+Transfusion Medicine and Hemotherapy, 2014, 41(5):381-387
+
+ABSTRACT
+
+Background: Patients with significant anti-IgA antibodies typically cannot tolerate intravenous administration of normal blood products. This study presents experiences with immune tolerance induction (IIT) and long-term treatment in such patients.
+
+Methods: Ten adult patients (4 female, 6 male; ages 36-75 years) with anti-IgA were enrolled. One patient had isolated IgA deficiency with paroxysmal nocturnal hemoglobinuria (PNH); nine had common variable immunodeficiency (CVID). Anti-IgA detection used particle gel immunoassay. Tolerance induction involved controlled subcutaneous and/or intravenous infusions of IgG preparations.
+
+Results: Before treatment, all patients tested positive for anti-IgA, which significantly diminished or disappeared following controlled IgG infusions. One PNH patient received multiple transfusions with normal blood components without complications. During continuous intravenous IgG administration at individually required intervals (2-8 weeks), no adverse reactions occurred over up to 10 years. However, treatment interruption and re-exposure to IgG caused adverse reactions.
+
+Conclusion: Patients with significant anti-IgA can be safely desensitized to tolerate long-term IgG substitutions regardless of the IgA concentration in blood components used.
+
+INTRODUCTION
+
+IgA deficiency, alone or combined with common variable immunodeficiency (CVID), represents the most common immune defect across many ethnic populations. At least one-third of these patients develop circulating antibodies to IgA, placing some at risk for IgA-mediated anaphylactic reactions following administration of IgA-containing blood components.
+
+Prevention strategies have included registries of IgA-deficient blood donors. However, practical limitations exist, particularly in emergency settings.
+
+Limited information exists regarding plasma or unwashed blood components from IgA-deficient donors. These products typically contain trace IgA amounts that may precipitate anaphylaxis in severely affected patients. Notably, IgA-depleted intravenous IgG (IVIgG) preparations containing only trace IgA have repeatedly caused anaphylaxis.
+
+The only reliable method to prevent predictable anaphylactic reactions involves inducing immune tolerance prior to administering any IgA-containing blood components.
+
+PATIENTS AND METHODS
+
+Ten patients referred for treatment due to anaphylactic reaction history or risk. Five patients' IIT had been described previously (Ahrens et al. 2008). Four newly studied patients had CVID; one had PNH with isolated IgA deficiency.
+
+IgA concentrations in preparations ranged from <0.015 mg/ml (Sandoglobulin liquid) to <4.8 mg/ml (Subcuvia).
+
+Immune Tolerance Induction Protocol: Protocols varied based on patient history, anti-IgA titers, preparation availability, and IgA concentration. Four patients received subcutaneous IgG initially. One extremely anxious patient required initiation with isolated drops over one hour, gradually increasing to 20 g/4 hours without complications.
+
+RESULTS
+
+Immune Tolerance Induction:
+- Anti-IgA titers significantly diminished or became undetectable following controlled IgG infusions
+- Patient 6: progressed from 1:64 to negative over four days
+- Patient 7: negativity achieved by day 31
+- Patient 8: achieved negativity by day 4
+- Patient 9: negative by day 28, combining subcutaneous and intravenous routes
+- Patient 10 (PNH): extremely slow subcutaneous infusions (80 g over 24 hours), then IV when titers decreased to 1:4
+
+Long-Term Treatment and Outcomes (observation 6 to 120 months):
+- Patients 1, 4, 5, 6, and 10 tolerated ALL preparations without adverse effects
+- Remaining patients developed complications ONLY when treatment was discontinued beyond scheduled intervals
+- Adverse reactions were generally mild to moderate
+- Patient 8 underwent THREE separate desensitizations after repeatedly interrupting treatment
+- Patient 10 tolerated not only IVIgG but also unwashed red blood cell transfusions without complications
+- No boostering of anti-IgA occurred in any patient
+- Anti-IgA remained undetectable during continuous treatment, reappearing after discontinuation without significant titer increases
+
+Adverse Events During Long-Term Treatment:
+- Events occurred predominantly after treatment interruptions exceeding individual patient intervals
+- Included: chills, headache, articular pain, muscular pain, pruritus, lymph node swelling, skin flushing, sweating, dyspnea
+- Patient 2 reacted after 49-57 day intervals
+- Patient 3 after 28 days
+- Patients 7-9 at 14-41 day intervals
+- Patient 10 developed chills after 115 days without treatment
+
+DISCUSSION
+
+IgA-Deficient Donor Products:
+While reactions appear dependent on infused IgA rates and recipient anti-IgA concentrations, trace IgA amounts can cause severe reactions. Consequently, affected patients may not tolerate blood components from IgA-deficient donors, since these products invariably contain trace IgA possibly exceeding amounts in some IVIgG preparations.
+
+Immune Tolerance Induction Success:
+This study demonstrates successful immune tolerance induction and long-term treatment in patients requiring IVIgG and blood transfusions. This was achieved through subcutaneous IVIgG administration, after which all available IVIgG preparations could be normally infused without complications.
+
+Most significantly, Patient 10 tolerated not only IVIgG infusions but also normal unwashed red blood cell concentrates without complications.
+
+Questioning IgA-Deficient Donor Products:
+If immune tolerance can be readily achieved, it is reasonable to question whether preparation, storage, and use of IgA-deficient donor blood components remains justified. These products are rare, costly, time-consuming, and provide no demonstrated therapeutic or prophylactic benefit.
+
+None of the study's IgA-deficient patients developed alloimmunization, and boostering did not occur. This observation aligns with studies suggesting these antibodies result from autoimmune rather than alloimmune processes.
+
+Mechanism of IVIgG Action:
+The impact of IVIgG on anti-IgA may resemble mechanisms in autoimmune thrombocytopenia (ITP). ITP responses to IVIgG typically last 2-3 weeks. Similarly, anaphylactic reactions occurred when patients discontinued treatment for extended periods, allowing anti-IgA reactivation. Treatment with high-dose IgG simultaneously results from anti-IgA circulation blockage and IgA production inhibition.
+
+CONCLUSION
+
+Patients with significant anti-IgA can be safely desensitized through controlled immune tolerance induction protocols. Following successful desensitization, these patients tolerate long-term IgG substitutions independent of blood component IgA concentrations. This approach eliminates the necessity for blood products from rare IgA-deficient donors.
+
+REFERENCES
+
+1. Yu H, Sandler SG. Transfus Med Hemother. 2003;30:214-220.
+2. Vassallo RR. Immunohematology. 2004;20:226-233.
+3. Latiff AHA, Kerr MA. Ann Clin Biochem. 2007;44:131-139.
+4-7. [Blood donor registry references]
+8. Sloand EM, et al. Transfusion. 1990;30:322-326.
+9. Ahrens N, et al. Clin Exp Immunol. 2008;151:455-458.
+10. Horn J, et al. Clin Immunol. 2007;122:156-162.
+11. Rachid R. J Allergy Clin Immunol. 2011;128:228-229.
+12-23. [Additional references]

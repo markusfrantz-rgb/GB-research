@@ -1,0 +1,55 @@
+========================================================================
+Title: Additional Rehabilitative Robot-Assisted Gait Training for Ambulation in Geriatric Individuals with Guillain-Barre Syndrome: A Case Report
+Authors: Fred Yi-Shueh Chen, Wen-Hsuan Hou, Hsun-Hua Lee, Ying-Chi Huang, Co Yih Siow
+Journal: Medicina (Kaunas)
+Year: 2024
+Volume: 60(8):1209
+PMID: 39202490
+PMC: PMC11356725
+DOI: 10.3390/medicina60081209
+Downloaded: 2026-03-26
+========================================================================
+
+ADDITIONAL REHABILITATIVE ROBOT-ASSISTED GAIT TRAINING FOR AMBULATION IN GERIATRIC INDIVIDUALS WITH GUILLAIN-BARRE SYNDROME: A CASE REPORT
+
+ABSTRACT
+
+This study describes a 75-year-old Asian female with Guillain-Barre syndrome undergoing comprehensive rehabilitation including robot-assisted gait training (RAGT). GBS causes fatigue and prolonged immobility, particularly debilitating for elderly patients. While exercise is recommended, appropriate intensity remains undetermined. The patient underwent robotic training using Lokomat technology integrated with conventional therapy. Results demonstrated feasibility and safety with improvements in functional independence metrics at hospital discharge.
+
+1. INTRODUCTION
+
+Guillain-Barre syndrome represents an acquired immune-mediated inflammatory condition affecting peripheral nerves, with estimated annual global incidence of approximately 1-2 cases per 100,000 person-years. Advanced age constitutes a significant predictor of unfavorable outcomes. Incidence increases with age, and recovery duration extends substantially for older individuals.
+
+GBS produces flaccid paralysis affecting speech, swallowing, respiration, and ambulation capacity. Despite appropriate pharmacological intervention, approximately 10-20% experience residual disabilities from muscle weakness, while 60-80% encounter persistent fatigue.
+
+Consensus regarding optimal exercise protocols for GBS patients with concurrent disabilities remains incomplete. Research suggests high-intensity exercise proves more effective than low-intensity approaches in reducing disability occurrence. However, caution is necessary since overtraining denervated muscles in peripheral nerve involvement may cause additional weakening and fatigue.
+
+2. PATIENT INFORMATION
+
+A 75-year-old Asian female presented in January 2024 with symmetric distal lower limb weakness and ataxia. Deep-tendon reflex examination revealed areflexia in knees and ankles. She reported numbness and burning sensations in bilateral distal lower extremities. Weakness progressed rapidly, ascending to bilateral proximal thighs within days, preventing standing. Upper limb strength remained intact at grade 5, while bilateral lower limbs demonstrated grade 0 strength.
+
+Medical history revealed recent COVID-19 infection causing mild fever and upper respiratory symptoms. Nerve conduction studies demonstrated absent motor conduction velocity and amplitude over left peroneal nerve with decreased right-side values. Elevated cerebrospinal fluid protein confirmed AIDP variant diagnosis.
+
+She received IVIG at 0.4 g/kg/day for five days. Due to lower limb paralysis, a multidisciplinary team implemented comprehensive patient-centered rehabilitation program.
+
+Initial comprehensive geriatric assessment identified mild depression, severe frailty, total dependency, fall risk, malnutrition, sarcopenia, and decreased functional abilities.
+
+RAGT Sessions:
+
+First session (week 3): 80% body weight support and guidance force, walking speed 1.2 km/h. She achieved 421 meters in 24 minutes with two rest breaks due to fatigue.
+
+Second session (week 4): Body weight support decreased to 70%, walking speed increased to 1.3 km/h. Walking distance improved to 623 meters with 30-minute training duration, no rest breaks needed.
+
+Outcomes: After one month hospitalization, improvement progressed from bed-bound status to sitting ability with bed-to-standing transfer capacity using walker support. Lower limb muscle power increased from grade 0 to 4. Barthel Index improved from 15 to 65 (total dependency to moderate dependency).
+
+3. DISCUSSION
+
+Advanced age represents an independent risk factor for worse prognosis and additional geriatric syndromes. The European Academy of Neurology and Peripheral Nerve Society task force recognize physiotherapy, occupational therapy, speech therapy, and rehabilitation importance during acute and chronic GBS phases.
+
+This represents the first case report safely incorporating RAGT into older patient rehabilitation programs for GBS. RAGT provides early rehabilitation benefits and gait motion performance before sufficient lower limb muscle power acquisition for standing.
+
+The patient expressed satisfaction with both RAGT sessions. Walking opportunity proved motivating and improved mood. Television monitor providing augmented feedback and walking exercises increased attention and participation.
+
+4. CONCLUSIONS
+
+This case demonstrated RAGT feasibility integrated with conventional rehabilitation for elderly GBS patients without adverse events and improved functional discharge outcomes. Exercise rehabilitation and RAGT produced improved lower limb strength translating to better ambulation and increased ADL independence. Clinicians may apply RAGT for elderly GBS patients; however, fatigue and overexertion caution is necessary. Future trials should determine optimal RAGT dosage, frequency, intensity, and efficacy in GBS.

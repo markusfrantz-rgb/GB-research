@@ -1,0 +1,90 @@
+========================================================================
+Title: Physical Exercise in Guillain-Barre Syndrome: A Scoping Review
+Authors: Pawel Kiper, Manon Chevrot, Julie Godart, Blazej Cieslik, Aleksandra Kiper, Martina Regazzetti, Roberto Meroni
+Journal: Journal of Clinical Medicine
+Year: 2025
+Volume: 14(8):2655
+PMID: 40283485
+PMC: PMC12028042
+DOI: 10.3390/jcm14082655
+Downloaded: 2026-03-26
+========================================================================
+
+PHYSICAL EXERCISE IN GUILLAIN-BARRE SYNDROME: A SCOPING REVIEW
+
+ABSTRACT
+
+This scoping review evaluated how physical activity impacts muscle strength, functional independence, and fatigue in Guillain-Barre Syndrome (GBS) patients. The authors conducted a systematic literature search across PubMed, Embase, Cochrane, Scopus, and Web of Science in March and June 2024. They identified 1,021 papers, ultimately including 16 peer-reviewed studies focusing on physical exercise interventions for GBS rehabilitation.
+
+The review concludes that physical exercise may enhance strength, reduce fatigue, and promote functional independence in GBS. Recommended interventions included muscle strengthening, functional training, and endurance exercises, though the authors note that larger, high-quality studies and further research into chronic fatigue mechanisms are needed.
+
+INTRODUCTION
+
+Guillain-Barre Syndrome represents an umbrella term for a group of rare, post-infectious immune-mediated inflammatory disorders of the peripheral nervous system. The incidence ranges from 0.8 to 1.9 cases per 100,000 person-years. Common variants include Acute Inflammatory Demyelinating Polyradiculoneuropathy (AIDP) and Acute Motor Axonal Neuropathy (AMAN).
+
+Approximately two-thirds of GBS patients experience preceding respiratory or gastrointestinal infections, with Campylobacter jejuni implicated in about 30% of cases. Despite neurological recovery, many of them will remain severely fatigued.
+
+Primary treatment involves immunotherapy through plasma exchange (PE) or intravenous immunoglobulin (IVIg). Beyond pharmacological intervention, physical activity also plays a crucial role in the overall management of GBS.
+
+RESULTS
+
+Search Outcomes: 565 articles after duplicate removal; 16 papers included.
+- 7 case reports (43.75%)
+- 2 case studies (12.5%)
+- 2 RCTs (12.5%)
+- 2 case series (12.5%)
+- 2 prospective studies (12.5%)
+- 1 cohort study (6.25%)
+Total participants: 181 individuals
+
+Intervention Characteristics:
+- Muscle Strengthening/Dynamic Exercise: 10 studies (62.5%)
+- Functional Training: 11 studies (68.75%)
+- Endurance Training: 7 studies (43.75%)
+- Range of Motion Exercises: 6 studies (37.5%)
+- Home-Exercise Programs: 7 studies (43.75%)
+
+Outcome Improvements:
+- Muscle Strength: 13 of 16 studies (81.25%) demonstrated improvement
+- Functional Independence: 14 of 16 studies (87.5%) showed improvement
+- Fatigue: Only 5 of 16 studies (31.25%) assessed fatigue; all five demonstrated fatigue reduction
+
+PHYSICAL ACTIVITY RECOMMENDATIONS
+
+Muscle Strengthening (10 studies):
+- Frequency: 2-3 sessions/week
+- Volume: 2-3 sets of 10-15 repetitions
+- Methods: Static, active/dynamic, resistance, isotonic/isometric/isokinetic
+- Long-term: Strength gains persisted at 6-month follow-up
+- Note: Supervised exercise produced greater gains than home-based programs
+
+Functional Training (11 studies):
+- Frequency: Daily or 3-5 sessions/week
+- Components: Gait training, transfers, sit-to-stand, postural/balance training, ADLs
+- Long-term: Functional gains maintained at 12-month follow-up
+
+Endurance Training (7 studies):
+- Frequency: 2-3 sessions/week
+- Duration: 30 minutes per session
+- Methods: Stationary cycling, aerobic training
+- Long-term: Fatigue benefits declined after 12 months without continued training
+- Note: Lower intensity initially recommended for severe fatigue cases
+
+Range of Motion and Stretching (6 studies):
+- Frequency: 2-3 sessions/day
+- Volume: 10-20 repetitions per joint; 15-30 second holds for stretches
+- Note: Important for early-phase rehabilitation, prevents contractures
+
+DISCUSSION
+
+Physical exercise is a favorable intervention for improvements in GBS patients and should be considered an important aspect of GBS treatment. The majority of appraised articles showed improvements in muscle strength and functional independence; however, the link between decreased fatigue and physical activity is less apparent.
+
+In the acute phase of GBS, peripheral fatigue is the main contributor, while in the chronic phase, the experienced fatigue might be influenced by other psychosocial factors. Physical activity correlates with psychological well-being and improves sleep quality and depressive/anxiety symptoms.
+
+Physiotherapists should consider combining all types of physical activity in their rehabilitation program to provide optimal rehabilitation. Guidelines recommend continuing physiotherapy beyond six months, as functions can improve for many months post-acute phase.
+
+Safety Considerations: Only one study addressed intervention side effects. Garssen et al. reported mild, transient adverse effects in 5 of 30 patients: muscle cramps, burning sensation, pain, and paresthesia in the leg.
+
+CONCLUSIONS
+
+Physical exercise shows measurable benefits for strength, fatigue reduction, and functional independence among individuals with GBS, with muscle strengthening, functional training, and endurance exercises representing core components of effective rehabilitation. Sustained engagement and structured supervision extend benefits beyond six months. Larger, high-quality RCTs with extended follow-up are warranted for refining optimal exercise parameters.

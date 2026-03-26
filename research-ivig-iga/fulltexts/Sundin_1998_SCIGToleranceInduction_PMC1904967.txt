@@ -1,0 +1,118 @@
+Title: Induction of unresponsiveness against IgA in IgA-deficient patients on subcutaneous immunoglobulin infusion therapy
+Authors: U Sundin, S Nava, L Hammarström
+Journal: Clinical and Experimental Immunology
+Year: 1998
+PMID: 9649200
+PMC: PMC1904967
+DOI: 10.1046/j.1365-2249.1998.00571.x
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+INDUCTION OF UNRESPONSIVENESS AGAINST IGA IN IGA-DEFICIENT PATIENTS ON SUBCUTANEOUS IMMUNOGLOBULIN INFUSION THERAPY
+
+U Sundin, S Nava, L Hammarström
+
+Department of Clinical Immunology, Huddinge University Hospital, Karolinska Institute, Sweden
+Clinical and Experimental Immunology, 1998, 112(2):341-346
+
+ABSTRACT
+
+Patients with IgA deficiency frequently develop circulating antibodies against IgA, potentially associated with transfusion reactions. The study examined sera from three common variable immunodeficiency patients and one with selective IgA deficiency, all with anti-IgA antibodies receiving subcutaneous gammaglobulin replacement therapy over 4-7 years. Treatment with high IgA-containing preparations (<5 mg/ml) decreased or eliminated anti-IgA antibodies. Serum fractionation revealed anti-IgA activity shifted to complex-containing fractions. In vitro experiments confirmed this redistribution from monomeric to complex fractions. When patients switched to low IgA preparations (<80 ug/ml) or discontinued treatment, anti-IgA antibodies reappeared. Notably, one patient lost anti-IgA activity during high IgA treatment, with antibodies remaining absent after five years on low IgA preparation, suggesting tolerization induction.
+
+Keywords: anti-IgA, IgA deficiency, subcutaneous gammaglobulin, tolerization, immune complexes
+
+INTRODUCTION
+
+Immunoglobulin replacement therapy for hypogammaglobulinemia has been employed since Bruton's initial description of congenital agammaglobulinemia. Among immunodeficient patients, a subgroup exhibits low or undetectable IgA levels. Anti-IgA antibody prevalence in Caucasian IgA-deficient patients reaches approximately 30-40%, rising to 50-60% in combined IgA-IgG2 deficiency. Anti-IgA levels in IgA-deficient blood donors remain remarkably stable over extended periods.
+
+Subcutaneous immunoglobulin infusion has demonstrated safety and cost-effectiveness, with minimal adverse reactions and home therapy feasibility. The researchers noted marked reduction or elimination of anti-IgA titers in certain treated patients.
+
+MATERIALS AND METHODS
+
+Patients: From 194 selective IgA deficiency patients (<50 ug/ml) and 48 hypogammaglobulinemia patients, four were selected demonstrating anti-IgA antibody disappearance during subcutaneous immunoglobulin treatment. All monitored for 4-7 years. Three patients (two males, one female; patients 1, 2, 3) had hypogammaglobulinemia with complete IgA deficiency; one male patient (patient 4) had selective IgA deficiency.
+
+Immunoglobulin dose: 100 mg/kg weekly. Two preparations used:
+- Gammabulin: <3% IgA (4.8 mg/ml) -- HIGH IgA
+- Gammaglobulin (Pharmacia-Upjohn): <0.01% IgA (82 ug/ml) -- LOW IgA
+
+Anti-IgA: Measured via hemagglutination assay and ELISA using IgA-coated plates.
+
+Serum Fractionation: Gel filtration (Superose 6, FPLC) to separate monomeric, dimeric/small complex, and large complex fractions.
+
+RESULTS
+
+Persistence of anti-IgA Antibodies in IgA-deficient Patients:
+- Anti-IgA detected in 44 (23%) of 194 IgA-deficient patients
+- Of 44 patients followed for 560 total patient-years without treatment, only 4 untreated patients became anti-IgA negative (all initially weakly positive)
+- No patients with moderate/strong anti-IgA reactivity converted spontaneously
+
+Disappearance of Strong anti-IgA Reactivity:
+- Low IgA preparation maintained CONSTANT anti-IgA activity over nine years
+- HIGH IgA preparation achieved UNDETECTABLE anti-IgA levels within one month (patient 4)
+- Among 11 CVID-treated patients with anti-IgA, 5 lost anti-IgA activity during high IgA therapy
+
+Key Patient Outcomes:
+
+Patient 4 (selective IgA deficiency): Treatment interruption caused IgA decline and anti-IgA reappearance. Reversed upon treatment resumption.
+
+Patient 2: When switched to LOW IgA preparation, serum IgA became undetectable but anti-IgA did NOT reappear -- persisting unchanged for FIVE YEARS. This suggests TRUE TOLERIZATION was achieved.
+
+Patient 3: Similar changes to Patient 2, observed for one year.
+
+Serum Fractionation Analysis:
+- Pre-treatment: anti-IgA activity resided primarily in monomeric fraction
+- Post-treatment with high-IgA preparation: anti-IgA undetectable in whole sera BUT recoverable in dimeric and complex fractions (antibody-IgA complexes)
+- Patient 2 on low IgA preparation: NEGATIVE anti-IgA in both unfractionated AND fractionated serum (true tolerance)
+
+In Vitro Complexing Experiments:
+Adding purified IgA to anti-IgA-containing serum caused redistribution:
+- Low IgA (10 ug/ml): anti-IgA decreased in monomeric fractions, increased in complex fractions
+- High IgA (100 ug-1 mg/ml): anti-IgA signals near detection limits; IgA increased in complex and dimer fractions
+
+DISCUSSION
+
+Two mechanisms explain anti-IgA disappearance:
+
+1. COMPLEXING: Added IgA binds circulating anti-IgA, forming IgG-IgA complexes. With sufficient IgA (antigen excess), complexed anti-IgA antibodies are cross-bound and unavailable for detection.
+
+2. TRUE TOLERANCE: Patient 2 showed complete disappearance of anti-IgA that persisted for 5+ years even on low-IgA preparation. Possible mechanisms include:
+   - Anti-idiotypic antibodies in immunoglobulin preparations interacting with autoreactive antibodies
+   - B cell anergy through surface immunoglobulin and Fc-receptor cross-linking
+   - Since IgA serves as autoantigen, enhanced complex formation targets B cell clones producing anti-IgA
+
+Clinical Significance:
+- Safely inducing unresponsiveness against IgA was achieved through initial subcutaneous high IgA-containing immunoglobulin infusion
+- All four patients demonstrated NO systemic side effects, NO immune complex deposition evidence
+- Only occasional mild local infusion site effects, indistinguishable from non-anti-IgA antibody groups
+- Subcutaneous administration route recommended for infection-prone IgA-deficient patients
+
+ACKNOWLEDGMENTS
+
+Supported by The Swedish Medical Research Council and Pharmacia-Upjohn grants.
+
+REFERENCES
+
+1. Bruton OC. Pediatrics. 1952;9:722-8.
+2. Ferreira A, et al. Clin Immunol Immunopathol. 1988;47:199-207.
+3. Björkander J, et al. J Clin Immunol. 1987;7:8-15.
+4. Koskinen S, et al. J Clin Immunol. 1995;15:194-8.
+5. Burks AW, et al. N Engl J Med. 1986;314:560-4.
+6. Frankel SJ, et al. Ann Allergy. 1986;56:436-9.
+7. Martinez-Sanz R, et al. J Cardiovasc Surg. 1990;31:247-8.
+8. Cunningham-Rundles C, et al. J Clin Immunol. 1993;13:272-8.
+9. Gardulf A, et al. Lancet. 1991;338:162-6.
+10. Cunningham-Rundles C, et al. Clin Immunol Immunopathol. 1986;38:141-9.
+11. Baudner S, et al. Brussels: Community Bureau of EC; 1993. pp. 1-172.
+12. Hammarström L, et al. Scand J Immunol. 1983;18:8-15.
+13. Hiemstra PS, et al. Eur J Immunol. 1987;17:321-6.
+14. Jerne NK. Ann Immunol (Paris). 1991;125C:373-89.
+15. Sultan Y, et al. Proc Natl Acad Sci USA. 1987;84:828-31.
+16. Ruiz-Arguelles A. J Clin Invest. 1988;82:958-63.
+17. Rossi F, et al. Clin Exp Immunol. 1991;83:298-303.
+18. Bussel JB, et al. J Pediatrics. 1985;106:886-90.
+19. Jungi TW, Nydegger UE. Transfus Sci. 1992;13:267-90.
+20. Hammarström L, et al. Immunol Rev. 1994;139:43-70.
+21. Phillips NE, Parker DC. J Immunol. 1984;132:627-32.
+22. Gustafson R, et al. Lancet. 1997;350:865.

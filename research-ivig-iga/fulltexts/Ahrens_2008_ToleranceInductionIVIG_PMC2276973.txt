@@ -1,0 +1,108 @@
+Title: Immune tolerance induction in patients with IgA anaphylactoid reactions following long-term intravenous IgG treatment
+Authors: N Ahrens, C Höflich, S Bombard, H Lochs, H Kiesewetter, A Salama
+Journal: Clinical and Experimental Immunology
+Year: 2008
+PMID: 18234056
+PMC: PMC2276973
+DOI: 10.1111/j.1365-2249.2007.03483.x
+Downloaded: 2026-03-26
+Source: PubMed Central Open Access
+
+---
+
+IMMUNE TOLERANCE INDUCTION IN PATIENTS WITH IGA ANAPHYLACTOID REACTIONS FOLLOWING LONG-TERM INTRAVENOUS IGG TREATMENT
+
+N Ahrens, C Höflich, S Bombard, H Lochs, H Kiesewetter, A Salama
+
+Clinical and Experimental Immunology, 2008, 151(3):455-458
+
+ABSTRACT
+
+"To date, there is very little information regarding the pathomechanism of IgA anaphylactoid reactions and the management of affected patients." The study examined five adult patients with common variable immunodeficiency (CVID) experiencing anaphylactic reactions from immunoglobulin preparations. Anti-IgA antibodies were detected in all patients' serum using gel agglutination technique with IgA-coated beads. Treatment involved cautiously administering IgA-depleted intravenous IgG until anti-IgA activity significantly decreased or became undetectable. Subsequently, standard IgG preparations were infused, resulting in complete abolition of anti-IgA activity in all cases. The findings demonstrated that "intravenous IgG long-term administration results in tolerance induction in patients with IgA anaphylactoid reactions." The researchers concluded that tolerance appears linked to antibody blockage in circulation and inhibited antibody production, and that patients can safely receive IgA-containing preparations following tolerance induction.
+
+INTRODUCTION
+
+Anaphylaxis represents life-threatening immune responses triggered by specific antigens. Patients with CVID or selective IgA deficiency frequently develop anti-IgA antibodies, which can provoke anaphylactoid reactions when exposed to IgA-containing blood products. The incidence of IgA anaphylactoid reactions was estimated at "roughly one per 50,000 transfusions."
+
+Previous management strategies included: use of IgA-deficient donor blood or washed cells; IgA-depleted intravenous immunoglobulin; subcutaneous IgG administration; and ex vivo pretreatment of preparations with autologous plasma.
+
+PATIENTS AND METHODS
+
+Five adult patients (three females, two males, ages 33-70) with CVID and previous anaphylactic reactions to IgG preparations were enrolled. All participants had experienced at least one anaphylactic episode upon exposure to immunoglobulin products. Anti-IgA was detectable in all five patients' serum.
+
+Table 1: Patient Demographics and Anti-IgA Status
+
+Patient 1: Age 40, Male, Anti-IgA Unknown, 1 prior anaphylactic reaction, IM IgG
+Patient 2: Age 33, Female, Anti-IgA 1:4, 1 prior reaction, Intraglobin
+Patient 3: Age 52, Female, Anti-IgA 1:64, 1 prior reaction, Venimmun
+Patient 4: Age 70, Male, Anti-IgA 1:2, 1 prior reaction, Intratect
+Patient 5: Age 62, Female, Anti-IgA 1:4, 3 prior reactions, Intraglobin/Sandoglobin/Endobulin
+
+IgA concentrations in preparations: Endobulin 30 ug/ml; Intraglobin 2.5 mg/ml; Intratect <2 mg/ml; Sandoglobulin liquid <15 ug/ml; Venimmun 12%
+
+RESULTS
+
+All patients presented with recurrent infections and abdominal discomfort.
+
+Patient 1: Received IVIgG pretreated in vitro with autologous plasma. Anti-IgA activity diminished completely, allowing different IgG preparations with varying IgA amounts without complications.
+
+Patients 2-4: Developed delayed reactions (4-8 hours post-infusion) while anti-IgA remained detectable. Reactions were generally mild and did not occur during infusion itself.
+
+Patient 5: Initially received 10 grams of IgA-depleted preparation infused slowly over 8 hours. Anti-IgA became undetectable, allowing subsequent standard-speed infusions without reaction.
+
+Table 3: Immunoglobulin Concentrations Before and After Treatment (mg/dl)
+
+Patient 1: IgG 70->493, IgM 18->97, IgA <5-><5
+Patient 2: IgG 389->559, IgM 15->13, IgA <5->10
+Patient 3: IgG 204->1455, IgM 29->29, IgA <5-><5
+Patient 4: IgG 108->592, IgM 13->15, IgA <5-><5
+Patient 5: IgG <40->893, IgM <3-><3, IgA <5-><5
+
+Key observation: Abdominal symptoms improved when patients received IgA-containing preparations but worsened during IgA-depleted preparation therapy.
+
+DISCUSSION
+
+"The phenomenon of IgA anaphylaxis is well known, but the true pathomechanism of the reaction is still poorly understood."
+
+Tolerance Induction Mechanism:
+- IgA anaphylaxis depends upon IgA concentration in preparations, anti-IgA activity levels, infusion speed, and intervals between treatments
+- "Patients with weak anti-IgA appear to develop tolerance much easier than patients with strong anti-IgA titres"
+- Tolerance induction appears related to two processes: antibody blockage in circulation and inhibition of anti-IgA production
+- Infused residual IgA molecules form in vivo complexes with anti-IgA, subsequently eliminating anti-IgA activity
+- High-dose intravenous IgG inhibits anti-IgA production
+
+Role of Anti-IgA Development:
+- Anti-IgA does not appear to result from allogeneic stimulation in most cases
+- Anti-IgA activity decreases or becomes eliminated following IgA administration, rather than being boosted
+- This suggests unique immunological behavior
+
+KEY CONCLUSIONS
+
+1. Intravenous IgG long-term administration induces immune tolerance in IgA anaphylaxis patients
+2. Tolerance relates to antibody blockage and inhibited anti-IgA production
+3. IgA plays an important therapeutic role in CVID management
+4. Patients can safely receive IgA-containing IgG preparations following tolerance induction
+5. Careful, gradual re-exposure to IgA-containing products enables tolerance development
+
+REFERENCES
+
+1. Vassallo RR. Immunohematology. 2004;20:226-33.
+2. Sloand EM, et al. Transfusion. 1990;30:322-6.
+3. Davenport RD, et al. Vox Sang. 1992;63:247-50.
+4. Sandler SG, et al. Transfus Med Rev. 1995;9:1-8.
+5. Win N, et al. Vox Sang. 1997;72:251.
+6. Cunningham-Rundles C, et al. J Clin Immunol. 1993;13:272-8.
+7. Gardulf A, et al. Lancet. 1991;338:162-6.
+8. Salama A, et al. Transfusion. 2004;44:509-11.
+9. Salama A, et al. Vox Sang. 2001;81:45-8.
+10. Ferreira A, et al. Clin Immunol Immunopathol. 1988;47:199-207.
+11. Munks R, et al. Immunohematology. 1998;14:155-60.
+12. Sandler SG, Zantek ND. Immunohematology. 2004;20:234-8.
+13. Limaye S, et al. Intern Med J. 2001;31:256-7.
+14. Ammann AJ, et al. Clin Immunol Immunopathol. 1982;22:60-7.
+15. Cunningham-Rundles C, et al. Ann Intern Med. 1984;101:435-9.
+16. Stiehm ER, et al. Ann Intern Med. 1987;107:367-82.
+17. Sundin U, et al. Clin Exp Immunol. 1998;112:341-6.
+18. Klaesson S, et al. Scand J Immunol. 1996;43:574-82.
+19. Sigman K, et al. J Allergy Clin Immunol. 1998;102:421-7.
+20. Zhuang Q, Mazer B. J Allergy Clin Immunol. 2001;108:229-34.

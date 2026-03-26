@@ -1,0 +1,70 @@
+========================================================================
+Title: Amantadine for treatment of fatigue in Guillain-Barre syndrome: a randomised, double blind, placebo controlled, crossover trial
+Authors: MPJ Garssen, PIM Schmitz, BC Jacobs, FGA van der Meche, PA van Doorn, ISJ Merkies
+Journal: Journal of Neurology, Neurosurgery, and Psychiatry
+Year: 2006
+Volume: 77(1):61-65
+PMID: 16361594
+PMC: PMC2117395
+DOI: 10.1136/jnnp.2004.046227
+Downloaded: 2026-03-26
+========================================================================
+
+AMANTADINE FOR TREATMENT OF FATIGUE IN GUILLAIN-BARRE SYNDROME: A RANDOMISED, DOUBLE BLIND, PLACEBO CONTROLLED, CROSSOVER TRIAL
+
+ABSTRACT
+
+Objective: Fatigue constitutes a major complaint in patients with immune mediated polyneuropathies. Despite apparently good physical recovery after Guillain-Barre syndrome (GBS), many patients remain restricted in daily and social activities, and have a decreased quality of life. This trial examined amantadine's effect on severe fatigue related to GBS.
+
+Methods: During the pre-treatment phase, all patients were monitored for 2 weeks. Only patients with severe fatigue, defined as a mean fatigue score of >=5.0 on the Fatigue Severity Scale (FSS), were randomised for this double blind, placebo controlled, crossover study. Primary outcome measure was improvement of at least 1 point on the FSS. Secondary outcome measures were impact of fatigue, anxiety and depression, handicap, and quality of life.
+
+Results: In total, 80 patients with GBS were randomised, of whom 74 were included for analysis. Fatigue appeared to be reduced already during the pre-treatment phase (p = 0.05), probably due to increased attention provided to the patients. No significant differences in any of the primary and secondary outcome measures were found.
+
+Conclusions: Amantadine was not superior to placebo. Because fatigue remains a serious complaint, other studies evaluating new treatment options are strongly recommended.
+
+INTRODUCTION
+
+Guillain-Barre syndrome (GBS), an immune mediated disease of the peripheral nervous system, is characterised by acute symmetrical limb weakness and reduction or loss of myotatic reflexes. Sensory deficits and respiratory insufficiency may occur. Approximately three quarters of patients with GBS experience good neurological recovery after adequate therapy; however, severe fatigue is a major residual complaint in the majority of patients with immune mediated polyneuropathies. The cause of fatigue is still unknown, but it is significantly associated with a reduced quality of life. It appears to be independent of muscle strength, sensory deficits, functional ability, and duration of symptoms.
+
+A systematic literature review was conducted evaluating the therapeutic options of fatigue in other immune mediated (neurological) disorders. Treatment options were limited. Besides training intervention studies, various pharmacological agents as pemoline, modafinil, and amantadine were studied for treating fatigue in multiple sclerosis (MS). Four short term studies demonstrated the efficacy of amantadine in treating fatigue in patients with mild to moderate MS. Amantadine, a NMDA receptor antagonist, blocks pre-synaptic dopamine reuptake and stimulates postsynaptic receptors. However, its working mechanism in fatigued patients with MS is still poorly understood. To our knowledge, no pharmacological intervention studies aiming to treat fatigue have been performed on patients with GBS to date.
+
+METHODS
+
+The study was approved by the ethics committee of Erasmus Medical Center in May 2000.
+
+Patients: In total, 80 neurologically stable patients who had developed GBS and who met the international criteria from the National Institute of Neurological and Communicative Disorders and Stroke were included. Patients were recruited from the Dutch GBS databank at the Erasmus Medical Center Rotterdam or the Dutch GBS patients association.
+
+Patients fulfilling the criteria for severe fatigue, defined as a mean FSS score of >=5.0, were eligible. A stable neurological clinical condition was defined as no apparent changes in GBS disability score within 3 months before the start of this study. The onset of GBS was >6 months and <15 years previously. Patients had to be at least 18 years old, and have a GBS disability score of <=3 (able to walk at least 10 metres with or without aid).
+
+Study Design: All patients enrolled in this single centre, randomised, double blind, placebo controlled, 2x2 crossover trial. Amantadine (100 mg tablets) and placebo tablets indistinguishable in taste, colour, and size were supplied. Patients received amantadine or placebo for 6 weeks. The dosing schedule was one tablet daily taken in the morning during the first week. A second tablet was added in the afternoon in week 2 until week 6. After a washout period of 2 weeks, patients received the crossover treatment for another 6 weeks.
+
+RESULTS
+
+Baseline Characteristics: From 87 potential eligible patients, seven were not eligible: five had a pre-entry FSS score <5.0, one had severe cardiovascular disease, and one had hypothyroidism, anaemia, and depression. Three randomised patients were withdrawn in the first treatment phase. Thus, 77 patients (96%) completed the trial.
+
+Pre-treatment Response: Fatigue reduction almost reached significance when comparing visit 1 with visit 2 (p = 0.05, Wilcoxon signed rank test). This was attributed to the increased attention given to patients during the study.
+
+Primary Endpoint: For both groups of patients combined, the proportion of responders was 9 of 25 patients (36%) (OR = 0.56; 95% CI 0.22 to 1.35; p = 0.16), indicating no difference between responses after placebo or amantadine. The overall mean difference between the amantadine and placebo period changes in FSS scores was -0.45 (95% CI -0.94 to 0.04; t = -1.80; df = 73; p = 0.076) which did not quite reach significance, although it favoured amantadine.
+
+Secondary Endpoints: No significant differences between the treatment periods within individual patients for FIS, HAD, RHS, EHQ, or SF-36 were observed.
+
+Adverse Effects: In 40% of patients, mild and transient side effects were noticed; in 22 patients (28%) during amantadine treatment and in 10 patients (13%) during placebo treatment. The most striking differences were noticed in complaints about sleep; nine patients (11%) reported some sleep disturbances when treated with amantadine, and one patient (1%) while using placebo.
+
+DISCUSSION
+
+This is the first study evaluating amantadine as treatment of severe fatigue after GBS. Amantadine was not effective. No significant differences were seen on the FSS between treatment groups. Nevertheless, a certain reduction of fatigue was observed seen both during the pre-treatment period (visit 1 to visit 2), and during the consecutive visits. A possible explanation may be the increased attention given to patients with fatigue during the study and its corresponding ameliorating influence on fatigue.
+
+Fatigue has been briefly addressed as a residual complaint in a few cases of GBS in the past. Merkies et al. showed that complaints about fatigue and endurance intolerance may persist for many years. Fatigue, distinguishable from the transient and mild fatigue many healthy persons experience, is still under-recognised by neurologists and rehabilitation physicians. Fatigue remains a severe problem and one of the most important reasons for decrease in quality of life, social life, and physical functioning for years. Despite studies reporting positive effects of training intervention on fatigue in GBS and CIDP, to date no adequate drug therapy exists.
+
+Amantadine did not show a positive effect in this trial, but attention to patients with fatigue seems to be important. Because of the persistence and severity of the complaints, further studies evaluating pathophysiological mechanisms and evaluating other drugs or physical training for "post-GBS fatigue" are indicated.
+
+REFERENCES
+
+1. Asbury AK, Cornblath DR. Assessment of current diagnostic criteria for Guillain-Barre syndrome. Ann Neurol. 1990;27(Suppl):S21-S24.
+2. Hartung HP, Van Der Meche FG, Pollard JD. Guillain-Barre syndrome, CIDP and other chronic immune-mediated neuropathies. Curr Opin Neurol. 1998;11:497-513.
+3. Merkies IS, Schmitz PI, Samijn JP, et al. Fatigue in immune-mediated polyneuropathies. Neurology. 1999;53:1648-1654.
+4. Murray TJ. Amantadine therapy for fatigue in multiple sclerosis. Can J Neurol Sci. 1985;12:251-254.
+5. Krupp LB, Coyle PK, Doscher C, et al. Fatigue therapy in multiple sclerosis. Neurology. 1995;45:1956-1961.
+6. The Canadian MS Research Group. A randomized controlled trial of amantadine in fatigue associated with multiple sclerosis. Can J Neurol Sci. 1987;14:273-278.
+7. Cohen RA, Fisher M. Amantadine treatment of fatigue associated with multiple sclerosis. Arch Neurol. 1989;46:676-680.
+8. Garssen MP, Bussmann JB, Schmitz PI, et al. Physical training and fatigue, fitness, and quality of life in Guillain-Barre syndrome and CIDP. Neurology. 2004;63:2393-2395.
