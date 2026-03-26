@@ -10,7 +10,6 @@
 | | Antal |
 |---|---|
 | ✅ Fulltext i källmappen | **29** (19 PDF + 10 text) |
-| ❌ Saknas — betalvägg | **0** |
 | ⏳ Ej publicerad i journal | **1** |
 | **Totalt kartlagda** | **30** (alla hämtade) |
 
