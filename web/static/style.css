@@ -197,8 +197,7 @@ body {
   white-space: nowrap;
 }
 .doc-view td:first-child,
-.doc-view td:last-child,
-.doc-view td:nth-last-child(2) {
+.doc-view td:last-child {
   white-space: nowrap;
 }
 
