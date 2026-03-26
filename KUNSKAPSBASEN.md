@@ -44,6 +44,7 @@ status: active
 | 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
 | 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion vid ljus (hjärnstam fungerar). CT/MR planeras för att utesluta centrala orsaker. |
 | 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat, bollar strategier. |
+| 2026-03-26 (em) | CT hjärna: **normal** (centrala orsaker uteslutna). Neurologen känner till efgartigimod men avvaktar — vill utvärdera PE först. IVIg trolig plan B. |
 | 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
 
 **Kommunikation (2026-03-25):** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
