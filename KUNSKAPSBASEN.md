@@ -46,9 +46,13 @@ status: active
 | 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat, bollar strategier. |
 | 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
 
-**Kommunikation:** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
+**Kommunikation (2026-03-25):** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
+
+**Neurologisk bedömning (2026-03-26 em):** Sedering lättad — så gott som obefintliga neurologiska reaktioner. Svag pupillreaktion vid ljus (hjärnstamsfunktion bevarad). OBS: kvarvarande sederingseffekt kan maskera sant neurologiskt status (24-48h krävs). CT/MR planeras.
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
+
+→ [**NYTT:** Vad den nya forskningen betyder för Madeleine — 12 frågor till läkarna, kontaktinfo](/doc/research-ivig-iga/MADELEINE_ANALYSIS.md)
 
 ---
 
