@@ -1,0 +1,21 @@
+Long-term use of IgA-depleted intravenous immunoglobulin in immunodeficient subjects with anti-IgA antibodies
+
+Authors: Cunningham-Rundles C, Zhou Z, Mankarious S, Courter S
+Journal: J Clin Immunol. 1993 Jul;13(4):272-8
+DOI: 10.1007/BF00919386
+PMID: 8227286
+
+Status: ABSTRACT ONLY (full text paywalled at Springer)
+Access attempted: PubMed, Europe PMC, Semantic Scholar, ResearchGate, Google Scholar
+Europe PMC: isOpenAccess = N
+Semantic Scholar: openAccessPdf = CLOSED
+
+Abstract:
+The use of intravenous immunoglobulin is standard practice for antibody replacement in the humoral immunodeficiency diseases. Most infusions proceed uneventfully, but a proportion of infusions (5-8%) produces some degree of an infusion reaction. While the cause of most of these infusion reactions is unknown, an established, but rare cause of reactions is IgA antibodies in the serum of the patient, which apparently forms an immune complex with the traces of IgA in the infused immunoglobulin. This article describes our studies of five immunodeficient patients who had high-titered anti-IgA antibodies and a history of severe infusion reactions to intravenous immunoglobulin products not depleted of IgA (IgA content, 270-720 micrograms/ml). Over a 6-year period we gave these patients IgA-depleted intravenous immunoglobulin for a total of 170 infusions. These infusions were generally well tolerated; however, mild to moderate infusion reactions did occur in 9 of the 170 infusions (5.3%). These reactions were not related to the IgA content of the immunoglobulin solutions used--ascertained to vary between 0.4 and 2.9 micrograms/ml of IgA. Levels of plasma C3a and C4a increased after immunoglobulin infusions but the appearance of these components was not accompanied by any infusion reaction. We conclude that the long-term infusions of IgA-depleted intravenous immunoglobulin, within the range of IgA concentrations investigated, into patients with even very high-titered antibodies to IgA, is a safe practice.
+
+Key findings:
+- 5 immunodeficient patients with high-titered anti-IgA antibodies studied over 6 years
+- 170 infusions of IgA-depleted IVIG given (IgA content 0.4-2.9 mcg/ml)
+- 9/170 (5.3%) mild-moderate reactions, NOT correlated with IgA content
+- C3a and C4a increased post-infusion but without clinical reactions
+- Conclusion: IgA-depleted IVIG is safe even with very high-titer anti-IgA antibodies

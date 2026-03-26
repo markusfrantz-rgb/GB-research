@@ -1,0 +1,25 @@
+Guillain-Barre syndrome
+
+Authors: Leonhard SE, Papri N, Querol L, Rinaldi S, Shahrizaila N, Jacobs BC
+Journal: Nat Rev Dis Primers. 2024 Dec 19;10(1):97
+DOI: 10.1038/s41572-024-00580-4
+PMID: 39702645
+
+Status: ABSTRACT ONLY (full text paywalled at Nature)
+Access attempted: PubMed, Europe PMC, Semantic Scholar, ResearchGate, Google Scholar
+Europe PMC: isOpenAccess = N, inPMC = N, inEPMC = N
+ResearchGate: "Request PDF" available (can request from authors)
+
+Abstract:
+Guillain-Barre syndrome (GBS) is a rare immune-mediated polyradiculoneuropathy. Patients typically develop rapidly progressive weakness and sensory deficits that can result in complete paralysis requiring mechanical ventilation. GBS is usually a monophasic disease in which an aberrant immune response to an infection or other trigger damages the peripheral nerves. For example, in patients with preceding Campylobacter jejuni infection, molecular mimicry causes a cross-reactive antibody response to nerve gangliosides. Diagnosis is based on clinical features, supported by cerebrospinal fluid analysis and nerve conduction studies. Effective treatments include plasma exchange and intravenous immunoglobulins. However, ~20% of patients who received treatment are unable to walk after 6 months and ~5% die as a consequence of GBS. Important knowledge gaps in GBS include its pathogenesis, especially after viral infections. In addition, there is a lack of specific biomarkers to improve the diagnosis, monitor the disease activity, and predict the clinical course and outcome of GBS. Major challenges for the future include finding more effective and personalized treatments, which are affordable in low-income and middle-income countries, and preparation for outbreaks of infections as potential triggers for GBS.
+
+Key topics covered in this Primer (based on section headings):
+- Epidemiology
+- Mechanisms/Pathophysiology (including molecular mimicry, ganglioside antibodies)
+- Diagnosis (clinical features, CSF, nerve conduction studies)
+- Management (plasma exchange, IVIG)
+- Quality of life
+- Open research questions
+- Need for personalized treatments and outbreak preparedness
+
+Note: This is the definitive 2024 review of GBS from the Erasmus MC group (Jacobs, Leonhard) and international collaborators. Highly relevant comprehensive reference but paywalled. Consider requesting from authors via ResearchGate.

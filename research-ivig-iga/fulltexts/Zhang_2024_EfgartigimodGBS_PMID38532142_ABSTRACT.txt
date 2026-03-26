@@ -1,0 +1,28 @@
+Efgartigimod in the treatment of Guillain-Barre syndrome
+
+Authors: Zhang H, Ma J, Feng Y, Liu J, Li L, Guo L
+Journal: J Neurol. 2024 Jun;271(6):3506-3511
+DOI: 10.1007/s00415-024-12321-4
+PMID: 38532142
+
+Status: ABSTRACT ONLY (full text paywalled at Springer)
+Access attempted: PubMed, Europe PMC, Semantic Scholar, Google Scholar, Springer SharedIt
+Europe PMC: isOpenAccess = N
+Note: A different efgartigimod-GBS paper (Deng 2025, Frontiers) was found on Semantic Scholar but is NOT this paper.
+
+Abstract:
+BACKGROUND: Guillain-Barre Syndrome (GBS) is caused by immunoglobulin G (IgG) autoantibodies. Efgartigimod, a human IgG antibody Fc fragment that acts as a natural ligand for the FcRn, can increase IgG degradation, which thus may be a promising therapeutic drug for GBS.
+
+CASE PRESENTATION: The two patients presented with postinfectious and acute flaccid paralysis. On admission, they were bedridden. Nerve conduction studies indicated peripheral neuropathy. GBS was suspected and they are treated with two doses of efgartigimod (10 mg/kg) within 5 days. Their muscle strength improved gradually and 4 weeks after the initial dose, they could walk independently. Following the first dose, Patient 1 complaint of muscle soreness, which subsided the next morning. Patient 2 was intubated due to respiratory failure the day after the initial dose, and did not report other adverse effects.
+
+DISCUSSION: In GBS patients, two doses of efgartigimod (10 mg/kg) were effective in rapidly improving muscle strength, with a satisfactory safety profile. The findings suggest a potential role for efgartigimod in modifying the disease process in GBS patients.
+
+CONCLUSION: Efgartigimod seems effective and safe in the treatment of GBS. This study indicates the potential role of efgartigimod as a novel treatment option for GBS. Well-designed clinical trials should be conducted.
+
+Key findings:
+- 2 GBS patients treated with efgartigimod (10 mg/kg, 2 doses over 5 days)
+- Both bedridden at admission, walking independently at 4 weeks
+- Patient 1: muscle soreness (transient); Patient 2: respiratory failure requiring intubation (day after first dose)
+- Mechanism: FcRn antagonist accelerating IgG degradation
+- First report of efgartigimod use in GBS (precedes the NCT05701189 clinical trial)
+- Corresponding authors: neuroguo@163.com, zhangvey@126.com

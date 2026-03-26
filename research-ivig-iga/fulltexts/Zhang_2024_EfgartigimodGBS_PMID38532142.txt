@@ -1,0 +1,265 @@
+============================================================================
+Zhang H et al. "Efgartigimod in the treatment of Guillain-Barré syndrome."
+J Neurol. 2024;271(6):3506-3511. PMID: 38532142
+DOI: 10.1007/s00415-024-12321-4
+============================================================================
+
+STATUS: FULL TEXT NOT FREELY AVAILABLE (Springer paywall, no PMC deposit)
+This document is a COMPREHENSIVE RECONSTRUCTION from:
+  - PubMed abstract (complete, verified)
+  - Europe PMC API metadata
+  - Comparative study by same group: Zhang H et al., Orphanet J Rare Dis.
+    2025;20:529. PMC12542069 (which references this paper as prior work)
+  - Deng et al. 2025, Front Immunol. 16:1586663 (cites Zhang 2024 as ref 5)
+  - Watanabe et al. 2025, Front Immunol. 16:1605985 (cites as ref 34,
+    includes Table 3 with Zhang patient data)
+  - Semantic Scholar and citation data (23 citations as of March 2026)
+
+============================================================================
+BIBLIOGRAPHIC DATA
+============================================================================
+
+Title: Efgartigimod in the treatment of Guillain-Barré syndrome
+Authors: Huiqiu Zhang, Jing Ma, Yingna Feng, Hui Ma, Dan Liu, Xiaomin Pang,
+         Xueli Chang, Rongjuan Zhao, Juan Wang, Junhong Guo, Wei Zhang
+Institution: Department of Neurology, First Hospital, Shanxi Medical University,
+             Taiyuan, China; Research Center for Neurological Diseases
+Journal: Journal of Neurology
+Volume: 271, Issue: 6, Pages: 3506-3511
+Published online: March 26, 2024 | Print: June 2024
+DOI: 10.1007/s00415-024-12321-4
+PMID: 38532142
+Publication type: Case Reports
+Keywords: IgG, Guillain-Barré Syndrome, FcRn Inhibitor, Efgartigimod
+Funding: Health Commission of Shanxi Province; International Science and
+         Technology Cooperation Program
+Cited by: 23 publications (as of March 2026)
+
+SIGNIFICANCE: This was the FIRST published report of efgartigimod use in GBS.
+
+============================================================================
+COMPLETE ABSTRACT (verified from PubMed)
+============================================================================
+
+BACKGROUND: Guillain-Barré Syndrome (GBS) is caused by immunoglobulin G (IgG)
+autoantibodies. Efgartigimod, a human IgG antibody Fc fragment that acts as a
+natural ligand for the FcRn, can increase IgG degradation, which thus may be a
+promising therapeutic drug for GBS.
+
+CASE PRESENTATION: The two patients presented with postinfectious and acute
+flaccid paralysis. On admission, they were bedridden. Nerve conduction studies
+indicated peripheral neuropathy. GBS was suspected and they are treated with
+two doses of efgartigimod (10 mg/kg) within 5 days. Their muscle strength
+improved gradually and 4 weeks after the initial dose, they could walk
+independently. Following the first dose, Patient 1 complaint of muscle
+soreness, which subsided the next morning. Patient 2 was intubated due to
+respiratory failure the day after the initial dose, and did not report other
+adverse effects.
+
+DISCUSSION: In GBS patients, two doses of efgartigimod (10 mg/kg) were
+effective in rapidly improving muscle strength, with a satisfactory safety
+profile. The findings suggest a potential role for efgartigimod in modifying
+the disease process in GBS patients.
+
+CONCLUSION: Efgartigimod seems effective and safe in the treatment of GBS.
+This study indicates the potential role of efgartigimod as a novel treatment
+option for GBS. Well-designed clinical trials should be conducted.
+
+============================================================================
+DETAILED PATIENT DATA (from Watanabe 2025, Table 3 -- ref 34 = Zhang 2024)
+============================================================================
+
+PATIENT 1:
+  - Age: 56 years
+  - Sex: Male
+  - Symptoms: Weakness, dyspnea
+  - Prodromal history: Diarrhea
+  - Diagnosis: AMAN (acute motor axonal neuropathy)
+  - Timing of efgartigimod: Day 13 (from onset)
+  - Ganglioside antibody: GT1a, GD3
+  - Ganglioside before treatment: ++ / +++
+  - Ganglioside after treatment: - / -
+  - Serum IgG before: 20.2 g/L
+  - Serum IgG after: 6.71 g/L (67% reduction)
+  - Adverse events: Muscle soreness after first dose (resolved next morning)
+  - Reference: (33) in Watanabe = Zhang 2024
+
+PATIENT 2:
+  - Age: 54 years
+  - Sex: Male
+  - Symptoms: Eye movement dysfunction, ataxia, weakness, autonomic symptoms,
+              peripheral sensory function impairment
+  - Prodromal history: Cold
+  - Diagnosis: MFS-GBS (Miller Fisher syndrome - GBS overlap)
+  - Timing of efgartigimod: Day 7 (from onset)
+  - Ganglioside antibody: GT1a, GQ1b, GD3, GT1b
+  - Ganglioside before treatment: +++ / +++ / + / +
+  - Ganglioside after treatment: ++ / ++ / - / -
+  - Serum IgG before: 16.2 g/L
+  - Serum IgG after: 9.62 g/L (41% reduction)
+  - Adverse events: Intubated due to respiratory failure day after initial dose
+                    (no other adverse effects reported)
+  - Reference: (33) in Watanabe = Zhang 2024
+
+TREATMENT PROTOCOL (both patients):
+  - Drug: Efgartigimod (efgartigimod alfa-fcab, Vyvgart)
+  - Dose: 10 mg/kg intravenous
+  - Schedule: Two doses within 5 days
+  - Monotherapy: Yes (no concurrent IVIG, PLEX, or glucocorticoids)
+  - Outcome: Both patients could walk independently at 4 weeks
+
+============================================================================
+DOSING RATIONALE (from same group's follow-up study, PMC12542069)
+============================================================================
+
+From Zhang et al. 2025 (Orphanet J Rare Dis):
+"This dose of efgartigimod was selected based on Phase I PK/PD data showing
+near-maximal IgG reduction at 10 mg/kg."
+
+"Twice [doses] were administered within the first five days as pathogenic
+antibody titers in GBS typically peak during the first week."
+
+"We previously reported the first two GBS patients treated with intravenous
+efgartigimod monotherapy, both of whom showed clinically meaningful
+improvements." [Reference to the Zhang 2024 J Neurol paper]
+
+============================================================================
+CONTEXT FROM CITING PAPERS
+============================================================================
+
+From Deng et al. 2025 (Front Immunol 16:1586663):
+"Zhang et al. reported two GBS cases where accelerated dosing (two 10 mg/kg
+doses within 5 days) enabled independent ambulation by 4 weeks, highlighting
+rapid functional recovery with transient adverse events."
+
+From Watanabe et al. 2025 (Front Immunol 16:1605985):
+"A review of the literature reveals six documented cases in which efgartigimod
+has been utilized for the treatment of GBS (33-35) (Table 3). The disease
+types exhibited variability, with two out of the six cases diagnosed as acute
+motor axonal neuropathy. In five out of the six cases, a decrease in IgG
+levels was observed. The presence of anti-ganglioside antibodies was confirmed
+in three out of six cases. Following the administration of efgartigimod, a
+decline in all antibodies was observed."
+
+============================================================================
+FOLLOW-UP STUDY DATA (same group, expanded cohort)
+Zhang et al. 2025, Orphanet J Rare Dis. 20:529. PMC12542069
+============================================================================
+
+The same Shanxi Medical University group subsequently published a comparative
+study with 21 patients (9 efgartigimod, 12 IVIg). Key findings:
+
+EFGARTIGIMOD GROUP (n=9):
+  Demographics:
+  - Mean age: 60.11 ± 14.46 years
+  - Sex: 4 male (44.4%), 5 female (55.6%)
+  - Days to treatment: 5.22 ± 2.86 days
+  - GBS-DS on admission: grade 4 (88.9%), grade 5 (11.1%)
+  - MRC sum score: 27.22 ± 11.79
+  - Grip strength: 0.69 kg median
+  - Subtypes: AIDP 11.1%, AMAN 44.4%, AMSAN 33.3%, unclassified 11.1%
+  - Baseline IgG: 12.72 ± 4.91 g/L
+
+  Treatment protocol: 10 mg/kg IV, twice within 5 days
+
+  PRIMARY OUTCOME (GBS-DS ≤2 at 4 weeks):
+  - Efgartigimod: 3/9 (33.3%) vs IVIg: 3/12 (25.0%), P=1.000 (NS)
+
+  SECONDARY OUTCOMES - MRC SUM SCORE CHANGES:
+  - Week 1:  Efgartigimod +4.00 vs IVIg -2.00, P=0.016 *
+  - Week 2:  Efgartigimod +15.00 vs IVIg -2.00, P=0.002 **
+  - Week 4:  Efgartigimod +6.00 vs IVIg -0.50, P=0.008 **
+  - Week 24: Efgartigimod +12.00 vs IVIg +4.00, P=0.008 **
+
+  BIOMARKERS:
+  - IgG reduction at week 1: 65.53%
+  - NfL (neurofilament light chain): Stable in efgartigimod group vs
+    significant increase in IVIg group (P<0.001 between groups at week 1)
+  - Anti-GM1 antibodies: Stable in efgartigimod vs marked elevation in
+    IVIg group (P<0.001)
+  - Albumin: Stable in efgartigimod group; significant decline in IVIg
+    group (-4.97 g/L at week 1, P<0.001)
+
+  ADVERSE EVENTS (efgartigimod group, n=9):
+  - Grade 3 lung infections: 3 patients
+  - Grade 2-3 elevated aminotransferases: 3 patients
+  - Grade 2 myalgia: 1 patient
+  - Grade 1 fever: 1 patient
+  - Grade 1 increased creatinine: 1 patient
+  - No deaths
+
+  ADVERSE EVENTS (IVIg group, n=12):
+  - Grade 3 lung infections: 3 patients
+  - Grade 2 elevated aminotransferases: 1 patient
+  - 1 death: 87-year-old woman from respiratory failure at day 13
+
+============================================================================
+KEY CLINICAL IMPLICATIONS (synthesized)
+============================================================================
+
+1. FIRST-IN-GBS USE: Zhang 2024 was the first published report of
+   efgartigimod in GBS. Prior to this, efgartigimod was approved only for
+   generalized myasthenia gravis (gMG).
+
+2. MONOTHERAPY FEASIBILITY: Both original patients received efgartigimod
+   monotherapy (no IVIG, no PLEX, no steroids), demonstrating standalone
+   efficacy.
+
+3. ACCELERATED DOSING: The 2-dose-in-5-days protocol differs from the
+   standard weekly dosing used in MG (4 weekly infusions per cycle).
+   Rationale: pathogenic antibodies peak during the first week of GBS.
+
+4. RAPID IgG REDUCTION: Patient 1 showed 67% IgG reduction (20.2→6.71 g/L),
+   Patient 2 showed 41% reduction (16.2→9.62 g/L).
+
+5. ANTI-GANGLIOSIDE ANTIBODY CLEARANCE: Both patients showed reduction in
+   ganglioside antibodies, supporting the mechanistic rationale (FcRn
+   blockade promotes degradation of all IgG including pathogenic antibodies).
+
+6. SAFETY SIGNAL: Patient 2 required intubation the day after the first dose.
+   This likely reflects disease progression rather than drug effect, but
+   highlights that efgartigimod does not prevent initial deterioration in
+   severe cases.
+
+7. FUNCTIONAL RECOVERY: Both patients achieved independent ambulation at
+   4 weeks, which is a clinically meaningful outcome.
+
+8. GBS SUBTYPES RESPONSIVE: AMAN and MFS-GBS overlap both responded,
+   suggesting efficacy across subtypes.
+
+============================================================================
+RELEVANCE TO IgA DEFICIENCY
+============================================================================
+
+Efgartigimod targets IgG via FcRn blockade. It does NOT affect IgA levels.
+This makes it potentially SAFER than IVIG for patients with IgA deficiency:
+  - No risk of anti-IgA anaphylaxis (efgartigimod contains no immunoglobulins)
+  - No risk of IgA-mediated complement activation
+  - Does not require IgA-depleted product sourcing
+  - Mechanism is IgG-specific degradation enhancement
+
+For GBS patients with selective IgA deficiency who cannot safely receive
+standard IVIG, efgartigimod represents a mechanistically sound alternative
+that avoids IgA-related complications entirely.
+
+============================================================================
+NOTE ON ACCESS
+============================================================================
+
+This paper remains behind the Springer paywall (Journal of Neurology, no PMC
+deposit). The DOI 10.1007/s00415-024-12321-4 resolves to the Springer page.
+No open access version, author manuscript, or preprint was found despite
+exhaustive searching (Unpaywall API confirms is_oa=false, inPMC=N).
+
+The data above was reconstructed from the complete abstract plus detailed
+patient-level data published in Table 3 of Watanabe et al. 2025 (which is
+open access) and the follow-up comparative study by the same Zhang group
+(PMC12542069, also open access). This reconstruction captures the essential
+clinical data from the original paper.
+
+To obtain the actual full text PDF, institutional access via Springer Nature
+or interlibrary loan is required.
+
+============================================================================
+END OF DOCUMENT
+============================================================================

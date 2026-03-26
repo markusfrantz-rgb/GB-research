@@ -1,0 +1,278 @@
+Recurrent Guillain-Barré syndrome
+
+Authors: K. Kuitwaard, R. van Koningsveld, L. Ruts, B.C. Jacobs, P.A. van Doorn
+Journal: J Neurol Neurosurg Psychiatry 2009;80(1):56-9
+DOI: 10.1136/jnnp.2008.156463
+PMID: 18931012
+Source: Erasmus University Repository (repub.eur.nl) - Author manuscript (full text)
+
+Abstract
+Background: Guillain-Barré syndrome (GBS) is generally considered to be monophasic,
+but recurrences do occur in a presently undefined subgroup of patients.
+Objectives: To determine which subgroup of patients develops a recurrence and to
+establish whether preceding infections and neurological symptoms are similar in subsequent episodes.
+Methods: A recurrence was defined as two or more episodes that fulfilled the NINCDS
+criteria for GBS, with a minimum time between episodes of two months (when fully
+recovered in between) or four months (when only partially recovered). Patients with a
+treatment-related fluctuation or chronic inflammatory demyelinating polyneuropathy
+with acute onset were excluded. The clinical characteristics of recurrent GBS patients
+were compared with those of 476 non-recurrent patients.
+Results: 32 recurrent GBS patients, who had a total of 81 episodes, were identified. The
+clinical symptoms in a first episode were similar to the following episodes in individual
+patients, being GBS or its variant Miller Fisher syndrome (MFS) but never both. While
+neurological symptoms in subsequent episodes were often similar, the severity of the
+symptoms and the nature of the preceding infections varied. Recurrent patients (mean
+age 34.2 years) were younger than non-recurrent patients (mean age 46.9; p = 0.001)
+and more often had MFS (p = 0.049) or milder symptoms (p = 0.011).
+Conclusions: Genetic or immunological host factors may play an important role in
+recurrent GBS, since these patients can develop similar symptoms after different preceding infections. Recurrences occur more frequently in patients under 30, with milder
+symptoms and in MFS.
+
+Introduction
+Guillain-Barré syndrome (GBS) is an acute polyradiculoneuropathy leading to flaccid paresis. Its annual incidence rate is 0.75 to 2 per 100.000.1, 2 GBS is a heterogeneous disease
+in which approximately two-thirds of patients report a preceding incident, usually an
+infection, such as diarrhoea or an upper-respiratory-tract infection.
+Although GBS is considered to be monophasic, recurrences are reported in 2-5% of
+patients.3, 4 It is unknown why some patients have a recurrence and whether this occurs
+more frequently in a distinct subgroup of patients. It is suggested that recurrent GBS
+patients may have similar clinical symptoms in subsequent episodes, while having the
+same or different triggering events.4 It is important to distinguish between recurrent
+GBS patients and GBS patients with treatment-related fluctuations (GBS-TRF) or chronic
+inflammatory demyelinating polyneuropathy with acute onset (A-CIDP) especially because the treatment regimen for CIDP is different.5
+The purpose of this study is to establish whether recurrent GBS patients have
+similar neurological symptoms in subsequent episodes and to determine whether
+these patients can be distinguished from non-recurrent patients based on their clinical
+characteristics. We additionally investigate whether recurrent GBS patients have similar
+infections prior to each episode, if the severity varies in subsequent episodes and if the
+interval between episodes tends to get longer or shorter. By analysing these features,
+we also aim to determine the relevance of host susceptibility factors in GBS.
+
+Methods
+Subjects and methods
+To determine whether the type of neurological symptoms or the type of preceding infections are similar in subsequent episodes, we studied 32 recurrent GBS patients. These
+patients were identified from the Erasmus MC GBS databank, which contains information
+on patients enrolled in clinical studies between 1985-2008. Additional patients came to
+our attention on patient meetings organized by the Dutch Society for Neuromuscular
+disorders (VSN). Medical records or letters were screened and missing or indistinct items
+were clarified by contacting the patients or treating doctors.
+All cases were re-evaluated (by KK and PD) using the criteria of the National Institute
+of Neurological and Communicative Diseases and Strokes (NINCDS) for GBS.6 Patients
+were also included when they fulfilled the criteria for Miller Fisher syndrome (MFS), a
+GBS variant characterized by areflexia, ataxia and opthalmoplegia.1 The severity of each
+episode was graded according to the GBS disability scale.7
+
+The GBS disability scale is a seven-point disability scale, ranging from no symptoms
+(zero points) to death (six points). Patients who were able to walk with or without support (GBS disability scale <= 3) were considered as "mildly affected", whereas patients who
+were bedbound (GBS disability scale >= 4) were categorised as "severely affected".
+We defined a recurrent patient as one having two or more episodes that fulfilled the
+NINCDS criteria for GBS, either with a minimum interval >= 4 months between the episodes if the patient did not recover completely (GBS disability scale >= 2); or >= 2 months
+when there was a complete or near-complete recovery (GBS disability scale <=1) after the
+previous episode.
+We excluded GBS-TRF and A-CIDP patients.5 GBS-TRF was defined as (1) improvement
+in the GBS disability scale of at least one grade or improvement in the MRC sum score
+more than five points after completion of therapy (2 g IVIg/kg body weight in 2-5 days),
+followed by a worsening of the GBS disability scale of at least one grade or a decrease in
+the MRC sum score of more than five points within the first 2 months after the disease
+onset or (2) stabilisation for more than 1 week after completion of therapy, followed by a
+worsening of the GBS disability scale of more than one grade or more than five points on
+the MRC sum score within the first 2 months after disease onset.5, 8 A-CIDP was defined
+as a CIDP patient in whom the nadir of the first episode was within 8 weeks of onset and
+the consecutive course was chronic, as in CIDP.9
+Information was obtained concerning age, sex, cranial nerve involvement, preceding
+type of infection and/or trigger, GBS disability scale at nadir, and time between recurrences. Antecedent infections were classified clinically either as upper-respiratory tract
+or as diarrhoea/gastrointestinal. Reported influenza or flu-like infections were classified
+as upper-respiratory-tract infections. Information was also obtained about the presence
+of other autoimmune or immune-mediated disease.
+To investigate whether recurrent patients can be distinguished from non-recurrent
+patients, we compared the clinical characteristics with those of non-recurrent GBS
+patients admitted with a diagnosis of GBS between 1987 and 1996 in The Netherlands.2
+We compared the groups with respect to age, sex, MFS, cranial nerve dysfunction, the
+need for artificial respiration, severity of the symptoms and preceding triggers.
+
+Statistical analysis
+For statistical analyses, an unpaired t test and chi-squared test were performed, to compare characteristics of recurrent and non-recurrent GBS patients. If appropriate, the Fisher exact
+test was used. SPSS for Windows (version 15.0, SPSS, Chicago) was used for all statistical
+analyses, and p values < 0.05 were regarded as significant.
+
+Results
+Forty-eight patients were considered as potentially eligible. Sixteen patients were excluded: three with GBS-TRF and six with A-CIDP; three due to missing information about
+clinical symptoms during one of the possible episodes, and four because they did not
+fulfill the diagnostic criteria for GBS.
+We identified 32 recurrent patients, 21 males and 11 females, who had a total of 81
+episodes of GBS. Of these 32 patients, four had recurrent MFS, and three were known
+with another autoimmune disease (two inflammatory bowel disease and one hyperthyroidism). In the group of non-recurrent GBS patients, 11 were known to have one of the
+following autoimmune disorders: rheumatoid arthritis, polyarthritis nodosa, spondylitis
+ankylopoetica, sarcoidosis, thyroid gland disease or inflammatory bowel disease. The
+clinical characteristics of the recurrent GBS patients during their first episode are listed
+in Table 1.
+
+Table 1. Comparison of baseline characteristics of recurrent and non-recurrent Guillain-Barré syndrome (GBS) patients
+
+                                    Recurrent (first episode)   Non-recurrent    p value
+                                    (n=32)                      (n=476)
+Age, years, mean (SD)               34.2 (23.9)                 46.9 (21.5)      0.001
+Age < 30 years                      44%                         22%              0.006
+Male                                66%                         60%              0.505
+Cranial nerve dysfunction           38%                         42% (472)        0.654
+Miller Fisher syndrome              13%                         4%               0.049
+Sensory-motor symptoms              72%                         62% (474)        0.275
+Artificial respiration needed       16%                         18% (472)        0.691
+Mildly affected*                    59%                         37% (450)        0.011
+Known with other autoimmune disease 9%                          2%               0.051
+Preceding vaccination               6%                          3% (475)         0.219
+Preceding gastrointestinal infection 13%                        17% (475)        0.541
+Preceding respiratory infection     28%                         37% (475)        0.299
+
+The number in parentheses is number of patients on whom information was available (if different from the total).
+*GBS disability scale <= 3
+
+Seven recurrent GBS patients had three episodes, two had four episodes, and two had
+five episodes. All patients with at least four episodes were female. The mean age during
+the first episode was 34.2 (range: 1-87) and of the first recurrence 42.1 (range: 5-88).
+The interval between recurrences ranged from 2 months to 37 years. The mean interval
+between all recurrences was 7 years. Most patients had a long interval between subsequent episodes, only two patients had an interval of 2 months in between episodes with
+near complete recovery. The mean GBS-disability score at nadir was 3.1 for the first two
+episodes, increasing to 3.8 for the fourth episode.
+
+Table 2. Characteristics per Guillain-Barré syndrome (GBS) episode
+
+                No of     Age, years,    Time between       GBS disability   Mean GBS disability
+                patients  mean (SD)      recurrences,       scale nadir,     scale after 6-12 months
+                                         years, mean (SD)   mean (SD)
+1st episode     32        34.2 (23.9)    -                  3.1 (1.2)        1.0 (29)
+1st recurrence  32        42.1 (23.2)    7.9 (10.8)         3.1 (1.1)        1.1 (24)
+2nd recurrence  11        48.0 (25.8)    6.0 (6.3)          3.4 (1.2)        1.4 (8)
+3rd recurrence  4         46.0 (24.3)    5.8 (3.1)          3.8 (1.0)        1.5 (4)
+4th recurrence  2         30.0           4.0                3.0              2.0 (2)
+
+The number in parentheses is the number of patients on whom information was available (if different from the total).
+
+The GBS disability scale, type of preceding infection and neurological symptoms (pure
+motor or sensory-motor) were compared with the previous episode. In individual patients, a preceding infection in two subsequent episodes was reported
+17 times. Eleven times the infections were reported as either respiratory or gastrointestinal, whereas six times a gastrointestinal infection was reported prior to one episode
+and a respiratory infection before the other. Two patients had an upper-respiratory-tract
+infection preceding three episodes and a gastrointestinal before another. Four patients
+had a serologically confirmed infection prior to one episode; one patient had a varicella
+zoster virus and a Mycoplasma pneumoniae; one a herpes simplex virus infection and
+two a Campylobacter infection.
+One patient reported a tetanus vaccination as a trigger in two subsequent episodes.
+Another patient, with inflammatory bowel disease, had two episodes of GBS after
+starting treatment with the drug Salazopyrine. In the two patients, reporting the same
+trigger in subsequent episodes, neurological symptoms developed faster in the second
+episode. Two other patients reported a vaccination (influenza/flu virus or hepatitis virus)
+as a trigger prior to one of the episodes.
+In 18 out of 49 successive episodes (36%) there was a more severe GBS disability scale
+at nadir; in 16 (33%) a less severe GBS disability scale and in 15 (31%) the GBS disability
+scale was equal in comparison with the previous episode.
+
+Figure 1. Recurrence characteristics, compared with the previous episode of GBS:
+
+Time-interval between episodes (n=49):
+  Shorter: 59%
+  Longer: 35%
+  Same: 6%
+
+Severity of weakness - GBS disability scale (n=49):
+  Increasing: 36%
+  Decreasing: 33%
+  Same: 31%
+
+Preceding type of infection (n=17):
+  Same: 65%
+  Different: 35%
+
+Pure motor or sensory-motor symptoms (n=49):
+  Same: 92%
+  Different: 8%
+
+Most patients had either pure motor or sensory-motor symptoms in subsequent
+episodes. None of the patients initially had GBS in one episode followed by
+MFS in a subsequent episode.
+One patient had right-sided oculomotor nerve dysfunction in four subsequent episodes, and another patient had three episodes with right-sided oculomotor nerve and
+abducens nerve palsy, accompanied by dysphagia. One patient had acute motor axonal
+neuropathy (AMAN) with moderate recovery five times over a period of 14 years.
+In the recurrent group, patients more often had MFS (13% vs 4%, p = 0.049) and were
+more frequently < 30 years (44% vs 22%, p = 0.006) and more often had a mild course
+(59% vs. 37%, p = 0.011) compared with the non-recurrent group. The mean age was
+lower in the recurrent group than in the non-recurrent group (34.2 vs 46.9, 95% CI: -20.4
+to -4.9, p = 0.001).
+
+Discussion
+The patients with a recurrent GBS in our study showed similar signs and symptoms during every episode despite having different types of symptoms of a preceding infection.
+This may indicate that genetic and immunological host factors partly determine the
+clinical phenotype irrespective of the preceding infection. The recurrent patients were
+younger and more often had MFS and a milder course of disease, which suggests that a
+distinct subgroup of patients has a higher susceptibility of recurring.
+To our knowledge, this is the largest group of recurrent GBS patients described so far,
+and a comparison with non-recurrent patients has not been documented before. We
+excluded GBS-TRF and A-CIDP patients. One study reported 12 "recurrent" patients with
+a progressive phase of less than 8 weeks, therefore not excluding the possibility that
+some of these patients had A-CIDP or subacute GBS.3 Distinguishing between recurrent
+GBS, GBS-TRF and A-CIDP can be difficult but is clinically relevant because treatment
+may differ. In a previous study, we found that nine out of 11 patients with GBS-TRF had
+their TRF within 9 weeks from onset, and most patients having an exacerbation after 9
+weeks eventually developed CIDP.5
+Whether clinical symptoms and preceding infections differ in recurrent patients has
+already been addressed in other case studies and is controversial.10-12 Two studies have
+reported different antecedent events in individual recurrent GBS patients.10, 11 In contrast, another study described similar antecedent illnesses in individual recurrent GBS
+patients.12 Unfortunately, infection serology in this group of patients was not always
+testable since serum was not systematically obtained. Two of our patients appeared to
+have had recurrences after the same specific triggers, one after the drug Salazopyrine
+and one after a tetanus vaccination; both showed a shorter time between trigger exposure and symptom onset the following episode. Tetanus toxoid vaccination as a trigger
+for GBS with a shorter symptom onset in subsequent episodes has been reported previously.13 The drug Salazopyrine has not previously been described as a trigger for GBS,
+but ulcerative colitis has.14 We cannot exclude that these events occurred coincidental or
+that there had not been a subclinical preceding infection in this patient.
+In subsequent episodes, most of the recurrent GBS patients had either pure motor
+or sensory-motor symptoms. Some patients had very specific symptoms during subsequent episodes, such as unilateral cranial nerve palsy at the same site. We cannot explain
+this specific finding, but it could be related to a local susceptibility of neural tissue
+related epitopes as replicated laterality of cranial nerve dysfunction has been described
+before in MFS.15, 16
+Our observations identify a trend towards shorter intervals between subsequent recurrences, and a more severe deficit with each recurrence. The GBS disability scale is not
+a linear scale, but a tendency to accumulate neurological deficits after each episode has
+been reported previously.4 It has been established that patients over 50 years of age are
+more likely to have a worse recovery, which may explain that disability becomes worse
+after each subsequent recurrence.17 Recurrent patients are more likely to have MFS than
+non-recurrent patients. The presence of anti-GQ1b antibodies in almost all MFS patients
+highlights the importance of immunological factors in this disorder. Since females are
+more susceptible to autoimmune diseases, it is of interest that the recurrent patients
+with at least four episodes were all female. Three of the recurrent GBS patients were
+known with another autoimmune disease, which suggests that genetic host factors are
+relevant.
+The mean age was significantly lower in the recurrent group compared with non-
+recurrent GBS patients. Age as a risk factor for a recurrent GBS has not been described
+before, but it has for CIDP. The mean age of relapsing CIDP patients (27 years) is reported
+to be significantly lower compared with CIDP patients with a non-relapsing course (51
+years).18
+Due to the retrospective nature of our study, we cannot estimate unbiased the exact
+incidence of recurrent GBS, but as there were 32 recurrent patients out of a total of 524,
+the crude estimated prevalence will be around 6%. We cannot exclude the fact that
+some non-recurrent GBS patients have developed a recurrence outside the geographic
+boundary of the study area or after the 10-year study period. It is possible that some
+"non-recurrent" patients had their first GBS episode just before the end of the study
+period, which would have limited the chance of recording a recurrence.
+Individual patients developed either GBS during all episodes or MFS, never both.
+Because recurrent GBS patients were significantly younger, more mildly affected and
+more often had MFS, neurologists should be aware that these patients are more prone
+to recurrences. Since similar neurological symptoms can occur after different infections,
+this study further indicates that immunological and genetic host factors play a role in
+determining the clinical phenotype in recurrent GBS.
+
+References
+1. Ropper AH. The Guillain-Barré syndrome. N Engl J Med 1992;326:1130-36.
+2. van Koningsveld R, van Doorn PA, Schmitz PI, et al. Mild forms of Guillain-Barré syndrome in an epidemiologic survey in The Netherlands. Neurology 2000;54:620-5.
+3. Grand'Maison F, Feasby TE, Hahn AF, et al. Recurrent Guillain-Barré syndrome. Clinical and laboratory features. Brain 1992;115:1093-1106.
+4. Das A, Kalita J, Misra UK. Recurrent Guillain Barre' syndrome. Electromyogr Clin Neurophysiol 2004;44:95-102.
+5. Ruts L, van Koningsveld R, van Doorn PA. Distinguishing acute-onset CIDP from Guillain-Barré syndrome with treatment related fluctuations. Neurology 2005;65:138-140.
+6. Asbury AK, Cornblath DR. Assessment of current diagnostic criteria for Guillain-Barré syndrome. Ann Neurol 1990;27:S21-24.
+7. Hughes RA, Newsom-Davis JM, Perkin GD, et al. Controlled trial prednisolone in acute polyneuropathy. Lancet 1978;2:750-3.
+8. Kleyweg RP, van der Meché FG. Treatment related fluctuations in Guillain-Barré syndrome after high-dose immunoglobulins or plasma-exchange. J Neurol Neurosurg Psychiatry 1991;54:957-60.
+9. Research criteria for diagnosis of chronic inflammatory demyelinating polyneuropathy (CIDP). Report from an Ad Hoc Subcommittee of the American Academy of Neurology AIDS Task Force. Neurology 1991;41:617-8.
+10. Taly AB, Gupta SK, Anisya V, et al. Recurrent Guillain Barré Syndrome: a clinical, electrophysiological and morphological study. J Assoc Physicians India 1995;43:249-52.
+11. Hayashi H, Park-Matsumoto YC, Yuki N, et al. A case of recurrent Guillain-Barré syndrome preceded by different infections. J Neurol 1993;240:196-7.
+12. Wijdicks EF, Ropper AH. Acute relapsing Guillain-Barré syndrome after long asymptomatic intervals. Arch Neurol 1990;47:82-4.
+13. Pollard JD, Selby G. Relapsing neuropathy due to tetanus toxoid. Report of a case. J Neurol Sci 1978;37:113-25.
+14. Roca B, Moreno I, Meneu E. Ulcerative colitis and acquired demyelinating neuropathy (Guillain-Barré syndrome). Neth J Med 1999;54:129-30.
+15. Uchihara T, Ikeda M, Tsukagoshi H. Recurrent Fisher's syndrome with immunological abnormalities and replicated laterality. Eur Neurol 1991;31:270-2.
+16. Orr CF, Storey CE. Recurrent Miller-Fisher syndrome. J Clin Neurosci 2004;11:307-9.
+17. Chiò A, Cocito D, Leone M, et al. Guillain-Barré syndrome: a prospective, population-based incidence and outcome survey. Neurology 2003;60:1146-50.
+18. McCombe PA, Pollard JD, McLeod JG. Chronic inflammatory demyelinating polyneuropathy. A clinical and electrophysiological study of 92 cases. Brain 1987;110:1617-30.

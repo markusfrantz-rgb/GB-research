@@ -1,0 +1,26 @@
+Successful desensitization to immunoglobulin A in a case of transfusion-related anaphylaxis
+
+Authors: Kiani-Alikhan S, Yong PF, Grosse-Kreul D, Monteiro R, Ibrahim MA, Goldberg O, Heaton N, Bernal W, Gane E, Grunebaum E, Grunewald S, Lechler RI, Howie AJ, Salama AD
+Journal: Transfusion. 2010 Sep;50(9):1897-901
+DOI: 10.1111/j.1537-2995.2010.02662.x
+PMID: 20456696
+
+Status: ABSTRACT ONLY (full text paywalled at Wiley)
+Access attempted: PubMed, Europe PMC, Semantic Scholar, ResearchGate, Google Scholar
+Europe PMC: isOpenAccess = N, inPMC = N, inEPMC = N
+
+Abstract:
+BACKGROUND: A history of anaphylaxis after transfusion of immunoglobulin A (IgA)-containing blood products in selective IgA-deficient (sIgAD) patients can be a major problem, particularly in emergencies, when large quantities of blood products are required.
+
+CASE REPORT: A 19-year-old woman with end-stage Type 2 autoimmune hepatitis required liver transplantation as her only remaining treatment option. However, she also had sIgAD, anti-IgA antibodies, and episodes of anaphylaxis after receiving IgA-containing blood products. Liver transplantation would have been extremely challenging due to the difficulty of obtaining sufficient blood products from suitable IgA-deficient donors. Hence, it became imperative to devise a protocol to desensitize her to IgA-containing blood products.
+
+RESULTS: Using a continuous infusion of an IgA-enriched (6 mg/mL IgA) immunoglobulin preparation with gradual increases in concentration, she was successfully desensitized to IgA. Consequently, she was able to receive standard platelets, fresh-frozen plasma, and red blood cells with no complications.
+
+CONCLUSION: This approach could prove very useful in similar cases that may require administration of large quantities of blood products particularly in emergency lifesaving circumstances.
+
+Key findings:
+- Patient: 19-year-old with sIgAD + anti-IgA antibodies + anaphylaxis history
+- Problem: needed liver transplant but couldn't receive standard blood products
+- Solution: continuous infusion of IgA-enriched (6 mg/mL) immunoglobulin with gradual dose escalation
+- Result: successful desensitization, could then receive standard blood products safely
+- Clinical relevance: protocol applicable for emergency situations requiring large blood product volumes
