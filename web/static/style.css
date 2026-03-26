@@ -488,7 +488,8 @@ body {
   color: var(--accent);
   text-decoration-style: solid;
 }
-.source-link {
+.source-link,
+a[href^="/source/"] {
   display: inline-block;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.72em;
@@ -502,7 +503,8 @@ body {
   vertical-align: baseline;
   border: 1px solid rgba(39,174,96,0.25);
 }
-.source-link:hover {
+.source-link:hover,
+a[href^="/source/"]:hover {
   background: #d5f5e3;
   color: #1e8449;
   border-color: rgba(39,174,96,0.5);
