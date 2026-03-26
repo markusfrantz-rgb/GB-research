@@ -1,0 +1,87 @@
+Commentwww.thelancet.com/neurology   Vol 23   October 2024  955See Articles page 1013Switzerland (BCH, AK); Department of Pediatric Neurology and Developmental 
+Medicine, University Children’s Hospital Basel, University of Basel, Basel, Switzerland (BCH)
+1 Fullam TR, Chandrashekhar S, Farmakidis C, et al. Non-dystrophic 
+myotonia: 2-year clinical and patient reported outcomes. Muscle Nerve 
+2022; 66: 148–58. 
+2 Fournier E, Tabti N. Clinical electrophysiology of muscle diseases and 
+episodic muscle disorders. Handb Clin Neurol 2019; 161: 269–80. 
+3 Vicart S, Franques J, Bouhour F, et al. Efficacy and safety of mexiletine in 
+non-dystrophic myotonias: A randomised, double-blind, placebo-controlled, cross-over study. Neuromuscul Disord 2021; 31: 1124–35. 
+4 Sansone VA, Ricci C, Montanari M, Apolone G, Rose M, Meola G. Measuring 
+quality of life impairment in skeletal muscle channelopathies. Eur J Neurol 2012; 19: 1470–76. 
+5 Jitpimolmard N, Matthews E, Fialho D. Treatment updates for 
+neuromuscular channelopathies. Curr Treat Options Neurol 2020; 22: 34. 6 Vivekanandam V, Skorupinska I, Jayaseelan DL, et al. L. Mexiletine versus 
+lamotrigine in non-dystrophic myotonias: a randomised, double-blind, head-to-head, crossover, non-inferiority, phase 3 trial. Lancet Neurol 2024; 23: 1004–12.
+7 Stunnenberg BC, LoRusso S, Arnold WD, et al. Guidelines on clinical 
+presentation and management of nondystrophic myotonias. Muscle Nerve 2020; 62: 430–44. 
+8
+ Matthews E, Silwal A, Sud R, et al. Skeletal muscle channelopathies: rare disorders with common pediatric symptoms. J Pediatr 2017; 188: 181–85.e6. 
+9 Öz Tunçer G, Sanri A, Aydin S, et al. Clinical and genetic spectrum of myotonia congenita in Turkish children. J Neuromuscul Dis 2023; 10: 915–24. 
+10 Matthews E, Guet A, Mayer M, et al. Neonatal hypotonia can be a sodium 
+channelopathy: recognition of a new phenotype. Neurology 2008; 71: 1740–42.
+Targeting auto-antibodies for CIDP: hope and questions
+Despite the availability of evidence-based treat -
+ments for chronic inflammatory demyelinating 
+polyradiculoneuropathy (CIDP), their use frequently results in incomplete recovery.
+1 Intravenous immuno -
+globulins, plasma exchange, and corticosteroids might improve function in some, but not all, people with CIDP. No trials involving other agents have, to date, shown a benefit.
+2 Side-effect profiles, tolerability, logistics 
+for intravenous infusions, and difficulties of long-term venous access are additional barriers to effective 
+treatment for patients with CIDP. 
+In The Lancet Neurology, Jeffrey Allen and colleagues
+3 
+report findings from ADHERE, an international, double-blind, placebo-controlled, phase 2 trial of efgartigimod—a human IgG1 antibody Fc fragment that reduces circulating concentrations of pathogenic IgG autoantibodies—co-formulated with recombinant human hyaluronidase PH20. Efgartigimod has previously shown effectiveness in patients with myasthenia gravis.
+4 The ADHERE trial was done in two 
+main stages, after a run-in period of no longer than 12 weeks, during which participants who had been receiving immunoglobulins or corticosteroids before the trial had these treatments withdrawn. Participants not on immunoglobulins or corticosteroids during  
+the previous 6 months were classified as off-treatment. During the run-in period, participants who showed evidence of clinical deterioration (defined as an increase by 1 point or more on the adjusted Inflammatory Neuropathy Cause and Treatment [aINCAT] score, deterioration by 4 points or more on the centile Inflammatory Rasch-built Overall Disability Scale [I-RODS], or decline by 8 kPa or more in grip strength) entered stage A. Stage A was a treatment period of up to 12 weeks, during which all participants received once-weekly subcutaneous efgartigimod PH20 until evidence of clinical improvement or until the end of the 12-week treatment period; the primary endpoint in stage A was the proportion of responders, defined as participants who had improvement of aINCAT, I-RODS, or grip strength, whichever had deteriorated during run-in. Participants with confirmed evidence of clinical improvement then advanced to stage B and were randomly assigned (1:1) to once-weekly subcutaneous efgartigimod PH20 (n=111) or placebo (n=110) for up to 48 weeks, with stage B planned to end once a total of 88 relapses had occurred. The primary outcome in stage B was a deterioration of 1 point or more on the aINCAT scale. The main results were convincingly in favour of subcutaneous efgartigimod PH20, with evidence of clinical improvement in 66% (95% CI 61 ·0–71· 6) 
+of participants in stage A, and subcutaneous efgartigimod PH20 reducing the risk of relapse by 61% versus placebo (hazard ratio 0 ·39 [95% CI 0· 25–0· 61]; 
+p<0· 0001) in stage B. 
+Prespecified subgroup analyses showed a more 
+nuanced picture. In stage A, participants treated with immunoglobulins within 6 months before study had a lower responder rate (97 [59%] of 165) than those previously off-treatment (68 [72%] of 94) and those treated with corticosteroids in the previous 6 months (49 [78%] of 63). Furthermore, treatment discontinuation for any reason other than trial 
+
+Comment956  www.thelancet.com/neurology   Vol 23   October 2024completion during stage A was more common in 
+patients previously treated with immunoglobulins 
+(53 [32%] of 162) than in those previously off-treatment (eight [9%] of 94) or those previously treated with corticosteroids (eight [13%] of 63). However, in stage B, relapse rates were lower with subcutaneous efgartigimod PH20 than with placebo in patients pretreated with immunoglobulins (14 [29%] of 48 vs 28 [58%] of 48) and patients treated with 
+corticosteroids (five [21%] of 24 vs 15 [65%] 23), but 
+not in previously off-treatment participants (12 [31%] of 39 vs 16 [41%] of 39). Relapse rates in the placebo 
+group of the three subgroups were similar. 
+Previous CIDP trials have included participants who 
+were concurrently receiving, or who had recently discontinued, immunoglobulins
+5 and corticosteroids,6–8 
+and their results might have been  affected by 
+previous treatments, owing to persistent treatment effects, heterogeneous underlying pathophysiological 
+mechanisms, or both. Interpretation of the detailed results of ADHERE is therefore not straightforward. 
+Immunoglobulin cessation shortly before entry into stage A might explain the poorer response in participants pretreated with immunoglobulins, which raises questions regarding the ideal timing of a switch from immunoglobulins to FcRn blocker therapy such as 
+subcutaneous efgartigimod PH20. The use of multiple primary outcomes in stage A but of only the aINCAT in stage B might partly explain the absence of a reduction in relapse rates with subcutaneous efgartigimod PH20 in the previously off-treatment participants. A post-hoc analysis of a previous trial found that early improvement of I-RODS or grip strength were poor predictors of subsequent aINCAT improvement,
+9 
+suggesting inconsistent use of outcomes within a trial is probably unadvisable. The appropriateness of a minimum clinically important difference for the centile I-RODS of only 4 points, as used in ADHERE, is also debatable, as a cutoff of 8 points has been derived previously.
+10 The relatively high placebo 
+response in previously off-treatment participants in stage B might be another explanation for the absence of effect of subcutaneous efgartigimod PH20 in this subgroup, which itself might suggest a greater carry-over effect from stage A in this subgroup, than in the immunoglobulin and corticosteroid pre-treated subgroups. Whether and how the subgroup analyses of the ADHERE trial should affect consideration of efgartigimod as a first-line treatment for CIDP is unknown. 
+The ADHERE trial offers the prospect of a new, 
+rapidly effective, well tolerated, and easy to administer treatment for CIDP. Uncertainties remain regarding which patients would be likely to benefit the most in light of their previous treatment status. However, after decades with little therapeutic progress, this study offers reasons for overall optimism and enthusiasm.
+I have received speaker or consultancy honoraria from Argenx, Dianthus Grifols, 
+Johnson & Johnson, Laboratoires Francais du Fractionement et des Biotechnologies (LFB), Polyneuron, Sanofi, and Takeda; have received educational sponsorships from LFB and Commonwealth Serum Laboratories CSL Behring; and have obtained research grants from LFB.   
+Yusuf A Rajabally
+y.rajabally@aston.ac.uk
+Aston Medical School, Aston University, Birmingham B4 7ET, UK
+1 Rajabally YA, Min YG, Nazeer KK, Englezou C. Treatment response 
+amplitude and timing in chronic inflammatory demyelinating 
+polyneuropathy with routine care: study of a UK cohort. Eur J Neurol 2024; published online July 9. https://doi.org/10.1111/ene.16399. 
+2 Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European Academy 
+of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint Task Force-Second revision. Eur J Neurol 2021; 28: 3556–83. 
+3 Allen JA, Lin J, Basta I, et al. Safety, tolerability, and efficacy of 
+subcutaneous efgartigimod in patients with chronic inflammatory demyelinating polyradiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double-blind, placebo-controlled, phase 2 trial. Lancet Neurol 2024; 23: 1013–24
+4 Howard JF Jr, Bril V, Vu T, et al. Safety, efficacy, and tolerability of 
+efgartigimod in patients with generalised myasthenia gravis (ADAPT): a multicentre, randomised, placebo-controlled, phase 3 trial. Lancet Neurol 2021; 20: 526–36. 
+5 Cornblath DR, van Doorn PA, Hartung HP, et al. Randomized trial of three 
+IVIg doses for treating chronic inflammatory demyelinating polyneuropathy. Brain 2022; 145: 887–96. 
+6 Hughes RA, Donofrio P, Bril V, et al. Intravenous immune globulin 
+(10% caprylate-chromatography purified) for the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE study): a randomised placebo-controlled trial. Lancet Neurol 2008; 7: 136–44. 
+7 Léger JM, De Bleecker JL, Sommer C, et al. Efficacy and safety of Privigen(®) 
+in patients with chronic inflammatory demyelinating polyneuropathy: results of a prospective, single-arm, open-label Phase III study (the PRIMA study). J Peripher Nerv Syst 2013; 18: 130–40. 
+8 Nobile-Orazio E, Pujol S, Kasiborski F, et al. An international multicenter 
+efficacy and safety study of IqYmune in initial and maintenance treatment of patients with chronic inflammatory demyelinating polyradiculoneuropathy: PRISM study. J Peripher Nerv Syst 2020; 25: 356–65. 
+9 Rajabally YA, Ouaja R, Kasiborski F, Pujol S, Nobile-Orazio E. Assessment 
+timing and choice of outcome measure in determining treatment response in chronic inflammatory demyelinating polyneuropathy: a post hoc analysis of the PRISM trial. Muscle Nerve 2022; 66: 562–67 . 
+10 Rajabally YA, Afzal S, Ghasemi M. Minimal important differences and self-
+identifying treatment response in chronic inflammatory demyelinating polyneuropathy. Muscle Nerve 2021; 64: 37–42. 

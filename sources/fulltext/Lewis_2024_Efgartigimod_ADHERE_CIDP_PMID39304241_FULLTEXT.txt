@@ -1,0 +1,535 @@
+www.thelancet.com/neurology   Vol 23   October 2024  1013
+Articles
+Safety, tolerability, and efficacy of subcutaneous 
+efgartigimod in patients with chronic inflammatory demyelinating polyradiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double-blind, placebo-controlled, phase 2 trial
+Jeffrey A Allen, Jie Lin, Ivana Basta, Tina Dysgaard, Christian Eggers, Jeffrey T Guptill, Kelly G Gwathmey, Channa Hewamadduma, Erik Hofman, 
+Yessar M Hussain, Satoshi Kuwabara, Gwendal Le Masson, Frank Leypoldt, Ting Chang, Marta Lipowska, Murray Lowe, Giuseppe Lauria, Luis Querol, Mihaela-Adriana Simu, Niraja Suresh, Anissa Tse, Peter Ulrichts, Benjamin Van Hoorick, Ryo Yamasaki, Richard A Lewis*, Pieter A van Doorn*, in collaboration with the ADHERE Study Group†
+Summary 
+Background Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is an autoimmune disease 
+of the peripheral nervous system that can lead to severe disability from muscle weakness and sensory disturbances. 
+Around a third of patients do not respond to currently available treatments, and many patients with a partial response have residual neurological impairment, highlighting the need for effective alternatives. Efgartigimod alfa, a human IgG1 antibody Fc fragment, has demonstrated efficacy and safety in patients with generalised myasthenia gravis. We evaluated the safety, tolerability, and efficacy of subcutaneous efgartigimod PH20 in adults with CIDP.
+Methods ADHERE, a multistage, double-blind, placebo-controlled trial, enrolled participants with CIDP from 
+146 clinical sites from Asia–Pacific, Europe, and North America. Participants with evidence of clinically meaningful 
+deterioration entered an open-label phase of weekly 1000 mg subcutaneous efgartigimod PH20 for no longer than 12 weeks (stage A). Those with confirmed evidence of clinical improvement (ECI; treatment responders) entered a randomised-withdrawal phase of 1000 mg subcutaneous efgartigimod PH20 weekly treatment versus placebo for a maximum of 48 weeks (stage B). Participants were randomised (1:1) through interactive response technology and stratified by their adjusted Inflammatory Neuropathy Cause and Treatment (aINCAT) score change during stage A and their most recent CIDP medication within 6 months before screening. Investigators, the clinical research organisation, and participants were masked to the treatment. The primary endpoint in stage A, evaluated in the stage A safety population, was confirmed ECI (≥1 points aINCAT decrease, ≥4 points [centile metric] Inflammatory Rasch-built Overall Disability Scale increase, or ≥8 kPa grip strength increase after four injections and two consecutive visits). The primary endpoint in stage B, evaluated in the modified intention-to-treat population, was the risk of relapse (time to first aINCAT increase of ≥1 points). ADHERE is registered with ClinicalTrials.gov (NCT04281472) and EudraCT (2019-003076-39) and is completed.
+Findings Between April 15, 2020, and May 11, 2023, 629 participants were screened; 322 (114 female, 208 male) entered 
+stage A, of whom 214 (66%, 95% CI 61·0−71·6) had confirmed ECI. In stage B, 221 participants were randomised 
+(79 female, 142 male; 111 to subcutaneous efgartigimod PH20, 110 to placebo). Subcutaneous efgartigimod PH20 significantly reduced the risk of relapse versus placebo (hazard ratio 0·39 [95% CI 0·25−0·61]; p<0·0001). 31 (27·9% [19·6–36·3]) participants given subcutaneous efgartigimod PH20 had a relapse versus 59 (53·6% [44·3–63·0]) given placebo. In stage A, treatment-emergent adverse events (TEAEs) occurred in 204 (63%) participants and serious TEAEs in 21 (7%). In stage B, TEAEs occurred in 71 (64%) participants on subcutaneous efgartigimod PH20 and 62 (56%) participants on placebo, and serious TEAEs in six (5%) on subcutaneous efgartigimod PH20 and six (5%) on placebo. Three deaths occurred: two in stage A (one non-related and one unlikely related to treatment) and one in stage B (placebo group). 
+Interpretation ADHERE showed the efficacy of subcutaneous efgartigimod PH20 in reducing the risk of relapse 
+versus placebo in people with CIDP who responded to treatment. Further studies are needed to provide data on 
+the longer-term effects of efgartigimod alfa and how it compares with currently available treatment options.
+Funding argenx.
+Copyright © 2024 Elsevier Ltd. All rights reserved, including those for text and data mining, AI training, and similar 
+technologies.Lancet Neurol 2024; 
+23: 1013–24
+This online publication has 
+been corrected. The corrected version first appeared at thelancet.com/neurology on March 25, 2025
+See Comment page 955*Joint senior authors†ADHERE Study Group 
+investigators are listed in the appendix (pp 8–12)
+Department of Neurology, 
+University of Minnesota, Minneapolis, MN, USA (J A Allen MD); Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China (J Lin MD); Neurology Clinic, University Clinical Centre of Serbia, Faculty of Medicine, University of Belgrade, Belgrade, Serbia (I Basta MD); Department of Neurology, University of Copenhagen, Copenhagen, Denmark (T Dysgaard MD); Department of Neurology, Kepler University Hospital, Johannes Kepler University, Linz, Austria (C Eggers MD); argenx, Ghent, Belgium (J T Guptill MD, E Hofman PhD, M Lowe PhD, A Tse BM BS, P Ulrichts PhD, B Van Hoorick MD); School of Medicine, Duke University, Durham, NC, USA (J T Guptill); Department of Neurology, Virginia Commonwealth University, Richmond, VA, USA (K G Gwathmey MD); Sheffield Institute for Translational Neurosciences (SITRAN), University of Sheffield, Sheffield, UK (C Hewamadduma PhD); Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK 
+
+Articles1014  www.thelancet.com/neurology   Vol 23   October 2024Introduction 
+Chronic inflammatory demyelinating polyradiculoneu-
+ropathy (CIDP) is an autoimmune disorder of the peripheral nervous system characterised by progressive or relapsing muscle weakness and sensory disturbance over at least 8 weeks and can lead to severe disability and impaired quality of life.
+1–3 The most 
+common form is typical CIDP.1 Although criteria such as 
+those devised by the 2021 European Academy of Neurology–Peripheral Nerve Society (known as EAN–PNS) help to guide the diagnostic process, clinical heterogeneity and the absence of a key diagnostic biomarker
+3 make CIDP diagnosis challenging, 
+commonly leading to misdiagnoses.1
+Multiple cellular and humoral immune mechanisms 
+have been implicated in the pathophysiology of CIDP,3 
+but their relative importance in each patient is unknown. One mechanism might involve IgG autoantibodies.
+3 In 
+experimental animal models, the passive transfer of puri -
+fied IgG or serum samples from patients with CIDP results in demyelination, conduction block, or both, and partly replicates the clinical deterioration in patients with CIDP.
+4,5 The fact that an effective CIDP treatment is 
+the removal of circulating IgG and other humoral factors by plasma exchange or immunoadsorption supports a humoral-mediated immunobiological process.
+6,7 Despite 
+the putative role of IgG autoantibodies, there is currently not a known pathogenic autoantibody identified in most patients with CIDP.
+3CIDP evidence-based treatments are limited to 
+corticosteroids, intravenous immunoglobulin, subcuta-neous immunoglobulin, and plasma exchange. Approximately a third of patients do not initially respond to these treatments,
+8 and many patients with a partial 
+response have residual neurological impairment and disability along with fluctuation associated with treat -
+ment timing.
+2,9–11 Furthermore, poor safety and 
+tolerability, logistical challenges of the infusions, or poor peripheral venous access affect at least a third of patients,
+12,13  disrupting work productivity and quality 
+of life.2,13 Moreover, intravenous immunoglobulin and 
+subcutaneous immunoglobulin are dependent on blood donors, leaving patients susceptible to supply issues. Other therapies have not been formally proven to be effective in CIDP,
+14 and data on innovative treatments 
+over the past two decades are scarce. There is an unmet need for CIDP treatments that are at least as effective as current therapies and that can offer a more favourable treatment burden profile.
+Efgartigimod alfa, a human IgG1 antibody Fc fragment 
+and natural ligand of the neonatal Fc receptor (FcRn), binds to the IgG binding site at a location distinct from that of albumin, preventing IgG recycling and increasing its degradation, without affecting IgG production or function.
+15 Efgartigimod alfa treatment results in targeted 
+reduction of all IgG subtypes without affecting other 
+immuno  globulins or reducing albumin (which is also 
+recycled by FcRn).15–17(C Hewamadduma); 
+Austin Neuromuscular Center, 
+Austin, TX, USA 
+(Y M Hussain MD); Department 
+of Neurology, Graduate School 
+of Medicine, Chiba University, 
+Chiba, Japan 
+(Prof S Kuwabara MD); 
+Department of Neurology 
+(Nerve-Muscle Unit), AOC 
+National Reference Center for 
+Neuromuscular Disorders, ALS 
+Center, University Hospital of 
+Bordeaux (CHU Bordeaux), 
+Bordeaux, France 
+(G Le Masson MD); Department 
+of Neurology, Institute of 
+Clinical Chemistry, Christian-
+Albrecht University of Kiel, Kiel, 
+Germany (F Leypoldt MD); 
+University Medical Center 
+Schleswig-Holstein, Kiel, 
+Germany (F Leypoldt); 
+Department of Neurology, 
+Tangdu Hospital, The Fourth 
+Military Medical University, 
+Xi’an, China (T Chang MD); 
+Department of Neurology, 
+Medical University of Warsaw, 
+Warsaw, Poland 
+(M Lipowska MD); European 
+Reference Network On Rare 
+Neuromuscular Diseases 
+(ERN EURO-NMD), Paris, France 
+(M Lipowska); IRCCS 
+Fondazione Istituto 
+Neurologico Carlo Besta, Milan, 
+Italy (G Lauria MD) ; Department 
+of Medical Biotechnology and 
+Translational Medicine, 
+University of Milan, Milan, Italy  
+(G Lauria); Department of 
+Neurology, Neuromuscular 
+Diseases Unit, Hospital de 
+La Santa Creu I Sant Pau, 
+Universitat Autònoma de 
+Barcelona, Barcelona, Spain 
+(L Querol MD); Centro de 
+Investigación Biomédica en 
+Red en Enfermedades Raras 
+(CIBERER), Madrid, Spain 
+(L Querol); Department of 
+Neurology, Victor Babeș 
+University of Medicine and 
+Pharmacy, Timișoara, Romania 
+(M-A Simu MD); Department of 
+Neurology, University of South 
+Florida, Tampa, FL, USA 
+(N Suresh MD); Department of 
+Neurology, Kyushu University 
+Hospital, Fukuoka, Japan 
+(R Yamasaki MD); Department 
+of Neurology, Neurological 
+Institute, Graduate School of 
+Medical Sciences, Kyushu 
+University, Fukuoka, Japan 
+(R Yamasaki); Department of 
+Neurology, Cedars-Sinai 
+Medical Center, Los Angeles, 
+CA, USA (Prof R A Lewis MD); 
+Department of Neurology, Research in context 
+Evidence before this study 
+We searched PubMed from database inception up to April 19, 2024, for relevant clinical studies in chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) with no language restrictions. Key search terms included “CIDP”, “neonatal Fc receptor”, “IgG recycling”, “antibody fragment”, and “autoantibody reduction”. We found no studies using pharmacological approaches to achieve the targeted reduction of IgG antibodies, including pathogenic IgG autoantibodies, in people with CIDP. CIDP severely impacts patients’ daily functioning and quality of life. Access, availability, safety, and tolerability of first-line therapies limit chronic use, impose unacceptable treatment burdens, and commonly lead to incomplete neurological recovery. Several lines of evidence indicate that IgG autoantibodies could have a key role in CIDP pathology, but there is currently no specific known or measurable pathogenic autoantibody in most patients with CIDP.
+Added value of this study 
+ADHERE was a multicentre, multistage, open-label (stage A) and randomised-withdrawal, double-blind, placebo-controlled (stage B) trial of subcutaneous efgartigimod alfa coformulated with recombinant human hyaluronidase PH20 (known as subcutaneous efgartigimod PH20) in participants with CIDP (diagnosis confirmed by an external expert committee). This is, to our knowledge, the largest clinical trial to date in this population. Efgartigimod alfa is a human IgG1 antibody Fc fragment that binds to the IgG binding site of the neonatal Fc receptor (FcRn), decreasing the recycling of IgG and, consequently, decreasing IgG concentrations (including pathogenic IgG autoantibodies). In the ADHERE study, subcutaneous efgartigimod PH20 was more effective than placebo in reducing the risk of relapse in people with CIDP who responded to treatment. Clinical benefit was observed across multiple CIDP efficacy measures. 
+Implications of all the available evidence 
+The demonstration that subcutaneous efgartigimod PH20 is more effective than placebo in reducing the risk of relapse strongly suggests that IgG autoantibodies have an important role in the pathophysiology of CIDP. Beneficial responses to subcutaneous efgartigimod PH20 were observed in participants who were representative of the general CIDP population with disability ranging from mild to severe. These findings are clinically relevant because they suggest that selective IgG reduction through blocking of FcRn with subcutaneous efgartigimod PH20 is a well tolerated and efficacious treatment option for people with CIDP.
+
+Articleswww.thelancet.com/neurology   Vol 23   October 2024  1015Erasmus MC, University 
+Medical Center, Rotterdam, Netherlands (Prof P A van Doorn MD) 
+Correspondence to: 
+Dr Jeffrey A Allen, Department of Neurology, University of Minnesota, Minneapolis, MN 55455, USA jaallen@umn.edu
+See Online for appendixEfgartigimod alfa is approved for the treatment 
+of generalised myasthenia gravis in the USA, Europe, 
+Asia, and other regions globally.18–21 Both intravenous 
+efgartigimod alfa and subcutaneous efgartigimod alfa coformulated with recombinant human hyaluronidase PH20 (herein referred to as subcutaneous efgartigimod PH20) have shown efficacy and safety in patients with generalised myasthenia gravis.
+16,18 The ADHERE study 
+investigated the safety, tolerability, and efficacy of subcu -
+taneous efgartigimod PH20 in adult patients with CIDP.
+Methods 
+Study design and participants 
+ADHERE was a multistage, open-label, randomised-withdrawal, double-blind, placebo-controlled trial of subcutaneous efgartigimod PH20 in participants who were receiving CIDP treatment or were off treatment (appendix p 33). The trial was conducted at 146 partici -
+pating clinical sites (academic centres or centres of excellence, hospitals, or smaller private neurology clinics) across 22 countries from different regions in Asia–Pacific, Europe, and North America (appendix pp 13–32). Potential participants were recruited directly through the investigators’ practices or via physician referral to the practice. Eligible participants were adults (aged ≥18 years) with definite or probable CIDP, a CIDP Disease Activity Status (CDAS) score of at least 2 at screening, and an Inflammatory Neuropathy Cause and Treatment (INCAT) score of at least 2 (a score of 2 had to be exclusively from leg disability) at the first run-in visit or at stage A baseline. CIDP diagnosis for each participant was confirmed by an independent expert adjudication CIDP Confirmation Committee of neurologists with extensive clinical and research experience in CIDP. Eligibility was confirmed when two experts indepen -
+dently confirmed a participant had definite or probable CIDP per 2010 European Federation of Neurological Societies–Peripheral Nerve Society (known as EFNS–PNS) criteria.
+22 If discordance occurred, the CIDP 
+Confirmation Committee Chair provided final determination. The study included participants receiving CIDP treatment (ie, corticosteroids, intravenous or subcutaneous immunoglobulin, or both) who were willing to discontinue that treatment, or participants who were off treatment. Participants who had never received CIDP treatment or had not received it within 6 months of study entry were classified as off treatment. Participants who received CIDP treatment within 6 months before study entry or who discontinued treat -
+ment were required to have evidence of clinically meaningful deterioration (ECMD) in the run-in period, and participants who were off treatment who had documented evidence of recent active disease could directly enter stage A. Key exclusion criteria included the pure sensory CIDP variant, polyneuropathies of other causes, and a total IgG concentration less than 6 g/L at screening. Full inclusion and exclusion criteria are listed in the appendix (pp 3–5). Participants provided written informed consent during the screening period. Participants’ sex at birth (female or male) was recorded by the physician during this visit. 
+All participants underwent screening for no longer 
+than 4 weeks. Participants who were receiving CIDP treatment entered a maximum 12-week run-in during which intravenous or subcutaneous immunoglobulin or corticosteroids were discontinued to identify which participants were likely to have active disease. Participants who were off treatment with documented evidence for worsening on the adjusted INCAT (aINCAT) scale within 3 months before screening (when compared with a previous aINCAT score within 6 months before screening) were allowed to skip the run-in and enter stage A. All other participants who were off treatment entered the run-in. Participants in the run-in were moni-tored for clinical change and were required to have ECMD to enter stage A; ECMD was defined as an at least 1 point increase in aINCAT score, at least a 4 point (centile metric) decrease in the Inflammatory Rasch-built Overall Disability Scale (I-RODS), or at least an 8 kPa decrease in grip strength. A composite outcome was used in the run-in and stage A to maximise the detection of worsening in participants who withdrew standard-of-care treatment. The aINCAT, I-RODS, and grip strength test (appendix p 6) are recommended in international guidelines as tools to monitor disease improvement,
+1 and 
+recommended minimal clinically important differences are an aINCAT decrease of at least 1 point, an I-RODS increase of at least 4 points, and a grip strength increase of at least 8 kPa.
+1,23
+Stage A consisted of a maximum 12-week treatment 
+period in which all participants received subcutaneous efgartigimod PH20 once weekly until confirmed evidence of clinical improvement (ECI). ECI was defined as an improvement (ie, ≥1 point decrease) in aINCAT score versus the score at stage A baseline for participants who were off treatment or a deterioration in aINCAT score during run-in for participants who were receiving treat-ment; for participants with ECMD on I-RODS or mean grip strength during run-in, ECI was defined as the improvement in the scales on which they deteriorated 
+(ie, ≥4 point increase in I-RODS or ≥8-kPa increase in mean grip strength) or improvement in aINCAT (appendix p 7). An optional additional week with an injection at week 12 was allowed in stage A for ECI confirmation in participants who showed ECI only at the last visit in stage A. ECI could be confirmed only after at least four treatment administrations for maximal pharmacodynamic effect to be achieved. Participants remained in stage A until ECI was confirmed on two consecutive visits 1 week apart. Stage A evaluated 
+the clinical activity of subcutaneous efgartigimod PH20 and we planned on enrolling up to 360 participants. Participants with confirmed ECI then advanced to stage B, which assessed the primary efficacy of subcutaneous 
+
+Articles1016  www.thelancet.com/neurology   Vol 23   October 2024efgartigimod PH20 versus placebo for no more than 
+48 weeks until a total of 88 events (relapses) occurred, when ADHERE stopped. Study participation ended when a participant relapsed or completed week 48 of stage B. Participants could receive subcutaneous efgartigimod PH20 treatment in the open-label extension trial (ADHERE+; NCT04280718; EudraCT 2019-003107-35). Additionally, ongoing participants and those in the run-in at the time of the 88th relapse in stage B could enter the open-label extension.
+The trial was conducted in accordance with the protocol 
+and consensus ethical principles derived from interna -
+tional guidelines, including the Declaration of Helsinki, Council for International Organizations of Medical Sciences International Ethical Guidelines, applicable International Council for Harmonization of Technical Requirements for Pharmaceuticals for Human Use Good Clinical Practice Guidelines, and other applicable laws and regulations. The protocol was approved by the institutional review board or independent ethics committees at each participating site. The trial was registered with ClinicalTrials.gov (NCT04281472) and the EU Clinical Trials Register (EudraCT 2019-003076-39).
+Randomisation and masking 
+Stage A was open label. In stage B, participants were randomly assigned (1:1) by the study physician with interactive response technology to the investigational medicinal product (ie, efgartigimod PH20 or placebo PH20). The study physician remained masked until the final database lock. Participants were stratified by their aINCAT score during stage A (ie, no change in aINCAT score or aINCAT score decrease of ≥1 point) and their previous CIDP medication within 6 months before screening (ie, off treatment, corticosteroid treatment, or intravenous or subcutaneous immunoglobulin treatment). Except for unmasking for adverse events that required treatment, the investigator, investigational site staff, participant, funder, and funder’s designated contract research organisation were masked to treatment during stage B until the final database lock. The investi -
+gational medicinal products in stage B were provided in identical blinded vials. The trained and authorised site staff were masked to the syringe and administration was performed by the site staff who also prepared the syringe. An amber-coloured syringe was used to prepare and administer investigational medicinal product to maintain the masking.
+Procedures 
+Recombinant human hyaluronidase PH20 is an enzyme that locally degrades hyaluronan in the subcutaneous space and facilitates faster administration of large volumes by temporarily reducing the barrier to bulk fluid flow.
+24 1000 mg (approximately 5·6 mL) subcutaneous 
+efgartigimod PH20 (stages A and B) or a matched placebo containing 2000 U/mL of PH20 (stage B only) were administered by subcutaneous injection lasting 30–90 s in the abdominal skin once a week.
+19,21 In stage B, 
+participants received the same dose of subcutaneous efgartigimod PH20 or matching placebo injections containing the same excipients as the active treatment once a week for no more than 48 weeks. The investiga -
+tional medicinal product was administered by authorised site staff at the clinical site or by a trained nurse in the participant’s home.
+The aINCAT, Medical Research Council (MRC) sum 
+score, I-RODS score, mean grip strength, and timed up and go (TUG) test scores were performed weekly in stage A and every 4 weeks in stage B. The EuroQol 5-dimensions-5-levels (EQ-5D-5L) health-related quality-of-life (HRQOL) questionnaire was assessed at visit 1 and at the end of study in stage A, and visits 1, 4, 7, 10, and 13 (end of study) in stage B.
+Adverse events were monitored on a daily or contin-
+uous basis depending on the schedule of activities and visits. Adverse events were monitored through study visits and reported up to 30 days after the last activity of the trial; participants could also contact the site to report any adverse events. 
+Outcomes 
+The primary endpoint in stage A was the percentage of participants with confirmed ECI (ie, responders). Secondary endpoints in stage A were time to initial confirmed ECI and time to first improvement (in aINCAT, I-RODS, or grip strength) during stage A and change in aINCAT, I-RODS, mean grip strength, MRC sum, and TUG test scores from stage A baseline.
+The primary endpoint in stage B was the time to first 
+aINCAT deterioration, defined as an increase of 1 point or more on the aINCAT score compared with stage B baseline. Increases of 1 point in aINCAT required confir -
+mation at a second study visit 3–7 days after the original change was documented. Changes of 2 points or more did not require confirmation at a consecutive study visit. Stage B secondary endpoints were the time to CIDP disease progression in stage B (from stage B baseline to the first I-RODS score decrease of ≥4 points), the propor -
+tion of participants with functional improvement compared with stage B baseline (improvement of ≥4 point in I-RODS score), and changes from stage B base-line in aINCAT, I-RODS, mean grip strength, MRC sum, and TUG test scores. Primary endpoints in both stages A and B were assessed by the site investigator and moni -
+tored centrally. Other secondary endpoints assessed in stages A and B were the EQ-5D-5L and changes in serum IgG concentrations (total IgG) over time.
+Safety and tolerability endpoints included the incidence 
+of treatment-emergent adverse events (TEAEs), discon-tinuations due to TEAEs, and serious TEAEs in stages A and B. CIDP signs or symptoms were recorded as TEAEs, regardless of causality, if there was CIDP worsening or For the protocol see https://cdn.
+clinicaltrials.gov/large-docs/72/
+NCT04281472/Prot_000.pdf
+
+Articleswww.thelancet.com/neurology   Vol 23   October 2024  1017deterioration. Other safety variables were the evaluation 
+of electrocardiogram findings, vital signs, and laboratory assessments. Adverse events reported from the first dose of study treatment until 30 days after the last dose were considered TEAEs and graded per the National Cancer Institute’s Common Terminology Criteria for Adverse Events version 5.0. Whether adverse events were treatment related or not was judged by the investigator. 
+Statistical analysis 
+The modified intent-to-treat (mITT) population included all randomly assigned participants who received at least one dose or part of a dose of the investigational medicinal product in stage B. The safety populations for stages A and B included all participants who received at least one dose or part of a dose of the investigational medicinal product in the respective stage. The pharmacodynamic population included all participants in the safety popula -
+tion with at least one serum pharmacodynamic concentration available. An independent data and safety monitoring board periodically reviewed the integrity and safety of the trial.
+The stage A primary endpoint was summarised with 
+an exact Clopper–Pearson two-sided test with 95% CI in the safety population. A prespecified sensitivity analysis of the stage A primary endpoint was performed excluding participants who were ongoing in stage A at the time of study completion, after the 88th relapse had occurred. In stage A, the percentage of participants with confirmed ECI by previous CIDP treatment and time to initial confirmed ECI are presented descriptively. 
+The stage B primary endpoint was analysed via Cox 
+regression modelling in the mITT population. Participants who completed the study at week 48 without relapse or withdrew early for any other reason (including completion of the trial) were censored at the last aINCAT assessment. The model was stratified for randomisation stratification factors (previous CIDP medication and aINCAT score during stage A), with a fixed-effect term included as a covariate for randomised treatment. ADHERE was an event-driven trial, which finished when 88 relapses (events) were reached. Based on a relapse rate of subcutaneous efgartigimod PH20 versus placebo for the stage B primary endpoint of 0· 50 (hazard ratio 
+[HR] 0·50), 88 relapses were required to provide 90% power at a one-sided α  level of 0· 025 with a log-rank test. 
+To obtain a sufficient number of patients randomly assigned into stage B, up to 360 patients were required to be enrolled into stage A. Patients continued to be randomly assigned into stage B until 88 events were observed. For the secondary endpoints in stage B, the time to CIDP disease progression during stage B was analysed in the same way as the primary endpoint. The percentage of participants with improved functional level, measured by the I-RODS score during stage B, was analysed by exact logistic regression, with a fixed effect term for randomised treatment and I-RODS score at the end of stage A included as a covariate. The odds ratio (OR) was obtained from an exact logistic regression model with treatment as a fixed effect along with the associated 95% CI and two-sided p value; this analysis was done overall and also stratified by previous CIDP therapy and aINCAT score during stage A. Exact Clopper–Pearson two-sided 95% CI limits were calculated for the propor -
+tion of participants with disease progression in each arm. Changes from stage B baseline in aINCAT score, I-RODS score, mean grip strength, and other secondary endpoints in stage B were analysed descriptively. This study was not powered to detect differences between previous CIDP treatment subgroups; therefore, no formal statistical analyses were conducted. Statistical analyses were performed by the funder’s designated clinical research organisation using SAS version 9.4 or higher, and the software package R, when applicable.
+Role of the funding source 
+The funder of the study had a role in the study design, data collection, data analysis, data interpretation, and writing of the report.
+Results 
+Between April 15, 2020, and May 11, 2023, 629 participants were screened, of whom 342 met inclusion criteria and were enrolled and 287 were ineligible. Participants who were ineligible after screening were mostly ineligible because the CIDP Confirmation Committee judged that the participant’s disease was not probable or definite CIDP (179 [62%]; figure 1). Of the 342 enrolled 
+participants, 306 entered the run-in phase, of whom 20 were withdrawn (seven [2%] did not have ECMD after treatment suspension during the run-in, seven [2%] were ongoing and entered the open-label extension after the 88th relapse in stage B, and six [2%] because of other reasons).
+Of the 322 participants who entered stage A (36 directly 
+and 286 after the run-in period), 221 were randomised and treated in stage B (111 with subcutaneous efgartigimod PH20, 110 with placebo; figure 1). The number of randomised participants was higher than that of participants with confirmed ECI (n=214) because there were 13 participants randomised to stage B without per-protocol confirmed ECI and six participants with confirmed ECI who were withdrawn from the study; all of these 13 participants were considered to have had major protocol deviations except for one participant who had a delay in dose administration. A total of 46 (14%) participants had major protocol deviations in stage A, with a median treatment duration of 3·8 weeks (IQR 3·1–8·1). In stage B, 37 (17%) participants had major protocol deviations (15 [14%] in the subcutaneous efgartigimod PH20 group and 22 [20%] in the placebo group); the median treatment duration was 22·3 weeks (8·3–47·0) in the subcutaneous efgartigimod PH20 group and 11·1 weeks (4·1–32·0) in the placebo group. A 
+
+Articles1018  www.thelancet.com/neurology   Vol 23   October 2024total of 226 (99%) of 228 of the eligible participants 
+entered the open-label extension.
+Participant demographics and baseline characteristics 
+were similar between stages A and B (table 1). In stage A, a total of 63 (20%) participants had received previous treatment with corticosteroids, 165 (51%) participants had received previous treatment with intravenous or subcutaneous immunoglobulin, and 94 (29%) were considered to be off treatment. Of the 94 participants who were off treatment, 34 (36%) had no history of receiving treatment with corticosteroids or intrave -
+nous or subcutaneous immunoglobulin for CIDP at any time before starting subcutaneous efgartigimod PH20.
+In stage A, 214 (66%, 95% CI 61·0–71·6) 
+of 322 participants had confirmed ECI (appendix p 38). The prespecified sensitivity analysis, which excluded 18 participants who were considered non-responders as they were ongoing in stage A at the time of study comple -
+tion, revealed that 214 (70%, 64·9–75·5) of 304 participants had confirmed ECI. Across all previous CIDP medication subgroups, most participants responded to treatment with subcutaneous efgartigimod PH20 (49 [78%] of 63 for previous corticosteroids, 97 [59%] of 165 for previous intravenous or subcutaneous immunoglobulin, and 68 [72%] of 94 who were off treatment; appendix p 38). For censored participants, the proportion of early discon-tinuations from treatment in stage A for any reason other than being ongoing at the time of trial completion was higher in participants who previously received intrave -
+nous or subcutaneous immunoglobulin (53 [32%] of 165) compared with participants on previous corticosteroids (eight [13%] of 63) or those who were off treatment (eight [9%] of 94). 42 (25%) of 165 participants previously receiving intravenous or subcutaneous immunoglobulin received fewer than four subcutaneous efgartigimod PH20 injections in stage A. 
+111 to efgartigimod PH20
+64 completed the trial‡‡47 discontinued
+ 35 ongoing at 88th event in stage B 3 adverse event 3 participant withdrawal 6 other**110 to placebo221 randomised and treated in  stage B|| (mITT population)322 treated in stage A (stage A  safety population)36 oﬀ treatment† with recent  active disease 306 oﬀ treatment† without recent active disease or  who had previous CIDP  treatment entered run-in
+36 entered stage A§ 286 entered stage A§
+74 completed the trial‡‡36 discontinued 26 ongoing at 88th event in stage B 3 participant withdrawal 1 death 6 other††101 discontinued 28 insuﬃcient eﬃcacy before end of stage A 22 ongoing in stage A at 88th event in stage B 20 adverse event 11 participant withdrawal 8 insuﬃcient eﬃcacy at end of stage A 1 death 11 other¶342 enrolled629 patients assessed for eligibility
+287 ineligible 279 screen failure 179 without probable or deﬁnite CIDP 100 other* 5 participant withdrawal 1 investigator decision 1 sponsor decision 1 other
+20 discontinued 7 no ECMD during run-in period 7 ongoing at 88th event in stage B
+ 6 other‡
+Figure 1: Trial profile
+aINCAT=adjusted Inflammatory Neuropathy Cause and Treatment. CIDP=chronic inflammatory demyelinating polyradiculoneuropathy. ECI=evidence of clinical improvement. ECMD=evidence of clinically meaningful deterioration. mITT=modified intention-to-treat. *Other reasons include all inclusion criteria except probable or definite CIDP, as determined by the independent CIDP confirmation committee, or exclusion criteria. †Defined as participants who had never received CIDP treatment (treatment naive) or who had not received CIDP treatment (corticosteroids, intravenous immunoglobulin, or subcutaneous immunoglobulin) within 6 months of study entry. ‡Two participant withdrawals, two investigator decisions, one sponsor  decision, 
+and one prohibited medication. §All patients had active disease entering stage A, defined as evidence for worsening on the aINCAT score within 3 months before screening compared with previous aINCAT score within 6 months in participants who were off treatment and as ECMD in the remaining participants. ¶Two who took prohibited medications, two lost to follow-up, one investigator decision, one non-compliance with study drug, and five categorised as other by the investigator (including three participant withdrawals, one with insufficient efficacy, and one who met exclusion criteria). ||13 participants were randomised to stage B without per-protocol confirmed ECI (and six participants with confirmed ECI were withdrawn from the study); as a result, the number of randomised participants in stage B (n=221) was higher than that of participants with confirmed ECI in stage A (n=214). **Two who took prohibited medications, one protocol deviation, and three categorised as other by the investigator (including two unable to perform further study visits and one who refused to return to the clinical site). ††Two lost to follow-up, one with insufficient efficacy, one who took prohibited medication, one protocol deviation, and one sponsor decision. ‡‡Indicates that a participant had clinical deterioration or completed week 48 in stage B.
+
+Articleswww.thelancet.com/neurology   Vol 23   October 2024  1019128 (40%) of 322 participants had confirmed ECI by 
+week 4. The Kaplan–Meier analysis estimated that time 
+to first improvement on any of aINCAT, I-RODS, or grip strength scores in the 25th percentile was 9·0 days (95% CI 8·0
+–9·0), which can be attributed to the first 
+dose of subcutaneous efgartigimod PH20; the median estimate was 22·0 days (15·0
+–23·0); time to initial 
+confirmed ECI by previous CIDP subgroup can be found in the appendix (p 34). Additionally, in stage A, the secondary endpoints supported the primary endpoint, with clinical improvement shown across aINCAT, I-RODS, grip strength, MRC sum, and TUG test scores (appendix p 39).
+For the stage B primary endpoint, subcutaneous 
+efgartigimod PH20 significantly reduced the risk of aINCAT deterioration versus placebo (HR 0·39 [95% CI 0·25–0·61]; p<0·0001; figure 2). At study comple-tion, 31 (27·9% [95% CI 19·6–36·3]) participants treated with subcutaneous efgartigimod PH20 had relapsed versus 59 (53·6% [44·3–63·0]) treated with placebo (risk difference –25·7 [95% CI –38·0 to –11·4]; nominal p=0·0001). The median time to first aINCAT score dete -
+rioration was 140·0 days (95% CI 75·0 to not calculated) in the placebo group, but could not be calculated for the subcutaneous efgartigimod PH20 group because fewer than half of the participants had clinically deterio-rated. The proportion of participants treated with subcutaneous efgartigimod PH20 who relapsed was five (21%) of 24 in the previous corticosteroids subgroup, 14 (29%) of 48 in the previous intravenous or subcuta -
+neous immunoglobulin subgroup, and 12 (31%) of 39 in the off-treatment subgroup. Although this study was not powered to detect differences between these subgroups, the percentages in the respective placebo subgroups were 15 (65%) of 23 (corticosteroids), 28 (58%) of 48 (intrave -
+nous or subcutaneous immunoglobulin), and 16 (41%) of 39 (off treatment; appendix p 40). The difference between relapse rates (efgartigimod PH20 vs placebo) was 
+largest for corticosteroids (44%) and intravenous or subcutaneous immunoglobulin (29%) subgroups and narrowest for the off-treatment group (10%). Subcutaneous efgartigimod PH20 reduced the risk of CIDP disease progression based on time to first 4-point or higher decrease in I-RODS score compared with stage B baseline (HR 0·54 [95% CI 0·35–0·81]; nominal p=0·0034; appendix p 35). Other stage B secondary endpoints were supportive of the primary endpoint in stage B. Clinical improvements in aINCAT, I-RODS, mean grip strength, MRC sum, and TUG test scores observed in stage A were maintained with subcutaneous efgartigimod PH20 in stage B, but partly lost with placebo (table 2; appendix p 39). 
+For the HRQOL questionnaire, all EQ-5D-5L visual 
+analogue scores at the last assessment showed improve -
+ment from baseline. The mean scores improved from 50·8 (SD 20·78) at the stage A baseline (n=315) to 61·7 (20·56) at the last assessment in stage A (n=278), Stage A: subcutaneous 
+efgartigimod PH20 (N=322)Stage B*
+Subcutaneous 
+efgartigimod PH20 (N=111)Placebo (N=110)
+Age, years 54·0 (13·92) 54·5 (13·18) 51·3 (14·47)
+Sex†
+Male 208 (65%) 73 (66%) 69 (63%)
+Female 114 (35%) 38 (34%) 41 (37%)
+Race‡
+Asian 89 (28%) 33 (30%) 34 (31%)
+Black or African American 4 (1%) 1 (1%) 1 (1%)
+Native Hawaiian or other Pacific Islander1 (<1%) 0 0 
+White 211 (66%) 73 (66%) 71 (65%)
+Other§ 6 (2%) 2 (2%) 1 (1%)
+Not reported 11 (3%) 2 (2%) 3 (3%)
+Ethnicity‡
+Hispanic or Latino 23 (7%) 9 (8%) 4 (4%)
+Not Hispanic or Latino 288 (89%) 99 (89%) 102 (93%)
+Not reported 11 (3%) 3 (3%) 4 (4%)
+Time since diagnosis, years
+Mean (SD) 4·9 (6·09) 3·7 (4·40) 3·8 (4·68)
+Median (IQR) 
+2·8 (0 ·9–6 ·4) 2·1 (0 ·6–5·3) 2·2 (0 ·8–4 ·8)
+Typical CIDP 268 (83%) 97 (87%) 95 (86%)
+Atypical CIDP 54 (17%) 14 (13%) 15 (14%)
+Asymmetric 29 (9%) 6 (5%) 7 (6%)
+Distal 20 (6%) 7 (6%) 7 (6%)
+Pure motor 5 (2%) 1 (1%) 1 (1%)
+Total INCAT score 4·6 (1·67) 3·1 (1·51) 3·3 (1·57)
+I-RODS score 40·1 (14·67) 53·6 (17·91) 51·2 (15·37)
+Grip strength (dominant hand), kPa 38·5 (24·18) 54·9 (23·64) 58·0 (25·09)
+Grip strength (non-dominant hand), kPa 39·0 (24·71) 55·4 (28·29) 56·7 (24·80)
+CIDP treatment within the past 6 months¶
+Corticosteroids 63 (20%) 24 (22%) 23 (21%)
+Immunoglobulins (intravenous or subcutaneous)165 (51%) 48 (43%) 48 (44%)
+Off treatment|| 94 (29%) 39 (35%) 39 (36%)
+CDAS score
+2 6 (2%) 1 (1%) 0
+3 96 (30%) 28 (25%) 29 (26%)
+4 23 (7%) 8 (7%) 5 (5%)
+5 197 (61%) 74 (67%) 76 (69%)
+Data are mean (SD), median (IQR), or n (%). The safety population for stage A included all participants who received at 
+least one dose or part of a dose of the investigational medicinal product in stage A and the safety population for stage B included all participants who received at least one dose or part of a dose of the investigational medicinal product in stage B. CDAS=CIDP Disease Activity Status. CIDP=chronic inflammatory demyelinating polyradiculoneuropathy. INCAT=Inflammatory Neuropathy Cause and Treatment. I-RODS=Inflammatory Rasch-built Overall Disability Scale. *Clinical assessments (INCAT, I-RODS, and grip strength) were performed at the beginning of each stage, whereas the remaining of outcomes were assessed at screening. †Participants were asked their sex at birth (ie, female or male), recorded by the physician during the screening. ‡Participant race and ethnicity were self-reported during the screening. §Other races reported by participants were Caribbean, mestizo, north African, other race, Greenlandic ethnicity, and Turkish in stage A; North African and other race in stage B with subcutaneous efgartigimod PH20, and Turkish in stage B with placebo. ¶Stage B baseline values are based on randomised stratification factors. ||Off treatment was defined as 
+participants who had never received CIDP treatment (treatment naive) or who had not received CIDP treatment (corticosteroids, intravenous immunoglobulin, or subcutaneous immunoglobulin) within 6 months of study entry. 
+Table 1: Baseline characteristics (safety population)
+
+Articles1020  www.thelancet.com/neurology   Vol 23   October 2024with a mean change of 10·7 (SD 22·3) with subcutaneous 
+efgartigimod PH20 treatment. In stage B, the mean change from stage B baseline to the last assessment was 0·5 (SD 17·4) in the subcutaneous efgartigimod PH20 group (n=97) and −10·2 (23·5) in the placebo group (n=90).
+Total IgG concentrations decreased rapidly during 
+the first 4 weeks of subcutaneous efgartigimod PH20 treatment (stage A), after which mean IgG concentra -
+tions were reduced by 67% [SD 10·4] to 72% [6·1] throughout stages A and B (appendix p 36). In placebo-treated participants in stage B, IgG concentrations returned to approximately 10% lower than those of the stage A baseline by week 8 (appendix p 36).
+A post-hoc analysis of longitudinal mean aINCAT 
+scores showed improvements from stage A baseline to stage B baseline in participants treated with subcuta-neous efgartigimod PH20 that were maintained up to the last assessment in stage B; these mean scores deterio-rated in participants treated with placebo in stage B (appendix p 37).
+In stage A, TEAEs were reported by 204 (63%) 
+of 322 participants and serious TEAEs by 21 (7%; table 3; 
+appendix p 41). The most common TEAEs in stage A were injection site erythema (33 [10%]), CIDP worsening (17 [5%]), and headache (16 [5%]; appendix p 42). In stage B, exposure was longer for subcutaneous efgartigimod PH20 versus placebo, and TEAEs were reported by 71 (64%) of 111 participants on subcutaneous efgartigimod PH20 and 62 (56%) of 110 participants on placebo. Serious TEAEs in stage B were recorded by six (5%) of 111 participants in the subcutaneous efgartigimod PH20 group and six (6%) of 110 in the placebo group (table 3; appendix p 41). The most common TEAEs in the subcutaneous efgartigimod PH20 group were COVID-19 (19 [17%] of 111), injection site bruising (six [5%]), and injection site erythema (six [5%]), and in the placebo group were COVID-19 (14 [13%] of 110) and upper respiratory tract infection (11 [10%]; appendix p 43).
+Most TEAEs were mild or moderate in severity. Severe 
+TEAEs were reported by 25 (8%) of 322 participants in stage A and by a similar proportion of participants on subcutaneous efgartigimod PH20 (seven [6%] of 111]) and placebo (seven [6%] of 110) in stage B (table 3; appendix p 41). Treatment-related TEAEs occurred in 101 (31%) participants in stage A, and 27 (24%) participants receiving subcutaneous efgartigimod PH20 and 22 (20%) participants receiving placebo in stage B. Infections occurred in 44 (14%) participants in stage A. In stage B, 35 (32%) participants in the subcutaneous efgartigimod PH20 group and 37 (34%) participants in the placebo group had infections, the most common being COVID-19 (19 [17%] in the subcutaneous efgartigimod PH20 group and 14 [13%] in the placebo group). As with other TEAEs, most infections were mild or moderate. Injection site reactions were all mild or moderate and occurred in 62 (19%) participants in stage A, and in 16 (14%) participants in the subcutaneous efgartigimod PH20 group and seven (6%) in the placebo group in stage B. One participant in stage A discontinued due to a moderate injection site rash, whereas no participants in stage B discontinued due to injection site reaction.
+Three deaths occurred. In stage A, one participant died 
+during the treatment period due to cardiac arrest after COVID-19 infection (deemed not treatment related by 
+Subcutaneous 
+efgartigimod PH20 (N=111)Placebo (N=110)
+I-RODS deterioration of ≥4 points* 40 (36%) 57 (52%)
+I-RODS improvement of ≥4 points
+† 50 (45%) 40 (36%)
+Mean change to last assessment in stage B
+aINCAT score 0·1 (0·1) 0·9 (0·19)
+I-RODS score 0·8 (1·17) –7·0 (1·84)
+Grip strength (dominant hand), kPa 2·1 (1·26) –8·2 (1·98)
+Grip strength (non-dominant hand), kPa2·0 (1·64) –6·9 (2·04)
+MRC sum score –0·3 (0·43) –3·0 (0·86)
+TUG test score, s 0·8 (0·36) 1·9 (0·60)
+ 
+Data are n (%) and mean (SE). I-RODS deterioration indicates worsening of disease. Stage B baseline was defined as the last available value before the first administration of the investigational medicinal product in stage B, and the last assessment in stage B was defined as the last non-missing post-baseline value. aINCAT=adjusted Inflammatory Neuropathy Cause and Treatment. CIDP=chronic inflammatory demyelinating polyradiculoneuropathy. I-RODS=Inflammatory Rasch-built Overall Disability Scale. mITT=modified intention-to-treat. MRC=Medical Research Council. TUG=timed up and go. *Hazard ratio 0·54 (95% CI 0·35–0·81), nominal p=0·0034. †Odds ratio 1·44 (0·81–2·57), nominal p=0·23.
+Table 2: Summary of clinical efficacy endpoints in stage B (secondary 
+analysis of the stage B mITT population)Figure 2: Kaplan–Meier analysis of the relative risk of relapse based on time to first aINCAT deterioration 
+(stage B primary analysis in the mITT population)aINCAT=adjusted Inflammatory Neuropathy Cause and Treatment. CIDP=chronic inflammatory demyelinating polyradiculoneuropathy. HR=hazard ratio. mITT=modified intention-to-treat. SC=subcutaneous.Number at risk
+(number censored)
+SC efgartigimod PH20
+Placebo0 4 8 12 16 20 24 28 32 36 44 40 48
+111
+(0)
+110
+(0)Week0255075100Probability (%) of no relapse (aINCA T)
+36
+(45)
+21
+(31)40
+(41)
+26
+(26)55
+(30)
+38
+(17)80
+(14)
+55
+(12)36
+(45)
+24
+(27)48
+(35)
+31
+(21)68
+(22)
+51
+(13)107
+(2)
+94
+(3)93
+(8)
+67
+(8)56
+(29)
+47
+(14)42
+(39)
+28
+(24)28
+(55)
+16
+(35)SC efgartigimod PH20
+Placebo
+HR 0·39 (95% CI 0·25–0·61); p<0·0001
+
+Articleswww.thelancet.com/neurology   Vol 23   October 2024  1021the investigator), and one participant died during follow-
+up due to deterioration of CIDP (deemed unlikely related to treatment). In stage B, one participant died during the treatment period due to pneumonia (initially deemed possibly treatment related), but upon unblinding, the participant had received placebo. No clinically mean -
+ingful changes in electrocardiogram findings, vital signs, and laboratory assessments occurred.
+Discussion 
+ADHERE, which is to our knowledge the largest randomised controlled CIDP trial to date, showed that subcutaneous efgartigimod PH20 was effective, demon -
+strating improvements in disability and strength and significantly reducing the risk of relapse compared with placebo in people with CIDP who were responders. Almost half of participants had a clinically meaningful response to subcutaneous efgartigimod PH20 within a month. Efficacy was shown in a broad cohort of patients, including those who were receiving CIDP treatment (corticosteroids, intravenous or subcutaneous immuno -
+globulin, or both) before entering ADHERE. Participants had mild to severe baseline disability and were representative of the CIDP general population, consisting of a modest male predominance, a mean age in the fifth decade of life, and a majority with a typical CIDP clinical phenotype.
+2
+ADHERE had study design features used in other 
+registrational CIDP studies, including the withdrawal of existing treatment to identify patients with active disease.
+25–27 ADHERE also incorporated a randomised-
+withdrawal design to show the efficacy of subcutaneous efgartigimod PH20 versus placebo, and a two-stage design, in which an open-label phase avoided exposing patients to placebo to reduce the possibility of irrevers-ible damage and seek proof of efficacy.
+28 Furthermore, 
+due to the complexity of diagnosing CIDP, participants needed to have independent diagnostic confirmation by an expert adjudication committee to enrol. Indeed, 28% of screened participants did not meet diagnostic inclusion criteria, which reflects the challenge of diagnosing CIDP, the importance of careful determination of diagnosis in future trials, and the strength of the CIDP Confirmation Committee in maintaining the internal validity of ADHERE.
+During stage A, 66% of all participants had confirmed 
+ECI, increasing to 70% in a sensitivity analysis that excluded participants ongoing at the time of study end. Based on Kaplan–Meier analysis, the onset of the response (based on aINCAT, I-RODS, or grip strength) was gener -
+ally fast (25% responded within 2 weeks, 50% responded within 4 weeks). Although response was observed in participants regardless of previous CIDP therapy, early discontinuations were relatively more common in 
+the previous intravenous or subcutaneous immuno -
+globulin subgroup. Whether these participants would have had a clinical response if study treatment had been completed is unknown. The optimal approach to transi -
+tion a patient from IgG therapy to subcutaneous efgartigimod PH20 is yet to be determined.
+In stage B, subcutaneous efgartigimod PH20 main -
+tained clinical benefit and, based on the HR of 0·39 (95% CI 0·25–0·61), reduced the rate of relapse by an estimated 61% compared with placebo. This reduced rate of relapse between efgartigimod and placebo was observed in both the corticosteroid and intravenous or subcutaneous immunoglobin subgroups, but this benefit could not be seen in the off-treatment subgroup; this subgroup had the highest rate of relapse in the efgartigimod group and the lowest rate of relapse in the placebo group despite all participants responding in stage A. This finding might reflect the heterogeneous nature of the off-treatment subgroup, which included treatment-naive participants and those who were treatment-experienced but had not received treatment within 6 months of study entry. Further analyses are needed to understand whether this  observation is a 
+specific feature of this subgroup, an effect of the active treatment in stage A, or both. Additionally, the secondary endpoint of prevention of CIDP disease progression highly supported the primary endpoint, as did the other secondary endpoints and subgroup analyses. A clinically important improvement was evident in both disability metrics (aINCAT, I-RODS, TUG) and strength (grip and MRC sum score) in stage A. Improvements were maintained in participants assigned to subcutaneous efgartigimod PH20 in stage B, but partly declined in Stage A: subcutaneous 
+efgartigimod PH20 (N=322)Stage B*
+Subcutaneous 
+efgartigimod PH20 (N=111)Placebo (N=110)
+Any TEAE 204 (63%) 71 (64%) 62 (56%)
+Any severe TEAEs (grade ≥3) 25 (8%) 7 (6%) 7 (6%)
+Any serious TEAE 21 (7%) 6 (5%) 6 (5%)
+Any treatment-related TEAE† 101 (31%) 27 (24%) 22 (20%)
+Injection site reaction 62 (19%) 16 (14%) 7 (6%)
+Headache 16 (5%) 4 (4%) 2 (2%)
+Infections 44 (14%) 35 (32%) 37 (34%)
+Discontinued due to TEAEs‡ 22 (7%) 3 (3%) 1 (1%)
+Death 2 (1%) 0 1 (1%)
+Data are n (%). The safety population for stage A included all participants who received at least one dose or part of a 
+dose of the investigational medicinal product in stage A and the safety population for stage B included all participants who received at least one dose or part of a dose of the investigational medicinal product in stage B. CIDP=chronic inflammatory demyelinating polyradiculoneuropathy. TEAE=treatment-emergent adverse event. *In stage B, the median treatment duration was longer in participants receiving subcutaneous efgartigimod PH20 (22·3 weeks) compared with placebo (11·1 weeks). †Treatment related was defined as at least possibly related to the investigational medical product, according to the investigator, or missing a relationship to the trial drug. ‡TEAEs grouped under preferred terms leading to the discontinuation of subcutaneous efgartigimod PH20 were cardiac arrest (n=1), injection-site rash (n=1), COVID-19 (n=1), COVID-19 pneumonia (n=1), muscular weakness (n=1), CIDP (n=15), quadriparesis (n=1), and pruritus (n=1) in stage A; COVID-19 pneumonia (n=1), prostate cancer (n=1), and transitional cell carcinoma (n=1) in the stage B subcutaneous efgartigimod PH20 group; and pneumonia (n=1) in the stage B placebo group. 
+Table 3: Summary of TEAEs (safety population)
+
+Articles1022  www.thelancet.com/neurology   Vol 23   October 2024the participants randomised to placebo. A similar pattern 
+was observed in HRQOL, in which improvements during stage A were maintained in stage B in the subcutaneous efgartigimod PH20 group, and scores worsened in the placebo group. Our findings provide further evidence that IgG autoantibodies have a role in CIDP pathology because FcRn blockage led to clinical improvement and reductions in the risk of relapse, at least in a subset of patients with CIDP.
+Subcutaneous efgartigimod PH20 was well tolerated 
+throughout the total study duration of 60 weeks or less. Most TEAEs, including infections, were mild or moderate in severity. The safety profile of subcutaneous efgar -
+tigimod PH20 was consistent with that observed in previous clinical trials in other indications,
+16,17 with no 
+increased rates of TEAEs from additional weekly expo -
+sure, a low rate of infections (similar rates between subcutaneous efgartigimod PH20 and placebo groups), and no opportunistic infections. Broader immunosup-pressive treatments might increase the risk of infection,
+29 
+but efgartigimod does not impair IgG production,15–17 
+maintaining the patient’s ability to mount an IgG immune response. Although in ADHERE subcutaneous efgartigimod PH20 temporarily reduced IgG concentra-tions in stage A, concentrations returned to approximately a 10% reduction from baseline in 8 weeks in participants who received placebo in stage B.
+Although comparing across different trials is difficult 
+due to methodological differences, the response rates and ability to reduce the risk of relapse in ADHERE are generally consistent with those observed in previous intravenous and subcutaneous immunoglobulin trials. Response rates in CIDP, although assessed with different scores, were 54% in a randomised, double-blind, placebo-controlled trial of intravenous immunoglobulin,
+30 and 
+ranged between 61% and 92% in open-label intravenous immunoglobulin studies,
+26,27,31 whereas relapse rates 
+ranged between 10% (95% CI 4·5–19·6)  and 33% (22–46) 
+to 39% (27–52) in subcutaneous immunoglobulin trials.
+25,32 ADHERE used an open-label design to select 
+responders for stage B; intravenous immunoglobulin trials historically have used a similar design,
+25–27 in which 
+patients were required to have previously responded to intravenous immunoglobulin or were excluded if they had not.
+Limitations of the current trial include the absence 
+of an active comparator and potential carryover effects, owing to testing effect versus placebo in responders to initial treatment. Although these study design elements are compatible with contemporary regulatory and expert consensus recommendations, as well as other key IgG clinical trials,
+25 we acknowledge the potential to introduce 
+selection bias in stage B. Although in line with a previous intravenous immunoglobulin trial,
+26 the highest 
+percentage of discontinuations (25%) during stage A was observed in participants who discontinued intravenous or subcutaneous immunoglobulin during the run-in period before maximal IgG reduction could be achieved (at four doses of subcutaneous efgartigimod PH20), providing these patients little therapeutic opportunity. Although formal statistical tests were not undertaken, responder rates in stage A differed between previous CIDP treatment subgroups; however, the Kaplan–Meier analysis, which includes censored participants, showed a similar time to initial confirmed ECI between these subgroups. Finally, CIDP is a clinically and immunobio -
+logically heterogeneous disorder, and although the study strongly supports a role for IgG autoantibodies at least in some patients, further analyses are warranted to identify specific characteristics of patients who might be more likely to benefit.
+In conclusion, ADHERE shows subcutaneous 
+efgartigimod PH20 was well tolerated, and shows a reduced risk of relapse with observed improvements in disability, strength, and quality-of-life scores in efgartigimod responders with CIDP. Subcutaneous efgartigimod PH20 offers a convenient option for treat -
+ment administration, being a subcutaneous single 5·6 mL injection lasting 30–90 s and with the potential for self-administration or caregiver administration.
+19,21 
+These features make subcutaneous efgartigimod PH20 a new treatment option capable of improving CIDP symptoms while lessening the overall treatment burden compared with current standard of care. Future research should focus on the role of IgG in disease pathophysiology, and the long-term efficacy, safety, and tolerability of subcutaneous efgartigimod PH20 in the treatment of CIDP.
+Contributors 
+JAA contributed to the design of the study, and acquisition, interpretation, and verification of data. JL, IB, TD, CE, KGG, CH, YMH, SK, GLM, FL, TC, MLi, GL, LQ, M-AS, NS, and RY contributed to the acquisition and interpretation of data. JTG, EH, and PU contributed to the conception and design of the study, and acquisition, interpretation, analysis, and verification of data. AT contributed to the acquisition, interpretation, and analysis of data. MLo and BVH contributed to the acquisition, interpretation, analysis, and verification of data. RAL and PAvD contributed to the design of the study, acquisition, and interpretation of data. All authors drafted the work or reviewed it critically for important intellectual content, approved the final version of the manuscript, and agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. All authors had 
+full access to all the data in the study and had final responsibility for the decision to submit for publication.
+Declaration of interests 
+JAA reports consulting fees from Akcea Therapeutics, Alexion, Alnylam, Annexon Biosciences, argenx, CSL Behring, Grifols, Immunovant, ImmuPharma, Johnson & Johnson, and Takeda, and payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing or educational events from Alnylam, Annexon Biosciences, argenx, CSL Behring, and Takeda. TD reports participation on a data safety monitoring board or advisory board for Dianthus Therapeutics. CE reports grants or contracts from argenx; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from argenx; support for attending meetings and travel from argenx; and stock or stock options from argenx. AT was an employee of argenx, and reports stock or stock options at the time of the study completion. JTG is an employee of 
+
+Articleswww.thelancet.com/neurology   Vol 23   October 2024  1023argenx; reports support for attending meetings and travel from argenx; 
+and reports stock or stock options from argenx. BVH is an employee of argenx. PU is an employee of argenx; reports patents planned, issued, or pending from argenx; reports stock or stock options from argenx; and reports other financial or non-financial interests from argenx. EH is an employee of argenx; reports patents planned, issued, or pending from argenx; and reports stock or stock options from argenx. KGG reports consulting fees from Alexion, and UCB; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Alexion, argenx, and Xeris Pharmaceuticals; and leadership or fiduciary role in other board, society, committee, or advocacy group, paid or unpaid for Myasthenia Gravis Foundation of America. FL reports grants or contracts from German Ministry of Education and Research, German Research Society DFG, HORIZON MSCA 2022 Doctoral Network, and Stiftung Pathobiochemie of the German Society for Laboratory Medicine; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Bayer, Biogen, Fresenius, Grifols, Novartis, Roche, and Teva Pharmaceuticals; support for attending meetings and travel from Bayer, Grifols, and Merck; and participation on a data safety monitoring board or advisory board for argenx, Alexion, Biogen, and Roche. MLi reports grants or contracts from Kedrion Biopharma; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from CSL Behring, Kedrion Biopharma, and Takeda; support for attending meetings and travel from CSL Behring, Kedrion Biopharma, and Takeda; and other financial or non-financial interests from argenx. MLo was an employee of argenx at the time of the study completion. LQ reports grants or contracts from argenx, CIBERER, Instituto de Salud Carlos III–Ministry of Economy and Innovation (Spain), and UCB; consulting fees from Annexon Biosciences, Alnylam, argenx, Avilar Therapeutics, CSL Behring, Dianthus Therapeutics, Janssen, LFB, Novartis, Nuvig Therapeutics, Roche, Sanofi, and Takeda; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Alnylam, argenx, CSL Behring, Novartis, Roche, and Sanofi; support for attending meetings and travel from Alnylam and Sanofi; participation on a data safety monitoring board or advisory board for argenx, CSL Behring, Sanofi, and UCB; and a leadership or fiduciary role in other board, society, committee, or advocacy group, paid or unpaid, for Inflammatory Neuropathy Consortium and Peripheral Nerve Society. NS reports payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Alnylam, and participation on a data safety monitoring board or advisory board for Takeda. RY reports consulting fees from Japan Tobacco and payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Alnylam Japan, CSL Behring, FP Pharm, Kyowa Kirin, Ono Pharmaceutical, and Takeda Pharmaceutical. RAL reports royalties or licenses from UpToDate; consulting fees from Annexon Biosciences, argenx, CSL Behring, Dianthus Therapeutics, Grifols, Immunovant, Janssen, Nuvig Therapeutics, Sanofi, and Takeda; payment or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from argenx, CSL Behring, Medscape, and Sanofi; participation on a data safety monitoring board or advisory board for Boehringer Ingelheim and Novartis; and leadership or fiduciary role in other board, society, committee, or advocacy group, paid or unpaid, for Peripheral Nerve Society and GBS-CIDP Foundation International. PAvD reports support for attending meetings and travel from argenx and participation on a data safety monitoring board or advisory board for argenx. All other authors declare no competing interests.
+Data sharing 
+argenx is committed to responsible data sharing regarding the clinical trials it funds. Included in this commitment is access to anonymised individual-level and trial-level data (analysis data sets), and other information (eg, protocols and clinical study reports), as long as the trial is not part of an ongoing or planned regulatory submission. These clinical trial data can be requested by qualified researchers who engage in rigorous independent scientific research and will only be provided after review and approval of a research proposal and statistical analysis plan, and execution of a data sharing agreement. Data requests can be submitted at any time, and the data will be accessible for 12 months. Requests can be submitted to esr@argenx.com.
+Acknowledgments 
+We thank the participants, caregivers, participant advocates, clinicians, and support staff who have collaborated on the design and execution of this trial (appendix pp 8–12). We also thank Halozyme Therapeutics for their partnership and providing their proprietary technology. This study was funded by argenx. Writing support was provided by Danielle Colas-Zelin, Ciara Duffy, and Macarena Ramos Gonzalez from Envision Pharma Group (funded by argenx) and Victoria Golub (argenx).  
+References 
+1 Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European 
+Academy of Neurology/Peripheral Nerve Society guideline on 
+diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force—second revision. Eur J Neurol 2021; 28: 3556–83.
+2 Querol L, Crabtree M, H erepath M, et al. Systematic literature 
+review of burden of illness in chronic inflammatory demyelinating polyneuropathy (CIDP). J Neurol 2021; 268: 3706–16.
+3 Mathey EK, Park SB, Hughes RA, et al. Chronic inflammatory 
+demyelinating polyradiculoneuropathy: from pathology to phenotype. J Neurol Neurosurg Psychiatry 2015; 86: 973–85.
+4 Manso C, Querol L, Lleixà C, et al. Anti-neurofascin-155 IgG4 
+antibodies prevent paranodal complex formation in vivo. J Clin Invest 2019; 129: 2222–36.
+5 Yan WX, Taylor J, Andrias-Kauba S, Pollard JD. Passive transfer of 
+demyelination by serum or IgG from chronic inflammatory demyelinating polyneuropathy patients. Ann Neurol 2000; 47: 765–75.
+6 Mehndiratta MM, Hughes RA, Pritchard J. Plasma exchange for 
+chronic inflammatory demyelinating polyradiculoneuropathy. Cochrane Database Syst Rev 2015; 8: CD003906.
+7 Zinman LH, Sutton D, Ng E, Nwe P, Ngo M, Bril V. A pilot study to 
+compare the use of the Excorim staphylococcal protein immunoadsorption system and IVIG in chronic inflammatory demyelinating polyneuropathy. Transfus Apher Sci 2005; 33: 317–24.
+8 Cocito D, Paolasso I, Antonini G, et al. A nationwide retrospective 
+analysis on the effect of immune therapies in patients with chronic inflammatory demyelinating polyradiculoneuropathy. Eur J Neurol  
+2010; 17: 289–94.
+9 Allen JA, Pasnoor M, Dimachkie MM, et al. Quantifying treatment-
+related fluctuations in CIDP: results of the GRIPPER study. Neurology 2021; 96: e1876–86.
+10 Gorson KC, van Schaik IN, Merkies IS, et al. Chronic inflammatory 
+demyelinating polyneuropathy disease activity status: recommendations for clinical research standards and use in clinical practice. J Peripher Nerv Syst 2010; 15: 326–33.
+11 Bus SRM, Broers MC, Lucke IM, et al. Clinical outcome of CIDP 
+one year after start of treatment: a prospective cohort study. J Neurol 2022; 269: 945–55.
+12 Allen JA, Butler L, Levine T , Haudrich A. A global survey of disease 
+burden in patients who carry a diagnosis of chronic inflammatory demyelinating polyneuropathy. Adv Ther 2021; 38: 316–28.
+13 Gorson KC. An update on the management of chronic 
+inflammatory demyelinating polyneuropathy. Ther Adv Neurol Disord 2012; 5: 359–73.
+14 Hughes R, Dalakas MC, Merkies I, et al. Oral fingolimod for 
+chronic inflammatory demyelinating polyradiculoneuropathy (FORCIDP Trial): a double-blind, multicentre, randomised controlled trial. Lancet Neurol 2018; 17: 689–98.
+15 Ulrichts P, Guglietta A, Dreier T , et al. Neonatal Fc receptor 
+antagonist efgartigimod safely and sustainably reduces IgGs in humans. J Clin Invest 2018; 128: 4372–86.
+16 Howard JF Jr, Bril V, Vu T, et al. Safety, efficacy, and tolerability of 
+efgartigimod in patients with generalised myasthenia gravis (ADAPT): a multicentre, randomised, placebo-controlled, phase 3 trial. Lancet Neurol 2021; 20: 526–36.
+17 Broome CM, McDonald V, M iyakawa Y , et al. Efficacy and safety of 
+the neonatal Fc receptor inhibitor efgartigimod in adults with primary immune thrombocytopenia (ADVANCE IV): a multicentre, randomised, placebo-controlled, phase 3 trial. Lancet 2023; 402: 1648–59.
+
+Articles1024  www.thelancet.com/neurology   Vol 23   October 202418 Heo YA. Efgartigimod: first Approval. Drugs 2022; 82: 341–48.
+19 European Medicines Agency . Annex I: summary of product 
+characteristics . 2023. https://www.ema.europa.eu/en/documents/
+product-information/vyvgart-epar-product-information_en.pdf (accessed April 23, 2024).
+20 US Food and Drug Administration. VYVGART (efgartigimod 
+alfa-fcab) injection, for intravenous use: prescribing information. January, 2024. https://www.argenx.com/product/vyvgart-prescribing-information.pdf (accessed April 23, 2024).
+21 US Food and Drug Administration. VYVGART HYTRULO 
+(efgartigimod alfa and hyaluronidase-qvfc) injection, for subcutaneous use: prescribing information. June, 2024. https://www.argenx.com/product/vyvgart-hytrulo-prescribing-information.pdf (accessed Aug 7, 2024).
+22 Van den Bergh PY , Hadden RD, Bouche P, et al. European 
+Federation of Neurological Societies/Peripheral Nerve Society guideline on management of chronic inflammatory demyelinating polyradiculoneuropathy: report of a joint task force of the European Federation of Neurological Societies and the Peripheral Nerve Society—first revision. Eur J Neurol 2010; 17: 356–63.
+23 Vanhoutte EK, Latov N, Deng C, et al. Vigorimeter grip strength in 
+CIDP: a responsive tool that rapidly measures the effect of IVIG—the ICE study. Eur J Neurol 2013; 20: 748–55.
+24 Locke KW, M aneval DC, LaBarre MJ. ENHANZE drug delivery 
+technology: a novel approach to subcutaneous administration using recombinant human hyaluronidase PH20. Drug Deliv 2019; 26: 98–106.
+25 van Schaik IN, Bril V, van G eloven N, et al. Subcutaneous 
+immunoglobulin for maintenance treatment in chronic inflammatory demyelinating polyneuropathy (PATH): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Neurol 2018; 17: 35–46.26 Léger JM, De Bleecker JL, S ommer C, et al. Efficacy and safety of 
+Privigen in patients with chronic inflammatory demyelinating polyneuropathy: results of a prospective, single-arm, open-label phase III study (the PRIMA study). J Peripher Nerv Syst 2013; 18: 130–40.
+27 Cornblath DR, van Doorn PA, Hartung HP, et al. Randomized trial 
+of three IVIg doses for treating chronic inflammatory demyelinating polyneuropathy. Brain 2022; 145: 887–96.
+28 Nair B. Clinical trial designs. Indian Dermatol Online J 2019; 
+10: 193–201.
+29 Oaklander AL, Lunn MP, H ughes RA, van Schaik IN, Frost C, 
+Chalk CH. Treatments for chronic inflammatory demyelinating polyradiculoneuropathy (CIDP): an overview of systematic reviews. Cochrane Database Syst Rev 2017; 1: CD010369.
+30 Hughes RA, Donofrio P, Bril V, et al. Intravenous immune globulin 
+(10% caprylate-chromatography purified) for the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE study): a randomised placebo-controlled trial. Lancet Neurol 2008; 7: 136–44.
+31 Nobile-Orazio E, Pujol S, Kasiborski F, et al. An international 
+multicenter efficacy and safety study of IqYmune in initial and maintenance treatment of patients with chronic inflammatory demyelinating polyradiculoneuropathy: PRISM study. J Peripher Nerv Syst 2020; 25: 356–65.
+32 Bril V, Hadden RDM, Brannagan TH 3rd, et al. Hyaluronidase-
+facilitated subcutaneous immunoglobulin 10% as maintenance therapy for chronic inflammatory demyelinating polyradiculoneuropathy: the ADVANCE-CIDP 1 randomized controlled trial. J Peripher Nerv Syst 2023; 28: 436–49.

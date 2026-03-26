@@ -1,0 +1,1051 @@
+Seminar1214  www.thelancet.com   Vol 397   March 27, 2021
+Guillain-Barré syndrome
+Nortina Shahrizaila, Helmar C Lehmann, Satoshi Kuwabara
+Guillain-Barré syndrome is the most common cause of acute flaccid paralysis worldwide. Most patients present with 
+an antecedent illness, most commonly upper respiratory tract infection, before the onset of progressive motor 
+weakness. Several microorganisms have been associated with Guillain-Barré syndrome, most notably Campylobacter 
+jejuni, Zika virus, and in 2020, the severe acute respiratory syndrome coronavirus 2. In C jejuni-related Guillain-Barré 
+syndrome, there is good evidence to support an autoantibody-mediated immune process that is triggered by molecular mimicry between structural components of peripheral nerves and the microorganism. Making a diagnosis of so-called classical Guillain-Barré syndrome is straightforward; however, the existing diagnostic criteria have limitations and can 
+result in some variants of the syndrome being missed. Most patients with Guillain-Barré syndrome do well with immunotherapy, but a substantial proportion are left with disability, and death can occur. Results from the International Guillain-Barré Syndrome Outcome Study suggest that geographical variations exist in Guillain-Barré syndrome, including insufficient access to immunotherapy in low-income countries. There is a need to provide improved access to treatment for all patients with Guillain-Barré syndrome, and to develop effective disease-modifying therapies that can limit the extent of nerve injury. Clinical trials are currently underway to investigate some of the potential therapeutic candidates, including complement inhibitors, which, together with emerging data from large international collaborative studies on the syndrome, will contribute substantially to understanding the many facets of this disease.
+Introduction
+Guillain-Barré syndrome is an immune-mediated 
+polyradicu  loneuropathy that accounts for an estimated 
+100 000 new  cases annually worldwide.1 In most patients, 
+the acute onset of neurological symptoms is preceded by an infective illness,
+2 followed by progressive limb 
+weakness, which can last up to 4 weeks before reaching plateau. Several infections are associated with Guillain-Barré syndrome, but Campylobacter jejuni is the most 
+common and extensively reported.
+3 In C jejuni-related 
+Guillain-Barré syndrome, robust evidence suggests that molecular mimicry exists between nerve and microbial antigens, leading to the development of Guillain-Barré syndrome.
+4
+The classic presentation of the syndrome does not 
+typically pose a diagnostic challenge, but atypical variants are missed when not considered. To support diagnosis, 
+polyradiculoneuropathy can be detected on nerve con -
+duction studies, and cerebrospinal fluid analysis can show albumincytological dissociation, although both tests can be normal in the early stages.
+5 Patients with Guillain-Barré syndrome require close monitoring for disease progression, in particular for bulbar weakness, respiratory insufficiency, and autonomic dysfunction. Prognostic scales have been developed to predict patient outcome and to stratify treatment. To date, intravenous immunoglobulin and plasma exchange are the only 
+recognised immuno  therapeutic drugs that can accelerate 
+recovery in Guillain-Barré syndrome.5 However, the 
+syndrome is still a serious disease. Even when treated 
+with standard immuno  therapies, approximately 5% of 
+people die, and up to 20% cannot walk independently at 1 year from disease onset.
+The past 5 years have seen advances in our 
+understanding of Guillain-Barré syndrome, which is the focus of this Seminar. We now have improved understanding of Zika virus-associated Guillain-Barré syndrome,
+6 improved insight into the global burden of 
+the syndrome through the International Guillain-Barré Syndrome Outcome Study (IGOS),
+7 and new therapeutic 
+drugs have entered early clinical development.
+Epidemiology and antecedent events
+Epidemiology
+Guillain-Barré syndrome has been reported in many countries and has a wide range of reported incidences (figure 1).
+1,8 Population-based studies from North America 
+and Europe suggest that incidence ranges from 
+0·81 to 1·91 cases per 100  000 person-years (median 1·11). 
+There is a 20% increase in incidence for every 10-year increase in age, and unlike other autoimmune diseases, the risk of Guillain-Barré syndrome is higher in men than in women.
+1
+Although not designed to study populations, IGOS 
+reported similar findings following recruitment of more 
+than 900 patients with Guillain-Barré syndrome world -
+wide.7 IGOS found a medium age of 51 years and patient 
+numbers peaked at 50–69 years, including a male-to-female Lancet 2021; 397: 1214–28
+Published Online 
+February 26, 2021 
+https://doi.org/10.1016/
+S0140-6736(21)00517-1
+Neurology Unit, Department of 
+Medicine, Faculty of Medicine, 
+University of Malaya, 
+Kuala Lumpur, Malaysia 
+(Prof N Shahrizaila BMBS); 
+Department of Neurology, 
+Faculty of Medicine and 
+University Hospital Cologne, 
+University of Cologne, Cologne, 
+Germany 
+(Prof H C Lehmann MD); 
+Department of Neurology, 
+Graduate School of Medicine, 
+Chiba University, Chiba, Japan 
+(Prof S Kuwabara MD)
+Correspondence to: 
+Prof Nortina Shahrizaila, 
+Neurology Unit, Department of 
+Medicine, Faculty of Medicine, 
+University of Malaya, 
+50603 Kuala Lumpur, Malaysia 
+nortina@um.edu.my
+Search strategy and selection criteria
+We searched the Cochrane Library, MEDLINE, and PubMed 
+using the search term “Guillain-Barré syndrome”. Publications from January, 2015, to April, 2020, were primarily selected, but we also included older publications that provided some of the seminal works in Guillain-Barré syndrome. We also searched the reference lists of articles identified by this search strategy, and selected papers that were relevant to the subject matter. Review articles are cited to provide readers with more details and references than can be provided in this Seminar. All articles were returned by the search term and cited if they provided relevant information for the purposes of the Seminar. 
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1215ratio of 1·5. In comparison to North America and Europe, 
+population-based studies in east Asia report lower  inci-
+dences of Guillain-Barré syndrome with 0·44 cases 
+per 100  000 person-years in Japan,9 and 0·67 in China.10 
+In Bangladesh, the incidence was 1·5–2·5 cases per 
+100 000 person-years in adults, and 3·25 in children.11 
+Single-centre studies in the Middle East report similar incidences to western countries,
+12 whereas in Latin 
+America, the reported background incidences were highest 
+in Chile (2·12 cases per 100  000 person-years) and lowest 
+in Brazil (0·40).13
+Seasonal variation of incidence have close association 
+with infections.14 Studies in western countries suggest  
+suggest a peak in winter, whereas northern China, India, Bangladesh, and Latin America witness a summer peak. Reports from northern China and Bangladesh are linked to C jejuni
+ infections and the acute motor axonal neu -
+ropathy (AMAN) phenotype.15,16 Although strict hygiene 
+measures preventing campylobacteriosis can reduce the incidence of Guillain-Barré syndrome,
+17 the growing 
+prevalence of Campylobacter infection worldwide could 
+result in persistent, or even increased, incidence of Guillain-Barré syndrome in the future.
+18
+Clinical features
+GBS is clinically heterogeneous: the classic presenta -
+tion of Guillain-Barré syndrome features progressive (ascending) limb weakness associated with reduced or absent reflexes. However, patients can present with localised weakness and these variants include a pharyngeal–cervical–brachial variant and facial diplegia 
+with paraesthesia. Patients can also present with com -
+pletely different sets of clinical features to classic 
+Guillain-Barré syndrome but can share similar sero -
+logical biomarkers. These disorders related to Guillain-Barré syndrome include Miller Fisher syndrome and Bickerstaff brainstem encephalitis. Recognising the clinical patterns categorised under the wide umbrella of Guillain-Barré syndrome allows for more timely and accurate diagnosis, and for treatment to be initiated without delay.
+Antecedent events
+Most patients with Guillain-Barré syndrome have an 
+antecedent event up to 4 weeks before developing neu -
+rological symptoms. In IGOS, an antecedent event was reported in 76% of patients, mainly upper respiratory tract infections (35%) in Europe, North America, and east and southeast Asia, whereas gastroenteritis (27%) was more common in Bangladesh.
+7 Guillain-Barré syndrome 
+has also been associated with particular vaccinations19 and 
+in immune checkpoint inhibitor therapy.20,21 Other less 
+common triggers include ganglioside administration22,23 
+and surgery.24Figure 1: The epidemiology of Guillain-Barré syndrome
+The map highlights countries that have reported incidence of Guillain-Barré syndrome, the subtype of Guillain-Barré syndrome that predominates, and the antecedent infections associated with Guillain-Barré syndrome. AIDP=acute inflammatory demyelinating polyneuropathy. AMAN=acute motor axonal neuropathy. MFS=Miller Fisher syndrome. URTI=upper respiratory tract infection.
+North America
+Incidence (105): 1·78 (Canada) 
+to 2·2 (USA)Before Zika virus: 0·2 (Mexico)After Zika virus: 0·62 (Mexico)GBS subtype: AIDPAntecedent event: URTI, Zika 
+virus (Mexico)
+Central AmericaIncidence (10
+5):
+1·37 (Honduras)EuropeIncidence (10
+5): 0·84 (Finland) to 1·91 (Italy)
+GBS subtype: AIDPAntecedent event:  URTIAsiaIncidence (10
+5): 0·44 (Japan) to 3·25 (Bangladesh)
+GBS subtype: AIDP and MFS in east and southeast Asia; AMAN in Bangladesh and north ChinaAntecedent event:  URTI in east and southeast 
+Asia; gastroenteritis in Bangladesh
+South AmericaIncidence (10
+5):
+Before Zika virus: 0·4 (Brazil) to 2·12 (Chile)After Zika virus: up to 5·6 (Brazil) and7·63 (Colombia)Antecedent event:  Zika virusAfricaIncidence (10
+5):
+0·83 (T anzania) to 1·73 (Libya)Middle EastIncidence (10
+5): 2·11 (Iran)
+GBS subtype: AIDPAntecedent event:  URTIOceaniaIncidence (10
+5): 1·35 (Australia)
+GBS subtype: AIDPAntecedent event:  URTI
+
+Seminar1216  www.thelancet.com   Vol 397   March 27, 2021Antecedent infections
+The prevalence of Guillain-Barré syndrome is linked to 
+infections that are endemic to specific regions and can show a transient rise in outbreaks. An example is the 
+surge and subsequent decline of Guillain-Barré syn -
+drome following the 2014–16 Zika virus outbreak in French Polynesia,
+6 Latin America, and the Caribbean, in 
+which the syndrome’s incidence increased transiently by 2·6 times the background incidence.
+13 In 1991, McKhann 
+and colleagues reported on the summer epidemic of acute so-called Chinese paralysis syndrome.
+25 This 
+landmark publication subsequently led to the recognition of AMAN and acute motor-sensory axonal neuropathy (AMSAN) as part of the clinical spectrum of Guillain-Barré syndrome related to C jejuni infection.
+Prospective case-control studies remain the gold 
+standard in establishing an epidemiological association of the syndrome with pathogens. Such studies have implicated C jejuni, cytomegalovirus, Haemophilus 
+influenzae, Mycoplasma pneumoniae, Epstein-Barr virus, 
+hepatitis E virus, influenza A virus, and Zika virus.
+2,6,16,26–32 
+Other arboviruses, including dengue and chikungunya, have been reported in regions where infections are endemic
+33 or in outbreaks.34 C jejuni-induced Guillain-
+Barré syndrome typically results in axonal neuropathy,35 
+whereas infections with cytomegalovirus or Epstein-Barr virus usually trigger a demyelinating neuropathy.
+36 In Zika 
+virus-related Guillain-Barré syndrome, patients present 
+with sensorimotor deficits, facial palsy, respiratory insuf -
+ficiency, and a demyelinating electrophysiological subtype. In most patients, the onset suggests a postinfectious illness, rather than parainfectious illness.
+37,38
+The COVID-19 pandemic has also seen emerging 
+reports of Guillain-Barré syndrome and Miller Fisher syndrome in association with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection,
+39–46 
+although a causal relationship has not been shown. Patients who develop Guillain-Barré syndrome have a classic phenotype with varying severity, typically occurring within 2 weeks of infection. In one report, Guillain-Barré syndrome was a parainfectious occurance.
+39 Most patients 
+have cerebrospinal fluid albumincytological dissociation 
+and neurophysiological evidence of demyelinating neu -
+ropathy, although axonal neuropathy was described in three Italian patients.
+41 Two of the patients had  Miller 
+Fisher syndrome, and the third had IgG against GD1b.44 
+They were treated with either intravenous immuno -
+globulin or plasma exchange together with standard 
+COVID-19 treatment. A management challenge is deter -
+mining the cause for respiratory decline, which could be due to Guillain-Barré syndrome or COVID-19 pneumonia, or both diseases. Case-controlled studies are warranted to establish a causal relationship.
+Vaccines and Guillain-Barré syndrome
+A heightened surveillance of Guillain-Barré syndrome associated with vaccine administration was prompted by reports of an increased risk of Guillain-Barré syndrome 
+(approximately one in 100  000 vacci  nations) in individuals 
+receiving the 1976 H1N1 influenza vaccine.19 However, the 
+risk of developing Guillain-Barré syndrome with other influenza vaccines, including the 2009 p(H1N1) vaccine, 
+is low (<1 per million vacci  nations).47 By contrast, the 
+attributable risk of Guillain-Barré syndrome with an 
+influenza infection is con  siderably higher (17 per million 
+infections) than with influenza vaccinations.48 Other 
+reports of polyneuritis or Guillain-Barré syndrome have originated in recipients of the previous brain-derived Semple rabies vaccine, but not the current rabies vaccine. In the former, it was hypothesised that exposure to brain proteins resulted in antibodies against neural antigens, leading to Guillain-Barré syndrome.
+49
+In a large case-control study of 1056 Chinese patients 
+with Guillain-Barré syndrome and 4312 controls, no significant association was detected from vaccination against multiple pathogens, including influenza and rabies viruses.
+50 Vaccination also did not increase the risk 
+of developing a recurrence in individuals who had previously been afflicted with Guillain-Barré syndrome.
+51 
+Resistance and hesitancy towards vaccination can lead to the re-emergence of life-threatening diseases that have previously been eradicated, such as measles. Natural influenza A infection can potentially trigger Guillain-Barré syndrome, and vaccination has resulted in a marked reduction in complications, including Guillain-Barré syndrome.
+27 When considering the risks and 
+benefits of vaccination, this point should be emphasised.
+Immune checkpoint inhibitors and Guillain-Barré 
+syndrome
+With the introduction of immune checkpoint inhibitors 
+as therapeutics in oncology, cancers that were previously incurable now have improved prognoses. Neurological adverse events, although rare, have been reported, including a Guillain-Barré syndrome-like condition. Based on a large case-series,
+20,21 more than 1% of patients 
+developed peripheral neuropathy, which includes an isolated cranial neuropathy. The typical presentation of an ascending paralysis reminiscent of Guillain-Barré syndrome was seen in 0·1% of patients. The median time of onset in patients with Guillain-Barré syndrome was typically after three cycles of immune checkpoint inhibitor therapy, and disease progression was rapid. Cerebrospinal fluid analysis showed albumincytological dissociation, and electrophysiology was supportive of a demyelinating neuropathy.
+52 The current treatment 
+recom  mendation for neurological complications induced 
+by therapy with immune checkpoint inhibitors is to stop the causative drug and initiate steroids.
+53 However, as the 
+clinical course of Guillain-Barré syndrome induced by immune checkpoint inhibitors appears to be similar to 
+classic Guillain-Barré syndrome, intravenous immu -
+noglobulin or plasma exchange should be considered. Of note, patients with pre-existing Guillain-Barré syndrome 
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1217could be at increased risk of relapse or worsening when 
+exposed to immune checkpoint inhibitors.54
+The mechanism by which immune checkpoint 
+inhibitors induce Guillain-Barré syndrome is not well understood, but it is possible that the abrogation of self-tolerance could activate cytotoxic T lymphocytes, along with a reduced suppression of antibody-producing B lymphocytes. Notably, neurological complications following immune checkpoint inhibitors do not have autoantibodies associated with the related conditions, suggesting a T-cell-mediated pathogenesis.
+55
+Pathogenesis
+Overview
+Up to the late 1980s, Guillain-Barré syndrome was considered to be a single disease entity with immune-mediated attack on myelin components, resulting in 
+demyelination and secondary axonal damage. It subse -
+quently became clear that Guillain-Barré syndrome could be broadly classified into acute inflammatory 
+demye  linating polyradiculoneuropathy (AIDP) and 
+AMAN, depending on the site of target antigen.25,56 This 
+classification, together with the discovery of anti -
+glycolipid antibodies, expanded the understanding of Guillain-Barré syndrome pathogenesis (figure 2).
+Post-mortem studies found that AIDP is characterised 
+by the presence of inflammatory infiltrates containing T cells and macrophages involved in macrophage-mediated demyelination.
+57,58 Deposition of activated 
+com plement products can be detected on Schwann cells, 
+suggesting nerve injury that is antibody-mediated.59 Some 
+of these histopathological features can be reproduced in susceptible animals (figure 2) when actively immunised with myelin, myelin proteins (PMP22, P0, or P2), galactocerebroside, or by adoptive transfer of P0-specific and P2-specific T cells, resulting in a monophasic disease 
+resembling Guillain-Barré syndrome, such as experi -
+mental autoimmune (allergic) neuritis.60–63 Experimental Figure 2: Overview of the pathogenesis and therapeutic targets of the two major Guillain-Barré syndrome subtypes, AIDP and AMAN
+Rat models of experimental autoimmune neuritis have been used to investigate AIDP, and AMAN has been modelled in rabbits immunised with GM1. In AIDP, inflammatory infiltrates containing T cells and macrophages are present, with macrophages involved in stripping myelin. Antibodies and membrane attack complexes can also be detected on Schwann cells. In AIDP, segmental demyelination and subsequent remyelination result in progressively slow nerve conduction velocities, prolonged distal latencies, and temporal dispersion. AMAN is primarily an antibody-mediated condition, with IgG and activated complement proteins deposited on the nodal and internodal axolemma. Macrophages contribute to axonal injury by invading the periaxonal space between axon and myelin. Antibodies could also interfere with nerve regeneration. In AMAN, axonal involvement might result in axonal degeneration (A), or rapid resolution of conduction block and abnormal nodal lengthening (B). In AMAN, depending on the extent of axonal injury, the NCS pattern can show axonal degeneration with gradual reduction of CMAP amplitude (A), or reversible conduction failure with rapid resolution of conduction slowing or or conduction blocks (B). The various therapeutics currently in use and in development target different sites, resulting in neutralising or removing autoantibodies, inhibiting membrane attack complexes, modulating inflammation, and enhancing neural regeneration. AIDP=acute inflammatory demyelinating neuropathy. AMAN=acute axonal motor neuropathy. EAN= experimental autoimmune neuritis. Fc=fragment crystallisable. FcRn=neonatal FC receptor. GM1=monosialotetrahexosylganglioside. IdeS= Streptococcus pyogenes-derived IgG protease. IVIg=intravenous 
+immunoglobulin. Mφ =macrophages. NCS=nerve conduction study. P0=myelin protein zero. T=T cells.AIDP
+AMANAIDP
+AMANAIDP
+AMANP0, myelin
+GM1NCS representative
+patternsPathogenesis mechanisms and therapeutic targets Animal models
+Membrane attack complex Autoantibodies Mφ TAutoantibody• Neutralisation by IVIG• Removal by plasma exchange• Cleavage by IdeS?
+• Catabolism by FcRn inhibition?• Neutralisation by siaIylated IgG?Membrane attack complex • Inhibition by IVIG• Removal by plasma exchange• Inhibition by eculizumab?Inﬂammation• Modulation by IVIG• Modulation by plasma exchange• Alteration by Fc multimers?
+Enhance regeneration • Erythropoetin?Remyelination
+AA
+BB
+
+Seminar1218  www.thelancet.com   Vol 397   March 27, 2021depletion of cellular components prevent disease, which 
+implicates T cells and macrophages as essential in this experimental autoimmune neuritis model; however, the pathogenic mechanisms identified in experimental autoimmune neuritis might not always be relevant to Guillain-Barré syndrome.
+64
+By contrast with AIDP, patients with AMAN show 
+primary axonal injury without substantial T-cell inflam -
+mation or demyelination. IgG and activated complement are deposited on nodal and internodal axolemma.
+65 
+Macrophages appear to invade the periaxonal space, and there is nodal lengthening following paranodal myelin detachment (figure 2),
+66 leading to slowing of conduction 
+due to an increase in nodal membrane capacitance. Immunisation of rabbits with GM1 ganglioside can produce disease that resembles AMAN, with circulating anti-GM1 antibodies, motor neuropathy, and pathological findings of IgG deposition on motor axons and periaxonal macrophages.
+67
+The different underlying pathogenesis of AMAN 
+and AIDP results in different patterns of clinical and neurophysiological recovery. In AIDP, recovery depends on the remyelination process (figure 2) and the degree of secondary axonal degeneration. In AMAN, recovery depends on the degree of axonal alterations caused by the deposition of antibodies (figure 2). This process is further complicated by antibody binding at axonal sprouts that prevents axonal regeneration.
+68 In a small 
+proportion of patients with AMAN, recovery is rapid when there is resolution of autoantibody-mediated conduction block.
+The role of antibodies
+Gangliosides are sialic acid-containing glycolipids enriched in the mammalian nervous system, particularly at the nodes of Ranvier and motor nerve terminals. Their importance as targets has been shown in transgenic mice that express complex gangliosides exclusively in neurons.
+69 The underlying mechanism for antibody-
+mediated neuropathy includes modulation of ion channel function at the nodes of Ranvier, complement-dependent cytotoxicity at the nodes and motor nerve terminals, and interference with nerve regeneration.
+70–74
+Guillain-Barré syndrome subtypes are often associated 
+with specific antiganglioside antibodies suggesting a disproportionate enrichment of target glycolipids in different nerves. For instance, patients with AMAN often have IgGs against GM1, GD1a, and GalNAc-GD1a. Although studies suggest similar amounts of GM1 and GD1a in human sensory and motor nerves, the fine specificity and structural orientation of glycolipids can 
+contribute to the preferential involvement of motor nerves.
+75 Patients with Miller Fisher syndrome have 
+reactivity against GQ1b, which is expressed at the para -
+nodal regions of extraocular motor nerves.76 Antibodies 
+can also target clusters of gangliosides or ganglioside complexes.
+77 These antibodies appear to have substantial  associations with AMAN,78 and can result in severe 
+disease.79
+The target antigens in AIDP are currently unknown. 
+Studies in experimental autoimmune neuritis suggest myelin proteins (PMP22, P0, and P2) and the nodal protein, neurofascin, are probable targets. However, autoantibodies against myelin proteins have not been detected in patients, and antineurofascin antibodies are rare in patients with AIDP.
+80–82 Antibodies against 
+galactocerebroside have been reported in M pneumoniae-related AIDP.
+29,83 Other potential myelin target epitopes 
+include moesin in AIDP84 and LM1 in AMAN and 
+AIDP.85–87
+The molecular mimicry theory
+Proving the concept of molecular mimicry in auto -
+immune conditions requires sufficient evidence to support a causal relationship between the pathogenic microorganism and the disease.
+88,89 In C jejuni-related 
+AMAN, studies have supported the role of molecular mimicry in disease pathogenesis as follows: case-control studies have shown that approximately 26% of patients with Guillain-Barré syndrome versus 2% of household controls had C jejuni
+ infection, establishing an epide -
+miological link;90 patients with C jejuni-related AMAN 
+also had anti-GM1 and anti-GD1a antibodies;91,92 structural 
+similarities were detected between the sugar components of lipo-oligosaccharides of C jejuni strains associated with 
+AMAN and gangliosides on peripheral nerves;
+93,94 and 
+sensitising susceptible animals with GM1 and C jejuni 
+lipo-oligosaccharides resulted in AMAN.4,95
+Diagnostic criteria
+Several criteria have been developed to aid clinicians in making a diagnosis of Guillain-Barré syndrome. In response to the swine flu vaccination campaign of 1976–77, the US National Institute of Neurological Disorders and Stroke (NINDS) commissioned diagnostic criteria to determine if there was a genuine increase in the prevalence of Guillain-Barré syndrome after 
+vacci  nation.96 These criteria were later reaffirmed with 
+comments on its interpretation.97 In 2011, the Brighton 
+Collaboration Guillain-Barré Syndrome Working Group published case definitions for Guillain-Barré syndrome and Miller Fisher syndrome
+98 that were aimed at 
+stan dardising data collection globally as part of post-
+vaccination Guillain-Barré syndrome surveillance. The group recognised the resource limitations in many settings, proposing diagnostic certainty instead on the basis of available data.
+Both the NINDS and the Brighton criteria have 
+continued to be widely used ( table 1 ). At minimum, a 
+diagnosis of Guillain-Barré syndrome requires the presence of symmetrical flaccid weakness and decreased reflexes in the absence of alternative causes. The Brighton criteria also considered a separate case definition for Miller Fisher syndrome, which requires the presence of 
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1219the clinical triad of bilateral ophthalmoplegia, decreased 
+reflexes, and ataxia, together with the absence of limb 
+weakness and CNS involvement to fulfil a Level 3 diag -
+nostic certainty. Reaching higher diagnostic certainties in both Guillain-Barré syndrome and Miller Fisher syndrome requires the presence of a monophasic illness reaching nadir within 28 days, cerebrospinal fluid albumincytological dissociation, and electrodiagnostic evidence of neuropathy.
+In practice, the clinical characteristics of Guillain-Barré 
+syndrome are variable. Although not included in either set of diagnostic criteria, there is an antecedent illness in the preceding 4 weeks in up to 76% of patients. The pattern of weakness in Guillain-Barré syndrome is also not restricted to the limbs and can extend to include cranial-innervated muscles, respiratory muscles, and 
+autonomic involve  ment.7 Rarely, these atypical patterns could be the first presentation of Guillain-Barré syndrome.
+Natural history and the prognostic model
+Historically, Guillain-Barré syndrome is associated with spontaneous recovery occurring shortly after plateau is reached. The advent of immunotherapy has led to quicker and more complete recoveries. Most publications on the natural history of Guillain-Barré syndrome have arisen from high-income and middle-income countries, where patients have access to immunotherapy and high standards of supportive care. In settings with restricted resources, such as Bangladesh, mortality (17%) is higher than in high-income countries (5%), which is probably owing to an increased proportion of patients with axonal forms of Guillain-Barré syndrome  and inadequate access to 
+ventilators, intensive care facilities, and immunotherapy.
+99Modified NINDS criteria97Brighton Collaboration (level of diagnostic certainty)98
+Required Supportive Level 1 
+(highest)Level 2 Level 3 Level 4 (lowest)
+Classic Guillain-Barré syndrome
+Clinical features
+Bilateral and flaccid weakness of limbs Yes ·· Yes Yes Yes ··
+Decreased or absent deep tendon reflexes Yes ·· Yes Yes Yes ··
+Absence of alternative diagnosis Yes ·· Yes Yes Yes Yes
+Additional clinical features
+Monophasic course, time between onset to plateau 
+12 h to 28 days·· Yes Yes Yes Yes ··
+Relative symmetry ·· Yes ·· ·· ·· ··
+Mild sensory symptoms or signs ·· Yes ·· ·· ·· ··
+Progress (usually after 2–4 weeks of plateau) ·· Yes ·· ·· ·· ··
+Cranial nerve involvement (facial, bulbar, and oculomotor) ·· Yes ·· ·· ·· ··
+Autonomic dysfunction ·· Yes ·· ·· ·· ··
+Absence of fever at the onset of neuritic symptoms ·· Yes ·· ·· ·· ··
+CSF analysis
+CSF white cell count <50 /µl  (usually <10) ·· Yes Yes Yes* ·· ··
+CSF protein raised (after week 1) ·· Yes Yes Yes* ·· ··
+Nerve conduction studies
+Consistent with conduction slowing and block ·· Yes Yes Yes* ·· ··
+Miller Fisher syndrome
+Clinical features
+Bilateral opthalmoparesis ·· ·· Yes Yes Yes ··
+Ataxia ·· ·· Yes Yes Yes ··
+Absent limb weakness ·· ·· Yes Yes Yes ··
+No altered consciousness or corticospinal tract signs ·· ·· Yes Yes Yes Yes
+CSF analysis
+CSF cell count <50 (usually <10) ·· ·· Yes Yes* ·· ··
+CSF protein raised (after week 1) ·· ·· Yes Yes* ·· ··
+Nerve conduction studies
+Normal or only sensory abnormalities ·· ·· Yes Yes* ·· ··
+NINDS=National Institute of Neurological Disorders and Stroke. *To reach level 2 of the Brighton Collaboration criteria, either CSF or nerve conduction study results must be 
+available. 
+Table 1: Diagnostic criteria for Guillain-Barré syndrome
+
+Seminar1220  www.thelancet.com   Vol 397   March 27, 2021Based on IGOS,7 clinical nadir was reached within 
+2 weeks in 96% and 4 weeks in 99% of patients. Cranial 
+nerve involvement was described in 50% of patients, autonomic dysfunction in 25%, and ventilator support required in 19% of patients. At nadir, 76% of patients were 
+unable to walk independently. Following immuno  therapy, Distinguishing clinical features CSF findings Neural conduction 
+findingsOther supportive tests
+Brain
+Encephalitis Drowsiness, seizures Pleocytosis Normal Brain MRI for hyperintense lesions, EEG for 
+slowing epileptiform discharges
+Brainstem stroke Hyperacute sudden onset, cranial and limb weaknessNormal Normal Brain MRI and magnetic resonance angiography for corresponding infarct and vascular occlusion
+Spinal cord
+Transverse myelitis Sensory level, brisk reflexes Normal Normal Abnormal spine MRI for hyperintense lesions
+Malignant infiltration Cauda equina syndrome Malignant cells Normal Abnormal spine MRI for enhancing lesions, 
+investigations for primary lesions
+Anterior horn cell
+Infection with Poliovirus, 
+enterovirus 71, or enterovirus D68Fever, flaccid paralysis Pleocytosis Motor neuronopathy Presence of virus
+Plexus
+Neuralgic amyotrophy Asymmetry, pain, and findings limited to affected 
+nervesNormal Abnormal in affected nerves Brachial plexus MRI for nerve enhancement
+Nerve roots
+Cytomegalovirus and HIV 
+radiculitisSubacute presentation Pleocytosis Delayed or absent F waves and H wavesHIV and cytomegalovirus serology
+Chronic inflammatory demyelinating polyneuropathySubacute presentation and relapsing–remitting patternAlbumin-cytological dissociationDemyelinating neuropathy Nerve ultrasound for enlarged nerve roots
+Peripheral nerves
+Chronic inflammatory 
+demyelinating polyneuropathySubacute presentation and relapsing–remitting patternAlbumin-cytological dissociationDemyelinating neuropathy Nerve ultrasound for enlarged nerve roots, and proximal and distal nerves
+Porphyria Family history, concomitant psychiatric and abdominal painNormal Axonal neuropathy Increased urinary porphobilinogen
+Lyme disease or other tick-borne diseasesHistory of exposure, characteristic rash (erythema migrans in Lyme disease)Normal Axonal neuropathy Antibodies against Borrelia burgdorferi (Lyme disease) or the related tick species
+Thiamine deficiency Predisposing factors (eg, hyperemesis gravidarum, alcohol misuse, nutritional deficiency, and other neurological features such as Wernicke encephalopathy)Normal Axonal neuropathy Reduced blood thiamine and erythrocyte transketolase activity
+Diphtheria Laryngeal infection Increased total proteinDemyelinating neuropathy
+Isolation of  Corynebacterium diphtheriae  on 
+cultures
+Critical illness polyneuropathy Prolonged illness or ventilation Normal Axonal neuropathy Overlap with myopathy
+Metabolic or electrolyteimbalancePredisposing factors Normal Normal Low serum concentrations of abnormal electrolyte
+Neuromuscular junction
+Myasthenia gravis Fatigable weakness, relapsing–remitting pattern Normal Repetitive nerve stimulation 
+for a decremental responseAcetylcholine receptor antibodies
+Botulism Rapid progression, pupillary abnormalities, dysautonomia, and descending paralysisNormal Rapid repetitive nerve stimulation for an incremental increaseBotulism toxin
+Lambert-Eaton syndrome Proximal weakness, depressed tendon reflexes, and autonomic changesNormal Repetitive nerve stimulation for post-tetanic facilitationAntibodies against voltage-gated calcium channels
+Muscle
+Inflammatory myositis Proximal weakness, normal reflexes and sensation Normal Normal sensory potentials Increased serum creatine kinase, myopathic 
+electromyography
+Critical illness myopathy Prolonged illness or ventilation Normal Normal sensory potentials Overlap with neuropathy
+Hypokalaemic periodic paralysis Transient weakness, family history, triggering factors (eg, fasting, exercise, and carbohydrate-rich meals)Normal Abnormal exercise test Low serum potassium concentrations, genetic mutation
+Miscellaneous
+Functional disorder Inconsistent, variable presentation Normal Normal Psychological evaluation
+Table 2: Differential diagnosis of Guillain-Barré syndrome by anatomical site and illness
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1221most patients made a good recovery, with 77% able to 
+walk independently at 6 months and 81% at 12 months.
+The overall prognosis in Guillain-Barré syndrome is 
+good, but there are patients who die from it or are left with substantial disabilities. Predictors of poor outcome include advanced age, antecedent C jejuni  
+infection, the need for ventilation, and an axonal Guillain-Barré syndrome subtype. Prognostic models of Guillain-Barré syndrome have been developed to facilitate patient care, notably the modified Erasmus Guillain-Barré Syndrome Outcome Score (mEGOS) and Erasmus Guillain-Barré Syndrome Respiratory Insufficiency Score (EGRIS).
+100,101 After assessment with 
+mEGOS on admission and at week 1, patients who were older and had diarrhoea and a lower Medical Research Council sum score  
+had a decreased proba -
+bility of walking independently at 6 months. EGRIS predicted an increased probability of early ventilation in patients who, on admission, had a shorter duration of weakness from onset of symptoms, a lower Medical Research Council sum score, and the presence of facial weakness, bulbar weakness, or both. The models have since been validated in other Guillain-Barré syndrome patient cohorts.
+102,103 Serum biomarkers, including low 
+albumin, small rise in immunoglobulin, and high serum neurofilament light chain, have also been associated with inferior outcomes.
+104–106
+Clinical classification of Guillain-Barré syndrome-related 
+disorders and variants
+The NINDS and Brighton Collaboration criteria have 
+been helpful in diagnosing most patients with Guillain-Barré syndrome, but a substantial number or patients have minimal or regional patterns of weakness, and 
+would not fulfil either set of criteria. To achieve complete case ascertainment of Guillain-Barré syndrome, all variants should be included.
+Once other possible mimic syndromes have been 
+excluded (table 2), particular clinical features will suggest 
+the possibility of a Guillain-Barré syndrome-related disor -
+der, as follows:107 the neurological pattern is part of typical 
+Guillain-Barré syndrome or Miller Fisher syndrome, electrophysiology suggests a sensorimotor neuropathy, 
+cerebrospinal fluid analysis shows albumin  cytological 
+dissociation, a monophasic illness is present with onset duration similar to Guillain-Barré syndrome, there is a history of antecedent illness up to 4 weeks before symptom onset, and the presence of IgG against neural antigens.
+Table 3 shows the key features of the clinical spectrum 
+of Guillain-Barré syndrome ·
+108,109 Each variant is described Patterns of limb 
+weaknessSensory involvementCranial nerve involvementCNS involvementSerial neural conductionIgG against ganglioside typeProportion of patients with Guillain-Barré syndrome 
+Guillain-Barré syndrome spectrum
+Classic
+Demyelinating Upper and lower limbs Yes Yes No AIDP Unknown 69–90%
+Axonal Upper and lower limbs Yes in AMSAN, 
+no in AMANYes No AMSAN, RCF GM1, GD1a <22%
+Pure motor Upper and lower limbs No Yes No AMAN, RCF GM1, GD1a 5–70%
+Pure sensory None Yes No No Abnormal SNAPs GD1b <1%
+Paraparetic Lower limbs Yes No No Axonal GM1, GD1b 5–10%
+Facial diplegia and paraesthesia None Yes (distal) Facial No AIDP Unknown <5%
+Pharyngeal, cervical, brachial Proximal upper limbs Supportive Bulbar No Equivocal GT1a, GQ1b <5%
+Acute bulbar palsy None Supportive Bulbar No Equivocal GT1a <1%
+Guillain-Barré syndrome with hyperreflexiaUpper and lower limbs Yes Yes No Axonal GM1 <1%
+Miller Fisher syndrome spectrum
+Classic None Ataxia Ocular motor nerves No Abnormal SNAPs GQ1b, GT1a 4–25%
+Acute ophthalmoplegia None Supportive Ocular motor nerves No Normal GQ1b <1%
+Acute ataxic neuropathy None Ataxia No No Axonal GM1 <5%
+Acute ptosis None Supportive Ptosis only No Normal GQ1b <1%
+Acute mydriasis None Supportive Dilated pupils No Normal Unknown <1%
+Acute vestibular syndrome
+None Supportive Nystagmus Nystagmus Normal GQ1b <1%
+Bickerstaff brainstem encephalitisClassic None Supportive Ocular motor nerves Yes Axonal GQ1b, GT1a <5%
+Acute ataxic hypersomnolence None Ataxia No Yes Normal GQ1b <1%
+AIDP=acute inflammatory demyelinating polyneuropathy. AMAN=acute motor axonal neuropathy. AMSAN=acute motor and sensory neuropathy. RCF=reversible conduction failure. SNAP=sensory nerve action 
+potential. 
+Table 3: Clinical classification of Guillain-Barré syndrome
+
+Seminar1222  www.thelancet.com   Vol 397   March 27, 2021on the basis of the extent of the pattern of weakness. For 
+instance, paraparetic Guillain-Barré syndrome is a less extensive variant of classic Guillain-Barré syndrome with clinical features of bilateral lower limb weakness, whereas acute opthalmoplegia is a less extensive variant of classic Miller Fisher syndrome. A unique entity is Bickerstaff brainstem encephalitis, in which patients have CNS involvement with reduced consciousness, hyper-reflexia, or both.
+110,111 The CNS involvement has 
+been hypothesised to be due to the breakdown of the blood–brain barrier.
+112 Some argue that Bickerstaff  
+brainstem encephalitis should be considered a separate disease, but reports of Bickerstaff brainstem encephalitis overlapping with symptoms of Guillain-Barré syndrome 
+suggest a link to Guillain-Barré syndrome.
+Electrodiagnostic classification
+Studies on nerve conduction are important in sup -
+porting a diagnosis of Guillain-Barré syndrome and in 
+establishing the electrodiagnostic classification of demye -
+linating or axonal subtypes. At the early stages of disease, nerve conduction can be normal, but in most patients there is evidence of a neuropathy. Some early studies on nerve conduction changes in Guillain-Barré syndrome include absent Hoffmann reflexes and F waves, and abundant A waves.
+113,114
+Several electrodiagnostic criteria of Guillain-Barré 
+syndrome have become available, primarily defining parameters that indicate demyelination.
+15,97,115–117 However, 
+it has subsequently become clear that the most widely referenced criteria
+15,115 have their limitations and can 
+underestimate axonal pathology. Guillain-Barré syndrome electrophysiology is a dynamic process, and a single nerve conduction study might not reflect the true underlying pathophysiology. This shortcoming was shown in patients with a positive anti-GM1 antibody where the target antigens are localised primarily at the nodal and paranodal regions.
+118,119 Antibodies against target antigens at these 
+sites lead to myelin detachment, which is reflected on 
+nerve con  duction studies as slowing and block of 
+conduction. However, subsequent changes at these sites (figure 2) leave the myelin intact with two possible outcomes depending on the extent of axonal involvement. Serial nerve conduction studies can show reduction in distal compound muscle action potential amplitude with relatively preserved velocities (axonal degeneration; figure 2). Such studies can also show rapid resolution of compound muscle action potential amplitude and conduction velocities, referred to as reversible conduction failure (figure 2). By contrast, repeated nerve conduction studies of AIDP show progressively slower parameters 
+with prolongation of distal latencies and slower con -
+duction velocities, even in the recovery stages, reflecting the remyelinating process (figure 2).
+It is not always possible to do serial nerve conduction 
+studies and thus, more stringent criteria have  been 
+proposed on the basis of studies that are typically done within 2 weeks of disease onset.
+116,117 However, reversible 
+conduction failure can only be detected on a second study completed within 6–8 weeks of disease onset. To overcome some of these limitations, the use of electrodiagnostic probabilities based on mathematical modelling has been recommended.
+117,120
+Neuroimaging
+Peripheral nerve imaging is an emerging area of disease biomarkers. In one study, MRI evidence of cauda equina and lumbar root enhancement had a sensitivity of 83% in patients with acute Guillain-Barré syndrome.
+121 Nerve 
+ultrasound offers a cheaper, more practical alternative to MRI. On nerve ultrasound, cervical root enlargement can be seen in early Guillain-Barré syndrome, especially when weakness is substantial.
+122,123 In differentiating from chr  o-
+nic inflammatory demyelinating polyradiculo  neuropathy 
+(CIDP), one study found the application of ultrasound features of sensory sparing pattern, enlarged cervical roots or the vagus nerve had sensitivity, specificity, and positive predictive value of over 85%.
+124 Another feature that 
+supports Guillain-Barré syndrome is an improvement in nerve enlargement with clinical recovery.
+124,125
+Paediatric Guillain-Barré syndrome
+Making a diagnosis of Guillain-Barré syndrome in children can be challenging.
+126,127 Their clinical features and disease 
+progression are similar to adult Guillain-Barré syndrome; however, there is substantial pain associated with paediatric Guillain-Barré syndrome that could mask limb weakness, causing delays in diagnosis. When nerve conduction studies are not tolerated in children, neuroimaging with MRI or ultrasound can facilitate diagnosis. Children with Guillain-Barré syndrome tend to have a good prognosis, 
+but as there have been reports of mortality from auto -
+nomic dysfunction, treatment strategies, as recommended in adult Guillain-Barré syndrome, are advocated.
+128,129
+Treatment-related fluctuations and acute-onset CIDP
+The neurological symptoms of a small proportion of patients with Guillain-Barré syndrome and Miller Fisher syndrome worsen after initial stabilisation. Treatment-related fluctuations, defined as a worsening of at least one grade on the Guillain-Barré syndrome disability scale  or a 
+decrease in Medical Research Council sum score within 8 weeks of treatment, occur in up to 16% of patients.
+109,130,131 
+It is hypothesised that ongoing immunopathogenic processes are transiently halted during treatment, leading to a pseudo-nadir. Treatment-related fluctuations are different from acute onset of CIDP, in which patients have more than three relapses with one or more occurring after 8 weeks of disease onset.
+Management
+Approach to treatment
+The management of patients with Guillain-Barré syndrome can be stratified according to the different 
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1223stages of the disease (figure 3). In the acute phase, 
+typically within the first 2 weeks of disease onset, patients are at risk of developing complications and extensive nerve damage. In patients with potential respiratory and autonomic failure, admission to a high-dependency unit is advisable for close monitoring of disease progression. Immunotherapy should be initiated as soon as patients show features of disability.
+132–135
+Currently, intravenous immunoglobulin and plasma 
+exchange have been shown to be equally effective in improving disease outcome by accelerating recovery, but do not halt disease progression or alter the extent of nerve damage. Both treatments are associated with few adverse 
+events. Rarely, liver dysfunction and thrombo  embolic 
+events can occur with intravenous immuno  globulin, 
+whereas plasma exchange should be avoided in patients with autonomic instability because the large shifts in fluids lead to a hypotensive state. Steroids are not effective when used on their own but could be beneficial in combination with intravenous immunoglobulin.
+136 In 
+patients with autonomic dysfunction and in children, intravenous immunoglobulin is preferred. A dose of 2 g/kg administered over 5 days has shown efficacy in accelerating recovery. A shorter 2-day course was effective in children, but associated with more frequent treatment-related fluctuations.
+137 For plasma exchange, 
+four sessions (50 mL/kg plasma per session) have been shown to be effective, but in most clinical practice, five sessions are done.
+138
+During the progressive phase, patients are at risk of 
+indirect complications including aspiration, pneu -
+monia, and deep vein thrombosis. These complications can be prevented with supportive measures, such as 
+enteral tube feeding, regular respiratory physio -
+therapy, and deep vein thrombosis prophylaxis. Phy -
+siotherapy should commence as early as possible. Symptoms of pain, fatigue, and low mood require appropriate management. Close monitoring should Figure 3: The management of Guillain-Barré syndrome
+Depending on the time of symptom presentation from disease onset, patients can be managed according to the disease phase. Immunotherapy with either intravenous immunoglobulin or plasma exchange is recommended when the patient cannot walk unaided. Supportive management includes monitoring for disease progression and early intervention when there is evidence of autonomic dysfunction, respiratory weakness, or bulbar weakness. Owing to prolonged immobility, patients are also at risk of deep-vein thrombosis and pulmonary embolism, warranting preventive prophylaxis. After plateau is reached, some patients can have a relapse, which could be due to treatment-related fluctuation, or an acute onset of chronic inflammatory demyelinating polyneuropathy.Re-challenge
+• Intravenous 
+immunoglobulin
+• Plasma exchangeMonitor• Thromboembolic 
+events
+• Autonomic 
+dysfunction
+• Secondary 
+infections
+• PainMonitor• Deep-vein thrombosis or pulmonary embolism• Respiratory or bulbar weakness• Autonomic dysfunction• Secondary infections• Pain
+Supportive• Deep-vein thrombosis prophylaxis• Early intubation if respiratory weakness• Nasogastric tube if bulbar or respiratory weakness
+• Temporary pacing in arrhythmias• Early passive and active rehabilitation support• Pain reliefImmunotherapy• Intravenous 
+immunoglobulin
+• Plasma exchangeMonitor• Disease progression• Respiratory 
+weakness
+• Bulbar weakness• Autonomic 
+dysfunctionImmunotherapy• Intravenous 
+immunoglobulin
+• Steroids• Plasma exchangeTreatment-related ﬂuctuation Acute chronic inﬂammatory demyelinating polyneuropathyDiagnosis of Guillain-Barré syndrome 
+Relapse Recovery Immunotherapy completed Late presentation • Independent walking
+• Mild variant • Unable to walk unaided
+• Respiratory weakness
+• Bulbar weakness
+• Autonomic dysfunctionAcute phaseWithin 2 weeks of disease onset Progressive phaseUsually 2–4 weeks after disease onset Plateau reached Usually between 4–8 weeks of disease onset
+
+Seminar1224  www.thelancet.com   Vol 397   March 27, 2021continue as Guillain-Barré syndrome mortality is 
+highest during the recovery phase.139 The causes of 
+death are typically from respira  tory, cardiovascular, or  
+autonomic complications.
+Other therapeutic considerations
+There are scenarios when the correct decision to treat is not clear. Patients with mild forms of Guillain-Barré syndrome have a good prognosis, but there is some evidence to suggest that two plasma exchange sessions can accelerate recovery when compared with supportive care.
+138 In Miller Fisher syndrome, patients eventually 
+recover, but when there is overlap with classic Guillain-
+Barré syndrome, immunotherapy is recom  mended to 
+prevent further complications. In treatment-related fluc -
+tuations, although there is no evidence to support a further course of treatment, most clinicians would opt for a second course of either treatment that was initially given.
+131
+In a third of patients, clinical improvement is not 
+apparent after symptoms reach a plateau.131 The decision 
+to treat patients with a further course of immunotherapy has largely been at the discretion of the treating clinicians. Sub-analysis of treatment in IGOS showed that in patients with a Guillain-Barré syndrome disability score of more than 3 (unable to walk independently), there were no differences in the 4-week or 24-week scores between patients who received a single course versus two courses of intravenous immunoglobulin.
+140 However, this was a 
+non-randomised observation, and prospective randomised trials are ongoing.
+100 Other potential combinations that 
+have not shown efficacy include plasma exchange fol -
+lowed by intravenous immunoglobulin, and intravenous 
+immu  noglobulin followed by plasma exchange. The latter 
+sequence of the two  treatments should be avoided, 
+especially within the first 2 weeks of intravenous immu -
+noglobulin therapy, as plasma exchange would remove intravenous immunoglobulin.
+Potential therapeutic compounds
+Despite the availability of immunotherapy, the substantial mortality and morbidity of Guillain-Barré syndrome necessitates the need for more effective treatment. Emerging therapeutic approaches target innate and adaptive immunity, and aim to promote regeneration. Some of these promising therapies have only been evaluated in preclinical models (figure 2), whereas others have entered clinical trials.
+In a murine Guillain-Barré syndrome model, recom -
+binant antibodies that bound to FcRn with increased 
+affinity enhanced degradation of circulating antigan -
+glioside antibodies, thus preventing antibody-mediated neuronal injury.
+141 In other studies, sialylated intra -
+venous immunoglobulin was also effective in pre  venting 
+antibody-mediated nerve injury in rodents at lower doses 
+than standard intravenous immuno  globulin.142 In an 
+AMAN rabbit model, IdeS, a Streptococcus pyogenes-derived  pro tease , reduced the frequency of axonal motor 
+degeneration and improved recovery.143,144 Its efficacy in 
+Guillain-Barré syndrome is currently being investigated in a phase 2 clinical study of imlifidase (NCT03943589). Following evidence that monoclonal antibodies, including antiC1q and anti-C5, can attenuate axonal injury and improve respiratory function in mouse models of Guillain-Barré syndrome,
+69,145 a phase 2 clinical trial of 
+eculizumab (an anti-C5 monoclonal antibody) was done. Although the study was limited  by the small number of 
+patients (n=34), patients who received eculizumab in addition to a course of intravenous immunoglobulin were more likely to run at 6 months of disease onset, suggesting earlier recovery than patients who received only a course of intravenous immunoglobulin.
+134
+Controversies, uncertainties, and future 
+directions
+Despite the advances in the understanding of Guillain-
+Barré syndrome, many uncertainties remain. To date, IGOS has impressively recruited almost 2000 patients with Guillain-Barré syndrome, but most patients have been recruited from high-income countries. Published data on Guillain-Barré syndrome in Africa, the Middle East, and many parts of Asia are scarce. To fully comprehend the global burden of Guillain-Barré syndrome and factors associated with the disease, active global engagement with health-care providers from these regions is needed.
+Studies support Guillain-Barré syndrome as an 
+autoimmune disease, but the higher incidence reported in men than in women is unusual. Also unusual is that most individuals with C jejuni infection do not develop 
+Guillain-Barré syndrome despite its established asso -
+ciation. These irregularities suggest that there are likely to be other factors that are involved in causing disease, such as host genetic susceptibility. Axonal Guillain-Barré syndrome and Miller Fisher syndrome are more frequent in Asia than in other settings, whereas AIDP is more common in Europe and North America.
+66 This disparity 
+could partly be due to regional variations in infections (infective organisms), but in distinguishing between 
+axonal versus demyelinating sub  types, there could be 
+differences in electrodiagnostic approaches, which can be overcome with serial studies.
+146
+The existing Guillain-Barré syndrome diagnostic 
+criteria exclude many variants, including Guillain-Barré syndrome with preserved or brisk tendon reflexes.
+97,98 
+Although uncommon, this group of patients typically present with AMAN, an antecedent diarrhoeal illness, and antiganglioside antibodies.
+123 The recognition of 
+Guillain-Barré syndrome variants is clinically important to avoid delayed treatment, and this and other atypical features should be considered in future diagnostic criteria for Guillain-Barré syndrome.
+There is a preference in high-income countries for 
+initiating intravenous immunoglobulin as first-line 
+ther apy,131 but the cost-effectiveness of plasma exchange 
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  1225in treating Guillain-Barré syndrome should not be 
+overlooked. Further analysis comparing the health economics and treatment burden between intravenous immunoglobulin and plasma exchange is warranted, especially when there is a growing global shortage of blood products.
+147 Small-volume plasma exchange in 
+treating patients with Guillain-Barré syndrome has seen a resurgence
+148,149 and has been shown to be a safe and 
+cheaper alternative to standard plasma exchange. In low-income countries, where patients would receive only supportive treatment resulting in increased morbidity and mortality, this course of treatment should be considered.
+150 
+Another potential therapy that merits further study is pleiotropic cytokine erythropoietin, which has been found to be neuroprotective and proregenerative in animal models of antibody and T-cell-mediated Guillain-Barré syndrome.
+151,152
+Conclusion
+Since its initial description in 1916 by Georges Guillain, Jean Alexandre Barré, and André Strohl, there continues to be substantial developments in 
+Guillain-Barré syn  drome. 
+IGOS has provided some clarity on geographical variations with more information likely to follow. The transient surge in patients with Guillain-Barré syndrome during the 2016 Zika virus outbreak and emerging reports of Guillain-Barré syndrome in SARS-CoV-2 infection add to the growing list of antecedent infections. With the changing landscape in cancer therapy, reports of Guillain-Barré syndrome associated with immune checkpoint inhibitors have emerged. The medical community is continuously reminded of the need to remain vigilant of potential neurological complications with infective outbreaks and with the rise in novel immunotherapies. As new therapies enter clinical trials, and research is done into overcoming axonal degeneration and enhancing neural regeneration, the future outlook for Guillain-Barré syndrome is positive.
+Contributors
+All authors contributed equally and approved the final version of the manuscript.
+Declaration of interests
+HCL reports personal fees from Biogen, CSL Behring, Grifols, Takeda, and Celgene, and grants and personal fees from Alnylam and Novartis. The other authors declare no competing interests.
+Editorial note: the Lancet Group takes a neutral position with respect to 
+territorial claims in published maps and institutional affiliations.
+References
+1 Sejvar JJ, Baughman AL, Wise M, Morgan OW. Population 
+incidence of Guillain-Barré syndrome: a systematic review and 
+meta-analysis. Neuroepidemiology 2011; 36: 123–33.
+2 Jacobs BC, Rothbarth PH, van der Meché FG, et al. The spectrum of 
+antecedent infections in Guillain-Barré syndrome: a case-control study. Neurology 1998; 51: 1110–15.
+3 Wachira VK, Peixoto HM, de Oliveira MRF. Systematic review of 
+factors associated with the development of Guillain-Barré syndrome 2007–2017: what has changed? Trop Med Int Health 2019; 24: 132–42.
+4 Yuki N, Susuki K, Koga M, et al. Carbohydrate mimicry between 
+human ganglioside GM1 and Campylobacter jejuni  
+lipooligosaccharide causes Guillain-Barre syndrome. Proc Natl Acad Sci USA 2004; 101: 11404–09.5 Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barré syndrome. 
+Lancet 2016; 388: 717–27.
+6 Cao-Lormeau VM, Blake A, Mons S, et al. Guillain-Barré syndrome 
+outbreak associated with Zika virus infection in French Polynesia: a case-control study. Lancet 2016; 387: 1531–39.
+7 Doets AY , V erboon C, van den Berg B, et al. Regional variation of 
+Guillain-Barré syndrome. Brain 2018; 141: 2866–77.
+8 McGrogan A, Madle GC, Seaman HE, de Vries CS. 
+The epidemiology of Guillain-Barré syndrome worldwide. A systematic literature review. Neuroepidemiology 2009; 32: 150–63.
+9 Matsui N, Nodera H, Kuzume D, et al. Guillain-Barré syndrome in 
+a local area in Japan, 2006–2015: an epidemiological and clinical study of 108 patients. Eur J Neurol 2018; 25: 718–24.
+10 Cheng Q, Wang DS, Jiang GX, et al. Distinct pattern of age-specific 
+incidence of Guillain-Barré syndrome in Harbin, China. J Neurol 2002; 249: 25–32.
+11 Islam Z, Jacobs BC, Islam MB, Mohammad QD, Diorditsa S, 
+Endtz HP. High incidence of Guillain-Barre syndrome in children, Bangladesh. Emerg Infect Dis 2011; 17: 1317–18.
+12 Benamer HT, Bredan A. Guillain-Barré syndrome in Arab 
+countries: a systematic review. J Neurol Sci 2014; 343: 221–23.
+13 Capasso A, Ompad DC, Vieira DL, Wilder-Smith A, Tozan Y . 
+Incidence of Guillain-Barré Syndrome (GBS) in Latin America and the Caribbean before and during the 2015–2016 Zika virus epidemic: a systematic review and meta-analysis. PLoS Negl Trop Dis 2019; 13: e0007622.
+14 Webb AJ, Brain SA, Wood R, Rinaldi S, Turner MR. Seasonal 
+variation in Guillain-Barré syndrome: a systematic review, meta-analysis and Oxfordshire cohort study. J Neurol Neurosurg Psychiatry 2015; 86: 1196–201.
+15 Ho TW, Mishu B, Li CY , et al. Guillain-Barré syndrome in northern 
+China. Relationship to Campylobacter jejuni infection and anti-glycolipid antibodies. Brain 1995; 118: 597–605.
+16 Islam Z, Jacobs BC, van Belkum A, et al. Axonal variant of 
+Guillain-Barre syndrome associated with Campylobacter infection in Bangladesh. Neurology 2010; 74: 581–87.
+17 Baker MG, Kvalsvig A, Zhang J, Lake R, Sears A, W ilson N. 
+Declining Guillain-Barré syndrome after campylobacteriosis control, New Zealand, 1988–2010. Emerg Infect Dis 2012; 18: 226–33.
+18 Kaakoush NO, Castaño-Rodríguez N, M itchell HM, Man SM. 
+Global epidemiology of Campylobacter infection. Clin Microbiol Rev 2015; 28: 687–720.
+19 Schonberger LB, Bregman DJ, Sullivan-Bolyai JZ, et al. 
+Guillain-Barre syndrome following vaccination in the National Influenza Immunization Program, United States, 1976–1977 . Am J Epidemiol 1979; 110: 105–23.
+20 Kao JC, Liao B, Markovic SN, et al. Neurological complications 
+associated with anti-Programmed Death 1 (PD-1) antibodies. JAMA Neurol 2017; 74: 1216–22.
+21 Spain L, Walls G, Julve M, et al. N eurotoxicity from immune-
+checkpoint inhibition in the treatment of melanoma: a single centre experience and review of the literature. Ann Oncol 2017; 28: 377–85.
+22 Illa I, Ortiz N, Gallard E, Juarez C, G rau JM, Dalakas MC. 
+Acute axonal Guillain-Barré syndrome with IgG antibodies against motor axons following parenteral gangliosides. Ann Neurol 1995; 38: 218–24.
+23 Yuki N, Sato S, Miyatake T, Sugiyama K, Katagiri T, Sasaki H. 
+Motoneuron-disease-like disorder after ganglioside therapy. Lancet 1991; 337: 1109–10.
+24 
+ Shang P, Zhu M, Wang Y , et al. Axonal variants of G uillain-Barré 
+syndrome: an update. J Neurol 2020; published online March 5. https://doi.org/10.1007/s00415-020-09742-2.
+25 McKhann GM, Cornblath DR, Ho T , et al. Clinical and 
+electrophysiological aspects of acute paralytic disease of children and young adults in northern China. Lancet 1991; 338: 593–97.
+26 Hao Y , Wang W, Jacobs BC, et al. Antecedent infections in 
+Guillain-Barré syndrome: a single-center, prospective study. Ann Clin Transl Neurol 2019; 6: 2510–17.
+27 Lehmann HC, Hartung HP, Kieseier BC, Hughes RAC. 
+Guillain-Barré syndrome after exposure to influenza virus. Lancet Infect Dis 2010; 10: 643–51.
+
+Seminar1226  www.thelancet.com   Vol 397   March 27, 202128  Leung J, Sejvar JJ, Soares J, Lanzieri TM. G uillain-Barré syndrome 
+and antecedent cytomegalovirus infection, USA 2009–2015. 
+Neurol Sci 2020; 41: 885–91.
+29  Meyer Sauteur PM, Huizinga R, Tio-Gillen AP, et al. Mycoplasma 
+pneumoniae triggering the Guillain-Barré syndrome: a case-control study. Ann Neurol 2016; 80: 566–80.
+30 
+ van den Berg B, van der Eijk AA, Pas SD, et al. Guillain-Barré 
+syndrome associated with preceding hepatitis E virus infection. Neurology 2014; 82: 491–97.
+31 
+ Kuwahara M, Samukawa M, Ikeda T, et al. Characterization of the 
+neurological diseases associated with Mycoplasma pneumoniae infection and anti-glycolipid antibodies. J Neurol 2017; 264: 467–75.
+32 
+ Yamana M, Kuwahara M, Fukumoto Y , Yoshikawa K, Takada K, 
+Kusunoki S. Guillain-Barré syndrome and related diseases after influenza virus infection. Neurol Neuroimmunol Neuroinflamm 2019; 6: e575.
+33 
+ Tan CY , Razali SNO, Goh KJ, Sam IC, Shahrizaila N. Association of 
+dengue infection and Guillain-Barré syndrome in Malaysia. J Neurol Neurosurg Psychiatry 2019; 90: 1298–300.
+34 
+ Balavoine S, Pircher M, Hoen B, et al. G uillain-Barré syndrome and 
+chikungunya: description of all cases diagnosed during the 2014 outbreak in the French West Indies. Am J Trop Med Hyg 2017; 97: 356–60.
+35 
+ Kokubun N, Shahrizaila N, Koga M, Hirata K, Yuki N. 
+The demyelination neurophysiological criteria can be misleading in Campylobacter jejuni-related Guillain-Barré syndrome. 
+Clin Neurophysiol 2013; 124: 1671–79.
+36 
+ Kuwabara S, Ogawara K, Misawa S, et al. Does Campylobacter jejuni 
+infection elicit “demyelinating” Guillain-Barre syndrome? Neurology 2004; 63: 529–33.
+37 
+ Uncini A, Shahrizaila N, Kuwabara S. Zika virus infection and 
+Guillain-Barré syndrome: a review focused on clinical and electrophysiological subtypes. J Neurol Neurosurg Psychiatry 2017; 88: 266–71.
+38 
+ Leonhard SE, Bresani-Salvi CC, Lyra Batista JD, et al. G uillain-Barré 
+syndrome related to Zika virus infection: a systematic review and meta-analysis of the clinical and electrophysiological phenotype. PLoS Negl Trop Dis 2020; 14: e0008264.
+39 
+ Zhao H, Shen D, Zhou H, Liu J, Chen S. Guillain-Barré syndrome 
+associated with SARS-CoV-2 infection: causality or coincidence? Lancet Neurol 2020; 19: 383–84.
+40 
+ Virani A, Rabold E, Hanson T, et al. Guillain-Barré syndrome 
+associated with SARS-CoV-2 infection. IDCases 2020; 20: e00771.
+41  Toscano G, Palmerini F, Ravaglia S, et al. Guillain-Barré syndrome 
+associated with SARS-CoV-2. N Engl J Med 2020; 382: 2574–76.
+42  Sedaghat Z, Karimi N. Guillain Barre syndrome associated with 
+COVID-19 infection: a case report. J Clin Neurosci 2020; 76: 233–35.
+43 
+ Padroni M, Mastrangelo V, Asioli GM, et al. Guillain-Barré 
+syndrome following COVID-19: new infection, old complication? J Neurol 2020; 267: 1877–79.
+44 
+ Gutiérrez-Ortiz C, Méndez-Guerrero A, Rodrigo-Rey S, et al. 
+Miller Fisher syndrome and polyneuritis cranialis in COVID-19. Neurology 2020; 95: e601–05.
+45 Camdessanche JP, Morel J, Pozzetto B, Paul S, Tholance Y , 
+Botelho-Nevers E. COVID-19 may induce Guillain-Barré syndrome. Rev Neurol 2020; 176: 516–18.
+46 
+ Alberti P, Beretta S, Piatti M, et al. Guillain-Barré syndrome related 
+to COVID-19 infection. Neurol Neuroimmunol Neuroinflamm 2020; 7: e741.
+47 
+ Salmon DA, Proschan M, Forshee R, et al. Association between 
+Guillain-Barré syndrome and influenza A (H1N1) 2009 monovalent inactivated vaccines in the USA: a meta-analysis. Lancet 2013; 381: 1461–68.
+48 
+ Kwong JC, Vasa PP, Campitelli MA, et al. Risk of Guillain-Barré 
+syndrome after seasonal influenza vaccination and influenza health-care encounters: a self-controlled study. Lancet Infect Dis 2013; 13: 769–76.
+49 
+ Hemachudha T, Phanuphak P, Johnson RT, Griffin DE, 
+Ratanavongsiri J, Siriprasomsup W. Neurologic complications of Semple-type rabies vaccine: clinical and immunologic studies. Neurology 1987; 37: 550–56.
+50 
+ Chen Y , Zhang J, Chu X, Xu Y , Ma F. Vaccines and the risk of 
+Guillain-Barré syndrome. Eur J Epidemiol 2020; 35: 363–70.51  Kuitwaard K, Bos-Eyssen ME, Blomkwist-Markens PH, 
+van Doorn PA. Recurrences, vaccinations and long-term symptoms in GBS and CIDP. J Peripher Nerv Syst 2009; 14: 310–15.
+52 
+ Chen X, Haggiagi A, Tzatha E, DeAngelis LM, S antomasso B. 
+Electrophysiological findings in immune checkpoint inhibitor-related peripheral neuropathy. Clin Neurophysiol 2019; 130: 1440–45.
+53 
+ Brahmer JR, Lacchetti C, Thompson JA. Management of immune-
+related adverse events in patients treated with immune checkpoint inhibitor therapy: American Society of Clinical Oncology Clinical Practice Guideline Summary. J Oncol Pract 2018; 14: 247–49.
+54 
+ Yuen C, Kamson D, Soliven B, Kramer C, Goldenberg F, 
+Rezania K. Severe relapse of vaccine-induced Guillain-Barré syndrome after treatment with nivolumab. J Clin Neuromuscul Dis  
+2019; 20: 194–99.
+55 
+ Wilson RAM, Evans TRJ, Fraser AR, Nibbs RJB. Immune 
+checkpoint inhibitors: new strategies to checkmate cancer. Clin Exp Immunol 2018; 191: 133–48.
+56 
+ Feasby TE, Gilbert JJ, Brown WF, et al. An acute axonal form of 
+Guillain-Barré polyneuropathy. Brain 1986; 109: 1115–26.
+57  Asbury AK, Arnason BG, Adams RD. The inflammatory lesion in 
+idiopathic polyneuritis. Its role in pathogenesis. Medicine 1969; 48: 173–215.
+58 
+ Wanschitz J, Maier H, Lassmann H, Budka H, Berger T. Distinct 
+time pattern of complement activation and cytotoxic T cell response in Guillain-Barré syndrome. Brain 2003; 126: 2034–42.
+59 
+ Hafer-Macko CE, Sheikh KA, Li CY , et al. Immune attack on the 
+Schwann cell surface in acute inflammatory demyelinating polyneuropathy. Ann Neurol 1996; 39: 625–35.
+60 
+ Brostoff SW, Levit S, Powers JM. Induction of experimental allergic 
+neuritis with a peptide from myelin P2 basic protein. Nature 1977; 268: 752–53.
+61 
+ Waksman BH, Adams RD. Allergic neuritis: an experimental 
+disease of rabbits induced by the injection of peripheral nervous tissue and adjuvants. J Exp Med 1955; 102: 213–36.
+62 
+ Saida T, Saida K, Dorfman SH, et al. Experimental allergic neuritis 
+induced by sensitization with galactocerebroside. Science 1979; 204: 1103–06.
+63 
+ Gabriel CM, Hughes RA, Moore SE, Smith KJ, Walsh FS. Induction 
+of experimental autoimmune neuritis with peripheral myelin protein-22. Brain 1998; 121: 1895–902.
+64 
+ Asbury AK, McKhann GM. Changing views of Guillain-Barré 
+syndrome. Ann Neurol 1997; 41: 287–88.
+65  Hafer-Macko C, Hsieh ST, Li CY , et al. Acute motor axonal 
+neuropathy: an antibody-mediated attack on axolemma. Ann Neurol 1996; 40: 635–44.
+66 
+ Kuwabara S, Yuki N. Axonal Guillain-Barré syndrome: concepts and 
+controversies. Lancet Neurol 2013; 12: 1180–88.
+67  Yuki N, Yamada M, Koga M, et al. Animal model of axonal 
+Guillain-Barré syndrome induced by sensitization with GM1 ganglioside. Ann Neurol 2001; 49: 712–20.
+68 
+ Lehmann HC, Lopez PH, Zhang G, et al. Passive immunization 
+with anti-ganglioside antibodies directly inhibits axon regeneration in an animal model. J Neurosci 2007; 27: 27–34.
+69 
+ McGonigal R, Cunningham ME, Yao D, et al. C1q-targeted 
+inhibition of the classical complement pathway prevents injury in a novel mouse model of acute motor axonal neuropathy. Acta Neuropathol Commun 2016; 4: 23.
+70 
+ Lopez PH, Zhang G, Zhang J, et al. Passive transfer of IgG anti-GM1 
+antibodies impairs peripheral nerve repair. J Neurosci 2010; 30: 9533–41.
+71 
+ Zhang G, Lopez PH, Li CY , et al. Anti-ganglioside antibody-
+mediated neuronal cytotoxicity and its protection by intravenous immunoglobulin: implications for immune neuropathies. Brain 2004; 127: 1085–100.
+72 
+ Goodfellow JA, Bowes T, Sheikh K, et al. Overexpression of GD1a 
+ganglioside sensitizes motor nerve terminals to anti-GD1a antibody-mediated injury in a model of acute motor axonal neuropathy. J Neurosci 2005; 25: 1620–28.
+73 
+ McGonigal R, Rowan EG, Greenshields KN, et al. Anti-GD1a 
+antibodies activate complement and calpain to injure distal motor nodes of Ranvier in mice. Brain 2010; 133: 1944–60.
+74 
+ Susuki K, Rasband MN, Tohyama K, et al. Anti-GM1 antibodies 
+cause complement-mediated disruption of sodium channel clusters in peripheral motor nerve fibers. J Neurosci 2007; 27: 3956–67.
+
+Seminarwww.thelancet.com   Vol 397   March 27, 2021  122775  Lopez PH, Zhang G, Bianchet MA, Schnaar RL, Sheikh KA. 
+Structural requirements of anti-GD1a antibodies determine their 
+target specificity. Brain 2008; 131: 1926–39.
+76  Chiba A, Kusunoki S, Obata H, Machinami R, Kanazawa I. 
+Serum anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller Fisher syndrome and Guillain-Barré syndrome: clinical and immunohistochemical studies. Neurology 1993; 43: 1911–17.
+77 
+ Kaida K, Morita D, Kanzaki M, et al. Ganglioside complexes as new 
+target antigens in Guillain-Barré syndrome. Ann Neurol 2004; 56: 567–71.
+78 
+ Shahrizaila N, Kokubun N, Sawai S, et al. Antibodies to single 
+glycolipids and glycolipid complexes in Guillain-Barré syndrome subtypes. Neurology 2014; 83: 118–24.
+79 
+ Kaida K, Morita D, Kanzaki M, et al. Anti-ganglioside complex 
+antibodies associated with severe disability in GBS. J Neuroimmunol 2007; 182: 212–18.
+80 
+ Lonigro A, Devaux JJ. Disruption of neurofascin and gliomedin at 
+nodes of Ranvier precedes demyelination in experimental allergic neuritis. Brain 2009; 132: 260–73.
+81 
+ Ng JK, Malotka J, Kawakami N, et al. Neurofascin as a target for 
+autoantibodies in peripheral neuropathies. Neurology 2012; 79: 2241–48.
+82 
+ Yan W, Nguyen T, Yuki N, et al. Antibodies to neurofascin 
+exacerbate adoptive transfer experimental autoimmune neuritis. J Neuroimmunol 2014; 277: 13–17.
+83 
+ Samukawa M, Hamada Y , Kuwahara M, et al. Clinical features in 
+Guillain-Barré syndrome with anti-Gal-C antibody. J Neurol Sci 2014; 337: 55–60.
+84 
+ Sawai S, Satoh M, Mori M, et al. Moesin is a possible target 
+molecule for cytomegalovirus-related Guillain-Barré syndrome. Neurology 2014; 83: 113–17.
+85 
+ Kuwahara M, Suzuki S, Takada K, Kusunoki S. Antibodies to LM1 
+and LM1-containing ganglioside complexes in Guillain-Barré syndrome and chronic inflammatory demyelinating polyneuropathy. J Neuroimmunol 2011; 239: 87–90.
+86 
+ Susuki K, Yuki N, Hirata K, Kuwabara S. Fine specificities of 
+anti-LM1 IgG antibodies in Guillain-Barré syndrome. J Neurol Sci 2002; 195: 145–48.
+87 
+ Yako K, Kusunoki S, Kanazawa I. Serum antibody against a 
+peripheral nerve myelin ganglioside, LM1, in Guillain-Barré syndrome. J Neurol Sci 1999; 168: 85–89.
+88 
+ Rose NR, Mackay IR. Molecular mimicry: a critical look at 
+exemplary instances in human diseases. Cell Mol Life Sci 2000; 57: 542–51.
+89 
+ Shahrizaila N, Yuki N. Guillain-barré syndrome animal model: 
+the first proof of molecular mimicry in human autoimmune disorder. J Biomed Biotechnol 2011; 2011: 829129.
+90 
+ Rees JH, Soudain SE, Gregson NA, Hughes RA. Campylobacter 
+jejuni infection and Guillain-Barré syndrome. N Engl J Med 1995; 333: 1374–79.
+91 
+ Ho TW, Willison HJ, Nachamkin I, et al. Anti-GD1a antibody is 
+associated with axonal but not demyelinating forms of Guillain-Barré syndrome. Ann Neurol 1999; 45: 168–73.
+92 
+ Yuki N, Yoshino H, Sato S, Miyatake T. Acute axonal 
+polyneuropathy associated with anti-GM1 antibodies following Campylobacter enteritis. Neurology 1990; 40: 1900–02.
+93 
+ Koga M, Takahashi M, Masuda M, Hirata K, Yuki N. Campylobacter 
+gene polymorphism as a determinant of clinical features of Guillain-Barré syndrome. Neurology 2005; 65: 1376–81.
+94 
+ Yuki N, Taki T, Inagaki F, et al. A bacterium lipopolysaccharide that 
+elicits Guillain-Barré syndrome has a GM1 ganglioside-like structure. J Exp Med 1993; 178: 1771–75.
+95 
+ Kusunoki S, Shiina M, Kanazawa I. Anti-Gal-C antibodies in GBS 
+subsequent to mycoplasma infection: evidence of molecular mimicry. Neurology 2001; 57: 736–38.
+96 
+ Asbury A. Criteria for diagnosis of Guillain-Barré syndrome. 
+Ann Neurol 1978; 3: 565–66.
+97  Asbury AK, Cornblath DR. Assessment of current diagnostic 
+criteria for Guillain-Barré syndrome. Ann Neurol 1990; 27 (suppl): S21–24.
+98 
+ Sejvar JJ, Kohl KS, Gidudu J, et al. Guillain-Barré syndrome and 
+Fisher syndrome: case definitions and guidelines for collection, analysis, and presentation of immunization safety data. Vaccine 2011; 29: 599–612.99 
+ Islam Z, Papri N, Ara G, et al. Risk factors for respiratory failure in 
+Guillain-Barré syndrome in Bangladesh: a prospective study. Ann Clin Transl Neurol 2019; 6: 324–32.
+100 
+ Walgaard C, Jacobs BC, Lingsma HF, et al. Second IVIg course in 
+Guillain-Barré syndrome patients with poor prognosis (SID-GBS trial): protocol for a double-blind randomized, placebo-controlled clinical trial. J Peripher Nerv Syst 2018; 23: 210–15.
+101 
+ Walgaard C, Lingsma HF, Ruts L, et al. Prediction of respiratory 
+insufficiency in Guillain-Barré syndrome. Ann Neurol 2010; 67: 781–87.
+102  Tan CY , Razali SNO, Goh KJ, Shahrizaila N. The utility of Guillain-
+Barré syndrome prognostic models in Malaysian patients. J Peripher Nerv Syst 2019; 24: 168–73.
+103 
+ Yamagishi Y , Suzuki H, Sonoo M, et al. Markers for Guillain-Barré 
+syndrome with poor prognosis: a multi-center study. J Peripher Nerv Syst 2017; 22: 433–39.
+104 
+ Fokkink WR, Walgaard C, Kuitwaard K, Tio-Gillen AP, 
+van Doorn PA, Jacobs BC. Association of albumin levels with outcome in intravenous immunoglobulin-treated Guillain-Barré syndrome. JAMA Neurol 2017; 74: 189–96.
+105 
+ Altmann P, De Simoni D, Kaider A, et al. Increased serum 
+neurofilament light chain concentration indicates poor outcome in Guillain-Barré syndrome. J Neuroinflammation 2020; 17: 86.
+106 
+ Kuitwaard K, de Gelder J, Tio-Gillen AP, et al. Pharmacokinetics of 
+intravenous immunoglobulin and outcome in Guillain-Barré syndrome. Ann Neurol 2009; 66: 597–603.
+107 
+ Ropper AH. Unusual clinical variants and signs in Guillain-Barré 
+syndrome. Arch Neurol 1986; 43: 1150–52.
+108  Wakerley BR, Uncini A, Yuki N, Group GBSC, Group GBSC. 
+Guillain-Barré and Miller Fisher syndromes–new diagnostic classification. Nat Rev Neurol 2014; 10: 537–44.
+109 
+ Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and 
+management of Guillain-Barré syndrome in ten steps. Nat Rev Neurol 2019; 15: 671–83.
+110 
+ Al-Din AN, Anderson M, Bickerstaff ER, Harvey I. Brainstem 
+encephalitis and the syndrome of Miller Fisher: a clinical study. Brain 1982; 105: 481–95.
+111 
+ Bickerstaff ER. Brain-stem encephalitis; further observations on a 
+grave syndrome with benign prognosis. BMJ 1957; 1: 1384–87.
+112  Saito K, Shimizu F, Koga M, et al. Blood–brain barrier destruction 
+determines Fisher/Bickerstaff clinical phenotypes: an in vitro study. J Neurol Neurosurg Psychiatry 2013; 84: 756–65.
+113 
+ Gordon PH, Wilbourn AJ. Early electrodiagnostic findings in 
+Guillain-Barré syndrome. Arch Neurol 2001; 58: 913–17.
+114  Vucic S, Cairns KD, Black KR, Chong PS, Cros D. Neurophysiologic 
+findings in early acute inflammatory demyelinating polyradiculoneuropathy. Clin Neurophysiol 2004; 115: 2329–35.
+115 
+ Hadden RD, Cornblath DR, Hughes RA, et al. Electrophysiological 
+classification of Guillain-Barré syndrome: clinical associations and outcome. Ann Neurol 1998; 44: 780–88.
+116 
+ Rajabally YA, Durand MC, Mitchell J, Orlikowski D, Nicolas G. 
+Electrophysiological diagnosis of Guillain-Barré syndrome subtype: could a single study suffice? J Neurol Neurosurg Psychiatry 2015; 86: 115–19.
+117 
+ Uncini A, Ippoliti L, Shahrizaila N, Sekiguchi Y , K uwabara S. 
+Optimizing the electrodiagnostic accuracy in Guillain-Barré syndrome subtypes: criteria sets and sparse linear discriminant analysis. Clin Neurophysiol 2017; 128: 1176–83.
+118 
+ Kokubun N, Nishibayashi M, Uncini A, Odaka M, Hirata K, Yuki N. 
+Conduction block in acute motor axonal neuropathy. Brain 2010; 133: 2897–908.
+119 
+ Kuwabara S, Yuki N, Koga M, et al. IgG anti-GM1 antibody is 
+associated with reversible conduction failure and axonal degeneration in Guillain-Barré syndrome. Ann Neurol 1998; 44: 202–08.
+120 
+ Tan CY , Sekiguchi Y , Goh KJ, Kuwabara S, Shahrizaila N. A model 
+to predict the probability of acute inflammatory demyelinating polyneuropathy. Clin Neurophysiol 2020; 131: 63–69.
+121 
+ Gorson KC, Ropper AH, Muriello MA, Blair R. Prospective 
+evaluation of MRI lumbosacral nerve root enhancement in acute Guillain-Barré syndrome. Neurology 1996; 47: 813–17.
+122 
+ Berciano J, Sedano MJ, Pelayo-N egro AL, et al. Proximal nerve 
+lesions in early Guillain-Barré syndrome: implications for pathogenesis and disease classification. J Neurol 2017; 264: 221–36.
+
+Seminar1228  www.thelancet.com   Vol 397   March 27, 2021123  Gallardo E, Sedano MJ, Orizaola P, et al. Spinal nerve involvement 
+in early Guillain-Barré syndrome: a clinico-electrophysiological, 
+ultrasonographic and pathological study. Clin Neurophysiol 2015; 126: 810–19.
+124 
+ Grimm A, Oertl H, Auffenberg E, et al. Differentiation between 
+Guillain-Barré syndrome and acute-onset chronic inflammatory demyelinating polyradiculoneuritis-a prospective follow-up study using ultrasound and neurophysiological measurements. Neurotherapeutics 2019; 16: 838–47.
+125 
+ Razali SNO, Arumugam T, Yuki N, Rozalli FI, Goh KJ, 
+Shahrizaila N. Serial peripheral nerve ultrasound in Guillain-Barré syndrome. Clin Neurophysiol 2016; 127: 1652–56.
+126 
+ Roodbol J, de Wit MC, Walgaard C, de Hoog M, 
+Catsman-Berrevoets CE, Jacobs BC. Recognizing Guillain-Barre syndrome in preschool children. Neurology 2011; 76: 807–10.
+127 Ryan MM. Pediatric Guillain-Barré syndrome. Curr Opin Pediatr 
+2013; 25: 689–93.
+128  Korinthenberg R, Trollmann R, Felderhoff-Müser U, et al. 
+Diagnosis and treatment of Guillain-Barré syndrome in childhood and adolescence: an evidence- and consensus-based guideline. Eur J Paediatr Neurol 2020; 25: 5–16.
+129 
+ Roodbol J, de Wit MC, Aarsen FK, Catsman-Berrevoets CE, 
+Jacobs BC. Long-term outcome of Guillain-Barré syndrome in children. J Peripher Nerv Syst 2014; 19: 121–26.
+130 
+ Ruts L, Drenthen J, Jacobs BC, van Doorn PA. Distinguishing 
+acute-onset CIDP from fluctuating Guillain-Barre syndrome: a prospective study. Neurology 2010; 74: 1680–86.
+131 
+ Verboon C, Doets AY , Galassi G, et al. Current treatment practice of 
+Guillain-Barré syndrome. Neurology 2019; 93: e59–76.
+132  Hughes RA, Swan AV, van Doorn PA. Intravenous immunoglobulin 
+for Guillain-Barré syndrome. Cochrane Database Syst Rev 2014; 2014: CD002063.
+133 Hughes RA, van Doorn PA. Corticosteroids for Guillain-Barré syndrome. Cochrane Database Syst Rev 2012; 2012: CD001446.
+134 
+ Misawa S, Kuwabara S, Sato Y , et al. Safety and efficacy of 
+eculizumab in Guillain-Barré syndrome: a multicentre, double-blind, randomised phase 2 trial. Lancet Neurol 2018; 17: 519–29.
+135 
+ Raphaël JC, Chevret S, Hughes RA, Annane D. Plasma exchange 
+for Guillain-Barré syndrome. Cochrane Database Syst Rev 2012; 2012: CD001798.
+136 
+ van Koningsveld R, Schmitz PI, Meché FG, Visser LH, Meulstee J, 
+van Doorn PA. Effect of methylprednisolone when added to standard treatment with intravenous immunoglobulin for Guillain-Barré syndrome: randomised trial. Lancet 2004; 363: 192–96.
+137 
+ Korinthenberg R, Schessl J, Kirschner J, Mönting JS. Intravenously 
+administered immunoglobulin in the treatment of childhood Guillain-Barré syndrome: a randomized trial. Pediatrics 2005; 116: 8–14.138 
+ Appropriate number of plasma exchanges in Guillain-Barré 
+syndrome. The French Cooperative Group on plasma exchange in Guillain-Barré syndrome. Ann Neurol 1997; 41: 298–306.
+139 
+ van den Berg B, Bunschoten C, van Doorn PA, Jacobs BC. 
+Mortality in Guillain-Barre syndrome. Neurology 2013; 80: 1650–54.
+140  Verboon C, van den Berg B, Cornblath DR, et al. Original research: 
+second IVIg course in Guillain-Barré syndrome with poor prognosis: the non-randomised ISID study. J Neurol Neurosurg Psychiatry 2020; 91: 113–21.
+141 
+ Zhang G, Lin J, Ghauri S, Sheikh KA. Modulation of IgG-F cRn 
+interactions to overcome antibody-mediated inhibition of nerve regeneration. Acta Neuropathol 2017; 134: 321–24.
+142 Zhang G, Massaad CA, Gao T , et al. Sialylated intravenous 
+immunoglobulin suppress anti-ganglioside antibody mediated nerve injury. Exp Neurol 2016; 282: 49–55.
+143 
+ Takahashi R, Yuki N. Streptococcal IdeS: therapeutic potential for 
+Guillain-Barré syndrome. Sci Rep 2015; 5: 10809.
+144  Wang Y , Shi Q, Lv H, et al. IgG-degrading enzyme of Streptococcus 
+pyogenes (IdeS) prevents disease progression and facilitates improvement in a rabbit model of Guillain-Barré syndrome. Exp Neurol 2017; 291: 134–40.
+145 
+ Halstead SK, Zitman FM, Humphreys PD, et al. Eculizumab 
+prevents anti-ganglioside antibody-mediated neuropathy in a murine model. Brain 2008; 131: 1197–208.
+146 
+ Uncini A, Kuwabara S. The electrodiagnosis of Guillain-Barré 
+syndrome subtypes: where do we stand? Clin Neurophysiol 2018; 129: 2586–93.
+147 
+ Buenz EJ, Parry GJ, Ranta A. Plasma exchange as a cost-effective 
+option for treating Guillain-Barré syndrome. Ther Adv Neurol Disord 2017; 10: 76–77.
+148 
+ Islam B, Islam Z, Rahman S, et al. Small volume plasma exchange 
+for Guillain-Barré syndrome in resource-limited settings: a phase II safety and feasibility study. BMJ Open 2018; 8: e022862.
+149 
+ Tharakan J, Jayaprakash PA, Iyer VP. Small volume plasma 
+exchange in Guillain-Barre syndrome: experience in 25 patients. J Assoc Physicians India 1990; 38: 550–53.
+150 Ishaque T, Islam MB, Ara G, et al. High mortality from Guillain-Barré syndrome in Bangladesh. J Peripher Nerv Syst 2017; 22: 121–26.
+151 
+ Mausberg AK, Meyer Zu Hörste G, Dehmel T, et al. Erythropoietin 
+ameliorates rat experimental autoimmune neuritis by inducing transforming growth factor-β in macrophages. PLoS One 2011; 6: e26280.
+152 
+ Zhang G, Lehmann HC, Bogdanova N, Gao T, Zhang J, Sheikh KA. 
+Erythropoietin enhances nerve repair in anti-ganglioside antibody-mediated models of immune neuropathy. PLoS One 2011; 6: e27067.
+© 2021 Elsevier Ltd. All rights reserved.
