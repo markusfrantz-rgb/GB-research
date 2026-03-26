@@ -1,0 +1,143 @@
+Editorial
+Navigating the switch from IVIG to FcRn inhibition in CIDP: Clinical insights
+Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) is a 
+syndrome that comprises a heterogeneous group of rare, acquired, 
+autoimmune, demyelinating polyneuropathies [1]. The pathophysi -
+ology of CIDP, while not very well elucidated, involves both humoral 
+(antibodies, complement) and cellular (autoreactive T cells) immune 
+factors, with macrophage-induced demyelination [2]. CIDP is a treat-
+able condition, and patients can have full resolution of symptoms, 
+especially when treated early and adequately. Unfortunately, the diag-
+nosis can sometimes be difficult, especially in CIDP variants. We often 
+see patients with delayed diagnosis or inadequate therapy resulting in 
+irreversible axonal loss and residual disability.
+For decades, steroids and IVIG have been the main treatments for 
+CIDP. Plasma exchange is also sometimes offered. For “refractory ” CIDP, 
+rituximab and cyclophosphamide can be used with variable degrees of 
+success [3]. Steroid and IVIg are broad immunomodulatory agents with 
+significant effects on multiple aspects of the immune system. To name 
+just some of the documented effects of IVIg: blocking FcγR expression on 
+monocytes or macrophages, regulating autoreactive B and T cells, 
+modulating production of cytokines and cytokine antagonists, biding to 
+complement and preventing membrane attack complex [4]. Most pa-
+tients with CIDP will experience functional benefit with first line treat-
+ment. In fact, lack of response should trigger reconsideration of a CIDP 
+diagnosis. However, there are significant downsides to these use of 
+steroids and IVIG. Long term side effects of steroids are many. IVIG, 
+while generally better tolerated also has potential adverse effects 
+ranging from mildly bothersome to dangerous. Headache and nausea are 
+common but can be mitigated by pretreatment (acetaminophen, ste-
+roids, and/or diphenhydramine), a small percentage of people can 
+develop deep venous thrombosis (also mitigated by reducing the infu-
+sion rate), and some patients may have difficult venous access (miti-
+gated by subcutaneous administration of IG or insertion of a port) [5]. 
+Perhaps, the greatest downside of IVIG, is the infusion time (several 
+hours per session every 3–4 weeks).
+Fortunately, we now have a new approved treatment option for 
+CIDP: subcutaneous Efgartigimod, a neonatal Fc receptor (FcRn) 
+antagonist. FcRN antagonists bind to Fc region of the IgG molecule on 
+the neonatal FcRn, preventing IgG recycling and increase its degrada -
+tion. After the success of FcRn antagonists in the treatment of myas -
+thenia gravis (MG), there has been significant interest in use of these 
+therapies in CIDP [6,7]. However, in contrast with MG, where most 
+patients have IgG antibodies against acetylcholine receptors, different 
+immunopathological mechanisms contribute to CIDP pathogenesis. The 
+use of FcRN inhibition of IgG in CIDP is a bet on a narrow immuno -
+modulatory approach to a disease with a complex underlying immune 
+pathophysiology. A winning bet in the use of FcRN in CIDP was placed in the ADHERE trial of subcutaneous efgartigimod. It is notable however, 
+that the trial had 2 stages, with the first stage being an open label stage 
+in which all participants who received efgartigimod. Importantly, only 
+participants who improved on efgartigimod were transitioned to the 2nd 
+stage, which was a randomized-withdrawal, double-blind, placebo- 
+controlled trial stage that showed a higher relapse rate for participants 
+receiving placebo versus those receiving subcutaneous efgartigimod 
+(hazard ratio 0⋅39 [95 % CI 0⋅25–0⋅61]; p D0⋅0001.
+While the trial was successful, there is some clear indication from the 
+open label portion that not all patients with CIDP respond to FcRn 
+therapy. Consequently, the case series reported by authors Levine and 
+Muley: “Early deterioration of CIDP following transition from IVIG to 
+FcRn inhibitor treatment ”, should not come as a total surprise [8]. 
+Levine and Muley report their experience with 9 CIDP patients who were 
+stable on IVIG and transitioned to subcutaneous Efgartigimod. Five of 
+the 9 patients neither improved nor declined with the transition to 
+subcutaneous Efgartigimod, suggesting that in those 5 patients, the main 
+driver of the disease may have well been IgG autoantibodies. However, 
+the other 4 patients experienced rapid and significant deterioration 
+following transition from IVIG to subcutaneous Efgartigimod. Two pa-
+tients sustained leg fractures following falls. Most of the patients 
+required hospitalization and rescue treatment with plasma exchange, 
+IVIG and prednisone. None of the patients have returned to their prior 
+baseline, yet. Three patients transitioned from IVIG to subcutaneous 
+Efgartigimod because they had residual weakness and hoped for addi-
+tional improvement and 1 patient had fatigue as side effect from IVIG. 
+The time to switching ranged from 12 days to 6 weeks after last IVIG 
+dose. Worsening of symptoms occurred between 2 and 9 days after first 
+efgartigimod administration. Patients were on IVIG for an average of 
+5.5 years and they had mild disability while on IVIG (INCAT 1–2) [8].
+Levine and Muley ’s report suggests that some patients with CIDP 
+who are stable on IVIG may transition successfully to subcutaneous 
+Efgartigimod, while others may not. This aligns with our experience as 
+well. Argenx, the maker of subcutaneous Efgartigimod, is currently 
+planning a “Study to Assess Adults with CIDP Transitioning from IVIg to 
+subcutaneous Efgartigimod ” which plans on enrolling 25 patients and 
+“will measure how adults with CIDP receiving IVIg treatment adjust to 
+efgartigimod ”. (ClinicalTrials.gov ID NCT06637072 ) [9] In the mean -
+time, post hoc analysis of the original ADHERE study, on those patients 
+who transitioned from IVIG to subcutaneous Efgartigimod will hopefully 
+be done and shared.
+Finally, we note that 3 of 4 patients in the report by Levine and 
+Muley, switched from IVIG to subcutaneous Efgartigimod in the hope of 
+further improvement. No head-to-head studies compared IVIG and 
+efgartigimod in CIDP patients and it is not clear from the ADHERE study 
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2uz�
+https://doi.org/10.1016/j.jns.2024.123354
+Received 2 December 2024; Accepted 10 December 2024  Journal  of the Neurological  Sciences  468 (2025)  123354  
+Available  online  16 December  2024  
+0022-510X/©  2024  Elsevier  B.V. All rights  are reserved,  including  those  for text and data mining,  AI training,  and similar  technologies.  
+
+that patients who switched from IVIG to subcutaneous Efgartigimod 
+improved further. Currently, the main clear benefit of subcutaneous 
+Efgartigimod over IVIG (or subcutaneous IG) is the rapid administration 
+of therapy (around 90 s) and a favorable side effect profile (e.g., fewer 
+headaches). Prior to switching therapy in patients with CIDP who are 
+stable on IVIG to subcutaneous Efgartigimod or other therapies (e.g., 
+steroids or subcutaneous IG), weighing the pros and cons with patients is 
+essential, as there is always a risk of deterioration. Generally, there 
+should be a compelling reason to switch therapies when patients are 
+doing well on IVIG, particularly if the alternative therapy is not clearly 
+superior.
+CRediT authorship contribution statement
+Chafic Karam: Writing – original draft.
+Declaration of competing interest
+Dr. Karam has served on the CIDP Diagnostic Adjudication Com-
+mittee in the ADHERE Trial, has served as consultant for Argenx, and 
+received research funding from Argenx.References
+[1]C. Karam, Chronic inflammatory demyelinating Polyradiculoneuropathy: five new 
+things, Neurol. Clin. Pract. 12 (3) (2022) 258–262.
+[2]L.A. Querol, et al., The role of the complement system in chronic inflammatory 
+demyelinating polyneuropathy: implications for complement-targeted therapies, 
+Neurotherapeutics 19 (3) (2022) 864–873.
+[3]J. Godil, et al., Refractory CIDP: clinical characteristics, antibodies and response to 
+alternative treatment, J. Neurol. Sci. 418 (2020) 117098 .
+[4]J. Vani, et al., Role of natural antibodies in immune homeostasis: IVIg perspective, 
+Autoimmun. Rev. 7 (6) (2008) 440–444.
+[5]N.A. Goyal, et al., Subcutaneous immunoglobulin treatment for chronic inflamma -
+tory demyelinating polyneuropathy, Muscle Nerve 64 (3) (2021) 243–254.
+[6]J.F. Howard Jr., et al., Safety, efficacy, and tolerability of efgartigimod in patients 
+with generalised myasthenia gravis (ADAPT): a multicentre, randomised, placebo- 
+controlled, phase 3 trial, Lancet Neurol. 20 (7) (2021) 526–536.
+[7]J.A. Allen, et al., Safety, tolerability, and efficacy of subcutaneous efgartigimod in 
+patients with chronic inflammatory demyelinating polyradiculoneuropathy 
+(ADHERE): a multicentre, randomised-withdrawal, double-blind, placebo- 
+controlled, phase 2 trial, Lancet Neurol. 23 (10) (2024) 1013 –1024 .
+[8]T. Levine, S. Muley, Early deterioration of CIDP following transition from IVIG to 
+FcRn inhibitor treatment, J Neurol Sci (2024) 123313, https://doi.org/10.1016/j. 
+jns.2024.123313 . Epub ahead of print. PMID: 39578164.
+[9]https://clinicaltrials.gov/study/NCT06637072?cond Efgartigimod &page2&rank20. 
+[cited 2024 11/29].
+Chafic Karam 
+University of Pennsylvania, Philadelphia, PA, United States 
+E-mail address: chafick@upenn.edu . Editorial                                                                                                                                                                                                                                           Journal  of the Neurological  Sciences  468 (2025)  123354  
+2 

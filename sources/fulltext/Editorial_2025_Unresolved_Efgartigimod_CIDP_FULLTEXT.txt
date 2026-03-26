@@ -1,0 +1,273 @@
+Unresolved issues with efgartigimod in CIDP, and broader concerns for future trial design
+The U.S. Food and Drug Administration ’s (FDA) approval of efgar -
+tigimod, an FcRn antagonist, for the treatment of chronic inflammatory 
+demyelinating polyneuropathy (CIDP) was based on the positive results 
+of the ADHERE trial, which demonstrated that efgartigimod signifi -
+cantly outperformed placebo in a double-blind withdrawal study [1]. 
+However, a recent case series by Levine and Muley reports a concerning 
+adverse outcome not highlighted in the trial [2]. This new finding un-
+derscores the need for heightened safety vigilance and raises important 
+questions about both the trial design and the broader implications for 
+clinical research in CIDP.
+In the case series, four out of nine patients, all treated post-approval, 
+experienced severe disease worsening after transitioning from intrave -
+nous immunoglobulin (IVIg) to efgartigimod. INCAT scores increased by 
+2 to 5 points within two weeks of initiating treatment. Two patients 
+required hospitalization, and none had returned to baseline despite 
+receiving rescue therapy at the time of reporting. The final dose of IVIg 
+occurred 12 to 42 days before the initiation of efgartigimod therapy.
+The timeline aligns with a high dropout rate among patients who 
+stopped immunoglobulin therapy in the ADHERE trial. The protocol 
+required a run-in phase, during which patients stopped prior treatment 
+and were monitored for disease worsening over 12 weeks. Over 90 % of 
+cases worsened, allowing progression to stage A, where subjects started 
+open-label efgartigimod. Only patients who improved after four doses 
+advanced to a randomized double-blind withdrawal (stage B), where 
+they continued efgartigimod or switched to placebo.
+By the end of stage A, 53 of 165 subjects who had been on immu -
+noglobulin therapy (32 %) dropped out, some within weeks of starting 
+treatment. In contrast, patients on prior corticosteroids or no prior 
+therapy had lower dropout rates (13 % and 9 %, respectively).
+It is plausible that some ADHERE participants experienced severe 
+deterioration, similar to patients in the Levine and Muley case series, but 
+the trial data does not provide clarity. It remains difficult to determine 
+whether these 4 patients represent an isolated event or indicate broader 
+underreporting. Investigators did not design the ADHERE to capture 
+outcomes for patients after they dropped out, leaving unanswered 
+questions about responses to rescue interventions, the severity of 
+worsening compared to typical IVIg relapses, or the occurrence of 
+serious outcomes requiring hospitalization. While the adverse event 
+results note that 17 patients (5 % of the total study) experienced “CIDP 
+worsening ” during stage A, we do not know what prior treatments these 
+patients were taking. If all 17 had been on immunoglobulin, it would 
+suggest approximately 10 % of the subgroup worsened (17/165). 
+However, this calculation does not fully explain the high dropout rate.
+The ADHERE report also lists reasons for patient withdrawals but 
+groups them into broad categories such as “participant withdrawal, ” “insufficient efficacy, ” and “adverse events, ” limiting interpretability. 
+This lack of detail creates gaps in understanding the risk that newly 
+treated patients might face. While the report acknowledges the high 
+dropout rate among immunoglobulin-treated patients and the need to 
+find the “optimal approach ” to transition therapy, the authors downplay 
+concerns, adding that dropouts might have responded differently if they 
+had completed their dosing schedules.
+CIDP criteria have come full circle
+Since the Ad Hoc AAN subcommittee first published CIDP research 
+criteria in 1991, guidelines have evolved significantly [3]. Stated pur-
+poses of their work were to “engender ” discussion about CIDP, to 
+recognize the complexity of the condition, and to prioritize specificity 
+over sensitivity in the context of clinical research. They defined disease 
+attributes that were not meant to encompass all cases. However, these 
+criteria eventually proved too restrictive for clinical practice, leading to 
+the EFNS/PNS guidelines in 2005, which aimed to improve sensitivity 
+and to make it easier for practitioners to treat patients [4]. Ironically, the 
+ADHERE trial may have overlooked these foundational concepts by 
+using, as the title implies, “management guidelines ” for research 
+participant selection, potentially leading to over-diagnosis and affecting 
+the study ’s rigor.
+Estimates of misdiagnosis rates for CIDP in the community are 
+problematic, ranging from 50 % [5] to near 70 % [6] depending on 
+definitions. To reduce misdiagnosis, ADHERE researchers relied on a 
+committee of independent expert adjudicators and used the updated 
+2010 EFNS/PNS guidelines as study criteria [7]. Two adjudicators 
+reviewed each case, and inclusion required two ‘yes’ votes. If adjudi -
+cators disagreed, a committee chairperson acted as the tiebreaker.
+Poor concordance raises questions about diagnosis
+The novel study design employed by the ADHERE investigators 
+addressed limitations in past CIDP trials, which lacked enrichment 
+strategies and adjudication procedures. Some trials faltered due to a 
+combination of patients without active disease and the confounding 
+effects of prior treatments [8]. Selecting the appropriately diagnosed 
+patients is critical to focus on desired effects and minimize “noisy ” 
+outcomes from misdiagnosis or disease remission.
+Two early abstracts, after screening 100 and then 200 cases, reported 
+a discordance rate of about 50 % between the first two adjudicators [9]. 
+This high discordance rate is a red flag, suggesting potential random 
+guessing or significant differences in how adjudicators interpreted 
+ambiguous cases. Statistically, the inter-rater reliability for the case 
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2uz�
+https://doi.org/10.1016/j.jns.2024.123355
+Received 6 December 2024; Accepted 10 December 2024  Journal  of the Neurological  Sciences  468 (2025)  123355  
+Available  online  17 December  2024  
+0022-510X/©  2024  Elsevier  B.V. All rights  are reserved,  including  those  for text and data mining,  AI training,  and similar  technologies.  
+
+review process points to a relatively low kappa value, indicating that the 
+approach may not have effectively limited some number of mis-
+diagnosed cases. The low agreement rate points to a lack of consensus 
+among adjudicators, undermining the goal of accurately identifying 
+CIDP patients for valid inclusion in the study.
+The adjudication challenges go beyond the decision to use guidelines 
+meant for clinical practice. ADHERE tasked adjudicators with evaluating 
+documentation from multiple countries, some based on clinic notes not 
+created directly for trial enrollment. Like judges reviewing circum -
+stantial evidence, adjudicators had to interpret case material, including 
+some borderline findings—such as two isolated conduction blocks with 
+no other abnormalities—that might meet EFNS/PNS guidelines but not 
+the 1991 research criteria. In such an instance, it is hard to know how 
+any given adjudicator would decide a confusing case. Research on 
+decision-making suggests evaluators bring personal biases to similar 
+processes, influenced by factors such as strictness with rules, responses 
+to grammatical context, or even mood at the time of review [10]. Given 
+the ambiguity in both the guidelines and the data, it is unsurprising that 
+agreement among adjudicators was somewhat random. Notably, two 
+adjudicators could enroll a subject simply by guessing the same way on a 
+hard case.
+Concern over placebo responses and incentives to respond to 
+treatment
+In a systematic review of earlier CIDP trials, Lewis and colleagues 
+concluded that “placebo is an important variable in the design of CIDP 
+trials” [11]. However, the paper never explicitly stated that misdiag -
+nosis is a major contributor to placebo responses. ADHERE, as a with-
+drawal study, was prone to such effects. Beyond adjudication, other 
+observations raise concern about potential misdiagnosis. For example, a 
+high percentage of patients in the placebo group in stage B never 
+relapsed, despite rapid relapses during the lead-in phase. While the 
+ADHERE report mentions potential carryover effects of efgartigimod, 
+similar phenomena are known in other CIDP trials [8,11]. Additionally, 
+subjects who had previously received immunoglobulin responded weeks 
+faster to efgartigimod in stage A than those on prednisone or no prior 
+therapy, suggesting that learned expectations, rather than immune ef-
+fects alone, may have influenced the observed responses. Prior immu -
+noglobulin patients who relapsed in stage B also did so more rapidly 
+than those in other cohorts.
+In clinical practice, patients misdiagnosed with CIDP often report 
+positive responses to treatments [5]. CIDP specialists sometimes 
+encounter misdiagnosed patients who have remained on treatment for 
+years. These individuals, essentially proven placebo responders, pose 
+unique challenges for clinical trialists, especially when incentivized to 
+show positive treatment responses.
+Using open-label extensions (OLE) in clinical trials can attract par-
+ticipants who hope to transition to a new treatment but may also create 
+incentives to respond to therapy. For example, it is hard to simply accept 
+that 90 % of ADHERE patients relapsed during the run-in phase, 
+compared to just 40 % in other trials when prior treatments were dis-
+continued [8]. This is too large a difference to ignore a potentiral effect 
+of incentives, in addition to blinding and patient selection. In addition, 
+the OLE design may have inflated the observed response rate, as mis-
+diagnosed participants also had to show clinical improvement during 
+stage A to gain entry to the OLE. This potentially introduced a well- 
+known response bias [12]. The open-label design of stage A, without a 
+placebo control, removed a key safeguard against placebo responses. 
+Combined with the potentially liberal criteria used in the adjudication 
+process, some findings in the trial likely reflect placebo responses rather 
+than efgartigimod’s efficacy in CIDP.
+Furthermore, by the end of stage A, the design could have inadver -
+tently enriched stage B with misdiagnosed patients motivated to show 
+improvement. This contrasts with correctly diagnosed patients, who 
+may have experienced worsening or severe relapses and dropped out. The outcome measures used in ADHERE—such as I-RODS, INCAT, and 
+grip strength—are subjective and prone to participant effort, making 
+them insufficient to address this potential confounding factor.
+It follows that throughout stage B, the risk of unblinding required an 
+additional guardrail, especially considering misdiagnosed subjects 
+prone to placebo responses. In a typical head-to-head treatment trial, 
+blinding helps mitigate this issue, but in ADHERE, one arm transitioned 
+directly from active treatment to placebo, while the other did not. If 
+participants sensed a change from the known therapy to a placebo, their 
+expectations could influence their responses—particularly with a drug 
+that causes injection site irritation. Any sense of unblinding could skew 
+relapse rates, with the placebo group experiencing higher rates and the 
+treatment group lower rates. The ADHERE report does not address 
+unblinding, nor does it mention whether they queried participants about 
+their assumptions regarding treatment assignment.
+Final thoughts and the opportunity in the existing data
+The report by Levine and Muley highlights critical safety concerns 
+about transitioning patients from immunoglobulin therapy to efgarti -
+gimod, potentially shedding light on the dropout patterns in the 
+ADHERE trial. We cannot conclude efgartigimod is ineffective or 
+dangerous for some patients, but these insights call for broader discus -
+sion on study designs and require a reevaluation of the trial’s findings.
+First, an intensive and transparent phase 4 safety monitoring pro-
+gram is crucial, with systematic reporting of severe relapses. If the 
+incidence of deterioration proves high, a warning should be issued to 
+inform patients and clinicians of the risks. Reassessing the outcomes of 
+patients who dropped out of the ADHERE trial and required rescue 
+therapy could also provide valuable clarity. Second, while the reported 
+trial results seem encouraging, further data and detailed case reporting 
+are still needed to confirm long-term safety and efficacy, particularly for 
+newly diagnosed or untreated patients, where documenting improve -
+ment is more straightforward than for patents transitioning treatments 
+who remain stable. Third, a comprehensive sensitivity analysis of the 
+ADHERE data is necessary to explore critical likelihoods that the study 
+did not fully account for, such as misdiagnosis rates, placebo effects, 
+response biases in open-label stages, unaccounted dropouts, and 
+unblinding risks. This analysis could help exclude a gross overestimation 
+of the drug’s safety and efficacy. Finally, the variability in adjudicated 
+diagnoses offers an opportunity to refine CIDP diagnostic criteria and 
+address methodological flaws that have led to noisy outcomes in several 
+CIDP trials. A post-hoc analysis examining recognizable subsets—like 
+dropouts needing rescue therapy, placebo non-relapsers, or newly 
+diagnosed responders—who had vastly different outcomes despite 
+following the same protocol, is needed to improve diagnostic precision 
+and strengthen confidence in efgartigimod’s role in CIDP. Addressing 
+these issues will only ensure that both patients and clinicians benefit 
+from a clearer, more accurate understanding of promising therapies.
+During the preparation of this work the author(s) used ChatGPT in 
+order to edit the document for length and clarity. After using this tool/ 
+service, the author(s) reviewed and edited the content as needed and 
+take(s) full responsibility for the content of the publication.
+CRediT authorship contribution statement
+Jonathan Katz: Conceptualization, Writing – original draft, Writing 
+– review & editing. Liberty Jenkins: Conceptualization, Writing – re-
+view & editing. David Saperstein: Conceptualization, Methodology, 
+Writing – review & editing.
+References
+[1]J.A. Allen, J. Lin, I. Basta, et al., Safety, tolerability, and efficacy of subcutaneous 
+efgartigimod in patients with chronic inflammatory demyelinating poly-
+radiculoneuropathy (ADHERE): a multicentre, randomised-withdrawal, double- 
+blind, placebo-controlled, phase 2 trial, Lancet Neurol. 23 (2024) 1013–1024 .J. Katz et al.                                                                                                                                                                                                                                     Journal  of the Neurological  Sciences  468 (2025)  123355  
+2 
+
+[2]T. Levine, S. Muley, Early deterioration of CIDP following transition from IVIG to 
+FcRn inhibitor treatment, J Neurol Sci. 17 (2024) 123313, https://doi.org/ 
+10.1016/j.jns.2024.123313 . Epub ahead of print. PMID: 39578164.
+[3]Research criteria for diagnosis of chronic inflammatory demyelinating poly-
+neuropathy (CIDP). Report from an ad hoc Subcommittee of the American Acad -
+emy of neurology AIDS task force, Neurology 41 (5) (1991) 617–618 (PMID: 
+2027473) .
+[4]Joint Task Force of the EFNS and the PNS, European Federation of Neurological 
+Societies/peripheral nerve society guideline on management of chronic inflam -
+matory demyelinating polyradiculoneuropathy: report of a joint TF of the Euro-
+pean Federation of Neurological Societies and the peripheral nerve society, 
+J. Peripher. Nerv. Syst. 10 (3) (2005) 220–228.
+[5]J.A. Allen, R.A. Lewis, CIDP diagnostic pitfalls and perception of treatment benefit, 
+Neurology 85 (6) (2015) 498–504.
+[6]T.D. Levine, J.S. Katz, R. Barohn, L.J. Vaughan, M.M. Dimachkie, D.S. Saperstein, 
+T. Mozaffar, G.I. Wolfe, M.S. Mayo, G.J. Badger, L. Katzin, E. Ritt, M. Greer, 
+J. DiStefano, P.M. Schmidt, Review process for IVIg treatment: lessons learned 
+from INSIGHTS neuropathy study, Neurol Clin Pract. 8 (5) (2018) 429–436.
+[7]P.Y. Van den Bergh, R.D. Hadden, P. Bouche, D.R. Cornblath, A. Hahn, I. Illa, C. 
+L. Koski, J.M. L˘eger, E. Nobile-Orazio, J. Pollard, C. Sommer, P.A. van Doorn, I. 
+N. van Schaik, European Federation of Neurological Societies; peripheral nerve 
+society. European Federation of Neurological Societies/peripheral nerve society 
+guideline on management of chronic inflammatory demyelinating poly-
+radiculoneuropathy: report of a joint task force of the European Federation of 
+Neurological Societies and the peripheral nerve society - first revision, Eur. J. 
+Neurol. 17 (3) (2010) 356–363.
+[8]R. Hughes, M.C. Dalakas, I. Merkies, N. Latov, J.M. L˘eger, E. Nobile-Orazio, 
+G. Sobue, A. Genge, D. Cornblath, M. Merschhemke, C.M. Ervin, C. Agoropoulou, 
+H.P. Hartung, F.O.R.C.I.D.P. Trial, Investigators., Oral fingolimod for chronic inflammatory demyelinating polyradiculoneuropathy (FORCIDP Trial): a double- 
+blind, multicentre, randomised controlled trial, Lancet Neurol. 17 (8) (2018) 
+689–698, https://doi.org/10.1016/S1474-4422(18)30202-3 .
+[9]P.D. Donofrio, K. Gorson, E. Hofman, C. Karam, J. Kira, A. Kostera-Pruszczyk, et 
+al., Diagnostic adjudication of chronic inflammatory demyelinating poly-
+neuropathy (CIDP) in the ADHERE trial: First 200 cases [Abstract], Presented at: 
+American Academy of Electrodiagnostic Medicine Annual Meeting, Nashville, TN, 
+2022 .
+[10] D. Kahneman, O. Sibony, C.R. Sunstein, Noise: A Flaw in Human Judgment, Little, 
+Brown Spark, New York, 2021 .
+[11] R.A. Lewis, D.R. Cornblath, H.P. Hartung, G. Sobue, J.P. Lawo, O. Mielke, B. 
+L. Durn, V. Bril, I.S.J. Merkies, P. Bassett, A. Cleasby, I.N. van Schaik, PATH study 
+group, Placebo effect in chronic inflammatory demyelinating polyneuropathy: the 
+PATH study and a systematic review, J. Peripher. Nerv. Syst. 25 (3) (2020) 
+230–237.
+[12] B.C. Kahan, T.P. Morris, Improving the design and analysis of clinical trials: 
+response bias and performance bias in randomized controlled trials, Stat. Med. 22 
+(1) (2013) 61–74.
+Jonathan Katza,*, Liberty Jenkinsa, David Sapersteinb
+aCalifornia Pacific Medical Center, Neurology, San Francisco, CA, United 
+States of America 
+bCenter for Complex Neurology, United States of America 
+*Corresponding author. 
+E-mail address: jonskatz@gmail.com (J. Katz). J. Katz et al.                                                                                                                                                                                                                                     Journal  of the Neurological  Sciences  468 (2025)  123355  
+3 

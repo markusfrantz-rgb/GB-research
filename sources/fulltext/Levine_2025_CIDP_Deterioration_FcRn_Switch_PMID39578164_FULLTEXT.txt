@@ -1,0 +1,258 @@
+Clinical short communication
+Early deterioration of CIDP following transition from IVIG to FcRn 
+inhibitor treatment
+Todd Levinea, Suraj Muleya,b,*
+aBob Bove Neuroscience Institute at Honorhealth, 7242 E Osborn Rd, Suite 400, Scottsdale, AZ, USA
+bUniversity of Arizona, School of Medicine – Phoenix, USA
+ARTICLE INFO
+Keywords:
+Chronic inflammatory demyelinating 
+polyneuropathy
+CIDP
+Intravenous immunoglobulin
+IVIg
+FCRn inhibitorsABSTRACT
+Chronic inflammatory demyelinating polyneuropathy (CIDP) is an immune mediated demyelinating neuropathy 
+that can lead to secondary axonal degeneration and irreversible weakness and disability. Early effective treat-
+ment is therefore necessary to minimize the degree of axonal degeneration. Prior to 2024 the only FDA approved 
+therapy for CIDP was intravenous immunoglobulin (IVIg). In 2024, efgartigimod (Vyvgart-Hytrulo), a FCRn 
+inhibiting therapy (FIT) was approved for treatment of CIDP based on the phase II Adhere study. In the controlled 
+setting of the phase II clinical study patients who were stable on IVIg were taken off treatment to ensure that their 
+disease was active, and patients who worsened were then treated with efgartigimod. The responders were then 
+randomized (in phase B) to either placebo or continued efgartigimod treatment. In the real world setting it is not 
+feasible to stop IVIg and let patients worsen before starting a FIT, thus the transition from IVIG to efgartigimod in 
+a real world setting was not studied in the pivotal trial. We have treated nine patients with FIT in our practice and 
+report findings of four of those patients who had severe relapse of CIDP after treatment. Five of the other patients 
+neither improved nor declined with FIT. This raises questions about the issues related to transitioning patients 
+from IVIG to efgartigimod.
+1.Introduction
+Chronic inflammatory demyelinating polyneuropathy (CIDP) is an 
+immune mediated demyelinating neuropathy that can lead to secondary 
+axonal degeneration and irreversible weakness and disability [1]. Early 
+effective treatment is therefore necessary to minimize the degree of 
+axonal degeneration. Prior to 2024 the only FDA approved therapy for 
+CIDP was intravenous immunoglobulin (IVIg) [2]. In 2024, efgartigimod 
+(Vyvgart-Hytrulo), a FCRn inhibiting therapy (FIT) was approved for 
+treatment of CIDP based on the phase II Adhere study [3]. In the 
+controlled setting of the phase II clinical study patients who were stable 
+on IVIg were taken off treatment to ensure that their disease was active, 
+and patients who worsened were then treated with efgartigimod. The 
+responders were then randomized (in phase B) to either placebo or 
+continued efgartigimod treatment. In the real world setting it is not 
+feasible to stop IVIg and let patients worsen before starting a FIT, thus 
+the transition from IVIG to efgartigimod in a real world setting was not 
+studied in the pivotal trial. We have treated nine patients with FIT in our 
+practice and report findings of four of those patients who had severe 
+relapse of CIDP after treatment. Five of the other patients neither improved nor declined with FIT. This raises questions about the issues 
+related to transitioning patients from IVIG to efgartigimod.
+2.Materials and methods
+The case series was collected as part of our clinical practices at the 
+neuroscience Institute. The information is related to care that patient has 
+received as part of their standard of care (See Table 1).
+2.1. Results/case series
+Case 1.A 68-year-old woman with a three-year history of typical CIDP 
+(satisfying EFNS/PNS clinical and electrophysiological criteria) had 
+been stable on IVIg therapy for the last one year.
+At initial presentation three years ago, her INCAT disability score 
+was 5 and she needed a walker for ambulation and had severe difficulty 
+using her arms and hands in daily activities.
+Her initial treatment was IVIG which led to partial improvement (70 
+%) with an INCAT disability score of 2. Therefore, prednisone was 
+*Corresponding author at: Bob Bove Neuroscience Institute at Honorhealth, 7242 E Osborn Rd, Suite 400, Scottsdale, AZ, USA.
+E-mail address: smuley@honorhealth.com (S. Muley). 
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2uz�
+https://doi.org/10.1016/j.jns.2024.123313
+Received 24 October 2024; Received in revised form 13 November 2024; Accepted 15 November 2024  Journal  of the Neurological  Sciences  468 (2025)  123313  
+Available  online  17 November  2024  
+0022-510X/©  2024  Elsevier  B.V. All rights  are reserved,  including  those  for text and data mining,  AI training,  and similar  technologies.  
+
+added, and she had further improvement in strength over the next six 
+months with her INCAT score improving to a 1. Her prednisone was 
+gradually weaned off over another six months, and she remained stable 
+on IVIG monotherapy at 1 g/kg/day every three weeks.
+Given her continuing mild distal leg weakness with ankle dorsi -
+flexion strength of 4 /5 and INCAT score of 1 a decision was made to 
+switch her to efgartigimod to look for further improvement.
+She received her first injection 12 days after her last dose of IVIG. 
+Two days after infusion she noticed an increase in sensory dysesthesias 
+in her feet extending to the mid-calf level. The day after her second dose 
+of efgartigimod (day 8 of initiation of therapy) she noticed increased 
+weakness proximally and distally in her legs which progressed to the 
+arms before her third weekly dose. After her third weekly dose she was 
+no longer able to ambulate normally and required assistance for her 
+ADLs. The leg weakness and imbalance led to a tibial fracture after a fall. 
+She was admitted to the hospital and at this point her MRC scores in all 
+four limbs were 2–3/5 and INCAT score was 7. She received 10 cycles of 
+plasmapheresis and began to have some improvement but still required 
+being discharged to a rehab facility where she was started back on IVIG. 
+Eight weeks after the treatment with efgartigimod had been initiated she 
+remained with an INCAT score of 5 due to the need to use a walker and 
+difficulty performing routine activities with her hands. 
+Case 2.A 74-year-old man with distal variant of CIDP (satisfying 
+EFNS/PNS clinical and electrophysiological criteria) had been on a 
+stable dose of IVIG for the last seven years.
+At initial presentation he had distal arm and leg weakness and 
+numbness with INCAT disability score of 4.
+He responded to IVIg and INCAT score improved to 1 over the initial 
+six months of treatment and he had remained stable since. He had 
+weakness in ankle dorsiflexion (MRC 4) but was able to walk indepen -
+dently and he had no residual symptoms in his arms.
+He requested a switch to efgartigimod to look for further improve -
+ment and efgartigimod was started six weeks after his last IVIg dose. 
+During this delay between therapies, he noticed increased numbness in 
+his legs, but he remained able to walk independently. Three days after 
+his first dose of efgartigimod he noticed weakness in his hands and 
+proximal arms. After the second dose (8 days after efgartigimod initia -
+tion) his arms worsened, and he could not lift them over his shoulders 
+(should abductors MRC 2), and he began to have worsening of his ankle 
+dorsiflexors. Two days after his third dose (17 days after efgartigimod 
+initiation) he required a walker to walk and could not independently 
+care for himself due to his arm weakness (INCAT score of 6). Efgartigi -
+mod was stopped and he was placed urgently back on IVIg. Within 2 
+weeks of IVIg he started improving and at 6 weeks he has regained near 
+baseline strength in his arms except for mild impairment of dexterity in 
+his hands. He remains with residual leg weakness requiring a walker for 
+ambulation (INCAT 4). 
+Case 3.A 58-year-old female with a 15-year-history of typical CIDP 
+(satisfying EFNS clinical and electrophysiological criteria) had been 
+stable on IVIg therapy for the last ten years.
+At the onset of her disease 15 years ago she was hospitalized with 
+profound quadriplegia and INCAT score of 8. She was treated with 
+plasma exchange and improved. She then started IVIG. She improved on IVIG and remained stable. Five years previous, she had participated in a 
+research study for CIDP during which she had worsening of strength and 
+withdrew and went back to IVIG. Her INCAT score remained stable at 2, 
+on IVIG 1 g/kg/day every three weeks. When the IVIG dosing interval 
+was tapered to more than 4 weeks she had worsening of weakness.
+Due to fatigue from the IVIG infusions she chose to switch to efgar -
+tigimod. Efgartigimod was started 20 days after her last IVIG infusion. 
+Within 3 days of her first dose, she had an increase in her sensory 
+symptoms and worsening gait ataxia. After the second dose (day 9) she 
+had a dramatic increase in her weakness to the point that she had 
+proximal arm and leg weakness that limited her from doing her ADLs 
+and she required a cane for ambulation (INCAT score of 4). FIT was 
+stopped and she was placed back on IVIG and within two weeks she no 
+longer needed the cane but still had limitations in arms and legs prox-
+imally and distally. Two weeks after the IVIG she had an increase in her 
+weakness (INCAT of 7) that necessitated being admitted into the hos-
+pital for urgent plasmapheresis. This therapy is ongoing. 
+Case 4.A 47-year-old female with a five-year history of multifocal 
+CIDP (satisfying EFNS clinical and electrophysiological criteria) was 
+stable on IVIG for the last four years.
+Her initial presentation five years ago was of progressive asymmetric 
+upper extremity predominant weakness and numbness along with 
+hyporeflexia. Her INCAT score was 5 and her initial treatment was with 
+IVIG and within 3 months she had improvement of left hand strength. 
+Prednisone was added and she had significant improvement in strength 
+over the next 6 months. She developed adverse effects to prednisone and 
+mycophenolate was started and prednisone was tapered off. She 
+continued on a combination of IVIG and mycophenolate and has 
+remained on that regimen for the last 4 years, with an INCAT of 2. She 
+did have one period where, due to insurance reasons the IVIG interval 
+increased beyond six weeks, and she noticed increased hand weakness.
+Due to the persistent weakness in her hands despite long term IVIG 
+therapy she was switched to efgartigmod. Within three days of the first 
+dose, she had increased weakness and numbness in her right arm and 
+both legs. After the second dose (9 days after initiation) she could no 
+longer independently drive or walk and unfortunately, she had a fall 
+leading to a fracture at the ankle. Her INCAT score was 6. She was taken 
+off efgartigimod and restarted on IVIG. After two weeks she had not 
+noticed improvement and prednisone was added and follow up was 
+scheduled for four weeks but has not yet occurred.
+3.Discussion
+In summary, four CIDP patients who were transitioned from IVIG to 
+FIT worsened precipitously. At the time of this report, the patients have 
+not yet returned to baseline with reinstatement of IVIg therapy and in 
+some cases the addition of prednisone. In CIDP patients who relapse, 
+there is no guarantee that they will return to baseline and therefore a 
+relapse is always of concern given that some patients may have wors-
+ening of permanent disability as was seen in previous studies in CIDP 
+[4].
+Our cases here highlight a potential risk of switching patients from 
+IVIG to FIT. In all four cases the patients had definite CIDP, and recent 
+evidence of disease activity as evidenced by wearing off symptoms 
+Table 1. 
+Clinical features including disability scores before and after FIT treatment and after rescue treatment
+Pt Age/ 
+SexDisease Duration 
+(months)Disease Characteristic Duration on IVIg 
+(months)INCAT 
+at onsetINCAT 
+on IVIgINCAT after FIT Rescue 
+TreatmentTime on Rescue 
+therapyINCAT after 
+rescue
+1 68/F 36 Classic 12 5 2 7 Plex, IVIg, Pred 9 wks 3
+2 74/M 84 Distal 84 4 1 6 IVIg 8 wks 3
+3 58/F 180 Classic 120 8 2 4 Plex,IVIg, Pred 6 wks 5
+4 47/F 60 Multifocal 48 5 2 6 IVIg, Pred 5 wks 4
+M male, F female, Pt Patient, IVIg intravenous immunoglobulin, Pred prednisone, plex plasma exchange.T. Levine and S. Muley                                                                                                                                                                                                                        Journal  of the Neurological  Sciences  468 (2025)  123313  
+2 
+
+between IVIG infusions and/or worsening with interruption of therapy. 
+In addition, worsening of patients when IVIg was stopped provided 
+retrospective evidence of active disease. The rapid worsening that 
+coincided with initiation of FIT suggests a withdrawal effect from the 
+IVIG given that FIT decreases serum IgG levels by blocking its salvage 
+mechanism in the endothelial cells. Another concern is that the decline 
+seen in these patients is faster and more severe than the wearing off or 
+relapse seen in patients where IVIg is tapered in dose or frequency. 
+Therefore, in addition to rapid serum IgG reduction, this also raises the 
+possibility of other humoral factors or downstream cytokines that may 
+be affected with FIT in patients with active CIDP.
+In contrast to what we have observed in this small number of patients 
+with CIDP, we are unaware of any reports, nor have we seen in our 
+practices, patients with myasthenia gravis (MG) worsening when tran-
+sitioned from IVIg to FIT. This suggests that the mechanism of action of 
+efgartigimod in CIDP may be different than that for MG, or it could be 
+related to the differing immunopathogenesis of these diseases. Further 
+study of CIDP patients who experience dramatic worsening with FIT 
+initiation with more detailed analysis of serum biomarkers, especially Ig 
+and neurofilament levels, and nerve conduction studies may be benefi -
+cial [5].
+We recommend that once a decline is noticed after starting FIT, 
+therapy should be discontinued, and rescue therapy should be instituted 
+as early as possible. In general, some strategies that could be considered 
+in switching real world CIDP patients from IVIg to efgartigimod, include 
+bridging with corticosteroids until the positive effect of FCRn inhibition 
+on the disease process can potentially negate the effects of IVIG with-
+drawal or continue IVIg treatment during the initiation of efgartigimod 
+therapy. There is a critical need to study this further.
+4.Conclusion
+In conclusion the transition of patients with CIDP who are stable on 
+IVIG therapy to FIT can lead to severe worsening of disease. Further 
+research to understand the immunopathogenesis of this worsening, may 
+shed light as to the appropriate strategy for initiating this switch or may 
+identify unique patient and disease characteristics that can predict this decline. Recognition of the potential for severe worsening during this 
+switch is important to investigate strategies that may prevent severe 
+relapse and irreversible disability.
+Funding
+None.
+CRediT authorship contribution statement
+Todd Levine: Writing – original draft, Methodology, Investigation, 
+Formal analysis, Conceptualization. Suraj Muley: Writing – review & 
+editing, Methodology, Investigation, Formal analysis, Data curation.
+Declaration of competing interest
+none.
+Acknowledgements
+None.
+References
+[1]Systematic literature review of burden of illness in chronic inflammatory 
+demyelinating polyneuropathy (CIDP). Querol L et al, J. Neurol. 268 (10) (2021) 
+3706–3716 .
+[2]Intravenous immune globulin (10% caprylate-chromatography purified) for the 
+treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE 
+study): a randomized placebo-controlled trial. Hughes et al, Lancet Neurol. 7 (2) 
+(2008) 136–144 .
+[3]Safety, tolerability, and efficacy of subcutaneous efgartigimod in patients with 
+chronic inflammatory demyelinating polyradiculoneuropathy (ADHERE): a 
+multicenter, randomized-withdrawal, double-blind, placebo-controlled, phase 2 
+trial. Allen et al, Lancet Neurol. 23 (10) (2024) 1013–1024 .
+[4]Long-term safety and efficacy of subcutaneous immunoglobulin IgPro20 in CIDP: 
+PATH extension study. Van Schaik et al, Neurol Neuroimmunol Neuroinflamm 6 (5) 
+(2019) e590.
+[5]Serum Neurofilament and free light chain levels in patients undergoing treatment 
+for chronic inflammatory demyelinating polyneuropathy. Luigetti et al, Int. J. Mol. 
+Sci. 25 (2) (2024) 1254 .T. Levine and S. Muley                                                                                                                                                                                                                        Journal  of the Neurological  Sciences  468 (2025)  123313  
+3 
