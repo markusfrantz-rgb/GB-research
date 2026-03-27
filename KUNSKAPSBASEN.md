@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~660 peer-reviewed referenser | 17 forskningsdokument | 78 fulltexter verifierade | Evidensgradering (Level 1-5)
+~660 peer-reviewed referenser | 17 forskningsdokument | 121 fulltexter tillgängliga | 860 sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
