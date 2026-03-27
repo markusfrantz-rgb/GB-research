@@ -45,11 +45,13 @@ status: active
 | 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion vid ljus (hjärnstam fungerar). CT/MR planeras för att utesluta centrala orsaker. |
 | 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat, bollar strategier. |
 | 2026-03-26 (em) | CT hjärna: **normal** (centrala orsaker uteslutna). Neurologen känner till efgartigimod men avvaktar — vill utvärdera PE först. IVIg trolig plan B. |
-| 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
+| 2026-03-27 (fm) | PE session 5 genomförd (lunch). Alla 5 PE-sessioner slutförda. Neurologisk bedömning oförändrad (minimala/inga reaktioner). |
+| 2026-03-27 | Infektion utläkt, antibiotika fungerat. Temp 37,5°C. EEG initierat (sömndjup). Patienten mer vaken men etablerar ej kontakt. |
+| 2026-03-27 | fT3: **normalt**. Lungröntgen/ekokardiografi: **normalt hjärta**. MR planerad helgen. Blodtryck fortsatt svårstabiliserat (dysautonomi). |
 
 **Kommunikation (2026-03-25):** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
 
-**Neurologisk bedömning (2026-03-26 em):** Sedering lättad — så gott som obefintliga neurologiska reaktioner. Svag pupillreaktion vid ljus (hjärnstamsfunktion bevarad). OBS: kvarvarande sederingseffekt kan maskera sant neurologiskt status (24-48h krävs). CT/MR planeras.
+**Neurologisk bedömning (2026-03-27):** Oförändrad från 2026-03-26 — minimala/inga reaktioner. Patienten mer vaken men etablerar ej kontakt. EEG initierat för att mäta sömndjup. Lungröntgen/ekokardiografi: normalt hjärta. MR planerad helgen.
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
@@ -121,7 +123,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | RGBS: lägre FT3, högre TSH. Antecedent sjukdom + AIDP + högt TSH = oberoende riskfaktorer | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
 | T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
 | Levotyroxinavbrott på IVA → myxedemkoma-risk (25–60% mortalitet) | Mathew et al., StatPearls 2024 |
-| **2026-03-26 lab:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. fT3 beställd. | Klinisk data |
+| **2026-03-26 lab:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. **fT3 normalt (2026-03-27).** | Klinisk data |
 
 → [Hashimotos + IgA-brist + GBS: fullständig genomgång](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md)
 

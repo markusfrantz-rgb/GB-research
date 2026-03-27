@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-25 (kväll, slutlig)
+> Senast uppdaterad: 2026-03-27
 
 ## Fas: Live / Aktiv forskning
 
@@ -61,7 +61,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-03-25)
+### Aktuellt förlopp (2026-03-21 → 2026-03-27)
 
 | Datum | Händelse |
 |-------|---------|
@@ -73,7 +73,14 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-25 em | Sedering lättad för att bedöma spontanandning (diafragmafunktion). Levotyroxin ges. Luftrörsvidgande insatt. Allergimedel pågår. |
 | 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
 | 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion (hjärnstam bevarad). CT/MR planeras. Plan B diskuterad med neurolog + specialist — teamet engagerat. |
-| 2026-03-27 (plan) | PE session 5 planerad (sista av 5). |
+| 2026-03-27 (fm) | PE session 5 genomförd (lunch). Alla 5 PE-sessioner slutförda. |
+| 2026-03-27 | Neurologisk bedömning: oförändrad från igår (minimala/inga reaktioner). |
+| 2026-03-27 | Infektion utläkt, antibiotika har fungerat. Temp 37,5°C. |
+| 2026-03-27 | EEG initierat — mäter sömndjup. Patienten mer vaken men etablerar ej kontakt. |
+| 2026-03-27 | fT3-svar: **normalt** (beställd 2026-03-26). |
+| 2026-03-27 | MR planerad helgen — utesluta ytterligare komplikationer (förväntas normal). |
+| 2026-03-27 | Lungröntgen/ekokardiografi: **normalt hjärta**. |
+| 2026-03-27 | Blodtryck fortsatt svårstabiliserat (dysautonomi kvarstår). |
 
 ### Kommunikation
 
@@ -83,7 +90,7 @@ Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/de
 
 Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen på diafragmafunktion och djupet av den motoriska påverkan.
 
-### Diagnostiska luckor (per 2026-03-25)
+### Diagnostiska luckor (per 2026-03-27)
 
 | Test | Status | Varför det behövs |
 |------|--------|--------------------|
@@ -93,7 +100,7 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 | Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering |
 | Serum-NfL | **Ej taget** | Prognos, axonal skada, behandlingssvar under sedering |
 | TSH, fT4 | **Kontrollerade 2026-03-26:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. | Levotyroxindos verkar ok — men fT3 behövs |
-| fT3 | **Beställd 2026-03-26** — ännu ej tillgänglig | Avgörande för nervregeneration (Schwann-celler, BDNF, NGF) |
+| fT3 | **Resultat 2026-03-27: normalt** | Avgörande för nervregeneration (Schwann-celler, BDNF, NGF) — nu bekräftat normalt |
 | CSF IL-8 | **Ej taget** | GBS vs CIDP (96,7% specificitet) |
 
 ### Hypoteser att utreda
