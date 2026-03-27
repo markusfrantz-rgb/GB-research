@@ -17,9 +17,9 @@ class Config:
     docs_dir: Path = _project_root
     chroma_dir: Path = _project_root / "chroma_db"
     embedding_model: str = "gemini-embedding-001"
-    llm_model: str = "gemini-2.5-flash"
+    llm_model: str = os.getenv("LLM_MODEL", "gemini-2.5-flash")
     chunk_max_tokens: int = 1200
-    top_k: int = 5
+    top_k: int = 8
     collection_name: str = "gb_research"
 
     # Directories to index (relative to docs_dir)
