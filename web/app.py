@@ -195,24 +195,28 @@ def view_doc(filepath):
 
 # --- Source file serving & PMID mapping ---
 
-_sources_dir = _project_root / "sources" / "fulltext"
+_source_dirs = [
+    _project_root / "sources" / "fulltext",
+    _project_root / "research-ivig-iga" / "fulltexts",
+]
 
 
 def _build_source_map():
-    """Build PMID/PMC → filename mapping from sources/fulltext/."""
+    """Build PMID/PMC → filename mapping from all source directories."""
     mapping = {}  # e.g. {"PMID:37814552": "Doorn_2023_...", "PMC7079539": "Altmann_2020_..."}
-    if not _sources_dir.exists():
-        return mapping
-    for f in _sources_dir.iterdir():
-        name = f.name
-        # Extract PMID from filename (pattern: PMID12345678)
-        pmid_match = re.search(r'PMID(\d+)', name)
-        if pmid_match:
-            mapping[pmid_match.group(1)] = name
-        # Extract PMC ID from filename (pattern: PMC12345678)
-        pmc_match = re.search(r'PMC(\d+)', name)
-        if pmc_match:
-            mapping[f"PMC{pmc_match.group(1)}"] = name
+    for sources_dir in _source_dirs:
+        if not sources_dir.exists():
+            continue
+        for f in sources_dir.iterdir():
+            name = f.name
+            # Extract PMID from filename (pattern: PMID12345678)
+            pmid_match = re.search(r'PMID(\d+)', name)
+            if pmid_match:
+                mapping[pmid_match.group(1)] = name
+            # Extract PMC ID from filename (pattern: PMC12345678)
+            pmc_match = re.search(r'PMC(\d+)', name)
+            if pmc_match:
+                mapping[f"PMC{pmc_match.group(1)}"] = name
     return mapping
 
 
@@ -282,14 +286,20 @@ def _postprocess_html(html):
 @require_access
 def view_source(filename):
     """Serve a source file (PDF directly, txt in HTML wrapper)."""
-    file_path = _sources_dir / filename
-    if not file_path.exists():
+    # Search all source directories for the file
+    file_path = None
+    for sources_dir in _source_dirs:
+        candidate = sources_dir / filename
+        if candidate.exists():
+            # Security: ensure path stays within the source dir
+            try:
+                candidate.resolve().relative_to(sources_dir.resolve())
+                file_path = candidate
+                break
+            except ValueError:
+                continue
+    if file_path is None:
         return "Source file not found", 404
-    # Security: ensure path stays within sources dir
-    try:
-        file_path.resolve().relative_to(_sources_dir.resolve())
-    except ValueError:
-        return "Access denied", 403
 
     if file_path.suffix == ".pdf":
         return send_file(file_path, mimetype="application/pdf")

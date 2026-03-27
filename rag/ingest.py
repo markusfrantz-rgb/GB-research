@@ -24,11 +24,16 @@ def _find_documents() -> list[Path]:
 
 
 def _find_source_texts() -> list[Path]:
-    """Find all fulltext source files (.txt) in sources/fulltext/."""
-    sources_dir = config.docs_dir / "sources" / "fulltext"
-    if not sources_dir.exists():
-        return []
-    return sorted(sources_dir.glob("*.txt"))
+    """Find all fulltext source files (.txt) in all source directories."""
+    source_dirs = [
+        config.docs_dir / "sources" / "fulltext",
+        config.docs_dir / "research-ivig-iga" / "fulltexts",
+    ]
+    files = []
+    for d in source_dirs:
+        if d.exists():
+            files.extend(d.glob("*.txt"))
+    return sorted(files)
 
 
 def _article_title_from_filename(filename: str) -> str:
