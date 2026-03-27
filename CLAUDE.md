@@ -28,45 +28,74 @@ Markus fru Madeleine (52 år) insjuknade akut i svår recidiverande GBS (första
 
 ## Projektstruktur
 
+### Publikt (visas på gbs.ragbase.org)
+
+Siten har en allowlist — bara dessa filer/mappar serveras via `/doc/`:
+
 ```
 GB-research/
-├── CLAUDE.md                ← DU ÄR HÄR
-├── PROJECT_STATUS.md        ← Nuvarande status
-├── KUNSKAPSBASEN.md         ← Intro-sidan som visas på webben
+├── KUNSKAPSBASEN.md             ← Landningssida (visas på /)
+├── Case_Madeleine_Fragor_och_Fynd.md ← Utskrivbar klinisk sammanfattning
+├── Tillgang_till_medicinska_kallor.md ← Artikelöversikt (master-källregister)
 │
-├── 01-GBS/                  ← GBS-forskning (3 dokument)
-├── 02-IgA-deficiency/       ← IgA-brist-forskning (2 dokument)
-├── 03-GBS-and-IgA-deficiency/ ← Kombinationen (1 dokument, nyckeldokument)
-├── 04-related-autoimmune/   ← Relaterade autoimmuna tillstånd (2 dokument)
-├── 05-treatment-resistance/ ← Refraktär GBS, nya terapier, koagulopati, sekventiell terapi, PE-svikt-protokoll (5 dokument)
-├── 06-monitoring-prognosis/ ← Prognostisk monitorering, biomarkörer, neuroprognostikering, EGRIS, beslutspunkter (1 dokument)
-├── 07-acute-icu-protocols/  ← Akuta IVA-protokoll: post-trakeostomivård, dysautonomi, respiratoravvänjning (2 dokument)
-├── sources/fulltext/        ← Källbibliotek: 12 PDF + 10 textfiler (22 fulltexter)
-├── Tillgang_till_medicinska_kallor.md ← Komplett artikelöversikt med status
-├── metadata/                ← Index och källregister
+├── 01-GBS/                      ← GBS-forskning (3 dokument)
+├── 02-IgA-deficiency/           ← IgA-brist-forskning (2 dokument)
+├── 03-GBS-and-IgA-deficiency/   ← Kombinationen (1 nyckeldokument)
+├── 04-related-autoimmune/       ← Autoimmuna kluster (2 dokument)
+├── 05-treatment-resistance/     ← Refraktär GBS, nya terapier, PE-svikt (5 dokument)
+├── 06-monitoring-prognosis/     ← Prognostik, biomarkörer, beslutspunkter (1 dokument)
+├── 07-acute-icu-protocols/      ← IVA-protokoll: trakeostomi, dysautonomi, weaning (2 dokument)
+├── 08-immunoglobulin-iga-safety/ ← IgA-säkerhet vid immunoglobulin (1 dokument)
 │
-├── rag/                     ← RAG-systemet (Python)
-│   ├── config.py            ← Konfiguration
-│   ├── chunker.py           ← Markdown-medveten hierarkisk chunkning
-│   ├── ingest.py            ← Dokument → embeddings → ChromaDB
-│   ├── search.py            ← Semantisk sökning
-│   ├── qa.py                ← RAG Q&A med Gemini
-│   └── cli.py               ← CLI (ingest/search/ask/stats)
+└── sources/fulltext/            ← Källbibliotek (PDF + text, serveras via /source/)
+```
+
+### Internt (i git, EJ på siten)
+
+```
+├── CLAUDE.md                    ← DU ÄR HÄR — projektinstruktioner
+├── PROJECT_STATUS.md            ← Projekthantering, ändringslogg, TODO
+├── metadata/                    ← Intern navigationsguide (index.md)
 │
-├── web/                     ← Webbgränssnitt (Flask)
-│   ├── app.py               ← Routes, auth, rate limiting
-│   ├── templates/           ← HTML (index, login, document)
-│   └── static/style.css     ← Styling
+├── research-ivig-iga/           ← Arbetsmaterial från IgA-kartläggning
+│   ├── MADELEINE_ANALYSIS.md    ← Klinisk tolkning (svenska, personlig ton)
+│   ├── MASTER_PAPER_LIST.md     ← 183 papers organiserade
+│   ├── PAYWALL_DOWNLOAD_LIST.md ← Papers att hämta
+│   ├── PLAN_B_ALTERNATIV.md     ← Behandlingsalternativ efter PE5
+│   └── fulltexts/               ← Nedladdade fulltextsartiklar
 │
-├── Dockerfile               ← Produktion (Railway)
-├── start.sh                 ← Startup: indexera → starta server
+├── rag/                         ← RAG-systemet (Python)
+│   ├── config.py                ← Konfiguration (indexerade mappar)
+│   ├── chunker.py               ← Markdown-medveten hierarkisk chunkning
+│   ├── ingest.py                ← Dokument → embeddings → ChromaDB
+│   ├── search.py                ← Semantisk sökning
+│   ├── qa.py                    ← RAG Q&A med Gemini
+│   └── cli.py                   ← CLI (ingest/search/ask/stats)
+│
+├── web/                         ← Webbgränssnitt (Flask)
+│   ├── app.py                   ← Routes, auth, rate limiting, allowlist
+│   ├── templates/               ← HTML (index, login, document)
+│   └── static/style.css         ← Styling
+│
+├── Dockerfile                   ← Produktion (Railway)
+├── start.sh                     ← Startup: indexera → starta server
 ├── requirements.txt
-└── .env                     ← GOOGLE_API_KEY (gitignored)
+└── .env                         ← GOOGLE_API_KEY (gitignored)
+```
+
+### Privat (lokal, ej i git)
+
+```
+├── privat/                      ← Markus personliga dokument (gitignored)
+│   ├── fragor_till_lakarna.md   ← Frågor med tonguide och prioritering
+│   └── checklista.md            ← Daglig checklista
 ```
 
 ## Säkerhet & drift
 
 - **Åtkomstkod:** Sätts via `ACCESS_CODE` i Railway env vars. Session-baserad (giltig tills webbläsaren stängs).
+- **Allowlist:** `/doc/`-routen serverar BARA filer i 01-08-mapparna + `Case_Madeleine` + `Tillgang`. Allt annat (PROJECT_STATUS, research-ivig-iga/, metadata/) är blockerat. Se `_PUBLIC_PREFIXES` i `web/app.py`.
+- **privat/:** Gitignored. Innehåller personliga dokument (frågor med tonguide, checklista). Serveras aldrig.
 - **Rate limiting:** 10 frågor/min, 30 sökningar/min per IP. Konfigurerbart via `RATE_LIMIT_ASK` och `RATE_LIMIT_SEARCH` env vars.
 - **API-nyckel:** `GOOGLE_API_KEY` i Railway env vars (Gemini, för embeddings + LLM).
 - **SECRET_KEY:** Flask session-nyckel, default hårdkodad — bör sättas som env var i produktion.
@@ -175,6 +204,7 @@ git push  # Railway bygger automatiskt
 
 ## Länkar till djupare dokumentation
 
-- **Forskningsinnehåll:** `metadata/index.md` — fullständigt index över alla dokument och vad de täcker
-- **Källregister:** `metadata/source-registry.md` — alla ~250 referenser organiserade efter typ
+- **Forskningsinnehåll:** `metadata/index.md` — intern navigationsguide till alla dokument
+- **Artikelöversikt:** `Tillgang_till_medicinska_kallor.md` — master-källregister med alla fulltexter
 - **Intro/landningssida:** `KUNSKAPSBASEN.md` — den text som visas på webben
+- **Personliga frågor:** `privat/fragor_till_lakarna.md` — kommunikationsguide (ej i git)

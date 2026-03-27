@@ -336,39 +336,7 @@ Om Madeleine reklassificeras som A-CIDP:
 
 ---
 
-## 8. Fragor att ta upp med behandlande lakare
-
-### Till neurologen
-
-1. **"Vilken plan har ni om PE5 inte ger svar? Har ni diskuterat efgartigimod (Vyvgart) som rescue -- det ar redan godkant i Sverige for MG/CIDP och det finns fallrapporter vid refraktar GBS."**
-
-2. **"Har nervledningsundersokning (NCS/EMG) gjorts? Det avgor GBS-subtyp (AIDP/AMAN/AMSAN) och ar avgronande for prognos. Om >=4 motoriska nerver ar inexcitabla sjunker sannolikheten for gangformaga fran 81% till 23% (Shahrizaila 2024)."**
-
-3. **"Har anti-gangliosidantikroppar skickats (GM1, GD1a, GQ1b-panel)? Och kan vi bestalla paranodala antikroppar (anti-NF155, NF186, CNTN1)? Om de ar positiva andrar det behandlingsstrategin helt (rituximab istallet for IVIg)."**
-
-4. **"Har mEGOS-score beraknats? Den forutsager sannolikhet att ga sjalvstandigt vid 6 manader."**
-
-5. **"Bor vi bestalla serum-NfL? Wieslab i Malmo erbjuder akut NfL-testning med svar inom 48 timmar. Vardet vid vecka 2 ar en starkare prediktor an baslinjevardet."**
-
-6. **"Givet Madeleines autoimmuna samsjuklighet och 36-arsintervall sedan forsta episoden -- bor vi utvardera A-CIDP-kriterier parallellt?"**
-
-### Till IVA-lakaren
-
-7. **"Vilken neurologisk bedomning planeras nu nar sederingen lattas? Kan MRC-score, kranialnervsundersokning och bulbar funktion (svalj- och hostformaga) utforas?"**
-
-8. **"Finns atropin 1 mg IV i beredskap vid sangplatsen? Svar GBS med bekraftad dysautonomi innebar risk for plotslig bradykardi till asystoli vid sugning, vandning eller munvard."**
-
-9. **"Har TSH/fT4/fT3 kontrollerats sedan inlaggning? TSH >3.87 ar oberoende riskfaktor for GBS-recidiv (Wang 2022). Kritisk sjukdom gor dessutom tolkningen svar (sick euthyroid syndrome) -- men baslinjevarde behovs."**
-
-10. **"Far Madeleine sin levotyroxin med minst 1 timmes mellanrum till sondfodning? Absorptionen hammas av enteral nutrition. Dessutom avlagsnar PE levotyroxin fran cirkulationen -- extra dos kan behovas efter PE-sessioner."**
-
-11. **"Har vitamin D-niva kontrollerats? 91% av GBS-patienter ar D-vitaminbristiga och laoga nivaer associeras med samre prognos."**
-
-12. **"Pagar DVT-profylax med LMWH + IPC? GBS-patienter har 52% DVT-risk aven med LMWH vid systematisk screening (Bersano 2016). LMWH bor hallas pa PE-dagar och ateruptas nar fibrinogen >1.0 g/L."**
-
----
-
-## 9. Kontaktinformation for compassionate use
+## 8. Kontaktinformation for compassionate use
 
 ### Tanruprubart (ANX005) -- Annexon Biosciences
 

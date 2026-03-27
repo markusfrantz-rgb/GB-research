@@ -152,10 +152,26 @@ def api_ask():
         return jsonify({"error": str(e)}), 500
 
 
+_PUBLIC_PREFIXES = (
+    "01-GBS/",
+    "02-IgA-deficiency/",
+    "03-GBS-and-IgA-deficiency/",
+    "04-related-autoimmune/",
+    "05-treatment-resistance/",
+    "06-monitoring-prognosis/",
+    "07-acute-icu-protocols/",
+    "08-immunoglobulin-iga-safety/",
+    "Case_Madeleine_Fragor_och_Fynd.md",
+    "Tillgang_till_medicinska_kallor.md",
+)
+
+
 @app.route("/doc/<path:filepath>")
 @require_access
 def view_doc(filepath):
     """Render a markdown research document as HTML."""
+    if not filepath.startswith(_PUBLIC_PREFIXES):
+        return "Document not found", 404
     doc_path = _project_root / filepath
     if not doc_path.exists() or not str(doc_path).endswith(".md"):
         return "Document not found", 404
