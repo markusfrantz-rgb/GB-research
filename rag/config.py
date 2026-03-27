@@ -14,6 +14,7 @@ load_dotenv(_project_root / ".env")
 @dataclass(frozen=True)
 class Config:
     google_api_key: str = os.getenv("GOOGLE_API_KEY", "")
+    medical_api_key: str = os.getenv("MEDICAL_API_KEY", "")
     docs_dir: Path = _project_root
     chroma_dir: Path = _project_root / "chroma_db"
     embedding_model: str = "gemini-embedding-001"
