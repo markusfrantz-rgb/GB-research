@@ -238,7 +238,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-17 forskningsdokument | ~660 peer-reviewed kallor | 63 verifierade fulltexter | Semantisk sokning
+17 forskningsdokument | ~660 peer-reviewed kallor | 121 fulltexter tillgangliga | 860 sokbara kunskapsfragment
 
 ---
 

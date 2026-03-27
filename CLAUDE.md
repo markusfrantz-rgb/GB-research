@@ -158,6 +158,28 @@ git commit -m "Beskrivande meddelande"
 git push  # Triggar Railway auto-deploy
 ```
 
+### Steg 6b: Synkronisera siffror (efter nya artiklar/dokument)
+
+Följande filer har hårdkodade siffror som MÅSTE uppdateras när nya artiklar läggs till:
+
+| Fil | Vad som behöver uppdateras |
+|-----|---------------------------|
+| `KUNSKAPSBASEN.md` rad 10 | Antal referenser, dokument, fulltexter, chunks |
+| `KUNSKAPSBASEN.md` rad 193 | Antal fulltexter per mapp |
+| `Case_Madeleine_Fragor_och_Fynd.md` rad 241 | Antal dokument, källor, fulltexter |
+| `Tillgang_till_medicinska_kallor.md` rad 10-15 | Sammanfattningstabell per mapp |
+| `Tillgang_till_medicinska_kallor.md` sista raden | Totalsammanfattning |
+| `PROJECT_STATUS.md` rad 43-44 | RAG-system och fulltext-status |
+
+**Kör detta för att få korrekta siffror:**
+```bash
+# Antal fulltexter per mapp
+ls sources/fulltext/*.{txt,pdf} | wc -l
+ls research-ivig-iga/fulltexts/*.{txt,pdf} | wc -l
+# Antal chunks efter reindexering (visas i output)
+python -m rag ingest --reindex -v
+```
+
 ### Steg 7: Dokumentera för nästa session
 - Uppdatera `PROJECT_STATUS.md` med ändringslogg
 - Uppdatera sprint-minne i Claude memory med:

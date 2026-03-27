@@ -190,7 +190,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 
 ## Källbibliotek — verifierade fulltexter
 
-78 kartlagda nyckelartiklar finns i fulltext (34 PDF + 44 text i `sources/fulltext/` + 42 text i `research-ivig-iga/fulltexts/`). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+121 fulltexter tillgängliga (35 PDF + 44 text i `sources/fulltext/` + 1 PDF + 42 text i `research-ivig-iga/fulltexts/`). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
