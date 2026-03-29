@@ -48,9 +48,11 @@ status: active
 | 2026-03-27 (fm) | PE session 5 genomförd (lunch). Alla 5 PE-sessioner slutförda. Neurologisk bedömning oförändrad (minimala/inga reaktioner). |
 | 2026-03-27 | Infektion utläkt, antibiotika fungerat. Temp 37,5°C. EEG initierat (sömndjup). Patienten mer vaken men etablerar ej kontakt. |
 | 2026-03-27 | fT3: **normalt**. Lungröntgen/ekokardiografi: **normalt hjärta**. Blodtryck fortsatt svårstabiliserat (dysautonomi). **Neurologisk bedömning:** oförändrad — minimala/inga reaktioner. Patienten mer vaken men etablerar ej kontakt. |
-| 2026-03-28 | MR hjärna genomförd. Svar inväntas. |
+| 2026-03-28 | MR hjärna genomförd. |
 | 2026-03-29 (fm) | BT 142/50, puls 97 (lägre än föregående dagar). SpO2 96%. Ventilering 4,5. Temp 37,7°C. Vätskemål: negativ balans −500 till −1000 ml. Laxering höjd. |
-| 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). Gabapentin ej insatt. |
+| 2026-03-29 | **MR-svar:** Litet fynd på MR hjärna — ryggmärgsprov (LP) planeras för att avgöra om kortison ska ges. |
+| 2026-03-29 | **EEG:** Visar att patienten är nedsövd. Svårt att skilja sedering från neurologiskt tillstånd, men teamet bedömer sederingsnivån som adekvat. Sedering ökad något. |
+| 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), **gabapentin** (neuropatisk smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
