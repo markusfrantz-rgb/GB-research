@@ -1,0 +1,1072 @@
+Deresuscitation of Patients With Iatrogenic Fluid
+Overload Is Associated With Reduced Mortality in
+Critical Illness*
+Jonathan A. Silversides, MBBCh1,2; Emma Fitzgerald, MBBCh3; Uma S. Manickavasagam, MBBS4;
+Stephen E. Lapinsky, MBBCh, MSc5,6; Rosane Nisenbaum, PhD7,8; Noel Hemmings, MBBCh9;
+Christopher Nutt, MBBCh10; T. John Trinder, MD11; David G. Pogson, MBBCh3;
+Eddy Fan, MD, PhD6,12; Andrew J. Ferguson, MBBCh13; Daniel F. McAuley, MD1,2;
+John C. Marshall, MD4,6; for the Role of Active Deresuscitation After Resuscitation (RADAR) Investigators
+
+*See also p. 1692.
+Centre for Experimental Medicine, Queen’s University of Belfast, Belfast,
+United Kingdom.
+
+1
+
+Department of Critical Care, Belfast Health and Social Care Trust, Belfast, United Kingdom.
+
+2
+
+Academic Department of Critical Care, Queen Alexandra Hospital,
+Portsmouth Hospitals NHS Trust, Portsmouth, United Kingdom.
+
+3
+
+Department of Critical Care, Saint Michael’s Hospital, Toronto, ON, Canada.
+
+4
+
+Grant WKR0-2017-0019, National Institute of Health Research Health
+Technology Assessment grant application pending, and GlaxoSmithKline,
+and he received other funding from Bayer, Boehringer Ingelheim, Peptinnovate. Dr. Marshall received funding from the Data and Safety Monitoring
+Board of Asahi-Kasei Pharma, Bristol-Myers Squibb (Advisory Board), and
+Regeneron. The remaining authors have disclosed that they do not have
+any potential conflicts of interest.
+For information regarding this article, E-mail: jon.silversides@belfasttrust.
+hscni.net
+
+Intensive Care Unit, Mount Sinai Hospital, Toronto, ON, Canada.
+
+5
+
+Interdepartmental Division of Critical Care, University of Toronto, Toronto,
+ON, Canada.
+
+6
+
+Centre for Urban Health Solutions, Li Ka Shing Knowledge Institute,
+Saint Michael’s Hospital, Toronto, ON, Canada
+
+7
+
+Dalla Lana School of Public Health, University of Toronto, Toronto, ON,
+Canada.
+
+8
+
+Intensive Care Unit, Altnagelvin Area Hospital, Western Health and
+Social Care Trust, Londonderry, United Kingdom.
+
+9
+
+Intensive Care Unit, Antrim Area Hospital, Northern Health and Social
+Care Trust, Antrim, United Kingdom.
+
+10
+
+Intensive Care Unit, Ulster Hospital, South-Eastern Health and Social
+Care Trust, Dundonald, United Kingdom.
+
+11
+
+Intensive Care Unit, Mount Sinai Hospital, Toronto, ON, Canada.
+
+12
+
+Intensive Care Unit, Craigavon Hospital, Southern Health and Social
+Care Trust, Portadown, United Kingdom.
+
+13
+
+A full list of Role of Active Deresuscitation After Resuscitation (RADAR)
+Investigators is listed in Appendix 1.
+Supplemental digital content is available for this article. Direct URL citations
+appear in the printed text and are provided in the HTML and PDF versions
+of this article on the journal’s website (http://journals.lww.com/ccmjournal).
+Supported, in part, by a doctoral fellowship award to Dr. Silversides from the
+Northern Ireland Health and Social Care Research and Development Division.
+Dr. Silversides’ institution received funding from British Journal of Anaesthesia (BJA)/Royal College of Anaesthetists (RCoA) project grant WKR02017-0019. Dr. Lapinsky received other support from research grants
+from the Chest Foundation and Ontario Lung Association for an unrelated
+research project. Dr. McAuley’s institution received funding from v Division (Doctoral Fellowship grant for Dr. Silversides), BJA/RCoA Project
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters
+Kluwer Health, Inc. All Rights Reserved.
+DOI: 10.1097/CCM.0000000000003276
+
+1600
+
+www.ccmjournal.org
+
+Objectives: To characterize current practice in fluid administration and deresuscitation (removal of fluid using diuretics or renal
+replacement therapy), the relationship between fluid balance,
+deresuscitative measures, and outcomes and to identify risk factors for positive fluid balance in critical illness.
+Design: Retrospective cohort study.
+Setting: Ten ICUs in the United Kingdom and Canada.
+Patients: Adults receiving invasive mechanical ventilation for a
+minimum of 24 hours.
+Interventions: None.
+Measurements and Main Results: Four-hundred patients were
+included. Positive cumulative fluid balance (fluid input greater than
+output) occurred in 87.3%: the largest contributions to fluid input
+were from medications and maintenance fluids rather than resuscitative IV fluids. In a multivariate logistic regression model, fluid
+balance on day 3 was an independent risk factor for 30-day mortality (odds ratio 1.26/L [95% CI, 1.07–1.46]), whereas negative
+fluid balance achieved in the context of deresuscitative measures
+was associated with lower mortality. Independent predictors of
+greater fluid balance included treatment in a Canadian site.
+Conclusions: Fluid balance is a practice-dependent and potentially modifiable risk factor for adverse outcomes in critical illness.
+Negative fluid balance achieved with deresuscitation on day 3 of
+ICU stay is associated with improved patient outcomes. Minimization of day 3 fluid balance by limiting maintenance fluid intake and
+drug diluents, and using deresuscitative measures, represents a
+October 2018 • Volume 46 • Number 10
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Clinical Investigations
+potentially beneficial therapeutic strategy which merits investigation in randomized trials. (Crit Care Med 2018; 46:1600–1607)
+Key Words: critical illness; diuretics; fluid therapy; furosemide;
+water-electrolyte balance
+
+F
+
+luid therapy is widely used to optimize tissue perfusion
+in sepsis and other critical illness states, supported by
+international guidelines (1, 2). In addition to resuscitation fluid boluses, significant volumes of fluid are administered
+as nutrition, maintenance fluid, and a diluent for medications.
+In the context of endocrine influences and acute kidney injury
+(AKI) predisposing to fluid retention, critically ill patients
+commonly accumulate a positive fluid balance (2–5).
+The association between positive fluid balance and mortality in a range of critical illness states is now well established
+(2–8). Although fluid accumulation is most evident clinically as
+peripheral and pulmonary edema, other negative physiologic
+consequences such as renal congestion have been ­postulated (9).
+Two complementary strategies have evolved to prevent or
+mitigate fluid accumulation: restrictive fluid administration
+(10, 11) or active removal of accumulated fluid using diuretics or renal replacement therapy (RRT) when clinically stable
+(deresuscitation) (12). Our recent systematic review and metaanalysis found low-quality evidence in favor of a conservative
+or deresuscitative fluid strategy compared with liberal fluid
+administration or usual care (13), but considerable heterogeneity was evident with regard to interventions: these ranged
+from restriction of resuscitation fluid alone (10) to deresuscitation using diuretics and “hyperoncotic” albumin (14).
+Further work is needed to define the optimum fluid strategy to
+be tested in future large-scale randomized trials.
+We undertook a multicenter cohort study of critically
+ill patients in Canada and the United Kingdom, aiming to
+increase our understanding of variability in current practice
+in fluid administration and deresuscitation, to characterize
+the relationship between fluid balance, deresuscitation, and
+patient outcomes and to identify risk factors for positive fluid
+balance with a view to informing the design of future trials.
+We hypothesized that a more positive fluid balance would be
+associated with mortality, that drivers of positive fluid balance
+would include practice-dependent variables, and that the use
+of deresuscitative measures to achieve a negative fluid balance
+would be associated with better outcomes.
+
+METHODS
+Design and Setting
+Participating centers were selected on the basis of expressed
+interest in the study and were asked to provide data retrospectively for up to 50 consecutive patients admitted between
+June 2012 and June 2014 who met prespecified inclusion and
+exclusion criteria. A formal sample size calculation was not
+performed. Research ethics approval was obtained, but the
+requirement for individual patient consent was waived.
+Critical Care Medicine
+
+Participants
+We included patients over 16 years old who received invasive
+mechanical ventilation in a participating ICU for a minimum
+of 24 hours. Exclusion criteria were failure to survive for more
+than 24 hours; lack of a commitment to full active care at ICU
+admission; drug overdose (fluid management unlikely to be
+relevant to outcome); transfer from another ICU or ICU case
+records unavailable; and those with a diagnosis of subarachnoid hemorrhage or diabetic ketoacidosis, conditions where
+specific considerations are relevant to fluid management.
+Data Collection and Definitions
+Data collected included demographic factors, diagnosis, severity of illness, furosemide and RRT use, and fluid input and
+output. Data were collected by trained study personnel using
+a standard data dictionary. The primary outcome was 30-day
+mortality. Secondary outcomes included duration of ICU stay
+in survivors, censored at day 30, and duration of mechanical
+ventilation in survivors, defined as the number of ICU days
+from intubation until successful extubation (> 24 hr without
+invasive ventilatory support).
+Study day 1 was from ICU admission until 07:00 or 8:00 am
+depending on unit practice, whereas subsequent study days
+were consecutive 24-hour periods, or part thereof on the day
+of ICU discharge. Daily fluid balance was the total delivered
+input (IV fluids, nutrition, medications) minus total measured
+output (e.g., urine, ultrafiltrate, output from surgical drains,
+etc) as recorded in case records. Cumulative fluid balance for a
+given day was the total fluid input minus the total output from
+ICU admission at the end of that day. Deresuscitative measures were defined as any use of furosemide or fluid removal
+using RRT.
+We calculated Multiple Organ Dysfunction Scores (MODS)
+(15) daily. We estimated missing central venous pressure values
+as 8 mm Hg, as previously described (16). Daily delta-MODS
+was defined as the change in MODS between that day and the
+subsequent day. We estimated AKI severity using the Kidney
+Disease: Improving Global Outcomes (KDIGO) consensus criteria for the definition and classification of AKI (17) daily.
+Statistical Analysis
+Between-group comparisons were made using univariate
+logistic regression, Kruskal-Wallis test, or chi-square as appropriate. We constructed multivariate logistic regression models for 30-day mortality. Negative binomial regression was
+used for the outcomes of duration of ICU stay and duration
+of mechanical ventilation. A generalized estimating equation
+model was used to account for time and clustering within
+patients when investigating a possible association between
+daily fluid balance and the outcome of daily delta-MODS,
+using an identity link and exchangeable correlation structure.
+Multivariate linear regression modeling was used for exploration of a possible association between day 3 fluid balance and
+potential predictor variables.
+Four criteria were used to select variables for inclusion
+in multivariate models: relevance to underlying hypothesis,
+www.ccmjournal.org
+
+1601
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Silversides et al
+
+clinical plausibility, previously reported associations in the literature, and univariate associations with a p value of less than
+0.2. Where candidate variables were correlated at a level greater
+than 0.5, the most clinically plausible was selected.
+Sensitivity analyses were conducted using several fluid balance time points to identify that most strongly associated with
+the primary outcome. We also separated cumulative fluid balance into “early” (days 1–2) and “later” time points, on the basis
+that early fluid balance may be more reflective of resuscitation
+fluid administration and thus potentially more confounded
+by severity of illness. Other sensitivity analyses were used to
+explore the relationship between deresuscitative measures and
+mortality.
+Statistical analyses were performed using Stata Version
+14 (StataCorp LLC, College Station, TX). Two-sided p values of less than 0.05 were considered to represent statistical
+significance.
+
+RESULTS
+Patient Characteristics
+Data were collected on 400 patients from 10 ICUs (three in
+Canada and the remaining seven in the United Kingdom); the
+minimum number of patients per site was 21. During the study
+period, a total of 2,473 patients were admitted to participating
+ICUs. Baseline characteristics are shown in Table 1.
+Mortality at day 30 following ICU admission was 31.0%
+(124/400), with a median length of ICU stay of 7 days (interquartile range [IQR], 4–13 d) for survivors. Nonsurvivors differed from survivors with respect to age, source and type of
+admission, baseline creatinine, Acute Physiology and Chronic
+Health Evaluation II scores, MODS, and KDIGO scores and
+in vasopressor use, blood pressure, and oxygenation (Table 1).
+Fluid Balance Over Time
+Mean daily fluid balances and mean cumulative fluid balances
+from day 1 to day 7 are shown in Figure 1. Mean daily fluid balance was significantly greater for nonsurvivors than survivors
+on days 1–5 and 7 (maximum difference in means, 0.98 L [95%
+CI, 0.57–1.37 L] on day 3). Mean cumulative fluid balance was
+significantly higher in nonsurvivors for days 1–7 (maximum
+difference in means, 2.38 L [95% CI, 0.98–3.78 L] on day 5).
+Most patients still in ICU at day 7 were in a positive fluid balance (148/237; 62.45%).
+Sources of Fluid Input
+The largest component of fluid input over days 1–3 was from
+medications (1,148.0 of a total 3,325.5 L; 34.5%), whereas
+maintenance and bolus IV fluids comprised 26.5% and 24.4%,
+respectively. There was considerable variability between sites
+in both total volume of fluid input and in sources of that input
+(Fig. 2 and Table E1, Supplement Digital Content 1, http://
+links.lww.com/CCM/D719). Over days 1–7, proportionately
+lower contributions were from bolus and maintenance IV
+fluid. Striking numerical differences were present between
+study sites in fluid bolus volumes (ranging from median 0.75 L
+1602
+
+www.ccmjournal.org
+
+(IQR, 0.25–1.75 L) to 3.50 L (IQR, 1.0–9.0 L) and in maintenance fluids administered (ranging from one site where no
+maintenance fluid was given to a median 5.77 L [IQR, 4.66–
+6.37 L] in another) (Fig. 2 and Table E1, Supplement Digital
+Content 1, http://links.lww.com/CCM/D719).
+Use of Deresuscitative Measures
+Deresuscitative measures were used on at least 1 day while in
+ICU in 209 patients (52.3%), most commonly for the first time
+on days 2 or 3. Deresuscitative measures were used in 125 of
+400 patients (31.3%) on days 1–3 and in 140 of 320 patients
+(43.8%) on days 4–5. This varied considerably between sites
+from 16.7% to 50.0% of patients on days 1–3 (Fig. 2) and from
+18.2% to 60.6% on days 4–5.
+Fluid Balance and Mortality
+In univariate analysis, 30-day mortality was associated with
+greater fluid balance on days 1–7. The strength of the association decreased over days 1–7 and increased when “early” fluid
+balance (days 1 and 2) was excluded, so that the association
+between fluid balance and 30-day mortality was strongest for
+fluid balance on day 3 alone (odds ratio [OR], 1.32; 95% CI,
+1.17–1.50 per liter) (Table E2, Supplement Digital Content 1,
+http://links.lww.com/CCM/D719). The dose-response relationship between day 3 fluid balance and unadjusted 30-day
+mortality is shown in Figure E1 (Supplement Digital Content
+1, http://links.lww.com/CCM/D719).
+In a multivariate logistic regression model for 30-day mortality, we found daily fluid balance on day 3 to be independently
+associated with 30-day mortality (Table E3, Supplement Digital
+Content 1, http://links.lww.com/CCM/D719). Sensitivity analyses confirmed that the association was strongest for daily fluid
+balance on day 3 alone rather than other fluid balance time
+points (e.g., days 1–3, days 1–5).
+In a sensitivity analysis, we treated day 3 fluid balance as a
+ternary variable, defined as positive balance (> 500 mL), even
+balance (between 500 mL negative and 500 mL positive), or
+negative balance (> 500 mL). Both an “even balance” (adjusted
+OR, 0.40; 95% CI, 0.21–0.80) and “negative balance” (adjusted
+OR, 0.17; 95% CI, 0.07–0.40) were strongly protective compared with positive balance (Table E4, Supplement Digital
+Content 1, http://links.lww.com/CCM/D719).
+Deresuscitative Measures and Mortality
+Of the 123 patients in whom fluid balance on day 3 was negative, a negative balance developed spontaneously (without
+diuretics or RRT) in 70 (56.9%). Patients who achieved a spontaneous negative fluid balance on day 3 of ICU stay were less
+severely ill than either those with a positive fluid balance or
+those who achieved negative fluid balance using deresuscitative measures (Table E5, Supplement Digital Content 1, http://
+links.lww.com/CCM/D719); however, crude mortality was
+lower whether a negative fluid balance occurred in the context
+of deresuscitative measures (p = 0.02) or spontaneously (p <
+0.01) compared with patients who had a positive fluid balance
+on day 3. However, patients who had a positive fluid balance in
+October 2018 • Volume 46 • Number 10
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Clinical Investigations
+
+TABLE 1. Comparison of Patient Characteristics Between Survivors and Nonsurvivors,
+and Candidate Predictor Variables for 30-Day Mortality
+Demographics
+
+All
+(n = 400)
+
+Survivors
+(n = 276)
+
+Nonsurvivors
+(n = 124)
+
+p (Univariate)
+
+Age, yr, median (IQR)
+
+63 (51–74)
+
+60 (48–71)
+
+69 (57–79)
+
+< 0.01
+
+Male sex, n (%)
+
+243 (60.8)
+
+73 (58.9)
+
+170 (61.6)
+
+0.61
+0.01
+
+Admission source, n (%)
+Emergency department
+
+117 (29.3)
+
+89 (32.3)
+
+28 (22.6)
+
+Operating room/recovery
+
+75 (18.8)
+
+64 (23.2)
+
+11 (8.9)
+
+Ward (same hospital)
+
+139 (34.8)
+
+79 (28.6)
+
+60 (48.4)
+
+Other hospital (not ICU)
+
+66 (16.5)
+
+41 (14.9)
+
+25 (20.2)
+
+Other
+
+3 (0.8)
+
+3 (1.1)
+
+0 (0.0)
+0.01
+
+Admission type, n (%)
+Elective surgical
+
+31 (7.8)
+
+28 (10.1)
+
+3 (2.4)
+
+Emergency surgical
+
+81 (20.3)
+
+65 (23.6)
+
+16 (12.9)
+
+Medical
+
+267 (66.8)
+
+162 (58.7)
+
+105 (84.7)
+
+Trauma
+
+21 (5.3)
+
+21 (7.6)
+
+0 (0.0)
+
+77 (60–100)
+
+75 (58–96)
+
+77 (67–113)
+
+Baseline creatinine, μmol/L, median (IQR), (n = 230)
+
+0.05
+0.22
+
+Admission diagnosis, n (%)
+Cardiovascular
+
+64 (16.0)
+
+37 (13.4)
+
+27 (21.8)
+
+Respiratory
+
+132 (33.0)
+
+91 (33.0)
+
+41 (33.1)
+
+Gastrointestinal
+
+85 (21.3)
+
+62 (22.5)
+
+23 (18.6)
+
+Neurologic
+
+36 (9.0)
+
+28 (10.1)
+
+8 (6.5)
+
+Other
+
+83 (20.8)
+
+58 (21.0)
+
+25 (20.2)
+
+18.5 (7.2)
+
+16.8 (6.6)
+
+22.4 (6.9)
+
+0.01
+
+Congestive cardiac failure, n (%)
+
+37 (9.3)
+
+21 (7.6)
+
+16 (12.9)
+
+0.09
+
+End-stage renal disease, n (%)
+
+12 (3.0)
+
+8 (2.9)
+
+4 (3.2)
+
+0.86
+
+Highest MOD score (days 1–2), mean (sd)
+
+4.6 (2.5)
+
+4.1 (2.3)
+
+5.8 (2.6)
+
+< 0.01
+
+Acute Physiology And Chronic Health Evaluation II score,
+mean (sd)
+
+Highest Kidney Disease: Improving Global Outcomes stage
+(days 1–2), n (%)
+
+< 0.01
+
+0
+
+182 (45.5)
+
+148 (53.6)
+
+34 (27.4)
+
+1
+
+99 (24.8)
+
+67 (24.3)
+
+32 (25.8)
+
+2
+
+11 (2.8)
+
+7 (2.5)
+
+4 (3.2)
+
+3
+
+108 (27)
+
+54 (19.6)
+
+54 (43.6)
+
+Lowest Pao2/Fio2 ratio (days 1–2) (n = 397), median (IQR)
+
+174.5 (118–258) 193 (128–271) 137 (91–227)
+
+< 0.01
+
+Lowest mean arterial pressure, days 1–2 (mm Hg), mean (sd)
+
+73.7 (13.3)
+
+75.0 (12.8)
+
+70.9 (13.9)
+
+< 0.01
+
+Vasopressors, days 1–2, n (%)
+
+250 (62.5)
+
+158 (57.2)
+
+92 (74.2)
+
+< 0.01
+
+Highest serum lactate, days 1–2 (mmol/L), mean (sd)
+
+3.8 (3.2)
+
+3.3 (2.6)
+
+4.9 (4.0)
+
+< 0.01
+
+RRT, days 1–2 (n = 399), n (%)
+
+40 (10)
+
+24 (8.7)
+
+16 (12.9)
+
+0.20
+
+RRT with fluid removal, days 1–3, n (%)
+
+40 (10.0)
+
+24 (8.7)
+
+16 (12.9)
+
+0.20
+
+Use of furosemide, days 1–3, n (%)
+
+111 (27.8)
+
+76 (27.5)
+
+35 (28.2)
+
+0.89
+
+0 (0–20)
+
+0 (0–20)
+
+0 (0–20)
+
+0.81
+
+Total furosemide dose, days 1–3 (mg), median (IQR)
+IQR = interquartile range, RRT = renal replacement therapy.
+
+Critical Care Medicine
+
+www.ccmjournal.org
+
+1603
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Silversides et al
+
+In a multivariate model, the association between day 3 fluid
+balance and mortality was robust after dichotomization of
+patients with a negative fluid balance, in that both spontaneous negative fluid balance (adjusted OR, 0.21; 95% CI, 0.08–
+0.56) and negative fluid balance with deresuscitative measures
+(adjusted OR, 0.29; 95% CI, 0.12–0.69) were independently
+associated with lower mortality relative to a positive fluid balance (Table 2).
+In a further sensitivity analysis limited to patients who were
+in a positive fluid balance on day 3, neither furosemide use nor
+RRT with fluid removal was associated with increased 30-day
+mortality (Table E6, Supplement Digital Content 1, http://
+links.lww.com/CCM/D719).
+
+Figure 1. Cumulative and daily fluid balances over time for survivors and
+nonsurvivors. *p < 0.05.
+
+Fluid Balance and Organ Function Scores
+Missing central venous pressure values were imputed as 8 mm
+Hg for 971 of 1,869 measurements (52.0%) for the purpose of
+calculating MODS. A greater fluid balance on day 3 was associated with worsening organ dysfunction reflected in an increasing MOD score over the subsequent 2 days, after adjustment
+for change in MOD score over days 1–3 (coefficient 0.2/L; 95%
+CI, 0.1–0.3). This association was not identified in any specific
+organ system subscore.
+We found a weakly positive association between delta MOD
+score over any 1-day period and daily fluid balance over the
+same period (number of days = 2,115; coefficient = 0.06/L
+[95% CI, 0.03–0.08]). This association was similar whether the
+fluid balance occurred in the context of deresuscitative measures or not.
+Fluid Balance and Other Outcomes
+In multivariate models, greater fluid balance on day 3 was associated with longer duration of ICU stay (Table E7, Supplement
+Digital Content 1, http://links.lww.com/CCM/D719) and with
+increased duration of invasive mechanical ventilation in survivors (Table E8, Supplement Digital Content 1, http://links.
+lww.com/CCM/D719). Negative fluid balance in the context
+of deresuscitation was associated with shorter duration of
+mechanical ventilation and a shorter length of ICU stay in survivors. Fluid balance on day 3 was not associated with change
+in KDIGO AKI stage over the following 2 days (days 3–5) of
+ICU admission.
+Predictors of Positive Fluid Balance
+Independent predictors of a positive fluid balance on day 3 of
+ICU admission were vasopressor use, serum creatinine, blood
+product transfusion, and treatment in a Canadian site, while
+furosemide use predicted a less positive fluid balance (Table 3).
+
+DISCUSSION
+Figure 2. Median fluid input and output and use of deresuscitative
+measures for days 1–3 by study site. RRT = renal replacement therapy.
+
+the context of deresuscitative measures had the highest crude
+mortality (Fig. E2, Supplement Digital Content 1, http://links.
+lww.com/CCM/D719).
+1604
+
+www.ccmjournal.org
+
+In this binational study of a broad cohort of critically ill
+patients, we found that a negative fluid balance on day 3 of
+ICU stay is associated with lower 30-day mortality whether
+occurring spontaneously or achieved with deresuscitative
+measures; that medication diluents, rather than IV fluids, represent the single largest component of fluid input; and that
+October 2018 • Volume 46 • Number 10
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Clinical Investigations
+
+TABLE 2. Multivariable Logistic Regression Model for Outcome of 30-Day Mortality, Fluid
+Balance on Day 3 Trichotomized as Positive (Reference Group), Spontaneously Negative,
+or Negative With Deresuscitative Measures
+Variables
+
+OR (95% CI)
+
+p
+
+Age (/yr)
+
+1.04 (1.02–1.06)
+
+< 0.01
+
+Acute Physiology and Chronic Health Evaluation II score (per point)
+
+1.04 (0.99–1.09)
+
+0.09
+
+Congestive cardiac failure
+
+0.86 (0.34–2.21)
+
+0.76
+
+Multiple Organ Dysfunction Scores (highest on days 1 and 2, per point)
+
+1.16 (1.02–1.31)
+
+0.02
+
+Kidney Disease: Improving Global Outcomes stage (highest on days 1 and 2, per stage)
+
+1.10 (0.88–1.39)
+
+0.40
+
+Maximum serum lactate (days 1 and 2, per mmol/L)
+
+1.08 (0.99–1.18)
+
+0.08
+
+Days of vasopressors (days 1–3)
+
+1.14 (0.89–1.44)
+
+0.30
+
+Admission source
+Ward
+
+Reference
+
+Emergency department
+
+0.32 (0.16–0.65)
+
+< 0.01
+
+Operating room/recovery room
+
+0.69 (0.23–2.02)
+
+0.50
+
+Other hospital
+
+0.72 (0.34–1.55)
+
+0.41
+
+Surgical admission type
+
+0.22 (0.09–0.53)
+
+< 0.01
+
+Early fluid balance (up to 2 d, per liter)
+
+1.08 (0.99–1.17)
+
+0.07
+
+Positive fluid balance on day 3
+
+Reference
+
+Spontaneous negative fluid balance on day 3
+
+0.21 (0.08–0.56)
+
+< 0.01
+
+Negative fluid balance with deresuscitative measures on day 3
+
+0.29 (0.12–0.69)
+
+< 0.01
+
+OR = odds ratio.
+n = 377, Pseudo r2 = 0.28. Pearson goodness of fit, p = 0.88.
+
+TABLE 3. Multivariate Linear Regression Model for the Outcome of Day 3 Fluid Balance
+Variables
+
+Coefficient (95% CI)
+
+p
+
+Acute Physiology And Chronic Health Evaluation II score (per point)
+
+0.01 (–0.02 to 0.04)
+
+0.37
+
+Canadian site
+
+0.91 (0.39–1.42)
+
+< 0.05
+
+Change in Multiple Organ Dysfunction Scores, days 1– 3 (per point)
+
+0.06 (–0.03 to 0.14)
+
+0.30
+
+Transfusion of blood products, day 3
+
+0.65 (0.06–1.24)
+
+0.13
+
+Maximum lactate, day 3 (per mmol/L)
+
+0.13 (–0.00 to 0.27)
+
+0.35
+
+Vasopressors, day 3
+
+0.53 (0.14–0.92)
+
+0.03
+
+Pao2/Fio2 ratio, day 3 (per 10 mm Hg)
+
+–0.01 (–0.03 to 0.01)
+
+0.27
+
+Creatinine, day 3 (per μmol/L)
+
+0.02 (0.00–0.04)
+
+0.03
+
+Cumulative fluid balance, days 1–2
+
+0.14 (0.07–0.20)
+
+< 0.01
+
+Total furosemide dose, day 3 (per 10 mg)
+
+–0.13 (–0.18 to –0.08)
+
+< 0.01
+
+Renal replacement therapy, day 3
+
+–0.08 (–0.72 to 0.56)
+
+0.70
+
+marked practice variability exists in the use of fluid therapy
+and ­deresuscitative measures.
+There are two possible interpretations of our findings. First,
+positive fluid balance may be a biomarker of greater severity,
+complexity, or duration of critical illness, in which case attempts
+to modify fluid balance using diuretics or ultrafiltration may
+Critical Care Medicine
+
+be unhelpful or even harmful. Alternatively, several considerations support our hypothesis that fluid balance represents an
+iatrogenic factor in critical illness which may be modified by
+deresuscitative measures. First, rigorous attempts were made to
+minimize confounding by illness severity, comorbidities, and
+early illness course and to adjust for early fluid balance which
+www.ccmjournal.org
+
+1605
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Silversides et al
+
+is most likely to be impacted by resuscitation fluid volumes.
+Second, negative fluid balance was independently associated
+with lower mortality even when occurring in the context of
+deresuscitative measures and not spontaneously. Third, we
+found a positive association between daily fluid balance and
+other outcomes such as delta MOD score, and this association was present whether deresuscitative measures were used
+or not. Finally, much of the variation in fluid input derives
+from potentially modifiable practice factors, particularly the
+use of maintenance fluids, rather than from bolus fluids which
+are likely to reflect perceived clinical need. It is reassuring
+that even in those patients in whom deresuscitative measures
+were “unsuccessful,” in that fluid balance remained positive,
+there was no evidence of worse outcomes after adjustment for
+potential confounders.
+We attempted to identify the time point at which fluid balance was most closely associated with outcome. Reasoning
+that much of the fluid administered early in the ICU stay may
+constitute fluid boluses for resuscitation, we separated these
+into “early” and “late” fluid balance variables. We found the
+strongest associations with outcome to be with fluid balance
+on day 3 alone, after adjustment for early (days 1–2) fluid balance. This was also the most common point at which spontaneous negative fluid balance occurred, and the first use of
+deresuscitative measures was most commonly on day 2 or
+3. Although patients are unlikely to all follow the same time
+trajectory, it is possible that day 3 of ICU stay represents a
+pivotal point at which many patients begin to demonstrate
+spontaneous negative fluid balance or are perceived to be suitable for deresuscitative measures. Independent predictors of
+a positive fluid balance on day 3 included markers of hemodynamic instability and renal dysfunction. The strongest risk
+factor, however, after adjustment for patient and disease characteristics was treatment in one of the three Canadian ICUs
+in the cohort. Marked variability in practice patterns between
+sites highlights the potentially modifiable nature of fluid
+accumulation.
+Our study has limitations. The sample size is modest, and
+practice variability is evaluated in only 10 separate sites: the
+results may not therefore be representative, and practice variability may be underrecognized. The retrospective nature
+of our study made it impossible to determine indications or
+clinician intent for practice variables. Our definition of deresuscitative measures, therefore, was pragmatic, representing
+“presumed attempted deresuscitation” as we captured only
+the use of furosemide and no other diuretics or RRT with any
+removal of fluid. We lacked hourly urine output data, limiting
+our ability to distinguish KDIGO stages 2 and 3 using urine
+output criteria. In the absence of prospective screening, we
+lacked data on excluded patients, and in addition, we lacked
+data on pre-ICU fluid balance. Finally, despite adjustment for
+illness severity, we cannot exclude the possibility that the association between positive fluid balance and poor outcomes represents residual confounding by indication.
+In conclusion, we demonstrate that negative fluid balance, whether occurring spontaneously or achieved through
+1606
+
+www.ccmjournal.org
+
+deresuscitative measures, is associated with lower mortality.
+We found considerable practice variation in the use of IV fluids
+and in the use of deresuscitative measures and demonstrated
+that the largest source of fluid intake is from maintenance fluids, leading us to infer that fluid balance is a practice driven and
+therefore modifiable variable. We identified day 3 as potentially
+a pivotal time point for intervention.
+An approach involving limited maintenance fluid intake,
+and deresuscitative measures if required to minimize fluid
+balance on day 3 of ICU stay onwards, therefore, represents a
+promising therapeutic strategy which merits investigation in
+randomized controlled trials.
+
+ACKNOWLEDGMENTS
+We acknowledge the invaluable contributions of Orla Smith,
+Elaine Caon, Tanya Longmuir, Paul Caddell, and Griania White
+to the administration of the study.
+
+REFERENCES
+
+1. Rhodes A, Evans LE, Alhazzani W, et al: Surviving Sepsis Campaign:
+International guidelines for management of sepsis and septic shock:
+2016. Intensive Care Med 2017; 43:304–377
+2. Marik PE, Linde-Zwirble WT, Bittner EA, et al: Fluid administration
+in severe sepsis and septic shock, patterns and outcomes: An
+analysis of a large national database. Intensive Care Med 2017;
+43:625–632
+3. Payen D, de Pont AC, Sakr Y, et al; Sepsis Occurrence in Acutely Ill
+Patients (SOAP) Investigators: A positive fluid balance is associated
+with a worse outcome in patients with acute renal failure. Crit Care
+2008; 12:R74
+4. Rosenberg AL, Dechert RE, Park PK, et al; NIH NHLBI ARDS Network: Review of a large clinical series: Association of cumulative fluid
+balance on outcome in acute lung injury: A retrospective review of
+the ARDSnet tidal volume study cohort. J Intensive Care Med 2009;
+24:35–46
+5. Acheampong A, Vincent JL: A positive fluid balance is an independent
+prognostic factor in patients with sepsis. Crit Care 2015; 19:251
+6. Boyd JH, Forbes J, Nakada TA, et al: Fluid resuscitation in septic
+shock: A positive fluid balance and elevated central venous pressure are associated with increased mortality. Crit Care Med 2011;
+39:259–265
+7. Vaara ST, Korhonen AM, Kaukonen KM, et al; FINNAKI Study Group:
+Fluid overload is associated with an increased risk for 90-day mortality in critically ill patients with renal replacement therapy: Data from
+the prospective FINNAKI study. Crit Care 2012; 16:R197
+8. Silversides JA, Pinto R, Kuint R, et al: Fluid balance, intradialytic
+hypotension, and outcomes in critically ill patients undergoing renal
+replacement therapy: A cohort study. Crit Care 2014; 18:624
+9. Prowle JR, Echeverri JE, Ligabo EV, et al: Fluid balance and acute
+kidney injury. Nat Rev Nephrol 2010; 6:107–115
+10. Hjortrup PB, Haase N, Bundgaard H, et al; CLASSIC Trial Group;
+Scandinavian Critical Care Trials Group: Restricting volumes of
+resuscitation fluid in adults with septic shock after initial management:
+The CLASSIC randomised, parallel-group, multicentre feasibility trial.
+Intensive Care Med 2016; 42:1695–1705
+11. Chen C, Kollef MH: Targeted fluid minimization following initial
+resuscitation in septic shock: A pilot study. Chest 2015; 148:1462–
+1469
+12. Wiedemann HP, Wheeler AP, Bernard GR, et al; National Heart, Lung,
+and Blood Institute Acute Respiratory Distress Syndrome (ARDS)
+Clinical Trials Network: Comparison of two fluid-management strategies in acute lung injury. N Engl J Med 2006; 354:2564–2575
+13. Silversides JA, Major E, Ferguson AJ, et al: Conservative fluid management or deresuscitation for patients with sepsis or acute respiraOctober 2018 • Volume 46 • Number 10
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Clinical Investigations
+tory distress syndrome following the resuscitation phase of critical
+illness: A systematic review and meta-analysis. Intensive Care Med
+2017; 43:155–170
+14. Martin GS, Moss M, Wheeler AP, et al: A randomized, controlled
+trial of furosemide with or without albumin in hypoproteinemic patients with acute lung injury. Crit Care Med 2005; 33:
+1681–1687
+
+15. Marshall JC, Cook DJ, Christou NV, et al: Multiple organ dysfunction
+score: A reliable descriptor of a complex clinical outcome. Crit Care
+Med 1995; 23:1638–1652
+16. Marshall JC: Measuring organ dysfunction in the intensive care unit:
+Why and how? Can J Anaesth 2005; 52:224–230
+17. Kwaja A: KDIGO clinical practice guideline for acute kidney injury.
+Nephron Clin Pract 2012; 120:179–184
+
+APPENDIX 1. ROLE OF ACTIVE
+DERESUSCITATION AFTER RESUSCITATION
+(RADAR) INVESTIGATORS
+
+Espie; Mount Sinai Hospital, Toronto, ON, Canada: Stephen
+Lapinsky*, Lindsay Hurlburt, Emma Fitzgerald, Jonathan A.
+Silversides, Eleanor Hung; Queen Alexandra Hospital, Portsmouth, United Kingdom: David Pogson*, Emma Fitzgerald,
+Joe Schrieber, Sarah Birkhelzer, Genevieve Baragwanath; Royal
+Victoria Hospital, Belfast, United Kingdom: Jonathan A. Silversides*, Claire Shevlin, Padraig Headley, Darryl Stewart; Saint
+Michael’s Hospital, Toronto, ON, Canada (two sites: MedicalSurgical ICU and Trauma-Neurosurgical ICU): John C. Marshall*, Uma Shankar Manickavasagam, Orla Smith, Thomas
+Whitelegg; Ulster Hospital, Dundonald, United Kingdom: T.
+John Trinder*, Samantha Hagan, Caroline Riddell.
+
+Study sites and investigators (*denotes Principal Investigator):
+Altnagelvin Area Hospital, Londonderry, United Kingdom:
+Noel Hemmings*, Sinead O’Kane; Antrim Area Hospital, Antrim, United Kingdom: Christopher Nutt*, Orla O’Neill, Emma
+McKay; Belfast City Hospital, Belfast, United Kingdom: Jonathan A. Silversides*, Claire Montgomery, Christopher Murray,
+John McCaffrey; Craigavon Area Hospital, Portadown, United
+Kingdom: Andrew J. Ferguson*, Jennifer Cosgrove, Laura
+
+Critical Care Medicine
+
+www.ccmjournal.org
+
+1607
+
+Copyright © 2018 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+

@@ -1,0 +1,343 @@
+Natriuretic Peptide-Driven Fluid Management During Ventilator Weaning:
+A Randomized Controlled Trial
+
+Mekontso Dessap A, Roche-Campo F, Kouatchet A, Tomicic V, Beduneau G,
+Sonneville R, Cabello B, Jaber S, Azoulay E, Castanares-Zapatero D, Devaquet J,
+Lellouche F, Katsahian S, Brochard L.
+
+Am J Respir Crit Care Med. 2012 Dec 15;186(12):1256-63.
+DOI: 10.1164/rccm.201205-0939OC
+PMID: 22997204
+
+Source: Oxford Academic (free access), retrieved 2026-03-29
+
+================================================================================
+
+ABSTRACT
+
+Rationale: Difficult weaning from mechanical ventilation is often associated
+with fluid overload. B-type natriuretic peptide (BNP) has been proposed as a
+tool for predicting and detecting weaning failure of cardiovascular origin.
+
+Objectives: To investigate whether fluid management guided by daily BNP plasma
+concentrations improves weaning outcomes compared with empirical therapy
+dictated by clinical acumen.
+
+Methods: In a randomized controlled multicenter study, we allocated 304 patients
+to either a BNP-driven or physician-driven strategy of fluid management during
+ventilator weaning. To standardize the weaning process, patients in both groups
+were ventilated with an automatic computer-driven weaning system. The primary
+end point was time to successful extubation.
+
+Measurements and Main Results: In the BNP-driven group, furosemide and
+acetazolamide were given more often and in higher doses than in the control
+group, resulting in a more negative median (interquartile range) fluid balance
+during weaning (-2,320 [-4,735, 738] vs. -180 [-2,556, 2,832] ml; P < 0.0001).
+Time to successful extubation was significantly shorter with the BNP-driven
+strategy (58.6 [23.3, 139.8] vs. 42.4 [20.8, 107.5] h; P = 0.034). The
+BNP-driven strategy increased the number of ventilator-free days but did not
+change length of stay or mortality. The effect on weaning time was strongest in
+patients with left ventricular systolic dysfunction. The two strategies did not
+differ significantly regarding electrolyte imbalance, renal failure, or shock.
+
+Conclusions: Our results suggest that a BNP-driven fluid management strategy
+decreases the duration of weaning without increasing adverse events, especially
+in patients with left ventricular systolic dysfunction.
+
+Clinical trial registered with www.clinicaltrials.gov (NCT00473148).
+
+================================================================================
+
+INTRODUCTION
+
+Mechanical ventilation complications escalate with prolonged duration. Since
+weaning constitutes roughly 40% of total ventilation time, optimizing this
+process represents the primary mechanism for shortening respiratory support
+duration.
+
+Multiple investigations suggest mechanically ventilated ICU patient outcomes
+improve through reduced pulmonary capillary wedge pressure and minimized
+positive fluid balance during weaning. Fluid overload demonstrably precipitates
+cardiac-origin weaning failure.
+
+BNP, secreted by ventricular cardiomyocytes responding to increased wall stress,
+independently predicts weaning failure at baseline assessment. Natriuretic
+peptides show documented utility for predicting and diagnosing cardiac-origin
+weaning failure.
+
+The authors hypothesized that daily BNP-guided fluid management would outperform
+empirical clinician-directed approaches during weaning. They tested this using
+automated weaning systems (AWS) across multiple international centers.
+
+================================================================================
+
+METHODS
+
+Patient Selection
+-----------------
+
+Daily ICU screening identified eligible candidates. Inclusion criteria required
+endotracheal mechanical ventilation >=24 hours, SpO2 >=90% with FiO2 <=50% and
+PEEP <=8 cm H2O, hemodynamic stability without vasopressor therapy or recent
+fluid boluses, decreased sedation over preceding 48 hours, stable neurological
+status (Ramsay score <=5), and temperature 36-39 degrees C.
+
+Permanent exclusions included pregnancy/lactation, age <18 years, documented
+furosemide/sulfonamide allergy, tracheostomy, hepatic encephalopathy, cerebral
+edema, acute hydrocephalus, myasthenia gravis, acute polyradiculoneuropathy, and
+withdrawal-of-care decisions.
+
+Temporary exclusions encompassed scheduled same-day extubation, acute right
+ventricular failure, renal insufficiency, recent iodinated contrast exposure,
+hypernatremia (>150 mEq/L), hypokalemia (<3.5 mEq/L), and metabolic alkalosis
+(pH >7.50).
+
+Study Protocol
+--------------
+
+Volume-assist or pressure-control ventilated patients underwent positive
+pressure support (PS) testing before enrollment. Already PS-ventilated patients
+required confirmation of positivity criteria. Spontaneous breathing trials were
+not mandated; only PS testing was required.
+
+Randomization
+-------------
+
+Eligible patients with positive PS tests underwent centralized web-based block
+randomization via independent platforms, stratified by center and underlying
+disease (COPD presence, left ventricular systolic dysfunction [LVD, ejection
+fraction <45%], or neither). This ensured homogeneous COPD and LVD distribution
+across treatment arms.
+
+BNP Measurement
+---------------
+
+Morning blood samples underwent BNP analysis using rapid immunofluorescence
+testing (Triage BNP test; Biosite). Intervention-group devices displayed
+results; control-group devices concealed results until study conclusion.
+
+Fluid Management Strategies
+----------------------------
+
+Control Group: Clinicians remained blinded to BNP values. All treatments,
+including diuretics, followed standard institutional practices without explicit
+protocols.
+
+BNP-Guided Group: On days with BNP >=200 pg/ml, aggressive fluid restriction
+was implemented (baseline infusion <=500 ml/24h, parenteral nutrition <=1,000
+ml/24h, no saline solutions beyond nutrition and medications) with intravenous
+furosemide boluses (10-30 mg every 3 hours targeting 4.5-9 ml/kg/3h urine
+output). The 200 pg/ml threshold reflected prior evidence distinguishing weaning
+success from failure. Fluid restriction and diuretics continued >=24 hours
+post-extubation.
+
+Daily monitoring included sodium, potassium, urea, creatinine, and arterial
+blood gas analysis. Protocols provided recommendations preventing/treating
+diuretic-related adverse effects.
+
+Ventilatory Management
+----------------------
+
+Both groups used AWS, gradually reducing PS levels while maintaining respiratory
+comfort. Once AWS declared patients "ready for separation," extubation proceeded
+after confirming additional criteria. Assist-control ventilation resumed if
+respiratory deterioration occurred (respiratory rate >40/min or hypoxemia
+requiring FiO2 >60% and PEEP >8 cm H2O). Tracheostomy was deferred until Day 10
+when possible.
+
+Endpoints
+---------
+
+Primary: Time from randomization to successful extubation (alive without
+reintubation 72 hours post-extubation).
+
+Secondary: Time to first extubation, time to successful weaning from
+invasive/noninvasive ventilation, ventilator-free days within 60 days, ICU/
+hospital lengths of stay, ICU/hospital mortality, and Day-60 mortality.
+
+Statistical Analysis
+--------------------
+
+Sample size calculations assumed >=40% weaning duration reduction in the BNP
+group compared to controls (alpha=0.05, power=0.90). Previous AWS trials
+reported 4.4 +/- 4.0 days median weaning. Assuming higher variability and
+accounting for potential nonparametric testing requirements, 150 patients per
+group were deemed necessary.
+
+Categorical variables underwent chi-square or Fisher exact testing. Continuous
+variables underwent Mann-Whitney testing. Kaplan-Meier methods assessed
+successful extubation probability. Breslow-Gehan-Wilcoxon testing examined
+differences between groups. Gray model analysis considered continuous sedation
+requirements as competing events. Two-tailed P < 0.05 indicated significance.
+
+================================================================================
+
+RESULTS
+
+Enrollment and Baseline Characteristics
+----------------------------------------
+
+Of 1,464 screened patients (May 2007-July 2009), 306 underwent randomization
+(152 control, 154 BNP-guided). Two BNP-guided patients were excluded due to
+withdrawn consent unrelated to protocol aspects.
+
+Baseline similarities included demographics, intubation reasons, illness
+severity, respiratory function, pre-study mechanical ventilation duration, and
+urine output. BNP values at randomization and COPD/LVD proportions were
+comparable. Overall, patients with LVD showed higher baseline BNP (552 pg/ml)
+than COPD (263 pg/ml) or neither-disease groups (230 pg/ml).
+
+Diuretics and Fluid Balance
+----------------------------
+
+Comparable proportions experienced >=1 daily BNP value >=200 pg/ml during
+weaning. The BNP-guided cohort received diuretics more frequently at higher
+doses:
+
+- Furosemide use: 81.6% versus 71.1%
+- Acetazolamide use: 42.8% versus 21.7%
+- Median cumulative furosemide: 118 mg versus 70 mg
+
+This produced significantly more negative median fluid balance during weaning
+(-2,320 ml versus -180 ml; P < 0.0001) and greater average daily urine output
+(2,836 ml versus 2,273 ml; P < 0.0001). Fluid intake was comparable.
+Extubation-day and post-extubation fluid balances showed no significant
+differences.
+
+Primary Outcomes
+----------------
+
+Time to successful extubation was significantly shorter in the BNP-guided group
+(median 42.4 hours versus 58.6 hours; P = 0.034). Time to first extubation also
+favored intervention (39.8 hours versus 47.7 hours; P = 0.019).
+
+Ventilator-free days increased substantially:
+- Days 1-14: 12.0 versus 9.7 days (P = 0.026)
+- Days 1-28: 25.9 versus 23.3 days (P = 0.038)
+- Days 1-60: 57.9 versus 54.9 days (P = 0.015)
+
+Successful weaning from invasive/noninvasive ventilation showed borderline
+significance (49.3 hours versus 74.4 hours; P = 0.051).
+
+Length of stay was comparable (ICU: 8.0 days both groups; Hospital: 20.0 days
+both groups). Mortality rates showed no differences (ICU: 11.8% versus 12.5%;
+Hospital: 13.2% versus 16.4%; Day-60: 13.8% versus 18.4%).
+
+Subgroup Analysis: Strongest benefits appeared in LVD patients, with significant
+differences in time to first extubation, successful extubation, and successful
+weaning. COPD and neither-disease groups showed less pronounced effects.
+
+Complications During Weaning
+-----------------------------
+
+Respiratory complications: BNP-guided patients experienced fewer clinical
+worsenings requiring reventilation (27.6% versus 43.4%; P = 0.004) and less
+ventilator-associated pneumonia (9.2% versus 17.8%; P = 0.029). Noninvasive
+ventilation needs post-extubation, 72-hour reintubation rates, tracheostomy
+rates, and prolonged ventilation (>14 days) were similar.
+
+Cardiovascular complications: Supraventricular/ventricular arrhythmias,
+hypotension, and catecholamine requirements were comparable. BNP-guided patients
+required less fluid loading (23.7% versus 34.9%; P = 0.032).
+
+Neurological: Fewer BNP-guided patients needed continuous sedation for worsening
+(40.1% versus 52.6%; P = 0.029). Analgesia requirements were similar.
+
+Renal/metabolic: No between-group differences in hypokalemia, hypernatremia,
+metabolic alkalosis, or renal failure. No dialysis was required in either group.
+
+================================================================================
+
+DISCUSSION
+
+This trial demonstrates that straightforward BNP-guided fluid management
+reduces mechanical ventilation duration without increasing organ failures.
+
+Mechanistic advantages of BNP guidance likely include preventive,
+patient-tailored strategies enabling conservative fluid management in high-risk
+populations. Acute heart failure represents a common unsuccessful-weaning cause.
+Its complex pathophysiology involves intrathoracic pressure changes, cardiac
+loading alterations, left ventricular systolic/diastolic dysfunction, and fluid
+overload. Positive fluid balance associates with prolonged ventilation and
+extubation failure. Previous open studies demonstrated successful weaning
+achievement following diuretic treatment in weaning-induced heart failure. BNP
+measurement incentivized negative fluid balance while predefined protocols
+standardized management, minimizing bias.
+
+Prior goal-directed fluid management studies in mechanically ventilated
+critically ill patients demonstrated beneficial effects targeting lower fluid
+balances. However, they differed in protocols, populations, and intervention
+timing. This study used BNP in early-weaning-eligible patients, whereas prior
+research typically employed complex algorithms targeting invasive parameters
+(extravascular lung water, central venous pressure, pulmonary artery occlusion
+pressure). BNP offers practical advantages: invasive measurements prove
+difficult implementing during weaning's decreasing-invasiveness phase, and large
+intrathoracic pressure swings complicate conventional cardiovascular dysfunction
+diagnosis. These factors have generated cardiac biomarker interest during
+weaning. Prior data suggest natriuretic peptides may predict weaning outcomes
+and distinguish cardiovascular-origin weaning failure.
+
+Superior outcomes with explicit BNP-guided pharmacotherapy versus empirical
+clinician approaches have been documented elsewhere, particularly outpatient
+chronic heart failure and emergency dyspnea presentations. This study's
+strongest LVD benefits align with BNP physiology: natriuretic peptides are
+left-ventricle-secreted responding to left-ventricular wall stretch, correlating
+closely with filling pressures in LVD patients. LVD represents
+cardiovascular-origin weaning-failure risk. High-pressure pulmonary edema and
+inadequate cardiac output may significantly impede LVD weaning. Conversely,
+other groups experience weaning difficulties from respiratory-mechanical,
+elevated-work-of-breathing, or CO2-retention factors (particularly COPD).
+Additionally, COPD-related elevated BNP may partly reflect pulmonary
+hypertension and right-ventricular afterload increases -- cardiac dysfunction
+potentially less responsive to diuretics.
+
+Lower ventilator-associated pneumonia rates in BNP-guided cohorts may reflect
+decreased ventilator-exposure risk (earlier separation) and fluid balance's
+direct infectivity effects. Strict pneumonia-diagnosis criteria limited
+respiratory-symptom-worsening misattribution to pulmonary edema.
+
+Hemodynamic/renal safety: The BNP-guided strategy produced no adverse
+hemodynamic or renal consequences. Arterial pressure, vasopressor requirements,
+blood urea, and creatinine were comparable. Protocol design minimized risks;
+diuretic therapy underwent patient-response titration and was withheld during
+worsening renal function. Acetazolamide frequent use prevented alkalemia. Close
+electrolyte monitoring maintained comparable levels.
+
+Study limitations included testing specific management strategies with multiple
+safeguards, precluding certainty regarding simplified zero-balance or
+zero-weight-gain targets. Inclusion/exclusion criteria departures could produce
+different outcomes. ICU fluid-balance culture may influence generalizability.
+Although cardiac dysfunction predominantly drives BNP variations, sepsis and
+renal failure also significantly contribute. Renal-failure patients were excluded
+due to renal-function influences on BNP levels.
+
+The weaning procedure's relative brevity in control groups may reflect selection
+criteria and/or AWS use. AWS allowed optimal weaning standardization. Given lack
+of blinding and participating physician awareness of study questions,
+control-group diuretic utilization may have exceeded usual practice, potentially
+minimizing between-group weaning-duration differences. Although greater clinician
+involvement in BNP-guided groups cannot be excluded, strict diuresis protocols
+and AWS use achieved relatively physician-independent weaning.
+
+================================================================================
+
+CONCLUSIONS
+
+BNP-driven fluid management during weaning decreased fluid balance and weaning
+duration without increasing adverse events compared with physician-guided
+approaches, particularly in LVD patients. No significant mortality rate or
+length-of-stay differences emerged.
+
+================================================================================
+
+KEY FINDINGS SUMMARY
+
+- Intervention: BNP values >=200 pg/ml triggered fluid restriction and diuretic
+  protocols
+- Primary finding: 16-hour median extubation-time reduction (58.6 -> 42.4 hours)
+- Safety profile: No increased electrolyte imbalances, renal failure, or
+  mortality
+- Strongest benefit: Left ventricular systolic dysfunction patients
+- Mechanism: Reduced fluid overload facilitating cardiac-origin weaning success
+- Study design: Multicenter RCT, n=304, May 2007-July 2009
+- Registration: NCT00473148

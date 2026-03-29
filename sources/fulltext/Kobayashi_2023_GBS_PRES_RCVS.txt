@@ -1,0 +1,283 @@
+Guillain-Barre Syndrome Complicated by Posterior Reversible Encephalopathy Syndrome
+and Reversible Cerebral Vasoconstriction Syndrome
+
+Haruka Kobayashi (1), Yoji Hoshina (2), Hidemasa Higa (3), Takashi Watari (4,5)
+
+1. Department of General Internal Medicine, Nakagami Hospital, Okinawa, Japan
+2. Department of Neurology, University of Utah, Salt Lake City, Utah, USA
+3. Chibana Clinic Neurology, Nakagami Hospital, Okinawa, Japan
+4. General Medicine Center, Shimane University Hospital, Shimane, Japan
+5. Department of Medicine, University of Michigan Medical School, Michigan, USA
+
+European Journal of Case Reports in Internal Medicine. 2023;10(10):003949.
+Published: August 16, 2023
+DOI: 10.12890/2023_003949
+PMID: 37789979
+PMCID: PMC10545146
+
+Open Access: (c) EFIM 2023
+
+Keywords: Guillain-Barre syndrome, posterior reversible encephalopathy syndrome,
+reversible cerebral vasoconstriction syndrome, hyponatraemia
+
+================================================================================
+
+ABSTRACT
+
+Introduction: Guillain-Barre syndrome is an immune-mediated inflammatory
+polyneuritis characterised by rapidly progressive flaccid paralysis. Guillain-Barre
+syndrome may present with posterior reversible encephalopathy syndrome or reversible
+cerebral vasoconstriction syndrome in rare cases.
+
+Case Description: A woman in her 60s with a history of follicular lymphoma presented
+with a one-week history of difficulty walking and thunderclap headaches. The patient
+was diagnosed with Guillain-Barre syndrome based on neurological examination,
+cerebrospinal fluid analysis and nerve conduction findings. Further diagnosis of
+posterior reversible encephalopathy and reversible cerebral vasoconstriction syndromes
+was based on imaging findings and headache history. The patient was treated with
+intravenous immunoglobulin and amlodipine, and symptoms improved.
+
+Discussion: We reviewed the literature on Guillain-Barre syndrome associated with
+posterior reversible encephalopathy and/or reversible cerebral vasoconstriction
+syndrome. The underlying pathophysiology may involve dysautonomia resulting in
+unstable blood pressure, and hyponatraemia causing endothelial dysfunction. The SNOOP
+mnemonic highlights the 'red flags'. This SNOOP mnemonic suggests the possibility of
+secondary headaches that require imaging studies. In this case, the patient exhibited
+three SNOOP symptoms: S (history of malignancy: follicular lymphoma), O (sudden-onset
+headache) and O (over 50 years old).
+
+Conclusion: This case highlights the importance of considering coexisting central
+neurological disorders in patients with Guillain-Barre syndrome.
+
+Learning Points:
+- Guillain-Barre syndrome (GBS) alone rarely causes headaches; therefore, when GBS
+  patients complain of severe headaches, especially when the headache is associated
+  with 'red flags', other complications and differential diagnosis should be
+  considered.
+- Posterior reversible encephalopathy syndrome (PRES) and reversible cerebral
+  vasoconstriction syndrome (RCVS) can be triggered by GBS.
+- Hyponatraemia, age over 50 years and female gender may be risk factors for
+  developing PRES and RCVS in GBS patients.
+
+================================================================================
+
+INTRODUCTION
+
+Guillain-Barre syndrome (GBS) is an immune-mediated inflammatory polyneuritis, a
+disease clinically characterised by rapidly progressive flaccid paralysis and various
+sensory disturbances [1]. GBS is an independent risk factor for posterior reversible
+encephalopathy syndrome (PRES) [2]. In addition, reversible cerebral vasoconstriction
+syndrome (RCVS) has been reported in GBS patients [3].
+
+PRES presents as visual disturbances, headaches, vomiting, seizures, and
+disorientation and is characterised by its clinical manifestations plus imaging
+findings on CT or MRI [4].
+
+Patients with RCVS suffer recurrent thunderclap headaches, and seizures and focal
+neuropathy may follow the headache. RCVS diagnosis requires clinical presentation
+including thunderclap headache, vasogenic edema on head CT/MRI, cerebral arterial
+vasoconstriction on MRA, and the absence of aneurysmal subarachnoid haemorrhage [5].
+
+Here, we present a case of a patient with all three conditions: GBS, PRES, and RCVS.
+We propose that this relationship is causal rather than coincidental, and represents a
+continuum between GBS as a peripheral immune-mediated disease and the central
+neurologic syndromes PRES and RCVS.
+
+================================================================================
+
+CASE DESCRIPTION
+
+A woman in her 60s presented with a one-week history of difficulty walking following
+fever. She reported recent thunderclap headaches with sudden, holocranial onset and
+10/10 intensity.
+
+Medical History:
+- Follicular lymphoma (2-year history)
+- Recent chemotherapy (5-month treatment course, currently in remission)
+- Daily non-steroidal anti-inflammatory drug use
+- No history of hypertension
+- No history of migraine
+- No immunosuppressive medications for at least one year
+
+Brain CT at an outside hospital revealed no acute intracranial infarction or
+haemorrhage but showed hypoattenuation in the bilateral occipital lobes.
+
+Vital Signs on Hospital Arrival:
+- Heart rate: 95 beats/min (regular rhythm)
+- Blood pressure: 168/93 mmHg
+- Respiratory rate: 17/min
+- Oxygen saturation: 95% (ambient air)
+- Body temperature: 36.5 degrees C
+- No papilloedema observed
+
+Neurological Examination:
+- Muscle weakness: Medical Research Council grade 4/5 in upper extremities, 3/5 in
+  lower extremities
+- Loss of tendon reflexes: bilateral upper and lower extremities
+- Tactile sensation: reduced in right L5 region
+- Nuchal rigidity: absent
+- Kernig's sign: absent
+- Brudzinski's sign: absent
+
+Laboratory Findings:
+- WBC count: 5.4 x 10^3/ul (reference: 4.0-9.0 x 10^3/ul)
+- Sodium: 121 mmol/l (reference: 135-145 mmol/l) -- significant hyponatraemia
+- C-reactive protein: 0.07 mg/dl (reference: 0.00-0.14 mg/dl)
+- Erythrocyte sedimentation rate: 10 mm/h (reference: 1-20 mm/h)
+- Other complete blood count and metabolic panels: unremarkable
+
+Cerebrospinal Fluid Analysis:
+- WBC count: 1/ul (reference: 0-3/ul)
+- Protein level: 536.8 g/l (reference: 15-40 g/l) -- albuminocytologic dissociation
+- Opening pressure: unremarkable
+- Glucose level: unremarkable
+- Gram staining and culture: unremarkable
+
+Imaging Findings:
+- Brain MRI T2-fluid-attenuated inversion recovery (FLAIR): Hyperintensity in
+  parieto-occipital regions more prominent than bilateral occipital areas
+- MRA: Poor delineation of the cortical branches of the bilateral middle cerebral
+  arteries
+
+Nerve Conduction Study (Day 4 Post-admission):
+- Decreased amplitude in motor nerves
+- Motor conduction velocity largely retained
+- Prolonged distal motor latency
+- Sensory nerve conduction velocity relatively preserved
+- Depressed sensory nerve amplitude
+- Diagnosis: predominant acute motor sensory axonal neuropathy (AMSAN) with traces
+  of distal motor demyelination
+
+Antibody Testing:
+- Anti-GM1 IgG: negative
+- Anti-GQ1b IgG: negative
+
+Final Diagnosis:
+Based on neurological examination, CSF albuminocytologic dissociation, and NCS
+findings: Guillain-Barre Syndrome confirmed.
+Based on headache history and MRI findings: PRES and RCVS diagnosed.
+
+Treatment:
+- Intravenous immunoglobulin (IVIg): 0.4 g/kg administered for 5 days
+- Amlodipine: 5 mg for blood pressure control
+
+Outcome:
+- Headaches and blood pressure stabilized within 9 days; amlodipine discontinued
+- Transferred for rehabilitation
+- One-month status: Neurological improvement; discharged
+- Three-month imaging: Brain MRI showed improvement in frontal and occipital lobes
+  with disappearance of hyperintensities and increased visualization of cortical
+  middle cerebral artery branches
+
+================================================================================
+
+DISCUSSION
+
+RCVS and PRES share precipitating factors, clinical and radiological features, and
+are frequently associated with each other, implying similar pathophysiology related to
+reversible dysregulation of the cerebral vasculature, endothelial dysfunction and
+disruption of the blood-brain barrier [7].
+
+Pathophysiology:
+Endothelial dysfunction can affect cerebral arterial tone regulation, triggering
+vasoconstriction with subsequent hypoperfusion, blood-brain barrier disruption, and
+vasogenic edema. Approximately 30 cases of GBS complicated by PRES have been
+reported, with identified triggers including hypertension and hyponatraemia -- both
+present in this case.
+
+Role of Dysautonomia:
+Dysautonomia from GBS produces unstable blood pressure, potentially causing cerebral
+edema and endothelial dysfunction contributing to PRES development.
+
+Hyponatraemia Mechanism:
+A prior report of normotensive PRES patient with hyponatraemia suggested rapid sodium
+level changes disrupt cerebral autoregulation [9]. Hyponatraemia occurs in 21.5-48%
+of GBS patients [10]. In the literature review of cases with documented sodium
+values, all three overlapping GBS-PRES cases showed hyponatraemia.
+
+Clinical Significance:
+PRES and RCVS are typically reversible with early diagnosis and prompt treatment,
+ensuring favourable prognosis. However, haemorrhagic or ischaemic brain lesions can
+result in poor outcomes.
+
+Diagnostic Approach:
+GBS typically requires no central nervous system imaging; however, headache
+represents an uncommon GBS symptom, warranting further investigation. In this case,
+imaging disclosed vasogenic edema predominantly in the occipital lobe and cerebral
+vascular vasoconstriction.
+
+SNOOP Mnemonic for Secondary Headache Red Flags:
+- S: Systemic symptoms (fever, weight loss); secondary risks (immunocompromised
+  state, malignancy history)
+- N: Neurologic symptoms/signs (altered consciousness, focal deficits)
+- O: Onset (sudden-onset headache)
+- O: Older (new headache in patients over 50 years)
+- P: Progressive, positional, papilloedema
+
+This patient exhibited three SNOOP red flags: malignancy history (S), sudden headache
+onset (O), and age over 50 (O).
+
+================================================================================
+
+CONCLUSION
+
+This case presents evidence that GBS and PRES/RCVS may belong to a continuum
+syndrome involving underlying dysautonomia producing unstable blood pressure, with or
+without hyponatraemia, causing endothelial dysfunction and disrupting cerebral
+autoregulation. When GBS is associated with headache syndromes, cerebral imaging
+facilitates diagnosis. Clinicians should systematically inquire about headache history
+and obtain imaging when patients satisfy red flag criteria.
+
+================================================================================
+
+REFERENCES
+
+1. Dimachkie MM, Barohn RJ. Guillain-Barre syndrome and variants. Neurol Clin.
+   2013;31:491-510. PMID: 23642721
+
+2. Belgrado E, Del Negro I, Bagatto D, Lorenzut S, Merlino G, Gigli GL, et al.
+   Posterior reversible encephalopathy syndrome in Guillain-Barre syndrome: just a
+   problem of immunoglobulins? controversy from two atypical case reports. Front
+   Neurol. 2022;13:817295. PMID: 35463144
+
+3. Alrohimi A, Jassal R. Headache in Guillain-Barre Syndrome: diagnostic and
+   management implications. Can J Neurol Sci. 2018;45:240-242. PMID: 29506598
+
+4. Storti B, Vedovello M, Riva R, Agazzi E, Censori B, Manara O, et al. Posterior
+   reversible encephalopathy and Guillain-Barre syndrome: which came first, the
+   chicken or the egg? A review of literature. Neurol Sci. 2020;41:3663-3666.
+   PMID: 32506357
+
+5. Drye C, Bose S, Pathireddy S, Aeddula NR. Guillain-Barre syndrome with
+   concurrent posterior reversible encephalopathy syndrome and hyponatraemia: mere
+   coincidence or rare coexistence. BMJ Case Rep. 2019;12:e229749. PMID: 31300598
+
+6. Wei DY, Kao J, Wu TY, Pereira JA, Anderson NE, Alan Barber P. Reversible
+   cerebral vasoconstriction in Guillain-Barre syndrome. J Clin Neurosci.
+   2015;22:1201-1202. PMID: 25778383
+
+7. Jeanneret V, Jillella DV, Rangaraju S, Groover O, Peterson R, Koneru S, et al.
+   PRES and RCVS: Two Distinct Entities or a Spectrum of the Same Disease? J Stroke
+   Cerebrovasc Dis. 2022;31:106472. PMID: 35390732
+
+8. Ducros A. Reversible cerebral vasoconstriction syndrome. Lancet Neurol.
+   2012;11:906-917. PMID: 22995694
+
+9. Jeon JS, Park SP, Seo JG. Posterior reversible encephalopathy syndrome due to
+   hyponatremia. J Epilepsy Res. 2014;4:31-33. PMID: 24977130
+
+10. Wang Y, Liu J. Hyponatremia is a predictor for poor outcome in Guillain-Barre
+    syndrome. Neurol Res. 2015;37:347-351. PMID: 25366666
+
+11. Tada M. Reversible cerebral vasoconstriction syndrome (RCVS) and posterior
+    reversible encephalopathy syndrome (PRES). No Shinkei Geka. 2021;49:342-348.
+    PMID: 33762455
+
+12. Nahas SJ. Diagnosis of acute headache. Curr Pain Headache Rep. 2011;15:94-97.
+    PMID: 21286867
+
+================================================================================
+
+Conflict of Interest: The Authors declare that there are no competing interests.
+Patient Consent: Written informed consent obtained for publication and accompanying
+images.

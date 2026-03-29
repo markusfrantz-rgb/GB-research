@@ -1,0 +1,746 @@
+Fluid Overload and Mortality in Adult Critical Care
+Patients—A Systematic Review and Meta-Analysis
+of Observational Studies*
+Anna S. Messmer, MD1; Carina Zingg1; Martin Müller, MD2,3; Joel Loic Gerber, MD1;
+Joerg Christian Schefold, MD1; Carmen Andrea Pfortmueller, MD1
+
+Objective: Fluid administration in combination with the increase in
+vasopermeability induced by critical illness often results in significant fluid overload in critically ill patients. Recent research indicates that mortality is increased in patients who have received
+large volumes of fluids. We have systematically reviewed and synthesized the evidence on fluid overload and mortality in critically
+ill patients and have performed a meta-analysis of available data
+from observational studies.
+Data Sources: A systematic search was performed on PubMed,
+EmBase, and the Cochrane Library databases.
+Study Selection and Data Extraction: All studies were eligible that
+investigated the impact of fluid overload (defined by weight gain >
+5%) or positive cumulative fluid balance on mortality in adult critical
+care patients. We excluded animal studies and trials in pediatric
+populations (age < 16 years old), pregnant women, noncritically ill
+patients, very specific subpopulations of critically ill patients, and
+on early goal-directed therapy. Randomized controlled trials were
+only evaluated in the section on systematic review. Assessment
+followed the Cochrane/meta-analysis of observational trials in epidemiology guidelines for systematic reviews.
+Data Synthesis: A total of 31 observational and three randomized
+controlled trials including 31,076 ICU patients met the inclusion criteria. Only observational studies were included in the meta-analysis.
+Fluid overload and cumulative fluid balance were both associated
+with pooled mortality: after 3 days of ICU stay, adjusted relative risk
+for fluid overload was 8.83 (95% CI, 4.03–19.33), and for cumulative fluid balance 2.15 (95% CI, 1.51–3.07), at any time point,
+adjusted relative risk for fluid overload was 2.79 (95% CI, 1.55–
+5.00) and 1.39 (95% CI, 1.15–1.69) for cumulative fluid balance.
+*See also p. 1915.
+1
+Department of Intensive Care Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.
+2
+Institute of Health Economics and Clinical Epidemiology, University Hospital of Cologne, Cologne, Germany.
+3
+Department of Emergency Medicine, Inselspital, Bern University Hospital,
+University of Bern, Bern, Switzerland.
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters
+Kluwer Health, Inc. All Rights Reserved.
+DOI: 10.1097/CCM.0000000000004617
+
+1862
+
+www.ccmjournal.org
+
+Fluid overload was associated with mortality in patients with both
+acute kidney injury (adjusted relative risk, 2.38; 95% CI, 1.75–2.98)
+and surgery (adjusted relative risk, 6.17; 95% CI, 4.81–7.97). Cumulative fluid balance was linked to mortality in patients with sepsis
+(adjusted relative risk, 1.66; 95% CI, 1.39–1.98), acute kidney injury (adjusted relative risk, 2.63; 95% CI, 1.30–5.30), and respiratory failure (adjusted relative risk, 1.19; 95% CI, 1.03–1.43). The
+risk of mortality increased by a factor of 1.19 (95% CI, 1.11–1.28)
+per liter increase in positive fluid balance.
+Conclusions: This systematic review and meta-analysis of observational studies reporting adjusted risk estimates suggests that fluid
+overload and positive cumulative fluid balance are associated with
+increased mortality in a general population and defined subgroups
+of critically ill patients. (Crit Care Med 2020; 48:1862–1870)
+Key Words: critical care; critical illness; fluid overload; fluid
+therapy; intensive care; mortality; positive fluid balance
+
+I
+
+V fluid therapy is the most common treatment in critically
+ill patients (1). Fluid therapy in intensive care has several
+objectives, such as replacement in the states of hypovolemia or distributive changes, maintenance therapy, as well as
+resuscitation to restore circulation to vital organs.
+One of the key limitations of currently available IV fluids
+is their transient effect on hemodynamics (2) due to the third
+space extravasation (3, 4). This is particularly the case in critically ill patients, who often suffer from capillary leakage, and
+less than 5% of infused fluid may remain in the vasculature
+after 1 hour (5). Large-volume fluid administration together
+with increased fluid sequestration is associated with critical illness, and this, therefore, often results in significant fluid overload (FO) in critically ill patients (6). An increasing body of
+observational evidence indicates that mortality is increased in
+critically ill patients with FO (7–9).
+Additionally, several smaller investigations indicate that FO
+is associated with multiple adverse effects, such as impaired recovery from AKI, need for mechanical ventilation, impaired
+would healing, and abdominal compartment (10–12). Hence,
+December 2020 • Volume 48 • Number 12
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Review Articles
+
+the risk-benefit ratio of fluid administration in critically ill
+patients came under investigation. Several observational studies have investigated the association between FO and mortality.
+In this meta-analysis of observational studies, we have therefore synthesized currently available observational evidence on
+FO and its impact on mortality in the critically ill.
+
+MATERIALS AND METHODS
+This systematic review and meta-analysis of observational studies was conducted and reported in adherence with the guidelines
+for Preferred Reporting Items for Systematic Reviews and MetaAnalyses (PRISMA) (13) and the meta-analysis of observational
+trials in epidemiology guidelines for data extraction and risk
+assessment (14). The protocol was registered on International
+Prospective Register of Systematic Reviews (139957).
+All studies were eligible that investigated the impact of FO
+(defined by weight gain > 5%) or of a positive cumulative
+fluid balance (CFB) on mortality in adult critical care patients.
+Animal studies and trials in pediatric populations (age < 16
+
+years old), pregnant women, noncritically ill patients, very
+specific subpopulations of critically ill patients, and on early
+goal-directed therapy were excluded. The PRISMA flowchart
+is depicted in Figure 1. Randomized controlled trials (RCTs)
+were excluded from the meta-analysis and only evaluated as
+narratives.
+Information, sources and search strategy (Supplementary
+Fig. 1, Supplemental Digital Content 1, http://links.lww.
+com/CCM/F820), risk of bias assessment, study selection
+(Supplementary Table 1, Supplemental Digital Content 1,
+http://links.lww.com/CCM/F820), and outcomes are described
+in detail in the Appendix (Supplemental Digital Content 1,
+http://links.lww.com/CCM/F820).
+
+Definitions
+There is currently no clear-cut definition of FO in critical care.
+Although a weight-based definition (FO; increase in body
+weight after admission > 5%) (15) is potentially most accurate
+and is often used in nephrological research (16–18), preadmission bodyweight is usually not
+known and can only be estimated in critically ill patients.
+Thus, many studies use a positive CFB (input-output) as a
+surrogate variable for FO in the
+critically ill. CFB does not take
+into account perspiration or
+overt fluid losses that are hard
+to quantify, such as diarrhea.
+For these reasons, CFB may
+be misleading as a surrogate
+marker for FO. Furthermore,
+it is important to note that a
+positive CFB does not per se
+imply that a patient is fluidoverloaded. Nonetheless, the
+majority of the studies investigating FO and mortality in the
+critically ill use CFB as their
+surrogate for FO. Excluding
+these trials from our analysis
+would have greatly biased the
+picture of currently published
+literature, as all these studies were specifically intended
+to investigate FO in the critically ill. We, therefore, included
+observations using this definition for FO in our analysis, despite its limitations. However,
+we, therefore, report the data as
+either FO (weight-based definition) or positive CFB.
+Pooled mortality data were
+used
+for the main analysis.
+Figure 1. Preferred Reporting Items for Systematic Reviews and Meta-Analyses flowchart. FO = fluid overload.
+Asterisk indicates that study was eligible for qualitative and quantitative analysis.
+Different types of mortality
+Critical Care Medicine
+
+www.ccmjournal.org
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+1863
+
+Messmer et al
+
+(ICU mortality, in-hospital morality, short-term mortality [up
+to 30 d], and long-term mortality [up to 90 d]) were evaluated
+in a sensitivity analysis.
+Study Outcomes
+The primary objective was to evaluate the impact of FO or CFB
+during the first 3 days after ICU admission on mortality in critically ill patients. In accordance with previous publications,
+we employed FO or CBF on day 3 for the primary endpoint
+(12, 19, 20). Studies on patients with established acute kidney
+injury (AKI) were evaluated for secondary outcomes only. Secondary objectives were the association of FO/CFB at any time
+point during ICU stay with mortality. We also evaluated the
+impact of FO/CFB on mortality in sepsis/septic shock, respiratory disease, patients with AKI, and surgical patients. Additionally, we assessed the quantitative effect of CFB on mortality
+and the impact of FO/CFB in the critically ill on important
+patient-centered outcomes (renal replacement therapy [RRT],
+infections, mechanical ventilation, and length of ICU stay).
+Additional information on the primary and secondary
+objectives is described in the Appendix (Supplemental Digital
+Content 1, http://links.lww.com/CCM/F820).
+Data Synthesis
+A quantitative analysis using a random effect model as proposed by DerSimonian and Laird (21) was performed to pool
+measured effects and to compare patients with/without FO/
+CFB using different risk scales as approximation to relative risk
+(RR) for binary outcomes, namely, odds ratios, hazard ratios,
+rate ratios, and risk ratios (22, 23). This approach was also used
+to estimate the quantitative effect per 1 L of CFB on mortality.
+If data on FO/CFB were available at several time points in one
+study, these effect sizes were first pooled using a fixed effect
+model. Heterogeneity among trials was assessed using I2-statistics. The pooled effect sizes obtained by meta-analysis were
+interpreted after considering any heterogeneity. Publication
+bias was assessed using the Egger test and funnel plots.
+Stata 13.1 (StataCorp, College Station, TX) was used for
+statistical analysis. More information can be found in the
+Appendix (Supplemental Digital Content 1, http://links.lww.
+com/CCM/F820).
+
+RESULTS
+In total, 7,894 articles were retrieved and screened. In 46 trials,
+a full-text analysis was performed and 34 of the trials (73.9%)
+(on 31,076 patients) were included (Supplementary Table 1,
+Supplemental Digital Content 1, http://links.lww.com/CCM/
+F820). Excluded trials after full-text analysis are listed in Supplementary Table 3 (Supplemental Digital Content 1, http://
+links.lww.com/CCM/F820). The risk of bias analysis is shown
+in Supplementary Table 2 (Supplemental Digital Content 1,
+http://links.lww.com/CCM/F820).
+Only observational studies were included in this metaanalysis. Twenty-three of the 34 included trials(67.6%) provided suitable data for the meta-analysis, whereof five studies
+1864
+
+www.ccmjournal.org
+
+investigated FO (7, 11, 24–26) and 18 studied CFB (8, 27–
+43). Eleven of these trials providing data for the calculation
+of the primary endpoint (Fig. 2), 16 trials including data to
+assess the overall impact of FO/CFB on mortality (any time
+point to pooled mortality), and eight trials presenting data
+on CFB on a per liter basis were included in the meta-analysis (Fig. 3). Eleven trials were assessed in a narrative fashion
+(Supplementary Table 4, Supplemental Digital Content 1,
+http://links.lww.com/CCM/F820).
+Included trials were published between 2005 and 2019.
+Of all included trials, 12 (35.3%) were performed in septic
+patients, four (11.7%) in surgical patients, 10 (29.4%) in
+patients with kidney failure, four (11.7%) in patients with respiratory failure, and four (9.4%) in the overall intensive care
+population. The majority of trials were retrospective observational trials (n = 20; 58.8%), 11 trials (32.4%) were prospective observational trials, and three trials (8.8%) were RCTs
+(Supplementary Table 1, Supplemental Digital Content 1,
+http://links.lww.com/CCM/F820).
+Fluid Overload/ Positive Cumulative Fluid Balance
+and Mortality
+Eleven trials (n) (8, 25, 27–30, 33–37) assessed FO/CFB during
+the first 3 days of ICU stay, whereas 16 trials (7, 8, 11, 24, 25, 27,
+29–37) assessed the overall impact of FO/CFB on mortality. FO
+and CFB were both associated with pooled mortality (assessment after 3 days of ICU stay: adjusted relative risk [aRR] for
+FO 8.83 [95% CI, 4.03–19.33; n = 1] and aRR for CFB 2.15
+[95% CI, 1.51–3.07; n = 4]). The corresponding values at any
+time point were aRR for FO 2.79 (95% CI, 1.55–5.00; n = 3)
+and aRR for CFB 1.39 (95% CI, 1.15–1.69; n = 5) (Fig. 2).
+Heterogeneity among adjusted trials was considerable
+(I2 = 63.2% for CFB day 3, I2 = 86.5% for an overall impact of
+CFB, and I2 = 73.5% for an overall impact of FO, respectively).
+A funnel plot and the Egger test did not indicate publication
+bias for FO or CFB at any time point (Supplementary Fig. 2,
+Supplemental Digital Content 1, http://links.lww.com/CCM/
+F820).
+Quantitative Effect of Positive Cumulative Fluid
+Balance on Mortality
+Per 1 L increase in CFB, the adjusted risk of mortality increased
+by the factor 1.19 (95% CI, 1.11–1.28,), investigated in eight
+trials (see Fig. 3). Systematic review of all included studies (including RCTs) indicates higher mortality in patients with a
+higher CFB (9, 44–53). The results are summarized in Supplementary Table 4 (Supplemental Digital Content 1, http://links.
+lww.com/CCM/F820).
+Subgroups of Intensive Care Patients
+Figure 4 summarizes the relative measures of effect for several
+subgroups of critically ill patients.
+There is limited information on studies (n) using adjusted
+effect measures to investigate mortality in important subgroups. In patients with acute kidney failure and in surgical
+patients, FO was associated with mortality (aRR AKI 1.99
+December 2020 • Volume 48 • Number 12
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Review Articles
+
+[95% CI, 1.34–2.98; n = 2] (11, 24) and aRR surgical patients
+6.17 [95% CI, 4.81–7.97; n = 1] [25]). The impact of FO on
+mortality was not investigated in patients with sepsis or respiratory failure. CFB was linked to mortality in patients with
+sepsis, acute kidney failure, or respiratory failure (n = 1 each):
+aRR sepsis 1.66 (95% CI, 1.39–1.98) (30), aRR acute kidney
+failure 2.63 (95% CI, 1.30–5.30) (31), and aRR respiratory
+failure 1.19 (95% CI, 1.03–1.43) (28).
+
+Fluid Overload and Other Important Clinical
+Outcomes
+The effect sizes for FO/CFB and important clinical outcomes
+are given in Figure 5. Furthermore, our systematic literature
+analysis revealed one study with a significant increase in ventilator-free days with a conservative rather than a liberal fluid
+strategy (up to 28 d, 14.6 ± 0.5 vs 12.1 ± 0.5; p < 0.001) (51).
+A further study showed a significant difference between a
+
+Figure 2. Cumulative fluid overload/cumulative fluid balance during the first 3 days of ICU stay/at any time point and mortality. Barmparas et al (27)
+adjusted for administration of antibiotics/antifungals (the only statistically significant difference between the two groups in the univariate analysis).
+Bouchard et al (11) adjusted for Acute Physiology and Chronic Health Evaluation (APACHE) III and dialysis modality. Micek et al (30) adjusted for age,
+severity of illness (APACHE II), and use of vasopressors. Oh et al (25) adjusted for covariates with p < 0.1 in the univariate Cox regression model. Rosenberg et al (28) adjusted for severity of illness (Acute Physiology Score), age, and ventilator strategy. Shum et al (29) adjusted for severity of illness
+(APACHE IV). Vaara et al (31) adjusted disease severity (Simplified Acute Physiology Score and Sequential Organ Failure Assessment), age, presence
+of severe sepsis, time on renal replacement therapy (RRT), and initial RRT modality. Woodward et al (24) adjusted for age, gender, race, quick Sequential Organ Failure Assessment score, Charlson score, diuretic use, vasopressor/inotrope use, time between ICU admission and CRRT initiation, diabetes,
+blood product transfusion, and baseline estimated glomerular filtration rate. CRRT = continuous renal replacement therapy, CVP = central venous pressure, HR = hazard ratio, KDIGO = Kidney Diseases Improving Global Outcomes, OR = odds ratio, RR = risk ratio.
+
+Critical Care Medicine
+
+www.ccmjournal.org
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+1865
+
+Messmer et al
+
+restrictive and a liberal fluid regimen in the time on mechanical ventilation (median 16.8 hr [interquartile range (IQR),
+7.0–26.5] vs median 37.8 hr [IQR, 22.0–126.5]; p < 0.02), respectively (52). The impact of FO/CFB on the time on vasopressors was not evaluated in any study eligible for this review.
+Sensitivity Analysis
+Time point of FO/CFB assessment and type of mortality are
+shown in Supplementary Figures 3 and 4 (Supplemental Digital Content 1, http://links.lww.com/CCM/F820).
+
+DISCUSSION
+This systematic review and meta-analysis of observational studies suggests that both FO and positive CFB are associated with
+increased mortality in the critically ill. Our data also indicate that
+FO and a positive CFB may also be associated with mortality in several important subgroups of critically ill patients, such as patients
+with sepsis/septic shock, AKI, respiratory failure, or after surgery.
+Data are scarce on other important outcomes, such as the
+need for RRT, secondary infections, time on vasopressors, and
+length of stay.
+
+Figure 3. Quantitative effect of cumulative fluid balance on mortality.
+Chao et al (33) adjusted for age, sex, cerebrovascular disease, and Pao2/
+Fio2. Grams et al (38) adjusted for age, sex, race, fluid-strategy randomization group, catheter randomization group, CVP at baseline, shock at
+baseline, day first diagnosed with acute kidney injury (AKI), fluid balance/
+use of diuretics in the 24 hours prior to randomization, stage of AKI within
+2 study days of randomization, scores (Acute Physiology and Chronic
+Health Evaluation [APACHE] III), etiology of acute lung injury (sepsis,
+trauma, pneumonia, multiple transfusions, and other), mean daily CVP, and
+mean daily presence or absence of shock. Han et al (39) adjusted for age,
+sex, baseline Sequential Organ Failure Assessment (SOFA) score, and
+cause of AKI. Neyra et al (40) adjusted for age, sex, and race; comorbidities (diabetes, hypertension, heart failure, and anemia); scores (SOFA and
+APACHE II scores), oligouria, mechanical ventilation, RBC transfusion, and
+length of hospital stay); and drug exposure (vasoactive drug and diuretic).
+Payen et al (41) adjusted for age, sex, comorbid diseases (not specified),
+and scores (Simplified Acute Physiology Score II [SAPS II] and SOFA).
+Silversides et al (43) adjusted for age, scores (APACHE II and MODS),
+congestive heart failure, KDIGO stage, maximum serum lactate (days 1
+and 2), days of vasopressor use, admission source (ward, emergency department, operating room/ recovery room, and other hospital), and surgical
+admission type. Texeira et al (42) adjusted for age, sex, comorbidities (diabetes, hypertension, and cardiovascular disease), nonrenal SOFA, sepsis,
+mean urine volume, and diuretic use. Wang et al (26) adjusted for age, comorbid diseases (not specified), diagnosis at admission, scores (SAPS II),
+oliguria, and sepsis. ES = effect size, HR = hazard ratio, OR = odds ratio,
+RR = risk ratio.
+
+1866
+
+www.ccmjournal.org
+
+It has long been known that FO might be harmful for critically ill patients (54–56). As early as 2000, the correlation between fluid load and survival in septic critically ill patients was
+described in the journal CHEST (20). A small study in 36 septic
+patients revealed a mortality benefit with a negative fluid balance at day three, and showed a negative fluid balance to independently predict survival in the critically ill (20). During the
+past decade, FO and its implications for outcome in the critically ill have been the subject of a lively debate among intensive
+care physicians.
+This discussion has resulted in the 31 observational trials
+included in this analysis as well as the three RCTs on fluid restriction strategies. Our meta-analysis summarizes currently
+available observational data and indicates that both FO and
+a positive fluid balance might be associated with significant
+mortality in the critically ill.
+However, there are two studies in this meta-analysis that
+did not show an association between CFB (at any time point)
+and mortality and, thus, merit discussion (27, 34). The first is
+a post hoc analysis of a multicentric Scandinavian study in 841
+patients with septic shock. In this trial, mortality rates increased
+from 46.6% in the negative fluid balance group to 58.4% in the
+group with the highest positive CFB (34). However, the effect
+did not reach a significance level of 5%. The second trial is a
+prospective acute care surgery study in 144 patients, which did
+not observe an association between CFB and mortality after
+adjusting for confounding factors (27). The authors argued
+that the sample size could have been too small to detect a statistical difference. However, this study revealed a protective effect
+of negative fluid balance on postoperative day 5 and on the
+occurrence of postoperative complications after adjustment
+for confounders (27).
+In addition, the narratives as well as quantitative assessment of currently available literature on positive CFB (using
+adjusted measures of effect) included in this study indicate that
+there is a correlation between the amount of positive fluid balance and mortality in the critically ill.
+Although our meta-analysis of observational data hints toward FO and CBP being detrimental to patient survival, however, it needs to be stressed that FO is a “side effect” of current
+fluid administration practices. Therefore, it is of major importance to evaluate fluid administration strategies in prospective
+randomized controlled clinical trials with the aim to minimize
+fluid intake in the critically ill. Importantly, several prospective
+RCTs have already attempted to minimize fluid administration and all of them were negative in terms of survival benefit
+(9, 51, 52, 57–63).
+Although an earlier meta-analysis revealed a lower mortality
+with restrictive fluid management regimes in critically ill and
+injured patients (mortality, 24.7% vs 33.2%; OR, 0.42 (95%
+CI, 0.32–0.55; p < 0.0001) (12), a most recent meta-analysis
+of restrictive versus liberal fluid administration approaches in
+critically ill patients with sepsis did not find decreased mortality rates with fluid restriction (RR, 0.87; 95% CI, 0.6–1.10)
+(64). Furthermore, the quality and quantity of investigations
+December 2020 • Volume 48 • Number 12
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Review Articles
+
+Figure 4. Measures of effect for subgroups. Barmparas et al (27) adjusted for administration of antibiotics/antifungals (only statistically significant difference between the two groups in the univariate analysis). Bouchard et al (11) adjusted for Acute Physiology and Chronic Health Evaluation
+(APACHE) III and dialysis modality. Micek et al (30) adjusted for age, severity of illness (APACHE II), and use of vasopressors. Oh et al (25) adjusted
+for covariates with p < 0.1 in the univariate Cox regression model. Rosenberg et al (28) adjusted for severity of illness (APS), age, and ventilator
+strategy. Vaara et al (31) adjusted for disease severity (Simplified Acute Physiology Score and Sequential Organ Failure Assessment), age, presence
+of severe sepsis, time on renal replacement therapy (RRT) initial, and initial RRT modality. Woodward et al (24) adjusted for age, gender, race, qSOFA
+score, Charlson score, diuretic use, vasopressor/inotrope use, time between ICU admission and CRRT initiation, diabetes, blood product transfusion,
+and baseline eGFR. ES = effect size, HR = hazard ratio, N/A = not applicable, OR = odds ratio, RR = risk ratio.
+
+to support either a restrictive or liberal fluid management
+approach were deemed low (64).
+Thus, currently, it is not clear whether limiting FO/CFB in
+the critically ill will actually reduce mortality rates.
+The currently running CLASSIC trial, a large international
+multicenter study (65), compares a restrictive versus liberal fluid
+regimen in patients with septic shock, which may shed further
+light on this issue. However, the primary endpoint in the CLASSIC
+study is 90-day mortality and this may be influenced by many
+other factors than fluid restriction. Thus, it remains to be confirmed whether fluid restriction results in improved outcomes.
+Our data indicate that the effect of FO/CFB on mortality
+is particularly large in critically ill patients with AKI. FO/CFB
+results in severe organ complications, such as reduced cardiac
+function (30, 39), increased intra-abdominal pressure (IAP)
+(12, 30, 39), and renal-venous congestion (66, 67). IAP results
+in decreased renal perfusion and additionally lowers venous
+return (12, 68). The latter reduces cardiac output (68), which
+itself is again detrimental to renal and abdominal perfusion,
+so that a vicious cycle develops. Furthermore, obstruction of
+renal venous outflow (renal venous congestion) was also found
+to be a significant contributor to kidney injury (66, 67). This
+might explain why the impact of FO/CFB on mortality is particularly high in patients with AKI.
+Critical Care Medicine
+
+Although undertaking this systematic review/meta-analysis
+on FO and mortality in the critically ill, we identified several
+important limitations in the current literature that need further consideration. First, although a large body of literature
+addresses the “phenomenon” of FO in the critically ill, the majority of the trials (88.0%) used a positive CFB as a surrogate
+variable for FO. This definition of FO lacks accuracy, and its use
+should be questioned. However, there is currently no widely accepted definition of FO for clinicians and clinical trials. We tried
+to address this issue by presenting the available evidence for FO
+(weight-based definition) and a positive CFB together. Second,
+for some trials, no adjusted effect measures were available. FO/
+CFB is highly and mutually dependent on disease severity and
+other important covariates, such as age, admission type, and
+underlying disease. In order to address this issue, we have presented adjusted and nonadjusted values separately. Third, there
+is no universal standard as to the time point at which FO/CFB
+should be assessed, which could have a major influence on the
+results. Therefore, although we used ICU day 3 for our primary
+outcome in accordance with previous investigations (12, 19,
+20), we also present a sensitivity analysis for other time periods.
+Several limitations of our analysis deserve discussion. First, a
+major limitation of our meta-analysis is that it is mainly based on
+observational studies. Although FO is a “phenomenon” that—in
+www.ccmjournal.org
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+1867
+
+Messmer et al
+
+Figure 5. Fluid overload/cumulative fluid balance and other important clinical outcomes. Barmparas et al (27) adjusted for administration of antibiotics/
+antifungals (only statistically significant difference between the two groups in the univariate analysis). Oh et al (25) adjusted for covariates with p < 0.1
+in the univariate Cox regression model. Woodward et al (24) adjusted for age, gender, race, qSOFA score, Charlson score, diuretic use, vasopressor/
+inotrope use, time between ICU admission and CRRT initiation, diabetes, blood product transfusion, and baseline eGFR. Wang et al (26) adjusted for age,
+comorbid diseases (not specified), diagnosis at admission, scores (Simplified Acute Physiology Score II), oliguria, and sepsis. ES = effect size, GMR = geometric mean ratio (unadjusted), N/A = not applicable, OR = odds ratio, RR = risk ratio.
+
+contrast to fluid resuscitation—cannot be randomized and, thus,
+can only be evaluated in observational studies, there are some very
+important biases inherent to such studies that need to be considered, such as the impossibility of eliminating unmeasured confounders. Furthermore, it is impossible to conclude that FO/CFB
+is causally related to mortality. Additionally, reverse causality is also
+possible, where patients do not (only) die because of fluid accumulation but receive fluids, because they are sicker and are more
+likely to die. In our meta-analysis, we analyzed the adjusted and
+nonadjusted mortalities separately to display this important bias.
+Second, only five trials in this analysis defined FO based on
+weight gain. The majority of studies used positive CFB, which
+may be inaccurate due to, for example, transpirational and other
+hardly quantifiable losses and the amount of fluid depletion
+prior to ICU admission. Furthermore, it is important to note
+that a positive CFB does not per se imply that a patient is fluidoverloaded. Hence, using a positive fluid balance as a surrogate
+marker for FO might be misleading and cause overestimation of
+the number of “fluid overloaded” patients. We, therefore, analyzed FO/CFB separately. Our results nevertheless still indicate
+that a positive CFB might also be associated with mortality.
+Third, even though we performed a subgroup analysis for
+four subsets of critically ill patients, significant colinearity may
+exist, especially between sepsis and AKI groups and the sepsis and
+respiratory failure/acute respiratory distress syndrome (ARDS)
+group, as sepsis might be the underlying cause for either AKI
+1868
+
+www.ccmjournal.org
+
+or respiratory failure/ARDS in a significant number of cases.
+Additionally, it should be noted that we did not further differentiate different types of subgroups (e.g., patients with abdominal sepsis, patients with “acute chronic kidney injury,” etc.) and
+excluded trials with a very specific patient population. However,
+it could be possible that FO/CFB may be especially detrimental
+to further subgroups. Furthermore, there are currently no data
+on patients with FO/CFB in cardiogenic shock, so no conclusions
+can be drawn for this relevant subgroup of patients.
+Fourth, there are few available data on other important outcomes, such as the time on mechanical ventilation, need and
+time on RRT, or length of ICU/hospital stay, and the available
+data are often subject to the problem of multiple comparisons.
+Fifth, although this meta-analysis targets “adult critical care
+patients,” it has to be acknowledged that critically ill patients
+are an extremely heterogenic group of patients and current
+trends in critical care research go toward characterizing “phenotypes” of critically ill patients (69–71). Future studies should
+include well-defined subgroups of patients only.
+
+CONCLUSIONS
+Our systematic review and meta-analysis of observational studies reporting adjusted risk estimates suggests that FO and positive CFB in critically ill might be associated with mortality. There
+are few available data on adjusted effect measures to investigate
+December 2020 • Volume 48 • Number 12
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+Review Articles
+
+mortality in important subgroups. Current evidence points suggest that FO/CFB is associated with mortality in patients with
+AKI, sepsis, respiratory failure, and after surgery. Furthermore,
+there is apparently a positive correlation between the amount of
+positive fluid balance and mortality in the critically ill.
+Current literature on FO has important limitations, such as
+the lack of a clear definition for FO and lack of a standardized time point when FO should be assessed. These important
+issues should be addressed in the future.
+Drs. Messmer and Pfortmueller performed the literature search and
+selected eligible trials. Dr. Messmer and Ms. Zingg did the data extraction
+on all trials selected for the quantitative analysis. Dr. Messmer, Ms. Zingg,
+Dr. Gerber, and Dr. Pfortmueller performed the risk of bias assessment.
+Drs. Messmer and Pfortmueller drafted the article, with all other authors
+codrafting and revising the article for important intellectual content. Dr.
+Müller performed all statistical analyses. All authors approved the final version of the article and agreed to submission.
+Supplemental digital content is available for this article. Direct URL citations appear in the printed text and are provided in the HTML and PDF
+versions of this article on the journal’s website (http://journals.lww.com/
+ccmjournal).
+The Gottfried and Julia Bangerter-Rhyner Foundation provided Funding
+for this project.
+Drs. Messmer, Gerber, Schefold, and Pfortmueller report grants from Orion
+Pharma, Abbott Nutrition International, B. Braun Medical AG, CSEM AG,
+Edwards Lifesciences Services GmbH, Kenta Biotech, Maquet Critical
+Care AB, Omnicare Clinical Research AG, Nestle, Pierre Fabre Pharma
+AG, Pfizer, Bard Medica S.A., Abbott AG, Anandic Medical Systems, Pan
+Gas AG Healthcare, Bracco, Hamilton Medical AG, Fresenius Kabi, Getinge Group Maquet AG, Dräger AG, Teleflex Medical GmbH, Glaxo Smith
+Kline, Merck Sharp and Dohme AG, Eli Lilly and Company, Baxter, Astellas, Astra Zeneca, CSL Behring, Novartis, Covidien, and Nycomed outside the submitted work. The money was paid into departmental funds; no
+personal financial gain applied. Ms. Zingg and Dr. Müller have disclosed
+that they do not have any potential conflicts of interest.
+For information regarding this article, E-mail: anna.messmer@insel.ch
+
+REFERENCES
+
+1. Pfortmueller CA, Schefold JC: Hypertonic saline in critical illness - a
+systematic review. J Crit Care 2017; 42:168–177
+2. Aya HD, Ster IC, Fletcher N, et al: Pharmacodynamic analysis of a
+fluid challenge. Crit Care Med 2016; 44:880–891
+3. Nunes TS, Ladeira RT, Bafi AT, et al: Duration of hemodynamic effects
+of crystalloids in patients with circulatory shock after initial resuscitation. Ann Intensive Care 2014; 4:25
+4. Lankadeva YR, Kosaka J, Iguchi N, et al: Effects of fluid bolus therapy
+on renal perfusion, oxygenation, and function in early experimental
+septic kidney injury. Crit Care Med 2019; 47:e36–e43
+5. Sánchez M, Jiménez-Lendínez M, Cidoncha M, et al: Comparison of
+fluid compartments and fluid responsiveness in septic and non-septic
+patients. Anaesth Intensive Care 2011; 39:1022–1029
+6. O’Connor ME, Prowle JR: Fluid overload. Crit Care Clin 2015;
+31:803–821
+7. Berthelsen RE, Perner A, Jensen AK, et al: Fluid accumulation during
+acute kidney injury in the intensive care unit. Acta Anaesthesiol Scand
+2018; 62:780–790
+8. Acheampong A, Vincent JL: A positive fluid balance is an independent
+prognostic factor in patients with sepsis. Crit Care 2015; 19:251
+9. Hjortrup PB, Haase N, Bundgaard H, et al: Restricting volumes of resuscitation fluid in adults with septic shock after initial management:
+The CLASSIC randomised, parallel-group, multicentre feasibility trial.
+Intensive Care Med 2016; 42:1695–1705
+10. Salahuddin N, Sammani M, Hamdan A, et al: Fluid overload is an independent risk factor for acute kidney injury in critically ill patients:
+Results of a cohort study. BMC Nephrol 2017; 18:45
+
+Critical Care Medicine
+
+11. Bouchard J, Soroko SB, Chertow GM, et al; Program to Improve Care
+in Acute Renal Disease (PICARD) Study Group: Fluid accumulation,
+survival and recovery of kidney function in critically ill patients with
+acute kidney injury. Kidney Int 2009; 76:422–427
+12. Malbrain ML, Marik PE, Witters I, et al: Fluid overload, de-resuscitation, and outcomes in critically ill or injured patients: A systematic
+review with suggestions for clinical practice. Anaesthesiol Intensive
+Ther 2014; 46:361–380
+13. Moher D, Liberati A, Tetzlaff J, et al; PRISMA Group: Preferred reporting items for systematic reviews and meta-analyses: The PRISMA
+statement. BMJ 2009; 339:b2535
+14. Stroup DF, Berlin JA, Morton SC, et al: Meta-analysis of observational
+studies in epidemiology: A proposal for reporting. Meta-analysis Of
+Observational Studies in Epidemiology (MOOSE) group. JAMA
+2000; 283:2008–2012
+15. Selewski DT, Goldstein SL: The role of fluid overload in the prediction
+of outcome in acute kidney injury. Pediatr Nephrol 2018; 33:13–24
+16. Hecking M, Karaboyas A, Antlanger M, et al: Significance of interdialytic weight gain versus chronic volume overload: Consensus opinion.
+Am J Nephrol 2013; 38:78–90
+17. Ohashi Y, Sakai K, Hase H, et al: Dry weight targeting: The art and science of conventional hemodialysis. Semin Dial 2018; 31:551–556
+18. Sarkar SR, Kotanko P, Levin NW: Interdialytic weight gain: Implications
+in hemodialysis patients. Semin Dial 2006; 19:429–433
+19. Kuzkov VV, Kirov MY, Sovershaev MA, et al: Extravascular lung water
+determined with single transpulmonary thermodilution correlates with
+the severity of sepsis-induced acute lung injury. Crit Care Med 2006;
+34:1647–1653
+20. Alsous F, Khamiees M, DeGirolamo A, et al: Negative fluid balance
+predicts survival in patients with septic shock: A retrospective pilot
+study. Chest 2000; 117:1749–1754
+21. DerSimonian R, Laird N: Meta-analysis in clinical trials revisited.
+Contemp Clin Trials 2015; 45:139–145
+22. Green MS, Symons MJ: A comparison of the logistic risk function and
+the proportional hazards model in prospective epidemiologic studies.
+J Chronic Dis 1983; 36:715–723
+23. Rothman K: Epidemiology: An Introduction. Oxford, Oxford University
+Press, 2012
+24. Woodward CW, Lambert J, Ortiz-Soriano V, et al: Fluid overload associates with major adverse kidney events in critically ill patients with
+acute kidney injury requiring continuous renal replacement therapy.
+Crit Care Med 2019; 47:e753–e760
+25. Oh TK, Song IA, Do SH, et al: Association of perioperative weightbased fluid balance with 30-day mortality and acute kidney injury
+among patients in the surgical intensive care unit. J Anesth 2019;
+33:354–363
+26. Wang N, Jiang L, Zhu B, et al; Beijing Acute Kidney Injury Trial (BAKIT)
+Workgroup: Fluid balance and mortality in critically ill patients with
+acute kidney injury: A multicenter prospective epidemiological study.
+Crit Care 2015; 19:371
+27. Barmparas G, Liou D, Lee D, et al: Impact of positive fluid balance on
+critically ill surgical patients: A prospective observational study. J Crit
+Care 2014; 29:936–941
+28. Rosenberg AL, Dechert RE, Park PK, et al; NIH NHLBI ARDS
+Network: Review of a large clinical series: Association of cumulative
+fluid balance on outcome in acute lung injury: A retrospective review
+of the ARDSnet tidal volume study cohort. J Intensive Care Med
+2009; 24:35–46
+29. Shum HP, Lee FM, Chan KC, et al: Interaction between fluid balance
+and disease severity on patient outcome in the critically ill. J Crit Care
+2011; 26:613–619
+30. Micek ST, McEvoy C, McKenzie M, et al: Fluid balance and cardiac
+function in septic shock as predictors of hospital mortality. Crit Care
+2013; 17:R246
+31. Vaara ST, Korhonen AM, Kaukonen KM, et al; FINNAKI Study Group:
+Fluid overload is associated with an increased risk for 90-day mortality in critically ill patients with renal replacement therapy: Data from
+the prospective FINNAKI study. Crit Care 2012; 16:R197
+32. Bellomo R, Cass A, Cole L, et al: An observational study fluid balance and patient outcomes in the randomized evaluation of normal vs.
+www.ccmjournal.org
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+1869
+
+Messmer et al
+augmented level of replacement therapy trial. Crit Care Med 2012;
+40:1753–1760
+33. Chao WC, Tseng CH, Chien YC, et al; TSIRC (Taiwan Severe
+Influenza Research Consortium): Association of day 4 cumulative
+fluid balance with mortality in critically ill patients with influenza: A
+multicenter retrospective cohort study in Taiwan. PLoS One 2018;
+13:e0190952
+34. Cronhjort M, Hjortrup PB, Holst LB, et al: Association between fluid
+balance and mortality in patients with septic shock: A post hoc analysis of the TRISS trial. Acta Anaesthesiol Scand 2016; 60:925–933
+35. Li C, Wang H, Liu N, et al; Beijing Acute Kidney Injury Trial (BAKIT)
+Workgroup: Early negative fluid balance is associated with lower mortality after cardiovascular surgery. Perfusion 2018; 33:630–637
+36. Sirvent JM, Ferri C, Baró A, et al: Fluid balance in sepsis and septic
+shock as a determining factor of mortality. Am J Emerg Med 2015;
+33:186–189
+37. You JW, Lee SJ, Kim YE, et al: Association between weight change and
+clinical outcomes in critically ill patients. J Crit Care 2013; 28:923–927
+38. Grams ME, Estrella MM, Coresh J, et al; National Heart, Lung, and
+Blood Institute Acute Respiratory Distress Syndrome Network: Fluid
+balance, diuretic use, and mortality in acute kidney injury. Clin J Am
+Soc Nephrol 2011; 6:966–973
+39. Han MJ, Park KH, Shin JH, et al: Influence of daily fluid balance prior
+to continuous renal replacement therapy on outcomes in critically ill
+patients. J Korean Med Sci 2016; 31:1337–1344
+40. Neyra JA, Li X, Canepa-Escaro F, et al; Acute Kidney Injury in Critical
+Illness Study Group: Cumulative fluid balance and mortality in septic
+patients with or without acute kidney injury and chronic kidney disease. Crit Care Med 2016; 44:1891–1900
+41. Payen D, de Pont AC, Sakr Y, et al; Sepsis Occurrence in Acutely Ill
+Patients (SOAP) Investigators: A positive fluid balance is associated
+with a worse outcome in patients with acute renal failure. Crit Care
+2008; 12:R74
+42. Teixeira C, Garzotto F, Piccinni P, et al; NEFROlogia e Cura INTensiva
+(NEFROINT) Investigators: Fluid balance and urine volume are independent predictors of mortality in acute kidney injury. Crit Care 2013;
+17:R14
+43. Silversides JA, Fitzgerald E, Manickavasagam US, et al; Role of
+Active Deresuscitation After Resuscitation (RADAR) Investigators:
+Deresuscitation of patients with iatrogenic fluid overload is associated with reduced mortality in critical illness. Crit Care Med 2018;
+46:1600–1607
+44. Boyd JH, Forbes J, Nakada TA, et al: Fluid resuscitation in septic shock:
+A positive fluid balance and elevated central venous pressure are associated with increased mortality. Crit Care Med 2011; 39:259–265
+45. Sadaka F, Juarez M, Naydenov S, et al: Fluid resuscitation in septic
+shock: The effect of increasing fluid balance on mortality. J Intensive
+Care Med 2014; 29:213–217
+46. Sakr Y, Vincent JL, Reinhart K, et al; Sepsis Occurence in Acutely Ill
+Patients Investigators: High tidal volume and positive fluid balance
+are associated with worse outcome in acute lung injury. Chest 2005;
+128:3098–3108
+47. Shen Y, Huang X, Zhang W: Association between fluid intake and
+mortality in critically ill patients with negative fluid balance: A retrospective cohort study. Crit Care 2017; 21:104
+48. Shim HJ, Jang JY, Lee SH, et al: The effect of positive balance on
+the outcomes of critically ill noncardiac postsurgical patients: A retrospective cohort study. J Crit Care 2014; 29:43–48
+49. de Oliveira FSV, Freitas FGR, Ferreira EM, et al: Positive fluid balance
+as a prognostic factor for mortality and acute kidney injury in severe
+sepsis and septic shock. J Crit Care 2015; 30:97–101
+50. Smith SH, Perner A: Higher vs. lower fluid volume for septic shock:
+Clinical characteristics and outcome in unselected patients in a prospective, multicenter cohort. Crit Care 2012; 16:R76
+51. Wiedemann HP, Wheeler AP, Bernard GR, et al: Comparison of two
+fluid-management strategies in acute lung injury. N Engl J Med 2006;
+354:2564–2575
+
+1870
+
+www.ccmjournal.org
+
+52. Corl K, Prodroumo M, Marks S, et al: The restrictive intravenous fluid
+trail in severe sepsis and septic shock (RIFTS): A pilot study. Paper
+presented at: Intensive Care Medicine Experimental Conference:
+31st European Society of intensive Care Medicine Annual Congress,
+ESICM 2018, 2018; France. 6(Suppl 2)
+53. Brotfain E, Koyfman L, Toledano R, et al: Positive fluid balance
+as a major predictor of clinical outcome of patients with sepsis/
+septic shock after ICU discharge. Am J Emerg Med 2016;
+34:2122–2126
+54. Lowell JA, Schifferdecker C, Driscoll DF, et al: Postoperative fluid
+overload: Not a benign problem. Crit Care Med 1990; 18:728–733
+55. Muluk SC, Painter L, Sile S, et al: Utility of clinical pathway and prospective case management to achieve cost and hospital stay reduction for aortic aneurysm surgery at a tertiary care hospital. J Vasc Surg
+1997; 25:84–93
+56. Bishop MH, Jorgens J, Shoemaker WC, et al: The relationship between ARDS, pulmonary infiltration, fluid balance, and hemodynamics
+in critically ill surgical patients. Am Surg 1991; 57:785–792
+57. Chen C, Kollef MH: Targeted fluid minimization following initial resuscitation in septic shock: A pilot study. Chest 2015;
+148:1462–1469
+58. Semler MW, Janz DR, Casey JD, et al: Conservative fluid management after sepsis resuscitation: A pilot randomized trial. J Intensive
+Care Med. 2019 Jan 10. [online ahead of print]
+59. Cronhjort M, Bergman M, Joelsson-Alm E, et al: Fluid responsiveness assessment using passive leg raising test to reduce fluid administration and weight gain in patients with septic shock. J Anesth
+Perioperative Med 2017; 4
+60. Richard JC, Bayle F, Bourdin G, et al: Preload dependence indices
+to titrate volume expansion during septic shock: A randomized controlled trial. Crit Care 2015; 19:5
+61. Lanspa MJ, Burk RE, Wilson EL, et al: Echocardiogram-guided resuscitation versus early goal-directed therapy in the treatment of septic
+shock: A randomized, controlled, feasibility trial. J Intensive Care
+2018; 6:50
+62. van Genderen ME, Engels N, van der Valk RJP, et al: Early peripheral
+perfusion–guided fluid therapy in patients with septic shock. Am J
+Respir Crit Care Med 2015; 191:477–480
+63. McArdle GT, McAuley DF, McKinley A, et al: Preliminary results of a
+prospective randomized trial of restrictive versus standard fluid regime in elective open abdominal aortic aneurysm repair. Ann Surg
+2009; 250:28–34
+64. Meyhoff TS, Møller MH, Hjortrup PB, et al: Lower vs higher fluid
+volumes during initial management of sepsis: A systematic review with meta-analysis and trial sequential analysis. Chest 2020;
+157:1478–1496
+65. Meyhoff TS, Hjortrup PB, Møller MH, et al: Conservative vs liberal
+fluid therapy in septic shock (CLASSIC) trial-protocol and statistical
+analysis plan. Acta Anaesthesiol Scand 2019; 63:1262–1271
+66. Schefold JC, Filippatos G, Hasenfuss G, et al: Heart failure and
+kidney dysfunction: Epidemiology, mechanisms and management.
+Nat Rev Nephrol 2016; 12:610–623
+67. Bielecka-Dabrowa A, Godoy B, Schefold JC, et al: Decompensated
+heart failure and renal failure: What is the current evidence? Curr
+Heart Fail Rep 2018; 15:224–238
+68. Papavramidis TS, Marinis AD, Pliakos I, et al: Abdominal compartment
+syndrome - intra-abdominal hypertension: Defining, diagnosing, and
+managing. J Emerg Trauma Shock 2011; 4:279–291
+69. Famous KR, Delucchi K, Ware LB, et al; ARDS Network: Acute respiratory distress syndrome subphenotypes respond differently to
+randomized fluid management strategy. Am J Respir Crit Care Med
+2017; 195:331–338
+70. Seymour CW, Kennedy JN, Wang S, et al: Derivation, validation,
+and potential treatment implications of novel clinical phenotypes for
+sepsis. JAMA 2019; 321:2003–2017
+71. Azoulay E, Zafrani L, Mirouse A, et al: Clinical phenotypes of critically
+ill COVID-19 patients. Intensive Care Med 2020; 46:1651–1652
+
+December 2020 • Volume 48 • Number 12
+
+Copyright © 2020 by the Society of Critical Care Medicine and Wolters Kluwer Health, Inc. All Rights Reserved.
+
+

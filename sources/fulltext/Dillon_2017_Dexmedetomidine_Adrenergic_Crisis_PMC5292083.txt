@@ -1,0 +1,164 @@
+Dexmedetomidine for Refractory Adrenergic Crisis in Familial Dysautonomia
+=========================================================================
+
+Ryan C. Dillon, Jose-Alberto Palma, Christy L. Spalink, Diana Altshuler, Lucy Norcliffe-Kaufmann, David Fridman, John Papadopoulos, Horacio Kaufmann
+
+Clinical autonomic research : official journal of the Clinical Autonomic Research Society. 2016;27(1):7-15.
+PMID: 27752785 | PMCID: PMC5292083
+DOI: 10.1007/s10286-016-0383-5
+
+---
+
+ABSTRACT
+
+OBJECTIVE
+Adrenergic crises are a cardinal feature of familial dysautonomia (FD). Traditionally, adrenergic crisis have been treated with the sympatholytic agent clonidine or with benzodiazepines, which can cause excessive sedation and respiratory depression. Dexmedetomidine is an α2A-adrenergic agonist with greater selectivity and shorter half-life than clonidine. We aimed to evaluate the preliminary effectiveness and safety of intravenous dexmedetomidine in the treatment of refractory adrenergic crisis in patients with FD.
+
+METHODS
+Retrospective chart review of patients with genetically confirmed FD who received intravenous dexmedetomidine for refractory adrenergic crises. The primary outcome was preliminary effectiveness of dexmedetomidine defined as change in blood pressure (BP) and heart rate (HR) 1-hour after the initiation of dexmedetomidine. Secondary outcomes included incidence of adverse events related to dexmedetomidine, hospital and intensive care unit (ICU) length of stay, and hemodynamic parameters 12-hours after dexmedetomidine cessation.
+
+RESULTS
+Nine patients over 14 admissions were included in the final analysis. At 1-hour after the initiation of dexmedetomidine, systolic BP decreased from 160±7 to 122±7 mmHg (p=0.0005), diastolic BP decreased from 103±6 to 65±8 (p=0.0003), and HR decreased from 112±4 to 100±5 bpm (p=0.0047). The median total adverse events during dexmedetomidine infusion was 1 per admission. Median hospital length of stay was 9 days (IQR, 3 – 11 days) and median ICU length of stay was 7 days (IQR, 3 – 11 days).
+
+CONCLUSIONS
+Intravenous dexmedetomidine is safe in patients with FD and appears to be effective to treat refractory adrenergic crisis. Dexmedetomidine may be considered in FD patients who do not respond to conventional clonidine and benzodiazepine pharmacotherapy.
+
+---
+
+INTRODUCTION
+
+Familial dysautonomia (FD, OMIM# 223900) (Riley-Day syndrome, hereditary sensory and autonomic neuropathy type III) is a rare autosomal recessive disorder caused by a point mutation producing a defective elongator-1 protein (ELP-1), also known as I-k B kinase-associated protein (IKAP) [24]. ELP-1 deficiency greatly affects the development of sensory and afferent autonomic neurons [22, 29]. Among the most striking features of FD are recurrent, refractory, paroxysmal episodes characterized by tachycardia, hypertension, facial flushing, diffuse sweating, uncontrollable retching, vomiting, and behavioral changes. These are often referred to as “dysautonomic” or “adrenergic crises”. Adrenergic crises are a consequence of the inability to restrain sympathetic overflow caused by congenital damage to the afferent nerves carrying baroreceptor inputs to the central nervous system [1, 3, 7, 14, 23, 24]. Adrenergic crises can be triggered by a variety of situations ranging from surgery and severe illness to daily emotions and feeding [6, 21].
+
+In FD patients, adrenergic crises account for many hospital admissions and greatly contribute to morbidity [22, 25]. Because these are often difficult to manage, patients typically require admission to the intensive care unit (ICU) to facilitate comprehensive and close monitoring. Traditionally, patients with FD were advised to initiate treatment of crisis with outpatient administration of benzodiazepines. Consequently, many quickly become tolerant and require increasing doses, which can result in respiratory depression [24]. The central sympatholytic agent clonidine has also been used with some success, but its use is limited by its long half-life (12–16 hours), leading to prolonged sedation and hypotension [14, 16, 24]. Therefore, new therapeutic approaches to treating adrenergic crises in FD are warranted.
+
+Dexmedetomidine, a centrally acting α2 adrenergic agonist, has been anecdotally used in the perioperative management of FD patients [1, 3, 10, 13]. Intravenous administration combined with a short half-life (i.e., approximately 2 hours) allows an easy titration and makes it an attractive treatment for refractory adrenergic crises in FD [30]. The objective of this study was to assess the safety and preliminary effectiveness of dexmedetomidine for the in-hospital management of adrenergic crises in patients with FD.
+
+METHODS
+
+We performed a single-center, retrospective chart review at the New York University Langone Medical Center, a 726-bed tertiary-care academic teaching hospital. Electronic charts of patients admitted to the hospital from January 2013 to March 2016 were reviewed. Inclusion criteria included: i) diagnosis of genetically confirmed FD, ii) treatment with intravenous dexmedetomidine during their admission, and iii) evidence of adrenergic crisis at the time of dexmedetomidine initiation. Patients receiving perioperative/periprocedural use of dexmedetomidine unrelated to adrenergic crisis were excluded. Data collected included baseline demographics, past medical history, use of medications for adrenergic crisis, laboratory data, dexmedetomidine infusion characteristics, blood pressure (BP) and heart rate (HR), reason for admission, concomitant medications, microbiology data, hospital and ICU length of stay, days of mechanical ventilatory support, and reason for dexmedetomidine discontinuation.
+
+The primary outcome measure was preliminary effectiveness of dexmedetomidine for the treatment of adrenergic crisis defined as change in BP and heart rate HR 1-hour after the initiation of dexmedetomidine (highest BP and HR prior administration vs. BP and HR 1-hour after initiation). Secondary outcomes measures included incidence of adverse events related to dexmedetomidine, hospital and ICU length of stay, and hemodynamic parameters 12-hours after cessation of dexmedetomidine infusion.
+
+Definitions
+
+Adrenergic crisis was defined as the presence of nausea/retching/vomiting, blotching, and restlessness combined with hypertension (i.e., BP ≥ 140/90 mmHg), and tachycardia (i.e., HR ≥ 100 beats per minute [bpm]). Adverse events related to the infusion were defined as combination of decreased rate of dexmedetomidine infusion and any of the following: bradycardia [heart rate < 60 bpm]; hypotension [systolic BP (SBP) < 90 mmHg or a diastolic BP (DBP) < 50 mmHg]; and/or a Richmond Agitation Sedation Scale (RASS) score that was ≥ 2 points below the prescribed goal. The RASS scoring system is a commonly deployed tool to assess and document the level of sedation or agitation of ICU patients [5, 27]. The score ranges from +4 “combative” to −5 “unarousable”, and is a nurse-driven instrument that has high inter-rater reliability. Although the RASS scoring system has not been validated in FD, it is commonly used in the ICU-setting and was available in the electronic medical record.
+
+Due to great inter-individual variability in its hemodynamic effects, dexmedetomidine dosage was carefully adjusted on a case-by-case basis, based on previously published recommendations [24]. In general, the starting rate was 0.1–0.2 mcg/kg/h. Dexmedetomidine was then up titrated every 30 minutes until therapeutic response, defined as abatement of symptoms and BP < 140/90 mmHg. In general, the maximum rate was 1.4 mcg/kg/h.
+
+Statistical Analysis
+
+SBP, DBP, and HR were reported in mean ± standard error of the mean (SEM). Pre-dexmedetomidine vs. 1-hour post-dexmedetomidine hemodynamic parameters, and 1-hour vs. 12-h after dexmedetomidine discontinuation were compared with paired t-test. A two-sided alpha value of 0.05 was used for significance. Incidence of adverse events and data regarding infusion characteristics were reported using descriptive statistics and all data were reported in median and interquartile ranges unless otherwise specified. All analyses were performed using Prism 6.0 (GraphPad Software, Inc., 2015).
+
+Ethical approval
+
+The New York University School of Medicine Institutional Review Board approved this study. As a retrospective chart review study, the IRB waived the need for informed consent. All procedures were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.
+
+RESULTS
+
+We identified a total of 18 admissions in 11 patients with FD that received intravenous dexmedetomidine during the study period. Of these, 2 patient admissions were excluded due to periprocedural use of dexmedetomidine without evidence of adrenergic crisis: of these, one was excluded due to the lack of adrenergic crisis at the time of initiation, and the other was excluded due severe hypotension requiring vasopressor agents upon admission, unrelated to prior administration of antihypertensive medications. Therefore, 9 patients over 14 admissions met inclusion criteria and were included in the final analysis.
+
+Patient characteristics
+
+Symptoms of adrenergic crisis, reason for admission, and other patients’ characteristics are presented in Table 1. Briefly, all patients had symptoms of adrenergic crisis including tachycardia, hypertension, and skin blotching. Ninety-two percent of admissions had diaphoresis and drooling, while 85% had accompanying restlessness/agitation and retching. Only one patient was vomiting and this was the only patient without history of a Nissen fundoplication. Data regarding adrenergic crisis frequency, pre-dexmedetomidine crisis management, dexmedetomidine infusion characteristics, and adverse events are shown in Table 2. In summary, patients ranged from 18 to 41 years old and the historical frequency of adrenergic crises varied greatly, ranging from once daily to 10 episodes over a 25-year period.
+
+In the 72-hour period prior to receiving dexmedetomidine (either at home, in the emergency room or during admission), in 11 of 14 (79%) admissions, patients received either benzodiazepines alone (5/14, 36%) or a combination of benzodiazepines and clonidine (6/14, 43%). Before the 72-hour period, Patient #3 had received multiple doses of amlodipine and labetalol throughout the 4 admissions and Patient #7 had received multiple doses of hydralazine and labetalol during both of her admissions. Because these antihypertensives were home medications and were not administered during the time period immediately before dexmedetomidine initiation, it is likely that they had no contribution to the observed outcomes.
+
+Dexmedetomidine was initiated at a median rate of 0.4 mcg/kg/h (interquartile range, 0.2 − 0.53 mcg/kg/h). No patients received a dexmedetomidine bolus prior to beginning the infusion. Median infusion rate was 0.44 mcg/kg/h (interquartile range, 0.34 – 0.67 mcg/kg/h). Median maximum infusion rate was 0.8 mcg/kg/h (interquartile range, 0.5 – 1.4 mcg/kg/h). Median duration of the infusion was 58 hours (interquartile range, 8 – 118 hours).
+
+Primary outcomes
+
+At 1-hour after the initiation of dexmedetomidine, SBP had decreased from 160±7 mm Hg to 122±7 mmHg (p=0.0005), DBP had decreased from 103±6 mmHg to 65±8 (p=0.0003), and HR from 112±4 bpm to 100±5 bpm (p=0.0047). In 3 out of the 14 patient admissions, one of the hemodynamic markers (SBP, DBP, or HR) remained the same 1-hour post dexmedetomidine initiation. Eventually, these parameters normalized after the 1-hour period, remaining within normal limits in the 12-h period after dexmedetomidine cessation (Figure 1). In one patient (Patient #1, second admission), high-rate dexmedetomidine administration (1.4 mcg/kg/h achieved only after 1.25 hours of initiation) triggered an increase, rather than a decrease, in BP and HR, and it was therefore discontinued.
+
+Secondary outcomes
+
+Ten out of 14 admissions experienced an adverse event (Table 2). The median total adverse events during infusion were 1 (interquartile range, 0 – 3.5 events) per admission with most being a decrease in infusion rate due to hypotension or bradycardia. In 10 of 14 admissions (71%), dexmedetomidine was discontinued due to resolution of adrenergic crisis. In the remaining patients, dexmedetomidine was stopped due to resolution of crisis with hypotension/bradycardia in 2 admissions (14%), and resolution of crisis with drowsiness in 1 admission (7%). This later patient only received dexmedetomidine for 45 minutes, after which her HR and BP normalized, her crisis subsided, and she developed drowsiness (RASS score of -1, indicating mild drowsiness but not sedation). Of note, this was her first time receiving dexmedetomidine for adrenergic crisis. In these 3 cases, hypotension or drowsiness resolved after dexmedetomidine discontinuation. Hypertension and tachycardia was the cause of discontinuation in 1 admission (7%), as mentioned above.
+
+Median hospital length of stay was 9 days (interquartile range, 3 – 11 days), median ICU length of stay was 7 days (interquartile range, 3 – 11 days), and 2 of 14 admissions (14%) required mechanical ventilation with a duration of 1 and 5 days. This noteworthy length of admission is explained by the fact that patients required hospitalization until the underlying cause of the adrenergic crisis (e.g., respiratory infection, sepsis, perforated gastric ulcer) was assessed and managed.
+
+Given the concern for potential rebound effect and recurrent adrenergic crises, we also collected SBP, DBP, and HR measurements 12-hours after cessation of the dexmedetomidine infusion. In the 14 patient admissions analyzed, compared to 1-hour after dexmedetomidine initiation, hemodynamics 12 hours after the end of the infusion were: SBP of 125±7 mmHg (p=0.29), DBP of 67±6 mmHg (p=0.62), and HR of 86±4 beats per minute (p=0.016). Therefore, there was no increase in BP after stopping the infusion and the HR continued to decrease without evidence of a rebound effect.
+
+DISCUSSION
+
+Our study shows that intravenous dexmedetomidine is a safe treatment for adrenergic crises in patients with FD. Our results also provide preliminary evidence that dexmedetomidine appears to be effective to treat adrenergic crises in FD. In 10 out of 14 patient admissions, dexmedetomidine decreased all hemodynamic values (SBP, DBP, and HR) after 1-hour of the infusion, indicating successful and rapid blunting of sympathetic output. After 12-hour post-infusion, there was no significant increase in BP or HR compared to 1-hour post initiation demonstrating resolution of the crisis without rebound. This time was chosen as an important point in the management of adrenergic crisis, as it corresponds to approximately 5 half-lives of the medication indicating that ~97% of drug has been eliminated from the body. Therefore, if the patient were to have a rebound crisis, this time point would be ideal for occurrence.
+
+In terms of safety and tolerability, our patients had a median adverse event rate of 1 per admission. Because FD patients typically have labile BP and HR, defining adverse events exclusively as hypotension or bradycardia would be inaccurate and would overestimate the adverse effect incidence in these patients [19, 24]. We consider a decreased rate of infusion combined with hypotension, bradycardia, or perceived excessive sedation as a more accurate criterion because this indicates an unusual situation for the patient, outside the expected variations in hemodynamics and/or level of consciousness. Therefore, based on our definition, any patient with hypotension/bradycardia and a decreased infusion rate was classified as an adverse event. However, this would include patients who were being weaned from the infusion during resolution of their crisis but had hypotension/bradycardia. Thus, our definition of adverse effect may not necessarily indicate dexmedetomidine-induced hypotension/bradycardia, and could potentially result in over-estimation of the actual prevalence of adverse effects. Three patients did have their dexmedetomidine infusions stopped due to crisis resolution combined with hypotension/bradycardia potentially related to the infusion. In another patient, dexmedetomidine was discontinued due to crisis resolution and mild drowsiness.
+
+Only in one patient, dexmedetomidine elicited an increase, rather than a decrease, in BP and HR. This paradoxical response to dexmedetomidine has been previously described [4] after a high-dose dexmedetomidine intravenous bolus, and it is believed to be due to activation of α2B peripheral adrenergic receptors leading to vasoconstriction and increased systemic vascular resistance [11, 17]. Interestingly, this patient had received dexmedetomidine in a previous admission and experienced the expected decrease in BP and HR. We believe that the rate of infusion was inadvertently higher than usual in this patient population (i.e. titrated to a maximum rate of 1.4 mcg/kg/hr over 1.25 hours). Although infrequent, it is important for clinicians to be aware of this potential paradoxical response. Of note, no patients developed respiratory depression during dexmedetomidine infusion, which is a frequent side effect of other drugs traditionally used for adrenergic crisis, such as benzodiazepines.
+
+Until our research, evidence for the use of dexmedetomidine in FD was limited to anecdotal cases for intraoperative administration and concurrently used with sedatives, muscle relaxants, and analgesic medications [1, 10, 13]. DiGiusto et al. reported a 28-year-old woman with FD who, after a jejunostomy tube replacement, developed severe agitation, hypertension, tachycardia, and diaphoresis consistent with adrenergic crisis [3]. Initiation of dexmedetomidine (0.4 mcg/kg bolus followed by a 0.3 mcg/kg/hr infusion) and hydromorphone resulted in normal BP, decreased HR (from 160 bpm to 100 bpm), cessation of diaphoresis, and agitation control. Dexmedetomidine infusion was continued for a total of 60 hours. This case had similar crisis manifestations, infusion rate of dexmedetomidine, and ultimate response compared to the cases we report here.
+
+FD was first described in 1948 when Riley and Day reported several patients presenting with episodes of diaphoresis, pupil dilatation, and skin blotching with emotional excitation, all signs of excessive sympathetic outflow [26]. Instances of hypertensive encephalopathy, hematochezia induced by recurrent vomiting, coma, and deaths were reported, highlighting the potential ominous consequences of adrenergic crisis in FD. After multiple unsuccessful efforts to understand the cause of these episodes, including exploratory laparotomies in an attempt to find pheocromocytomas or ectopic adrenal tissue, the authors used intravenous benzodioxane (an adrenergic blocker) in one patient resulting in a sharp fall in BP. The effect was short lived and adrenergic crisis resurged after the emotional stimulus was re-introduced. This case suggested that an unrestrained sympathetic outflow was involved in the etiology of the crises. Additionally, the finding of high levels of circulating dopamine and norepinephrine in patients with FD during typical crises provides a plausible neurochemical explanation for these symptoms [23].
+
+Traditionally, patients with FD were advised to manage their crisis with the administration of rectal benzodiazepines combined with the α2-adrenergic agonist clonidine (either orally or through a gastrostomy tube). Many patients quickly become tolerant and require increasing doses, which can result in benzodiazepine-associated respiratory depression. Dexmedetomidine, an imidazole compound, is a specific α2A-adrenoceptor agonist that acts predominantly in the central nervous system. Activation of the receptors in the brain and spinal cord inhibits neuronal firing, producing hypotension, bradycardia, sedation, and analgesia. The improved specificity of dexmedetomidine for the α2A-adrenergic receptor combined with its predominantly central nervous system activity, allows it to be a much more potent sedative agent than clonidine. Specifically, dexmedetomidine is 8 times more specific for α2-adrenoceptors than clonidine with ratios of α2:α1 activity, 1620:1 for dexmedetomidine and 220:1 for clonidine [9]. The α2:imidazoline receptor selectivity ratio is 32:1 for dexmedetomidine and 16:1 for clonidine [12].
+
+Limitations of this study include its retrospective open-label uncontrolled design and an overall low number of patients. Although no control group was available for comparison, most patients had previously received clonidine without resolution of the crisis, suggesting that dexmedetomidine is superior to clonidine. A placebo-controlled trial would be the most appropriate design to ascertain the efficacy of therapeutic agents against adrenergic crisis, however, administering placebo (i.e., no treatment) to patients suffering from severe crisis would be possibly unethical. Because in our series 3 patients contributed more than one observation, data are clustered and may be subject to dependencies. The statistical tests used in the study do not account for this clustering of data and, therefore, the results might be biased.
+
+Furthermore, there is a lack of standardized parameters to define adrenergic crises in FD, making it difficult to ascertain exactly the beginning and end of a crisis. In our study, the majority of patients presented with extremely high BP and HR indicating sympathetic hyper-activation, although these varied from patient to patient. In FD crises, there is also a significant component of plasma dopaminergic overload leading to retching and vomiting [20, 23]. Unfortunately, the retrospective design and the electronic medical record documentation did not provide adequate information regarding retching/vomiting incidences and therefore this could not be evaluated. Lastly, plasma or urine catecholamine levels were not measured and, therefore, the neuroendocrine effects of dexmedetomidine in FD could not be ascertained.
+
+Prospective studies to further evaluate the role of dexmedetomidine in FD are warranted. In this regard, the potential role of intranasal dexmedetomidine for FD patients is appealing. Intranasal dexmedetomidine has been used to pre-medicate pediatric patients undergoing diagnostic and therapeutic procedures to provide light sedation and blunt sympathetic activity [2, 8, 15, 18, 28]. Because initial management of FD crises typically occurs at home, the availability of a medication with rapid onset, effectiveness via the intranasal route, and minimal risk of respiratory depression, would pose a significant therapeutic innovation.
+
+CONCLUSIONS
+
+Intravenous dexmedetomidine is safe and seems to be useful to treat refractory adrenergic crisis in patients with FD. Dexmedetomidine may be considered as a treatment option for FD-related adrenergic crises in those patients who do not respond to conventional therapy (e.g., benzodiazepines and/or clonidine). Diligent monitoring of hemodynamics and level of consciousness should be provided, and ICU admission should be considered. Future studies are needed to fully ascertain the therapeutic role of dexmedetomidine in this population as well as alternative routes of administration, such as intranasal.
+
+REFERENCES
+
+1. Abulhasan Y, Buu N, Frigon C. Perioperative use of dexmedetomidine in an infant with familial dysautonomia. Br J Anaesth. 2009;103:413-415. PMID: 19592408
+
+2. Bhat R, Santhosh MC, Annigeri VM, et al. Comparison of intranasal dexmedetomidine and dexmedetomidine-ketamine for premedication in pediatrics patients: A randomized double-blind study. Anesthesia, essays and researches. 2016;10:349-355. PMID: 27212773
+
+3. DiGiusto MMD, Tobias J. Dexmedetomidine and the perioperative care in Riley-Day syndrome: a case report and literature review. Anaesth Pain & Intensive Care. 2013;17:83-87.
+
+4. Ebert TJ, Hall JE, Barney JA, et al. The effects of increasing plasma concentrations of dexmedetomidine in humans. Anesthesiology. 2000;93:382-394. PMID: 10910487
+
+5. Ely EW, Truman B, Shintani A, et al. Monitoring sedation status over time in ICU patients: reliability and validity of the Richmond Agitation-Sedation Scale (RASS). JAMA : the journal of the American Medical Association. 2003;289:2983-2991. PMID: 12799407
+
+6. Fuente Mora C, Norcliffe-Kaufmann L, Palma JA, et al. Chewing-induced hypertension in afferent baroreflex failure: a sympathetic response?. Exp Physiol. 2015;100:1269-1279. PMID: 26435473
+
+7. Fuente Mora C, Palma JA, Kaufmann H, et al. Cerebral autoregulation and symptoms of orthostatic hypotension in familial dysautonomia. J Cereb Blood Flow Metab. 2016. PMID: 27613312
+
+8. Gan X, Lin H, Chen J, et al. Rescue Sedation With Intranasal Dexmedetomidine for Pediatric Ophthalmic Examination After Chloral Hydrate Failure: A Randomized, Controlled Trial. Clin Ther. 2016. PMID: 27229908
+
+9. Gertler R, Brown HC, Mitchell DH, et al. Dexmedetomidine: a novel sedative-analgesic agent. Proceedings. 2001;14:13-21. PMID: 16369581
+
+10. Gurbuxani G, Neeta S, Lena S. Anesthetic management of a patient with familial dysautonomia for renal transplant surgery. Paediatr Anaesth. 2008;18:1272-1273. PMID: 19076606
+
+11. Hauber JA, Davis PJ, Bendel LP, et al. Dexmedetomidine as a Rapid Bolus for Treatment and Prophylactic Prevention of Emergence Agitation in Anesthetized Children. Anesthesia and analgesia. 2015;121:1308-1315. PMID: 26332857
+
+12. Khan ZP, Ferguson CN, Jones RM. alpha-2 and imidazoline receptor agonists. Their pharmacology and therapeutic role. Anaesthesia. 1999;54:146-165. PMID: 10215710
+
+13. Koshibe G, Lee HT. Anesthetic management of renal transplantation in a patient with familial dysautonomia. Journal of anesthesia. 2009;23:579-582. PMID: 19921370
+
+14. Lahat E, Goldman M, Barr J, et al. Intranasal midazolam as a treatment of autonomic crisis in patients with familial dysautonomia. Pediatr Neurol. 2000;22:19-22. PMID: 10669200
+
+15. Lu C, Zhang LM, Zhang Y, et al. Intranasal Dexmedetomidine as a Sedative Premedication for Patients Undergoing Suspension Laryngoscopy: A Randomized Double-Blind Study. PloS one. 2016;11:e0154192. PMID: 27196121
+
+16. Marthol H, Tutaj M, Brys M, et al. Clonidine improves postprandial baroreflex control in familial dysautonomia. Eur J Clin Invest. 2003;33:912-918. PMID: 14511364
+
+17. Muthiah T, Moni A, Mathews L, et al. Intravenous labetolol in treating hypertensive crisis following dexmedetomidine infusion for procedural sedation. Journal of clinical anesthesia. 2016;29:30-32. PMID: 26897444
+
+18. Neville DN, Hayes KR, Ivan Y, et al. Double-blind randomized controlled trial of intranasal dexmedetomidine versus intranasal midazolam as anxiolysis prior to pediatric laceration repair in the emergency department. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2016. PMID: 27129606
+
+19. Norcliffe-Kaufmann L, Axelrod FB, Kaufmann H. Developmental abnormalities, blood pressure variability and renal disease in Riley Day syndrome. Journal of human hypertension. 2013;27:51-55. PMID: 22129610
+
+20. Norcliffe-Kaufmann L, Martinez J, Axelrod F, et al. Hyperdopaminergic crises in familial dysautonomia: a randomized trial of carbidopa. Neurology. 2013;80:1611-1617. PMID: 23553478
+
+21. Norcliffe-Kaufmann L, Palma JA, Kaufmann H. Mother-induced hypertension in familial dysautonomia. Clinical autonomic research : official journal of the Clinical Autonomic Research Society. 2016;26:79-81. PMID: 26589199
+
+22. Norcliffe-Kaufmann L, Slaugenhaupt SA, Kaufmann H. Familial dysautonomia: History, genotype, phenotype and translational research. Prog Neurobiol. 2016. PMID: 27317387
+
+23. Norcliffe-Kaufmann LJ, Axelrod FB, Kaufmann H. Cyclic vomiting associated with excessive dopamine in Riley-day syndrome. J Clin Gastroenterol. 2013;47:136-138. PMID: 22739220
+
+24. Palma JA, Norcliffe-Kaufmann L, Fuente-Mora C, et al. Current treatments in familial dysautonomia. Expert opinion on pharmacotherapy. 2014;15:2653-2671. PMID: 25323828
+
+25. Palma JA, Roda R, Norcliffe-Kaufmann L, et al. Increased frequency of rhabdomyolysis in familial dysautonomia. Muscle & nerve. 2015;52:887-890. PMID: 26202308
+
+26. Riley CM, Day RL. Central autonomic dysfunction with defective lacrimation; report of five cases. Pediatrics. 1949;3:468-478. PMID: 18118947
+
+27. Sessler CN, Gosnell MS, Grap MJ, et al. The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care unit patients. American journal of respiratory and critical care medicine. 2002;166:1338-1344. PMID: 12421743
+
+28. Sidhu GK, Jindal S, Kaur G, et al. Comparison of Intranasal Dexmedetomidine with Intranasal Clonidine as a Premedication in Surgery. Indian journal of pediatrics. 2016. PMID: 27260149
+
+29. Slaugenhaupt SA, Blumenfeld A, Gill SP, et al. Tissue-specific expression of a splicing mutation in the IKBKAP gene causes familial dysautonomia. American journal of human genetics. 2001;68:598-605. PMID: 11179008
+
+30. Tobias JD. Dexmedetomidine: Are There Going to be Issues with Prolonged Administration?. The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG. 2010;15:4-9. PMID: 22477787

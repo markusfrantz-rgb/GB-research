@@ -1,0 +1,1323 @@
+J Neurol (1999) 246 : 1015–1022
+© Steinkopff Verlag 1999
+
+G. Pfeiffer
+B. Schiller
+J. Kruse
+J. Netzer
+
+Received: 12 October 1998
+Received in revised form: 20 May 1999
+Accepted: 1 June 1999
+
+G. Pfeiffer (Y) · B. Schiller · J. Netzer
+Department of Neurology,
+University Hospital Hamburg-Eppendorf,
+Martinistrasse 52,
+D-20246 Hamburg, Germany
+Tel.: +49-40-47173771 or 47174767,
+Fax: +49-40-4717-5086
+J. Kruse
+Department or Neurology,
+Ruhr University Bochum,
+Bochum, Germany
+
+O R I G I N A L C O M M U N I C AT I O N
+
+Indicators of dysautonomia
+in severe Guillain-Barré syndrome
+
+Abstract This study sought to establish quantitative criteria for dysautonomia in artificially ventilated
+patients with Guillain-Barré syndrome (GBS). Such criteria would
+help to identify patients at risk for
+cardiovascular complications. This
+retrospective controlled clinical study
+compared hourly cardiovascular
+monitoring data from 36 successive,
+artificially ventilated GBS patients
+with that from 11 artificially ventilated control patients with myasthenia. Tolerance limits for daily means,
+extremes, and variations in heart rate
+(HR) and blood pressure (BP) were
+estimated from the most abnormal
+subgroups of the treatment days of
+our control patients. These exceeded
+previously suggested arbitrary cutoff
+values for dysautonomia. The range in
+systolic BP was increased in 27 GBS
+patients, despite an upper limit of
+normal (85 mmHg) that was double
+
+Introduction
+Dysautonomia is an important cause of death in severe
+Guillain-Barré syndrome (GBS) [15, 25, 28]. The risk of
+dysautonomia is high in patients with tetraplegia, respiratory failure, or bulbar involvement [19]. Frequent manifestations are sinus tachycardia, hypertension, and labile
+blood pressure (BP). One-fifth of GBS patients [25] have
+a heart rate above 100 bpm. This rate rises to 75% in patients with respiratory failure [12]. Hypertension developed in 13.5% of the control patients in the American
+plasma exchange trial [11]. BP increased by more than 25
+
+the value suggested in previous work.
+All 16 patients with mean systolic BP
+above 165 mm Hg also had persistent
+tachycardia (mean HR > 125 bpm),
+or were treated with β-blockers. This
+pattern of sympathetic hyperactivity
+was combined with probable vagal
+hyperactivity (bradycardia < 48 bpm)
+in 6 patients. Hypotension (minimal
+systolic BP < 85 mm Hg) and unprovoked bradycardia indicated sympathetic hypoactivity in 3 patients. Except in one patient who suffered from
+asystole on his first day on the ICU,
+all episodes of bradycardia were preceded by increased daily systolic BP
+variation (> 85 mm Hg), which thus
+proved to be a sensitive and prognostically valuable indicator of dysautonomia in GBS.
+Key words Polyneuritis ·
+Autonomic dysfunction · Intensive
+care · Cardiac arrest · Blood pressure
+
+mm Hg in 45 of 57 GBS patients with respiratory failure
+[12]. Labile BP is thought to be so characteristic of GBS
+that it helps to distinguish between GBS and critical illness neuropathy [27]. Systolic BP varied by more than 40
+mm Hg in 36% of the control patients in the French
+plasma exchange trial [9] and in 23 of 100 unselected
+GBS patients [25]. Bradycardia, the most dangerous consequence of dysautonomia [16], occurred in 6 of 100 unselected GBS patients [25]; 4 of these died. Heart rate
+(HR) dropped below 48 bpm in 43% of the control patients of the French plasma exchange trial [9].
+The vagal nerve mediates reflex bradycardia. Fixed
+HR, the hallmark of vagal failure, should therefore reduce
+
+1016
+
+the risk of cardiac arrest, at least until vagal function recovers. As this event is hard to predict, GBS patients who
+have had dysautonomia should be considered at risk until
+all cardiovascular reflexes recover. This requires that
+dysautonomia be detected reliably, either by autonomic
+nervous system testing such as analysis of HR variability
+[25], eyeball pressure [6, 8], carotid pressure [17], atropine administration [22], modified Valsalva manoeuver
+[14], and tilt-table tests [4, 22–24], or by attention to abnormal cardiovascular monitoring parameters. Several tests
+cannot be used during artificial ventilation. Artificial ventilation may superficially resemble the deep breathing test,
+but it cancels respiratory drive, which is an important
+source of HR variation during voluntary breathing [18].
+Artificial ventilation also interferes with the Valsalva maneuver. Other tests must be adapted because of medication and lack of a relaxed atmosphere in the ICU. Most
+tests can be used only discontinuously and may therefore
+miss short episodes of dysautonomia. Observation gaps
+do not arise if dysautonomia is monitored using cardiovascular data. High diurnal HR and BP variation have
+been shown to identify patients at risk for arrhythmia in
+GBS [25]. Unfortunately, the “normal” limits of HR and
+BP variation in ICU patients are unknown. Various arbitrarily defined limits have been used. For instance, BP differences of more than 40 mm Hg within a single day defined “labile BP” in the French plasmapheresis trial [9]
+and in the study by Winer and Hughes [25], while the
+limit for “BP fluctuations” was “more than 50 mm Hg
+from mean baseline” in another study [26]. We calculated
+“normal” limits for various HR and systolic BP monitoring parameters from artificially ventilated patients with
+myasthenia, whose ICU experience is comparable to that
+of GBS patients. These were used to study prevalence and
+pattern [15] of dysautonomia in 36 successive artificially
+ventilated GBS patients.
+
+Patients and methods
+Between 1985 and 1994, 37 GBS patients were artificially ventilated on our neurological intensive care unit (Table 3; for diagnostic criteria see [3]). The file of one patient who died 2 days after
+transfer to the normal ward was unobtainable. During the same period 14 patients with myasthenia were ventilated because of myasthenic crises. Three patients with preexisting atrial fibrillation
+were excluded. The study was approved by the local ethics committee. We had data on 11 patients from 125 treatment days with
+myasthenia and from 955 treatment days of 36 patients with GBS.
+Treatment was categorized as follows:
+– Principal mode of ventilation (Bennet MA1 until 1987; Bennet
+7200 afterwards, Bennet Respiration Products, Santa Monica,
+Calif. USA); controlled mandatory ventilation (CMV), synchronized intermittent mandatory ventilation or assisted ventilation
+(SIMV), or continuous positive airways pressure ventilation
+pressure support (CPAP)
+– Sedation and analgesia: continuous fentanyl/midazolam infusion, or intermittent pyritramide, pethidine, or diazepam
+– Neuroleptics: 75–150 mg melperone per day intravenously or
+orally
+
+– Catecholamines: continuous intravenous, single doses of etilefrine or theodrenaline, or intravenous dopamine hydrochloride
+(2 µg/kg per minute)
+– β-Blockers: metoprolol or propranolol intravenously or orally
+– Other antihypertensives: continuous intravenous or nifedipine,
+or intermittent nifedipine or clonidine
+– pyridostigmine
+– diuretics
+Patients with myasthenia and GBS differed neither by age nor by
+daily maximal body temperature (Mann-Whitney test; P > 0.05).
+CMV was used more frequently in GBS (27% versus 5% of the
+days). Patients on CMV received continuous intravenous analgesia
+and sedation on 71% of the days. Sedation was used more frequently during SIMV in GBS (10.8 versus 1.5% of days). Neuroleptics were given on three-fourths of days in myasthenia and
+GBS. GBS patients were treated more frequently with continuous
+intravenous norepinephrine (11.8% versus 6.4% of days), β-blockers (21% versus 4% of days), and other antihypertensive medicaments (25.1% versus 0.8% of days). Diuretics were given more
+frequently in myasthenia (40% versus 27% of days).
+BP was measured intra-arterially or oscillometrically (Hellige
+Servomed; Freiburg, Germany) at least twice hourly. From notes
+taken at least every 2 h we calculated daily mean, standard deviation, maximum, and minimum of HR and systolic BP. These daily
+HR and BP parameters were compared between GBS and myasthenia by Mann-Whitney tests (significance level: P < 0.05). The
+effect of ventilation, sedation and analgesia, neuroleptics, catecholamines, β-blockers, diuretics, other antihypertensives, pyridostigmine, and fever above 38 °C on the various daily HR and BP parameters was assessed separately in GBS and myasthenia patients
+(Mann-Whitney tests; significance level: P < 0.05). If there was a
+significant effect in the control group, we calculated separate limits of normal (Table 1) so that they contained 95% of the control
+values with an error probability of 5%. The strictest tolerance limits were used as cutoff values for dysautonomia. Increased daily
+mean systolic BP defined persistent hypertension, decreased minimal BP defined hypotension, excessive daily BP variation defined
+volatile BP, increased daily mean HR defined persistent tachycardia, and decreased minimal HR defined bradycardia. Prevalence of
+these cardiovascular events was compared between GBS and
+myasthenia with χ2 tests (significance level: P < 0.05; Table 2).
+Patient files were examined for descriptions of cardiovascular
+events and emergency medications.
+
+Results
+Effects of medication, artificial ventilation, and fever
+Table 1 shows which factors significantly affected the various HR and BP parameters in myasthenia. Tolerance limits were calculated only for subgroups larger than 20 treatment days. Continuous intravenous norepinephrine was
+used on 8 days in myasthenia and associated with significantly higher maximal HR and higher BP standard deviations. In GBS it was associated with lower mean and minimal systolic BP and higher BP standard deviation. Continuous intravenous analgesia and sedation significantly
+reduced minimal and mean systolic BP on the 4 days
+when it was used in myasthenia. In GBS it reduced minimal and mean HR and increased BP and HR range. The
+effect of CMV could only be assessed in GBS. Minimal
+HR and mean HR were significantly lower during CMV
+
+1017
+
+Table 1 Treatment effects on various daily HR and BP parameters in the control patients with myasthenia
+Subgroup
+
+Sample Mean ± SD Range
+size
+(days)
+
+Daily mean of systolic BP (mm Hg)
+Pooled
+125
+133 ± 14
+CPAP
+54
+138 ± 13
+SIMV
+65
+130 ± 14
+Pyridostigmine
+–
+32
+128 ± 10
++
+93
+135 ± 15
+Daily maximal systolic BP
+Pooled
+125
+Pyridostigmine
+–
+32
++
+93
+Daily minimal systolic BP
+Pooled
+125
+CPAP
+54
+SIMV
+65
+Neuroleptics
+–
+33
++
+92
+
+95–175
+108–175
+97–164
+
+160
+164a
+157
+
+108–153
+95–175
+
+150
+164a
+
+Number of
+Percentage of
+patients exceeding days exceeding
+the tolerance limit the tolerance limit
+GBS
+
+My
+
+GBS
+
+My
+
+32
+17
+
+10
+1
+
+56.2*
+13.0*
+
+31.2
+0.8
+
+Daily minimal systolic BP
+< 78 mm Hga
+15
+
+2
+
+4.1
+
+1.6
+
+Daily systolic BP standard deviation
+> 25 mm Hga
+23
+> 30 mm Hg [18]
+12
+
+2
+2
+
+10.2
+4.4
+
+4.8
+1.6
+
+Daily range of systolic BP
+> 40 mm Hg [9, 25]
+35
+27
+> 85 mm Hga
+
+10
+2
+
+76.3*
+17.3*
+
+56.4
+3.2
+
+Daily mean HR
+> 100 bpm [25]
+> 125 bpma
+
+31
+9
+
+9
+1
+
+53.6*
+7.4*
+
+31.2
+0.8
+
+Daily range of HR
+> 30 bpm [25]
+> 70 bpma
+
+35
+11
+
+11
+4
+
+60.2*
+3.1
+
+41.9
+3.2
+
+Daily mean systolic BP
+> 150 mm Hg [18]
+> 164 mm Hga
+
+120–205
+
+189
+
+150 ± 15
+160 ± 17
+
+125–185
+120–205
+
+182
+192a
+
+113 ± 15
+119 ± 12
+108 ± 15
+
+70–160
+95–160
+70–140
+
+84
+95
+78a
+
+118 ± 11
+111 ± 16
+
+95–140
+70–160
+
+94
+80
+
+5–34
+
+23.8
+
+7–23
+5–34
+
+19.1
+25.4a
+
+Minimal HR
+< 48 bpma
+< 20 bpm [9]
+
+12
+4
+
+1
+0
+
+4
+0.5
+
+2.4
+0.0
+
+Maximal HR
+> 160 bpma
+
+6
+
+0
+
+1.4
+
+0.0
+
+45 ± 18
+
+10–110
+
+78
+
+37 ± 12
+48 ± 19
+
+20–65
+10–110
+
+63
+83a
+
+Daily mean of HR (bpm)
+Pooled
+125
+Diuretics
+–
+74
++
+51
+
+93 ± 13
+
+65–127
+
+117
+
+90 ± 12
+97 ± 14
+
+65–118
+66–127
+
+113
+124a
+
+Temperature
+< 38 °C
+> 38 °C
+
+93
+32
+
+91 ± 13
+98 ± 12
+
+65–121
+78–127
+
+115
+124a
+
+Minimal HR
+Pooled
+
+125
+
+76 ± 15
+
+21–115
+
+48a
+
+125
+
+35 ± 14
+
+15–85
+
+62
+
+74
+51
+
+32 ± 13
+40 ± 15
+
+15–73
+20–85
+
+57
+70a
+
+Daily range of HR
+Pooled
+Diuretics
+–
++
+
+Subgroup of days used
+for estimation of the
+tolerance limit
+
+158 ± 17
+
+Daily systolic BP standard deviation
+Pooled
+125
+13.8 ± 5.4
+Neuroleptics
+–
+33
+11.4 ± 3.7
++
+92
+14.7 ± 5.7
+Daily range of systolic BP
+Pooled
+125
+Neurolepics
+–
+33
++
+92
+
+Tolerance
+limit
+
+Table 2 Sensitivity and specificity of various cutoff limits defining cardiovascular events; sensitivity is assessed in GBS, and
+specificity, as the rate of false positives in myasthenia (My)
+
+* P < 0.05, significant differences of the percentages of the treatment days on which the respective limits were exceeded between
+GBS and myasthenia
+a The limits are those derived from this study. The other arbitrarily
+defined limits have been used in previous studies
+
+than during SIMV, whereas BP standard deviation, BP
+range, and maximal BP were higher. Only GBS patients
+were given continuous intravenous antihypertensive medication or β-blockers. Maximal HR, HR standard deviation, maximal BP, mean systolic BP, and BP standard deviation were significantly higher during antihypertensive
+medication; and maximal, minimal, mean, and standard
+deviation of HR were higher on days with β-blockers.
+Sensitivity and specificity
+
+a The most extreme tolerance limits defined dysautonomia
+
+Previously used cutoff values for dysautonomia were not
+specific. They were exceeded by the majority of our control patients (Table 2). Our limit for the daily BP range
+was more than twice as high as previously used limits [25]
+but was still the most sensitive indicator of GBS dysautonomia (Table 2). Increased daily BP standard deviations
+
+1018
+
+Table 3 Pattern of dysautonomia in GBS (BP:systolic BP)
+Patient
+no.
+
+Respirator Sedationa β-Blocker Antihyper- NorepiMean
+Mean
+BP range
+nephrinec HR > 125 BP > 165 > 85
+days
+tensivesb
+bpm
+mm Hg
+mm Hgd
+
+BP
+< 80
+mm Hge
+
+Asystole
+
+HR
+< 48
+bpm
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+72
+76
+53
+34
+16
+55
+18
+42
+27
+28
+34
+52
+24
+29
+25
+18
+19
+4
+12
+35
+17
+10
+9
+16
+34
+19
+16
+15
+35
+17
+32
+29
+1
+10
+11
+8
+
+0/4
+1/1
+2/2
+0/1
+1/1
+–
+–
+–
+–
+–
+–
+–
+–
+4/5
+2/2
+2/2
+5/6
+2/2
+7/7
+1/1
+0/2
+1/1
+–
+–
+–
+–
+–
+–
+–
+–
+1/1
+–
+–
+–
+–
+–
+
+1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1
+1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1
+–
+–
+–
+–
+–
+–
+–
+–
+
+4
+2
+–
+–
+3
+–
+1
+1
+–
+–
+–
+–
+4
+2
+1
+5
+3
+–
+–
+–
+1
+–
+–
+–
+–
+–
+–
+3
+–
+–
+–
+–
+–
+–
+–
+–
+
+14
+–
+2
+13
+–
+–
+11
+22
+8
+4
+13
+–
+8
+3
+–
+6
+2
+–
+–
+–
+3
+–
+5
+–
+1
+14
+8
+8
+1
+–
+19
+–
+–
+–
+–
+–
+
+37
+3
+–
+1
+–
+28
+2
+38
+9
+19
+1
+23
+2
+–
+5
+–
+1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1
+–
+3
+–
+–
+–
+–
+7
+–
+8
+
+3
+8
+22
+8
+6
+23
+7
+–
+–
+3
+–
+1
+–
+–
+1
+5
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+1
+–
+3
+–
+–
+–
+–
+–
+–
+
+6
+10
+–
+7
+3
+2
+1
+4
+–
+1
+–
+–
+–
+1
+–
+11
+11
+4
+11
+1
+5
+8
+–
+–
+1
+2
+–
+3
+–
+16
+–
+–
+–
+2
+–
+–
+
+44
+2
+2
+–
+–
+–
+1
+8
+–
+–
+3
+–
+–
+–
+–
+–
+–
+–
+1
+–
+–
+1
+–
+–
+–
+–
+–
+–
+8
+–
+–
+–
+–
+–
+–
+–
+
+11
+31
+12
+12
+8
+12
+9
+3
+6
+5
+4
+1
+1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+2
+2
+2
+–
+–
+–
+–
+–
+–
+
+3/12
+17/22
+17/19
+5/9
+4/5
+0/21
+1/8
+0/2
+0/1
+1/1
+1/1
+0/1
+1/2
+2/13
+3/6
+6/11
+4/6
+2/2
+3/4
+2/2
+0/1
+0/2
+2/2
+3/4
+1/1
+0/1
+0/1
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+a Continuous intravenous fentanyl/midazolam
+
+e The first number specifies the number of days with reduced min-
+
+b Continuous intravenous urapidil or clonidine
+
+imal BP on which the patients were not exposed to continuous intravenous analgesia and sedation
+
+c Continuous intravenous norepinephrine
+d The first number in this column specifies the number of days with
+
+increased BP range on which the patients neither were exposed to
+CMV, nor to continuous intravenous analgesia and sedation
+
+were as specific but less sensitive (Table 2). As daily HR
+range was high among our controls (Table 1), it was nonsensitive and nonspecific (Table 2). About one-fourth of
+patients exceeded limits for dysautonomia on no more
+than 1 day (patients 12, 25–27, 31–36; Table 3).
+
+they were also on CMV or continuous intravenous analgesia and sedation (Table 3). Patients 18 and 20 had
+volatile BP only during plasma exchange.
+Hypertension
+
+Volatile blood pressure
+Increased BP range was used to group patients in Table 2.
+This most sensitive indicator of dysautonomia was increased in patients 1–27. BP deviated in both directions in
+patients 1–5. BP peaks were prominent in patients 6–13,
+and BP declines were remarkable in patients 14–22.
+Seven patients had increased BP ranges only on days when
+
+In addition to the 13 patients with volatile BP and persistent hypertension (patients 1–13, Table 3), 3 more patients
+(patient 28–30) had increased mean systolic BP. Continuous intravenous antihypertensives may have reduced the
+number of days with persistent hypertension in 11 of these
+16 patients, although this treatment was not very effective: mean systolic BP still was increased on 77% of the
+days with massive antihypertensive therapy. Increased
+
+1019
+
+Fig. 1 A–B Daily mean, maximal, and minimal systolic BP
+and HR of patient 17 (A) and
+12 (B). Horizontal bars therapy. A Patient 17 had fever between 37.5 and 39.8 °C. It was
+lowest from day 3 to day 5. BP
+declines requiring continuous
+intravenous (iv) noradrenaline
+occurred independently of
+fever. HR spontaneously
+dropped below 48 bpm on days
+6, 9, 13, and 14. Systolic BP
+range exceeded 85 mm Hg on
+days 2, 3, 5, 8, 13, and 17.
+Cardiovascular regulation became stable afterwards, despite
+unchanged respirator regimen,
+sedation and fever. B Systolic
+BP repeatedly dropped below
+80 mm Hg in patient 14, even
+after cessation of continuous
+intravenous analgesia and sedation on day 3. Beginning
+on day 4, she had bouts of
+supraventricular tachycardia
+and frequent ventricular ectopia. She was treated with lidocaine from day 4 to day 10.
+BP declines were absent after
+day 14. Systolic BP varied
+daily more than 85 mm Hg
+from day 1 to day 14. Respiratory function began to recover
+around day 12 when the patient
+managed CPAP ventilation. On
+day 14 she had a bradycardia
+during tracheal suctioning.
+Tracheal suctioning induced
+cardiac arrest at day 16. After
+that day there were no more
+signs of dysautonomia
+
+A
+
+B
+
+mean HR was associated with persistent hypertension in 7
+of the 13 patients.
+Hypotension
+BP declines occurred in 15 patients. Thirteen of these
+were without intravenous analgesia and sedation when
+hypotensive (Table 3). One-third of them also had days
+with volatile BP and persistent hypertension (Table 3).
+The other 10 patients, with one exception, also qualified
+for volatile BP but never had persistent hypertension. Eight
+patients received intravenous norepinephrine but never
+had BP below 85 mm Hg. Norepinephrine was given con-
+
+tinuously on 22 of the 40 days with BP declines below 85
+mm Hg. Patients 17–19 had BP declines below 80 mm Hg
+on several days, without intravenous analgesia and sedation and despite continuous intravenous norepinephrine.
+Tachycardia
+With two exceptions, the nine patients with persistent
+tachycardia also had persistent hypertension (Table 3).
+Mean HR was increased despite β-blockade on 45% of
+the days with persistent tachycardia. Seven patients who
+never had persistent tachycardia were treated with βblockers (Table 3). Patients 1, 4, 5, 14, 22, and 24 devel-
+
+1020
+
+oped atrial fibrillation, in three instances above 160 bpm.
+Patients 1, 8, 28, 29, and 34 had single attacks of sinus
+tachycardia above 160 bpm. Patient 12 had runs of ventricular ectopic beats, and patient 6 had an episode of ventricular flutter.
+Bradycardia
+Patients 16 and 17 repeatedly had unprovoked bradycardias while their BP was persistently low. With the exception of patient 28, who became asystolic after intermittent
+first-grade atrioventricular block on his first day in the
+ICU, bradycardia always was preceded by volatile BP. BP
+was volatile on 8 of the 27 days with bradycardia. Asystole occurred 10 min after emergency intubation and reoxygenation (patient no. 28), after passive jaw opening
+(no. 28), spontaneously (no. 28) or after tracheal suctioning (nos. 14, 15). Episodes of bradycardia below 48 bpm
+occurred after tracheal suctioning (nos. 1, 2, 5, 8), intubation (no. 21), head turning (no. 1), oral toilet (no. 13), sigh
+respiration (no. 2), sleep (nos. 5, 16) or spontaneously
+(nos. 2, 13, 17), during progression (nos. 7, 8, 28), plateau
+(nos. 1, 2, 17, 21), or early (nos. 5, 14, 16, 28) and late
+(nos. 1, 2) improvement. Three patients required pacing,
+which frequently failed technically in patient 28. After
+liver transplantation and flulike symptoms, patient 2 developed tetraplegia and respiratory failure within 24 h. On
+days 7, 8, and 15 he had labile BP. Cranial nerve involvement was progressive during the first 3 weeks. At the end
+of this period he had multiple events of bradycardia on
+day 18. Temporary pacing was instituted and required frequently not only during the next 3 weeks with volatile BP
+varying between 100 and 250 mm Hg within minutes, but
+still months thereafter. The third patient requiring a pacemaker (no. 1) has been described previously (patient PRC
+in [18]).
+Outcome
+There was no death during intensive care. Patient 6 stayed
+in a locked-in syndrome for months during rehabilitation
+until his death. Patient 24 died 4 months after ICU care;
+she had multiple intercurrent diseases. Patient 30 unexpectedly died 4 days after transfer to a normal ward. One
+patient, whose files were unobtainable, died during the
+second night on a normal ward.
+
+Discussion
+Our data confirm that volatile BP is common among artificially ventilated GBS patients and heralds dangerous
+bradycardia [25]. Previously proposed quantitative criteria [9, 25], however, were not strict enough for ICU pa-
+
+tients. They were positive in all but one of our control patients. Despite being more than twice as high as proposed,
+a limit of 85 mm Hg for daily BP range still provided the
+most sensitive indicator of dysautonomia. Volatile BP was
+present in two-thirds of the GBS patients. Increased daily
+BP standard deviation, previously as used an alternative
+to daily BP range [18], was less sensitive and more difficult to calculate. Volatile BP is not only a sensitive indicator of dysautonomia but also a risk factor for cardiac arrest [25]. Patients who had volatile BP on the ICU should
+remain under prolonged cardiovascular monitoring to prevent death early after transfer to normal wards, which
+happened to two of our patients during the study period.
+Daily pulse changes by more than 30 bpm predicted
+significant arrhythmia independently of labile BP in a previous study [25]. Again, this limit was unspecific in our
+ICU patients. They required a tolerance limit as high as 75
+bpm, which was only rarely exceeded in GBS and therefore not useful for detection of dysautonomia. In contrast
+to previous studies [12, 21], persistent hypertension was
+more frequent than tachycardia in our patients. Even without the four patients who never had increased mean systolic BP but received maximal antihypertensive therapy,
+its prevalence was second only to that of volatile BP. Hypertension obviously was hard to treat: maximal therapy
+failed to lower mean daily mean systolic BP below 165
+mm Hg on three-fourths of the treatment days. This therapy resistance may explain why we observed persistent
+hypertension more frequently than persistent tachycardia,
+which others [21] found to be the most frequent manifestation of GBS dysautonomia. Previous studies used a cutoff value of 100 bpm, probably for maximal HR [12, 25].
+In our ICU patients this limit was not specific even for
+mean HR. A 25% higher limit was exceeded by 25% of
+our patients. A second one-fourth of our patients were under β-blockade and had mean HR values below this limit.
+We observed fewer instances of supraventricular and
+ventricular tachyarrhythmias than reported in a previous
+study conducted by specifically trained nurses and physicians [10]. Some events may have been misinterpreted as
+artifacts or left undocumented. As it is harder to miss
+bradycardias during cardiovascular monitoring, the rate of
+bradycardia compared favorably with that in the specific
+prospective study [10]. It remains possible that we missed
+some cardiovascular events because of the retrospective
+design of our study. The retrospective design less affected
+our monitoring data because their documentation followed common practice of ICU chart keeping and remained unchanged during the study period. They were
+valid enough to detect the expected effects of fever, neuroleptics, diuretics, artificial ventilation, and analgesia
+and sedation.
+We were not fully successful in matching our ICU controls. Although artificial ventilation causes similar stress
+and cardiovascular impact to similar weak and conscious
+patients in GBS and myasthenia, the two groups were
+
+1021
+
+treated differently in respect to analgesia and sedation.
+Benzodiazepines and opiates were used only exceptionally in myasthenia because they may accentuate myasthenic
+weakness. CMV also was applied only rarely in myasthenia. Uncertainty about the effect of CMV and continuous
+analgesia and sedation affected the final results only marginally, as only three patients were under their influence
+on all days with increased BP variation.
+It is questionable whether a prospective design would
+have made therapy more consistent without exclusion of
+an undue number of treatment days. It is impossible or unethical to withhold sedation and analgesia during intervening bronchopneumonia, pain, or untolerable psychological discomfort. There are reasons to leave hypertension and tachycardia untreated; they are only transient, and
+β-blockade and antihypertensive treatment may aggravate
+incipient bradycardia or hypotension. Older patients with
+coronary heart disease, however, must be treated. Our limits would have narrowed if we had excluded all days with
+confounding therapeutic interventions, although at the cost
+of general applicability. The strict limits had the advantage that they distinguished well between patients with
+and without dysautonomia. All patients would have qualified for dysautonomia by previously used limits. Our rate
+of 75% agrees with clinical experience. Meaningful patterns of autonomic change [15] also emerged only by use
+of the more strict criteria. HR and BP abnormalities indi-
+
+cating hyperactivity of the autonomic nervous system prevailed, which is remarkable for a disease that otherwise
+causes loss of function. Tachycardia was due to sympathetic hyperactivity rather than to parasympathetic hypoactivity in the patients who also had raised BP (nos.
+1–13 and 28–30). Vagal failure obviously was not the
+cause of tachycardia in the patients whose vagal function
+became evident through reflex bradycardias (nos. 1, 2, 7,
+8). Most bradycardias were probably caused by parasympathetic hyperactivity, which may result from afferent
+baroreceptor reflex failure. This causes labile BP [20] and
+releases the sympathetic efference [7, 20]. The ensuing
+catecholamine excess sensitizes left ventricular stretch receptors [1, 2, 13] and other nociceptors which cause reflex
+bradycardia if vagal function is intact. This would explain
+the frequent association of bradycardia and labile BP.
+Sympathetic hypoactivity may have been the cause of the
+bradycardias that were associated with persistently low
+BP (nos. 16, 17). This classification remains speculative
+without comprehensive autonomic nervous function tests.
+Our results help to target them on patients with “real”
+dysautonomia. These patients are at risk of fatal bradycardia, especially if tests for exaggerated reflex bradycardia
+such as the eyeball pressure test [8] are positive. Wide BP
+swings and episodes of bradycardia should prompt extended cardiovascular monitoring.
+
+References
+1. Aboud FM (1993) Neurocardiogenic
+syncope. N Engl J Med 328 :
+1117–1120
+2. Almquist A, Goldenberg IF, Milstein
+S, Chen MY, Chen X, Hansen R, Gornick CC, Benditt DG (1989) Provocation of bradycardia and hypotension by
+isoproterenol and upright posture in
+patients with unexplained syncope.
+N Engl J Med 320 : 346–351
+3. Asbury AK, Cornblath DR (1990) Assessment of current diagnostic criteria
+for Guillain-Barré syndrome. Ann
+Neurol 27 : S 21–S 24
+4. Birchfield RI, Shaw CM (1964) Postural hypotension in the Guillain-Barré
+syndrome. Arch Neurol 10 : 47–55
+5. Davies AG, Dingle HR (1972) Observations on cardiovascular and neuroendocrine disturbance in the GuillainBarré syndrome. J Neurol Neurosurg
+Psychiatry 35 : 176–179
+6. Durocher A, Servais B, Caridroix M,
+Chopin C, Wattel F (1980) Autonomic
+dysfunction in the Guillain-Barré syndrome. Hemodynamic and neurobiochemical studies. Intensive Care Med
+6 : 3–6
+
+7. Fagius F, Wallin BG (1983) Microneurographic evidence of excessive sympathetic outflow in the Guillain-Barré
+syndrome. Brain 106 : 589–600
+8. Flachenecker P, Müllges W, Wermuth
+P, Hartung H.-P, Reiners K (1996)
+Eyeball pressure testing in the evaluation of serious bradyarrhythmias in
+Guillain-Barré syndrome. Neurology
+47 : 102–108
+9. French ccoperative group on plasma
+exchange in Guillain-Barré syndrome
+(1987) Efficiency of plasma exchange
+in Guillain-Barré syndrome: role of replacement fluids. Ann Neurol 22 :
+753–761
+10. Greenland P, Griggs RC (1980) Arrhythmic complications in the GuillainBarré syndrome. Arch Intern Med 140 :
+1053–1055
+11. Guillain-Barré Syndrome Study Group
+(1985) Plasmapheresis and acute Guillain-Barré syndrome. Neurology 35 :
+1096–1104
+12. Jager AEJ de, Sluiter HJ (1991) Clinical signs in severe Guillain-Barré syndrome. J Neurol Sci 104 : 143–150
+
+13. Kaufmann H (1995) Neurally mediated
+syncope: pathogenesis, diagnosis, and
+treatment. Neurology 45 [Suppl 5] :
+S 12–S 18
+14. Kruse J, Netzer J, Pfeiffer G (1995)
+Physiological background and clinical
+significance of heart rate variability in
+GBS patients with respiratory failure.
+Electroencephalogr Clin Neurophysiol
+97 : S 253
+15. Lichtenfeld, P (1970) Autonomic dysfunction in the Guillain-Barré syndrome. Am J Med 50 : 772–780
+16. Minahan RE, Bhardwaj A, Traill TA,
+Hanley DF (1996) Stimulus-evoked sinus arrest in severe Guillain-Barré syndrome: a case report. Neurology 47 :
+1239–1242
+17. Mitchell PL, Meilman E (1967) The
+mechanism of hypertension in the
+Guillain-Barré syndrome. Am J Med
+42 : 986–995
+18. Pfeiffer G, Netzer J (1997) Spectral
+analysis of heart rate and blood pressure in Guillain-Barré patients, with
+respiratory failure. J Neurol Sci 150 :
+39–48
+
+1022
+
+19. Raphael JC, Masson C, Morice V,
+Brunel D, Gajdos P, Barois A, Goulon
+M (1986) Le syndrome de LandryGuillain-Barré. Rev Neurol (Paris)
+142 : 613–624
+20. Robertson DJ, Hollister AS, Biaggioni
+I, Netterville JL, Masqueda-Garcia R,
+Robertson RM (1993) The diagnosis
+and treatment of baroreflex failure.
+N Engl J Med 329 : 1449–1455
+21. Ropper AH, Wijdicks EFM, Truax
+BT (1991) Guillain-Barré syndrome.
+Davis, Philadelphia
+
+22. Singh NK, Jaiswal AK, Misra S, Srivastava PK (1987) Assessment of autonomic dysfunction in Guillain-Barré
+syndrome and its prognostic implications. Acta Neurol Scand 75 : 101–105
+23. Tuck RR, McLeod JG (1981) Autonomic dysfunction in Guillain-Barré
+syndrome. J Neurol Neurosurg Psychiat 44 : 983–990
+24. Ventura HO, Messerli FH, Barron RE
+(1986) Norepinephrine-induced hypertension in Guillain-Barré syndrome.
+J Hypertens 4 : 265–267
+25. Winer JB, Hughes RAC (1988) Identification of patients at risk for arrhythmia in the Guillain-Barré syndrome.
+Q J Med 257 : 735–739
+
+26. Wijdicks EFM, Ropper AH, Nathanson
+JA (1990) Atrial natriuretic factor and
+blood pressure fluctuations in GuillainBarré syndrome. Ann Neurol 27 : 337–
+338
+27. Wijdicks EFM, Litchy WJ, Harrison
+BA, Gracey DR (1994) The clinical
+spectrum of critical illness polyneuropathy. Mayo Clin Proc 69 : 955–959
+28. Zochodne DW (1994) Autonomic involvement in Guillain-Barré syndrome:
+a review. Muscle Nerve 17 : 1145–1155
+
+

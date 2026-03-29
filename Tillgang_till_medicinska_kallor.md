@@ -1,6 +1,6 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-03-26
+> Senast uppdaterad: 2026-03-29
 > Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
@@ -9,10 +9,10 @@
 
 | | Antal |
 |---|---|
-| ✅ Fulltext i sources/fulltext/ | **78** (35 PDF + 44 text) |
+| ✅ Fulltext i sources/fulltext/ | **106** (42 PDF + 64 text) |
 | ✅ Fulltext i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
 | ⏳ Ej publicerad i journal | **1** |
-| **Totalt tillgängliga** | **121** fulltexter + 1 ej publicerad |
+| **Totalt tillgängliga** | **149** fulltexter + 1 ej publicerad |
 
 ---
 

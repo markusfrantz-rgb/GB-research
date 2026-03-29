@@ -1,0 +1,79 @@
+Title: Intensive Care and Treatment of Severe Guillain-Barré Syndrome
+Authors: Pei Shang, Jiachun Feng, Wei Wu, Hong-Liang Zhang
+Journal: Frontiers in Pharmacology. 2021;12:608130.
+Published: April 27, 2021
+PMID: 33995011
+PMCID: PMC8113987
+DOI: 10.3389/fphar.2021.608130
+License: Open Access (CC BY 4.0)
+
+---
+
+ABSTRACT
+
+Guillain-Barré syndrome (GBS) represents an acute polyneuropathy characterized by acute flaccid paralysis, potentially including sensory and autonomic dysfunction. Current immunotherapies — intravenous immunoglobulin (IVIg), plasma exchange (PE), and emerging biological agents — help by reducing hyperreactive immune responses. Approximately 30% of hospitalized patients develop respiratory failure requiring mechanical ventilation and ICU care. The review emphasizes pharmacological therapies and ICU management beyond mechanical ventilation, addressing key clinical questions: IVIg versus PE efficacy; combination therapy benefits; emerging treatments; timing of intubation/tracheostomy; multidisciplinary supportive care; and prevention of life-threatening complications.
+
+---
+
+INTRODUCTION
+
+GBS is recognized as a paralytic peripheral neuropathy with annual incidence of 0.81-1.89 cases per 100,000 persons globally. In-hospital mortality approximates 2.6-2.8%, with risk factors including weakness severity, time to peak disability, mechanical ventilation, advanced age, and cardiopulmonary complications. Clinical presentation typically involves acute flaccid paralysis with or without sensory/autonomic nerve dysfunction. Nearly two-thirds of cases follow prodromal upper respiratory or gastrointestinal infections. Poor prognostic indicators include older age, prolonged hospital and ICU stays, extended mechanical ventilation, and inadequate post-discharge rehabilitation.
+
+GBS pathologically affects the peripheral nervous system, classified into subtypes based on distinct clinical and pathological features: Acute inflammatory demyelinating polyneuropathy (AIDP) represents the prototypical form involving acute inflammatory responses and peripheral nerve demyelination. Axonal variants — acute motor axonal neuropathy (AMAN) and acute motor sensory axonal neuropathy (AMSAN) — predominate in Asian countries. Molecular mimicry between Campylobacter jejuni lipo-oligosaccharide and host gangliosides elicits hyperreactive immune responses, explaining pathogenesis of Campylobacter jejuni-associated GBS.
+
+Up to 30% of GBS patients require mechanical ventilation and ICU admission. Rapidly progressive patients unable to walk independently, bedbound patients, or those with labile blood pressure, cardiac arrhythmia, or respiratory distress require immediate ICU treatment when feasible. Failure to refer severely affected patients to specialized neurological ICU increases mortality, emphasizing early referral importance and neurocritical care provision.
+
+---
+
+CANONICAL AND EMERGING IMMUNOTHERAPIES
+
+IVIg and PE: Standard IVIg regimen involves 0.4 g/kg body weight daily for five consecutive days. Contraindications include anti-IgA antibodies and selective IgA deficiencies. PE standard schedule involves five sessions of 40-50 ml plasma/kg body weight within 7-14 days.
+
+IVIg (0.4 g/kg body weight daily for five days) and PE (200-250 ml plasma/kg body weight in five sessions) demonstrate equal effectiveness. Mechanically ventilated adult GBS patients receiving IVIg exhibit shorter hospitalization and earlier weaning versus PE recipients.
+
+Steroids: Corticosteroids are not recommended for general GBS management. Add-on corticosteroids worsened short-term prognosis in severely paralytic and mechanically ventilated patients.
+
+---
+
+MECHANICAL VENTILATION
+
+Mechanical ventilation should be considered when: vital capacity <15 ml/kg body weight, hypoxemia (PaO2 <7.5 kPa), hypercarbia (PaCO2 >6.4 kPa), or intolerable respiratory distress. Severe cases with bulbar dysfunction and vital capacity <20 ml/kg may indicate rapid decline necessitating earlier ventilation.
+
+GBS patients might be sensitive to mechanical ventilation-associated hypotension due to dysautonomia-induced labile blood pressure.
+
+If prolonged mechanical ventilation (>3 weeks) is predicted, tracheostomy should be considered immediately. Delayed tracheostomy exceeding two weeks increases laryngeal injury risks.
+
+---
+
+SUPPORTIVE CARE AND TREATMENT IN THE ICU
+
+Systematic Management: Approximately one-fifth of GBS patients develop cardiac issues including arrhythmia and extreme hypertension or hypotension; bradycardia risks asystole. Heart rate, rhythm, blood pressure, oxygen saturation, vital capacity, blood gas and biochemistry, and swallowing measurements should be conducted every 2-4 hours. Temporary cardiac pacemakers are needed for patients with severe dysautonomia, arrhythmia, extreme hypertension or hypotension.
+
+Tracheal intubation medications (barbiturates, benzodiazepines, narcotics) can exaggerate dysautonomia-associated symptoms like hypotensive responses.
+
+Pain Management: Approximately 36% of GBS patients complain of pain two weeks before weakness, with 66% in acute phase and 38% one year after disease onset. Routine management includes pharmacological intervention (opioids, gabapentin, carbamazepine, NSAIDs) or physical intervention.
+
+Glucose Control: Higher fasting plasma glucose levels associate with poorer short-term discharge prognosis. Dysglycemia closely correlates with neurologic disability at ICU discharge and may delay motor recovery in mechanically ventilated patients.
+
+Gastrointestinal: Gastric-small intestine adynamic ileus affects 15% of severe GBS patients. Routine abdominal examination could be performed for dysautonomia patients. Constipation and urinary retention are preventable through laxatives or bladder catheterization.
+
+---
+
+ICU-RELATED COMPLICATIONS
+
+- ICU-acquired weakness (diaphragmatic weakness, critical illness polyneuropathy/myopathy)
+- Hospital-acquired pneumonia and ventilator-associated pneumonia
+- Pressure palsies and entrapment neuropathy
+- PRES (Posterior Reversible Encephalopathy Syndrome) - may be triggered by ICU stay or dysautonomia
+- ICU delirium
+- SIADH (48% of patients) - lower MRC scores, longer hospital stay, higher MV dependence, greater PE requirement
+
+---
+
+CONCLUDING REMARKS
+
+Severe GBS ICU management is typically multidisciplinary and increasingly complex. PE and IVIg remain treatment mainstays. Early tracheostomy in severe patients should be considered when improvement is trivial after immunotherapy. Complications including DVT, ICU-acquired weakness, HAP/VAP, PRES, ICU delirium, and SIADH require timely diagnosis and treatment with emphasis on prophylaxis. Rehabilitation and psychological support are emphasized in both ICU-recruited and discharged patients.
+
+---
+
+REFERENCES: 160+ references (1985-2020). Full reference list available at PMC8113987.

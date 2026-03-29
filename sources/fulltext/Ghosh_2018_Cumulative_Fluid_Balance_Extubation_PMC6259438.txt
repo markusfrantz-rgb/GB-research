@@ -1,0 +1,164 @@
+Cumulative Fluid Balance and Outcome of Extubation: A Prospective Observational Study from a General Intensive Care Unit
+========================================================================================================================
+
+Authors: Supradip Ghosh, Aayush Chawla, Kirtee Mishra, Ranupriya Jhalani, Ripenmeet Salhotra, Amandeep Singh
+Journal: Indian Journal of Critical Care Medicine : Peer-reviewed, Official Publication of Indian Society of Critical Care Medicine
+Year: 2018; Volume: 22; Issue: 11; Pages: 767-772
+DOI: 10.4103/ijccm.IJCCM_216_18
+PMID: 30598562 | PMCID: PMC6259438
+
+ABSTRACT
+----------------------------------------
+
+Introduction::
+This study was aimed to examine the impact of cumulative fluid balance on extubation failure following planned extubation.
+
+Methods::
+Consecutive adult patients (≥16 years) admitted in a general intensive care unit (ICU), between January 1, 2016, and December 31, 2017, mechanically ventilated for at least 24 h and extubated following successful spontaneous breathing trial, were prospectively evaluated.
+
+Results::
+The cumulative fluid balance at extubation was significantly higher in the extubation failure group (median 4336.5 ml vs. 2752 ml, P = 0.036). The area under the receiver operating characteristic curve for cumulative balance to predict extubation failure was 0.6 (95% confidence interval [CI]: 0.504–0.697) with optimal cutoff value of 3490 ml (sensitivity and specificity of 60% and 59.5%, respectively). Other risk factors for extubation failure identified by univariate analysis were the duration of mechanical ventilation at extubation, chronic kidney or neurological disease, heart rate, and respiratory rate. In multiple regression model, the cumulative fluid balance >3490 ml retained its predictive potential for extubation failure (odds ratio = 2.191, 95% CI = 1.015–4.730).
+
+Conclusions::
+Our result validates the association between higher cumulative fluid balance and extubation failure in an Indian ICU. A future randomized control trial may examine any role of therapeutic diuresis/ultrafiltration in preventing failed extubation in patients who fulfill the readiness to wean criteria with cumulative net fluid balance ≥3490 ml.
+
+INTRODUCTION
+----------------------------------------
+
+A positive cumulative fluid balance is known to be associated with increased mortality in critically ill patients.[12] Studies have shown favorable clinical outcomes by achieving negative fluid balance in the later stage of critical illness.[345] There is a strong biological plausibility to believe that the cumulative fluid balance will have its impact on the respiratory outcome of patients. A positive cumulative fluid balance leads to increased capillary leak, increase in extravascular lung water, and decrease in lung compliance and may result in respiratory failure both during spontaneous breathing trial (SBT) and in the immediate postextubation period.[6] Restrictive fluid strategy has shown to decrease the length of mechanical ventilation, intensive care unit (ICU) length of stay, and a trend toward decreased mortality in patients with acute respiratory distress syndrome.[7] In an earlier study, the relationship between fluid balance and weaning outcome was explored.[8] Both negative fluid balance 24-h preextubation and negative net cumulative balance since intubation were found to be independently associated with successful weaning. However, extensive use of diuretics in the study population and majority of patients achieving negative fluid balance or euvolemia at the first SBT questions the generalizability of the study results. Similar independent association between positive fluid balance 24 h before extubation and failure of extubation attempt was observed in another multicenter study.[9]
+
+With this background, we planned a prospective observational study in an Indian ICU looking for an association between net cumulative fluid balance since admission and outcome of extubation in a heterogeneous group of patients who were mechanically ventilated for at least 24 h and extubated after successful completion of SBT. Cumulative fluid balance since admission is likely to have a higher impact in predicting extubation outcome than selective 24-h preextubation fluid balance. Hence, we decided to take net cumulative fluid balance as the independent variable for our study. De-resuscitation using diuretics and/or isolated ultrafiltration before extubation is not routinely practiced in the unit. The secondary objective was to analyze other baseline characteristics or parameters at extubation associated with extubation failure. We also evaluated the impact of extubation failure and reintubation on the outcome of our patients at hospital discharge.
+
+METHODS
+----------------------------------------
+
+The study was conducted in an 18-bed Indian ICU. The ICU caters for mixed medical and surgical patients, except patients with primary coronary emergencies. The department is recognized for fellowship courses in critical care medicine. In the unit, a consultant intensivist is available around the clock in person. The nurse-to-patient ratio was maintained at 1:1–1:2. All patients admitted in the ICU between January 1, 2016, and December 31, 2017, who required invasive mechanical ventilation were screened for eligibility criteria. All data on extubation episodes were then collected prospectively. The study had been approved by the hospital ethics committee, and all the patients had given their informed consent before their inclusion in the study.
+
+Patients who fulfilled all of the following criteria were included in the study: (1) age ≥16 years, (2) invasive mechanical ventilation for >24 h, and (3) successful completion of SBT. Only first episodes of planned extubation (henceforth called index extubation) were included in the study. Patients with age <16 years, mechanically ventilated for <24 h, or already intubated at the time of admission to our hospital were excluded from the study.
+
+Weaning process
+~~~~~~~~~~~~~~~
+
+Weaning from invasive mechanical ventilation is intensivist driven in the unit and generally follows standard practice guidelines.[1011] All ventilated patients were daily evaluated in the morning round for readiness to wean the following criteria: complete or significant partial reversal of the underlying disease process, SpO2 >92% with fractional inspiratory oxygen (FIO2) <40%–50% and positive end-expiratory pressure ≤5 cmH2O, hemodynamic stability (on no or minimal dose of norepinephrine), compensated pH, awake without continuous infusion of sedation (except dexmedetomidine infusion), normal body temperature, and adequate cough during endotracheal suctioning.
+
+An SBT was performed systematically using either T-piece or pressure support ≤8 cmH2O/PEEP ≤5 cmH2O in all patients who fulfill readiness to wean the criteria. If SBT is tolerated for 30–120 min and there is no anticipated airway issue, patients are extubated. Hemodynamic and respiratory parameters were continuously monitored by the bedside nurse and on-duty intensivist during SBT. Patients were generally considered to fail SBT if they develop any of the following during trial: respiratory rate >35 breaths/min with increased accessory muscle activity, SpO2 persistently <90% with at least 10 L/min of oxygen, heart rate persistently >130 beats/min or any new-onset arrhythmia, drop in systolic blood pressure <90 mmHg or rise >180 mmHg, subjective dyspnea, and major agitation or depressed mental status.
+
+Preventive noninvasive ventilation (NIV) is commonly used in the unit at the time of extubation and broadly follows criteria proposed by earlier studies: age >65 years, prior failed SBT, underlying cardiac illness, underlying chronic obstructive airway disease (COAD) with PaCO2 >45 mmHg, and more than two organ dysfunctions.[1213] The decision for reintubation is taken by the consultant intensivist on duty. A trial of NIV in cases of extubation failure (if not already on prophylactic NIV) is at his/her discretion.
+
+Definitions of terms
+~~~~~~~~~~~~~~~~~~~~
+
+Following definitions were adapted from an earlier study.[14] Planned extubation was defined as extubation after a successful SBT. For patients with multiple episodes of planned extubation, only the index extubation was included in the present study. Self-extubation was defined as deliberate removal of the endotracheal tube by the patient. Accidental extubation was defined as the removal of an endotracheal tube during nursing care or transportation. All accidental and deliberate self-extubations were grouped as unplanned extubation. Unplanned extubations were not included for the current study. Extubation failure was defined as the development of at least one of the following within 72-h postextubation: airway issues – severe stridor or inability to protect airway (poor cough and excessive secretion) and nonairway issues such as hemodynamic instability unresponsive to fluid bolus and requirement of vasoactive drugs, worsening of oxygenation, worsening pH with rise in PaCO2, worsening mental status, and initiation of NIV by on-duty intensivist (if not already on prophylactic NIV) for any respiratory distress and respiratory or cardiac arrest.
+
+Collection of data
+~~~~~~~~~~~~~~~~~~
+
+Baseline data including source of admission, age, sex, type of admission, underlying chronic disorder (chronic respiratory disease with significant restriction of activities or requirement of home oxygen therapy or NIV support, chronic cardiovascular disease with moderate-to-severe left ventricular dysfunction – left ventricular ejection fraction <40% or in the New York Heart Association Class III or IV, chronic neurological disorder with restriction of activities of daily living or having pharyngeal dysfunction and end-stage renal disease may or may not be on chronic dialysis support), and Acute Physiology and Chronic Health Evaluation II as an indicator of disease severity and indication for intubation were collected for all patients. For all extubations, after a successful SBT, following data were collected: type of SBT, respiratory rate, heart rate, mean arterial pressure, lactate level, use of diuretics, net cumulative fluid balance at extubation (defined as total intake including oral and intravenous fluid, medications and blood products since hospital admission minus total output including urine, drains output, and ultrafiltration if any), arterial blood gas values – pH, PaCO2, ratio of partial pressure of oxygen (PaO2) to FIO2 (PaO2/FIO2 ratio), level of alertness (assessed by Richmond Agitation–Sedation Scale), and application of prophylactic NIV support. For patients who failed extubation and required reintubation, reason for extubation failure and time duration from index extubation to reintubation were recorded. For all patients, hospital outcome (dead or alive), ICU length of stay, and hospital length of stay were recorded. Worst possible outcome (death) was recorded as the hospital outcome for patients in whom further treatment was discontinued.
+
+Statistical analysis
+~~~~~~~~~~~~~~~~~~~~
+
+The results were summarized as mean ± standard deviation for normally distributed quantitative variables, median with interquartile range Q1–Q3 for nonnormally distributed quantitative variables, and frequency (and percentage) for qualitative variables. For significance testing, the following statistical tests were used as appropriate: parametric unpaired Student's t-test for normally distributed variables, Mann–Whitney U test for nonnormally distributed variables, and the Pearson's Chi-squared test/Fisher's exact test to compare proportions. Two-tailed P < 0.05 was considered statistically significant.
+
+To estimate the simultaneous effects of multiple variables on extubation failure, a multiple regression analysis was performed using unconditional logistic regression model and both backward and forward step-wise selection methods to adjust the effects of simultaneous variables. The following variables were included in the logistic regression model: evidence of an association (P < 0.05) in the univariate analysis, age >65 years as seen in prior studies, and gender. The statistical analysis was performed using the Statistical Package for the Social Sciences version 22.0 (SPSS, Chicago, IL, USA).
+
+RESULTS
+----------------------------------------
+
+During the study, a total of 313 patients underwent planned index extubation with overall extubation failure (and reintubation rate) of 16% (50 of 313). One hundred and twelve of these patients were excluded from further analysis, as they were extubated within 24 h of intubation. Of 201 patients who fulfilled entry criteria, 48 had extubation failure and all of them required reintubation.
+
+Univariate analysis
+~~~~~~~~~~~~~~~~~~~
+
+Table 1 compares the characteristics of the study patients who had extubation failure versus those whose extubation attempts were successful. Patients with extubation failure had significantly higher cumulative fluid balance at extubation compared to patients with successful extubation (median 4336.5 ml vs. 2752 ml, P = 0.036). The area under the receiver operating characteristic (ROC) curve for cumulative balance to predict extubation failure was 0.6 (95% confidence interval [CI]: 0.504–0.697) with the best possible sensitivity and specificity obtained at a cutoff value of 3490 ml (sensitivity and specificity to predict extubation failure of 60% and 59.5%, respectively) [Figure 1]. Significantly higher percentage of patients had cumulative fluid balance of >3490 ml in the extubation failure group (60.4% vs. 40.5%, P = 0.016). Overall, 14.42% (29/201) of the patients were on diuretics at extubation without any significant difference between the two groups. Other risk factors associated with extubation failure in the univariate analysis were duration of mechanical ventilation at extubation, chronic kidney disease, chronic neurological disease, heart rate, and respiratory rate at extubation.
+
+[Table 1]
+Comparison of patients with failed and successful planned index extubation
+
+[Figure 1]
+Receiver operating characteristic curve showing a relationship between cumulative fluid balance and extubation failure
+
+Multiple regression analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In multiple regression model, cumulative fluid balance >3490 ml retained its predictive potential for extubation failure (odds ratio = 2.191, 95% CI = 1.015–4.730). Table 2 shows the risk factors significantly associated with extubation failure after multiple regression analysis.
+
+[Table 2]
+Factors independently associated with extubation failure - multiple regression analysis
+
+Outcome of extubation failure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Patients with extubation failure had significantly higher inhospital mortality, ICU length of stay, and hospital length of stay as shown in Table 3. Of 48 extubation failures, 38 were due to nonairway-related factors. Inhospital mortality was not different in patients with nonairway-related extubation failure and airway-related ones (60.5% vs. 70%, P = 0.303). There was a longer time delay between index extubation and reintubation in patients who died following extubation failure, but the difference was not found to be statistically significant (median 23 vs. 8.5 h, P = 0.212). The area under the ROC curve constructed for time delay in reintubation in predicting mortality was 0.467 (95% CI: 0.298–0.635).
+
+[Table 3]
+Outcome of patients with failed and successful index extubation
+
+DISCUSSION
+----------------------------------------
+
+The highlights of our study are, first, it validates the association, which is found to be small but significant, between cumulative fluid balance and extubation failure in the general ICU of a developing country with an optimal cutoff value of 3490 ml to discern between extubation success and failure. Second, we have observed for the first time, an association between chronic kidney or chronic neurological disease and extubation failure. Third, our findings reemphasized the clear association between extubation failure and adverse hospital outcome. Among patients with extubation failure, we could not identify a specific subgroup of patients with higher risk of mortality.
+
+Upadya et al. prospectively evaluated the effect of fluid balance on weaning outcome following the first SBT.[8] They observed a significant association between both negative fluid balance 24 h before the first SBT and net negative cumulative fluid balance after intubation with successful weaning outcome (defined as successful first SBT plus extubation). However, there are important differences between these two studies. First, we specifically looked for the effect of net cumulative fluid balance on the success of index extubation irrespective of number of prior SBTs. Second, we excluded patients who were on mechanical ventilation for <24 h, as this subgroup of patients in general has low incidence of extubation failure (2 of 112 patients, i.e., 1.78% during the study period). Third, cumulative fluid balance in our study was calculated from hospital admission till the time of extubation, unlike Upadya et al.'s study where fluid balance for the previous 24 h was determined at midnight and cumulative fluid balance was calculated from the time of intubation. Finally, earlier study had much lower cumulative fluid balance at extubation both in failure and success groups, possibly explained by more extensive use of diuretics (56% vs. 14.42% in our study). Selective 24-h preextubation fluid balance (unlike net cumulative fluid balance in our study) was studied by Frutos-Vivar et al. as a risk factor for extubation outcome. They also observed a statistically significant higher risk of extubation failure in patients with positive fluid balance.[9]
+
+Interestingly, preexisting chronic kidney or neurological diseases were not considered as independent risk factors for extubation failure in any of the earlier clinical studies on extubation outcome in ICU patients.[91415] Significant negative impact of preexisting chronic kidney or neurological diseases on extubation outcome was found in our study, which could be center or region specific as long-term care of these chronic patients may vary among centers and different regions. Pending further investigations, we hypothesize, interstitial edema and neuromuscular weakness as the potential factors responsible for extubation failure in chronic kidney disease patients. The most plausible explanation for extubation failure in patients with chronic neurologic diseases could be muscle atrophy due to prolonged immobilization, as well as loss of protective airway reflexes. Thille et al. had observed a higher risk of failed extubation in older patients (aged >65 years) and in patients having underlying chronic cardiac or respiratory diseases.[14] A similar impact of patient's age and underlying chronic cardiac or respiratory diseases on extubation outcome could not be reproduced in our study. The extensive use of prophylactic NIV (used in overall 46% of our study patients) could be a confounding factor leading to differences in results. We explored further the impact of prophylactic NIV on extubation outcome in subgroups of patients with underlying cardiac and respiratory diseases. The use of NIV support between failed and successfully extubated patients in these two subgroups was not different (11.5% vs. 8.5% in chronic cardiac diseases, P = 0.7 and 26.9% vs. 13.4% in chronic respiratory diseases, P = 0.107). Like earlier studies, we also observed a significant association between longer duration of mechanical ventilation before extubation and failure of extubation.[891415]
+
+Compared to extubation success, failed extubation was associated with higher in-hospital mortality and longer ICU or hospital length of stay, findings consistent with earlier studies.[1416] Epstein et al. examined the impact of etiology of extubation failure (airway or nonairway related) and time to reintubation on hospital outcome of patients who had extubation failure.[17] Nonairway-related cause of extubation failure and longer time delay in reintubation both were independently associated with hospital mortality in reintubated patients in their study. In our study, analysis of 48 patients who had extubation failure and mortality in nonairway-related failure was not significantly different from those due to airway-related factors. Association between time delay to reintubation and mortality also did not reach statistical significance.
+
+The major limitation of our study was that of any single center study. Second, there are unique issues related to provision of critical care in developing countries that may lead to significant differences from developed world.[18] Therefore, some of our findings such as association between chronic kidney or neurological diseases and extubation failure need to be validated externally in a multicenter study. Third, we also cannot say with certainty whether a strictly protocolized weaning trial could have made a difference in our study findings. However, a recent Cochrane review did not show any superiority of protocolized weaning over nonprotocolized ones.[19]
+
+CONCLUSIONS
+----------------------------------------
+
+Based on the prospective evaluation of consecutive patients undergoing planned extubation following mechanical ventilation ≥24 h, we could show an association between higher cumulative fluid balance and extubation failure, validating the data from other parts of the world. We could also establish an optimal cutoff value for cumulative fluid balance since admission of 3490 ml to predict a higher risk of extubation failure. In the future, a randomized control study may be planned to explore any role of therapeutic diuresis/ultrafiltration in preventing extubation failure in patients with cumulative fluid balance >3490 ml. Our study has for the first time identified chronic kidney or neurological diseases as risk factors for extubation failure. Future study should focus on whether this association is institution/region specific or generalizable. We could not find any association between etiologies of extubation failure or time delay in reintubation and mortality in subgroup of patients who needed reintubation. A larger study is required to identify a specific subgroup of patients with extubation failure and higher risk of mortality.
+
+Financial support and sponsorship
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nil.
+
+Conflicts of interest
+~~~~~~~~~~~~~~~~~~~~~
+
+There are no conflicts of interest.
+
+REFERENCES
+----------------------------------------
+
+1. VincentJLSakrYSprungCLRanieriVMReinhartKGerlachHSepsis in European intensive care units: Results of the SOAP studyCrit Care Med200634344531642471310.1097/01.ccm.0000194725.48928.3a
+
+2. BoydJHForbesJNakadaTWalleyKRRussellJAFluid resuscitation in septic shock: A positive fluid balance and elevated central venous pressure are associated with increased mortalityCrit Care Med201139259652097554810.1097/CCM.0b013e3181feeb15
+
+3. MurphyCVSchrammGEDohertyJAReichleyRMGajicOAfessaBThe importance of fluid management in acute lung injury secondary to septic shockChest200913610291931867510.1378/chest.08-2706
+
+4. CordemansCDe laetIVan RegenmortelNSchoonheydtKDitsHMartinGAiming for a negative fluid balance in patients with acute lung injury and increased intra-abdominal pressure: A pilot study looking at the effects of PAL-treatmentAnn Intensive Care20122S152287341610.1186/2110-5820-2-S1-S15PMC3390296
+
+5. MartinGSMossMWheelerAPMealerMMorrisJABernardGRA randomized, controlled trial of furosemide with or without albumin in hypoproteinemic patients with acute lung injuryCrit Care Med200533168171609644110.1097/01.ccm.0000171539.47006.02
+
+6. D'OrioVMendesPCarlierPFatemiMMarcelleRLung fluid dynamics and supply dependency of oxygen uptake during experimental endotoxic shock and volume resuscitationCrit Care Med19911995562205508510.1097/00003246-199107000-00022
+
+7. WiedemannHPWheelerAPBernardGRThompsonBTHaydenDdeBoisblancBComparison of two fluid-management strategies in acute lung injuryN Engl J Med20063542564751671476710.1056/NEJMoa062200
+
+8. UpadyaATilluckdharryLMuralidharanVAmoateng-AdjepongYManthousCAFluid balance and weaning outcomesIntensive Care Med200531164371619333010.1007/s00134-005-2801-3
+
+9. Frutos-VivarFFergusonNDEstebanAEpsteinSKArabiYApezteguíaCRisk factors for extubation failure in patients following a successful spontaneous breathing trialChest20061301664711716698010.1378/chest.130.6.1664
+
+10. BolesJ-MBionJConnorsAHerridgeMMarshBMelotCWeaning from mechanical ventilationEur Respir J2007291033561747062410.1183/09031936.00010206
+
+11. McConvilleJFKressJPWeaning patients from the ventilatorN Engl J Med2012367223392321555910.1056/NEJMra1203367
+
+12. NavaSGregorettiCFanfullaFSquadroneEGrassiMCarlucciANoninvasive ventilation to prevent respiratory failure after extubation in high-risk patientsCrit Care Med2005332465701627616710.1097/01.ccm.0000186416.44752.72
+
+13. FerrerMValenciaMNicolasJMBernadichOBadiaJRTorresAEarly Noninvasive Ventilation Averts Extubation Failure in Patients at Risk - A Randomized TrialAm J Respir Crit Care Med2006173164701622410810.1164/rccm.200505-718OC
+
+14. ThilleAWHarroisASchortgenFDBrun-BuissonCBrochardLOutcomes of extubation failure in medical intensive care unit patientsCrit Care Med201139261282176535710.1097/CCM.0b013e3182282a5a
+
+15. Hsiung LeeESJiann LimDTTaculodJMSahagunJTOteroJPTeoKFactors associated with reintubation in an intensive care unit: A prospective observational studyIndian J Cri Care Med201721131710.4103/ijccm.IJCCM_452_16PMC536310128400683
+
+16. EpsteinSKCiubotaruRLWongJBEffect of failed extubation on the outcome of mechanical ventilationChest199711218692922837510.1378/chest.112.1.186
+
+17. EpsteinSKCiubotaruRLIndependent effects of etiology of failure and time to reintubation on outcome for patients failing extubationAm J Respir Crit Care Med199815848993970012610.1164/ajrccm.158.2.9711045
+
+18. GomersallCDCritical care in the developing world - a challenge for us allCrit Care2010141312034609210.1186/cc8871PMC2887112
+
+19. BlackwoodBBurnsKECardwellCRO'HalloranPProtocolized versus non-protocolized weaning for reducing the duration of mechanical ventilation in critically ill adult patientsCochrane Database Syst Rev201411611CD006904doi: 10.1002/14651858.CD006904.pub310.1002/14651858.CD006904.pub3PMC651701525375085

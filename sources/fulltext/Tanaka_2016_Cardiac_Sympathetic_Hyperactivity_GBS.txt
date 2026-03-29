@@ -1,0 +1,244 @@
+CASE REPORT
+
+Cardiac Sympathetic Hyperactivity in a Patient with
+Guillain-Barré Syndrome: An Analysis Using Cardiac
+[123I] Metaiodobenzylguanidine (MIBG) Scintigraphy
+
+Yuji Tanaka and Kazuo Satomi
+
+Department of Neurology, Gifu Municipal Hospital, Japan
+
+Internal Medicine 55: 299-302, 2016
+DOI: 10.2169/internalmedicine.55.3941
+PMID: 26831028
+
+Received for publication August 20, 2014; Accepted for publication May 13, 2015
+Correspondence to Dr. Yuji Tanaka, yutanaka-gif@umin.net
+
+Abstract
+
+A 31-year-old woman gradually developed weakness in the lower extremities and gait
+disturbance. Subsequently, the patient developed severe constipation and hypertension
+with tachycardia. Nerve conduction studies revealed demyelinating polyneuropathy. Serum
+anti-GQ1b IgG antibody was detected. The levels of plasma noradrenaline and dopamine
+and urinary noradrenaline were elevated. Cardiac [123I] metaiodobenzylguanidine (MIBG)
+scintigraphy showed a normal H/M rate at the early phase and an elevated washout rate.
+According to these findings, the patient was diagnosed with Guillain-Barré syndrome with
+cardiac sympathetic hyperactivity. During convalescence, the plasma and urine
+catecholamine levels fell within the reference ranges, and MIBG scintigraphy showed a
+decreased washout rate.
+
+Key words: Guillain-Barré syndrome, cardiac sympathetic hyperactivity, cardiac [123I]
+MIBG scintigraphy, autonomic dysfunction
+
+
+Introduction
+
+Guillain-Barré syndrome (GBS) is an immune-mediated peripheral neuropathy. Patients
+with GBS may present with autonomic dysfunction (1). Several studies found autonomic
+dysfunction, mainly cardiovascular, manifested as tachycardia and orthostatic hypotension
+alternating with hypertension to be very common in this disease, occurring in one-third to
+two-thirds of the patients (2). Autonomic dysfunction occurred frequently, and occasionally
+was severe, and it manifested in the form of either excessive or inadequate activity of the
+sympathetic and/or parasympathetic systems (3).
+
+Cardiac [123I] metaiodobenzylguanidine (MIBG) scintigraphy is a diagnostic test for
+evaluating the cardiac sympathetic function (4). However, few reports have addressed the
+cardiac sympathetic function in GBS patients using this technique. We herein report a GBS
+patient with cardiac sympathetic hyperactivity evaluated using cardiac MIBG scintigraphy.
+
+
+Case Report
+
+The patient was a 31-year-old woman who was diagnosed with adenoiditis at 6 years of
+age and right cholesteatoma at 11 years of age. At first, the patient developed acute upper
+respiratory inflammation. After 2 weeks, the patient developed weakness in the lower
+extremities, difficulty in standing up, and gradual gait disturbance. The patient also showed
+numbness in her left face and difficulty in left eye closure, but did not have dysphagia and
+dysarthria. She was admitted to our hospital. A neurological examination revealed bilateral
+peripheral facial nerve palsy, no another cranial nerve symptoms, weakness of the four
+extremities (dominant in the lower extremities), no cerebellar symptoms, absence of deep
+tendon reflex in the extremities, negative Babinski response, and no Romberg sign. Her
+functional grade was grade 4 (5). Subsequently, the patient developed severe constipation
+(1 defecation per week with straining, lumpy and sensation of incomplete evacuation) and
+hypertension with tachycardia. Her blood pressure was 200/134 (systolic/diastolic) mmHg
+and heart rate was 130 beats per minute (bpm) at rest.
+
+A magnetic resonance imaging scan of the brain and spinal cord showed normal findings.
+A cerebrospinal fluid examination showed an elevated protein level of 292 mg/dL
+(reference range, 10-40 mg/dL) and normal cell count. Nerve conduction studies were
+performed in the median, ulnar, tibial and sural nerves. The motor nerve conduction
+velocity was markedly decreased in the median (34 m/s), ulnar (36 m/s) and tibial nerves
+(26 m/s). The distal motor latencies were prolonged in the median (4.9 ms), ulnar (5.6 ms)
+and tibial nerves (6.9 ms). Each motor nerve showed temporal dispersion. The amplitudes
+of the compound muscle action potentials were decreased in the tibial nerves (4.0 mV),
+whereas they remained within the normal ranges in the median and ulnar nerves. The
+F-wave was prolonged in latency in the tibial nerve (52.1 ms). The sensory nerve
+conduction velocity was normal in the median, ulnar and sural nerves. The amplitudes of
+the sensory nerve action potentials were normal in the median, ulnar and sural nerves.
+These electrophysiological findings supported the diagnosis of acute inflammatory
+demyelinating polyneuropathy (AIDP) (6). In addition, the patient tested negative for
+anti-GM1-IgG antibody and positive for anti-GQ1b IgG antibody (antibody titer 1.403,
+cut-off index <0.400). The level of plasma adrenaline was 44 pg/mL (reference range,
+<100 pg/mL), plasma noradrenaline was 1,075 pg/mL (reference range, 100-450 pg/mL),
+plasma dopamine was 28 pg/mL (reference range, <20 pg/mL), urinary adrenaline was
+11.6 ug/day (reference range, 3.4-26.9 ug/day), urinary noradrenaline was 472.4 ug/day
+(reference range, 48.6-168.4 ug/day) and urinary dopamine was 709.2 ug/day (reference
+range, 365.0-961.5 ug/day). On the head-up tilt test in the morning after fasting, the blood
+pressure in the supine position was 202/130 mmHg and heart rate was 120 bpm, blood
+pressure at the tilt (elevate to 60 degrees) was 188/124 mmHg and heart rate was 122 bpm.
+In the heart rate variation test, CVR-R was 3.46. A Holter electrocardiography (ECG)
+showed a high heart rate (average 98 bpm, maximum 138 bpm) and loss of the circadian
+rhythm. Twenty-four hour ambulatory blood pressure monitoring showed a non-dipper type.
+Prior to treatment (functional grade 4), cardiac MIBG scintigraphy showed a normal H/M
+rate at the early phase (2.10) (reference range, 1.9-3.0) and the delayed phase (1.92), and
+an elevated washout rate (WR) (45.35%) (Figure A). According to these findings, a
+diagnosis of GBS (acute inflammatory demyelinating polyneuropathy) with autonomic
+dysfunction, such as severe constipation, hypertension and tachycardia, was made.
+
+Intravenous immunoglobulin therapy (2,500 mg/day, 5 days) and rehabilitation improved
+the patient's motor symptoms. Treatment with beta-blocker (propranolol 30 mg/day) for 3
+weeks improved the cardiac symptoms, such as hypertension and tachycardia. At one month
+after admission, the patient's motor function was functional grade 1, and her blood pressure
+at rest was 116/76 mmHg and heart rate was 64 bpm, and the plasma and urine levels of
+catecholamines were found to be within the reference ranges. After one year, the motor
+function was functional grade 0, and her blood pressure was 120/74 mmHg and heart rate
+was 68 bpm, and cardiac MIBG scintigraphy showed a normal H/M rate at the early phase
+(2.50) and the delayed phase (2.72), and a normalized WR (32.68%) (Figure B).
+
+
+Discussion
+
+We herein report that a 31-year-old woman presented with GBS (acute inflammatory
+demyelinating polyneuropathy) accompanied with autonomic dysfunction, such as severe
+constipation, hypertension and tachycardia. Initially, the patient had cardiac sympathetic
+hyperactivity based on the cardiac MIBG scintigraphy findings and plasma and urine levels
+of catecholamines. During recovery, the cardiac sympathetic hyperactivity was alleviated.
+
+Autonomic cardiovascular dysfunctions of GBS patients mainly involve hypertension
+(27%), orthostatic hypotension (19%), tachycardia (23%), or bradycardia (5%) (7). These
+cardiovascular symptoms may be serious or even fatal during the clinical course, as they
+take the form of either excessive or inadequate activity of the sympathetic and/or
+parasympathetic systems (3). Concerning autonomic cardiovascular dysfunction, according
+to the findings of physiological and endocrinological examinations, GBS patients with
+hypertension and tachycardia in the acute phase are considered to have cardiac sympathetic
+hyperactivity (8-11). On the electrophysiological examination, it was confirmed that the
+patients had cardiac sympathetic hyperactivity and overactivity (12). The underlying
+mechanism involves baroreceptor deafferentation, resulting in resting tachycardia and
+hypertension, and this may explain the sympathetic hyperactivity in GBS patients (13).
+However, the underlying mechanism of the autonomic dysfunction observed in GBS
+patients has not yet been elucidated.
+
+Concerning the type of GBS, acute inflammatory demyelinating polyneuropathy is
+characterized by cardiac sympathetic hyperactivity, while acute motor axonal neuropathy is
+not necessarily associated with marked autonomic dysfunction, except for the sudomotor
+hypofunction seen in patients with severe neurological deficits (14). Although associations
+between autonomic dysfunction and antiganglioside antibody have not been previously
+reported, recently it was found that patients with high scores in the quantitative sudomotor
+axon reflex test tended to test positive for anti-GQ1b IgG antibodies, indicating the
+association between postganglionic sudomotor dysfunction and anti-GQ1b antibodies (15).
+In the present case, the electrophysiological feature of the GBS was acute inflammatory
+demyelinating polyneuropathy and the autoimmunological feature was positive for
+anti-GQ1b IgG antibody.
+
+Cardiac MIBG scintigraphy is a diagnostic test for evaluating the cardiac sympathetic
+function (4); the reduction of MIBG uptake in the early phase implies a certain degree of
+damage to the cardiac sympathetic nerve endings (4, 16, 17), and an increased WR
+indicates cardiac sympathetic hyperactivity (18-20). Because MIBG is a physiological
+analogue of norepinephrine that is actively taken up into norepinephrine granules of
+sympathetic nerve terminals by norepinephrine transporters (4), an increased WR indicates
+peripheral sympathetic hyperactivity. In the present case, an elevated WR of cardiac MIBG
+scintigraphy was shown in the acute phase, and in the convalescence phase, a decreased WR
+was revealed. These findings indicated that a GBS patient had peripheral sympathetic
+hyperactivity in the acute phase.
+
+In conclusion, we herein highlighted the increased WR of cardiac MIBG scintigraphy in a
+GBS patient with cardiac sympathetic hyperactivity, such as severe constipation and
+hypertension with tachycardia. To the best of our knowledge, no previous report has
+evaluated the cardiac sympathetic function in GBS patients using the WR by this technique.
+Cardiac MIBG scintigraphy is a useful quantitative method for detecting cardiac
+sympathetic dysfunction. Moreover, cardiac MIBG scintigraphy in the early phase may be
+a predictive factor of the cardiac sympathetic function in GBS patients. Thus, physicians
+should pay careful attention to cardiac autonomic dysfunction in GBS patients.
+
+The authors state that they have no Conflict of Interest (COI).
+
+
+References
+
+1. Martins RP, Barbarot N, Coquerel N, Baruteau AE, Kolev I, Vérin M. Takotsubo
+   cardiomyopathy associated with Guillain-Barré syndrome: a differential diagnosis
+   from dysautonomia not to be missed. J Neurol Sci 291: 100-102, 2010.
+
+2. Low PA, Sanoroni P. The autonomic neuropathies. In: Clinical Autonomic Disorders.
+   3rd ed. Low PA, Benarroch EE, Eds. Lippincott Williams & Wilkins, Philadelphia,
+   2008: 400-422.
+
+3. Lichtenfeld P. Autonomic dysfunction in the Guillain-Barré syndrome. Am J Med 50:
+   772-780, 1971.
+
+4. Wieland DM, Brown LE, Rogers WL, et al. Myocardial imaging with a
+   radioiodinated norepinephrine storage analog. J Nucl Med 22: 22-31, 1981.
+
+5. Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled trial prednisolone
+   in acute polyneuropathy. Lancet 2: 750-753, 1978.
+
+6. Ho TW, Mishu B, Li CY, et al. Guillain-Barré syndrome in northern China.
+   Relationship to Campylobacter jejuni infection and anti-glycolipid antibodies. Brain
+   118: 597-605, 1995.
+
+7. Ropper AH, Wijdicks EFM, Truax BT. Clinical features of the typical syndrome. In:
+   Guillain-Barré Syndrome (Contemporary neurology series 34). Davis FA, Ed. F.A.
+   Davis Company, Philadelphia, 1991: 73-105.
+
+8. Davies AG, Dingle HR. Observations on cardiovascular and neuroendocrine
+   disturbance in the Guillain-Barré syndrome. J Neurol Neurosurg Psychiatry 35:
+   176-179, 1972.
+
+9. Davidson DL, Jellinek EH. Hypertension and papilloedema in the Guillain-Barré
+   syndrome. J Neurol Neurosurg Psychiatry 40: 144-148, 1977.
+
+10. Richards AM, Nicholls MG, Beard ME, Parkin PJ, Espiner EA. Severe hypertension
+    and raised haematocrit: unusual presentation of Guillain-Barré syndrome. Postgrad
+    Med J 61: 53-55, 1985.
+
+11. Flachenecker P, Hartung HP, Reiners K. Power spectrum analysis of heart rate
+    variability in Guillain-Barré syndrome. A longitudinal study. Brain 120: 1885-1894,
+    1997.
+
+12. Fagius J, Wallin BG. Microneurographic evidence of excessive sympathetic outflow
+    in the Guillain-Barré syndrome. Brain 106: 589-600, 1983.
+
+13. Fagius J, Wallin BG, Sundlöf G, Nerhed C, Englesson S. Sympathetic outflow in man
+    after anaesthesia of the glossopharyngeal and vagus nerves. Brain 108: 423-438, 1985.
+
+14. Asahina M, Kuwabara S, Suzuki A, Hattori T. Autonomic function in demyelinating
+    and axonal subtypes of Guillain-Barré syndrome. Acta Neurol Scand 105: 44-50,
+    2002.
+
+15. Kusunoki S. Autonomic involvement in Guillain-Barré syndrome. Rinsho
+    Shinkeigaku (Clinical Neurology) 46: 878-880, 2006 (in Japanese, Abstract in
+    English).
+
+16. Yoshita M. Differentiation of idiopathic Parkinson's disease from striatonigral
+    degeneration and progressive supranuclear palsy using iodine-123
+    meta-iodobenzylguanidine myocardial scintigraphy. J Neurol Sci 155: 60-67, 1998.
+
+17. Braune S, Reinhardt M, Schnitzer R, Riedel A, Lücking CH. Cardiac uptake of
+    [123I] MIBG separates Parkinson's disease from multiple system atrophy. Neurology
+    53: 1020-1025, 1999.
+
+18. Sisson JC, Shapiro B, Meyers L, et al. Metaiodobenzyl-guanidine to map
+    scintigraphically the adrenergic nervous system in man. J Nucl Med 28: 1625-1636,
+    1987.
+
+19. Sisson JC, Bolgos G, Johnson J. Measuring acute changes in adrenergic nerve
+    activity of the heart in the living animal. Am Heart J 121: 1119-1123, 1991.
+
+20. Tanaka Y, Yamada M, Koumura A, et al. Cardiac sympathetic function in the
+    patients with amyotrophic lateral sclerosis: analysis using cardiac [123I] MIBG
+    scintigraphy. J Neurol 260: 2380-2386, 2013.
+
+
+(C) 2016 The Japanese Society of Internal Medicine
+http://www.naika.or.jp/imonline/index.html

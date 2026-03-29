@@ -1,0 +1,1013 @@
+Clinical Autonomic Research (2019) 29:301–311
+https://doi.org/10.1007/s10286-018-0545-8
+
+REVIEW
+
+Autonomic dysfunction in the neurological intensive care unit
+Max J. Hilz1,2 · Mao Liu1 · Sankanika Roy1 · Ruihao Wang1
+Received: 19 December 2017 / Accepted: 5 July 2018 / Published online: 18 July 2018
+© Springer-Verlag GmbH Germany, part of Springer Nature 2018
+
+Abstract
+Autonomic dysfunction is common in neuro-critical care patients and may compromise the function of various organs.
+Among the many diseases causing or being associated with autonomic dysfunction are traumatic brain injury, cerebrovascular diseases, epilepsy, Guillain–Barré syndrome (GBS), alcohol withdrawal syndrome, botulism and tetanus, among
+many others. Autonomic dysfunction may afflict various organs and may involve hyper- or hypo-activity of the sympathetic
+or parasympathetic system. In this short overview, we address only a small number of neuro-intensive care diseases with
+autonomic dysfunction. In GBS, autonomic dysfunction is frequent and may account for increased mortality rates; rapid
+changes between sympathetic and parasympathetic hypo- or hyper-activity may cause life-threatening cardiovascular complications. Paroxysmal sympathetic hyperactivity occurs after brain injury, hypoxia and cerebrovascular and other events,
+causes paroxysmal tachycardia, hypertension, tachypnoea and hyperthermia and is associated with a poorer prognosis and
+prolonged intensive care treatment. Other, at times life-threatening autonomic complications with exaggerated sympathetic
+activity and compromised baroreflex sensitivity arise during the alcohol withdrawal syndrome triggered by abrupt cessation
+of alcohol consumption. Botulism and tetanus are examples of life-threatening autonomic dysfunction caused by bacterial
+neurotoxins. Common neurological diseases, such as epilepsy, stroke or subarachnoid haemorrhage, are also associated with
+autonomic dysfunction that can on occasion cause critical deterioration of disease severity and prognosis.
+Keywords Autonomic dysfunction · Neurological intensive care medicine · Guillain–Barré-syndrome · Tetanus · Botulism ·
+Alcohol withdrawal syndrome · Paroxysmal sympathetic hyperactivity
+
+Introduction
+Autonomic dysfunction is common in patients requiring
+neurological intensive care treatment [97, 98]. Among
+the numerous neurological diseases associated with or
+caused by autonomic dysfunction are seizures, ischaemic
+or haemorrhagic stroke, subarachnoid haemorrhages, brain
+tumours, traumatic brain injury (TBI), Guillain–Barré syndrome (GBS), botulism, tetanus, drug or alcohol withdrawal
+syndrome (AWS) and many others [97, 98]. Autonomic
+symptoms may afflict many organs and manifest e.g., predominantly as cardiovascular autonomic dysfunction, thermoregulatory or sudomotor, gastrointestinal, bladder or
+
+genital dysfunction or as a combination of multiple organ
+involvement [61, 85]. Dysfunction may involve the sympathetic as well as the parasympathetic and enteric system
+[61, 85] and result in reduced or excessive activity of the
+autonomic nervous system branches [61, 85]. Particularly in
+GBS, rapid changes and varying combinations of hypo- and
+hyperactivity of both the sympathetic or parasympathetic
+system may cause significant and at times fatal complications and pose major therapeutic challenges [40, 89].
+This short overview will address only a few of the neurointensive care diseases with autonomic dysfunction and
+mention only the most prominent clinical aspects of autonomic dysregulation.
+
+* Max J. Hilz
+max.hilz@uk‑erlangen.de
+
+Paroxysmal sympathetic hyperactivity
+
+1
+
+Department of Neurology, University of ErlangenNuremberg, Schwabachanlage 6, 91054 Erlangen, Germany
+
+2
+
+Department of Neurology, Icahn School of Medicine
+at Mount Sinai, New York, NY, USA
+
+Paroxysmal sympathetic hyperactivity (PSH) may develop
+in patients, particularly in those with acquired brain injury
+due to trauma, but also after hypoxia and cerebrovascular
+
+Vol.:(0123456789)
+1
+3
+
+302
+
+and other events [79]. This syndrome is characterized by
+paroxysmal tachycardia, hypertension, tachypnoea, hyperthermia and decerebrate body position upon afferent stimulation [69]. The prevalence of PSH in patients admitted to the
+intensive care unit (ICU) varies between studies conducted
+at different times and in various countries [11, 31, 83]. In a
+prospective observational study of 79 patients with moderate
+or severe TBI admitted to the ICU from 2004 to 2006, Baguley et al. [11] observed PSH in 24% of patients on day 7 and
+in 8% on day 14 after ICU admission [11]. In a retrospective study of 333 Italian patients in vegetative state admitted
+from 1998 to 2005, Dolce et al. found PSH in 26.1% of the
+patients [31]. In a follow-up study of 169 patients in vegetative state admitted from 2006 to 2010, these same authors
+found PSH in only 18% in patients admitted due to TBI and
+7% in patients admitted due to other causes [83]. The question which arises is whether advances in neuro-intensive
+care treatment had any effects on the manifestation of PSH.
+The syndrome is often associated with a poorer prognosis
+and prolonged hospitalization; intensive care treatment may
+be challenging, and the patients needs individualized medication and nutritional replacement of energy and fluid losses due
+to increased metabolism, fever and excessive sweating [69,
+79]. Several studies have shown that PSH is associated with
+worsening of the short- and long-term prognosis [69]. In a
+Chinese study of 87 patients with severe TBI, Lv et al. found
+that PSH occurred in 16 (18.4%) patients and was associated
+with longer ICU and hospital stays, longer duration of tracheotomy and mechanical ventilation, and a higher degree of
+long-term disability as assessed by Glasgow Outcome Scale
+(GOS) 12 months after the injury [62]. Similarly, Dolce et al.
+also found that the occurrence of PSH has negative effects on
+the short-term outcome at the time of ICU discharge [31]. In
+a prospective observational study of 343 adult patients with
+severe TBI, Mathew et al. found that approximately 8% of the
+343 patients developed PSH, and that these 29 PSH patients
+had more severe disability upon discharge from ICU and a
+less favourable outcome after 6 months, with higher mortality rates than the patients without initial PSH [63]. Similarly,
+Fernandez-Ortega et al. showed in a case–control study that
+patients with PSH require longer mechanical ventilation,
+longer intensive care treatment and longer hospitalization
+than do patients without PSH; surprisingly, after 12 months
+the GOS scores did not differ between the patients with and
+those without PSH [36, 37]. However, most studies do show
+that PSH is associated with poorer prognosis [69].
+Treatment is not standardized due to the poor understanding of the pathophysiology of the syndrome [8, 69, 79]. In a
+recent review, Meyfroidt et al. postulated that the three major
+treatment goals are (1) avoiding the triggers to provoke PSH,
+(2) mitigating the increased sympathetic activity and (3)
+reducing the damage to related systems and organs [69]. At
+the present time, there are no available randomized controlled
+
+13
+
+Clinical Autonomic Research (2019) 29:301–311
+
+clinical trials on the management of PSH. Therapeutic evidence is based on retrospective studies or case series. Many
+different classes of medications have been used to treat patients
+with PSH; among these are opioids, intravenous anaesthetics,
+beta-adrenergic blockers, alpha2-agonists, neuromodulators
+and benzodiazepines, as well as sarcolemmal ­Ca2+ release
+blockers [69]. The most effective pharmacological management is achieved with opioids, such as morphine or fentanyl,
+and with beta-adrenergic blockers [69, 84]. In their retrospective case–control study of 35 patients with dysautonomia after
+severe TBI, Baguley et al. reported that cessation of morphine
+and midazolam resulted in a significantly increased heart rate
+and respiratory rate. These authors also suggested the use
+of intravenous morphine, benzodiazepines, propanolol, bromocriptine and possibly intrathecal baclofen for the pharmacological management of TBI-induced dysautonomia [9]. In
+two patients with PSH due to benign tumors compressing the
+brainstem, Lee et al. found that fentanyl patches significantly
+improved PSH symptoms [59].
+While opioids should be considered with utmost care in an
+era of epidemic opioid misuse, beta-adrenergic blockers, such
+as labetalol, also have been shown to sufficiently supress PSH
+after TBI [30]. Alpha2-agonists, such as clonidine, reduce the
+plasma catecholamine levels in patients after severe TBI and
+are helpful in treating hypertension and tachycardia in PSH
+patients [84]. A few case reports describe beneficial effects of
+the dopamine ­D2 agonist bromocriptine on fever and excessive sweating in TBI-induced PSH [18, 93]. In patients with
+acute brain injury, the withdrawal of the gamma-aminobutyric
+acid B ­(GABAB) agonist baclofen may cause PSH presenting
+features [23, 111], while oral or intrathecal baclofen administration may alleviate PSH features after severe TBI [15, 26].
+Baguley and co-workers also reported beneficial effects of
+gabapentin on PSH in a few patients with severe TBI [10].
+Proposed pathophysiological mechanisms include disconnection between cortical inhibitory brain regions, such as the
+insula or cingulate cortex, and centres in the hypothalamus,
+diencephalon and brainstem that control sympatheticoutflow
+[69]. Another model, the excitatory:inhibitory ratio model,
+assumes that there is a disconnection of descending inhibitory
+pathways from brainstem nuclei to spinal reflex arcs [8, 69].
+These descending pathways normally assure an adequate balance between excitatory and inhibitory spinal interneurons [8,
+69, 79]. The model postulates disinhibition, which may result
+in exaggerated motor and sympathetic output in response to
+normal, i.e. usually non-noxious, sensory stimuli [8, 69, 79].
+
+Guillain–Barré syndrome
+Sympathetic hyperactivity may also occur in patients with
+GBS. However, autonomic dysfunction in GBS is typically
+characterized by rapid changes between sympathetic and/or
+
+Clinical Autonomic Research (2019) 29:301–311
+
+parasympathetic hyper- or hypo-activity [60, 89]. Autonomic
+dysfunction occurs in almost two-thirds of GBS patients [89].
+In various studies on GBS patients, paroxysmal hypertension
+has been in 24% of the GBS patients participating in the study
+[108], orthostatic hypotension (OH) in 43% [60], sustained
+sinus tachycardia in 25–38% [74], bradyarrythmias in 7–34%
+[38], urinary dysfunction in 27% and urinary retention in 9%s
+[95] and adynamic ileus in 15% [19]. Anandan et al. evaluated
+nation-wide inpatient sample data from 2010 to 2011 of 2587
+GBS patients in the USA and found that 16% of GBS patients
+had diarrhea, 15% had hyponatraemia, 5% had bradycardia, 4%
+had urinary retention, 3% had tachycardia, 1% had reversible
+cardiomyopathy and 1% had Horner syndrome [3]. Among the
+symptoms caused by sympathetic underactivity are orthostatic
+syncope, bradycardia and anhidrosis [60, 110]. Sympathetic
+overactivity may trigger paroxysmal hypertension, paroxysmal
+tachycardia, extrasystoles and peripheral vasoconstriction, as
+well as profuse hyperhidrosis [27, 60, 108]. Parasympathetic
+underactivity may cause tachycardia, bladder and gastrointestinal dysfunction [60], while parasympathetic overactivity
+accounts for paroxysmal bradycardia, reflex asystole, generalized warmth or gastrointestinal hypermotility [60, 117].
+Sudomotor dysfunction may result in patchy anhidrosis as well
+as hyperhidrosis [110]. Vasomotor dysfunction may cause dry
+and pale or erythematous skin [73, 110]. Other possible symptoms include altered fluid and electrolyte regulation with fluid
+retention and electrolyte imbalance, including low sodium and
+potassium levels; gastrointestinal dysfunction may manifest
+as diarrhea, constipation, gastropareses and ileus [80, 117].
+Blood pressure may rapidly change from postural or
+episodic hypotension to episodic or sustained hypertension, while heart rate often varies between sinus tachycardia and tachyarrhythmia or bradycardia, bradyarrhythmia and asystole [60, 80, 108, 116, 117]. Patients are
+often hypersensitive towards vasoactive drugs [60, 80,
+108, 116, 117]. Among the common, usually benign cardiac autonomic changes are sinus tachycardia and postural hypotension as well as minor electrocardiographic
+changes [117]. In contrast, several serious cardiovascular
+changes require particular attention; these include sustained or episodic hypertension which may lead to papilloedema or even seizures, increased intracranial pressure
+and subarachnoid haemorrhage, but also episodic hypotension, bradyarrhythmias with bradycardia and asystole
+as well as tachyarrhythmias [117]. Often there is excessive cardiovagal hyper-reactivity to mild stimuli, such as
+mild ocular pressure or protruding of the tongue, which
+may trigger bradycardia or even sinus arrest [40, 70].
+Events of asystole cannot be predicted and may occur
+unexpectedly [40].
+Management of autonomic dysfunction in GBS is multimodal. Paroxysmal hypertension is mostly short-lived
+and often does not require treatment [44, 108]. However, if
+
+303
+
+fluctuations are severe enough to cause end-organ damage,
+treatment with short-acting medications that can be quickly
+titrated, such as hydralazine and labetolol, is recommended
+to manage hypertension and to avoid subsequent hypotension [21, 44, 74]. In the case of severe hypertension, the use
+of labetalol, esmolol or nitroprusside may be indicated [74].
+However, there do not seem to be specific recommendations
+regarding the target blood pressure in GBS patients [74].
+Thus, the treating physician must consider the specific cardiovascular condition of each individual GBS patient.
+Potential treatments of hypotension include leg elevation, intravenous fluids, compression stockings and medications such as midodrine or intravenous vasopressors (e.g.
+norepinephrine or phenylephrine) [44]. Sedated patients
+on mechanical ventilation should also be monitored for
+sudden hypotensive episodes [44, 74]. As early as 1984,
+Truax recommended not leaving GBS patients unattended
+in an upright or sitting position without prior assessment
+of OH, and to avoid treating GBS patients with OH with
+drugs that lower blood pressure, such as diuretics [108].
+In most cases, OH responds to volume expansion with the
+intravenous administration of fluid and usually resolves with
+GBS improvement [108]. In patients with refractory OH,
+treatment with sodium chloride tablets, fludrocortisone or
+midodrine could be considered [21].
+Vagal hypersensitivity is one of the major causes of mortality in GBS patients [39] and may cause bradycardia and
+cardiac arrest triggered by, for example, common nursing
+activities, such as tracheal suction, cleaning the patient’s
+teeth or applying minor pressure onto the eyes during nursing activities [21, 39, 70, 108]. Consequently, such activities
+or changing of tracheal tubes require specific caution, and
+atropine and cardiac pacing should be at hand [74]. In the
+case of asystole, trans-venous pacemakers at best provide
+an interim, short-term prophylaxis since long-term use may
+be associated with an increasing risk of endocarditis [5, 20].
+Therefore, the use of a transthoracic pacemaker with pre-set
+stimulation parameters and predefined positioning of electrodes may help prevent fatal asystole and bridge the time
+until a trans-venous or permanent-pacemaker can be placed
+[48].
+In cases of sinus tachycardia, conditions such as dehydration, fever, hypotension or infection need to be considered. If
+these causes of tachycardia are ruled out, short-acting betablockers, such as labetalol, may be helpful in patients with
+hypertension and tachycardia [74]. However, there is a risk
+of aggravating underlying hypotension and bradycardia [81,
+82, 91], and beta-blockers must be carefully titrated [21].
+Urinary dysfunction may occur in the early stages of
+GBS in GBS patients [95, 108]. Sakakibara et al. observed
+bladder dysfunction in 27% of their GBS patients and found
+correlations with motor weakness[95]. Management ofurinary dysfunction is mainly supportive [95]. Drugs such
+
+13
+
+304
+
+muscarinic agonists may exacerbate cardiovagal hypersensitivity and are therefore not recommended for the treatment
+of GBS-related urinary retention [108]. Instead, urinary
+retention is usually managed by indwelling bladder catheters
+[95, 115] that are more practical than intermittent catheterization [21, 52, 108, 115]. However, a sterile, closed urinary
+drainage system must be used to reduce the risk of bladder
+infection [52].
+Gastrointestinal autonomic dysfunction may manifest as
+constipation, gastric immotility and adynamic ileus. Therefore, GBS patients should routinely undergo clinical abdominal examination and auscultation to identify bowel silence
+and incipient ileus at an early stage [52]. Opioids should
+be avoided, and enteral feeding might have to be paused to
+avoid progression of pre-ileus symptoms [52]. While erythromycin and neostigmine may be used to treat paralytic ileus
+[52], prokinetic drugs such as neostigmine may increase
+the risk of cardiovagal hyperactivity with bradyarrhythmia
+or asystole [115]. Instead, stool softeners, enema, manual
+dis-impaction or decompressive colonoscopy may alleviate
+symptoms of gastrointestinal hypomotility [108, 115]. To
+date, there are no reports on the benefits or risks of novel
+prokinetics, such as the 5-HT4 agonist prucalopride that
+stimulates colonic peristalsis; this drug has been approved
+for the treatment of adult chronic idiopathic constipation in
+Europe and is currently seeking approval in the USA by the
+U.S. Food and Drug Administration [94].
+The rapid changes between over- and underactivity of
+both autonomic branches may result from inflammatory
+lesions causing multifocal nerve demyelination and unstable conduction blocks which may compromise the afferent branches of the baroreflex arc, as well as by efferent
+sympathetic and parasympathetic fibres [80]. However,
+the pathology is more complex: there is evidence of lymphocyte and macrophage infiltration in tissue surrounding
+endoneural vessels, accounting for the inflammatory peripheral neuropathy [7]. Among other findings, there is also evidence of degeneration in abdominal sympathetic ganglia,
+of demyelination and axonal degeneration of the vagus
+nerve [92] and of the involvement of the glossopharyngeal
+nerve [4, 7], inflammation of the superior cervical ganglion
+[45], demyelination in the paravertebral sympathetic chain
+and inflammatory infiltration in intra-cardiac ganglia [56].
+Furthermore, there may be involvement of autonomic visceral sympathetic and parasympathetic fibres [117]. In their
+study, Birchfield et al. reported chromatolytic changes in the
+intermediolateral cell column [17], while Panegyres et al.
+observed inflammatory infiltration of the hypothalamus and
+brainstem in GBS patients [76].
+In summary, autonomic dysfunction poses a significant
+risk in GBS patients and increases mortality rates [60],
+particularly since there is no clear association between the
+severity of motor weakness and the severity of autonomic
+
+13
+
+Clinical Autonomic Research (2019) 29:301–311
+
+disturbances [110]. GBS patients with autonomic dysfunction have a poorer prognosis than GBS patients without
+involvement of the autonomic nervous system [53] and
+also an increased risk of sudden death [117]. Also, a recent
+meta-analysis of nine studies in GBS patients with and without autonomic dysfunction showed in six of these studies,
+patients with autonomic dysfunction required intubation and
+ventilation more frequently than did their counterparts without autonomic instability [42]. Moreover, autonomic dysfunction may manifest during the early phase or the recovery
+phase of GBS, when patients are commonly thought not to
+be at increased risk [28]. Therefore, GBS patients should
+undergo autonomic testing even at stages of motor weakness when they do not require intensive care treatment. In
+25 GBS patients who did not need intensive care therapy,
+we tested heart rate variability and found altered autonomic
+modulation both at rest and during metronomic breathing,
+active standing-up and the Valsalva maneuver in 24–40% of
+the patients (unpublished data.). In a recent study using the
+Health Cost and Utilization Project Nationwide Inpatient
+Sample, the authors identified 2587 GBS patients hospitalized during 2010 and 2011. Autonomic dysfunction resulted
+in diarrhoea/constipation (15.5%), hyponatremia (14.9%),
+syndrome of inappropriate antidiuretic hormone secretion
+(SIADH) (4.8%), bradycardia (4.7%) and urinary retention
+(3.9%) [3]. In 28 children with GBS, Samadi et al. recorded
+heart rates to be similar to those of 20 healthy age- and gender-matched persons while they found significantly reduced
+heart rate variability in the GBS patients [96]. Since GBS
+patients might develop critical cardiovascular dysfunction
+rather quickly and unexpectedly, careful autonomic monitoring is indicated in these patients.
+
+Alcohol withdrawal syndrome
+Alcohol withdrawal syndrome is associated with another
+rather frequent and dangerous array of autonomic disturbances [66]. AWS is usually induced by the abrupt cessation
+of alcohol consumption by alcohol-dependent patients [66].
+Delirium tremens—the most severe form of AWS, occurring in approximately 5% of hospitalized patients with AWS
+[66]—in particular is accompanied by life-threatening autonomic symptoms, such as tachycardia, increased blood pressure, sweating, nausea, palpitations and tremulousness, and
+is frequently associated with seizures or even status epilepticus [66, 67]. Acute AWS is often accompanied by exaggerated sympathetic modulation and impaired baroreflex sensitivity [12], with the latter considered to be a marker of poor
+prognosis [58, 72, 75, 86, 101]. However, cardiovascular
+autonomic parameters usually change during the treatment
+of AWS. Kähkönen et al. showed that changes in heart rate,
+blood pressure and total peripheral resistance observed upon
+
+Clinical Autonomic Research (2019) 29:301–311
+
+acute alcohol withdrawal attenuated over the first 10 days
+of hospitalization and alcohol withdrawal, following which
+time the autonomic and cardiovascular parameters no longer
+differed from those recorded in patients who had been suffering from alcohol abuse but had been abstinent for at least
+1 month [55].
+The management of AWS should include a thorough
+review of the patient’s medical history, with a specific focus
+on any recent change in alcohol use or abstinence. Particularly in patients with a history of chronic alcohol abuse,
+other medical conditions that might mimic AWS should be
+excluded [46, 64, 99]. Symptoms suggesting AWS might be
+due to conditions such as meningitis, brain trauma, hepatic
+or renal failure, electrolyte abnormalities, drug effects (particularly drug-overdosing) or post-surgical confusion and
+so-called “post-surgical aggression syndrome” with stressinduced sympathetic hyperactivity and endocrine alterations due to post-surgical intermittent hypothalamic and
+pituitary gland dysregulation [100, 114] or due to sedating
+medication, among others [46, 64, 99]. The administration of
+sedating drugs, commonly used in AWS, would very likely
+worsen such diseases or conditions [46]. Patients with early
+and mild stages of AWS may not necessarily need pharmacological treatment but could be managed with supportive and general care; if benzodiazepines are to be avoided,
+alternative drugs may be used, such as carbamazepine [13],
+valproate or gabapentin, among others [71]. Early diagnosis
+of AWS is essential to avoid the development of delirium
+tremens, which is associated with high mortality rates if
+left untreated[29, 57, 99]. Patients with delirium tremens
+must be treated on ICUs [99]. Commonly, benzodiazepines,
+such as diazepam, lorazepam or chlordiazepoxide, need to
+be administrated intravenously to sedate patients and reduce
+sympathetic hyperactivity [66, 99]. Often a combination
+therapy of benzodiazepines with neuroleptic medication,
+such as haloperidol [15, 64, 99], barbiturates [29, 64] or the
+alpha2-adrenoceptor agonists clonidine or dexmedetomidine
+[29, 105], is needed. A combination of benzodiazepines with
+propofol may improve the symptoms of patients requiring
+mechanical ventilation [25, 64, 65, 99]. Patients with AWS
+usually have a history of malnutrition and are vitamin deficient, particularly in vitamin B1 [50, 51, 64]. Thus, early
+and high doses of thiamine and multivitamin supplements is
+essential [64]. Moreover, fluid and electrolyte replacement,
+re-adjustment of fluid and electrolyte balance and the adjustment of respiration and acid–base balance may be needed to
+stabilize the patient [64, 99]. Continuous monitoring of vital
+parameters is essential to prevent critical derangements [64,
+99]. In recent decades, the mortality rate of patients with
+delirium tremens has decreased from > 30% to < 5% [35,
+66] due to a better understanding of the pathophysiology,
+earlier diagnosis and improved ICU management [29, 57].
+Khan et al. found that early-onset hyperthermia occurring
+
+305
+
+within the first 24 h and persistent tachycardia, both in association with delirium tremens, increase the mortality rates
+of patients with delirium tremens [57].
+AWS should be differentiated from Wernicke’s encephalopathy and from Korsakoff’s psychosis. In Wernicke’s
+encephalopathy, the typical triad of encephalopathy, oculomotor dysfunction and gait ataxia, is only present in <
+20% of patients and may account for misdiagnoses [102,
+107]. Korsakoff’s psychosis with severe anterograde and
+retrograde amnesia, disorientation and confabulation might
+also be misdiagnosed as delirium tremens [103]. However,
+reports of recent cessation of alcohol consumption point
+towards AWS, while increased blood alcohol levels or
+reports of continuous alcohol consumption with oculomotor dysfunction or severe amnesia facilitate the diagnosis
+of Wernicke’s encephalopathy or Korsakoff’s psychosis,
+respectively [103]. All three disorders require vitamin B1
+replacement therapy.
+
+Botulism
+Botulism is caused by the deadly, neuroparalytic toxin of
+the obligate anaerobic bacillus Clostridium botulinum [6].
+According to Jeffrey and Karim [54], 3618 botulism cases
+were recorded in the USA between 1975 and 2009, with an
+overall mortality of 3.0% during this time span. In comparison, the number of annual cases were higher between 2011
+and 2015, amounting to 162 patients per year [54]. A common type of bolulism is the food-borne botulism, resulting
+from the ingestion of toxin contained in, for example, homecanned food or fermented uncooked dishes [6]. Infantile
+botulism arises from the colonization and proliferation of C.
+botulinum in an infant’s gastrointestinal or bronchial tract due
+to an inadequate immune system [6, 54]. Wound botulism
+is frequently also due to C. botulinum proliferation, but in
+anoxic, devitalized tissue—for example, as a result of injecting illicit drugs contaminated by C. botulinum spores [6,
+54]. Botulinum toxin binds presynaptically onto cholinergic
+nerve terminals and blocks the release of acetylcholine [34].
+The resulting botulism is characterized by facial and bulbar
+motor weakness, ptosis, ophthalmoplegia, dysphagia, dysphonia, dysarthria and finally by descending paralysis, including respiratory failure due to paralysis of the diaphragm, as
+well as prominent autonomic dysfunction [6, 54]. Autonomic
+symptoms include blurred vision, dry mouth, constipation or
+ileus, flaccid bladder and urinary retention, hypohidrosis, high
+resting heart rate, altered heart rate variability and baroreflex
+function, supine hypertension and orthostatic hypotension
+[54, 106]. There are reports of botulism manifesting as pure
+autonomic failure, with transient bladder and gastrointestinal
+dysfunction and persistent anhidrosis and erectile dysfunction
+[68]. While there seem to be no data on the prevalence of
+
+13
+
+306
+
+autonomic dysfunction in botulism, autonomic dysfunctions
+are the key features of this disease and account for its major
+initial symptoms.
+In one case study, 2 weeks after disease onset six patients
+with botulism still had absent sympathetic skin response
+(SSR), significantly decreased heart rate variability (HRV)
+during rest and deep breathing and significantly lower
+plasma norepinephrine levels in the supine and standing
+position. Both SSR and HRV improved after 6 months [22].
+Vita and co-workers reported early dysfunction of heart rate
+and blood pressure control in four patients with botulism
+and showed that recovery of autonomic dysfunction may
+be slower than neuromuscular recovery. The authors also
+underlined the relevance of autonomic testing to identify
+patients at increased risk of cardiovascular or respiratory
+complications [112]. Similarly, Patural et al. recorded cardiovascular autonomic dysfunction in three infants aged 17,
+30 and 180 days, respectively, with infantile botulism at the
+disease onset and confirmed the persistence of autonomic
+dysfunction beyond the stages of physical recovery; again,
+the authors emphasized the importance of close autonomic
+monitoring to reduce the risk of potentially fatal cardiovascular complications [78]. In contrast, Topakian et al.
+assessed cardiovascular autonomic function in four patients
+with botulism; these patients initially had more prominent
+autonomic dysfunction than motor dysfunction but their cardiovascular parameters recovered 12 weeks after the intoxication [106]. Thus, there seems to be individual variability
+in terms of the recovery times of autonomic dysfunction in
+botulism. Therapy includes the administration of anti-toxin,
+close cardiovascular and respiratory monitoring, intubation
+and mechanical ventilation when needed, wound excision
+and debridement, including antibiotic therapy in the case
+of wound botulism [54]. Previous case reports suggest the
+benefits of long-term cardiopulmonary monitoring [22, 78,
+106, 112]. According to our personal—unpublished—experience with single cases of food-borne botulism, autonomic
+cardiovascular dysfunction may persist beyond the need of
+intensive care treatment.
+
+Tetanus
+Tetanus, another toxin-induced, life-threatening disease,
+is caused by the Gram-positive Clostridium tetani, which
+secretes tetanospasmin and tetanolysin under anaerobic
+conditions [24]. Tetanus has a high risk of mortality, particularly in the developing world, with an estimated incidence of at least 700,000 cases per year [6]. Tetanospasmin
+inhibits the pre-synaptic release of glycine and GABA [34].
+Thus, in theinitial phase of infection, inhibitory neurons are
+compromised, resulting in a loss of inhibitory control of
+motor neurons; subsequently, preganglionic sympathetic
+
+13
+
+Clinical Autonomic Research (2019) 29:301–311
+
+neurons and parasympathetic centers are also affected.
+The toxin also compromises motor neurons and reduces
+the release of acetylcholine into the neuromuscular junction, which may cause motor weakness between episodes
+of spasm. However, the toxin’s disinhibitory effect on
+motor neurons outweighs the effects of reduced acetylcholine release at the neuromuscular junction and accounts
+for the typical tetanic rigidity, with muscle spasms causing
+the “risus sardonicus” or even opisthotonus [24]. Accurate data on the prevalence of autonomic dysfunction in
+tetanus are seemingly unavailable, but even with the early
+implementation of intensive care treatment the more severe
+stages of tetanus, particularly Ablett stages III and IV, have
+been reported to be associated with prominent and lifethreatening autonomic dysregulation, particularly with
+sympathetic instability [1, 24, 47].
+Autonomic dysfunction primarily affects the sympathetic
+system and results in persistent tachycardia, hypertension,
+vasoconstriction and fever with elevated catecholamine
+levels that may alternate with severe arterial hypotension,
+bradycardia and even asystole due to excessive vagal activity [24]. To date, there have been no large-scale studies with
+the aim to determine specific preferences for the treatment
+of tetanus-associated autonomic symptoms. In a review of
+the pharmacological management of tetanus, Rodrigo et al.
+recommend several key principles, including sedation and
+muscle relaxation, surgical debridement and antibiotic treatment, toxin neutralization and intensive care treatment of
+all concomitant autonomic symptoms [88]. Benzodiazepines
+are recommended due to their muscle relaxant, sedating,
+anxiolytic and anticonvulsant effects. Intravenous magnesium sulfate, which is widely used in eclamptic women, may
+be beneficial in tetanus patients to alleviate tetanic spasms
+but may also be associated with lower catecholamine, in
+particular adrenaline release [104]. Rodrigo and co-workers
+concluded that magnesium has beneficial effects not only on
+muscle spasms, but it also mitigates autonomic instability
+[88]. Beneficial effects on sympathetic hyperactivity have
+also been observed with clonidine [43], dexmedetomidine
+[41], labetalol [32], esmolol [14], morphine [87] and epidural blockade with bupivacaine and sufentanil [16]. However, larger clinical trials are needed to provide more clinical
+evidence.
+Despite advances in the neuro-intensive care treatment
+of tetanus patients [24, 109], autonomic instability remains
+a major cause of the high mortality rates in patients with this
+disease [2, 24, 113]. Patients with more severe manifestations of tetanus, particularly those with grades Ablett III
+and IV [1], have prominent and life-threatening autonomic
+dysfunction which compromises prognosis and requires
+intensive care treatment [2, 24]. Specific symptoms such as
+tachy-/bradycardia, hypo-/hypertension, tachypnea/apnea,
+ileus or diarrhoea require individualized treatment, the
+
+Epidemiology
+
+Autonomic characteristics
+
+Treatment
+
+Prognosis
+
+Paroxysmal tachycardia, hypertension,
+Prevalence of PSH ranges from 8 to 33%
+after TBI or other brain injuries in various tachypnoea, hyperthermia and decerebrate body position upon afferent
+studies [11, 37, 69, 83]
+stimulation [69]
+
+PSH Paroxysmal sympathetic hyperactivity, AWS alcohol withdrawal syndrome, TBI traumatic brain injury
+
+PSH
+
+Opioids; beta-adrenergic blockers; alpha2- Independently associated with poor shortand long-term prognosis, e.g. longer
+agonists; bromocriptine; gabapentin;
+duration of mechanical ventilation and
+baclofen; benzodiazepines, among others
+hospital stay, poor neurological recovery
+[9, 10, 15, 18, 26, 30, 59, 69, 111]; moniand increased mortality rates [31, 36, 37,
+toring of vital signs, i.e. heart rate, blood
+61–63]
+pressure, respiration, temperature, and
+sweating, muscle tone
+Mortality of untreated delirium tremens is
+Intravenous administration of benzodiazAWS
+20% of men and 10% of women in Western Exaggerated sympathetic modulation and
+> 30% but can be decreased to < 5% with
+epines, such as diazepam and lorazepam
+impaired baroreflex sensitivity; tachycarcountries have an alcohol-use disorder
+intensive care therapy [35, 66]; early[99]; nutrition therapy with thiamine and
+dia, increased blood pressure, sweating,
+[54]. About 50% of persons with alcoholonset hyperthermia within the first 24 h
+multivitamins [99]; monitoring of vital
+nausea, palpitations and tremulousness
+use disorder will develop AWS [54]. 5%
+and persistent tachycardia are associated
+signs every 15–30 min [99]
+[66]
+of hospitalized patients with AWS might
+with increased mortality in patients with
+develop delirium tremens [74]
+delirium tremens [57]
+Autonomic instability in severe disease is
+Sedation and muscle relaxation; surgical
+Tetanus At least 700,000 per year globally [6]
+Sympathetic activation with tachycardia,
+associated with high mortality rates in
+debridement and antibiotic treatment;
+hypertension, vasoconstriction and fever
+tetanus patients [2, 24, 111]; specific intertoxin neutralization; intensive care treatmay alternate with excessive vagal activventions targeting autonomic dysfunction
+ity and severe arterial hypotension, brady- ment [9]
+need more clinical evidence.
+cardia and even asystole [24]
+Overall mortality was 3.0% in the years
+Botulism Around 160 cases per year in the USA [54] Blurred vision, dry mouth, hypo-/anhidro- Antitoxin wound excision and debride1975–2009 in the USA [54]. Long-term
+ment’; antibiotic therapy; cardiovascular
+sis, constipation or ileus, flaccid bladder
+cardiopulmonary monitoring is beneficial
+and respiratory monitoring; intubation
+and urinary retention, erectile dysfuncto avoid cardiovascular complications
+and mechanical ventilation when required
+tion, high resting heart rate, altered heart
+[54]
+rate variability and baroreflex function,
+supine hypertension and orthostatic hypotension [54, 106]
+
+Disease
+
+Table 1  Epidemiology, autonomic characteristics, treatment and prognosis of paroxysmal sympathetic hyperactivity, alcohol withdrawal syndrome, tetanus, and botulism
+
+Clinical Autonomic Research (2019) 29:301–311
+307
+
+13
+
+13
+24% of GBS patients [108]
+
+50% of GBS patients [38]
+
+Paroxysmal hypertension
+
+Orthostatic hypotension
+
+Urinary dysfunction in 25% and urinary reten- Close monitoring of fluid status
+tion in 9% of GBS patients [44]
+Daily output monitoring [44], abdominal
+15% of severely affected GBS patients have
+auscultation and monitoring of opioid
+adynamic ileus and 14% have constipation
+administration [52]
+[19]
+
+Continuous ECG monitoring
+
+Pulse and blood pressure monitoring and
+assesment of OH [52]
+
+Intra-arterial monitoring for significant blood
+pressure fluctuation [74]
+
+ICU monitoring
+
+GBS Guillain–Baré syndrome, ICU intensive care unit, OH orthostatic hypotension, ECG electrocardiogram
+
+Constipation, gastric immotility and ileus
+
+Urinary retention
+
+Sustained sinus tachycardia, bradyarrhythSustained sinus tachycardia in 25–38% of
+mias, asystole and various conduction blocks GBS patients and bradycardia in 34% [74],
+
+Epidemiology
+
+Characteristics of autonomic dysfunction in
+GBS
+
+Table 2  Epidemiology, monitoring and treatment of autonomic dysfunction in Guillain–Baré syndrome
+
+Cessation of enteral feeding, gastric decompression [44] and reduced opiate medications
+[44]. Treatment of ileus by erythromycin and
+neostigmine [52]
+
+For severe hypertension short-acting labetalol,
+esmolol or nitroprusside [108]. Short-acting,
+quickly titratable medications, such as
+hydralazine and labetalol, for severely fluctuating blood pressure [44, 90]
+Intravenous fluids, low-dose phenylephrine
+[90]. If refractory, NaCl tablets, fludrocortisone or midodrine could be considered [44].
+Other options include leg elevation and the
+use of compression stockings
+Self-limiting sinus tachycardia usually requires
+no treatment [74]
+Atropine and long-term temporary pacing [74]
+Transcutaneous pacing for a short-term period
+[53]
+Asystole usually requires implantation of a
+pacemaker [77]
+Indwelling bladder catheter [44]
+
+Treatment
+
+308
+Clinical Autonomic Research (2019) 29:301–311
+
+Clinical Autonomic Research (2019) 29:301–311
+
+discussion of which is beyond the scope of this paper and
+dealt with in manuals of intensive care medicine.
+
+Conclusions
+The epidemiology, autonomic characteristics, treatment, and
+prognosis of paroxysmal sympathetic hyperactivity, AWS,
+tetanus, and botulism are summarized in Table 1. The epidemiology, monitoring and treatment of autonomic dysfunction in GBS are summarized in Table 2.
+While these few examples underline the relevance and
+risk of autonomic dysfunction in neurological intensive
+care patients there are many other diseases with autonomic
+irregularities that may complicate treatment and prognosis
+[33, 49] and therefore require special monitoring and therapeutic intervention.
+
+References
+1. Ablett JJL (1967) Analysis and main experinces in 82 patients treated
+in the leeds tetanus unit. In: Ellis M (ed) Symposium on Tetanus in
+Great Britain. Leeds General Infirmary, Boston Spa, pp 1–10
+2. Alagbe-Briggs OT, Tinubu SA (2012) Tetanus—a case report
+with severe autonomic instability and: a review of the literature.
+Niger J Med 21:353–356
+3. Anandan C, Khuder SA, Koffman BM (2017) Prevalence of autonomic dysfunction in hospitalized patients with Guillain–Barré
+syndrome. Muscle Nerve 56:331–333
+4. Appenzeller O, Kornfeld M (1973) Acute pandysautonomia.
+Clinical and morphologic study. Arch Neurol 29:334–339
+5. Arber N, Pras E, Copperman Y, Schapiro JM, Meiner V, Lossos
+IS, Militianu A, Hassin D, Pras E, Shai A, Moshkowitz M, Sidi
+Y (1994) Pacemaker endocarditis report of 44 cases and review
+of the literature. Medicine 73:299–305
+6. Artal FJC (2017) Infectious diseases causing autonomic dysfunction. Clin Auton Res 28(1):67–81
+7. Asbury AK, Arnason BG, Adams RD (1969) The inflammatory
+lesion in idiopathic polyneuritis. Medicine 48:173
+8. Baguley IJ (2008) The excitatory:inhibitory ratio model (EIR
+model): an integrative explanation of acute autonomic overactivity syndromes. Med Hypotheses 70:26–35
+9. Baguley IJ, Cameron ID, Green AM, Slewa-Younan S,
+Marosszeky JE, Gurka JA (2004) Pharmacological management of dysautonomia following traumatic brain injury. Brain
+Inj 18:409–417
+10. Baguley IJ, Heriseanu RE, Gurka JA, Nordenbo A, Cameron ID
+(2007) Gabapentin in the management of dysautonomia following severe traumatic brain injury: a case series. J Neurol Neurosurg Psychiatry 78:539–541
+11. Baguley IJ, Slewa-Younan S, Heriseanu RE, Nott MT, Mudaliar
+Y, Nayyar V (2007) The incidence of dysautonomia and its relationship with autonomic arousal following traumatic brain injury.
+Brain Inj 21:1175–1181
+12. Bär KJ, Boettger MK, Boettger S, Grotelüschen M, Neubauer
+R, Jochum T, Baier V, Sauer H, Voss A (2006) Reduced baroreflex sensitivity in acute alcohol withdrawal syndrome and in
+abstained alcoholics. Drug Alcohol Depend 85:66–74
+
+309
+13. Barrons R, Roberts N (2010) The role of carbamazepine and
+oxcarbazepine in alcohol withdrawal syndrome. J Clin Pharm
+Ther 35:153–167
+14. Beards SC, Lipman J, Bothma PA, Joynt GM (1994) Esmolol in a
+case of severe tetanus. Adequate haemodynamic control achieved
+despite markedly elevated catecholamine levels. South African
+journal of surgery. S Afr J Surg 32:33–35
+15. Becker R, Benes L, Sure U, Hellwig D, Bertalanffy H (2000)
+Intrathecal baclofen alleviates autonomic dysfunction in severe
+brain injury. J Clin Neurosci 7:316–319
+16. Bhagwanjee S, Bosenberg AT, Muckart DJ (1999) Management
+of sympathetic overactivity in tetanus with epidural bupivacaine
+and sufentanil: experience with 11 patients. Crit Care Med
+27:1721–1725
+17. Birchfield RI, Shaw CM (1964) Postural Hypotension in the Guillain–Barré Syndrome. Arch Neurol 10:149–157
+18. Bullard DE (1987) Diencephalic seizures: responsiveness to bromocriptine and morphine. Ann Neurol 21:609–611
+19. Burns TM, Lawn ND, Low PA, Camilleri M, Wijdicks EF (2001)
+Adynamic ileus in severe Guillain–Barré syndrome. Muscle
+Nerve 24:963–965
+20. Cacoub P, Leprince P, Nataf P, Hausfater P, Dorent R, Wechsler
+B, Bors V, Pavie A, Piette JC, Gandjbakhch I (1998) Pacemaker
+infective endocarditis. Am J Cardiol 82:480–484
+21. Chalela JA (2001) Pearls and pitfalls in the intensive care management of Guillain–Barré syndrome. Semin Neurol 21:399–405
+22. Chen JT, Chen CC, Lin KP, Wang SJ, Wu ZA, Liao KK (1999)
+Botulism: heart rate variation, sympathetic skin responses, and
+plasma norepinephrine. Can J Neurol Sci 26:123–126
+23. Coffey RJ, Edgar TS, Francisco GE, Graziani V, Meythaler JM,
+Ridgely PM, Sadiq SA, Turner MS (2002) Abrupt withdrawal
+from intrathecal baclofen: recognition and management of a
+potentially life-threatening syndrome. Arch Phys Med Rehabil
+83:735–741
+24. Cook TM, Protheroe RT, Handel JM (2001) Tetanus: a review of
+the literature. Br J Anaesth 87:477–487
+25. Coomes TR, Smith SW (1997) Successful use of propofol in
+refractory delirium tremens. Ann Emerg Med 30:825–828
+26. Cuny E, Richer E, Castel JP (2001) Dysautonomia syndrome in
+the acute recovery phase after traumatic brain injury: relief with
+intrathecal Baclofen therapy. Brain Inj 15:917–925
+27. de Jager AE, Minderhoud JM (1991) Residual signs in severe
+Guillain–Barré syndrome: analysis of 57 patients. J Neurol Sci
+104:151–156
+28. de Jager AE, Sluiter HJ (1991) Clinical signs in severe Guillain–Barré syndrome: analysis of 63 patients. J Neurol Sci
+104:143–150
+29. DeBellis R, Smith BS, Choi S, Malloy M (2005) Management
+of delirium tremens. J Intensive Care Med 20:164–173
+30. Do D, Sheen VL, Bromfield E (2000) Treatment of paroxysmal
+sympathetic storm with labetalol. J Neurol Neurosurg Psychiatry
+69:832–833
+31. Dolce G, Quintieri M, Leto E, Milano M, Pileggi A, Lagani
+V, Pignolo L (2008) Dysautonomia and clinical outcome in
+vegetative state. J Neurotrauma. doi: https​://doi.org/10.1089/
+neu.2008.0536
+32. Dundee JW, Morrow WF (1979) Labetalol in severe tetanus. BMJ
+1:1121–1122
+33. Dütsch M, Hilz MJ (2012) Epilepsy and Autonomic Regulation.
+In: Robertson D, Biaggioni I, Burnstock G, Low PA, Paton JFR
+(eds) Primer on the autonomic nervous system. Academic Press,
+Elsevier, London Waltham San Diego, pp 549–552
+34. Dutta SR, Passi D, Singh M, Singh P, Sharma S, Sharma A
+(2016) Botulinum toxin the poison that heals: a brief review.
+Natl J Maxillofac Surg 7:10–16
+
+13
+
+310
+35. Ferguson JA, Suelzer CJ, Eckert GJ, Zhou XH, Dittus RS (1996)
+Risk factors for delirium tremens development. J Gen Intern Med
+11:410–414
+36. Fernandez-Ortega JF, Prieto-Palomino MA, Garcia-Caballero M,
+Galeas-Lopez JL, Quesada-Garcia G, Baguley IJ (2012) Paroxysmal sympathetic hyperactivity after traumatic brain injury: clinical and prognostic implications. J Neurotrauma 29:1364–1370
+37. Fernandez-Ortega JF, Prieto-Palomino MA, Munoz-Lopez
+A, Lebron-Gallardo M, Cabrera-Ortiz H, Quesada-Garcia G
+(2006) Prognostic influence and computed tomography findings
+in dysautonomic crises after traumatic brain injury. J Trauma
+61:1129–1133
+38. Flachenecker P (2007) Autonomic dysfunction in Guillain–Barré
+syndrome and multiple sclerosis. J Neurol 254[Suppl 2]:II96–101
+39. Flachenecker P, Mullges W, Wermuth P, Hartung HP, Reiners
+K (1996) Eyeball pressure testing in the evaluation of serious
+bradyarrhythmias in Guillain–Barré syndrome. Neurology
+47:102–108
+40. Flachenecker P, Wermuth P, Hartung HP, Reiners K (1997)
+Quantitative assessment of cardiovascular autonomic function
+in Guillain–Barré syndrome. Ann Neurol 42:171–179
+41. Girgin NK, Iscimen R, Gurbet A, Kahveci F, Kutlay O (2007)
+Dexmedetomidine sedation for the treatment of tetanus in the
+intensive care unit. Br J Anaesth 99:599–600
+42. Green C, Baker T, Subramaniam A (2018) Predictors of respiratory failure in patients with Guillain–Barré syndrome: a systematic review and meta-analysis. Med J Aust 208:181–188
+43. Gregorakos L, Kerezoudi E, Dimopoulos G, Thomaides T (1997)
+Management of blood pressure instability in severe tetanus: the
+use of clonidine. Intensive Care Med 23:893–895
+44. Harms M (2011) Inpatient management of Guillain–Barré syndrome. Neurohospitalist 1:78–84
+45. Haymaker WE, Kernohan JW (1949) The Landry–Guillain–
+Barré syndrome; a clinicopathologic report of 50 fatal cases and
+a critique of the literature. Medicine (Baltimore) 28:59–141
+46. Hecksel KA, Bostwick JM, Jaeger TM, Cha SS (2008) Inappropriate use of symptom-triggered therapy for alcohol withdrawal
+in the general hospital. Mayo Clin Proc 83:274–279
+47. Henriques Filho GT, Lacerda HR, Albuquerque A, Ximenes RA
+(2007) Sympathetic overactivity and arrhythmias in tetanus:
+electrocardiographic analysis. Rev Inst Med Trop Sao Paulo
+49:17–22
+48. Hilz MJ, Claus D, Bauer J, Neundorfer B (1990) Transcutaneous cardiac pacemaker for prevention and emergency therapy in
+neurologic intensive care patients. Der Nervenarzt 61:744–748
+49. Hilz MJ, Moeller S, Akhundova A, Marthol H, Pauli E, De Fina
+P, Schwab S (2011) High NIHSS values predict impairment of
+cardiovascular autonomic control. Stroke 42:1528–1533
+50. Hoes MJ (1979) The significance of the serum levels of vitamin
+B-1 and magnesium in delirium tremens and alcoholism. J Clin
+Psychiatr 40:476–479
+51. Hoes MJ (1981) Plasma concentrations of magnesium and vitamin B-1 in alcoholism and delirium tremens. Pathogenic and
+prognostic implications. Acta Psychiatr Belg 81:72–84
+52. Hughes RA, Wijdicks EF, Benson E, Cornblath DR, Hahn AF,
+Meythaler JM, Sladky JT, Barohn RJ, Stevens JC (2005) Supportive care for patients with Guillain–Barré syndrome. Arch
+Neurol 62:1194–1198
+53. Hund EF, Borel CO, Cornblath DR, Hanley DF, McKhann GM
+(1993) Intensive management and treatment of severe Guillain–
+Barré syndrome. Crit Care Med 21:433–446
+54. Jeffery IA, Karim S (2017) Botulism. StatPearls [Internet]. Treasure Island, StatPearls Publishing LLC
+55. Kahkonen S, Zvartau E, Lipsanen J, Bondarenko B (2011) Effects
+of alcohol withdrawal on cardiovascular system. Prog Neuropsychopharmacol Biol Psychiatry 35:550–553
+
+13
+
+Clinical Autonomic Research (2019) 29:301–311
+56. Kanda T, Hayashi H, Tanabe H, Tsubaki T, Oda M (1989) A
+fulminant case of Guillain–Barré syndrome: topographic and
+fibre size related analysis of demyelinating changes. J Neurol
+Neurosurg Psychiatry 52:857–864
+57. Khan A, Levy P, DeHorn S, Miller W, Compton S (2008) Predictors of mortality in patients with delirium tremens. Acad Emerg
+Med 15:788–790
+58. La Rovere MT, Bigger JT Jr, Marcus FI, Mortara A, Schwartz
+PJ (1998) Baroreflex sensitivity and heart-rate variability in
+prediction of total cardiac mortality after myocardial infarction.
+ATRAMI (Autonomic Tone and Reflexes After Myocardial
+Infarction) Investigators. Lancet 351:478–484
+59. Lee S, Jun GW, Jeon SB, Kim CJ, Kim JH (2016) Paroxysmal
+sympathetic hyperactivity in brainstem-compressing huge benign
+tumors: clinical experiences and literature review. Springerplus
+5:340
+60. Lichtenfeld P (1971) Autonomic dysfunction in the Guillain–
+Barré syndrome. Am J Med 50:772–780
+61. Low PA, Benarroch EE (2008) Clinical autonomic disorders.
+Lippincott Williams & Wilkins, Baltimore Philadelphia
+62. Lv LQ, Hou LJ, Yu MK, Qi XQ, Chen HR, Chen JX, Hu
+GH, Luo C, Lu YC (2010) Prognostic influence and magnetic
+resonance imaging findings in paroxysmal sympathetic hyperactivity after severe traumatic brain injury. J Neurotrauma
+27:1945–1950
+63. Mathew MJ, Deepika A, Shukla D, Devi BI, Ramesh VJ (2016)
+Paroxysmal sympathetic hyperactivity in severe traumatic brain
+injury. Acta Neurochir 158:2047–2052
+64. Mayo-Smith MF, Beecher LH, Fischer TL, Gorelick DA, Guillaume JL, Hill A, Jara G, Kasser C, Melbourne J (2004) Management of alcohol withdrawal delirium. An evidence-based practice
+guideline. Arch Intern Med 164:1405–1412
+65. McCowan C, Marik P (2000) Refractory delirium tremens treated
+with propofol: a case series. Crit Care Med 28:1781–1784
+66. McKeon A, Frye MA, Delanty N (2008) The alcohol withdrawal
+syndrome. J Neurol Neurosurg Psychiatry 79:854–862
+67. McMicken D, Liss JL (2011) Alcohol-related seizures. Emerg
+Med Clin North Am 29:117–124
+68. Merz B, Bigalke H, Stoll G, Naumann M (2003) Botulism type
+B presenting as pure autonomic dysfunction. Clin Auton Res
+13:337–338
+69. Meyfroidt G, Baguley IJ, Menon DK (2017) Paroxysmal sympathetic hyperactivity: the storm after acute brain injury. Lancet
+Neurol 16:721–729
+70. Minahan RE Jr, Bhardwaj A, Traill TA, Hanley DF (1996) Stimulus-evoked sinus arrest in severe Guillain–Barré syndrome: a
+case report. Neurology 47:1239–1242
+71. Mirijello A, D’Angelo C, Ferrulli A, Vassallo G, Antonelli M,
+Caputo F, Leggio L, Gasbarrini A, Addolorato G (2015) Identification and management of alcohol withdrawal syndrome. Drugs
+75:353–365
+72. Mirizzi G, Giannoni A, Bramanti F, Ripoli A, Varanini M,
+Bernardi L, Emdin M, Passino C (2013) A simple method for
+measuring baroreflex sensitivity holds prognostic value in heart
+failure. Int J Cardiol 169:e9–e11
+73. Miyawaki E, Freeman R (1995) Peripheral autonomic neuropathies. In: korczyn A (ed) Handbook of autonomic nervous system
+dysfunction. Marcel Dekker, New York, pp 253–282
+74. Mukerji S, Aloka F, Farooq MU, Kassab MY, Abela GS (2009)
+Cardiovascular complications of the Guillain–Barré syndrome. Am
+J Cardiol 104:1452–1455
+75. Ormezzano O, Cracowski JL, Quesada JL, Pierre H, Mallion JM,
+Baguet JP (2008) EVAluation of the prognostic value of BARoreflex sensitivity in hypertensive patients: the EVABAR study. J
+Hypertens 26:1373–1378
+
+Clinical Autonomic Research (2019) 29:301–311
+76. Panegyres PK, Mastaglia FL (1989) Guillain–Barré syndrome with
+involvement of the central and autonomic nervous systems. Med J
+Aust 150:655–659
+77. Patel MB, Goyal SK, Punnam SR, Pandya K, Khetarpal V, Thakur
+RK (2009) Guillain–Barré Syndrome with asystole requiring permanent pacemaker: a case report. J Med Case Rep 3:5
+78. Patural H, Goffaux P, Paricio C, Emeriaud G, Teyssier G, Barthelemy JC, Pichot V, Roche F (2009) Infant botulism intoxication
+and autonomic nervous system dysfunction. Anaerobe 15:197–200
+79. Perkes I, Baguley IJ, Nott MT, Menon DK (2010) A review of
+paroxysmal sympathetic hyperactivity after acquired brain injury.
+Ann Neurol 68:126–135
+80. Pfeiffer G (1999) Dysautonomie bei Guillain-Barré-Syndrom. Der
+Nervenarzt 70:136–148
+81. Pfeiffer G, Netzer J (1997) Spectral analysis of heart rate and blood
+pressure in Guillain–Barré patients with respiratory failure. J Neurol Sci 150:39–48
+82. Pfeiffer G, Schiller B, Kruse J, Netzer J (1999) Indicators of
+dysautonomia in severe Guillain–Barré syndrome. J Neurol
+246:1015–1022
+83. Pignolo L, Rogano S, Quintieri M, Leto E, Dolce G (2012)
+Decreasing incidence of paroxysmal sympathetic hyperactivity
+syndrome in the vegetative state. J Rehabil Med 44:502–504
+84. Rabinstein AA, Benarroch EE (2008) Treatment of paroxysmal
+sympathetic hyperactivity. Curr Treat Options Neurol 10:151–157
+85. Robertson D, Biaggioni I, Burnstock G, Low PA, Paton JFR (2012)
+Primer on the autonomic nervous system. Academic Press, Elsevier, London, Waltham, San Diego
+86. Robinson TG, Dawson SL, Eames PJ, Panerai RB, Potter JF (2003)
+Cardiac baroreceptor sensitivity predicts long-term outcome after
+acute ischemic stroke. Stroke 34:705–712
+87. Rocke DA, Wesley AG, Pather M, Calver AD, Hariparsad D (1986)
+Morphine in tetanus—the management of sympathetic nervous system overactivity. S Afr Med J 70:666–668
+88. Rodrigo C, Fernando D, Rajapakse S (2014) Pharmacological management of tetanus: an evidence-based review. Crit Care 18:217
+89. Ropper AH (1994) Intensive care of acute Guillain–Barré syndrome. Can J Neurol Sci 21:S23–S27
+90. Ropper AH (2003) Critical care of Guillain–Barré syndrome. In:
+Ropper AH (ed) Neurological and neurosurgical intensive care.
+Lippincott Williams & Wilkins, Philadelphia
+91. Ropper AH, Wijdicks EF (1990) Blood pressure fluctuations in
+the dysautonomia of Guillain–Barré syndrome. Arch Neurol
+47:706–708
+92. Roseman E, Aring CD (1941) Infectious polyneuritis. Medicine
+20:463–494
+93. Russo RN, O’Flaherty S (2000) Bromocriptine for the management of autonomic dysfunction after severe traumatic brain injury.
+J Paediatr Child Health 36:283–285
+94. Sajid MS, Hebbar M, Baig MK, Li A, Philipose Z (2016) Use
+of prucalopride for chronic constipation: a systematic review and
+meta-analysis of published randomized, controlled trials. J Neurogastroenterol Motil 22:412–422
+95. Sakakibara R, Uchiyama T, Kuwabara S, Mori M, Ito T, Yamamoto
+T, Awa Y, Yamaguchi C, Yuki N, Vernino S, Kishi M, Shirai K
+(2009) Prevalence and mechanism of bladder dysfunction in Guillain–Barré Syndrome. Neurourol Urodyn 28:432–437
+96. Samadi M, Kazemi B, Golzari Oskoui S, Barzegar M (2013)
+Assessment of autonomic dysfunction in childhood Guillain–Barré
+syndrome. J Cardiovasc Thorac Res 5:81–85
+97. Sander D, Hilz MJ, Ziemssen T (2015) Autonome störungen und
+vegetative krisen. In: Schwab S, Schellinger P, Werner C, Unterberg A, Werner H (eds) Neurologische intensivmedizin. Springer,
+Heidelberg, pp 634–649
+
+311
+98. Schmidt HB, Werdan K, Muller-Werdan U (2001) Autonomic dysfunction in the ICU patient. Curr Opin Crit Care 7:314–322
+99. Schuckit MA (2014) Recognition and management of withdrawal
+delirium (delirium tremens). N Engl J Med 371:2109–2113
+100. Schultis K (1976) Postaggressionsstoffwechsel als adaptation und
+als krankheit. In: Heberer G, Schultis K, Hoffmann K (eds) Postaggressionsstoffwechsel—Grundlagen, Klinik, Therapie. Schattauer
+Verlag, Stuttgart
+101. Sykora M, Diedler J, Rupp A, Turcani P, Rocco A, Steiner T (2008)
+Impaired baroreflex sensitivity predicts outcome of acute intracerebral hemorrhage. Crit Care Med 36:3074–3079
+102. Thomson AD, Cook CC, Touquet R, Henry JA (2002) The Royal
+College of Physicians report on alcohol: guidelines for managing
+Wernicke’s encephalopathy in the accident and emergency department. Alcohol Alcohol 37:513–521
+103. Thomson AD, Marshall EJ (2006) The natural history and pathophysiology of Wernicke’s encephalopathy and Korsakoff’s psychosis. Alcohol Alcohol 41:151–158
+104. Thwaites CL, Yen LM, Cordon SM, Thwaites GE, Loan HT, Thuy
+TT, White NJ, Soni N, Macdonald IA, Farrar JJ (2008) Effect of
+magnesium sulphate on urinary catecholamine excretion in severe
+tetanus. Anaesthesia 63:719–725
+105. Tolonen J, Rossinen J, Alho H, Harjola VP (2013) Dexmedetomidine in addition to benzodiazepine-based sedation in patients with
+alcohol withdrawal delirium. Eur J Emerg Med 20:425–427
+106. Topakian R, Heibl C, Stieglbauer K, Dreer B, Nagl M, Knoflach P,
+Aichner FT (2009) Quantitative autonomic testing in the management of botulism. J Neurol 256:803–809
+107. Torvik A, Lindboe CF, Rogde S (1982) Brain lesions in alcoholics.
+A neuropathological study with clinical correlations. J Neurol Sci
+56:233–248
+108. Truax BT (1984) Autonomic disturbances in the Guillain–Barré
+syndromé. Semin Neurol 4:462–468
+109. Trujillo MH, Castillo A, Espana J, Manzo A, Zerpa R (1987)
+Impact of intensive care management on the prognosis of tetanus.
+Analysis of 641 cases. Chest 92:63–65
+110. Tuck RR, McLeod JG (1981) Autonomic dysfunction in Guillain–
+Barré syndrome. J Neurol Neurosurg Psychiatry 44:983–990
+111. Turner MR, Gainsborough N (2001) Neuroleptic malignant-like
+syndrome after abrupt withdrawal of baclofen. J Psychopharmacol
+15:61–63
+112. Vita G, Girlanda P, Puglisi RM, Marabello L, Messina C (1987)
+Cardiovascular-reflex testing and single-fiber electromyography in
+botulism. A longitudinal study. Arch Neurol 44:202–206
+113. Wasay M, Khealani BA, Talati N, Shamsi R, Syed NA, Salahuddin
+N (2005) Autonomic nervous system dysfunction predicts poor
+prognosis in patients with mild to moderate tetanus. BMC Neurol
+5:2
+114. Wesemann G, Grote E (1980) Pathophysiology of intra- and postoperative stress. In: Stoeckel H, Oyama T, Hack G (eds) Endocrinology in anaesthesia and surgery. Anaesthesiologie und intensivmedizin/anaesthesiology and intensive care medicine. Springer,
+Berlin, pp 10–23
+115. Wijdicks EFM (2016) The Practice of emergency and critical care
+neurology. Oxford University Press, New York
+116. Winer JB, Hughes RA, Anderson MJ, Jones DM, Kangro H, Watkins RP (1988) A prospective study of acute idiopathic neuropathy.
+II. Antecedent events. J Neurol Neurosurg Psychiatry 51:613–618
+117. Zochodne DW (1994) Autonomic involvement in Guillain–Barré
+syndrome: a review. Muscle Nerve 17:1145–1155
+
+13
+
+

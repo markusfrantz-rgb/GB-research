@@ -1,0 +1,76 @@
+Guillain-Barre Syndrome as a Cause of Reversible Cardiomyopathy
+
+Authors: Jason S. Finkelstein, MD; Bekir H. Melek, MD, FACC
+Affiliation: Department of Medicine, Section of Cardiology, Veterans Administration Medical Center and Tulane University School of Medicine, New Orleans, Louisiana 70112
+Journal: Texas Heart Institute Journal, 2006;33(1):57-59
+PMCID: PMC1413614
+PMID: 16572872
+
+------------------------------------------------------------
+ABSTRACT
+------------------------------------------------------------
+
+Although autonomic dysfunction is a common manifestation of Guillain-Barre syndrome, cardiovascular involvement in this setting has rarely been reported in the literature. We describe a case of reversible left ventricular systolic dysfunction in a 60-year-old man with Guillain-Barre syndrome. Our patient had no history or signs of cardiac dysfunction on initial presentation. During the clinical manifestation of his autonomic dysfunction, he developed electrocardiographic changes accompanied by mildly elevated cardiac enzymes and severe left ventricular systolic dysfunction and segmental wall motion abnormality, which coincided with elevated urinary catecholamine and vanilmandelic acid levels. These abnormalities, and his symptoms, resolved rapidly once the acute episode was over. We believe the reversible left ventricular dysfunction was due to the toxic effect of increased catecholamines and to the transiently damaged sympathetic nerve endings in the myocardium, presumably a consequence of Guillain-Barre syndrome. We recommend that echocardiography be performed in patients with clinical signs of autonomic dysfunction, especially if they are associated with abnormal electrocardiographic findings, cardiac enzyme elevation, or hemodynamic instability, so that appropriate medical therapy can be instituted in a timely manner.
+
+Keywords: Autonomic nervous system diseases/complications, cardiomyopathy/etiology, catecholamines/adverse effects, demyelinating diseases/complications, Guillain-Barre syndrome/complications, hypertension/etiology, tachycardia/etiology, vanilmandelic acid/urine, ventricular dysfunction, left/etiology
+
+------------------------------------------------------------
+INTRODUCTION
+------------------------------------------------------------
+
+There have been very few case reports of cardiovascular involvement coinciding with clinical and biochemical manifestations of autonomic dysfunction in Guillain-Barre syndrome. These have included electrocardiographic and cardiac enzyme abnormalities, as well as reversible left ventricular dysfunction. The term neurogenic stunned myocardium has been used to summarize these abnormalities in the setting of severe central nervous system injury, in the absence of coronary artery disease. Although the exact pathophysiology of this syndrome is currently unknown, up to 50% of the subjects were found to have myocardial contraction band necrosis at autopsy. On the basis of its clinical associations and of experimental models in which similar contraction band necrosis has been produced with catecholamine infusion, an excessive sympathetic outflow and catecholamine toxicity have been implicated as the trigger. We describe a case with very similar characteristics.
+
+------------------------------------------------------------
+CASE REPORT
+------------------------------------------------------------
+
+In August 2004, a 60-year-old man presented with a 1-week history of progressive upper and lower extremity weakness associated with numbness. There were no prodromal illnesses. Before the appearance of his symptoms, he had no known cardiac disease and his only cardiovascular risk factor was smoking. There was no history of recent significant ethanol or substance abuse. On initial examination, his heart rate was 93 beats/min, his blood pressure was 126/78 mmHg, and he was afebrile. The patient's motor strength was 4/5 in his upper extremities and 1/5 in his lower extremities. The initial laboratory tests--including hemoglobin, erythrocyte sedimentation rate, serum electrolytes, liver function tests, blood urea nitrogen, and creatinine--were all within normal limits, except for a mildly elevated white blood cell count. Cerebrospinal fluid examination showed elevated proteins and no cells. Nerve conduction studies of the bilateral lower and left upper extremities were consistent with severe, generalized, sensorimotor peripheral neuropathy of the predominantly demyelinating type, with an axonal component. Clinical findings, electrodiagnostic studies, and cerebrospinal fluid results were those classically associated with Guillain-Barre syndrome, demyelinating type, affecting the large and autonomic C fibers. Results of further tests, for thyroid function, human immunodeficiency virus, liver enzymes, urine heavy metal, and porphobilinogen levels, were all normal or negative.
+
+The patient was treated with a total of 24 grams of intravenous immunoglobulin over a 5-day period, in the medical intensive care unit. During this time, his weakness progressed and signs of autonomic dysfunction--sweating, tachycardia, and hypertension--became apparent; however, his respiratory status was uncompromised. On the 6th hospital day, our cardiology department was consulted for acute onset of shortness of breath, associated with severe diaphoresis and sinus tachycardia, with ST-segment elevations in the anteroseptal leads. There were also T-wave inversions in leads V3-V6, and the corrected QT interval was 525 msec. Serum creatinine phosphokinase levels peaked at 392 IU/L (normal, 25-250 IU/L), and creatine kinase-MB fractions peaked at 7.3 ng/mL (normal, 0.6-6.3 ng/mL). The peak cardiac troponin I level was 0.14 ng/mL (normal, 0-0.03 ng/mL).
+
+The patient was started on aspirin, beta-blockers, and enoxaparin. An echocardiogram showed a markedly depressed overall left ventricular ejection fraction (LVEF) of 0.15 with severe global hypokinesis as well as apical akinesis, and no substantial valvular dysfunction. Subsequently, an angiotensin-converting enzyme inhibitor was added to the medical regimen for his cardiomyopathy. Given these findings, along with the new electrocardiographic changes and abnormal cardiac enzymes, a coronary angiogram was performed, which revealed completely normal epicardial coronary arteries. The patient continued to have episodes of sinus tachycardia and labile hypertension. Pheochromocytoma was considered in the differential diagnosis, and samples were sent for analysis of urinary and plasma catecholamines. The urinary epinephrine level was 130 microg/24 hr (normal, 0-24 microg/24 hr), and the urinary norepinephrine level was 317 microg/24 hr (normal, 0-140 microg/24 hr). In addition, 24-hour urine metanephrine levels were elevated at 629 microg (normal, 35-460 microg), and the 24-hour urine vanilmandelic acid level was elevated at 12.7 mg (normal, 1.8-6.7 mg). The specimen sent for plasma catecholamines was insufficient for testing. An abdominal computed tomographic scan revealed a 2.0-cm mass in the left adrenal gland, and magnetic resonance imaging was performed for further evaluation. It showed a 1.5 x 1.8 x 1.9-cm nodule of the adrenal gland, with a low T2-weighted signal intensity suggestive of a nonfunctional adenoma. The likelihood of a pheochromocytoma was deemed to be low, and the increased sympathetic tone was attributed to Guillain-Barre syndrome. By hospital day 11, the T-wave inversions had resolved, although the patient remained mildly tachycardic.
+
+The patient was subsequently transferred to a facility for physical rehabilitation. A repeat echocardiogram performed 8 weeks later showed a markedly improved LVEF of 0.45, with mild global hypokinesis and no wall motion abnormalities. At the time of the repeat echocardiogram, the patient was in remission neurologically, and he no longer had labile hypertension or sinus tachycardia. Serum catecholamines tested 1 week before the repeat echocardiogram showed normal values: plasma epinephrine, 29 pg/mL (normal, 0-99 pg/mL), and plasma norepinephrine, 299 pg/mL (normal, 0-399 pg/mL). Three months later, he remained hemodynamically stable and asymptomatic from a cardiovascular standpoint.
+
+------------------------------------------------------------
+DISCUSSION
+------------------------------------------------------------
+
+Autonomic dysfunction is a well-recognized manifestation of Guillain-Barre syndrome and has been reported more commonly in the acute demyelinating subtype of the disease. It is typically accompanied by elevated plasma norepinephrine, plasma epinephrine, and 24-hour urine vanilmandelic acid levels, as well as by elevated cerebrospinal fluid neurotransmitter metabolites and central catecholaminergic and serotoninergic hyperactivity. On the other hand, in cases without autonomic dysfunction, plasma norepinephrine and 24-hour urine vanilmandelic acid levels have been found to be comparable to those of controls. The autonomic dysfunction tends to be especially apparent during the acute decompensated phase of the neurologic illness and fades during the recovery phase, with normalization of plasma norepinephrine and urine vanilmandelic acid levels. Clinical manifestations include labile hypertension in 30% to 35% and sinus tachycardia in 33%, which have been attributed to the damage to afferent pathways; diminished baroreceptor inhibition and alteration of the baroreceptor and chemoreceptor reflexes results in efferent sympathetic overflow as a consequence of the demyelinating process.
+
+We describe a case of reversible left ventricular systolic dysfunction in a patient with Guillain-Barre syndrome. Our patient had no history or signs of cardiac dysfunction on initial presentation. During the clinical manifestation of his autonomic dysfunction, he developed electrocardiographic changes accompanied by mildly elevated cardiac enzymes and severe left ventricular systolic dysfunction and segmental wall motion abnormality, which coincided with elevated urinary catecholamine and vanilmandelic acid levels. The rapid onset and resolution of symptoms, together with the abnormalities mentioned above, their timely correlation with the acute phase of neurologic illness, and the absence of other identifiable cardiac risk factors, were consistent with neurogenic stunned myocardium.
+
+Elevated plasma norepinephrine, plasma epinephrine, and urine vanilmandelic acid have previously been reported in association with autonomic dysfunction and neurogenic stunned myocardium. Iga and colleagues described a similar patient with reversible left ventricular dysfunction. During the acute phase of the cardiac episode, plasma norepinephrine and epinephrine were markedly elevated. The left ventricular dysfunction markedly improved 3 months later. Ahmad and coworkers found an increase in plasma norepinephrine, 24-hour urine vanilmandelic acid, and plasma cortisol in patients who had Guillain-Barre syndrome with autonomic dysfunction that presented as hypertension and tachycardia.
+
+Although our patient had not undergone baseline echocardiography before this presentation, the preexistence of any abnormality was highly unlikely, because he did not have any known prior cardiac disease and had been completely asymptomatic, with normal exercise capacity. Moreover, the electrocardiographic abnormalities were noted as the symptoms of autonomic dysfunction became apparent. We believe that the reversible left ventricular dysfunction was due to the toxic effect of increased catecholamines and to the transiently damaged sympathetic nerve endings in the myocardium, presumably a consequence of Guillain-Barre syndrome.
+
+Neurogenic stunned myocardium may occur in patients with Guillain-Barre syndrome; however, its incidence is unknown, because echocardiographic examinations are not routinely performed in such cases. We recommend that echocardiography be performed in patients with clinical signs of autonomic dysfunction, especially if they are associated with abnormal electrocardiographic findings, cardiac enzyme elevation, or hemodynamic instability, so that appropriate medical therapy can be instituted in a timely manner.
+
+------------------------------------------------------------
+REFERENCES
+------------------------------------------------------------
+
+1. Iga K, Himura Y, Izumi C, Miyamoto T, Kijima K, Gen H, Konishi T. Reversible left ventricular dysfunction associated with Guillain-Barre syndrome--an expression of catecholamine cardiotoxicity? Jpn Circ J 1995;59:236-40.
+
+2. Hiraga A, Nagumo K, Suzuki K, Sakakibara Y, Kojima S. A patient with Guillain-Barre syndrome and recurrent episodes of ST elevation and left ventricular hypokinesis in the anterior wall [in Japanese]. No To Shinkei 2003;55:517-20.
+
+3. Bernstein R, Mayer SA, Magnano A. Neurogenic stunned myocardium in Guillain-Barre syndrome. Neurology 2000;54:759-62.
+
+4. Mayer SA, Swarup R. Neurogenic cardiac injury after subarachnoid hemorrhage. Curr Opin Anaesthesiol 1996;9:356-61.
+
+5. Samuels MA. "Voodoo" death revisited: the modern lessons of neurocardiology. Neurologist 1997;3:293-304.
+
+6. Asahina M, Kuwabara S, Suzuki A, Hattori T. Autonomic dysfunction in demyelinating and axonal subtypes of Guillain-Barre syndrome. Acta Neurol Scand 2002;105:44-50.
+
+7. Durocher A, Servais B, Caridroix M, Chopin C, Wattel F. Autonomic dysfunction in the Guillain-Barre syndrome. Hemodynamic and neurobiochemical studies. Intensive Care Med 1980;6:3-6.
+
+8. Ahmad J, Kahn AS, Siddiqui MA. Estimation of plasma and urinary catecholamines in Guillain-Barre syndrome. Jpn J Med 1985;24:24-9.
+
+9. Singh NK, Jaiswal AK, Misra S, Srivastava PK. Assessment of autonomic dysfunction in Guillain-Barre syndrome and its prognostic implications. Acta Neurol Scand 1987;75:101-5.
+
+------------------------------------------------------------
+
+Address for reprints: Bekir H. Melek, MD, Section of Cardiology, SL-48, Tulane University HSC, 1430 Tulane Ave., New Orleans, LA 70112
+E-mail: hmelek@tulane.edu
+
+(c) 2006 by the Texas Heart Institute, Houston

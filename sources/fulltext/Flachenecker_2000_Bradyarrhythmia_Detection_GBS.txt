@@ -1,0 +1,995 @@
+Research Paper
+
+ClinicalAutonomic Research 2000, 10:185-191
+
+This study was undertaken to determine the nature of bradyarrhythmic events and their relationship to motor disability,
+disease stages and tachycardia in patients with Guillain-Barr6
+syndrome, and to investigate the potential of the 24-hour heart
+
+Detection of serious
+bradyarrhythmias in
+Guillain-Barr6 syndrome:
+sensitivity and specificity of the
+24-hour heart rate
+power spectrum
+
+rate power spectrum (HRPS) for the detection of serious
+bradyarrhythmias in individual patients. Thirty-five consecutive patients with Guillain-Barr6 syndrome who were admitted
+to the authors' intensive care unit were studied. In all patients,
+the heart rate was continuously recorded during the early
+stages of the disease, averaged at 1-minute intervals, and stored
+for 1 to 87 days. The HRPS (n = 556, 16 + 19 per patient;
+
+median, 9) was calculated by Fourier analysis of 24-hour recordings and logarithmically transformed. The slope was estimated by recession analysis of log (power) on log (frequency)
+between 10- and 4 x 10 .3 Hz, showing an inverse power law
+behavior in all 556 HRPSs. Eleven patients (31%) had serious
+bradyarrhythmias. Most of these patients were not dependent
+on mechanical ventilation, with 3 of 11 patients (27%) still
+being able to walk more than 5 meters. Sustained tachycardia
+occurred less frequently in patients with than in those without
+bradyarrhythmias. The combination of the sl_o4peof the power
+law regression line and the log (power) at 10- Hz (log P4) of
+the 24-hour HRPS correctly identified 8 of 11 bradyarrhythmic patients (sensitivity 73%) and 16 of 22 patients with Gulllain-Barr~ syndrome who did not have bradyarrhythmias
+(specificity 73%). All bradyarrhythmic patients could be detected in the subgroup of patients without sustained tachycardia. The 24-hour HRPS is a powerful predictor of serious
+autonomic complications in patients with Guillain-Barr6 syndrome and may help to identify patients at risk of potentially
+life-threatening arrhythmias.
+
+Peter Flachenecker, M.D., Kristine Lem,
+Wolfgang M~illges, M.D., and
+Karlheinz Reiners, M.D.
+Department of Neurology, dulius-Maximilians-Universit~t,
+W0rzburg, Germany
+
+Address correspondence and reprint requests to Peter
+Flachenecker, M.D., Department of Neurology,
+Julius-Maximilians-Universit~it, Josef-Schneider-Str. 11,
+D-97080 W~rzburg, Germany.
+Tel: 49-931-201-2621; Fax: 49-931-201-3489
+E-Mail: peter.flacheneker@mail.uni-wuerzburg.de
+
+Received February 2, 200@ accepted as revised May 15,
+2000
+
+Key words."Guillain-Barr~ syndrome, autonomic dysfunction,
+bradyarrhythmia, heart rate variability, power spectrum analysis.
+
+The Guillain-Barr6 syndrome (GBS) is an inflammatory,
+demyelinating disorder of the peripheral nervous system
+that is assumed to result from aberrant immune responses
+directed against components of peripheral nerve [1,2]. The
+clinical features consist of an acutely or, more often, subacutely evolving symmetric paresis of all limbs with areflexia
+and mild sensory deficits; mechanical ventilation may be
+required in up to 30% of patients [3,4]. Autonomic neuropathy is a common and important feature and may be
+present in cardiovascular, sudomotor, gastrointestinal, and
+other systems, involving both parasympathetic and sympathetic fibers [5]. In particular, vagal overreactivity may cause
+serious bradyarrhythmias ranging from bradycardia to asystole, which account for a significant number of deaths [5].
+It is generally believed that these bradyarrhythmias occur
+only in severely disabled patients, mainly in patients requiring mechanical ventilation [6-9]. However, they also have
+been described in cases without mechanical ventilation and
+even in less severely affected patients [8,10,11]..Early recognition of these potentially life-threatening dysrhythmias is
+crucial for the initiation of appropriate preventive therapy
+such as external cardiac pacemakers or monitoring on the
+intensive care unit (ICU). However, clinical studies disagree
+on which patients should be regarded at risk.
+
+Eyeball pressure is a strong stimulus for producing asystole [9,12]. We have found that abnormal sensitivity to
+eyeball pressure testing correctly identified two of three patients needing cardiac pacing or cardiopulmonary resuscitation because of sinus arrest [11]. One drawback of this
+method is the lack of a reproducible and quantitative stimulation. Adverse effects may include retinal damage or a profound bradycardia leading to asystole, which makes it
+necessary to keep safeguards for prompt and appropriate
+resuscitation in place [11]. In a subsequent evaluation, we
+found that the regression line of spectral power on frequency of the 24-hour heart rate power spectrum (HRPS)
+discriminated better between patients with and without abnormal sensitivity to eyeball pressure testing than the heart
+rate variability parameters derived from 5 minutes at rest or
+from standard autonomic function tests [13]. However, the
+potential to detect serious bradyarrhythmias has not been
+studied. Furthermore, cutoff values for this measure were
+not available, which makes identifying individual patients at
+risk difficult, and the sensitivity and specificity remain to be
+determined.
+This study aims at (1) describing retrospectively the nature of bradyarrhythmic events and their relationship to
+motor disability, disease stages, and tachycardia in a large
+0959-9851 9 2000 Lippincott Williams & Wilkins 185
+
+Flachenecker et aL
+
+cohort of 35 patients with GBS who were admitted to the
+ICU, and (2) investigating the potential of the 24-hour
+HRPS for the detection of serious bradyarrhythmias in individual patients.
+
+Patients and methods
+Patients
+Between July 1993 and December 1996, 42 patients with
+GBS were admitted to the ICU of our department. The
+diagnosis was based on (1) clinical features, ie, progressive
+weakness of two or more limbs for less than 4 weeks, and
+absent or reduced tendon reflexes, (2) cerebrospinal fluid
+leukocyte count less than 50/IA, and (3) absence of other
+causes, eg, porphyria, toxins, systemic vasculitis, diphtheria,
+or botulism [14]. Three patients were excluded because of
+missing heart rate data, and in four patients, detailed medical records were not available.
+Thus, 35 patients were included in this study (11 women,
+24 men; mean age, 52.4 y; age range, 18-81 y; median, 55
+y). Thirteen of these patients were part of a prospective,
+longitudinal study of autonomic function in GBS [11,13].
+The mean disability score (DS; see later discussion) at admission was 3.5 (range 2 to 5, median 4), whereas the worst
+disability score was 4.0 (range 2 to 5, median 4). The duration of the progressive phase was 8.5 + 6.6 days (mean _+
+standard deviation, range 2 to 39, median 7) and of the
+plateau phase, 6.0 _+ 8.1 days (range 0 to 31, median 3).
+Nine of 35 patients (26%) required mechanical ventilation
+for 7 to 47 days. No patient died during the study period.
+Fourteen patients were treated with plasmapheresis, seven
+with intravenous immunoglobulins, and 10 with a combination of both. Four patients received no specific therapy.
+Symptomatic treatment included heparin, antacids, mucolytics, antibiotics, analgesics, narcotics, sedating, and antihypertensive agents and was allowed at the discretion of the
+treating physician. The most frequent preexisting disease
+was arterial hypertension in 10 patients; other concomitant
+conditions included diabetes mellitus (n = 5), cardiac arrhythmias (n = 3), coronary artery disease (n = 2), heart
+failure (n = 2), chronic obstructive pulmonary disease (n =
+2), and chronic alcohol abuse (n = 2).
+
+24-Hour heart rate power spectrum (HRPS)
+The heart rate was continuously recorded during the early
+stages of the disease, ie, as long as the patient was judged to
+require ICU monitoring (GISI Data Management System;
+PPG H'ellige Ltd., Freiburg i. Br., Germany). Within this
+system, the heart rate was averaged at 1-minute intervals and
+stored on hard disk. The extracted 1-minute heart rate data
+were plotted as a tachogram, and the HRPS was calculated
+by harmonic Fourier analysis of consecutive, nonoverlapping 24-hour recordings encompassing data sets of 1,440
+values as described previously [13]. In total, 556 HRPSs
+were available in 35 patients (16 + 19 per patient, mean +
+standard deviation, range 1-87, median 9). Single missing
+186
+
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+heart rate data and artifacts (which were automatically detected by a >50% change in the succeeding heart rate with
+visual check) were replaced by linear interpolation, and the
+resulting power first underwent frequency averaging at every
+fourth value. After log transformation of power and frequency, the spectrum was smoothed by integrating power
+into bins spaced 60 per decade, ie, 0.0167 log (Hz) wide
+[13,15]. The slope of the regression line of each of the 556
+HRPSs was estimated by simple linear regression analysis of
+log (power) on log (frequency) in the scaling region between
+10 -4 and 4 x 10 -3 (0.004) Hz, thus avoiding interferences
+with periodic components at 0.01 Hz [15,16]. This measure
+has been shown to provide insights into the sympathovagal
+balance [15] and was flatter, ie, less negative, in patients
+with vagal overreactivity, and steeper, ie, more negative, in
+patients with tachycardia [13]. In addition, the log (power)
+at 10 -4 Hz was taken from the HRPS, constituting the "log
+P4" which quantifies oscillations ranging approximately 3
+hours (Fig. 1).
+
+Disability score, disease stages, and clinical
+autonomic dysfunction
+The clinical characteristics of the patients were taken from
+the medical records, which include the findings of a complete neurologic examination at least once per day, a detailed description of heart rate and blood pressure changes,
+and careful notification of any unusual events during the
+time on the ICU. The charts were reviewed independently
+by two investigators (Dr. Peter Flachenecker and Kristine
+Lem).
+The DS was graded on an ordinal scale from 0 to 5 as
+follows: (0) healthy, no signs or symptoms attributable to
+GBS; (1) minor symptoms or signs and capable of running;
+(2) able to walk 5 meters across an open space without
+assistance, walking frame, or stick, but unable to run; (3)
+able to walk 5 meters across an open space with the help of
+one person and waist-level walking flame, stick, or sticks;
+(4) chair bound/bed bound; unable to walk as in 3; and (5)
+requiring assisted ventilation (for at least part of day or
+night) [17].
+Disease stages were divided into progressive, plateau, and
+remission phase by clinical criteria. The remission phase was
+further subdivided into early (within 7 days of improvement), middle (7 to 28 days after start of recovery), and
+late remission (more than 28 days after the first signs of
+improvement).
+Sustained tachycardia was defined as heart rate above 100
+beats/rain, which required confirmation by a second measurement at least 1 hour later. Serious bradyarrhythmias
+were considered (1) sustained asystole requiring cardiac pacing or cardiopulmonary resuscitation, (2) bradycardia, defined as heart rate below 40 beats/min, necessitating the
+administration of atropine, (3) bradycardia below 40 beats/
+min with spontaneous recovery, and (4) abnormal sensitivity to eyeball pressure testing (EP), defined as a decrease of
+the heart rate below 40 beats/min during the maneuver,
+which was performed as part of a longitudinal study [11]
+
+Detection of serious bradyarrhythmias in GBS
+Results
+
+10 6
+i
+
+N
+
+slope:
+log P4: i
+
+-0.89
+4.28
+
+lOS
+
+10 4
+o
+0
+
+10 3
+
+10 2
+lO-S
+
+10-4
+
+10-3
+
+10-2
+
+I0-]
+
+Frequency [Hz]
+10 6
+
+N
+
+slope:
+log P4:
+
+-1.70
+5.30
+
+lOS
+
+10 4
+0
+0
+
+~il.J,a.,,
+
+10 3
+
+10 2
+10-5
+
+10-4
+
+10-3
+
+10-2
+
+10-1
+
+Frequency [Hz]
+Figure 1. Twenty-four-hour heart rate power spectra (HRPS) in two
+patients with Guillain-Barre syndrome (GBS). Individual plots of log
+(power) versus log (frequency) constituting the 24-hour heart rate
+power spectrum (HRPS) in (A) a patient who repeatedly required cardiac pacing (patient 11, Table 1) and (B) a similarly disabled patient
+who never experienced serious bradyarrhythmias. The horizontal bars
+at the bottom of each graph indicate the scaling region between 10 4
+and 4 x 10 3 Hz. The slope was flatter, ie, less negative, and the log
+P4 was lower in the bradyarrhythmic patient (A) compared with the
+control patient (B).
+
+and, thereafter, routinely at the discretion of the attending
+physician to assess the risk for impending bradyarrhythmia.
+
+Statistics
+Nonparametric tests were used for all comparisons. Differences between patient groups were analyzed by the MannWhitney rank sum test, and correlation coefficients were
+calculated by Spearman rank order correlation. A proportion of patients were compared with Fisher exact test and
+the chi-square test, respectively (standard software package,
+SIGMAStat for Windows Version 1.0; Jandel Corporation,
+San Rafael, CA). Results were considered statistically significant for p <0.05.
+
+Clinical autonomic dysfunction
+Bradyarrhythmic events (asystole requiring cardiopulmonary resuscitation, cardiac pacing or atropine, and abnormal
+sensitivity to EP) occurred at least once in 11 of 35 patients
+(31%) during the early course of GBS. In eight of these
+patients, bradyarrhythmias were repeatedly noted, yielding a
+total of 33 events (Table 1). Most of these complications fell
+into the progressive and plateau phase of the disease; only
+two patients experienced one of these events for the first
+time during the early remission phase. None suffered from
+bradyarrhythmias more than 20 days after the onset of clinica] recovery. Age (52.2 • 15.9 vs 52.5 -+ 12.0, mean _+
+standard deviation), gender (fema]e/male ratio 3/8 vs 8/16)
+and disability scores (3.9 +- 1.1 vs 4.0 * 0.8) were similar in
+patients with and without bradyarrhythmias. Although atrhythmic complications mainly occurred in severely disabled patients (DS 4-5), a considerable proportion (3 of 11,
+27%) experienced bradycardia while still being able to walk
+more than 5 meters with help (DS 3) or even without any
+help (DS 2, Table 1). The proportion of patients requiring
+mechanical ventilation was slightly higher in the bradyarrhythmic group (4 of 11, 36%) compared with the patients without this complication (5 of 24, 21%), but this
+difference failed to reach statistical significance (p = 0.42).
+Tachycardia was present in 22 of 35 patients (63%) and
+occurred less frequently in patients with than in those without bradyarrhythmias (4 of 11, 36% vs 18 of 24, 75%, p =
+0.0571, Fisher exact test).
+Influence of concomitant conditions and medication
+The preexisting diseases and concomitant medication of the
+11 bradyarrhythmic patients are listed in Table 2. Mechanically ventilated patients received the highest amount of
+medication, mainly sedatives. IS-Blocking agents were administered to three patients. However, only one of four
+bradyarrhythmic episodes of one patient (patient 1) occurred while taking IS-blockers. Another patient (patient 4)
+was treated with [3-blockers because of cardiac arrhythmia
+before the onset of GBS, with unchanged medication during the course of the disease. Preexisting bradyarrhythmia
+was noted in one patient (patient 7) who was not treated
+before GBS but required atropine repeatedly during the
+early course of the disease.
+24-Hour heart rate power spectrum (HRPS)
+Twenty-six HRPSs of 11 patients with bradyarrhythmias
+were available for analysis and were compared with 42
+HRPSs obtained from 22 patients matched for age, worst
+disability score, and disease stages ("matched controls").
+More than one HRPS was available in five bradyarrhythmic
+and eight control patients because of repeatedly occurring
+bradyarrhythmias (Table 1). In these patients, the mean
+slopes and log P4 Of all individual HRPS were used for
+further analysis.
+Figure 2 shows the group values for the slope and log
+P4 of the bradyarrhythmic patients (BA), of these patients
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+187
+
+Flachenecker et al.
+Table 1. Clinical characteristics of 11 patients with Guillain-Barr@ syndrome and bradyarrhythmic events
+Patient
+
+Age
+
+Gender
+
+DS
+
+Phase
+
+Tachycardia
+
+No. of events*
+
+Events
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+21
+56
+55
+68
+56
+65
+64
+44
+70
+56
+29
+
+F
+F
+M
+M
+M
+F
+M
+M
+M
+M
+M
+
+5
+5
+5
+3
+4
+4
+2
+5
+4
+2
+4
+
+PRP-PLP
+PRP
+PLP
+RMPe
+PRP
+PLP
+PRP-RMPrn
+PRP-RMP m
+RMP e
+PLP-RMP m
+PRP
+
+Yes
+Yes
+Not
+No
+NO
+NO
+No
+Yes
+No
+No
+No
+
+4 (4)
+2 (1)
+2 (2)
+1 (1)
+2 (1)
+1 (1)
+5 (5)
+6 (5)
+1 (1)
+4 (1)
+5 (4)
+
+EP
+CPR, EP
+Pacing
+BA
+BA, EP
+BA
+Atropine, BA
+Atropine, EP
+BA
+EP
+Pacing, EP
+
+DS, worst disability score during the disease [17] (see Methods for detailed description); PRP = progressive phase; PLP = plateau phase;
+RMPe = early remission phase (<7 days); RMPrn = middle remission phase (7-28 days); EP = abnormal response to eyeball-pressure
+testing. CPR = cardiopulmonary resuscitation; Pacing = cardiac pacing; Atropine = bradyarrhythmia necessitating atropine; BA = bradyarrhythmia <40 beats per minute, with spontaneous recovery.
+*Numbers in parentheses denote the numbers of events for which 24-hour heart rate data were available.
+1-This patient demonstrated tachycardia during 3-4 days, 8-11 days before bradyarrhythmias developed.
+
+during the remission phase (ie, of the last day on the
+ICU), without further bradyarrhythmias (BA'), and of the
+22 control patients (CO). The median slope was higher,
+ie, less negative, in the BA patients compared with the
+controls, although this difference fell short of statistical
+significance (p = 0.11). During clinical recovery (BA'),
+the slopes approached that of the CO group (Fig. 2A). Log
+P4 was significantly lower in the BA patients compared
+with the controls, with an increase during clinical remission
+(Fig. 2B).
+Visual inspection of the scatter plots of log P4 versus
+slope indicates that BA and CO patients were best discriminated by cutoff values o f - l . 2 and 4.9 for the slope and log
+P4, respectively (Fig. 3). Six of 11 bradyarrhythmic patients
+
+mo'' 0
+0
+
+0
+
+-1.0
+
+-1.5
+
+0
+
+o
+-2.0
+
+|
+
+BA
+
+BA'
+
+CO
+
+6.0
+
+Table 2. Pre-existing diseases and concomitant medication of 11
+patients with bradyarrhythmia
+
+Patient
+
+Pre-existing diseases
+
+1
+
+--
+
+2
+3
+
+Hypertension
+--
+
+4
+
+Cardiac arrhythmia,
+coronary artery disease
+Hypertension, heart failure
+
+5
+6
+7
+8
+9
+10
+
+Hypertension
+Hypertension,
+bradyarrhythmia:l:
+-Diabetes mellitus
+--
+
+11
+
+--
+
+Concomitant
+medication
+Sedatives, 13-blocker,*
+calcium antagonist*
+Sedatives
+Sedatives, 13-blocker,
+carbamazepine
+13-blocker1
+Diuretics,l- ACE
+inhibitor1Diuretics1Sedatives
+
+All patients received heparin, antacids, and mucolytics.
+ACE = angiotensin-converting enzyme.
+*Only in one of four bradyarrhythmic occurrences.
+[Pre-existing medication, unchanged during the disease course.
+:l:No treatment required previously.
+188
+
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+O
+
+,~.
+r
+
+5.5
+
+5.0
+
+O
+
+8
+
+BA'
+(n=9)
+
+CO
+(n=22)
+
+4.5
+
+BA
+(n=ll)
+
+Figure 2. Parameters of the 24-hour heart rate power spectrum in
+bradyarrhythmic patients and controls. The slope of the power law
+regression line (A) and the log (power) at 10-4 Hz (B) in 11 bradyarrhythmic patients (BA), nine bradyarrhythmic patients during clinical
+recovery (BA'), and 22 matched control patients (CO). Boxes, 25%75% quartiles; whiskers, 10%-90% percentiles; solid lines, median
+values; circles, single values outside the 10% and 90% percentiles. (A)
+The median slope was higher, ie, less negative, in the BA patients
+compared with the controls, although this difference failed to reach
+statistical significance (p = 0.11). During clinical recovery (BA'), the
+slopes approached that of the CO group. (B) Log P4 was significantly
+lower in the BA patients compared with the controls, with an increase
+during clinical remission. *p <0.04, BA versus CO, Mann-Whitney rank
+sum test.
+
+Detection of serious bradyarrhythmias in GBS
+Table 4. Correlation of heart rate power spectrum to length of
+observation period
+
+6.0
+
+slope = -1.2
+
+2 Days
+
+3 Days
+
+4 Days
+
+7 Days
+
+0.90 (49)
+
+0.85 (45)
+0.97 (43)
+
+0.83 (37)
+0.96 (37)
+0.98 (37)
+
+0.71 (32)
+0.89 (32)
+0.94 (32)
+0.96 (32)
+
+A
+
+A
+
+5.5
+
+24 Hours
+2 Days
+3 Days
+4 Days
+
+A
+A
+
+A
+
+Correlation coefficients between the slopes of the regression line
+obtained from the 24-hour heart rate power spectrum, and the
+mean of the slopes derived from 2-, 3-, 4-, and 7-day recordings
+of 11 patients with bradyarrhythmic events (N = 26) and 22
+matched controls (N = 42).
+The numbers in brackets denote the pairs available.
+All comparisons are statistically significant (p <0.001).
+
+A
+9
+
+A
+
+O9
+
+9
+
+5.0
+
+OA
+
+A
+
+log P4 = 4.9
+
+A
+4.5
+-2.0
+
+t
+
+i
+
+i
+
+-1.8
+
+-1.6
+
+-1.4
+
+,,,gO 9
+
+O
+I
+
+-1.2
+
+-1.0
+
+-0.8
+
+Effect of data recordingperiod
+
+Slope
+Figure 3. Log P4 versus slope for bradyarrhythmic patients and controls. Scatter plot of log (power) at 10_4 Hz (log P4) versus slope for 11
+bradyarrhythmic patients (black symbols), nine bradyarrhythmlc patients during clinical recovery (gray symbols), and 22 matched control
+patients (white symbols). The triangles denote patients with sustained
+tachycardia. The cutoff values (slope = -1.2, log P4 = 4.9) are shown
+on the graph. Eight of 11 patients with bradyarrhythmias demonstrated
+a slope >--1.2 or a log P4 <4.9, yielding a sensitivity of 73%, whereas
+16 of 22 control patients fell outside these ranges (specificity 73%, p
+<0.025; Fisher exact test).
+
+To study the robustness of our data and to determine the
+optimal observation period, we calculated the mean HRPS
+of 2, 3, 4, and 7 days and correlated the findings to the
+24-hour HRPS of 1 day in the 26 BA and 42 CO recordings. Overall, there was a highly significant correlation between the various observation periods (Table 4). This indicates the reliability of our data and provides evidence that
+the calculation of a 1-day HRPS was sufficient for the detection of bradyarrhythmias.
+
+Discussion
+showed a slope ->-1.2, resulting in a sensitivity of 55%,
+whereas only 4 of 22 control patients fell into this range
+(specificity 82%). Similar results were found for log P4 <4.9
+(6/11 BAvs 4/22 CO patients; sensitivity 55%, specificity
+82%). However, considering patients with a slope ~ - 1.2 or
+log P4 <4.9 at risk for bradyarrhythmias resulted in a considerable increase in sensitivity (73%), with only a slight
+decrease in specificity (73%; Fig. 3 and Table 3). Moreover,
+all BA patients without tachycardia (T-, Table 3) could be
+correctly identified with this combined measure. These
+numbers were similar when bradyarrhythmic events rather
+than patients were analyzed, or when all available HRPS (in
+total 556) of all 35 patients were taken into account (Table 3).
+
+The main findings of our study were that serious bradyarrhythmias occurred in one third of our patients with
+GBS, of whom 27% were still able to walk more than 5
+meters. Bradyarrhythmic events could not be predicted
+by the degree of disability, the necessity for mechanical
+ventilation, or the presence of tachycardia. However, the
+combined measure slope or log P4 of the 24-hour HRPS
+reliably identified individual patients at risk of serious
+bradyarrhythmias and was particularly useful in patients
+without tachycardia.
+
+Dysautonomia in GBS
+On routine clinical examination, autonomic dysfunction is
+present in approximately two thirds of patients with GBS
+
+Table 3. Sensitivity and specificity of the 24-hour heart rate power spectrum
+Matched pairs
+
+All measures
+
+Patients
+
+Sensitivity
+Specificity
+
+Events
+
+Events
+
+All*
+
+T-*
+
+AIIt
+
+T-$
+
+Allw
+
+T-w
+
+73%
+(8/11 )
+73%
+(16/22)
+
+100%
+(8/8)
+57%
+(4/7)
+
+77%
+(20/26)
+74%
+(31/42)
+
+94%
+(16/17)
+50%
+(8/16)
+
+77%
+(20/26)
+60%
+(316/530)
+
+94%
+(16/17)
+51%
+(104/202)
+
+Sensitivity and specificity for the detection of bradyarrhythmias of the combined outcome measure slope >--1.2 and/or log P4 <4.9 of the
+24-hour heart rate power spectrum.
+All = all patients or events; T - = subgroup of patients or events without tachycardia.
+*p <0.025 (Fisher exact test).
+IP <0.0001 (Fisher exact test).
+:I:P <0.01 (Fisher exact test).
+w <0.001 (X2 test).
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+189
+
+Flachenecker et al.
+
+[2,18-20], and even in 90% when standard autonomic
+function tests are applied [21]. In line with the results of the
+current study, sinus tachycardia is the most common
+though usually harmless abnormality [22,23]. Vagally mediated arrhythmias such as bradycardia and heart arrest are
+more ominous and may require atropine or cardiac pacemakers, as could be seen in our patients. The incidence of
+bradycardia differed between clinical studies and ranged
+from 7% to 34% [6,7,22-24]. The relatively high frequency
+of 31% in our patients compared with others [7,22] might
+be attributable to our definitions, which included abnormal
+sensitivity to eyeball pressure as a bradyarrhythmic event.
+However, this approach seems reasonable because the results
+of eyeball pressure testing were correlated to arrhythmic
+episodes requiring cardiac pacing or cardiopulmonaty resuscitation [11], thus indicating that this stimulus may be used
+reliably as an indicator for serious bradyarrhythmias. Although we cannot completely rule out that preexisting diseases and concomitant medication may account at least in
+part for some of the bradyarrhythmias, we believe this possibility unlikely for the following reasons: First, the only
+patient with preexisting bradyarrhythmia did not require
+treatment with parasympatholytics before falling ill with
+GBS, whereas he did so during the early course of the
+disease. Second, [3-blocking agents and calcium channel antagonists were taken during two bradyarrhythmic episodes,
+whereas two further events occurred in the same patient
+when not taking these drugs. Finally, IS-blocking therapy for
+cardiac arrhythmias was unchanged before, during, and after GBS, with a bradyarrhythmic event occurring only during the plateau phase. Thus, preexisting cardiac arrhythmias
+and autonomically active medication may predispose patients to develop serious bradyarrhythmias, but cannot
+solely account for these complications.
+None of our patients died, which is in line with the
+results of recent studies showing that there were no deaths
+clearly linked to autonomic dysfunction [25,26]. This may
+reflect the heightened awareness of this potentially lifethreatening complication and the early use of cardiac monitoring, as in our patients. However, 4 of the 10 deaths in the
+series of Winer et al. [27], and 7 of the 33 deaths in the
+Italian multicenter study [28] were related to cardiac arrest;
+five of the latter deaths occurred despite monitoring on the
+ICU [28]. This underscores the importance of dysautonomia as a major cause of death in the modern era and,
+therefore, identifying patients with GBS who are at risk is of
+utmost clinical importance for the initiation of preventive
+therapies.
+Serious bradyarrhythmias and clinical characteristics
+
+Serious bradyarrhythmias have been thought to occur only
+in severely disabled patients, mainly in those who needed
+artificial ventilation [8]. In the series of Winer and Hughes,
+only those patients requiring mechanical ventilation developed serious arrhythmias [7]. The incidence of bradycardia
+was 44% in quadriplegic or ventilated patients, compared
+with 2% to 7% in those who were less severely disabled [6].
+However, we [11] and others [8,10] have described patients
+190
+
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+who suffered from serious bradyarrhythmias before needing
+ventilation and during weaning from the ventilator. Some
+patients were only moderately affected by the disease. These
+observations are corroborated by the results of the current
+study, which show virtually no difference in the disability
+scores between patients with bradyarrhythmias and those
+without. Although the proportion of patients requiring
+mechanical ventilation was slightly higher in the bradyarrhythmic group, this difference fell far from statistical
+significance. Moreover, most of our patients experienced
+bradyarrhythmias while not ventilated, and one third suffered from this complication while still being able to walk
+more than 5 meters. The high incidence of arrhythmias in
+less severely disabled patients might be attributable to our
+close monitoring on the ICU, which more truly reflects the
+incidence of serious bradyarrhythmias in patients with GBS.
+Another factor thought to predict serious bradyarrhythmias is sustained sinus tachycardia, which was significantly
+more frequent in patients with than in those without arrhythmias [7]. In our study, the opposite was true: tachycardia occurred in only 36% of bradyarrhythmic patients,
+compared with 75% of those without cardiac arrhythmia.
+This is not surprising because sinus tachycardia usually results from loss of vagal efferent innervation, whereas serious
+bradyarrhythmias are caused by vagal overreactivity rather
+than impairment [5]. Thus, risk prediction of serious autonomic complications based solely on severe disability (ie,
+patients requiring mechanical ventilation) or sustained
+tachycardia may be misleading and potentially dangerous in
+the management of patients with GBS.
+24-Hour heart rate power spectrum
+
+The long-term heart rate variability over 10 to 24 hours has
+been examined in healthy volunteers, showing that the plot
+of power and frequency on a log-log graph could be described by a straight line with a slope close to -1; this
+indicates that the power decreased in proportion to the
+reciprocal of frequency [29,30]. Denervation of the heart
+results in tachycardia and causes a much steeper slope with
+a mean of approximately -2. This has been shown in cardiac
+transplant patients [15]. More interestingly, combining the
+slope of the power law regression line and the log (power) at
+10 -4 Hz (the so-called log P4) was found to predict death
+after myocardial infarction better than the traditional spectral bands obtained from 5-minute epochs, independent of
+routine clinical and laboratory variables [15]. This holds
+true even for a random population of elderly subjects [31].
+In a pilot study of 13 patients with G BS [13], we found that
+the slope of the regression line could identify both signs of
+autonomic neuropathy, tachycardia and vagal overreactivity
+(as indicated by abnormal sensitivity to eyeball pressure testing). Moreover, the slope of the power law regression line
+proved the best discriminator for vagal overreactivity [13].
+The results of the current study confirm and extend these
+findings: the slope was higher, ie, less negative, and the log
+P4 was lower in patients with bradyarrhythmias than in
+those matched for age, disability score, and disease stage,
+with a subsequent recovery during clinical remission
+
+Detection of serious bradyarrhythmias in GBS
+approaching the values of the control patients. Both parameters could be obtained easily from the 24-hour HRPS by
+doing simple regression analysis (slope) and extracting the
+log P4 directly from the log-log plot. To our knowledge,
+this is the first study providing cutoff values that allow for
+the identification of individual patients at risk. The combination of both parameters resulted in a sensitivity and specificity of 73%, which were similar when events rather than
+patients were considered. Specificity dropped slightly to
+60% when all available measurements were analyzed. A possible explanation might be that patients of the bradyarrhythmic group who did not show serious bradyarrhythmias at
+the time of measurement showed a positive test result in the
+HRPS, indicating subclinical vagal overactivity. This suggests that the analysis of all measurements might even underestimate the specificity of the 24-hour HRPS.
+The slopes of patients with tachycardia were lower, ie,
+more negative, than in those without elevated heart rates
+[13], and were shifted toward -2, resembling those of denervated hearts [15]. Patients with tachycardia and bradyarrhythmia should thus have intermediate values, resulting
+in less discriminative power of the 24-hour HRPS. This
+consideration was corroborated by analyzing only those patients who did not suffer from sustained tachycardia. It is
+particularly remarkable that all bradyarrhythmic patients
+and all but one of the bradyarrhythmic events could correctly be identified within this subgroup. Transferring our
+results into clinical practice, a slope <-1.2 and a log P4
+->4.9 in a given patient without tachycardia indicates that
+this patient would not develop serious bradyarrhythmias.
+Thus, the 24-hour HRPS is a powerful predictor of serious
+autonomic complications in patients with GBS, especially
+in those without concomitant tachycardia. It may help to
+identify patients at risk for potentially life-threatening arrhythmias. Implementation of this measure in routine data
+management systems would provide a continuous and noninvasive parameter for the decision regarding which patient
+could be safely discharged from the ICU and which patient
+should continue to be monitored more closely.
+
+Acknowledgment
+The authors thank Prof. Dr. K. V. Toyka for critical review
+of the manuscript and W. Hassel for technical assistance
+and help in data retrieval.
+
+References
+1. Hartung HP, PoNard JD, Harvey GK, Toyka KV. Immunopathogenesis and treatment of the Guillain-Barre syndrome: part I.
+Muscle Nerve 1995; 18:137-153.
+2. Hartung HP, van der Meche FG, Pollard JD. Guillain-Barre syndrome, CIDP and other chronic immune-mediated neuropathies.
+Curr Opin Neurol 1998; 11:497-513.
+3. Ropper AH. The Guillain-Barr~ syndrome. N Engl J Med 1992;
+326:1130-1136.
+4. Arnason BG, SoNven B. Acute inflammatory demyelinating poIyradiculoneuropathy. In: Peripheral neuropathy. Dyck PJ, Thomas
+PK, Griffin JW, Low PA, Poduslo JF, eds. Philadelphia: W.B.
+Saunders; 1993. pp. 1437-1497.
+
+5. Zochodne DW. Autonomic involvement in Guillain-Barre syndrome: a review. Muscle Nerve 1994; 17:1145-1155.
+6. Raphael JC, Masson C, Morice V, Brunel D, Gajdos P, Barois A,
+et al. Le syndrome de Landry-Guillain-Barre: ~tude des facteurs
+prognostiques dans 223 cas. Rev Neurol Paris 1986; 142:613624.
+7. Winer JB, Hughes RA. Identification of patients at risk of arrhythmia in the Guillain-Barr~ syndrome. Q J Med 1988; 68:735-739.
+8. Hughes RA, Bihari D. Acute neuromuscular respiratory paralysis.
+J Neurol Neurosurg Psychiatry 1993; 56:334-343.
+9. Minahan RE Jr, Bhardwaj A, Traill TA, Hanley DF. Stimulusevoked sinus arrest in severe Guillain-Barr6 syndrome: a case
+report. Neurology 1996; 47:1239-1242.
+10. Guidon C, Granthil C, Djiane P, Francois G. Dysautonomie en
+deux temps au cours d'un syndrome de Guillain-Barr& Ann Fr
+Anesth Reanim 1986; 5:447-449.
+11. Flachenecker P, M~liges W, Wermuth P, Hartung HP, Reiners K.
+Eyeball pressure testing in the evaluation of serious bradyarrhythmias in Guillain-Barre syndrome. Neurology 1996; 47:102-108.
+12. Hund EF, Schuchardt V, Ropper AH. Acute inflammatory polyneuropathy (Guillain-Barr~ syndrome). In: Neurocritical care. Hacke
+W, ed. Berlin: Springer-Verlag; 1994. pp. 774-787.
+13. Flachenecker P, Reiners K. Twenty-four-hour heart rate power
+spectrum for evaluation of autonomic dysfunction in Guillain-Barr6
+syndrome. J Neurol Sci 1999; 165:144-153.
+14. Asbury AK, Cornblath DR. Assessment of current diagnostic criteria for Guillain-Barre syndrome. Ann Neuro11990; 27:S21-S24.
+15. Bigger JT Jr., Steinman RC, Rolnftzky LM, Fleiss JL, Albrecht P,
+Cohen RJ. Power law behavior of RR-interval variability in healthy
+middle-aged persons, patients with recent acute myocardial infarction, and patients with heart transplants. Circulation 1996; 93:
+2142-2151.
+16. Meesmann M, Schmidt G. Technical advances in heart rate variability processing. Cardiac Electrophys Rev 1997; 1:338-342.
+17. Guillain-Barr6 Syndrome Steroid Trial Group. Double-blind trial of
+intravenous methylprednisolone in Guillain-Barre syndrome. Lancet 1993; 341:586-590.
+18. Ropper AH, Wijdicks EFM, Truax BT. Guillain-Barr# syndrome.
+Philadelphia: E.A. Davis; 1991.
+19. Truax BT. Autonomic disturbances in the Guillain-Barr# syndrome. Semin Neuro11984; 4:462-468.
+20. Singh NK, Jaiswal AK, Misra S, Srivastava PK. Assessment of
+autonomic dysfunction in GuiHain-Barr~ syndrome and its prognostic implications. Acta Neurol Scand 1987; 75:101-105.
+21. Flachenecker P, Wermuth P, Hartung HP, Reiners K. Quantitative
+assessment of cardiovascular autonomic function in GuillainBarre syndrome. Ann Neurol 1997; 42:171-179.
+22. de Jager AE, Sluiter HJ. Clinical signs in severe Guillain-Barre
+syndrome: analysis of 63 patients. J Neurol Sci 1991; 104:143150.
+23. Ropper AH. Intensive care of acute Guillain-Barr~ syndrome. Can
+J Neurol Sci 1994; 21 :$23-S27.
+24. French Cooperative Group on Plasma Exchange in Guillain-Barr6
+Syndrome. Efficiency of plasma exchange in Guillain-Barre syndrome: role of replacement fluids. Ann Neuro11987; 22:761.
+25. Rees JH, Thompson RD, Smeeton NC, Hughes RA. Epidemiological study of Guillain-Barr~ syndrome in south east England. J
+Neurol Neurosurg Psychiatry 1998; 64:74-77.
+26. Lawn ND, Wijdicks EFM. Fatal Guillain-Barr~ syndrome. Neurology 1999;52:635-638.
+27. Winer JB, Hughes RAC, Osmond C. A prospective study of acute
+idiopathic neuropathy. I. Clinical features and their prognostic
+value. J Neurol Neurosurg Psychiatry 1988;51:605-612.
+28. The Italian Guillain-Barr~ Syndrome Study Group. The prognosis
+and main prognostic indicators of Guillain-Barr~ syndrome: a multicentre prospective study of 297 patients. Brain 1996; 119:20532061.
+29. Kobayashi M, Musha T. 1/f fluctuation of heartbeat period. IEEE
+Trans Biomed Eng 1982; 29:456-457.
+30. Saul JP, Albrecht P, Berger RD, Cohen RJ. Analysis of long term
+heart rate variability: methods, 1/f scaling and implications. Comput Cardiol 1988; 14:419-422.
+31. Huikuri HV, Makikallio TH, Airaksinen KE, Seppanen T, Puukka P,
+Raiha IJ, etaL Power-law relationship of heart rate variability as a
+predictor of mortality in the elderly. Circulation 1998; 97:20312036.
+Clinical Autonomic Research 2000, Vol 10 No 4
+
+191
+
+

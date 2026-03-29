@@ -1,0 +1,1687 @@
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+original article
+
+Comparison of Two Fluid-Management
+Strategies in Acute Lung Injury
+The National Heart, Lung, and Blood Institute Acute Respiratory Distress
+Syndrome (ARDS) Clinical Trials Network*
+
+A bs t r ac t
+
+Background
+The members of the Writing Committee
+(Herbert P. Wiedemann, M.D., Cleveland
+Clinic, Cleveland; Arthur P. Wheeler, M.D.,
+and Gordon R. Bernard, M.D., Vanderbilt
+University, Nashville; B. Taylor Thompson, M.D., and Douglas Hayden, M.A.,
+Massachusetts General Hospital, Boston; Ben deBoisblanc, M.D., Louisiana
+State University Health Sciences Center,
+New Orleans; Alfred F. Connors, Jr., M.D.,
+Case Western Reserve University at MetroHealth Medical Center, Cleveland; R.
+Duncan Hite, M.D., Wake Forest University Health Sciences Center, WinstonSalem, N.C.; and Andrea L. Harabin, Ph.D.,
+National Institutes of Health, National
+Heart, Lung, and Blood Institute, Bethesda, Md.) assume responsibility for the
+integrity of the article. Address reprint
+requests to Dr. Wiedemann at the Department of Pulmonary, Allergy, and Critical
+Care Medicine, Cleveland Clinic, 9500 Euclid Ave., Desk A-90, Cleveland, OH 44195,
+or at wiedemh@ccf.org.
+*Participants in the ARDS Clinical Trials
+Network are listed in the Appendix.
+This article was published at www.nejm.
+org on May 21, 2006.
+N Engl J Med 2006;354:2564-75.
+
+Optimal fluid management in patients with acute lung injury is unknown. Diuresis
+or fluid restriction may improve lung function but could jeopardize extrapulmonaryorgan perfusion.
+Methods
+
+In a randomized study, we compared a conservative and a liberal strategy of fluid
+management using explicit protocols applied for seven days in 1000 patients with
+acute lung injury. The primary end point was death at 60 days. Secondary end points
+included the number of ventilator-free days and organ-failure–free days and measures of lung physiology.
+Results
+
+The rate of death at 60 days was 25.5 percent in the conservative-strategy group and
+28.4 percent in the liberal-strategy group (P = 0.30; 95 percent confidence interval
+for the difference, −2.6 to 8.4 percent). The mean (±SE) cumulative fluid balance
+during the first seven days was –136±491 ml in the conservative-strategy group and
+6992±502 ml in the liberal-strategy group (P<0.001). As compared with the liberal
+strategy, the conservative strategy improved the oxygenation index ([mean airway
+pressure × the ratio of the fraction of inspired oxygen to the partial pressure of arterial oxygen] × 100) and the lung injury score and increased the number of ventilatorfree days (14.6±0.5 vs. 12.1±0.5, P<0.001) and days not spent in the intensive care
+unit (13.4±0.4 vs. 11.2±0.4, P<0.001) during the first 28 days but did not increase
+the incidence or prevalence of shock during the study or the use of dialysis during
+the first 60 days (10 percent vs. 14 percent, P = 0.06).
+
+Copyright © 2006 Massachusetts Medical Society.
+
+Conclusions
+
+Although there was no significant difference in the primary outcome of 60-day
+mortality, the conservative strategy of fluid management improved lung function and
+shortened the duration of mechanical ventilation and intensive care without increasing nonpulmonary-organ failures. These results support the use of a conservative strategy of fluid management in patients with acute lung injury. (ClinicalTrials.
+gov number, NCT00281268.)
+
+2564
+
+n engl j med 354;24
+
+www.nejm.org
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+P
+
+ulmonary edema resulting from increased capillary permeability, a hallmark
+of acute lung injury, worsens as intravascular hydrostatic pressure rises and oncotic pressure
+falls.1,2 Although lung failure alone can be lethal,
+death in patients with acute lung injury is usually
+due to the failure of nonpulmonary organs.1,3
+The optimal fluid management of acute lung
+injury is not settled.4-7 The usual practice is wideranging, and many practitioners weigh the risks
+and benefits of strategies of conservative as compared with liberal fluid management. In the conservative approach, fluid intake is restricted and
+urinary output is increased in an attempt to
+decrease lung edema, shorten the duration of
+mechanical ventilation, and improve survival. A
+possible risk of this approach is a decrease in
+cardiac output and worsening of nonpulmonaryorgan function. The liberal fluid approach essentially reverses these potential priorities and risks.
+Current evidence is insufficient to support the
+use of either a liberal or conservative fluid strategy
+in patients with established acute lung injury.8-11
+We conducted a prospective, randomized clinical
+trial to investigate the risks and benefits of a
+fluid-management protocol with a lower (conservative use of fluids) or higher (liberal use of
+fluids) intravascular pressure (as defined by the
+pulmonary-artery occlusion pressure or central
+venous pressure) in patients with acute lung injury. Our primary outcome was death from any
+cause at 60 days.
+
+Me thods
+Study Design
+
+The complete protocol for this trial can be found
+in the Supplementary Appendix (available with
+the full text of this article at www.nejm.org). Patients were randomly assigned to a strategy involving either conservative or liberal use of fluids
+with concealed allocation in permuted blocks of
+eight with the use of an automated system. Participants were simultaneously randomly assigned
+to receive either a pulmonary-artery catheter or a
+central venous catheter in a two-by-two factorial
+design.12
+Inclusion Criteria
+
+Eligible patients were intubated and received positive-pressure ventilation, had a ratio of the partial
+
+n engl j med 354;24
+
+pressure of arterial oxygen (PaO2) to the fraction
+of inspired oxygen (FIO2) of less than 300 (adjusted if the altitude exceeded 1000 m), and had
+bilateral infiltrates on chest radiography consistent with the presence of pulmonary edema without evidence of left atrial hypertension.13 If a potential participant did not have a central venous
+catheter, the primary physician’s intent to insert
+one was required.
+Exclusion Criteria
+
+Reasons for exclusion are listed in the Supplementary Appendix. Major reasons for exclusion
+were the presence of a pulmonary-artery catheter
+after the onset of acute lung injury; the presence
+of acute lung injury for more than 48 hours; inability to obtain consent; the presence of chronic
+conditions that could independently influence survival, impair weaning, or compromise compliance
+with the protocol (e.g., severe lung or neuromuscular disease or dependence on dialysis); and irreversible conditions for which the estimated sixmonth mortality rate exceeded 50 percent, such
+as advanced cancer.
+Study Procedures
+
+Ventilation according to the Acute Respiratory
+Distress Syndrome (ARDS) Network protocol of
+lower tidal volumes was begun within one hour
+after randomization and continued until day 28;
+a protocol was used to wean patients from mechanical ventilation.14 The assigned catheter was
+inserted within four hours after randomization.
+Hemodynamic management was started within
+2 hours after catheter insertion and continued for
+seven days or until 12 hours after a patient was
+able to breathe without assistance.14 After day 3,
+a pulmonary-artery catheter could be replaced by
+a central venous catheter if hemodynamic stability (i.e., absence of the need for protocol-directed
+interventions on the basis of a measurement with
+a pulmonary-artery catheter for more than 24
+hours) was achieved. We monitored compliance
+with protocol instructions twice each day: once
+during a morning reference period and again at a
+randomly selected time. A 100 percent audit of all
+instructions conducted after the first 82 patients
+were enrolled showed rates of protocol compliance
+similar to those obtained during the random checks
+(data not shown).
+Study personnel underwent training in the con-
+
+www.nejm.org
+
+june 15, 2006
+
+2565
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+duct of the protocol (Fig. 1) and the measurement
+of vascular pressure. Vascular pressures were measured in supine patients at end expiration (identified with an airway pressure signal) but were not
+adjusted for airway pressure.15
+
+Measured intravascular pressure (mm Hg)
+PAOPG
+
+CVP
+
+Conservative
+strategy
+
+Liberal
+strategy
+
+Conservative
+strategy
+
+Liberal
+strategy
+
+>18
+
+>18
+
+15–18
+
+4 KVO IV
+DobutamineA
+
+13–18
+
+10–14
+
+2 Fluid bolusF 5 Fluid bolusC
+VasopressorF
+8–12
+
+<10
+
+9 Fluid bolusC
+
+17 Liberal
+KVO IV
+
+13 Fluid bolusC
+
+18 Conservative
+FurosemideB,1,3,4
+6 Fluid bolusC
+
+<8
+
+16 KVO IV
+FurosemideB,1,3,4
+
+14–18
+
+Range 4
+<4
+
+12 KVO IV
+8 KVO IV
+DobutamineA
+FurosemideB,1,2,4
+
+19–24
+
+Range 3
+4–8
+
+MAP ≥60 mm Hg without vasopressors
+MAP
+(except dopamine ≤5 μg/kg/min)
+<60 mm Hg
+Average urinary output <0.5 ml/kg/hr Average urinary output ≥0.5 ml/kg/hr
+or a need for
+any vasopressor
+(except dopamine
+Ineffective
+Effective
+Ineffective
+Effective
+≤5 μg/kg/min);
+Circulation
+Circulation
+Circulation
+Circulation
+consider corCardiac index
+Cardiac index
+Cardiac index
+Cardiac index
+rectable causes
+<2.5 liters/min/m2 ≥2.5 liters/min/m2 <2.5 liters/min/m2 ≥2.5 liters/min/m2
+of shock first
+or cold, mottled
+or absence of
+or cold, mottled
+or absence of
+skin with capillary- criteria for ineffec- skin with capillary- criteria for ineffecrefilling time >2 sec
+tive circulation refilling time >2 sec
+tive circulation
+
+>24
+
+Range 2
+9–13
+
+A National Heart, Lung, and Blood Institute protocol-review committee, a data and safety monitoring board, and the institutional review board
+of each participating hospital approved the study.
+
+1 VasopressorF 3 KVO IV
+7 KVO IV
+11 KVO IV
+15 KVO IV
+Fluid bolusF
+FurosemideB,1,2,4
+DobutamineA
+FurosemideB,1,3,4
+DobutamineA
+FurosemideB,1,2,4
+FurosemideB,1,3,4
+
+Range 1
+>13
+
+Subjects
+
+10 Fluid bolusC
+
+14 Fluid bolusC
+
+19 Liberal
+fluid bolus
+20 Conservative
+KVO IV
+
+<14
+
+Figure 1. Overview of the Protocol for Conservative and Liberal Fluid Management in the Group Assigned to a Pulmonary-Artery Catheter
+(PAC) and the Group Assigned to a Central Venous Catheter (CVC).
+At least every four hours, patients were assigned to 1 of 20 protocol cells (numbered in red in the top left-hand corner of each cell on
+the lower right-hand side of the figure) on the basis of four variables: central venous pressure (CVP) or pulmonary-artery occlusion pressure (PAOP), depending on catheter assignment; the presence or absence of shock (defined by the protocol as a mean systemic arterial
+pressure [MAP] below 60 mm Hg or the need for a vasopressor [except for a dose of dopamine of 5 μg per kilogram of body weight per
+minute or less]); the presence or absence of oliguria (defined by a urinary output of less than 0.5 ml per kilogram per hour); and the
+presence or absence of ineffective circulation (defined by a cardiac index of less than 2.5 liters per minute per square meter in the PAC
+group and by cold, mottled skin with a capillary-refilling time of more than 2 seconds in the CVC group). Each cell is associated with an
+intervention and a reassessment interval. A patient with effective circulation and normotension and without oliguria would be assigned
+to a cell in the far right-hand column (cells 15 to 20), depending on the intravascular pressure. These patients received furosemide or
+fluids to move their intravascular pressure toward the target range (in the liberal-strategy group, a CVP of 10 to 14 mm Hg and a PAOP
+of 14 to 18 mm Hg; in the conservative-strategy group, a CVP of less than 4 mm Hg and a PAOP of less than 8 mm Hg). For example, if
+such a patient had a CVP of 8 mm Hg, he or she would be assigned to cell 18 if assigned to the conservative strategy and to cell 19 if assigned to the liberal strategy. The protocol called for the conservative-strategy patient assigned to cell 18 to receive furosemide. (The
+footnote instructions determined the dose of furosemide on the basis of the prior response of this patient and for furosemide to be
+withheld if the patient had been in shock within the previous 12 hours.) In contrast, the liberal-strategy patient assigned to cell 19 would
+receive a fluid bolus. (The footnote instructions limited the daily fluid boluses and called for fluid to be withheld if the FIO2 was at least
+0.7.) Lactate, oxygen delivery, and mixed venous and superior-vena-cava oxygen saturation were not used as protocol variables. For fluid
+boluses, clinicians were free to select isotonic crystalloid, albumin, or blood products, although the protocol dictated the volume of
+each administered. If patients were in shock (cells 1 and 2), treatment was left to the judgment of the physician except that after blood
+pressure stabilized, weaning from the vasopressor was conducted according to the protocol. Of roughly 27,000 assessments, about 19
+percent resulted in the assignment of patients to cell 1 or 2 (shock), 75 percent to cells 15 through 20, 5 percent to cells 7 through 10,
+and 2 percent to other cells. KVO denotes keep vein open, and IV intravenous. The superscript letters and numbers refer to footnotes
+that may modify protocol instructions on the basis of an individual patient’s physiology or response to prior instructions and are important for the safe implementation of the protocol. The protocol is described in detail in the Supplementary Appendix.
+
+2566
+
+n engl j med 354;24
+
+www.nejm.org
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+Written informed consent was obtained from
+participants or legally authorized surrogates. The
+data and safety monitoring board conducted interim analyses after the enrollment of 82 patients
+and then after the enrollment of approximately
+every 200 patients. Sequential stopping rules for
+safety and efficacy used the method of O’Brien
+and Fleming.16
+
+by the Office of Human Research Protection and
+resumed unchanged on July 23, 2003, except for
+the introduction of a modified consent form.18-20
+Figure 2 shows the most common reasons for exclusion for the 10,511 patients who were screened
+but not enrolled and the follow-up for the 503 patients who were randomly assigned to conservative fluid management and the 498 who were assigned to liberal fluid management (all reasons for
+
+Organ Failure
+
+For 28 days, we monitored patients daily for cardiovascular, renal, and hepatic failure; coagulation abnormalities; and the need for assisted ventilation.14 The severity of lung injury was scored
+according to the method of Murray et al.17; the
+scores can range from 0 to 4, with a lower score
+indicating better lung function.
+
+11,512 Patients screened
+
+10,511 Excluded
+21% Had a pulmonaryartery catheter
+16% Had their physician
+refuse
+14% Had chronic lung
+disease
+11% Had high risk of death
+within 6 mo
+9% Required dialysis
+8% Exceeded time window
+8% Had chronic liver
+disease
+6% Had acute myocardial
+infarction
+6% Were unable to provide
+consent
+4% Declined to give
+consent
+4% Were not committed
+to full support
+3% Had neuromuscular
+disease
+
+Statistical Analysis
+
+The study had a statistical power of 90 percent to
+detect a reduction by 10 percentage points (from
+31 percent to 21 percent) in the primary end point,
+death before discharge home during the first 60
+days after randomization, with the planned enrollment of 1000 patients. We assumed patients
+who went home without the use of assisted ventilation before day 60 were alive at 60 days. Data
+on patients who were receiving mechanical ventilation or in a hospital were censored on the last
+day of follow-up. The Kaplan–Meier method was
+used to estimate the mean (±SE) 60-day mortality rate at the time of the last death that occurred
+before 60 days. Differences in mortality between
+the groups were assessed by a z test. The primary
+analysis was conducted according to the intention
+to treat. We assessed differences in continuous
+variables with analysis of variance, differences in
+categorical variables with a Mantel–Haenszel test,
+and differences between continuous variables over
+time with repeated-measures analysis of variance.
+For continuous variables, means ±SE are reported.
+Two-sided P values of 0.05 or less were considered to indicate statistical significance. We used
+SAS software (version 8.2, SAS Institute) for the
+analysis.
+
+1001 Underwent randomization
+
+503 Assigned to conservative
+fluid management
+
+498 Assigned to liberal fluid
+management
+
+0 Lost to follow-up
+
+1 Lost to follow-up (withdrew
+consent before study treatment
+was received) and excluded
+from analysis
+
+503 Analyzed
+
+497 Analyzed
+
+R e sult s
+Enrollment and Exclusions
+
+We screened patients at 20 North American centers between June 8, 2000, and October 3, 2005.
+The trial was halted on July 25, 2002, for a review
+
+n engl j med 354;24
+
+Figure 2. Enrollment and Outcomes.
+Patients may have had more than one reason for exclusion. The full exclusion criteria are listed in Table 1 of the Supplementary Appendix.
+
+www.nejm.org
+
+june 15, 2006
+
+2567
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+Table 1. Baseline Characteristics.*
+Conservative Strategy
+(N = 503)
+
+Liberal Strategy
+(N = 497)
+
+50.1±0.7
+
+49.5±0.7
+
+0.57
+
+52
+
+55
+
+0.48
+
+White
+
+65
+
+63
+
+Black
+
+20
+
+24
+
+Hispanic
+
+12
+
+10
+
+Asian
+
+2
+
+2
+
+Other
+
+1
+
+1
+
+Pneumonia
+
+46
+
+48
+
+Sepsis
+
+22
+
+25
+
+Aspiration
+
+16
+
+13
+
+Trauma
+
+8
+
+7
+
+Multiple transfusions
+
+1
+
+0
+
+Other
+
+8
+
+7
+
+Diabetes
+
+18
+
+18
+
+0.88
+
+HIV infection or AIDS
+
+7
+
+8
+
+0.68
+
+Cirrhosis
+
+3
+
+3
+
+0.89
+
+Solid tumors
+
+1
+
+3
+
+0.02
+
+Leukemia
+
+3
+
+1
+
+0.04
+
+Lymphoma
+
+2
+
+1
+
+0.42
+
+Immunosuppression
+
+9
+
+7
+
+0.27
+
+APACHE III score†
+
+93.1±1.4
+
+95.2±1.4
+
+0.28
+
+Medical ICU (%)
+
+66
+
+66
+
+0.95
+
+Mean arterial pressure (mm Hg)
+
+77.1±0.6
+
+77.2±0.6
+
+0.99
+
+CVP (mm Hg)
+
+11.9±0.3
+
+12.2±0.3
+
+0.56
+
+PAOP (mm Hg)
+
+15.6±0.4
+
+15.7±0.4
+
+0.82
+
+30
+
+29
+
+0.96
+
+Characteristic
+Age (yr)
+Male sex (%)
+Race or ethnic group (%)
+
+P Value
+
+0.66
+
+Primary lung injury (%)
+
+0.33
+
+Coexisting conditions (%)
+
+Hemodynamic variables
+
+PAOP >18 mm Hg (%)
+2)
+
+Cardiac index (liters/min/m
+
+4.2±0.1
+
+4.3±0.1
+
+0.46
+
+Mixed venous oxygen saturation (%)
+
+69±0.78
+
+69±0.87
+
+0.97
+
+Met shock criteria (%)‡
+
+33
+
+36
+
+0.21
+
+31
+
+35
+
+0.10
+
+2655±156
+
+2875±166
+
+0.34
+
+Vasopressor use (%)
+Prerandomization fluid balance (ml)
+
+exclusion are listed in Table 1 of the Supplemen- es, severity of illness, organ function, fluid balance
+tary Appendix).
+before the study began, vasopressor use, and presence of shock (Table 1).
+Baseline Characteristics
+
+The two groups were similar with respect to de- Protocol Conduct and Instructions
+mographic characteristics, type of intensive care The mean time from admission to the ICU to the
+unit (ICU), cause of lung injury, coexisting illness- first protocol instruction was 41.3±1.6 hours in
+
+2568
+
+n engl j med 354;24
+
+www.nejm.org
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+Table 1. (Continued.)
+Conservative Strategy
+(N = 503)
+
+Characteristic
+
+Liberal Strategy
+(N = 497)
+
+P Value
+
+Respiratory variables
+Tidal volume (ml/kg of PBW)
+
+7.4±0.1
+
+7.4±0.1
+
+0.93
+
+Plateau pressure (cm of water)
+
+26.2±0.4
+
+26.2±0.4
+
+0.99
+
+PaO2:FIO2
+
+157±3
+
+153±3
+
+0.45
+
+Oxygenation index§
+
+13.0±0.5
+
+13.0±0.47
+
+0.92
+
+PEEP
+
+9.4±0.2
+
+9.5±0.2
+
+0.63
+
+Lung injury score¶
+
+2.7±0.03
+
+2.7±0.03
+
+0.52
+
+pH
+
+7.36±0.00
+
+7.36±0.00
+
+0.46
+
+Blood urea nitrogen (mg/dl)
+
+23.2±0.8
+
+24.1±0.8
+
+0.44
+
+Creatinine (mg/dl)
+
+1.24±0.04
+
+1.29±0.04
+
+0.39
+
+Bicarbonate (mmol/liter)
+
+22.5±0.23
+
+22.0±0.23
+
+0.13
+
+Hemoglobin (g/dl)
+
+10.4±0.08
+
+10.4±0.09
+
+0.90
+
+Glucose (mg/dl)
+
+138±2.84
+
+142±3.65
+
+0.38
+
+Renal and metabolic variables∥
+
+* Plus–minus values are means ±SE. Race was assigned by the coordinators on the basis of hospital records or information from the next of kin. Because of rounding, percentages may not total 100. HIV denotes human immunodeficiency
+virus, AIDS acquired immunodeficiency syndrome, CVP central venous pressure, PAOP pulmonary-artery occlusion
+pressure, PBW predicted body weight, and PEEP positive end-expiratory pressure.
+† Scores for the Acute Physiology and Chronic Health Evaluation (APACHE III) can range from 0 to 299, with higher
+scores indicating a higher risk of death.
+‡ Shock was defined by a mean arterial pressure of less than 60 mm Hg or the need for a vasopressor (except for a dose
+of dopamine of 5 μg per kilogram per minute or less).
+§ The oxygenation index is calculated with the use of the following equation: (mean airway pressure × FIO2:PaO2) × 100.
+A lower number indicates better gas exchange.
+¶ Scores can range from 0 to 4, with higher scores indicating more severe lung injury.
+∥ To convert the values for blood urea nitrogen to millimoles per liter, multiply by 0.357. To convert the values for creatinine to micromoles per liter, multiply by 88.4. To convert the values for glucose to millimoles per liter, multiply by
+0.05551.
+
+the liberal-strategy group and 43.8±2.5 hours in
+the conservative-strategy group (P = 0.42). The rate
+of compliance with instructions was similar in
+the two groups (91 percent in the liberal-strategy
+group and 88 percent in the conservative-strategy
+group, P = 0.06), even though patients in the former group received more protocol instructions
+per day (5.1 vs. 4.1, P<0.001). Patients in the conservative-strategy group received furosemide more
+frequently than did patients in the liberal-strategy group (41 percent vs. 10 percent of instructions,
+P<0.001), whereas patients in the latter group more
+often received a fluid bolus (15 percent vs. 6 percent
+of instructions, P<0.001). More furosemide was
+given to the conservative-strategy group (Table 2).
+Dobutamine use was similar and uncommon in
+both groups (4 percent in the liberal-strategy group
+and 6 percent in the conservative-strategy group).
+At least one blood transfusion was given to 29
+
+n engl j med 354;24
+
+percent of patients in the conservative-strategy
+group and to 39 percent of patients in the liberalstrategy group (P<0.001). During the study, there
+was no significant difference in the use of drotrecogin alfa (19 percent in the conservative-strategy
+group vs. 21 percent in the liberal-strategy group,
+P = 0.70) or systemic corticosteroids (32 percent
+vs. 37 percent, P = 0.09).
+Fluid Balance
+
+Each study day the liberal-strategy group received
+more fluid than the conservative-strategy group
+and on days 1 through 4 had a lower urinary output, resulting in a higher cumulative fluid balance (Table 2). During the study, the seven-day
+cumulative fluid balance was –136±491 ml in the
+conservative-strategy group, as compared with
+6992±502 ml in the liberal-strategy group (P<0.001)
+(Fig. 1 of the Supplementary Appendix). For pa-
+
+www.nejm.org
+
+june 15, 2006
+
+2569
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+73.06±8.41 (119)
+
+58.20±6.68 (106)
+
+51.03±4.31 (87)
+
+4
+
+5
+
+6
+
+7
+
+* Plus−minus values are means ±SE. Numbers in parentheses indicate the number of patients receiving at least one dose of furosemide on that day or the number of patients with a fluid measurement. P<0.001 for all comparisons except for fluid intake on day 4 (P = 0.02) and day 7 (P = 0.004); fluid output on day 4 (P = 0.008), day 5 (P = 0.58), day 6 (P = 0.94), and
+day 7 (P = 0.61); and fluid balance on day 7 (P = 0.04). Negative fluid balance means that fluid output exceeded fluid intake.
+
+458.95±106.85 (385) 130.08±118.47 (346)
+3143.9±100.16 (346)
+3226.9±108.18 (355) 3216.8±98.36 (385)
+3639.7±93.96 (390)
+127.86±11.61 (137)
+
+508.04±111.75 (410) −144.9±110.25 (378)
+
+483.03±109.98 (421) −226.3±115.22 (408)
+
+3316.9±103.81 (379)
+3334.4±123.99 (411)
+3782.8±104.28 (411) 3159.4±88.12 (382)
+158.87±13.45 (165)
+
+3444.8±108.98 (408)
+3358.7±115.49 (421)
+3825.3±110.62 (424) 3201.1±87.23 (411)
+164.71±12.06 (197)
+
+563.88±100.98 (444) −165.5±119.92 (434)
+
+936.12±115.32 (465) −408.5±135.90 (464)
+65.28±6.49 (140)
+3
+
+3797.3±110.48 (465)
+
+3188.1±109.19 (444)
+3752.0±102.07 (444) 3430.8±96.49 (437)
+
+72.46±6.65 (146)
+
+3606.1±113.38 (434)
+
+3060.9±103.23 (465)
+3997.1±103.40 (465) 3390.4±85.30 (464)
+166.90±10.01 (269)
+
+80.74±10.23 (129) 154.25±10.61 (228)
+
+1642.9±151.71 (479) −376.1±161.08 (480)
+3966.7±115.57 (480)
+2824.5±101.44 (479)
+4467.4±136.11 (479) 3590.6±98.45 (480)
+157.35±8.91 (304)
+
+2529.5±148.99 (484) 1186.7±151.01 (491)
+3043.8±93.90 (491)
+5029.8±132.98 (485) 4230.5±120.03 (491) 2501.9±73.23 (485)
+148.94±8.52 (312)
+74.27±7.48 (133)
+1
+
+2
+
+Conservative
+
+ml/24 hr (no. of patients)
+
+Liberal
+Conservative
+
+ml/24 hr (no. of patients)
+
+Liberal
+Conservative
+Liberal
+Conservative
+Liberal
+
+ml/24 hr (no. of patients)
+
+Fluid Output
+Fluid Intake
+Furosemide
+Day
+
+Table 2. Furosemide Dose, Fluid Intake, Fluid Output, and Fluid Balance on Each Day during the Study.*
+
+2570
+
+mg/24 hr (no. of patients)
+
+Fluid Balance
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+n engl j med 354;24
+
+tients who were in shock at baseline, the cumulative seven-day fluid balance was 2904±1008 ml
+in the conservative-strategy group and 10,138±
+922 ml in the liberal-strategy group (P<0.001). For
+patients who were not in shock at baseline, the
+cumulative fluid balance was −1576±519 ml in the
+conservative-strategy group and 5287±576 ml
+in the liberal-strategy group (P<0.001).
+Hemodynamics
+
+Intravascular pressures declined in the conservative-strategy group but remained essentially unchanged in the liberal-strategy group (Fig. 2 in
+the Supplementary Appendix). The conservativestrategy group had a slightly lower mean arterial
+pressure, stroke volume, and cardiac index, but
+the heart rate, mixed venous oxygen saturation,
+and percentage of patients receiving vasopressors
+did not differ significantly between the two groups
+(Table 2A in the Supplementary Appendix). For patients in shock at randomization, approximately
+40 percent of subsequent measurements met the
+criteria for shock in both treatment groups. For
+patients who were not in shock at baseline, there
+were no significant differences between groups
+in the incidence of shock during study (32 percent in the liberal-strategy group and 28 percent
+in the conservative-strategy group, P = 0.29) or in
+the proportions of protocol reassessments classified as shock (6 percent and 7 percent, respectively; P = 0.78).
+Lung Function
+
+Ventilator settings and lung-function data are
+shown in Table 2B of the Supplementary Appendix. The conservative-strategy group had better
+lung injury scores and oxygenation indexes, as
+well as lower plateau pressures and positive endexpiratory pressures. The partial pressure of arterial carbon dioxide, arterial pH, and the PaO2:FIO2
+were slightly higher in the conservative-strategy
+group on all study days, but this difference did not
+reach significance for the PaO2:FIO2 (P = 0.07).
+Metabolic and Renal Function
+
+The conservative-strategy group had slightly higher creatinine values than the liberal-strategy group
+during the study, but this difference did not reach
+significance (P = 0.06) (Table 2C of the Supplementary Appendix). The conservative-strategy group
+had higher levels of blood urea nitrogen, bicarbonate, hemoglobin, albumin, and calculated colloid
+
+www.nejm.org
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+osmotic pressure during the study.21 There were
+no significant differences in mean serum sodium
+levels during the study.
+
+Table 3. Main Outcome Variables.*
+Outcome
+
+Safety
+
+Death at 60 days (%)
+
+Metabolic alkalosis and electrolyte imbalances were
+reported as an adverse event (none with associated arrhythmias) more frequently with the conservative strategy (42 events, 3 serious) than with
+the liberal strategy (19 events, 1 serious) (P = 0.001).
+More patients in the conservative-strategy group
+than in the liberal-strategy group had at least one
+potassium value of 3.0 mmol per liter or less (26
+percent vs. 22 percent, P<0.001), one sodium value
+of at least 150 mmol per liter (25 percent vs. 18
+percent, P = 0.009), or one bicarbonate value of
+more than 40 mmol per liter (6 percent vs. 2 percent, P<0.001). There was no significant difference in the percentage of patients with at least
+one potassium value of 2.5 mmol per liter or less
+(4 percent vs. 3 percent, P = 0.23).
+
+Ventilator-free days
+from day 1 to day 28†
+
+Major Outcomes
+
+Major outcomes are shown in Table 3 and Figure 3. There was no interaction between the interventions of the factorial design (type of fluid
+management and type of catheter, P = 0.26). Therefore, results are reported according to the fluidmanagement strategy, irrespective of catheter assignment. The in-hospital death rate during the
+first 60 days after randomization was 25.5±1.9
+percent in the conservative-strategy group and
+28.4±2.0 percent in the liberal-strategy group
+(P = 0.30; 95 percent confidence interval for the
+difference, −2.6 to 8.4 percent). The conservativestrategy group had more ventilator-free days, days
+free of central nervous system failure, and ICU-free
+days during the first 28 days. There were no significant differences in the number of failure-free
+days for other organs during the first 28 days,
+although there was a small (0.3 day) increase in
+the number of cardiovascular-failure–free days
+during the first 7 days with the liberal strategy.
+Within the first 60 days, there were no significant
+differences in either the percentage of patients
+receiving renal-replacement therapy (10 percent
+in the conservative-strategy group vs. 14 percent
+in the liberal-strategy group, P = 0.06) or the average number of days of renal support (11.0±1.7 vs.
+10.9±1.4, P = 0.96). There were no significant interactions between baseline shock status and treatment with respect to the mortality rate or the
+
+n engl j med 354;24
+
+Conservative
+Strategy
+
+Liberal
+Strategy
+
+25.5
+
+28.4
+
+0.30
+
+14.6±0.5
+
+12.1±0.5
+
+<0.001
+
+P Value
+
+ICU-free days†
+Days 1 to 7
+
+0.9±0.1
+
+0.6±0.1
+
+<0.001
+
+Days 1 to 28
+
+13.4±0.4
+
+11.2±0.4
+
+<0.001
+
+3.9±0.1
+
+4.2±0.1
+
+0.04
+
+Organ-failure–free days†‡
+Days 1 to 7
+Cardiovascular failure
+CNS failure
+
+3.4±0.2
+
+2.9±0.2
+
+0.02
+
+Renal failure
+
+5.5±0.1
+
+5.6±0.1
+
+0.45
+
+Hepatic failure
+
+5.7±0.1
+
+5.5±0.1
+
+0.12
+
+Coagulation abnormalities
+
+5.6±0.1
+
+5.4±0.1
+
+0.23
+
+Days 1 to 28
+Cardiovascular failure
+
+19.0±0.5
+
+19.1±0.4
+
+0.85
+
+CNS failure
+
+18.8±0.5
+
+17.2±0.5
+
+0.03
+
+Renal failure
+
+21.5±0.5
+
+21.2±0.5
+
+0.59
+
+Hepatic failure
+
+22.0±0.4
+
+21.2±0.5
+
+0.18
+
+Coagulation abnormalities
+
+22.0±0.4
+
+21.5±0.4
+
+0.37
+
+10
+
+14
+
+0.06
+
+11.0±1.7
+
+10.9±1.4
+
+0.96
+
+Dialysis to day 60
+Patients (%)
+Days
+
+* Plus–minus values are means ±SE. CNS denotes central nervous system.
+† This was an a priori secondary outcome.
+‡ For this analysis, cardiovascular failure was defined by a systolic blood pressure of 90 mm Hg or less or the need for a vasopressor (in contrast, shock
+was defined by a mean arterial pressure of less than 60 mm Hg or the need
+for a vasopressor [except a dose of dopamine of 5 μg per kilogram per minute
+or less]); a coagulation abnormality was defined by a platelet count of 80,000
+per cubic millimeter or less; hepatic failure was defined by a serum bilirubin
+level of at least 2 mg per deciliter (34 μmol per liter); and renal failure was defined by a serum creatinine level of at least 2 mg per deciliter (177 μmol per
+liter). We calculated the number of days without organ or system failure by
+subtracting the number of days with organ failure from the lesser of 28 days
+or the number of days to death. Organs and systems were considered failurefree after patients were discharged from the hospital.
+
+number of ventilator-free days or ICU-free days
+(Table 3 of the Supplementary Appendix).
+Black patients had a higher overall rate of
+death (37.3 percent of 118 black patients in the
+liberal-strategy group and 31.3 percent of 99 black
+patients in the conservative-strategy group) than
+white patients (22.7 percent of 313 white patients
+in the liberal-strategy group and 23.5 percent of
+328 white patients in the conservative-strategy
+group) (P = 0.002). Hispanic patients also had a
+higher mortality rate (38.5 percent of 52 Hispanic
+
+www.nejm.org
+
+june 15, 2006
+
+2571
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+1.0
+Alive, liberal strategy
+
+0.9
+
+Proportion of Patients
+
+0.8
+
+Alive, conservative strategy
+Breathing
+without
+assistance,
+conservative
+strategy
+
+0.7
+0.6
+0.5
+
+Breathing without assistance,
+liberal strategy
+
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Days
+
+Figure 3. Probability of Survival to Hospital Discharge and of Breathing
+without Assistance during the First 60 Days after Randomization.
+
+patients in the liberal-strategy group and 23.0
+percent of 61 Hispanic patients in the conservative-strategy group) than whites, but this difference did not reach significance (P = 0.10). After
+adjustment for baseline covariates, the hazard
+ratio for death among blacks as compared with
+whites was not significant (hazard ratio, 1.29; 95
+percent confidence interval, 0.97 to 1.73), whereas it was significant for Hispanics (hazard ratio,
+1.58; 95 percent confidence interval, 1.08 to 2.31).
+The interaction between treatment and race for
+whites as compared with nonwhites was not significant (P = 0.10), nor was it significant in any of
+the racial or ethnic subgroups. There was also no
+significant interaction between treatment and sex.
+
+Dis cus sion
+Although we did not detect a significant difference between the conservative strategy and the
+liberal strategy of fluid management in the primary outcome of 60-day mortality, the conservative
+strategy improved lung function and shortened
+the duration of mechanical ventilation and intensive care without increasing nonpulmonary-organ
+failures. The overall difference in mortality according to race or ethnic group has previously been
+described in patients with acute lung injury22 and
+could be due to several factors, including socioeconomic disparities or genetic determinants.23
+The two strategies were designed to be prudent
+but distinctly different approaches to fluid ther2572
+
+n engl j med 354;24
+
+apy. To place the results of our study in context,
+it is useful to consider how these fluid strategies
+compare with usual practice. In this regard, it is
+of interest that the cumulative seven-day fluid balance in the liberal-strategy group (6992±502 ml)
+was similar to that among patients in ARDS Network studies in which the approach to fluid management was not specified14,24 (Fig. 1 of the Supplementary Appendix). These findings are similar
+to those reported by Simmons et al.8 in 1987, suggesting that the liberal approach to fluid management reflects long-standing practices. The usual
+practice resembles the liberal approach in another
+aspect: the prestudy baseline measurements for
+central venous pressure (12.2 mm Hg) and pulmonary-artery–occlusion pressure (15.7 mm Hg) were
+both within the target ranges for the liberal fluid
+strategy (10 to 14 mm Hg and 14 to 18 mm Hg,
+respectively).
+Comparisons of our study to other studies of
+goal-directed management in critically ill patients
+are problematic because of differences in protocols, patient populations, and timing of the interventions. Whereas we targeted central venous
+pressure or pulmonary-artery occlusion pressure
+in patients with recent onset of acute lung injury,
+previous studies targeted the cardiac index, oxygen delivery, or mixed venous oxygen saturation
+in heterogeneous populations of critically ill patients.25-31 Rivers et al.32 demonstrated in patients
+with severe sepsis or septic shock the efficacy of
+six hours of early, goal-directed resuscitation in the
+emergency department before admission to the
+ICU. In contrast, our patients received their first
+protocol intervention an average of 43 hours after
+admission to the ICU and 24 hours after meeting
+the criteria for acute lung injury.
+The conservative-strategy group had higher serum oncotic pressures and lower intravascular
+pressures — characteristics that would be expected
+to limit the development of pulmonary edema.
+With lung injury, small increases in the pulmonary-artery occlusion pressure are associated with
+large increases in extravascular lung water.2 The
+higher albumin and hemoglobin levels in the conservative-strategy group appear to be primarily
+related to hemoconcentration (or less hemodilution), since the rate of albumin use was low and
+not significantly different between groups and redcell transfusions were more frequent in the liberalstrategy group.
+Our results are consistent with those obtained
+in studies in animals suggesting improved lung
+
+www.nejm.org
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+function with diuretics and fluid restriction33-37
+and with the results of observational studies in
+humans indicating increased survival with a lower
+fluid balance and a reduction in the pulmonaryartery occlusion pressure.6,8,9 Mitchell and colleagues10 randomly assigned 89 patients with
+pulmonary edema to receive diuretics and fluid
+restriction based on extravascular lung water or
+routine fluid management; the group with fluid
+restriction had a lower fluid balance, fewer days
+of ventilator use, and fewer days in the ICU. Martin and coworkers11 randomly assigned 37 patients
+with hypoproteinemia and acute lung injury to
+receive either a five-day specified regimen of furosemide and colloid replacement or placebo infusions. The treated group had an increase in the
+PaO2:FiO2 within 24 hours. We do not know whether using lung-water measurements to drive protocol instructions or increasing the use of colloid
+would have increased the benefits of the conservative strategy in our study.
+The hemodynamic consequences of the conservative strategy were small and apparently of
+minimal clinical significance. Although the mean
+arterial pressure, stroke volume, and cardiac index were slightly lower in the conservative-strategy group than in the liberal-strategy group, there
+were no significant differences in mixed venous
+oxygenation or in the incidence or duration of
+shock. Although the conservative strategy was
+associated with a slightly higher blood urea nitrogen level, the creatinine level, the number of
+days without renal failure, and the need for dialysis were similar in the two groups. Possible reasons
+for the greater number of days without central
+nervous system failure in the conservative-strategy group include a reduced incidence of cerebral
+edema, differences in acid–base status, or a lower
+rate of use of sedation as improved lung function
+permitted earlier removal from the ventilator. The
+available data are not sufficient to distinguish
+among these or other potential explanations.
+The protocols were designed to minimize risks.
+During shock, physicians treated patients according to their usual practice. Because of concern
+that a conservative approach might worsen cardiovascular or renal function, diuretic administration was suspended until 12 hours after a fluid
+bolus or the reversal of shock, and prompt fluid
+administration was provided in the event of oliguria or ineffective circulation. Diuretic therapy
+was titrated on the basis of the patient’s response,
+
+n engl j med 354;24
+
+avoided in patients with worsening renal function, and limited to a daily maximum. To minimize the risk of excessive fluid therapy, protocol-mandated fluid administration in patients
+without shock was limited to three boluses per
+day and was withheld in patients without shock
+who had severe hypoxemia (FIO2 ≥0.7) or a cardiac index of at least 4.5 liters per minute per
+square meter of body-surface area.
+Electrolyte levels were managed by the clinician. The conservative-strategy group had a higher partial pressure of arterial carbon dioxide,
+arterial pH, and bicarbonate level than did the
+liberal-strategy group. Although mean differences
+between the groups in the serum sodium, potassium, and bicarbonate levels were small, a higher
+percentage of patients in the conservative-strategy group had at least one potassium value between 2.5 and 3.0 mmol per liter, at least one
+sodium value of 150 mmol per liter or more, and
+at least one bicarbonate value of 40 mmol per
+liter or more. Hence, close monitoring of electrolyte levels is warranted during diuretic therapy.
+Since we tested specific management strategies that used several variables and safeguards,
+we do not know whether the safety and benefit
+of the conservative protocol could be realized by
+using the simplified target of a zero fluid balance. Departures from the specific hemodynamic
+and ventilator protocols used in this trial may
+lead to clinical outcomes that differ from those
+observed in this study.
+In conclusion, we found that use of a conservative fluid-management protocol with a lower
+central venous pressure or pulmonary-artery occlusion pressure target resulted in a major reduction in net fluid balance without an increase in
+adverse events, as compared with a liberal fluidmanagement protocol targeting higher intravascular filling pressures. Although we did not detect a difference in the mortality rate between the
+two approaches, the conservative strategy improved lung function and shortened the duration
+of mechanical ventilation and intensive care,
+without increasing nonpulmonary organ failures.
+These results support the use of a conservative
+strategy of fluid management in patients with
+acute lung injury.
+Supported by contracts (NO1-HR-46046-64 and NO1-HR16146-54) with the National Heart, Lung, and Blood Institute,
+National Institutes of Health.
+No potential conflict of interest relevant to this article was
+reported.
+
+www.nejm.org
+
+june 15, 2006
+
+2573
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+appendix
+The following persons and institutions participated in the trial: Writing Committee ― H.P. Wiedemann, A.P. Wheeler, G.R. Bernard,
+B.T. Thompson, B. deBoisblanc, A.F. Connors, R.D. Hite, D. Hayden, A.L. Harabin; Steering Committee Chair ― G.R. Bernard; Clinical Coordinating Center ― D.A. Schoenfeld, B.T. Thompson, N. Ringwood, C. Oldmixon, F. Molay, A. Korpak, R. Morse, D. Hayden,
+M. Ancukiewicz, A. Minihan; Protocol-Review Committee ― J.G.N. Garcia, R. Balk, S. Emerson, M. Shasby, W. Sibbald; Data Safety
+and Monitoring Board ― R. Spragg, G. Corbie-Smith, J. Kelley, K. Leeper, A.S. Slutsky, B. Turnbull, C. Vreim; National Heart, Lung,
+and Blood Institute ― A.L. Harabin, D. Gail, P. Lew, M. Waclawiw; ARDS Clinical Trials Network Consultant ― P. Parsons; Clinical
+Centers ― University of Washington, Harborview ― L. Hudson, K. Steinberg, M. Neff, R. Maier, K. Sims, C. Cooper, T. Berry-Bell, G.
+Carter, L. Andersson; University of Michigan ― G.B. Toews, R.H. Bartlett, C. Watts, R. Hyzy, D. Arnoldi, R. Dechert, M. Purple; University of Maryland ― H. Silverman, C. Shanholtz, A. Moore, L. Heinrich, W. Corral; Johns Hopkins University ― R. Brower, D. Thompson,
+H. Fessler, S. Murray, A. Sculley; Cleveland Clinic Foundation ― H.P. Wiedemann, A.C. Arroliga, J. Komara, T. Isabella, M. Ferrari; University Hospitals of Cleveland ― J. Kern, R. Hejal, D. Haney; MetroHealth Medical Center ― A.F. Connors; University of Colorado Health Sciences Center
+― E. Abraham, R. McIntyre, F. Piedalue; Denver Veterans Affairs Medical Center ― C. Welsh; Denver Health Medical Center ― I. Douglas, R.
+Wolkin; St. Anthony Hospital— T. Bost, B. Sagel, A. Hawkes; Duke University ― N. MacIntyre, J. Govert, W. Fulkerson, L. Mallatrat, L.
+Brown, S. Everett, E. VanDyne, N. Knudsen, M. Gentile; University of North Carolina ― P. Rock, S. Carson, C. Schuler, L. Baker, V. Salo;
+Vanderbilt University ― A.P. Wheeler, G. Bernard, T. Rice, B. Christman, S. Bozeman, T. Welch; University of Pennsylvania ― P. Lanken, J.
+Christie, B. Fuchs, B Finkel, S. Kaplan, V. Gracias, C.W. Hanson, P. Reilly, M.B. Shapiro, R. Burke, E. O’Connor, D. Wolfe; Jefferson
+Medical College ― J. Gottlieb, P. Park, D.M. Dillon, A. Girod, J. Furlong; LDS Hospital ― A. Morris, C. Grissom, L. Weaver, J. Orme, T.
+Clemmer, R. Davis, J. Gleed, S. Pies, T. Graydon, S. Anderson, K. Bennion, P. Skinner; McKay-Dee Hospital ― C. Lawton, J. d’Hulst, D.
+Hanselman; Utah Valley Regional Medical Center ― K. Sundar, T. Hill, K. Ludwig, D. Nielson; University of California, San Francisco ― M.A.
+Matthay, M. Eisner, B. Daniel, O. Garcia; San Francisco General ― J. Luce, R. Kallet; University of California, San Francisco, Fresno ― M. Peterson, J. Lanford; Baylor College of Medicine ― K. Guntupalli, V. Bandi, C. Pope; Baystate Medical Center ― J. Steingrub, M. Tidswell, L.
+Kozikowski; Louisiana State University Health Sciences Center ― B. deBoisblanc, J. Hunt, C. Glynn, P. Lauto, G. Meyaski, C. Romaine; Louisiana State University Earl K. Long Center ― S. Brierre, C. LeBlanc, K. Reed; Alton-Ochsner Clinic Foundation ― D. Taylor, C. Thompson; Tulane
+University Medical Center ― F. Simeone, M. Johnston, M. Wright; University of Chicago ― G. Schmidt, J. Hall, S. Hemmann, B. Gehlbach,
+A. Vinayak, W. Schweickert; Northwestern University ― J. Dematte D’Amico, H. Donnelly; University of Texas Health Sciences Center ― A. Anzueto, J. McCarthy, S. Kucera, J. Peters, T. Houlihan, R. Steward, D. Vines; University of Virginia ― J. Truwit, A.F. Connors, M. Marshall,
+W. Matsumura, R. Brett; University of Pittsburgh ― M. Donahoe, P. Linden, J. Puyana, L. Lucht, A. Verno; Wake Forest University ― R.D.
+Hite, P. Morris, A. Howard, A. Nesser, S. Perez; Moses Cone Memorial Hospital ― P. Wright, C. Carter-Cole, J. McLean; St. Paul’s Hospital,
+Vancouver ― J. Russell, L. Lazowski, K. Foley; Vancouver General Hospital ― D. Chittock, L. Grandolfo; Mayo Foundation ― M. Murray.
+References
+1. Ware LB, Matthay MA. The acute re-
+
+spiratory distress syndrome. N Engl J Med
+2000;342:1334-49.
+2. Sibbald WJ, Short AK, Warshawski FJ,
+Cunninghan DG, Cheung H. Thermal dye
+measurements of extravascular lung water in critically ill patients: intravascular
+Starling forces and extravascular lung water in the adult respiratory distress syndrome. Chest 1985;87:585-92.
+3. Montgomery AB, Stager MA, Carrico
+CJ, Hudson LD. Causes of mortality in patients with the adult respiratory distress
+syndrome. Am Rev Respir Dis 1985;132:
+485-9.
+4. Hudson LD. Fluid management strategy in acute lung injury. Am Rev Respir Dis
+1992;145:988-9. [Errata, Am Rev Respir
+Dis 1992;146:540, 808.]
+5. Hyers TM. ARDS: the therapeutic dilemma. Chest 1990;97:1025.
+6. Schuller D, Mitchell JP, Caladrino FS,
+Schuster DP. Fluid balance during pulmonary edema: is fluid gain a marker or a
+cause of poor outcome? Chest 1991;100:
+1068-75.
+7. Schuster DP. The case for and against
+fluid restriction and occlusion pressure
+reduction in adult respiratory distress syndrome. New Horiz 1993;1:478-88.
+8. Simmons RS, Berndine GG, Seidenfeld JJ, et al. Fluid balance and the adult
+respiratory distress syndrome. Am Rev
+Respir Dis 1987;135:924-9.
+9. Humphrey H, Hall J, Sznajder I, Silverstein M, Wood L. Improved survival in
+
+2574
+
+ARDS patients associated with a reduction
+in pulmonary capillary wedge pressure.
+Chest 1990;97:1176-80.
+10. Mitchell JP, Schuller D, Calandrino FS,
+Schuster DP. Improved outcome based on
+fluid management in critically ill patients
+requiring pulmonary artery catheterization. Am Rev Respir Dis 1992;145:990-8.
+11. Martin GS, Mangialardi RJ, Wheeler
+AP, Dupont WD, Morris JA, Bernard GR.
+Albumin and furosemide therapy in hypoproteinemic patients with acute lung
+injury. Crit Care Med 2002;30:2175-82.
+12. The National Heart, Lung, and Blood
+Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network.
+Pulmonary-artery versus central venous
+catheter to guide treatment of acute lung
+injury. N Engl J Med 2006;354:2213-24.
+13. Bernard GR, Artigas A, Brigham KL,
+et al. The American-European Consensus
+Conference on ARDS: definitions, mechanisms, relevant outcomes, and clinical trial
+coordination. Am J Respir Crit Care Med
+1994;149:818-24.
+14. The Acute Respiratory Distress Syndrome Network. Ventilation with lower
+tidal volumes as compared with traditional tidal volumes for acute lung injury and
+the acute respiratory distress syndrome.
+N Engl J Med 2000;342:1301-8.
+15. Rizvi K, Deboisblanc BP, Truwit JD,
+et al. Effect of airway pressure display on
+interobserver agreement in the assessment of vascular pressures in patients
+with acute lung injury and acute respira-
+
+n engl j med 354;24
+
+www.nejm.org
+
+tory distress syndrome. Crit Care Med
+2005;33:98-103.
+16. O’Brien PC, Fleming TR. A multiple
+testing procedure for clinical trials. Biometrics 1979;35:549-56.
+17. Murray JF, Matthay MA, Luce JM, Flick
+MR. An expanded definition of the adult
+respiratory distress syndrome. Am Rev
+Respir Dis 1988;138:720-3. [Erratum, Am
+Rev Respir Dis 1989;139:1065.]
+18. Drazen JM. Controlling research trials. N Engl J Med 2003;348:1377-80.
+19. Steinbrook R. How best to ventilate?
+Trial design and patient safety in studies
+of the acute respiratory distress syndrome.
+N Engl J Med 2003;348:1393-401.
+20. Steinbrook R. Trial design and patient
+safety — the debate continues. N Engl J
+Med 2003;349:629-30.
+21. Landis EM, Pappenheimer JR. Exchange of substances through capillary
+walls. In: Hamilton WF, ed. Handbook of
+physiology. Washington, D.C.: American
+Physiologic Society, 1963:961-1034.
+22. Moss M, Mannino DM. Race and
+gender differences in acute respiratory
+distress syndrome deaths in the United
+States: an analysis of multiple-cause mortality data (1979-1996). Crit Care Med
+2002;30:1679-85.
+23. Barnes KC. Genetic determinants and
+ethnic disparities in sepsis-associated
+acute lung injury. Proc Am Thorac Soc
+2005;2:195-201.
+24. Brower RG, Lanken PN, MacIntyre N,
+et al. High versus lower positive end-expi-
+
+june 15, 2006
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+two fluid-management str ategies in acute lung injury
+
+ratory pressures in patients with the acute
+respiratory distress syndrome. N Engl J
+Med 2004;351:327-36.
+25. Shoemaker WC, Appel PL, Kram HB,
+Waxman K, Lee TS. Prospective trial of
+supranormal values of survivors as therapeutic goals in high-risk surgical patients.
+Chest 1988;94:1176-86.
+26. Martin C, Saux P, Eon B, Aknin P,
+Gouin F. Septic shock: a goal-directed
+therapy using volume loading, dobutamine
+and/or norepinephrine. Acta Anesthesiol
+Scand 1990;34:413-7.
+27. Fleming A, Bishop M, Shoemaker W,
+et al. Prospective trial of supranormal values as goals of resuscitation in severe
+trauma. Arch Surg 1992;127:1175-9.
+28. Tuchschmidt J, Fried J, Astiz M, Rackow E. Elevation of cardiac output and oxygen delivery improves outcome in septic
+shock. Chest 1992;102:216-20.
+29. Yu M, Levy MM, Smith P, Takiguchi
+
+SA, Miyasaki A, Myers SA. Effect of maximizing oxygen delivery on morbidity and
+mortality rates in critically ill patients:
+a prospective, randomized, controlled
+study. Crit Care Med 1993;21:830-8.
+30. Hayes MA, Timmins AC, Yau EH,
+Palazzo M, Hinds CJ, Watson D. Elevation
+of systemic oxygen delivery in the treatment of critically ill patients. N Engl J Med
+1994;330:1717-22.
+31. Gattinoni L, Brazzi L, Pelosi P, et al.
+A trial of goal-oriented hemodynamic
+therapy in critically ill patients. N Engl J
+Med 1995;333:1025-32.
+32. Rivers E, Nguyen B, Havstad S, et al.
+Early goal-directed therapy in the treatment of severe sepsis and septic shock.
+N Engl J Med 2001;345:1368-77.
+33. Ali J, Chernicki W, Wood LD. Effect of
+furosemide in canine low-pressure pulmonary edema. J Clin Invest 1979;64:1494504.
+
+34. Prewitt RM, McCarthy J, Wood LD.
+
+Treatment of acute low-pressure pulmonary edema in dogs: relative effects of
+hydrostatic and oncotic pressure, nitroprusside, and positive end-expiratory pressure. J Clin Invest 1981;67:409-18.
+35. Long R, Breen PH, Mayers I, Wood LD.
+Treatment of canine aspiration pneumonitis: fluid volume reduction vs. fluid volume
+expansion. J Appl Physiol 1988;65:1736-44.
+36. Molloy WD, Lee KY, Girling L, Prewitt
+RM. Treatment of canine permeability
+pulmonary edema: short-term effects of
+dobutamine, furosemide, and hydralazine.
+Circulation 1985;72:1365-71.
+37. Reising CA, Chendrasekhar A, Wall
+PL, Paradise NF, Timberlake GA, Moorman DW. Continuous dose furosemide as
+a therapeutic approach to acute respiratory
+distress syndrome (ARDS). J Surg Res
+1999;82:56-60.
+Copyright © 2006 Massachusetts Medical Society.
+
+CLINICAL TRIAL REGISTRATION
+
+The Journal encourages investigators to register their clinical trials
+in a public trials registry. The members of the International Committee
+of Medical Journal Editors plan to consider clinical trials for publication
+only if they have been registered (see N Engl J Med 2004;351:1250-1).
+The National Library of Medicine’s www.clinicaltrials.gov is a free registry,
+open to all investigators, that meets the committee’s requirements.
+
+n engl j med 354;24
+
+www.nejm.org
+
+june 15, 2006
+
+2575
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+Downloaded from nejm.org at Gothenburg University Library on March 29, 2026.
+Copyright © 2006 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+

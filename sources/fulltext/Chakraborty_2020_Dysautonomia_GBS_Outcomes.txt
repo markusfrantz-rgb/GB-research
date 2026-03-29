@@ -1,0 +1,1311 @@
+Neurocrit Care (2020) 32:113–120
+https://doi.org/10.1007/s12028-019-00781-w
+
+ORIGINAL WORK
+
+Dysautonomia in Guillain–Barré Syndrome:
+Prevalence, Clinical Spectrum, and Outcomes
+Tia Chakraborty1* , Christopher L. Kramer2, Eelco F. M. Wijdicks1 and Alejandro A. Rabinstein1
+© 2019 Springer Science+Business Media, LLC, part of Springer Nature and Neurocritical Care Society
+
+Abstract
+Background: Guillain–Barré syndrome (GBS), when severe, involves the autonomic nervous system; our objective
+was to assess the spectrum and predictors of dysautonomia, and how it may impact functional outcomes.
+Methods: A retrospective review of patients admitted to the Mayo Clinic in Rochester, MN between January 1, 2000,
+and December 31, 2017, with GBS and dysautonomia was performed. Demographics, comorbidities, parameters
+of dysautonomia, clinical course, GBS disability score, and Erasmus GBS Outcome Score (EGOS) at discharge were
+recorded.
+Results: One hundred eighty seven patients were included with 71 (38%) noted to have at least one manifestation of
+dysautonomia. There are 72% of patients with a demyelinating form of GBS and 36% of patients with demyelination
+had dysautonomia. Ileus (42%), hypertension (39%), hypotension (37%), fever (29%), tachycardia or bradycardia (27%),
+and urinary retention (24%) were the most common features. Quadriparesis, bulbar and neck flexor weakness, and
+mechanical ventilation were associated with autonomic dysfunction. Patients with dysautonomia more commonly
+had cardiogenic complications, syndrome of inappropriate antidiuretic hormone, posterior reversible encephalopathy
+syndrome, and higher GBS disability score and EGOS. Mortality was 6% in patients with dysautonomia versus 2% in
+the entire cohort (P = 0.02).
+Conclusions: Dysautonomia in GBS is a manifestation of more severe involvement of the peripheral nervous system.
+Accordingly, mortality and functional outcomes are worse. There is a need to investigate if more aggressive treatment
+is warranted in this category of GBS.
+Keywords: Dysautonomia, Guillain–Barré syndrome, Acute inflammatory demyelinating polyradiculoneuropathy,
+Autonomic dysfunction
+Introduction
+The most critical features of Guillain–Barré syndrome
+(GBS) are involvement of the respiratory and oropharyngeal musculature, and autonomic nervous system. Signs
+of dysautonomia include extreme blood pressure fluctuations, cardiac arrhythmias, ileus, and urinary retention
+and usually resolve in the plateau phase of GBS preceding motor improvement [1]. The mechanism is thought
+
+*Correspondence: Chakraborty.Tia@mayo.edu
+1
+Mayo Clinic Department of Neurology, Mayo Clinic, 200 First Street SW,
+Rochester, MN 55905, USA
+Full list of author information is available at the end of the article
+
+to be an imbalance in sympatho-vagal transmission
+shifted toward sympathetic predominance [2] mediated
+by afferent fibers from arterial baroreceptors, efferent
+parasympathetic fibers that innervate the heart, and in
+preganglionic sympathetic fibers that control sudomotor and vasomotor functions [3, 4]. It is also hypothesized
+that afferent conduction block may induce a catecholamine surge that can lead to inappropriate secretion of
+antidiuretic hormone (SIADH) and renin, as well as posterior reversible encephalopathy syndrome (PRES) [5–7].
+One of the earlier observations by Lichtenfeld in
+1971 attributed fatality in GBS to dysautonomia;
+four of 28 patients died “during or immediately after
+
+114
+
+episodes of severe autonomic dysfunction” as a result
+of “cardiac arrest following several hours of rapidly fluctuating autonomic status” or were “found
+dead after extremely high blood pressure recordings
+although paralysis was not severe.” Dysautonomia in
+GBS was subsequently described in up to two-thirds of
+patients in older series [8–11], but it is unclear what
+its frequency is in current practice. The objective of
+this study was to assess the contemporary prevalence
+of dysautonomia in patients with GBS, and the spectrum and relative frequency of different manifestations
+of autonomic dysfunction. We also investigated what
+GBS factors are associated with dysautonomia and
+how this impacts functional outcomes.
+
+Methods
+Patient Population and Study Design
+
+The electronic medical record was searched for
+patients admitted to the Mayo Clinic in Rochester, MN
+between January 1, 2000, and December 31, 2017, with
+a billable diagnosis of GBS. Demographics, comorbidities, features of GBS including nerve conduction studies, clinical course, hospital complications,
+and functional outcomes were recorded. Pertinent
+comorbidities assessed in the medical history were
+those that can cause neuropathic symptoms including diabetes mellitus, chronic neuropathy, alcoholism,
+and “other,” encompassing a history of malignancy,
+chemotherapy or immunotherapy, multiple sclerosis, or metabolic disorder other than diabetes such as
+hyperaldosteronism.
+Patients with subsequent chronic inflammatory polyradiculoneuropathy (CIDP) were included in the study.
+Specific information regarding antibody status (i.e.,
+anti-GQ1b or anti-nicotinic antibodies) was not readily
+available mainly due to lack of consistent testing and/or
+reporting of results in paper charts versus the electronic
+medical record. Patients were excluded if they did not
+have a definite diagnosis of GBS, did not have adequate
+data with respect to parameters of dysautonomia such
+as hemodynamics, or had an incomplete neurologic
+examination. Records were additionally assessed for
+the presence or absence of autonomic dysfunction. The
+diagnosis of dysautonomia was made either based off of
+billing diagnoses as documented, or by individual chart
+assessment of vitals and refractory severe hypertension, wide fluctuations in blood pressure, ileus, urinary
+retention, sudomotor or pupillary dysfunction, or fever
+or hypothermia not attributed to other causes such as
+infection [1, 2]. Patients with one or more of these signs
+were deemed as having dysautonomia.
+
+Nerve Conduction Studies
+
+GBS type was differentiated as axonal, demyelinating, both axonal and demyelinating, or “other” such as
+Miller–Fisher syndrome based on nerve conduction
+studies as interpreted by a neurophysiologist. Nerve conduction findings were further assessed by recording summated distal compound muscle action potential (CMAP)
+amplitude in millivolts (mV), and whether this amplitude
+was less than 20% of the lower limit of normal amplitudes
+based on the motor study performed. The number of
+inexcitable nerves in the study was also recorded.
+Neurological Course
+
+The presence of neuropathic pain based on billable
+diagnoses as well as individual chart review of patient
+symptoms in the hospital admission was recorded.
+Motor weakness on physical examination performed by
+a neurologist was classified as mild, paraparetic, quadriparetic, bulbar, or involving neck flexion. Sensory loss
+was categorized as mild (focal) or complete (diffuse and
+extensive). Intubation and mechanical ventilation were
+recorded. As a measure of GBS severity, we calculated
+the Erasmus GBS Outcome Score (EGOS) [11].
+Features of Dysautonomia
+
+Parameters of dysautonomia recorded were tachycardia > 120 beats per minute or tachycardia > 100 beats per
+minute with beta-blocker use lasting over 2 h, bradycardia < 50 beats per minute for over 2 h, highest and
+lowest heart rate, hypertension with systolic blood pressure > 180 or > 160 mmHg on antihypertensive medications lasting over 2 h, maximum systolic blood pressure,
+minimum diastolic blood pressure, hypotension with
+systolic blood pressure < 90 mmHg, and longest durations of these abnormalities. Whether or not patients
+were treated for the particular parameter with antihypertensives, vasopressors, or rate control agents was
+recorded. Other features of dysautonomia noted were
+ileus or gastric dysmotility (either unequivocally diagnosed by radiology or requiring pharmacological treatment or mechanical decompression), urinary retention
+not caused by obstruction and requiring catheterization,
+sudomotor dysfunction (hyperhidrosis), fever > 38.3 °C
+not attributable to superimposed infection [12], and
+hypothermia < 36 °C. Treatments such as bowel decompression were documented.
+Treatment and Complications
+
+GBS treatment including the use of intravenous
+immunoglobulin (IVIG), plasmapheresis (PLEX), or
+both was noted. Additionally, hospital complications
+recorded were sepsis, cardiogenic consequences such
+
+115
+
+as arrhythmias whether or not related to dysautonomia,
+pulmonary embolism or deep venous thrombus, substance withdrawal, and “other” including pneumonia,
+urinary tract infection, malignancy or paraneoplastic
+disorder, or disseminated intravascular coagulation. The
+presence of SIADH was noted based on serum sodium
+and urine studies. PRES was defined by clinical and
+radiological data [13] not attributable to medications.
+Whether PRES preceded GBS and dysautonomia, was in
+the context of dysautonomia, or occurred after IVIG was
+also assessed.
+Endpoints
+
+Study outcomes were length of intensive care unit (ICU)
+and hospital stays, whether patients were ambulatory
+upon discharge, the GBS disability score [14] at discharge, as well as mortality and disposition (home or
+skilled nursing facility) at discharge.
+Statistical Analysis
+
+Qualitative data were described as nominal or ordinal
+variables, and as mean and standard deviation or median
+and interquartile range (IQR) for continuous variables.
+Data were analyzed using JMP 10.0.0 software (SAS
+Institute, Cary, North Carolina). We used a t test or Chisquare test (or Fisher’s exact test for n < 5) to assess associations amongst variables. Odds ratios (OR) and 95%
+confidence intervals (CI) were computed for nominal
+data. Statistical testing was done at the two-tailed α level
+of .05.
+
+Results
+One hundred eighty seven patients were included in
+the study, of which 71 (38%) were noted to have signs of
+dysautonomia. Demographics, clinical course, nerve conduction studies, and cerebrospinal fluid results are shown
+in Table 1. Clinical features of patients with dysautonomia are shown in Table 2. Treatments, hospital complications, outcomes, and corresponding statistical analyses
+are shown in Table 3. Men were more prevalent in the
+entire cohort (59%) and in the cohort with dysautonomia (43/71, 61%). Sex and age were not associated with
+dysautonomia. Diarrhea preceded GBS in 35/187 (19%)
+patients. Recurrence of GBS evolving into CIDP was seen
+in 9%, and recurrence was not a predictor of autonomic
+instability.
+One sign of autonomic instability was present in 47/71
+(66%) patients. Sustained tachycardia was more common
+than bradycardia (26% versus 1%), while hypertension
+(39%) and hypotension (37%) were similarly prevalent.
+Fevers (29%) were more common than hypothermia (6%).
+Ileus was the most common manifestation of dysautonomia (present in 42%). Urinary retention was present in
+
+24%. 10% patients had sudomotor dysfunction, and 14%
+had pupillary dysfunction. Four (6%) patients had orthostatic hypotension.
+Most patients had a demyelinating form of GBS (72%),
+including 48/134 (36%) who had dysautonomia. 11/22
+(50%) patients who had an axonal form had dysautonomia. GBS type (demyelinating versus axonal) was
+not predictive of autonomic dysfunction. Patients with
+dysautonomia had lower distal CMAP amplitudes, and
+a higher likelihood of summated distal CMAP amplitudes < 20% of the lower limit of normal. Neurologic
+examination findings predictive of dysautonomia were
+quadriparesis, bulbar weakness, and neck flexor weakness. Patients with mild weakness were less likely to have
+autonomic instability. Mechanical ventilation was also
+associated with dysautonomia, whereas neuropathic pain
+was not. Patients in the dysautonomia group had a higher
+rate of treatment with PLEX or both IVIG and PLEX. In
+these 21 patients, GBS score was median 4, IQR 3–4 and
+EGOS was median 5, IQR 4–5. CSF inflammation was
+not predictive of dysautonomia.
+Overall, occurrence of one or more major hospital complications was associated with dysautonomia.
+Patients with dysautonomia more often had cardiogenic
+complications that were not necessarily due to autonomic instability, as well as SIADH. Four patients had
+minor arrhythmias; three had non-sustained ventricular
+tachycardia, and one had an episode of atrial fibrillation
+with rapid ventricular rate. Two patients had cardiac
+arrest after having respiratory arrest; in one case, the
+patient had an acute blood clot in their tracheostomy
+tube, causing respiratory arrest then pulseless electrical
+activity (PEA) arrest. In the other case, the patient had
+PEA arrest after respiratory arrest that occurred prior to
+neurologic manifestations of GBS developed. No patients
+required a pacemaker associated with complications due
+to GBS. PRES was more prevalent in patients with dysautonomia; six patients had PRES, five of them had dysautonomia, and four of them had hypertension. Three of
+the six patients had PRES as an initial presentation prior
+to developing neurologic signs of GBS (Fig. 1), and two
+patients had PRES after GBS were diagnosed (Fig. 2). The
+patient who did not have dysautonomia had PRES after
+IVIG treatment and was on tacrolimus following a previous cardiac transplant. Three of the patients with PRES
+had encephalopathy, and two had seizures including one
+with status epilepticus. No patients with PRES had cortical blindness.
+The length of hospital stay was longer in patients with
+dysautonomia, and fewer of these patients were ambulatory at discharge. The GBS disability score and EGOS
+were both significantly higher in those with autonomic
+instability. Patients with autonomic instability were
+
+116
+
+Table 1 Patient demographics and clinical features
+Characteristic
+
+All
+N = 187
+
+Dysautonomia
+N = 71
+
+No dysautonomia
+N = 116
+
+P value
+
+OR (CI)
+
+Female
+
+76 (40.6)
+
+28 (39.4)
+
+48 (41.4)
+
+0.79
+
+0.92 (0.50–1.69)
+
+Age (y)
+
+55 ± 16
+
+55 ± 16
+
+54 ± 16
+
+0.82
+
+–
+
+Comorbidities
+Diabetes mellitus II
+
+22 (11.8)
+
+7 (9.9)
+
+15 (12.9)
+
+0.53
+
+0.74 (0.28–1.90)
+
+Neuropathy
+
+11 (5.9)
+
+4 (5.6)
+
+7 (6.0)
+
+1.00
+
+0.93 (0.26–3.30)
+–
+
+Alcoholism
+
+2 (1.1)
+
+2 (2.8)
+
+0 (0.0)
+
+0.07
+
+Othera
+
+41 (21.9)
+
+15 (21.1)
+
+26 (22.4)
+
+0.84
+
+0.93 (0.45–1.90)
+
+CIDP
+
+17 (8.9)
+
+9 (12.7)
+
+8 (6.9)
+
+0.18
+
+1.96 (0.72–5.33)
+
+GBS type
+Axonal
+
+22 (11.8)
+
+11 (15.5)
+
+11 (9.5)
+
+0.22
+
+1.75 (0.72–4.28)
+
+Demyelinating
+
+134 (71.7)
+
+48 (67.6)
+
+86 (74.1)
+
+0.34
+
+0.73 (0.38–1.39)
+
+Both
+
+21 (11.2)
+
+8 (11.3)
+
+13 (11.2)
+
+0.99
+
+1.01 (0.40–2.56)
+
+Other (MF)
+
+10 (5.3)
+
+4 (5.6)
+
+6 (5.2)
+
+1.00
+
+1.09 (0.30–4.02)
+
+NCSb
+Summated distal CMAP amplitudes (mV)
+Summated distal CMAP amplitudes < 20% LLN
+
+10.4 ± 8.6
+
+45 (23.4)
+
+8.1 ± 7.9
+
+27/68 (39.7)
+
+11.8 ± 8.8
+
+18/111 (16.2)
+
+0.004
+< 0.001
+
+–
+3.40 (1.69–6.86)
+
+# Inexcitable nerves
+
+0, IQR 0–0
+
+0, IQR 0–0
+
+0, IQR 0–0
+
+0.10
+
+–
+
+Motor weakness
+
+171 (91.4)
+
+67 (94.3)
+
+104 (89.7)
+
+0.30
+
+1.93 (0.60–6.24)
+
+Mild
+
+86 (46.0)
+
+23 (32.4)
+
+63 (54.3)
+
+0.004
+
+0.40 (0.22–0.75)
+
+Paraparetic
+
+28 (15.0)
+
+12 (16.9)
+
+16 (13.8)
+
+0.56
+
+1.27 (0.56–2.87)
+
+Quadriparetic
+
+57 (30.5)
+
+32 (45.1)
+
+25 (21.6)
+
+< 0.001
+
+2.99 (1.57–5.69)
+
+Bulbar
+
+69 (36.9)
+
+37 (52.1)
+
+32 (27.6)
+
+< 0.001
+
+2.86 (1.54–5.30)
+
+Neck flexor
+
+48 (25.7)
+
+31 (43.7)
+
+17 (14.7)
+
+< 0.001
+
+4.51 (2.25–9.05)
+
+Sensory loss
+
+122 (65.2)
+
+47 (66.2)
+
+75 (64.7)
+
+0.83
+
+1.07 (0.57–1.99)
+
+Mild
+
+115 (6.1)
+
+42 (59.2)
+
+73 (62.9)
+
+0.60
+
+0.85 (0.47–1.56)
+
+Complete
+
+7 (3.7)
+
+5 (7.0)
+
+2 (1.7)
+
+0.12
+
+4.32 (0.81–22.88)
+
+Neuropathic pain
+
+94 (50.3)
+
+39 (54.9)
+
+55 (47.4)
+
+0.32
+
+1.35 (0.74–2.45)
+
+Mechanical ventilation
+
+51 (27.2)
+
+36 (50.7)
+
+15 (12.9)
+
+< 0.001
+
+6.93 (3.39–14.15)
+
+CSF protein
+
+83, IQR 54–135
+
+78, IQR 54–119
+
+90, IQR 52–142
+
+0.46
+
+–
+
+CSF leukocytes
+
+2, IQR 1–4
+
+1, IQR 1–6
+
+2, IQR 1–4
+
+0.40
+
+–
+
+Data presented as N (%), mean ± standard deviation, or median, IQR
+
+CI confidence interval, CIDP chronic inflammatory demyelinating polyneuropathy, CMAP compound muscle action potential, CSF cerebrospinal fluid, d days, GBS
+Guillain–Barré syndrome, IQR interquartile range, LLN lower limit of normal, MF Miller–Fisher, mV millivolts, N sample size, NCS nerve conduction studies, OR odds ratio,
+y years
+
+a
+
+Malignancy, chemotherapy, multiple sclerosis, immunotherapy, or metabolic disorder other than diabetes such as hyperaldosteronism
+
+b
+
+179 patients had nerve conduction studies
+
+less likely to be discharged home and more likely to go
+to a skilled nursing facility. Overall mortality at hospital
+discharge was 2% and higher in those with autonomic
+dysfunction (6%). All four patients who died had dysautonomia at some point in their hospital course, but none
+died as a direct consequence of the autonomic instability. Two patients died with lymphoma with subsequent
+withdrawal of life-sustaining interventions, and another
+patient also had life-sustaining interventions withdrawn after developing multiorgan failure and coma of
+unknown etiology, and the fourth patient died of brain
+herniation after developing an acute on chronic subdural
+
+hematoma. Two patients with lymphoma had CSF cytology studies, and one had a sural nerve biopsy that did not
+reveal lymphoma; both had EMGs with features suggestive of demyelination.
+
+Discussion
+Dysautonomia and organ dysfunction play no small part
+in the syndrome of severely affected patients with GBS
+and can be immediately life-threatening. The rate of
+autonomic dysfunction in our study was high at 38% with
+a mortality rate of 6%. Patients with dysautonomia also
+had a longer length of hospital stay, were less prone to be
+
+117
+
+Table 2 Features of dysautonomia
+Median value
+of ­extremesa
+
+IQRa
+
+Clinical feature
+
+N
+
+Tachycardia > 2 h
+
+18 (26.1)
+
+123 (rate)
+
+110–140
+
+Bradycardia > 2 h
+
+1 (1.4)
+
+59 (rate)
+
+49–66
+
+Hypertension > 2 h
+
+27 (38.6)
+
+190 (SBP)
+
+170–215
+
+Hypotension > 2 h
+
+26 (37.1)
+
+49 (DBP)
+
+37–57
+
+Treatmenta
+
+Longest duration (h)
+3.0 ± 9.2
+
+11/18 (61.1)
+
+0.2 ± 1.0
+
+0
+
+3.9 ± 12.3
+
+3/27 (11.1)
+
+1.1 ± 5.8
+
+12/26 (46.2)
+
+Ileus
+
+30 (42.3)
+
+–
+
+–
+
+–
+
+11/30 (36.7)
+
+Urinary retention
+
+17 (23.9)
+
+–
+
+–
+
+–
+
+–
+
+Sudomotor dysfunction
+
+7 (9.9)
+
+–
+
+–
+
+–
+
+–
+
+Pupillary dysfunction
+
+10 (14.1)
+
+–
+
+–
+
+–
+
+–
+
+Fever > 38.3
+
+20 (28.6)
+
+–
+
+–
+
+–
+
+–
+
+Hypothermia < 36
+
+4 (5.7)
+
+–
+
+–
+
+–
+
+–
+
+Data presented as N (%), median, or IQR
+DBP diastolic blood pressure, GBS Guillain–Barré syndrome, h hours, hrs hours, IQR interquartile range, N, sample size, SBP systolic blood pressure
+a
+
+For any hemodynamic instability (not just sustained)
+
+Table 3 Treatments, complications, and outcomes
+Characteristic
+
+All
+N = 187
+
+Dysautonomia
+N = 71
+
+No dysautonomia
+N = 116
+
+P value
+
+OR (CI)
+
+GBS treatment
+
+179 (95.7)
+
+69 (97.2)
+
+110 (94.8)
+
+0.71
+
+1.88 (0.37–9.59)
+
+IVIG
+
+146 (78.1)
+
+48 (67.6)
+
+98 (84.5)
+
+0.007
+
+0.38 (0.19–0.77)
+
+PLEX
+
+17 (9.1)
+
+10 (14.1)
+
+7 (6.0)
+
+0.06
+
+2.55 (0.92–7.05)
+
+Both
+
+16 (8.6)
+
+11 (15.5)
+
+5 (4.3)
+
+0.01
+
+4.07 (1.35–12.26)
+
+Hospital complications
+
+32 (17.1)
+
+22 (31.0)
+
+10 (8.6)
+
+< 0.001
+
+4.76 (2.09–10.81)
+
+Sepsis
+
+6 (3.2)
+
+3 (4.2)
+
+3 (2.6)
+
+0.68
+
+1.66 (0.33–8.47)
+
+Cardiogenic
+
+7 (3.7)
+
+6 (8.5)
+
+1 (0.9)
+
+0.01
+
+10.62 (1.25–90.11)
+
+PE/DVT
+
+7 (3.7)
+
+4 (5.6)
+
+3 (2.6)
+
+0.43
+
+2.25 (0.49–10.36)
+
+Substance withdrawal
+
+3 (1.6)
+
+2 (2.8)
+
+1 (0.9)
+
+0.56
+
+3.33 (0.30–37.45)
+
+SIADH
+
+27 (14.4)
+
+17 (23.9)
+
+10 (8.6)
+
+0.004
+
+3.34 (1.43–7.78)
+
+PRES
+
+6 (3.2)
+
+5 (7.0)
+
+1 (0.9)
+
+0.03
+
+8.71 (0.99–76.17)
+
+Othera
+
+18 (9.6)
+
+14 (19.7)
+
+4 (3.5)
+
+0.001
+
+6.88 (2.16–21.85)
+
+Outcomes
+ICU admission
+
+83 (44.4)
+
+54 (76.1)
+
+29 (25.0)
+
+< 0.001
+
+ICU stay (d)
+
+13 ± 13
+
+14 ± 14
+
+9 ± 10
+
+0.07
+
+Hospital stay (d)
+Ambulatory
+GBS disability score
+
+20 ± 56
+
+108 (57.8)
+
+33 ± 88
+
+30 (42.3)
+
+12 ± 14
+
+9.53 (4.79–18.97)
+–
+
+< 0.001
+
+–
+
+78 (67.2)
+
+< 0.001
+
+OR 0.36 (0.19–0.66)
+
+< 0.001
+
+–
+
+<0.001
+
+–
+
+3, IQR 2–4
+
+4, IQR 3–4
+
+3, IQR 2–4
+
+3.0 ± 1.2
+
+3.6 ± 1.2
+
+2.7 ± 1.1
+
+3.8 ± 1.3
+
+4.3 ± 1.3
+
+3.5 ± 1.2
+
+58 (50.0)
+
+< 0.001
+
+OR 0.29 (0.15–0.57)
+
+SNF
+
+109 (58.3)
+
+51 (71.8)
+
+58 (50.0)
+
+0.003
+
+OR 2.55 (1.35–4.80)
+
+Mortality
+
+4 (2.1)
+
+4 (5.6)
+
+0 (0.0)
+
+0.02
+
+–
+
+EGOS
+Home
+
+4, IQR 3–5
+
+74 (39.6)
+
+5, IQR 4–5
+
+16 (22.5)
+
+4, IQR 3–5
+
+Data presented as N (%), mean ± standard deviation, or median, IQR
+
+CI confidence interval, d days, EGOS, Erasmus GBS Outcome Score, GBS Guillain–Barré syndrome, ICU intensive care unit, IQR interquartile range, IVIG intravenous
+immunoglobulin, N sample size, OR odds ratio, PE/DVT pulmonary embolism or deep vein thrombus, PLEX plasmapheresis, PRES posterior reversible encephalopathy
+syndrome, SIADH syndrome of inappropriate antidiuretic hormone, SNF skilled nursing facility, y years
+
+a
+
+Pneumonia, urinary tract infection, malignancy/paraneoplastic, disseminated intravascular coagulation
+
+118
+
+Fig. 1 Patient with PRES Prior to GBS Diagnosis. 82-year-old woman who presented with encephalopathy and status epilepticus then progressive
+ascending weakness in the extremities eventually diagnosed as GBS. MRI head T2 FLAIR sequences show fairly symmetric hyperintensities in the
+subcortical more than cortical regions of a bilateral parieto-occipital lobes and b bilateral thalami
+
+Fig. 2 Patient with PRES Following Dysautonomia with Blood
+Pressure Fluctuations. 51-year-old man who had GBS in the setting
+of diffuse large B-cell lymphoma who then had a generalized tonic–
+clonic seizure, then MRI with T2 FLAIR sequences showing symmetric
+subcortical white matter hyperintensities in bilateral parietal lobes.
+Preceding the seizure, he had prolonged systolic blood pressures
+in the 250’ s mm Hg alternating with systolic blood pressures in the
+90’ s mm Hg
+
+ambulatory at discharge, had poorer GBS disability scores
+and EGOS score and were more likely to be discharged to
+a skilled nursing facility. Moreover, mortality in patients
+with dysautonomia was 6% versus 0% in those without
+dysautonomia. Previously reported rates of dysautonomia in GBS patients have ranged from 10 to 67% [8–10,
+15, 16]. Mortality rate in seminal series ranged from 6
+to 13% [17–19]. The lower prevalence of dysautonomia
+and lower mortality in our more contemporary series
+likely reflects earlier recognition and treatment of GBS
+in current practice. GBS disability score at discharge was
+significantly higher in patients with autonomic instability. However, patients with dysautonomia also had more
+severe weakness, and we could not establish with our
+data whether the association of dysautonomia with worse
+functional status at discharge was independent of the
+severity of muscle weakness at nadir.
+The spectrum of autonomic instability in our cohort
+comprised ileus in 42%, followed by hypertension in
+39%, hypotension in 37%, fevers in 29%, tachycardia or
+bradycardia in 27%, urinary retention in 24%, pupillary dysfunction in 14%, sudomotor dysfunction in 10%,
+and hypothermia in 6%. Other studies have shown varying rates of different features of autonomic instability;
+tachy or bradyarrhythmias in up to 81%, tachycardia in
+up to 59%, bradycardia in 21%, arrhythmias in up to 50%,
+hypertension in 61%, hypotension in up to 43%, ileus in
+15%, sphincter dysfunction in up to 30%, and sudomotor
+
+119
+
+dysfunction in 13% [8–10, 20–24]. Differences in rates
+may be attributable to varying study sample sizes, as well
+as different cutoff values and durations for classification
+of cardiac abnormalities. Additionally, there may be different diagnostic criteria for ileus (for example, severe
+constipation due to causes other than autonomic impairment versus due to autonomic involvement) complicated
+by the possibility of immobility, mechanical ventilation,
+and narcotic medications [25], as well as inclusion of ICU
+versus non-ICU study populations.
+Serious cardiac arrhythmias have been noted to occur
+in up to 50% of patients with dysautonomia [21]. No
+patients had serious cardiac arrhythmias directly related
+to GBS in our cohort, though it is difficult to say with
+certainty whether or not the patient who had PEA arrest
+after respiratory arrest prior to the development of GBS
+arrested because of early dysautonomia. SIADH has been
+noted in up to 5% patients with GBS and dysautonomia
+[26], whereas 24% patients in our cohort with dysautonomia had SIADH. This difference may be explained by
+greater recognition of this possible complication. Additionally, PRES has been previously reported as an initial presentation of GBS [27, 28]. Our series confirms
+that PRES can be an early manifestation of GBS with
+dysautonomia.
+Clinical predictors of dysautonomia were quadriparesis, neck flexor or bulbar weakness, and mechanical ventilation. While it was initially thought that the severity of
+autonomic involvement may not be related to the degree
+of motor or sensory disturbance [3, 29], more recent
+studies have shown that the rate of dysautonomia may
+rise to 75% in quadriparetic patients [5]. Approximately
+half of the patients in our series with dysautonomia
+were mechanically ventilated, highlighting the need for
+close monitoring for signs of respiratory failure in these
+patients. Yet, it is pertinent to note that in our practice,
+we have a lower threshold to intubate patients with signs
+of dysautonomia as emergency intubation can be particularly dangerous in these cases. A previous study using
+sensitive tests of autonomic function (rather than clinical
+manifestations) for the definition of acute dysautonomia
+reported higher rates of cardio-sympathetic hyperactivity
+and sudomotor dysfunction in patients with demyelinating as compared to axonal acute polyradiculoneuropathy
+[30]. In our series, 36% patients who had a demyelinating
+form had dysautonomia versus 50% who had an axonal
+form. Though this difference was not statistically significant, the higher proportion of patients with an axonal
+form may be as a result of more patients with severe
+disease.
+Early signs of dysautonomia in GBS include refractory hypertension, wide fluctuations in blood pressure
+and/or heart rate, hyper- or hypothermia, sudomotor or
+
+pupillary dysfunction, as well as ileus and urinary retention. More severe weakness, bulbar involvement, and
+respiratory failure requiring mechanical ventilation are
+associated with autonomic instability. Severe and rapidly
+progressive weakness and manifestation of dysautonomia
+should prompt ICU admission with continuous cardiac
+monitoring and blood pressure monitoring through an
+arterial line to prevent cerebral complications such as
+PRES and serious and potentially life-threatening cardiovascular complications.
+The optimal treatment of dysautonomia in GBS has not
+been well studied. Caution when using any medications
+that can affect blood pressure and heart rate is advisable.
+Gastric and intestinal decompression and bladder catheterization are often necessary, but pharmacological interventions for treatment of gastrointestinal paralysis or
+urinary retention should be used conservatively because
+they can have adverse hemodynamic side effects. It is
+best to use opiates as sparingly as possible because these
+agents can exacerbate adynamic ileus. It is not known
+whether IVIG or PLEX prevents or reduces the severity
+of dysautonomia in GBS. Further research in this regard
+would be useful.
+Our study has several limitations, mostly inherent to
+its retrospective design. Manifestations of dysautonomia
+were noted based on detailed review of the electronic
+medical and nursing records. We were unable to say with
+absolute certainty that specific parameters of dysautonomia were solely associated with GBS versus preexisting disease such as hypertension, hypovolemia, alcohol/
+opiate withdrawal, or other comorbidities. Prevalence
+of ileus and urinary retention may have been underestimated because milder forms might have gone untreated,
+bladder catheterization may have occurred before urinary retention became evident, and medications may
+have contributed to their occurrence. We did not have
+enough information to collect the MRC sum score upon
+admission or at nadir; consequently, we were unable to
+control the association of dysautonomia with disability at
+discharge for the severity of weakness. We could therefore not determine whether dysautonomia influences the
+pace or degree of functional recovery following the acute
+hospitalization. We were also unable to collect follow-up
+data on patients after hospital discharge, thus limiting a
+more longitudinal trajectory of patient survival and functional status.
+
+Conclusion
+Our series emphasizes that dysautonomia is seen in over
+one-third of patients admitted for GBS and it is more
+common in patients with more severe weakness. The
+most common signs of dysautonomia were ileus, blood
+pressure fluctuations, tachy or bradyarrhythmias, and
+
+120
+
+urinary retention. In-hospital mortality was greater, and
+functional outcomes at hospital discharge were poorer in
+patients with autonomic instability. Dysautonomia can
+lead to serious secondary complications such as PRES.
+There is a need to investigate if more aggressive treatment is warranted in this category of GBS.
+
+4.
+
+Abbreviations
+GBS: Guillain–Barré syndrome; AIDP: Acute demyelinating polyradiculoneuropathy; ICU: Intensive care unit; PRES: Posterior reversible encephalopathy
+syndrome; SIADH: Syndrome of inappropriate antidiuretic hormone; EGOS:
+Erasmus GBS Outcome Score; CIDP: Chronic inflammatory polyradiculoneuropathy; CMAP: Compound muscle action potential; mV: Millivolts; CSF:
+Cerebrospinal fluid; IVIG: Intravenous immunoglobulin; PLEX: Plasmapheresis;
+PE: Pulmonary embolism; DVT: Deep vein thrombus; IQR: Interquartile range;
+OR: Odds ratio; CI: Confidence interval.
+
+8.
+
+Author details
+1
+Mayo Clinic Department of Neurology, Mayo Clinic, 200 First Street SW, Rochester, MN 55905, USA. 2 Department of Neurology, The University of Chicago,
+Chicago, IL, USA.
+
+13.
+
+Acknowledgements
+No other acknowledgements.
+
+5.
+6.
+7.
+
+9.
+10.
+11.
+12.
+
+14.
+15.
+16.
+
+Author Contributions
+This study required no sponsorship or funding. Tia Chakraborty MD authored,
+conceptualized, acquired data, performed all statistical analyses, drafted, and
+revised the manuscript. She had full access to all of the data in the study and
+takes responsibility for the integrity of the data and the accuracy of the data
+analysis. Christopher Kramer MD analyzed and acquired data, conceptualized, drafted, and revised the manuscript. Eelco Wijdicks MD PhD authored,
+conceptualized, drafted, and revised the manuscript. Alejandro A. Rabinstein
+MD authored, conceptualized, drafted, and revised the manuscript.
+
+17.
+
+Source of Support
+Not applicable.
+
+21.
+
+Conflict of interest
+All authors declare that they have no conflict of interest.
+Ethical Approval/Informed Consent
+The Mayo Clinic Institutional Review Board approved this study.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+18.
+19.
+20.
+
+22.
+23.
+24.
+25.
+26.
+27.
+
+Published online: 11 July 2019
+28.
+References
+1. Wijdicks EF, Klein CJ. Guillain–Barre syndrome. Mayo Clin Proc.
+2017;92(3):467–79.
+2. Flachenecker P, Hartung HP, Reiners K. Power spectrum analysis of heart
+rate variability in Guillain–Barré syndrome. A longitudinal study. Brain.
+1997;120(10):1885–94.
+3. Tuck RR, McLeod JG. Autonomic dysfunction in Guillain–Barre syndrome.
+J Neurol Neurosurg Psychiatry. 1981;44(11):983–90.
+
+29.
+30.
+
+Guz A, et al. The role of vagal and glossopharyngeal afferent nerves in respiratory sensation, control of breathing and arterial pressure regulation in
+conscious man. Clin Sci. 1966;30(1):161–70.
+Pfeiffer G. Dysautonomia in Guillain–Barre syndrome. Nervenarzt.
+1999;70(2):136–48.
+Nabi S, et al. Posterior reversible encephalopathy syndrome (PRES) as
+a complication of Guillain–Barre’ syndrome (GBS). BMJ Case Rep. 2016.
+https​://doi.org/10.1136/bcr-2016-21675​7.
+Banakar BF, et al. Guillain–Barre syndrome with posterior reversible
+encephalopathy syndrome. J Neurosci Rural Pract. 2014;5(1):63–5.
+Ropper AH, Wijdicks EFM, Truax BT. Guillain–Barré syndrome. Contemporary neurology series. F.A. Davis: Philadelphia; 1991.
+Singh NK, et al. Assessment of autonomic dysfunction in Guillain–
+Barre syndrome and its prognostic implications. Acta Neurol Scand.
+1987;75(2):101–5.
+Pfeiffer G, et al. Indicators of dysautonomia in severe Guillain–Barre
+syndrome. J Neurol. 1999;246(11):1015–22.
+van Koningsveld R, et al. A clinical prognostic scoring system for Guillain–
+Barre syndrome. Lancet Neurol. 2007;6(7):589–94.
+Hocker SE, et al. Indicators of central fever in the neurologic intensive
+care unit. JAMA Neurol. 2013;70(12):1499–504.
+Fugate JE, Rabinstein AA. The diagnosis of posterior reversible encephalopathy syndrome—authors’ reply. Lancet Neurol. 2015;14(11):1075.
+Hughes RA, et al. Controlled trial prednisolone in acute polyneuropathy.
+Lancet. 1978;2(8093):750–3.
+Yuki N, Hartung HP. Guillain–Barre syndrome. N Engl J Med.
+2012;366(24):2294–304.
+Guillain–Barre Syndrome Study Group. Guillain–Barre syndrome: an Italian multicentre case-control study. Neurol Sci. 2000;21(4):229–34.
+Zochodne DW. Autonomic involvement in Guillain–Barre syndrome: a
+review. Muscle Nerve. 1994;17(10):1145–55.
+Winer JB, Hughes RA, Osmond C. A prospective study of acute idiopathic
+neuropathy. I. Clinical features and their prognostic value. J Neurol Neurosurg Psychiatry. 1988;51(5):605–12.
+Haymaker WE, Kernohan JW. The Landry–Guillain–Barre syndrome; a
+clinicopathologic report of 50 fatal cases and a critique of the literature.
+Medicine (Baltimore). 1949;28(1):59–141.
+Lichtenfeld P. Autonomic dysfunction in the Guillain–Barre syndrome. Am
+J Med. 1971;50(6):772–80.
+Bredin CP. Guillain–Barre syndrome: the unsolved cardiovascular problems. Ir J Med Sci. 1977;146(9):273–9.
+Soffer D, Feldman S, Alter M. Clinical features of the Guillain–Barre syndrome. J Neurol Sci. 1978;37(1–2):135–43.
+Greenland P, Griggs RC. Arrhythmic complications in the Guillain–Barre
+syndrome. Arch Intern Med. 1980;140(8):1053–5.
+Burns TM, et al. Adynamic ileus in severe Guillain–Barre syndrome. Muscle
+Nerve. 2001;24(7):963–5.
+Zaeem Z, Siddiqi ZA, Zochodne DW. Autonomic involvement in Guillain–
+Barre syndrome: an update. Clin Auton Res. 2019;29(3):289–99.
+Anandan C, Khuder SA, Koffman BM. Prevalence of autonomic dysfunction in hospitalized patients with Guillain–Barre syndrome. Muscle Nerve.
+2017;56(2):331–3.
+Elahi A, Kelkar P, St Louis EK. Posterior reversible encephalopathy syndrome as the initial manifestation of Guillain–Barre Syndrome. Neurocrit
+Care. 2004;1(4):465–8.
+Van Diest D, et al. Posterior reversible encephalopathy and Guillain–Barre
+syndrome in a single patient: coincidence or causative relation? Clin
+Neurol Neurosurg. 2007;109(1):58–62.
+McLeod JG. Invited review: autonomic dysfunction in peripheral nerve
+disease. Muscle Nerve. 1992;15(1):3–13.
+Asahina M, et al. Autonomic function in demyelinating and axonal subtypes of Guillain–Barre syndrome. Acta Neurol Scand. 2002;105(1):44–50.
+
+
