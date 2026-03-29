@@ -40,22 +40,17 @@ status: active
 | 2026-03-23 | MR hjärna: **normal** |
 | 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
 | 2026-03-25 (fm) | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
-| 2026-03-25 (em) | Sedering lättad — bedömning av spontanandningsförmåga (diafragmafunktion). |
+| 2026-03-25 (em) | Sedering lättad — bedömning av spontanandningsförmåga (diafragmafunktion). **Kommunikation:** svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej). |
 | 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
 | 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion vid ljus (hjärnstam fungerar). CT/MR planeras för att utesluta centrala orsaker. |
 | 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat, bollar strategier. |
 | 2026-03-26 (em) | CT hjärna: **normal** (centrala orsaker uteslutna). Neurologen känner till efgartigimod men avvaktar — vill utvärdera PE först. IVIg trolig plan B. |
 | 2026-03-27 (fm) | PE session 5 genomförd (lunch). Alla 5 PE-sessioner slutförda. Neurologisk bedömning oförändrad (minimala/inga reaktioner). |
 | 2026-03-27 | Infektion utläkt, antibiotika fungerat. Temp 37,5°C. EEG initierat (sömndjup). Patienten mer vaken men etablerar ej kontakt. |
-| 2026-03-27 | fT3: **normalt**. Lungröntgen/ekokardiografi: **normalt hjärta**. MR planerad helgen. Blodtryck fortsatt svårstabiliserat (dysautonomi). |
+| 2026-03-27 | fT3: **normalt**. Lungröntgen/ekokardiografi: **normalt hjärta**. Blodtryck fortsatt svårstabiliserat (dysautonomi). **Neurologisk bedömning:** oförändrad — minimala/inga reaktioner. Patienten mer vaken men etablerar ej kontakt. |
 | 2026-03-28 | MR hjärna genomförd. Svar inväntas. |
 | 2026-03-29 (fm) | BT 142/50, puls 97 (lägre än föregående dagar). SpO2 96%. Ventilering 4,5. Temp 37,7°C. Vätskemål: negativ balans −500 till −1000 ml. Laxering höjd. |
-
-**Kommunikation (2026-03-25):** Vid lättare sederingsdjup — svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
-
-**Medicinering (2026-03-29):** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). Gabapentin ej insatt.
-
-**Neurologisk bedömning (2026-03-27):** Oförändrad från 2026-03-26 — minimala/inga reaktioner. Patienten mer vaken men etablerar ej kontakt. EEG initierat för att mäta sömndjup. Lungröntgen/ekokardiografi: normalt hjärta.
+| 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). Gabapentin ej insatt. |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
