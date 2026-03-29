@@ -47,19 +47,23 @@ status: active
 | 2026-03-27 | Neurologisk bedömning: oförändrad (minimala/inga reaktioner). Infektion utläkt, antibiotika fungerat. Temp 37,5°C. |
 | 2026-03-27 | EEG initierat (sömndjup). Patienten mer vaken men etablerar ej kontakt. fT3: **normalt**. |
 | 2026-03-27 | Lungröntgen/ekokardiografi: **normalt hjärta**. MR planerad helgen. Blodtryck fortsatt svårstabiliserat (dysautonomi). |
+| 2026-03-28 | MR hjarna genomford. Svar inväntas. |
+| 2026-03-29 (fm) | BT 142/50, puls 97 (lagre an foregaende dagar, forsta gang <100). SpO2 96%. Ventilering 4,5. Temp 37,7°C. Viktuppgang 56→60 kg pa 6 dagar (+7%). IVA-teamet: vatskemalet negativt (−500 till −1000 ml/dygn), laxering hojd. |
 
-### Nuvarande status (2026-03-27)
+### Nuvarande status (2026-03-29)
 
-- **Respirator:** Ja, beroende.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 2 post-trakeostomi)
-- **Medvetande:** Mer vaken men etablerar ej kontakt. EEG initierat for att mata somndjup.
+- **Respirator:** Ja, beroende. Ventilering 4,5.
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 4 post-trakeostomi)
+- **Medvetande:** Mer vaken men etablerar ej kontakt. EEG initierat (somndjup).
 - **Neurologisk bedomning:** Oforandrad fran 2026-03-26 — minimala/inga reaktioner.
-- **Autonom dysfunktion:** Kvarstar — blodtryck fortsatt svarstabiliserat, anisokori
+- **Autonom dysfunktion:** Kvarstar — BT labilt (overvagande hogt senaste dagarna, 2026-03-29 fm 142/50). Puls ihallande >100 (senaste dagar), 97 vid matning 2026-03-29 fm. Anisokori.
 - **Infektion:** Utlakt, antibiotika har fungerat.
-- **Temp:** 37,5°C
+- **Temp:** 37,7°C (2026-03-29)
+- **Vikt:** 60 kg (upp fran 56 kg pa 6 dagar). Vatskemalet: negativ balans −500 till −1000 ml/dygn.
 - **Behandling given:** Alla 5 PE-sessioner slutforda (PE5 genomford 2026-03-27 lunch).
-- **Lab (2026-03-27):** fT3: **normalt** (bestald 2026-03-26, svar 2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
-- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta. MR planerad helgen (utesluta ytterligare komplikationer, forvantas normal).
+- **Medicinering (2026-03-29):** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smartlindring), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). **Gabapentin ej insatt.**
+- **Lab (2026-03-27):** fT3: **normalt**. TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
+- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna genomford 2026-03-28, svar inväntas.
 - **Anti-IgA-antikroppar:** Annu ej bestallt.
 - **NCS/EMG:** Annu ej utford.
 - **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Teamet engagerat.
