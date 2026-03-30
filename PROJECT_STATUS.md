@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-27
+> Senast uppdaterad: 2026-03-30
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (17 st, ~660 referenser)
+### Forskningsdokument (18 st, ~690 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -29,12 +29,13 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 15 | `07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md` | Post-trakeostomivård: sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitetsdata (6% vs 2%)**, monitorering | Komplett |
 | 16 | `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` | Respiratoravvänjning: FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk, långtidsutfall | Komplett |
 | 17 | `08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md` | **Immunoglobulin-IgA-säkerhet: 183 papers, paradigmskifte, produktjämförelse, toleransinduktion, beslutsalgoritm** | Komplett |
+| 18 | `07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md` | **Vätskestyrning vid GBS-dysautonomi: 5%-tröskel, deresuscitation, WiPO, diuretika-evidens (3 RCT), beslutsalgoritm** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
 | Dokument | Beskrivning |
 |----------|-------------|
-| `Case_Madeleine_Fragor_och_Fynd.md` | Utskrivbar fallsammanfattning med patientprofil, 19 frågor till neurolog/IVA-läkare, evidenstabeller. Åtkomlig via `/doc/Case_Madeleine_Fragor_och_Fynd.md` |
+| `Case_Madeleine_Fragor_och_Fynd.md` | Utskrivbar fallsammanfattning med patientprofil, 22 frågor till neurolog/IVA-läkare, evidenstabeller. Åtkomlig via `/doc/Case_Madeleine_Fragor_och_Fynd.md` |
 
 ### Infrastruktur
 
@@ -61,7 +62,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-03-27)
+### Aktuellt förlopp (2026-03-21 → 2026-03-30)
 
 | Datum | Händelse |
 |-------|---------|
@@ -81,6 +82,10 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-27 | MR planerad helgen — utesluta ytterligare komplikationer (förväntas normal). |
 | 2026-03-27 | Lungröntgen/ekokardiografi: **normalt hjärta**. |
 | 2026-03-27 | Blodtryck fortsatt svårstabiliserat (dysautonomi kvarstår). |
+| 2026-03-28 | MR hjärna genomförd. |
+| 2026-03-29 (fm) | BT 142/50, puls 97 (<100 för första gången). SpO2 96%. Temp 37,7°C. Viktuppgång 56→60 kg. Vätskemål: negativ balans −500 till −1000 ml/dygn. |
+| 2026-03-29 | MR-svar: litet fynd — LP planeras. EEG: patient nedsövd. Gabapentin insatt. Sedering ökad. |
+| 2026-03-30 | **Vikt (läkarbekräftad): 5 kg uppgång på 6–7 dygn (56→~61 kg, +8,9%)**. Nytt forskningsdokument: Fluid Management GBS ICU Protocol. |
 
 ### Kommunikation
 

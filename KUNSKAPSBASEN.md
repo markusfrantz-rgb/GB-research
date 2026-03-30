@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~680 peer-reviewed referenser | 17 forskningsdokument | 149 fulltexter tillgängliga | 989 sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~690 peer-reviewed referenser | 18 forskningsdokument | 149 fulltexter tillgängliga | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -53,6 +53,7 @@ status: active
 | 2026-03-29 | **MR-svar:** Litet fynd på MR hjärna — ryggmärgsprov (LP) planeras för att avgöra om kortison ska ges. |
 | 2026-03-29 | **EEG:** Visar att patienten är nedsövd. Svårt att skilja sedering från neurologiskt tillstånd, men teamet bedömer sederingsnivån som adekvat. Sedering ökad något. |
 | 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), **gabapentin** (neuropatisk smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). |
+| 2026-03-30 | **Vikt (läkarbekräftad):** Viktuppgång **5 kg på 6–7 dygn** (56→~61 kg, +8,9%). Överstiger kritiska 5%-tröskeln. Vätskemål −500 till −1000 ml/dygn pågår. |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
@@ -187,6 +188,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [PE-svikt: definition och beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | PE-svikt efter 5 sessioner, biomarkörer under sedering, NfL-monitorering |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitet 6% vs 2%** |
 | [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
+| [**Vätskestyrning vid GBS-dysautonomi**](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | **NYTT (2026-03-30):** 5%-tröskel, deresuscitation, WiPO (59% av weaning-svikt), beslutsalgoritm, diuretika-evidens (3 RCT), GBS-specifik sårbarhet |
 | [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
 
 ---
@@ -216,4 +218,4 @@ Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom 
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~660 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars 2026. Baserad på ~690 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*

@@ -44,7 +44,7 @@ GB-research/
 ├── 04-related-autoimmune/       ← Autoimmuna kluster (2 dokument)
 ├── 05-treatment-resistance/     ← Refraktär GBS, nya terapier, PE-svikt (5 dokument)
 ├── 06-monitoring-prognosis/     ← Prognostik, biomarkörer, beslutspunkter (1 dokument)
-├── 07-acute-icu-protocols/      ← IVA-protokoll: trakeostomi, dysautonomi, weaning (2 dokument)
+├── 07-acute-icu-protocols/      ← IVA-protokoll: trakeostomi, dysautonomi, weaning, vätskestyrning (3 dokument)
 ├── 08-immunoglobulin-iga-safety/ ← IgA-säkerhet vid immunoglobulin (1 dokument)
 │
 └── sources/fulltext/            ← Källbibliotek (PDF + text, serveras via /source/)

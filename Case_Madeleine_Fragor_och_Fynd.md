@@ -52,17 +52,18 @@ status: active
 | 2026-03-29 | **MR-svar:** Litet fynd pa MR hjarna. Ryggmargsprov (LP) planeras for att avgora om kortison ska ges. |
 | 2026-03-29 | **EEG:** Visar nedsovd patient. Svart att skilja sedering fran neurologiskt tillstand — teamet bedomer sederingsnivan som adekvat. Sedering okad nagot. |
 | 2026-03-29 | **Lakarsamtal (Oskar, helg-IVA):** Gabapentin redan insatt. Magen monitoreras — laxering forsta steget. Kortison overavags villkorat av LP-resultat. |
+| 2026-03-30 | **Vikt (lakarbekraftad):** Viktuppgang **5 kg pa 6–7 dygn** (56→~61 kg, +8,9%). Overstiger den kritiska 5%-troskeln (OR 2,38 for IVA-mortalitet, Chittawatanarat 2015). Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md). |
 
-### Nuvarande status (2026-03-29)
+### Nuvarande status (2026-03-30)
 
 - **Respirator:** Ja, beroende. Ventilering 4,5.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 4 post-trakeostomi)
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 5 post-trakeostomi)
 - **Medvetande:** Nedsovd. EEG visar sedering — svart att skilja fran neurologiskt tillstand. Sederingsnivan bedoms adekvat.
 - **Neurologisk bedomning:** Oforandrad fran 2026-03-26 — minimala/inga reaktioner.
 - **Autonom dysfunktion:** Kvarstar — BT labilt (overvagande hogt senaste dagarna, 2026-03-29 fm 142/50). Puls ihallande >100 (senaste dagar), 97 vid matning 2026-03-29 fm. Anisokori.
 - **Infektion:** Utlakt, antibiotika har fungerat.
 - **Temp:** 37,7°C (2026-03-29)
-- **Vikt:** 60 kg (upp fran 56 kg pa 6 dagar). Vatskemalet: negativ balans −500 till −1000 ml/dygn.
+- **Vikt (2026-03-30):** ~61 kg — **viktuppgang 5 kg pa 6–7 dygn (+8,9%)**. Overstiger kritiska 5%-troskeln for IVA-mortalitet (OR 2,38) och reintubation (OR 2,51). Vatskemalet: negativ balans −500 till −1000 ml/dygn (insatt 2026-03-29). Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
 - **Behandling given:** Alla 5 PE-sessioner slutforda (PE5 genomford 2026-03-27 lunch).
 - **Medicinering (2026-03-29):** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smartlindring), **gabapentin** (neuropatisk smarta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn).
 - **Lab (2026-03-27):** fT3: **normalt**. TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
@@ -176,16 +177,35 @@ Systolisk BT-variation >85 mmHg inom ett dygn predicerar farliga bradyarytmier. 
 **19. Allergibehandling och luftrogsvidgande**
 **Svar:** Allergibehandling ar pa plats. Luftrorsvidgande (bronkdilaterare) insatt pa IVA.
 
+#### Vatska och vatskestyrning
+
+**20. Viktuppgang 5 kg pa 6–7 dygn — vatskestyrning**
+Viktuppgang 56→~61 kg (+8,9%) overstiger den kritiska 5%-troskeln (Chittawatanarat 2015, PMID: 26251605). Evidensbaserade risker:
+- IVA-mortalitet OR 2,38, reintubation OR 2,51 vid >5% viktuppgang
+- Per extra liter positiv balans: +19% mortalitetsrisk (Messmer 2020, meta-analys n=31 076)
+- 59% av weaning-misslyckanden orsakas av vatskeinducerat lungodem (Liu 2016)
+- Kumulativ balans >3 490 mL predicerar misslyckad extubation (OR 2,19, Ghosh 2018)
+
+**Fragor:**
+- Uppnas det negativa vatskemalet (−500 till −1000 ml/dygn)? Vad ar faktisk balans senaste 48 tim?
+- Har diuretika (furosemid) overvagts? Protokollstyrd diuretika reducerade vatskeackumulation med 4,8 kg utan okad njurpaverkan (IRIHS-studien, Cinotti 2021, PMID: 33691730, RCT)
+- Kan infusionsvolymer minskas? Glukos 5% 60 ml/h = 1 440 ml/dygn
+- Lungstatus: tecken pa interstitiellt odem? Ny lungrontgen sedan 27/3?
+- Perifert odem: hander, fotter, sacrum?
+- Energimalet raknas pa utgangsvikt (56 kg), inte nuvarande?
+
+→ [Fullstandig evidensgenomgang: Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md)
+
 #### Respiratoravvanjning
 
-**20. Weaningplan och tidslinje**
+**21. Weaningplan och tidslinje**
 Storsta multicenter-studien (Thille 2025, n=513 GBS, 47 IVA): 64% prolonged weaning (>=7 dagar), 57% trakeostomi, median MV 25 dagar (IQR 13-51). Mortalitet 9.4%. Weaning readiness-kriterier:
 - FVC >22 mL/kg och NIF >-50 cmH2O (Nguyen 2006)
 - Effektiv hosta (starkaste prediktorn — 61% reintubation utan)
 - Bulbar funktion (svaljteknik)
 **Fraga:** Nar planeras forsta formella weaningbedomning (SBT)? Planeras FVC/NIF-monitorering?
 
-**21. Somnapne och weaning**
+**22. Somnapne och weaning**
 Madeleines obstruktiva somnapne ar relevant for weaningplaneringen — CPAP/BiPAP kan behovas som brygga efter decannulation. Bor beaktas i avvanjningsprotokoll.
 
 ---
@@ -251,7 +271,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-17 forskningsdokument | ~680 peer-reviewed kallor | 149 fulltexter tillgangliga | 989 sokbara kunskapsfragment
+18 forskningsdokument | ~690 peer-reviewed kallor | 149 fulltexter tillgangliga | sokbara kunskapsfragment
 
 ---
 
