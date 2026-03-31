@@ -304,6 +304,11 @@ def view_source(filename):
     if file_path.suffix == ".pdf":
         return send_file(file_path, mimetype="application/pdf")
 
+    # Serve images directly
+    _image_mimes = {".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".gif": "image/gif"}
+    if file_path.suffix.lower() in _image_mimes:
+        return send_file(file_path, mimetype=_image_mimes[file_path.suffix.lower()])
+
     # Wrap text files in readable HTML
     text = file_path.read_text(encoding="utf-8", errors="replace")
     title = filename.replace("_FULLTEXT", "").replace(".txt", "").replace("_", " ")

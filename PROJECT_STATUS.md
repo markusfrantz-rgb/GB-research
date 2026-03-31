@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (18 st, ~690 referenser)
+### Forskningsdokument (19 st, ~690+ referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -30,6 +30,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 16 | `07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md` | Respiratoravvänjning: FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk, långtidsutfall | Komplett |
 | 17 | `08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md` | **Immunoglobulin-IgA-säkerhet: 183 papers, paradigmskifte, produktjämförelse, toleransinduktion, beslutsalgoritm** | Komplett |
 | 18 | `07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md` | **Vätskestyrning vid GBS-dysautonomi: 5%-tröskel, deresuscitation, WiPO, diuretika-evidens (3 RCT), beslutsalgoritm** | Komplett |
+| 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
@@ -41,8 +42,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + 106 fulltexter indexerade från 2 källmappar, 989 chunks |
-| Fulltext-källor | Live | 149 fulltexter (42 PDF + 64 text i sources/fulltext/ + 1 PDF + 42 text i research-ivig-iga/fulltexts/) |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1245 chunks |
+| Fulltext-källor | Live | 295 fulltexter (58 PDF + 194 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 34 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -88,12 +89,14 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-30 | **Vikt (läkarbekräftad): 5 kg uppgång på 6–7 dygn (56→~61 kg, +8,9%)**. Nytt forskningsdokument: Fluid Management GBS ICU Protocol. |
 | 2026-03-30 | **LP genomförd:** Förhöjt albumin, normalt celltal (albuminocytologisk dissociation) — bekräftar GBS. Inga tecken på CNS-infektion/inflammation. |
 | 2026-03-30 | **Neurolog Daniel** (ny kontakt): Ovanligt kraftig GBS. Betonar att flera svåra fall med 3–4 mån ventilator har återhämtat sig. |
-| 2026-03-31 | MR-genomgång planerad: neurolog Daniel + röntgenläkare. Kortisonbeslut avvaktar. |
-| 2026-03-31 | **Klinisk förbättring:** Puls 84–85, BT stabilare, noradrenalin utsatt, magen igång. Vätskemål −500 ml uppnått. Patient tillfreds. |
+| 2026-03-31 | MR-genomgång planerad: neurolog Daniel + röntgenläkare. Daniel har redan pratat med röntgenläkaren och söker kontakt med neuroradiolog på Karolinska. Kortisonbeslut avvaktar. |
+| 2026-03-31 (fm) | **Klinisk förbättring:** Puls 84–85, BT stabilare, noradrenalin utsatt, magen igång. Vätskemål −500 ml uppnått. Patient tillfreds. |
+| 2026-03-31 (~11:00) | **Hemodynamisk försämring:** BT 96/44, puls 100. Sedering höjd (patienten "stressad" — troligen utlöst av diarré/magaktivitet). Noradrenalin återinsatt. Vikt 58,5 kg (−2,5 kg). Glukos 5% borttagen, sondmat ökad. |
 
 ### Kommunikation
 
-Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).
+~~Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).~~
+**Uppdatering 2026-03-31:** Ingen kommunikation möjlig. 100% förlamning i hela kroppen — kan inte öppna något öga. Sista ögonlocksrörelsen försvann troligen mellan 25/3 kväll och 26/3 fm (innan PE4). Total förlamning etablerad innan PE4–5 genomfördes.
 
 ### Post-trakeostomi (2026-03-25 em)
 

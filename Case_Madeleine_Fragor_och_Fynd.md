@@ -55,21 +55,22 @@ status: active
 | 2026-03-30 | **Vikt (lakarbekraftad):** Viktuppgang **5 kg pa 6–7 dygn** (56→~61 kg, +8,9%). Overstiger den kritiska 5%-troskeln (OR 2,38 for IVA-mortalitet, Chittawatanarat 2015). Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md). |
 | 2026-03-30 | **LP genomford.** Resultat: **forhojt albumin, normalt celltal** (albuminocytologisk dissociation) — klassiskt GBS-fynd, starker diagnosen. Inga tecken pa infektion eller inflammation i CNS. |
 | 2026-03-30 | **Neurolog Daniel** (ny kontakt, bekraftad kunnig): Beskriver detta som en ovanligt kraftig GBS. Betonar att de haft flera svara fall med 3–4 manaders ventilatorvard som aterhamtat sig. |
-| 2026-03-31 | **MR-genomgang** planerad: neurolog Daniel + rontgenlakare ska gora ordentlig genomgang av MR-fyndet. Kortisonbeslut avvaktar denna genomgang. |
-| 2026-03-31 | **Klinisk forbattring:** Puls 84–85 (forsta gang <90, ned fran ihallande >100). BT stabilare, **noradrenalin utsatt** (hemodynamiskt stabil utan vasopressor). Magen igang (laxering fungerar). Patienten verkar mer tillfreds. Vatskeaterstallning pagar metodiskt (mal −500 ml igar, uppnatts). |
+| 2026-03-31 | **MR-genomgang:** Neurolog Daniel har pratat med rontgenlakaren och soker kontakt med neuroradiolog pa Karolinska for second opinion. Funderar pa om fynden ar kranialnervsintradezon (GBS) vs parenkymlesioner (ADEM/HE). Kortisonbeslut avvaktar. |
+| 2026-03-31 (fm) | **Klinisk forbattring:** Puls 84–85 (forsta gang <90, ned fran ihallande >100). BT stabilare, **noradrenalin utsatt** (hemodynamiskt stabil utan vasopressor). Magen igang (laxering fungerar). Patienten verkar mer tillfreds. Vatskeaterstallning pagar metodiskt (mal −500 ml igar, uppnatts). |
+| 2026-03-31 (~11:00) | **Hemodynamisk forsamring:** BT 96/44, puls 100. Sedering hojd (patienten "stressad" — troligen utlost av diarre/magaktivitet). **Noradrenalin aterinsatt.** Diarre i morse (laxering fungerar, bidrar till negativ vatska men triggar autonom stress). |
 
 ### Nuvarande status (2026-03-31)
 
 - **Respirator:** Ja, beroende. Ventilering 4,5.
 - **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 6 post-trakeostomi)
 - **Medvetande:** Nedsovd. EEG visar sedering — svart att skilja fran neurologiskt tillstand. Sederingsnivan bedoms adekvat.
-- **Neurologisk bedomning:** Oforandrad fran 2026-03-26 — minimala/inga reaktioner. Neurolog Daniel beskriver det som en ovanligt kraftig GBS.
-- **Autonom dysfunktion:** Forbattrad — BT **stabilare** (2026-03-31), puls **84–85** (ned fran ihallande >100). **Noradrenalin utsatt.** Anisokori.
+- **Neurologisk bedomning:** **100% forlamning** — kan inte oppna nagot oga, ingen rorelse i nagon kroppsdel. Sista ogonlocksrorelsen forsvann troligen mellan 25/3 kvall och 26/3 fm (innan PE4). Total forlamning etablerad innan PE4–5 genomfordes. Neurolog Daniel beskriver det som en ovanligt kraftig GBS.
+- **Autonom dysfunktion:** Fluktuerar — BT stabilare tidigt 31/3 (puls 84–85, noradrenalin utsatt), men **forsamring kl ~11:00:** BT 96/44, puls 100, noradrenalin aterinsatt efter sederingshojning. Anisokori.
 - **Infektion:** Utlakt, antibiotika har fungerat.
 - **Temp:** 37,7°C (2026-03-29)
-- **Vikt/vatska:** Viktuppgang 5 kg pa 6–7 dygn (+8,9%, 2026-03-30). Vatskeaterstallning pagar: mal −500 ml/dygn, **uppnatt 2026-03-30**. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
+- **Vikt/vatska:** Vikt **58,5 kg** (2026-03-31, ned fran ~61 kg). Vatskeaterstallning pagar: −1000 till −1500 ml balans. **Glukos 5% borttagen** (var 1 440 ml/dygn). Sondmat okad for att kompensera kalorier. Teamet mater och beraknar lopande. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
 - **Behandling given:** Alla 5 PE-sessioner slutforda (PE5 genomford 2026-03-27 lunch).
-- **Medicinering (2026-03-29):** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smartlindring), **gabapentin** (neuropatisk smarta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn).
+- **Medicinering (2026-03-31 ~11:00):** Propofol 0,2 mg/kg/h (sedering — kraftigt sankt fran 1,5 mg/kg/h 29/3, hojd av skoterska fran annu lagre niva), fentanyl 1,5 mcg/kg/h (smartlindring — hojd fran 1,0), klonidin 1,5 mcg/kg/h (autonom stabilisering — hojd fran 0,9), noradrenalin (aterinsatt), **gabapentin** (neuropatisk smarta), kaliumklorid, ~~glukos 5%~~ (borttagen 31/3), Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen. Inga tecken pa CNS-infektion eller inflammation.
 - **Lab (2026-03-27):** fT3: **normalt**. TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
 - **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna (2026-03-28): litet fynd — neurolog + rontgenlakare genomgar MR 2026-03-31. Kortisonbeslut avvaktar.

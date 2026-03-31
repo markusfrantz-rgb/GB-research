@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~690 peer-reviewed referenser | 18 forskningsdokument | 149 fulltexter tillgängliga | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~690 peer-reviewed referenser | 19 forskningsdokument | 295 fulltexter tillgängliga | 34 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -192,12 +192,13 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
 | [**Vätskestyrning vid GBS-dysautonomi**](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | **NYTT (2026-03-30):** 5%-tröskel, deresuscitation, WiPO (59% av weaning-svikt), beslutsalgoritm, diuretika-evidens (3 RCT), GBS-specifik sårbarhet |
 | [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
+| [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-referensbilder |
 
 ---
 
 ## Källbibliotek — verifierade fulltexter
 
-149 fulltexter tillgängliga (42 PDF + 64 text i `sources/fulltext/` + 1 PDF + 42 text i `research-ivig-iga/fulltexts/`). Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+295 fulltexter tillgängliga (58 PDF + 194 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 34 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
