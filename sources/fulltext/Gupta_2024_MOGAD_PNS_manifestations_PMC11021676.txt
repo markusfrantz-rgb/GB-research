@@ -1,0 +1,44 @@
+Peripheral Nervous System Manifestations of MOG Antibody Associated Disease
+
+Authors: Pranjal Gupta, Pritikanta Paul, Vyanka Redenbaugh, Yong Guo, Claudia Lucchinetti, Yahya Abdulrahman, Abhigyan Datta, Shailee Shah, Christopher J Klein, Sean J Pittock, Eoin P Flanagan, Divyanshu Dubey
+Journal: Annals of Clinical and Translational Neurology
+Year: 2024; Volume: 11(4): 1046-1052
+PMID: 38234084 | PMCID: PMC11021676 | DOI: 10.1002/acn3.52001
+
+ABSTRACT
+
+This retrospective investigation examined peripheral nervous system (PNS) involvement in MOG antibody-associated disease (MOGAD) across 215 patients at Mayo Clinic. Six patients (3%) exhibited PNS involvement occurring simultaneously with central nervous system (CNS) demyelinating episodes, all manifesting as polyradiculopathy with cauda equina involvement. The researchers identified MOG expression in healthy human spinal nerve roots at the CNS-PNS transition zone. Nine additional MOG-IgG1-positive patients demonstrated PNS involvement unrelated to CNS events, all with alternate etiologies. Isolated peripheral neuropathy is not a feature of MOGAD, but inflammatory nerve root involvement can occur concurrently with CNS demyelinating events.
+
+METHODS
+
+Retrospective analysis approved by Mayo Clinic IRB, examining electronic medical records from January 2000 through June 2020. Patient classification included true-positives (meeting international MOGAD criteria), false-positives, and disease controls (196 patients with chronic small fiber neuropathy, DADS neuropathy, ALS).
+
+RESULTS
+
+True-Positive MOGAD Patients with PNS Involvement (n=6):
+- All presented with polyradiculopathy
+- Median MOG-IgG1 titer: 1:40 (range 1:20-1:100)
+- Cauda equina involvement in all patients
+- Myelitis in 5/6, optic neuritis in 2/6
+- Elevated CSF protein in 4/6, pleocytosis in 5/6
+- Longitudinally extensive thoracic cord T2-hyperintensity in 5/6
+- Conus involvement in 5/6
+- Initial treatment: IV methylprednisolone + oral steroids (all)
+- Monophasic in 3, relapsing in 3
+- Favorable outcomes in 4/6
+
+Disease Controls: 5/196 (3%) tested positive for MOG-IgG1, all at lowest titer (1:20).
+
+TISSUE IMMUNOHISTOCHEMISTRY
+
+MOG immunoreactivity was detected in the spinal root just adjacent to the spinal cord, likely secondary to CNS oligodendrocytes outgrowth into the spinal root. No expression was detected in distal spinal roots or dorsal root ganglia. The expression pattern was attributed to CNS oligodendrocyte extensions at the dorsal root transitional zone (CNS-PNS junction).
+
+DISCUSSION
+
+Immune-mediated PNS involvement in MOGAD manifests as polyradiculopathy rather than length-dependent or distal polyneuropathy. The dorsal root transitional zone consists of a central tissue projection into the rootlet attachment to the spinal cord, containing both CNS and PNS components, permitting oligodendrocyte outgrowth and MOG expression. A deficient blood-spinal cord barrier in this region may facilitate antibody and T-cell infiltration.
+
+The phenomenon of incorrectly attributing atypical presentations to autoimmunity based solely on antibody positivity—termed "phenotype creep"—should be avoided.
+
+CONCLUSIONS
+
+MOG-IgG1 evaluation is not indicated in evaluation of neuropathy presentations in the absence of coexisting well-characterized MOGAD phenotypes.

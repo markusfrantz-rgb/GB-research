@@ -1,0 +1,30 @@
+Treatment of Severe Japanese Encephalitis Complicated With Hashimoto's Thyroiditis and Guillain-Barre Syndrome With Protein A Immunoadsorption: A Case Report
+Zang Q, Wang Y, Guo J, Long L, Zhang S, Cui C, Song D, Yu B, Tang F, Teng J, Miao W
+Frontiers in Immunology. 2022;12:807937
+PMID: 35069593 | PMCID: PMC8777188 | DOI: 10.3389/fimmu.2021.807937
+
+CASE REPORT
+43-year-old woman with severe Japanese encephalitis (JE) complicated by concurrent Hashimoto's thyroiditis and Guillain-Barre syndrome.
+
+PRESENTATION
+- Fever, seizures, loss of consciousness for 6 days
+- Brain MRI: symmetrical lesions in bilateral thalamus, caudate nucleus, lentiform nucleus, bilateral hippocampus
+- Anti-thyroglobulin antibodies: 751.4 IU/mL (elevated)
+- CSF WBC: 120 x 10^6/L
+
+TREATMENT COURSE
+1. Initial: antiviral agents (penciclovir, ganciclovir), glucocorticoids, IVIG
+2. Progressive demyelinating peripheral neuropathy developed
+3. Protein A Immunoadsorption (PAIA) started on day 36
+
+PAIA MECHANISM
+Selectively removes circulating antibodies and immune complexes by binding them to an immobilized ligand. First case to receive PAIA combined with antiviral-glucocorticoid-immunoglobulin regimen for encephalitis, meningitis, HT, and GBS caused by JEV.
+
+OUTCOMES
+- Discharge: Hughes score 3 (supported ambulation)
+- 4 months: Hughes score 2
+- 6 months: Hughes score 1 (normalized thyroid antibody levels, improved peripheral nerve function)
+- 12 months: Hughes score 1, normalized thyroid function
+
+SIGNIFICANCE
+Demonstrates PAIA effectiveness in managing antibody-mediated autoimmune complications (both central and peripheral) secondary to viral infection. Triple overlap of encephalitis + Hashimoto's + GBS illustrates complex autoimmune interplay.

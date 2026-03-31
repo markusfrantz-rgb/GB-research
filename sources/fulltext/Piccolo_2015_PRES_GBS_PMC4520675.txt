@@ -1,0 +1,40 @@
+Minimally symptomatic posterior reversible encephalopathy in Guillain-Barre syndrome
+
+Authors: Giovanni Piccolo, Giuseppina Borutti, Diego Franciotta, Carla Arbasino, Carlo Dallocchio, Claudia Camana, Giada Gola, Maria Grazia Egitto
+Journal: Functional Neurology
+Year: 2015
+PMID: 26214029
+PMCID: PMC4520675
+
+CASE PRESENTATION
+
+58-year-old woman with progressive distal leg paresthesia and lower limb weakness, alongside autonomic dysfunction. Developed excessive daytime somnolence and non-painful sense of head heaviness - minimal CNS involvement despite significant neuroimaging abnormalities.
+
+MRI FINDINGS
+
+Brain imaging revealed:
+- White matter hyperintensities on FLAIR and T2-weighted images bilaterally involving occipital and parietal lobes
+- Cortical hyperintensities in occipital lobes related to vasogenic edema on ADC mapping
+- DWI did NOT show areas of restricted signal (key distinguishing feature from cytotoxic edema/infarction)
+- No contrast enhancement
+
+CLINICAL CONTEXT
+
+Marked autonomic dysregulation:
+- Hypertension: 220/110 mmHg
+- Tachycardia: 110 bpm
+- Paralytic ileus
+
+CSF: Elevated protein (109 mg/dL) with normal cell counts
+
+RESOLUTION
+
+Follow-up MRI demonstrated nearly complete disappearance of white matter hyperintensities within two weeks, confirming PRES's reversible nature.
+
+KEY CLINICAL IMPLICATIONS
+
+1. PRES can occur in GBS patients due to autonomic dysregulation causing severe hypertension
+2. White matter hyperintensities in posterior brain regions should raise suspicion for PRES
+3. Absence of restricted diffusion and contrast enhancement helps distinguish PRES from other white matter pathology
+4. PRES is reversible - follow-up imaging confirms resolution
+5. Almost all GBS-associated PRES cases occur in women over 55 years

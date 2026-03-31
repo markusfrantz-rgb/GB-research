@@ -1,0 +1,45 @@
+Central Pontine Myelinosis and Osmotic Demyelination Syndrome
+
+Authors: Johann Lambeck, Maren Hieber, Andrea Dressing, Wolf-Dirk Niesen
+Journal: Deutsches Arzteblatt International
+Year: 2019
+PMID: 31587708
+PMCID: PMC6804268
+DOI: 10.3238/arztebl.2019.0600
+
+OVERVIEW
+
+ODS is a secondary neurological condition caused by primary underlying diseases, characterized by myelin loss in specific brain regions. Encompasses both central pontine (CPM) and extrapontine manifestations.
+
+RISK FACTORS IN ICU PATIENTS
+
+ICU incidence: 2.5%
+Key vulnerabilities:
+- Severe electrolyte imbalances, particularly hypokalemia (up to 41% of cases)
+- Rapid sodium correction in chronic hyponatremia
+- Concurrent hypokalemia with hyponatremia
+- Renal failure or hemodialysis
+
+DIAGNOSTIC CRITERIA
+
+Clinical features: Biphasic clinical course, initial electrolyte imbalance or other risk factors, appearance of pontine or extrapyramidal symptoms after 1-14 days.
+
+MRI FINDINGS
+
+- Hyperintensity in T2 and T2-FLAIR sequences
+- Hypointensity in T1 sequences
+- Characteristic "trident sign" in pontine region
+- Positive findings may appear within first 24 hours post-symptom onset
+- Early inconspicuous MRI warrants follow-up at 1-2 weeks
+- DWI, T2, and T2-FLAIR considered equivalent for detection
+- CT sensitivity only 25-28.5% vs MRI
+
+PROGNOSIS
+
+- 33-50% achieve favorable outcomes
+- 24-39% reach complete functional recovery
+- 33-55% require ongoing care or die
+
+RELEVANCE TO GBS ICU PATIENTS
+
+SIADH/hyponatremia affects ~50% of GBS patients. If sodium is corrected too rapidly, osmotic demyelination can occur, producing white matter lesions that may be confused with other CNS pathology. This is a critical differential for ICU patients with GBS who develop new brain MRI abnormalities.

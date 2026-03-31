@@ -1,0 +1,31 @@
+Onset of Guillain-Barre Syndrome and Transverse Myelitis Following COVID-19 Vaccination
+
+Authors: Kenny Do, Eric Kawana, Jenifer Do, Luis Diaz
+Journal: Cureus, 2023;15(6):e41009
+PMID: 37519513 | PMCID: PMC10372383 | DOI: 10.7759/cureus.41009
+
+CASE REPORT
+
+A 59-year-old male developed GBS and transverse myelitis ~60 days after COVID-19 booster vaccination.
+
+PRESENTATION:
+- Lower back pain, followed by bilateral lower extremity numbness/tingling
+- Progressed to complete bilateral lower limb paralysis with urinary retention
+
+DIAGNOSTICS:
+- Thoracic MRI: Patchy hyperintensities consistent with demyelination
+- EMG: Reduced recruitment, slowed conduction velocities
+- F-wave abnormalities in tibial and peroneal nerves
+
+TREATMENT COURSE:
+- Initial plasmapheresis + IV steroids: ineffective
+- IVIg 400 mg/kg loading + 1 g/kg maintenance: effective
+- 6 months: Regained normal strength with mild residual balance issues
+
+PROPOSED MECHANISM: Molecular mimicry where vaccine antigens present similarly to host cells.
+
+INCIDENCE:
+- GBS post-COVID vaccination: 0.29-3.29 per 1,000,000
+- TM post-COVID: ~0.5 per million
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC10372383/

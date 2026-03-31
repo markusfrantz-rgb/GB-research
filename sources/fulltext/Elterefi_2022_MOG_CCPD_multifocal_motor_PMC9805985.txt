@@ -1,0 +1,33 @@
+Combined Central and Peripheral Demyelination in a Patient of Multifocal Motor Neuropathy and Positive Anti-myelin Oligodendrocyte Glycoprotein (MOG) Antibodies
+
+Authors: Alanood E Elterefi, Mahfoud Y Elbashari, Amani Alzaabi, Mohamed E Abouelnaga, Hesham Eissa
+Journal: Cureus
+Year: 2022; Volume: 14(12): e32143
+PMID: 36601183 | PMCID: PMC9805985 | DOI: 10.7759/cureus.32143
+
+ABSTRACT
+
+This case report describes an unusual clinical presentation combining motor nerve dysfunction with spinal cord lesions in a 24-year-old male patient testing positive for MOG antibodies. The patient demonstrated neurophysiological evidence of multifocal motor neuropathy alongside imaging findings of cord inflammation.
+
+CLINICAL PRESENTATION
+
+A 24-year-old male developed four-month progressive numbness and weakness in both upper and lower limbs, eventually affecting sensation throughout his body. Physical examination revealed bilateral lower motor neuron weakness, absent reflexes, and sensory level at C4. Romberg's sign was strongly positive along with sensory ataxia and pseudo-athetosis.
+
+DIAGNOSTIC FINDINGS
+
+- Nerve conduction studies: multifocal motor neuropathy with conduction blocks
+- MRI: cervical and thoracic spinal cord lesions
+- MOG IgG1 antibodies: initially negative, converted to positive on repeat testing
+- CSF: elevated protein, positive oligoclonal bands
+- Aquaporin-4 and ganglioside antibodies: negative
+
+TREATMENT AND OUTCOME
+
+Combined therapy with intravenous immunoglobulins and pulsed methylprednisolone proved effective, yielding significant clinical improvement despite mild residual deficits. Follow-up MRI showed substantial lesion improvement within two weeks.
+
+DISCUSSION
+
+The authors propose MOG IgG1 as a potential disease marker and discuss three hypotheses explaining peripheral nervous system involvement in MOG antibody disease:
+1. Molecular mimicry with peripheral myelin proteins
+2. Direct peripheral MOG expression
+3. Shared autoimmune susceptibility

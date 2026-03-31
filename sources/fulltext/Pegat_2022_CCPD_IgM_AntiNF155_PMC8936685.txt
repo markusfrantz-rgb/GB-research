@@ -1,0 +1,26 @@
+Combined Central and Peripheral Demyelination With IgM Anti-Neurofascin 155 Antibodies: Case Report
+
+Authors: Antoine Pegat, Emilien Delmont, Juliette Svahn, Emilien Bernard, Lola Lessard, Romain Marignier, Francoise Bouhour
+Journal: Neurology: Neuroimmunology & Neuroinflammation, 2022;9(3):e1160
+PMID: 35314490 | PMCID: PMC8936685 | DOI: 10.1212/NXI.0000000000001160
+
+CASE REPORT
+
+A 43-year-old woman with no prior medical history presented with progressive symptoms over three years. She experienced hand and feet paresthesia, alongside mild postural and head tremor. Clinical evaluation revealed quadridistal hypesthesia with ataxic gait and diminished tendon reflexes.
+
+Electroneuromyography demonstrated diffuse homogeneous demyelinating neuropathy. Brain imaging revealed multiple hyperintensities in the periventricular and juxtacortical white matter. The patient met CIDP diagnostic criteria and received intravenous immunoglobulin therapy with subjective improvement.
+
+Eighteen months later, acute onset symptoms emerged: abnormal stiff gait, increased paresthesia, and worsening tremor. Examination showed mild spastic paraparesis with quadridistal weakness. Three cervical myelitis lesions and new cerebral lesions meeting MS criteria were found. A simultaneous peripheral and central demyelination relapse was diagnosed.
+
+SEROLOGICAL TESTING: Flow cytometry demonstrated IgG4 anti-NF155 antibodies were negative. However, IgM anti-NF155 antibodies were positive. This is the first report of isolated IgM anti-NF155 in CCPD.
+
+Previously, isolated IgM anti-NF155 had been described in only 20 patients: 10 with CIDP, 2 with GBS, 4 with axonal neuropathies, 2 with CMT, 1 with brachial plexopathy, and 1 with facial numbness -- none in CCPD.
+
+TREATMENT: Three monthly IV corticosteroid pulses with concomitant rituximab (2 infusions of 1 g within 2 weeks, then every 6 months). Great clinical improvement achieved with only mild postural tremor remaining. No clinical or radiologic relapse after two years of follow-up.
+
+CLINICAL SIGNIFICANCE:
+- NF155 protein is expressed in both CNS and PNS, explaining combined demyelination
+- IgG4 anti-NF155 antibodies are rare (5-10% of CIDP)
+- Anti-CD20 monoclonal antibodies show particular efficacy in CIDP with IgG4 anti-NF155
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8936685/

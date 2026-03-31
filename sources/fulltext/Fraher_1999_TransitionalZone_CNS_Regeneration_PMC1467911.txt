@@ -1,0 +1,106 @@
+The transitional zone and CNS regeneration
+
+Author: JP Fraher
+Journal: J Anat. 1999 Feb;194(Pt 2):161-182
+DOI: 10.1046/j.1469-7580.1999.19420161.x
+PMID: 10337950 | PMCID: PMC1467911
+
+OVERVIEW
+
+Comprehensive review of the CNS-PNS transitional zone (TZ) structure, development,
+and its role as a barrier to CNS regeneration. The TZ is the site where central
+myelin (oligodendrocytes) transitions to peripheral myelin (Schwann cells) at
+cranial nerve and spinal nerve root entry/exit zones.
+
+STRUCTURE OF THE CNS-PNS TRANSITIONAL ZONE
+
+The transitional zone comprises the rootlet segment containing both central and
+peripheral nervous tissue. Key structural features:
+
+- Clear interface: The 2 tissues are separated by a very irregular but clearly
+  defined interface, consisting of the surface of the astrocytic tissue
+- Axon-only penetration: The interface is penetrated only by axons
+- Glial composition: Oligodendrocytes produce myelin centrally; Schwann cells
+  produce myelin peripherally
+- Composite nodes: Transitional nodes have features that are a composite of
+  central and peripheral type nodes of Ranvier
+
+ANATOMY OF THE TRANSITION
+
+Central side:
+- Myelin formed by oligodendrocytes
+- Supporting tissue is astrocytic
+- Axons embedded in CNS-type neuropil
+
+Peripheral side:
+- Myelin formed by Schwann cells
+- Each Schwann cell ensheathed in endoneurium
+- Connective tissue framework present
+
+Interface:
+- Dome-shaped, directed toward the periphery
+- Formed by astrocytic foot processes (glia limitans)
+- Located more peripherally in sensory nerves than motor nerves
+- Extent varies: from <1 mm to several mm depending on nerve and individual
+
+TRANSITIONAL NODES OF RANVIER
+
+At the exact junction point, there exist "transitional nodes" where one side of
+the node is formed by oligodendrocyte myelin and the other by Schwann cell myelin.
+These are structurally unique composite structures.
+
+DEVELOPMENTAL FORMATION
+
+The interface develops postnatally through active glial processes: It is formed
+by growth of processes into the axon bundle from glial cell bodies around its
+perimeter. These form a barrier across the bundle which fully segregates
+prospectively myelinated axons.
+
+PATHOLOGICAL VULNERABILITY
+
+The TZ is clinically significant because:
+
+1. Neurovascular compression syndromes: Vascular compression at the TZ can cause
+   trigeminal neuralgia, hemifacial spasm, glossopharyngeal neuralgia
+
+2. Demyelination vulnerability: The transition between two myelin types creates
+   a structurally vulnerable zone
+
+3. Barrier to regeneration: Following CNS injury, the TZ forms a gliotic barrier
+   that prevents axonal regeneration from PNS into CNS
+
+Following axon injury:
+- The mature CNS component undergoes gliosis
+- The gliotic TZ tissue expands distally along the root
+- Regenerating axons cease growth on reaching the gliotic tissue
+- This is a major barrier to CNS regeneration
+
+RELEVANCE TO GBS AND INFLAMMATORY DEMYELINATION
+
+The TZ represents a structurally unique and potentially vulnerable zone where:
+1. Inflammatory processes in the PNS (GBS) can extend toward CNS territory
+2. The lack of blood-nerve barrier protection in subarachnoid nerve segments
+   allows immune cells access to both PNS and CNS myelin at this junction
+3. Complement and antibody-mediated attack at the TZ could affect both
+   oligodendrocyte and Schwann cell myelin
+
+EXPERIMENTAL APPROACHES
+
+1. Olfactory ensheathing cells (OECs): facilitate axon regeneration into cord
+2. Molecular factors: tropic/trophic factors to alter TZ environment
+3. Ventral motoneurons: may undergo some unaided CNS regeneration
+
+The dorsal root TZ serves as an excellent experimental model because the tissue
+is anisometric - individual parameters such as axon numbers, axon size and glial
+ensheathment can be readily measured.
+
+REFERENCES (selected key references)
+
+Fraher JP. J Anat. 1992;181:553-65.
+Fraher JP. J Anat. 1978;126:507-19.
+Fraher JP, Rossiter JP. J Anat. 1990;170:1-14.
+Berthold CH, Carlstedt T. Acta Physiol Scand. 1977;Suppl 446:23-42.
+Carlstedt T. J Neurocytol. 1981;10:895-907.
+Li Y, Raisman G. Brain Res. 1994;660:181-95.
+
+Open Access: Free PMC article

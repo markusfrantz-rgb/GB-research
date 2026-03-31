@@ -1,0 +1,76 @@
+An Adult Case of Recurrent Guillain-Barré Syndrome with Anti-galactocerebroside Antibodies
+Internal Medicine 2018;57(3):409-413
+Authors: Hisashi Takahashi, Tadashi Kimura, Natsuko Yuki, Akira Yoshioka
+PMID: 29093388 | PMCID: PMC5827325 | DOI: 10.2169/internalmedicine.8941-17
+
+=== ABSTRACT ===
+
+A 79-year-old woman with previous GBS history (2003) developed somnolence and tetraparesis after pneumonia in 2016. Testing revealed acute inflammatory demyelinating polyneuropathy (AIDP) and acute disseminated encephalomyelitis (ADEM). Anti-galactocerebroside (Gal-C) IgG antibodies were detected, making this extremely rare among recurrent GBS cases. The antibodies likely contributed to both CNS and PNS involvement.
+
+=== CLINICAL HISTORY ===
+
+FIRST EPISODE (2003):
+- 66-year-old woman
+- Preceding: Upper respiratory tract infection
+- Presentation: Progressive weakness
+- NCS: Demyelinating features consistent with AIDP
+- Treatment: IVIg 400 mg/kg/day for 5 days
+- Outcome: Good response, complete recovery with mild residual facial weakness
+
+SECOND EPISODE (2016 — 13 years later):
+- 79-year-old (same patient)
+- Preceding: Pneumonia
+- Presentation: Consciousness disturbance, generalized weakness, sensory loss, meningeal signs
+
+=== DIAGNOSTIC FINDINGS (2016 episode) ===
+
+MRI Brain:
+- White matter lesions consistent with CNS demyelination
+- Features compatible with ADEM
+
+NCS:
+- Demyelinating features consistent with AIDP (again)
+
+CSF:
+- Elevated protein
+- Pleocytosis
+
+Anti-ganglioside antibodies:
+- Anti-galactocerebroside (Gal-C) IgG: POSITIVE
+- Other anti-ganglioside antibodies: Variable
+
+=== TREATMENT AND OUTCOME ===
+
+Both episodes treated with IVIg (400 mg/kg/day for 5 consecutive days)
+- Good response in both episodes
+- Demonstrates stereotypic treatment responsiveness
+
+Key observation: IVIg was effective for BOTH the GBS and ADEM components in this case.
+No corticosteroids were reported as primary treatment.
+
+=== SIGNIFICANCE ===
+
+1. Anti-Gal-C antibodies as a shared epitope:
+   - Galactocerebroside is present in BOTH CNS and PNS myelin
+   - Anti-Gal-C antibodies can attack both central and peripheral myelin
+   - This explains simultaneous AIDP + ADEM
+
+2. Recurrent GBS is rare (<5% of GBS cases)
+   - Recurrence with ADEM is extremely rare
+   - Same antibody profile in both episodes suggests a consistent autoimmune mechanism
+
+3. Treatment implications:
+   - IVIg effective for combined CNS + PNS demyelination
+   - Anti-Gal-C-mediated disease may have specific treatment responsiveness
+   - The shared epitope hypothesis has direct therapeutic implications
+
+=== RELEVANCE FOR ADEM-GBS OVERLAP ===
+
+This case demonstrates:
+1. A molecular mechanism (anti-Gal-C) explaining combined CNS + PNS disease
+2. IVIg can be effective for both components simultaneously
+3. Not all ADEM-GBS overlap requires corticosteroids
+4. The specific antibody profile may predict treatment response
+5. Testing for anti-galactocerebroside and other anti-glycolipid antibodies is important
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC5827325/

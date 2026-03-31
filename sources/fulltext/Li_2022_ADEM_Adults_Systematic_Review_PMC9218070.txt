@@ -1,0 +1,101 @@
+Clinical Presentation and Outcomes of Acute Disseminated Encephalomyelitis in Adults Worldwide: Systematic Review and Meta-Analysis
+Frontiers in Immunology 2022;13:870867
+Authors: Kunyi Li, Maolin Li, Lan Wen, Qiancheng Wang, Xin Ding, Jian Wang
+PMID: 35757742 | PMCID: PMC9218070 | DOI: 10.3389/fimmu.2022.870867
+
+=== ABSTRACT ===
+
+This meta-analysis examined clinical features and functional outcomes in 437 adults with ADEM across 12 studies (1990-2021). Common diagnostic features included white matter lesions (87.1%), polyfocal onset (80.5%), and pyramidal signs (68.7%). Mortality reached 7.8%, with 47.5% experiencing residual deficits, indicating worse outcomes than children.
+
+=== METHODS ===
+
+- 12 studies (11 retrospective, 1 prospective) published 2000-2020
+- Locations: Europe (4), Asia (4), Oceania (1), North America (1), South America (1), multi-regional (1)
+- Total: 437 adult patients
+- Mean age: 37.1 years; 41.7% male
+
+=== CLINICAL PRESENTATION ===
+
+Antecedent events:
+- Preceding infections in ~50% of cases
+- Mean interval to onset: 12.5 ± 21.7 days
+- Upper respiratory tract infections most common (25.7%)
+- Vaccination-related: Less common than in pediatric cases
+
+Neurological symptoms (prevalence):
+- Polyfocal presentation: 80.5%
+- Pyramidal signs: 68.7%
+- Motor deficits: 63.4%
+- Gait abnormalities: 52.0%
+- Sensory symptoms: 47.3%
+- Cognitive changes: 46.2%
+- Bladder dysfunction: 38.1%
+- Visual symptoms: 33.2%
+- Cerebellar signs: 29.1%
+
+=== MRI CHARACTERISTICS ===
+
+- Abnormal brain imaging: 91.6%
+- White matter involvement: 87.1%
+- Gadolinium enhancement: 58.0%
+- Spinal cord abnormalities: 41.6%
+- Lesion characteristics: Diffuse, poorly demarcated, large (>1-2 cm)
+- Predominantly involving cerebral white matter
+
+=== CSF FINDINGS ===
+
+- Abnormal in 70% of patients
+- Pleocytosis: 51.8%
+- Elevated protein: 39.1%
+- Positive CSF OCBs: Only ~20% (vs. >95% in MS)
+
+=== TREATMENT ===
+
+Standard management:
+- Corticosteroids: 95.2% of patients
+- Intravenous immunoglobulin (IVIg): 16.4%
+- Plasma exchange (PLEX): 7.3%
+- ICU admission required: 39.7%
+- Mean hospitalization: 23.1 days
+
+KEY FINDING: Corticosteroids are the universal first-line treatment for adult ADEM, used in >95% of cases. IVIg and PLEX are reserved for steroid-resistant or severe cases.
+
+=== OUTCOMES ===
+
+Mortality: 7.8%
+Residual deficits: 47.5%
+ADEM recurrence: 7.2%
+Mean follow-up: 2.8 ± 3.6 years
+
+Regional mortality differences:
+- Asia: 14.5%
+- Europe: 5.5%
+- Americas: 0.4-5.0%
+
+=== ADULT vs PEDIATRIC ADEM ===
+
+Key differences:
+1. Adults have WORSE outcomes (mortality 7.8% vs <5% in children)
+2. Adults more often need ICU admission (39.7%)
+3. Residual deficits more common in adults (47.5% vs <25%)
+4. OCB positivity higher in adults (~20% vs <5%)
+5. More frequent pyramidal signs in adults
+6. Pediatric IPMSSG criteria unsuitable for ~50% of adult presentations
+
+=== TREATMENT IMPLICATIONS ===
+
+1. No randomized controlled trials exist for ADEM treatment (any age)
+2. All treatment evidence is based on case series and retrospective data
+3. IV methylprednisolone remains first-line despite limited evidence
+4. Adult-specific diagnostic and treatment guidelines are urgently needed
+5. Early and aggressive treatment is associated with better outcomes
+
+=== RELEVANCE FOR ADEM-GBS OVERLAP ===
+
+- Adults with ADEM already have worse outcomes than children
+- When ADEM co-occurs with GBS, the disease burden is compounded
+- Early combined immunotherapy (steroids + IVIg) is critical
+- ICU support is frequently required (~40% even for ADEM alone)
+- Long-term follow-up needed (7.2% recurrence rate)
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC9218070/

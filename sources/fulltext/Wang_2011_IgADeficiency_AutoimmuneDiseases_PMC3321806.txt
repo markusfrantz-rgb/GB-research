@@ -1,0 +1,24 @@
+Selective IgA Deficiency in Autoimmune Diseases
+Wang N, Shen N, Vyse TJ, Anand V, Gunnarson I, Sturfelt G, Rantapaa-Dahlqvist S, Elvin K, Truedsson L, Andersson BA, Dahle C, Ortqvist E, Gregersen PK, Behrens TW, Hammarstrom L
+Molecular Medicine. 2011;17(11-12):1383-1396
+PMID: 21826374 | PMCID: PMC3321806 | DOI: 10.2119/molmed.2011.00195
+
+KEY FINDINGS
+Selective IgA deficiency occurs at markedly elevated frequencies in patients with:
+- Graves disease: 1:60 prevalence (vs ~1:600 general population)
+- SLE: 1:67 in Caucasians, 1:121 in Chinese (>30-fold higher than general Chinese population)
+- Type 1 diabetes: ~1:100 in Caucasians (~5-fold increase)
+- Celiac disease: 1:39 to 1:192
+
+GENETIC BASIS
+Common genetic background involving both MHC and non-MHC genes. The HLA-B8, DR3, DQ2 haplotype is central:
+- Present in 45% of IgAD patients vs 16% of general population
+- Non-MHC genes: IFIH1, CLEC16A
+
+Myasthenia gravis and rheumatoid arthritis showed minimal IgAD associations despite shared HLA factors.
+
+CONCLUSION
+IgA deficiency may represent an autoimmune condition sharing genetic predisposition with selected immune-mediated diseases. A common genetic background explains IgAD association with Graves disease, SLE, T1D, and celiac disease.
+
+RELEVANCE TO HASHIMOTO + IgA DEFICIENCY
+While this study focused on Graves disease rather than Hashimoto's thyroiditis, the shared HLA-B8, DR3, DQ2 haplotype and autoimmune thyroid disease overlap strongly support a genetic link between IgA deficiency and autoimmune thyroid disease broadly.

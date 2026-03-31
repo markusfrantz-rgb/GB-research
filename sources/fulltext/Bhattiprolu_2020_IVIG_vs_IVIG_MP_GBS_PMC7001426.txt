@@ -1,0 +1,77 @@
+A Comparative Study of IVIG versus IVIG with IV Methylprednisolone in Guillain-Barre Syndrome
+Annals of Indian Academy of Neurology 2020;23(1):80-82
+Authors: Rahi Kiran Bhattiprolu, Vijay Sardana, Dilip Maheshwari, Bharat Bhushan, Prashant Shringi, Pallav Jain, Vaishal Shah, Bhavin Patel
+PMID: 32055134 | PMCID: PMC7001426 | DOI: 10.4103/aian.AIAN_378_19
+
+=== ABSTRACT ===
+
+Background: Several studies have shown that both oral steroids and intravenous methylprednisolone (ivMPS) are not beneficial in GBS, and the combination of IVIG and ivMPS is not more effective than IVIG alone. However, steroids have immunomodulatory properties and could potentially augment the effects of IVIG.
+
+Objective: To compare the outcome of IVIG versus IVIG with ivMPS in GBS patients.
+
+=== METHODS ===
+
+Study Design: Single-blind, placebo-controlled randomized trial
+Patients: 46 GBS patients, equally divided into two groups
+
+Group A (n=23): IVIG 0.4 g/kg/day for 5 days + placebo
+Group B (n=23): IVIG 0.4 g/kg/day for 5 days + ivMPS 1 g/day for 5 days
+
+Assessment: GBS disability scores and Modified Rankin Scale at admission, discharge, and 1-month follow-up.
+Primary endpoint: Improvement by ≥1 grade on GBS disability scale at 1 month.
+
+=== RESULTS ===
+
+Primary outcome:
+- Group A (IVIG alone): 18/23 (78%) achieved primary outcome
+- Group B (IVIG + ivMPS): 19/23 (82%) achieved primary outcome
+- Difference: NOT statistically significant
+
+Secondary outcomes:
+- Duration of hospital stay: No significant difference
+- Need for mechanical ventilation: No significant difference
+- MRS at 1 month: No significant difference
+
+Adverse effects:
+- Hyperglycemia was more common in Group B (ivMPS group)
+- No serious adverse events in either group
+
+=== CONCLUSIONS ===
+
+IV methylprednisolone along with IVIg offers NO added benefit in GBS.
+
+The authors noted that:
+1. Corticosteroids alone are not beneficial in GBS (consistent with Cochrane review)
+2. Adding ivMPS to standard IVIg does not improve outcomes
+3. The potential immunomodulatory synergy between steroids and IVIg did not materialize
+4. Cost considerations favor IVIg alone as standard treatment
+
+However, the authors recommended further investigation given:
+- Small sample size (46 patients)
+- Potential benefit in specific subgroups not assessed
+- Drug's cost-effectiveness and safety profile in resource-limited settings
+
+=== COMPARISON WITH VAN KONINGSVELD 2004 (LANCET) ===
+
+The Dutch RCT (van Koningsveld 2004) with 225 patients found:
+- OR for improvement: 1.68 (unadjusted, not significant)
+- Adjusted OR: 1.89 (p=0.03, significant after adjustment for age and disability)
+- Conclusion: Possible modest benefit of adding ivMPS to IVIg
+
+This Indian study found no benefit, possibly due to:
+- Smaller sample size
+- Different patient population
+- Different GBS subtypes (AMAN more common in India vs AIDP in Europe)
+
+=== CLINICAL IMPLICATIONS ===
+
+For "pure" GBS:
+- ivMPS does not add benefit to IVIg → Not recommended as routine add-on
+- IVIg alone remains standard first-line treatment
+
+For GBS with CNS involvement (ADEM overlap, BBE):
+- The treatment paradigm changes completely
+- Corticosteroids become ESSENTIAL for the CNS component
+- Combined IVIg + IV methylprednisolone is the standard approach
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7001426/

@@ -1,0 +1,22 @@
+Severe Hypothyroidism Complicated by Myopathy and Neuropathy with Atypical Demyelinating Features
+Brzozowska MM, Banthia S, Thompson S, Narasimhan M, Lee J
+Case Reports in Endocrinology. 2021;2021:5525156
+PMID: 34104497 | PMCID: PMC8159635 | DOI: 10.1155/2021/5525156
+
+CASE REPORT
+30-year-old male with severe autoimmune hypothyroidism.
+
+PRESENTATION
+- Progressive fatigue, upper and lower limb weakness, myalgia, intermittent paraesthesia
+- TSH: 405.5 mIU/L (massively elevated)
+- CK: 20,804 U/L (consistent with rhabdomyolysis)
+
+NERVE CONDUCTION STUDIES
+Severe sensorimotor polyneuropathy with both axonal AND demyelinating features. This is atypical: hypothyroid neuropathy typically presents as axonal-only.
+
+TREATMENT RESPONSE
+- 3 months: Biochemical normalization, complete myopathy recovery, CK normalized
+- 12 months: Significant strength improvement but persistent lower limb areflexia and incomplete nerve recovery
+
+SIGNIFICANCE
+The severity and incomplete resolution of neurological manifestations emphasize importance of early diagnosis to prevent permanent nerve damage from prolonged hypothyroidism. The demyelinating features suggest autoimmune mechanism beyond simple thyroid hormone deficiency.

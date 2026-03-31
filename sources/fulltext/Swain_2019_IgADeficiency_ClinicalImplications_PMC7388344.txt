@@ -1,0 +1,36 @@
+The clinical implications of selective IgA deficiency
+Swain S, Selmi C, Gershwin ME, Teuber SS
+Journal of Translational Autoimmunity. 2019;2:100025
+PMID: 32743511 | PMCID: PMC7388344 | DOI: 10.1016/j.jtauto.2019.100025
+
+OVERVIEW
+Comprehensive review of selective IgA deficiency (SIgAD), the most common primary immunodeficiency.
+
+DEFINITION
+Serum IgA <7 mg/dl in patients >4 years old with normal IgG and IgM levels and normal vaccine responses.
+
+PREVALENCE
+Ranges from 1:163 (Spain) to 1:14,840 (Japan). Monozygotic twins: 31% concordance; dizygotic: 13%.
+
+CLINICAL MANIFESTATIONS
+
+Infections: Increased susceptibility to sinopulmonary and GI infections (especially Giardia lamblia).
+
+Allergic Disease: Associated with allergic rhinitis, asthma, atopic dermatitis.
+
+Autoimmunity: Significant association with:
+- Autoimmune thyroiditis (including Hashimoto's)
+- SLE
+- Celiac disease
+- Type 1 diabetes
+
+Mechanism: Increased gastrointestinal permeability and greater antigen presentation, combined with reduced regulatory T cells, may facilitate autoimmune development. Specific HLA haplotypes (B8, DR3, DQ2) play crucial pathogenic role.
+
+MANAGEMENT
+Primarily supportive. Immunoglobulin replacement reserved for severe cases.
+
+CRITICAL SAFETY NOTE
+Patients require counseling regarding transfusion risks. Should wear medical alert identification due to potential anaphylactic reactions from anti-IgA antibodies.
+
+RELEVANCE TO MADELEINE'S CASE
+SIgAD with concurrent autoimmune thyroiditis is a documented association. The shared HLA haplotype risk and increased autoimmune susceptibility in IgA-deficient patients is directly relevant.

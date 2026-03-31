@@ -1,0 +1,27 @@
+Efficacy of Rituximab as Third-Line Therapy in Combined Central and Peripheral Demyelination
+
+Authors: Salvatore Savasta, Thomas Foiadelli, Elisa Vegezzi, Andrea Cortese, Alessandro Lozza, Anna Pichiecchio, Diego Franciotta, Enrico Marchioni
+Journal: Neurology: Clinical Practice, 2017;7(6):534-537
+PMID: 29431175 | PMCID: PMC5800713 | DOI: 10.1212/CPJ.0000000000000388
+
+CASE REPORT
+
+A 14-year-old boy presented with ascending paresthesia, ataxic gait, and areflexia following a flu-like illness. Diagnostic findings included:
+- Multiple brain white matter lesions with spinal cord involvement
+- Demyelinating neuropathy confirmed by nerve conduction studies
+- Negative for anti-MOG, anti-AQP4 antibodies
+
+Initial treatments proved insufficient: methylprednisolone and immunoglobulin therapy produced minimal benefit over 30 months. Natalizumab provided temporary improvement but ultimately worsened peripheral nervous system function.
+
+RITUXIMAB TREATMENT:
+Rituximab (500 mg weekly for four weeks) yielded dramatic results:
+- Clinical: Disability score improved from EDSS 7 to EDSS 1
+- Imaging: Brain and spine lesion burden decreased substantially
+- Electrophysiology: Near-normalization of motor conduction velocities
+- Durability: 28-month follow-up showed sustained improvement without relapses
+
+The only adverse effect was transient low immunoglobulin levels requiring temporary replacement therapy.
+
+CONCLUSION: Rituximab should be considered as an effective therapy for the treatment of steroid- and IVIg-resistant CCPD.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC5800713/

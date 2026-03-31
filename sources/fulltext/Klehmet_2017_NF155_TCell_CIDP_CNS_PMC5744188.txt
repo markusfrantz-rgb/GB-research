@@ -1,0 +1,27 @@
+Neurofascin (NF)155- and NF186-Specific T Cell Response in a Patient Developing a Central Pontocerebellar Demyelination after 10 Years of CIDP
+
+Authors: Juliane Klehmet, Max Staudt, Jan-Markus Diederich, Eberhard Siebert, Edgar Meinl, Lutz Harms, Andreas Meisel
+Journal: Frontiers in Neurology, 2017;8:724
+PMID: 29312139 | PMCID: PMC5744188 | DOI: 10.3389/fneur.2017.00724
+
+CASE REPORT
+
+A 56-year-old patient with CIDP since 1999 developed brainstem symptoms after 10 years of stable disease on maintenance immunoglobulin therapy.
+
+PRESENTATION: Subacute brainstem syndrome with progressive vertigo, ataxia, and gait disturbance. MRI revealed right-sided pontocerebellar lesion with partial enhancement.
+
+KEY IMMUNOLOGICAL FINDINGS:
+- ELISPOT assays detected T cell responses against NF155 and NF186 BEFORE clinical manifestation
+- Elevated interferon-gamma responses against these myelin antigens
+- NF155 and NF186 antibodies were NEGATIVE (seronegative)
+- This suggests T cell-mediated rather than antibody-mediated pathology
+
+TREATMENT: Escalating IVIg to 2 g/kg led to clinical remission with resolution of NF-specific T cell responses on follow-up ELISPOT.
+
+SIGNIFICANCE:
+- May represent a novel CIDP subtype with delayed CNS involvement
+- T cell responses to neurofascin possible without detectable antibodies
+- Demonstrates that CCPD can develop years after isolated PNS disease
+- Highlights importance of monitoring for CNS involvement in long-standing CIDP
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC5744188/

@@ -1,0 +1,92 @@
+Autoimmune diseases of the brain, imaging and clinical review
+
+Authors: Ghazal Shadmani, Tyrell J Simkins, Reza Assadsangabi, Michelle Apperson, Lotfi Hacein-Bey, Osama Raslan, Vladimir Ivanovic
+Journal: The Neuroradiology Journal
+Year: 2022 (Published September 2021)
+PMID: 34490814
+PMCID: PMC9130615
+DOI: 10.1177/19714009211042879
+
+COMPREHENSIVE REVIEW OF AUTOIMMUNE BRAIN DISEASES AND THEIR IMAGING PATTERNS
+
+1. DEMYELINATING DISEASES
+
+Multiple Sclerosis (MS):
+- Dissemination in space (DIS) and time (DIT)
+- Periventricular lesions (>=3 mm), juxtacortical/cortical, infratentorial, spinal cord
+- Central vein sign (CVS) in >80% of lesions
+- Ovoid morphology with peripheral discontinuous enhancement
+
+MS Variants:
+- Tumefactive demyelinating lesions (TDL): >2 cm, peripheral discontinuous enhancement, peripheral restriction on DWI
+- Balo's concentric sclerosis: Alternating isointense and hyperintense rings on T2
+- Marburg variant MS: Fulminant, confluent T2/FLAIR hyperintensities
+
+ADEM (Acute Disseminated Encephalomyelitis):
+- Bilateral but asymmetric, diffuse, large (>1-2 cm) FLAIR/T2-hyperintensities with indistinct borders
+- 50% periventricular distribution vs >90% in MS
+- Enhancement varies: nodular, diffuse, complete or partial ring
+- KEY DIFFERENTIATOR: ADEM lesions larger, less well-defined than MS
+
+AHLE (Acute Hemorrhagic Leukoencephalitis):
+- Rare hyperacute variant of ADEM
+- Multiple confluent large hemorrhagic lesions
+- T2*/SWI essential for diagnosis
+
+NMOSD and MOG-Associated Disease:
+- Deep and subcortical white matter lesions in ~50% NMOSD
+- "Cloud-like enhancement" with blurred margins
+- Diencephalic lesions in bilateral hypothalamus
+- LETM involving >=3 vertebral segments
+
+Susac Syndrome:
+- T2/FLAIR hyperintense "snowball" lesions in middle layer of corpus callosum
+- Sparing of callososeptal interface
+
+2. NON-DEMYELINATING PARENCHYMAL DISEASES
+
+Autoimmune Encephalitis (NMDAr):
+- 89% have no neuroimaging abnormalities initially
+- When present: T2/FLAIR hyperintensities in medial temporal lobes
+- Mild transient cortical enhancement without restricted diffusion
+
+Hemophagocytic Lymphohistiocytosis (HLH):
+- Extensive confluent T2/FLAIR hyperintensities in cerebral and cerebellar white matter
+- Diffuse leptomeningeal and perivascular enhancement
+- Symmetrical bilateral putamen involvement
+
+Hashimoto Encephalitis:
+- MRI normal in ~50% of patients
+- Non-specific T2/FLAIR changes in subcortical white matter
+- Relative sparing of occipital lobes
+
+SLE (Systemic Lupus Erythematosus):
+- 50% NPSLE patients have no brain abnormalities on conventional MRI
+- Small subcortical and deep white matter hyperintensities
+- Bilateral, symmetrical, paramedian, posterior predominance
+
+3. MENINGEAL-BASED DISEASES
+
+Sarcoidosis: Cranial nerve enhancement with basal leptomeningeal thickening
+IgG4-Related Disease: Homogeneous hypertrophic nodular meningeal thickening
+GPA: Moderately to markedly hypointense pachymeninges with avid enhancement
+
+4. BRAINSTEM AND POSTERIOR FOSSA DISEASES
+
+CLIPPERS: Punctate <3 mm curvilinear T1 post-gadolinium enhancement centered in pons/cerebellum. T2-FLAIR may be relatively unrevealing.
+
+Neuro-Behcet Disease: T2/FLAIR hyperintense lesions in brainstem, pons, midbrain, diencephalon with cytotoxic edema.
+
+DIFFERENTIAL DIAGNOSIS FRAMEWORK
+
+MS vs Mimics:
+- Migraines: Subcortical WM lesions <3 mm, minimal periventricular
+- Age-related small-vessel disease: Non-enhancing, spared subcortical U-fibers, symmetrical frontal horn caps
+- CADASIL: Confluent WM changes with microhemorrhage and lacunar infarcts
+
+Key features to analyze across conditions:
+- Signal change characteristics
+- Topography and distribution
+- Lesion length and width
+- Gadolinium enhancement pattern
+- Evolution over time

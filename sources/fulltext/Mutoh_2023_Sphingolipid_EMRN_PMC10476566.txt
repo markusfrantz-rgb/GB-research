@@ -1,0 +1,33 @@
+Sphingolipid Abnormalities in Encephalomyeloradiculoneuropathy (EMRN) are Associated with an Anti-Neutral Glycolipid Antibody
+
+Authors: Tatsuro Mutoh, Akihiro Ueda, Yoshiki Niimi
+Journal: FEBS Open Bio, 2023;13(9):1580-1586
+PMID: 36807737 | PMCID: PMC10476566 | DOI: 10.1002/2211-5463.13578
+
+REVIEW
+
+EMRN is a newly identified neuroinflammatory disorder affecting brain, spinal cord, and peripheral nerves.
+
+KEY FINDINGS:
+- Anti-neutral glycolipid autoantibodies (especially anti-lactosylceramide/LacCer) detected in sera and CSF at acute phase
+- Antibodies disappear after successful immunomodulatory therapy
+- Significant upregulation of serum C5a levels and CSF ceramide accumulation
+- Suggests abnormal innate immunity activation
+
+SPHINGOLIPID CATEGORIES:
+- Ceramide (Cer): Accumulation induces neuronal cell death via oxidative stress
+- Glucosylceramide (GlcCer): Associated with lysosomal storage diseases
+- Galactosylceramide (GalCer): Produced in oligodendrocytes, essential for myelin
+- Lactosylceramide (LacCer): Regulates proinflammatory mediators in astrocytes, influences BBB
+
+MOLECULAR MECHANISMS:
+- Anti-glycolipid autoantibodies disrupt lipid rafts (specialized membrane microdomains)
+- Anti-GM1 antibodies inhibit neutral sphingomyelinase 2 activity
+- Complement activation plays essential role
+
+THERAPEUTIC IMPLICATIONS:
+- Anticomplement therapy proposed for fulminant EMRN
+- Anticeramide approaches under investigation
+- Disease-specific biomarker: anti-lactosylceramide antibody
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC10476566/

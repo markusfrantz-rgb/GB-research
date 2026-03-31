@@ -1,0 +1,64 @@
+Concurrent acute disseminated encephalomyelitis and Guillain-Barré syndrome in a child
+Journal of Pediatric Neurosciences 2015;10(1):61-63
+Authors: Isha S Deshmukh, Akash B Bang, Manish A Jain, Krishna Y Vilhekar
+PMID: 25878749 | PMCID: PMC4395951 | DOI: 10.4103/1817-1745.154357
+
+=== ABSTRACT ===
+
+Acute disseminated encephalomyelitis (ADEM) and Guillain-Barré syndrome (GBS) are commonly recognized as separate entities involving different parts of the nervous system: the central nervous system (CNS) and the peripheral nervous system (PNS), respectively. However, they share features such as autoimmune pathogenesis, myelin injury, and previous history of viral infections or vaccination. They may rarely coexist in a single patient.
+
+=== CASE REPORT ===
+
+A 10-year-old boy presented with inability to walk since 2 days. He had history of fever 10 days ago which had subsided. On examination, he had generalized hypotonia with weakness more in the lower limbs. He had generalized areflexia with bilateral plantar reflex absent. He had difficulty in speech and drooling of saliva.
+
+He was irritable. Fundoscopy showed bilateral papilledema. CT scan of the brain revealed vasogenic edema in bilateral fronto-parietal and left temporal regions with infarcts. Cerebrospinal fluid (CSF) analysis showed raised protein (280 mg%) with normal sugar ratio. Nerve conduction study showed mild generalized motor sensory axonal polyneuropathy (acute motor and sensory axonal neuropathy — GBS variant).
+
+MRI brain revealed peripherally enhancing lesions in right fronto-parietal and left fronto-temporo-parieto-occipital region. MRI also showed white matter lesions in brain, pons, and thoracic spinal cord, consistent with demyelinating disease. After 3 weeks, fundoscopy revealed bilateral optic neuritis.
+
+=== DIAGNOSIS ===
+
+Based on:
+1. Acute flaccid paralysis with areflexia → GBS (AMSAN variant confirmed on NCS)
+2. Encephalopathy with brain white matter lesions on MRI → ADEM
+3. Papilledema and optic neuritis → CNS involvement
+4. Preceding febrile illness → Common trigger for both
+
+Diagnosis: Concurrent ADEM and GBS
+
+=== TREATMENT ===
+
+1. Intravenous immunoglobulins (IVIg): 2 g/kg over 2 days
+2. Intravenous methylprednisolone: 30 mg/kg/day for 3 days
+3. Followed by oral prednisolone: 1 mg/kg/day, tapering over 4 weeks
+4. Physiotherapy referral
+
+=== CLINICAL OUTCOME ===
+
+- Motor power improved to 3/5 within approximately 2 weeks
+- After 4 weeks: patient could stand with support and walk with assistance
+- Significant clinical improvement with combined immunotherapy
+
+=== DISCUSSION ===
+
+ADEM is an immunologically mediated inflammatory disorder of the CNS, producing multifocal demyelinating lesions. GBS is an acute inflammatory polyradiculoneuropathy characterized by rapidly progressive, essentially symmetric weakness, areflexia, and progression typically completing within 4 weeks.
+
+The coexistence of GBS and ADEM is a rare entity. The involvement of the CNS and PNS can be explained by the "common epitope" hypothesis — the presence of a shared pathological epitope between CNS and peripheral nerve myelin that becomes the target of autoimmune attack.
+
+KEY TREATMENT CONSIDERATIONS:
+- In GBS alone: First-line treatment is IVIg or plasmapheresis
+- In ADEM alone: First-line treatment is IV methylprednisolone
+- In GBS + ADEM overlap: COMBINED treatment with both IVIg AND IV methylprednisolone is indicated
+- The use of corticosteroids in "pure" GBS is disappointing (Cochrane review)
+- BUT in overlap syndromes, corticosteroids are essential for the ADEM component
+
+Early diagnosis and treatment is very important as it hastens the recovery and improves neurological outcome.
+
+=== KEY REFERENCES ===
+
+1. Consensus definitions for pediatric MS and related disorders. Neurology 2007;68:S7-36.
+2. Tenembaum S et al. ADEM: a 10-year approach. Neurology 2007;68:S23-36.
+3. van Doorn PA et al. Clinical features, pathogenesis, and treatment of GBS. Lancet Neurol 2008;7:939-50.
+4. Amit R et al. Acute severe combined demyelination. Childs Nerv Syst 1992;8:354-6.
+5. Adamovic T et al. Combined ADEM-like CNS disease and GBS. Clin Neurol Neurosurg 2008;110:955-7.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4395951/

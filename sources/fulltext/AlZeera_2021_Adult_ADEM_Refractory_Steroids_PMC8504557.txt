@@ -1,0 +1,90 @@
+Adult-Onset Acute Disseminated Encephalomyelitis Refractory to Steroids
+Cureus 2021;13(10):e18669
+Authors: Abdulla J AlZeera, Aysha Alkhaja, Dana H Noor, Sayed Mohamed R Alsaffar
+PMID: 34659929 | PMCID: PMC8504557 | DOI: 10.7759/cureus.18669
+
+=== ABSTRACT ===
+
+An atypical case of adult-onset ADEM in a 50-year-old female demonstrating resistance to standard immunosuppressive therapy. Despite receiving an entire course of IV methylprednisolone and other conventional treatment methods, the patient's condition deteriorated. This case is notable because ADEM typically responds well to steroids, particularly in pediatric populations.
+
+=== CLINICAL PRESENTATION ===
+
+50-year-old female, no significant medical history.
+
+Presenting complaints:
+- Diplopia
+- Headache
+- Three weeks of back pain unresponsive to conservative management
+
+Physical examination:
+- Fever (38.3°C)
+- Left eyelid ptosis
+- Third-nerve palsy with preserved pupillary response
+
+=== LABORATORY FINDINGS ===
+
+- WBC: 13.30 × 10⁹/L
+- CRP: 21 mg/L
+- CSF: 175 cells/μL (90% lymphocytes), protein 725 mg/L
+- Negative: HCV, HIV, HBS antigen, AFB, VDRL
+- Oligoclonal bands: Absent (excluding MS)
+
+=== NEUROIMAGING ===
+
+MRI revealed multifocal, patchy-altered signal intensity with lesions involving predominantly:
+- Right caudate nucleus
+- Basal ganglia
+- Thalamus
+- Midbrain
+- Prominent leptomeningeal enhancement
+
+=== TREATMENT COURSE ===
+
+Day 1-2: Empiric antibiotics (Vancomycin, Ceftriaxone, Acyclovir, Omeprazole)
+
+Day 2: IV methylprednisolone initiated — 1 g/day for 5 days
+        Antibiotics discontinued after ADEM diagnosis
+
+Day 3: Clinical DETERIORATION — patient intubated, GCS 9/15, transferred to ICU
+
+Day 4: Continued deterioration despite corticosteroids
+
+Day 4: Plasmapheresis started due to steroid resistance
+
+Day 7: Patient died from cardiovascular instability and brainstem involvement
+
+=== DISCUSSION ===
+
+Key points:
+
+1. ADEM is typically very responsive to steroids — this case was exceptional
+2. Adult-onset ADEM has worse outcomes than pediatric ADEM
+3. Steroid resistance in ADEM is rare but can be fatal
+4. Late presentation may reduce corticosteroid effectiveness
+
+Poor prognostic indicators:
+- Fever at admission
+- Altered sensorium
+- Need for ventilator support
+- Older age
+- Rapid progression despite treatment
+
+ALTERNATIVE TREATMENTS WHEN STEROIDS FAIL:
+1. Plasmapheresis — started in this case but too late
+2. IVIg — not attempted in this case
+3. Cyclophosphamide — recommended by authors for evaluation
+4. Rituximab — emerging evidence
+5. Hypothermia — for refractory cerebral edema
+
+IMPORTANT LESSON:
+The role of corticosteroids in patients presenting late in the course of ADEM is questionable. Early and aggressive immunotherapy (including plasma exchange or IVIg alongside steroids) may be critical.
+
+=== CLINICAL RELEVANCE ===
+
+For ADEM-GBS overlap:
+- This case reinforces that steroids alone may not be sufficient
+- COMBINED therapy (steroids + IVIg + PE) should be considered early
+- If steroid resistance is suspected, escalate rapidly to PE or IVIg
+- Do not wait for steroid failure before initiating additional immunotherapy
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8504557/

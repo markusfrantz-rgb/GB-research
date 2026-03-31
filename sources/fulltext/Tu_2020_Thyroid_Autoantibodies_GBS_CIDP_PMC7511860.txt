@@ -1,0 +1,19 @@
+Differences in Thyroid Function and Autoantibodies in the Development of Guillain-Barre Syndrome vs. Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+Tu Y, Gong X, Zeng G, Zhuo W, Li Z, Yu X
+Frontiers in Neurology. 2020;11:1018
+PMID: 33013669 | PMCID: PMC7511860 | DOI: 10.3389/fneur.2020.01018
+
+KEY FINDINGS
+Thyroid autoantibody levels were markedly elevated in GBS patients compared to CIDP:
+- GBS: 70.10% positive for thyroid autoantibodies
+- CIDP: 14.10% positive
+
+Diagnostic thresholds:
+- Elevated antibody values >133 IU/mL: indicated GBS with 98% specificity
+- Elevated antibody values >261.1 IU/mL: indicated GBS with 99% specificity
+
+CLINICAL IMPLICATIONS
+Thyroid autoantibodies may function as biomarkers for differential diagnosis of GBS vs CIDP. This has potential clinical applications in early disease differentiation.
+
+SIGNIFICANCE FOR HASHIMOTO/GBS OVERLAP
+The striking finding that 70% of GBS patients have elevated thyroid autoantibodies supports the hypothesis of shared autoimmune mechanisms between thyroid disease and peripheral neuropathy, particularly GBS. This is highly relevant to understanding the GBS-Hashimoto overlap.

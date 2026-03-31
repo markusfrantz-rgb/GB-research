@@ -1,0 +1,48 @@
+Increased Intracranial Pressure in Guillain-Barre Syndrome: A Case Report
+
+Authors: Pan-Pan Zhao, Qian-Kun Ji, Rui-Bin Sui, Rong Zhang, Li-Jun Zhang, Zhi-xiu Xu, Qing Li, Si-Bei Ji, Jian-Hua Zhao
+Journal: Medicine (Baltimore)
+Year: 2018 (July 27), Volume 97, Issue 30, e11584
+DOI: 10.1097/MD.0000000000011584
+PMID: 30045288
+PMCID: PMC6078745
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+This case report examines a rare manifestation of GBS involving elevated intracranial pressure. The researchers note that "papilledema and raised intracranial pressure are seen in some patients" with GBS, though the mechanisms remain incompletely understood. The authors propose a connection between interleukin-17 (IL-17) dysregulation and the condition.
+
+CLINICAL CASE
+
+A 14-year-old girl presented with progressive bilateral leg weakness over seven days, extending to her arms within three days.
+
+Key Diagnostic Findings:
+- Imaging: Ventricle volume of 16.7 mL on initial presentation, enlarging to 18.2 mL at second admission
+- CSF Analysis: Elevated pressure (190 mmH2O initially, increasing to 290 mmH2O); normal cell counts but markedly elevated protein levels (1171.8 mg/L and 1128.4 mg/L)
+- Electrophysiology: Reduced muscle action potential amplitude, slowed conduction velocity, and absent F response waves consistent with polyradiculopathy
+
+TREATMENT AND OUTCOMES
+
+The patient received IVIg at 0.4 g/kg daily for five days during both presentations. She recovered fully within one month of initial symptom onset but experienced relapse approximately two months later. Following repeat IVIg treatment, she achieved sustained recovery with no recurrence over six months.
+
+DISCUSSION
+
+Key Points:
+1. Elevated CSF protein traditionally explains increased intracranial pressure in GBS
+2. Some cases present with elevated pressure but NORMAL protein levels, suggesting additional mechanisms
+3. Patients with idiopathic intracranial hypertension had increased levels of IL-17 in the CSF
+4. IL-17 levels are elevated in the CSF and plasma in GBS patients
+5. IVIg may exert therapeutic effects by downregulating IL-17
+6. Edema of spinal nerve rootlets in GBS has been implicated in causing decreased absorption of proteins
+7. The relapsing nature of this patient's presentation contrasts with GBS's typical monophasic course
+
+CLINICAL SIGNIFICANCE
+
+- Intracranial hypertension is an underrecognized complication of GBS
+- May present with papilledema, headache, or visual symptoms
+- IL-17 pathway may be a shared mechanism between GBS and intracranial hypertension
+- IVIg appears effective for both GBS symptoms and intracranial pressure reduction
+- Relapsing GBS with intracranial hypertension warrants careful monitoring
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6078745/

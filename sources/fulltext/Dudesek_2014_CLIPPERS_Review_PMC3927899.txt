@@ -1,0 +1,64 @@
+CLIPPERS: chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids. Review of an increasingly recognized entity within the spectrum of inflammatory central nervous system disorders
+
+Authors: A Dudesek, F Rimmele, S Tesar, S Kolbaske, P S Rommer, R Benecke, U K Zettl
+Journal: Clinical and Experimental Immunology
+Year: 2014
+PMID: 24028073
+PMCID: PMC3927899
+DOI: 10.1111/cei.12204
+
+OVERVIEW
+
+CLIPPERS is a rare inflammatory CNS disorder first described in 2010 by Pittock et al. Presents with distinctive brainstem involvement and characteristic imaging patterns responsive to glucocorticosteroid therapy.
+
+MRI FINDINGS
+
+Hallmark: Multiple punctate and/or curvilinear gadolinium enhancement "peppering" the pons with potential extension to adjacent hindbrain structures.
+
+Lesion characteristics:
+- Focus on pons and peripontine regions
+- May extend to cerebellar peduncles, medulla, midbrain, supratentorial structures
+- Minimal mass effect and vasogenic edema
+- Decreased enhancement with immunosuppressive response
+- T2-FLAIR may be relatively unrevealing despite significant clinical disability
+- Enhancement faint on T2 but clearly visible on contrast-enhanced scans
+- "Salt-and-pepper" appearance
+
+DIAGNOSTIC CRITERIA (Simon et al.)
+
+Clinical: Subacute progressive ataxia, diplopia, brainstem-related manifestations
+Radiological: Punctate or nodular enhancing lesions bilaterally in >=2 pontine locations
+Steroid responsiveness: Prompt clinical and radiological improvement
+Histopathology: White matter perivascular lymphohistiocytic infiltrate (CD3, CD4 predominant)
+
+Absent features: Restricted diffusion, marked T2 hyperintensity, abnormal angiography
+
+CLINICAL CHARACTERISTICS
+
+- Gait ataxia, dysarthria, diplopia, nystagmus, facial sensory changes
+- Age 13-86 years, slight male predominance
+- Subacute onset over weeks, relapsing-remitting
+
+DIFFERENTIAL DIAGNOSES TO EXCLUDE
+
+- Neurosarcoidosis
+- Neuro-Behcet's disease
+- Multiple sclerosis and ADEM
+- Bickerstaff brainstem encephalitis
+- CNS vasculitis (PACNS)
+- Autoimmune encephalitides
+- CNS infections, lymphoma, glioma
+- Paraneoplastic syndromes
+
+RED FLAGS for alternative diagnosis:
+- Lack of steroid response
+- Unusual systemic manifestations
+- Necrotic lesions, marked mass effects
+- Marked pleocytosis (>100/uL)
+- Malignant CSF cells
+
+TREATMENT
+
+Initial: High-dose IV methylprednisolone (1g x 5 days) then oral taper
+Maintenance: Long-term immunosuppression required (relapse below 10-20 mg/day)
+Steroid-sparing agents: Methotrexate, azathioprine, cyclophosphamide, rituximab

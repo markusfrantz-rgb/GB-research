@@ -1,0 +1,112 @@
+Acute disseminated encephalomyelitis: Treatment guidelines
+Annals of Indian Academy of Neurology 2011;14(Suppl1):S60-S64
+Authors: M Alexander, J M K Murthy
+PMID: 21847331 | PMCID: PMC3152158 | DOI: 10.4103/0972-2327.83095
+
+=== ABSTRACT ===
+
+Acute disseminated encephalomyelitis (ADEM) is a monophasic, postinfectious or postvaccineal acute inflammatory demyelinating disorder of central nervous system. Incidence is approximately 0.4-0.8 per 100,000 annually, predominantly affecting children and young adults.
+
+=== CLINICAL PRESENTATION ===
+
+Neurologic deficits typically emerge 3-6 weeks following an antecedent event. Manifestations include:
+- Altered mental status
+- Pyramidal dysfunction
+- Cerebellar ataxia
+- Brainstem syndromes
+- Optic neuritis
+- Myelitis
+- Seizures
+- Encephalitic presentation (more common in children under 3)
+
+=== DIAGNOSTIC CRITERIA ===
+
+CSF analysis:
+- Abnormalities in approximately two-thirds of patients
+- Moderate pleocytosis with raised proteins
+- Oligoclonal bands typically ABSENT (distinguishing from MS)
+
+MRI (modality of choice):
+- Features differentiating ADEM from MS include:
+  * Solitary lesion
+  * Unilateral large lesion
+  * Cortical lesions
+  * Subcortical grey matter involvement
+
+=== TREATMENT PROTOCOLS ===
+
+FIRST-LINE THERAPY: Intravenous methylprednisolone
+- Dose: 10-30 mg/kg/day (maximum 1 g/day)
+- Duration: 3-5 days
+- Followed by: Oral corticosteroid taper over 4-6 weeks
+- Outcome: Full recovery in 50%-80% of patients
+
+MECHANISM OF ACTION:
+Corticosteroids in ADEM work through:
+1. Reducing inflammation
+2. Stabilizing the blood-brain barrier
+3. Decreasing cerebral edema
+4. Suppressing the autoimmune attack on myelin
+
+SECOND-LINE THERAPY (if corticosteroids fail):
+
+Option A: Plasma exchange (PE)
+- 4-6 sessions
+- Moderate to marked and sustained improvement demonstrated
+- Particularly useful in fulminant or steroid-refractory cases
+
+Option B: Intravenous immunoglobulin (IVIg)
+- Dose: 0.4 g/kg/day for 5 days (total 2 g/kg)
+- OR: 1 g/kg/day for 2 days
+- Improvement evident within 2-3 days
+- Useful when corticosteroids contraindicated
+
+SEVERE/FULMINANT CASES:
+- Cyclophosphamide: Has shown success in fulminant presentations
+- Hypothermia: Adjunctive in refractory cerebral edema
+- Decompressive hemicraniectomy: Life-saving for massive cerebral edema
+
+SUPPORTIVE CARE:
+- Airway protection
+- Mechanical ventilation when necessary
+- Antiseizure medications
+- Electrolyte correction
+- Prophylactic anticoagulation for high-risk patients
+- Physical rehabilitation
+
+=== ORAL STEROID TAPER ===
+
+Critical point: Oral corticosteroid tapering must continue for 4-6 weeks after IV pulse therapy to:
+1. Prevent relapse (relapse rate higher with abrupt discontinuation)
+2. Allow gradual immune system normalization
+
+Typical taper:
+- Prednisolone 1 mg/kg/day initially
+- Gradual reduction over 4-6 weeks
+
+=== PROGNOSIS ===
+
+- Full recovery: 50-75% of patients, within 1-6 months
+- Postmeasles cases: Higher mortality
+- Poor prognostic indicators:
+  * Hyperacute onset
+  * Severe neurologic deficits
+  * Steroid unresponsiveness
+  * Lack of treatment response within first week
+
+=== RELAPSE ===
+
+- Monophasic ADEM: By definition, single episode
+- Multiphasic ADEM: Rare; occurs >3 months after first event
+- If relapse occurs: Consider MS or NMOSD as alternative diagnosis
+
+=== CLINICAL RELEVANCE FOR ADEM-GBS OVERLAP ===
+
+When ADEM co-occurs with GBS:
+1. IV methylprednisolone is ESSENTIAL for the ADEM component
+2. IVIg is ESSENTIAL for the GBS component
+3. Combined therapy (IVIg + IV MP) addresses both simultaneously
+4. Corticosteroid taper should continue even after IVIg course
+5. Monitor for both CNS and PNS improvement independently
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3152158/

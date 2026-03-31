@@ -1,0 +1,31 @@
+Encephalopathy of Autoimmune Origin: Steroid-Responsive Encephalopathy With Associated Thyroiditis
+Adithya-Sateesh B, Gousy N, Gogna G, Ayele GM, Michael M, Munir KM
+AACE Clinical Case Reports. 2023;9(6):205-208
+PMID: 38045791 | PMCID: PMC10690420 | DOI: 10.1016/j.aace.2023.10.001
+
+CASE REPORT
+51-year-old woman with long-standing hypothyroidism and history of partial thyroidectomy.
+
+PRESENTATION
+- Involuntary muscle jerking, muscle shaking, unprovoked falls
+- Forgetfulness, intense episodes of feeling overwhelmed, paranoia, impulsive changes of mind
+- Intermittent neuropsychiatric symptoms alternating with normal periods
+
+LABORATORY
+- TPO antibody: 2112 IU/mL (normal: <34)
+- Partial medication nonadherence affecting thyroid hormone levels
+
+DIAGNOSTIC CRITERIA FOR SREAT
+1. Altered consciousness with changes in cognitive ability
+2. New or worsening psychiatric symptoms
+3. Elevated serum TPO-Abs levels (>=0.5 U/mL) or other antithyroid antibodies
+4. Exclusion of infectious, toxic, metabolic, or tumorous etiologies
+
+TREATMENT
+Prednisone 60 mg daily. Symptoms of fatigue, cognitive dysfunction, myoclonus, muscle shaking, and palpitations resolved within a few days.
+
+SIGNIFICANCE
+- No prior reports of SREAT developing in patients after partial thyroidectomy
+- 91% of SREAT patients respond to glucocorticoids
+- Those with severe symptoms (coma) have worse prognosis and more prone to relapsing episodes
+- ~23.8% of patients with autoimmune thyroiditis experience depression, ~41.6% experience anxiety disorders

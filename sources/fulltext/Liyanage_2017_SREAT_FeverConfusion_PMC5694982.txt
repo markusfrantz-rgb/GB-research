@@ -1,0 +1,34 @@
+Steroid-Responsive Encephalopathy Associated with Autoimmune Thyroiditis Presenting with Fever and Confusion
+Liyanage CK, Munasinghe TMJ, Paramanantham A
+Case Reports in Neurological Medicine. 2017;2017:3790741
+PMID: 29234548 | PMCID: PMC5694982 | DOI: 10.1155/2017/3790741
+
+CASE REPORT
+65-year-old female presenting with fever, headache for three days, and progressively worsening confusion.
+
+CLINICAL FINDINGS
+- Loose associations and tangential thoughts
+- Mini-Mental State Examination score: 25
+
+LABORATORY
+- Elevated WBC (15 x 10^3, 85% neutrophils)
+- High inflammatory markers (ESR 65 mm/hr, CRP 25.5 mg/l)
+- Anti-TPO: >1000 IU/ml (very high)
+- Anti-thyroglobulin: 2471.9 IU/ml
+- Euthyroid state (normal thyroid function)
+- CSF: 2 lymphocytes/mm3, normal protein/glucose
+
+IMAGING
+- EEG: right-sided frontal intermittent rhythmic delta activity (FIRDA)
+- MRI: age-related atrophy and periventricular white matter changes
+
+TREATMENT AND OUTCOME
+IV methylprednisolone (1g daily x 3 days) then oral prednisolone.
+Dramatic improvement within 48 hours: resolution of fever, disorientation, and thought disorders.
+Prednisolone gradually tapered over four months without symptom recurrence.
+
+KEY POINTS
+- SREAT is fundamentally a diagnosis of exclusion
+- Requires elevated thyroid antibodies and steroid responsiveness for confirmation
+- Condition demonstrates reversibility when properly diagnosed and treated promptly
+- High anti-TPO titers are considered a hallmark of the disease

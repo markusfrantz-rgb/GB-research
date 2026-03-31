@@ -1,0 +1,48 @@
+COVID-19-Associated Miller Fisher Syndrome: MRI Findings
+
+Authors: JE Lantos, SB Strauss, E Lin
+Journal: AJNR Am J Neuroradiol. 2020 Jul;41(7):1184-1186
+DOI: 10.3174/ajnr.A6609
+PMID: 32467190 | PMCID: PMC7357656
+
+CASE REPORT
+
+Patient with COVID-19-associated Miller Fisher syndrome showing
+striking MRI findings of cranial nerve III involvement.
+
+MRI FINDINGS
+
+Affected cranial nerve: CN III (oculomotor nerve)
+
+Enhancement pattern:
+- Striking enlargement of the left CN III
+- Prominent enhancement with gadolinium
+- T2 hyperintense signal of the left CN III
+- Enhancement extended from cavernous sinus through the orbit
+- Marked enhancement on postcontrast imaging
+
+Other findings:
+- No other cranial nerves showed abnormal signal or enhancement
+- Brain MRI otherwise normal
+- No cerebellar lesions
+- No meningitis
+- No encephalitis
+- No demyelination
+- No infarction
+
+CLINICAL SIGNIFICANCE
+
+1. Isolated CN III enhancement can be the ONLY MRI finding in MFS/GBS variants
+2. Enhancement involves the cisternal and cavernous segments
+3. Brain parenchyma typically normal in MFS (unlike BBE)
+4. COVID-19 is a recognized trigger for MFS/GBS
+
+DIFFERENTIATION
+
+This case illustrates key MRI distinctions:
+- MFS: Cranial nerve enhancement WITHOUT brain parenchymal lesions
+- BBE: Brainstem parenchymal lesions (midbrain, pons)
+- GBS: Typically spinal root enhancement, cranial nerve enhancement possible
+- ADEM: Multifocal white matter lesions in brain + possible nerve involvement
+
+Open Access: Free PMC article

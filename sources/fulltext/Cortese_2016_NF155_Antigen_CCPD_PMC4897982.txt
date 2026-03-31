@@ -1,0 +1,28 @@
+Neurofascin-155 as a Putative Antigen in Combined Central and Peripheral Demyelination
+
+Authors: Andrea Cortese, Jerome J Devaux, Elisabetta Zardini, Constance Manso, Guillaume Taieb, Clarisse Carra Dalliere, Philippe Merle, Cecilia Osera, Silvia Romagnolo, Nicolo Visigalli, Giuseppe Piscosquito, Ettore Salsano, Enrico Alfonsi, Arrigo Moglia, Davide Pareyson, Enrico Marchioni, Diego Franciotta
+Journal: Neurology: Neuroimmunology & Neuroinflammation, 2016;3(4):e238
+PMID: 27308303 | PMCID: PMC4897982 | DOI: 10.1212/NXI.0000000000000238
+
+ABSTRACT
+
+This research investigates whether antibodies against neurofascin-155 (NF155) can distinguish patients with combined central and peripheral demyelination (CCPD) from those with other neurological conditions in Caucasian populations.
+
+PRIMARY RESULT: No serum antibody reactivity to NF155 in any of the 16 CCPD patients examined, contradicting prior Japanese studies reporting prevalence rates of 45-86%.
+
+STUDY POPULATION:
+- 16 CCPD patients (7 with myeloradiculoneuritis, 6 with encephalomyeloradiculoneuritis, 3 with MS and CIDP)
+- Control groups: 26 CIDP patients, 15 MS patients, 15 other peripheral neuropathy patients, 20 healthy controls
+
+TESTING METHODS: Three complementary techniques:
+- ELISA (rat and human NF155-based)
+- Cell-based assay (CBA)
+- Immunohistochemistry on mouse nerve fibers
+
+IMPORTANT DISTINCTIONS: Rat NF155-based ELISA showed low analytical specificity due to potential nonspecific reactivity, while human NF155-based approaches proved more reliable. Only one CIDP patient tested positive for anti-NF155 antibodies (IgG4 subtype).
+
+CLINICAL IMPLICATIONS: Ethnicity and clinical presentation differences may explain discrepancies with previous findings. NF155 antibodies might only appear in specific CCPD subgroups, particularly those of Japanese descent or with particular treatment responses.
+
+None of the Caucasian patients with CCPD had serum antibody reactivity to NF155, differently from previous studies reporting their high prevalence (45.5%-86%), with differences in ethnicity (Caucasian vs Japanese) and clinical features potentially accounting for these discrepancies.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4897982/

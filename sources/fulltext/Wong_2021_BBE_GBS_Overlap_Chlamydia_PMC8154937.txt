@@ -1,0 +1,92 @@
+Bickerstaff brainstem encephalitis with Guillain-Barré syndrome overlap following chlamydia infection
+BMJ Case Reports 2021;14(5):e242090
+Authors: Chee Keong Wong, Chen Fei Ng, Hui Jan Tan, Shahizon Azura Mohamed Mukari
+PMID: 34031085 | PMCID: PMC8154937 | DOI: 10.1136/bcr-2021-242090
+
+=== ABSTRACT ===
+
+Rare autoimmune condition combining Bickerstaff brainstem encephalitis (BBE) with GBS triggered by Chlamydia pneumoniae infection. Patient presented with altered consciousness, ataxia, ophthalmoplegia, and progressive limb weakness requiring mechanical ventilation. Recovered well with IVIg and methylprednisolone.
+
+=== CASE PRESENTATION ===
+
+Patient: 48-year-old previously healthy male
+Preceding event: Rainforest camping excursion 3 months prior
+
+Presentation:
+- 8-day history of fever, frontal headache, blurred vision, vomiting
+- Initial: GCS 14/15, disorientation
+
+Clinical deterioration (day 5):
+- Stupor
+- Bilateral facial weakness
+- Complete ophthalmoplegia
+- Ataxia
+- Progressive limb weakness (MRC sum score 12/60)
+- Respiratory failure requiring intubation
+
+=== INVESTIGATIONS ===
+
+Laboratory:
+- Mild leukocytosis (9.5×10⁹/L)
+- Hyponatremia (125 mmol/L) — SIADH
+- CSF protein elevated: 883 mg/L (normal 150-400)
+- Cytoalbuminological dissociation
+- Chlamydia pneumoniae IgM: POSITIVE
+- Anti-ganglioside antibodies: Negative
+
+Neuroimaging:
+- Brain CT: Normal
+- Brain MRI: Gyriform hyperintensity in left occipital region on T2/FLAIR with gadolinium enhancement
+
+Electrophysiology:
+- EEG: Diffuse delta activity
+- NCS: Mild F-wave prolongation, absent left peroneal F-wave
+
+=== TREATMENT ===
+
+Combined immunotherapy:
+1. IVIg 0.4 g/kg/day for 5 days
+2. IV methylprednisolone 1 g/day for 5 days
+3. Mechanical ventilation for respiratory failure
+
+Complications:
+- Candida glabrata fungemia → treated with anidulafungin x 2 weeks
+
+=== RECOVERY ===
+
+- MRC sum score: 12/60 → 48/60 by week 5
+- Deep tendon reflexes returned
+- Facial weakness improved
+- Consciousness normalized
+- Discharged after 6 weeks with full muscle power
+- 2-month follow-up: Complete clinical recovery
+- EEG and NCS normalized
+
+=== DISCUSSION ===
+
+BBE-GBS overlap spectrum:
+- BBE, Miller Fisher syndrome, and GBS represent a CONTINUOUS disease spectrum
+- All linked via anti-GQ1b IgG antibody pathway
+- Blood-brain barrier disruption explains CNS involvement
+- Matrix metalloproteinase secretion by brain microvascular endothelial cells facilitates BBE
+
+Treatment evidence:
+- No RCTs exist for BBE or MFS treatment
+- IVIg and plasmapheresis have demonstrated effectiveness
+- Role of corticosteroids remains CONTROVERSIAL
+- Case reports document steroid responsiveness in some BBE cases
+- Combined IVIg + methylprednisolone used in this case with success
+
+This was the FIRST reported case linking Chlamydia pneumoniae to BBE-GBS overlap.
+
+=== RELEVANCE FOR CNS-PNS OVERLAP TREATMENT ===
+
+Key lessons:
+1. Combined IVIg + IV methylprednisolone is appropriate for BBE-GBS overlap
+2. Recovery can be complete even with severe initial presentation
+3. CNS component (BBE) may benefit from corticosteroids
+4. PNS component (GBS) is treated by IVIg
+5. Watch for ICU complications (fungemia in this case)
+6. Serial monitoring (MRC sum score, EEG, NCS) guides treatment response
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8154937/

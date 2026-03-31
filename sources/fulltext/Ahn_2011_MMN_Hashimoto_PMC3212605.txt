@@ -1,0 +1,31 @@
+Concurrence of Multifocal Motor Neuropathy and Hashimoto's Thyroiditis
+Ahn SW, Kim SH, Park BS, Cha JI, Kim SM, Sung JJ, Lee KW
+Journal of Clinical Neurology. 2011;7:168-172
+PMID: 22087213 | PMCID: PMC3212605 | DOI: 10.3988/jcn.2011.7.3.168
+
+CASE REPORT
+37-year-old woman with progressive asymmetric upper-limb weakness over 5 years. Concurrent diagnosis of Hashimoto's thyroiditis via thyroid biopsy showing diffuse lymphocyte infiltration.
+
+CLINICAL FINDINGS
+- Progressive distal upper-limb weakness, asymmetric involvement
+- No sensory symptoms
+- Preserved cranial nerve function
+- Severe motor weakness with muscle atrophy in hand musculature
+- Normal lower extremity strength
+
+ELECTROPHYSIOLOGY
+Motor nerve conduction: conduction blocks in median, ulnar, and radial nerves without sensory involvement (hallmark of MMN).
+
+LABORATORY
+- Negative for antiganglioside antibodies (despite clear MMN)
+- Antithyroglobulin: 794 U/mL (elevated)
+- Antimicrosomal antibodies: 26,030 U/mL (markedly elevated)
+
+TREATMENT
+IVIG 0.4 g/kg/day x 5 days: significant clinical improvement with reduced hand deformity and improved conduction blocks.
+
+PATHOPHYSIOLOGICAL LINK
+Gangliosides are sialic acids containing glycosphingolipids that are particularly abundant in neural membranes and also present in thyroid tissue. This suggests a potential immunological connection between MMN and Hashimoto's thyroiditis despite negative antiganglioside antibodies.
+
+SIGNIFICANCE
+Demonstrates possible link and pathophysiological mechanism between MMN (a peripheral demyelinating neuropathy) and Hashimoto's thyroiditis. Supports shared autoimmune susceptibility between thyroid and neurological autoimmune conditions.

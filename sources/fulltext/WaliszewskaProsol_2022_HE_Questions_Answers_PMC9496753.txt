@@ -1,0 +1,53 @@
+Hashimoto Encephalopathy -- Still More Questions than Answers
+Waliszewska-Prosol M, Ejma M
+Cells. 2022;11(18):2873
+PMID: 36139446 | PMCID: PMC9496753 | DOI: 10.3390/cells11182873
+
+OVERVIEW
+Comprehensive review examining the controversies surrounding Hashimoto encephalopathy (HE), questioning whether it represents a genuine disease entity.
+
+EPIDEMIOLOGY
+- Prevalence: ~2.1 per 100,000 adults
+- Female predominance 4:1
+- Typical emergence in 4th-6th decades of life
+
+CLINICAL MANIFESTATIONS
+Two presentation types:
+- Type 1: Stroke-like episodes with cognitive dysfunction (relapsing-remitting)
+- Type 2: Progressive with seizures, psychiatric symptoms, dementia
+
+Cognitive dysfunction described as initial symptom in >80% of patients.
+
+CONTROVERSIES
+Skeptics argue:
+- Anti-TPO antibodies appear in up to 13% of general population
+- Many reported cases may represent misdiagnosis
+- No correlation between antibody titers and disease severity
+- Immunosuppressive treatment carries substantial side effects
+- A 2020 Mayo Clinic study found 73% of initially diagnosed HE patients received alternative diagnoses after comprehensive evaluation
+
+Core question: Does HE constitute a genuine disease entity or merely coincidental finding of autoimmune thyroiditis in patients with encephalopathy from other causes?
+
+PATHOGENESIS
+Proposed mechanisms:
+- Autoimmune CNS vasculitis
+- Cross-reactive antigens between thyroid and brain tissue
+- Demyelination
+- Potential TRH toxicity
+- IgG4-related inflammation in aggressive cases
+
+DIAGNOSTIC CRITERIA (Graus et al.)
+- Subacute cognitive or seizure onset
+- Euthyroid or mild hypothyroidism
+- Elevated TPO antibodies (>200 IU/mL)
+- Absent neuronal antibodies
+- Exclusion of alternative causes
+
+TREATMENT
+- First-line: Corticosteroids (methylprednisolone IV then oral prednisone)
+- Only ~31% fully respond to steroids (contradicting "steroid-responsive" designation)
+- Alternative: azathioprine, rituximab, methotrexate, mycophenolate mofetil
+- IVIG and plasma exchange for resistant cases
+
+CONCLUSIONS
+Despite decades of observation, fundamental questions about HE etiology and optimal management remain unresolved.

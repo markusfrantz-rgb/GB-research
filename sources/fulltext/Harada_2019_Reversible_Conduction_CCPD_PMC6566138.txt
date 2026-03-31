@@ -1,0 +1,35 @@
+Reversible Conduction Failure in Anti-lactosylceramide-antibody-positive Combined Central and Peripheral Demyelination
+
+Authors: Masaya Harada, Shiroh Miura, Hiroshi Kida, et al.
+Journal: Frontiers in Neurology, 2019;10:600
+PMID: 31231307 | PMCID: PMC6566138 | DOI: 10.3389/fneur.2019.00600
+
+CASE REPORT
+
+A 60-year-old woman with CCPD positive for serum anti-lactosylceramide antibody exhibited reversible conduction failure (RCF) on nerve conduction studies.
+
+PRESENTATION:
+- Progressive lower limb weakness and sensory disturbances below chest level
+- Girdle sensation in right abdominal region
+- Absent deep tendon reflexes with bilateral Babinski responses
+
+DIAGNOSTICS:
+- Serum anti-lactosylceramide antibody (IgG): positive
+- Negative for anti-AQP4, anti-MOG, and various anti-glycolipid antibodies
+- CSF: pleocytosis with elevated protein, myelin basic protein elevated (818 pg/mL), oligoclonal bands positive
+- MRI: multiple abnormal signal intensities in medulla and spinal cord
+- NCS: reduced CMAPs, conduction block in right tibial nerve, absent F waves
+
+TREATMENT:
+- Responded to methylprednisolone pulse therapy and plasma exchange
+- CNS lesions showed relatively poor response compared to PNS improvement
+- Relapse at ~2 months with similar symptoms
+- Sustained remission with maintenance oral corticosteroid (20 mg/day)
+
+UNIQUE ASPECTS:
+- Reversible conduction failure during both initial presentation and relapse
+- Relapsing-remitting pattern (differs from typical CCPD)
+- Anti-lactosylceramide antibodies cause reversible physiological blocking similar to axonal GBS
+- Links to encephalomyeloradiculoneuropathy (EMRN)
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6566138/

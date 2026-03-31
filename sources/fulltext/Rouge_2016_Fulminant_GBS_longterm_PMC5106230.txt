@@ -1,0 +1,165 @@
+Long-term impact after fulminant Guillain-Barré syndrome, case report and literature review
+
+A 47-year-old man was admitted to the intensive care unit a few hours after presenting to emergency department with acute diplopia and dysphonia. Swallowing disorders and respiratory muscular weakness quickly required invasive ventilation. On day 3, the patient was in a “brain-death”-like state with deep coma and absent brainstem reflexes. Electroencephalogram ruled out brain death diagnosis as a paradoxical sleep trace was recorded. Cerebrospinal fluid analysis, electrophysiologic studies, and a recent history of diarrhea led to the diagnosis of Campylobacter jejuni-related fulminant Guillain-Barré syndrome (GBS) mimicking brain death. The outcome was favorable after long Intensive Care Unit and inpatient rehabilitation stays, despite persistent disability at 9 years follow-up. This case and the associated literature review of 34 previously reported fulminant GBS patients emphasize the importance of electrophysiological investigations during clinical brain-death states with no definite cause. Fulminant GBS has a worse outcome than “standard” GBS with higher rates of severe disability (about 50%). Long-term physiotherapy and specific rehabilitation programs appear essential to improve recovery.
+
+Introduction
+
+Guillain-Barré syndrome (GBS) is a rare and serious autoimmune disorder of peripheral nerves. A number of subtypes of GBS are recognized: acute inflammatory demyelinating polyradiculoneuropathy (the most common form marked by an areflexive muscular weakness evolving subacutely), Miller Fisher syndrome, acute motor axonal neuropathy, and acute motor-sensory axonal neuropathy. Fulminant cases of GBS have been reported in which a rapid clinical deterioration can mimic brain death. This clinical presentation is very rare, and disease diagnosis can be challenging.
+
+Case presentation
+
+Mr. X, a 47-year-old Caucasian male patient with no medical history visited the emergency unit on July 17, 2007 because of diplopia and dysphonia that had appeared during the night. On admission, the Glasgow coma scale score was 15/15, hemodynamics were preserved, and body temperature was 37.4°C. Medical history showed that the patient had diarrhea that lasted for one week, without improvement even after 5 days of symptomatic treatment. There was no report of recent vaccinations or travel. Clinical examination showed diplopia and dysphonia with nasal speech. He did not present any muscular weakness or sensory loss, and osteotendinous reflexes were present and symmetrical. Cranial nerve examination did not show swallowing disorder, oculomotor disorder, or facial paralysis. The patient had no difficulty in walking, no pain or amyotrophy, no sphincter disorder, and no cauda equina syndrome. The plantar reflex was in flexion.
+
+Laboratory tests were also normal. A brain CT with and without contrast was unremarkable. Lumbar puncture showed a clear cerebrospinal fluid with normal leukocyte count (less than 5/mm3 cells), proteins 44 mg/dL (normal range 20–40 mg/dL), glucose 61 mg/dL (n=45–80), and chloride 123 mEq/L (n=116–127). Cerebrospinal fluid culture remained negative after 2 days.
+
+Yet, 3 hours after admission, became marked impairing speech, and paresthesia and numbness of the tongue was observed. Mr. X also reported paresthesia in his hands, without motor deficit. A Doppler ultrasound of carotid and vertebral arteries was unremarkable. While awaiting the results of bacteriological and viral testing, an empirical antibiotic treatment with amoxicillin, acyclovir, and sulfamethoxazole–trimethoprime was started in the eventuality of meningitis or meningoencephalitis.
+
+A Guillain-Barré syndrome was suspected, and so the patient was transferred to the medical intensive care unit. On admission to the intensive care unit, the patient was conscious and had a Glasgow coma scale score of 15/15. There was persistent dysphonia and impaired swallowing and vision; otherwise, the neurological examination was unchanged. Invasive ventilation was initiated soon after.
+
+Antibiotic therapy was switched to amoxicillin–clavulanic acid for one week in view of suspected aspiration pneumonia. Intravenous immunoglobulin (IVIG) therapy was started on admission at 0.4 g/kg a day for 5 days. Sedation (midazolam and remifentanil) was stopped on day 1; on day 3, the patient showed no sign of awakening. The Glasgow coma scale score was 3. The pupils were in nonreactive bilateral mydriasis.
+
+Investigations and treatment
+
+A second lumbar puncture was performed on day 2; cerebrospinal fluid was clear with less than 5 cells/mm3 and showed slightly elevated protein level at 89 mg/dL and normal glucose at 74 mg/dL and chloride at 123 mEq/L. There were no microorganisms identified. A brain magnetic resonance imaging showed no evidence of ischemic lesion or tumor. On electromyogram, a segmental and focal demyelination with a complete conduction block was seen, but this did not explain the impairment of consciousness. Electroencephalogram trace was compatible with paradoxical sleep. The suspected diagnosis was fulminant GBS. Auditory evoked potentials were not contributory, giving evidence of a hearing loss to below 60 decibels. The diagnostic serology for Campylobacter jejuni (C. jejuni) was positive, with an antibody IgM isotype titer of 1:320 determined by ELISA (positivity threshold value at 1:20). Further investigations ruled out the presence of the following: botulinum toxins, Campylobacter fetus, listeriosis, HBV, HCV, HIV, EBV, HSV, CMV, syphilis, Borrelia.
+
+A percutaneous tracheostomy was rapidly performed. Because of the lack of neurological improvement over several weeks, a second course of IVIG was given. At the end of the course, there was a slight clinical improvement as the patient could move the toes on both feet in response to simple commands. A third course of IVIG was given. Progress was marked by slight movements of the head and few movements of both eyelids. Mr. X benefited from four plasma exchanges and a fourth course of IVIG. With regard to muscular power, a strengthening of the upper and lower girdles was noted, with a result of 1/5 on motor testing. However, there was a persistent tetraplegia. With regard to sensitivity, a subjective improvement in the sensibility of the forearms and the back were noted. As Mr. X developed a severe reactional depressive syndrome, he was given an antidepressant treatment along with psychological treatment during his hospitalization. It should be noted that the patient had pain in the right hip for several weeks, a scan showed periarthritis of neurogenic origin. Breathing status improved slowly, enabling spontaneous breathing for a few hours per day at 3 months, with mechanical ventilation at night. The progress was marked by three episodes of ventilator-associated pneumonia.
+
+Outcome and follow-up
+
+The patient was transferred to a rehabilitation center 4 months after his initial admission to the hospital. Rehabilitation was slow despite daily physiotherapy combined with activities involving an occupational therapist and psychomotility therapist. After an essentially passive mobilization phase designed to maintain the trophicity and mobility of the joints, the patient was able to spend prolonged periods in a chair at 8 months and began to get about in a wheelchair at 9 months. Otherwise, full weaning from ventilation and final cannula removal took place at 10 months. Readaptation to orthostatism was progressive, and then rehabilitation in a swimming pool at 12 months facilitated active mobilization. At the same time, motor work and sensory and proprioceptive stimulation were essential. The patient was discharged home one year later with continuation of rehabilitation sessions for 2 years. After requiring the use of an electric wheelchair and then a manual one, he was able to stand up again after two years, in March 2009, and was able to walk by June 2009.
+
+Currently, muscular weakness persists, grade 3–4/5, with regard to flexion and extension. On a functional level, Mr. X walks with 2 crutches with a forearm support and is still dependent in his day-to-day life, requiring assistance with washing and dressing, but he goes alone to the swimming baths, rides an electric tricycle outside, and drives an adapted automatic car with a special license. He no longer has dysphonia or slight difficulty swallowing. No significant improvement in muscular strength has been noted for the last 3 years.
+
+Discussion
+
+Guillain-Barré syndrome in its fulminant form is very rare. The strength of our case is in the long-term follow-up, both in terms of quality of life and recovery long after the initial hospitalization, as 9 years have now passed since the acute phase. The patient is still severely disabled in spite of physiotherapy. His private, social, and professional life has been shattered. We believe this is the only paper detailing such a long-term follow-up of a fulminant GBS case.
+
+Thirty-four cases have been previously described in the literature (Table 1). Diagnosis can be very difficult when the patient is seen during the coma period with no previous case history. On day 3, our patient’s Glasgow coma scale score was 3/15 and there was a nonreactive bilateral mydriasis. The presence of bilateral mydriasis has rarely been described in GBS. This finding can be explained by a demyelination of the synaptic and parasympathetic preganglionic fibers that supply the pupil. However, pupillary involvement is common in Miller Fischer syndrome, a variant of GBS, and mydriasis has also been reported in more than a third of Miller Fischer syndrome patients. Polyneuropathy is sometimes absent from the initial clinical picture. The outcome of lumbar puncture and the investigations are therefore all-important in this case. In some patients, a pathological analysis with nerve biopsy has been performed. One common characteristic of the various reported cases is the rapid onset of “pseudo-coma,” occuring on average 3 days from first symptoms. Electrophysiological studies have shown 18 cases with demyelination and 11 cases with axonal involvement (Table 2).
+
+Moreover, three cases of fulminant GBS with antecedent C. jejuni infection have been reported. C. jejuni is the pathogenic agent most commonly found in cases of GBS preceded by diarrhea. Since the first cases described in 1982, the severity of GBS following infection with C. jejuni has been evidenced and includes frequent axonal involvement, slower recovery, and more severe disability.
+
+Reported treatments were not homogeneous, and it is therefore impossible to establish a consensus. They are described in Table 3 but are not mentioned in every study. However, it is important to emphasize that repeated courses of IVIG may be effective in severe, unresponsive GBS. Our patient received four courses of IVIG and four plasma exchanges.
+
+Publications including long-term data after fulminant GBS are very sparse in the literature, and so it is difficult to reach a conclusion on this point. However, recovery of neurological function in fulminant GBS seems to be poor, and the disease has a high mortality rate. Outcomes for patients affected with fulminant GBS are described in Table 3. Absence of excitability on EMG and dependency on mechanical ventilation for more than one month are factors indicative of poor prognosis. Fulminant GBS has a more serious prognosis than “standard” GBS. Indeed, our literature review found 5/34 deaths (14.7%) and 52% severely disabled patients, as opposed to the lower reported rates of death and disability in “standard” GBS (4% and 14% respectively). It is worth noting that the majority of deaths in the cohort took place before 2000, (4/5) with dysautonomic complications being more frequent during this period. After the acute phase, GBS patients have both physical and cognitive disabilities that are amenable to improvement with rehabilitation programs focusing on specific complications (ie, therapeutic exercises avoiding overexertion for weakness, soaking techniques for sensory loss, transcutaneous electrical nerve stimulation for residual pain, biofeedback techniques for neurologic bladder and bowel). Moreover, rehabilitation of highly dependent GBS patients results in significant reduction in ongoing care costs and is cost-efficient despite significant residual disability.
+
+When electrophysiological investigations are available, fulminant GBS is more likely to be accompanied by axonal damage (50% in our cohort), a feature associated with slower and less satisfactory functional recovery. Clinical cases for which a sural biopsy was carried out showed that axonal damage was preceded by a phase of severe distal demyelination with conduction blocks. Electroencephalogram (EEG) tracings typically identify alpha rhythm activity unresponsive to painful and auditory stimulation during fulminant GBS, but other tracings have also been reported (sleep, responsive or the so-called “alpha-delta” stage of sleep). Continuous EEG monitoring could be of particular interest in this setting to assess variability in EEG pattern over hours or days as opposed to minutes. Unfortunately, this procedure was not yet available in our institution.
+
+The patient has recovered his cognitive functions but has no memory of the acute phase, as is commonly described in previously published cases. GBS can also be complicated by a reactive depressive syndrome. Our patient developed a depressive state, thus requiring specialist management with long-term antidepressant treatment.
+
+Conclusion
+
+Fulminant GBS with brain-death presentation is rare but deserves medical knowledge and awareness. Its diagnosis leads to a well-established treatment that reduces long-term disability. This case reminds us of the importance of electrophysiological investigations during clinical brain-death states with no definite cause. Finally, long-term physiotherapy and specific rehabilitation programs appear essential to improve recovery.
+
+Consent
+
+Written informed consent was obtained from the patient for publication of this case report.
+
+Author contributions
+
+AR collected data and wrote the manuscript, JL helped to collect data, obtained patient’s consent, and reviewed the manuscript, SG participated in design and coordination of the manuscript, PEB conceived and coordinated the study. All authors contributed toward data analysis, drafting and critically revising the paper and agree to be accountable for all aspects of the work.
+
+Disclosure
+
+The authors report no conflicts of interest in this work.
+
+References
+
+Guillain-Barré syndrome
+
+Long-term impact on work and private life after Guillain-Barré syndrome
+
+Pseudoaxonal Guillain-Barré syndrome: severe demyelination mimicking axonopathy. A case with pupillary involvement
+
+Fulminant Guillain-Barré syndrome mimicking cerebral death: case report and literature review
+
+Clinical features and prognosis of Miller Fisher syndrome
+
+Fulminant demyelinating polyradiculoneuropathy resembling brain death
+
+Fulminant Guillain-Barré syndrome with quadriplegia and total paresis of motor cranial nerves as a result of segmental demyelination
+
+Fulminant demyelinating neuropathy mimicking cerebral death
+
+A fulminant case of Guillain-Barré syndrome: topographic and fiber size related analysis of demyelinating changes
+
+Fulminant Guillain-Barré syndrome with universal inexcitability of peripheral nerves: a clinicopathological study
+
+Simulation of brain death from fulminant de-efferentation
+
+Fulminant Guillain-Barré syndrome after Campylobacter jejuni enteritis and anti-ganglioside antibody
+
+Guillain-Barre syndrome associated with Campylobacter infection
+
+Campylobacter jejuni infection and Guillain-Barré syndrome
+
+Efficacy of repeated intravenous immunoglobulin in severe unresponsive Guillain-Barré syndrome
+
+Prognosis in Guillain-Barré syndrome
+
+Guillain-Barré syndrome with severe demyelination mimicking axonopathy
+
+Outcome and its predictors in Guillain-Barre syndrome
+
+Guideline for neuromuscular rehabilitation in Guillain-Barré syndrome: what can we do
+
+Functional Outcomes and Efficiency of Rehabilitation in a National Cohort of Patients with Guillain – Barré Syndrome and Other Inflammatory Polyneuropathies
+
+Fulminant guillain-barré syndrome mimicking cerebral death following acute viral hepatitis a
+
+Clinical signs of brain death simulated by Guillain-Barré syndrome
+
+Fulminant inflammatory neuropathy mimicking cerebral death
+
+“Locked-in coma” in postinfective polyneuropathy
+
+Total locked-in state resembling brain death in polyneuropathy
+
+Coma and brain stem areflexia in brain stem encephalitis (Fisher’s syndrome)
+
+Guillain-Barré syndrome mimicking brainstem death
+
+Guillain-Barré syndrome mistaken for brain stem death
+
+Neurologic disease and the determination of brain death: the importance of a diagnosis
+
+The differential diagnosis of fixed dilated pupils: a case report and review
+
+Event-related potentials in patients with total locked-in state due to fulminant Guillain-Barré syndrome
+
+Guillain-Barré syndrome resembling brainstem death in a patient with brain injury
+
+Fulminant acute inflammatory demyelinating polyradiculoneuropathy: case report and literature review
+
+Fulminant case of Guillain-Barré syndrome with poor recovery and depression following Haemophilus influenzae infection
+
+Fulminant Guillain-Barré syndrome after closed head injury: a potentially reversible cause of an ominous examination. Case report
+
+Guillain-Barré syndrome with absent brainstem reflexes – a report of two cases
+
+Guillain-Barré syndrome mimicking brain death
+
+Severe Guillain-Barré syndrome following head trauma
+
+Guillain-Barré syndrome mimicking brain death pattern: a poorly reversible condition
+
+An unusual cause of fulminant Guillain-Barré syndrome: angel’s trumpet
+
+Locked-in syndrome in three children with Guillain-Barré syndrome
+
+Clinical characteristics
+
+Study	Age/Sex	Patterns of deficit	History	Pathogen	Time to nadir (days)	 	Carroll and Mastaglia, 1979	45/M	Generalized tetraparesis	Rhinopharyngitis		5	 	Kotsoris et al, 1984	44/M	Generalized ascending tetraparesis	NR		2	 	Al-din et al, 1985	45/M	NR	NR		3	 	Drury et al, 1987	63/M	Generalized tetraparesis	Rhinopharyngitis		2	 	Kanda et al, 1989	47/M	Generalized ascending tetraparesis	Rhinopharyngitis		6	 	Coad and Byrne, 1990	43/M	Diplopia followed by generalized tetraparesis	Rhinopharyngitis		4	 	Hassan and Mumford, 1991	45/M	Muscle weakness, diplopia	Diarrhea		3	 	Fuller et al, 1992	63/M	Generalized tetraparesis	NR		2	 	Marti-Masso et al, 1993	58/F	Dysphonia followed by generalized tetraparesis	NR		2	 	Tan and Chee, 1995	50/F	Muscle weakness followed by generalized tetraparesis	Diarrhea		2	 	Bakshi et al, 1997	6/M	Generalized tetraparesis	Diarrhea		2	 	Berciano et al, 1997	67/M	Dyspnea followed by generalized tetraparesis	Diarrhea	C. jejunii	2	 	Bohlega et al, 1997	45/M	Generalized ascending tetraparesis	NR		3	 	Hughes and McGuire, 1997	27/M	Difficulty swallowing followed by generalized tetraparesis	Rhinopharyngitis		5	 	Thomas, 2000	36/M	Generalized ascending tetraparesis	Rhinopharyngitis		2	 	Vargas et al, 2000	45/F	Generalized tetraparesis	Rhinopharyngitis		1	 	Ragazzoni et al, 2000	40/M	Generalized ascending tetraparesis	Rhinopharyngitis		2	 	Stojkovic et al, 2001		Generalized tetraparesis	Cranial trauma		2	 	Saito, 2002	21/M	Dysarthria	Diarrhea	C. jejunii	4	 	Friedman et al, 2003	57/F	Distal paresthesias in lower limbs	NR		6	 	Friedman et al, 2003	27/M	Diplopia, difficulty swallowing then tetraparesis	Cranial trauma	C. jejunii	3	 	Moussouttas et al, 2004	47/F	Distal paresthesias in lower limbs	Cranial trauma		5	 	Kang and Kim, 2007	32/M	Distal paresthesias in lower limbs, facial diplegia	Diarrhea	Hepatitis A	4	 	Tagami et al, 2008	65/M	NR	NR	H. influenzae	NR	 	Rivas et al, 2008	55/M	Generalized tetraparesis	Cranial trauma		7	 	Joshi et al, 2008	34/M	Generalized tetraparesis	NR		2	 	Joshi et al, 2008	59/M	Generalized ascending tetraparesis	NR		10	 	Rigamonti et al, 2009	61/F	Muscle weakness followed by tetraparesis	Diarrhea		1	 	Tan et al, 2010	44/M	Distal paresthesias in lower limbs	Cranial trauma		2	 	Bernard et al, 2010	73/F	NR	NR		NR	 	Sevketoglu et al, 2010	5/M	Dysphonia, difficulty swallowing	NR		1	 	Medici et al, 2011	5/M	Dysarthria, facial diplegia	NR		1	 	Medici et al, 2011	3 months/M	Facial diplegia	Tetanus–diphtheria vaccination		1	 	Medici et al, 2011	8/M	Diplopia, dysarthria, tetraparesis	Diarrhea		1	 	
+
+Abbreviation: NR, not reported.
+
+Paraclinical characteristics
+
+Study	Lumbar puncture	Protein concentration (mg/dL)	NCS	EEG	Biopsy	 	Carroll and Mastaglia, 1979	Dissociation	42		Alpha		 	Kotsoris et al, 1984	Dissociation	462	Inexcitability	Alpha		 	Drury et al, 1987	Dissociation	58	Inexcitability	Alpha reactive		 	Kanda et al, 1989	Dissociation	58			Demyelination	 	Coad and Byrne, 1990	Dissociation	200	Inexcitability	Alpha		 	Hassan and Mumford, 1991	Normal	25	Inexcitability	Alpha reactive		 	Fuller et al, 1992	Dissociation	75	Inexcitability	Alpha waves and diffuse beta activity	Primary demyelination, axonal degeneration	 	Marti-Masso et al, 1993	Dissociation	75	Axonopathy	Alpha nonreactive		 	Tan and Chee, 1995	Normal	20	Inexcitability	Alpha reactive		 	Bakshi et al, 1997	Dissociation	167	Inexcitability	Reactive theta activity, sleep	Demyelination	 	Berciano et al, 1997	Pleocytosis	198	Inexcitability	Alpha reactive	Primary demyelination, axonal degeneration	 	Bohlega et al, 1997	Dissociation	605	Inexcitability		Primary demyelination, axonal degeneration	 	Hughes and McGuire, 1997	Dissociation	58	Demyelination with axonal loss	Sleep	Primary demyelination, axonal degeneration	 	Vargas et al, 2000	Dissociation	90	Inexcitability	Alpha	Primary demyelination, axonal degeneration	 	Ragazzoni et al, 2000	Dissociation	70	Inexcitability	Reactive		 	Stojkovic et al, 2001		197	Demyelination			 	Saito, 2002		65	Axonopathy			 	Friedman et al, 2003	Dissociation		Inexcitability	Theta	Axonal degeneration	 	Friedman et al, 2003	Dissociation	58	Axonopathy	Alpha reactive		 	Moussouttas et al, 2004	Dissociation		Inexcitability	Nonspecific slowing		 	Kang and Kim, 2007	Dissociation	115	Axonopathy	Alpha		 	Rivas et al, 2008	Dissociation		Inexcitability	Alpha	Axonal degeneration	 	Joshi et al, 2008	Dissociation		Inexcitability	Nonspecific slowing reactive		 	Joshi et al, 2008			Inexcitability	Nonspecific slowing reactive		 	Rigamonti et al, 2009	Dissociation	85	Inexcitability	Nonspecific slowing		 	Tan et al, 2010	Dissociation	182			Macrophages	 	Bernard et al, 2010	Dissociation		Axonopathy	Nonspecific slowing reactive		 	Sevketoglu et al, 2010	Dissociation	70	Axonopathy			 	Medici et al, 2011	Dissociation	117	Axonopathy			 	Medici et al, 2011	Dissociation	260	Axonopathy			 	Medici et al, 2011	Dissociation	180	Axonopathy			 	
+
+Abbreviations: NCS, nerve conduction study; EEG, electroencephalogram.
+
+Treatments and outcomes
+
+Study	Treatment	Dysautonomia	“Brain death” (days)	Mortality	Other	Outcome	 	Carroll and Mastaglia, 1979					Amnesia	Walks with assistance (crutches)	 	Kotsoris et al, 1984			6			Handicapped, partial motor recovery	 	Al-din et al, 1985			5			Severe weakness (after 3 months)	 	Drury et al, 1987			46		Amnesia		 	Kanda et al, 1989	PE	CA	7 (death)	CA day 5			 	Coad and Byrne, 1990			5			Complete gradual recovery	 	Hassan and Mumford, 1991						6 months of mechanical ventilation, wheelchair	 	Fuller et al, 1992	PE/corticosteroids	Arrythmia, CA	7	CA day 28			 	Marti-Masso et al, 1993	PE(6)	Arrythmia	13		Amnesia	Can walk unaided after 1 year	 	Tan and Chee, 1995	Gamma globulin		12	Day 98	Amnesia	Significant sequelae after 2 months	 	Bakshi et al, 1997	Gamma globulin		“Few weeks”			Significant sequelae, walks with assistance after 1 year	 	Berciano et al, 1997	PE/corticosteroids	CA		CA day 18			 	Bohlega et al, 1997	PE/gamma globulin		31			Severe handicap, proximal recovery after 30 months	 	Hughes and McGuire, 1997	Gamma globulin					Significant sequelae after 6 months	 	Vargas et al, 2000	PE					Severe handicap	 	Ragazzoni et al, 2000	PE				Amnesia		 	Stojkovic et al, 2001	Gamma globulin						 	Saito, 2002	PE/Gamma globulin(2)	Tachycardia				Significant sequelae predominantly in lower limbs	 	Friedman et al, 2003			16			4/5 Motor sequelae in upper limbs, 3/5 in lower limbs	 	Friedman et al, 2003	Gamma globulin				Amnesia	Partial proximal recovery, 3/5 in lower limbs	 	Moussouttas et al, 2004	PE/gamma globulin					Complete recovery	 	Kang and Kim, 2007	Gamma globulin/corticosteroids	Bradycardia				Good recovery and ability to walk	 	Tagami et al, 2008	PE/gamma globulin				Depression	Major sequelae	 	Rivas et al, 2008						Handicapped	 	Joshi et al, 2008						Handicapped	 	Joshi et al, 2008						Handicapped	 	Rigamonti et al, 2009	Gamma globulin	Tachycardia	15			Walks with assistance (crutches)	 	Tan et al, 2010	Gamma globulin(2)	Blood pressure lability					 	Bernard et al, 2010	Gamma globulin		12	Septic shock day 158			 	Sevketoglu et al, 2010	PE/gamma globulin(2)					Partial motor recovery	 	Medici et al, 2011	PE/gamma globulin/corticosteroids		7			Complete recovery	 	Medici et al, 2011	Gamma globulin		15			Handicapped, partial recovery	 	Medici et al, 2011	Gamma globulin		5				 	
+
+Abbreviations: PE, plasma exchange; CA, cardiac arrest.

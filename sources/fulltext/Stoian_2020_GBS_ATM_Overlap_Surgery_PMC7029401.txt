@@ -1,0 +1,44 @@
+Guillain-Barre and Acute Transverse Myelitis Overlap Syndrome Following Obstetric Surgery
+
+Authors: Adina Stoian, Anca Motataianu, Zoltan Bajko, Adrian Balasa
+Journal: Journal of Critical Care Medicine, 2020;6(1):74-79
+PMID: 32104735 | PMCID: PMC7029401 | DOI: 10.2478/jccm-2020-0008
+
+CASE REPORT
+
+A 16-year-old pregnant patient developed concurrent GBS and acute transverse myelitis (ATM) following therapeutic pregnancy termination under general anesthesia.
+
+PRESENTATION:
+- Two weeks post-procedure: paraesthesia ascending from lower to upper extremities
+- Motor deficits: 2/5 upper limbs, 0/5 lower limbs
+- Absent deep tendon reflexes
+- Acute urine retention and fecal incontinence
+- Sensory level at D1
+
+DIAGNOSTICS:
+- NCS: AMAN subtype GBS (axonal motor, >70% CMAP reduction, absent F waves)
+- Spinal MRI: T2 hyperintense lesion (no enhancement due to concurrent steroids)
+- CSF: Normal
+- Extensive infectious, autoimmune, paraneoplastic workup negative
+
+TREATMENT:
+- 5 plasma exchange sessions
+- IV methylprednisolone 1g x 5 days
+- IVIg 0.4 g/kg x 5 days
+- Result: Modest upper limb improvement (0/5 -> 3/5), minimal lower limb recovery
+- Discharged on corticosteroids + azathioprine
+
+LITERATURE REVIEW:
+- As of 2019: 24 cases of GBS-ATM overlap documented
+- Predominantly pediatric (mean age 21.3 years)
+- Female predominance
+- TM most common acquired CNS demyelinating syndrome in GBS overlap (32%)
+- 85% of overlap identified within 4 weeks of initial diagnosis
+- No established first-choice therapy guidelines
+
+PROGNOSIS:
+- AMSAN/AMAN subtypes carry worse prognosis
+- ATM combined with GBS portends poorer outcomes than either alone
+- All 5 identified ATM-AMAN overlap cases had poor short-term prognosis
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7029401/

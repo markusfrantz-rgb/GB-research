@@ -1,0 +1,47 @@
+Overlapping Guillain-Barre Syndrome and Bickerstaff's Brainstem Encephalitis Associated with Epstein Barr Virus
+
+Authors: Young Il Rho
+Journal: Korean Journal of Pediatrics
+Year: 2014 (October 31), Volume 57, Issue 10, Pages 457-460
+DOI: 10.3345/kjp.2014.57.10.457
+PMID: 25379047
+PMCID: PMC4219949
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+A 2-year-old boy presented with a rare overlapping condition combining two neurological syndromes. Following bronchitis and diarrhea, he developed progressive eye movement problems, balance disturbance, and eventually consciousness impairment. Laboratory testing confirmed recent Epstein-Barr virus infection with viral DNA detected in cerebrospinal fluid.
+
+KEY CLINICAL CASE
+
+The patient exhibited "progressive ophthalmoplegia, ataxia, disturbance of consciousness, progressive bilateral limb weakness, facial weakness," along with absent deep tendon reflexes. Notably, antiganglioside antibodies tested negative, and brain imaging appeared normal, yet clinical presentation remained consistent with overlapping syndrome.
+
+DIAGNOSTIC FEATURES
+
+- Classic BBE triad: ophthalmoplegia, ataxia, altered consciousness
+- GBS features: progressive bilateral limb weakness, facial weakness, areflexia
+- EBV confirmed by serology and CSF PCR
+- Anti-GQ1b antibodies: negative
+- Brain MRI: normal
+- CSF: elevated protein with normal cell count
+
+TREATMENT AND OUTCOME
+
+Management combined:
+- Intravenous immunoglobulin
+- High-dose methylprednisolone
+- Acyclovir
+
+The patient required mechanical ventilation but recovered substantially within three months with complete recovery and no relapse after one year.
+
+CLINICAL SIGNIFICANCE
+
+1. BBE-GBS overlap can occur in very young children (2 years old)
+2. EBV is a recognized trigger for this overlap syndrome
+3. Anti-GQ1b antibodies may be negative despite classic presentation
+4. Normal brain MRI does not exclude BBE-GBS overlap
+5. Combined immunotherapy and antiviral treatment resulted in complete recovery
+6. The combination of CNS symptoms (altered consciousness) with PNS findings (weakness, areflexia) should prompt consideration of this overlap
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4219949/

@@ -1,0 +1,121 @@
+Case report: Incidence and prognostic value of brain MRI lesions and elevated
+cerebrospinal fluid protein in children with Guillain-Barre syndrome
+
+Authors: Francesco Pizzo, Alessandra Di Nora, Alessia Di Mari, Giuseppe Costanza,
+Elisabetta Testa, Marianna Strazzieri, Filippo Greco, Tiziana Timpanaro,
+Antonio Basile, Giuseppe Belfiore, Andrea Giugno, Roberta Rocca,
+Martino Ruggieri, Agata Fiumara, Piero Pavone
+
+Journal: Frontiers in Neurology. 2022 Oct 21;13:885897
+DOI: 10.3389/fneur.2022.885897
+PMID: 36341115 | PMCID: PMC9635623
+
+ABSTRACT
+
+Guillain-Barre syndrome (GBS) is an acute immune-mediated disorder affecting
+peripheral nerves and nerve roots with variable clinical course and outcome. This
+study clarifies which clinical features serve prognostic purposes by evaluating
+correlations between: (1) brain MRI lesions and disability grade; (2) brain MRI
+lesions and elevated CSF protein; and (3) increased CSF protein levels and
+disability grade.
+
+Twelve pediatric patients meeting Brighton criteria for GBS were enrolled.
+Clinical evaluation at disease onset and 2 weeks using GBS disability score.
+
+Pearson correlation analysis:
+- MRI lesions vs disability grade: r = 0.92 (R2 = 0.8573)
+- CSF protein vs disability grade: r = 0.85 (R2 = 0.7342)
+- MRI lesions vs CSF protein: r = 0.87
+
+Conclusion: MRI and CSF laboratory parameters can be important tools for the
+clinician not only for diagnosis but also to evaluate possible worsening.
+
+INTRODUCTION
+
+GBS manifests as acute flaccid paralysis with symmetrical limb weakness,
+hyporeflexia, or areflexia developing fully within 4 weeks. Among pediatric
+patients at disease zenith: 75% unable to walk unsupported, 30% quadriplegic,
+35-50% show cranial nerve involvement, 15-20% have respiratory failure.
+
+In children aged 0-9 years, GBS incidence is 0.62 cases per 100,000 person-years.
+Diagnosis relies on family history, assessment, electrodiagnostics, and CSF
+analysis revealing classical albumin-cytologic dissociation.
+
+METHODS
+
+Literature Review: Cochrane, EMBASE, MEDLINE. Found no publications evaluating
+correlation among clinical severity, imaging, and CSF proteins combined.
+
+GBS Disability Score (0-6 scale):
+0 = Asymptomatic
+1 = Movement reduction but capable of manual work
+2 = Able to walk but unable to work with hands
+3 = Needs walking support
+4 = Bedridden
+5 = Requiring assisted ventilation
+6 = Dead
+
+Brain MRI Classification (Yikilmaz et al.):
+Type I: No enhancement
+Type II: Anterior roots > posterior roots
+Type III: Anterior roots = posterior roots
+Type IV: Only anterior roots enhance
+
+Study Population: 12 children, ages 1-14 years (mean 6.8), 7 boys/5 girls.
+All met Brighton criteria. All received IVIg 1 g/kg daily for 2 days.
+
+RESULTS
+
+Two children required intubation. Three showed cranial nerve involvement.
+Children with respiratory disturbances involving cranial nerves had worse
+clinical course.
+
+Trigger events: gastrointestinal infections (3), airway infections (8),
+vaccination (1). Mean admission time: 4 days post-onset. Sensory disturbance
+in 2 patients. Hyporeflexia/areflexia in 10 patients.
+
+Strong correlations found between all three parameters (MRI, CSF protein,
+disability), with r-values approaching unity indicating parallel trends.
+
+DISCUSSION
+
+Currently, prognostic scores are based exclusively on clinical parameters.
+There is no clinical-prognostic score that takes into consideration radiological
+or laboratory parameters.
+
+Involvement of anterior and posterior nerve root is associated with severe
+clinical conditions and worse prognosis. MRI should be considered an essential
+exam in diagnostic and prognostic evaluation of GBS.
+
+The best prognostic indicator among CSF elements was high level of CSF protein.
+
+MRI should be performed routinely in children with GBS to estimate possible
+evolution of clinical condition and establish early need for ventilatory support.
+
+This is the first study using laboratory, imaging, and clinical parameters
+to stage GBS together.
+
+REFERENCES
+
+1. van Doorn PA, et al. Lancet Neurol. 2008;7:939-50.
+2. Bragazzi NL, et al. J Neuroinflam. 2021;18:264.
+3. Leonhard SE, et al. Nat Rev Neurol. 2019;15:671-83.
+4. van den Berg B, et al. Nat Rev Neurol. 2014;10:469-82.
+5. McGrogan A, et al. Neuroepidemiology. 2009;32:150-63.
+6. Sejvar JJ, et al. Neuroepidemiology. 2011;36:123-33.
+7. Nguyen TP, Taylor RS. StatPearls. 2022.
+8. van Koningsveld R, et al. Lancet Neurol. 2007;6:589-94.
+9. Althubaiti F, et al. Arch Pediatr. 2022;29:230-5.
+10. Kasser S, et al. J Clin Neuromuscul Dis. 2019;21:118-9.
+11. Hughes RA, et al. Lancet. 1978;2:750-3.
+12. Doets AY, et al. Neurology. 2022;98:e518-32.
+13. Gorson KC, et al. Neurology. 1996;47:813-7.
+14. Yikilmaz A, et al. Childs Nerv Syst. 2010;26:1103-8.
+15. Roodbol J, et al. J Neurol. 2017;264:856-61.
+16. Kerasnoudis A, et al. J Neurol Sci. 2014;340:37-43.
+17. Morgan GW, et al. Neurology. 1993;43:618-20.
+18. Brettschneider J, et al. J Neurol. 2009;256:3-12.
+19. Di Capua DB, et al. J Clin Neuromuscul Dis. 2015;17:47-51.
+20. Jacobs BC, et al. J Peripher Nerv Syst. 2017;22:68-76.
+
+Open Access: Creative Commons Attribution License (CC BY)

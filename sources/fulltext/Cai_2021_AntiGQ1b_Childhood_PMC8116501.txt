@@ -1,0 +1,48 @@
+Clinical Characterization of Anti-GQ1b Antibody Syndrome in Childhood
+
+Authors: Lianhong Cai, Zhanqi Hu, Jianxiang Liao, Siqi Hong, Lingyu Kong, Li Chen, Yetao Luo, Tingsong Li, Li Jiang
+Journal: Frontiers in Pediatrics
+Year: 2021
+PMID: 33996691
+PMCID: PMC8116501
+DOI: 10.3389/fped.2021.649053
+
+STUDY OVERVIEW
+
+Examined 78 children with anti-GQ1b antibody syndrome (12 new cases + 66 published cases). Median onset age 10 years (range 2-18).
+
+CLINICAL SPECTRUM
+
+Most Common Phenotypes:
+- Acute ophthalmoparesis: 32% (25 cases)
+- Miller Fisher syndrome: 15% (12 cases)
+- Bickerstaff brainstem encephalitis: 12% (9 cases)
+
+Onset Symptoms:
+- External ophthalmoplegia: 48% (most frequent)
+- Sensory disturbance: 9%
+- Bulbar palsy: 9%
+
+MRI FINDINGS
+
+Brain or spinal MRI abnormalities in 18% (12/68 cases):
+- Cerebral white matter, cerebellum, and brainstem lesions: 7 cases
+- Cranial nerve involvement: 3 cases
+- Myelitis-like demonstration: 1 case
+- Enhanced meningeal signal: 1 case
+- Additional: white matter, basal ganglia, and periaqueductal areas
+
+LABORATORY FINDINGS
+
+CSF: Albuminocytologic dissociation in 34% (23/68) - significantly lower than classic GBS (77%)
+NCS: Abnormal in 60% (27/45 cases)
+
+Anti-GQ1b Antibodies:
+- Serum-positive: 92% (72/78)
+- Anti-GT1a most common concurrent antibody (55%)
+
+TREATMENT AND PROGNOSIS
+
+- IVIG alone or combined with steroids/PE: 58% (42/72)
+- Complete recovery within 1 year: 81% (57/70)
+- Favorable prognosis regardless of onset age or phenotype

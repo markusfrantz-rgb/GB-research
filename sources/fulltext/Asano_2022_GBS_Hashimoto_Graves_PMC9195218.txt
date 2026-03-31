@@ -1,0 +1,30 @@
+Guillain-Barre syndrome with transition from Hashimoto's to Graves' disease: a case report
+Asano M, Kenzaka T
+BMC Endocrine Disorders. 2022;22:157
+PMID: 35698219 | PMCID: PMC9195218 | DOI: 10.1186/s12902-022-01067-7
+
+CASE REPORT
+55-year-old Japanese woman with 16-year history of Hashimoto's disease developed GBS following acute enteritis, with subsequent transition to Graves' disease.
+
+CLINICAL PRESENTATION
+Following gastrointestinal inflammation: extremity weakness and sensory impairment.
+- FT4: 6.07 ng/dL (elevated)
+- FT3: 17.57 pg/mL (elevated)
+- Anti-GM1 IgG antibodies positive (confirming GBS)
+
+TREATMENT AND OUTCOME
+- High-dose IVIG (400 mg/kg daily x 5 days): neurological symptoms resolved within one week
+- Mercazole for hyperthyroidism
+- Thyroid function normalized over 2.5 years follow-up
+
+PATHOPHYSIOLOGICAL MECHANISM
+GBS onset hypothesized to trigger:
+- Th1 and Th17 helper T cell dominance
+- Increased effector B cells
+- Thyroid-stimulating antibody production
+These mechanisms drove Hashimoto-to-Graves transition.
+
+SIGNIFICANCE
+- Third documented case worldwide combining GBS with Graves' disease
+- First demonstrating direct Hashimoto-to-Graves transition triggered by GBS
+- Illustrates complex autoimmune interplay between thyroid and neurological systems

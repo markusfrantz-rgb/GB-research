@@ -1,0 +1,44 @@
+Reversible Posterior Encephalopathy Syndrome Due to Intravenous Immunoglobulin in a Child with Guillain-Barre Syndrome
+
+Authors: Faruk Incecik, M Ozlem Herguner, Sakir Altunbasak, Dincer Yildizdas
+Journal: Journal of Pediatric Neurosciences
+Year: 2011, Volume 6, Issue 2, Pages 138-140
+DOI: 10.4103/1817-1745.92841
+PMID: 22408666
+PMCID: PMC3296411
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The authors describe a rare pediatric case where posterior reversible encephalopathy syndrome (PRES) developed following intravenous immunoglobulin (IVIg) treatment for Guillain-Barre syndrome. Notably, the condition occurred "without severe hypertension," distinguishing this presentation from typical PRES cases.
+
+CASE REPORT
+
+A 3-year-old previously healthy boy presented with progressive ascending weakness five days after symptom onset. Following GBS diagnosis confirmed by nerve conduction studies showing acute motor sensory axonal neuropathy, he received IVIg at 0.4 g/kg/day for five days.
+
+Five days post-treatment completion, encephalopathy developed with agitation progressing to somnolence. The authors noted "his blood pressure was within normal limits," with recorded values of 90/50-100/60 mmHg throughout the episode.
+
+IMAGING AND RESOLUTION
+
+Brain MRI demonstrated vasogenic edema in right parieto-occipital white matter and bilateral basal ganglia. Remarkably, "complete recovery of the neurological symptoms occurred spontaneously within 3 days," with significant lesion resolution evident on follow-up imaging one week later.
+
+DISCUSSION
+
+Proposed mechanisms for PRES without hypertension in this pediatric case include:
+- IVIg-induced serum hyperviscosity
+- Cerebrovascular endothelial dysfunction
+- Platelet hyperactivity
+- Direct effect on blood-brain barrier
+
+The authors emphasize that clinicians "have to suspect PRES in patients that have new neurological signs after IVIg," highlighting this as an underrecognized complication requiring heightened awareness, even in the absence of hypertension.
+
+CLINICAL SIGNIFICANCE
+
+- PRES can occur in children with GBS treated with IVIg
+- Hypertension is NOT required for PRES development
+- IVIg itself may trigger PRES through non-hypertensive mechanisms
+- Complete spontaneous recovery is possible
+- New neurological signs after IVIg should prompt brain MRI evaluation
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3296411/

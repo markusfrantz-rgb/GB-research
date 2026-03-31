@@ -1,0 +1,34 @@
+Guillain-Barre Syndrome and Posterior Reversible Encephalopathy Syndrome following Spinal Surgery
+
+Authors: Yui Sanpei, Akira Hanazono, Sachiko Kamada, Masashiro Sugawara
+Journal: Case Reports in Neurology
+Year: 2019
+DOI: 10.1159/000502570
+PMID: 31607895
+PMCID: PMC6787417
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The case describes a female patient in her 70s who developed ascending paralysis and brain lesions after spinal surgery. Neurological findings included "demyelinating polyneuropathy" with "bilateral subcortical altered signal intensities involving U-fibers of the frontal-parieto-occipital lobes." The patient was diagnosed with both Guillain-Barre syndrome and PRES, with brain lesions resolving after blood pressure management and intravenous immunoglobulin treatment.
+
+KEY CLINICAL POINTS
+
+1. Surgery can trigger GBS (post-surgical GBS)
+2. GBS-related autonomic dysfunction may precipitate PRES through hypertension
+3. Importance of "treating hypertension before using IVIG when PRES is suspected"
+4. Brain imaging should be considered in post-surgical patients with neurological symptoms
+5. Women over 55 years appear to be at higher risk for this complication
+6. MRI showed bilateral subcortical signal changes involving U-fibers of frontal-parieto-occipital lobes
+7. Brain lesions resolved completely after blood pressure control and IVIg treatment
+
+CLINICAL SIGNIFICANCE
+
+This case adds to the growing body of evidence that:
+- Post-surgical GBS is a recognized entity
+- PRES is a recognized complication of GBS regardless of the trigger
+- Blood pressure management should PRECEDE immunotherapy when PRES is present
+- The combination of GBS + PRES follows the typical demographic pattern (women > 55 years)
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6787417/

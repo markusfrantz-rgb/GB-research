@@ -1,0 +1,63 @@
+MOG antibodies in combined central and peripheral demyelination syndromes
+
+Authors: R Vazquez Do Campo, A Stephens, IV Marin Collazo, DI Rubin
+Journal: Neurol Neuroimmunol Neuroinflamm. 2018;5(6):e503
+DOI: 10.1212/NXI.0000000000000503
+PMID: 30246057 | PMCID: PMC6147156
+
+OVERVIEW
+
+First documented case of MOG antibody seropositivity in combined central and
+peripheral demyelination (CCPD), suggesting MOG autoimmunity may contribute
+to CCPD pathogenesis.
+
+CASE REPORT
+
+Patient presented with numbness and weakness in left upper extremity and
+bilateral lower extremities alongside spinal cord involvement.
+
+MRI FINDINGS
+
+Neuroimaging revealed extensive demyelinating lesions:
+- Multiple contrast-enhancing T2/FLAIR hyperintense lesions in supratentorial
+  and infratentorial brain structures
+- Cervical spine involvement (3 or more vertebral segments)
+- Thoracic spine involvement
+- Conus medullaris involvement
+- Diffuse thickening and enhancement of lumbosacral nerve roots
+
+This combination of brain, spinal cord, AND nerve root involvement confirmed
+combined central and peripheral demyelination.
+
+ANTIBODY STATUS
+
+MOG-IgG: Positive
+AQP4: Negative
+
+TREATMENT AND RESPONSE
+
+Corticosteroid therapy resulted in:
+- Clinical improvement with only mild residual neurogenic bladder and erectile
+  dysfunction at 3 months
+- Radiographic improvement of brain and spinal cord enhancing lesions
+- Normalization of leg reflexes
+- Complete recovery of facial palsy and wrist/foot drop
+
+CLINICAL SIGNIFICANCE
+
+1. MOG antibodies can be associated with CCPD
+2. MOG is expressed only in CNS (not PNS) in humans - peripheral involvement
+   mechanism unclear
+3. Steroid responsiveness was excellent
+4. Important differential when both CNS and PNS demyelination coexist
+
+RELEVANCE TO GBS WITH BRAIN MRI FINDINGS
+
+When a patient has GBS-like peripheral neuropathy PLUS brain white matter
+lesions, MOG antibody testing should be considered because:
+- It may identify a treatable, steroid-responsive condition
+- It helps distinguish CCPD from pure GBS + incidental findings
+- Treatment implications differ (steroids beneficial in MOGAD vs uncertain
+  in pure GBS)
+
+Open Access: Free PMC article

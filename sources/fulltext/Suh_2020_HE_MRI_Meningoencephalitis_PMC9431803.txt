@@ -1,0 +1,29 @@
+Hashimoto's Encephalopathy with Unusual MRI Findings Mimicking Meningoencephalitis: A Case Report and Literature Review
+Suh HB, Kim H, Kim HJ
+Journal of the Korean Society of Radiology (Taehan Yongsang Uihakhoe Chi). 2020;81:453-458
+PMID: 36237395 | PMCID: PMC9431803 | DOI: 10.3348/jksr.2020.81.2.453
+
+CASE REPORT
+79-year-old woman presenting with disorientation and confusion, initially suspected of meningoencephalitis.
+
+CLINICAL FINDINGS
+- Altered consciousness, decreased responsiveness, temporary right upper extremity weakness
+- Medical history: hypothyroidism post-thyroidectomy
+
+LABORATORY
+- Serum anti-TPO: >20,000 U/mL (normal <60 IU/mL) -- remarkably elevated
+- Elevated antithyroglobulin antibodies
+- Standard infectious workups negative
+
+MRI FINDINGS
+- Multiple white matter hyperintensities
+- Diffuse enhancement along meningeal surfaces without definite parenchymal enhancement
+- Meningeal enhancement finding unprecedented in literature review
+
+TREATMENT AND OUTCOME
+IV methylprednisolone followed by oral prednisolone with gradual tapering.
+Follow-up imaging: marked resolution of both white matter lesions and meningeal enhancement.
+Significant cognitive improvement.
+
+CLINICAL SIGNIFICANCE
+HE can mimic infectious meningoencephalitis. This case highlights importance of considering autoimmune thyroid disease in unexplained encephalopathy with meningeal enhancement.

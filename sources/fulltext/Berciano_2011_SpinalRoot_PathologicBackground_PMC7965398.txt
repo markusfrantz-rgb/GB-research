@@ -1,0 +1,68 @@
+Thickening and Contrast Enhancement of Spinal Roots on MR Imaging in
+Guillain-Barre Syndrome: Thoughts on Pathologic Background
+
+Author: J Berciano
+Journal: AJNR Am J Neuroradiol. 2011;32(9):E179
+DOI: 10.3174/ajnr.A2754
+PMID: 21903912 | PMCID: PMC7965398
+
+OVERVIEW
+
+This editorial/letter discusses the pathologic mechanisms underlying spinal root
+thickening and contrast enhancement observed on MRI in GBS patients.
+
+KEY FINDINGS
+
+1. SOURCE OF THICKENING AND ENHANCEMENT
+
+Clinicopathologic studies identified constant but variable radicular lesions
+ranging from widespread inflammatory demyelination to scattered inflammatory
+infiltrates. These inflammatory changes directly cause the radiologic findings
+observed on MRI.
+
+2. CRITICAL ROLE OF THE EPI-PERINEURIUM
+
+The epi-perineurium is THE critical anatomic factor explaining why spinal roots
+(and cranial nerves in their subarachnoid trajectory) become visibly thickened,
+but peripheral nerves do not.
+
+KEY ANATOMIC PRINCIPLE:
+- SPINAL ROOTS and CRANIAL NERVES in the subarachnoid space LACK an
+  epi-perineurium
+- This absence allows inflammatory swelling to occur freely, producing
+  visible thickening on MRI
+- PERIPHERAL NERVE TRUNKS possess an epi-perineurium that is relatively
+  inelastic, thus NOT allowing any significant increase of their diameters
+- This explains why enhancement and thickening are seen in roots/subarachnoid
+  cranial nerves but NOT in peripheral nerve trunks
+
+3. SUBARACHNOID ANATOMY AND ENHANCEMENT
+
+Without the constraining epi-perineurium, inflammatory swelling in the
+subarachnoid space produces:
+- Visible thickening of roots on MRI
+- Gadolinium enhancement due to blood-nerve barrier breakdown
+- Predominant ventral root involvement (motor roots more affected)
+
+4. MECHANISM OF ENHANCEMENT
+
+Inflammatory demyelination increases endoneurial fluid pressure, potentially
+causing endoneurial ischemia and wallerian-like degeneration. This explains
+both the enhancement and the prominence of ventral root involvement in GBS.
+
+CLINICAL IMPLICATIONS
+
+This anatomic explanation applies equally to:
+- Spinal nerve roots in the cauda equina
+- Cranial nerves in their cisternal/subarachnoid segments
+- Both show enhancement because both lack epi-perineurium in these segments
+
+The same nerve trunk peripheral to the intervertebral foramen (or skull base
+foramen) would NOT show thickening due to the constraining epi-perineurium.
+
+This is why GBS enhancement is characteristically seen:
+- In the cauda equina (intrathecal spinal roots)
+- In cranial nerves at their cisternal segments
+- NOT in peripheral nerve trunks
+
+Open Access: Free PMC article

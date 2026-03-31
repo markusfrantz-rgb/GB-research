@@ -1,0 +1,35 @@
+Vision Loss in Guillain-Barre Syndrome: Is it a Complication of Guillain-Barre Syndrome or Just a Coincidence?
+
+Authors: Sri Ramakrishnan, Balakrishnan Kannan, Aarathy Kannan, E Prasanna Venkatesan
+Journal: Journal of Ophthalmic and Vision Research
+Year: 2016 (Jul-Sep), Volume 11, Issue 3, Pages 340-341
+DOI: 10.4103/2008-322X.188405
+PMID: 27621799
+PMCID: PMC5000544
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The authors present a 15-year-old girl with GBS who developed bilateral vision loss manifesting as "light perception vision loss in both eyes." Her condition progressed to respiratory failure requiring mechanical ventilation. Imaging revealed bilateral parieto-occipital hyperintensity on MRI.
+
+KEY FINDINGS
+
+1. 15-year-old girl with GBS
+2. Bilateral vision loss to light perception only
+3. Respiratory failure requiring mechanical ventilation
+4. MRI: bilateral parieto-occipital hyperintensity consistent with PRES
+5. Dysautonomia caused acute blood pressure elevation triggering PRES
+6. Vision loss resulted from PRES, not direct GBS involvement
+7. Complete vision recovery with conservative management within one month
+
+CLINICAL SIGNIFICANCE
+
+- Vision loss in GBS is an uncommon complication
+- GBS with dysautonomia represents an independent PRES risk factor
+- When GBS patients develop visual symptoms, PRES should be considered
+- Brain MRI is indicated for GBS patients with new visual symptoms
+- PRES-related vision loss in GBS is typically reversible with blood pressure control
+- Both children and adults can be affected
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC5000544/

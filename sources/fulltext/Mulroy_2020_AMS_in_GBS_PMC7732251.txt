@@ -1,0 +1,103 @@
+Altered mental status in "Guillain-Barre syndrome" - a noteworthy clinical clue
+
+Authors: Eoin Mulroy, Neil E Anderson
+Journal: Annals of Clinical and Translational Neurology
+Year: 2020
+PMID: 33136342
+PMCID: PMC7732251
+DOI: 10.1002/acn3.51226
+
+OVERVIEW
+
+This landmark review addresses central nervous system involvement in GBS, noting that "despite being common in clinical practice, there is no guidance in the literature as to how to approach such scenarios." Almost one third of critically ill GBS patients have mental status abnormalities.
+
+INTRINSIC GBS-RELATED MENTAL STATUS CHANGES
+
+Mental status abnormalities can include hallucinations, delusions, and vivid dreams, representing intrinsic disease features appearing primarily during week 1-2.
+
+DISEASE COMPLICATIONS CAUSING CNS DYSFUNCTION
+
+1. SIADH/Hyponatremia: Affects roughly 50% of GBS patients, causing altered mental status and seizures.
+2. CO2 Narcosis: From respiratory muscle weakness requiring ventilation.
+3. PRES (Posterior Reversible Encephalopathy Syndrome): Classically manifesting with headache, nausea, vomiting, visual changes, seizures, encephalopathy with characteristic posterior brain edema. Blood pressure variability can trigger PRES, particularly in women over 55 years.
+
+TREATMENT-RELATED COMPLICATIONS
+
+IVIG-Associated Adverse Effects:
+- Thrombotic events: Variable incidence (1-16%), occurring within 24 hours of infusion
+- Aseptic meningitis: Affects 0.5-1% of IVIG-treated patients; presents with fever, headache, meningism
+- PRES: Can occur secondary to treatment
+
+Medication Effects: Opioids, gabapentin, pregabalin, and sedative medications commonly cause mental status alterations in ventilated patients.
+
+GBS VARIANTS WITH CNS INVOLVEMENT
+
+Anti-GQ1b Antibody Disease Spectrum:
+- Bickerstaff brainstem encephalitis: external ophthalmoplegia AND either altered level of consciousness or hyper-reflexia
+- 25-30% display MRI abnormalities: T2-weighted hyperintensities in brainstem, thalamus, cerebellum, or cerebral white matter
+- Up to 50% have coexisting GBS
+- Serum anti-GQ1b antibody positivity confirms diagnosis
+
+GBS MIMICS WITH CNS INVOLVEMENT - "MIND" FRAMEWORK
+
+M = Metabolic + Malignancy
+I = Infectious/Immune/Inherited
+N = Nutritional
+D = Drugs/Toxins
+
+METABOLIC/MALIGNANCY DISORDERS
+
+Porphyrias: Present with abdominal pain followed by neuropsychiatric symptoms, confusion, delirium and seizures. Up to 40% develop motor-predominant axonal neuropathy. Porphyric neuropathy characteristically begins in arms (unlike GBS). Diagnostic clue: Elevated urinary aminolevulinic acid and porphobilinogen.
+
+Leptomeningeal metastases: Affect 5-8% of solid tumors, 15% of hematologic malignancies. Present with rapidly progressive weakness, radicular pain, sphincter involvement. MRI shows meningeal contrast uptake; CSF contains malignant cells. Clues: asymmetric weakness, abnormal CSF.
+
+Paraneoplastic syndromes: Anti-Hu antibody syndrome (sensory neuronopathy with brainstem/limbic encephalitis), anti-CRMP5 antibodies.
+
+INFECTIOUS DISORDERS
+
+Enteroviruses: Anterior horn cell involvement causing paralysis.
+Flaviviruses: Asymmetric paralysis, brainstem/diencephalic involvement with "double doughnut" sign.
+Rabies (paralytic variant): 20-30% present as paralytic form, clinically indistinguishable from GBS.
+Herpesviruses: CMV, VZV can cause GBS-like illness.
+Neuroborreliosis: Painful spinal polyradiculitis.
+
+IMMUNE DISORDERS
+
+Vasculitides: SLE and EGPA with symmetric sensorimotor polyneuropathy mimicking GBS.
+Autoimmune encephalitides: NMDA/AMPA receptor antibodies, CASPR2 antibodies.
+Inherited: X-linked CMT 1X with transient ADEM-like white matter abnormalities.
+
+NUTRITIONAL DISORDERS
+
+Thiamine deficiency: Classic Wernicke's triad of confusion, ataxia, ophthalmoplegia resembles anti-GQ1b disorders. MRI: Symmetrical thalami, mammillary bodies, periaqueductal hyperintensities.
+
+TOXINS AND DRUGS
+
+Arsenic, thallium, glycol ingestion, ciguatera poisoning, TNF-alpha antagonists.
+
+CLINICAL DECISION-MAKING ALGORITHM
+
+1. Are mental status changes intrinsic to GBS? (MRI brain normal, CSF albuminocytologic dissociation, symptoms peak week 1-2)
+2. Could complications of GBS be responsible? (hyponatremia, hypercarbia, infections, PRES, autonomic dysfunction)
+3. Could GBS treatment be responsible? (IVIG-related: thrombotic events, aseptic meningitis, PRES; medication effects)
+4. Could this be a GBS variant? (Test anti-GQ1b antibodies, assess for Bickerstaff features)
+5. Is this actually not GBS? (Pursue MIND differential systematically)
+
+MRI FINDINGS BY DIAGNOSIS
+
+- PRES: T2/FLAIR hyperintensities in posterior brain regions
+- BBE: T2 hyperintensities in brainstem, thalamus, cerebellum, cerebral white matter
+- Wernicke encephalopathy: Symmetric thalamic/mammillary/periaqueductal enhancement
+- Flavivirus encephalitis: "Double doughnut" sign (thalamic involvement)
+- CMT 1X: ADEM-like white matter abnormalities
+- Autoimmune encephalitis: Medial temporal lobe hyperintensities
+
+CSF ANALYSIS
+
+- Albuminocytologic dissociation: Suggestive of GBS
+- Pleocytosis: Supports infectious/immune etiology
+- Aseptic meningitis (IVIG-related): Neutrophilic pleocytosis, elevated protein, high opening pressure
+
+CONCLUSION
+
+GBS itself can occasionally produce mental status alterations, but this should remain a diagnosis of exclusion. Significant depression in level of consciousness, seizures, movement disorders should trigger exhaustive searches for alternative explanations.

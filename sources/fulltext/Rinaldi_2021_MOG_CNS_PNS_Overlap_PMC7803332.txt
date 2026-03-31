@@ -1,0 +1,39 @@
+Overlapping Central and Peripheral Nervous System Syndromes in MOG Antibody-Associated Disorders
+
+Authors: Simon Rinaldi, Alexander Davies, Janev Fehmi, et al.; Australian and New Zealand MOG Study Group
+Journal: Neurology: Neuroimmunology & Neuroinflammation, 2021;8(1):e924
+PMID: 33272955 | PMCID: PMC7803332 | DOI: 10.1212/NXI.0000000000000924
+
+STUDY SUMMARY
+
+From 271 MOG seropositive adults (2013-2018), 19 patients with peripheral nervous system involvement were identified and characterized.
+
+KEY FINDINGS:
+- All 19 had CNS involvement (optic neuritis 83% of episodes)
+- Peripheral manifestations included: AIDP, myeloradiculitis, multifocal motor neuropathy, brachial neuritis, migrant sensory neuritis, and radicular pain
+- MRI spine was normal in 16/19 at peripheral symptom onset
+- Immunotherapy produced partial or complete symptom resolution in 80% (12/15 treated)
+- 4 patients had serum antibodies against NF155, CASPR2, or GM1
+
+PNS SYNDROME CLASSIFICATION:
+- Confirmed diagnoses (6): AIDP (1), myeloradiculitis (2), multifocal motor neuropathy (1), brachial neuritis (2)
+- Less defined syndromes (13): distal limb pain/paresthesia (5), radicular pain (3), combined (2), migrant sensory neuritis (3)
+
+ANTIBODY FINDINGS:
+- Patient 5: NF155 positive (1:6,400), IgG1/2/4 binding
+- Patient 8: CASPR2 positive (up to 1:12,800)
+- Patients 7 & 17: Low-titer GM1 IgM positive
+- No patients positive for NF186, contactin-1, CASPR-1, LGI1, GQ1b, or sulfatide
+
+TREATMENT OUTCOMES (15/19 treated):
+- Complete resolution: 3 patients
+- Partial resolution: 9 patients
+- No response: 3 patients
+- 5 patients had peripheral symptom recurrence
+
+CLINICAL IMPLICATIONS:
+- MOG antibody testing should be incorporated into workups for patients with peripheral nerve root enhancement, myeloradiculitis, and CCPD
+- Myeloradiculitis, CCPD, and inflammatory neuropathies may be associated with MOGAD
+- These presentations are often immunotherapy responsive
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7803332/

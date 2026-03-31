@@ -1,0 +1,22 @@
+Hashimoto encephalopathy: A study of the clinical profile, radiological and electrophysiological correlation in a Tertiary Care Center in South India
+Sharma PMS, Javali M, Mahale R, Madhusudhan BK, Majeed AA, Srinivasa R
+Journal of Neurosciences in Rural Practice. 2015;6(3):309-314
+PMID: 26167010 | PMCID: PMC4481781 | DOI: 10.4103/0976-3147.158753
+
+STUDY
+Prospective observational study of 13 HE patients in tertiary care center.
+
+CLINICAL PRESENTATION
+- Cognitive impairment and behavioral changes: 76.9% (10/13)
+- Sleep disturbance: 69.2% (9/13)
+- Seizures: 46.1% (6/13)
+
+LABORATORY
+- Most patients: elevated TPO antibodies and elevated CSF protein
+- Neuroimaging: relatively unremarkable in majority
+
+TREATMENT RESPONSE
+Nearly all patients demonstrated significant improvement with corticosteroid treatment.
+
+CONCLUSION
+HE is a treatable condition warranting screening in cases of unexplained encephalopathy. Diverse clinical presentation makes diagnosis challenging.

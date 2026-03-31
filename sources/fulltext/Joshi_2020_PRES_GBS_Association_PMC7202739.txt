@@ -1,0 +1,44 @@
+Guillain-Barre Syndrome and Posterior Reversible Leukoencephalopathy Syndrome: A Rare Association
+
+Authors: Stuti Joshi, David Prentice, Jolandi van Heerden, Thomas Chemmanam
+Journal: BMJ Case Reports
+Year: 2020 (April 20)
+DOI: 10.1136/bcr-2019-234184
+PMID: 32317366
+PMCID: PMC7202739
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The case describes a 69-year-old woman who presented with headaches and visual disturbance resulting from marked hypertension due to medication non-compliance. She developed seizures and MRI findings consistent with PRES (posterior reversible encephalopathy syndrome). Following antihypertensive treatment and symptom improvement, she subsequently developed progressive weakness and areflexia characteristic of Guillain-Barre syndrome (GBS).
+
+The authors note that "the co-occurrence of PRES and GBS has only been described in a handful of cases." This case is unusual because PRES preceded GBS, whereas typically dysautonomia from GBS triggers hypertension leading to PRES.
+
+KEY CLINICAL FINDINGS
+
+- Initial presentation: PRES with characteristic headache, visual symptoms, seizures, and parieto-occipital white matter changes
+- Delayed development: GBS symptoms emerged one week later with progressive weakness and absent reflexes
+- Diagnostic confirmation: Electrophysiology showed demyelinating neuropathy; CSF demonstrated albuminocytologic dissociation
+- Treatment: Intravenous immunoglobulin with gradual recovery
+- Outcome: Complete resolution at 3-month follow-up
+
+DISCUSSION
+
+The authors propose that BBB disruption in PRES may render the nervous system vulnerable to immune-mediated attack, potentially triggering GBS development -- a novel mechanistic hypothesis for this rare association.
+
+Key points from the discussion:
+1. The co-occurrence of PRES and GBS has only been described in a handful of cases
+2. In the majority of these, the dysautonomia of GBS leads to profound hypertension and subsequently PRES
+3. This case reverses the typical temporal sequence: PRES preceded GBS
+4. The sudden elevation of blood pressure that can occur in the setting of autonomic dysfunction in GBS can exceed the upper limit of cerebral autoregulation leading to hyperperfusion, vasogenic oedema and BBB breakdown
+5. Novel hypothesis: BBB disruption from PRES may have triggered the subsequent immune-mediated peripheral nerve attack
+
+CLINICAL SIGNIFICANCE
+
+This case demonstrates that PRES and GBS can occur in either temporal sequence, suggesting a bidirectional pathophysiological relationship rather than a simple cause-and-effect mechanism. Clinicians should be aware that:
+- PRES can precede GBS presentation
+- BBB disruption may be a common pathophysiological link
+- Complete recovery is possible with appropriate treatment of both conditions
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7202739/

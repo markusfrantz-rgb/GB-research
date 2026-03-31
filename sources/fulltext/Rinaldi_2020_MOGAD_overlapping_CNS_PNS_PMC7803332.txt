@@ -1,0 +1,58 @@
+Overlapping Central and Peripheral Nervous System Syndromes in MOG Antibody-Associated Disorders
+
+Authors: Simon Rinaldi, Alexander Davies, Janev Fehmi, Heidi N Beadnall, Justine Wang, Todd A Hardy, Michael H Barnett, Simon A Broadley, Patrick Waters, Stephen W Reddel, Sarosh R Irani, Fabienne Brilot, Russell C Dale, Sudarshini Ramanathan; Australian and New Zealand MOG Study Group
+Journal: Neurology: Neuroimmunology & Neuroinflammation
+Year: 2020; Volume: 8(1): e924
+PMID: 33272955 | PMCID: PMC7803332 | DOI: 10.1212/NXI.0000000000000924
+
+ABSTRACT
+
+This study examined whether peripheral nervous system (PNS) involvement occurs in MOG antibody-associated disorders (MOGAD). Among 271 diagnosed adults, 19 had combined central and peripheral involvement. Immunotherapy resulted in partial or complete PNS symptom resolution in 80% of patients. Serum antibodies targeting neurofascin 155, contactin-associated protein 2, or GM1 were detected in a subgroup (4/16 vs 0/30 controls, p=0.01).
+
+METHODS
+
+From 2013-2018, 4,820 adult serum samples were screened for MOG antibodies using live cell-based assays, identifying 271 seropositive adults. Researchers systematically questioned 62 clinicians from 35 tertiary referral centers across Australia and New Zealand.
+
+RESULTS
+
+Clinical Phenotypes among 19 patients:
+- Acute inflammatory demyelinating polyneuropathy (AIDP): n=1
+- Myeloradiculitis: n=3
+- Multifocal motor neuropathy: n=1
+- Brachial neuritis: n=2
+- Migrant sensory neuritis: n=3
+- Paresthesia and/or radicular limb pain: n=10
+
+All 19 patients experienced CNS involvement:
+- Optic neuritis comprising 39/47 (83%) of CNS episodes
+- 16/19 had relapsing course
+- 11/19 had CNS demyelination as initial presentation
+- 5/19 had PNS involvement as initial presentation
+
+MRI Findings:
+- Normal spine at PNS onset: 16/19
+- Abnormal with nerve root enhancement: 3/19
+
+Treatment Response (15/19 treated):
+- Complete resolution: 3/15
+- Partial resolution: 9/15
+- Unresponsive: 3/15
+- Treatments: steroids, IVIg, rituximab, plasmapheresis
+
+Serologic Findings:
+- NF155 antibodies: 1 patient (end-point dilution 1:6,400)
+- CASPR2 antibodies: 1 patient (dilutions 1:3,200-1:12,800)
+- GM1 IgM antibodies: 2 patients (dilutions 1:100-1:200)
+- 4/16 MOGAD PNS patients vs 0/30 controls had PNS autoantibodies (p=0.01)
+
+DISCUSSION
+
+MOG is an outer lamella component of CNS myelin. The clinical spectrum is expanding with increasing clinical experience. Myeloradiculitis was the most common phenotype. Significant differences in binding epitopes of MOG antibodies in humans compared with rodents and the lack of surface PNS expression of MOG in humans suggest that MOG antibodies are less likely driving immune-mediated PNS presentations directly. Alternative explanations include:
+- Radiologically negative transverse myelitis
+- Overlapping autoantibody-mediated syndromes (NF155, CASPR2, GM1)
+- Small fiber neuropathy
+- Unidentified immune processes
+
+CLINICAL IMPLICATIONS
+
+MOG antibodies should be considered as part of the diagnostic workup of patients who present with peripheral nerve root enhancement or enlargement, myeloradiculitis, and CCPD. In established MOGAD patients, challenging sensory symptoms attributable to the PNS are often immunotherapy responsive, and may be associated in a subgroup with PNS-specific autoantibodies as part of an overlap syndrome.

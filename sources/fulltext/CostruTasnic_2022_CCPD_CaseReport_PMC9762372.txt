@@ -1,0 +1,73 @@
+Combined central and peripheral demyelination: a case report
+Journal of Medicine and Life 2022;15(11):1442-1448
+Authors: Elena Costru-Tasnic, Elena Manole, Vitalie Lisnic
+PMID: 36567843 | PMCID: PMC9762372 | DOI: 10.25122/jml-2022-0010
+
+=== ABSTRACT ===
+
+Combined central and peripheral demyelination (CCPD) is a rare condition involving demyelinating lesions of both the central nervous system (CNS) and peripheral nervous system (PNS). Specific and widely available immunological targets are necessary for diagnosing CCPD cases appropriately.
+
+=== CASE PRESENTATION ===
+
+A 27-year-old previously healthy male:
+
+October 2018: Initial symptoms — brief episodes of hand numbness and leg heaviness.
+
+February 2019: Acute deterioration — weakness progressing to tetraplegia within days, alongside diplopia.
+
+Initial Findings:
+- Brain MRI: Demyelinating lesions in corpus callosum and periventricular regions
+- Cervical MRI: Myelopathy at C1-C2
+- Nerve conduction studies: Demyelinating polyneuropathy
+- CSF: Elevated protein (2.04 g/l) without pleocytosis
+- Anti-aquaporin 4 IgG: Negative
+- Anti-NF155: Not tested initially
+
+=== TREATMENT COURSE ===
+
+FIRST EPISODE:
+1. Methylprednisolone pulse therapy (1000 mg/day x 5 days) → INEFFECTIVE
+2. Plasma exchange → Limited benefit, partial improvement
+
+SIX MONTHS LATER — RELAPSE:
+- Recurrent weakness progressing to tetraplegia
+- Brain MRI: New acute lesions in periventricular regions
+
+REVISED TREATMENT:
+1. Six plasma exchange sessions
+2. Dexamethasone 16 mg/day for 3 days
+3. Prednisolone 60 mg/day
+4. Maintenance: Azathioprine 2 mg/kg/day
+
+Response began day 5 with progressive motor strength recovery.
+
+TWO-YEAR FOLLOW-UP:
+- Relapse-free
+- Patient able to walk with unilateral assistance (walking crutch)
+- Persistent moderate distal paresis
+- Final diagnosis: Atypical CIDP with CNS demyelination (CCPD)
+
+=== DISCUSSION ===
+
+Key points:
+1. Misdiagnosis occurs in up to 50% of patients referred with CIDP diagnosis
+2. Distinguishing AIDP from CIDP is challenging, especially with rapid onset
+3. CCPD presents heterogeneous features with generally worse outcomes than isolated pathologies
+4. Available treatments: steroids, IVIg, plasmapheresis, and emerging evidence for Rituximab
+5. Two-thirds of CCPD patients show unsatisfactory response to high-dose corticosteroids and IVIg
+
+TREATMENT PRINCIPLES FOR CCPD:
+- Combination immunotherapy often required
+- Steroids may be ineffective as monotherapy
+- Plasma exchange may be more effective than steroids
+- Maintenance immunosuppression (azathioprine, rituximab) often needed
+- Response to treatment is unpredictable
+
+=== REFERENCES (selected) ===
+
+1. Cortese A et al. CCPD: Clinical features, diagnostic findings, and treatment. J Neurol Sci 2016;363:182-187.
+2. Kamm C, Zettl UK. Autoimmune disorders affecting both the CNS and PNS. Autoimmun Rev 2012;11:196-202.
+3. Ogata H et al. Characterization of IgG4 anti-NF155 antibody in CIDP. Ann Clin Transl Neurol 2015;2:960-971.
+4. Kawamura N et al. Anti-NF155 antibody-positive CCPD. Neurology 2013;81:714-722.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC9762372/

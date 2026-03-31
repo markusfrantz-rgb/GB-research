@@ -1,0 +1,73 @@
+Acute Disseminated Encephalomyelitis
+Handbook of Clinical Neurology 2014;123:543-564
+Authors: Adil Javed, Omar Khan
+PMID: 25015513 | PMCID: PMC7151857 | DOI: 10.1016/B978-0-444-53488-0.00035-3
+
+=== OVERVIEW ===
+
+Comprehensive review of ADEM as an acute multifocal demyelinating disease of the central nervous system that typically follows an infectious illness. While typically monophasic, relapsing variants occasionally occur.
+
+=== ETIOLOGY ===
+
+ADEM results from para- or postinfectious autoimmune complications:
+- Various viral agents (measles, influenza, varicella, EBV, CMV)
+- Bacterial agents (Mycoplasma, Campylobacter)
+- Vaccinations
+- No consistent infectious agent found in CNS → immune-mediated, not direct infection
+
+=== PATHOGENESIS ===
+
+T-cell-mediated mechanism:
+- Similar to experimental autoimmune encephalomyelitis (EAE)
+- Molecular mimicry between infectious epitopes and myelin antigens
+- Triggers autoimmune response against CNS myelin
+- Perivenular demyelination with inflammation
+- Both white and grey matter can be affected
+
+=== CLINICAL PRESENTATION ===
+
+Symptoms range from mild malaise to fulminant encephalopathy:
+- Hemiplegia: 76%
+- Ataxia: 18-65%
+- Seizures: 13-35%
+- Antecedent infection: 70-77% (pediatric cases)
+- Onset typically 1-4 weeks after triggering event
+
+=== IMAGING ===
+
+MRI characteristics:
+- Multifocal lesions in white and grey matter
+- Contrast enhancement: 30-100% of patients
+- Follow-up: Lesion resolution without new lesions (monophasic)
+- Distinguishing from MS: Larger lesions, less periventricular, cortical involvement
+
+=== TREATMENT ===
+
+First-line: High-dose glucocorticoids
+- IV methylprednisolone 20-30 mg/kg/day (max 1 g) x 3-5 days
+- Followed by oral taper over 4-6 weeks
+
+Second-line (steroid-refractory):
+- Plasma exchange
+- IVIg (2 g/kg over 2-5 days)
+
+Third-line (severe/fulminant):
+- Cyclophosphamide
+- Rituximab (emerging)
+
+=== PROGNOSIS ===
+
+- Full recovery: 70-90% improvement
+- Cognitive deficits may persist despite physical recovery
+- Pediatric outcomes better than adult
+- Relapse rate low in true monophasic ADEM
+
+=== RELEVANCE ===
+
+This comprehensive review confirms:
+1. ADEM treatment is primarily steroid-based
+2. IVIg is second-line, not competing with steroids
+3. When ADEM coexists with GBS, both treatments are needed
+4. The immunological mechanism (T-cell mediated, molecular mimicry) can theoretically affect both CNS and PNS
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7151857/

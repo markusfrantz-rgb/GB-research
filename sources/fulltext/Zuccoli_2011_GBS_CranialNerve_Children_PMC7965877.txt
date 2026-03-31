@@ -1,0 +1,152 @@
+Redefining the Guillain-Barre Spectrum in Children: Neuroimaging Findings
+of Cranial Nerve Involvement
+
+Authors: G Zuccoli, A Panigrahy, A Bailey, C Fitz
+Institution: Department of Radiology, University of Pittsburgh Medical Center,
+Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania
+Journal: AJNR Am J Neuroradiol. 2011 Apr;32(4):639-642
+DOI: 10.3174/ajnr.A2358
+PMID: 21292802 | PMCID: PMC7965877
+
+ABSTRACT
+
+GBS and its MFS variant are acute polyneuropathies that are considered to represent
+a continuum rather than distinct entities due to overlapping clinical features.
+The study evaluated MR imaging findings in 17 children with GBS and Miller Fisher
+syndrome (MFS). Fourteen of 17 patients demonstrated cauda equina (CE) root
+enhancement, predominantly affecting anterior roots. Five of six patients who
+underwent brain MR imaging showed cranial nerve involvement. The findings suggest
+that involvement of the CE roots may be considered part of a more extensive
+autoimmune neuropathy.
+
+INTRODUCTION
+
+Guillain-Barre Syndrome (GBS) represents a rapidly progressing peripheral
+inflammatory polyneuropathy that causes acute neuromuscular failure with incidence
+of 1-2 per 100,000 in the general population. Mild respiratory or gastrointestinal
+infection precedes symptom onset in approximately 75% of cases.
+
+Clinical presentation includes progressive and ascending weakness of the
+extremities and areflexia with potential progression to sensory disturbances,
+facial nerve palsies, autonomic dysfunction, and respiratory failure.
+
+MFS is considered the cranial nerve variant of GBS and diagnosed by the triad of
+ophthalmoplegia, ataxia, and areflexia. While GBS demonstrates CE root involvement
+on neuroimaging, in MFS, MR imaging findings are usually within normal limits.
+
+MATERIALS AND METHODS
+
+Study Population: 17 pediatric patients with GBS selected retrospectively from
+2001-2010. Diagnostic criteria from van Doorn et al (2008) were applied.
+
+Demographics: Males 59%, females 41%. Mean age 9.41 years (range 16 months to
+18 years). 94% experienced viral/respiratory infection within 3 weeks before
+symptom onset. Recovery time varied from 2 weeks to 3 years.
+
+Treatments: All received IVIg. Additional: pain management (76.5%), physical
+therapy (70.6%), antibiotics (35.3%), steroids (17.6%), dietary supplementation
+(17.6%), respiratory support (17.6%).
+
+Imaging Protocol: 1.5T magnet. After gadolinium (0.1 mL/kg), 3-mm sagittal and
+axial images through spine. Brain imaging: 5-mm axial and coronal T1-weighted
+images. Two experienced pediatric neuroradiologists independently evaluated.
+
+RESULTS
+
+Clinical and Laboratory Findings:
+- Areflexia: 16 patients (94.1%)
+- Progressive weakness: 16 patients (94.1%)
+- Pain: 13 patients (76.5%)
+- Relative symptom symmetry: 12 patients (70.6%)
+- Autonomic dysfunction: 9 patients (52.9%)
+- Sensory symptoms: 7 patients (41.2%)
+- Facial nerve palsy: 5 patients (29.4%)
+- Ophthalmoplegia: 4 patients (23.5%)
+- Dysphagia: 3 patients (17.6%)
+
+Elevated CSF protein in 12 patients (70.6%). Of 7 patients with electrophysiology,
+6 (85.7%) positive for GBS.
+
+Neuroimaging - Cauda Equina Root Involvement:
+- CE root enhancement: 14/17 patients (82.3%)
+- Simultaneous anterior and posterior CE roots: 11/17 (64.7%)
+- Isolated anterior CE root enhancement: 3/17 (17.6%)
+- No isolated posterior root enhancement
+- Strong anterior CE root enhancement: 9/17 (52.9%)
+- Strong posterior CE root enhancement: 3/17 (17.6%)
+- All 3 patients with strong posterior enhancement also had strong anterior
+  enhancement
+
+Neuroimaging - Cranial Nerve Involvement:
+Six patients underwent brain MRI:
+- 5/6 (83.3%) demonstrated cranial nerve enhancement
+- Most commonly affected: CN III (oculomotor) and CN VI (abducens)
+- Also affected: CN V (trigeminal), CN VII (facial), CN XI (accessory),
+  CN XII (hypoglossal)
+- NO ABNORMAL BRAIN PARENCHYMAL SIGNAL on any pulse sequence
+
+KEY FINDING - CLINICORADIOLOGICAL DISSOCIATION:
+Enhancement does not necessarily correlate with clinical symptoms:
+- 5 patients had clinical facial nerve palsy, but only 1 showed facial nerve
+  enhancement on MRI
+- 3 patients had oculomotor nerve enhancement, but only 1 had clinical
+  ophthalmoplegia
+- Several enhancing cranial nerves had NO clinical correlate
+
+DISCUSSION
+
+This study demonstrates a high incidence of cranial nerve abnormalities in
+pediatric GBS and its MFS variant. Findings support that pediatric GBS and MFS
+are acute polyneuropathies representing a continuum rather than distinct entities.
+
+Cauda Equina Root Involvement:
+Thickening and contrast enhancement in CE roots on MRI is characteristic of GBS,
+present in approximately 95% of typical cases. Selective or relatively more intense
+enhancement of anterior CE roots favors GBS diagnosis, though this finding is
+nonspecific.
+
+Cranial Nerve Involvement:
+Cranial involvement in pediatric patients has been reported but frequency and
+extent unclear. A recent study found normal brain MR findings; however, this study
+identified 5 patients with involvement of at least one cranial nerve.
+
+GBS commonly involves facial nerves clinically, yet facial nerve enhancement has
+only been rarely reported on MRI. This study found facial nerve enhancement in
+only 1 patient despite 5 having facial nerve palsy.
+
+CONCLUSIONS
+
+All 17 patients met criteria for both GBS and MFS using broader MFS definitions.
+The neuroimaging features of GBS and MFS overlap. Brain MR imaging should be
+considered in routine evaluation of pediatric patients with GBS-MFS for cranial
+nerve evaluation. Cranial nerve enhancement may become part of clinical diagnostic
+criteria for GBS and MFS if reproduced in a large prospective study.
+
+REFERENCES
+
+1. Chio A, et al. Neurology 2003;60:1146-50
+2. Hughes RA, Rees JH. J Infect Dis 1997;176:S92-98
+3. Alter M. Ann Neurol 1990;27:S7-12
+4. Alkan O, et al. Neuroradiology 2009;3:25-28
+5. Winer JB, et al. J Neurol Neurosurg Psychiatry 1988;51:613-18
+6. Burns TM. Semin Neurol 2008;28:152-67
+7. van Doorn PA, et al. Lancet Neurol 2008;7:939-50
+8. Fulbright RK, et al. AJNR Am J Neuroradiol 1995;16:923-25
+9. Fisher M. N Engl J Med 1956;255:57-65
+10. Collier J. Edinburgh Med J 1932;39:601-18
+11. Snyder LA, et al. J Neuroophthalmol 2009;29:312-24
+12. Baran GA, et al. AJR Am J Roentgenol 1993;161:161-63
+13. Coskun A, et al. Acta Radiol 2003;44:230-35
+14. Iwata F, Utsumi Y. Pediatr Radiol 1997;27:36-38
+15. Gorson KC, et al. Neurology 1996;47:813-17
+16. Matsuki M, et al. Radiat Med 1998;16:133-35
+17. Seneviratne U. Postgrad Med J 2000;76:774-82
+18. Yikilmaz A, et al. Childs Nerv Syst 2010;26:1103-08
+19. Byun WM, et al. Radiology 1998;208:137-41
+20. Armit R, et al. Pediatr Neurol 1986;2:47-50
+21. Gamstrop I. Dev Med Child Neurol 1974;16:654-58
+22. Green SH. Dev Med Child Neurol 1976;18:369-73
+23. Okumura A, et al. Arch Dis Child 2002;86:304-06
+24. Yardimci N, et al. Neurol Sci 2009;30:431-33
+
+Open Access: Free PMC article

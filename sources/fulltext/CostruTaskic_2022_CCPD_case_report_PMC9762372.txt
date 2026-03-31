@@ -1,0 +1,43 @@
+Combined Central and Peripheral Demyelination: A Case Report
+
+Authors: Elena Costru-Tasnic, Elena Manole, Vitalie Lisnic
+Journal: Journal of Medicine and Life
+Year: 2022; Volume: 15(11): 1442-1448
+PMID: 36567843 | PMCID: PMC9762372 | DOI: 10.25122/jml-2022-0010
+
+ABSTRACT
+
+A case of overlapping central and peripheral nervous system demyelination in a 27-year-old male with atypical CIDP accompanied by CNS demyelination lesions. Specific and widely available immunological targets are necessary for diagnosing CCPD cases appropriately.
+
+CASE PRESENTATION
+
+A 27-year-old previously healthy male presented in October 2018 with transient hand numbness and leg heaviness (4 days). In February 2019: acute distal lower limb weakness, hand weakness, diplopia, progressing to complete tetraplegia within 4 days.
+
+Neurological Exam: Bilateral facial palsy, flaccid tetraplegia (0/5 MRC), widespread areflexia, length-dependent sensory loss, positive Lasegue (70 degrees).
+
+Laboratory:
+- Mild neutrophilic leukocytosis
+- Elevated ESR and CRP
+- CSF: protein 2.04 g/L, normal glucose, mildly elevated cells
+- Anti-AQP4 IgG: Negative
+- Oligoclonal bands: equivocal (1 band)
+
+Imaging:
+- Brain MRI: Multiple hyperintense lesions in corpus callosum and periventricular regions with gadolinium enhancement
+- Cervical MRI: Focal centro-posterior myelopathy (C1-C2)
+
+NCS: Demyelinating polyneuropathy with progressive changes over 2018-2021.
+
+TREATMENT
+
+Initial: 6 PLEX + IVIg (2g/day x 5 days) - partial recovery (0 to 1-2 points MRC). 6-month relapse with new acute brain lesion. Relapse: 6 PLEX + dexamethasone + prednisolone - improvement by day 5.
+
+Maintenance: Azathioprine (2mg/kg/day) + prednisolone (1mg/kg/day) with taper. Result: continuous improvement, walking with unilateral assistance, no relapses over 2 years.
+
+EPIDEMIOLOGY AND DISCUSSION
+
+CNS involvement in CIDP: 12.7%-33% depending on study methodology. CCPD patients show heterogeneous features with poor response to standard treatments and generally worse outcomes than separate PNS or CNS disease. Misdiagnosis occurs in up to 50% of CIDP referrals.
+
+CONCLUSIONS
+
+Combination immunotherapeutic approaches may be necessary for disease remission. Specific immunological targets needed for appropriate diagnosis.

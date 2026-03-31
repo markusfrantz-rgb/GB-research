@@ -1,0 +1,243 @@
+Use of functional magnetic resonance imaging to assess cognition and consciousness in severe Guillain-Barré syndrome
+
+Objective
+
+Functional neuroimaging may provide a viable means of assessment and communication in patients with Guillain-Barré Syndrome (GBS) mimicking the complete locked-in state. Functional neuroimaging has been used to assess residual cognitive function and has allowed for binary communication with other behaviourally non-responsive patients, such as those diagnosed with unresponsive wakefulness syndrome. We evaluated the potential application of functional neuroimaging using a clinical-grade scanner to determine if individuals with severe GBS retained auditory function, command following, and communication.
+
+Methods
+
+Fourteen healthy participants and two GBS patients were asked to perform motor imagery and spatial navigation imagery tasks while being scanned using functional magnetic resonance imaging. The GBS patients were also asked to perform additional functional neuroimaging scans to attempt communication.
+
+Results
+
+The motor imagery and spatial navigation task elicited significant activation in appropriate regions of interest for both GBS patients, indicating intact command following. Both patients were able to use the imagery technique to communicate in some instances. Patient 1 was able to use one of four communication tasks to answer a question correctly. Patient 2 was able to use three of seven communication tasks. However, two questions were incorrectly answered while a third was non-verifiable.
+
+Conclusions
+
+GBS patients can respond using mental imagery and these responses can be detected using functional neuroimaging. Furthermore, these patients may also be able to use mental imagery to provide answers to ‘yes’ or ‘no’ questions in some instances. We argue that the most appropriate use of neuroimaging-based communication in these patients is to allow them to communicate wishes or preferences and assent to previously expressed decisions, rather than to facilitate decision-making.
+
+Introduction
+
+Guillain-Barré Syndrome (GBS) is a post-infectious auto-immune disease affecting 1–2 people per 100,000, and is the most frequent cause of acute neuromuscular paralysis worldwide. The most common subtype of GBS —acute inflammatory demyelinating polyradiculoneuropathy— is characterized by damage to the myelin insulation and/or the axon of peripheral nerves, resulting in paraesthesia, severe muscle weakness, with up to 25% of cases requiring mechanical ventilation support in intensive care units due to the weakness of respiratory muscles. In rare cases, patients may experience total paralysis —including all eye movements— thus mimicking the complete locked-in syndrome. In these severe cases, GBS patients may be fully alert and conscious while totally immobile and non-communicative. Importantly, they may be unable to report any experiences of pain, a symptom of GBS occurring in up to 89% of cases. They may also be unable to communicate mental status changes such as anxiety, depression, hallucinations, or delusions, which are frequently reported in GBS. While treatment strategies exist to alleviate these complications, physicians depend on patients’ reports to detect symptoms. When communication of symptoms becomes impossible, individuals may suffer in silence. Thus, in many ICUs, the standard of care for severe GBS is to offer analgesic treatment and sedation prior to the period of complete paralysis.
+
+Several studies have now demonstrated that functional neuroimaging is a viable tool for assessing covert command following abilities in disorders of consciousness through the use of spatial navigation and motor imagery tasks. These mental imagery tasks have been adapted further to allow binary communication with some nonresponsive patients. As both tasks are known to produce spatially distinct patterns of activation, patients have been asked to perform one imagery task to indicate a ‘yes’ response and the alternate imagery task to indicate a ‘no’ response. The spatial localization of the neural activation allows researchers to decode the patient's response to simple yes-or-no questions. Using this technique, reported on one VS patient who was able to answer five of six questions with 100% accuracy. In another case report of a VS patient, the fMRI communication technique was extended beyond evaluating responses that had factually known answers to asking private internal knowledge, such as “are you in pain?”. Thus, establishing communication through fMRI allows otherwise non-responsive patients the ability to communicate in order to provide insights into their quality of life and clinical condition.
+
+In this paper, we describe two patients with severe GBS who, while they could still communicate with medical staff, declined sedation as they progressed to a complete locked-in state. Once locked-in, functional magnetic resonance imaging (fMRI) was used to determine their auditory processing, comprehension, and covert command-following abilities. In addition, communication through fMRI responses was attempted in both cases, as no alternative means of communication were available. We hypothesized that fMRI would allow us to confirm that both patients remained aware, despite their condition of complete paralysis, and to establish whether other cognitive faculties (e.g. auditory processing, comprehension) remained intact. In addition, we hypothesized that both may be able to communicate with the research team by wilfully modulating their fMRI responses to answer simple ‘yes’ and ‘no’ questions.
+
+Method
+
+Ethical approval for the research study was obtained by the Health Sciences Research Ethics Board of Western University, with all study procedures performed in accordance with relevant guidelines and regulations. Written informed consent was obtained from the substitute decision maker of each patient.
+
+Description of GBS patients
+
+Both patients described were diagnosed with GBS by neurointensivists [TG, DD, EA] using current standard diagnostic criteria.
+
+Patient 1 was a 70-year-old right-handed male who presented to hospital with progressive upper limb weakness over the course of 3 days at home. Following hospital admission, the patient developed progressive respiratory weakness with dysarthria and dysphagia. He was admitted to the ICU 13 days after hospital admission suffering from respiratory failure and required mechanical ventilation. A lumbar puncture showed elevated protein, and an electromyography exam was consistent with an acute motor and sensory axonal neuropathy variant of GBS. While he could still communicate with left eyebrow movement and lateral movement of the jaw, he repeatedly indicated that he did not want to be sedated if his condition progressed to a complete locked-in state. On Day 38 of admission to hospital, the patient lost all muscle movement for communication. Following more than 6 weeks of absent motor responses, the neurocritical care team requested an fMRI to try to determine if the patient could still hear, as significant demyelination of the cranial nerves had occurred. Moreover, there was concern amongst the team that the patient may have changed his mind regarding the decision to not receive sedation. At the time of imaging, a neurological examination revealed non-reactive pupils, absent corneal reflexes, no cough or gag reflex, and no respiratory effort indicating dysfunction of almost all cranial nerves. An initial fMRI scan was conducted to assess the extent of residual auditory processing and command following abilities. Positive fMRI findings encouraged a follow-up fMRI exam 3 days later to determine if the patient could communicate using this method. Approximately one month following imaging, the patient had a return of some means of communication through eyelid blink and jaw movement.
+
+Patient 2 was a 74-year-old right-handed male who presented to hospital with respiratory dysfunction, dysphagia, and ascending weakness, which was predated by a viral illness. The patient was admitted to the ICU upon hospital admission for respiratory failure and required mechanical ventilation. An electromyography exam was consistent with an acute motor axonal neuropathy variant of GBS. The patient indicated that he did not want to be sedated as his condition progressed to a complete locked-in state. On Day 10 of admission to hospital the patient lost eye movement for communication. An fMRI exam including both motor imagery and communication tasks was performed on Day 12 to screen the patient for delirium and mental status changes and collect information about his clinical condition. The patient regained some eye movement and weak head and shoulder movements 30 days following admission. Unfortunately, both patients ultimately succumbed to their injury following a lengthy stay in hospital.
+
+Healthy participants
+
+Fourteen right-handed healthy participants (23 ±3 years, 9 males) took part in the study. Participants had no known neurological or psychiatric disease. All participants provided their written informed consent and were compensated for their participation.
+
+Experimental design
+
+Mental Imagery tasks
+
+The patients and healthy volunteers performed two well-established fMRI tasks, motor imagery and spatial navigation imagery, to assess covert command following ability. In the motor imagery task, participants were instructed to imagine playing a vigorous game of tennis. In the spatial navigation task, participants were instructed to imagine moving around the rooms of their home. Both paradigms were administered as a block design where participants alternated between 30 s periods of performing the mental imagery task and 30 s of rest for a total of five and a half minutes. Pre-recorded spoken instructions (“Imagine playing tennis”, “Imagine moving around your house”, “Now just relax”) were given at the beginning of each 30 s block.
+
+Communication tasks
+
+Once mental imagery was established for the two patients, multiple fMRI communication scans were performed, using a method that has been used successfully to communicate with behaviorally non-responsive patents. Prior to each scan, a yes-or-no question was asked once and the patients were instructed to answer when cued with the word “imagine” to answer the question by imagining the task that corresponded to the response they wished to convey by either performing motor imagery to convey a “yes” response, or spatial navigation to convey a “no” response. The communication scans were also administered as a block design where participants alternated between 30 s periods of performing the mental imagery that corresponded to their response and 30 s of rest for a total of five and a half minutes for each question (6 rest blocks and 5 communication blocks for each question) Pre-recorded spoken instructions (“Imagine your response”, “Now just relax”) were given at the beginning of each 30 s block.
+
+MRI acquisition
+
+Imaging was performed on a Signa 1.5T Excite HDxt Twinspeed MRI system at the University Hospital London Health Sciences Centre, London, Canada. The functional paradigms used a T2*-weighted single shot echo-planar imaging acquisition sequence (TR = 2500ms, TE = 40ms, matrix size = 64 × 64, slice thickness = 5mm, in-plane resolution = 3.75mm x 3.75mm, flip angle 90°). Each volume comprised 30 contiguous (no gap) slices. A T1-weighted 3D-FSPGR pulse sequence was also obtained (TR = 9.2-10.2ms, TE = 4 ms, IT = 300, matrix size = 256 × 256, voxel size = 1.02 × 1.02 × 1.40 mm, flip angle = 10°).
+
+FMRI analysis
+
+Image preprocessing and statistical analyses were conducted using Statistical Parametric Mapping (SPM8, www.fil.ion.ucl.ac.uk/spm). Standard fMRI preprocessing steps were employed. Functional images were manually AC-PC reoriented, realigned to help correct for motion, co-registered to the structural images, normalized to the echo planar imaging template provided in SPM8, and smoothed using an 8mm FWHM Gaussian kernel. For the healthy control group, one-sample t-tests were performed on both mental imagery tasks to obtain the patterns of activity for the group at the whole-brain level, using a cluster-defining voxelwise threshold of p < .001 (uncorrected), followed by a whole-brain FDR-correction for significance using cluster extent, p < .05. Single-subject fixed effect analysis was used for both healthy participants and patients. Based on the general linear model, regressors for each command following and communication task were separately modelled to the canonical haemodynamic response function. Movement parameters were included as covariates in all tasks. For the command following tasks (motor imagery and spatial navigation), single-subject statistical maps used a peak voxelwise threshold p < .001 uncorrected, followed by whole-brain FDR-corrected for multiple comparisons using cluster extent, p < .05 at the whole brain level. Given our strong anatomical a priori hypotheses, when no significant activation was observed at this level, the statistical threshold was reduced to an uncorrected p < 0.001 to exclude the possibility of failing to detect more subtle changes in the blood oxygen level-dependent signal.
+
+The distinct activation patterns observed in the motor imagery and spatial navigation tasks then served as the neuroanatomical markers for the binary communication scans. To determine the answers to the questions posed in the communication scans wee examined the activity in two regions of interest identified within the command following tasks, similar to the procedure described by. Subject-specific ROIs were defined as a 10mm sphere with the center coordinates at the peak voxel of the most strongly activated significant cluster found during the motor imagery and spatial navigation task, which represented the supplementary motor area (SMA) and the occipito-parietal junction (OPJ), respectively. These ROIs generated from the command following scans were used to test for significant activation in the communication scans by quantitative characterization of the T statistic for each region (with significant activation in SMA indicating a ‘yes’ response and significant activation in the OPJ indicating a ‘no’ response).
+
+Results
+
+Mental imagery tasks
+
+FMRI activation observed during the motor imagery task for a group of healthy participants (A) and two completely locked-in GBS patients (B and C). A. In healthy participants, a whole-brain group analysis revealed significant activation in the supplementary motor area, using a threshold of p < .05, FDR-corrected for multiple comparisons. Group analysis is shown on a canonical single-subject T1 MRI image. B and C. In both patients, extensive significant activation was observed in the supplementary and primary motor cortex. Patients’ results are displayed at a peak voxelwise threshold p < .001, uncorrected followed by whole-brain FDR-corrected for significance using cluster extent, p < .05 and displayed on their individual normalized T1 image.
+
+Fig 1
+
+Results for motor imagery and spatial navigation.
+
+Table 1	 	
+
+	cluster- level		peak-level		x,y,z	 		p(FWE-corr)	p(FDR-corr)	k	p(unc)		p(FWE-corr)	p(FDR-corr)	T	Z	p(unc)		mm	 	MOTOR IMAGERY												 	Healthy Participants												 	Supplimentary Motor Area	0.004	0.012	103	0.001		0.242	0.372	5.76	3.99	<0.001		-7 0 60	 							0.265	0.372	5.67	3.96	<0.001		4 8 55	 							0.435	0.532	5.16	3.74	<0.001		-22 -7 65	 	GBS 01										<0.001			 	Precuneous cortex	<0.001	<0.001	98	<0.001		<0.001	0.003	5.88	5.49	<0.001		1 -71 40	 	Precentral Gyrus	<0.001	<0.001	248	<0.001		0.001	0.003	5.66	5.32	<0.001		-3 -26 65	 							0.003	0.004	5.49	5.17	<0.001		-7 -18 70	 							0.024	0.021	4.99	4.75	<0.001		23 -26 60	 	Cerebellum	<0.001	<0.001	148	<0.001		0.064	0.039	4.76	4.54	<0.001		23 -52 -25	 							0.125	0.059	4.59	4.4	<0.001		23 -60 -20	 							0.226	0.077	4.41	4.23	<0.001		-7 -74 -20	 	R Frontal Pole	0.049	0.014	25	0.006		0.151	0.06	4.54	4.35	<0.001		42 42 15	 	GBS 02										<0.001			 	Precentral Gyrus	<0.001	<0.001	741	<0.001		<0.001	<0.001	7.52	6.78	<0.001		-59 4 15	 							<0.001	<0.001	7.33	6.64	<0.001		20 -14 75	 							<0.001	<0.001	7	6.39	<0.001		-48 -7 45	 	Precentral Gyrus	<0.001	<0.001	125	<0.001		<0.001	<0.001	6.16	5.72	<0.001		38 -14 45	 							0.002	0.001	5.47	5.16	<0.001		50 -3 45	 							0.053	0.019	4.69	4.48	<0.001		61 0 30	 	SPATIAL NAVIGATION												 	Healthy Participants												 	R occipitoparietal junction	0.002	0.005	83	0.001		0.024	0.291	7.9	4.7	<0.001		20 -71 45	 							0.209	0.489	6.23	4.17	<0.001		16 -60 55	 	cerebellum	0.034	0.026	42	0.009		0.262	0.489	6	4.08	<0.001		-3 -67 -30	 							0.94	0.813	4.15	3.25	0.001		4 -67 -15	 	L parahippocampal gyrus	0.021	0.019	49	0.005		0.308	0.489	5.84	4.02	<0.001		-18 -41 -20	 							0.795	0.661	4.62	3.49	<0.001		-29 -26 -20	 	L occipitoparietal junction	0.001	0.003	104	<0.001		0.318	0.489	5.81	4.01	<0.001		-10 -74 45	 							0.666	0.597	4.93	3.64	<0.001		-18 -60 55	 							0.678	0.597	4.9	3.62	<0.001		-26 -67 45	 	L middle frontal gyrus	0.01	0.016	59	0.003		0.324	0.489	5.79	4	<0.001		-33 -3 55	 							0.697	0.597	4.85	3.6	<0.001		-18 -7 65	 	R parahippocampal gyrus	0.019	0.019	50	0.005		0.404	0.513	5.55	3.91	<0.001		27 -41 -30	 							0.742	0.635	4.75	3.55	<0.001		34 -37 -10	 	GBS 01													 	Occipitoparietal junction	<0.001	<0.001	72	<0.001		0.045	0.033	4.84	4.62	<0.001		8 -56 55	 							0.716	0.368	3.9	3.77	<0.001		-14 -63 50	 	GBS 02													 	Anterior Cingulate Gyrus	0.01	0.031	43	0.002		0.141	0.359	4.41	4.23	<0.001		1 0 30	 							0.157	0.359	4.37	4.2	<0.001		1 -26 30	 	L Occipitoparietal junction	0.115	0.127	20	0.024		0.223	0.359	4.25	4.09	<0.001		-3 -78 55	 	R Occipitoparietal junction					0.37	0.491	4.06	3.92	<0.001		4 -74 60	 	Thalamus	0.164	0.127	17	0.035		0.503	0.497	3.92	3.79	<0.001		4 -37 5	 							0.855	0.513	3.56	3.46	<0.001		-3 -26 5	 	Supramarginal Gyrus	0.13	0.127	19	0.027		0.704	0.513	3.73	3.62	<0.001		53 -41 50	 							0.91	0.569	3.48	3.38	<0.001		46 -48 45	 	R Frontal Pole	0.303	0.186	12	0.07		0.754	0.513	3.68	3.57	<0.001		42 42 25	 	R Middle Frontal Gyrus	0.186	0.127	16	0.04		0.837	0.513	3.58	3.48	<0.001		57 19 40	 							0.976	0.796	3.3	3.22	0.001		46 23 35	 	
+
+A. The patterns of activation in the regions-of-interest in the motor imagery task for both GBS patients and healthy controls. The error bars reflect the standard deviation of the healthy group. SMA = supplemental motor area, OPJ = occipito-parietal junction. B. The patterns of activation in the regions-of-interest in the spatial navigation task for both patients, and healthy controls. The error bars reflect the standard deviation of the healthy group. SMA = supplemental motor area, OPJ = occipito-parietal junction.
+
+Fig 2
+
+The motor imagery task elicited significant activation in the supplementary motor area and primary motor cortex for both patients and healthy controls (Fig. 1 and Table 1). Additionally, the signal intensity changes observed in the motor imagery task in both patients was within the normal ranges of responses found in the healthy volunteers (Fig. 2A)
+
+FMRI activation observed during the spatial navigation imagery task for a group of healthy participants (A) and two completely locked-in GBS patients (B and C). (A) In healthy participants, a whole-brain group analysis revealed significant activation in the occipito-parietal junction, cerebellum, parahippocampal gyrus, and left middle frontal gyrus using a threshold of p < .05, FDR-corrected for multiple comparisons. Group analysis is shown on a canonical single-subject T1 MRI image. (B) In patient 1 a whole-brain analysis revealed significant activation in the occipito-parietal junction with results displayed at a peak voxelwise threshold p < .001, uncorrected followed by whole-brain FDR-corrected for significance using cluster extent, p < .05 and displayed on the patient's normalized T1 image. (C) Patient 2 had weaker activation in the occipito-parietal junction with results displayed at a peak voxelwise threshold of p < .001, uncorrected for multiple comparisons for visualization.
+
+Fig 3
+
+In healthy volunteers, the spatial navigation task elicited significant activation in the occipito-parietal junction, cerebellum, parahippocampal gyrus (PPA), and left middle frontal gyrus (Fig. 3A). Previous studies have reported the most reliable activity across participants is found within the occipito-parietal junction as opposed to PPA. found activity in 142/14 volunteers within the OPJ as opposed to 8/12 participants with activity within the PPA. Activity within this area during spatial navigation has been previously used for successful communication in patients with disorders of consciousness. In this study, significant activation of the occipito-parietal junction was also observed in both patients during the spatial navigation task (Fig. 3B and C and Table 1). For both patients, we examined the signal intensity changes in OPJ against those of the healthy volunteers and both patients were within the normal ranges of responses for the healthy volunteers. found in the healthy volunteers (Fig. 2B).
+
+Communication tasks
+
+As both patients could reliably perform the mental imagery tasks, the neural response to these tasks then became surrogate markers for ‘yes’ and ‘no’ communication during a series of questions. For each question, both patients were instructed to perform motor imagery to respond ‘yes’ to the question which would result in signal intensity changes within the SMA/M1 region and to perform the spatial navigation task to respond ‘no’ to the question which would result in increased activiation of the OPJFor each communication scan we examined the signal intenisty within the most strongly activated significant clusters found in during the motor imagery (Patient 1: -3,-26,65mm; Patient 2: -20,-14,75mm) and spatial navigation task (Patient 1: 8,-56,55mm, Patient 2: -3,-78,55), which represented the supplementary motor area (SMA) and the occipito-parietal junction (OPJ), respectively.
+
+GBS patient 1
+
+Patient 1’s whole-brain response to a question asking about his correct last name. Significant bilateral activation was observed in the lateral premotor cortex. Results displayed at a peak voxelwise threshold p < .001, uncorrected followed by whole-brain FDR-corrected for significance using cluster extent, p < .05 and displayed on the patient's normalized T1 image.
+
+Fig 4
+
+Patient 1’s neural activation represented by T statistic graphs within the regions of interest (supplementary motor area (SMA) and occipito-parietal junction (OPJ)) for the mental imagery and communication tasks, *p < 0.05, ***p < 0.001.
+
+Fig 5
+
+The neural activity observed in response to the first question, “Is your last name <incorrect name>?” closely matched the activity observed in the spatial navigation task indicating a ‘no’ response (which, in this case was the correct answer). The second question, “Is your last name <correct name>?” did not elicit activation in the peak region of interest found in either of the mental imagery tasks. However, the patient did display robust significant activation bilaterally in lateral premotor cortex (right lateral PMC T = 5.31, MNI=61,-3,25, k = 59; left lateral premotor cortex T = 4.95, MN=-56,-3,30, k = 33) (Fig. 4). The remaining two questions that pertained to orientation in space (“Are you in the hospital?” and alternatively, “Are you in the supermarket?”) did not yield statistically significant responses, although subthreshold activation was observed in the anatomically appropriate regions (indicating ‘yes’ in response to “Are you in the hospital?” and ‘no’ to “Are you in the supermarket?“). Quantitative analysis of each region of interest within each communication scan in comparison to the localizer scans is shown in Fig. 5.
+
+GBS patient 2
+
+Whole-brain results from Patient 2 for the motor imagery task (A) and two communication scans (B-C). In the communication scans (B-C), the patient's brain activity closely resembles the activity found in the motor imagery task (A) indicating a “yes” response to both questions. Results displayed at a peak voxelwise threshold p < .001, uncorrected, followed by whole-brain FDR-corrected for significance using cluster extent, p < .05 and displayed on the patient's normalized T1 image.
+
+Fig 6
+
+Patient 2’s neural activity represented by T statistic graphs within the regions of interest (supplementary motor area (SMA) and occipito-parietal junction (OPJ)) for the mental imagery and communication tasks, **p < 0.005, ***p < 0.001.
+
+Fig 7
+
+In Patient 2’s functional neuroimaging scan, seven autobiographical questions were asked to evaluate self-identity, orientation in space, disorganized thinking, and the patient's clinical condition. The patient had significant neural activity to three of the seven questions within the appropriate regions-of-interest. When asked, “Do you feel safe?” the patient demonstrated a significant response in the supplementary motor area (Fig. 6B), indicating a “yes” response. When asked “Does one pound weigh more than two?” the patient incorrectly indicated a “yes” response (Fig. 6C). Similarly, when asked “Is your last name <incorrect name>,” the patient indicated a “yes” response, which was incorrect. Quantitative analysis of each region of interest within each communication scan confirmed that Patient 2 had robust statistically significant responses to the three questions, similar to that observed when he was asked to perform the motor imagery task (Fig. 7) – that is to say, his answer was ‘yes’ to all three questions. Three other questions (“Are you in pain?”, “Are you in the hospital?”, and “Are you in the supermarket?”) all yielded patterns of brain activity that indicated a “no” response, but these results were not statistically significant. When the patient was asked about his correct last name, (“Is your last name <correct name>?”) no activity in the peak regions of interest, or elsewhere at the whole-brain level, was found.
+
+Discussion
+
+In this study, we used fMRI to detect covert command following ability and to facilitate binary communication in two GBS patients who had total paralysis, mimicking complete locked-in syndrome. Both patients were able to perform the two mental imagery tasks, indicating that they both retained awareness, and the ability to understand language and follow instructions. Moreover, we were able to use this technique to facilitate some communication with both patients, despite the fact that no form of communication had been possible at the bedside.
+
+In Patient 1, we employed four questions that assessed self-identity and orientation in space – these questions have been used previously to communicate with non-responsive patients. When the patient was asked if his last name was an incorrect last name, a significant neural response was detected in OPJ, indicating that he was responding “no” i.e. correctly indicating that this was not his last name. In the correct name trial, we did not observe any activity in peak mental imagery areas; however, we did note significant robust activation in the lateral premotor area (BA 6), which is also known to be involved in imagined hand movements, suggesting that the patient may have been attempting to answer “yes”. One possibility is that the motor imagery response to this question was different than the initial motor imagery localizer (which was in the more medial SMA) because the two scans occurred a few days apart and the patient might have used a different strategy to perform the task on each occasion, although this remains an entirely post-hoc interpretation at this stage. Additionally, just prior to the communication scan, the patient was given 0.5 mg of hydromorphone to alleviate discomfort. A subsequent decrease in neural responses was observed for all the remaining questions. It is entirely possible that the analgesic may have also altered the patient's approach to following the task instructions and/or affected his ability to sustain his attention through multiple task and rest blocks, thereby changing the anatomical location of the observed significant response.
+
+Patient 2 consistently displayed robust activation in the SMA over repeated 30 s blocks, and thus clearly signalled ‘yes’ by imagining playing tennis in response to three of the seven questions. That said, the response itself was incorrect for two of these three questions. It is important to note that these responses, while factually incorrect, were statistically robust, meaning that they did not reflect ‘ambiguous fMRI activity’ or a ‘lack of any fMRI response’ (both of which can occur in such situations) but rather, clear responses that were, nevertheless, factually incorrect. For example, the patient incorrectly responded (by answering “yes”) that one pound weighs more than two. This question was taken from the Confusion Assessment Method for the Intensive Care Unit assessment for delirium, and his answer suggests that he likely had some level of disorganized thinking. Similarly, when asked “Is your last name {incorrect last name}?” the patient answered “yes,” possibly further suggesting confusion expressed as a problem with self-identity. Taken together, these findings suggest that the patient was experiencing mental status abnormalities, leading him to give robust, yet incorrect answers to some of the questions. Such abnormal mental statuses are known to occur in upwards of 31% of GBS cases. It is also entirely possible that the patient was simply confused by the instructions (e.g. he mistakenly thought that imagining tennis meant “no”), which would also be consistent with disordered thinking at the time of the scan.
+
+It is important to distinguish between the reliability of the fMRI response signal, and the reliability of the response content. Both patients were capable of generating a robust response signal to several of the questions, demonstrating that functional neuroimaging is a viable means for GBS patients to convey information. When patients can produce statistically significant neural responses to questions, how should these responses be interpreted, and should they be acted upon? These responses, if interpreted carefully, have a number of potential applications. Neuroimaging-based communication in GBS patients could provide them with a means of reporting about their clinical condition and quality of life. For example, a patient could convey the presence and severity of pain, which would allow for targeted pharmacological interventions such as gabapentin or carbamazepine. Similarly, responses suggesting symptoms of psychiatric complications could allow for appropriate medical treatments, which could include selective serotonin reuptake inhibitors for anxiety and depression or neuroleptic agents for delusions and hallucinations.
+
+The use of fMRI for communication could also allow patients to express wishes or desires to surrogate decision-makers, or let patients assent or dissent to decisions they made prior to losing decision-making capacity. For example, in the two cases reported here, both patients previously informed their family and the health care team that they did not want to receive sedation. Periodically scanning patients, to ensure their continued assent to this prior decision, may help to alleviate concerns of the health-care team, as well as the patients’ families. That said, the results from Patient 2 in the current study underscore the need to verify that a patient is responding correctly to verifiable questions before venturing into these more challenging ethical areas, to ensure that they retain a level of understanding, appreciation, and rationality that would justify acting on those responses. As many as 83% of mechanically ventilated patients will experience delirium at some point during their stay in the ICU, which may render them incapable of decision-making. Second, GBS may also indirectly result in further psychiatric complications in some patients, due to the sudden and extreme loss of function it produces in formerly healthy individuals. For example, anxiety occurs in 82% of patients, with moderate or severe depression occurring in more than two thirds. Further, in severe cases, psychosis has been noted in 25% of patients with GBS. Addressing these issues effectively may require multiple trials acquired over several scanning periods.
+
+Neuroimaging-based communication in complete locked in syndrome may help in determining how a patient is coping with their illness can help clinicians determine what interventions may improve a patient's welfare. We suggest that using neuroimaging-based communication has the potential to provide valuable insight for surrogate decision-makers, by allowing them to gather information on the patient's wishes or preferences regarding their care. Even without decision-making capacity, individuals can still have values, desires, and preferences, which can affect their quality of life. Moreover, we need not presume that patients are autonomous in order to take these preferences and wishes seriously. If patients were able to express their preferences or wishes regarding their comfort, for example, this information could be conveyed to surrogate decision-makers and incorporated into their decision-making on the patient's behalf. Neuroimaging-based communication may also be useful in establishing patient assent to a decision they expressed prior to the loss of decision-making capacity. If a patient lacks decision-making capacity, it follows that they cannot give informed consent to a medical intervention; however, such a patient might still provide assent. Gaining patient assent through neuroimaging-based communication would allow patients to provide a measure of input with respect to their care, without requiring the establishment of decision-making capacity. For example, a GBS patient might be routinely scanned once every few weeks to ascertain whether they continue to endorse their prior expressed decisions, or the decisions which had been made to that point by their surrogate decision maker. The assent or dissent must be weighed seriously by the SDM, who retains ultimate authority.
+
+While both patients were able to provide a reliable response to several of the questions posed in this study, in some of the trials, no neural response was detected, or the response was not robust enough to reach statistical significance. It is not clear why the patients were unable to convey answers to every question, although this is also the case for some brain injured patients who are able to communicate behaviourally and up to 40% of healthy volunteers. It is possible that they did not understand or recall the question that was asked at the beginning of the trial to an extent that would allow them to make a decision about the appropriate response, or perhaps they lacked the ability or motivation to sustain the response through the duration of the trial.
+
+While the two patients described here demonstrate that communication is possible using a clinical-grade fMRI scanner in patients with GBS, fMRI presents other challenges to regular communication in this group. For example, its relatively high cost and lack of portability may limit its use in severe GBS patients. It may not be possible to scan a patient at the time a decision needs to be made, particularly if the decision is urgent. Other non-invasive functional neuroimaging techniques, such as EEG and functional near-infrared spectroscopy (fNIRS), are more portable and less expensive solutions which should be further explored. EEG has shown promise as a bedside tool for detecting covert awareness in disorders of consciousness and as a communication tool in typical locked-in syndrome. and complete locked-in syndrome using spelling, motor imagery and mental subtraction, and vibro-tactile stimulation and motor imagery paradigms.FNIRS – a relatively newer technique - has also shown promise in detecting covert awareness in disorders of consciousness and for communication with patient in completely locked in states using motor imagery tasks.
+
+Additionally, moving a patient out of the ICU to the scanner is inherently risky. Changing or moving equipment, changes to patient posture, as well as acceleration and deceleration, can impact a patient's respiration, hemodynamics, and neurological function. Reported rates of serious adverse events during intra-hospital transport of critically ill patients range from 4.2% to 8.9%. With this in mind, we suggest that neuroimaging-based communication with GBS patients be limited to only the most important clinical questions when the need arises.
+
+In summary, we have demonstrated here that GBS patients can perform mental imagery using functional neuroimaging and that this method may be used to allow them to answer to ‘yes’ and ‘no’ questions showing that these two patients retained some language related functions and command following ability. We argue that the most appropriate use of neuroimaging-based communication in these patients is not to facilitate decision-making, but rather, to allow patients to communicate wishes or preferences, as well as to assent to previously expressed decisions. Future research should develop adapted and optimized protocols to ensure accurate responses.
+
+Funding
+
+L.N. was funded by the Canadian Institute of Health Research (CIHR) Frederick Banting and Charles Best Canada Graduate Scholarships Doctoral Award. This research was funded/supported by the Canadian Institutes of Health Research (CIHR) (MFE 123754), Canada Excellence Research Chairs Program
+
+(CERC) (215063). AMO is a CIFAR Fellow and co-Director of the CIFAR Brain, Mind, and Consciousness programme.
+
+Declaration of Competing Interest
+
+CW receives consulting income from Eli Lilly and Company Canada. TG receives funding from Medtronic for being an examining neurologist in the SURTAVI trial, and other funding from SAGE Therapeutics for being a site principal investigator in a clinical trial.
+
+References
+
+Single-session communication with a locked-in patient by functional near-infrared spectroscopy
+
+A high performance sensorimotor beta rhythm-based brain-computer interface associated with human natural motor behavior
+
+Dissociations between behavioural and functional magnetic resonance imaging-based evaluations of cognitive function after brain injury
+
+Enhancing communication for people in late-stage ALS Using an fNIRS-based BCI system
+
+Pharmacologic management of anxiety and affective lability during recovery from Guillain-Barré syndrome: Some preliminary observations
+
+Spelling interface using intracortical signals in a completely locked-in patient enabled via auditory neurofeedback training
+
+Detection of brain activation in unresponsive patients with acute brain injury
+
+Vivid dreams, hallucinations, psychosis and REM sleep in Guillain-Barr?? syndrome
+
+Bedside detection of awareness in the vegetative state: A cohort study
+
+Characterization of EEG signals revealing covert cognition in the injured brain
+
+Early detection of consciousness in patients with acute severe traumatic brain injury
+
+Evaluation of delirium in critically ill patients: Validation of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU)
+
+Recommendations for the intra-hospital transport of critically ill patients
+
+Evaluation of a modified Fitts law brain–computer interface target acquisition task in able and motor disabled individuals
+
+Detecting awareness after severe brain injury
+
+The clinical utility of fMRI for identifying covert awareness in the vegetative state: a comparison of sensitivity between 3T and 1.5 T
+
+Substitute or complement? Defining the relative place of EEG and fMRI in the detection of voluntary brain reactions
+
+Brain communication in a completely locked-in patient using bedside near-infrared spectroscopy
+
+Partially overlapping neural networks for real and imagined hand movements
+
+Multiple tasks and neuroimaging modalities increase the likelihood of detecting covert awareness in patients with disorders of consciousness
+
+An ethics of welfare for patients diagnosed as vegetative with covert awareness
+
+Complete locked-in and locked-in patients: Command following assessment and communication with vibro-tactile P300 and motor imagery brain-computer interface tools
+
+Functional neuroanatomical networks associated with expertise in motor imagery
+
+Electroencephalography-based endogenous brain-computer interface for online communication with a completely locked-in patient
+
+Inpatient management of Guillain-Barré syndrome
+
+Functional near infrared spectroscopy as a probe of brain function in people with prolonged disorders of consciousness
+
+Semantic and BCI-performance in completely paralyzed patients: Possibility of language attrition in completely locked in syndrome
+
+Brain-computer interfaces and communication in paralysis: Extinction of goal directed thinking in completely paralysed patients?
+
+Towards using fNIRS recordings of mental arithmetic for the detection of residual cognitive activity in patients with disorders of consciousness (DOC)
+
+Motor imagery
+
+Probing command following in patients with disorders of consciousness using a brain-computer interface
+
+Willful modulation of brain activity in disorders of consciousness
+
+Pain in Guillain-Barre syndrome
+
+Design and implementation of a P300-based brain-computer interface for controlling an internet browser
+
+Detecting awareness in the Vegetative State
+
+The comparative evaluation of gabapentin and carbamazepine for pain management in Guillain-Barre syndrome patients in the intensive care unit
+
+Continuous EEG monitoring in severe Guillain-Barré syndrome patients
+
+A P300-based brain-computer interface: Initial tests by ALS patients
+
+Relevance of anxiety in clinical practice of Guillain-Barre syndrome: A cohort study
+
+Diagnostic precision of PET imaging and functional MRI in disorders of consciousness: A clinical validation study
+
+Guillain–Barré syndrome: Pathogenesis, diagnosis, treatment and prognosis
+
+Clinical features, pathogenesis, and treatment of Guillain-Barre syndrome
+
+Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?
+
+Psychotic Symptoms and Emotional Distress in Patients with Guillain-Barré Syndrome
+
+Core safeguards for clinical research with adults who are unable to consent
+
+Guillain-Barré syndrome
+
+Guillain-Barré syndrome

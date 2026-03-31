@@ -1,0 +1,31 @@
+Posterior Reversible Encephalopathy Syndrome with Bilateral Independent Epileptic Foci Precipitated By Guillain-Barre Syndrome
+
+Authors: Rosario Rossi, Maria Valeria Saddi, Alessandro Mela, Anna Ticca
+Journal: Case Reports in Neurology and Medicine
+Year: 2016
+DOI: 10.1155/2016/5913840
+PMID: 27403359
+Open Access: Yes (Hindawi/Wiley)
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The case describes a 56-year-old woman who experienced status epilepticus stemming from independent occipital seizure foci as a manifestation of PRES occurring alongside Guillain-Barre syndrome. The seizures produced characteristic leftward and rightward head deviations with oculoclonic movements. EEG recordings revealed alternating seizure activity across both occipital regions. The authors note that "the development of independent seizure activity in both occipital lobes might represent a distinctive epileptic phenomenon" of this encephalopathy, highlighting an atypical presentation not previously documented in PRES patients.
+
+KEY FINDINGS
+
+1. First reported case of bilateral independent epileptic foci in PRES precipitated by GBS
+2. Status epilepticus with alternating seizure foci in occipital lobes
+3. Characteristic clinical pattern: leftward and rightward head deviations with oculoclonic movements
+4. EEG showed alternating seizure activity across both occipital regions
+5. PRES was linked to GBS-related dysautonomia
+
+CLINICAL SIGNIFICANCE
+
+- PRES in GBS can present with unusual epileptic patterns
+- Bilateral independent occipital epileptic foci represent a distinctive feature
+- EEG monitoring is essential in GBS patients with altered mental status
+- This pattern should be recognized as a PRES variant in the GBS setting
+
+Source: Open Access

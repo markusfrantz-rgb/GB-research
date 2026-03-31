@@ -1,0 +1,41 @@
+Bickerstaff brainstem encephalitis with or without anti-GQ1b antibody
+
+Authors: Keisuke Yoshikawa, Motoi Kuwahara, Miyuki Morikawa, Susumu Kusunoki
+Journal: Neurology Neuroimmunology & Neuroinflammation
+Year: 2020
+PMID: 32934014
+PMCID: PMC7524576
+DOI: 10.1212/NXI.0000000000000889
+
+STUDY OVERVIEW
+
+Compared 73 anti-GQ1b antibody-positive BBE cases with 10 antibody-negative cases, collecting clinical data from Japanese hospitals (2014-2017).
+
+KEY FINDINGS
+
+Distinctive Features of Antibody-Positive Cases:
+- Upper respiratory infection and sensory disturbance were more common in seropositive patients
+- Lower cerebrospinal fluid cell counts and protein levels
+- Fewer abnormal brain MRI findings
+- Earlier consciousness disturbance resolution (10 days vs 23 days)
+
+MRI FINDINGS BY ANTIBODY STATUS
+
+Antibody-negative cases: High-intensity T2/FLAIR abnormalities in:
+- Midbrain/medulla oblongata
+- Corpus callosum
+- Periventricular regions
+- Temporal poles
+
+Antibody-positive cases: Abnormalities in:
+- Deep white matter
+- Left thalamus
+- Bilateral pyramidal tracts
+
+CRITICAL FINDING: Brain MRI abnormalities occur in only 8% of anti-GQ1b-positive BBE, compared to 50% in antibody-negative cases.
+
+TREATMENT
+
+Among antibody-positive cases, 86% received IVIG either alone or combined with corticosteroids, compared to 50% of seronegative patients.
+
+Favorable treatment outcomes ranged from 75-91% across IVIG-based regimens in seropositive patients.

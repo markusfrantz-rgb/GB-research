@@ -1,0 +1,32 @@
+Combined Central and Peripheral Demyelination (CCPD) Associated with MOG Antibodies: Report of Four New Cases and Narrative Review of the Literature
+
+Authors: Marianna Papadopoulou, Dimitrios Tzanetakos, Christos Moschovos, et al.
+Journal: Journal of Clinical Medicine, 2024;13(12):3604
+PMID: 38930142 | PMCID: PMC11204739 | DOI: 10.3390/jcm13123604
+
+STUDY OVERVIEW
+
+Four new cases of MOG-IgG seropositive patients with concurrent demyelinating polyneuropathy, plus review of 22 previously published cases since 2018.
+
+KEY FINDINGS:
+- Patients aged 7-74 years
+- CNS and PNS involvement was concurrent in 10 cases (45%), sequential in others
+- All had confirmed demyelinating polyneuropathy on electrodiagnostic criteria
+- CSF commonly showed protein elevation without oligoclonal bands
+- MRI frequently revealed cauda equina involvement with gadolinium enhancement
+
+TREATMENT:
+- Corticosteroids used in all cases
+- Sometimes followed by IVIG, plasma exchange, other immunosuppressive therapies
+- Response varied from complete resolution to partial improvement with relapses
+
+PATHOGENIC HYPOTHESES:
+MOG is exclusively expressed in CNS tissue. Three hypotheses for PNS involvement:
+1. Very low, undetectable MOG quantities in peripheral nerve cells
+2. Molecular mimicry triggering immune responses against unidentified PNS antigens
+3. Antibody leakage from nerve roots near the CNS-PNS transition zone
+
+CLINICAL SIGNIFICANCE:
+Anti-MOG-associated CCPD should be considered in the differential diagnosis of demyelinating polyneuropathy, and CNS involvement should be persistently sought.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC11204739/

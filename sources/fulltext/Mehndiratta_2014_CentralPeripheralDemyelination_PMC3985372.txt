@@ -1,0 +1,50 @@
+Central and peripheral demyelination
+
+Authors: Man Mohan Mehndiratta, Natasha Singh Gulati
+Journal: J Neurosci Rural Pract. 2014 Jan;5(1):84-86
+DOI: 10.4103/0976-3147.127887
+PMID: 24741263 | PMCID: PMC3985372
+
+OVERVIEW
+
+Review of combined central and peripheral demyelination (CCPD) - a rare but
+documented phenomenon where both CNS and PNS demyelination occur simultaneously.
+
+KEY FINDINGS
+
+Prevalence and Documentation:
+Combined central and peripheral demyelination is rare but various case reports
+document both nervous system regions being affected. Documented combinations include:
+- Acute combined central and peripheral inflammatory demyelination
+- Multiple sclerosis with idiopathic inflammatory-demyelinating neuropathy
+- Simultaneous GBS and ADEM in pediatric populations
+- Combined CIDP and central pontine myelinolysis in chronic autoimmune hepatitis
+
+Shared Epitope Mechanism:
+Molecular mimicry in GBS: epitopes on the surface of peripheral nerves are similar
+to epitopes on the surface of infectious agents. This mechanism may extend to
+explain central-peripheral overlap when shared antigens exist in both PNS and CNS
+myelin.
+
+Proposed Mechanisms:
+Immune-mediated processes may affect both CNS and PNS independently or through
+a unified mechanism targeting shared myelin epitopes.
+
+Diagnostic Approach:
+MRI of brain, spinal roots, brachial plexus, lumbosacral plexus combined with
+electrodiagnostic testing and CSF analysis support diagnosis when combined
+involvement occurs.
+
+CLINICAL IMPLICATIONS
+
+When encountering a patient with both peripheral neuropathy AND brain white matter
+lesions, consider:
+1. GBS + ADEM overlap
+2. CCPD as a distinct entity
+3. MOG-antibody associated disease
+4. Coincidental conditions
+
+Treatment often requires combined immunotherapy addressing both PNS and CNS
+components.
+
+Open Access: Free PMC article

@@ -1,0 +1,34 @@
+Neurofascin-155 IgG4 in Chronic Inflammatory Demyelinating Polyneuropathy
+
+Authors: Jerome J Devaux, Yumako Miura, Yuki Fukami, et al.
+Journal: Neurology, 2016;86(9):800-807
+PMID: 26843559 | PMCID: PMC4793783 | DOI: 10.1212/WNL.0000000000002418
+
+STUDY
+
+Screened 533 CIDP patients for anti-NF155 IgG4 antibodies.
+
+KEY FINDINGS:
+- 38 patients (7%) positive for anti-NF155 IgG4
+- Younger at onset than NF155-negative CIDP
+- 74% with sensory ataxia
+- 42% with tremor
+- 13% with cerebellar ataxia/nystagmus
+- 8% with CNS demyelinating lesions
+- 80% poor response to IVIg (vs 41% in seronegative)
+
+MOLECULAR FINDINGS:
+- Patients' IgG antibodies only reacted against N-glycosylated NF155
+- Homogeneous antibody response targeting specific epitope
+- Fibronectin domains (Fn1-4) were primary target in 79% of cases
+- IgG4 predominant subclass
+
+TREATMENT RESPONSE:
+- Only 20% of antibody-positive responded to IVIg
+- Compared to 59% in seronegative group
+- Alternative treatments needed: corticosteroids, rituximab, plasma exchange
+
+CLINICAL SIGNIFICANCE:
+Anti-NF155 IgG4 is a diagnostic biomarker for CIDP patients requiring alternative treatment strategies beyond standard IVIg.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4793783/

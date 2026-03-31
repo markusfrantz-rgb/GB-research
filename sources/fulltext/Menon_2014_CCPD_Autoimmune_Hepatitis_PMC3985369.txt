@@ -1,0 +1,72 @@
+Combined Central and Peripheral Demyelination
+Journal of Neurosciences in Rural Practice 2014;5(1):78-80
+Authors: Bindu Menon, Saranjeet Singh Bedi, G Uma Maheshwar Rao
+PMID: 24741261 | PMCID: PMC3985369 | DOI: 10.4103/0976-3147.127884
+
+=== ABSTRACT ===
+
+A rare presentation of simultaneous central and peripheral demyelination in a 52-year-old male with chronic autoimmune hepatitis. High-dose steroid therapy proved effective. This represents the first case of central and peripheral demyelination in a patient with CAH.
+
+=== CASE PRESENTATION ===
+
+Patient: 52-year-old male carpenter
+History: Chronic autoimmune hepatitis diagnosed 15 months prior, on prednisolone 5 mg daily
+
+Presenting symptoms:
+- Progressive quadriparesis (4 months)
+- Recent onset dysarthria and drowsiness
+
+Examination:
+- Flaccid weakness: Proximal 2-3/5, distal 4/5
+- Bilateral eye closure weakness
+- Neck flexor involvement
+- Preserved sphincter function
+
+=== DIAGNOSTIC FINDINGS ===
+
+Laboratory:
+- Mild bilirubin elevation (1.7 mg/dl)
+- Positive smooth muscle antibodies
+- Positive anti-nuclear antibodies
+- Elevated IgG (2507)
+- Mild thrombocytopenia (100,000/cumm)
+
+MRI Brain:
+- Hyperintense signals in basis pontis on T2 sequences
+- Consistent with central pontine myelinolysis/demyelination
+
+NCS:
+- Prolonged distal latencies
+- Decreased motor velocities (median, tibial, peroneal nerves)
+- Consistent with CIDP
+
+=== TREATMENT AND OUTCOME ===
+
+High-dose IV methylprednisolone:
+- Sensorium improved within 10 HOURS
+- Motor power improved within 5 DAYS
+- At discharge: Ambulatory with minimal assistance
+- 8-month follow-up: Stable, maintained improvement
+
+=== DISCUSSION ===
+
+Key points:
+1. Autoimmune hepatitis may trigger both central and peripheral myelin involvement
+2. Dysimmune mechanisms (molecular mimicry) explain combined involvement
+3. Most previous cases showed subclinical involvement of one neuroaxis
+4. This case had clinically significant involvement of BOTH systems
+
+Treatment principle: In this CHRONIC combined demyelination case, steroids were highly effective — contrasting with ACUTE GBS where steroids are harmful.
+
+Distinction: This case involved CIDP (chronic) + central demyelination, NOT acute GBS + ADEM. The chronic nature of the PNS disease may explain steroid responsiveness.
+
+=== RELEVANCE ===
+
+Demonstrates that:
+1. Combined CNS-PNS demyelination can occur in various autoimmune contexts
+2. Steroids can be effective when the PNS component is CHRONIC (CIDP-like)
+3. The distinction between acute (GBS) and chronic (CIDP) PNS involvement matters for treatment
+4. Autoimmune comorbidities increase risk of combined demyelination
+5. Early diagnosis and prompt treatment prevents progression
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3985369/

@@ -1,0 +1,24 @@
+Simultaneous Development of Acute Disseminated Encephalomyelitis and Guillain-Barre Syndrome Associated with H1N1 09 Influenza Vaccination
+
+Authors: Takao Hoshino, Yumiko Uchiyama, Eiichi Ito, Shunsuke Osawa, Takashi Ohashi
+Affiliation: Tokyo Women's Medical University
+Journal: Internal Medicine, 2012;51(12):1595-1598
+PMID: 22728497 | DOI: 10.2169/internalmedicine.51.7132
+Access: Free via J-STAGE
+
+ABSTRACT
+
+A 36-year-old male developed neurological complications after receiving H1N1 influenza vaccine. He presented with urinary retention and muscle weakness affecting all 4 limbs.
+
+CLINICAL FINDINGS:
+- Multiple brain and spinal cord lesions on MRI (consistent with ADEM)
+- Acute sensorimotor neuropathy on nerve conduction studies (consistent with GBS)
+- Positive anti-GM2 antibodies in serum
+
+DIAGNOSIS: Concurrent ADEM and GBS post-influenza vaccination
+
+SIGNIFICANCE: This is the first case of co-morbid ADEM and GBS after influenza vaccination with positive anti-ganglioside antibodies. Anti-GM2 antibodies suggest a shared immunological mechanism targeting both CNS and PNS myelin, triggered by molecular mimicry with vaccine antigens.
+
+The case supports the "common epitope" hypothesis -- that a shared pathological epitope between CNS and peripheral nerve myelin becomes the target of autoimmune attack, explaining simultaneous central and peripheral demyelination.
+
+Source: Free via J-STAGE - https://www.jstage.jst.go.jp/article/internalmedicine/51/12/51_51.7132/_article

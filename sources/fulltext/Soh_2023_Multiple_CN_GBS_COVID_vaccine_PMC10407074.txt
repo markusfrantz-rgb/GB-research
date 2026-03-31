@@ -1,0 +1,103 @@
+MRI Features of Multiple Cranial Neuropathies in Guillain-Barré Syndrome Occurring after COVID-19 Vaccination: A Case Report
+
+Guillain-Barré syndrome (GBS) is an immune-mediated demyelinating polyneuropathy characterized by progressive, ascending, and symmetrical paralysis. It is known to be triggered by an antecedent infection or vaccination. Recently, GBS development following coronavirus disease 2019 (COVID-19) vaccination has been reported. Cranial neuropathies in typical GBS patients usually involve the facial and the lower cranial nerves (from IX to XII). We report a rare case of multiple cranial neuropathies involving trigeminal, abducens, and facial nerves in a patient who developed GBS following COVID-19 vaccination on the basis of obvious MRI features.
+
+INTRODUCTION
+
+Guillain-Barré syndrome (GBS) is an acute inflammatory polyradiculoneuropathy, characterized by a rapidly progressive, symmetric paralysis. It is frequently associated with antecedent nonspecific infection or other triggering factors such as vaccination. Recently, GBS occurring after coronavirus disease 2019 (COVID-19) vaccination has been reported. The cranial nerve involvement in the typical GBS mainly affects the facial and the lower cranial nerves. The lower cranial nerves consist of CN IX, X, XI and XII. Involvement of abducens and trigeminal nerves is rare.
+
+We report a case of multiple cranial neuropathies showing trigeminal, abducens, and facial nerve enhancement on brain MRI in a 49-year-old male who developed GBS 10 days after his first COVID-19 vaccination.
+
+CASE REPORT
+
+A 49-year-old male presented to the emergency department of a university hospital, a tertiary referral center, with symptoms of dizziness and tingling sensation below both ankles and elbows, ten days after his first COVID-19 vaccination (Astra Zeneca vaccine, ChAdOx1-S, 0.5 mL, Andong, Korea). He had no history of recent upper respiratory, gastrointestinal infection or any underlying disease.
+
+A COVID-19 polymerase chain reaction test was negative. Complete blood count, coagulation, hepatic and renal profile were normal. A chest X-ray showed no abnormality. Cerebrospinal fluid (CSF) study showed albuminocytologic dissociation (total protein count 86.3 mg/dL, two white blood cells) and normal glucose.
+
+On his neurologic examination, motor strength according to the modified Medical Research Council grade was 4+/4+ in his upper limbs and 4/4 in both lower limbs. It also showed diminished deep tendon reflexes. Nerve conduction study (NCS) and electromyography (EMG) revealed moderate to severe sensory-motor axonal polyneuropathy. He was diagnosed as acute GBS, motor and sensory axonal neuropathy type.
+
+While he was in the emergency room, he developed back pain, worsening dizziness, nausea and dyspnea. He was admitted to the intensive care unit and was intubated for mechanical ventilation.
+
+In the early days of hospitalization, he developed diplopia, bifacial palsy, bifacial numbness, and lip sealing difficulty. Brain MRI was not taken at that time. Intravenous immunoglobulin (IVIg) was given for the first two days of hospitalization. Then plasmapheresis was performed for nine days. Two weeks after he was intubated, a tracheostomy was carried out. In about a week, he complained of dyspnea again and the oximetry showed desaturation. Chest CT with CT venography was taken. It revealed multifocal pulmonary thromboembolism (PTE) in the bilateral pulmonary arteries and deep vein thrombosis (DVT) in the left internal iliac vein. Non-vitamin K antagonist oral anticoagulant (NOAC) was initiated. Two weeks later, a follow up CT was taken and it showed improvement of multifocal PTE and DVT.
+
+After two months, he was transferred to our hospital rehabilitation center. After a month of rehabilitation therapy, he recovered significantly to the extent of using a wheelchair. But one week later, he experienced an episode of cardiac arrest when he was tilted while undergoing physical therapy. Cardiopulmonary resuscitation was done successfully. Incomplete recovery of consciousness was observed and diminished pupil reaction with involuntary head movement occurred. A brain MRI was taken for evaluation of altered mental status. A diffusion-weighted imaging of brain revealed no diffusion restrictive lesion. A gadolinium enhanced brain MRI showed remarkable enhancement in the T1-weighted images of the distal cisternal and the proximal ganglionic segments of the bilateral trigeminal nerves (Fig. 1A; axial view, Fig. 1B; coronal view), the cisternal segment of the left abducens nerve (Fig. 1C; axial and coronal view), the distal canalicular and the labyrinthine segments of the bilateral facial nerves (Fig. 1D; axial view, Fig. 1E; coronal view). No other abnormal finding was observed.
+
+These findings of multiple cranial nerve enhancement were considered as cranial neuropathies of GBS. There was no evidence of meningitis, lymphomatous, or leukemic involvement. The following day, he fully regained consciousness. He continued to improve and was discharged four months later. The diplopia disappeared but slight bifacial numbness and lip sealing difficulty persisted.
+
+This study was approved by the Institutional Review Board of our institution and the requirement for informed consent was waived (IRB No. E2021-049).
+
+DISCUSSION
+
+GBS is an immune-related demyelinating polyneuropathy often associated with antecedent infection or vaccination. It presents with diverse neurologic symptoms due to the involvement of motor, sensory and autonomic nerves.
+
+Dignosis of GBS is based on the patient history, symptoms of progressive quadriplegia, absent or decreased deep tendon reflex and laboratory results. CSF shows increased protein only without inflammatory cells which is called albuminocytologic dissociation. It is usually observed more than three days after developing quadriplegia. NCS is a very important tool to diagnose GBS. It is also useful to distinguish subtypes of GBS and to predict a long-term prognosis. In our case, the patient showed progressive quadriplegia, absent deep tendon reflex, and the CSF demonstrated albuminocytologic dissociation. NCS and EMG revealed moderate to severe sensory-motor axonal polyneuropathy.
+
+Almost half of the unselected GBS patients have cranial nerve deficits. In 2014, Bhargava et al. reported 38 GBS patients with cranial neuropathy. Bulbar palsy (30 patients), facial nerve palsy (28 patients), hypoglossal nerve involvement (6 patients), ophthalmoplegia (4 patients) and vestibulocochlear nerve palsy (1 patient) were reported. Characteristically, lower cranial nerves (from IX to XII) were most commonly involved. There was no involvement of trigeminal nerve. Maramattom et al. reported seven cases of GBS following COVID-19 vaccination. Bilateral facial weakness was observed in all seven cases which correlates with the Bhargava study. However, four cases showed trigeminal nerve involvement which was not seen in the Bhargava study. And four cases showed abducens nerve involvement which was rare in the Bhargava study. It is possible that the lower cranial nerves are more commonly involved in the unselected GBS population. The GBS patients following COVID-19 vaccination may have a tendency to involve the upper cranial nerves such as abducens and trigeminal nerves.
+
+There is a paucity of papers that report changes on MRI in patients with GBS. Reported changes include enhancement of the cranial nerves. Maramattom et al. reported that two out of four patients who showed trigeminal and abducens nerve involvement had taken MRI of brain which showed normal findings. However, the brain MRI of our case showed obvious enhancement of involved trigeminal, abducens and facial nerves. Other findings such as nerve enlargement or T2 hyperintense signal were not accompanied.
+
+GBS is mostly preceded by gastrointestinal or upper respiratory tract infection. Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, Mycoplasma pneumoniae, and human immunodeficiency virus have been reported to precipitate the GBS. According to recent articles, COVID-19 infection is also known to have an association with GBS.
+
+Vaccination is also a significant cause of GBS. Several reports to indicate a temporal association between GBS and influenza, polio, rabies, hepatitis A and B vaccines have been published. In recent years, multiple cases of the GBS following COVID-19 vaccination have been reported. The types of vaccine that have been reported are Astrazeneca, Pfizer, Moderna and Janssen.
+
+Although the pathophysiologic mechanism of GBS is still uncertain, immunologic stimulation and molecular mimicry is generally accepted. Vaccination can also precipitate GBS by autoimmunity. The epitope in live or attenuated vaccine could recruit antibodies or T cell formation which are able to cross-react with myelin or axonal glycoproteins in peripheral nerves. It can cause immune-mediated injury. Therefore, an antibody cross-reactivity may involve the pathophysiologic mechanism of GBS associated with vaccination.
+
+Established treatments for GBS are IVIg and plasmapheresis. Both options are more effective when they are initiated within two weeks following quadriplegia. GBS patients mostly recover if appropriate treatment is applied in the acute stage.
+
+In summary, COVID-19 vaccination can cause GBS with multiple cranial neuropathies showing conspicuous nerve enhancement on brain MRI.
+
+Conceptualization, S.Y.
+
+data curation, S.Y.
+
+formal analysis, Y.E.A., K.E.
+
+investigation, K.E.
+
+project administration, Y.E.A.
+
+supervision, K.S.J.
+
+writing—original draft, S.Y.
+
+writing—review & editing, K.S.J.
+
+Author Contributions:  
+
+Conflicts of Interest: The authors have no potential conflicts of interest to disclose.
+
+Funding: None
+
+A study of Guillain-Barré syndrome with reference to cranial neuropathy and its prognostic implication
+
+COVID-19-associated Guillain-Barré syndrome: the early pandemic experience
+
+Guillain-Barré syndrome after AstraZeneca COVID-19-vaccination: a causal or casual association?
+
+The lower cranial nerves: IX, X, XI, XII
+
+A novel case of bifacial diplegia variant of Guillain-Barré syndrome following Janssen COVID-19 vaccination
+
+Recent concepts of Guillain-Barré syndrome
+
+Guillain-Barré syndrome following ChAdOx1-S/nCoV-19 vaccine
+
+COVID-19–associated bifacial weakness with paresthesia subtype of Guillain-Barré syndrome
+
+COVID-19 vaccine causing Guillain-Barre syndrome, a rare potential side effect
+
+Guillain-Barre syndrome following COVID-19 vaccines: a scoping review
+
+Multiple cranial neuropathies of Guillian-Barre syndrome occurring after COVID-19 vaccination in a 49-year old male. Postcontrast T1-weighted MPRAGE images with a 1.5T MRI*.
+
+A. Gadolinium enhancement in the distal cisternal and the proximal ganglionic segments of the bilateral trigeminal nerves (arrows).
+
+B. Gadolinium enhancement in the distal cisternal segments of the bilateral trigeminal nerves (arrows).
+
+C. Gadolinium enhancement in the cisternal segment of the left abducens nerve (arrows).
+
+D. Gadolinium enhancement in the distal canalicular and the labyrinthine segments of the bilateral facial nerves (arrows).
+
+E. Gadolinium enhancement in the distal canalicular segments of the bilateral facial nerves (arrows).
+
+*MPRAGE images = magnetization prepared rapid gradient echo (repetition time/echo time = 2110/3.46; slice thickness 1 mm), 1.5T MRI = Avanto; Siemens, Erlangen, Germany.

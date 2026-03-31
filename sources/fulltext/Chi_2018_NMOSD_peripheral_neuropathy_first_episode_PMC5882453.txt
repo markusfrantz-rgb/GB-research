@@ -1,0 +1,37 @@
+A Case Report of Neuromyelitis Optica Spectrum Disorder with Peripheral Neuropathy as the First Episode
+
+Authors: Lu-Mei Chi, Yu Gao, Guang-Xian Nan
+Journal: Medicine (Baltimore)
+Year: 2018; Volume: 97(10): e0059
+PMID: 29517664 | PMCID: PMC5882453 | DOI: 10.1097/MD.0000000000010059
+
+ABSTRACT
+
+This case describes a 57-year-old male with chronic alcohol use who presented with limb numbness. Electromyography revealed peripheral nerve demyelination with axonal injury. Initial vitamin B therapy proved ineffective, but dexamethasone treatment provided relief. Over subsequent months, the patient developed optic neuritis and acute myelitis. Diagnosis: neuromyelitis optica spectrum disorder (AQP4-negative). Immunotherapy improved both peripheral neuropathy and myelitis symptoms.
+
+CASE REPORT
+
+Initial Presentation: 57-year-old male, one month of limb numbness, no fever/diarrhea/vaccination history. Over 20 years alcohol use.
+
+Physical Examination:
+- Right upper limb distal muscle weakness (grade 3)
+- Left upper limb distal muscle weakness (grade 4)
+- Absent limb tendon reflexes
+- Impaired sensation below elbows and knees
+
+EMG: Absent sensory nerve action potentials in right median and ulnar nerves. Reduced SNAPs in right superficial peroneal and sural nerves. Delayed H-wave latency.
+
+Treatment Response: Vitamin B ineffective (7 days). IV dexamethasone (5mg x 3 days) produced dramatic improvement: left UE strength normalized, right UE improved to 4+.
+
+Disease Progression:
+- 2 months: numbness recurred, repeat EMG confirmed PN, B vitamins ineffective
+- 4 months: left eye blurred vision (optic neuritis)
+- 6 months: worsening numbness, significant weakness, difficulty walking/urinating
+- Cervical MRI: long signal abnormalities C2-C8
+- AQP4-IgG: Negative
+
+Final Treatment: Methylprednisolone with significant improvement. Maintenance: azathioprine + prednisone taper. At 6 months: independent ambulation, left eye vision improved to 1.0.
+
+KEY FINDING
+
+NMOSD patients could represent peripheral neuropathy as the first episode. This is the first case where peripheral neuropathy appeared as sole initial symptom without concurrent myelitis or optic neuritis. The dramatic steroid response distinguished immune-mediated from alcoholic neuropathy.

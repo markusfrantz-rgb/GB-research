@@ -1,0 +1,43 @@
+Hashimoto's encephalopathy
+Ramalho J, Castillo M
+Radiology Case Reports. 2015;6(1):445
+PMID: 27307883 | PMCID: PMC4901018 | DOI: 10.2484/rcr.v6i1.445
+
+ABSTRACT
+Case report of a 37-year-old woman with Hashimoto's encephalopathy demonstrating bilaterally symmetric areas of increased signal in the mesial temporal lobes and basal ganglia on MRI. Though steroid therapy produced clinical and imaging improvement, certain memory deficits and MRI abnormalities persisted.
+
+INTRODUCTION
+Hashimoto's encephalopathy (HE) represents a controversial and poorly understood encephalopathy of presumed autoimmune origin, initially described by Lord Brain in 1966. Alternative nomenclature: steroid-responsive encephalopathy associated with autoimmune thyroiditis (SREAT); nonvasculitic autoimmune inflammatory meningoencephalitis (NAIM).
+
+HE characteristically presents with acute or subacute encephalopathy with high levels of anti-thyroid antibodies, often without clinical or biochemical evidence of thyroid dysfunction. Two primary presentations: strokelike episodes with focal neurological deficits, or progressive cognitive decline toward dementia or psychosis.
+
+CASE REPORT
+37-year-old Caucasian woman with six months of depression. Developed progressive short- and long-term memory loss and sleepiness, approximately 20-kilogram weight loss, requiring short-term disability.
+
+Laboratory Findings:
+- Routine hematologic and metabolic panels normal
+- TSH within normal limits
+- All infectious serologies negative
+- Positive ANA, pANCA, anti-dsDNA, anti-RNP
+- CSF: 82 nucleated cells (99% lymphocytes), protein 84 mg/dl, glucose 62 mg/dl
+- All CSF viral PCR negative
+- Paraneoplastic panels negative (CRMP-5, amphiphysin, VGKC, NMDA)
+- Antithyroglobulin antibodies >500 IU/mL (normal <4)
+- Anti-TPO antibodies 343.4 IU/mL (normal <4)
+
+MRI: Symmetric bilateral areas of high T2/FLAIR signal in mesial temporal lobes, caudate nuclei, and putamina. Mild T1 hyperintensity with fine serpiginous enhancement. Left midbrain lesion. No hemorrhage, mass effect, or DWI abnormalities.
+
+Treatment: Prednisone 60 mg daily.
+
+Follow-up (6 months): Reduction in extent of T2 signal lesions in mesial temporal lobes, basal ganglia, and midbrain. Resolution of gadolinium enhancement. Anti-TG decreased to 141, anti-TPO to 23 IU/mL.
+
+DISCUSSION
+Since 1966, approximately 200 cases documented. Estimated prevalence 2.1 per 100,000. Women affected more than men.
+
+All patients present with encephalopathy: abnormal consciousness, impaired attention and cognition, behavior/personality changes. Associated symptoms: seizures (66%), myoclonus (38%), neuropsychiatric features (36%), strokelike symptoms (27%).
+
+MRI normal in approximately 50% of HE cases. When abnormal: generalized cerebral atrophy, diffuse increased signal on T2/FLAIR in subcortical white matter, and dural enhancement. Bilateral basal ganglia involvement not previously described.
+
+Diagnosis rests upon detection of antithyroid antibodies, particularly anti-TPO and anti-TG. High titers (usually 100-fold over normal) necessary for diagnosis. Antibodies appear in 5-20% of general population.
+
+Treatment: High-dose IV corticosteroids or oral prednisone. Most patients respond within weeks. Some show dramatic improvement after first few doses. Azathioprine, IVIG, plasma exchange for refractory cases.

@@ -1,0 +1,60 @@
+Extra-axial cranial nerve enhancement: a pattern-based approach
+
+Authors: Giulia Moltoni, Andrea Romano, Antonella Blandino, Serena Palizzi,
+Allegra Romano, Benedetta D'Arrigo, Alessia Guarnera, Francesco Dellepiane,
+Valentina Frezza, Olga Gagliardo, Francesca Tari Capone, Andrea Grossi,
+Guido Trasimeni, Alessandro Bozzao
+
+Journal: Radiol Med. 2023
+DOI: 10.1007/s11547-023-01734-2
+PMID: 37882918 | PMCID: PMC10808254
+
+OVERVIEW
+
+This review identifies four distinct cranial nerve enhancement patterns on
+gadolinium-enhanced MRI and their differential diagnoses.
+
+FOUR ENHANCEMENT PATTERNS
+
+1. UNILATERAL LINEAR
+   - Associated with: demyelinating conditions, viral neuritis
+   - Examples: Bell's palsy, herpes zoster, MS
+
+2. BILATERAL LINEAR
+   - Associated with: multiple sclerosis, some inflammatory disorders
+   - Examples: MS, neurosarcoidosis
+
+3. UNILATERAL THICKENED
+   - Associated with: perineural tumor spread, localized infection
+   - Examples: schwannoma, perineural invasion of head/neck cancers
+
+4. BILATERAL THICKENED
+   - Associated with: neoplastic carcinomatosis, disseminated inflammatory disease
+   - Examples: leptomeningeal carcinomatosis, GBS, Lyme, TB
+
+GUILLAIN-BARRE SYNDROME PATTERN
+
+GBS can show cranial nerve involvement with a BILATERAL THICKENED pattern
+resulting from an immuno-inflammatory process caused by complement activation.
+
+This pattern is shared with:
+- Lyme disease
+- Tuberculosis
+- Leptomeningeal carcinomatosis
+
+Clinical history, laboratory findings, and imaging characteristics of associated
+structures are essential for differentiation.
+
+MECHANISM IN GBS
+
+The enhancement in GBS reflects breakdown of the blood-nerve barrier secondary
+to immune-mediated inflammation. Complement activation leads to inflammation and
+edema of the nerve, producing the thickened bilateral enhancement pattern.
+
+CLINICAL SIGNIFICANCE
+
+Abnormal cranial nerve enhancement on MRI may sometimes be the first or only
+indication of an underlying disease process. Pattern recognition helps narrow
+differential diagnosis.
+
+Open Access: Yes (Springer Open Choice)

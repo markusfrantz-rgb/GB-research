@@ -1,0 +1,19 @@
+Autoimmune Encephalopathy Associated With Anti-thyroid Antibodies: A Case Report
+Falb V, Costanzo L, Avalos C, Feoktistov A
+Cureus. 2022;14(8):e28183
+PMID: 36148192 | PMCID: PMC9482811 | DOI: 10.7759/cureus.28183
+
+CASE REPORT
+19-year-old female with rapidly progressive psychosis, mutism, catalepsy, and catatonia.
+
+FINDINGS
+- Elevated anti-TPO and anti-thyroglobulin antibodies
+- Normal thyroid function tests
+- Brain atrophy abnormal for age
+
+TREATMENT
+Aggressive immunosuppressive treatment: IV methylprednisolone, corticosteroids, mycophenolate mofetil.
+Dramatic response -- symptoms resolved.
+
+SIGNIFICANCE
+Highlights importance of measuring thyroid antibodies in psychiatric presentations to identify potential autoimmune encephalitis. SREAT should be considered in young patients with acute-onset psychosis.

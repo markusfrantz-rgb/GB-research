@@ -1,0 +1,30 @@
+The use of intravenous immunoglobulin in the treatment of Hashimoto's encephalopathy: case based review
+Sorodoc V, Constantin M, Asaftei A, Lionte C, Ceasovschih A, Sirbu O, Haliga RE, Sorodoc L
+Frontiers in Neurology. 2023;14:1243787
+PMID: 37745658 | PMCID: PMC10513043 | DOI: 10.3389/fneur.2023.1243787
+
+ABSTRACT
+Systematic review of 14 case reports examining IVIG treatment efficacy in Hashimoto's encephalopathy (HE), particularly in steroid-resistant cases.
+
+KEY FINDINGS
+
+IVIG Efficacy:
+- IVIG was associated with good outcome, sometimes with dramatic improvements in patient status
+- Multiple cases demonstrated rapid clinical improvement within 24-48 hours of IVIG administration
+- IVIG therapy proved utility in HE treatment as a well tolerated therapy
+
+Case Presentation:
+59-year-old male patient initially deteriorated despite steroid therapy. Following IVIG treatment at 400 mg/kg daily for 5 days, achieved complete recovery with sustained remission during one-year follow-up.
+
+Review of 14 Cases:
+- Selected from over 1,365 initial database entries
+- IVIG effective as both rescue therapy and alternative first-line in selected cases
+
+TREATMENT CONTEXT
+- Corticosteroids remain standard first-line therapy for HE
+- IVIG shows promise as second-line therapy or potentially initial treatment
+- May be used alone or combined with steroids
+- Especially relevant when steroid administration presents clinical risks
+
+CONCLUSIONS
+Further research needed to establish optimal IVIG protocols for HE. IVIG represents a viable therapeutic option particularly for steroid-resistant or steroid-contraindicated cases.

@@ -1,0 +1,41 @@
+Imaging Presentation of Bickerstaff Brainstem Encephalitis
+
+Authors: Nicola Romano, Margherita Federici, Antonio Castaldi
+Journal: The Neurohospitalist
+Year: 2021
+PMID: 34567402
+PMCID: PMC8442150
+DOI: 10.1177/1941874421993671
+
+ABSTRACT AND KEY FINDINGS
+
+Bickerstaff Brainstem Encephalitis (BBE) is a rare autoimmune disorder first described in the 1950s. This case presents a 38-year-old male who developed slurred speech, ataxia, ophthalmoplegia and fever along with motor coordination difficulties.
+
+MRI FINDINGS
+
+Initial MRI (1.5T):
+- Small central midbrain lesion
+- Hyperintense on FLAIR and T2-weighted imaging
+- Hypointense on T1-weighted imaging
+- Peripheral diffusion restriction (DWI b=1000 s/mm2)
+- Peripheral contrast enhancement on post-gadolinium T1-weighted imaging
+- No other brain lesions detected
+- Cervical spine MRI normal
+
+Follow-up MRI (1-year):
+- Gradual regression of the lesion with minimal residual signal changes
+- Absence of diffusion restriction and contrast enhancement
+
+CLINICAL COURSE
+
+The patient received intravenous corticosteroid therapy with symptom resolution within approximately two weeks. Serological testing for ganglioside antibodies (GM1, GM2, GD1a, GD1b, GQ1b) was negative. The patient remained completely asymptomatic at one-year follow-up with no disease relapses.
+
+KEY POINTS ON BBE IMAGING
+
+BBE lesions are located mainly in the brainstem. In approximately 30% of cases, brain MRI shows areas of T2 and FLAIR hypersignal in the brainstem, cerebellum, or thalamus. T2-weighted images show large, irregular hyperintense lesions in the brainstem, especially in the pons, midbrain and medulla, but also in some cases in the thalamus and vermis of the cerebellum.
+
+Signal characteristics: Lesions are hyperintense on FLAIR and T2-weighted images, hypointense on T1-weighted images, with restriction of diffusion and peripheral contrast enhancement.
+
+Contrast enhancement is inconstant.
+
+MRI plays a critical role in the diagnosis of BBE. Absence of anti-GQ1b antibodies and normal MRI do not exclude the diagnosis, which remains based on clinical criteria and exclusion of other etiologies.

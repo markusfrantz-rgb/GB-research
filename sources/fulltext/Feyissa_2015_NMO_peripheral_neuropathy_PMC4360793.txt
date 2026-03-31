@@ -1,0 +1,39 @@
+Neuromyelitis Optica Phenotype Associated with Therapy-Responsive Acute Peripheral Neuropathy
+
+Authors: Anteneh M Feyissa, Elena Shanina, Rahul Shah, Robert G Smith
+Journal: Neurology: Neuroimmunology & Neuroinflammation
+Year: 2015; Volume: 2(3): e83
+PMID: 25798448 | PMCID: PMC4360793 | DOI: 10.1212/NXI.0000000000000083
+
+CASE SUMMARY
+
+A 51-year-old Hispanic woman with history of Churg-Strauss syndrome, mesangial glomerulonephritis, end-stage renal disease (post-transplant), and treated CMV infection presented with sudden lower extremity numbness. Within 24 hours, symptoms progressed to complete paraplegia, ascending paresis to upper extremities, complete blindness, and high thoracic sensory level.
+
+DIAGNOSTIC FINDINGS
+
+Imaging: Bilateral prechiasmatic optic nerve enhancement and T2 hyperintensities involving central spinal cord gray matter with edema.
+
+CSF: Neutrophilic pleocytosis (182/mm3), protein 142 mg/dL, no oligoclonal bands. All cultures negative.
+
+Serology: Negative for AQP4, antineuronal antibodies, ANCA, ganglioside antibodies (GM1, GM2, GD1a, GD1b, GQ1b).
+
+Electrophysiology: Severe reduction in compound motor action potential amplitudes with reduced sensory responses. EMG: severe denervation.
+
+DIAGNOSIS
+
+Combined:
+- Clinically definite NMO phenotype (seronegative)
+- Acute axonal polyradiculoneuropathy
+
+TREATMENT
+
+Methylprednisolone followed by 5 cycles plasma exchange, then IV rituximab (4 weekly cycles) with significant improvement.
+
+OUTCOMES
+- 7-14 months: Normal upper extremity strength, ambulation with walker
+- Right eye: complete recovery. Left eye: improved to 20/400
+- 7-month NCS/EMG: marked improvement; 14-month studies normal
+
+DISCUSSION
+
+Clinicians should maintain clinical suspicion for concomitant peripheral nerve involvement with NMOSD. Proposed mechanisms include: MOG or other complement-activating antibodies, severe inflammation causing ischemia, genetic predisposition to multiple autoimmune conditions, and immune reconstitution effects.

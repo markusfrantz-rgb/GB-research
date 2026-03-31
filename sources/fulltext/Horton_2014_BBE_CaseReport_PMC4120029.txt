@@ -1,0 +1,50 @@
+Bickerstaff's encephalitis
+
+Authors: Emma Horton, Sanjay Krishnamoorthy, Lucy Reynolds
+Journal: BMJ Case Reports
+Year: 2014
+PMID: 25080547
+PMCID: PMC4120029
+DOI: 10.1136/bcr-2014-205336
+
+DIAGNOSTIC CRITERIA FOR BBE (Odaka et al.)
+
+Clinical criteria:
+- Ophthalmoplegia and ataxia with disturbed consciousness and/or pyramidal signs
+- Distinguishes BBE from MFS (ophthalmoplegia, ataxia, areflexia) and GBS (acute symmetrical limb weakness, areflexia)
+
+CASE PRESENTATION
+
+36-year-old male:
+- Bilateral ophthalmoplegia with limitation of eye movements
+- Ataxia of upper and lower limbs
+- Impaired consciousness (GCS oscillating 13-15/15)
+- Pseudobulbar affect (emotional lability)
+- Slurred speech
+- Upgoing plantar reflexes (Babinski positive)
+- Fever 38C
+- Preceding diarrheal illness (Campylobacter jejuni)
+
+MRI FINDINGS
+
+No abnormalities on T2 and FLAIR imaging in brain or upper spinal cord.
+(Note: MRI is normal in ~70% of BBE cases)
+
+LABORATORY FINDINGS
+
+- LP: Raised RBC (4000/mm3), normal protein, WCC, glucose, lactate
+- Negative viral PCR panel
+- Negative antiganglioside antibodies (anti-GQ1b)
+- Positive Campylobacter IgG serology with equivocal IgA
+
+TREATMENT
+
+IVIG plus plasmapheresis - complete recovery within 3 weeks with no neurological sequelae.
+
+KEY TEACHING POINTS
+
+1. BBE is a clinical diagnosis - negative anti-GQ1b and normal MRI do not exclude it
+2. Approximately 30% have abnormal brain MRI
+3. 66% have positive anti-GQ1b antibodies
+4. BBE, MFS, and GBS form a continuous spectrum
+5. Treatment: IVIG and/or plasmapheresis

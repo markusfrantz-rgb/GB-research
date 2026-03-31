@@ -1,0 +1,73 @@
+Action mechanism of corticosteroids to aggravate Guillain-Barré syndrome
+Scientific Reports 2015;5:13931
+Authors: Yu-Zhong Wang, Hui Lv, Qi-Guang Shi, Xu-Tao Fan, Lei Li, Anna Hiu Yi Wong, Yan-Lei Hao, Chuan-Ping Si, Cui-Lan Li, Nobuhiro Yuki
+PMID: 26355080 | PMCID: PMC4565078 | DOI: 10.1038/srep13931
+
+=== ABSTRACT ===
+
+Corticosteroids are widely used to treat autoimmune diseases, but they have been shown NOT to benefit GBS patients. This study used a rabbit axonal GBS model to investigate WHY corticosteroids fail in GBS and may actually worsen outcomes.
+
+=== KEY FINDINGS ===
+
+EXPERIMENT 1: Effect on macrophage infiltration
+- Methylprednisolone significantly REDUCED macrophage infiltration in spinal ventral roots
+- Complement deposition was unchanged
+- Sodium channel disruption was unchanged
+- Conclusion: Steroids suppress macrophage recruitment but do not affect the initial autoimmune attack
+
+EXPERIMENT 2: Effect on clinical outcomes
+- 42% of methylprednisolone-treated rabbits DIED within 30 days (vs lower mortality in controls)
+- Clinical scores were significantly WORSE in steroid-treated animals
+- Higher frequency of AXONAL DEGENERATION in steroid-treated group
+- Survival rate was LOWER with steroids
+
+=== PROPOSED MECHANISM ===
+
+Why corticosteroids HARM GBS patients:
+
+1. In GBS, the immune attack damages peripheral nerve myelin/axons
+2. After the initial damage, MACROPHAGES are recruited to clean up debris
+3. Macrophages act as essential "SCAVENGERS" — removing damaged myelin and axon fragments
+4. This debris clearance is CRITICAL for nerve regeneration
+5. Corticosteroids SUPPRESS macrophage migration and recruitment
+6. Without macrophage scavenging, debris accumulates
+7. Accumulated debris BLOCKS nerve regeneration
+8. Result: Delayed or prevented recovery
+
+KEY QUOTE: "Corticosteroids may reduce the scavengers that play a crucial role for nerve regeneration, thus delay the recovery."
+
+=== CLINICAL IMPLICATIONS ===
+
+For PURE GBS:
+- Corticosteroids are CONTRAINDICATED as monotherapy
+- They suppress the very cells needed for recovery (macrophages)
+- This explains the Cochrane review finding that oral steroids WORSEN outcomes
+
+For ADEM-GBS OVERLAP:
+- The situation is MORE COMPLEX
+- ADEM requires corticosteroids (for CNS inflammation)
+- GBS may be worsened by corticosteroids (blocked nerve regeneration)
+- COMBINED therapy (steroids for ADEM + IVIg for GBS) is the pragmatic approach
+- The ADEM component typically drives the steroid decision when both conditions coexist
+- Monitor PNS recovery carefully when steroids are used in overlap syndromes
+
+=== DISTINCTION FROM CIDP ===
+
+Important: This mechanism applies to ACUTE GBS, not CIDP.
+In CIDP:
+- The disease is chronic with ongoing inflammation
+- Corticosteroids reduce this ongoing inflammation → beneficial
+- Macrophage suppression is less problematic because the inflammatory cycle is different
+
+If a patient with "GBS" responds to steroids, consider:
+- May actually be first attack of CIDP
+- May have ADEM component driving the improvement
+- May have BBE component responding to steroids
+
+=== REFERENCES (selected) ===
+
+1. Hughes RAC et al. Cochrane review: Corticosteroids for GBS. Cochrane Database Syst Rev 2016.
+2. van Koningsveld R et al. Effect of methylprednisolone when added to IVIg for GBS. Lancet 2004;363:192-6.
+3. Yuki N et al. Acute motor axonal neuropathy rabbit model. Ann Neurol 2001;49:712-720.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4565078/

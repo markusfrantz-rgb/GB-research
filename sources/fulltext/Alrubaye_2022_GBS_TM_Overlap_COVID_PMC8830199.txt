@@ -1,0 +1,29 @@
+A Possible Guillain-Barre Syndrome/Transverse Myelitis Overlap Syndrome After Recent COVID-19
+
+Authors: Riyadh Alrubaye, Vijayamala Bondugula, Vidya Baleguli, Rosemary Chofor
+Journal: BMJ Case Reports, 2022;15(2):e246967
+PMID: 35140089 | PMCID: PMC8830199 | DOI: 10.1136/bcr-2021-246967
+
+CASE REPORT
+
+A 72-year-old patient developed concurrent GBS and transverse myelitis following COVID-19 infection.
+
+PRESENTATION:
+- Acute bilateral lower extremity weakness 5 days after COVID-19 diagnosis
+- Severe back and leg pain, urinary retention, constipation, falls
+- Proximal lower limb weakness 1/5 bilaterally, absent lower extremity reflexes
+
+DIAGNOSTICS:
+- CSF: Albumin-cytological dissociation (protein 211 mg/dL, WBC 2/L)
+- Thoracic MRI: T2-hyperintense signals T7-T12 (transverse myelitis)
+- NCS: Decreased velocities and amplitudes (acute motor axonal neuropathy)
+
+TREATMENT:
+- IVIg insufficient alone
+- IV corticosteroids 1000mg x 5 days + 5 sessions plasmapheresis: remarkable recovery
+- Functional independence within 1 week of discharge
+
+CLINICAL SIGNIFICANCE:
+Third documented GBS/TM overlap post-COVID-19. Severe back pain + motor weakness + areflexia + autonomic dysfunction should trigger investigation.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8830199/

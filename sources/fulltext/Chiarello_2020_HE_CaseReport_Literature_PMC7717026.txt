@@ -1,0 +1,46 @@
+Hashimoto encephalopathy: a case report and a short revision of current literature
+Chiarello P, Talarico V, Nicoletti A, Rodio B, Arcuri PP, Bosco D, Gigliotti F, Galati MC, Raiola G
+Acta Biomed (Acta Bio Medica: Atenei Parmensis). 2020;91(3):e2020087
+PMID: 32921783 | PMCID: PMC7717026 | DOI: 10.23750/abm.v91i3.10157
+
+OVERVIEW
+HE is a rare but controversial entity encompassing a variety of neuropsychological presentations in the setting of autoimmune thyroid disease. Predominantly affects females (4:1 ratio). Pediatric cases are rare (~60 documented cases, median onset age 14 years).
+
+CASE PRESENTATION
+12-year-old girl with acute neurological symptoms: headache, vomiting, tremors, speech difficulties, disorientation, lower limb weakness. Parents noted mood worsening with alternating phases of depression and irritability weeks before.
+
+DIAGNOSTIC FINDINGS
+- Standard infectious workups negative
+- Markedly elevated anti-TPO levels
+- Brain MRI: hyperintense spots in white matter of frontal-parietal lobe, bilateral
+
+DIAGNOSTIC CRITERIA (Graus et al., 2016)
+1. Encephalopathy with seizures, myoclonus, hallucinations, or stroke-like episodes
+2. Thyroid disease (typically subclinical or mild hypothyroidism)
+3. Normal or non-specific brain MRI abnormalities
+4. Elevated serum TPO or TG antibodies
+5. Absence of other neuronal antibodies
+6. Reasonable exclusion of alternative causes
+
+TREATMENT
+IV methylprednisolone (1g daily x 3 days) then oral prednisone. Rapid improvement: tremors and speech difficulties resolved within days. 5-year follow-up: asymptomatic.
+
+PEDIATRIC CLINICAL PRESENTATIONS
+- Seizures: 69% of pediatric cases
+- Altered consciousness: 60%
+- Psychosis: 37%
+- Behavioral changes: 33%
+
+PATHOPHYSIOLOGY
+Three mechanisms proposed:
+1. Vasculitic: brain microvasculature inflammation/edema
+2. Autoantibody: antithyroid antibodies cross-react with brain antigens
+3. Hormonal: excessive TRH from hypothyroidism
+
+TREATMENT APPROACHES
+First-line: corticosteroids (>90% respond)
+Resistant cases: IVIG, plasma exchange, methotrexate, azathioprine
+HE designated as category II indication for plasma exchange with 2C level of recommendation.
+
+ASSOCIATED CONDITIONS
+HE coexists with other autoimmune disorders in ~1/3 of cases: SLE, Sjogren's, myasthenia gravis, autoimmune inner ear disease.

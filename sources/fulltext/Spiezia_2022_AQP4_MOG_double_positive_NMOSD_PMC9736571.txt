@@ -1,0 +1,54 @@
+AQP4-MOG Double-Positive Neuromyelitis Optica Spectrum Disorder: Case Report with Central and Peripheral Nervous System Involvement and Review of Literature
+
+Authors: Antonio Luca Spiezia, Antonio Carotenuto, Aniello Iovino, Marcello Moccia, Matteo Gastaldi, Rosa Iodice, Enrico Tedeschi, Maria Petracca, Luigi Lavorgna, Alessandro d'Ambrosio, Vincenzo Brescia Morra, Roberta Lanzillo
+Journal: International Journal of Molecular Sciences
+Year: 2022; Volume: 23(23): 14559
+PMID: 36498887 | PMCID: PMC9736571 | DOI: 10.3390/ijms232314559
+
+ABSTRACT
+
+This case describes a rare phenomenon: simultaneous presence of antibodies against aquaporin-4 (AQP4) and myelin oligodendrocyte glycoprotein (MOG) in a patient with NMOSD. The 62-year-old female presented with recurrent optic neuritis, myelitis, and radiculitis with both CNS and PNS involvement.
+
+CLINICAL PRESENTATION
+
+A 62-year-old Senegalese woman experienced sudden vision loss in both eyes, progressive whole-body numbness, flaccid paralysis affecting all limbs, and urinary incontinence.
+
+DIAGNOSTIC FINDINGS
+
+Laboratory:
+- AQP4 antibody serum titer: 1:10,240
+- MOG antibody serum titer: 1:1,280
+- Both antibodies negative in CSF
+- Anti-Ro/SSA antibodies positive
+- Unique oligoclonal bands present in CSF
+
+Imaging:
+- Longitudinally extensive transverse myelitis (C2-T1)
+- Cauda equina root enhancement
+- Multiple cerebellar white matter lesions
+- Perioptic nerve enhancement
+
+Electrophysiology:
+- Reduced motor nerve conduction velocity
+- Normal sensory nerve conduction velocity
+- Increased F-wave latencies in lower limbs
+- Absent H-reflex bilaterally
+- Pattern suggesting radicular involvement
+
+TREATMENT AND OUTCOME
+
+Rituximab therapy. At 6 months: improved lower limb strength, recovery of deep tendon reflexes. AQP4 titer reduced to 1:1,280 and MOG titer to 1:320.
+
+LITERATURE REVIEW (13 AQP4-MOG double-positive cases)
+- 12/13 female
+- 9/13 had EDSS > 6 (high disability)
+- 11/13 had brain lesions
+- Most presented with LETM and/or optic neuritis
+
+PNS INVOLVEMENT MECHANISMS
+
+AQP4 is expressed in the inner part of anterior and posterior roots and in cauda equina adjacent to the spinal cord. MOG may be expressed in low quantities in peripheral myelin and Schwann cells. Double-positive patients display higher propensity for autoimmunity.
+
+KEY FINDING
+
+First documented case of AQP4-MOG double-positive NMOSD with both CNS and PNS involvement. May represent a distinct clinical phenotype within NMOSD.

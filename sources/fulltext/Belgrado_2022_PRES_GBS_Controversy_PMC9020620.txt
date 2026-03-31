@@ -1,0 +1,67 @@
+Posterior Reversible Encephalopathy Syndrome in Guillain-Barre Syndrome: Just a Problem of Immunoglobulins? Controversy From Two Atypical Case Reports
+
+Authors: Enrico Belgrado, Ilaria Del Negro, Daniele Bagatto, Simone Lorenzut, Giovanni Merlino, Gian L Gigli, Mariarosaria Valente
+Affiliation: Udine University Hospital, Italy
+Journal: Frontiers in Neurology
+Year: 2022 (April 6)
+DOI: 10.3389/fneur.2022.817295
+PMID: 35463144
+PMCID: PMC9020620
+
+ABSTRACT
+
+The researchers presented two cases where patients with Guillain-Barre syndrome (GBS) developed a severe overlap condition combining posterior reversible encephalopathy syndrome (PRES) with reversible cerebral vasoconstriction syndrome (RCVS).
+
+Patient 1 (45-year-old woman): Diagnosed with acute motor axonal neuropathy (AMAN), a GBS variant. She experienced seizures and vision loss after immunoglobulin treatment began, showing typical PRES imaging with eventual hemorrhagic complications and fatal outcome.
+
+Patient 2 (59-year-old woman): Diagnosed with acute inflammatory demyelinating polyneuropathy (AIDP), another GBS variant. She developed bilateral vision loss and exhibited atypical imaging showing cytotoxic rather than vasogenic edema, resulting in permanent neurological deficits.
+
+KEY FINDINGS
+
+The authors propose that GBS itself should be considered an independent risk factor in developing PRES, independent of autonomic dysfunction or intravenous immunoglobulin (IVIg) treatment. They suggest immune system dysregulation and endothelial dysfunction, rather than immunoglobulins alone, drive the pathogenesis.
+
+CASE 1
+
+A 45-year-old woman presented with progressive limb weakness after a preceding upper respiratory infection. Nerve conduction studies confirmed acute motor axonal neuropathy (AMAN). She was treated with IVIg (0.4 g/kg/day for 5 days).
+
+On day 3 of IVIg treatment, she developed severe headache, visual loss, and generalized tonic-clonic seizures. Blood pressure was markedly elevated. Brain MRI showed bilateral parieto-occipital hyperintensities consistent with PRES. CT angiography revealed diffuse vasoconstriction consistent with reversible cerebral vasoconstriction syndrome (RCVS).
+
+Despite treatment with antihypertensives and antiepileptics, her condition deteriorated. Follow-up imaging revealed hemorrhagic transformation of the PRES lesions. The patient died from progressive neurological deterioration.
+
+CASE 2
+
+A 59-year-old woman developed progressive ascending weakness and sensory symptoms. Nerve conduction studies confirmed AIDP. She received IVIg treatment.
+
+On day 4 of treatment, she developed bilateral cortical blindness with elevated blood pressure. Brain MRI showed bilateral occipital lesions, but atypically, these demonstrated restricted diffusion (cytotoxic edema) rather than the vasogenic edema typical of PRES. This pattern suggested irreversible ischemic injury.
+
+She was treated with blood pressure management and antiepileptics. While GBS improved with subsequent plasma exchange, she was left with permanent bilateral visual field deficits.
+
+DISCUSSION
+
+The authors reviewed the literature on PRES in GBS and identified approximately 30 reported cases. They challenge the prevailing view that IVIg is the primary trigger for PRES in GBS patients, noting:
+
+1. Several cases of PRES occurred before IVIg administration
+2. PRES has occurred in GBS patients treated with plasma exchange instead of IVIg
+3. The pathogenesis likely involves multiple factors:
+   - Autonomic dysfunction causing hypertensive crises
+   - Immune-mediated endothelial dysfunction
+   - Blood-brain barrier disruption from inflammatory cytokines
+   - Direct immune attack on cerebral vasculature
+
+The authors emphasize that PRES-RCVS overlap represents a particularly severe phenotype with higher risk of hemorrhagic complications and poor outcomes. They recommend:
+- Close blood pressure monitoring in all GBS patients
+- High clinical suspicion for PRES in GBS patients developing headache, visual changes, or seizures
+- Urgent neuroimaging including DWI sequences to differentiate vasogenic from cytotoxic edema
+- Consideration that cytotoxic edema pattern may indicate irreversible injury
+
+CONCLUSION
+
+GBS should be considered an independent risk factor for PRES, beyond the contributions of dysautonomia and IVIg treatment. The immune dysregulation inherent to GBS may directly compromise cerebrovascular endothelial integrity. Clinicians should maintain high vigilance for this rare but potentially fatal complication.
+
+REFERENCES
+
+1. Fugate JE, Rabinstein AA. Posterior reversible encephalopathy syndrome: clinical and radiological manifestations, pathophysiology, and outstanding questions. Lancet Neurol. 2015;14:914-25.
+2. Hinchey J, Chaves C, Appignani B, et al. A reversible posterior leukoencephalopathy syndrome. N Engl J Med. 1996;334:494-500.
+3. Chen A, Kim J, Henderson G, Berkowitz A. Posterior reversible encephalopathy syndrome in Guillain-Barre syndrome. J Clin Neurosci. 2015;22:914-6.
+4. Bavikatte G, Gaber T, Eshiett MU. Posterior reversible encephalopathy syndrome as a complication of Guillain-Barre syndrome. J Clin Neurosci. 2010;17:924-6.
+5. Storti B, Vedovello M, Riva R, et al. Posterior reversible encephalopathy and Guillain-Barre syndrome: which came first, the chicken or the egg? Neurol Sci. 2020;41:3661-7.

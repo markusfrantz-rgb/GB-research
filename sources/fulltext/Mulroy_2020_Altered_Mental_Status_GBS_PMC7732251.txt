@@ -1,0 +1,89 @@
+Altered Mental Status in "Guillain-Barre Syndrome" -- A Noteworthy Clinical Clue
+
+Authors: Eoin Mulroy, Neil E Anderson
+Journal: Annals of Clinical and Translational Neurology
+Year: 2020 (November 2), Volume 7, Issue 12, Pages 2489-2507
+DOI: 10.1002/acn3.51226
+PMID: 33136342
+PMCID: PMC7732251
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The authors challenge the conventional view of GBS as purely a peripheral nervous system disorder. They note that "central nervous system involvement, often manifesting as derangements in mental status can occur as a complication" of GBS, its variants, and related mimic conditions. The review provides clinicians with a systematic approach to evaluating cases where altered mental status accompanies GBS presentation.
+
+INTRODUCTION
+
+Guillain-Barre syndrome represents "the commonest cause of acute flaccid quadriparesis in the developed world." The authors observe that mental status changes frequently accompany GBS presentations: "central nervous system dysfunction is classically considered not to be a part of GBS. However, in our experience, it is not uncommon for alterations in mental status to be present."
+
+FRAMEWORK: FOUR CENTRAL CLINICAL QUESTIONS
+
+1. Could mental status changes be intrinsic to GBS itself?
+2. Could treatment be responsible?
+3. Could this represent a GBS variant?
+4. Could this indicate a different diagnosis entirely?
+
+SECTION 1: MENTAL STATUS CHANGES AS PART OF GBS
+
+Intrinsic Neuropsychiatric Manifestations:
+- Almost one third of GBS patients have mental status abnormalities
+- Manifestations include "hypnagogic or hypnopompic vivid dreams," visual and tactile hallucinations, and delusions
+- Symptoms typically peak around one week after disease onset
+
+Metabolic Disturbances:
+- SIADH affects approximately 50% of GBS patients
+- CO2 narcosis from hypoventilation (25% require ventilation)
+- Symptomatic hyponatremia produces altered mental status, seizures, and occasionally coma
+
+Autonomic Dysfunction:
+- Present in at least two thirds of cases
+- PRES: "headache, nausea, vomiting, visual changes, seizures, encephalopathy, and focal neurologic deficits alongside radiologic evidence of vasogenic edema predominating in posterior brain regions"
+- Mechanism: "rapidly developing hypertension with failure of cerebral autoregulation"
+- Most cases of GBS-related PRES have occurred in women aged > 55 years
+
+SECTION 2: TREATMENT-RELATED COMPLICATIONS
+
+IVIg Adverse Effects:
+- Thrombotic events (1-16% incidence) within 24 hours of administration
+- Aseptic meningitis (0.5-1%) generally within 48 hours of infusion start
+- PRES through hemodynamic mechanisms
+- CSF shows neutrophilic pleocytosis, elevated protein, high opening pressure
+
+Analgesic and Sedative Medications:
+- Pregabalin, gabapentin may alter mental status
+- Sedative withdrawal in ventilated patients
+
+SECTION 3: GBS VARIANTS -- ANTI-GQ1B DISEASE
+
+The anti-GQ1b antibody spectrum:
+- Miller-Fisher Syndrome: ataxia, areflexia, ophthalmoplegia
+- Bickerstaff's Brainstem Encephalitis: external ophthalmoplegia AND either altered consciousness or hyperreflexia
+- Up to 50% of BBE patients have coexisting GBS
+- 25-30% display nonspecific MRI abnormalities: T2 hyperintensities in brainstem, thalamus, cerebellum, or cerebral white matter
+
+SECTION 4: GBS MIMICS -- THE MIND CLASSIFICATION
+
+M: Metabolic + Malignancy (porphyria, thyrotoxicosis, leptomeningeal metastases, paraneoplastic)
+I: Infectious/Immune/Inherited (enteroviruses, flaviviruses, rabies, HIV, CMV, VZV, Lyme, vasculitides, autoimmune encephalitides, CMT 1X)
+N: Nutritional (thiamine deficiency/Wernicke's)
+D: Drugs/toxins (arsenic, thallium, glycol, iatrogenic)
+
+KEY CLINICAL PEARLS
+
+- PRES is an important but underrecognized complication of GBS
+- Altered mental status in GBS should NOT be assumed to be part of the peripheral disease
+- SIADH is very common in GBS (50%) and can cause altered consciousness
+- Anti-GQ1b spectrum (BBE) should be considered when GBS presents with altered consciousness
+- A structured approach (MIND framework) helps distinguish GBS from mimics
+- Many GBS + CNS disorders are treatable, with outcomes dependent on early recognition
+- IVIg-induced aseptic meningitis occurs in 0.5-1% of patients
+- Thrombotic complications of IVIg (1-16%) can cause CNS symptoms
+
+CONCLUSION
+
+"While GBS itself can occasionally produce mental status alterations, this should remain a diagnosis of exclusion. Significant depression in level of consciousness, seizures, movement disorders as well as immunosuppression and at-risk travel histories should prompt exhaustive searches for alternative explanations."
+
+"Many GBS + CNS disorders are treatable, with patient outcomes being critically dependent on early recognition. A structured approach such as that presented here is therefore paramount."
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7732251/

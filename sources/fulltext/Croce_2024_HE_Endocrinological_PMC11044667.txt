@@ -1,0 +1,42 @@
+Hashimoto's encephalopathy: an endocrinological point of view
+Croce L, Dal Molin M, Teliti M, Rotondi M
+Frontiers in Endocrinology. 2024;15:1367817
+PMID: 38665262 | PMCID: PMC11044667 | DOI: 10.3389/fendo.2024.1367817
+
+OVERVIEW
+HE from an endocrine specialist's perspective. Prevalence ~2.1 per 100,000. Strong female predominance (4-5x). Typical onset ages 45-55.
+
+CLINICAL PHENOTYPES
+1. Vasculitic type: stroke-mimicking episodes, relapsing-remitting course
+2. Diffuse progressive type: insidious onset with progressive cognitive decline
+Up to 30% of HE patients present as euthyroid.
+
+DIAGNOSTIC CRITERIA (Graus revised)
+- Subacute cognitive or seizure onset
+- Euthyroid status or mild hypothyroidism
+- Elevated TPO antibodies (>200 IU/mL)
+- Absent neuronal antibodies
+- Exclusion of alternative causes
+
+KEY FINDING: Mayo Clinic Study
+2020 study revealed 73% of initially diagnosed HE patients received alternative diagnoses after comprehensive evaluation. This highlights low specificity of thyroid antibodies -- over 10% of healthy individuals carry detectable anti-thyroid antibodies.
+
+PATHOGENIC MECHANISMS (proposed)
+- Autoimmune CNS vasculitis
+- Cross-reactive antigens between thyroid and brain tissue
+- Demyelination
+- Potential TRH toxicity
+- IgG4-related inflammation
+
+TREATMENT
+First-line: high-dose IV methylprednisolone (500-1000 mg weekly) then oral prednisone (1-2 mg/kg/day) with gradual taper.
+Only 31% of HE patients fully respond to steroids (contradicting "steroid-responsive" designation).
+Alternatives: azathioprine, rituximab, methotrexate, mycophenolate mofetil.
+Emerging therapies target B cells, complement cascades, IL-6 pathways.
+
+CRITICAL CONCLUSIONS
+1. HE is a neurological disorder, not primarily endocrinological
+2. Autoimmune etiology supported by female predominance and antibody presence
+3. Thyroid antibody titers show NO correlation with symptom severity -- antibodies are "an epiphenomenon rather than a causative factor"
+4. Steroid-resistance in some patients indicates HE encompasses broader pathological spectrum
+5. Seronegative autoimmune encephalitis possibilities remain inadequately explored

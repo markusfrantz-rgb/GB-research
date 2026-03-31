@@ -1,0 +1,75 @@
+Combined central and peripheral demyelination: a case report resembling encephalomyeloradiculoneuropathy
+Frontiers in Neurology 2024;14:1288546
+Authors: Xuan Zhou, Ali Peng, Chuan Li, Lin Li, Dan Yao, Yunfeng Hao, Chao Zhao, Qi Yan, Ying Li, Juntong Liu, Shuyu Liu, Wenping Zhu, Ying Du, Wei Zhang
+PMID: 38292033 | PMCID: PMC10825037 | DOI: 10.3389/fneur.2023.1288546
+
+=== ABSTRACT ===
+
+A 14-year-old teenager initially presented with symptoms of acute myelitis (AM), followed by GBS manifestations. Hepatitis E virus infection appeared to trigger the GBS component. The patient responded well to corticosteroids, IVIg, and Rituximab, demonstrating the potential responsiveness and reversibility of CCPD.
+
+=== CLINICAL PRESENTATION ===
+
+Patient: 14-year-old male
+Preceding event: Hepatitis E virus (HEV) infection
+
+Symptoms:
+- Weakness and tingling in lower extremities
+- Urinary retention
+- Progressed to tetraplegia
+
+=== DIAGNOSTIC FINDINGS ===
+
+Imaging:
+- Spinal cord edema without obvious enhancement
+- Normal brain MRI initially
+
+CSF:
+- Protein-cytological dissociation
+
+NCS:
+- Demyelinating polyneuropathy
+
+Laboratory:
+- Elevated transaminases (ALT 205 U/L, AST 60 U/L)
+- HEV infection confirmed
+- Anti-AQP4: Negative
+- Anti-MOG: Negative
+
+=== TREATMENT COURSE ===
+
+Phase 1: IV methylprednisolone
+- Partial improvement only
+
+Phase 2: IVIg added
+- Better response
+- Full strength (5/5) recovered in all upper extremity muscle groups
+
+Phase 3: Rituximab infusions added
+- Sustained improvement at 4-month follow-up
+
+=== DISCUSSION ===
+
+Key points:
+
+1. No standardized criteria exist for diagnosing CCPD
+2. Distinction between CCPD and encephalomyeloradiculoneuropathy (EMRN) is unclear
+3. HEV-GBS association: HEV infection responsible for 5-11% of sporadic GBS cases in developed countries
+4. Molecular mimicry and direct neuronal infection are potential pathways
+
+Treatment hierarchy for CCPD:
+1. First-line: IV methylprednisolone (for CNS component)
+2. Add IVIg if incomplete response (for PNS component)
+3. Rituximab as secondary treatment for poor responders
+4. Aggressive immunomodulation when standard therapies insufficient
+
+=== CLINICAL RELEVANCE ===
+
+This case demonstrates:
+1. Stepwise escalation of immunotherapy is effective
+2. Corticosteroids alone may provide only partial benefit in CCPD
+3. IVIg addresses the PNS component that steroids alone cannot
+4. Rituximab offers a safety net for sustained immunosuppression
+5. Complete recovery is possible with aggressive combined treatment
+6. HEV should be tested as a triggering infection
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC10825037/

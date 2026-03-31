@@ -1,0 +1,76 @@
+Corticosteroids for Guillain-Barré syndrome
+Cochrane Database of Systematic Reviews 2016(10): CD001446
+Authors: Richard AC Hughes, Ruth Brassington, Angela A Gunn, Pieter A van Doorn
+PMID: 27775812 | PMCID: PMC6464149 | DOI: 10.1002/14651858.CD001446.pub5
+
+=== ABSTRACT ===
+
+Background: Guillain-Barré syndrome (GBS) is an acute paralysing peripheral nerve disease. It is probably caused by an autoimmune response to an infection. Corticosteroids have been used to treat GBS but their benefit is uncertain.
+
+Objectives: To examine the effects of corticosteroids on the course of GBS.
+
+Search methods: We searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, and two trials registries on 29 August 2016.
+
+Selection criteria: Randomised and quasi-randomised trials of any form of corticosteroid or adrenocorticotrophic hormone (ACTH) given in any way for GBS.
+
+Data collection and analysis: Two review authors independently assessed trial quality and extracted data.
+
+Main results: We identified six trials with 587 randomised participants. The disability grade change after four weeks showed no significant difference between treatment groups across the combined analysis (moderate quality evidence).
+
+=== KEY FINDINGS ===
+
+PRIMARY OUTCOME - Change in disability grade after 4 weeks:
+- Six trials with 587 participants
+- No significantly different change in disability grade after four weeks
+- Mean difference (MD) 0.07 (95% CI -0.21 to 0.35)
+
+ROUTE-SPECIFIC RESULTS:
+- ORAL corticosteroids: In four trials with 120 participants, there was significantly LESS improvement after four weeks with corticosteroids than without (MD 0.82, 95% CI 0.17 to 1.47)
+- IV methylprednisolone: In two trials with 467 participants, intravenous methylprednisolone alone did not produce significant benefit or harm (MD -0.13, 95% CI -0.40 to 0.14)
+
+IV METHYLPREDNISOLONE + IVIg COMBINATION:
+- One large trial (van Koningsveld 2004) compared IVIg plus IV methylprednisolone (MP) vs IVIg plus placebo in 225 participants
+- After adjustment for prognostic factors (age, disability grade), the odds of improvement by one or more grades was higher with IV MP (adjusted OR 1.89, 95% CI 1.04 to 3.45, p=0.03)
+- This suggests the combination may hasten recovery but does not significantly affect long-term outcome
+
+SECONDARY OUTCOMES:
+- Time to unaided walking: No significant difference
+- Time to discontinuation of ventilation: No significant difference
+- Mortality at 12 months: No significant difference
+- Disability grade at 12 months: No significant difference
+- Relapse within 12 months: No significant difference
+
+ADVERSE EFFECTS:
+- Diabetes requiring insulin: Significantly more common with corticosteroids (RR 2.21, 95% CI 1.17 to 4.17)
+- Hypertension: Less common than expected with corticosteroids
+- Gastrointestinal bleeding: No significant difference
+
+=== AUTHORS' CONCLUSIONS ===
+
+Corticosteroids given alone do not significantly hasten recovery from GBS or affect the long-term outcome. Moderate quality evidence from two trials with 467 participants does not show significant benefit from intravenous methylprednisolone alone. Low quality evidence from four trials of oral corticosteroids with 120 participants shows significantly less improvement after four weeks with corticosteroids than without.
+
+There is moderate quality evidence from one trial of 225 participants that intravenous methylprednisolone given with intravenous immunoglobulin speeds recovery. However, the significance of this result depended upon adjustment for prognostic factors and it was not statistically significant for the primary outcome measure.
+
+Current evidence does not support the use of corticosteroids alone for the treatment of GBS. There may be a modest short-term benefit from the combination of intravenous methylprednisolone and IVIg, but more research is needed.
+
+=== INCLUDED TRIALS ===
+
+1. Hoang-Xuan 1996: Randomised, double-blind. 15 patients. IVIg + IV MP 0.5 g/d x 5d vs IVIg + placebo.
+2. Hughes 1978: Randomised, double-blind. 40 patients. Oral prednisolone 60 mg/d x 5w vs placebo.
+3. Guillain-Barré Syndrome Steroid Trial Group 1993: Randomised, double-blind. 242 patients. IV MP 500 mg/d x 5d vs placebo.
+4. Dutch GBS Study Group 1994: Randomised, open. 25 patients. Oral dexamethasone pulse therapy.
+5. Korinthenberg 2005: Randomised, double-blind. 40 patients. IV dexamethasone 0.6 mg/kg/d vs placebo (children).
+6. van Koningsveld 2004: Randomised, double-blind. 225 patients. IVIg 0.4 g/kg/d x 5d + IV MP 0.5 g/d x 5d vs IVIg + placebo.
+
+=== CLINICAL IMPLICATIONS ===
+
+The key clinical message from this Cochrane review:
+1. Corticosteroids alone should NOT be used for GBS
+2. Oral corticosteroids may actually worsen outcomes
+3. IV methylprednisolone alone shows no significant benefit or harm
+4. IV methylprednisolone COMBINED with IVIg may modestly hasten recovery (one trial, adjusted analysis)
+5. The combination does not appear to affect long-term outcomes
+
+IMPORTANT EXCEPTION: This review addresses "pure" GBS. In overlap syndromes (ADEM + GBS, BBE + GBS), the treatment paradigm differs because the CNS component typically requires corticosteroids.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6464149/

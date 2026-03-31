@@ -1,0 +1,37 @@
+Central nervous system pathology in patients with the Guillain-Barre syndrome
+
+Authors: H Maier, M Schmidbauer, B Pfausler, E Schmutzhard, H Budka
+Journal: Brain
+Year: 1997
+PMID: 9126057
+DOI: 10.1093/brain/120.3.451
+
+AUTOPSY STUDY - 13 PATIENTS
+
+This landmark autopsy study examined brain and spinal cord changes alongside peripheral nervous system involvement in 13 GBS patients.
+
+KEY FINDINGS
+
+CNS pathology is frequent in patients with Guillain-Barre syndrome:
+
+- Mononuclear infiltrates in spinal cord: 8/13 cases (62%)
+- Mononuclear infiltrates in brainstem structures
+- Microglial activation: 11/13 cases (85%)
+- Myelin loss in PNS: 12/13 cases (92%)
+
+Distribution of CNS changes:
+- Spinal cord
+- Medulla oblongata
+- Pons
+- Subependymal rims along ventricular walls
+
+T lymphocyte composition: Both CD4+ and CD8+ cells in similar proportions.
+
+CRITICAL CONCLUSION
+
+Inflammatory reactions in the central nervous system resemble those in the peripheral nervous system, HOWEVER "primary demyelination is not found in the CNS."
+
+This means:
+1. CNS inflammation occurs in GBS but does not cause demyelination
+2. CNS MRI abnormalities in GBS may reflect inflammation/microglial activation without demyelination
+3. This is fundamentally different from conditions like ADEM or MS where CNS demyelination is the primary pathology

@@ -1,0 +1,40 @@
+Guillain-Barre Syndrome Associated with Central Nervous System Lesions
+
+Authors: A Okumura, H Ushida, K Maruyama, K Itomi, Y Ishiguro, M Takahashi, A Osuga, T Negoro, K Watanabe
+Journal: Archives of Disease in Childhood
+Year: 2002 (April), Volume 86, Issue 4, Pages 304-306
+DOI: 10.1136/adc.86.4.304
+PMID: 11919115
+PMCID: PMC1719164
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+This case report describes a pediatric patient with an unusual presentation combining Guillain-Barre syndrome with central nervous system involvement. During immunoglobulin treatment, the patient developed "headache with meningism." Brain imaging revealed focal lesions in the frontal and right occipital lobes.
+
+KEY FINDINGS
+
+MRI Results:
+- High intensity areas in the deep white matter in the bilateral frontal lobes
+- Abnormal signal in the cortex and subcortex in the right occipital lobe
+- Follow-up imaging showed cavity formation in the deep white matter
+- Atrophic changes in the right occipital lobes documented one year post-discharge
+
+CSF Analysis:
+- Raised protein concentration accompanied by mild pleocytosis
+
+Clinical Course:
+- Recovery occurred within two months
+- Permanent imaging changes (cavity formation, atrophy) despite clinical recovery
+
+CLINICAL SIGNIFICANCE
+
+1. GBS can be associated with true CNS white matter lesions
+2. These lesions can occur in frontal and occipital lobes
+3. CNS involvement may present during IVIg treatment (though causality is uncertain)
+4. Permanent structural brain changes can persist even after clinical recovery
+5. The combination of peripheral neuropathy and CNS lesions suggests shared pathogenic mechanisms
+6. Mild pleocytosis (unusual for GBS) may indicate CNS inflammatory involvement
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC1719164/

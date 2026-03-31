@@ -1,0 +1,28 @@
+Immunoglobulin A Antibodies Against Myelin Oligodendrocyte Glycoprotein in a Subgroup of Patients With Central Nervous System Demyelination
+
+Authors: Ana Beatriz Ayroza Galvao Ribeiro Gomes, Laila Kulsvehagen, Patrick Lipps, Alessandro Cagol, Nuria Cerda-Fuertes, Tradite Neziraj, Julia Flammer, Jasmine Lerner, Anne-Catherine Lecourt, Nina de Oliveira S Siebenborn, Rosa Cortese, Sabine Schaedelin, [et al.]
+Journal: JAMA Neurology
+Year: 2023; Volume: 80: 989-995
+PMID: 37548987 | PMCID: PMC10407763 | DOI: 10.1001/jamaneurol.2023.2523
+
+ABSTRACT
+
+The study identified MOG-specific IgA antibodies in patients with CNS demyelination who tested negative for conventional biomarkers (AQP4-IgG and MOG-IgG). Among 1,339 patients screened, isolated MOG-IgA was identified in 18 patients (1.6%) who were double-seronegative. MOG-IgA was absent in all CSF samples tested (n=25) and serum controls (n=110).
+
+KEY FINDINGS
+
+Frequency: Among double-seronegative patients, isolated MOG-IgA appeared in approximately 1-6% across disease types.
+
+Clinical Characteristics of MOG-IgA patients:
+- Myelitis was the most common manifestation: 65% (11/17)
+- Brainstem syndrome: 44% (vs 19% in MOG-IgG patients)
+- Optic neuritis: 27% (vs 63% in MOG-IgG patients - notably less common)
+- Less frequent CSF-specific oligoclonal bands: 44% (vs 93% in seronegative MS)
+
+CLINICAL IMPLICATIONS
+
+MOG-IgA may serve as a novel biomarker for distinguishing a specific subgroup within the challenging population of double-seronegative demyelinating disease patients. This potentially improves diagnostic accuracy and patient stratification for treatment decisions.
+
+RELEVANCE TO IgA DEFICIENCY
+
+This study demonstrates that IgA antibodies can target MOG, raising the question of how selective IgA deficiency might alter the pathogenic antibody repertoire in demyelinating disease. Patients with IgA deficiency would be unable to produce these MOG-IgA antibodies, potentially affecting disease phenotype or susceptibility patterns.

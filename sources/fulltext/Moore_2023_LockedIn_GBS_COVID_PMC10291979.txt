@@ -1,0 +1,69 @@
+Locked-In Presentation of Guillain-Barre Syndrome Following SARS-COVID-19 Infection
+
+INTRODUCTION
+
+Guillain-Barre Syndrome (GBS) is an autoimmune-mediated polyneuropathy that is typically characterized by ascending flaccid weakness and loss of deep tendon reflexes. This condition is triggered by a preceding infection, often viral, in two-thirds of cases. GBS is the most common acute paralytic neuropathy, with almost 100,000 cases worldwide each year. However, a wide range of symptoms exist, many of which overlap with other critical illnesses. This creates a challenge in diagnosis, as other disorders must be ruled out, which may cause a delay in appropriate treatment.
+
+Although the relative novelty of the SARS-COVID-19 virus limited the amount of data available, neurologic sequelae resulting from this virus are appearing in the literature. The majority of reported cases of COVID-associated GBS have presented with the classic features and response to standard treatment. The median onset of GBS symptoms is about two weeks following the start of COVID symptoms, which coincides with the phase of the illness where respiratory failure and multiorgan dysfunction typically peak. Thus, in critically ill COVID patients, the weakness from GBS may be attributed to critical illness neuropathy and left undiagnosed, leading to worsening disease and difficulty weaning from mechanical ventilation.
+
+This case report described a rare presentation of GBS following COVID-19 infection.
+
+CASE REPORT
+
+A 56-year-old male with a past medical history of asthma on daily steroid inhaler, hypertension, hyperlipidemia, gastroesophageal reflux disease, and diet-controlled type II diabetes mellitus was admitted for severe hypoxic respiratory failure secondary to COVID-19 infection. He ultimately required a tracheostomy for ventilator dependence. He received a long course of steroids, given both intravenously and via gastrostomy tube, in addition to antibiotics for ventilator associated pneumonia.
+
+Initially, the patient was alert, followed commands, and communicated while on the ventilator via nonverbal mouthing and gesturing. He gradually became less responsive and a magnetic resonance image (MRI) of the brain revealed small multifocal acute on subacute non-hemorrhagic infarcts, attributed to COVID-related coagulopathy. One week later, he had two episodes of seizure-like activity without electroencephalogram evidence of true seizures. A computed tomography of the head was obtained, showing substantial adverse change with diffuse bilateral hypodensities.
+
+The patient was transferred to the Neurocritical Care Unit, where standard stroke workup was unremarkable. Follow-up non-contrast MRI brain showed multifocal T2 hyperintensities, suggesting leukoencephalopathy (Figure 1). Cerebral spinal fluid (CSF) studies were negative for infectious process but showed albuminocytologic dissociation typical of GBS. The CSF protein content was four times the upper limit of normal at 419 mg/dL, and although the white blood cell count was elevated (18 × 109/L) marginally, the lymphocyte count was extremely low (3%).
+
+At that time the patient could open his eyes, exhibiting visual tracking and blinking for communication, but otherwise could not move. He was awake and followed simple commands in the form of eye motion, with extraocular movements intact to vertical and lateral gaze. Additional neurologic exam findings included pupils equal and reactive to light, intact blink response to visual threat, bulbar weakness with no palate elevation or gag reflex, 0/5 motor strength in all extremities, absent deep tendon reflexes in all extremities, and negative Babinski reflex.
+
+With this progressive weakness and preserved consciousness leading to “locked-in” presentation, there was suspicion for demyelinating disease. He had a contrast-enhanced MRI of his brain and lumbar spine that provided no definitive results. The decision was made to proceed with intravenous immune globulin (IVIG) therapy to treat suspected GBS. The patient showed mild improvements in alertness, nonverbal communication, and strength in his extremities following IVIG treatment (0.4g/kg daily for five days).
+
+Although he remained very weak, he regained enough oral-bulbar strength to mouth words for communication, move his tongue on command, and swallow, along with return of his gag reflex. He exhibited 2/5 motor strength bilateral lower extremities, 2/5 strength in proximal upper extremities with improvement to 3/5 strength in hand grip and wrist extension bilaterally. After treatment, he was stable for discharge to a long-term acute care facility for continued rehabilitation.
+
+DISCUSSION
+
+Although GBS is considered a clinical diagnosis, useful ancillary tests include cerebrospinal fluid studies, electromyography, nerve conduction studies, and MRI. Albuminocytologic dissociation (increased total protein concentration with a normal total nucleated cell count) in the CSF is a hallmark finding of GBS and was the first clue to our patient’s diagnosis. Nerve conduction studies and needle myography are useful in distinguishing acute demyelinating neuropathy from axonal injury or neuromuscular junction disorders. While testing could have contributed to the diagnosis, our patient did not undergo neuromuscular studies due to logistical challenges as well as an already high suspicion for demyelinating disease. Finally, the classic MRI finding of GBS is marked enhancement of spinal nerve roots on a contrast-enhanced study, especially seen in the conus medullaris and cauda equina. Our patient did not exhibit these characteristic findings on MRI, however, normal imaging cannot rule out GBS, particularly in COVID-related cases.
+
+Given this patient’s prolonged and complex hospitalization, other diagnoses were considered for his profound weakness, including critical illness myopathy or corticosteroid-induced myopathy. With the initial decrease in mental status and non-contrast MRI findings suggestive of leukoencephalopathy, the differential also included COVID-19 associated encephalopathy or atypical presentation of posterior reversible encephalopathy syndrome. These latter conditions became less likely as the patient’s mental status improved with worsening motor strength and reflexes. The additional workup continued while enhancing his nutritional support and providing rehabilitative therapies. Although the development of his presentation was multifactorial, there were enough findings to support an autoimmune component, further substantiated by his improvement in strength directly following immunotherapy.
+
+Treatment goals for GBS emphasize early initiation of IVIG or plasmapheresis to prevent permanent nerve damage and decrease overall severity of the disease. Traditionally, these therapies have been considered equally efficacious. However, more recent studies suggested that IVIG may have better outcomes, most notably in mechanically ventilated adult patients. This patient received IVIG due to concerns that his fragile hemodynamic state would not tolerate the rapid fluid shifts associated with plasmapheresis.
+
+Respiratory failure is a widely recognized complication of GBS, occurring in 20–30% of cases. COVID patients are already at increased risk of respiratory compromise, thus GBS is an important etiology to consider in the differentials for weakness to avoid delays in treatment and prevent the need for further ventilatory support. Lumbar puncture for CSF studies is the first step in diagnosis, and this basic test can be done early in the work-up to facilitate prompt diagnosis and treatment, especially for patients with severe manifestations of GBS.
+
+Additionally, patients without an otherwise identifiable cause for GBS should be screened for COVID, as the autoimmune reaction can occur even in the absence of infectious symptoms. The prevalence of COVID-associated GBS has declined since the introduction of COVID vaccines, however, cases are still being reported. Furthermore, investigations are underway to determine the risk of GBS resulting from the COVID vaccine itself. Preliminary data indicated a potential increased risk of GBS following the Janssen® vaccination but no difference in risk for the mRNA vaccines.
+
+The case described above occurred in the very early months of the COVID pandemic, prior to vaccinations or much knowledge of neurologic sequelae related to this virus. Now that GBS is a better-known complication of COVID, future patients who present in a similar manner can be evaluated more deliberately with this disease on the differential.
+
+REFERENCES
+
+Guillain-Barré syndrome following COVID-19: New infection, old complication?
+
+Guillain-Barré syndrome
+
+Pathophysiology and diagnosis of Guillain–Barré syndrome – challenges and needs
+
+Guillain–Barré syndrome spectrum associated with COVID-19: An up-to-date systematic review of 73 cases
+
+Prevalence, clinical characteristics and outcomes of Guillain-Barré syndrome spectrum associated with COVID-19: A systematic review and meta-analysis
+
+Guillan-Barré Syndrome
+
+Cerebrospinal fluid analysis in Guillain-Barré syndrome: Value of albumin quotients
+
+Spinal MRI findings of Guillain-Barré syndrome
+
+Guillain-Barré Syndrome associated with SARS-CoV-2
+
+IVIg versus plasmapheresis outcomes and costs in patients diagnosed with Guillian-Barré Syndrome (2009–2013) A New York Statewide Planning and Research Cooperation System Database report
+
+Intensive care and treatment of severe Guillain–Barré Syndrome
+
+COVID-19 associated Guillain-Barré Syndrome: A report of nine new cases and a review of the literature
+
+SARS-CoV-2 vaccinations reduce the prevalence of post-COVID Guillain-Barré syndrome
+
+Incidence of Guillain-Barré Syndrome after COVID-19 vaccination in the Vaccine Safety Datalink
+
+Magnetic resonance imaging of the brain without contrast showed development of extensive predominance of supratentorial and deep white matter T2 hyperintensities with a pattern distribution suggestive of leukoencephalopathy.

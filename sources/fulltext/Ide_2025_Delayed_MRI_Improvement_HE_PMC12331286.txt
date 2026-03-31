@@ -1,0 +1,17 @@
+Title: Delayed Improvement of Magnetic Resonance Imaging Findings in Hashimoto's Encephalopathy
+Authors: Ide T, Inoue Y, Suzuyama K et al.
+Journal: Intern Med. 2025;64(14):2179-2184
+PMID: 39721683
+PMCID: PMC12331286
+DOI: 10.2169/internalmedicine.4704-24
+Source: PubMed Central (Open Access)
+
+---
+
+
+A 59-year-old man with a history of cerebral contusion in the left frontal lobe was urgently admitted to our hospital because of cognitive impairment that had developed over the past month and sudden onset of generalized seizures. Fluid-attenuated inversion recovery imaging (FLAIR)-magnetic resonance imaging (MRI) showed white matter hyperintensities (WMH) that had not been apparent before admission (Picture 1A, B). Electroencephalography revealed lateralized periodic discharges in the right cerebral hemisphere (Picture 2A). Serum anti-thyroglobulin and anti-thyroid peroxidase antibody titers were elevated. Furthermore, anti-NH2-terminal α-enolase antibody was positive. After steroid pulse therapy, neurological symptoms and electroencephalographic findings (Picture 2B) improved rapidly. Hashimoto's encephalopathy was diagnosed based on the criteria proposed in (1). With continuous oral prednisolone, the patient was able to return to work four months after admission with no sequelae. However, the WMH remained unchanged, even at this point (Picture 1C). MRI acquired after a further two months showed marked improvement in the WMH (Picture 1D). It should be recognized that, in cases of Hashimoto's encephalopathy, improvement in imaging findings may require considerable time.
+Picture 1.Picture 2.
+Written informed consent was obtained from the patient for the publication of this report in accordance with the journal's patient consent policy.
+
+The authors state that they have no Conflict of Interest (COI).
+

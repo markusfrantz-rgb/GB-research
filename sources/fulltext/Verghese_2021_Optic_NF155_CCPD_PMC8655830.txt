@@ -1,0 +1,39 @@
+Optic Nerve Demyelination in IgG4 Anti-Neurofascin 155 Antibody-Positive Combined Central and Peripheral Demyelination Syndrome
+
+Authors: Alice Verghese, Dhayalan Krishnan, Yuen Kang Chia, Luis Querol, Fu Liong Hiew
+Journal: Journal of Central Nervous System Disease, 2021;13:11795735211039913
+PMID: 34899003 | PMCID: PMC8655830 | DOI: 10.1177/11795735211039913
+
+CASE REPORTS
+
+Two patients with anti-NF155 CIDP demonstrated bilateral optic nerve demyelination.
+
+CASE 1: 25-year-old male
+- Progressive distal weakness, areflexia, sensory ataxia, finger tremors post-yellow fever vaccination
+- NCS: Definite CIDP criteria met
+- Anti-NF155 IgG4 positive (titre 1:24,300)
+- VEP: Prolonged P100 latencies (R 124.0 ms, L 132.0 ms) - bilateral optic nerve demyelination
+- Brain/spine MRI: Normal
+- IVIg + corticosteroids ineffective over 18 months
+- Stabilized on rituximab maintenance
+
+CASE 2: 26-year-old male
+- Progressive numbness, weakness, hand tremors post-febrile illness
+- NCS: Diffused demyelinating changes
+- Anti-NF155 IgG4 positive (titre 1:8,100)
+- VEP: Prolonged P100 bilaterally (R 118.2 ms, L 119.4 ms)
+- OCT: Moderate-to-severe RNFL thinning
+- Brain/spine MRI: Normal
+- Oral corticosteroids + azathioprine x 3 years: no improvement
+- IVIg: no response
+- Stabilized on plasma exchange + rituximab
+
+KEY FINDINGS:
+- Subclinical optic nerve demyelination in anti-NF155 CIDP = unrecognized CCPD
+- Studies show 47-77% of CCPD patients have abnormal VEP
+- Most are asymptomatic for visual complaints
+- Anti-NF155 antibodies found in up to 45% of Japanese CCPD cohorts
+- IVIg consistently poor response in NF155+ patients
+- Rituximab effective
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8655830/

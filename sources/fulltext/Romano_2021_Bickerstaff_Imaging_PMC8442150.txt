@@ -1,0 +1,96 @@
+Imaging Presentation of Bickerstaff Brainstem Encephalitis
+
+Authors: Nicola Romano, Margherita Federici, Antonio Castaldi
+Institution: Department of Diagnostic and Interventional Neuroradiology,
+E.O. Ospedali Galliera, Genoa, Italy
+Journal: The Neurohospitalist. 2021;11(4):370-372
+DOI: 10.1177/1941874421993671
+PMID: 34567402 | PMCID: PMC8442150
+
+Keywords: neuroradiology, magnetic resonance imaging, brain lesion, ophthalmoplegia
+
+CASE PRESENTATION
+
+Bickerstaff Brainstem Encephalitis (BBE) represents a rare autoimmune disease,
+firstly described in 1950s by Edwin Bickerstaff. The condition displays classical
+presentation involving ophthalmoplegia, ataxia and altered consciousness, with
+a good prognosis and frequent complete remission.
+
+A 38-year-old male presented with slurred speech, ataxia, ophthalmoplegia, and
+fever. He also reported difficulties in writing and playing the guitar.
+
+IMAGING FINDINGS
+
+Contrast-enhanced MRI revealed a small central lesion located in the midbrain:
+- Hyperintensity on FLAIR and T2-weighted images
+- Hypointensity on T1-weighted images
+- Restriction of diffusion
+- Peripheral contrast enhancement
+
+No additional brain lesions identified. Cervical spine MRI: no spinal cord
+abnormalities.
+
+LABORATORY AND DIAGNOSTIC STUDIES
+
+CSF analysis and EEG both normal. Serum antibody testing negative for IgG and
+IgM against gangliosides GM1, GM2, GD1a, GD1b, and GQ1b.
+
+CLINICAL COURSE AND TREATMENT
+
+IV corticosteroids administered. Progressive improvement with disappearance of
+symptoms in about 2 weeks from onset. Follow-up MRI at 1-month, 5-months, and
+1-year showed gradual regression of lesion. Patient completely asymptomatic with
+no successive relapses.
+
+DISCUSSION
+
+The pathophysiology of BBE is not fully understood; however an immune-mediated
+process triggered by an infective agent (Campylobacter jejuni, Mycoplasma
+pneumoniae, Haemophilus influenzae) seems to be at the base of this condition.
+
+Odaka et al. analysis of 62 BBE cases - most frequent manifestations:
+- Ataxia: 100%
+- Ophthalmoplegia: 100%
+- Disturbed consciousness: 74%
+- Limb weakness: 60%
+- Facial diplegia: 45%
+- Babinski's sign: 40%
+- Superficial sense impairment: 31%
+
+DIAGNOSTIC CONSIDERATIONS
+
+BBE diagnosis relies on clinical scenario, supported by MRI findings and
+neurophysiological studies. BBE and Miller Fisher Syndrome (MFS) are considered
+part of the same disease spectrum due to anti-GQ1b IgG antibodies (present in
+66% of BBE cases - this patient was negative).
+
+DIFFERENTIAL DIAGNOSIS
+
+MFS is a variant of GBS with clinical presentation similar to BBE (acute
+ophthalmoplegia and ataxia with areflexia/hyporeflexia) but with NO CENTRAL
+INVOLVEMENT and no disturbance of consciousness. MRI in MFS is typically normal
+as demonstrated in 99% of 353 patients (Ito et al.).
+
+NMOSD excluded due to absence of optic nerve and spinal cord lesions.
+
+KEY DISTINCTION: BBE vs MFS vs GBS
+- BBE: Central brainstem lesions + altered consciousness + ophthalmoplegia
+- MFS: No central lesions, no altered consciousness, ophthalmoplegia + ataxia
+- GBS: Peripheral nerve/root enhancement, no central lesions typically
+
+CONCLUSION
+
+MRI may have a key role during the diagnostic process and neuroradiologists
+should pay attention to isolated brainstem lesions considering BBE as a possible
+condition.
+
+REFERENCES
+
+1. Mondejar RR, et al. Neuroradiology. 2002;44(5):411-414.
+2. Shahrizaila N, Yuki N. J Neurol Neurosurg Psychiatry. 2013;84(5):576-583.
+3. Coriolani G, et al. Neurol Sci. 2020;41(6):1605-1606.
+4. Odaka M, et al. Brain. 2003;126(Pt 10):2279-2290.
+5. Matsumoto H, et al. Brain Dev. 2002;24(2):98-101.
+6. Ito M, et al. J Neurol. 2008;255(5):674-682.
+
+Open Access: Free PMC article

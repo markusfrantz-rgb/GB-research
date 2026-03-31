@@ -1,0 +1,36 @@
+Combined Central and Peripheral Demyelinating Disease With Good Response to B-Cell Depleting Therapy
+
+Authors: Seraj Makkawi, Faisal Yonbawi, Yousef Qari, Morad Aljinaid
+Journal: Cureus, 2021;13(4):e14690
+PMID: 34055534 | PMCID: PMC8153962 | DOI: 10.7759/cureus.14690
+
+ABSTRACT
+
+Combined central and peripheral demyelination (CCPD) is a rare neurological disorder affecting both the brain/spinal cord and peripheral nerves simultaneously.
+
+CASE REPORT
+
+A 29-year-old male presented with progressive limb weakness over three months, accompanied by facial and arm tremors and urinary hesitancy. Physical examination revealed absent deep tendon reflexes, bilateral foot drop, and an Expanded Disability Status Scale (EDSS) score of 6, indicating significant disability.
+
+DIAGNOSTIC FINDINGS
+
+Imaging Results:
+- Brain MRI showed demyelinating plaques in the corpus callosum, frontal lobe, and periventricular white matter
+- Spinal cord MRI revealed multilevel eccentric signal changes
+- Nerve conduction studies confirmed demyelinating polyneuropathy with severely prolonged distal motor latencies
+
+Laboratory Analysis:
+The patient tested negative for anti-neurofascin antibodies, aquaporin-4, and anti-MOG antibodies. Cerebrospinal fluid analysis showed elevated protein and IgG levels. Extensive workup excluded infections, vasculitis, and paraneoplastic syndromes.
+
+TREATMENT AND RESPONSE
+
+Initial treatments included plasmapheresis and corticosteroids, which provided temporary improvement. However, symptom deterioration occurred during steroid tapering. Intravenous immunoglobulin (IVIG) proved ineffective, and azathioprine caused liver dysfunction.
+
+Rituximab Success:
+The patient received two 1-gram doses of rituximab (a B-cell depleting monoclonal antibody) spaced two weeks apart. Following treatment, the patient demonstrated significant clinical improvement and the research team successfully reduced prednisone dosage from 60 mg to 10 mg. After one year, his EDSS score improved to 2.5, with only mild residual left ankle weakness.
+
+CLINICAL SIGNIFICANCE
+
+This case represents the first reported CCPD case from Saudi Arabia and demonstrates rituximab's therapeutic potential in this rare condition. The authors emphasize the necessity for larger studies to confirm rituximab's efficacy in CCPD management.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8153962/

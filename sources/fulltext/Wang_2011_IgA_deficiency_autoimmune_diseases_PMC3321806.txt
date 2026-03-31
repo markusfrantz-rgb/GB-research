@@ -1,0 +1,42 @@
+Selective IgA Deficiency in Autoimmune Diseases
+
+Authors: Ning Wang, Nan Shen, Timothy J Vyse, Vidya Anand, Iva Gunnarson, Gunnar Sturfelt, Solbritt Rantapaa-Dahlqvist, Kerstin Elvin, Lennart Truedsson, Bengt A Andersson, Charlotte Dahle, Eva Ortqvist, Peter K Gregersen, Timothy W Behrens, Lennart Hammarstrom
+Journal: Molecular Medicine
+Year: 2011; Volume: 17(11-12): 1383-1396
+PMID: 21826374 | PMCID: PMC3321806 | DOI: 10.2119/molmed.2011.00195
+
+ABSTRACT
+
+Selective IgA deficiency (IgAD) is the most common primary immunodeficiency in Caucasians. This study analyzed its prevalence across multiple autoimmune conditions including Graves disease, SLE, type 1 diabetes, celiac disease, myasthenia gravis, and rheumatoid arthritis. A possible common genetic background was identified, involving both MHC and non-MHC genes (IFIH1, CLEC16A).
+
+IgAD PREVALENCE
+
+General Caucasian population: 1 in 600
+Spain: 1 in 155
+Japan: 1 in 18,550
+
+ASSOCIATION WITH SPECIFIC DISEASES
+
+Graves Disease: ~1:60 in Swedish cohorts. HLA-DR3, DQ2 haplotype in 4/5 genotyped patients.
+
+Systemic Lupus Erythematosus: 1:67 in Caucasians, 1:121 in Chinese (among 3,388 SLE patients screened). Strong association.
+
+Type 1 Diabetes: 1:114 (Sweden), 1:122 (Italy). ~5-fold increase vs general population.
+
+Celiac Disease: 1:192 among 422,225 screened. 92% of positive cases had IgAD.
+
+Myasthenia Gravis: 5/1,107 (1:221). Prevalence not markedly increased.
+
+Rheumatoid/Juvenile RA: JRA 55/2,030 (1:37). Adult RA 19/3,694 (1:194).
+
+GENETIC ASSOCIATIONS
+
+MHC Region: HLA-B8, DR3, DQ2 ancestral 8.1 haplotype: up to 45% of IgAD patients have at least one copy (vs 16% controls). DR15, DQ6 haplotype confers almost complete protection.
+
+Non-MHC Genes:
+- IFIH1 (rs1990760): Associated with IgAD, T1D, SLE, possibly Graves disease
+- CLEC16A: Associated with IgAD, T1D, possibly SLE
+
+CONCLUSIONS
+
+IgAD may in fact be an autoimmune disease itself. A possible common genetic background underlies the associations between IgAD and autoimmune diseases, involving T-cell differentiation, cell activation/signaling, and innate immunity pathways.

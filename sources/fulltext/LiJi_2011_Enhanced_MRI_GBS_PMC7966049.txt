@@ -1,0 +1,27 @@
+The Diagnostic, Prognostic, and Differential Value of Enhanced MR Imaging in Guillain-Barre Syndrome
+
+Authors: H-f Li, X-j Ji
+Journal: AJNR American Journal of Neuroradiology
+Year: 2011
+PMID: 21596802
+PMCID: PMC7966049
+DOI: 10.3174/ajnr.A2620
+
+KEY FINDINGS
+
+Diagnostic Value:
+- 70.6% of GBS patients had elevated CSF protein
+- 85.7% had positive electrophysiologic findings
+- Asymptomatic enhancement of nerve roots had no clinical association
+- Questions additional diagnostic benefit beyond clinical evaluation, electrophysiology, and CSF
+
+Enhancement Patterns:
+Nerve root enhancement occurs due to blood-nerve barrier breakdown during inflammatory phase. Grading: absent, present, strongly present.
+
+Prognostic Value:
+- Prominent nerve root enhancement accompanied increased leg weakness severity
+- Correlation between intracranial findings and clinical outcomes poorly established
+- Outcome assessment requires adjustment for baseline severity, electrophysiologic classification, CSF protein, immunotherapy, and timing
+
+Differential Diagnosis (GBS vs CIDP):
+Enhanced MRI may help differentiate GBS from CIDP during recovery phase (6-8 weeks post-onset), when acute inflammation subsides in GBS while persisting in CIDP.

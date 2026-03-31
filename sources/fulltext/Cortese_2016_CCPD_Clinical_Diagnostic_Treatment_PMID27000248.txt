@@ -1,0 +1,472 @@
+Title: Cortese A, Franciotta D, Alfonsi E, et al
+Citation: Cortese A, Franciotta D, Alfonsi E, et al. Combined central and peripheral demyelination: Clinical features, diagnostic findings, and treatment. J Neurol Sci. 2016;363:182-187. PMID: 27000248
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Combined central and peripheral demyelination: Clinical features,
+diagnostic ﬁndings, and treatment
+A. Cortesea,⁎, D. Franciottaa,E .A l f o n s ia, N. Visigallia,E .Z a r d i n ia,b, L. Diamantia,c, P. Prunettia,c,C .O s e r aa,
+M. Gastaldic,d, G. Berzeroa,c,A .P i c h i e c c h i oa,G .P i c c o l oa,A .L o z z aa, G. Piscosquitoe,E .S a l s a n oe, M. Ceronia,b,
+A. Mogliaa,b,G .B o n od,f,D .P a r e y s o ne,E .M a r c h i o n ia
+aC. Mondino National Neurological Institute, Pavia, Italy
+bUniversity of Pavia, Pavia, Italy
+cNeuroscience Consortium, University of Pavia, Monza Policlinico and Pavia Mondino, Italy
+dOspedale di Circolo/Fondazione Macchi, Department of Neurology and Stroke Unit, Varese, Italy
+eClinic of Central and Peripheral Degenerative Neuropathies Unit, IRCCS Foundation, C. Besta Neurological Institute, Milan, Italy
+fUniversity of Insubria, Varese, Italy
+abstract article info
+Article history:
+Received 27 October 2015Received in revised form 9 February 2016Accepted 9 February 2016
+Available online 10 February 2016Combined central and peripheral demyelination (CCPD) is rare, and current knowledge is based on case reports
+and small case series. The aim of our study was to describe the clinical features, diagnostic results, treatment and
+outcomes in a large cohort of patients with CCPD. Thirty-one patients entered this retrospective, observational,two-center study. In 20 patients (65%) CCPD presented, after an infection, as myeloradiculoneuropathy, enceph-
+alopathy, cranial neuropathy, length-dependent peripheral neuropathy, or pseudo-Guillain-Barré syndrome. De-
+myelinating features of peripheral nerve damage ful ﬁlling European Federation of Neurological Societies/
+Peripheral Nerve Society (EFNS/PNS) electrodiagnostic criteria for CIDP were found in 23 patients (74%), and spa-
+tial dissemination of demyelinating lesions on brain MRI ful ﬁlling the 2010 McDonald criteria for multiple scle-
+rosis (MS) in 11 (46%). Two thirds of the patients had a relapsing or progressive disease course, usually related to
+the appearance of new spinal cord lesions or worsening of the peripheral neuropathy, and showed unsatisfactoryresponses to high-dose corticosteroids and intravenous immunoglobulins. The clinical presentation of CCPD was
+severe in 22 patients (71%), who were left signi ﬁcantly disabled. Our data suggest that CCPD has heterogeneous
+features and shows frequent post-infectious onset, primary peripheral nervous system or central nervous system
+involvement, a monophasic or chronic disease course, inadequate response to treatments, and a generally poor
+outcome. We therefore conclude that the current diagnostic criteria for MS and CIDP may not fully encompass
+the spectrum of possible manifestations of CCPD, whose pathogenesis remains largely unknown.
+© 2016 Elsevier B.V. All rights reserved.Keywords:
+Combined central and peripheral demyelin-ationChronic in ﬂammatory demyelinating
+polyneuropathy
+Multiple sclerosis
+Acute disseminated encephalomyelitisGuillain-Barré syndrome
+1. Introduction
+Inﬂammatory demyelinating diseases are a broad group of disorders
+characterised by immune-mediated myelin damage, leading to conduc-
+tion abnormalities, and often accomp anied by axonal loss. The demyelin-
+ating lesions are usually limited either to the central nervous system(CNS) or to the peripheral nervous system (PNS). The simultaneous oc-
+currence of combined central and peripheral demyelination (CCPD) is
+rare and data are limited to case reports and small case series [1, 11, 13] .
+We previously found that 36% of a selected cohort of patients with
+post-infectious in ﬂammatory demyelinating disorders of the CNS showed
+either clinical or electroneurographic evidence of PNS involvement.Notably, these patients with CCPD showed a worse prognosis and a
+higher relapse rate compared to those with CNS-restricted variants [8].
+The aim of this study was to examine the clinical and paraclinical
+features of a large cohort of patients with CCPD in order to gain informa-
+tion about clinical presentation, disease course, response to treatments
+and outcome.
+2. Patients and methods
+This is a retrospective, observational, two-centre study. The inclu-
+sion criteria for CCPD patient selection were: A) acute (within the pre-
+vious month), subacute (1 –2 months previously) or chronic (over
+2 months previously) onset of symptoms of CNS and/or PNS impair-ment; B) presence of CNS lesions suggestive of demyelination shown
+by brain and/or spine MRI; C) presence of peripheral neuropathy
+shown by nerve conduction studies (NCS); and D) exclusion of other
+causes of combined CNS and PNS involvement, as detailed below.Journal of the Neurological Sciences 363 (2016) 182 –187
+DOI of original article: http://dx.doi.org/10.1016/j.jns.2016.02.023 .
+⁎Corresponding author at: C. Mondino National Institute of Neurology Foundation,
+IRCCS, Via Mondino 2, 27100 Pavia, Italy.
+E-mail address: andrea.cortese@mondino.it (A. Cortese).
+http://dx.doi.org/10.1016/j.jns.2016.02.022
+0022-510X/© 2016 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+journal homepage: www.elsevier.com/locate/jns
+--- Page 2 ---
+Of 276 cases with idiopathic in ﬂammatory diseases of the CNS or
+PNS who were identi ﬁed from clinical databases and followed up at
+the C. Mondino and C. Besta Neurological Institutes, 31 patients ful ﬁlled
+all the inclusion criteria and entered the study (Supplementary Fig. 1).
+The study was approved by the C·Mondino Institutional Review Board
+and written informed consent was obtained from all the subjects.
+Clinical data were collected from inpatient and outpatient hospital
+charts. For descriptive purposes, disease course was classi ﬁed into
+three categories: 1) monophasic, if characterised by a single episode of
+acute demyelination, not followed by any further events; 2) relapsing,
+if the ﬁrst event was followed, at least 3 months after the initial episode,
+by a clinical relapse de ﬁned by acute/subacute onset of new symptoms,
+or recurrence of previously experienced symptoms; and 3) chronic pro-
+gressive, de ﬁned by the presence of a steady or stepwise worsening of
+the symptoms. Original MRI scans (1.5 T), cerebrospinal ﬂuid (CSF) ex-
+amination, including agarose isoelectric focusing for oligoclonal IgG
+band (OCB) determination, and NCSs were reviewed for technical and
+interpretation accuracy. In the NCS analyses we did not include:
+a) nerve roots and peripheral nerves stemming from metameres affect-
+ed by in ﬂammatory lesions, as detected by spine MRI; b) nerves show-
+ing alterations at entrapment points, possibly related to prolongedimmobility.
+The following investigations were performed in all the patients in
+order to exclude other causes of combined CNS and PNS involvement, as
+well as distinct causes of neuropathy: fasting blood glucose, Hb1Ac, vita-
+min B12, folates, homocysteine, serum immuno ﬁxation, serology for
+HIV, HCV, Lyme disease, syphilis, ANA, ENA, ANCA, anti-cerebellum, antiAQP-4 antibodies (cell-based assay), anti-gangliosides, including anti
+GQ1b, and anti-sulfatide antibodies , serum ACE. In patients with a chronic
+progressive disease course, metabolic testing for phytanic acid,galactocerebrosidase, arylsulfatase, very long chain fatty acids, and genetic
+testing for mutations in PMP22 (CMT1A) and GJB1 (CMTX1) were also
+performed.
+The clinical charts were reviewed and the following information was
+recorded for all the patients: demographics, general medical history,risk factors for neuropathy, symptoms at presentation, previous infections
+and vaccinations, outcome and response to treatment. The modi ﬁed
+Rankin scale (mRS) was used to measure disability level and outcome. Re-sponders were de ﬁned as patients recording an increase of at least one
+point on the mRS after treatment. The ﬁrst available neurological exami-
+nation from disease onset was recorded. Muscle weakness was graded asm i l d( f r o m5 -t o4o fM e d i c a lR e s e a r c hC o u n c i l( M R C )s c a l e ) ,m o d e r a t e
+(from 4- to 3 of MRC scale) and severe/paralysis ( b3).
+Original NCSs were evaluated for ful ﬁlment of European Federation
+of Neurological Societies/Peripheral Nerve Society (EFNS/PNS)
+electrodiagnostic criteria for chronic in ﬂammatory demyelination
+polyradiculoneuropathy (CIDP) [4]. Original brain MRI scans were
+reviewed for ful ﬁlment of the 2010 McDonald criteria for multiple scle-
+rosis (MS) [10].
+Data were analysed using descriptive statistics methods. Continuous
+data were shown as means or medians (standard deviation, min-max).
+3. Results3.1. Clinical presentation
+Table 1 shows the demographic and clinical features at disease onset
+and at follow-up of 31 patients with CCPD. Each patient's disease history
+is summarised in Supplementary Table 1. The majority of the patients
+were male with a mean age at onset of 57 years (range, 14 –82). A pre-
+v
+ious infection or vaccination was reported in 20 subjects (65%), mostly
+infections of the upper respiratory tract, although a speci ﬁc trigger was
+identi ﬁed in only four cases (1 ﬂuv a c c i n e ,1Streptococcus pneumoniae
+vaccine, 1 Campylobacter jejuni gastroenteritis and 1 Streptococcus
+pyogenes pharyngitis). The majority of the patients presented with
+lower limb sensory-motor impairment and sphincter dysfunction,suggesting the presence of spinal cord lesions. However other symp-toms, such as altered mental status and cranial nerve involvement,
+could also characterise the onset of the disease. Primary PNS damage
+was present in 11 patients who presented with distal paraesthesia,and in four subjects with pseudo-Guillain-Barré syndrome, i.e. with as-
+cending sensory-motor impairment and abolished osteotendinous
+reﬂexes.
+3.2. Neurological examination
+In 27 patients (87%), neurological examination at disease peak
+showed lower limb weakness which was severe in 67% of them, with dis-tal predominance in ﬁve. Upper limb weakness was found in 12 patients
+(39%). Tone was increased at the four limbs in 11 patients, decreased atthe four limbs in six, and mixed (increased at the upper limbs and de-
+creased at the lower limbs) in two. Osteotendinous re ﬂexes were more
+often increased at the upper limbs (48% of the cases) and reduced orabolished at the lower limbs (52%). Babinski sign was present in 58% of
+the cases. Dystonia was observed in one case (Supplementary Table 2).
+3.3. Disease course
+The patients were followed up for a mean of 84.3 months (range,
+43.3 –134). One third of the patients showed a monophasic disease
+course. Overall, in 21 cases (68%) we observed a progression of the dis-
+ease: either a relapse, with subacute onset of new symptoms (13 cases,
+42%), or a steady chronic progression (8 cases, 26%). Notably, six pa-
+tients who presented with distal paraesthesia showed a progressive dis-
+ease course from onset. In the relapsing subgroup, the mean delay
+between in ﬂammatory events was 12 months (50.3 –126). In ﬁveTable 1
+Clinical features of CCPD patients at disease onset and in the chronic phase of the disease.
+Demographics
+Age at onset in years (standard deviation, range) 57 (17, 14 –82)
+Males 23 (74%)
+Disease course
+Monophasic 10 (32%)Relapsing 13 (42%)
+Chronic progressive 8 (26%)
+b
+Disease onset Follow-upa
+Previous infection 20 (65%) 1 (5%)
+Clinical features
+Lower limb sensory-motor impairment 29 (94%) 19 (90%)
+Urinary incontinence/retention 26 (84%) 2 (9%)
+Distal paresthesia 11 (35%) 4 (19%)
+Altered mental status 5 (16%) –
+Upper limb sensory-motor impairment 8 (26%) 7 (33%)
+Headache 2 (6%) –
+Ascending four limb sensory-motor impairment 4 (13%) –
+Other 7 (23%) 4 (19%)
+Response to treatments
+Steroids 17/23 (74%) 4/16 (25%)
+IVIg 4/8 (50%) 4/11 (36%)
+Other 1/1 (100%) 1/4 (25%)
+Overall response 19 (73%) 6 (19%)
+Disability (mRS) N = 25cN=3 1
+0 1 (4%) 2 (7%)
+1 1 (4%) 2 (7%)2 1 (4%) 1 (3%)
+3 6 (24%) 4 (13%)
+4 12 (48%) 4 (13%)5 4 (16%) 18 (58%)
+All data are reported as number of cases (%) or mean (standard deviation, min-max).CCPD: combined central and peripheral demyelination; IVIg: intravenous immunoglobu-lins; mRS: modi ﬁed Rankin Scale.
+aFollow-up data for previous infection and clinical features refer only to cases with a
+relapsing or chronic progressive disease course (N = 21).
+bIncluding 6 cases with a primary progressive disease course.
+cPrimary progressive CCPD cases are excluded.183 A. Cortese et al. / Journal of the Neurological Sciences 363 (2016) 182 –187
+--- Page 3 ---
+cases, the relapse occurred during the ﬁrst year after steroid withdraw-
+al. Clinically, relapses and chronic progressions were characterised by
+worsening of lower limb sensory-motor impairment, onset of upper
+limb paralysis, or brainstem dysfunction, but not encephalopathic
+symptoms.
+3.4. Treatment and outcome
+In the acute phase, 26 patients (84%) were treated with steroids, ei-
+ther 6-methyl-prednisolone 500 –1000 mg/day for ﬁve days followed by
+oral tapering over three months, or chronic prednisone 1 mg/kg/day, in-
+travenous immunoglobulins (IVIg) or plasma exchange ( Table 1 ). An
+mRS score improvement of at least one point was observed in 19/26(73%). In 24 patients with relapses or chronic progression either ste-
+roids or IVIg were used later in the disease course, but the response
+rate was lower (19%) than in those in whom they were used at disease
+onset. Azathioprine and methotrexate were used in just two cases with
+a chronic progressive disease course, and did not produce a signi ﬁcant
+improvement.
+Of interest, natalizumab was used as an off-label drug in a young pa-
+tient who was unresponsive to steroids and showed persistent in ﬂam-
+matory activity on brain MRI. The drug strikingly improved the brainMRI lesions. However, the patient's clinical condition deteriorated due
+to a marked worsening of nerve conduction, and the treatment was
+therefore discontinued. The patient was subsequently started on rituxi-
+mab with persistent clinical bene ﬁt (follow-up, 12 months).
+Overall, the outcome was poor (mRS ≥4) in 22 cases (71%).
+3.5. Cerebrospinal ﬂuid examination
+CSF analysis showed pleocytosis and elevated total proteins in 58%
+and 74% of the patients, respectively ( Table 2 ). Fourteen of the 31
+cases (45%) showed intrathecal IgG production, which was detected aseither CSF-restricted OCBs (5 cases), or as the presence of OCBs that
+were equal in serum and CSF in addition to CSF-restricted OCBs (9
+cases). CSF analysis was repeated in seven patients with a chronic dis-
+ease course. In the only two patients with CSF-restricted OCBs atonset, the OCB pattern changed: the OCBs disappeared in one case and
+changed to a mirror pattern, namely absence of intrathecal IgG produc-
+tion, in the other. In the remaining ﬁve patients, CSF analysis did not
+show OCBs at either disease onset or later in the disease course.
+3.6. MRI
+The CNS involvement in our cohort was characterised by multifocal
+demyelinating lesions of the brain, and focal, multifocal and, less fre-
+quently, longitudinally extensive lesions involving the posterior-
+lateral white matter of the spinal cord ( Table 2 ,Fig. 1 A–I, Supplementa-
+ry Figs. 2 –5). Half of the patients had active lesions, mostly in the spinal
+cord, and 17 (56.7%) showed contrast enhancement of the cauda and
+nerve roots, which tended to persist over time. Eleven patients (46%)
+fulﬁlled the 2010 McDonald criteria for MS for dissemination in space
+[10]. On subsequent MRI scans, temporal dissemination of lesions oc-
+curred in 7 patients (22.6%) who had either a relapsing or a progressivedisease course, but not in patients with a monophasic disease course.
+New lesions occurred more frequently in the spinal cord.
+3.7. Evoked potentials
+Somatosensory evoked potentials from the upper limbs were abnor-
+mal in 10/18 subjects (55%), whereas those from the lower limbs were
+abnormal in all the subjects –either slowed (in six patients) or not
+elicitable (in 12) –due to abnormal peripheral nerve conduction. Visual
+evoked potentials (VEPs) were altered in 9/14 patients (64%) and
+brainstem auditory evoked potentials in 5/13 patients (38%).3.8. Nerve conduction study
+Twenty-three patients (74%) ful ﬁlled the EFNS/PNS
+electrodiagnostic criteria for CIDP [4]:d eﬁnite in 14 (45%), probable in
+three (10%) and possible in six (19%), while eight cases (26%) had
+p
+ure axonal neuropathy. Demyelination showed a proximal-distal gra-
+dient as documented by frequent F-response latency prolongation (6cases, 19%) or absence (7 cases, 23%), and slow nerve conduction veloc-
+ities (13 cases, 42%), as opposed to relatively preserved distal motor la-
+tencies (2 cases, 6%) ( Fig. 1 -J). Complete and partial conduction blocks
+were present in ﬁve (16%) and eight (26%) patients, respectively.
+Peroneal and tibial nerves were the most frequently affected motor
+nerves, showing mixed demyelinating and axonal damage. Medianand ulnar nerves often showed demyelinating involvement with rela-
+tively preserved motor amplitudes. Sensory nerve conduction was al-
+tered at the sural nerves and, to a lesser extent, at the median nerves
+(Table 3 ).
+4. Discussion
+The clinical and paraclinical data in the present cohort of patients, in
+keeping with previous reports [ 1 ,6 ,9 ,1 1 ,1 3 ] , show that CCPD is a rather
+heterogeneous disease.Table 2
+MRI and CSF ﬁndings in CCPD.
+Brain MRI N = 26
+T2 lesions 19/26 (73%)
+Topography
+Periventricular 12/19 (63%)
+Subcortical 12/19 (63%)Infratentorial 10/19 (53%)
+Deep grey matter 2/19 (10.5%)
+Type of lesion
+MS-like 10/19 (53%)
+ADEM-like 2/19 (10%)Non-speci ﬁc 7/19 (37%)
+T1 lesions with Gd enhancement 3/26 (11%)
+Spine MRI N = 30
+T2 lesions 24/30 (80%)
+Topography
+Posterolateral white matter 16/24 (66.7%)
+Anterior white matter 3/24 (12.5)Central grey matter 3/24 (12.5)White and grey matter 2/24 (8.3%)
+Distribution
+Cervical 14/24 (58%)
+Thoracic 16/24 (67%)
+Lumbosacral (conus-epiconus) 9/24 (37%)
+Type of lesion
+Focal 9/24 (37%)Multifocal 9/24 (37%)LETM 5/24 (21%)
+T1 lesions with Gd enhancement 15/30 (50%)T1 meningeal, nerve root and conus/cauda Gd enhancement 17/30 (56.7%)
+Fulﬁlling the 2010 McDonald criteria for MS for
+dissemination in space12/26 (46%)
+Temporal dissemination 7/31 (22.6%)
+CSF examination N = 31
+Pleocytosis 18 (58%), 54 (32,
+8–144)
+Raised proteins 23 (74%), 97 (44,
+22–200)
+OCB
+CSF-restricted OCB 5/31 (16%)
+OCB equal in serum and CSF plus CSF-restricted OCB 9/31 (29%)
+All data are reported as number of cases (%), except pleocytosis and raised CSF proteins,which are reported as number of cases (%), median (standard deviation, min-max). CSFpleocytosis is de ﬁned as more than 5 cells/ μL; raised CSF proteins are de ﬁned as more
+than 40 mg/dL. ADEM: acute demyelinating encephalomyelitis, Gd: gadolinium, LETM:
+longitudinally extensive transverse myelitis. MS: multiple sclerosis, OCB: oligoclonal IgG
+bands.184 A. Cortese et al. / Journal of the Neurological Sciences 363 (2016) 182 –187
+--- Page 4 ---
+A documented infection preceded CCPD onset in 65% of cases, but
+was unusual before relapses. This percentage is higher than that report-
+ed recently in a Japanese CCPD cohort (10%) [9], but is consistent with a
+previous observation showing that the large majority (85%) of pediatricCCPD cases followed an infection [1]. The high frequency of infections
+before CCPD onset argues for a role of infectious agents as triggers of
+subsequent self-sustained autoimmune processes.
+PNS and CNS involvement was simultaneous or rapidly subsequent
+in 22 cases (71%), CNS preceded PNS involvement in six (19%) cases,
+whereas PNS preceded CNS involvement in three (10%). However, in
+some patients, symptoms could not easily be attributed to either prima-
+ry PNS or CNS involvement, and subclinical alterations limited to one
+compartment could have been present before the clinical onset.Relapsing symptoms occurred in 42% of the cases, and were mainlydue to new CNS lesions, while PNS symptoms mainly showed an insid-
+ious onset and persisted over time. The preponderance of cases with si-
+multaneous PNS and CNS demyelination refutes the idea of a spreading
+of autoimmunity from one compartment to the other, following expo-sure to previously hidden epitopes. Conversely, it is conceivable that
+autoreactive lymphocytes and/or antibodies against a common PNS
+and CNS epitope may cross the blood-brain and blood-nerve barriers
+and activate an in ﬂammatory process concomitantly, as previously sug-
+gested [5].
+With regard to the PNS damage, NCS disclosed clear demyelinating
+features in approximately 3/4 of the patients, with conduction blocksin 42% of them, while the other 26% had a pure axonal neuropathy.
+Fig. 1. MRI and nerve conduction study ﬁndings in CCPD. Brain axial FLAIR images (a, b, e, f) and T1-w images post-gadolinium (gd) administration (c, d) performed pre- (a, b, c, d) and
+post- (e, f) immunosuppressive treatment with rituximab in a patient with CCPD. Pre-treatment spine MRI with T1-w image post-gd (g). Pre-treatment brain MRI (a, b, c, d) highlights, in
+the context of diffuse, mainly periventricular, lesions, three round/ovoid hyperintense signal alterations, at the level of the pons (a) and in the left periventricular region (b) showing gdenhancement (c, d). Post-treatment brain MRI shows marked reduction of the pons and left periventricular lesions (e, f). Pre-treatment spine MRI (g) shows marked enhancement of bothcaudal root and conus lesions. Spine MRI with sagittal T1-w image (h) and post-gd T1-w image (i) showing an extensive cervical spine lesion from C2 to D1 (h), hyperintense on T2- andisohypointense on T1-w images, where a patchy vivid enhancement is detectable (i), mainly posteriorly. (j) Motor nerve conduction study of the ulnar nerve (recording from muscleabductor digiti minimi) showing temporal dispersion of the compound muscle action potential (CMAP) in proximal segments (roots and plexuses) in a patient with CCPD. Calibration:5 ms/div; 5 mV/div.
+Table 3Nerve conduction study in patients with CCPD.
+Motor Sensory
+Altered/tested CMAP (mV) MCV (m/s) DML (ms) F wave latency (ms) Altered SAP ( μV) SCV (m/s)
+Ref N2 N40.6 b5.8 Ref N6 N42
+Peroneus R 17/23 0.9 (0.9) 36.1 (5.4) 4.3 (0.8) Suralis 14/23 3.1 (2.3) 38 (1.9)Peroneus L 16/22 0.5 (0.5) 35.1 (4.4) 4.5 (1) 15/23 2.5 (1.6) 37.2 (2.1)
+Ref N5 N41 b5.5
+Tibialis R 19/26 0.5 (0.5) 35.1 (4.4) 4.7 (0.8) 70 (9.8)
+Tibialis L 17/26 2.2 (1.3) 33.3 (4.7) 4.6 (1) 67 (9.7)Ref N5 N48 b3.3 Ref N6 N46
+Ulnar R 8/12 7.6 (2.9) 30.7 (8,3) 3 (0.6) 41.1 (10) Ulnar 1/10 12 (12.5) 49.1 (6.1)Tibialis L 7/12 12.8 (14) 36.7 (8.1) 3 (0.6) 39.8 (7.5) 1/10 13 (10.2) 44.6 (10.8)Ref N5 N46.8 b4 Ref N8 N46.8
+Median R 11/15 8.5 (4.3) 37.7 (9.5) 3.7 (0.5) 35.7 (5.9) Median 5/8 3.7 (2.2) 26 (4.6)
+Tibialis L 8/13 6.6 (6) 36.6 (5.6) 3.8 (0.9) 36.4 (6.2) 4/10 3.6 (4.6) 38 (2)
+CMAP: compound motor action potential; MCV: motor conduction velocity; DML: distal motor latency; SAP: sensory action potential; SCV: sensory conduction velocity. Data are indicated
+as mean (standard deviation).185 A. Cortese et al. / Journal of the Neurological Sciences 363 (2016) 182 –187
+--- Page 5 ---
+However, in these latter cases, we cannot exclude the possibility that
+demyelinating changes had initially been present and could not be de-
+tected in later disease stages due to severe axonal degeneration.
+As regards the CNS damage, demyelinating lesions documented on
+MRI scans affected the brain and the spinal cord, particularly the dorsal
+a n dl u m b o s a c r a lm e t a m e r e s ,a n dw e r ef r e q u e n t l ya s s o c i a t e dw i t hG de n -
+hancement of the cauda and nerve roots. Bilateral optic nerve involve-ment was often asymptomatic but could be detected on VEPs in 64% of
+tested cases. Of note, six anti-aquaporin-4 antibody-seronegative cases
+had spinal cord lesions extending over three metameres, which were
+thus indistinguishable from those typically seen in neuromyelitis optica
+spectrum disorders; this suggests th at CCPD should be considered in the
+differential diagnosis of these disorders. Unfortunately, these patients'serum samples are unavailable for anti-MOG antibody testing.
+Overall, 46% of the patients ful ﬁlled the 2010 McDonald criteria for
+MS and 74% ful ﬁlled the EFNS/PNS electrodiagnostic criteria for CIDP, in-
+dependently of their clinical presentation, disease course, response totreatment and outcome (data not shown). For this reason, quite apart
+from the fact that MS and CIDP can co-occur, de ﬁnition of CCPD based
+on current diagnostic criteria for MS and CIDP may be too restrictiveand arguably exclude some patients with combined in ﬂammatory dis-
+ease of the CNS and PNS, in whom extensive clinical investigation is un-able to provide a better explanation. Analysis of larger international case
+series of patients with combined in ﬂammatory disorders of the CNS and
+PNS will be useful in order to de ﬁne the spectrum of “typical ”CCPD and
+its variants.
+Of interest, 2/3 of the patients entered the chronic phase of the dis-
+ease, with either a relapsing or a progressive disease course, and similar-
+ly to what is seen in MS. However. the features that differentiate CCPD
+from MS in our series are: 1) the OCB patterns: persistent CSF-
+restricted OCBs, which are typical of MS, were found in only two pa-
+tients, whereas OCBs that were equal in serum and CSF in addition to
+CSF-restricted OCBs were more frequently detected. This latter abnor-
+mality suggests the presence of mixed systemic plus intrathecal humor-
+al immune activation. Nonetheless, we cannot exclude the possibility
+that patients whose CSF was not tested repeatedly might have devel-
+oped OCBs later in the disease course; 2) the lack of asymptomatic spa-
+tial dissemination of lesions on MRI; and 3) the coexistence with PNS
+involvement itself. The CCPD cases here reported also differ from typical
+acute demyelinating encephalomyelitis in their higher age at onset, therarity of large con ﬂuent and synchronous lesions on brain MRI affecting
+both white and grey matter, the relapsing and progressive coursesshown by the majority of our cases, and their overall poor outcome
+([7]International Pediatric Multiple Sclerosis Study Group).
+The ef ﬁcacy of steroids and IVIg was only partial and mostly limited
+to the acute phase of the disease. Rituximab, whose ef ﬁcacy has been
+observed in both MS and CIDP [2, 3] , led to marked improvement in a
+CCPD patient with an aggressive disease course and may thus represent
+an option for the treatment of steroid- and IVIg-resistant cases. Con-
+versely, natalizumab, although highly effective in dampening CNS in-
+ﬂammatory activity in one case with MS-like lesions on brain MRI,
+exacerbated PNS symptoms, possibly due to drug-induced inhibitionof blood-brain barrier crossing by pathogenic T cells, which therefore
+concentrate systemically. A previous study also reported inefﬁ cacy of
+natalizumab in CIDP patients [12].
+Clinically, the outcome was poor in 71% of our patients, which is con-
+sistent with the previous observation of an unfavourable outcome withExpanded Disability Status Scale score ≥5 in 54% of children with CCPD
+[1], but appears to be worse than what was reported in a previous study
+in which 26 out of 40 CCPD cases (65%) had no or mild disability
+(Hughes functional score ≤1)[9]. The better outcome of the Japanese pa-
+tients [9]could be due to differences in demographics (a majority of
+young females in the Japanese series, as opposed to the prevalence of
+ol
+der males in our study) and paraclinical features, with the Japanese
+study showing a higher frequency of patients with de ﬁnite demyelination
+on NCS and cerebral lesions ful ﬁlling the 2010 McDonald criteria for MS.In addition, the presence of different pathogenic mechanisms cannot beexcluded.
+Recently, antibodies to neurofascin-155 (NF155), a protein
+EXPRESSED on both central and peripheral myelin, and involved in
+axo-glial coupling at the paranodal regions which ﬂank the node of
+Ranvier were identi ﬁed in ﬁve out of seven Japanese patients with
+CCPD [6]who showed a relapsing disease course and, unlike our pa-
+tients, a good response to IVIg. Also, antibodies to NF155 have been
+identi ﬁed in a low percentage of patients affected by CIDP who had pre-
+dominantly distal weakness, ataxia, disabling tremor and poor responseto IVIg [14]. A possible cerebellar origin of tremor was hypothesised, al-
+though there was no conclusive evidence of CNS involvement in thesepatients. However, their clinical phenotype differed from that of our pa-
+tients who invariably showed symptomatic CNS damage, mainly long
+tract impairment and altered mental status, but no tremor or cerebellar
+ataxia. Despite differences in clinical features, serological characterisa-
+tion for NF155 antibodies in larger cohorts of CCPD patients may thus
+help to de ﬁne subtypes of patients with different prognoses and differ-
+ent responses to treatment.
+This study has some limitations. First, the retrospective design
+makes it dif ﬁcult to de ﬁne the ef ﬁcacy of the treatments. Second, the
+clinical evaluations were assessed at different time points in the disease
+course, which may have resulted in non-homogeneous biological and
+instrumental ﬁndings. Third, serum samples of only a limited number
+of patients had been stored and are available for testing. For this reasonwe were not able to assess the presence of anti-NF155 antibodies in the
+entire cohort, or in a representative proportion of it.
+In conclusion, our large cohort of CCPD patients was characterised by
+heterogeneous clinical manifestations, with either primary PNS or
+primary CNS involvement, frequent preceding infections, and a
+monophasic or chronic disease course. The outcome was poor in the
+majority of the patients and response to treatments, including steroids
+and IVIg, was partial and mostly limited to the acute phase of the dis-
+ease. De ﬁnition of CCPD based on current diagnostic criteria for MS
+and CIDP may be too restrictive due to the broad spectrum of combinedinﬂammatory damage of the CNS and PNS, whose pathogenesis remains
+largely unknown.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.jns.2016.02.022 .
+Study funding
+This project was supported by the Italian Ministry of Health (120/RF-
+2011-02347955, EM).
+References
+[1]T. Adamovic, E.M. Riou, G. Bernard, M. Vanasse, J.C. Décarie, C. Poulin, F. Gauvin,
+Acute combined central and Peripheral nervous system demyelination in children,
+Pediatr. Neurol. 39 (5) (2008) 307 –316.
+[2]L. Benedetti, C. Briani, D. Franciotta, R. Fazio, I. Paolasso, C. Comi, M. Luigetti, et al.,
+Rituximab in patients with chronic in ﬂammatory demyelinating
+polyradiculoneuropathy: a report of 13 cases and review of the literature, J. Neurol.Neurosurg. Psychiatry 82 (3) (2011) 306 –308.
+[3]S.L. Hauser, E. Waubant, L.A. Douglas, T. Vollmer, J. Antel, R.J. Fox, A. Bar-Or, et al.,
+H.E.R.M.E.S. Trial Group, B-cell depletion with rituximab in relapsing-remitting mul-
+tiple sclerosis, N. Engl. J. Med. 358 (7) (2008) 676 –688.
+[4]Joint Task Force of the EFNS and the PNS, European Federation of Neurological Soci-eties/Peripheral Nerve Society Guideline on Management of Chronic In ﬂammatory
+Demyelinating Polyradiculoneuropathy: report of a Joint Task Force of the
+European Federation of Neurological Societies and the Peripheral Nerve Society –
+ﬁrst revision, J. Peripher. Nerv. Syst. 15 (1) (2010) 1 –9.
+[5]C. Kamm, U.K. Zettl, Autoimmune disorders affecting both the central and peripheral
+nervous system, Autoimmun. Rev. 11 (3) (2012) 196 –202.
+[6]N. Kawamura, R. Yamasaki, T. Yonekawa, T. Matsushita, S. Kusunoki, S. Nagayama, Y.Fukuda, et al., Anti-neurofascin antibody in patients with combined central and pe-
+ripheral demyelination, Neurology 81 (8) (2013) 714 –722.
+[7]L.B. Krupp, M. Tardieu, M.P. Amato, B. Banwell, T. Chitnis, R.C. Dale, A. Ghezzi, et al.,
+International Pediatric Multiple Sclerosis Study Group, International Pediatric Multi-
+ple Sclerosis Study Group criteria for pediatric multiple sclerosis and immune-medi-
+ated central nervous system demyelinating disorders: revisions to the 2007
+deﬁnitions, Mult. Scler. 19 (10) (2013) 1261 –1267.186 A. Cortese et al. / Journal of the Neurological Sciences 363 (2016) 182 –187
+--- Page 6 ---
+[8]E. Marchioni, S. Ravaglia, C. Montomoli, E. Tavazzi, L. Minoli, F. Baldanti, M. Furione,
+et al., Postinfectious neurologic syndromes: a prospective cohort study, Neurology
+80 (10) (2013) 882 –889.
+[9] H. Ogata, D. Matsuse, R. Yamasaki, N. Kawamura, T. Matsushita, T. Yonekawa, M.
+Hirotani, H. Murai, J.I. Kira, A nationwide survey of combined central and peripheral
+demyelination in Japan, J. Neurol. Neurosurg. Psychiatry (2015), http://dx.doi.org/
+10.1136/jnnp-2014-309831 .
+[10] C.H. Polman, S.C. Reingold, B. Banwell, M. Clanet, J.A. Cohen, M. Filippi, K. Fujihara,et al., Diagnostic criteria for multiple sclerosis: 2010 revisions to the McDonald
+criteria, Ann. Neurol. 69 (2) (2011) 292 –302.
+[11] P.K. Thomas, R.W. Walker, P. Rudge, J.A. Morgan-Hughes, R.H. King, J.M. Jacobs, K.R.Mills, I.E. Ormerod, N.M. Murray, W.I. McDonald, Chronic demyelinating peripheral
+neuropathy associated with multifocal central nervous system demyelination, BrainJ. Neurol. 110 (Pt 1) (1987) 53 –76.[12] C .W o l f ,T .M e n g e ,M .S t e n n e r ,G .M e y e rz uH ö r s t e ,A .S a l e h ,H . P .H a r t u n g ,H .Wiendl, B.C. Kieseier, Natalizumab treatment in a patient with chronic
+inﬂammatory demyelinating polyneuropathy, Arch. Neurol. 67 (7) (2010)
+881– 883.
+[13] H .Z é p h i r ,T .S t o j k o v i c ,P .L a t o u r ,A .L a c o u r ,J .d eS e z e ,O .O u t t e r y c k ,C . - A .
+Maurage, et al., Relapsing demyelinating disease affecting both the central
+and peripheral nervous systems, J. Neurol. Neurosurg. Psychiatry 79 (9)
+(2008) 1032– 1039.
+[14] L. Querol, G. Nogales-Gadea, R. Rojas-Garcia, J. Diaz-Manera, J. Pardo, A.
+Ortega-Moreno, et al., Neurofascin IgG4 antibodies in CIDP associate with
+disabling tremor and poor response to IVIg, Neurology 82 (10) (2014)
+879 –886.187 A. Cortese et al. / Journal of the Neurological Sciences 363 (2016) 182 –187

@@ -1,0 +1,21 @@
+Hashimoto Encephalopathy: A Rare Intricate Syndrome
+Payer J, Petrovic T, Lisy L, Langer P
+International Journal of Endocrinology and Metabolism. 2012;10(2):506-514
+PMID: 23843812 | PMCID: PMC3693614 | DOI: 10.5812/ijem.4174
+
+OVERVIEW
+HE described as a rare but very serious illness characterized by neurological dysfunction with elevated thyroid antibodies and responsiveness to glucocorticoid therapy. Approximately 70-80% of patients are female.
+
+KEY FEATURES
+Clinical manifestations: unexplained or epilepsy-like seizures resistant to anti-convulsive treatment, confusion, headaches, hallucinations, stroke-like episodes, coma, and cognitive impairment.
+
+Diagnostic markers: High thyroid antibody levels, especially against thyroperoxidase (TPOab) appear in virtually all documented cases. CSF elevated protein in ~78% of cases. Abnormal EEG findings in 98%.
+
+PATHOGENESIS
+Brain vasculitis and autoimmunity directed against common brain-thyroid antigens represent the most likely etiologic pathway. Additional research has identified anti-neuronal antibodies and amino-terminal alpha-enolase (NAE) antibodies as contributing factors.
+
+TREATMENT
+Corticosteroid treatment usually provides dramatic recovery, establishing HE's autoimmune foundation. Some cases respond to IVIG when steroids prove insufficient.
+
+CLINICAL SIGNIFICANCE
+Diagnostic challenges due to widely varying symptoms. Early recognition of thyroid antibodies in unexplained encephalopathy is crucial.

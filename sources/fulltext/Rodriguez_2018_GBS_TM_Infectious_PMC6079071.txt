@@ -1,0 +1,38 @@
+Guillain-Barre Syndrome, Transverse Myelitis and Infectious Diseases
+
+Authors: Yhojan Rodriguez, Manuel Rojas, Yovana Pacheco, Yeny Acosta-Ampudia, Carolina Ramirez-Santana, Diana M Monsalve, M Eric Gershwin, Juan-Manuel Anaya
+Journal: Cellular & Molecular Immunology, 2018;15(6):547-562
+PMID: 29375121 | PMCID: PMC6079071 | DOI: 10.1038/cmi.2017.142
+
+COMPREHENSIVE REVIEW
+
+GBS is an acute inflammatory immune-mediated polyradiculoneuropathy affecting 0.8-1.9 per 100,000 annually. About 75% of GBS patients have a history of preceding infection within 6 weeks.
+
+BACTERIAL TRIGGERS:
+- Campylobacter jejuni: Most significant (30-40% of GBS cases), risk of 1.17 per 1,000 infected
+- Mycoplasma pneumoniae, Haemophilus influenzae, various hepatitis viruses
+
+VIRAL ASSOCIATIONS:
+- CMV: Second most frequent infectious etiology
+- Herpes simplex virus, Zika virus, Dengue, Chikungunya, EBV
+
+PATHOGENIC MECHANISMS:
+1. Molecular mimicry: Bacterial lipopolysaccharides structurally resemble human nerve gangliosides
+2. Humoral responses: Anti-ganglioside antibodies
+3. Cellular responses: T-lymphocyte activation
+4. Innate immune mechanisms
+
+TRANSVERSE MYELITIS:
+- Inflammatory disorder of the spinal cord
+- Similar infectious triggers and pathogenic mechanisms
+- Immune complex deposition and molecular mimicry
+
+HOST FACTORS:
+- Genetic predisposition via HLA alleles
+- Only some individuals develop GBS/TM after infection
+- Complex host-pathogen interactions
+
+CLINICAL IMPLICATIONS:
+Preventive measures and therapeutic interventions require simultaneous evaluation of microbial and human genetic factors.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6079071/

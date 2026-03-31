@@ -1,0 +1,53 @@
+A Rare Case with Systemic Lupus Erythematosus Manifested by Two Different Neurologic Entities: Guillain Barre Syndrome and Posterior Reversible Encephalopathy Syndrome
+
+Authors: Firdevs Ulutas, Veli Cobankara, Ugur Karasu, Nuri Baser, Ismail Hakki Akbudak
+Journal: Mediterranean Journal of Rheumatology
+Year: 2020 (September 30), Volume 31, Issue 3, Pages 358-361
+DOI: 10.31138/mjr.31.3.358
+PMID: 33163871
+PMCID: PMC7641029
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The authors present "the first rare co-incidental case with posterior reversible encephalopathy syndrome (PRES), Guillain Barre Syndrome (GBS), and (SLE)." They emphasize that neurological manifestations in SLE patients create diagnostic challenges, and "early recognition of neuropsychiatric involvements of the disease are important for timely appropriate treatment."
+
+INTRODUCTION
+
+Systemic lupus erythematosus involves immune-mediated pathology with "vasculitis of small vessels, deposition of immune complexes, and autoantibody production and deposition in various organs." Neuropsychiatric complications range from "headaches, seizures, psychosis, and delirium."
+
+Peripheral nervous system involvement is in less than 10% of all nervous system manifestations in SLE. The simultaneous prevalence of SLE with GBS has been reported to be between 0.6% and 1.7%, whereas the prevalence of PRES is 0.69% in SLE.
+
+CASE REPORT
+
+A 39-year-old male presented with acute onset lower extremity pain, numbness, progressive weakness, ankle stiffness, and walking instability over two weeks. Physical examination revealed significantly reduced muscle strength (3/5 proximally, 2/5 distally) and absent deep tendon reflexes.
+
+Initial Diagnostic Findings:
+- Cerebrospinal fluid analysis showed albuminocytologic dissociation
+- Nerve conduction studies indicated dysautonomic inflammatory demyelinating polyneuropathy
+- Brain and spinal MRI were normal
+- Lymph node biopsy revealed reactive hyperplasia
+
+SLE Diagnosis:
+The patient met diagnostic criteria through symmetrical arthralgia and positive immunological markers including positive ANA, anti-dsDNA, anti-Smith, and anti-SSA antibody with low complement levels.
+
+Treatment and Complication:
+Initial treatment with IVIg and plasmapheresis showed poor response. After beginning intensive immunosuppressive therapy with intravenous methylprednisolone and cyclophosphamide, the patient developed "tonic clonic seizures and severe headaches" with hypertension (160/110).
+
+Brain MRI showed "hyperintense white matter vasogenic edema, predominantly the right side of the posterior brain on T2 weighted images," consistent with PRES. Post-treatment FLAIR imaging demonstrated complete resolution of vasogenic edema, but despite aggressive management, the patient died from neurological complications.
+
+DISCUSSION
+
+This represents the first documented case of GBS and PRES occurring together in an SLE patient. Literature review identified only 15 cases with PRES and GBS reported at the time of writing, with the vast majority of patients being female and older than the age of 55.
+
+Pathophysiological Mechanisms:
+- Dysautonomia, autoimmunity, IVIG therapy, and activation of the sympathetic nervous system
+- Cyclophosphamide may "trigger PRES via direct endothelial cytotoxic effects at the blood brain barrier"
+- SLE patients with PRES had more early disease onset with predominantly seizures and higher mortality rates than controls
+
+CONCLUSIONS
+
+No specific diagnostic radiological or laboratory biomarkers exist for neurological involvement in SLE. Early recognition of neuropsychiatric involvements is important for timely treatment. Delayed intervention risks permanent damage, poor prognosis, long-term morbidity, and death.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC7641029/

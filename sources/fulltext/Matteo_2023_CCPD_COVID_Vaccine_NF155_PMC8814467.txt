@@ -1,0 +1,35 @@
+Combined Central and Peripheral Demyelination with Anti-Neurofascin155 IgG Following COVID-19 Vaccination
+
+Authors: Eleonora Matteo, Michele Romoli, Calogero Calabro, et al.
+Journal: Canadian Journal of Neurological Sciences, 2023;50(1):141-143
+PMID: 35107062 | PMCID: PMC8814467 | DOI: 10.1017/cjn.2021.256
+
+CASE REPORT
+
+A 52-year-old male presented 11 days after ChAdOx1 nCoV-19 vaccination with sudden-onset tingling in fingers and toes with reduced hand dexterity.
+
+CLINICAL COURSE:
+- Day 0: Cranial nerve VII involvement, speech difficulties, bilateral hand weakness (MRC 4/5)
+- Day 2: Rapid deterioration with double vision, facial weakness, swallowing difficulty
+
+DIAGNOSTICS:
+- EMG: Severe, distally predominant demyelinating polyradiculoneuropathy
+- Spine MRI: Contrast enhancement of cauda equina nerve roots
+- Brain MRI: Contrast-enhancing multifocal bilateral demyelinating lesions
+- Serum: Positive for anti-NF155 IgG autoantibodies
+- Negative for anti-contactin-1, anti-CNTN-1/CASPR-1 complex
+
+TREATMENT:
+- IVIg (0.4 g/kg x 5 days) starting Day 3: modest improvement
+- Day 4: Hypercapnic respiratory failure requiring ICU
+- Day 30: High-dose IV corticosteroids (1g x 5 days): complete clinical recovery
+- Discharge on oral prednisone, stable at 2-month follow-up
+
+KEY OBSERVATIONS:
+- PNS involvement preceded CNS complications
+- Anti-NF155 autoantibodies present
+- Intrathecal IL-8 elevation indicated localized CNS autoimmune process
+- Temporal relationship with vaccination suggested autoimmune mechanism
+- Recent vaccination/infection triggered two-thirds of CCPD cases in large series
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC8814467/

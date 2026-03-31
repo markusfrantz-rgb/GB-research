@@ -1,0 +1,32 @@
+Coexistence of Myositis, Transverse Myelitis, and Guillain Barre Syndrome Following Mycoplasma pneumoniae Infection in an Adolescent
+
+Authors: Yasemin Topcu, Erhan Bayram, Pakize Karaoglu, Uluc Yis, Handan Guleryuz, Semra Hiz Kurul
+Journal: Journal of Pediatric Neurosciences, 2013;8(1):59-63
+PMID: 23772249 | PMCID: PMC3680901 | DOI: 10.4103/1817-1745.111428
+
+CASE REPORT
+
+A 14-year-old female presented with numbness and weakness of all limbs, preceded by 9 days of back pain. Upper respiratory infection 10 days before symptom onset.
+
+CLINICAL FINDINGS:
+- Proximal weakness 3/5, distal 4/5 in all extremities
+- Elevated CK (2190 U/L)
+- Positive M. pneumoniae IgM and rising IgG titers
+- Spinal MRI: Hyperintense lesions C4-T3 (anterior cervicothoracic spinal cord)
+- NCS: Acute motor polyneuropathy (reduced amplitudes, prolonged F latencies)
+- CSF: Normal protein and glucose, negative for infections
+
+DIAGNOSES: Concurrent myositis + transverse myelitis + GBS (acute motor polyneuropathy) post-M. pneumoniae
+
+TREATMENT:
+- IVIg 1 g/kg x 2 days + clarithromycin 15 mg/kg x 2 weeks
+- Day 15: Muscle strength improved to 4-5/5 proximally, 5/5 distally
+- Discharged walking independently
+
+PATHOGENESIS:
+- Neurological complications in 0.01-4.8% of M. pneumoniae infections
+- Autoimmune mechanism: antibodies against galactocerebroside-C, GM1, GM2, Gt1b, GQ1b
+- Common epitope hypothesis: shared pathological epitope between CNS and PNS myelin
+- Prior to this case, only one pediatric case of M. pneumoniae-associated GBS with TM documented
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3680901/

@@ -1,0 +1,25 @@
+Hashimoto's Encephalopathy: Clinical Features, Therapeutic Strategies, and Rehabilitation Approaches
+Manocchio N, Magro VM, Massaro L, Sorbino A, Ljoka C, Foti C
+Biomedicines. 2025;13(3):726
+PMID: 40149702 | PMCID: PMC11940270 | DOI: 10.3390/biomedicines13030726
+
+OVERVIEW
+Comprehensive review of HE clinical features, therapeutic strategies, and rehabilitation.
+
+KEY FINDINGS
+- HE presents with heterogeneous cognitive and behavioral manifestations, frequently leading to misdiagnosis
+- Elevated TPO antibodies lack direct causal relationship with the condition
+- Corticosteroids remain cornerstone of treatment with variable responses
+- Sometimes necessitates alternative immunosuppressive agents or IVIG
+
+REHABILITATION
+Cognitive re-education, physical therapy, and psychosocial support may benefit affected individuals, though evidence remains limited.
+
+TREATMENT EFFICACY
+- Glucocorticoid therapy effectiveness: ~61%
+- Relapse rate: ~32% of treated patients
+- First-line: methylprednisolone 1g IV x 5 days, then oral prednisone
+- Alternatives for resistant cases: azathioprine, rituximab, IVIG, plasma exchange
+
+PREVALENCE
+~2.1 per 100,000 adult population. Female predominance 4:1. Ages 40-60 primarily.

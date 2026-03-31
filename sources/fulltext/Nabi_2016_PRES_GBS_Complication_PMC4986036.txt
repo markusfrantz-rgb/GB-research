@@ -1,0 +1,67 @@
+Posterior Reversible Encephalopathy Syndrome (PRES) as a Complication of Guillain-Barre Syndrome (GBS)
+
+Authors: Sumaira Nabi, Haris Majid Rajput, Mazhar Badshah, Shahzad Ahmed
+Journal: BMJ Case Reports
+Year: 2016 (August 3)
+DOI: 10.1136/bcr-2016-216757
+PMID: 27489061
+PMCID: PMC4986036
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+A 17-year-old Pakistani female presented with acute flaccid quadriparesis due to GBS. Following four plasmapheresis sessions, she developed elevated blood pressure, headache, visual loss, and seizures on day 13 of hospitalization. Brain MRI revealed findings consistent with PRES affecting bilateral occipital and parietal white matter. Following antiepileptic and antihypertensive treatment, the patient recovered completely, with full motor restoration and visual recovery at 6-week follow-up.
+
+BACKGROUND
+
+PRES is described as a condition marked by "headache, altered mentation, seizures and visual dysfunction," commonly linked to hypertension, eclampsia, and metabolic disturbances. The authors note this represents approximately the 13th documented case of PRES occurring alongside GBS, suggesting that "GBS with autonomic dysfunction is a risk factor for the development of PRES."
+
+CASE PRESENTATION
+
+The patient presented following a two-week diarrheal illness with progressive, ascending weakness affecting all four extremities. Initial examination showed flaccid quadriparesis (3/5 strength) with absent reflexes. Nerve conduction studies confirmed acute-inflammatory demyelinating polyneuropathy consistent with GBS diagnosis.
+
+After four plasmapheresis sessions, the patient developed severe hypertension (160/100 mm Hg), severe headache, vomiting, bilateral visual loss, and two generalized seizures. Post-ictal visual acuity was significantly reduced bilaterally.
+
+INVESTIGATIONS
+
+Laboratory findings: Complete blood counts, metabolic panel, liver and renal function tests, serum electrolytes -- all normal. Antinuclear antibody negative; hepatitis B and C serology non-reactive.
+
+Neurophysiology: Nerve conduction studies showed prolonged distal latencies, slowed conduction velocities, and temporal dispersion in the left tibial nerve, consistent with acute-inflammatory demyelinating polyneuropathy.
+
+Cerebrospinal Fluid: Demonstrated cyto-protein dissociation with protein of 63 mg/dL and 2 white blood cells.
+
+Neuroimaging: MRI brain revealed altered signals in white matter of bilateral occipital, parietal, and right frontal lobes -- appearing "low on T1-weighted image, high on T2-weighted image and fluid-attenuated inversion recovery." Lesions showed no contrast enhancement. ADC sequences demonstrated increased signal intensity while DWI remained normal. MR angiography and venography were normal.
+
+EEG: Interictal EEG was normal.
+
+TREATMENT
+
+GBS management: Four alternate-day plasmapheresis sessions removing 250 mL/kg plasma total, with prophylactic anticoagulation and physiotherapy.
+
+PRES management: Intensive care monitoring with intravenous levetiracetam for seizure control and blood pressure management using oral propranolol (20 mg twice daily) and intravenous labetalol as needed.
+
+OUTCOME AND FOLLOW-UP
+
+After 25 days of hospitalization, the patient showed improved muscle strength (4/5 in all limbs). At six-week follow-up, complete recovery was documented: full motor strength restoration in all extremities and complete visual recovery. Repeat brain MRI showed "complete resolution of the initial lesions." Antihypertensive and antiepileptic medications were discontinued.
+
+DISCUSSION
+
+PRES constitutes a rare complication of GBS, approximately the 13th reported instance. The condition is characterized by "symmetric vasogenic oedema that appears low on T1WI and high on T2WI and FLAIR with little or no contrast enhancement," typically affecting parieto-occipital white matter.
+
+Pathogenesis mechanisms include:
+1. Autonomic dysfunction: Impaired cerebral autoregulation from acute hypertension
+2. Treatment-related: IVIg may cause hyperviscosity, hypercoagulopathy, and platelet hyperactivity
+3. Cytokine-mediated: Altered blood-brain barrier permeability through inflammatory mediators
+
+Previous literature predominantly reported PRES-GBS cases in females over 55 years, with symptoms developing an average of 6 days after GBS onset. This case differs notably -- the patient was only 17 years old, and PRES developed after 18 days.
+
+LEARNING POINTS
+
+- PRES manifests with characteristic clinical and radiological features
+- The coexistence of PRES and GBS represents a rare but recognized clinical association
+- Autonomic dysregulation in GBS constitutes a significant risk factor
+- Clinician awareness of this association enables timely intervention
+- Prompt management is essential to prevent serious complications
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC4986036/

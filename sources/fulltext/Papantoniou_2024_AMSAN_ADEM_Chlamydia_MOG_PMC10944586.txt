@@ -1,0 +1,31 @@
+Concurrent Acute Sensorimotor Axonal Neuropathy and Disseminated Encephalitis Associated with Chlamydia pneumoniae in an Adult Patient with Anti-MOG and Anti-Sulfatide Antibodies: A Case Report
+
+Authors: Michail Papantoniou, Grigorios Panagopoulos
+Journal: Therapeutic Advances in Neurological Disorders, 2024;17:17562864241237850
+PMID: 38495363 | PMCID: PMC10944586 | DOI: 10.1177/17562864241237850
+
+CASE REPORT
+
+A 60-year-old male developed simultaneous brain and peripheral nerve inflammation following an upper respiratory infection.
+
+PRESENTATION:
+- Irritability, asymmetric weakness, sensory loss, absent reflexes
+- Symptoms 3 weeks post-respiratory infection
+
+DIAGNOSTICS:
+- Brain MRI: Abnormal lesions in hemispheres, brainstem, cerebellum with peripheral enhancement
+- Nerve conduction studies: Reduced sensory and motor amplitudes (axonal neuropathy)
+- Positive C. pneumoniae serology
+- Anti-MOG IgG (1:80 titer)
+- Anti-sulfatide IgG (1:1000 titer)
+
+TREATMENT:
+- IVIg 30g daily x 5 days + methylprednisolone 1000mg x 3 days
+- Oral prednisone taper
+- At 3 months: remarkable clinical and radiological improvement
+- Antibodies became seronegative
+
+SIGNIFICANCE:
+First case report with concurrent AMSAN and ADEM with both anti-sulfatide and anti-MOG antibodies associated with C. pneumoniae.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC10944586/

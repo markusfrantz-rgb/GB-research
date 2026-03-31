@@ -1,0 +1,42 @@
+Asymmetrical Weakness Associated with Central Nervous System Involvement in a Patient with Guillain-Barre Syndrome
+
+Authors: Takao Kiriyama, Makito Hirano, Susumu Kusunoki, Daiji Morita, Minako Hirakawa, Yasuyo Tonomura, Takanori Kitauchi, Satoshi Ueno
+Journal: Clinical Medicine. Case Reports
+Year: 2009 (September 3), Volume 2, Pages 51-54
+DOI: 10.4137/ccrep.s3180
+PMID: 24179374
+PMCID: PMC3785336
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The researchers present a case demonstrating that "GBS is characterized by symmetrical weakness," yet patients can "manifest asymmetrical signs and symptoms attributable to CNS involvement." The patient had Campylobacter jejuni-associated GBS with positive anti-ganglioside antibodies (anti-GM1 IgM, anti-GD1b IgG, and anti-GT1a IgG).
+
+CASE REPORT
+
+A 30-year-old man experienced four days of diarrhea. Two weeks later, he developed progressive weakness in his right arm and both legs, prompting hospitalization.
+
+Neurological Findings: Asymmetrical weakness and variable deep tendon reflexes across all four limbs. No extensor plantar responses, sensory disturbances, respiratory compromise, or cranial nerve involvement.
+
+Nerve Conduction Studies: Initial testing showed minimal compound muscle action potential reduction in the right median nerve. Motor evoked potential studies revealed non-detectable responses at the abductor pollicis brevis during cortical stimulation but normal latency with cervical-root stimulation, indicating central involvement. Normal F-wave findings excluded proximal root pathology.
+
+CSF: Initial analysis normal. Three weeks post-onset, protein increased to 136 mg/dl with normal cells (albuminocytological dissociation).
+
+Imaging and Immunology: Brain and spinal cord MRI showed no abnormalities. Anti-Campylobacter jejuni antibodies positive. Anti-ganglioside antibodies: anti-GM1 IgM, anti-GD1b IgG, and anti-GT1a IgG all positive.
+
+Treatment and Outcome: IVIg therapy started on day one. Nine months later, mild left hand weakness persisted, correlating with delayed central motor conduction time (10.8 msec on left versus 5.7 msec on right). Complete resolution occurred one year post-onset with no recurrence over six years.
+
+DISCUSSION
+
+Key points:
+1. Asymmetry in GBS can reflect CNS involvement
+2. Prolonged central motor conduction time directly correlated with persistent weakness
+3. Normal MRI does not exclude CNS pathology in GBS
+4. Motor evoked potential studies are more sensitive than MRI for detecting CNS involvement
+5. Only 58% of patients with MEP abnormalities show extensor plantar response; 72% show hyperreflexia
+6. Autopsy studies document "central chromatolysis of motor neurons, mononuclear cell filtration, and microglial activation in the lateral column" in GBS
+7. Anti-ganglioside antibodies may mediate both peripheral and central nervous system damage
+8. Prompt diagnosis and treatment of post-C. jejuni GBS is mandatory given relatively poor prognosis
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3785336/

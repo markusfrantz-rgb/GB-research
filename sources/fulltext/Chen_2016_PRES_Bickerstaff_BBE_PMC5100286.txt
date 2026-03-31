@@ -1,0 +1,41 @@
+Posterior Reversible Encephalopathy as the First Manifestation of Bickerstaff's Brainstem Encephalitis
+
+Authors: Pei-Ru Chen, Shih-Pin Chen
+Journal: BMC Neurology
+Year: 2016 (November 8)
+DOI: 10.1186/s12883-016-0737-6
+PMID: 27821089
+PMCID: PMC5100286
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The case describes a 75-year-old woman who presented with acute hypertension, headache, vision problems, and eyelid drooping. Brain imaging revealed characteristic PRES lesions in bilateral occipital lobes. Subsequently, she developed complete eye muscle paralysis, progressive loss of coordination, and lower limb weakness -- symptoms indicating Bickerstaff's brainstem encephalitis.
+
+"PRES can be a comorbid condition with Bickerstaff's brainstem encephalitis, either preceding or following treatment." This case was notable because PRES developed before any medical intervention, distinguishing it from previously reported cases where IVIg treatment triggered the complication.
+
+KEY CLINICAL FINDINGS
+
+1. 75-year-old woman with acute onset hypertension, headache, visual disturbance, ptosis
+2. Brain MRI: characteristic PRES lesions in bilateral occipital lobes
+3. Subsequent development of: complete ophthalmoplegia, progressive ataxia, lower limb weakness
+4. These symptoms consistent with Bickerstaff's brainstem encephalitis (BBE)
+5. PRES preceded BBE diagnosis and occurred before any treatment
+
+PROPOSED MECHANISMS
+
+- Dysautonomia from BBE causing acute hypertension leading to PRES
+- Elevated inflammatory cytokines causing endothelial dysfunction
+- Blood-brain barrier disruption common to both conditions
+- BBE-related immune dysregulation may independently predispose to PRES
+
+CLINICAL SIGNIFICANCE
+
+1. PRES can be the presenting feature of BBE, not just a complication
+2. PRES and BBE may share pathophysiological mechanisms (BBB disruption, immune dysregulation)
+3. When PRES occurs without clear etiology, underlying autoimmune neuropathy should be considered
+4. Anti-GQ1b antibody spectrum disorders (BBE, Miller-Fisher, GBS) may all predispose to PRES
+5. Treatment must address both PRES (hypertension control) and BBE (immunotherapy)
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC5100286/

@@ -1,0 +1,43 @@
+Combined central and peripheral demyelination: A case report and literature review
+Iranian Journal of Neurology 2019;18(1):35-37
+Authors: Nouha H, Olfa H, Farhat N, Sawsan F, Salma S, Hanen HK, Mariem D, Chokri M
+PMID: 31316735 | PMCID: PMC6626605
+
+=== ABSTRACT ===
+
+A 20-year-old man presented with acute static and kinetic cerebellar syndrome. Initial brain MRI revealed demyelinating lesions. Initially diagnosed with MS. Later developed progressive limb weakness progressing to flaccid tetraplegia with significant amyotrophy, leading to CIDP diagnosis alongside MS features.
+
+=== CASE REPORT ===
+
+Patient: 20-year-old male
+
+May 2017: Acute static and kinetic cerebellar syndrome
+- Brain MRI: Demyelinating lesions
+- Lumbar puncture: Elevated protein, no oligoclonal bands
+- Initial diagnosis: Multiple sclerosis
+
+August 2017: Progressive deterioration
+- Developed progressive limb weakness
+- Progressed to flaccid tetraplegia with important amyotrophy
+- NCS: Severe sensory-motor demyelinating neuropathy
+- Revised diagnosis: CIDP + CNS demyelination = CCPD
+
+=== TREATMENT ===
+
+Plasma exchange (5 sessions):
+- Mild functional improvement
+- Partial benefit
+
+Anti-neurofascin-155 antibodies: Negative
+
+=== KEY POINTS FROM LITERATURE REVIEW ===
+
+1. CCPD is rare, knowledge based on case reports and small series
+2. Can present acutely or chronically
+3. Initial symptom may be of CNS origin, PNS origin, or both
+4. Anti-NF155 antibodies are significant in some CCPD cases
+5. Treatment options: steroids, IVIg, PE, rituximab
+6. Prognosis is generally poor — two-thirds have relapsing/progressive course
+7. Unsatisfactory responses to corticosteroids and IVIg in many cases
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6626605/

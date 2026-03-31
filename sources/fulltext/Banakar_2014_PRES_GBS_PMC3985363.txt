@@ -1,0 +1,58 @@
+Guillain-Barre Syndrome with Posterior Reversible Encephalopathy Syndrome
+
+Authors: Basavaraj F Banakar, Guruprasad S Pujar, Amita Bhargava, Shubhkaran Khichar
+Journal: Journal of Neurosciences in Rural Practice
+Year: 2014 (January-March), Volume 5, Issue 1, Pages 63-65
+DOI: 10.4103/0976-3147.127877
+PMID: 24741255
+PMCID: PMC3985363
+
+=== FULL TEXT ===
+
+ABSTRACT
+
+The authors describe a rare clinical presentation: concurrent Guillain-Barre syndrome (GBS) and posterior reversible encephalopathy syndrome (PRES). They propose dysautonomia as the connecting mechanism. Their patient was a 63-year-old non-hypertensive male who presented with acute paralysis and subsequently developed seizures with elevated blood pressure. MRI revealed altered signal intensities involving the parieto-occipital areas characteristic of PRES, while cerebrospinal fluid analysis and nerve conduction studies confirmed GBS. Treatment included antihypertensives, antiepileptics, and later intravenous immunoglobulin, resulting in gradual recovery.
+
+INTRODUCTION
+
+PRES represents a clinico-radiological condition manifesting with headache, seizures, and altered consciousness. Common etiologies include eclampsia, septicemia, and chemotherapy. The authors note that while PRES following IVIg therapy in GBS patients has been documented, concurrent presentation of both conditions remains exceptionally rare, warranting case documentation.
+
+CASE REPORT
+
+A 63-year-old non-hypertensive, non-diabetic male presented with five-day progressive walking difficulty, four-day upper limb weakness, dysarthria, and dysphagia. Upon admission, he experienced four generalized tonic-clonic seizures within twelve hours, losing consciousness afterward.
+
+Initial Examination: Stuporous state, blood pressure 192/94 mmHg, flaccid limbs, bilateral extensor plantar responses
+
+Fourth Day Findings: Regained consciousness; bilateral lower motor neuron facial/bulbar weakness, hypotonic limbs (shoulder/arm/hip/thigh power 1/5; forearm/leg 2/5), absent deep tendon reflexes, no sensory loss
+
+Investigations:
+- Standard laboratory work, imaging studies were unremarkable
+- CSF: Albuminocytological dissociation with 4 lymphocytes, 176 mg/dL protein, normal glucose
+- MRI brain: Bilateral cortical/subcortical signal changes in parieto-occipital regions, hypointense on T1, hyperintense on T2/FLAIR, consistent with PRES
+- Nerve conduction studies: Prolonged latencies, reduced conduction velocity, absent F-waves, reduced compound muscle action potential amplitudes -- findings diagnostic of demyelinating polyneuropathy
+
+Treatment and Outcome: Antihypertensives and antiepileptics controlled acute symptoms. Following encephalopathy resolution, IVIg was administered. The patient achieved ambulatory independence within six months.
+
+DISCUSSION
+
+The authors highlight that GBS typically affects only peripheral nerves without altering consciousness. Severe respiratory paralysis might cause hypoxic injury; however, this patient lacked respiratory involvement yet presented with seizures and loss of consciousness with classic PRES imaging.
+
+Epidemiology: GBS incidence ranges from 0.75-2 per 100,000 cases; PRES incidence is even lower. Their concurrent occurrence represents a statistical rarity.
+
+Literature Review: Most reported GBS-PRES cases developed PRES after IVIg initiation. Cases with PRES preceding therapy are uncommon.
+
+PRES Pathophysiology:
+The condition involves cerebral vasogenic edema. Two competing hypotheses explain this:
+1. Impaired autoregulation hypothesis: Acute blood pressure elevation overwhelms cerebral protective mechanisms, increasing blood flow and causing edema
+2. Endothelial dysfunction hypothesis: Hypoperfusion and blood-brain barrier disruption, particularly relevant to cytotoxic drug exposure
+
+Both pathways result in cerebral edema and clinical manifestations.
+
+GBS-Related Dysautonomia:
+In GBS patients, dysautonomia can trigger PRES through acute sympathetic activation. Elevated urinary catecholamines correlate with clinical dysautonomia severity and may serve as biological markers. The authors note their patient demonstrated autonomic dysfunction without measuring catecholamines.
+
+CONCLUSION
+
+GBS represents an independent PRES risk factor through dysautonomia-mediated mechanisms. Delayed recognition risks cerebral infarction or mortality. Treatment options include IVIg or plasmapheresis. Clinician awareness of this rare coexistence enables earlier intervention, reducing patient morbidity and mortality.
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC3985363/

@@ -1,0 +1,658 @@
+Title: Odaka M, Yuki N, Yamada M, et al
+Citation: Odaka M, Yuki N, Yamada M, et al. Bickerstaff brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barre syndrome. Brain. 2003;126(Pt 10):2279-2290. PMID: 12847079
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Bickerstaff's brainstem encephalitis: clinical
+features of 62 cases and a subgroup associated
+with Guillain±Barre Âsyndrome
+Masaaki Odaka,1Nobuhiro Yuki,1Mitsunori Yamada,2Michiaki Koga,1Toshihiko Takemi,3
+Koichi Hirata1and Satoshi Kuwabara4
+1Department of Neurology, Dokkyo University School of
+Medicine, Tochigi2Department of Pathology, Brain
+Research Institute, Niigata University, Niigata3Department
+of Neurology, St Luke's International Hospital, Tokyo and
+4Department of Neurology, Chiba University School of
+Medicine, Chiba, JapanCorrespondence to: Nobuhiro Yuki, MD, PhD, Department
+of Neurology, Dokkyo University School of Medicine,Kitakobayashi 880, Mibu, Shimotsuga, Tochigi 321-0293,JapanE-mail: yuki@dokkyomed.ac.jp
+Summary
+Bickerstaff reported eight patients who, in addition toacute ophthalmoplegia and ataxia, showed drowsiness,extensor plantar responses or hemisensory loss. Thiscondition has been named Bickerstaff's brainstem ence-phalitis (BBE). One patient had gross ¯accid weaknessin the four limbs. Presumably because of the rarity ofthis disorder, there has been no reported study on a
+large number of patients with BBE. To clarify its clin-
+ical features, we reviewed detailed clinical pro®les andlaboratory ®ndings for 62 cases of BBE diagnosed bythe strict criteria of progressive, relatively symmetricalexternal ophthalmoplegia and ataxia by 4 weeks, anddisturbance of consciousness or hyperre¯exia. Ninety-two per cent of the patients involved had had an ante-cedent illness. Besides ophthalmoplegia and ataxia,
+disturbance of consciousness was frequent (74%), and
+facial diplegia (45%), Babinski's sign (40%) and pupil-lary abnormality and bulbar palsy (34%) were present.Almost all the patients had a monophasic remittingcourse and generally a good outcome. Serum anti-GQ1b
+IgG antibody was positive in 66%, and MRI showedbrain abnormality in 30% of the patients. Anotherstriking feature was the association with ¯accid sym-metrical tetraparesis, seen in 60% of the patients. Anautopsy study of a BBE patient clearly showed the pres-ence of de®nite in¯ammatory changes in the brainstem:
+there was perivascular lymphocytic in®ltration with
+oedema and glial nodules. Electrodiagnostic studyresults suggested peripheal motor axonal degeneration.Limb weakness in the BBE cases studied was con-sidered the result of overlap with the axonal subtype ofGuillain±Barre Âsyndrome. These ®ndings con®rm that
+BBE constitutes a clinical entity and provide additionalclinical and laboratory feaures of BBE. A considerable
+number of BBE patients have associated axonal
+Guillain±Barre Âsyndrome, indicative that the two
+disorders are closely related and form a continuousspectrum.
+Keywords : Bickerstaff's brainstem encephalitis; Guillain±Barre Âsyndrome; Fisher syndrome; anti-GQ1b antibody
+Abbreviations : AMAN = acute motor axonal neuropathy; BBE = Bickerstaff's brainstem encephalitis;
+CMAP = compound muscle action potential; ELISA = enzyme-linked immunosorbent assay; FS = Fisher syndrome;GBS = Guillain±Barre Âsyndrome; IVIg = intravenous immunoglobulin; MRC = Medical Research Council
+Introduction
+In 1951, Bickerstaff and Cloake (1951) reported three cases
+of drowsiness, ophthalmoplegia and ataxia, which theydesignated `mesencephalitis and rhombencephalitis', andproposed that the lesion responsible for these clinical signswas in the midbrain. Five years later, Fisher (1956) describedthree cases of ophthalmoplegia, ataxia and are¯exia. Hepostulated that this disorder is a variant of Guillain±Barre Âsyndrome (GBS) because of the presence of are¯exia and
+CSF albuminocytological dissociation. The condition wasnamed Fisher syndrome (FS). The following year, Bickerstaff(1957) added ®ve more cases to the original study, and as ade®nitive syndrome, named the condition `brain-stemencephalitis'. Table 1 shows that almost all the patients hadsymmetrical ophthalmoplegia, ataxia and disturbance of
+Brain 126 ãGuarantors of Brain 2003; all rights reservedDOI: 10.1093/brain/awg233 Advanced Access publication July 7, 2003 Brain (2003), 126, 2279±2290Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 2 ---
+consciousness, and some also had Babinski's sign and
+hemisensory loss, suggestive of central involvement. Theaetiology of this syndrome was speculated to be similar to
+that of GBS because of evidence of prodromal upperTable 1 Clinical features of cases reported by Fisher, Bickerstaff and Al-Din et al.
+Authors and Antecedent illness Neurological signs CSF Our
+Case Nos albumino- diagnosis
+Consciousness
+disturbanceOphthalmo-
+plegiaLimb
+weaknessTendon
+re¯exBabinski's
+signAtaxia cytological
+dissociation
+Fisher (1956)
+1 Sore throat, malaise,
+headache± + Mild Absent ± + + FS with
+overlapping
+GBS
+2 Malaise, fever, cough Drowsiness + ± Absent ± + ± BBE3 Cough, headache ± + ± Absent ± + ± FS
+Bickerstaff (1957)
+1* Headache, muscular
+painsDrowsiness + + + ± BBE
+2* Malaise, headache Drowsiness + Decreased + + BBE
+3* Headache Drowsiness + + ± BBE4 Vertigo, vomiting Drowsiness + Gross ¯accid + + ± BBE with
+overlapping
+GBS
+5 Headache, malaise Drowsiness + ± Absent Equivocal + ± BBE6 Malaise, fever,
+vomitingDrowsiness ± + ± Brainstem
+encephalitis
+7 Headache, malaise,
+vomitingDrowsiness + Absent + + ± BBE
+8 Muscular pain,
+malaiseDrowsiness + Decreased + + BBE
+Al-Din et al. (1982)
+1 Headache Drowsiness + Brisk + + ± BBE2 Headache Drowsiness + Brisk + ± BBE3 + Absent + ± FS
+4 Drowsiness + Normal + + ± BBE
+5 + Absent + ± FS6 Drowsiness + Slight Absent + ± BBE with
+overlapping
+GBS
+7 Drowsiness + Flaccid Brisk + + ± BBE with
+overlapping
+GBS
+8 + + Brisk + ± BBE with
+overlappingGBS
+9 Flu-like illness Drowsiness + Absent + ± BBE
+10 Headache, giddiness
+with vomitingDrowsiness + Normal + ± BBE
+11 Cough, headache Drowsiness + Absent + ± BBE
+12 Malaise Comatose + Normal + ± BBE
+13 Pharyngitis, diarrhoea,
+headacheDrowsiness + Mild Absent + + BBE with
+overlapping
+GBS
+14 Headache Drowsiness + Absent + ± BBE15 Malaise + Absent + FS16 Sore throat + Absent + ± FS
+17 Upper respiratory tract
+infectionDrowsiness + Absent + + + BBE
+18 Sore throat + Mild Absent + + FS with
+overlapping
+GBS
+BBE = Bickerstaff's brainstem encephalitis; FS = Fisher syndrome; GBS = Guillain±Barre Âsyndrome. *Three cases described by
+Bickerstaff and Cloake in 1951. Blank: information not available.2280 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 3 ---
+respiratory infection, are¯exia and CSF albuminocytological
+dissociation. Bickerstaff (1978) reviewed the syndrome fortheHandbook of Clinical Neurology under the title `Brain
+stem encephalitis (Bickerstaff's encephalitis)', but did notcite Fisher's 1956 paper. Since then, such a condition hasbeen called Bickerstaff's brainstem encephalitis (BBE). A
+subsequent publication from a group of researchers, which
+included Bickerstaff (Al-Din et al., 1982), reported 18 other
+patients with `brainstem encephalitis and the syndrome ofMiller Fisher' and argued a central origin. All 18 patients hadophthalmoplegia and ataxia. Eleven of them showed drow-siness, and one was comatosed. Tendon re¯exes were absentin 11, normal in three and brisk in four. Four had Babinski'ssign and two had long-tract sensory disturbance (Table 1). On
+the basis of radiological (three patients) and pathological (one
+patient) changes in the brainstem and abnormal EEG ®ndings(12 patients), they insisted that the condition represents aclinical entity distinct from GBS. The next year, Ropper(1983) criticized their report. He considered that six of the 18cases were typical FS, and the other 12 represented obscurebrainstem lesions without peripheral polyneuropathy. Fromthis historical perspective, BBE should be the diagnosis for
+patients who have acute onset of disturbance of conscious-
+ness, brisk tendon re¯exes or long-tract sensory impairmentin addition to ophthalmoplegia and ataxia.
+The nosological relationship of BBE to FS or GBS remains
+controversial, and it is not clear whether BBE is a distinctdisease entity or a variant of FS or GBS. Presumably, becauseof its rarity, there has been no study of a large number of BBEpatients. Studies published in the 1990s showed that serum
+anti-GQ1b IgG antibody levels are frequently elevated in
+patients with FS (Chiba et al., 1992; Willison et al., 1993) and
+in those with BBE (Yuki et al ., 1993). The immunological
+pro®le common to BBE and FS lends supports to a commonpathogenesis, but it does not provide the answer to thequestion of whether these syndromes are separate entities.Our study was undertaken to clarify the clinical, electro-physiological, neuroimaging and immunological features of a
+large number of patients with BBE. In addition, we present
+pathological ®ndings for a patient with BBE.
+Patients and methods
+Diagnostic criteria for BBE
+On the basis of the ®ndings of Bickerstaff (1957) and Al-Din
+et al . (1982), `progressive, relatively symmetric external
+ophthalmoplegia and ataxia by 4 weeks' and `disturbance of
+consciousness or hyperre¯exia' are required as clinicalfeatures for the diagnosis of BBE. With these strict criteria,BBE, not FS, was diagnosed for patients with drowsiness,although in Case 2 in the original report by Fisher (1956)there was mild drowsiness. For a diagnosis of BBE, thefollowing diseases must be excludable: vascular diseaseinvolving the brainstem; Wernicke's encephalopathy;
+botulism, myasthenia gravis; brainstem tumour; pituitaryapoplexy; acute disseminated encephalomyelitis (disorders
+described in the papers of Bickerstaff and Cloake, 1951;
+Bickerstaff, 1957; Fisher, 1956; Al-Din et al., 1982); multiple
+sclerosis; neuro-Behc Ëet disease; vasculitis; and lymphoma
+(our addition). One patient among Bickerstaff's original caseshad ¯accid limb weakness, and BBE cases were divided into
+`BBE without limb weakness' and `BBE with limb weak-
+ness'.
+Patients and clinical data
+One of the present authors (M.O.) reviewed the medicalrecords of 98 patients who had BBE ( n= 48), brainstem
+encephalitis ( n= 25), FS with CNS involvement ( n= 14) or
+GBS associated with disturbance of consciousness ( n= 11),
+as diagnosed by the primary physicians. Four of the patients
+had been admitted to our hospital and the others were referredto our neuroimmunological laboratory for serum antiganglio-side antibody testing from hospitals throughout Japan
+between December 1994 and February 2000. On the basis
+of the preceding criteria, BBE was the rediagnosis for 62 ofthese 98 patients.
+Information on the following was obtained from each
+primary physician: antecedent illness; initial symptoms;neurological signs during the illness; the clinical course;
+CSF, MRI, and neurophysiological (EEG, motor nerve
+conduction study, and needle electromyography) ®ndings;treatment provided; and outcome. The neurological signswere assessed as disturbance of consciousness (drowsiness,
+stupor, semicoma or coma); blepharoptosis, external and
+internal ophthalmoplegia; nystagmus; facial weakness; bul-bar palsy; limb weakness of 4 or <3 on the Medical Research
+Council (MRC) scale (two or more muscle groups); deep
+tendon re¯exes (brisk, normal, absent or decreased);
+Babinski's sign; truncal or limb ataxia; and deep or super®cialsense impairment.
+CSF samples were tested at the various hospitals. CSF
+albuminocytological dissociation was de®ned as high protein
+(>45 mg/dl) with normal cellularity ( <5 cells/ ml). Serum
+IgM and IgG antibodies to GM2, GM1, GD1a, GalNAc-GD1a, GD1b, GT1b and GQ1b were measured by an enzyme-linked immunosorbent assay (ELISA), as described else-
+where (Odaka et al., 1998). Serum was considered positive
+when the antibody titre was >500. Evidence of recent
+Campylobacter jejuni infection was tested serologically, as
+reported elsewhere (Koga et al ., 1998). In the nerve
+conduction studies, when motor distal latency was prolonged
+(>10% of the upper normal limit) or conduction velocity was
+slowed ( <90% of the lower normal limit) in two or more
+nerves, the motor nerves were classi®ed as demyelinated (Hoet al., 1995). When patients had a decrease in the amplitude of
+the distal compound muscle action potentials (CMAPs)
+(<80% of the lower normal limit) and no evidence of
+demyelination as de®ned above, the condition of the motornerves was regarded as axonal degeneration.Bickerstaff's brainstem encephalitis 2281Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 4 ---
+Statistical analysis
+Statistical calculations were made with Statcelâsoftware
+(OMS, Saitama, Japan). Comparisons between groups ofclinical features were made by post hoc . Differences in
+percentages were tested with c
+2or Fisher's exact test. P
+values of <0.05 denoted statistical signi®cance.
+Results
+Case reportsIllustrative case of typical BBEPatient 1
+A 29-year-old man experienced coughing and nasal dis-
+charge, which resolved in 7 days. Ten days after resolution,
+he suffered numbness of the arms and legs, diplopia,dysarthria, drowsiness and unsteady gait (day 1). On day 7,he was drowsy but easily aroused by stimulation.Neurological examination revealed mild bilateral blephar-optosis, limitation of horizontal gaze and incomplete conver-gence. There was upbeating nystagmus on upward gaze, andbilateral horizontal gaze-evoked nystagmus. His pupils were
+dilated and light re¯exes were absent. Bell's phenomenon and
+oculocephalic re¯exes were preserved. Slurred speech waspresent, but there was no facial or oropharyngeal palsy. Therewas no weakness. Finger-to-nose and heel-to-knee tests wereataxic. Deep tendon re¯exes were diminished in the upperlimbs and absent in the lower ones. Pathological re¯exes werelacking. He could hold himself erect with a wide-basedstance, but could not walk without support. Hypoaesthesiae of
+the glove-and-stocking type were present, but vibration sense
+was intact.
+High-resolution MRI with and without gadolinium
+enhancement detected no plaques in the brainstem andbrain. The serum anti-GQ1b IgG antibody titre was high(51 200), and between days 13 and 22 the patient underwentseven sessions of immunoadsorption with a tryptophan-conjugated column (TR-350
+â; Asahi Medical, Tokyo, Japan),
+which highly adsorbs this autoantibody (Yuki, 1996). He
+became fully conscious on day 14, and the next day couldwalk around the room with a wide-based gait, holding ontothe furniture. There was slight movement of the eyeballs indownward gaze. CSF protein was 149 mg/dl, with normalcellularity. On day 20 he could walk >5 m without support,although unsteadily. Motor and sensory nerve conductionvelocities were normal. On day 29 there was no extraocular
+muscles paresis, except for limitation of abduction. Ataxic
+gait disappeared, and on day 35 he could stand on one foot.On day 60 his range of eye movements was complete, and hewas discharged. By day 73, nystagmus had disappeared.
+Illustrative cases of BBE with overlapping GBS
+Patient 2
+A 37-year-old man had chills and a cough. On the morning
+after the sixth day (day 1) he had dysaesthesiae, dysarthriaand ataxic gait, but he was alert. Limitation of ocular
+movement was detected in the lateral gaze of both eyes. Limbstrength in the arms and legs was 4 on the MRC scale. Alltendon jerks were absent. Plantar responses were indifferent.Formal tests of limb coordination showed decomposition anddysmetria. Paraesthesiae and hypoaesthesiae of the glove-and-stocking type were present. Vibration and position senses
+were intact. GBS was diagnosed. By the evening he could not
+swallow. He was intubated and placed on a respirator asrespiration was apneustic breathing and he was comatosed. Atthat time, he was considered to have overlapping GBS andBBE.
+CSF protein was 59 mg/dl associated with pleocytosis (57
+cells/ ml). He underwent four sessions of immunoadsorption,
+on days 2, 5, 7 and 12. On day 7, auditory evoked brainstem
+responses showed the absence of waves II±V on both sides
+(Fig. 1A). MRI on days 6 and 21, with and withoutenhancement, detected no abnormalities in the brainstemand brain. Because coma continued, he was given 0.4 g/kg ofhuman immunoglobulin daily for 5 days, starting on day 13.Electrophysiological examination on day 9 showed reducedamplitudes of CMAPs with normal motor conductionvelocities in the median, ulnar and tibial nerves, indicativeof primary axonal degeneration (Table 2). On day 18 the
+distal and proximal CMAP amplitudes had further decreased,
+but the motor conduction velocity continued to be normal.ELISA con®rmed that serum obtained on day 2 had high IgGantibody titres to GM1 (4000), GD1a (4000), GD1b (2000),GalNAc-GD1a (4000) and GQ1b (500). He began to recoverfrom respiratory failure on day 15, but a tracheostomy wasperformed because his coma continued. Recovery from comabegan on day 23, and he was fully alert on day 33. Limb
+weakness lessened, and on day 32 his auditory evoked
+Fig. 1 (A) Auditory evoked brainstem responses showing the
+absence of II±V waves on both sides on day 7. ( B) On day 32, the
+patient's auditory evoked brainstem responses were normal.2282 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 5 ---
+brainstem responses were normal (Fig. 1B). He was taken off
+the mechanical respirator. However, he suddenly died ofsuffocation due to obstruction with sputum on day 45.
+An autopsy was performed. The brain weighed 1530 g.
+Histological examination results for the cerebrum werenormal. The cerebellum showed occasional grumose degen-eration in the dentate nucleus. The brainstem had perivascularlymphocytic in®ltration with perivascular oedema (Fig. 2A)
+and glial nodules (Fig. 2B). The trigeminal motor nucleus
+showed marked central chromatolysis of the neurons(Fig. 2C), and chromatolytic changes in the neuronalcytoplasm were frequent in the spinal anterior horn. Focallymphocytic in®ltration was seen in the dorsal root ganglia.Bronchial mucosal lymphocytic in®ltration was detected inthe lungs, indicative of systemic infective processes. Nopulmonary embolism and coronary artery occlusion were
+present.
+Patient 3
+A 54-year-old man suffered coughing with sputum and
+diarrhoea, which all abated after a few days. Several daysafter their resolution, he experienced diplopia in the morning(day 1). The next day there was worsened diplopia and ataxicgait. On day 3 he remained alert. In addition to completeophthalmoplegia, there were mild bifacial palsy, severe
+oropharyngeal palsy and slightly explosive speech. Light
+re¯exes were prompt. There was proximal upper limbweakness, of 4 on the MRC scale. Deep tendon re¯exeswere absent, but extensor plantar responses were present.Finger-to-nose and heel-to-knee tests showed ataxia.Paraesthesiae of the glove-and-stocking type were present.Vibration sense was mildly decreased in the lower limbs.
+CSF protein was 31 mg/dl, with normal cellularity. MRI
+detected no abnormalities in the brainstem. Motor nerve
+conduction velocities were not reduced in the median, ulnarand tibial nerves, whereas CMAP amplitudes were decreasedmarkedly (Table 2). ELISA con®rmed that serum obtained onday 3 had high IgG antibody titres to GD1a (500), GD1b(500), GT1b (2000) and GQ1b (64 000). On day 4 he hadbecome disorientated and his limb weakness had worsened.Deltoid and triceps muscle weakness registered 3 on the MRC
+scale. Laboratory studies of the identi®able causes ofdisorientation (analysis of blood gas, blood sugar, sodium,
+creatinine, thiamin, renin activity and ammonia) were allnormal. Hypoxia and metabolic diseases, such as diabetes
+mellitus, hyponatraemia, uraemia, Wernicke's encephalopa-
+thy, Addison's disease, hepatic encephalopathy and alcohol-
+ism, were excluded on the basis of physical and laboratory
+®ndings. On days 4, 5, 8, 9, 10, 11 and 12, he underwent seven
+sessions of immunoadsorption. Recovery began on day 24.
+His neurological signs disappeared in the order of ophthal-
+moplegia, ataxia, limb weakness and dysaesthesia. Two
+months later, he could climb stairs without support.
+Clinical features of 62 patients with BBE
+According to our BBE diagnostic criteria, the condition was
+diagnosed for 62 of the 98 patients. Table 3 shows the clinical
+pro®les of the 62 patients, 37 of whom were men and 25
+women, aged 3±91 years (median, 39 years). Fifty-seven
+(92%) patients had had antecedent illnesses (66% upper
+respiratory infectious symptoms only, 9% fever only, 6%
+fever and headache, 5% diarrhoea only, and 5% both upper
+respiratory infectious symptoms and diarrhoea).
+The most common initial symptoms were diplopia (52% of
+the patients) and gait disturbance (35%), and 14 (23%)
+developed both on the same day. Twelve patients (19%) had
+dysaesthesiae of the upper and/or lower limbs, eight (13%)
+disturbance of consciousness, and seven (11%) dysarthria or
+limb weakness. Other initial symptoms were blepharoptosis
+and photophobia (<5%).
+According to the BBE diagnostic criteria, all the patients
+had external ophthalmoplegia and ataxia (both truncal and
+limb, 71%; truncal only, 18%; limb only, 11%). During the
+illness, consciousness was disturbed in 74% (drowsiness,
+45%; stupor, semicoma or coma, 29%). All those without
+disturbance of consciousness had hyper-re¯exia. Limb
+weakness was appreciable in 60%. Deep tendon re¯exes
+were absent or decreased in 58%, normal in 8%, and brisk in
+34%. Babinski's sign was present in 40%. All the patients had
+ataxia, but only 16% had deep sense impairment. Facial
+weakness (45%), internal ophthalmoplegia and bulbar palsy
+(34%), super®cial sense impairment (31%), blepharoptosis
+(29%) and nystagmus (27%) were relatively frequent.Table 2 Motor nerve conduction study results for Patients 2 and 3
+Patient 2 Patient 3 Normal limit
+Median
+nerveUlnar
+nerveTibial
+nerveMedian
+nerveUlnar
+nerveTibial
+nerveMedian
+nerveUlnar
+nerveTibial
+nerve
+Distal latency (ms) 4.1 2.3 4.6 4.2 2.5 6.0 <4.5 <3.5 <5.6
+Motor nerve conduction velocity (m/s) 60.2 60.8 44.1 52.2 50.7 37.9 >48 >48 >38
+Distal CMAP amplitude (mV) 4.3 5.3 4.0 2.1 1.6 1.9 >4.4 >4.6 >5.8Proximal CMAP amplitude (mV) 4.2 5.1 3.9 2.4 1.2 0.9 >4.2 >4.2 >5.8
+CMAP = compound muscle action potential.Bickerstaff's brainstem encephalitis 2283Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 6 ---
+Table 4 shows abnormal MRI and neurophysiological
+®ndings. Detailed information was available for 54 patients
+for MRI, 33 for EEG and 34 for motor nerve conduction
+studies. Sixteen (30%) had high-intensity abnormalities on
+T2-weighted images of the brainstem, thalamus, cerebellum
+or white matter of the cerebrum. Twenty-four (73%) showedqordactivity at rest. Fifteen (44%) had abnormal motor
+nerve conduction study ®ndings, the predominant processbeing axonal degeneration in 13 (38%) and demyelination intwo (6%). Needle electromyography was performed in sixpatients. Active denervation potentials (positive sharp wavesor ®brillation potentials) were present in three, with limb
+weakness on days 21±53. Data on CSF were obtained 1±3
+times (median, 1) in 54 patients, all within 4 weeks after theneurological onset (median, 6 days; range, 1±26 days).Table 5 shows CSF ®ndings during the ®rst week, the secondweek, and the third and fourth weeks. The CSF cell countranged from 0 to 142/ ml (median, 2 cells/ ml) and protein
+concentration from 10 to 678 mg/dl (median, 47 mg/dl). TheCSF protein concentration was increased in 32 (59%) patients
+during the ®rst 4 weeks after the onset. Cell count was >5
+cells/ ml in 20 (37%), none of whom had human immunode-
+®ciency virus infection. The median CSF protein concentra-tion after the second week was higher than that during the ®rstweek. CSF albuminocytological dissociation was found in 19patients (35%) during the ®rst 4 weeks, and the frequencyincreased from 19% in the ®rst week to 57% in the third andfourth weeks. Of the 62 patients with BBE, anti-GQ1b IgG
+antibody was present in 41 (66%) and anti-GM1, anti-GD1a
+or anti-GalNAc-GD1a IgG antibody in 11 (18%) (Table 6).Serological evidence of recent C. jejuni infection was found
+in 14 (23%) of 60 patients; sera from the other two patientswere not available.
+Treatment of the 62 patients was as follows: combinations
+of steroids and plasmapheresis (plasma exchange, double-®ltration plasmapheresis or immunoadsorption therapy) were
+given to 16 (26%) patients, plasmapheresis only to 14 (23%),
+steroids only to 13 (21%), combinations of steroids andintravenous immunoglobulin (IVIg) to ®ve (8%), combin-ations of steroids and plasmapheresis followed by IVIg tothree (5%), plasmapheresis followed by IVIg and IVIg only totwo (3%), and no speci®c immunotherapy to seven (11%).Assisted ventilation was required for 10 (16%) of the 62 BBEpatients during the acute phase. By 6 months after disease
+onset, 37 (66%) of the 56 patients for whom outcome data
+were available showed complete remission with no residualsymptoms. Dysaesthesiae or limb weakness persisted in eight(14%) and diplopia or gait disturbance in ®ve (9%). Threepatients had residual symptoms; one each had psychicchange, dementia and dysphagia. In addition to Patient 2described in the case reports, two patients died, one of suddencardiopulmonary arrest and the other of haemorrhagic
+infarction, a complication in the right cerebrum caused by
+candida meningitis.
+Clinical features of BBE with overlapping GBS
+In the 37 patients who had BBE with limb weakness, muscleweakness was symmetrical and ¯accid. The clinical diagnosiswas therefore BBE with overlapping GBS. Twenty-®ve hadGBS with limb weakness of 4 on the MRC scale, and the
+other 12 had scores of <3. There was no signi®cant
+Fig. 2 Photomicrographs of the central and peripheral nervous
+systems of Patient 2, who had BBE and limb weakness. Paraf®n
+sections stained with haematoxylin and eosin. ( A) Perivascular
+lymphocytic in®ltration with surrounding oedema in the medullaoblongata. ( B) A glial nodule composed of microglia in the
+medulla oblongata. ( C) Trigeminal motor nucleus showing central
+chromatolysis. Scale bars = 40 mm.2284 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 7 ---
+difference in the clinical pro®les of the two subgroups. Upper
+respiratory infection was the most frequent preceding symp-tom, diplopia (51%) or gait disturbance (41%) again being themost frequent initial neurological symptom. Dysaesthesiae
+was present in 27%, limb weakness in 19% and dysarthria in16% (Table 3).Table 3 Clinical pro®les of patients with BBE and BBE with limb weakness
+Total BBE without limb
+weaknessBBE with limb
+weakness
+Number of patients 62 25 37
+Sex (male/female) 37/25 17/8 20/17
+Age (years): median (range) 39 (3±91) 48 (3±91) 37 (13±80)
+Antecedent illness: n(%)
+Upper respiratory infection 45 (73) 16 (64) 29 (78)
+Diarrhoea 7 (11) 3 (12) 4 (11)
+Other 9 (15) 5 (20) 4 (11)
+Initial symptoms: n(%)
+Diplopia 32 (52) 13 (52) 19 (51)
+Gait disturbance 22 (35) 7 (28) 15 (41)
+Dysaesthesia 12 (19) 2 (8) 10 (27)Consciousness disturbance 8 (13) 6 (24) 2 (5)Dysarthria 7 (11) 1 (4) 6 (16)
+Limb weakness 7 (11) 0 7 (19)
+Blepharoptosis 3 (5) 2 (8) 1 (3)Photophobia 2 (3) 1 (4) 1 (3)
+Neurological signs during the course of
+the illness
+Consciousness disturbance
+Drowsiness 28 (45) 12 (48) 16 (43)
+Stupor, semicoma or coma 18 (29) 4 (16) 14 (38)
+Blepharoptosis 18 (29) 8 (32) 10 (27)External ophthalmoplegia 62 (100) 25 (100) 37 (100)Internal ophthalmoplegia 21 (34) 7 (28) 14 (38)
+Nystagmus 17 (27) 11 (44) 6 (16)
+Facial weakness 28 (45) 7 (28) 21 (57)Bulbar palsy 21 (34) 5 (20) 16 (43)
+Limb weakness 37 (60) 0 25 (68)*, 12 (32)**
+Tendon re¯ex
+Brisk 21 (34) 10 (40) 11 (30)Normal 5 (8) 4 (16) 1 (3)
+Absent or decreased 36 (58) 11 (44) 25 (67)
+Babinski's sign 25 (40) 7 (28) 18 (49)Ataxia 62 (100) 25 (100) 37 (100)Deep sense impairment 10 (16) 2 (8) 8 (22)
+Super®cial sense impairment 19 (31) 3 (12) 16 (43)
+*4 on the MRC scale; ** <3 on the MRC scale.
+Table 4 Abnormal MRI and neurophysiological study ®ndings for patients with BBE and BBE with limb weakness
+Abnormal ®ndings of BBE, total ( n= 62) BBE without limb weakness
+(n= 25)BBE with limb weakness ( n= 37)
+Available
+datan(%) Available
+datan(%) Available
+datan(%)
+MRI 54 16 (30) 23 9 (39) 31 7 (23)
+EEG 33 24 (73) 13 10 (77) 20 14 (70)Motor nerve conduction study 34 15 (44) 10 1 (10) 24 14 (58)
+Axonal degeneration 13 (38) 1 (10) 12 (50)
+Demyelination 2 (6) 0 2 (8)
+Needle electromyography 6 3 (50) 2 0 4 3 (75)Bickerstaff's brainstem encephalitis 2285Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 8 ---
+Consciousness was disturbed in 81% (drowsiness, 43%;
+stupor or coma, 38%). All those without disturbance ofconsciousness had hyper-re¯exia. Deep tendon re¯exes wereabsent or decreased in 67%, normal in 3% and brisk in 30%.Babinski's sign was present in 49%. All the patients hadataxia, but only 22% had deep sense impairment. Facialweakness (57%), bulbar palsy and super®cial sense impair-ment (43%), internal ophthalmoplegia (38%), blepharoptosis(27%) and nystagmus (16%) were again relatively common.As shown in Table 3, except for limb weakness, there was nosigni®cant difference in the clinical pro®les of the subgroupsof BBE without weakness and BBE with overlapping GBS.
+Abnormal MRI ®ndings were detected in 23% (seven of
+31) and abnormal EEG in 70% (14 of 20) (Table 4).Abnormal motor nerve conduction study ®ndings wereobtained for 58% (14 of 24 patients; axonal degeneration50%, demyelination 8%), suggestive of predominant axonalinvolvement. Needle electromyography showed positivesharp waves or ®brillation potentials in three patients ondays 21±53. The CSF protein concentration was increased in
+19 (56%) of the 34 patients during the ®rst 4 weeks. CSFalbuminocytological dissociation was present in 10 (29%),and the frequencies were increased from 15% in the ®rst weekto 55% in the third and fourth weeks (Table 5). Anti-GQ1bIgG antibody was present in 70%, and anti-GM1, anti-GD1aor anti-GalNAc-GD1a IgG antibody in 24% of the 37 patientswith BBE and overlapping GBS (Table 6) and in 50% of the12 patients with a score of <3 or less. Serological evidence of
+recent C. jejuni infection was found in eight (22%) of 36
+patients, and C. jejuni was isolated from one patient. There
+was no signi®cant difference in frequency of positive C.
+jejuni serology between BBE and BBE with overlapping
+GBS.
+Assisted ventilation was required for nine (24%) of the 37
+patients with BBE with limb weakness. Six months afteronset, 18 (51%) of the 35 patients for whom outcome datawere available showed complete remission with no residualsymptoms. Limb weakness persisted in eight (23%).Table 5 CSF ®ndings during the ®rst, second, and third and fourth weeks for patients with BBE and BBE with limb
+weakness
+BBE, total (n = 62) BBE without limb weakness BBE with limb weakness
+(n= 25) ( n= 37)
+Available data of patients (%) 54 (87) 20 (80) 34 (92)
+Day of sampling from onset:median (range)6 (1±26) 6 (1±19) 5 (1±26)
+1st
+week2nd
+week3rd and
+4th weeks1st
+week2nd
+week3rd and
+4th weeks1st
+week2nd
+week3rd and
+4th weeks
+Number of samples (%) 42 (68) 14 (23) 14 (23) 15 (60) 7 (28) 3 (12) 27 (73) 7 (19) 11 (30)
+Cell count (cells/ ml):
+median (range)3 (0±71) 2 (0±142) 1 (0±21) 4 (0±60) 1 (0±63) 1 (0±5) 3 (0±71) 2 (1±142) 1 (0±21)
+Pleocytosis (%) 15 (36) 6 (43) 3 (21) 6 (40) 3 (43) 1 (33) 9 (33) 3 (43) 2 (18)
+Protein concentration (mg/dl):
+median (range)42
+(10±292)89
+(24±295)89
+(24±678)42
+(10±81)81
+(24±121)46
+(24±149)34
+(16±292)106
+(25±295)89
+(25±678)
+Elevated protein concentration (%) 16 (38) 11 (79) 9 (64) 7 (47) 6 (86) 2 (67) 9 (33) 5 (71) 8 (73)CSF albuminocytologicaldissociation (%)8 (19) 6 (43) 8 (57) 4 (27) 4 (57) 2 (67) 4 (15) 2 (29) 6 (55)
+Table 6 Anti-ganglioside IgG antibodies for patients with BBE and BBE with limb weakness
+IgG antibody to BBE, total BBE without
+limb weaknessBBE with limb
+weakness
+(n= 62) ( n= 25) ( n= 37)
+GM2 2 (3) 0 2 (5)
+GM1 6 (10) 2 (8) 4 (11)GD1a 8 (13) 1 (4) 7 (19)
+GalNAc-GD1a 1 (2) 0 1 (3)
+GD1b 11 (18) 2 (8) 9 (24)GT1b 3 (5) 0 3 (8)GQ1b 41 (66) 15 (60) 26 (70)
+GM1, GD1a or GalNAc-GD1a 11 (18) 2 (8) 9 (24)
+Data are n(%).2286 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 9 ---
+Discussion
+Nosological entity of BBE
+Detailed clinical and laboratory features of BBE were
+documented in a large number of patients. The ®ndingscon®rmed that BBE can be de®ned as a syndrome presentingacute ophthalmoplegia, ataxia and disturbance of conscious-ness as its major manifestations, in association with certainsymptoms and signs indicative of central involvement, and
+that it constitutes a clinical entity. Furthermore, a consider-
+able number of patients with BBE developed ¯accidtetraparesis, which is presumed to be a sign of overlappingGBS.
+Our diagnosis for the original cases reported by
+Fisher and Bickerstaff et al.
+One of the three patients described by Fisher in 1956 showed
+mild drowsiness (Fisher, 1956). Although, according to hisreport, drowsiness may be accompanied by FS, all eightpatients reported in Bickerstaff's paper (Bickerstaff, 1957)showed drowsiness. BBE, not FS, therefore was the diagnosisfor those who showed drowsiness. Six (Nos 1, 2, 3, 5, 7 and 8)of the eight cases described by Bickerstaff (1957) ful®l ourtentative criteria for BBE, whereas none satisfy the criteria
+for FS (Table 1). The patient of Case 4 showed gross ¯accid
+weakness, and in our study the tentative diagnosis was BBEwith overlapping GBS. Another patient (No. 6) who did notshow ophthalmoplegia did not ful®l our strict criteria for FSor BBE. According to the criteria, BBE was the diagnosis in 9(Nos 1, 2, 4, 9, 10, 11, 12, 14 and 17) of the 18 cases describedby Al-Din et al. (1982), and FS in four (Nos 3, 5, 15 and 16).
+Because four patients (Nos 6, 7, 8 and 13) showed drowsiness
+and limb weakness, or hyper-re¯exia and limb weakness,
+BBE with overlapping GBS was diagnosed. These diagnosesare consistent with those made by Ropper (1983), whoconsidered the presence of drowsiness and Babinski's signdif®cult for FS.
+Clinical analysis of BBE
+Our ®ndings have added information about the clinicalfeatures of BBE. The male : female ratio for the 62 patientswith BBE was about 3 : 2. The most frequent precedingsymptom was upper respiratory infection, and the mostfrequent initial symptoms were diplopia and gait disturbance.By means of our diagnostic criteria, the clinical features of
+the patients with BBE were characterized as disturbance of
+consciousness, ophthalmoplegia, hyper-re¯exia and ataxia.Pupillary abnormalities, facial weakness, bulbar palsy andBabinski's sign were frequent, occurring in one-third to one-half of the BBE patients. Half the patients had normo- orhyper-re¯exia, the others hypo- or are¯exia. Deep sensationwas frequently unimpaired despite profound ataxia.
+Abnormal lesions (high-intensity areas on T
+2-weighted
+images of the brainstem, thalamus, cerebellum and cerebrum)on MRI ®ndings were present in about one-third of the BBE
+patients. Normal MRIs have been reported for some BBEpatients, whereas in others high-signal lesions, documentedon T
+2-weighted images of the upper mesencephalon,
+cerebellum, thalamus or brainstem, may move and regresswith the clinical course of the illness (Yaqub et al ., 1990;
+Camarda et al., 1992; Kikuchi et al., 1997; Chataway et al.,
+2001; Monde Âjaret al., 2002). The frequency of our patients
+who had slow-wave activity in the qtodrange in EEG
+®ndings also indicated CNS involvement, consistent withdisturbance of consciousness. Al-Din et al . (1982) reported
+the likelihood of abnormality within the brainstem itself onthe basis of results of clinical, neurophysiological, radiolo-gical and pathological studies of BBE, and that are¯exia is
+explained by the involvement of the mesencephalic and upper
+pontine reticular formations. In the nerve conduction studies,most patients with BBE without limb weakness were normal,whereas half of those who had BBE and overlapping GBSshowed indications of motor nerve dysfunction, predomin-antly axonal dysfunction. Two of the eight patients describedin the original paper of Bickerstaff (1957) had CSFalbuminocytological dissociation and the other six had CSF
+pleocytosis (median, 26 cells/ ml; range, 10±153 cells/ ml). The
+CSF protein concentration was normal in about two-thirds ofour BBE patients during the ®rst week, but its frequencyincreased during subsequent weeks. CSF pleocytosis waspresent in about one-third during the ®rst 4 weeks. In ourprevious study, CSF albuminocytological dissociation wasdetected in 62% of 120 patients with GBS during the ®rst 3weeks after the onset (47% during the ®rst week, 60% during
+the second week, 74% during the third week) and in 59% of
+123 with FS (35% during the ®rst week and 75% during thesecond week) (Y.Nishimoto, N.Yuki, M.Okada, K.Itivata,unpublished data). The frequency of CSF albuminocytologi-cal dissociation tended to be lower in our BBE series than inGBS and FS series, because CSF pleocytosis was alsopresent. Pleocytosis may re¯ect severe breakdown in theblood±CSF barrier or invasion of leucocytes into the CSF.
+CSF studies showed some degree of elevated protein
+concentration with and without pleocytosis in most patientswith BBE during the ®rst 4 weeks, but some patients werenormal throughout the course of the illness.
+From an immunological perspective, anti-GQ1b IgG
+antibody is frequently detected in sera from patients withBBE (Yuki et al., 1993; Odaka et al., 2001; Williams, 2001).
+Anti-GQ1b IgG antibody was present in two-thirds of our
+BBE patients. The fact that BBE and FS have an autoantibody
+in common suggests that the two disorders are closely related.BBE patients de®nitely have CNS involvement that isresponsible for disturbance of consciousness, extensor plantarresponses and hemisensory loss, but not all the features ofBBE, including ophthalmoplegia and ataxia, are necessarilyexplained by central lesions. Chiba et al. (1993) showed the
+presence of a GQ1b epitope in the extramedullary regions of
+human ocular motor nerves, indicative of a role for anti-
+GQ1b antibody in the pathogenesis of ophthalmoplegia in FS.Bickerstaff's brainstem encephalitis 2287Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 10 ---
+Further research is needed to clarify whether the mechanisms
+of ophthalmoplegia and ataxia in BBE and FS are identical.
+Most patients with BBE were given immunotherapy, such
+as steroids, plasmapheresis and IVIg. Three of the 62 patientsdied during the course of illness, but the outcome for the BBEpatients was generally good. Effective therapy for BBE has
+yet to be established. Several reports have suggested that
+plasmapheresis and IVIg have a bene®cial effect in patientswith BBE (Yuki et al ., 1993; Yuki, 1995; Kikuchi et al .,
+1997; Shimokawa et al., 1998; Fox et al., 2000). In GBS, IVIg
+is as effective as plasma exchange (van der Meche Âand
+Schmitz, 1992; Plasma Exchange/Sandoglobulin Guillain±BarreÂTrial Group, 1997). Moreover, combined therapy of
+IVIg and high-dose methylprednisolone was a more ef®ca-
+cious therapy than IVIg alone in patients with GBS (van
+Koningsveld et al ., 2002). BBE and GBS are so closely
+related that combined therapy of IVIg and high-dosemethylprednisolone should be used. Controlled clinical trialsare needed to test this proposal.
+De®nitive in¯ammatory changes in the brainstem
+of a patient with BBE
+Unlike the many clinical ®ndings of apparent brainstem
+involvement in BBE, neuropathological ®ndings in thisdisease are relatively few. In Bickerstaff's (1957) originalreport, the brainstem of an autopsy patient (Case 8) showedno apparent neuronal death, but there were oedematouschanges with astrocytic proliferation. The cerebellum showed
+diffuse, slight loss of Purkinje cells, but some folia were
+completely lacking these cells. Lymphocytic cuf®ng waspresent around some blood vessels in the frontal lobe.Bickerstaff considered these changes to be caused by cerebraloedema secondary to viral infection or to be the result ofhypersensitivity to infection. In the report by Al-Din et al .
+(1982), in one autopsy patient (Case 17) the numerousnecrotic lesions in the brainstem were associated with
+activated microglia, astrocytic proliferation and small foci
+of round cell (lymphocyte) in®ltration. There was also verymarked perivascular round cell cuf®ng, sometimes withnumerous macrophages. These changes were interpreted asevidence of encephalitis. Although the pathological process,as reported by Al-Din et al. (1982), was predominantly in the
+CNS, Ropper (1983) doubted the presence of BBE andconsidered that CNS involvement in GBS could be mimicked
+by peripheral nerve disease. The post-mortem examination of
+our Patient 2, however, clearly showed the presence ofde®nite in¯ammatory changes in the brainstem: perivascularlymphocytic in®ltration with perivascular oedema and glialnodules. In¯ammatory conditions, which affected the brain-stem, may have exerted a certain in¯uence on dentateneurons. These in¯ammatory processes probably have apivotal role in the development of the characteristic
+phenotypes of BBE.Subgroup of BBE associated with GBS
+Analysis of the clinical features of 62 patients with BBE,
+based on our proposed criteria, showed that 37 (60%) patients
+with BBE associated with GBS had coexisting limb weak-
+ness. The clinical features of these patients were disturbanceof consciousness, ophthalmoplegia, hyper-re¯exia, ataxia and
+limb weakness. Because, except for limb weakness, the
+clinical pro®les of BBE and BBE with overlapping GBS didnot differ signi®cantly, the conditions may be closely
+associated. The frequency of disturbance of consciousness
+in patients with BBE with overlapping GBS was almost thesame for drowsiness and for stupor, semicoma and coma. The
+frequencies of facial weakness, bulbar palsy, Babinski's sign
+and super®cial sense impairment were about 1/2, those ofinternal ophthalmoplegia 1/3, and those of blepharoptosis and
+deep sense impairment 1/4. The ratio of patients with normo-
+or hyperre¯exia and those with hypo- or are¯exia was about1 : 2. The outcomes for the patients were generally good, but
+one-quarter of those who scored <3 on the MRC scale had
+persistent limb weakness.
+Our ®ndings based on electrodiagnostic criteria suggest
+that motor nerve dysfunction is predominantly axonal and
+that the form of GBS that overlaps with BBE may be the
+axonal subtype, i.e. acute motor axonal neuropathy (AMAN)(Hoet al., 1995). Needle electromyography results con®rmed
+active denervation potentials in three patients studied 3±8
+weeks after the onset. Patients with AMAN invariably have
+low distal CMAPs, which could be caused by either axonaldegeneration or distal conduction block (Ogawara et al .,
+2000), and once axonal degeneration develops recovery is
+slow and incomplete. Accumulated evidence supports thespeculation that AMAN is caused by the IgG antibody against
+the gangliosides GM1, GD1a or GalNAc-GD1a (Yuki et al.,
+1990, 2001; Kornberg et al ., 1994; Kusunoki et al ., 1994;
+Carpo et al ., 1999; Ho et al ., 1999; Ogawara et al ., 2000;
+Hadden et al ., 2001). Our previous study showed that anti-
+GM1 antibodies were present in 64% of 33 AMAN patients,anti-GD1a in 45% and anti-GalNAc-GD1a in 33%, and anti-
+C. jejuni antibody in 14 (42%) (Ogawara et al., 2000). The
+BBE patients in the present study, with or without overlap-ping GBS, also had these antibodies, although the frequencies
+were lower than in the AMAN patients. This suggests that
+elements of the autoimmune mechanism are common to both,and that they are not distinct but are closely related
+conditions.
+A number of reports described GBS patients experiencing
+coma with abolished oculocephalic re¯ex (Carroll andMastaglia, 1979; Najim Al-Din et al ., 1987; Coad and
+Byrne, 1990; Hassan and Mumford, 1991; Martõ Â-Masso Âet al.,
+1993). These cases with severe brainstem involvement shouldbe diagnosed as having BBE. Autopsy ®ndings have beenreported for a patient in whom BBE associated with GBS was
+diagnosed clinically (Yuki et al ., 1997), although the case
+was not included in this study: there was loss of largemyelinated ®bers in the nerve roots, including the cranial2288 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 11 ---
+nerves, but a normal midbrain, pons and medulla oblongata.
+The clinical, electrophysiological and immunological ®nd-ings reported in our study support the original hypothesis ofBickerstaff and Cloake (1951), that BBE is closely related toGBS and that they form a continuous spectrum.
+Acknowledgements
+We wish to thank Dr K. Suzuki (Department of Pathology,St Luke's International Hospital, Tokyo, Japan) andDr Y. Nishimoto (Department of Neurology, DokkyoUniversity School of Medicine, Tochigi, Japan) for theirhelp in the pathological study. This research was supported inpart by grants-in-aid for scienti®c research (KAKENHI
+14370210 to N.Y.) from the Ministry of Education, Culture,
+Sports, Science and Technology of Japan.
+References
+Al-Din AN, Anderson M, Bickerstaff ER, Harvey I. Brainstem
+encephalitis and the syndrome of Miller Fisher: a clinical study.Brain 1982; 105: 481±95.
+Bickerstaff ER. Brain-stem encephalitis: further observations on a
+grave syndrome with benign prognosis. Br Med J 1957; 1: 1384±7.
+Bickerstaff ER. Brain stem encephalitis (Bickerstaff's encephalitis).
+In: Vinken PJ, Bruyn GW, editors. Handbook of clinical neurology,
+Vol. 34. Amsterdam: North-Holland; 1978. p. 605±9.
+Bickerstaff ER, Cloake PCP. Mesencephalitis and
+rhombencephalitis. Br Med J 1951; 2: 77±81.
+Camarda RM, Cammalleri R, Raimondo D. Bickerstaff brainstem
+encephalitis: a case report. Ital J Neurol Sci 1992; 13: 165±8.
+Carpo M, Pedotti R, Allaria S, Lolli F, Mata ÁS, Cavaletti G, et al.
+Clinical presentation and outcome of Guillain±Barre Âand related
+syndromes in relation to anti-ganglioside antibodies. J Neurol Sci
+1999; 168: 78±84.
+Carroll WM, Mastaglia FL. `Locked-in coma' in postinfective
+polyneuropathy. Arch Neurol 1979; 36: 46±7.
+Chataway SJS, Larner AJ, Kapoor R. Anti-GQ1b antibody status,
+magnetic resonance imaging, and the nosology of Bickerstaff'sbrainstem encephalitis. Eur J Neurol 2001; 8: 355±7.
+Chiba A, Kusunoki S, Shimizu T, Kanazawa I. Serum IgG antibody
+to ganglioside GQ1b is a possible marker of Miller Fishersyndrome. Ann Neurol 1992; 31: 677±9.
+Chiba A, Kusunoki S, Obata H, Machinami R, Kanazawa I. Serum
+anti-GQ1b IgG antibody is associated with ophthalmoplegia inMiller Fisher syndrome and Guillain±Barre Âsyndrome: clinical and
+immunohistochemical studies. Neurology 1993; 43: 1911±7.
+Coad NR, Byrne AJ. Guillain±Barre Âsyndrome mimicking
+brainstem death. Anaesthesia 1990; 45: 456±7.
+Fisher M. An unusual variant of acute idiopathic polyneuritis:
+syndrome of ophthalmoplegia, ataxia and are¯exia. N Engl J Med1956; 255: 57±65.
+Fox RJ, Kasner SE, Galetta SL, Chalela JA. Treatment ofBickerstaff's brainstem encephalitis with immune globulin. J
+Neurol Sci 2000; 178: 88±90.
+Hadden RDM, Karch H, Hartung HP, Zielasek J, Weissbrich B,
+Schubert J, et al. Preceding infections, immune factors, andoutcome in Guillain±Barre Âsyndrome. Neurology 2001; 56: 758±65.
+Hassan T, Mumford C. Guillain±Barre Âsyndrome mistaken for brain
+stem death. Postgrad Med J 1991; 67: 280±1.
+Ho TW, Mishu B, Li CY, Gao CY, Cornblath DR, Grif®n JW, et al.
+Guillain±Barre Âsyndrome in northern China: relationship to
+Campylobacter jejuni infection and anti-glycolipid antibodies.
+Brain 1995; 118: 597±605.
+Ho TW, Willison HJ, Nachamkin I, Li CY, Veitch J, Ung H, et al.
+Anti-GD1a antibody is associated with axonal but notdemyelinating forms of Guillain±Barre Âsyndrome. Ann Neurol
+1999; 45: 168±73.
+Kikuchi M, Tagawa Y, Iwamoto H, Hoshino H, Yuki N.
+Bickerstaff's brainstem encephalitis associated with IgG anti-GQ1b antibody subsequent to Mycoplasma pneumoniae infection:
+favorable response to immunoadsorption therapy. J Child Neurol
+1997; 12: 403±5.
+Koga M, Yuki N, Takahashi M, Saito K, Hirata K. Close
+association of IgA anti-ganglioside antibodies with antecedentCampylobacter jejuni infection in Guillain±Barre Âand Fisher's
+syndromes. J Neuroimmunol 1998; 81: 138±43.
+Kornberg AJ, Pestronk A, Bieser K, Ho TW, McKhann GM, Wu
+HS, et al. The clinical correlates of high-titer IgG anti-GM1antibodies. Ann Neurol 1994; 35: 234±7.
+Kusunoki S, Chiba A, Kon K, Ando S, Arisawa K, Tate A, et al.
+N-Acetylgalactosaminyl GD1a is a target molecule for serum
+antibody in Guillain±Barre Âsyndrome. Ann Neurol 1994; 35: 570±6.
+Martõ Â-Masso ÂJF, Sua Ârez J, Lo Âpez de Munain A, Carrera N. Clinical
+signs of brain death simulated by Guillain±Barre Âsyndrome. J
+Neurol Sci 1993; 120: 115±7.
+Monde Âjar RR, Santos JMG, Villalba EF. MRI ®ndings in a
+remitting±relapsing case of Bickerstaff encephalitis.Neuroradiology 2002; 44: 411±4.
+Najim Al-Din AS. The nosological position of the ophthalmoplegia,
+ataxia and are¯exia syndrome: `the spectrum hypothesis'. ActaNeurol Scand 1987; 75: 287±94.
+Odaka M, Yuki N, Hirata K. Anti-GQ1b antibody syndrome:
+clinical and immunological range. J Neurol Neurosurg Psychiatry2001; 70: 50±5.
+Odaka M, Yuki N, Yoshino H, Kasama T, Handa S, Irie F, et al.
+N-glycolylneuraminic acid-containing GM1 is a new molecule for
+serum antibody in Guillain±Barre Âsyndrome. Ann Neurol 1998; 43:
+829±34.
+Ogawara K, Kuwabara S, Mori M, Hattori T, Koga M, Yuki N.
+Axonal Guillain±Barre Âsyndrome: relation to anti-ganglioside
+antibodies and Campylobacter jejuni infection in Japan. Ann
+Neurol 2000; 48: 624±31.
+Plasma Exchange/Sandoglobulin Guillain±Barre ÂSyndrome Trial
+Group. Randomised trial of plasma exchange, intravenousBickerstaff's brainstem encephalitis 2289Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026
+
+--- Page 12 ---
+immunoglobulin, and combined treatments in Guillain±Barre Â
+syndrome. Lancet 1997; 349: 225±30.
+Ropper AH. The CNS in Guillain±Barre Âsyndrome [editorial]. Arch
+Neurol 1983; 40: 397±8.
+Shimokawa M, Shinoda T, Takahashi M, Watabiki S. Successful
+plasmapheresis in the not-so-benign Bickerstaff's brain stem
+encephalitis associated with anti-GQ1b antibody. Ther Apher
+1998; 2: 240±2.
+van der Meche ÂFGA, Schmitz PIM. Dutch Guillain±Barre ÂStudy
+Group. A randomized trial comparing intravenous immune globulin
+and plasma exchange in Guillain±Barre Âsyndrome. N Engl J Med
+1992; 326: 1123±9.
+van Koningsveld R, Schmitz PIM, van der Meche ÂFGA, Visser LH,
+Meulstee J, van Doorn PA. Randomized trial on the additionaleffect of methylprednisolone on standard treatment with
+intravenous immunoglobulin in patients with Guillain±Barre Â
+syndrome [abstract]. J Neurol 2002; 249 Suppl 1: 127±8.
+Williams MH. The spectrum of IgG GQ1b syndrome: an unusual
+cluster. J Clin Neurosci 2001; 8: 315±8.
+Willison HJ, Veitch J, Paterson G, Kennedy PGE. Miller Fisher
+syndrome is associated with serum antibodies to GQ1b ganglioside.
+J Neurol Neurosurg Psychiatry 1993; 56: 204±6.
+Yaqub BA, al-Deeb SM, Daif AK, Sharif HS, Shamena AR,
+al-Jaberi M, et al. Bickerstaff brainstem encephalitis: a gravenon-demyelinating disease with benign prognosis. J Neurol Sci
+1990; 96: 29±40.
+Yuki N. Successful plasmapheresis in Bickerstaff's brain stem
+encephalitis associated with anti-GQ1b antibody. J Neurol Sci1995; 131: 108±10.
+Yuki N. Tryptophan-immobilized column adsorbs immunoglobulin
+G anti-GQ1b antibody from Fisher's syndrome: a new approach totreatment. Neurology 1996; 46: 1644±51.
+Yuki N, Yoshino H, Sato S, Miyatake T. Acute axonal
+polyneuropathy associated with anti-GM1 antibodies followingCampylobacter enteritis. Neurology 1990; 40: 1900±2.
+Yuki N, Sato S, Tsuji S, Hozumi I, Miyatake T. An immunologic
+abnormality common to Bickerstaff's brain stem encephalitis andFisher's syndrome. J Neurol Sci 1993; 118: 83±7.
+Yuki N, Wakabayashi K, Yamada M, Seki K. Overlap of Guillain±
+BarreÂsyndrome and Bickerstaff's brainstem encephalitis. J Neurol
+Sci 1997; 145: 119±21.
+Yuki N, Yamada M, Koga M, Odaka M, Susuki K, Tagawa Y, et al.
+Animal model of axonal Guillain±Barre Âsyndrome induced by
+sensitization with GM1 ganglioside. Ann Neurol 2001; 49: 712±20.
+Received February 25, 2003. Revised April 28, 2003.
+Accepted May 7, 20032290 M. Odaka et al.Downloaded from https://academic.oup.com/brain/article/126/10/2279/314530 by Göteborg University. Biomedical library user on 31 March 2026

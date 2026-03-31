@@ -1,0 +1,99 @@
+Successful Treatment of Acute Disseminated Encephalomyelitis (ADEM) by Prompt Usage of Immunoglobulins — Case Report and Review of the Literature
+Acta Clinica Croatica 2019;58(1):173-179
+Authors: Ana Repic-Bulicic, Petar Filipovic-Grcic, Eni Jadrijev, Pavao Jurinovic, Marina Titlic
+PMID: 31363340 | PMCID: PMC6629195 | DOI: 10.20471/acc.2019.58.01.22
+
+=== ABSTRACT ===
+
+A case demonstrating rapid recovery from ADEM through early combined intervention with methylprednisolone and IVIg. The 30-year-old female achieved complete clinical and radiological recovery within 6 weeks.
+
+=== CASE REPORT ===
+
+Patient: 30-year-old female, no prior medical history
+Preceding event: Cough 1 week prior to onset
+
+Presenting symptoms:
+- Headache
+- Nausea
+- Diplopia
+- Gait instability
+- Progressed to somnolence and seizure-like activity
+
+=== DIAGNOSTIC FINDINGS ===
+
+CSF Analysis:
+- Cell count: 316/μL (normal 0-5) — markedly elevated
+- Lactate: 4.3 mmol/L (normal 1.1-2.4)
+- Protein: 1780.5 mg/L (normal ≤450) — significantly elevated
+- HSV PCR: Negative
+- Oligoclonal bands: Negative
+
+Neuroimaging:
+- Initial CT: No abnormalities
+- MRI: Multiple lesions of white matter supratentorially and infratentorially
+  - Cerebellar regions
+  - Brainstem
+  - Thalamus
+  - Internal capsule
+  - Subcortical areas
+
+=== TREATMENT ===
+
+IMMEDIATE INTERVENTION (within 2 hours of admission):
+
+1. IV methylprednisolone: 500 mg daily for 5 days
+2. Oral methylprednisolone: Tapering doses over 4 weeks
+3. IVIg: 0.4 g/kg daily for 7 days
+4. Acyclovir: 750 mg TID for 24 hours (pending viral testing)
+
+Note: The authors emphasize that PROMPT initiation of combined therapy was key.
+
+=== OUTCOMES ===
+
+At discharge:
+- Vertical nystagmus persisted
+- Mild ataxia persisted
+- Significant MRI improvement
+
+Six weeks post-onset:
+- Complete normalization of neurological status
+- Complete normalization of MRI
+- Normal somatosensory evoked potentials
+- Normal visual evoked potentials
+
+=== LITERATURE REVIEW ===
+
+Key treatment evidence for ADEM:
+
+1. No controlled trials exist for ADEM treatment (due to low incidence)
+2. Standard methylprednisolone dosing: 10-30 mg/kg/day for 3-5 days
+3. Full recovery with steroids: 50%-80%
+4. IVIg dosing options:
+   - 0.4 g/kg/day for 5 days (total 2 g/kg)
+   - 1 g/kg/day for 2 days
+5. IVIg improvement evident within 2-3 days
+
+IVIg mechanisms in ADEM:
+- Modulation of Fc receptor expression
+- Interference with complement activation
+- Neutralization of pathogenic autoantibodies
+- Anti-idiotype antibody effects
+
+=== DISTINGUISHING ADEM FROM MS ===
+
+Key differences:
+1. Periventricular white matter patterns differ
+2. Immunoglobulin subtype profiles differ
+3. OCBs typically absent in ADEM, persist in MS
+4. ADEM lesions resolve without new lesions on follow-up MRI
+
+=== CLINICAL SIGNIFICANCE ===
+
+This case demonstrates that:
+1. COMBINED early therapy (steroids + IVIg) can achieve complete recovery
+2. Promptness of treatment initiation is crucial
+3. Even patients with severe initial presentation (somnolence, seizures) can fully recover
+4. 6-week follow-up MRI normalization is achievable
+5. Supportive evidence for aggressive combined immunotherapy in ADEM
+
+Source: PMC Open Access - https://pmc.ncbi.nlm.nih.gov/articles/PMC6629195/
