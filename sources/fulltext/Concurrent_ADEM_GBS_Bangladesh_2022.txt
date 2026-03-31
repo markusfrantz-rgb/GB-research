@@ -1,0 +1,348 @@
+Citation: Concurrent GBS and ADEM case report. J Pediatr Neurosci. 2022.
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+75Access this article online
+Quick Response Code:
+Website:
+www.pediatricneurosciences.com
+DOI: 10.4103/jpn.JPN_275_20
+Received: 16-10-2020, Revised: 10-01-2021, Accepted: 24-03-2021, 
+Published: 07-01-2022.Department of Pediatric 
+Neurology, Institute of 
+Pediatric Neurodisorder 
+and Autism (IPNA), 
+Bangabandhu Sheikh 
+Mujib Medical University, 
+Dhaka,  1Department 
+of Pediatric Neurology, 
+Bangabandhu Sheikh 
+Mujib Medical University, 
+Dhaka,  2Department 
+of Pediatric Neurology, 
+Director, Institute of 
+Pediatric Neurodisorder 
+and Autism (IPNA), 
+Bangabandhu Sheikh Mujib 
+Medical University, Dhaka, 
+Bangladesh
+Address for correspondence: Dr. Kanij Fatema,  
+Department of Pediatric Neurology, Institute of Pediatric 
+Neurodisorder and Autism (IPNA), Bangabandhu Sheikh Mujib 
+Medical University, Dhaka, Bangladesh.  
+E-mail: maiomonami@gmail.com
+This is an open access journal, and articles are distributed under the terms of the 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows 
+others to remix, tweak, and build upon the work non-commercially, as long as 
+appropriate credit is given and the new creations are licensed under the identical terms.
+For reprints contact: wkhlrpmedknow_reprints@wolterskluwer.com
+© 2022 Journal of Pediatric Neurosciences | Published by Wolters Kluwer - MedknowHow to cite this article: Fatema K, Rahman M, Akhter S.  Concurrent 
+Guillain-Barré syndrome and acute disseminated encephalomyel itis in a 
+child: A case report from Bangladesh. J Ped iatr Neurosc i 2022;17:75-8.Case Report
+Concurrent Guillain-Barré Syndrome and Acute Disseminated 
+Encephalomyelitis in a Child: A Case Report from Bangladesh
+Kanij Fatema, Md Mizanur Rahman1, Shaheen Akhter2
+Guillain-Barré syndrome (GBS) and acute disseminated encephalomyelitis 
+(ADEM) are postinfectious, inflammatory, and neurological disorders involving 
+the peripheral and central nervous system, respectively. Although the clinical 
+features are distinct, they share a common pathogenesis. Both the disorders are not 
+uncommon in children. Concurrent GBS and ADEM occurring simultaneously 
+is a rare entity. We are reporting a case of a 5-year-old boy presenting with acute-
+onset ascending paralysis with irritability, hyperreflexia, and positive Babinski 
+sign. This patient was diagnosed as having both GBS and ADEM. The CSF 
+albumin-cytological disassociation, electrophysiological diagnosis, and MRI of 
+brain supported the concurrent present of the two disorders.
+Keywords : Acute disseminated encephalomyelitis, concurrent, Guillain-Barré 
+syndrome
+IntroductIon
+Guillain-Barré syndrome (GBS) is the most common 
+cause of acute flaccid paralysis in healthy infants 
+and children. It is an acute postinfectious inflammatory 
+disorder of the peripheral nervous system (PNS).[1-
+3] Acute disseminated encephalomyelitis (ADEM) is 
+an immunologically mediated inflammatory disease 
+of the central nervous system (CNS), resulting in 
+multifocal demyelinating lesions affecting the gray and 
+white matter of the brain and spinal cord. Most of 
+the patients experience a combination of neurological 
+features depending on the site of the lesion. The 
+key clinical feature is encephalopathy, varying from 
+lethargy to coma along with upper motor neuron lesion 
+features, ataxia, hemiparesis, seizure, vision loss, speech 
+impairment, and spinal cord involvement.[4-6]
+GBS and ADEM are recognized as separate entities, yet 
+they share some common features such as autoimmune 
+pathogenesis, injury of the myelin tissue, history of 
+infection or vaccination, etc. Treatment modalities are different, so the distinction of these two disorders and 
+the selection of appropriate treatment is vital.[7] Here, we 
+report a case of a 5-year-old boy having involvement of 
+both CNS and PNS and who was diagnosed as having 
+concurrent GBS and ADEM.
+case report
+A 5-year-old boy presented with weakness of both 
+limbs for 2  days. He also complained of severe pain 
+in both lower limbs along with irritability. Gradually, 
+weakness was progressive; he developed difficulty in 
+walking and was unable to walk for the next 2  days. 
+Meanwhile, he also developed weakness of both upper 
+limbs. His bowel and bladder habits were normal. He 
+had no history of seizure, loss of consciousness, altered 
+pattern of behavior except restlessness, vomiting, neck 
+pain, visual or hearing impairment, any history of 
+taking drugs, or a history of recent vaccination. On abstract
+--- Page 2 ---
+76 Journal of Pediatric Neurosciences ¦ Volume 17 ¦ Issue 1 ¦ January-March 2022
+Fatema, et al.: Concurrent GBS and ADEM in a childquery, he had a history of varicella infection three weeks 
+ago. He was born by lower uterine caesarian section, 
+there was no perinatal adverse event, and he was born 
+from nonconsanguineous parents. None of the family 
+members had a history of immune disorders or a 
+similar type of illness. He had a normal development 
+before this illness.
+On examination, the child was irritable and conscious; 
+vitals were within normal limit, but there was a cold 
+periphery. He was anicteric and not pale, and signs of 
+meningeal irritation were absent. Anthropometry was 
+within normal range. On nervous system examination, 
+higher psychic function was normal; the patient was 
+conscious, cooperative but restless. The bulk of both 
+upper and lower limbs were normal, tone reduced 
+in both upper and lower limbs, Power was 1/5 in all 
+four limbs, knee and ankle jerks were exaggerated, 
+planter was extensor . In the upper limb, all the jerks 
+were normal. There was no involuntary movement, 
+and sensory nerve examination revealed that there 
+was hyperesthesia. Gait could not be evaluated, and 
+cerebellar function was intact as far as examined. 
+Fundoscopic examination revealed no abnormality.
+Investigations showed: Complete blood count: HB% 
+13%, WBC count: 11,000, neutrophil: 56%, lymphocyte: 39%, ESR: normal, and platelet count: 2,00,000. CRP, 
+electrolytes, and serum calcium were normal. CSF 
+study revealed cell count 2, all lymphocytes, glucose 
+was 40 mg/dL, and protein was 90 mg/dL. The CSF 
+study was done during the second week of the disease, 
+which showed an albuminocytological dissociation.
+Nerve conduction velocity (NCV) and electromyography 
+(EMG): NCS was done during the third week of the 
+disease. Sensory nerve action potential and conduction 
+velocity were normal. Compound muscle action 
+potential (CMAP) was absent in median, ulnar, and 
+peroneal nerves and posterior tibial nerves; motor 
+conduction velocity and distal motor latency were 
+normal. F-waves were absent in median and ulnar 
+nerves. An EMG showed positive sharp waves and 
+fibrillations, which were suggestive of acute motor 
+axonal polyneuropathy (AMAN). An MRI of the 
+brain showed: hyperintensity in multiple areas of the 
+brain, namely basal ganglia; hyperintensity of the 
+gray–white interface in bilateral parietal and temporal 
+regions, suggestive of ADEM [Figure 1]. An MRI of 
+the spine was normal.
+We started treatment with intravenous immunoglobulin 
+400 mg/kg/day for 5  days; subsequently, intravenous 
+methyl prednisolone 30 mg/kg/day was given for 
+Figure 1: (A) MRI of the brain (FLAIR image) showing multiple hyperintense lesions in different parts of the brain. (B) MRI of the brain 
+showing hyperintense lesions in the subcortical regions
+--- Page 3 ---
+77 Journal of Pediatric Neurosciences ¦ Volume 17 ¦ Issue 1 ¦ January-March 2022
+Fatema, et al.: Concurrent GBS and ADEM in a child5 days. There was stabilization of the clinical course of 
+the child after the treatment and gradually there was 
+improvement. At the 1-year follow-up, the child was 
+completely normal with no residual deficit.
+Based on clinical features, CSF study, and 
+neurophysiological study, a diagnosis of GBS was 
+made; based on MRI brain findings along with clinical 
+features of upper motor neuron lesion, a diagnosis of 
+ADEM was made.
+dIscussIon
+Both GBS and ADEM are postinfectious, 
+inflammatory, and neurological disorders, although the 
+site of involvement is different. In the first one, there is 
+usually involvement of the peripheral nerves; however, 
+in the second one, there is involvement of the brain 
+and spinal cord.[2,8] The basic mechanism is similar in 
+both the disorders, which is molecular mimicry and 
+cross-reactive immune response. Eventually, there is 
+destruction of myelin or the nerve tissue.[7,9] However, the 
+clinical features are distinct as well as the management 
+is different. Thus, the diagnosis and distinction of these 
+two entities is crucial for proper management. Very few 
+cases have been reported in the pediatric population 
+with both the entities.
+The presenting features of our case are classical of those 
+of GBS. The boy had a history of varicella infection 
+followed by a progressive ascending pattern of weakness 
+along with limb pain. He had no CNS manifestations 
+except irritability, which could be explained by the pain. 
+However, on examination, there was hypotonia with 
+hyperreflexia and with positive Babinski sign. Thus, the 
+possibility of ADEM emerged.
+GBS is a postinfectious inflammatory disease of the 
+PNS causing acute flaccid paralysis. Patients usually 
+present with weakness starting from the lower limbs, 
+ascending in a pattern with or without sensory features. 
+The clinical presentation of GBS is heterogeneous, and 
+several distinct clinical variants exist. The diagnosis is 
+based on history, neuro-electrophysiology, MRI of the 
+spine, and CSF albuminocytological dissociation.[10-12] 
+GBS has been reclassified according to clinical and 
+electrophysiological properties. According to that, the 
+large spectrum varies from classic acute inflammatory 
+demyelinating polyneuropathy (AIDP) and the 
+axonal forms, which include acute motor and sensory 
+axonal neuropathy (AMSAN) and AMAN, to several 
+atypical clinical types (i.e., Miller Fisher syndrome, 
+Bickerstaff brainstem encephalitis, pharyngo-cervical-
+brachial variant, polyneuritis cranialis, acute sensory 
+neuropathy, and pandysautonomia).[13-15] Our patient was diagnosed as an AMAN variety according to 
+the electrophysiology. The albuminocytological 
+dissociation was also in favor of diagnosis.
+On the other hand, ADEM is an immune-mediated 
+demyelinating CNS disorder. Its classic features are 
+new-onset polyfocal neurologic symptoms, including 
+encephalopathy. Neuroimaging is very characteristic, 
+and it shows multifocal demyelination. There is a 
+temporal relationship of ADEM with infection and 
+vaccines. Most of the cases are monophasic.[16-18] Our 
+case did not have the typical features of ADEM-like 
+seizure, loss of consciousness, or visual impairment. 
+The features that were consistent with ADEM were 
+irritability, hyperreflexia, and monophasic illness. 
+However, the most important part of the diagnosis was 
+the typical MRI finding showing multifocal subcortical 
+lesions in the brain.
+Simultaneous GBS and ADEM in children is a rare 
+entity. Patients may present with typical features of 
+GBS; then, they may develop ADEM and vice versa. 
+Patients may also present with transverse myelitis along 
+with GBS.[19] Although autoimmunity to myelin protein 
+antigen and nerve tissue plays a key role here, some 
+authors suggest that there may be a continuous clinical 
+spectrum due to antibody-mediated postinfectious 
+syndrome, where there is the involvement of both 
+CNS and PNS.[20,21] Although some authors suggest a 
+different opinion, according to them immune response 
+against a component of myelin of the CNS may carry 
+cross-antigenicity with the peripheral nerve. The high 
+number of helper inducer T cells suggests a common 
+pathogenic mechanism of GBS and ADEM.[3]
+The main challenge of this comorbid condition is 
+the different treatment regime of the two disorders. 
+In GBS, the first line of treatment is intravenous 
+immunoglobulin; whereas in the case of ADEM, bolus 
+methylprednisolone is the mainstay of treatment. 
+However, the use of corticosteroids in GBS is 
+disappointing. The exact mechanism is not known; the 
+proposed mechanism is that steroids reduce macrophage 
+infiltration and, thus, delay the regeneration of injured 
+nerves.[22] We started the treatment of the patient with 
+intravenous immunoglobulin for five days; then we 
+started intravenous methylprednisolone, which caused 
+dramatic improvement in the child. During the one-
+year follow-up, there was no residual deficit in the child.
+conclusIon
+The coexistence of GBS and ADEM is a rare entity, 
+with the involvement of the CNS and PNS. Early 
+diagnosis and treatment is very important, as it hastens 
+--- Page 4 ---
+78 Journal of Pediatric Neurosciences ¦ Volume 17 ¦ Issue 1 ¦ January-March 2022
+Fatema, et al.: Concurrent GBS and ADEM in a childthe recovery. We report the case of a child with both 
+GBS and ADEM, which may be the first case reported 
+in Bangladesh.
+Acknowledgment
+The author acknowledges the support rendered by 
+Saishi Rupkotha Imrul (for grammatical correction 
+and article designing).
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+Author contribution
+Kanij Fatema: Preparation of article, design and final 
+revision, and correspondence. Md Mizanur Rahman: 
+Conceptualization, overall supervision. Shaheen 
+Akhter: Article writing.
+Ethical approval/patient consent
+Ethical approval has been obtained from the 
+institutional review board, and consent of the guardian 
+of the patient has been obtained.
+references
+1. Deshmukh IS, Bang AB, Jain MA, Vilhekar KY . Concurrent 
+acute disseminated encephalomyelitis and Guillain-Barré 
+syndrome in a child. J Pediatr Neurosci 2015;10:61-3.
+2. van  Doorn  PA, Ruts  L, Jacobs  BC. Clinical features, 
+pathogenesis, and treatment of Guillain-Barré syndrome. 
+Lancet Neurol 2008;7:939-50.
+3. Mohammed  RR, Jan  MM. Co-morbid Guillain-Barré 
+syndrome and acute disseminated encephalomyelitis. 
+Neurosciences (Riyadh) 2013;18:166-8.
+4. Hintzen  RQ, Dale  RC, Neuteboom  RF, Mar  S, Banwell  B. 
+Pediatric acquired CNS demyelinating syndromes: Features 
+associated with multiple sclerosis. Neurology 2016;87:S67-73.
+5. Leake  JA, Albani  S, Kao  AS, Senac  MO, Billman  GF, 
+Nespeca  MP, et  al. Acute disseminated encephalomyelitis in 
+childhood: Epidemiologic, clinical and laboratory features. 
+Pediatr Infect Dis J 2004;23:756-64.
+6. Nishiyama M, Nagase H, Tomioka K, Tanaka T, Yamaguchi H, 
+Ishida  Y , et  al. Clinical time course of pediatric acute 
+disseminated encephalomyelitis. Brain Dev 2019;41:531-7.
+7. Pagano MA, Allievi A, Muñoz SA, Marroquín V , Biaggioni M, 
+Vallejos  LF . [Association between acute disseminated 
+encephalomyelitis and Guillain-Barré syndrome in an adult]. 
+Medicina (B Aires) 2011;71:254-6.8. Garg  RK. Acute disseminated encephalomyelitis. Postgrad 
+Med J 2003;79:11-7.
+9. Hoshino T, Uchiyama Y , Ito E, Osawa S, Ohashi T. Simultaneous 
+development of acute disseminated encephalomyelitis and 
+Guillain-Barré syndrome associated with H1N1 09 influenza 
+vaccination. Intern Med 2012;51:1595-8.
+10. Leonhard  SE, Mandarakas  MR, Gondim  FAA, Bateman  K, 
+Ferreira MLB, Cornblath DR, et al. Diagnosis and management 
+of Guillain-Barré syndrome in ten steps. Nat Rev Neurol 
+2019;15:671-83.
+11. Asbury  AK, Cornblath  DR. Assessment of current 
+diagnostic criteria for Guillain-Barré syndrome. Ann Neurol 
+1990;27(Suppl):S21-4.
+12. Sejvar JJ, Kohl KS, Gidudu J, Amato A, Bakshi N, Baxter R, 
+et al.; Brighton Collaboration GBS Working Group. Guillain-
+Barré syndrome and Fisher syndrome: Case definitions 
+and guidelines for collection, analysis, and presentation of 
+immunization safety data. Vaccine 2011;29:599-612.
+13. Asbury AK. New concepts of Guillain-Barré syndrome. J Child 
+Neurol 2000;15:183-91.
+14. Susuki K, Koga M, Hirata K, Isogai E, Yuki N. A Guillain-
+Barré syndrome variant with prominent facial diplegia. J 
+Neurol 2009;256:1899-905.
+15. Kılıç  B, Güngör  S, Özgör  B. Clinical, electrophysiological 
+findings and evaluation of prognosis of patients with 
+Guillain-Barré syndrome. Turkish J Pediatrics 2019;61:200-8. 
+doi:10.24953/turkjped.2019.02.008
+16. Pohl D, Alper G, Van Haren K, Kornberg AJ, Lucchinetti CF, 
+Tenembaum  S, et  al. Acute disseminated encephalomyelitis: 
+Updates on an inflammatory CNS syndrome. Neurology 
+2016;87:S38-45.
+17. Absoud  M, Lim  MJ, Chong  WK, De  Goede  CG, Foster  K, 
+Gunny  R, et  al.; UK and Ireland Childhood CNS 
+Inflammatory Demyelination Working Group. Paediatric 
+acquired demyelinating syndromes: Incidence, clinical and 
+magnetic resonance imaging features. Mult Scler 2013;19: 
+76-86.
+18. Banwell B, Kennedy J, Sadovnick D, Arnold DL, Magalhaes S, 
+Wambera K, et al. Incidence of acquired demyelination of the 
+CNS in canadian children. Neurology 2009;72:232-9.
+19. Sato  N, Watanabe  K, Ohta  K, Tanaka  H. Acute transverse 
+myelitis and acute motor axonal neuropathy developed after 
+vaccinations against seasonal and 2009 A/H1N1 influenza. 
+Intern Med 2011;50:503-7.
+20. Huber  S, Kappos  L, Fuhr  P, Wetzel  S, Steck  AJ. Combined 
+acute disseminated encephalomyelitis and acute motor axonal 
+neuropathy after vaccination for hepatitis A and infection with 
+campylobacter jejuni. J Neurol 1999;246:1204-6.
+21. Yuki  N. Fisher syndrome and Bickerstaff brainstem 
+encephalitis (Fisher-Bickerstaff syndrome). J Neuroimmunol 
+2009;215:1-9.
+22. Wang YZ, Lv H, Shi QG, Fan XT, Li L, Yi Wong AH, et al. 
+Action mechanism of corticosteroids to aggravate Guillain-
+Barré syndrome. Sci Rep 2015;5:13931.

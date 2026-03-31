@@ -1,0 +1,787 @@
+Citation: Mancera-Paez O, Roman GC, et al. Concurrent GBS, transverse myelitis and encephalitis post-Zika: case report and review. J Neurol Sci. 2018. PMID: 30292020
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+journal homepage: www.elsevier.com/locate/jns
+Review Article
+Concurrent Guillain-Barré syndrome, transverse myelitis and encephalitis
+post-Zika: A case report and review of the pathogenic role of multiplearboviral immunity
+Oscar Mancera-Páeza,b,1, Gustavo C. Románc,d,⁎,1, Rodrigo Pardo-Turriagoa, Yhojan Rodrígueze,
+Juan-Manuel Anayae
+aUniversidad Nacional de Colombia, Hospital Universitario Nacional, Faculty of Medicine, Department of Neurology, Bogotá, Colombia.
+bDavid Cabello International Alzheimer Disease Scholarship Fund, Houston Methodist Hospital, Houston, TX, USA.
+cDepartment of Neurology, Methodist Neurological Institute and the Institute for Academic Medicine Houston Methodist Research Institute, Houston Methodist Hospital,
+Houston, TX, USA
+dWeill Cornell Medical College, Department of Neurology, Cornell University, NY, New York, USA
+eCenter for Autoimmune Diseases Research (CREA), School of Medicine and Health Sciences, Universidad del Rosario, Bogotá, Colombia
+ARTICLE INFO
+Keywords:
+Zika virusGuillain-Barré syndromeTransverse myelitis
+Acute disseminated encephalomyelitis
+Post-infectious encephalitisColombiaABSTRACT
+We review post-infectious and post-vaccination neurological syndromes involving peripheral and central ner-
+vous system (CNS) and report an illustrative case of simultaneous occurrence of Guillain-Barré syndrome (GBS),
+conﬁrmed by nerve conduction velocities, plus MRI-demonstrated transverse myelitis (TM) and acute en-
+cephalitis [acute disseminated encephalomyelitis] (ADEM+GBS) a ﬀecting a 24-year-old woman from Cúcuta,
+Colombia, who developed acute Zika virus (ZIKV) infection con ﬁrmed by serum reverse transcriptase-poly-
+merase chain reaction (RT-PCR) and convalescent ZIKV IgG antibodies. With intensive care treatment, re-
+spiratory support, steroids, and intravenous immunoglobulin (IVIg), patient survived with residual ﬂaccid
+paraparesis. She had preexisting immunity against Chikungunya virus (CHIKV) and Dengue virus (DENV) ac-
+quired before the arrival of ZIKV in Colombia. From reports in the Caribbean, Central and South America we
+review 19 cases of ZIKV-associated TM, encephalitis and ADEM occurring after a mean latent period of 10.5 days(range 1 –96) post-infection. Although GBS and ADEM are usually considered post-infectious and associated with
+development of antibodies against peripheral nerve and CNS epitopes, we postulate that our case of ADEM+GBS
+ispara-infectious, induced by acute ZIKV neurotropism boosted by active immunity against other arboviruses.
+Animal models of ZIKV demonstrated strong viral neurotropism enhanced by passive immunity with antibodies
+against arboviruses such as West Nile virus, CHIKV, or DENV. These considerations are relevant to prevent
+potential ZIKV vaccine-induced reactions involving central and peripheral nervous system.
+1. Introduction
+Theﬂaviviruses (from the Latin, ﬂavus, yellow) are small single-
+stranded RNA viruses associated with a wide range of neurological
+syndromes. The Flaviviridae family of viruses includes Yellow fever,
+Tick-borne encephalitis, Japanese encephalitis, West Nile (WNV),Dengue (DENV), and Zika (ZIKV) [ 1]. Recently, Acosta-Ampudia et al.
+[2] reviewed extensively the transmission, immunology and patho-
+physiology of the autoimmune neurological syndromes associated with
+ZIKV infection. From sylvatic reservoirs this arbovirus enters an urbancycle where transmission to humans occurs mainly by female Aedes
+mosquitoes –also carriers of DENV and Chikungunya (CHIKV), an al-
+phavirus of the family Togaviridae . In addition, sexual transmission of
+ZIKV has been demonstrated with virus isolations from urine, semen,
+blood, maternal milk and tears. Zika infection is manifested by fever,
+maculopapular rash, conjunctivitis and rare uveitis, arthralgias, muscle
+pain and headache, but about 80% of infections are asymptomatic [ 2].
+Nonetheless, ZIKV is neuroinvasive and capable of causing numerousneurological manifestations [ 2].
+According to the World Health Organization (WHO) [ 3], a major
+https://doi.org/10.1016/j.jns.2018.09.028
+Received 23 February 2018; Received in revised form 23 September 2018; Accepted 25 September 2018⁎Corresponding author: 6560 Fannin St., Suite 802, Houston, TX 77030, USA.
+1These authors contributed equally to this work.E-mail addresses: ogmancerap@unal.edu.co (O. Mancera-Páez), GCRoman@HoustonMethodist.org (G.C. Román), rpardot@unal.edu.co (R. Pardo-Turriago),
+johanintel@hotmail.com (Y. Rodríguez), juan.anaya@urosario.edu.co (J.-M. Anaya).Journal of the Neurological Sciences 395 (2018) 47–53
+Available online 26 September 2018
+0022-510X/ © 2018 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+TiAn update to this article is included at the end
+--- Page 2 ---
+concern of the Zika pandemic has been the viral neurotropism causing
+microcephaly [ 4] and Guillain-Barré syndrome (GBS) [ 1,2,5–7], along
+with other less frequent ZIKV-associated neurological complicationsincluding encephalitis, acute myelitis, encephalopathy, seizures, me-
+ningitis, and meningoencephalitis [ 1,2,7–9]. ZIKV infection of pregnant
+women causes microcephaly probably because the virus infects neuralprogenitor and glial cells, inducing apoptosis and excitotoxic cell death
+[10], apparently reaching the CNS via endothelial cells without da-
+maging the blood-brain barrier [ 11]. Childhood stroke from ZIKV vas-
+culitis [ 12] may result from infection of brain endothelial cells. The
+neurological complications of the Zika epidemic led the WHO to declareZika a “public health emergency of international concern ”[13]. On
+November 18, 2016, WHO declared the end of the global healthemergency; however, the global risk assessment over the spread of ZIKV
+remains unchanged.
+1.1. The Zika virus epidemic
+ZIKV was ﬁrst isolated in 1947 in a Rhesus monkey in the Ziika
+forest in Uganda, and the ﬁrst serology-con ﬁrmed human cases of ZIKV
+infection were reported in Africa in 1952 [ 14]. The current outbreak of
+ZIKV originated in the island of Yap, Micronesia, in June 2007 [ 15,16].
+This Flavivirus was considered clinically unimportant given that only 14
+human symptomatic cases had been reported between 1947 and 2006
+[17]. From Micronesia, the Zika epidemic spread to French Polynesia in
+2013–2014 and then to other Paci ﬁc islands [ 2]. In May 2015, the ﬁrst
+cases in the Americas were reported in northeastern Brazil followed by
+rapid spread of the virus throughout the Western Hemisphere [ 2]. In
+August 2016, the Pan American Health Organization (PAHO) reported578,148 suspected cases of ZIKV in 45 countries and territories [ 18],
+from the southern USA to Brazil and northern Argentina (excluding
+continental Chile) potentially exposing 500 million people.
+The neurological complications of ZIKV infection have been ex-
+tensively reviewed [ 1,2,8,9]. In 2013, during the ﬁrst large outbreak of
+Zika in French Polynesia, Cao-Lormeau et al. [ 19] documented the
+occurrence
+of GBS post-ZIKV infection. In 2015, local transmission of
+ZIKV was reported in Brazil [ 2]; in December 2015 it reached Colombia
+and by epidemiological week 28 of 2016 a total of 99,721 cases were
+registered [ 18]. In February 2016, almost 90 cases of GBS were re-
+ported [ 20,21] triplicating in 3 months the number of cases observed
+during the previous six years [ 22,23]. Other neurological complica-
+tions, including transverse myelitis (TM) and acute disseminated en-cephalomyelitis (ADEM), were documented also [ 1,2].
+2. Methods
+We conducted a search of the medical literature for reports of
+neurological complications of Zika infection in the Americas and theCaribbean, according to the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) statement [ 24] via PubMed until
+May 2018. We used the following key terms: ( “Guillain-Barré syn-
+drome ”[MeSH] OR Guillain Barre syndrome ”[All Fields] OR “Myelitis,
+Transverse ”[MeSH] OR “Myelitis ”[All Fields] OR “Encephalomyelitis,
+Acute Disseminated ”[MeSH] OR “Acute disseminated en-
+cephalomyelitis ”[All Fields] OR “Encephalitis ””[All Fields]) AND
+(“Zika virus ”[MeSH Term] OR “Zika virus infection ”[MeSH Term] OR
+Zika [All Fields]). Further case reports and other studies were obtainedby reference tracing of retrieved articles. We included any article in
+English, French, Portuguese, or Spanish reporting an association be-
+tween ZIKV and neurological manifestations.
+2.1. Neurological Complications of ZIKV infection: Case report
+We report an illustrative case of a young woman from Cúcuta
+(Northeast Colombia) with ZIKV infection and evidence of arboviral
+immunity against CHIKV and DENV acquired prior to the arrival of Zikain Colombia. This patient developed acute Zika plus concurrent GBS,TM and ZIKV-associated encephalitis leading us to postulate potential
+mechanisms that could be associated with these extensive neurological
+complications of ZIKV infection. The geographical characteristics,
+neuroepidemiology, immunology, and neurological manifestations of
+the Zika outbreak in Cúcuta, Colombia, were previously described by
+two of us (JMA, YR) [ 2,7]. This case was previously listed as radicu-
+lomyelopathy [ 7] but brain MRI documented the presence of ZIKV-as-
+sociated encephalitis.
+In January 2014, a 24-year old Colombian woman was diagnosed
+with CHIKV infection manifested by polyarthralgias, malaise, nausea
+and a pruritic macular rash in the trunk and the legs. IgM antibody titer
+against CHIKV was positive (1:474, January 2014, ELISA, Euroimmun
+Luebeck, Germany) as well as the IgG antibody titer (> 1.1,
+Euroimmun Index performed at the Center for Autoimmune Diseases
+Research, CREA). The patient also had serological evidence of previousinfection
+with DENV (IgM titer 1:32, Euroimmun, Luebeck, Germany).
+The patient recovered completely from the CHIKV infection, but on
+17 January 2016, she developed vomiting, fever (40° –42 °C), myalgias
+and severe epigastric pain spreading in a band-like pattern around herback. She was admitted to the hospital, and ZIKV infection was iden-
+tiﬁed at the Colombian National Institute of Health by reverse-tran-
+scriptase-polymerase chain reaction (RT-PCR Taq-Path Zika Virus,Thermo Fisher, cycle threshold (Ct) positivity ≤38.00). In May 2016,
+CREA laboratories con ﬁrmed the presence of autoantibodies against
+ZIKV: IgG antibodies were positive with a titer of 2.9 (ZIKV
+Euroimmun, Luebeck, Germany) but, as expected, IgM antibodies were
+negative at 0.1 (ZIKV Euroimmun, Luebeck, Germany); the plate neu-
+tralization test was positive (PRNT90 > 1/128).
+About 24 h after admission she developed urinary retention and
+bilateral lower limb weakness with foot drop. The weakness ascended
+and two days after admission she developed ﬂaccid quadriplegia, be-
+came confused, hypoxemic, and required respiratory support.
+Autoimmunity pro ﬁle was negative including: rheumatoid factor, anti-
+aquaporin 4 antibodies, systemic lupus erythematosus, sarcoidosis,anti-phospholipid syndrome, anti-CCP antibodies, thyroid peroxidase
+(TPO) antibodies, thyroid thyroglobulin antibodies, B2GPI IgG, B2GPI
+IgG, ACA III IgM, ACA III IgG, ANAs, ANCAs, and Sjögren's syndrome
+panel. The patient received a 5-day course of intravenous im-
+munoglobulin (IVIg) and methyl-prednisolone resulting in improve-
+ment of the level of consciousness.
+In the absence of cerebrospinal ﬂuid (CSF) examination the diag-
+nosis of GBS was con ﬁrmed (Level 2: Brighton Collaboration GBS
+Working Group criteria [ 25]) based on clinical neurophysiology ex-
+amination that included nerve conduction velocities (NCV) [Table 1A]
+and needle electromyography (EMG) [Table 1B]. On 23 February 2016,
+absence of the H re ﬂex was documented and NCV showed slow nerve
+conduction velocities in median and ulnar nerves with abnormal tem-poral dispersion; compound muscle action potentials (CMAPs) were
+prolonged and had reduced amplitude. EMG showed signs of denerva-
+tion in ﬁrst dorsal interosseous muscles. NCV of tibial and peroneal
+nerves showed no response at anterior tibialis and peroneus longusmuscles. Upper extremity sensory nerve action potentials (SNAPs) were
+present. Conduction block was observed in lower limbs, with absent
+SNAPs at sural and super ﬁcial peroneal nerves. EMG disclosed in-
+creased insertion activity with denervation signs, positive sharp waves,ﬁbrillations and severely reduced recruitment in lower limbs; motor
+units in lower limb muscles were neuropathic and polyphasic. Theabove pattern is consistent with acute motor axonal neuropathy
+(AMAN), as previously reported in ZIKV-associated GBS in French
+Polynesia [ 19], Brazil [ 8], and Colombia [ 5–7].
+About one month after onset, MRIs of the brain and spinal cord were
+performed. Brain MRI on T2 and ﬂuid-attenuated inversion recovery
+(FLAIR) sequences disclosed multifocal non-enhancing hyperintenselesions located in the periventricular white matter and subcortical areas
+[Fig. 1A,B]. MRI of the cervical, thoracic, and lumbar spine, with andO. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 47–53
+48
+--- Page 3 ---
+without gadolinium contrast, demonstrated multiple T2 hyperintense,
+non-enhancing lesions in the medulla oblongata, cervical and thoracic
+spinal cord [ Fig. 2A, B]. In summary, the clinical presentation, neuro-
+physiology tests, and MRI lesions con ﬁrmed the presence of ZIKV-as-
+sociated ADEM + GBS.
+The patient remained in ICU for six weeks requiring respiratory
+support, nasogastric tube feeding and treatment for numerous compli-
+cations including antibiotic-resistant Acinetobacter baumannii septi-
+cemia and basal pneumonia. Eventually, she was weaned from the re-spirator; her level of alertness improved, and she was able to
+communicate. On neurological examination, she had residual unilateral
+optic neuritis, generalized are ﬂexia, sensory loss at the C5-T2 levels,
+with absent perception of touch, temperature and proprioception fromT6 down into the lower limbs. The bilateral plantar response was
+neutral; Ho ﬀman sign was positive in both hands. She left the hospital
+and underwent physical therapy and rehabilitation. One year later, thepatient is cognitively normal, with a Montreal Cognitive Assessment
+(MoCA) [ 26] score of 30/30. The ﬂaccid paraplegia with global are-
+ﬂexia and atrophy of leg muscles persists; she is wheelchair-bound but
+is beginning to walk with support. Incontinence of urinary bladder and
+bowels remain unchanged, and there is complete loss of sensation in the
+lower limbs.
+3. Discussion
+This case highlights several important aspects of the neurological
+manifestations of ZIKV including the concurrent development of GBS
+and encephalomyelitis during the acute phase of the ZIKV infection
+demonstrated by RT-PCR. It has been reported in the literature that the
+neurological complications of ZIKV infection can be either para-in-
+fectious, i.e., due to direct viral neurotropism, or post-infectious, i.e.,
+resulting from immune-mediated reactions against the virus. We review
+Fig. 1. Magnetic resonance imaging (MRI) showing en-
+cephalitis lesions in a patient with acute Zika and ZIKV-
+myelitis+GBS. (A) Fluid-attenuated inversion recovery(FLAIR) sequence showing non-enhancing hyperintense white
+matter lesions located in the left frontal (arrow) and left
+parietal (arrowhead) periventricular regions and right tem-poral (white arrow) and occipital (white arrowhead) sub-
+cortical areas. (B) Di ﬀusion-weighted imaging (DWI) se-
+quence showing increased di ﬀusion in left frontal, right
+parietal and occipital lesions.
+Fig. 2. Magnetic resonance imaging (MRI) showing myelitis
+in patient with acute Zika virus infection and ZIKV-GBS. (A)T2 sequences showing several zones with hypersignal in
+ventral pons, pontomedullary junction, cervical cord C1-C7,thoracic cord T1-T12, and conus medullaris (not illustrated).(B) Axial T2 sequence showing hypersignal involving lateral
+columns in the cervical cord C1-C2.O. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 47–53
+49
+--- Page 4 ---
+the original descriptions of para-infectious, post-infectious and post-
+vaccination neurological syndromes and summarize the reported cases
+of TM and ADEM in the American continent. We conclude by discussing
+the implications of the presence in our patient of serological evidence of
+immunity against CHIKV and DENV suggesting that preexistent arbo-
+viral immunity could be relevant to the coexistence of widespread
+neurological involvement of both PNS and CNS in this patient.
+3.1. Para-infectious, post-infectious and post-vaccination neurological
+syndromes
+In 1956, Miller, Stanton and Gibbons [ 27] reviewed the para-in-
+fectious encephalomyelitis and related syndromes occurring simulta-
+neously or shortly after the onset of an acute viral infection such as
+mumps, which is capable of causing ADEM [ 28] and other immune
+responses a ﬀecting the brain, spinal cord as well as the peripheral
+nervous system (PNS). It is generally accepted that viral neurotropism is
+the main mechanism of injury. Recent examples include the polio-like
+complications of WNV [ 29] and of enterovirus D68 strain [ 30,31].
+In 1969, Charles Poser [ 32] in a now-classic paper proposed the
+term “acute disseminated vasculomyelinopathy ”to designate some
+post-infectious and post-vaccination neurological complications a ﬀecting
+both the central nervous system (CNS) and the PNS after a period of
+latency ranging from a few days to several weeks [ 33]. He emphasized
+that these immune reactions in the CNS are characterized neuro-pathologically by perivenous vascular in ﬂammation frequently af-
+fecting the myelin. Post-infectious reactions following varicella andrubella may involve the brain itself, spinal cord, spinal roots, and per-
+ipheral nerves, manifested by various clinical syndromes such as ADEM,
+optic neuritis, papilledema, isolated ophthalmoplegia, brachial neuritis
+and other mononeuropathies.
+3.1.1. Guillain-Barré syndrome (GBS)
+GBS has been considered a post-infectious complication associated
+with production of antibodies against peripheral nerve gangliosides and
+other components of axons, myelin or nerve roots [ 34], occurring after
+gastrointestinal and upper respiratory tract infections caused by bac-terial agents such as Campylobacter jejuni, Mycoplasma pneumoniae, and
+at least 10 other bacterial microorganisms [ 34]. GBS occurred also with
+increased incidence following swine ﬂu vaccination [ 35]. Viral infec-
+tions associated with GBS [ 34] include cytomegalovirus (CMV), herpes
+simplex virus, varicella-zoster virus, Epstein-Barr virus (EBV), hepatitis
+B virus, human immunode ﬁciency virus, and parain ﬂuenza type-3 virus
+[36]. Acosta-Ampudia et al. [ 2], have emphasized that arboviral in-
+fections –including ZIKV –alter the immune recognition of peripheral
+nerve, possibly causing the myelin and underlying axon not to be re-cognized as self-tissue, leading to abnormal autoimmune responses and
+GBS. Among the ﬂaviviruses, Dengue infections [ 37,38],
+particularly
+the neurotropic serotypes DENV-2 and DENV-3 [ 39], have been asso-
+ciated with GBS and other neurological complications [ 40], including
+meningoencephalitis, ADEM [ 41], cerebellar syndrome, neuromyelitis
+optica, as well as a longitudinally extensive form of TM [ 42].
+Prior to the current ZIKV pandemic it was believed that the latency
+period following infection was required for the production of antibodies
+cross-reacting by molecular mimicry with epitopes in peripheral nerves
+leading to myelin or axonal injury. Thus, Anaya et al. [ 7] in Cúcuta
+(Colombia) found a lag time of 7 days (interquartile range 2 –14.5)
+between ZIKV infection and neurological symptoms. The incidence of
+GBS increased 4.41-fold secondary to ZIKV infection. Serum anti-
+ganglioside antibodies were found in 71.43% of patients with acuteinﬂammatory demyelinating polyneuropathy (AIDP) and in 14.28% of
+patients with axonal forms (AMAN). Anaya and colleagues [ 7] per-
+formed a case-control study comparing 29 patients with ZIKV-GBS and
+74 matched-controls with ZIKV infection alone and found that all GBS
+patients were positive for IgG antibodies against both ZIKV and DENV,
+and 69% were positive also for CHIKV [ 7]. Previous infection with M.pneumoniae increased 4-fold the risk of GBS (OR: 3.95; 95%
+CI = 1.44 –13.01; p= .006). No di ﬀerences in antibody levels against C.
+jejuni , EBV and CMV were observed [ 7].
+Based on their experience in French Polynesia, Gérardin et al. [ 43]
+postulated that Zika-related GBS might have a di ﬀerent mechanism
+than the usual post-viral GBS. They suggested that a hyperacute im-
+mune response potentially occurs in patients who are Dengue ser-
+opositive since there is cross-reactivity of DENV with ZIKV [ 44]. In
+Colombia, Parra et al. [ 6] concluded that 48% of the cases of ZIKV-GBS
+had para-infectious onset. As reported by Anaya et al. [ 7], the presence
+of serological evidence of immunity against CHIKV and DENV in 100%of their ZIKV-GBS cases diagnosed in Colombia, as illustrated here,
+would support the proposal of Gérardin et al. [ 43] from French Poly-
+nesia, resulting in hyperacute immune response shortening the timebetween ZIVK infection and onset of neurological manifestations.
+Nonetheless, Timmings and colleagues [ 45] from New Zealand
+favor a direct neurotropic e ﬀect of ZIKV on peripheral nerves as a
+possible para-infectious mechanism of action. Their patient was a maninfected in Tonga (South Paci ﬁc Polynesia) who developed GBS con-
+currently with demonstrated Zika viremia but with negative ZIVK iso-lation in the CSF and serological absence of previous viral antibodies
+against Dengue and other ﬂaviviruses; MRIs of brain and spinal cord
+were normal [ 46]. The two mechanisms may be at play in di ﬀerent
+environments and further studies will be required to de ﬁne the actual
+pathogenesis of ZIKV-associated GBS.
+3.1.2. Acute transverse myelitis (ATM) and acute disseminated
+encephalomyelitis
+(ADEM)
+ZIKV-ATM and ZIKV-ADEM have rarely been reported in the
+American continent and the Caribbean [ 47–56]. We were able to ﬁnd a
+total of 19 patients with myelitis associated with ZIKV infection[Table 2]. Clinically, these cases can be separated in the following
+variants: Acute transverse myelitis (12 cases), Encephalomyelitis (6 cases),
+plus the single case of ADEM plus GBS reported here.
+Acute transverse myelitis (ATM): Most patients presenting with ZIKV-
+ATM were men (8/12, 66.6%) with a mean age of 23 years (range15–43) (except for an 86-year-old man [ 50]). The latency period be-
+tween Zika symptoms and neurological manifestations ranged from7 days to 96 days (mean 18 days). The a ﬀected geographic areas in-
+cluded the Caribbean (Guadeloupe, French Antilles; San Juan, PuertoRico), Colombia (Cúcuta), and Brazil (Rio de Janeiro and Pará). The
+clinical presentation is similar: Mécharles et al. [ 47] described a 15-
+year-old girl infected with ZIKV in the French Caribbean island ofGuadeloupe who presented with back pain, left hemiparesis, parapar-
+esis and signs of acute cervicothoracic myelitis, con ﬁrmed by MRI. She
+developed urinary retention similar to the symptom of onset in ourpatient, and physical examination disclosed an enlarged urinary
+bladder. Brain MRI was normal, and she recovered with steroids. Pa-
+lacios et al. [ 48] reported a 23-year-old man from Colombia who
+15 days following an acute ZIKV infection developed pelvic pain, ﬂaccid
+paraplegia with brisk leg re ﬂexes, urinary retention and evidence on
+MRI of longitudinally extensive myelitis from C1 down to the conusmedullaris. The patient recovered after steroid treatment com-
+plemented with plasmapheresis. Anaya et al. [ 7] reported a cluster of 6
+patients with ZIKV-myelitis living in the same region of northeasternColombia as the patient reported here. After a median latent period of
+32 days (range 13– 96 days) following acute ZIKV infection, they all
+developed a similar neurologic syndrome of transverse myelitis withsevere longitudinal myelitis a ﬀecting cervical and thoracic spinal cord.
+In addition to positive IgG antibodies against ZIKV, all patients also had
+serological evidence of immunity against CHIKV and DENV [ 7]. It is
+unclear if the cluster of neurological cases in Colombia resulted from aparticular neurotropism of the ZIKV strain, or from the additive e ﬀect
+on the host with acute ZIKV infection of multiple antibodies againstother arboviruses, in particular, DENV and CHIKV. For instance, ATM
+has been reported in subjects who are hyper-responders to hepatitis BO. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 47–53
+50
+--- Page 5 ---
+vaccination with very high antibody titers in the CSF [ 57]. The exact
+mechanism of production of ZIKA-ATM remains unknown.
+Encephalomyelitis: We found 5 reported cases of ZIKV-associated
+encephalomyelitis and a single patient with ADEM [ 53] (Table 2). Age
+at onset in 3 cases (2 women and 1 man) ranged from 18 to 26 years
+(mean 21 years); the oldest patient was a 69-year-old woman [ 55].
+Three cases each occurred in the Dominican Republic and Brazil (Rio deJaneiro and Pernambuco). The latency period between Zika symptoms
+and neurological symptoms ranged from 1 to 21 days (mean 10 days).
+The clinical presentation is exempli ﬁed by the case reported by Roth
+et al. [ 54] of ZIKV encephalomyelitis in an 18-year-old woman from the
+Dominican Republic in the Caribbean who six weeks after an acute
+ZIKV infection presented with numbness of the legs from the T6 der-
+matome down, hyperre ﬂexia and Babinski sign. MRI showed myelitis in
+the cervical and thoracic cord; the brain MRI demonstrated multifocalsubcortical and callosal white matter lesions similar to those of our
+patient. The patient recovered with corticosteroid treatment. Given the
+delay between the acute ZIKV infection and the onset of neurological
+symptoms (14 days), a diagnosis of post-infectious ZIKV-EM was pro-
+posed [ 54].
+3.2. The Role of Other Arboviral Infections
+ZIKV is the latest arboviral infection to a ﬀect the American con-
+tinent. According to Fauci and Morens [ 58] four arboviral epidemic
+diseases have occurred in the last 20 years in the American continent:
+DENV in the 1990s, WNV in 1999, CHIKV in 2013, and ZIKV since
+2015. The Dengue outbreak that preceded and co-circulated with Zika
+infection probably resulted in anti- ﬂavivirus cross-immunity that may
+have induced antibody-dependent enhancement leading to ZIKV-GBS[59–61]. The potential role of Chikungunya infection [ 51], a Togavir-
+idaefamily arbovirus, that a ﬀected this patient four months prior to the
+ZIKV infection, remains unexplored. An epidemiological increase ofDengue and Chikungunya cases occurred in Colombia from July 2014
+until July 2015 and preceded the outbreak of Zika infection by three
+months. There are reports of CHIKV-GBS, meningoencephalitis, and
+myelitis during CHIKV outbreaks around the world [ 51]. Although
+other members of the Flaviviridae family such as Yellow fever, Saint
+Louis encephalitis, Japanese encephalitis, WNV, DENV, and CHIKV are
+capable of producing neurological disease, the broad spectrum of
+neurological manifestations of Zika virus is unprecedented.
+3.2.1. ZIKV-GBS, transverse myelitis and encephalomyelitis: Para-
+infectious or Post-infectious
+The possible pathogenesis of ZIKV-associated neurological disorders
+has been recently reviewed [ 1,2,8,10,61]. Miner and Diamond [ 59]
+postulated that congenital ZIKV infection might be related to the highprevalence of pre-existing cross-reactive immune responses associated
+with DENV [ 44]. Similar observations in GBS patients from French
+Polynesia [ 43] and Colombia [ 6,7] suggest that a hyperacute immune
+response
+may occur resulting in para-infectious onset. Serological evi-
+dence of previous immunity against both CHIKV and DENV was foundin Colombia [ 7,8]. Nevertheless, as reported by Anaya et al. [ 8], no
+signiﬁcant di ﬀerences for arboviruses (i.e., DENV and CHIKV) between
+GBS cases and controls were observed but GBS cases more frequently
+had evidence of prior M. pneumoniae infection. These observations re-
+inforce the view that the neurotropism of ZIKV may cause the si-multaneous compromise of CNS and PSN [ 45,46]. In Brazil, da Silva
+and colleagues [ 49] found that 50% of ZIKV-encephalitis cases also
+have neuromuscular ﬁndings and almost half of the patients with ZIKV-
+associated GBS present enhancement of cranial nerves on MRI scans
+manifested by dysphagia and facial numbness. Moreover, a variety of
+ZIKV-GBS subtypes occurred including AIDP, AMAN, acute motor and
+sensory axonal neuropathy, and Miller Fisher syndrome variant
+[1,7,8,49]. A purely sensory polyneuropathy has also been reported
+[62].Among the ﬂaviviruses, West Nile virus causes a poliomyelitis
+syndrome with acute ﬂaccid paralysis, along with myositis, myo-
+carditis, brachial plexopathy, AMAN, and GBS [ 63]. Patients with GBS
+produce antibodies against human peripheral nerve gangliosides[1,2,7–9,61]; in AIDP the target of the immune-related injury is the
+myelin sheath and Schwann-cells, while in AMAN the axons of thenerve or axolemma membranes are injured [ 1,2,7–9]. In vitro studies
+have shown ZIKV-induced axonal and myelin changes in CNS culturesfrom cytokines induced by the virus [ 64,65]. Lucchese and Kanduc [ 66]
+demonstrated analogy of > 500 epitopes with high peptide overlapbetween the ZIKV polyprotein and human proteins related to myelin,
+demyelination, and axonal neuropathy. This ﬁnding supports cross-re-
+activity as a potential pathogenic mechanism in ZIKV-GBS.
+Some experimental animal studies have demonstrated ZIKV neuro-
+tropism [ 67–69]. Of relevance for the present case is the experimental
+model of myelitis developed by Fernandes et al. [ 70] using Swiss mice
+inoculated with a strain of ZIKV isolated from the recent outbreak inBrazil.
+At 12 days post-inoculation the mice developed bladder disten-
+tion due to urinary retention and spinal cord involvement. Brain tissueshowed perivascular leukocyte cu ﬃng, neuronal death, intense astro-
+gliosis, and increased expression of glial ﬁbrillary acidic protein
+(GFAP). The spinal cord showed myelitis with few hypertrophic astro-
+cytes and long cellular processes. In addition, hemorrhagic changes
+occurred in the cortex, hippocampus, and spinal cord. Im-
+munohistochemical markers in brain and cerebellum demonstrated
+intense crossed immunity against DENV, but only rarely positive im-
+munity was noted in the spinal cord. A complete neuropathological
+study of congenital cases of ZIKV infection by Chimelli and coworkers
+[71] showed spinal lesions consisting of motor cell loss sparing dorsal
+root ganglia, dorsal nerve roots, and spinal columns. There was mildlympho-histiocytic in ﬂammation. In situ hybridization showed me-
+ningeal, germinal matrix, and neocortical ZIKV infection. A secondaryischemic process was also present. Bardina et al. [ 72] in a murine model
+of ZIVK infection described increased morbidity and mortality fol-
+lowing the injection of convalescent plasma from DENV- or WNV-in-
+fected mice; plasma injections caused marked viremia, high fever, and
+increased ZIKV viral load in spinal cord and testes. These authors [ 72]
+proposed an antibody-dependent enhancement (ADE) mechanismmediated in vitro through IgG engagement of Fc-Gamma receptors to
+potentiate the ZIKV infection.
+In summary, the current Zika epidemic has resulted in unexpected
+increase in the incidence of microcephaly and other congenital neuro-
+logical defects as well as ZIKV-GBS in adults. We report a case of si-
+multaneous ZIKV-associated ADEM+GBS indicative of the potential of
+ZIKV to a ﬀect CNS and PNS concurrently. ZIKV infection may induce
+both a typical post-infectious GBS, as well as a concurrent para-in-fectious direct infection of the nervous system enhanced by existing
+arboviral and herpesvirus immunity. Regardless of the de ﬁnitive pa-
+thophysiology of the ZIKV neurological complications, it appears im-portant to take into account the phenomenon of ADE or antibody-
+mediated potentiation for the design of ZIKA vaccines [ 73,74] in order
+to prevent potential vaccine-induced reactions involving the nervoussystem.
+Acknowledgments
+The authors would like to thank Dr. Pablo Lorenzana-Pombo and Dr.
+Fernando Ortiz for the review and analysis of the clinical neurophy-
+siology and EMG studies in this patient. Dr. Mancera-Páez was sup-
+ported by the David Cabello International Alzheimer Disease
+Scholarship Fund, Houston Methodist Hospital, Houston, Texas. Dr.
+Román's research is supported by The Jack S. Blanton Presidential
+Distinguished Chair, the Fondren Fund, and the Wareing Family Fund
+at Houston Methodist Hospital, Houston, Texas, USA.O. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 47–53
+51
+--- Page 6 ---
+References
+[1] L.S. Muñoz, B. Parra, C.A. Pardo, on behalf of the Neuroviruses Emerging in the
+Americas Study, Neurological implications of Zika virus infection in adults, J.
+Infect. Dis. 216 (2017), https://doi.org/10.1093/infdis/jix511 (S897 –S905).
+[2] Y. Acosta-Ampudia, D.M. Monsalve, L.F. Castillo-Medina, Y. Rodríguez, Y. Pacheco,
+S. Halstead, H.J. Willison, J.M. Anaya, C. Ramírez-Santana, Autoimmune neuro-
+logical conditions associated with Zika virus infection, Front. Mol. Neurosci. 11
+(2018) 116, , https://doi.org/10.3389/fnmol.2018.00116 .
+[3] World Health Organization (WHO). WHO Director-General summarizes the out-
+come of the Emergency Committee regarding clusters of microcephaly and Guillain-Barré syndrome. WHO 2016.http://www.who.int/ mediacentre/news/statements/
+2016/ emergency-committee-zika-microcephaly/en/ (accessed June 11, 2017).
+[4]M.A. Johansson, L. Mier-Y-Teran-Romero, J. Reefhuis, S.M. Gilboa, S.L. Hills, Zika
+and the risk of microcephaly, N. Engl. J. Med. 375 (2016) 1 –4.
+[5] O. Pacheco, M. Beltran, C.A. Nelson, D. Valencia, N. Tolosa, S.L. Farr, A.V. Padilla,
+V.T. Tong, E.L. Cuevas, A. Espinosa-Bode, L. Pardo, A. Rico, J. Reefhuis,
+M. González, M. Mercado, P. Chaparro, M. Martínez Durán, C.Y. Rao, M.M. Muñoz,
+A.M. Powers, C. Cuellar, R. Helfand, C. Huguett, D.J. Jamieson, M.A. Honein,
+M.L. Ospina Martínez, Zika virus disease in Colombia –Preliminary report, N. Engl.
+J. Med. (2016 Jun 15), https://doi.org/10.1056/NEJMoa1604037 .
+[6]B. Parra, J. Lizarazo, J.A. Jiménez-Arango, A.F. Zea-Vera, G. González-Manrique,J. Vargas, J.A. Angarita, G. Zuñiga, R. Lopez-González, C.L. Beltrán, K.H. Rizcala,
+M.T. Morales, O. Pacheco, M.L. Ospina, A. Kumar, D.R. Cornblath, L.S. Muñoz,
+L. Osorio, P. Barreras, C.A. Pardo, Guillain –Barré syndrome associated with Zika
+virus infection in Colombia, N. Engl. J. Med. 375 (2016) 1513 –1523 .
+[7] J.M. Anaya, Y. Rodríguez, D.M. Monsalve, D. Vega, E. Ojeda, D. González-Bravo,
+M. Rodríguez-Jiménez, C.A. Pinto-Díaz, P. Chaparro, M.L. Gunturiz, A.A. Ansari,
+M.E. Gershwin, N. Molano-González, C. Ramírez-Santana, Y. Acosta-Ampudia, A
+comprehensive analysis and immunobiology of autoimmune neurological syn-
+dromes during the Zika virus outbreak in Cúcuta, Colombia, J. Autoimmun. 77(2017) 123 –138, https://doi.org/10.1016/j.jaut.2016.12.007 .
+[8]A.Q.C. Araujo, M.T.T. Silva, A.P.Q.C. Araujo, Zika virus-associated neurologicaldisorders: A review, Brain 139 (2016) 2122 –2130 .
+[9] K.L. Tyler, K.L. Roos, The expanding spectrum of Zika virus infections of the ner-
+vous system, JAMA Neurol. 74 (2017) 1169 –1171, https://doi.org/10.1001/
+jamaneurol.2017.1471 .
+[10] R.S.S. Azevedo, J.R. de Sousa, M.T.F. Araujo, A.J. Martins Filho, B.N. de Alcantara,
+F.M.C. Araujo, M.G.L. Queiroz, A.C.R. Cruz, B.H. Baldez Vasconcelos, J.O. Chiang,
+L.C. Martins, L.M.N. Casseb, E.V. da Silva, V.L. Carvalho, B.C. Baldez Vasconcelos,
+S.G. Rodrigues, C.S. Oliveira, J.A.S. Quaresma, P.F.C. Vasconcelos, In situ immune
+response and mechanisms of cell damage in central nervous system of fatal casesmicrocephaly by Zika virus, Nature Sci. Reports 8 (1) (2018), https://doi.org/10.
+1038/s41598-017-17765-5 .
+[11] M.P. Papa, L.M. Meuren, S.V.A. Coelho, C.G. de O. Lucas, Y.M. Mustafá, F. Lemos
+Matassoli, P.P. Silveira, P.S. Frost, P. Pezzuto, M.R. Ribeiro, A. Tanuri,
+M.L. Nogueira, L. Campanati, M.T. Bozza, H.A. Paula Neto, P.M. Pimentel-Coelho,
+C.P. Figueiredo, R.S. Aguiar, L.B. Arruda, Zika virus infects, activates, and crosses
+brain microvascular endothelial cells, without barrier disruption, Front. Microbiol.
+8 (2017) 2557, , https://doi.org/10.3389/fmicb.2017.02557 .
+[12] A. Landais, A. Césaire, M. Fernandez, S. Breurec, C. Herrmann, F. Delion,
+P. Desprez, Zika vasculitis: A new cause of stroke in children? J. Neurol. Sci. 383(2017) 211 –213, https://doi.org/10.1016/j.jns.2017.10.045 .
+[13] A. Gulland, Zika virus is a global public health emergency, declares WHO, Br. Med.J. 352 (2016) i657 .
+[14] G.W. Dick, S.F. Kitchen, A.J. Haddow, Zika virus. I. Isolations and serological
+speciﬁcity, Trans. R. Soc. Trop. Med. Hyg. 46 (1952) 509 –520.
+[15]
+R.S. Lanciotti, O.L. Kosoy, J.J. Laven, J.O. Velez, A.J. Lambert, A.J. Johnson,S.M. Stan ﬁeld, M.R. Du ﬀy, Genetic and serologic properties of Zika virus associated
+with an epidemic, Yap State, Micronesia, 2007, Emerg. Infect. Dis. 14 (2008)1232 –1239, https://doi.org/10.3201/eid1408.080287 .
+[16] M.R. Du ﬀy, T.-H. Chen, W.T. Hancock, A.M. Powers, J.L. Kool, R.S. Lanciotti,
+M. Pretrick, M. Marfel, S. Holzbauer, C. Dubray, L. Guillaumot, A. Griggs, M. Bel,A.J. Lambert, J. Laven, O. Kosoy, A. Panella, B.J. Biggersta ﬀ, M. Fischer, E.B. Hayes,
+Zika virus outbreak on Yap Island, Federated States of Micronesia, N. Engl. J. Med.360 (2009) 2536 –2543 .
+[17] D.G. McNeil Jr., Zika: The Emerging Epidemic, W.W. Norton & Company, New
+York, 2016 .
+[18] PAHO WHO, Zika Cumulative Cases - 25 August 2016. Pan American Health
+Organization. World Health Organization. (Available on line at): http://www.paho.
+org/hq/index.php?option =com_content&view =article&id=12390%3Azika-cu-
+mulative-cases&catid=8424%3Acontents&Itemid=42090&lang=en (accessedJune 1, 2018).
+[19] V.M. Cao Lormeau, A. Blake, S. Mons, S. Lastere, C. Roche, J. Vanhomwegen,
+T. Dub, L. Baudouin, A. Teissier, P. Larre, A.L. Vial, C. Decam, V. Choumet,
+S.K. Halstead, H.J. Willison, L. Musset, J.C. Manuguerra, P. Despres, E. Fournier,
+H.P. Mallet, D. Musso, A. Fontanet, J. Neil, F. Ghawché, Guillain-Barré syndrome
+outbreak associated with Zika virus infection in French Polynesia: A case-control
+study, Lancet 387 (2016) 1531 –1539, https://doi.org/10.1016/S0140-6736(16)
+00562-6 .
+[20] Organización Panamericana de la Salud. Epidemiologic Report WHO-OPS, Resumen
+de la situación de la epidemia por virus Zika en las Américas. Zika Actual.
+Epidemiológica OPS. 2017. http://www.paho.org/hq/index.php?option =com_
+docman&task=doc_view&Itemid=270&gid=40224&lang=es (accessed June 1,
+2017).[21] WHO 2017. WHO | Guillain-Barré syndrome –Colombia and Venezuela. WHO
+2016. http://www.who.int/csr/don/12-february-2016-gbs-colombia-venezuela/
+en/(accessed June 12, 2017).
+[22] R. Pardo-Turriago, Neuropatías tropicales, un lastre del subdesarrollo y un reto enun mundo globalizado, Biomedica 37 (2017) S5 –S8.
+[23] R. Pardo-Turriago, Zika. A pandemic in progress and an epidemiological challenge,Colombian J. Anesthesiol. 44 (2016) 86 –88.
+[24] D. Moher, A. Liberati, J. Tetzla ﬀ, D.G. Altman, P. Group, Preferred reporting items
+for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med. 6(209) e1000097. doi: https://doi.org/10.1371/journal.pmed.1000097 .
+[25] J.J. Sejvara, K.S. Kohl, J. Gidudu, A. Amato, N. Bakshic, R. Baxter, D.R. Burwend,D.R. Cornblath, J. Cleerboutf, K.M. Edwardsg, U. Heiningerh, R. Hughesi, N. Khuri-Bulosj, R. Korinthenbergk, B.J. Lawl, U. Munrom, H.C. Maltezoun, P. Nello,
+J. Oleskep, R. Sparksq, P. Velentgasr, P. Vermeers, M. Wiznitzertfor The Brighton
+Collaboration GBS Working Group, Guillain –Barré syndrome and Fisher syndrome:
+Case de ﬁnitions and guidelines for collection, analysis, and presentation of im-
+munization safety data, Vaccine 29 (2011) 599 –612.
+[26] Z.S. Nasreddine, N.A. Phillips, V. Bédirian, S. Charbonneau, V. Whitehead, I. Collin,J.L. Cummings, H. Chertkow, The Montreal Cognitive Assessment, MoCA: A briefscreening tool for mild cognitive impairment, J. Am. Geriatr. Soc. 53 (2005)
+695–699.
+[27] H.G.
+Miller, J.B. Stanton, J.L. Gibbons, Para-infectious encephalomyelitis and re-
+lated syndromes: A critical review of the neurological complications of certain
+speciﬁ c fevers, Q. J. Med. 25-100 (1956) 427 –505.
+[28] H.G. Miller, J.B. Stanton, J.L. Gibbons, Acute disseminated encephalomyelitis and
+related syndromes, Br. Med. J. 1 (520) (1957) 668 –672.
+[29] P.A. Swanson II, D.B. McGavern, Viral diseases of the central nervous system. Curr.
+Opin. Virol. 11 (2015) 44 –54. doi: https://doi.org/10.1016/j.coviro.2014.12.009 .
+[30] A.L. Greninger, S.N. Naccache, K. Messacar, A. Clayton, G. Yu, S. Somasekar,S. Federman, D. Stryke, C. Anderson, S. Yagi, S. Messenger, D. Wadford, D. Xia,
+J.P. Watt, K. Van Haren, S.R. Dominguez, C. Glaser, G. Aldrovandi, C.Y. Chiu, Anovel outbreak enterovirus D68 strain associated with acute ﬂaccid myelitis cases in
+the USA (2012 –14): A retrospective cohort study, Lancet Infect. Dis. 15 (2015)
+671–682.
+[31] C.C. Holm-Hansen, S.E. Midgley, T. Kølsen Fischer, Global emergence of enterovirus
+D68: A systematic review, Lancet Infect. Dis. 16 (2016) e64 –e75https://doi.org/10.
+1016/S1473-3099(15)00543-5 .
+[32] C.M. Poser, Disseminated vasculomyelinopathy. A review of the clinical and pa-thologic reactions of the nervous system in hyperergic diseases, Acta Neurol. Scand.
+37 (1969) S1 –S44.
+[33] C.M. Poser, G. Román, E.S. Emery 3
+rd, Recurrent disseminated vasculomyelino-
+pathy, Arch. Neurol. 35 (1978) 166 –170.
+[34] Y. Rodríguez, M. Rojas, Y. Pacheco, Y. Acosta-Ampudia, C. Ramírez-Santana, D.M.
+Monsalve, M.E. Gershwin, J.M. Anaya JM, Guillain-Barré syndrome, transversemyelitis and infectious diseases, Cell. Mol. Immunol. (2018) Jan 29.doi: https://doi.
+org/10.1038/cmi.2017.142
+[35] C. Vellozzi, S. Iqbal, K. Broder, Guillain-Barre syndrome, in ﬂuenza, and in ﬂuenza
+vaccination: The epidemiologic evidence, Clin. Infect. Dis. 58 (2014) 1149 –1155,
+https://doi.org/10.1093/cid/ciu005 .
+[36] G. Román, C.A. Phillips, C.M. Poser, Parain ﬂuenza virus type 3: Isolation from CSF
+of a patient with Guillain-Barré syndrome, JAMA 240 (1978) 1613 –1615 .
+[37] F. Araújo, R. Nogueira, M. de S. Araújo, A. Perdigão, L. Cavalcanti, R. Brilhante,
+M. Rocha, D.F. Vilar, S.S. Holanda, D. de M. Braga, J. Sidrim, Dengue in patientswith central nervous system manifestations, Brazil, Emerg. Infect. Dis. 18 (2012)
+677–679.
+[38] P.N. Weeratunga, M.C. Caldera, I.K. Gooneratne, R. Gamage, P. Perera, P,Neurological manifestations of dengue: A cross sectional study, Travel Med. Infect,
+Dis. 12 (2014) 189 –193.
+[39] D.C.G. Amaral, M.A. Rachid, M.C. Vilela, R.D. Campos, G.P. Ferreira,
+D.H. Rodrigues, N. Lacerda-Queiroz, A.S. Miranda, V.V. Costa, M.A. Campos,E.G. Kroon, M.M. Teixeira, A.L. Teixeira, Intracerebral infection with dengue-3
+virus induces meningoencephalitis and behavioral changes that precede lethality in
+mice, J. Neuroin ﬂammation 8 (2011) 23, https://doi.org/10.1186/1742-2094-
+8-23.
+[40] M. Puccioni-Sohler, N. Roveroni, C. Rosadas, F. Ferry, J.M. Peralta, A. Tanuri,
+Dengue infection in the nervous system: Lessons learned for Zika and Chikungunya,
+Arq. Neuropsiquiatr. 75 (2017) 123 –126, https://doi.org/10.1590/0004-
+282X20160189 .
+[41] M. Gupta, R. Nayak, G.A. Khwaja, D. Chowdhury, Acute disseminated en-
+cephalomyelitis associated with dengue infection: A case report with literature re-
+view, J. Neurol. Sci. 335 (2013) 216 –218.
+[42] L.R. Tomar, V. Mannar, S. Pruthi, A. Aggarwal, An unusual presentation of dengue
+fever: Association with longitudinal extensive transverse myelitis, Perm. J. 19
+(2015) e133 –e135 .
+[43] P. Gérardin, V.M. Cao-Lormeau, P. Tournebise, T. Cerny, Letter RE: Acute Zikainfection with concurrent onset of Guillain-Barré syndrome, Neurology 88 (2017)
+1874 .
+[44] W. Dejnirattisai, P. Supasa, W. Wongwiwat, W.A. Rouvinski, G. Barba-Spaeth,
+T. Duangchinda, A. Sakuntabhai, V.M. Cao-Lormeau, P. Malasit, F.A. Rey,J. Mongkolsapaya, G.R. Screaton, Dengue virus sero-cross-reactivity drives anti-
+body dependent enhancement of infection with Zika virus, Nat. Immunol. 17 (2016)
+1102–1108, https://doi.org/10.1038/ni.3515 .
+[45] P.L. Timmings, R. Siu, W. Bukhari, A. Todd, W. Gunn, Author Response: Acute Zikainfection with concurrent onset of Guillain-Barré syndrome, Neurology 88 (2017)1874–1875 .
+[46] R. Siu, W. Bukhari, A. Todd W. Gunn, Q.S. Huang, P. Timmings, Acute ZikaO. Mancera-Páez et al.
+Journal of the Neurological Sciences 395 (2018) 47–53
+52
+--- Page 7 ---
+infection with concurrent onset of Guillain-Barré syndrome, Neurology 87 (2016)
+1623 –1624 .
+[47] S. Mécharles, C. Herrmann, P. Poullain, T.H. Tran, N. Deschamps, G. Mathon,A. Landais, S. Breurec, A. Lannuzeil, Acute myelitis due to Zika virus infection,
+Lancet 387 (2016) 1481 .
+[48] E. Palacios, C. Clavijo-Prado, A. Ruiz, A. Arias Antún, E. Julián Durán, Longitudinal
+extensive transverse myelitis and Zika virus: A diagnostic challenge in a hospital inColombia, Neurologia (2016), https://doi.org/10.1016/j.nrl.2016.08.006 (pii)
+S0213 –4853(16)30200 –6.
+[49] I.R.F. da Silva, J.A. Frontera, A.M. Bispo de Filippis, O.J.M. do Nascimento, for the
+RIO-GBS-ZIKV Research Group, Neurologic complications associated with the Zikavirus in Brazilian adults, JAMA Neurol. 74 (2017) 110 –198, https://doi.org/10.
+1001/jamaneurol.2017.1703 .
+[50] R.A. Romeu-Mejia, J.M. Delgado-Lebron, E. Nadal-Ortiz, Poster 363: Transverse
+myelitis caused by Zika virus infection in the Caribbean: A case report, PM&R J. 9 (
+(2017) S247, https://doi.org/10.1016/j.pmrj.2017.08.302 .
+[51] B.V.P. Casagrande, D.O. de Sousa, A.K.L.P. Machado, C.R. Mainardi, C.B. Kahwage,
+Transverse myelitis associated with Zika virus infection: A case report, Int. Arch.
+Med. 11 (2018) 1 –5,https://doi.org/10.3823/2543 .
+[52] R.M. Galliez, M. Spitz, P.P. Ra ﬀul, M. Cagy, C. Escosteguy, C.S.B. Germano, E. Sasse,
+A.L. Gonçalves, P.P. Silveira, P. Pezzuto, A.M. De, M. Ornelas, A. Tanuri,R.S. Aguiar, F.T. Moll, Zika virus causing encephalomyelitis associated with im-
+munoactivation, Open Forum Inf. Dis. 3 (2016) 1 –4,https://doi.org/10.1093/o ﬁd/
+ofw203 .
+[53] B. Niemeyer, R. Borges, E. Marchiori, Acute disseminated encephalomyelitis fol-
+lowing Zika virus infection, Eur. Neurol. 77 (2017) 45 –46,https://doi.org/10.
+1159/000453396 .
+[54] W. Roth, C. Tyshkov, K. Thakur, W. Vargas, Encephalomyelitis following de ﬁnitive
+Zika virus infection, Neurol. Neuroimmunol. Neuroin ﬂamm. 4 (2017) e349, ,
+https://doi.org/10.1212/NXI.0000000000000349 .
+[55] F. Pradhan, J.D. Burns, A. Agameya, A. Patel, M. Alfaqih, J.E. Small, W. Ooi, Case
+Report: Zika virus meningoencephalitis and myelitis and associated magnetic re-sonance imaging ﬁndings, Am. J. Trop. Med. Hyg. 97 (2017) 340 –343, https://doi.
+org/10.4269/ajtmh.16-0921 .
+[56] L.M. Araujo, M.L.B. Ferreira, O.J.M. Nascimento, Guillain-Barré syndrome asso-
+ciated with the Zika virus outbreak in Brazil, Arq. Neuropsiquiatr. 74 (2016)
+253–255, https://doi.org/10.1590/0004-282X20160035 (Cases reported in:
+Ministério da Saúde (BR), Secretaria de Vigilância em Saúde. [Protocol forsurveillance and response to the occurrence of microcephaly related to Zika virus
+infection]. Brasília, DF: Ministério da Saúde; 2015 [cited 2015 Dec 22]. Available
+from), http://portalsaude.saude.gov.br/images/pdf/2015/dezembro/09/
+Microcefalia —Protocolo-de-vigilância-e-resposta —vers–o-1——09dez2015-8h.pdf
+, Accessed date: 10 January 2018.
+[57] J.P. Stübgen, Immune-mediated myelitis following hepatitis B vaccination,
+Autoimmun. Rev. 12 (2012) 144 –149, https://doi.org/10.1016/j.autrev.2012.03.
+008.
+[58] A.S.
+Fauci, D.M. Morens, Zika virus in the Americas –Yet another arbovirus threat,
+N. Engl. J. Med. 374 (2016) 601 –604.
+[59] J.J. Miner, M.S. Diamond, Dengue antibodies, then Zika: A fatal sequence in mice,
+Immunity 46 (2017) 771 –773.
+[60] K.L. Mans ﬁeld, D.L. Horton, N. Johnson, L. Li, A.D. Barrett, D.J. Smith,
+S.E. Galbraith, T. Solomon, A.R. Fooks, Flavivirus-induced antibody cross-re-
+activity, J. Gen. Virol. 92 (2011) 2821 –2829, https://doi.org/10.1099/vir.0.
+031641-0 .
+[61] A. Vatti, D.M. Monsalve, Y. Pacheco, C. Chang, J.M. Anaya, M.E. Gershwin, Originalantigenic sin: A comprehensive review, J. Autoimmun. 83 (2017) 12 –21.
+[62] M.T. Medina, J.D. England, I. Lorenzana, M. Medina-Montoya, M. De Bastos,S. Fontiveros, M. Sierra, F. Contreras, Zika virus associated sensory polyneuropathy,
+J. Neurol. Sci. 369 (2016) 271 –272.
+[63] A.A. Leis, D.S. Stokic, Neuromuscular manifestations of West Nile virus infection,
+Front. Neurol. 3 (2012) 37, , https://doi.org/10.3389/fneur.2012.00037 .
+[64] N.L. Bayless, R.S. Greenberg, T. Swigut, J. Wysocka, C.A. Blish, CA, Zika virus in-
+fection induces cranial neural crest cells to produce cytokines at levels detrimentalfor neurogenesis, Cell Host Microbe 20 (2016) 423 –428, https://doi.org/10.1016/j.
+chom.2016.09.006 .
+[65] S.L. Cumberworth, J.A. Barrie, M.E. Cunningham, D.P.G. de Figueiredo, V. Schultz,
+A.J. Wilder-Smith, B. Brennan, L.J. Pena, R. Freitas De Oliveira França,
+C. Linington, C.S.C. Barnett, H.J. Willison, A. Kohl, J.M. Edgar, Zika virus tropism
+and interactions in myelinating neural cell cultures: CNS cells and myelin are
+preferentially a ﬀected, Acta Neuropathol. Commun. 5 (2017) 50, https://doi.org/
+10.1186/s40478-017-0450-8 .
+[66] G. Lucchese, D. Kanduc, Zika virus and autoimmunity: From microcephaly to
+Guillain-Barré syndrome, and beyond, Autoimmun. Rev. 15 (2016) 801 –808.
+[67] F.R. Cugola, I.R. Fernandes, F.B. Russo, B.C. Freitas, J.L. Dias, K.P. Guimarães,
+C. Benazzato, N. Almeida, G.C. Pignatari, S. Romero, C.M. Polonio, I. Cunha,C.L. Freitas, W.N. Brandão, C. Rossato, D.G. Andrade, D. de P. Faria, A.T. Garcez,
+C.A. Buchpigel, C.T. Braconi, E. Mendes, A.A. Sall, P.M. Zanotto, J.P. Peron,
+A.R. Muotri, P.C. Beltrão-Braga, The Brazilian Zika virus strain causes birth defects
+in experimental models, Nature 534 (2016) 267 –271, https://doi.org/10.1038/
+nature18296 .
+[68] H.M. Lazear, J. Govero, A.M. Smith, D.J. Platt, E. Fernandez, J.J. Miner,
+M.S. Diamond, A mouse model of Zika virus pathogenesis, Cell Host Microbe 19
+(2016) 720 –730, https://doi.org/10.1016/j.chom.2016.03.010 .
+[69] G. Morris, T. Barichello, B. Stubbs, C.A. Köhler, A.F. Carvalho, M. Maes, Zika virus
+as an emerging neuropathogen: Mechanisms of neurovirulence and neuro-immune
+interactions, Mol. Neurobiol. (2017) 1 –25,https://doi.org/10.1007/s12035-017-
+0635-y .
+[70] N.C.C. Fernandes, J.S. Nogueira, R.A. Réssio, C.S. Cirqueira, L.M. Kimura,
+K.R. Fernandes, M.S. Cunha, R.P. Souza, J.M. Guerra, Experimental Zika virus in-
+fection induces spinal cord injury and encephalitis in newborn Swiss mice, Exp.
+Toxicol. Pathol. 69 (2017) 63 –71,https://doi.org/10.1016/j.etp.2016.11.004 .
+[71]
+L. Chimelli, A.S.O. Melo, E. Avvad-Portari, C.A. Wiley, A.H.S. Camacho, V.S. Lopes,
+H.N. Machado, C.V. Andrade, D.C.A. Dock, M.E. Moreira, F. Tovar-Moll,
+P.S. Oliveira-Szejnfeld, A.C.G. Carvalho, O.N. Ugarte, A.G.M. Batista,
+M.M.R. Amorim, F.O. Melo, T.A. Ferreira, J.R.L. Marinho, G.S. Azevedo,
+J.I.B.F. Leal, R.F.M. da Costa, S. Rehen, M.B. Arruda, R.M. Brindeiro, R. Delvechio,R.S. Aguiar, A. Tanuri, The spectrum of neuropathological changes associated with
+congenital Zika virus infection, Acta Neuropathol. 133 (2017) 983 –999, https://
+doi.org/10.1007/s00401-017-1699-5 .
+[72] S.V. Bardina, P. Bunduc, S. Tripathi, J. Duehr, J.J. Frere, J.A. Brown,
+R. Nachbagauer, G.A. Foster, D. Krysztof, D. Tortorella, S.L. Stramer, A. García-Sastre, F. Krammer, J.K. Lim, Enhancement of Zika virus pathogenesis by pre-
+existing antiﬂ avivirus immunity, Science 356 (2017) 175 –180, https://doi.org/10.
+1126/science.aal4365 .
+[73] H.D. Marston, N. Lurie, L.L. Borio, A.S. Fauci, Considerations for developing a Zika
+virus vaccine, N. Engl. J. Med. 375 (2016) 1209 –1212, https://doi.org/10.1056/
+NEJMp1607762 .
+[74] G.A. Poland, R.B. Kennedy, I.G. Ovsyannikova, R. Palacios, P.L. Ho, J. Kalil,
+Development of vaccines against Zika virus, Lancet Infect. Dis. (2018), https://doi.
+org/10.1016/S1473-3099(18)30063-X (pii: S1473 –3099(18)30063-X).O. Mancera-Páez et al.
+Journal of the Neurological Sciences 395 (2018) 47–53
+53
+--- Page 8 ---
+Update
+Journal of the Neurological Sciences
+Volume 395, Issue , 15 December 2018, Page 207–209
+ https://doi.org/10.1016/j.jns.2018.10.021DOI:
+--- Page 9 ---
+Contents lists available at ScienceDirect
+Journal of the Neurological Sciences
+journal homepage: www.elsevier.com/locate/jns
+Erratum to ‘Concurrent Guillain-Barré syndrome, transverse myelitis and
+encephalitis post-Zika: A case report and review of the pathogenic role ofmultiple arboviral immunity’, Journal of the Neurological Sciences, Volume395, 15 December 2018, Pages 47-53
+Oscar Mancera-Páeza,b, Gustavo C. Románc,d,⁎, Rodrigo Pardo-Turriagoa, Yhojan Rodrígueze,
+Juan-Manuel Anayae
+aUniversidad Nacional de Colombia, Hospital Universitario Nacional, Faculty of Medicine, Department of Neurology, Bogotá, Colombia
+bDavid Cabello International Alzheimer Disease Scholarship Fund, Houston Methodist Hospital, Houston, TX, USA
+cDepartment of Neurology, Methodist Neurological Institute and the Institute for Academic Medicine Houston Methodist Research Institute, Houston Methodist Hospital,
+Houston, TX, USA
+dWeill Cornell Medical College, Department of Neurology, Cornell University, NY, New York, USA
+eCenter for Autoimmune Diseases Research (CREA), School of Medicine and Health Sciences, Universidad del Rosario, Bogotá, Colombia
+The publisher regrets as the tables were not included in the article.
+(SeeTables 1A, 1B, andTable 2.)Thepublisherwouldliketoapologiseforanyinconveniencecaused.
+https://doi.org/10.1016/j.jns.2018.10.021DOI of original article: https://doi.org/10.1016/j.jns.2018.09.028
+⁎Corresponding author.
+E-mail address: GCRoman@HoustonMethodist.org (G.C. Román).Journal of the Neurological Sciences 395 (2018) 207–209
+Available online 25 October 2018
+0022-510X/ © 2018 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+T
+--- Page 10 ---
+Table1A
+Results of nerve conduction studies.
+Motor nerve conduction velocities
+Nerves Amplitude (mV) Conduction velocity (m/s) Distal latency (ms)
+Right ulnar (Abd digiti minimi) NR (N>4) NR (N>49) NR (N<3.5)
+Left ulnar (Abd digiti minimi) NR (N>4) NR (N>49) NR (N<3.5)
+Right median (Abd pollicis brevis)
+Wrist 1.8 (N>4) 4.4 (N<4.3)
+Elbow 1.8 (N>4) 62(N>49) 7.8 (N<4.3)
+Left Median (Abd pollicis brevis)
+Wrist 1.6 (N>4) 4.8 (N<4.3)
+Elbow 1.3 (N>4) 59 (N>49) 6.9 (N<4.3)
+Right peroneal (Ext digit brevis) NR (N>4) NR (N>49) NR (N<4.3)
+Left peroneal (Ext digit brevis) NR (N>4) NR (N>49) NR (N<4.3)
+Right tibial (Abd hallucis brevis) NR (N>2) NR (N>39) NR (N<6.1)
+Left tibial (Abd hallucis brevis) NR (N>2) NR (N>39) NR (N<6.1)
+Sensory Nerve Conduction Velocities
+Nerves Peak (ms) P-T Amplitude (μV) Conduction velocity (m/
+s)
+Right median (2nd digit) 2.8 (N<3.2) 45.7 (N>8.0) 50 (N> 39)
+Left median (2nd digit) 2.8 (N<3.2) 65.1 (N>8.0) 50 (N>39)
+Right sup peroneal (Ant Lat Mall) NR (N<4.0) NR (>3.0) NR (N>32)
+Left sup peroneal (Ant Lat Mall) NR (N<4.0) NR (>3.0) NR (N>32)
+Left sural (Lateral malleolus) NR (N<4.0) NR (N>5.0) NR (N>35)
+Right sural (Lateral malleolus) NR (N<4.0) NR (N>5.0) NR (N>35)
+F waves studies
+Nerves F latency (ms) Normal F latency (ms) LR latency (m/s)
+Left peroneal NR <60 NR (<5.1)
+Right peroneal NR <60 NR (<5.1)
+NR=No response.
+Table1B
+Electromyography results.
+Bilateral muscles Nerve-root Insertional activity Fibrillation Recruitment Amplitude Duration
+Abductor pollicis brevis Median C8-T1 Increased Normal Normal Normal Normal
+1stdorsal interosseous Ulnar C8-T1 Increased + Reduced Increased >12ms
+Brachioradialis Radial C5-6 Increased + Reduced Increased >12ms
+Biceps Musculocutaneous C5-6 Increased + Reduced Increased >12ms
+Deltoid Axillary C5-6 Increased + Reduced Increased >12ms
+Anterior tibialis Deep branch Peroneus L4-5 Increased ++ Reduced Increased >12ms
+Extensor hallucis longus Deep branch Peroneus L5,S1 Increased ++ Reduced Increased >12ms
+Peroneous longus Sup. Branch Peroneus L5,S1 Increased + Reduced Increased >12ms
+Gastrocnemius Tibial S1-2 Increased + Reduced Increased >12ms
+Vastus medialis Femoral L2-4 Increased ++ Reduced Increased >12msO. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 207–209
+208
+--- Page 11 ---
+Table2
+Cases of ZIKV-associated myelitis and encephalomyelitis in the Americas (2015–2018).
+Case # 1stauthor [Ref] Age, years (range) Sex Geographic area Latency periodadays Diagnosis
+Myelitis
+1 Mécharles [47] 15 W Guadeloupe, French Antilles 7 TM
+2 Palacios [48] 23 M Cúcuta, Colombia 15 TM
+3-8 (n=6) Anaya [7] 22 (17-32) 4M2WCúcuta, Colombia 32 (13-96) ATM
+9-10 (n=2) da Silva [49] 33 (23-43) 1W1MRio de Janeiro, Brazil 7 TM
+11 Romeu-Mejia [50] 86 M San Juan, Puerto Rico 10 TM
+12 Casagrande [51] 23 M Pará, Brazil 40 TM
+Encephalomyelitis13 Galliez [52] 26 M Dominican Republic 1 EM
+14 Niemeyer [53] 19 W Rio de Janeiro, Brazil 21 ADEM
+15 Roth [54] 18 W Dominican Republic 14 EM
+16 Pradhan [55] 69 W Bonao, Dominican Republic 5 MEM
+17–18 (n=2) Araujo [56] NI NI Pernambuco, Brazil NI ADEM
+Encephalomyelitis+GBS
+19 Mancera-Páez
+b24 W Cúcuta, Colombia 1 ADEM+GBS
+Totals
+19 31.9 (15–86) 9W
+9MColombia=8Brazil=6
+Dominican Republic=3
+Puerto Rico=1 Guadeloupe=110.5 (1-96) TM=12 EM=6 EM+GBS=1
+Abbreviations: ADEM=acute disseminated encephalomyelitis; ATM=acute transverse myelitis; GBS=Guillain-Barré syndrome; EM=encephalomyelitis;
+MEM=meningoencephalomyelitis; TM=transverse myelitis; M=man; W=woman; NI=no information.
+aFrom onset of viral symptoms to onset of neurological symptoms.
+bThis report.O. Mancera-Páez et al. Journal of the Neurological Sciences 395 (2018) 207–209
+209
