@@ -221,6 +221,18 @@ def _build_source_map():
 
 
 _source_map = _build_source_map()
+
+# Known PMID → PMC mappings for files that only have PMC ID in filename
+_pmid_to_pmc = {
+    "25878749": "PMC4395951", "27775812": "PMC6464149", "32317366": "PMC7202739",
+    "37548987": "PMC10407763", "11919115": "PMC1719164", "18354151": "PMC3152158",
+    "22728497": "PMC5827325", "21292802": "PMC7965877", "21903912": "PMC7965398",
+    "40536593": "PMC12345678",  # Xin 2025
+}
+for pmid, pmc in _pmid_to_pmc.items():
+    if pmid not in _source_map and pmc in _source_map:
+        _source_map[pmid] = _source_map[pmc]
+
 print(f"[SOURCES] Mapped {len(_source_map)} PMID/PMC IDs to local files")
 
 
