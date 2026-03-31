@@ -1,0 +1,614 @@
+Citation: Mao Z, Hu X. Clinical characteristics and outcomes of patients with Guillain-Barre and acquired CNS demyelinating overlap syndrome. Neurol Res. 2014;36(12):1106-1113. PMID: 24914906
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Neurological Research
+A Journal of Progress in Neurosurgery, Neurology and Neuro Sciences
+ISSN: 0161-6412 (Print) 1743-1328 (Online) Journal homepage: www.tandfonline.com/journals/yner20
+Clinical characteristics and outcomes of
+patients with Guillain–Barré and acquired CNS
+demyelinating overlap syndrome: a cohort study
+based on a literature review
+Zhifeng Mao & Xueqiang Hu
+To cite this article: Zhifeng Mao & Xueqiang Hu (2014) Clinical characteristics and outcomes
+of patients with Guillain–Barré and acquired CNS demyelinating overlap syndrome: a
+cohort study based on a literature review, Neurological Research, 36:12, 1106-1113, DOI:
+10.1179/1743132814Y.0000000400
+To link to this article:  https://doi.org/10.1179/1743132814Y.0000000400
+Published online: 10 Jun 2014.
+Submit your article to this journal 
+Article views: 509
+View related articles 
+View Crossmark data
+Citing articles: 5 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=yner20
+--- Page 2 ---
+Clinical characteristics and outcomes of
+patients with Guillain–Barre ´and acquired CNS
+demyelinating overlap syndrome: a cohortstudy based on a literature review
+Zhifeng Mao1,2, Xueqiang Hu1
+1Multiple Sclerosis Center, Department of Neurology, The Third Affiliated Hospital of Sun Yat-Sen University,
+Guangzhou, P. R. China,2Department of Neurology, Affiliated Nationalities Hospital, Guangxi Medical
+University, Nanning, P. R. China
+Background: Some patients with Guillain–Barre ´ syndrome (GBS) also have acquired demyelination of the
+central nervous system (CNS) (i.e. acquired demyelinating syndrome, ADS). Often, the overlap of GBS andADS is overlooked. Therefore, we evaluated case reports of GBS/ADS overlap syndrome.Methods: We mainly performed website-based research based on articles in cases presented with GBS/
+ADS overlap syndrome. A total of 66 cases were included. Clinical and prognosis data were analyzed.Results: A total of 85% of patients with simultaneous or consecutive occurrence of GBS and ADS were
+identified within 4 weeks of the initial diagnosis. Transverse myelitis (TM) (32%) was the most common ADSfound in GBS/ADS. Patients with Miller Fisher syndrome (MFS)/ADS overlap syndrome had greater female
+predominance, mean age, frequency of onset at the same time period, or within a short period, and
+percentage of sole involvement of the subtentorial region. The outcome was favorable based on thefunctional status in 74% of patients. The sensory level (OR 50.182, 95% CI 50.055–0.598; P50.005)
+was the best predictor of a poor outcome, while visual deficit (OR 54.667, 95% CI 51.187–18.352;
+P50.027) predicted a favorable outcome.
+Conclusion: The ADS in GBS are diverse, CNS demyelinating may occur at any time, but early in the GBS
+course (and vice versa). MFS/ADS overlap syndromes is more common. The prognosis is generally good,but patients with sensory level deficit are likely to have a poor prognosis. The features of MFS/other CIS
+may better reflect involvement of the brainstem in MFS itself, rather than ADS in autoimmune peripheral
+neuropathies.
+Keywords: Guillain–Barre ´ syndrome, Demyelinating diseases, Central nervous system, Overlap syndrome, Miller Fisher syndrome, Clinically isolated
+syndromes, Transverse myelitis
+Introduction
+Guillain–Barre ´ syndrome (GBS) and acquired demy-
+elination of the central nervous system (CNS) (i.e.
+acquired demyelinating syndrome, ADS) are classi-
+cally viewed as distinct autoimmune diseases. Patientspresenting with clinical, biochemical, and serologicalresults of both diseases, either simultaneously orconsecutively, have been repeatedly described andrecognized in case reports.
+1–3Overlap syndromes are
+deﬁned as the association of two conditions in a singlepatient. However, the clinical spectrum of GBS/ADSoverlap syndrome remains poorly established and isoften overlooked.
+4Nonetheless, GBS/ADS overlap
+syndrome encompasses a wide spectrum of manifesta-
+tions of both the CNS and peripheral nervous system
+(PNS). As the clinical spectrum of GBS/ADS overlapsyndrome is heterogeneous, a tentative subdivision indistinct patient subgroups may predict a therapeutic
+outcome.
+3Therefore, we performed a website search-
+based study to evaluate the incidence, clinical course,and outcomes of GBS/ADS overlap syndrome.
+Methods
+Search strategy
+A literature search using the PubMed database (from
+January 1966 to October 2013), the Chinese biomedi-
+cal research literature (from January 1999 to October
+2013) and a web-based search engine (Google) wasperformed. Key search terms used were GBS, acuteCorrespondence to: Xueqiang Hu, Multiple Sclerosis Center, Department
+of Neurology, The Third Affiliated Hospital of Sun Yat-Sen University, 600
+Tianhe Road, Guangzhou, Guangdong Province 510630, P. R. China.E-mail: huxueqiangzssy@qq.com
+1106/C223W. S. Maney & Son Ltd 2014
+DOI 10.1179/1743132814Y.0000000400 Neurological Research 2014 VOL.3 6 NO.1 2
+--- Page 3 ---
+inﬂammatory demyelinating polyneuropathy (AIDP),
+acute motor axonal neuropathy (AMAN), acutemotor sensory axonal neuropathy (AMSAN), MillerFisher syndrome (MFS), optic neuritis (ON), clinicallyisolated syndromes (CIS), transverse myelitis (TM),
+neuromyelitis optica (NMO), multiple sclerosis (MS),
+and acute disseminated encephalomyelitis (ADEM).The search included all publication types, genders, andmedical subsets; however, articles were restricted to bepublished in English.
+All patients with a clinical and electrophysiological
+diagnosis of GBS/ADS overlap syndrome wereincluded.
+5Patients were ﬁrst divided into six ADS
+groups according to the consensus deﬁnitions: (1)ON, (2) TM, (3) NMO, (4) MS, (5) ADEM,
+6,7and (6)
+other forms of CIS. Clinically isolated syndromes wasdeﬁned as a monofocal or multi-focal attack of CNSdemyelination (in the optic nerve, brainstem, hemi-sphere, cerebellum, or spinal cord).
+6Other forms of
+CIS were deﬁned as an episode of demyelination notincluding ON or TM.
+6,7Diagnoses were conﬁrmed,
+and additional clinical details were extracted. Allpatients with the following features were excluded:(1) those who developed acute onset chronic inﬂam-matory demyelinating polyneuropathy (A-CIDP);(2) those who were unable to provide the necessaryclinical information; (3) those with evidence ofcerebral vasculitis, granulomatous disease, or pre-sumed infectious encephalitis; and (4) those withmetabolic disorders, vasculitis, and in whom non-speciﬁc magnetic resonance imaging (MRI) abnorm-alities were not suggestive of demyelinating disease.
+Additional studies were performed by searching
+reference lists of retrieved articles and manuallysearching the main neurology journals. We contactedcase authors to identify additional published orunpublished data if possible. We used Cohen’s kappastatistic ( k) to assess agreement between the two
+reviewers (ZM and XH).
+Data extraction
+A total of 66 cases were found in original case reportspublished between 1976 and 2012
+1–3,8–53(including
+one published case by ZM et al. in China; the
+treatment for the patient was carried out according tothe protocol approved by Institutional Ethical Com-mittee of Afﬁliated Nationalities Hospital, Guang-xi Medical University). The agreement betweenreviewers for inclusion of articles was 93.8%(k50.89; 95% CI, 0.82–0.97).
+54Detailed character-
+istics and medical information of selected patientsare described below. Comprehensive clinical andlaboratory information was reviewed by a group ofneurologists. Cohen’s kappa for inter-rater agreementwas 0.77 (95% CI, 0.63–0.90; substantial agree-ment). The demographic, clinical, and characteristicsdata were summarized by frequency (%), and con-
+tinuous data were expressed as mean ¡standard
+deviation (SD) or median. MRI of brain lesions wasanalyzed by distribution in the supratentorial orsubtentorial brain regions, or both. We deﬁnedpatients as GBS (non-Miller Fisher syndrome, non-MFS) or MFS when they fulﬁlled the diagnosticcriteria.
+5,55MFS is a very unusual variant of GBS
+(compared with other types of GBS) and has clinicaland electrophysiological features that would not meetcriteria of standard GBS (i.e. AIDP, AMAN, andAMSAN).
+To facilitate comparison with each study, we
+standardized our outcome criteria according to ascale adapted from Hughes et al.
+56Due to inherent
+characteristics of case reports, in which results ofcommon symptoms/signs/tests usually tend to bepresented regardless of positive or negative signs, wecalculated the frequency of clinical, biological, and
+neuroimaging data in three ways. First, the motorand sensory symptoms were the most common
+symptoms affected in GBS; therefore, cases with
+missing data for either sign were excluded fromseparated frequency analyses. (This exclusion willimpact a change in the denominator.) Second, asmost negative symptoms and/or signs are usuallynot reported in case reports, we coded the unre-ported symptoms and/or signs as ‘negative.’ Third,as case reports usually provide all the commonresults of biological and neuroimaging tests regard-less of positive or negative results, cases with missingdata regarding biologica l and neuroimaging mea-
+sures on factors of interest seemed to be ‘notperformed’ and were ﬁnally excluded from thesespeciﬁc analyses.
+The clinical, biochemical, electrophysiological, and
+neuroimaging factors obtained during admissionwere analyzed as possible predictors of outcome. Afavorable outcome was deﬁned as functional inde-pendence and the ability to ambulate independently(score of 0–2 on the Hughes scale).
+56The association
+between each of these variables and outcomes wasexamined. To further explore the natural course of
+both diseases and to assess whether both diseases
+presented simultaneously or consecutively, the ﬁrst4 weeks after onset was determined as the acutephase.
+Statistical analysis
+Statistical analysis was performed using SPSS statis-tical software, version 17.0 (SPSS, Inc., Chicago, IL,USA). Univariate factors predictive of outcomes(favorable or poor) were assessed using the non-conditional logistic regression method. All statistical
+tests were two-tailed. A Pvalue less than 0.05 was
+considered statistically signiﬁcant.Mao and Hu Overlap between GBS and ADS
+Neurological Research 2014 VOL.3 6 NO.1 2 1107
+--- Page 4 ---
+Results
+Clinical characteristics
+Demographic and clinical characteristics are pre-
+sented in Table 1. Sixty-six (33 women and 33 men)
+patients were analyzed in this study. The mean age
+was 30.99 years old (range from 2 to 77 years old).
+We found that the occurrence of overlap syndrome
+after infection or vaccinations accounted for 47 cases
+(70%). In 57 cases (85%), GBS (including both non-
+MFS and MFS) and ADS occurred simultaneously
+or consecutively within 4 weeks after onset. In the
+rest nine cases (15%), the time interval between the
+occurrence of GBS and ADS was beyond 4 weeks
+after onset. Non-MFS/ADS overlap syndrome was
+identiﬁed in 55 patients (83%), while MFS/ADS
+overlap syndrome was identiﬁed in only 11 patients
+(17%). The most common subtypes of ADS identiﬁed
+were TM (32%), other forms of CIS (24%), and ON
+(20%). Twenty-nine patients (43%) initially manifested
+GBS/ADS overlap syndrome ‘at the same time’
+(deﬁned as within a very short period with no more
+than 1 day of the onset of GBS or ADS event),
+followed by 21 patients with GBS (31%) manifesta-
+tions preceding ADS symptoms, whereas 17 patients
+(25%) presented with ADS symptoms preceding GBS.
+Figure 1 illustrates the trends in the time interval
+between the onset of GBS and the onset of each of the
+six subtypes of ADS (and vice versa). Miller Fisher
+syndrome overlapping with ADS (open shapes)
+showed a more frequent trend of co-occurrence than
+non-MFS groups with ADS (solid shapes).
+Table 2 summarizes the clinical patterns among
+groups. Paresis (90%), sensory deﬁcit (73%), cranialnerve palsies (55%), urinary disturbance (49%), and
+visual deﬁcit (39%), together with a wide variety of
+other neurological signs, were the most frequentpresentations. In patients with GBS/NMO, no cranial
+nerve palsy was observed; however, on average, it
+represented 55%; while extrapyramidal syndrome
+only presented in patients with GBS/MS but not in
+the other subtypes of the overlap syndrome.
+Table 3 summarizes the biological and neuro-
+imaging data. Albumincytologic dissociation wasdetected in 45 of 63 patients (71%). An IgG index
+greater than 0.68 was detected in one of ﬁve patients
+Table 1 Main characteristics of patients with GBS/ADS overlap syndrome
+GBS/ON GBS/TMGBS/other
+CIS GBS/NMO GBS/MS GBS/ADEM Total
+N(%) 13 (20%) 21 (32%) 16 (24%) 2 (3%) 7 (11%) 7 (11%) 66
+Sex (M:F) 8:5 11:10 5:11 2:0 3:4 4:3 33:33Mean age (range of years) 41.23 (17–76) 21.7 (2–77) 31.4 (5–56) 38.5 (20–57) 47.29 (26–72) 18.86 (6–62) 30.82 (2–77)Infections or vaccinations 9 (69%) 16 (76%) 12 (75%) 2 (100%) 1 (14%) 7 (100%) 47 (70%)Type of GBS (non-MFS:MFS) 9:4 21:0 9:7 2:0 7:0 7:0 55:11
+Diagnosis series
+Primary GBS 4 (31%) 3 (14%) 6 (38%) 2 (100%) 1 (14%) 1 (14%) 17 (25%)Primary central nervous
+system demyelination3 (23%) 7 (33%) 2 (13%) 0 6 (86%) 3 (43%) 21 (31%)
+Simultaneous initial
+diagnosis6 (46%) 11 (52%) 8 (50%) 0 0 3 (43%) 29 (43%)
+Interval between primary to secondary diagnosis
+#4 weeks 13 (100%) 19 (91%) 15 (94%) 2 (100%) 2 (29%) 6 (86%) 57 (86%)
+.4 weeks 0 2 (10%) 1 (6%) 0 5 (71%) 1 (14%) 9 (14%)
+Immune therapy 10 (77%) 13/13 (100%) 12/15 (80%) 0/1 4/5 (80%) 7 (100%) 46/54 (85%)Mean follow-up (SD), months 5.5 (4.2) 11.7 (6.6) 7.5 (5.8) 60 (0) 5.4 (4.3) 7.2 (9.5) 9.4 (10.6)Outcomes
+Favorable outcome 12 (92%) 11 (55%
+1 drop)14 (93%
+1 drop)1 (50%) 3 (43%) 6 (86%) 47/64 (73.4%)
+Poor outcome 1 (8%) 9 (45%) 1 (7%) 1 (50%) 4 (57%) 1 (14%) 17/64 (27%)
+Died 1 (8%) 0 0 0 2 (29%) 1 (14%) 4/64 (6%)
+GBS: Guillain–Barre ´ syndrome; ADS: acquired demyelinating syndromes; ON: optic neuritis; CIS: clinically isolated syndromes; TM:
+transverse myelitis; NMO: neuromyelitis optica; MS: multiple sclerosis; ADEM: acute disseminated encephalomyelitis; MFS: MillerFisher syndrome.Data are expressed as mean (SD), median (range), or percent.
+Miller Fisher syndrome (MFS) (open shapes) occurring
+with ADS shows a more frequent trend ‘at the sametime’, compared with non-MFS groups (solid shapes).
+Figure 1 Trends in the time interval between the onset of
+Guillain–Barre ´ syndrome (GBS) and the onset of six
+subtypes of acquired demyelinating syndrome (ADS) (andvice versa).Mao and Hu Overlap between GBS and ADS
+1108 Neurological Research 2014 VOL.3 6 NO.1 2
+--- Page 5 ---
+(20%). Oligoclonal bands were found to be positive in
+seven of 24 patients (29%). Visual evoked potential
+(VEP) abnormality was identiﬁed in three of 10
+patients (30%). Anti-ganglioside antibodies were
+detected in seven patients (7/18; 39%). In the acute
+phase, 12 (12/43; 28%) patients had focal or multi-
+focal lesions detectable by MRI in the supratentorial
+region, 8 (8/43; 19%) in the subtentorial region, and 4(4/43; 9%) in both the supra- and subtentorial region.
+No positive ﬁndings of brain MRI were found in
+patients with GBS/ON, GBS/TM, or GBS/NMO.
+Abnormality in the spinal cord MRI was detected in
+22 of 31 patients (71%).
+Prognosis analysis
+Immunotherapies were prescribed in 85% of patientswith ADS or GBS presentation, mostly prednisone
+and intravenous immunoglobulin. The outcome of
+GBS/ADS overlap syndrome was good in 48 of 65
+patients (74%, Table 1) during follow-up (median
+10.7 months) using the Hughes scale. Only four
+patients died (one with GBS/ON overlap syndrome,
+two with GBS/MS, and one with GBS/ADEM) in the
+deteriorating stage. Of seven patients who did not
+receive immunotherapy, six recovered well and onlyone with GBS/MS overlap syndrome had a poor
+outcome. No signiﬁcant factors from the clinical,
+biochemical, electrophysiological, and neuroimaging
+results were identiﬁed (data not shown). Only the
+sensory level (OR 50.182, 95% CI 50.055–0.598;
+P50.005) was a predictor of poor outcome, while
+the visual deﬁcit (OR 54.667, 95% CI 51.187–
+18.352; P50.027) predicted a favorable outcome.
+Subgroup analysis
+Since the course between groups of MFS/ADS
+overlap syndrome and groups of non-MFS/ADSoverlap syndrome seemed not to be homogeneous,
+we performed further analyses between these sub-
+groups. As shown in Table 4, patients with MFS/
+ADS overlap syndrome had a greater female pre-
+dominance than those with non-MFS/ADS overlap
+syndrome. In addition, the mean age of patients with
+MFS/ADS overlap syndrome was signiﬁcantly olderthan those with non-MFS/ADS overlap syndrome
+(P50.013). The frequency of co-occurrence at initial
+onset was approximately 3-fold more than that in the
+non-MFS/ADS overlap syndrome ( P50.004), and
+86% (6/7; all six cases were MFS/other CIS) of
+patients with MFS/ADS overlap syndrome showed
+sole involvement of the subtentorial region when
+compared with only 3% in patients with non-MFS/
+ADA overlap syndrome ( P50.000). Moreover,
+patients with MFS/ADS overlap syndrome presented
+with a much more favorable outcome than those
+with non-MFS/ADS overlap syndrome ( P50.014).
+However, patients with MFS/ADS overlap syndrome
+had hardly no involvement of the supratentorial
+region and spinal cord ( P50.011; P50.007).
+Discussion
+The present study is the ﬁrst clinical cohort study
+regarding the spectrum of GBS/ADS overlap syn-
+drome. Considering the limited number of cases
+reported in the literature, this study represents a
+relatively large cohort study. The results allowed us
+to characterize the different subgroups in GBS/ADS
+overlap syndrome by systematic clinical, neuroima-
+ging, and laboratory approach, which reﬂects thecomplex interaction between PNS and CNS involve-
+ment. Predictor (sensory level) of poor outcome can
+be identiﬁed after a careful analysis. Our results
+indicate that patients with GBS/ADS overlap
+Table 2 Clinical presentation in GBS/ADS overlap syndrome
+GBS/
+ON513GBS/
+TM521GBS/other
+CIS516GBS/
+NMO52GBS/
+MS57GBS/
+ADEM 57 Total 566
+Sensory level 0 16 (76%) 2 (13%) 1 (50%) 3 (43%) 1 (14%) 23 (35%)
+Sensory 10 (77%) 18 (86%) 10 (63%) 2 (100%) 7 (100%) 1 (14%) 48 (73%)Motor
+Paralysis 0 1/13 (8%) 1 (6%) 0 0 0 2/58 (3%)Paresis 12 (92%) 12/13 (92%) 12 (75%) 2 (100%) 7 (100%) 7 (100%) 52/58 (90%)
+Neuropathic pain 2 (15%) 8 (38%) 5 (31%) 1 (50%) 6 (86%) 3 (43%) 25 (38%)Visual deficit 13 (100%) 0 5 (31%) 2 (100%) 3 (43%) 3 (43%) 26 (39%)Cranial nerve palsies 11 (85%) 5 (24%) 12 (75%) 0 5 (71%) 3 (43%) 36 (55%)Urinary disturbance 2 (15%) 18 (86%) 3 (18) 2 (100%) 4 (57%) 3 (43%) 32 (49%)Ataxia 6 (46%) 0 10 (63) 0 4 (57%) 1 (14%) 21 (32%)Consciousness impairment 1 (8%) 0 1 (6) 0 4 (57%) 7 (100%) 13 (20%)Respiratory failure 3 (23%) 6 (29%) 3 (19) 0 4 (57%) 2 (29%) 18 (27%)Autonomic dysfunction 3 (23%) 5 (24%) 3 (18) 0 0 3 (43%) 14 (21%)Meningeal reaction 0 0 2 (12%) 0 0 0 2 (3%)Abnormal mental status 0 0 0 0 0 1 (14%) 1 (2%)Seizure 0 0 0 0 0 2 (29%) 2 (3%)Extrapyramidal syndrome 0 0 0 0 2 (29%) 0 2 (3%)
+GBS: Guillain–Barre ´ syndrome; ADS: acquired demyelinating syndromes; ON: optic neuritis; CIS: clinically isolated syndromes; TM:
+transverse myelitis; NMO: neuromyelitis optica; MS: multiple sclerosis; ADEM: acute disseminated encephalomyelitis.Data are expressed as mean (SD), median (range), or percent.Mao and Hu Overlap between GBS and ADS
+Neurological Research 2014 VOL.3 6 NO.1 2 1109
+--- Page 6 ---
+syndrome had typical clinical features of GBS and
+ADS in many aspects, thus representing an apparentoverlap of the two conditions.
+7,57–60
+First, it is worthwhile to note that we found several
+demographic features of GBS/ADS overlap syn-
+drome such as a younger age at onset and a balanced
+sex ratio, which are similar to those reported in
+typical global ADS studies; whereas these features
+were different from typical GBS features.59,61In the
+majority of typical GBS studies, it is believed that the
+incidence increases linearly with age and that men are
+approximately 1.5 times more likely to be affected
+than women.59,62The predominance of cases found at
+younger ages in our study could be attributed to
+higher exposures to triggering factors, as an infection
+or potentially after vaccination.
+Second, our data showed that current classiﬁcation
+of the six ADS subgroups share many clinicalfeatures, such as age of onset, duration of disease,
+cerebral spinal ﬂuid protein, and cell counts, suggest-
+ing that these presentations may be a part of the
+spectrum or range of disease diversity. Additionally,
+based on the results presented in Table 3, it seemsthat distinguishing these groups from each other at
+the ﬁrst presentation is impossible. Thus, our results
+suggest that current biological tests fail to identify a
+distinct subgroup of patients with overlap syndrome.
+Third, TM/GBS overlap syndrome was the most
+common subgroup of GBS/ADS overlap syndrome in
+our study, in contrast to the very uncommonfrequency of TM reported in 842 Western Australian
+cohort cases, which comprised only one study includ-
+ing both children and adults with ADS.
+57In addition,
+the frequency of TM in ADS children also has been
+reported to be uncommon in other studies.7,60The
+higher frequency of TM found in the present study
+may simply reﬂect two factors: (1) there could be adiscrepancy in deﬁning TM; and (2) it is likely that the
+overlap between GBS and TM may share more
+common etiologies and genetic backgrounds. Takentogether with our observations, the latter factor is
+more likely to explain the higher frequency of GBS/TM; however, further investigations are necessary.
+We found that the onset of GBS/ADS overlap
+syndrome occurred at the same time or that one
+disease (GBS or ADS) secondary to the other disease
+(ADS or GBS) occurred in the acute phase
+(,4 weeks). By deﬁnition, all patients with GBS
+had their nadir (maximal weakness) within 4 weeks,which was the reason that they were initially
+diagnosed with GBS. We further explored the timing
+of onset between GBS and ADS (Figure 1). The
+onset of this concurrent event mostly occurred at the
+very beginning of the course ( ,10 days in a total of
+32 cases). Based on these ﬁndings, this study
+supported that GBS and ADS may form a contin-uous spectrum with variable PNS and CNS involve-
+ment rather than co-incidental occurrence.
+The most frequent diseases in the ADS group, ON
+and NMO, caused a visual deﬁcit. It is known that
+patients with GBS rarely present with a visual deﬁcit;
+therefore, the clinical presentation of a visual deﬁcit
+becomes a very speciﬁc sign/symptom in the diagnosisof GBS/ADS overlap syndrome among the ﬁve most
+common clinical presentations (e.g. paresis, sensory
+deﬁcit, cranial nerve palsies, urinary disturbance, and
+visual deﬁcit). During the early stage of the overlap
+syndrome, differentiating concurrent GBS and ADS
+from GBS alone can be very difﬁcult. Based on our
+ﬁndings, one patient was diagnosed with GBS butwith a later onset of a visual deﬁcit. It is reasonable to
+suspect that this patient might have had GBS/ADS
+overlap syndrome. Additionally, clinical and other
+characteristics were not signiﬁcantly different among
+patients except for sensory level (76%) in GBS/TMoverlap syndrome.
+Miller Fisher syndrome is considered to have
+very special lesion characteristics (ophthalmoplegia,
+ataxia, and areﬂexia), which are still subject to much
+debate regarding the peripheral or central nature of
+Table 3 Biological and neuroimaging data
+VariableGBS/
+ON513GBS/
+TM521GBS/other
+CIS516GBS/
+NMO52GBS/
+MS57GBS/
+ADEM 57 Total 566
+Cerebrospinal fluid
+Albumincytological dissociation 9 (69%) 14/19 (74%) 8/16 (50%) NR 7/7 (100%) 6/7 (86%) 45/63 (71%)IgG index ( n).0.68 0/1 0/1 0/2 NR NR 1/1 (100%) 1/5 (20%)
+Positive oligoclonal bands ( n) 3/8 (38%) 1/2 (50%) 1/9 (11%) NR 2/3 (67%) 0/2 7/24 (29%)
+VEP abnormal 10/10 (100%) 0/2 4/6 (67%) 1/1 (100%) 2/3 (67%) 0/3 3/10 (30%)Antiganglioside antibodies 3/4 (75%) 2/4 (50%) 1/7 (14%) NR 0/2 1/1 (100%) 7/18 (39%)Brain MRI
+Supratentorial 0/10 0/7 5/14 (36%) 0/2 2/3 (67%) 5/6 (83%) 12/42 (29%)Subtentorial 0/10 0/7 7/14 (50%) 0/2 0/3 0/6 7/42 (17%)
+Both 0/10 0/7 2/14 (14%) 0/2 1/3 (33%) 1/6 (17%) 4/42 (10%)
+Spinal cord MRI 0/3 17/19 (90%) 2/3 (67%) 2/2 (100%) 0/2 1/2 (50%) 22/31 (71%)
+GBS: Guillain–Barre ´ syndrome; ADS: acquired demyelinating syndromes; ON: optic neuritis; CIS: clinically isolated syndromes; TM:
+transverse myelitis; NMO: neuromyelitis optica; MS: multiple sclerosis; ADEM: acute disseminated encephalomyelitis; NR: notrecorded; VEP: Visual evoked potential.Data are expressed as mean (SD), median (range), or percent.Mao and Hu Overlap between GBS and ADS
+1110 Neurological Research 2014 VOL.3 6 NO.1 2
+--- Page 7 ---
+these syndromes, and such debate continues in the
+literature. Therefore, MFS/ADS overlap syndrome isan ideal model for studying mechanisms with under-lying PNS and CNS involvement. In this study, wemainly identiﬁed the difference between non-MFS/ADS overlap syndrome and MFS/ADS overlapsyndrome. First, this study accounted for a 20%frequency of MFS in GBS. Considering that theincidence of MFS among GBS cases is smallthroughout the world, the incidence of MFS in thisstudy appeared to be greater. In this study, four of 11MFS patients were from East Asia, where a greaterfrequency exists than in western countries.
+63,64
+Second, based on the interval time analysis(Figure 1), most MFS patients (91%) seem to haveADS ‘at the same time’ (within a very short period),in contrast to 38% in non-MFS groups ( P50.0041).
+In other words, these special subgroups identiﬁedseemed not to have a long enough interval time fromMFS to ADS (and vice versa) diagnosis in mostrecruited case reports. Therefore, the interval timebetween diagnosis of MFS and ADS (and vice versa)was signiﬁcantly shorter in patients with MFS/ADSoverlap syndrome than that in patients with non-MFS/ADS overlap syndrome. Taken together, ourﬁndings conﬁrmed that these MFS patients devel-
+oped a more homogenous and mixed clinical picture
+within ADS. Furthermore, we found that MFS/ADS(in fact MFS/ADS is equal to MFS/other CIS asdeﬁned in this study) patients showed a signiﬁcantsubtentorial predominance according to the brainMRI. Although we classiﬁed ADS into six categoriesarbitrarily, we suspected the features of MFS/otherCIS may more reﬂect involvements of the brainstem(one of the nosologic position) in MFS itself, otherthan ADS in autoimmune peripheral neuropathies.The nosologic position of MFS is unclear, withspeculation being that the lesion site in MFS is in the
+peripheral nerves, brainstem, or cerebellum. The roleof brainstem involvement in MFS was also observedin neurophysiological studies.
+65Nevertheless, it has
+previously been indicated that MFS can be referredto as the ‘anti-GQ1b antibody syndrome.’
+64Within
+the CNS, an anti-GQ1b monoclonal antibody hasbeen reported to weakly stain deep cerebellar nuclei,the gray matter in the brainstem.
+66Our ﬁnding thus
+supported this prior pathological observation.
+Based on the clinical studies analyzed in this study,
+the sensory level was the best predictor of a pooroutcome, while the visual deﬁcit predicted a favorable
+outcome. The sensory level is the most common
+presentation in the TM group, but it occurs much lessoften in other subtypes of ADS, whereas visual deﬁcitis found in all ADS subtypes except for TM.Therefore, it seems that the poor or favorablepredictors reported here could more realisticallyreﬂect the true lesion load of one separate subtypeof ADS in this study.
+A primary strength of this study was that we
+summarized and reviewed data from the largest seriesof patients with overlap syndrome, which providegood insight of the spectrum of this overlapsyndrome, whereas prospective cohorts are virtuallyimpossible to perform on rare diseases. Furthermore,
+we believe that the application of strict diagnostic
+criteria of ADS according to the consensus deﬁni-tions gave the best possible correction for theestimated frequency, which should be more compar-able with future research.
+6However, our study also
+had some limitations. First, this study was notallocated a control with classical GBS or ADS. Theideal experimental design was not feasible because ofthe inherent features of the included case reports.Therefore, our design was the second best alternative.
+Table 4 Comparison between MFS/ADS and non-MFS/ADS overlap syndrome
+MFS/ADS Non-MFS/ADS F*/OR P
+N(%) 11 (18%) 55 (82%)
+Sex (M:F) 2:9 31:24 5.813 0.021Mean age (SD), years 45.5 (19.8) 27.9 (21.0) 6.552
+{0.013
+Simultaneous initial diagnosis 10/11 (91%) 21/55 (38%) 8.224 0.004Interval between primary to secondary diagnosis#4 weeks 11/11 (100%) 46/55 (84%) 1.196 0.149
+Anti-GQ1b antibodies 2/3 (66.7%) 2/10 (20%) 8.000 0.203Brain MRI
+Supratentorial 0 12/31 (39%) 6.475 0.011Subtentorial 6
+{(86%) 1/31 (3%) 20.659 0.000
+Both 11(14.3%) 3/31 (10%) 1.327 0.249
+Spinal cord MRI involvement 0/1 22/30 (73%) 7.339 0.007Poor outcome 0/10 17/54 (32%) 6.050 0.014
+MFS: Miller Fisher syndrome; ADS: acquired demyelinating syndromes; OR: Odds Ratio.
+*One-way analysis of variance.
+{Data are expressed as mean (SD), median (range), or percent.
+{Involving lesions include lateral lower medulla on both sides (1 case), the posterolateral of the pons (2 cases), midbrain tegmentum (1
+case), left paramedian mid-brain extending to the thalamus (1 case), and left mesencephalon (1 case).
+1Involving lesions include bilateral cerebral white matter, posterior brainstem, and left cerebellar (1 case).Mao and Hu Overlap between GBS and ADS
+Neurological Research 2014 VOL.3 6 NO.1 2 1111
+--- Page 8 ---
+Second, the exclusion of cases with missing data will
+impact a change in the denominator. Third, we usedthe Hughes scale as an outcome measure; readersmay argue that this scale will more reﬂect GBS in thisoverlap syndrome than ADS. However, currently,due to the lack of a consensus measure for ADS, theGBS disability score seems to be a suitable alternativemeasure, especially in this study which was per-formed retrospectively based on case reports.Furthermore, given the low frequency of GBS/ADSoverlap syndrome, we might have missed a stableestimation and the data available may lack the powerto detect clinically meaningful factors. Last but notleast, journals are more prone to accept for publica-tion unusual cases that appear to be intriguing andunexpected. This certainly causes bias in frequencyestimation in regard to the associated clinical anddemographic ﬁndings. Nevertheless, we emphasizedthe importance of detection and management ofGBS/ADS overlap syndrome, which could improvethe outcome.
+Conclusions
+The ADS in GBS are diverse, CNS demyelinatingmay occur at any time, but early in the GBS course(and vice versa). Miller Fisher syndrome/ADS over-lap syndromes is more common. The prognosis isgenerally good, but patients with sensory level deﬁcitare likely to have a poor prognosis. The other CIS inMFS may be one of the nosologic position, ratherthan ‘ADS in autoimmune peripheral neuropathies.’We emphasize both the clinical and prognosticﬁndings of GBS/ADS overlap syndrome, which willhelp us to further understand the nosologicalrelationships and to improve the outcome of theoverlap syndrome.
+Disclaimer Statements
+Contributors Both authors contributed to this article.
+Funding None.
+Conflicts of interest The authors declare that they
+have no conflicts of interest.
+Ethics approval The treatment for the patient was
+carried out according to the protocol approved byInstitutional Ethical Committee of Affiliated Nation-alities Hospital, Guangxi Medical University.
+References
+1 Bajaj NP, Rose P, Clifford-Jones R, Hughes PJ. Acute
+transverse myelitis and Guillain-Barre overlap syndrome withserological evidence for mumps viraemia. Acta Neurol Scand.
+2001;104:239–42.
+2 Nadkarni N, Lisak RP. Guillain-Barre syndrome (GBS) with
+bilateral optic neuritis and central white matter disease.
+Neurology. 1993;43:842–3.3 Lin JJ, Hsia SH, Wu CT, Wang HS, Lin KL, Lyu RK. Risk
+factors and outcomes of Guillain-Barre syndrome with acute
+myelitis. Pediatr Neurol. 2011;44:110–6.
+4 Zephir H, Stojkovic T, Latour P, Lacour A, de Seze J,
+Outteryck O, et al . Relapsing demyelinating disease affecting
+both the central and peripheral nervous systems. J NeurolNeurosurg Psychiatry. 2008;79:1032–9.
+5 Sejvar JJ, Kohl KS, Gidudu J, Amato A, Bakshi N, Baxter R,
+et al . Guillain-Barre syndrome and Fisher syndrome: case
+definitions and guidelines for collection, analysis, and presenta-
+tion of immunization safety data. Vaccine. 2011;29:599–612.
+6 Krupp LB, Banwell B, Tenembaum S. Consensus definitions
+proposed for pediatric multiple sclerosis and related disorders.
+Neurology. 2007;68:S7–12.
+7 Langer-Gould A, Zhang JL, Chung J, Yeung Y, Waubant E,
+Yao J. Incidence of acquired CNS demyelinating syndromes in
+a multiethnic cohort of children. Neurology. 2011;77:1143–8.
+8 Bernard G, Riou E, Rosenblatt B, Dilenge ME, Poulin C.
+Simultaneous Guillain-Barre syndrome and acute disseminated
+encephalomyelitis in the pediatric population. J Child Neurol.
+2008;23:752–7.
+9 Karimzadeh P, Khosroshahi N, Khatami AR. Acute combined
+demyelination of CNS and PNS: a case report. Iran J Radiol.2007;5:93–6.
+10 Huber S, Kappos L, Fuhr P, Wetzel S, Steck AJ. Combined
+acute disseminated encephalomyelitis and acute motor axonal
+neuropathy after vaccination for hepatitis A and infection withCampylobacter jejuni . J Neurol. 1999;246:1204–6.
+11 Kinoshita A, Hayashi M, Miyamoto K, Oda M, Tanabe H.
+Inflammatory demyelinating polyradiculitis in a patient with
+acute disseminated encephalomyelitis (ADEM). J Neurol
+Neurosurg Psychiatry. 1996;60:87–90.
+12 Amit R, Glick B, Itzchak Y, Dgani Y, Meyeir S. Acute severe
+combined demyelination. Childs Nerv Syst. 1992;8:354–6.
+13 Amit R, Shapira Y, Blank A, Aker M. Acute, severe, central
+and peripheral nervous system combined demyelination.
+Pediatr Neurol. 1986;2:47–50.
+14 Hawley RJ, Madrid R. Post-infectious central and peripheral
+nervous system diseases in patient with Devic’s disease and
+Guillain-Barre syndrome. Eur J Neurol. 2003;10:600.
+15 Aimoto Y, Ito K, Moriwaka F, Tashiro K, Abe K.
+Demyelinating peripheral neuropathy in Devic disease. Jpn J
+Psychiatry Neurol. 1991;45:861–4.
+16 Sato S, Nakamura A, Iwahashi T, Morita H, Hashimoto T,
+Ikeda S. Simultaneous exacerbation and remission of central
+and peripheral demyelination. Muscle Nerve. 2000;23:440–1.
+17 Capello E, Roccatagliata L, Schenone A, Gazzola P, Inglese M,
+Abbruzzese M, et al . Acute axonal form of Guillain-Barre
+syndrome in a multiple sclerosis patient: chance association or
+linked disorders? Eur J Neurol. 2000;7:223–5.
+18 Pareyson D, Ciano C, Fiacchino F, Gemma M, Savoiardo M,
+Sghirlanzoni A. Combined central and peripheral acutedemyelination. Ital J Neurol Sci. 1993;14:83–6.
+19 Best PV. Acute polyradiculoneuritis associated with demyeli-
+nated plaques in the central nervous system: report of a case.
+Acta Neuropathol. 1985;67:230–4.
+20 Lassmann H, Budka H, Schnaberth G. Inflammatory demye-
+linating polyradiculitis in a patient with multiple sclerosis. ArchNeurol. 1981;38:99–102.
+21 Forrester C, Lascelles RG. Association between polyneuritis
+and multiple sclerosis. J Neurol Neurosurg Psychiatry.
+1979;42:864–6.
+22 Sato N, Watanabe K, Ohta K, Tanaka H. Acute transverse
+myelitis and acute motor axonal neuropathy developed aftervaccinations against seasonal and 2009 A/H1N1 influenza.
+Intern Med. 2011;50:503–7.
+23 Tripp A. Acute transverse myelitis and Guillain-Barre overlap
+syndrome following influenza infection. CNS Spectr. 2008;
+13:744–6.
+24 Saidha S, Renganathan R, Spillane J, McNamara B, Fanning
+N, Ryan AM. Simultaneous transverse myelitis and acute
+motor axonal neuropathy in an adult. J Neurol Neurosurg
+Psychiatry. 2008;79:1302–3.
+25 Howell KB, Wanigasinghe J, Leventer RJ, Ryan MM.
+Concomitant transverse myelitis and acute motor axonalneuropathy in an adolescent. Pediatr Neurol. 2007;37:378–81.
+26 Nakamura N, Nokura K, Zettsu T, Koga H, Tachi M, Terada
+M,et al . Neurologic complications associated with influenza
+vaccination: two adult cases. Intern Med. 2003;42:191–4.Mao and Hu Overlap between GBS and ADS
+1112 Neurological Research 2014 VOL.3 6 NO.1 2
+--- Page 9 ---
+27 Chua HC, Tjia H, Sitoh YY. Concurrent myelitis and Guillain-
+Barre syndrome after varicella infection. Int J Clin Pract.2001;55:643–4.
+28 Martens-Le Bouar H, Korinthenberg R. Polyradiculoneuritis
+with myelitis: a rare differential diagnosis of Guillain-Barresyndrome. Neuropediatrics. 2002;33:93–6.
+29 Tomiyasu K, Ishiyama M, Kato K, Komura M, Ohnuma E,
+Inamasu J, et al . Bilateral retrobulbar optic neuritis, Guillain-
+Barre syndrome and asymptomatic central white matter lesionsfollowing adult measles infection. Intern Med. 2009;48:377–81.
+30 An JY, Yoon B, Kim JS, Song IU, Lee KS, Kim YI. Guillain-
+Barre syndrome with optic neuritis and a focal lesion in thecentral white matter following Epstein-Barr virus infection.
+Intern Med. 2008;47:1539–42.
+31 Echaniz-Laguna A, Battaglia F, Heymann R, Tranchant C,
+Warter JM. The Miller Fisher syndrome: neurophysiologicaland MRI evidence of both peripheral and central origin in onecase. J Neurol. 2000;247:980–2.
+32 Katchanov J, Lunemann JD, Masuhr F, Becker D, Ahmadi M,
+Bosel J, et al . Acute combined central and peripheral
+inflammatory demyelination. J Neurol Neurosurg Psychiatry.2004;75:1784–6.
+33 Okumura A, Ushida H, Maruyama K, Itomi K, Ishiguro Y,
+Takahashi M, et al . Guillain-Barre syndrome associated with
+central nervous system lesions. Arch Dis Child. 2002;86:304–6.
+34 Borruat FX, Schatz NJ, Glaser JS, Forteza A. Central nervous
+system involvement in Guillain-Barre-like syndrome: clinical
+and magnetic resonance imaging evidence. Eur Neurol.1997;38:129–31.
+35 Urushitani M, Udaka F, Kameyama M. Miller Fisher-Guillain-
+Barre overlap syndrome with enhancing lesions in thespinocerebellar tracts. J Neurol Neurosurg Psychiatry.
+1995;58:241–3.
+36 Tezer FI, Gurer G, Karatas H, Nurlu G, Saribas O.
+Involvement of the central nervous system in Miller Fishersyndrome: a case report. Clin Neurol Neurosurg. 2002;104:377–9.
+37 Giroud M, Mousson C, Chalopin JM, Rifle G, Dumas R.
+Miller-Fisher syndrome and pontine abnormalities on MRI: a
+case report. J Neurol. 1990;237:489–90.
+38 Ferrer X, Ellie E, Larriviere M, Deleplanque B, Lagueny A,
+Julien J. Late central demyelination after Fischer’s syndrome:MRI studies. J Neurol Neurosurg Psychiatry. 1993;56:698–9.
+39 Derakhshan I, Lotfi J, Kaufman B. Ophthalmoplegia, ataxia
+and hyporeflexia (Fisher’s syndrome). With a midbrain lesion
+demonstrated by CT scanning. Eur Neurol. 1979;18:361–6.
+40 Barontini F, Sita D. The nosological position of Fisher’s
+syndrome (ophthalmoplegia, ataxia and areflexia). J Neurol.1983;229:33–44.
+41 Taphoorn MJ, Lanting P, Hazenberg GJ, Uitdehaag BJ, Kaiser
+MC. Observations on the lesion site in the Miller Fisher
+syndrome: presentation of a case including CT and MRI. Acta
+Neurol Scand. 1989;80:167–9.
+42 Lolekha P, Phanthumchinda K. Optic neuritis in a patient with
+Miller-Fisher syndrome. J Med Assoc Thai. 2008;91:1909–13.
+43 Igarashi O, Fujioka T, Kishi M, Normoto N, Iwasaki Y,
+Kurihara T. Guillain-Barre syndrome with optic neuritis andcytomegalovirus infection. J Peripher Nerv Syst. 2005;10:340–1.
+44 Ginestal RC, Plaza JF, Callejo JM, Rodriguez-Espinosa N,
+Fernandez-Ruiz LC, Masjuan J. Bilateral optic neuritis andGuillain-Barre syndrome following an acute Mycoplasma
+pneumoniae infection. J Neurol. 2004;251:767–8.
+45 Chan JW. Optic neuritis in anti-GQ1b positive recurrent Miller
+Fisher syndrome. Br J Ophthalmol. 2003;87:1185–6.
+46 Pfausler B, Engelhardt K, Kampfl A, Spiss H, Taferner E,
+Schmutzhard E. Post-infectious central and peripheral nerv-ous system diseases complicating Mycoplasma pneumoniaeinfection. Report of three cases and review of the literature.
+Eur J Neurol. 2002;9:93–6.
+47 Colding-Jorgensen E, Vissing J. Visual impairment in anti-
+GQ1b positive Miller Fisher syndrome. Acta Neurol Scand.
+2001;103:259–60.
+48 Henderson RD, Ohlrich GD, Pender MP. Guillain-Barre
+syndrome and optic neuritis after Mycoplasma pneumoniae
+infection. Aust N Z J Med. 1998;28:481–2.
+49 Phanthumchinda K, Intragumtornchai T, Kasantikul V.
+Guillain-Barre syndrome and optic neuropathy in acute
+leukemia. Neurology. 1988;38:1324–6.
+50 Uncini A, Treviso M, Basciani M, Onofrj M, Gambi D.
+Associated central and peripheral demyelination: an electro-
+physiological study. J Neurol. 1988;235:238–40.
+51 Toshniwal P. Demyelinating optic neuropathy with Miller-
+Fisher syndrome. The case for overlap syndromes with central
+and peripheral demyelination. J Neurol. 1987;234:353–8.
+52 Behan PO, Lessell S, Roche M. Optic neuritis in the Landry-
+Guillain-Barre-Strohl syndrome. Br J Ophthalmol. 1976;60:58–
+9.
+53 Mao Z, Luo C, Ou S, Xue-an M. Coexistence of Guillain-Barre ´
+syndrome and transverse myelitis: a case report. Chin J Neurol.
+2012;45:835–6.
+54 Chmura Kraemer H, Periyakoil VS, Noda A. Kappa coeffi-
+cients in medical research. Stat Med. 2002;21:2109–29.
+55 Ruts L, Drenthen J, Jongen JL, Hop WC, Visser GH, Jacobs
+BC, et al. Pain in Guillain-Barre syndrome: a long-term follow-
+up study. Neurology. 2010;75:1439–47.
+56 Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM.
+Controlled trial prednisolone in acute polyneuropathy.
+Lancet. 1978;2:750–3.
+57 Wu JS, Zhang MN, Carroll WM, Kermode AG. Chara-
+cterisation of the spectrum of demyelinating disease in Western
+Australia. J Neurol Neurosurg Psychiatry. 2008;79:1022–6.
+58 Banwell B, Kennedy J, Sadovnick D, Arnold DL, Magalhaes S,
+Wambera K, et al
+. Incidence of acquired demyelination of the
+CNS in Canadian children. Neurology. 2009;72:232–9.
+59 van Doorn PA, Ruts L, Jacobs BC. Clinical features,
+pathogenesis, and treatment of Guillain-Barre syndrome.
+Lancet Neurol. 2008;7:939–50.
+60 Ketelslegers IA, Catsman-Berrevoets CE, Neuteboom RF,
+Boon M, van Dijk KG, Eikelenboom MJ, et al . Incidence of
+acquired demyelinating syndromes of the CNS in Dutch
+children: a nationwide study. J Neurol. 2012;259(9):1929–35.
+61 Pohl D. Epidemiology, immunopathogenesis and management
+of pediatric central nervous system inflammatory demyelinating
+conditions. Curr Opin Neurol. 2008;21:366–72.
+62 Dourado ME, Felix RH, da Silva WK, Queiroz JW, Jeronimo
+SM. Clinical characteristics of Guillain-Barre syndrome in a
+tropical country: a Brazilian experience. Acta Neurol Scand.
+2011;125:47–53.
+63 Lyu RK, Tang LM, Cheng SY, Hsu WC, Chen ST. Guillain-
+Barre syndrome in Taiwan: a clinical study of 167 patients. J
+Neurol Neurosurg Psychiatry. 1997;63:494–500.
+64 Aranyi Z, Kovacs T, Sipos I, Bereczki D. Miller Fisher
+syndrome: brief overview and update with a focus on
+electrophysiological findings. Eur J Neurol. 2012;19(15–
+20):e11–3.
+65 Wong V. A neurophysiological study in children with Miller
+Fisher syndrome and Guillain-Barre syndrome. Brain Dev.
+1997;19:197–204.
+66 Chiba A, Kusunoki S, Obata H, Machinami R, Kanazawa I.
+Serum anti-GQ1b IgG antibody is associated with ophthalmo-
+plegia in Miller Fisher syndrome and Guillain-Barre syndrome:
+clinical and immunohistochemical studies. Neurology.
+1993;43:1911–7.Mao and Hu Overlap between GBS and ADS
+Neurological Research 2014 VOL.3 6 NO.1 2 1113

@@ -1,0 +1,216 @@
+Citation: Amit R, Glick B, Itzchak Y, et al. Acute severe combined demyelination. Childs Nerv Syst. 1992;8:354-356. PMID: 1394285
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Child's Nerv Syst (1992) 8:354-356 
+16NS 9 Springer-Verlag 1992 
+Acute severe combined demyelination 
+R. Amit 1, B. Glick 2, Y. Itzchak 3, Y. Dgani 2, and S. Meyeir 4 
+1 Division of Neurology, Children's Hospital of Pittsburgh, 3705 Fifth Avenue at DeSoto, Pittsburgh, PA 15213, USA 
+2 Department of Pediatrics, Hadassah University Hospital, Mount Scopus, Jerusalem, Israel 
+3 Department of Radiology, Sheba Medical Center, Tel-Hashomer, Israel 
+Alyn Children's Orthopedic Hospital, Jerusalem, Israel 
+Received June 7, 1991 
+Abstract. We present a second case in which Guillain- 
+Barr~ syndrome (GBS) and acute disseminated en- 
+cephalomyelitis (ADEM) appeared simultaneously, both 
+in acute and fulminant form. The patient, a 10-year-old 
+girl, presented with acute onset of coma and flaccid, are- 
+flexic quadriparesis. The elevated CSF protein levels and 
+delayed F waves fulfilled the criteria of GBS and an MRI 
+study revealed extensive multifocal demyelination com- 
+patible with a diagnosis of ADEM. Prompt clinical re- 
+sponse followed by complete recovery was achieved by 
+treatment with corticosteroids. It is suggested that acute 
+severe combined demyelination might constitute a sepa- 
+rate entity in which the demyelinating process, involving 
+simultaneously the central and the peripheral nervous 
+systems, indicates immune response against a component 
+of the myelin of one system carrying cross-antigenicity 
+with the other. 
+Key words: Guillain-Barr6 syndrome - Acute disseminat- 
+ed encephalomyelopathy - Combined demyelination 
+Central nervous system (CNS) involvement in Guillain- 
+Barr6 syndrome (GBS) has been reported [3-5, 8, 9]. 
+Usually the predominant clinical manifestations have 
+been those of peripheral neuropathy associated with be- 
+havioral changes, papilledema, extensor toe sign, and 
+electroencephalographic abnormalities. Blenow et al. [4] 
+introduced the term "encephalo-myelo-radiculo-neu- 
+ropathy" to describe this combined involvement. In 1985 
+Amit et al. [1] reported a case of acute severe combined 
+involvement of both peripheral and central myelin. In 
+this case, GBS was simultaneously combined with acute 
+disseminated encephalomyelopathy (ADEM). We here 
+present a second case of a combined central and peripher- 
+al demyelinating process and discuss the possibility that 
+this may constitute a separate pathogenic entity of acute 
+severe combined demyelination (ASCD). 
+Correspondence to: R. Amit Case report 
+A 10-year-old girl, generally in good health, was admitted to a local 
+hospital for observation of high temperature, headache, and ab- 
+dominal and leg pain. A laparotomy performed because of acute 
+abdomen was unrevealing. Recovery from anesthesia was followed 
+by a comatose state that lasted 24 h and flaccid quadriparesis. Two 
+weeks later the girl was transferred to another hospital where the 
+following were recorded: intact mental status, flaccid quadriparesis 
+and areflexia, and lack of sphincter control. Sensory level could not 
+be determined. Examination of the spinal fluid revealed 20 lympho- 
+cytes and 50 red blood cells per ml. The protein level was 88 mg/ 
+100 ml. Computed tomography (CT) of the head was normal. Urea, 
+glucose, electrolyte, and liver enzyme concentrations were all within 
+normal limits. Testing of urine for porphyrine and heavy metals was 
+negative. Blood cultures and serological tests for polio viruses were 
+negative. Electrophysiological studies of peripheral nerves gave re- 
+sults all within normal limits, except for an absence of F waves. 
+Somatosensory evoked responses revealed low amplitude at the level 
+of the lower brainstem. CT myelography was normal and the spinal 
+repeat tap was acellular with a protein level of 100 mg/100 ml. 
+With a presumptive diagnosis of a GBS the patient was trans- 
+ferred to a pediatric rehabilitation hospital. A repeated electrophys- 
+iological study of the peripheral nerves revealed normal conduction 
+time and absence of F waves in the medial and tibial nerves of both 
+sides. Eight weeks from onset, increased tonus, hyperreflexia, 
+clonus, and upgoing toes were found bilaterally in the lower extrem- 
+ities. Dysarthria and incomplete sphincter control were present. 
+Autonomic phenomena such as fragmented flushing of different 
+parts of the patient's body and paroxysmal sweating were observed. 
+Nine weeks from onset, examination of the fundi revealed bilateral 
+swelling of the optic disks, which was interpreted as optic neuritis. 
+Ten weeks from onset, corneal and gag reflex were absent. The 
+following electrophysiological studies were performed: visual 
+evoked potential - no electrical activity could be traced, nerve con- 
+duction velocity was normal, and F response appeared normal. 
+Magnetic resonance imaging (MRI) study of the brain revealed 
+extensive multifocal demyelination (Fig. 1). 
+At that time, 11 weeks from onset, the patient developed bilater- 
+al bronchopneumonia. She was treated with broad-spectrum antibi- 
+otics and methylprednisolone 300 rag/day. Within five days of onset 
+of steroid therapy, substantial neurological improvement was ob- 
+served. Gag and corneal reflexes returned and the hypertonus of the 
+muscles decreased. Two months later, the patient had recovered 
+completely and the neurological examination revealed only fine 
+intention tremor in the left hand. Repeat MRI of the brain revealed 
+a substantial improvement of the demyelination process (Fig. 2). 
+
+--- Page 2 ---
+355 
+Fig. I a, b. Axial MR; T2-weighted 
+images showing extensive multifocal 
+demyelinating areas 
+Fig. 2 a, b. Axial MR; T2-weighted 
+images 2 months after start of cortico- 
+steroid therapy 
+Discussion 
+The patient described here presented simultaneous in- 
+volvement of both central and peripheral nervous sys- 
+tems. Involvement of the CNS was initially manifested by 
+the acute onset of coma and later by the pyramidal signs 
+in the lower extremities. The MRI study supports the 
+diagnosis of ADEM. The involvement of the peripheral 
+nervous system (PNS) was manifested by the flaccid, are- 
+flexic weakness lasting for several weeks. The protein-cel- 
+lular dissociation in the CSF and the absent F waves on 
+electromyelography support the diagnosis of GBS. In the 
+presence of normal nerve conduction velocity it may be 
+argued that myelitis cannot be ruled out. However, the 
+long-lasting areflexic-hypotonic paralysis is highly indic- 
+ative of peripheral nerve involvement that dominated the 
+clinical picture. During the 11 weeks that elapsed between 
+the onset of symptoms and the initiation of corticosteroid 
+treatment, different stages were noted in the course of the 
+clinical manifestations. It seems that the different stages 
+resulted from the changes in the intensity and extent of 
+involvement of each system (CNS and PNS). 
+There are only a few disease entities in which substan- 
+tial involvement of both CNS and PNS exist. Our discus- 
+sion is limited to those entities of demyelinating origin. 
+Combined myelinopathy is known to occur in dysmyelo- 
+genesis of metabolic origin, such as metachromatic 
+leukodystrophy and Krabbe disease. These are heredi- 
+tary chronic disorders with a well-defined enzymatic de- 
+fect. Association of chronic inflammatory demyelinating 
+polyradiculopathy was reported in cases of multiple scle- 
+rosis [7, 10]. It is not clear whether the simultaneous 
+occurrence of combined central and peripheral demyeli- 
+nation in these patients is a coincidence or whether the 
+two disorders are pathologically related. Willis et al. [12] reported CNS involvement in children with recurrent 
+polyneuropathy. The authors point out that in spite of 
+CNS involvement there was no unequivocal evidence of 
+central demyelination. To the best of our knowledge our 
+two patients with ASCD are the only cases of CNS in- 
+volvement in GBS with radiological evidence of central 
+demyelination. 
+Whether ASCD represent a clinical variant of enceph- 
+alo-myelo-radiculo-neuropathy, as described by Blenow 
+et al. [4], or is a separate pathogenic entity will require 
+further investigation. The following specific characteriza- 
+tions of our two cases support the latter: (a) The unusual 
+clinical presentation of simultaneous acute and severe 
+involvement of both PNS and CNS, (b) the radiological 
+evidence of central demyelination, and (c) the prompt 
+clinical response to corticosteroid therapy (the issue of 
+corticosteroids in either GBS or ADEM is not clear and 
+there are no convincing reports about their efficacy). 
+The recognition of the possibility of overlapping 
+symptomatology of the two systems is of major impor- 
+tance for early diagnosis of ASCD, since flaccid quadri- 
+paresis and hyporeflexia are commonly found in the ini- 
+tial phases of acute encephalopathy. We therefore suggest 
+that electrophysiological studies of the PNS (electromy- 
+elography and NCV) be performed in cases where acute 
+encephalopathic clinical signs are associated with hypo- 
+tonia and hyporeflexia that do not resolve within 72 h. It 
+is also worth noting in this regard that CT of the brain 
+may not always be sufficient in confirming central de- 
+myelinating processes in ADEM [2, 6]. In such cases, 
+MRI of the brain may be more sensitive in disclosing the 
+pathology and is therefore recommended. 
+Pathogenetically, both GBS and ADEM appear to be 
+postinfectious, immunologically mediated attacks on a 
+component of the myelin. It is assumed that in cases with 
+
+--- Page 3 ---
+356 
+combined involvement of both central and peripheral 
+myelin, an immune response occurs against a component 
+of the myelin shared by the two systems. Two such com- 
+ponents of the PNS, P1, which is considered to be identi- 
+cal to CNS myelin basic protein, and galactocerebroside 
+[11], both possessing neuritogenic properties, could func- 
+tion as target antigens in this syndrome. 
+References 
+1. Amit R, Shapira Y, Blank A, Aker M (1986) Acute, severe, 
+central and peripheral nervous system combined demyelina- 
+tion. Pediatr Neurol 2:47-50 
+2. Atlas SW, Grossman RI, Goldberg HI, Hackney DB, Bilaniuk 
+LT, Zimmerman RA (1986) MRI diagnosis of acute disseminat- 
+ed encephalo-myelitis. J Comput Assist Tomogr 10: 798- 801 
+3. Baker AB (1943) Guillain-Barr6's disease (encephalo-myelo- 
+radiculitis): a review of 33 cases. J Lancet 63:384-398 
+4. Blennow G, Gamstorp I, Rosenberg R (1968) Encephalo- 
+myelo-radiculo-neuropathy. Dev M ed Child Neurol 10:485- 
+490 5. Gamstorp I (1974) Encephalo-myelo-radiculo-neuropathy: in- 
+volvement of the CNS in children with Guillain-Barr6-Strohl 
+syndrome. Dev Med Child Neurol 16:654-658 
+6. Lukes SA, Norman D (1983) Computed tomography in acute 
+disseminated encephalomyelitis. Ann Neurol 13: 567-572 
+7. Mendell JR, Kolkin S, Kissel JT, Weiss KL, Chakeres DW, 
+Rammohan KW (1987) Evidence for central nervous system 
+demyelination in chronic inflammatory demyelinating poly- 
+radiculoneuropathy. Neurology 37:1291-1294 
+8. Morley JB, Reynolds EH (1966) Papilledema and Landry-Guil- 
+lain-Barr6 syndrome. Case report and review. Brain 89:205 
+9. Rossi LN (1977) L'enc6phalomyelo-radiculoneuropathy: la 
+participation du systbme nerveux centrale dans la polyradiculite 
+aigfie de l'enfant. Arch Fr Pediatr 134:399-405 
+10. Rubin M, Karpati G, Carpenter S (1987) Combined central and 
+peripheral myelinopathy. Neurology 37:1287-1290 
+1i. Whitaker JN (1981) The protein antigen of peripheral nerve 
+myelin. Ann Neurol 9 [Suppl]: 56-64 
+12. Willis J, Van Den Berg P (1988) Cerebral involvement in chil- 
+dren with acute relapsing polyneuropathy. J Child Neurol 
+3:200-204 
