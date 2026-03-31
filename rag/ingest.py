@@ -53,13 +53,24 @@ def _article_title_from_filename(filename: str) -> str:
     return name
 
 
-def _embed_batch(client: genai.Client, texts: list[str]) -> list[list[float]]:
-    """Embed a batch of texts using Gemini embedding API."""
-    result = client.models.embed_content(
-        model=config.embedding_model,
-        contents=texts,
-    )
-    return [e.values for e in result.embeddings]
+def _embed_batch(client: genai.Client, texts: list[str], max_retries: int = 5) -> list[list[float]]:
+    """Embed a batch of texts using Gemini embedding API with retry on rate limit."""
+    import time
+    for attempt in range(max_retries):
+        try:
+            result = client.models.embed_content(
+                model=config.embedding_model,
+                contents=texts,
+            )
+            return [e.values for e in result.embeddings]
+        except Exception as e:
+            if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                wait = min(2 ** attempt * 10, 120)  # 10s, 20s, 40s, 80s, 120s
+                print(f"  Rate limited, waiting {wait}s (attempt {attempt + 1}/{max_retries})...")
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError(f"Embedding failed after {max_retries} retries")
 
 
 def ingest(reindex: bool = False, verbose: bool = False):
