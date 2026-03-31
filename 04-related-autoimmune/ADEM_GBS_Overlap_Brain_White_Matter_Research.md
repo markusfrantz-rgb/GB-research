@@ -14,22 +14,22 @@ status: active
 
 ## Quick Reference: MRI Differential at a Glance
 
-> **For the neuroradiologist/neurologist reviewing the MRI — start here.**
+> Summary of MRI patterns described in the published literature and their diagnostic associations in the context of GBS.
 
-| MRI Finding | Location | Most Likely Diagnosis | Steroids? | Key Reference |
-|-------------|----------|----------------------|-----------|---------------|
-| Enhancement **along cranial nerves** (cisternal/canalicular) | CN III, V, VI, VII, X, XI | **Normal GBS** (83% have it) | No | Zuccoli 2011 (PMID 21292802) |
-| Small T2/FLAIR changes **near nerve entry zones** (1-4 mm) | Obersteiner-Redlich zone at brainstem | **GBS extending to transition zone** | No | Xin 2025 (PMID 40536593), Maier 1997 (PMID 9126057) |
-| **Brainstem parenchymal** T2 hyperintensity (midbrain/pons) | Central brainstem | **Bickerstaff brainstem encephalitis** (BBE) | Consider | Odaka 2003 (PMID 12847079), Ito 2008 (PMID 18274803) |
-| **Multiple widespread bilateral ill-defined** WM lesions | Subcortical/periventricular | **ADEM overlap** | **Yes** | Mao 2014 (PMID 24914906) |
-| **Bilateral parieto-occipital** edema | Posterior hemispheres | **PRES** (reversible) | No (BP control) | Chen 2015 (PMID 25800144) |
-| **Periventricular/subcortical** WM hyperintensities | Variable | **Hashimoto encephalopathy** | **Yes** | Laurent 2016 (PMID 27639840), Castillo 2006 (PMID 16476807) |
-| **Pontine/extrapontine** lesions | Pons, basal ganglia | **Osmotic demyelination** (check Na correction rate) | No | Lambeck 2019 (PMC6804268) |
-| Few small well-circumscribed lesions | Deep white matter | **Nonspecific** (age, autoimmune microvasculopathy) | No | — |
+| MRI Pattern | Typical Location | Diagnostic Association | Published Treatment Approach | Key Reference |
+|-------------|-----------------|----------------------|------------------------------|---------------|
+| Enhancement **along cranial nerves** (cisternal/canalicular) | CN III, V, VI, VII, X, XI | **Normal GBS finding** (83%, Zuccoli 2011) | Part of GBS; no additional treatment | Zuccoli 2011 (PMID 21292802) |
+| Small T2/FLAIR changes **near nerve entry zones** (1-4 mm) | Obersteiner-Redlich zone at brainstem | **GBS inflammation at CNS-PNS transition** | Part of GBS | Xin 2025 (PMID 40536593), Maier 1997 (PMID 9126057) |
+| **Brainstem parenchymal** T2 hyperintensity (midbrain/pons) | Central brainstem | **Bickerstaff brainstem encephalitis** (BBE) | Variable; steroids used in some published cases | Odaka 2003 (PMID 12847079), Ito 2008 (PMID 18274803) |
+| **Multiple widespread bilateral ill-defined** WM lesions | Subcortical/periventricular | **ADEM overlap** | Steroids first-line in published series | Mao 2014 (PMID 24914906) |
+| **Bilateral parieto-occipital** edema | Posterior hemispheres | **PRES** (reversible) | BP optimization | Chen 2015 (PMID 25800144) |
+| **Periventricular/subcortical** WM hyperintensities | Variable | **Hashimoto encephalopathy** (SREAT) | Steroids; condition defined by steroid response | Laurent 2016 (PMID 27639840), Castillo 2006 (PMID 16476807) |
+| **Pontine/extrapontine** lesions | Pons, basal ganglia | **Osmotic demyelination** | Supportive; check Na correction rate | Lambeck 2019 (PMC6804268) |
+| Few small well-circumscribed lesions | Deep white matter | **Nonspecific** (age, autoimmune microvasculopathy) | No specific treatment in literature | — |
 
-> **Critical context:** Brain MRI is expected to be **normal** in severe GBS, even with total paralysis. In 15/16 published cases mimicking brain death, no parenchymal abnormality was found (only cranial nerve enhancement). White matter lesions in this patient are therefore **noteworthy** and warrant careful characterization.
+> **Notable observation:** Brain MRI is reported as **normal** in the majority of severe GBS, even in cases with total paralysis. In 15 of 16 published cases mimicking brain death, no parenchymal abnormality was found — only cranial nerve enhancement (see section 4.3). The presence of white matter lesions in this clinical context is therefore noteworthy.
 
-> **See [Section 14](#14-mri-reference-images) for 33 comparison MRI images with sources.**
+> [Section 14](#14-mri-reference-images) contains 33 published MRI reference images organized by pattern.
 
 ---
 
@@ -499,99 +499,95 @@ From Mao & Hu (2014): *[Level 3]*
 - **Favorable prognosis predictor:** Visual deficit (OR = 4.667)
 - **Miller Fisher/ADS overlap** showed greater female predominance, higher mean age, and more frequent simultaneous onset
 
-### 11.3 Key Prognostic Insight
+### 11.3 Observation on the ADEM Component
 
-**The ADEM component generally has a better prognosis than the GBS component**, especially when treated with corticosteroids. In cases where GBS is refractory (as in Madeleine's case), identifying and treating an ADEM component could provide an additional therapeutic avenue and improve overall outcomes.
+An interesting pattern in the case literature is that the ADEM component often responds faster to treatment than the GBS component, particularly to corticosteroids.
 
 > **Citation:** Amit R, Glick B, Itzchak Y, Dgani Y, Meyeir S. Acute severe combined demyelination. *Childs Nerv Syst*. 1992;8:354-356. PMID: 1394285 — Reported "prompt clinical response followed by complete recovery" with corticosteroids in combined ADEM-GBS.
 
 ---
 
-## 12. Clinical Synthesis: Madeleine's Scenario
+## 12. Clinical Application: Putting the Findings Together
 
-### 12.1 Integrating All Findings
+### 12.1 Summary of Observations
 
-| Finding | Interpretation | Action |
-|---------|---------------|--------|
-| **GBS confirmed** (clinical + LP + disease course) | Primary diagnosis established | Treatment given (5x PE) |
-| **PE failure** (no clinical response after 5 sessions) | Refractory GBS; consider additional pathology | Evaluate for overlap/alternative diagnoses |
-| **Small white matter lesions on MRI** (day 7, absent day 2) | New finding; etiology unclear pending radiologist review | Differential: ADEM, PRES, HE, nonspecific |
-| **LP: ACD without pleocytosis** | Confirms GBS; does NOT exclude ADEM (20% have normal CSF) | Not sufficient to rule out ADEM |
-| **Hashimoto's thyroiditis** | Risk factor for HE/SREAT + white matter changes | Check anti-TPO/anti-Tg titers |
-| **Severe dysautonomia** | Risk factor for PRES | Evaluate MRI lesion distribution (parieto-occipital?) |
-| **IgA deficiency** | Autoimmune cluster, not directly linked to ADEM | No specific action for ADEM |
-| **No clinical encephalopathy assessable** | Patient deeply sedated — encephalopathy cannot be evaluated | Limits ADEM diagnosis |
+The following table summarizes the data points and their relevance in the published literature:
 
-### 12.2 The Steroid Decision Framework
+| Observation | What the literature says | Worth noting |
+|-------------|-------------------------|--------------|
+| GBS confirmed (clinical + LP) | Primary diagnosis established | — |
+| No clinical response after 5 PE sessions | Seen in ~15-20% of GBS (Doorn 2023). Literature suggests evaluating for overlap or additional pathology | — |
+| New small white matter lesions on MRI (day 7, absent day 2) | Atypical for GBS. Multiple possible explanations — see sections 4-5 | Central question for MRI review |
+| LP: albuminocytologic dissociation, no pleocytosis | Classic GBS pattern. Notably, ~20% of ADEM cases also have normal CSF (Li 2022) | ACD does not exclude coexisting CNS process |
+| Known Hashimoto's thyroiditis | Associated with HE/SREAT in some patients (Laurent 2016, n=251). WM changes in 50-80% of HE (Chaudhuri 2023) | Relevant differential |
+| Severe dysautonomia | Independent risk factor for PRES (Chen 2015, 12 GBS-PRES cases) | May explain posterior lesions if present |
+| Selective IgA deficiency | Part of autoimmune cluster (HLA-B8/DR3/DQ2). No direct ADEM link in literature | Context for immune dysregulation |
+| Total cranial nerve paralysis | Consistent with severe GBS. Enhancement at nerve entry zones expected (Zuccoli 2011, 83%) | Key for interpreting brainstem-adjacent findings |
+| Deep sedation | Encephalopathy — a key ADEM criterion — cannot be clinically assessed | Diagnostic limitation |
+
+### 12.2 How the Literature Approaches the Steroid Question in Overlap Cases
+
+The published case literature describes different approaches depending on MRI characterization:
 
 ```
-Neurologist/Radiologist MRI Review (2026-03-31):
+MRI Pattern → Published Treatment Approach
 │
-├── Findings consistent with ADEM (multiple, widespread, ill-defined lesions):
-│   └── START IV methylprednisolone 1000 mg/day x 3-5 days
-│   └── Follow with oral prednisolone taper (4-6 weeks)
-│   └── This addresses the UNTREATED ADEM component
-│   └── Monitor for response (motor improvement, MRI follow-up at 2-4 weeks)
+├── Cranial nerve enhancement at entry zones
+│   Literature: Part of GBS itself (Zuccoli 2011, Berciano 2011)
+│   Published approach: No additional treatment beyond GBS therapy
 │
-├── Findings consistent with PRES (bilateral parieto-occipital):
-│   └── Optimize blood pressure control
-│   └── PRES is REVERSIBLE — lesions resolve with BP management
-│   └── Steroids NOT specifically indicated for PRES
-│   └── Follow-up MRI to confirm resolution
+├── Multifocal widespread WM lesions (ADEM pattern)
+│   Literature: IV methylprednisolone is first-line for ADEM (Alexander 2011)
+│   Published cases: Addition of steroids to PE/IVIg in overlap showed
+│   improvement (Mohammed 2013, Deshmukh 2015, Amit 1992)
 │
-├── Findings consistent with Hashimoto encephalopathy:
-│   └── Check anti-TPO/anti-Tg titers if not recent
-│   └── START IV methylprednisolone (same protocol as ADEM)
-│   └── HE is defined by steroid responsiveness
+├── Posterior bilateral edema (PRES pattern)
+│   Literature: Reversible with blood pressure management (Chen 2015)
+│   Published approach: Address underlying dysautonomia
 │
-├── Findings nonspecific (few small lesions, no pattern):
-│   └── Likely incidental/age-related/autoimmune microvasculopathy
-│   └── Steroids NOT indicated for nonspecific lesions
-│   └── Focus on GBS management (next-line therapy per existing protocol)
+├── Periventricular/subcortical WM (HE pattern)
+│   Literature: HE defined by steroid responsiveness (Castillo 2006)
+│   Published approach: IV methylprednisolone, monitor response
 │
-└── If uncertain:
-    └── Consider diagnostic trial of IV methylprednisolone (3-5 days)
-    └── Low risk: steroids don't clearly harm GBS (Cochrane)
-    └── Potential benefit if any steroid-responsive component exists
-    └── Monitor response carefully
+└── Nonspecific small lesions
+    Literature: Common incidental finding in adults >50
+    Published approach: No specific treatment
 ```
 
-### 12.3 Key Arguments FOR a Steroid Trial
+### 12.3 Considerations From the Literature
 
-1. **PE has failed** — additional pathology may explain non-response
-2. **New MRI lesions** suggest an active process not addressed by PE
-3. **Steroids treat ADEM, HE, and some autoimmune encephalitides** — all possible in this patient
-4. **Steroids do NOT clearly harm GBS** (Cochrane: no benefit for GBS, but no clear harm from IV route)
-5. **Steroid-responsive conditions** (ADEM, HE) are potentially reversible if treated early
-6. **Autoimmune cluster** suggests broad immune dysregulation that may respond to immunosuppression
-7. **Risk-benefit ratio favors trial** — patient is already ventilator-dependent and PE-refractory
+**Observations that may favor exploring a steroid-responsive component:**
+- New lesions on MRI suggest an active process evolving alongside the GBS
+- Both ADEM and HE are steroid-responsive — and both are plausible differentials in this context
+- Cochrane data (Hughes 2016, 8 trials) show IV methylprednisolone does not clearly worsen GBS
+- Several published overlap cases report improvement after adding steroids to GBS therapy that had failed alone
 
-### 12.4 Key Arguments AGAINST Steroids
+**Considerations on the other side:**
+- Small nonspecific lesions are common and would not warrant steroids
+- ICU-related infection risk with immunosuppression (Wang 2015 on steroid mechanisms in GBS)
+- Critical illness myopathy is a recognized complication of prolonged steroid use in ICU
+- A steroid response, if it occurs, could make it harder to identify the underlying etiology
 
-1. **Lesions may be nonspecific** — steroids are ineffective for incidental findings
-2. **Infection risk** — immunosuppression in ICU setting (though recent infection has cleared)
-3. **Theoretical concern about steroid aggravation of GBS** (Zhu et al. 2015) — though this applies more to the PNS component
-4. **Critical illness myopathy risk** — steroids combined with prolonged ICU stay can cause myopathy that mimics GBS weakness
-5. **Masking other diagnoses** — steroid response could obscure the true pathology
+These observations are drawn from published data and are presented for consideration — the clinical picture and MRI characterization will determine what makes sense.
 
 ---
 
-## 13. Recommended Investigations
+## 13. Investigations Discussed in the Literature for This Type of Presentation
 
-Based on this review, the following investigations are recommended if not already performed:
+The following tests are frequently mentioned in the overlap literature when brain MRI lesions are found in a GBS patient. Presented here as context for clinical consideration:
 
-| Investigation | Rationale | Priority |
-|---------------|-----------|----------|
-| **Detailed MRI review by neuroradiologist** | Characterize lesion pattern (ADEM vs PRES vs nonspecific) | **URGENT** (planned 2026-03-31) |
-| **Compare MRI 2026-03-23 vs 2026-03-28** | Determine if lesions are truly new | **URGENT** |
-| **MOG-IgG (serum)** | Rule out MOGAD if lesions suggest ADEM | High |
-| **AQP4-IgG (serum)** | Rule out NMOSD | High |
-| **Anti-ganglioside antibodies** (GM1, GD1a, GQ1b panel) | Characterize GBS subtype; GQ1b+ suggests BBE overlap | High |
-| **Anti-TPO, anti-Tg titers** (current) | Assess Hashimoto encephalopathy risk | High |
-| **CSF myelin basic protein** | If elevated, supports CNS demyelination (ADEM) | Medium (if LP can be repeated) |
-| **CSF oligoclonal bands** | Present in ADEM (~10-29%), MS (>95%), absent in GBS | Medium |
-| **NCS/EMG** | Still not performed; essential for GBS subtyping (AIDP vs AMAN) | High (when clinically feasible) |
-| **Follow-up brain MRI (2-4 weeks)** | Monitor lesion evolution; PRES resolves, ADEM may too with treatment | Medium |
+| Investigation | What the literature says | Context |
+|---------------|------------------------|---------|
+| **Detailed neuroradiological MRI characterization** | Lesion pattern is the key discriminator (Mulroy 2020, Shadmani 2022) | Planned with Karolinska neuroradiologist |
+| **Comparison of serial MRI** (day 2 vs day 7) | New lesions vs previously missed findings have different implications | Two scans available |
+| **MOG-IgG (serum)** | Increasingly recognized in combined CNS+PNS presentations (Papadopoulou 2024, 26 cases). Cell-based assay preferred | — |
+| **AQP4-IgG (serum)** | Part of standard workup when CNS demyelination is in the differential (Gupta 2024) | — |
+| **Anti-ganglioside panel** (GM1, GD1a, GQ1b) | GQ1b positivity associated with BBE overlap (Odaka 2003, Ito 2008). Also useful for GBS subtyping | — |
+| **Anti-TPO, anti-Tg titers** (current) | Elevated in 70.1% of GBS patients (Tu 2020). Very high titers raise the question of HE (Castillo 2006) | Known Hashimoto's |
+| **Anti-NF155** | Positive in up to 86% of CCPD in some cohorts (Kawamura 2013). Predicts poor IVIg response, good rituximab response | — |
+| **CSF myelin basic protein** | If elevated, suggests active CNS demyelination (Li 2022) | If LP material available |
+| **NCS/EMG** | Standard for GBS subtyping. Relevant for distinguishing AIDP/AMAN/AMSAN | Not yet performed |
+| **Follow-up brain MRI (2-4 weeks)** | PRES lesions resolve; ADEM lesions may resolve with treatment or persist (Romano 2021) | Useful regardless of initial interpretation |
 
 ---
 
