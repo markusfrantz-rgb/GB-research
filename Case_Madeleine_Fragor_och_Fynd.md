@@ -277,7 +277,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-18 forskningsdokument | ~690 peer-reviewed kallor | 149 fulltexter tillgangliga | sokbara kunskapsfragment
+19 forskningsdokument | ~690 peer-reviewed kallor | 309 fulltexter tillgangliga | 34 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 

@@ -12,6 +12,27 @@ status: active
 
 ---
 
+## Quick Reference: MRI Differential at a Glance
+
+> **For the neuroradiologist/neurologist reviewing the MRI — start here.**
+
+| MRI Finding | Location | Most Likely Diagnosis | Steroids? | Key Reference |
+|-------------|----------|----------------------|-----------|---------------|
+| Enhancement **along cranial nerves** (cisternal/canalicular) | CN III, V, VI, VII, X, XI | **Normal GBS** (83% have it) | No | Zuccoli 2011 (PMID 21292802) |
+| Small T2/FLAIR changes **near nerve entry zones** (1-4 mm) | Obersteiner-Redlich zone at brainstem | **GBS extending to transition zone** | No | Xin 2025 (PMID 40536593), Maier 1997 (PMID 9126057) |
+| **Brainstem parenchymal** T2 hyperintensity (midbrain/pons) | Central brainstem | **Bickerstaff brainstem encephalitis** (BBE) | Consider | Odaka 2003 (PMID 12847079), Ito 2008 (PMID 18274803) |
+| **Multiple widespread bilateral ill-defined** WM lesions | Subcortical/periventricular | **ADEM overlap** | **Yes** | Mao 2014 (PMID 24914906) |
+| **Bilateral parieto-occipital** edema | Posterior hemispheres | **PRES** (reversible) | No (BP control) | Chen 2015 (PMID 25800144) |
+| **Periventricular/subcortical** WM hyperintensities | Variable | **Hashimoto encephalopathy** | **Yes** | Laurent 2016 (PMID 27639840), Castillo 2006 (PMID 16476807) |
+| **Pontine/extrapontine** lesions | Pons, basal ganglia | **Osmotic demyelination** (check Na correction rate) | No | Lambeck 2019 (PMC6804268) |
+| Few small well-circumscribed lesions | Deep white matter | **Nonspecific** (age, autoimmune microvasculopathy) | No | — |
+
+> **Critical context:** Brain MRI is expected to be **normal** in severe GBS, even with total paralysis. In 15/16 published cases mimicking brain death, no parenchymal abnormality was found (only cranial nerve enhancement). White matter lesions in this patient are therefore **noteworthy** and warrant careful characterization.
+
+> **See [Section 14](#14-mri-reference-images) for 33 comparison MRI images with sources.**
+
+---
+
 ## Table of Contents
 
 1. [ADEM-GBS Overlap Syndrome: Definition and Pathogenesis](#1-adem-gbs-overlap-syndrome-definition-and-pathogenesis)
@@ -185,7 +206,30 @@ GBS can be considered an **independent risk factor for PRES** due to:
 
 **Relevance to Madeleine:** She has documented severe dysautonomia (blood pressure instability, noradrenaline requirement, anisokori). PRES should be specifically evaluated on the MRI review.
 
-### 4.3 Incidental/Nonspecific White Matter Lesions
+### 4.3 Cranial Nerve Root Entry Zones (Obersteiner-Redlich Zone) — Key Differential
+
+**This is the most important differential for small spots near the brainstem.** The Obersteiner-Redlich zone is the 1–4 mm transition where peripheral myelin (Schwann cells) meets central myelin (oligodendrocytes) at each cranial nerve root entry point.
+
+**Key evidence:**
+
+- **Zuccoli et al. 2011** (PMID 21292802): Cranial nerve enhancement in **83% of GBS patients** on brain MRI. Most commonly CN III and CN VI, followed by CN V, VII, XI, XII. This is **normal GBS**, not a sign of CNS disease.
+
+- **Berciano 2011** (PMID 21903912): Cranial nerves in their subarachnoid/cisternal segments lack epi-perineurium — the same blood-nerve barrier vulnerability as cauda equina roots. Enhancement at these sites is the **same mechanism** as the classic cauda equina enhancement in GBS.
+
+- **Xin et al. 2025** (PMID 40536593, *Acta Neuropathologica*): CCR2+ immune cells accumulate **specifically at the Obersteiner-Redlich transition zone** in autoimmune demyelinating diseases, following CSF-accessible pathways. Enhancement at root entry zones is therefore *expected* in GBS.
+
+- **Maier et al. 1997** (PMID 9126057, autopsy study, 13 patients): CNS inflammatory infiltrates found in spinal cord (8/13), medulla (8/12), pons (5/9) — but **NO primary CNS demyelination**. The CNS changes are secondary (microglial activation, Wallerian-type degeneration). *[Now available as fulltext]*
+
+**Clinical implication:** If the MRI spots in this patient are located **at or near cranial nerve entry zones** in the brainstem, they most likely represent GBS inflammation extending to the transition zone — **not** a separate CNS disease. Steroids would NOT be indicated.
+
+**How to distinguish from ADEM/BBE:**
+- **Cranial nerve entry zone:** Small, at specific nerve root entry points, enhancing on T1+Gd, not in brain parenchyma
+- **BBE:** Central brainstem parenchymal T2 hyperintensity (midbrain > pons), may enhance
+- **ADEM:** Multiple, widespread, bilateral, ill-defined lesions in white matter, not restricted to nerve entry zones
+
+> See [Section 14 MRI images](#14-mri-reference-images) for visual comparison.
+
+### 4.4 Incidental/Nonspecific White Matter Lesions
 
 In a 52-year-old woman with multiple autoimmune conditions, **small nonspecific white matter lesions are common** and may reflect:
 

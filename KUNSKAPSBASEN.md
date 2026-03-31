@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~690 peer-reviewed referenser | 19 forskningsdokument | 295 fulltexter tillgängliga | 34 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~690 peer-reviewed referenser | 19 forskningsdokument | 309 fulltexter tillgängliga | 34 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -198,7 +198,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 
 ## Källbibliotek — verifierade fulltexter
 
-295 fulltexter tillgängliga (58 PDF + 194 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 34 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+309 fulltexter tillgängliga (65 PDF + 201 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 34 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 

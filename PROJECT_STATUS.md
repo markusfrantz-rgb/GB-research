@@ -43,7 +43,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
 | RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1245 chunks |
-| Fulltext-källor | Live | 295 fulltexter (58 PDF + 194 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 34 MR-referensbilder |
+| Fulltext-källor | Live | 309 fulltexter (65 PDF + 201 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 34 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
