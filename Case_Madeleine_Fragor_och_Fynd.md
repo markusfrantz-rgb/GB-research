@@ -53,24 +53,29 @@ status: active
 | 2026-03-29 | **EEG:** Visar nedsovd patient. Svart att skilja sedering fran neurologiskt tillstand — teamet bedomer sederingsnivan som adekvat. Sedering okad nagot. |
 | 2026-03-29 | **Lakarsamtal (Oskar, helg-IVA):** Gabapentin redan insatt. Magen monitoreras — laxering forsta steget. Kortison overavags villkorat av LP-resultat. |
 | 2026-03-30 | **Vikt (lakarbekraftad):** Viktuppgang **5 kg pa 6–7 dygn** (56→~61 kg, +8,9%). Overstiger den kritiska 5%-troskeln (OR 2,38 for IVA-mortalitet, Chittawatanarat 2015). Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md). |
+| 2026-03-30 | **LP genomford.** Resultat: **forhojt albumin, normalt celltal** (albuminocytologisk dissociation) — klassiskt GBS-fynd, starker diagnosen. Inga tecken pa infektion eller inflammation i CNS. |
+| 2026-03-30 | **Neurolog Daniel** (ny kontakt, bekraftad kunnig): Beskriver detta som en ovanligt kraftig GBS. Betonar att de haft flera svara fall med 3–4 manaders ventilatorvard som aterhamtat sig. |
+| 2026-03-31 | **MR-genomgang** planerad: neurolog Daniel + rontgenlakare ska gora ordentlig genomgang av MR-fyndet. Kortisonbeslut avvaktar denna genomgang. |
+| 2026-03-31 | **Klinisk forbattring:** Puls 84–85 (forsta gang <90, ned fran ihallande >100). BT stabilare, **noradrenalin utsatt** (hemodynamiskt stabil utan vasopressor). Magen igang (laxering fungerar). Patienten verkar mer tillfreds. Vatskeaterstallning pagar metodiskt (mal −500 ml igar, uppnatts). |
 
-### Nuvarande status (2026-03-30)
+### Nuvarande status (2026-03-31)
 
 - **Respirator:** Ja, beroende. Ventilering 4,5.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 5 post-trakeostomi)
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 6 post-trakeostomi)
 - **Medvetande:** Nedsovd. EEG visar sedering — svart att skilja fran neurologiskt tillstand. Sederingsnivan bedoms adekvat.
-- **Neurologisk bedomning:** Oforandrad fran 2026-03-26 — minimala/inga reaktioner.
-- **Autonom dysfunktion:** Kvarstar — BT labilt (overvagande hogt senaste dagarna, 2026-03-29 fm 142/50). Puls ihallande >100 (senaste dagar), 97 vid matning 2026-03-29 fm. Anisokori.
+- **Neurologisk bedomning:** Oforandrad fran 2026-03-26 — minimala/inga reaktioner. Neurolog Daniel beskriver det som en ovanligt kraftig GBS.
+- **Autonom dysfunktion:** Forbattrad — BT **stabilare** (2026-03-31), puls **84–85** (ned fran ihallande >100). **Noradrenalin utsatt.** Anisokori.
 - **Infektion:** Utlakt, antibiotika har fungerat.
 - **Temp:** 37,7°C (2026-03-29)
-- **Vikt (2026-03-30):** ~61 kg — **viktuppgang 5 kg pa 6–7 dygn (+8,9%)**. Overstiger kritiska 5%-troskeln for IVA-mortalitet (OR 2,38) och reintubation (OR 2,51). Vatskemalet: negativ balans −500 till −1000 ml/dygn (insatt 2026-03-29). Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
+- **Vikt/vatska:** Viktuppgang 5 kg pa 6–7 dygn (+8,9%, 2026-03-30). Vatskeaterstallning pagar: mal −500 ml/dygn, **uppnatt 2026-03-30**. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
 - **Behandling given:** Alla 5 PE-sessioner slutforda (PE5 genomford 2026-03-27 lunch).
 - **Medicinering (2026-03-29):** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smartlindring), **gabapentin** (neuropatisk smarta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn).
+- **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen. Inga tecken pa CNS-infektion eller inflammation.
 - **Lab (2026-03-27):** fT3: **normalt**. TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
-- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna (2026-03-28): litet fynd — LP planeras for att avgora kortison.
-- **Anti-IgA-antikroppar:** Annu ej bestallt (fraga neurolog).
-- **NCS/EMG:** Annu ej utford (fraga neurolog).
-- **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Avvaktar LP-resultat.
+- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna (2026-03-28): litet fynd — neurolog + rontgenlakare genomgar MR 2026-03-31. Kortisonbeslut avvaktar.
+- **Anti-IgA-antikroppar:** Annu ej bestallt (fraga neurolog Daniel).
+- **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
+- **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Avvaktar MR-genomgang och kortisonbeslut.
 
 ---
 

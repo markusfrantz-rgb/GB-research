@@ -62,7 +62,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-03-30)
+### Aktuellt förlopp (2026-03-21 → 2026-03-31)
 
 | Datum | Händelse |
 |-------|---------|
@@ -86,6 +86,10 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-29 (fm) | BT 142/50, puls 97 (<100 för första gången). SpO2 96%. Temp 37,7°C. Viktuppgång 56→60 kg. Vätskemål: negativ balans −500 till −1000 ml/dygn. |
 | 2026-03-29 | MR-svar: litet fynd — LP planeras. EEG: patient nedsövd. Gabapentin insatt. Sedering ökad. |
 | 2026-03-30 | **Vikt (läkarbekräftad): 5 kg uppgång på 6–7 dygn (56→~61 kg, +8,9%)**. Nytt forskningsdokument: Fluid Management GBS ICU Protocol. |
+| 2026-03-30 | **LP genomförd:** Förhöjt albumin, normalt celltal (albuminocytologisk dissociation) — bekräftar GBS. Inga tecken på CNS-infektion/inflammation. |
+| 2026-03-30 | **Neurolog Daniel** (ny kontakt): Ovanligt kraftig GBS. Betonar att flera svåra fall med 3–4 mån ventilator har återhämtat sig. |
+| 2026-03-31 | MR-genomgång planerad: neurolog Daniel + röntgenläkare. Kortisonbeslut avvaktar. |
+| 2026-03-31 | **Klinisk förbättring:** Puls 84–85, BT stabilare, noradrenalin utsatt, magen igång. Vätskemål −500 ml uppnått. Patient tillfreds. |
 
 ### Kommunikation
 

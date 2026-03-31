@@ -53,7 +53,9 @@ status: active
 | 2026-03-29 | **MR-svar:** Litet fynd på MR hjärna — ryggmärgsprov (LP) planeras för att avgöra om kortison ska ges. |
 | 2026-03-29 | **EEG:** Visar att patienten är nedsövd. Svårt att skilja sedering från neurologiskt tillstånd, men teamet bedömer sederingsnivån som adekvat. Sedering ökad något. |
 | 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), **gabapentin** (neuropatisk smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). |
-| 2026-03-30 | **Vikt (läkarbekräftad):** Viktuppgång **5 kg på 6–7 dygn** (56→~61 kg, +8,9%). Överstiger kritiska 5%-tröskeln. Vätskemål −500 till −1000 ml/dygn pågår. |
+| 2026-03-30 | **Vikt (läkarbekräftad):** Viktuppgång **5 kg på 6–7 dygn** (56→~61 kg, +8,9%). Vätskemål −500 till −1000 ml/dygn pågår. |
+| 2026-03-30 | **LP genomförd:** Förhöjt albumin, normalt celltal (**albuminocytologisk dissociation** — bekräftar GBS). Inga tecken på CNS-infektion eller inflammation. Neurolog Daniel: ovanligt kraftig GBS, men flera liknande fall har återhämtat sig efter 3–4 månaders ventilatorvård. |
+| 2026-03-31 | MR-genomgång: neurolog + röntgenläkare. Kortisonbeslut avvaktar. **Klinisk förbättring:** puls 84–85, BT stabilare, noradrenalin utsatt, magen igång, vätskemål uppnått, patient tillfreds. |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
