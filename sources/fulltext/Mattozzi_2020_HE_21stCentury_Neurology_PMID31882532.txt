@@ -1,0 +1,686 @@
+Citation: Mattozzi S, Sabater L, Escudero D, et al. Hashimoto encephalopathy in the 21st century. Neurology. 2020;94(2):e217-e224. PMID: 31882532
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+ARTICLE
+Hashimoto encephalopathy in the 21st century
+Simone Mattozzi, MD, Lidia Sabater, PhD, Domingo Escudero, MD, PhD, Helena Ariño, MD, PhD,
+Thais Armangue, MD, PhD, Mateus Simabukuro, MD, Takahiro Iizuka, MD, Makoto Hara, MD,Albert Saiz, MD, PhD, Stefano Sotgiu, MD, Josep Dalmau, MD, PhD, and Francesc Graus, MD, PhD
+Neurology ®2020;94:e217-e224. doi:10.1212/WNL.0000000000008785CorrespondenceDr. Grausfrancesc.graus@idibaps.org
+Abstract
+Objective
+To report the presenting syndromes and to determine whether pretreatment criteria ofHashimoto encephalopathy (HE) predict response to steroids.
+Methods
+We assessed symptoms and steroid responsiveness in 24 patients with pretreatment criteria of
+HE, including (1) subacute onset of cognitive impairment, psychiatric symptoms, or seizures;
+(2) euthyroid status or mild hypothyroidism; (3) serum thyroid peroxidase antibodies(TPOAb) >200 IU/mL; (4) absent neuronal antibodies in serum/CSF; and (5) no other
+etiologies. Additional studies included determination of TPOAb (>200 IU/mL) in 74 patients
+with criteria of possible autoimmune encephalitis (AE) without neuronal antibodies and 205patients with di ﬀerent neuroimmunologic diseases, psychosis, or new-onset refractory status
+epilepticus (NORSE). Serum antibodies to the amino ( ΝΗ2)-terminal of α-enolase (NH2-
+α-enolaseAb) were examined in the indicated 24 patients and 13 controls.
+Results
+The 24 patients (14 women) with suspected HE had a median age of 48 years (range 8 –79
+years). Four syndromes were identi ﬁed: psychiatric (7, 29%), encephalopathy (7, 29%),
+NORSE-like (6, 25%), and limbic encephalitis (4, 17%). Only 6 of 19 (31.6%) patients
+completely responded to steroids. The frequency of TPOAb in the 74 patients with possible AE(6 of 74, 8.1%) was similar to that of the 205 controls (17 of 205, 8.2%; p= 0.84). NH2-
+α-enolaseAb were identi ﬁed in 1 of 24 suspected HE cases and 1 of 13 controls.
+Conclusion
+Current pretreatment criteria of HE do not predict steroid responsiveness. The detection of
+TPOAb across all control groups reveals their poor disease-speci ﬁcity. NH2- α-enolaseAb did
+not help in the diagnosis of HE. These ﬁndings imply a rede ﬁnition of HE that requires
+a systematic exclusion of antibody-mediated encephalitis.RELATED ARTICLE
+Editorial
+The neuromythology
+of Hashimotoencephalopathy: Theemperor has no clothes
+Page 55
+MORE ONLINE
+Podcast
+Dr. Stacey Clardy talks with
+Dr. Francesc Graus and
+Dr. Josep Dalmau abouttheir paper on Hashimotoencephalopathy in the21st century.
+NPub.org/w0glpg
+From the Neuroimmunology Program (S.M., L.S., H.A., T.A., A.S., J.D., F.G.), Institut d ’Investigaci ´o Biom `edica August Pi i Sunyer, Barcelona, Spain; Department of Medical, Surgical and
+Experimental Medicine (S.M., S.S.), University of Sassari, Italy; Service of Neurology (D.E., A.S.), Hospital Clinic, and Pediatric Neuroimmunol ogy Unit (T.A.), Neurology Department, Sant
+Joan de D ´eu Children ’s Hospital, University of Barcelona, Spain; Neurology Division (M.S.), Hospital das Cl ´ınicas, São Paulo University, Brazil; Department of Neurology (T.I.), Kitasato
+University School of Medicine, Sagamihara; Division of Neurology (M.H.), Department of Medicine, Nihon University School of Medicine, Tokyo, Japa n; Department of Neurology (J.D.),
+University of Pennsylvania, Philadelphia; and Instituci ´o Catalana de Recerca i Estudis Avançats (J.D.), Barcelona, Spain.
+Go to Neurology.org/N for full disclosures. Funding information and disclosures deemed relevant by the authors, if any, are provided at the end of the article.
+Copyright © 2019 American Academy of Neurology e217
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 2 ---
+The diagnosis of Hashimoto encephalopathy (HE) is usually
+considered in patients with a wide range of neurologic symp-
+toms accompanied by normal or nonspeci ﬁc MRI and CSF
+ﬁndings, normal thyroid function or mild hypothyroidism, in-
+creased serum levels of thyroid peroxidase antibodies
+(TPOAb), and clinical response to steroids.1The bene ﬁcial
+eﬀect of steroids was emphasized by renaming the disease
+steroid-responsive encephalopathy associated with autoim-
+mune thyroiditis.2The most frequent presentation includes
+subacute cognitive deterioration, sometimes with stroke-like
+symptoms, myoclonus, change in behavior, or seizures.3Less
+frequently, the term HE is used to designate patients withisolated cerebellar ataxia, psychosis, or status epilepticus.
+4–6
+Prompt recognition of HE is important because, although the
+pathogenesis is unknown, the disorder is treatable. However,the diagnosis of HE has several important limitations. One is
+that there are no speci ﬁc biomarkers of the disease. For ex-
+ample, 13% of healthy persons harbor TPOAb; therefore, thespeciﬁcity of these antibodies is poor.
+7Moreover, the signi ﬁ-
+cance of antibodies against the amino (NH2)- terminal of
+α-enolase (considered a potential biomarker of HE) is
+unclear.8,9Another limitation is that the diagnostic con ﬁrma-
+tion depends on steroid responsiveness. Consequently, the
+frequency of TPOAb-associated syndromes that are identical to
+HE presentations but unresponsive to steroids is unknown.
+Finally, most patients previously reported with HE were notsystematically investigated for neuronal surface antibodies.
+10
+This is a critical confounding factor because HE was describedmany years before the encephalitides associated with neuronalsurface antibodies that, in contrast to TPOAb, are pathogenic,
+are more disease speci ﬁc, and occur with steroid-responsive
+syndromes.
+11,12Here, we report the main neurologic syn-
+dromes and response to steroids in a series of 24 patients with
+pretreatment clinical criteria of HE.
+Methods
+Patients
+We retrospectively selected 117 patients from our database
+whose serum and CSF samples were referred for neural anti-
+body studies between January 1, 2011, and November 31, 2018.Forty-three patients were selected because the referring neu-
+rologists considered HE the most probable diagnosis and our
+preliminary studies did not identify antineuronal antibodies inserum or CSF. In addition, we randomly selected 74 patients
+whose serum and CSF were negative for neural antibodies but
+who had criteria of possible autoimmune encephalitis (AE) aspreviously described: (1) subacute onset, <3 months, of
+memory de ﬁcits or altered mental status; (2) at least 1 of the
+following features: new focal CNS ﬁndings, seizures, CSFpleocytosis, or MRI features suggesting encephalitis; and (3)
+exclusion of other etiologies.
+12TPOAb were measured in all
+117 patients, leading to the identi ﬁcation of 24 with high serum
+levels of TPOAb (>200 IU/mL) who were further evaluated
+because they ful ﬁlled the following criteria of possible HE before
+treatment with steroids (slightly modi ﬁed from reference 2):
+(1) subacute onset of cognitive impairment, psychiatric symp-
+toms, or seizures; (2) euthyroid status or mild clinical or sub-
+clinical hypothyroidism; (3) high serum TPOAb >200 IU/mL;(4) absent neuronal antibodies in serum and CSF; and (5) no
+evidence of infectious, toxic, metabolic, vascular, or tumoral
+causes that could explain the symptoms ( ﬁgure 1). Referring
+neurologists of patients who ful ﬁlled these criteria were con-
+tacted for additional clinical information.
+As controls, we included 205 patients with known diseases: 48
+with AE associated with NMDAR, LGI1, CASPR2, or
+GABAaR antibodies and matched for age and sex with the 24patients with suspected HE, 49 with neuromyelitis optica
+spectrum disorder and AQP4 antibodies, 50 with multiple
+sclerosis, 42 with a ﬁrst psychotic episode, and 16 with cryp-
+togenic new onset refractory status epilepticus (NORSE).
+Similar to the indicated 117 patients who ful ﬁlled the criteria of
+possible AE or were suspected to have HE, these 205 control
+patients were tested for TPOAb as part of the current study.
+Immunologic studies
+Serum TPOAb were determined by chemiluminescent direct
+immunoassay with the ADVIA Centaur automated analyzer(Siemens Healthineers, Tarrytown, NY) according to the
+manufacturer ’s instructions (normal <28 IU/mL). All serum
+and CSF samples from the 24 patients with elevated TPOAbwere examined for the presence of onconeural (Hu, Yo, Ri,
+CRMP5, amphiphysin, Ma2, Tr), GAD, AK5, and neuropil
+antibodies (NMDAR, AMPAR, GABA
+BR, neurexin 3 α,
+IgLON5, CASPR2, LGI1, DPPX, AQP4, mGluR1, and
+mGluR5) with immunohistochemistry on frozen sections of
+paraformaldehyde-perfused or post ﬁxed rat brain as reported
+elsewhere.13,14Samples showing tissue immunoreactivity were
+further examined with immunoblot (Euroimmun, L¨ ubeck,
+Germany) or cell-based assays using HEK293 cells transfectedwith the appropriate plasmids.
+15All samples were examined for
+GlyR, MOG, dopamine 2R, and GFAP antibodies by cell-based
+assays as reported previously.16,17
+Rat hippocampal neuronal cultures were prepared as repor-ted.
+18Fourteen-day-live neurons grown on coverslips were
+treated for 1 hour at 37°C with patients ’or control serum
+(ﬁnal dilution 1:200) or CSF (1:5). After removal of the
+media and extensive washing with PBS, neurons were ﬁxedGlossary
+AE= autoimmune encephalitis; HE= Hashimoto encephalopathy; IVIG = IV immunoglobulin; LE= limbic encephalitis;
+NORSE = new-onset refractory status epilepticus; TPOAb = thyroid peroxidase antibodies.
+e218 Neurology | Volume 94, Number 2 | January 14, 2020 Neurology.org/N
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 3 ---
+with 4% PFA and incubated with anti-human immunoglob-
+ulin G (diluted 1:1000) Alexa Fluor secondary antibody(Molecular Probes, Eugene, OR). Results were photographed
+under a ﬂuorescence microscope with Zeiss Axiovision soft-
+ware (Zeiss, Thornwood, NY).
+19
+Antibodies against α-enolase were detected by immunoblot of
+HEK293 cells transfected with the antigen.9Brieﬂy, the human
+full-length α-enolase-1 plasmid (RC205494; Origene, Rock-
+ville, MD) or the amino (NH2)-terminal region of α-enolase-1
+(generated by Dr. Carolis, Centre for Genomic Regulation,Barcelona, Spain; Uniprot accession number P06733; amino
+acids 1 –157) was transfected to HEK293 cells. A lysate of
+transfected HEK293 cells was run (10 μg/well) in a 4% to 12%
+BisTris electrophoresis gel (NP03222 NuPage; Thermo Fisher
+Scienti ﬁc, Waltham, MA) and transferred into a nitrocellulose
+membrane (1704158; Bio-Rad, Hercules, CA). Strips weresequentially incubated with commercial anti –α-enolase rabbit
+antibody (1:1000; Abcam, Cambridge, UK) or sera of the
+patients (1:500) overnight, secondary peroxidase-conjugatedantibodies against human (1:1000) (Jackson Inmunoresearch,
+West Grove, PA), or rabbit immunoglobulin G (1:1000)
+(NA934V; GE HealthCare, Buckinghamshire, UK) for 1 hourand read by chemiluminiscence with an ImageQuant LAS 4000
+imager (GE Healthcare).
+Standard protocol approvals, registrations,
+and patient consentsThe Ethics Committees of the Hospital Clinic and University
+of Pennsylvania approved the study. All patients or proxies
+gave written informed consent for the storage and use ofserum, CSF, and clinical information for research purposes.
+Serum and CSF samples were deposited in the collection ofbiological samples called Neuroinmunolog´ ıa registered in the
+biobank of Institut d ’Investigaci´ o Biom` edica August Pi i
+Sunyer, Barcelona, Spain.
+Statistics
+We used the Fisher exact test or Pearson χ
+2, as appropriate, to
+analyze the demographic and clinical features between the 24
+patients with high serum anti-TPOAb titer and to compare
+the frequency of high TPOAb between patients with possible
+AE and controls. We used Stata version 14.2 (StataCorp,College Station, TX) for the statistical analysis.
+Data availability
+Data from patients reported within the article are available
+and will be shared anonymously by request from any quali ﬁed
+investigator.
+Results
+Twenty-four patients were found to have TPOAb >200 IU/mL;
+these included 18 from the group of 43 patients previously
+suspected to have HE and 6 of 74 with possible AE (not pre-viously suspected HE) ( ﬁgure 1). The frequency of high TPOAb
+(6 of 74, 8.1%) in the latter group was similar to that of the
+control groups (17 of 205, 8.2%; p= 0.84) ( ﬁgure 2). These
+ﬁndings did not change if, instead of high-titer TPOAb (>200
+IU/mL), we used a clinical laboratory cuto ﬀthreshold for pos-
+itivity (28 IU/mL) or >1,000 IU/mL (data not shown).Figure 1 Flowchart identifying the 24 patients with suspected HE
+HE = Hashimoto encephalopathy; TPOAb = thyroid peroxidase antibodies.
+Neurology.org/N Neurology | Volume 94, Number 2 | January 14, 2020 e219
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 4 ---
+Overall, the 24 patients (14 women) with high TPOAb had
+a median age of 48 years (range 8 –79 years). All ful ﬁlled the
+indicated criteria of HE (methods). Comorbid conditions
+were found in 4 of 24 patients, including vitiligo, skin andbladder cancer, and hypernephroma. Mild clinical or sub-
+clinical hypothyroidism was detected in 6 of 22 (27%)
+patients (no serum was available from 2 patients to repeatthyroid function tests). Immunologic studies con ﬁrmed the
+absence of neuronal or glial antibodies, and none had novel
+antibody reactivity with cultured live neurons. Antibodiesagainst full-length α-enolase were identi ﬁed in 3 of 24 patients
+with suspected HE, and one of those patients also reacted to
+the NH2-terminal domain. Antibodies against the NH2-
+terminal domain were also identi ﬁed in 1 of 13 patients with
+other encephalitis and known antibodies against neuronal
+surface antigens used as the group control ( ﬁgure 3).
+In these 24 patients, the median duration of symptoms was
+19 days (range 1 –89 days). Four di ﬀerent clinical syndromes
+were identi ﬁed (table). Seven patients, median age of 40Figure 2 Frequency of high serum TPOAb levels (>200 IU/mL) was similar in patients with AE without neuronal antibodies
+and control groups
+AE = autoimmune encephalitis; c-NORSE = cryptogenic new-
+onset refractory status epilepticus; NMOSD = neuromyelitis
+optic spectrum disorder; TPOAb = thyroid peroxidase
+antibodies.
+Figure 3 Detection of α-enolase antibodies
+Detection of α-enolase antibodies
+by immunoblot of HEK293 cells
+transfected with the full-length
+α-enolase (top) or the amino
+(NH2)-terminal protein fragment(bottom). From left to right, strips
+incubated by the commercial anti-
+body against α-enolase (C), sera
+from patients with Hashimoto en-
+cephalopathy (1 –12), normal hu-
+man serum (13), and serum from
+a patient with anti-LGI1 encephali-
+tis (14). Sera 1 through 3 and 14
+immunoreact with the full-length
+α-enolase; sera 1 (weak reactivity)
+and 14 also immunoreact with the
+NH2-terminal protein fragment.Molecular weight is indicated by
+arrows. Note that alternative
+splicing of full-length α-enolase
+gene produces 2 different proteins
+that are recognized by the com-mercial antibody and the positive
+samples.
+31
+e220 Neurology | Volume 94, Number 2 | January 14, 2020 Neurology.org/N
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 5 ---
+years (range 8 –71 years), 6 female, presented with a pre-
+dominant psychiatric syndrome. Six of them were admitted
+to psychiatric wards for rapidly evolving psychotic features,
+including delusions, behavioral changes, and visual (3patients) or auditory (2 patients) hallucinations. Two of
+these 6 patients had a history of chronic psychosis treated
+with antipsychotic medication. The remaining patient wasadmitted for an acute episode of tics, obsessive-compulsive
+behavior, and myoclonic jerks. None of these 7 patients had
+a decreased level of consciousness, aphasia, short-termmemory loss, or focal neurologic de ﬁcits. Brain MRI and
+CSF studies were normal. Treatment and outcome in-
+formation was available for 5 patients who were treated withcorticosteroids alone or in association with IV immunoglo-
+bulins (IVIGs) (1 patient). Three of them responded well to
+these treatments and were asymptomatic at the last visit; 1patient did not respond to the steroid therapy but com-
+pletely recovered with the antipsychotic therapy.
+Seven patients, median age of 70 years (range 35 –79 years),
+3 female, presented with symptoms of encephalopathy.
+Three patients had subacute (in weeks) cognitive impair-ment with rigidity and myoclonus; another 3 patients had an
+acute (days) decrease of the level of consciousness associ-
+ated with orofacial dyskinesias, auditory hallucinations, orseizures. The remaining patient developed a rapidly evolving
+dementia (months) with repetitive episodes of confusion
+and abnormal behavior that lasted 4 to 6 hours. Brain MRI
+was normal in 6 patients and showed a unilateral hyperin-tense lesion in the left hippocampus in 1 patient. CSF
+analysis showed mild pleocytosis in only 1 patient, and EEG
+disclosed generalized or focal slow rhythmic activity in allpatients. On the basis of clinical and ancillary tests results,
+only the patient with pleocytosis and abnormal MRI ful ﬁlled
+t h ec r i t e r i ao fp r o b a b l es e r o n e g a t i v eA E .
+12Two patients had
+a clinical relapse. Follow-up was available for 6 patients; 4
+received steroids, and only 1 made a complete recovery. Of
+the remaining 2 patients, 1 patient was treated with anti-psychotics and antiepileptics (without immunotherapy)
+with partial recovery, and 1 treated with IVIG had transient
+improvement followed by unresponsive catatonic-likefeatures.
+Six patients, median age of 24 years (range 11 –53 years), 3
+female, presented with NORSE. In 2 patients, the brain MRI
+obtained several days after b eing in status epilepticus
+showed increased T2 ﬂuid-attenuated inversion recovery
+signal abnormalities in medial temporal lobes that were
+attributed to the seizures
+20; in the other 4 patients, the MRI
+was normal. CSF showed pleocytosis in 2 patients. AllTable Demographic and clinical description of 24 patients with a diagnosis of HE
+Clinical syndrome Psychiatric (n = 7) Possible AE (n = 7) NORSE (n = 6) LE (n = 4)
+Median age
+(range), y, No.female40 (8 –71), 6 F 70 (35 –79), 3 F 24 (11 –53), 3 F 51 (28 –61), 2 F
+Main clinical
+features at
+presentation (n)Acute episode of psychosis (6) with
+visual (3) or auditory hallucinations (2); 2
+patients with chronic history of
+psychiatric disorder
+Acute episode of tics, obsessive-compulsive behaviour, and myoclonic
+jerks (1)Subacute (in weeks) cognitive
+impairment (3) with rigidity and
+myoclonus
+Acute (days) decreased level of
+consciousness (3) with auditoryhallucinations and seizures
+Cognitive deterioration in
+months with episodes ofconfusion and behavior
+changes lasting 4 –6 h (1)Status epilepticus
+with generalized
+tonic-clonic
+seizuresMemory deficit (4), decreased
+level of consciousness,
+seizures (3), psychosis (2),
+speech deficit (1)
+Brain MRI Normal or nonspecific Normal or nonspecific (6);
+hyperintense lesion in left
+hippocampus (1)Increased signal in
+medial temporal
+lobes (2)Increased signal in medial
+temporal lobes
+EEG Generalized slowing (2), spike-wave
+complex (1)Generalized or focal slowing Continuous
+generalized
+epileptic activityGeneralized slowing
+CSF pleocytosis, n 01 2 3
+Treatment with
+steroids, n54 6 4
+Relapses, n 02 3 3
+Complete
+recovery after
+treatment with
+steroids, n3
+a12 0
+Abbreviations: AE = autoimmune encephalitis; HE = Hashimoto encephalopathy; LE = limbic encephalitis; NORSE = new onset refractory status epilepti cus.
+aOne additional patient did not respond to steroids but completely recovered with antipsychotic medication.
+Neurology.org/N Neurology | Volume 94, Number 2 | January 14, 2020 e221
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 6 ---
+patients received multiple antiepileptic drugs and were ad-
+ditionally treated with corticosteroids; 3 patients had
+relapses. At the last follow-up, only 2 of the 6 patients had
+complete recovery.
+Four patients, median age 51 years (range 28 –61 years), ful-
+ﬁlled the criteria of limbic encephalitis (LE).12They pre-
+sented with subacute onset of memory de ﬁcits associated with
+decreased level of consciousness (3 patients), seizures (3),
+and behavioral changes (2). MRI studies of all 4 patientsshowed bilateral T2 ﬂuid-attenuated inversion recovery hy-
+perintense abnormalities in the amygdala and hippocampus
+(ﬁgure 4). Three patients had CSF pleocytosis. All patients
+were treated with steroids in addition to other therapies
+(antiepileptics, acyclovir, cyclophosphamide, IVIG, plasma
+exchange, or tacrolimus). All patients partially improved; 3had relapses; but none had a complete recovery at the last visit
+(median follow-up 17 months, range 12 –22 months).
+Considering the entire series of 24 patients, information on
+response to therapy and outcome was missing in 3 patients (2
+with isolated psychosis and 1 with encephalopathy). At thelast follow-up, only 6 of 19 (31.6%) patients who received
+steroids had complete recovery. Eight additional patients
+improved but did not return to their premorbid status, and theremaining 5 did not improve. The steroid treatment delay
+from symptom onset was >1 month for 3 of the 5 patients
+who did not improve and <1 month for 13 of 14 patients whohad partial or complete recovery ( p= 0.04).
+Discussion
+In this study, we show that only 31% of patients with sus-
+pected HE showed complete clinical response to steroids.
+These patients were otherwise similar to those who did notrespond to steroids; therefore, it is impossible to distinguish
+them before treatment. In previous studies using similar cri-
+teria, only 20 of 36 (56%) and 4 of 11 (36%) patients withsuspected HE responded to steroids.
+2,21Taken together,
+these data indicate that there are no good predictors of
+treatment response, and current criteria of HE are unable todiscriminate between this disorder (which by de ﬁnition
+responds to corticosteroids) and other conditions. For ex-
+ample, a previous study showed that among 12 patients whofailed to respond to steroids, 4 had at autopsy ﬁndings of prion
+or neurodegenerative diseases.
+2
+HE is usually suspected in adult patients, predominantlywomen, with subacute or ﬂuctuating cognitive impairment,
+behavioral change, and decreased level of consciousness.
+22,23
+This clinical presentation occurred in 11 (46%) of our
+patients, and 4 of them ful ﬁlled the criteria of LE. The asso-
+ciation of high serum TPOAb with LE without neuronalantibodies was ﬁrst described in 3 children and later in 14
+adult patients.
+24,25Together with our 4 cases (n = 21), the
+frequency (52%) of female sex was lower than that in patientswith HE without criteria of LE; relapses occurred in 48%; and
+despite treatment with steroids and other immunotherapies,only 33% achieved complete recovery, which is similar to the
+outcome reported in seronegative LE (negative for both
+neuronal antibodies and TPOAb).
+26
+In the current series, we identi ﬁed 7 (29%) patients who pre-
+sented with isolated psychiatric syndromes and 6 (25%) witha clinical picture resembling NORSE (table). Whether these 2
+clinical presentations should be considered within the clinical
+spectrum of HE is a matter of debate. In a review of 251patients with HE who responded to steroids, 10% presented
+with isolated psychiatric symptoms. However, most of these
+251 patients ( ≈80%) were not tested for neuronal surface
+antibodies, and therefore, the diagnosis of HE is
+questionable.
+10,27Our patients with isolated psychiatric pre-
+sentation were remarkable because none developed neurologicsymptoms, and in 4, the EEG was normal. We acknowledge
+that without cognitive decline or decreased level of con-
+sciousness, which are required by some criteria of HE,
+2,22de-
+tection of TPOAb is not su ﬃcient for the diagnosis of this
+disorder or the initiation of steroids. The ﬁndings, however,
+point to important caveats and pitfalls in the diagnosis of HE.Moreover, the assessment of steroid treatment in these patients
+is complicated by the concomitant use of antipsychotic therapy,
+which can also contribute to clinical improvement.
+Similar considerations are applicable to patients who present
+with status epilepticus and clinical features of NORSE. StatusFigure 4 Fluid-attenuated inversion recovery MRI
+Fluid-attenuated inversion recovery MRI showing high signal intensity in
+both hippocampi compatible with the diagnosis of limbic encephalitis.
+e222 Neurology | Volume 94, Number 2 | January 14, 2020 Neurology.org/N
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 7 ---
+epilepticus has been reported in 12% of patients with HE but
+almost always in association with other neurologic de ﬁcits.22
+Predictive models of response to immunotherapy in epilepsy
+suggest that patients with isolated epilepsy without clinical,MRI, and CSF features of encephalitis who are negative for
+neuronal surface antibodies are unlikely to respond to treat-
+ment.
+28In this scenario, the detection of serum TPOAb, as
+the only abnormal ﬁnding, is associated with a similar low
+probability of response to steroids.
+We found that all control groups used in the study (neuronal
+antibody –positive AE, multiple sclerosis, neuromyelitis optic
+spectrum disorder, among others) had a similar proportion ofpatients with high serum levels TPOAb. This occurred despite
+the use of a threshold of TPOAb positivity that was 10 times
+higher than that used in clinical laboratories, raising concern forconsidering TPOAb as reliable biomarkers of HE, particularly
+in patients with encephalopathy of unknown etiology and
+negative neuronal antibodies. Indeed, the encephalopathycurrently considered HE might very well represent not 1 single
+entity but a heterogeneous group of disorders with several yet
+unknown pathogenic mechanisms. For example, it is poten-tially plausible that the high serum levels of TPOAb re ﬂect
+a subclinical autoimmune thyroiditis and that the associated
+neurologic syndrome is due to a completely unrelated etiology.
+Antibodies against the amino (NH2)-terminal domain of
+α-enolase have been proposed as more reliable markers of HE.
+However, these antibodies have been described in only a few
+reports, showing that 17 of 25 (68%) patients with HE were
+positive compared with 2 of 17 (12%) patients with thyroiditis
+and 0 of 25 (0%) controls.
+8,9Moreover, these antibodies were
+identi ﬁed in a patient with Creutzfeldt-Jakob disease and in
+patients with LE and neuronal antibodies, casting doubt on
+the HE speci ﬁcity.25,29Our experience in the current study
+indicates that NH2- α-enolase antibodies are not reliable bio-
+markers of HE.
+After the application of the most frequently used criteria of HE
+and exclusion of alternative etiologies (e.g., neuronal surface
+antibodies), the ﬁndings of our study challenge the concept of
+HE. All pretreatment features usually considered in this dis-order (encephalopathy, elevated levels of TPOAb, nonspeci ﬁc
+MRI, EEG, or CSF ﬁndings) are not speci ﬁc and do not help to
+predict whether patients will respond to steroids. The indicatedclinical features of those who respond to steroids are similar to
+those of individuals who do not. For example, in patients with
+LE and TPOAb, the chance of steroid responsiveness is similarto that of patients without TPOAb. Considering the poor
+disease speci ﬁcity of TPOAb, it is inaccurate to consider that
+patients with isolated epilepsy or cerebellar symptoms in as-sociation with these antibodies have HE; for these syndromes,
+other predictive models are better for assessing the potential
+response to immunotherapy.
+28,30
+Future studies in patients with neuronal antibody-negativeencephalopathies but with TPOAb should focus ondetermining more useful clinical and laboratory predictors of
+steroid responsiveness. This is a di ﬃcult task because, without
+a speci ﬁc biomarker, a distinctive syndrome, or characteristic
+neuropathologic ﬁndings, the de ﬁnition of a disease is barely
+sustainable, as shown here for HE.
+Acknowledgment
+The authors thank Drs. Eric Lancaster (University of
+Pennsylvania), Daniela Pohl (Children ’s Hospital of Eastern
+Ontario, Ottawa, Canada), Alejandra Guerrero (Universidad
+CES, Medell´ ın, Colombia), and Renan Perez (Centro M´ edico
+Nacional Siglo XX1, M´ exico DF, M´ exico) for providing useful
+clinical information and Dr. Carlo Carolis and the Bio-
+molecular Screening and Protein Technologies Unit at CRG
+(Centre for Genomic Regulation, Barcelona, Spain) forproviding the plasmid of the NH2 amino-terminal of
+α-enolase.
+Study funding
+This study was supported in part by Fondo de Investigaciones
+Sanitarias, FEDER, Spain (FIS 15/00377, F.G.; FIS 14/00203, J.D.; FIS 18/00067 L.S.), NIH RO1NS077851 (J.D.),
+Fundaci´ o Cellex (J.D.), and a research grant provided by
+Pratima Naithani for the study of HE.
+Disclosure
+S. Mattozzi, I. Sabater, D. Escudero, H. Ariño, T. Armangue,M. Simabukuro, T. Iizuka, M. Hara, A. Saiz, and S. Sotgiu
+report no disclosures relevant to the manuscript. J. Dalmau
+receives royalties from Athena Diagnostics for the use of Ma2as an autoantibody test and from Euroimmun for the use of
+NMDA, GABAB receptor, GABAA receptor, DPPX, and
+IgLON5 as autoantibody tests. F. Graus received a licensingfee from Euroimmun for the use of IgLON5 as an autoanti-
+body test and honoraria from MedLink Neurology. Go to
+Neurology.org/N for full disclosures.
+Publication history
+Received by Neurology April 29, 2019. Accepted in ﬁnal form
+August 2, 2019.
+Appendix Authors
+Name Location Role Contribution
+Simone
+Mattozzi, MDHospital Cl ´ınic,
+Barcelona, SpainAuthor Design and
+conceptualized study;
+analyzed the data;
+statistical analysis ofdata; drafted the first
+version of the
+manuscript
+Lidia
+Sabater, PhDInstitut
+d’Investigaci ´o
+Biom `edica August Pi
+i Sunyer, Barcelona,
+SpainAuthor Established the assay
+for enolase
+antibodies; analysisand interpretation of
+the data; revised the
+manuscript for
+intellectual content
+Continued
+Neurology.org/N Neurology | Volume 94, Number 2 | January 14, 2020 e223
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026
+
+--- Page 8 ---
+References
+1. Schiess N, Pardo CA. Hashimoto ’s encephalopathy. Ann NY Acad Sci 2008;1142:
+254 –265.
+2. Castillo P, Woodru ﬀB, Caselli R, et al. Steroid-responsive encephalopathy associated
+with autoimmune thyroiditis. Arch Neurol 2006;63:197 –202.
+3. Kothbauer-Margreiter I, Sturzenegger M, Komor J, Baumgartner R, Hess CW. En-
+cephalopathy associated with Hashimoto thyroiditis: diagnosis and treatment.
+J Neurol 1996;243:585 –593.
+4. Matsunaga A, Ikawa M, Fujii A, Nakamoto Y, Kuriyama M, Yoneda M. Hashimoto ’s
+encephalopathy as a treatable adult-onset cerebellar ataxia mimicking spinocerebellar
+degeneration. Eur Neurol 2013;69:14 –20.
+5. Afshari M, Afshari ZS, Schuele SU. Pearls & oy-sters: Hashimoto encephalopathy.
+Neurology 2012;78:e134 –e137.
+6. Mahmud FH, Lteif AN, Renaud DL, Reed AM, Brands CK. Steroid-responsive en-
+cephalopathy associated with Hashimoto ’s thyroiditis in an adolescent with chronic
+hallucinations and depression: case report and review. Pediatrics 2003;112:686 –690.
+7. Hollowell JG, Staehling NW, Flanders WD, et al. Serum TSH, T(4), and thyroid
+antibodies in the United States population (1988 to 1994): National Health andNutrition Examination Survey (NHANES III). J Clin Endocrinol Metab 2002;87:
+489 –499.
+8. Fujii A, Yoneda M, Ito T, et al. Autoantibodies against the amino terminal of alpha-
+enolase are a useful diagnostic marker of Hashimoto ’s encephalopathy. J Neuro-
+immunol 2005;162:130 –136.
+9. Yoneda M, Fujii A, Ito A, Yokoyama H, Nakagawa H, Kuriyama M. High prevalence of
+serum autoantibodies against the amino terminal of alpha-enolase in Hashimoto ’s
+encephalopathy. J Neuroimmunol 2007;185:195 –200.
+10. Laurent C, Capron J, Quillerou B, et al. Steroid-responsive encephalopathy associated
+with autoimmune thyroiditis (SREAT): characteristics, treatment and outcome in 251
+cases from the literature. Autoimmun Rev 2016;15:1129 –1133.
+11. Dalmau J, Graus F. Antibody-mediated encephalitis. N Engl J Med 2018;378:
+840 –851.
+12. Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoimmune
+encephalitis. Lancet Neurol 2016;15:391 –404.
+13. Graus F, Dalmau J, Valldeoriola F, et al. Immunological characterization of a neuronal
+antibody (anti-Tr) associated with paraneoplastic cerebellar degeneration and
+Hodgkin ’s disease. J Neuroimmunol 1997;74:55 –61.
+14. Ances B, Taylor RA, Vitaliani R, et al. Reversible encephalitis and novel antibodies to
+synaptic-enriched regions of the hippocampus: clinical, neuroimaging and immuno-logic correlates. Neurology 2005;63:51 –52.
+15. Dalmau J, Tuzun E, Wu HY, et al. Paraneoplastic anti-N-methyl-D-aspartate receptor
+encephalitis associated with ovarian teratoma. Ann Neurol 2007;61:25 –36.
+16. Martinez-Hernandez E, Arino H, McKeon A, et al. Clinical and immunological
+investigations in 121 patients with sti ﬀ-person spectrum disorder. JAMA Neurol
+2016;73:714 –720.
+17. Armangue T, Sabater L, Torres-Vega E, et al. Clinical and immunological features of
+opsoclonus-myoclonus syndrome in the era of neuronal cell surface antibodies. JAMA
+Neurol 2016;73:417 –424.
+18. Buchhalter JR, Dichter MA. Electrophysiological comparison of pyramidal and stellate
+nonpyramidal neurons in dissociated cell culture of rat hippocampus. Brain Res Bull
+1991;26:333 –338.
+19. Lancaster E, Lai M, Peng X, et al. Antibodies to the GABA(B) receptor in limbic
+encephalitis with seizures: case series and characterisation of the antigen. Lancet
+Neurol 2010;9:67 –76.
+20. Tien RD, Felsberg GJ. The hippocampus in status epilepticus: demonstration of signal
+intensity and morphologic changes with sequential fast spin-echo MR imaging. Ra-
+diology 1995;194:249 –256.
+21. Litmeier S, Pruss H, Witsch E, Witsch J. Initial serum thyroid peroxidase antibodies
+and long-term outcomes in SREAT. Acta Neurol Scand 2016;134:452 –457.
+22. Chong JY, Rowland LP, Utiger RD. Hashimoto encephalopathy: syndrome or myth?
+Arch Neurol 2003;60:164 –171.
+23. Montagna G, Imperiali M, Agazzi P, et al. Hashimoto ’s encephalopathy: a rare pro-
+teiform disorder. Autoimmun Rev 2016;15:466 –476.
+24. Hacohen Y, Joseph S, Kneen R, et al. Limbic encephalitis associated with elevated
+antithyroid antibodies. J Child Neurol 2014;29:769 –773.
+25. Kishitani T, Matsunaga A, Ikawa M, et al. Limbic encephalitis associated with anti-
+NH2-terminal of alpha-enolase antibodies: a clinical subtype of Hashimoto enceph-alopathy. Medicine 2017;96:e6181.
+26. Graus F, Escudero D, Oleaga L, et al. Syndrome and outcome of antibody-negative
+limbic encephalitis. Eur J Neurol 2018;25:1011 –1016.
+27. Kayser MS, Titulaer MJ, Gresa-Arribas N, Dalmau J. Frequency and characteristics of
+isolated psychiatric episodes in anti-N-methyl-d-aspartate receptor encephalitis.
+JAMA Neurol 2013;70:1133 –1139.
+28. Dubey D, Singh J, Britton JW, et al. Predictive models in the diagnosis and treatment
+of autoimmune epilepsy. Epilepsia 2017;58:1181 –1189.
+29. Hayashi Y, Yamada M, Kimura A, et al. Clinical ﬁndings of a probable case of MM2-
+cortical-type sporadic Creutzfeldt-Jakob disease with antibodies to anti-N-terminus of
+alpha-enolase. Prion 2017;11:454 –464.
+30. Jones AL, Flanagan EP, Pittock SJ, et al. Responses to and outcomes of treatment of
+autoimmune cerebellar ataxia in adults. JAMA Neurol 2015;72:1304 –1312.
+31. Feo S, Arcuri D, Piddini E, Passantino R, Giallongo A. ENO1 gene product binds to
+the c-myc promoter and acts as a transcriptional repressor: relationship with Myc
+promoter-binding protein 1 (MBP-1). FEBS Lett 2000;473:47 –52.Appendix (continued)
+Name Location Role Contribution
+Domingo
+Escudero,
+MD, PhDHospital Cl ´ınic,
+Barcelona, SpainAuthor Acquisition of clinical
+data; analysis and
+interpretation of the
+data; revised themanuscript for
+intellectual content
+Helena
+Ariño, MD,
+PhDHospital Cl ´ınic,
+Barcelona, SpainAuthor Determination of
+neuronal antibodies;
+analysis and
+interpretation of thedata; revised the
+manuscript for
+intellectual content
+Thais
+Armangue,
+MD, PhDInstitut
+d’Investigaci ´o
+Biom `edica August Pi
+i Sunyer, Barcelona,
+SpainAuthor Determination of
+neuronal antibodies;
+analysis andinterpretation of the
+data; revised the
+manuscript for
+intellectual content
+Mateus
+Simabukuro,MDHospital das
+Cl´ınicas, São Paulo
+University, BrazilAuthor Acquisition of clinical
+data; analysis andinterpretation of the
+data; revised the
+manuscript for
+intellectual content
+Takahiro
+Iizuka, MDKitasato University
+School of Medicine,Sagamihara, JapanAuthor Acquisition of clinical
+data; analysis andinterpretation of the
+data; revised the
+manuscript forintellectual content
+Makoto
+Hara, MDNihon University
+School of Medicine,Tokyo, JapanAuthor Acquisition of clinical
+data; analysis andinterpretation of the
+data; revised the
+manuscript forintellectual content
+Albert Saiz,
+MD, PhDHospital Cl ´ınic,
+Barcelona, SpainAuthor Acquisition of clinical
+data; analysis andinterpretation of the
+data; revised the
+manuscript forintellectual content
+Stefano
+Sotgiu, MDUniversity of
+Sassari, ItalyAuthor Review of clinical
+data; analysis andinterpretation of the
+data; revised the
+manuscript forintellectual content
+Josep
+Dalmau, MD,PhDHospital Cl ´
+ınic,
+ICREA, Barcelona,Spain; University of
+Pennsylvania,
+PhiladelphiaAuthor Design and
+conceptualized study;review of clinical data;
+analysis and
+interpretation of thedata; revised the
+manuscript for
+intellectual content
+Francesc
+Graus, MD,
+PhDInstitut
+d’Investigaci ´o
+Biom `edica August Pi
+i Sunyer, Barcelona,
+SpainAuthor Design and
+conceptualized study;
+review of clinical data;analysis and
+interpretation of the
+data; revised the
+manuscript for
+intellectual content;wrote the final version
+e224 Neurology | Volume 94, Number 2 | January 14, 2020 Neurology.org/N
+Copyright © 2019 American Academy of Neurology. Unauthorized reproduction of this article is prohibited.
+Downloaded from https://www.neurology.org by Goteborg Universitet on 31 March 2026

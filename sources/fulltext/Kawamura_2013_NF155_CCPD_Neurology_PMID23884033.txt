@@ -1,0 +1,683 @@
+Citation: Kawamura N, et al. Anti-neurofascin antibody in patients with combined central and peripheral demyelination. Neurology. 2013;81(8):714-722. PMID: 23884033
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Nobutoshi Kawamura,
+MD, PhD*
+Ryo Yamasaki, MD,
+PhD*
+Tomomi Yonekawa, MD
+Takuya Matsushita, MD,
+PhD
+Susumu Kusunoki, MD,
+PhD
+Shigemi Nagayama, MD,
+PhD
+Yasuo Fukuda, MD, PhD
+Hidenori Ogata, MD
+Dai Matsuse, MD, PhD
+Hiroyuki Murai, MD,
+PhD
+Jun-ichi Kira, MD, PhD
+Correspondence to
+Dr. Kira:
+kira@neuro.med.kyushu-u.ac.jp
+Supplemental data at
+www.neurology.orgAnti-neurofascin antibody in patients with
+combined central and peripheral
+demyelination
+ABSTRACT
+Objectives: We aimed to identify the target antigens for combined central and peripheral demye-
+lination (CCPD).
+Methods: We screened target antigens by immunohistochemistry and immunoblotting using
+peripheral nerve tissues to identify target antigens recognized by serum antibodies from selected
+CCPD and chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) cases. We then
+measured the level of antibody to the relevant antigen in 7 patients with CCPD, 16 patients with
+CIDP, 20 patients with multiple sclerosis, 20 patients with Guillain-Barré syndrome, 21 patients
+with other neuropathies, and 23 healthy controls (HC) by ELISA and cell-based assays using
+HEK293 cells.
+Results: At the initial screening, sera from 2 patients with CCPD showed cross-like binding to sci-
+atic nerve sections at fixed intervals, with nearly perfect colocalization with neurofascin immu-
+nostaining at the node and paranode. ELISA with recombinant neurofascin revealed
+significantly higher mean optical density values in the CCPD group than in other disease groups
+and HC. Anti-neurofascin antibody positivity rates were 86% in patients with CCPD, 10% in
+patients with multiple sclerosis, 25% in patients with CIDP, 15% in patients with Guillain-Barré
+syndrome, and 0% in patients with other neuropathies and HC. The cell-based assay detected
+serum anti-neurofascin antibody in 5 of 7 patients with CCPD; all others were negative. CSF
+samples examined from 2 patients with CCPD were both positive. In anti-neurofascin antibody –
+positive CCPD patients, including those with a limited response to corticosteroids, IV immuno-
+globulin or plasma exchange alleviated the symptoms.
+Conclusion: Anti-neurofascin antibody is frequently present in patients with CCPD. Recognition
+of this antibody may be important, because patients with CCPD who are antibody positive
+respond well to IV immunoglobulin or plasma exchange. Neurology/C2262013;81:714 –722
+GLOSSARY
+AIDP5acute inflammatory demyelinating polyradiculoneuropathy; AMAN 5acute motor axonal neuropathy; Caspr5contactin-
+associated protein 1; CCPD 5combined central and peripheral demyelination; CIDP5chronic inflammatory demyelinating
+polyradiculoneuropathy; GBS5Guillain-Barré syndrome; GFP5green fluorescent protein; HC5healthy controls; IgG5immu-
+noglobulin G; MS5multiple sclerosis; NF5neurofascin; OCB5oligoclonal immunoglobulin G bands; OD5optical density; ON5
+other neuropathies; PNS5peripheral nervous system; ROC5receiver operating characteristic.
+Multiple sclerosis (MS) affects the CNS, with no involvement of the peripheral nervous sys-
+tem (PNS). In contrast, chronic inflammator y demyelinating polyradiculoneuropathy
+(CIDP) is typically restricted to the PNS and can be considered a peripheral nerve analog
+of MS. However, the phenotype of CIDP is w ide and the disease can be associated with
+CNS demyelination. Patients presenting with c ombined central and peripheral demyelina-
+tion (CCPD) have occasionally been reported using various diagnostic names including
+chronic demyelinating peripheral neuropathy as sociated with multifocal CNS demyelination,
+peripheral neuropathy with MS, CIDP with CNS involvement, and relapsing demyelinating
+disease affecting both the CNS and PNS.1CCPD currently has no clear clinical definition
+*These authors contributed equally to this manuscript.
+From the Departments of Neurology (N.K., T.Y., T.M., H.O., D.M., H.M., J.K.) and Neurological Therapeutics (R.Y.), Neurological Institute,
+Graduate School of Medical Sciences, Kyushu University, Fukuoka; Department of Neurology (S.K.), School of Medicine, Kinki University, Osaka;
+Department of Neurology (S.N.), Kanazawa Medical University; and Department of Neurology (Y.F.), Sasebo City General Hospital, Japan.
+Go to Neurology.org for full disclosures. Funding information and disclosures deemed relevant by the authors, if any, are provided at the end of the ar ticle.
+714 © 2013 American Academy of Neurology
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 2 ---
+and appears to encompass heterogeneous
+conditions including acute, relapsing, and
+chronic subtypes.
+This combined demyelinating condition has
+r a i s e dt h ei s s u eo fw h e t h e rt h i si sau n i q u ec o n -
+dition due to a common immunopathogenic
+mechanism, or simple coincidence of restricted
+demyelinating disorders (MS and CIDP). Sev-
+eral clinical, laboratory, and neuroimaging fea-
+t u r e si np a t i e n t sw i t hC C P Da r ea t y p i c a lf o r
+MS, including bilateral optic neuritis, an absence
+of oligoclonal immunoglobulin G (IgG) bands
+(OCB), and gray matter involvement.2–4There-
+fore, a distinct immune-mediated mechanism
+causing both central and peripheral demyelina-
+tion is postulated in this entity; however, no
+antigenic target common to the CNS and
+PNS has yet been identified. In this study, as
+one of target antigens for CCPD, we identified
+neurofascin, which is a member of the L1 sub-
+group of adhesion molecules expressed at the
+nodes of Ranvier and the paranodes in both
+the CNS and PNS,5and characterized the clin-
+ical profiles of anti-neurofascin antibody –positive
+CCPD patients.
+METHODS Patients. We obtained clinical data and sera from
+7 patients with CCPD, 16 patients with CIDP based on the
+research criteria for diagnosis of CIDP,620 patients with MS
+according to the revised McDonald criteria,720 patients with
+Guillain-Barré syndrome (GBS) (10 with acute motor axonal
+neuropathy [AMAN],87 with acute inflammatory demyelinating
+polyneuropathy [AIDP],8and 3 unclassified), 21 patients with
+other neuropathies (ON), and 23 healthy controls (HC). Written
+informed consent was obtained. All patients with CCPD were
+confirmed to have CNS lesions suggestive of demyelination by
+MRI and demyelinating neuropathy by peripheral nerve conduc-
+tion studies. Among them, 3 cases (patients 1, 2, and 6 in the
+table) were diagnosed with CCPD at Kyushu University Hospital
+between 2001 and 2010 and used for initial screening. The other
+4 cases were consecutively referred to Kyushu University from the
+coauthors ’institutions in 2011 for the anti-neurofascin antibody
+assay. All CCPD samples were subjected to immunoblotting,
+ELISA, and cell-based assays. Only one patient in the MS group
+had abnormal nerve conduction study findings due to carpal tun-
+nel syndrome. Fourteen patients in the CIDP group showed typ-
+ical symmetric distal and proximal weakness, while 2 patients had
+asymmetric involvement. Four patients with CIDP had abnor-
+malities on brain MRI: 3 with small ischemic lesions and one
+with mild hydrocephalus. ON included inherited, vasculitic, and
+diabetic neuropathies. Samples were collected from patients
+receiving no immunologic treatments. There were no significant
+differences in the age and sex of each group except for patients
+with CCPD, who were younger than those in the other groups.
+Immunofluorescence assay. The sciatic nerves of female
+Sprague-Dawley rats were collected and frozen immediately after
+dissection. Longitudinal sections of the sciatic nerves were fixedfor 3 minutes in 10% formalin just before immunohistochemical
+staining. We performed an indirect immunofluorescence assay on
+these samples using sera from human subjects (diluted 1:60) fol-
+lowed by detection with a fluorescein-conjugated goat antibody
+to human IgG (Southern Biotechnology Associates, Birmingham,
+AL). We also undertook double immunostaining to characterize
+the localization of patients ’IgG binding sites, using rabbit IgG
+antibodies specific for neurofascin, gliomedin (Abcam Plc.,
+Cambridge, UK), or contactin-associated protein 1 (Caspr) (Milli-
+pore Corporation, Temecula, CA), together with an Alexa 594 –
+conjugated antibody to rabbit IgG as a detector reagent (Southern
+Biotechnology Associates). Images were captured using a fluores-
+cence microscope (Biozero, BZ-8000; Keyence, Osaka, Japan).
+Extraction of tissue proteins. Detailed methods for the extrac-
+tion of tissue proteins are described in the e-Methods on the
+Neurology®Web site at www.neurology.org.
+Immunoblotting and immunoabsorption. Detailed methods
+for immunoblotting using extracted PNS and CNS proteins and
+recombinant rat neurofascin protein and immunoabsorption by
+recombinant neurofascin protein are described in the e-Methods.
+Cell-based assay. We also performed a cell-based anti-neurofascin
+antibody detection assay using neurofascin-transfected cells.
+Human embryonic kidney 293 cells maintained in medium con-
+taining 10% fetal calf serum were seeded at 5,000 cells/well onto
+8-well chamber slides 24 hours before transfection. Because neuro-
+fascin has 2 major forms, neurofascin 186 (NF186) and neurofascin
+155 (NF155), the cells were transfected with 100 ng/well of either
+green fluorescent protein (GFP)-NF155 or GFP-NF186 fusion
+protein expression vector containing a full-length cDNA encoding
+human NF155 or NF186, respectively (OriGene Technologies,
+Inc., Rockville, MD), using FuGENE6 transfection reagent (Roche,
+Basel, Switzerland). After blocking with 10% goat serum, the GFP-
+NF155 –expressing cells were incubated with human serum (1:100)
+or CSF samples (1:1) diluted with Dulbecco ’s modified Eagle medium
+for 1 hour at 37°C without cell fixation, washed in phosphate-buffered
+saline, and then visualized using an Alexa 594 –conjugated goat anti-
+body to human IgG (Invitrogen, Carlsbad, CA). The fluorescence of
+unfixed cells was observed using a confocal laser scanning microscope
+(Nikon A1). The anti-neurofascin antibody assay was performed at
+least twice for each sample, and those that gave a positive result twice
+were deemed to be positive.
+ELISA. We coated polystyrene microtiter ELISA plates (ICN
+Biomedicals, Inc., Costa Mesa, CA) with recombinant rat neuro-
+fascin protein (0.2 mg/well). After blocking, 50 mL of serum
+(1:200) was applied to the wells at room temperature and plates
+were incubated for 1 hour. After washing, we applied a horserad-
+ish peroxidase –conjugated goat antibody to human IgG (1:1000;
+Southern Biotechnology Associates) and developed the plates
+using o-phenylenediamine dihydrochloride (Sigma, St. Louis,
+MO). The optical density (OD) was quantified at 450 nm using
+an Immunomini NJ-2300 plate reader (Inter Med, Osaka, Japan).
+Statistical analysis. Data are expressed as means and SEM. We
+used 1-way analysis of variance for comparisons of ages, and Fisher
+exact probability test for comparisons of the frequencies of sex in each
+group. We also used 1-way analysis of variance followed by Dunnett
+multiple comparison tests for comparisons of the mean OD values in
+each group (figure 3B). Receiver operating characteristic (ROC)
+curves were generated and area under the curve was calculated to
+estimate cutoff OD values for the anti-neurofascin ELISA assay to
+accurately discriminate patients wi th CCPD. Statistical analyses were
+performed using JMP 9.0.2, and the threshold for significance was set
+atp,0.05.
+Neurology 81 August 20, 2013 715
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 3 ---
+Standard protocol approvals. The research protocol for this
+retrospective study and the data privacy procedures for consented
+samples were approved by the Kyushu University ethics commit-
+tee (no. 24-100).
+RESULTS Screening and identification of target proteins
+in patients with CCPD and CIDP. During screening by
+immunofluorescence assay, sera from controls showedno significant immunoreactivity toward the rat sciatic
+nerve (figure 1A). Four patients with CIDP showed
+diffuse binding of serum IgG to the myelin sheath
+(figure 1B). Two patients with CCPD (patients
+1 and 2) showed a characteristic pattern of serum
+IgG binding to sections of sciatic nerves, with a
+cross-like appearance at fixed intervals (figure 1C).Table Presentations of patients with CCPD
+Patient 1 Patient 2 Patient 3 Patient 4 Patient 5 Patient 6 Patient 7
+Age, y/sex 16/F 25/M 57/F 22/M 44/M 23/F 38/F
+Initial symptoms CNS PNS and CNS PNS PNS CNS and
+PNSCNS CNS and PNS
+Age at CNS onset, y 16 23 56 18 44 10 38
+Age at PNS onset, y 16 23 48 10 44 23 38
+Temporal gap between
+CNS and PNS onsetsSequential
+(3 mo apart)Simultaneous Long interval
+(8 y)Long interval
+(8 y)Simultaneous Long interval
+(10 y)Simultaneous
+Laboratory data
+Anti-NF155 antibody
+(cell-based assay)
+(serum)11 1 1 1 2 2
+Anti-NF155 antibody
+(ELISA)11 1 1 1 2 1
+CSF protein, mg/dL 205 299 55 97 86 83 89
+OCB 22 1 2 2 2 2
+MRIs
+Brain Multifocal WML;
+Gd-enhancedDiffuse
+WML; No Gd
+enhancementMultifocal WML;
+Gd-enhancedMultifocal
+WML; No Gd
+enhancementMultifocal
+WMLMultifocal WML;
+Gd-enhancedMultifocal WML
+Spinal cord Normal Normal Multifocal short
+lesionsMultifocal short
+lesionsNormal Multifocal lesions Normal
+Cauda equina Gd-enhanced;
+HypertrophyNormal ND ND Normal Normal Normal
+McDonald criteria
+for MSFulfilled Unfulfilled Fulfilled Fulfilled Fulfilled Fulfilled Fulfilled
+NCS
+Prolonged DL 11 1 1 1 2 1
+MCV slowing 11 1 1 1 1 1
+CB or TD 11 1 1 2 1 1
+Prolonged F-wave
+latency11 ND ND 11 1
+EFNS/PNS criteria
+for CIDPDefinite Definite Definite Definite Definite Definite Definite
+VEPs Normal Bilaterally
+prolongedUnilaterally
+prolongedUnilaterally
+prolongedND Unilaterally
+prolongedND
+Treatment
+Corticosteroids Effective for CNS but
+ineffective for PNS
+lesionsIneffective Partially
+effectiveEffective for
+CNS lesionsPartially
+effectiveEffective for both
+CNS and PNS
+lesionsEffective for both
+CNS and PNS
+lesions
+IVIg Effective Effective Effective ND Effective ND ND
+PE Effective Effective Ineffective ND ND ND ND
+Other drugs 22 AZT, INF b-1a/b
+(insufficient)INFb-1b 2 INFb-1a 2
+Abbreviations: AZT 5azidothymidine; CB 5conduction block; CCPD 5combined central and peripheral demyelination; CIDP 5chronic inflammatory
+demyelinating polyradiculoneuropathy; DL 5distal latency; EFNS/PNS 5European Federation of Neurological Societies and the Peripheral Nerve Society;
+Gd5gadolinium; INF b5interferon b;I V I g5IV immunoglobulin; MCV 5motor conduction velocity; MS 5multiple sclerosis; NCS 5nerve conduction study;
+ND5not done; NF 5neurofascin; OCB 5oligoclonal immunoglobulin G bands; PE 5plasma exchange; PNS 5peripheral nervous system; TD 5temporal
+dispersion; VEP 5visual evoked potential; WML 5white matter lesion.
+716 Neurology 81 August 20, 2013
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 4 ---
+Dual labeling experiments for serum IgG binding and
+nodal or paranodal proteins revealed a partial overlay of
+serum IgG binding with gliomedin labeling at the node
+of Ranvier and with Caspr labeling at the paranode. By
+contrast, pan-neurofascin immunostaining showed
+nearly perfect colocalization with serum IgG binding
+at both the node and paranode (figure 1, D –L).
+Immunoblotting experiments revealed that the
+serum IgG from CCPD patient 1 bound to both
+rat sciatic nerve (PNS) and spinal cord (CNS) lysates
+as 2 dense bands and one additional thin band
+between 100 and 150 kD (figure 2A). Serum from
+patient 2 also showed 2 thick bands and one thin
+band between 100 and 150 kD, and an additional
+faint band between 150 and 250 kD. The mobility of
+the 2 dense bands stained by the patients ’sera was in
+accord with that stained by anti-NF155 monoclonal
+antibody, but not with that stained by anti-NF186
+polyclonal antibody. The 2 dense bands disappearedwhen the patients ’sera were preincubated with recom-
+binant NF155 while the lower-molecular-weight thin
+band in patients 1 and 2 and the higher-molecular-
+weight faint band in patient 2 still existed (figure 2B).
+NF155 comprises 2 isoforms , termed neurofascin 155
+high and low (NF155H and NF155L, respectively),
+which differ in terms of their N-linked glycosylation.9
+These findings suggest that the 2 dense bands corre-
+spond to NF155H and NF155L, whereas the lower-
+molecular-weight band in patients 1 and 2 and the
+higher-molecular-weight band in patient 2 were non-
+specific. The other CCPD cases showed no clear bands
+on immunoblotting.
+Anti-neurofascin antibody in the cell-based assay and
+ELISA in patients with CCPD and other neurologic
+disorders and HC. We examined the presence/absence
+of IgG antibody to neurofascin in patients with
+CIDP, MS, AMAN, AIDP, and ON and HC usingFigure 1 Screening of target proteins in patients with CCPD
+(A–C) Immunofluorescence analysis of rat sciatic nerve reacted with patients ’sera. Note the cross-like appearance in panel
+C (arrows) and inset. (A) Control. (B) Patient with CIDP. (C) Patient with CCPD (patient 2 in the table). Bar: 100 mm. (D –L)
+Double immunofluorescence analysis of the nodes of Ranvier in rat sciatic nerves reacted with CCPD patient ’s serum and
+each specific antibody. (D, G, J) Serum from patient with CCPD. (E, H, K) Specific antibody indicated. (F, I, L) Merged images.
+Almost perfect colocalizations are seen in panels J –L. Bar: 10 mm. CCPD 5combined central and peripheral demyelination;
+CIDP5chronic inflammatory demyelinating polyradiculoneuropathy; IgG 5immunoglobulin G.
+Neurology 81 August 20, 2013 717
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 5 ---
+a cell-based assay and ELISA. In the cell-based assay,
+antibodies against NF155 were detected in sera from
+5 patients with CCPD (patients 1 –5 in the table),
+whereas all others were negative (figure 3, A –C). In
+patients 1 and 2, further analyses of CSF samplesconfirmed both to be positiv e for anti-NF155 antibody
+(figure 3, D –F). However, these patients ’sera were
+negative for NF186 in the cell-based assay (data not
+shown). In the ELISA for NF155, among the 5 patients
+with CCPD who were positive for anti-neurofascinFigure 2 Identification of anti-neurofascin antibody in sera of patients with CCPD
+(A) Immunoblotting analysis of sera of patients with CCPD, serum from healthy control, anti-NF186 polyclonal antibody, and
+anti-NF155 monoclonal antibody using rat CNS and PNS tissues (n 53) and rat recombinant neurofascin protein (r-NF155).
+Pt.1 and 2 correspond to patients 1 and 2 in the table, respectively. Three bands are visible between 100 and 150 kD in
+patients 1 and 2. The mobility of the 2 dense bands stained by the patients ’sera is in accord with that stained by anti-
+NF155 monoclonal antibody, but not with that stained by anti-NF186 polyclonal antibody. The bands of the recombinant
+NF155 protein and rat brain NF155 do not line up perfectly because recombinant NF155 is His-tagged, which causes it to
+have a distinct electrophoretic mobility. The NF186 band is visible only in rat CNS samples because NF186 is mainly
+expressed in CNS tissues.18(B) Immunoabsorption experiments using sera from patients 1 and 2. By preincubation of
+diluted patients ’sera (1:100) with recombinant rat NF155 at 2 different concentrations, the 2 upper dense bands are
+not visible while the lower thin band in patients 1 and 2 and the higher-molecular-weight thin band between 150 and 250 kD
+in patient 2 still exist, suggesting that the patients ’antibodies specifically bind to NF155 while the lower thin band in both
+patients and the higher-molecular-weight thin band in patient 2 are nonspecific. Ab 5antibody; CCPD 5combined central
+and peripheral demyelination; NF 5neurofascin; PNS 5peripheral nervous system.
+718 Neurology 81 August 20, 2013
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 6 ---
+antibody in the cell-based assay, 3 showed very high
+serum OD values (figure 3G, patients 1 –3 in the table)
+and 2 had medium OD values (patients 4 and 5). One
+patient with CCPD (patient 7) who showed a negative
+result on the cell-based assay had a medium OD value
+by ELISA. Mean OD values in patients with CCPD
+were significantly higher than those in other disease
+groups and HC (figure 3G). Logistic regression analysis
+showed that when OD values of samples from patients
+with CCPD were compared with samples from patientswith other neurologic disor ders, including MS, CIDP,
+GBS, and ON, and samples from HC, the area under
+the ROC curve was 0.95. When the cutoff point was
+estimated from the ROC curve, the ideal cutoff
+OD value was estimated as 0.435. According to the
+cutoff point for the OD value, the numbers of anti-
+neurofascin antibody –positive patients in each disease
+category were as follows: 6/7 patients with CCPD
+(86%); 2/20 patients with MS (10%); 4/16 patients
+with CIDP (25%); 2/10 patients with AMAN (20%);
+1/7 patients with AIDP (14.3%); 0/21 patients with
+ON (0%); and 0/23 HC (0%). Sera from all CIDP,
+MS, AMAN, and AIDP patients who had OD values
+higher than the cutoff lev el by ELISA were found to be
+negative by the cell-based assay (figure 3G, empty dots).
+Case presentations and comparison of clinical features
+between anti-neurofascin-positive and -negative CCPD
+patients. The clinical findings of the 7 patients with
+CCPD are summarized in the table, and each case is
+described in appendix e-1. The age at onset in the 5
+patients with CCPD who were anti-neurofascin anti-
+body positive by the cell-based assay ranged from 16 to
+48 years, and both sexes were involved (male:female,
+2:3). The CNS and PNS were involved simultaneously
+or with a short interval in 3, whereas 2 showed a long
+interval between CNS and PNS involvement. All had
+high CSF protein levels and one of the 5 had OCB.
+Multifocal white matter lesions were seen in 4, with
+contrast enhancement in 2, but one showed diffuse
+white matter lesions (figure 4E), which is atypical of
+MS. Spinal cord lesions were present in 2 of 5 on MRI.
+Visual evoked potentials were abnormal in 4 of 5
+patients examined. Four met the McDonald criteria,
+while one did not. All fulfilled the established criteria
+for CIDP (figure 4, F and G). In the 5 anti-neurofascin
+antibody –positive CCPD patients, corticosteroids
+were only partially effective or ineffective except in
+one with a favorable response of the CNS lesions. IVIg
+administrations were effective in all 4 patients that
+received them, while plasma exchanges were effective
+in 2 of 3. These clinical features were similar to those
+of the 2 anti-neurofascin antibody –negative CCPD
+patients; however, in both anti-neurofascin antibody –
+seronegative CCPD patients, corticosteroids were effec-
+tive for both CNS and PNS lesions.
+DISCUSSION This study reveals the high frequency
+of anti-neurofascin antibody in patients with CCPD.
+We also confirmed that some patients with MS, CIDP,
+AMAN, and AIDP were positive for anti-neurofascin
+antibodies by ELISA, as reported previously. The dis-
+crepancies among the results of the ELISA, immuno-
+blotting, and cell-based assays may be attributable to
+differences in epitope, i.e., linear or conformational,
+as well as the sensitivities and specificities of the 3Figure 3 Detection of anti-neurofascin antibody in patients with CCPD
+(A–F) Cell-based assay for anti-neurofascin antibody in CCPD patient ’ss e r u ma n dC S F .
+Serum (1:100 dilution) (A –C) and CSF (1:1) (D –F) from patient 2 both react well to
+HEK293 cells expressing human NF155 protein with a GFP-tag on the cell surface. Bar:
+10mm. (G) Anti-neurofascin antibody titer determined by ELISA. Filled dots: patients who
+were also positive by the cell-based assay (figure 2B). Empty dots: patients negative by the
+cell-based assay. Mean values are indicated in each column. The number next to each dot
+corresponds to the patient number in the table. The mean OD values and standard errors for
+each group were as follows: CCPD: 0.81 60.14 (n 57); MS: 0.14 60.03 (n 520); CIDP:
+0.2560.05 (n 516); GBS: 0.19 60.04 (n 520); ON: 0.10 60.02 (n 521); and HC: 0.11 6
+0.02 (n 523). * p,0.05, *** p,0.001. CCPD 5combined central and peripheral demyeli-
+nation; CIDP 5chronic inflammatory demyelinating polyradiculoneuropathy; GBS 5
+Guillain-Barré syndrome; GFP 5green fluorescent protein; HC 5healthy controls; IgG 5
+immunoglobulin G; MS 5multiple sclerosis; NF 5neurofascin; OD 5optical density;
+ON5other neuropathies.
+Neurology 81 August 20, 2013 719
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 7 ---
+assays. Further refinement of the assay methods and a
+large-scale study are called for to solve this issue in the
+future. As CCPD is an extremely rare disease, only 3 of
+the patients described were our own institutional cases.
+Although selection bias was not completely eliminated,
+on referral to our clinic for anti-neurofascin antibody
+assay, no selection was made; therefore, we believe that
+the recruitment of patients with CCPD would not
+have severely distorted our findings.
+With these reservations in mind, the following are
+characteristic of CCPD patients with anti-neurofascin
+antibodies: 1) CNS and PNS involvement occur either
+simultaneously or sequentially with a short or long
+interval; 2) peripheral nerve demyelination is indistin-
+guishable from CIDP; 3) CNS involvement is mostly
+typical for MS, in which spinal cord lesions and gado-
+linium enhancement of the lesions can develop, but
+occasionally atypical, demonstrating diffuse cerebral
+white matter lesions; 4) CSF OCB are negative in most
+cases while CSF protein levels show variable degrees of
+increase; and 5) the response to corticosteroids is lim-
+ited, while IVIg and plasma exchanges are beneficial for
+both CNS and PNS lesions.
+In a previous report, spreading of autoimmunity
+from central to peripheral or peripheral to central
+myelin was proposed in patients with either MS or
+CIDP.8However, 3 of 5 patients with CCPD who
+were positive for anti-neurofascin antibodies by thecell-based assay showed simultaneous or sequential
+occurrence of both CNS and PNS lesions within a
+short interval, suggesting that the anti-neurofascin
+antibody can emerge at the onset or very early in
+the course of the disease, which is contrary to the
+epitope spreading hypothesis. By contrast, in the
+other 2 anti-neurofascin antibody –positive cases with
+a long interval between CNS and PNS lesion devel-
+opment, anti-neurofascin antibody could be pro-
+duced by epitope spreading. Nonetheless, such
+secondarily produced antibody may exert pathogenic
+actions extending the original lesions from the PNS to
+the CNS or vice versa. The presence of anti-neurofascin
+antibody in the CSF further supports its involvement
+in the formation of CNS lesions in addition to the
+PNS lesions. Anti-neurofascin antibody –positive
+CCPD patients fulfilled the European Federation
+of Neurological Societies/Peripheral Nerve Society
+diagnostic criteria for CIDP.10By contrast, CNS
+involvement was atypical in one anti-neurofascin
+antibody –positive patient who had a chronic course
+and showed diffuse white matter changes on brain
+MRI. Of interest is that many reported patients with
+CCPD, including our antibody-positive patients,
+were negative for OCB, which are detected in
+.90% of patients with MS.11These findings suggest
+that anti-neurofascin antibody –positive CCPD
+patients could have a somewhat distinct CNSFigure 4 Neuroimaging and electrophysiologic findings in representative patients with CCPD
+(A–D) MRIs for patient 1. (A, B) Brain MRI fluid-attenuated inversion recovery images showing MS-like lesions in juxtaven-
+tricular regions. (C) The cauda equina is contrast-enhanced (gadolinium-enhanced T1-weighted image). (D) Enlarged cauda
+equina (T2-weighted image). (E) Brain MRI (fluid-attenuated inversion recovery image) for patient 2. Diffuse white matter
+lesions are seen. (F, G) Nerve conduction study findings for patients 1 (F) and 2 (G). Severe conduction blocks with reduced
+amplitudes and temporal dispersions are evident in these patients with CCPD. CCPD 5combined central and peripheral
+demyelination; MS 5multiple sclerosis.
+720 Neurology 81 August 20, 2013
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 8 ---
+involvement from that in typical MS patients. It is
+thus suggested that anti-neurofascin antibody –posi-
+tive CCPD is a unique condition due to a common
+immunopathogenic mechanism between CNS and
+PNS demyelination rather than a simple coincidence
+of MS and CIDP.
+An autoantibody response to neurofascin has been
+reported in patients with MS, particularly in those with
+chronic progressive MS, and immune-mediated axonal
+injury and a potential contribution to axonal pathology
+have been proposed.12Autoantibody responses to neu-
+rofascin were also reported in patients with GBS and
+CIDP.13–15Among the patients with GBS and CIDP
+in that study, only 4% were positive for neurofascin
+by a cell-based assay, although CNS involvement
+was not thoroughly examined in the positive cases.14
+Two patients with CIDP who had high titers of anti-
+neurofascin antibody by ELISA benefited from plasma
+exchange.14Our findings are partly in accordance with
+the observations described in a recent report,14and thus
+suggest that a high titer of anti-neurofascin antibodies
+recognizing neurofascin molecules expressed on the cell
+membrane could also be associated with CCPD, and
+might be pathogenic. In this case, the CNS and PNS
+are possibly involved together, because neurofascin
+exists in both tissues. In a small fraction of AMAN,
+AIDP, CIDP, and MS cases with high titers of anti-
+neurofascin antibody, as reported previously,12–15inves-
+tigations for subclinical involvement of the CNS and
+PNS may be recommended.
+Neurofascins are transmembrane adhesion mole-
+cules expressed at the nodes and paranodes of both
+the CNS and PNS.5,16,17The 2 major isoforms of
+neurofascin have different expression patterns.
+NF186 is an axonal membrane protein contributing
+to assembly of voltage-dependent sodium channels at
+high concentrations at the node of Ranvier. NF155 is
+expressed by glial cells (oligodendrocytes and Schwann
+cells) at the paranodes and connects the myelin sheath
+to the axon via binding to contactin-1 and Caspr. The
+autoantibodies in patients with CCPD appear to rec-
+ognize mainly NF155 that is present at the paranode
+based on the findings of the cell-based assay and im-
+munoabsorption experiments; however, some reactivity
+against the node was also observed in immunohisto-
+chemistry experiments using PNS tissue sections, sug-
+gesting additional binding to NF186 at the nodal
+axolemma in situ, at least in some patients. Our find-
+ings indicate that autoantibodies attacking axo-glial
+integrity at the paranodes and nodes, but not com-
+pacted myelin, may cause inflammatory demyelination
+in both the CNS and PNS. The beneficial responses to
+IVIg and plasma exchanges in patients with CCPD
+who are anti-neurofascin antibody positive also support
+the notion that this autoantibody may contribute to the
+demyelinating process. Thus, the results of our studysuggest that the presence of anti-neurofascin antibodies
+is a potential diagnostic biomarker for patients with
+CCPD who could benefit from IVIg and plasma
+exchanges.
+AUTHOR CONTRIBUTIONS
+Dr. Kawamura and Dr. Yamasaki drafted the manuscript for content,
+collected and statistically analyzed data. Dr. Yonekawa, Dr. Matsushita,
+Dr. Kusunoki, Dr. Nagayama, Dr. Fukuda, Dr. Ogata, and Dr. Matsuse
+collected data. Dr. Murai revised the manuscript for content. Dr. Kira
+revised the manuscript for content, obtained the funding for this study,
+and supervised the study.
+STUDY FUNDING
+Supported in part by a Health and Labour Sciences Research grant on
+intractable diseases (H24-Nanchitou [Nan]-Ippan-055 and H23-Nanchi-
+Ippan-017) from the Ministry of Health, Labour and Welfare, Japan; by
+a Scientific Research B grant (no. 22390178); and a Challenging Explor-
+atory Research grant (no. 23659459) from the Ministry of Education,
+Culture, Sports, Science and Technology, Japan.
+DISCLOSURE
+N. Kawamura, R. Yamasaki, and T. Yonekawa report no disclosures.
+T. Matsushita has received speaker honoraria from Bayer Schering
+Pharma, Biogen Idec, and Pfizer and receives research support from Bayer
+Schering Pharma, the Ministry of Health, Labour and Welfare of Japan,
+the Japan Science and Technology Agency, the Ministry of Education,
+Culture, Sports, Science and Technology of Japan, and the Kaibara Mor-
+ikazu Medical Science Promotion Foundation, Japan. S. Kusunoki serves
+as an editorial board member of Experimental Neurology ,Journal of Neuro-
+immunology , and Clinical & Experimental Neuroimmunology . He received
+honoraria from Teijin Pharma Limited, Nihon Pharmaceuticals Co. Ltd.,
+and Benesis Corporation. He is funded by research grants from the Min-
+istry of Health, Labour and Welfare, Japan, and grants from the Ministry
+of Education, Culture, Sports, Science and Technology, Japan.
+S. Nagayama, Y. Fukuda, H. Ogata, and D. Matsuse report no disclosures.
+H. Murai serves as associate editor of BMC Neurology , and receives research
+support from the Ministry of Health, Labour and Welfare, Japan (H22-
+nanchi-shitei-002). J. Kira serves as an editorial board member of Multiple
+Sclerosis Journal ,Multiple Sclerosis and Related Disorders ,BMC Medicine ,
+PLoS ONE ,Expert Review of Neurotherapeutics, Intractable and Rare Diseases
+Research ,The Scientific World Journal ,a n d Journal of the Neurological Sci-
+ences. He is a consultant for Biogen Idec Japan, and has received honoraria
+from Bayer Healthcare and funding for a trip from Bayer Healthcare and
+Biogen Idec Japan. He is funded by a research grant for nervous and mental
+disorders from the Ministry of Health, Labour and Welfare, Japan, and
+grants from the Japan Science and Technology Agency and the Ministry of
+Education, Culture, Sports, Science and Technology, Japan. Go to
+Neurology.org for full disclosures.
+Received December 30, 2012. Accepted in final form May 6, 2013.
+REFERENCES
+1. Kamm C, Zettl UK. Autoimmune disorders affecting both
+the central and peripheral nervous system. Autoimmun
+Rev 2012;11:196 –202.
+2. Zephir H, Stojkovic T, Latour P, et al. Relapsing demye-
+linating disease affecting both the central and peripheral
+nervous systems. J Neurol Neurosurg Psychiatry 2008;79:
+1032–1039.
+3. Pirko I, Kuntz NL, Patterson M, Keegan BM,
+Weinshenker BG, Rodriguez M. Contrasting effects of
+IFNbeta and IVIG in children with central and peripheral
+demyelination. Neurology 2003;60:1697 –1699.
+4. Thomas PK, Walker RW, Rudge P, et al. Chronic demyelin-
+ating peripheral neuropathy associated with multifocal central
+nervous system demyelination. Brain 1987;110(pt 1):53 –76.
+Neurology 81 August 20, 2013 721
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE
+--- Page 9 ---
+5. Kriebel M, Wuchter J, Trinks S, Volkmer H. Neurofascin:
+a switch between neuronal plasticity and stability. Int J
+Biochem Cell Biol 2012;44:694 –697.
+6. Research criteria for diagnosis of chronic inflammatory
+demyelinating polyneuropathy (CIDP). Report from an
+Ad Hoc Subcommittee of the American Academy of Neu-
+rology AIDS Task Force. Neurology 1991;41:617 –618.
+7. Polman CH, Reingold SC, Banwell B, et al. Diagnostic
+criteria for multiple sclerosis: 2010 revisions to the McDo-
+nald criteria. Ann Neurol 2011;69:292 –302.
+8. Ho TW, Mishu B, Li CY, et al. Guillain-Barré syndrome in
+northern China: relationship to Campylobacter jejuni infection
+and anti-glycolipid antibodies. Brain 1995;118(pt 3):597 –605.
+9. Pomicter AD, Shroff SM, Fuss B, et al. Novel forms of
+neurofascin 155 in the central nervous system: alterations
+in paranodal disruption models and multiple sclerosis.
+Brain 2010;133:389 –405.
+10. European Federation of Neurological Societies/Peripheral
+Nerve Society Guideline on management of chronic
+inflammatory demyelinating polyradiculoneuropathy.
+Report of a joint task force of the European Federation
+of Neurological Societies and the Peripheral Nerve Society.
+J Peripher Nerv Syst 2005;10:220 –228.
+11. Link H, Huang YM. Oligoclonal bands in multiple
+sclerosis cerebrospinal fluid: an update on methodologyand clinical usefulness. J Neuroimmunol 2006;180:
+17–28.
+12. Mathey EK, Derfuss T, Storch MK, et al. Neurofascin as a
+novel target for autoantibody-mediated axonal injury.
+J Exp Med 2007;204:2363 –2372.
+13. Lonigro A, Devaux JJ. Disruption of neurofascin and glio-
+medin at nodes of Ranvier precedes demyelination in
+experimental allergic neuritis. Brain 2009;132:260 –273.
+14. Ng JK, Malotka J, Kawakami N, et al. Neurofascin as a
+target for autoantibodies in peripheral neuropathies. Neu-
+rology 2012;79:2241 –2248.
+15. Devaux JJ, Odaka M, Yuki N. Nodal proteins are target
+antigens in Guillain-Barré syndrome. J Peripher Nerv Syst
+2012;17:62 –71.
+16. Ratcliffe CF, Westenbroek RE, Curtis R, Catterall WA.
+Sodium channel beta1 and beta3 subunits associate with
+neurofascin through their extracellular immunoglobulin-
+like domain. J Cell Biol 2001;154:427 –434.
+17. Sherman DL, Tait S, Melrose S, et al. Neurofascins are
+required to establish axonal domains for saltatory conduc-
+tion. Neuron 2005;48:737 –742.
+18. Tait S, Gunn-Moore F, Collinson JM, et al. An oligoden-
+drocyte cell adhesion molecule at the site of assembly of
+the paranodal axo-glial junction. J Cell Biol 2000;150:
+657–666.
+Do You Know What is Happening to Neurology on
+Capitol Hill?
+Congress is making decisions that affect neurologic research funding and the way neurology is practiced
+in the United States. Only Capitol Hill Report on AAN.com takes you behind Washington ’s closed doors
+and shines a light on how your federal legislators are working for —or against —your interests. Read
+Capitol Hill Report on AAN.com the second and fourth Monday of each month. Stay informed. Your
+work depends on it.
+We ’re Looking for Our Next Generation of Leaders
+Applications are now being accepted to the American Academy of Neurology ’s 2013 Emerging
+Leaders Forum. The program is designed to identify, orient, and cultivate future leaders of the
+world ’s largest association of neurologists. Applicants must be members of the AAN 45 years of age
+or younger —or no more than 13 years out of training.
+Apply by September 1, 2013.
+www.aan.com/view/leadership or contact Donna Honeyman at (612) 928-6055 or dhoneyman@aan.com .
+722 Neurology 81 August 20, 2013
+ª"NFSJDBO"DBEFNZPG/FVSPMPHZ6OBVUIPSJ[FESFQSPEVDUJPOPGUIJTBSUJDMFJTQSPIJCJUFE

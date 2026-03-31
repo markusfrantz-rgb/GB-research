@@ -1,0 +1,741 @@
+Citation: Lee SU, Kim HJ, Choi JY, et al. Expanding Clinical Spectrum of Anti-GQ1b Antibody Syndrome: A Review. JAMA Neurology. 2024. PMID: 38739407
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Expanding Clinical Spectrum of Anti-GQ1b Antibody Syndrome
+A Review
+Sun-UkLee,MD,PhD;Hyo-JungKim,PhD;Jeong-YoonChoi,MD,PhD;Kwang-DongChoi,MD,PhD;Ji-SooKim,MD,PhD
+Gangliosides are glycosphingolipids containing at least 1
+sialicacidlinkedtothecarbohydratemoiety.1,2Theyare
+believedtoplayaroleinneuroplasticitybyinfluencingneu-
+rogenesis,synapticplasticity,neurotransmission,andaxonalgrowth,thereby enabling neuronal differentiation, maintenance, andrepair.
+3,4Antibodiestargetingthegangliosidesareimplicatedinmany
+autoimmuneperipheralneuropathies.5Morethan20antibodies
+againstthegangliosideshavebeenidentifiedinassociationwithneu-rologicaldisorders,
+6withGM1,GD1b,andGQ1bbeingthemajortar-
+gets.Althoughasingleantibodyusuallybindstoaspecificepitopetogiverisetoacertainneurologicaldisorder,theantigangliosideantibodycanalsobindtoagangliosidecomplex,creatinganewepi-tope,ortootherantigensincaseofstructuralsimilarity.
+1,7,8Forin-
+stance,anti-GQ1bantibodycanbindtocomplexclustersofglyco-lipidscontainingtheGQ1b(ie,antigangliosidecomplexantibodyagainstGQ1b/GM1orGQ1b/GD1a)
+8oralsocancross-reactwithdif-
+ferentindividualgangliosidessharingadisialosylstructure(ie,GD1bandGT1a).
+9
+ClassicMillerFishersyndrome(MFS)ischaracterizedbytheclini-
+caltriadofexternalophthalmoplegia,ataxia,andareflexia.10Thedi-
+agnosiswasbasedonclinicalpresentation10untiltheidentification
+oftheanti-GQ1bantibodyinthisdisorder.11Thediscoveryofthisan-
+tibodyhasfurtherexpandedthenosologyofthissyndrome.12MFS
+is a subtype of anti-GQ1b antibody–related neurological syn-dromesthatalsoincludeacuteophthalmoplegiawithoutataxia,
+13,14Bickerstaffbrainstemencephalitis(BBE),15,16andGuillain-Barrésyn-
+dromewithophthalmoplegia(GBS-O).17
+Therearealsolimitedformsofanti-GQ1bantibodysyndrome
+thatpresentwith2or1oftheclinicaltriadofMFS,complicatingthediagnosis.
+18Therecentlyidentifiedsubtypes,eg,acutevestibular
+syndrome19,20oropticneuropathy,21,22lackophthalmoplegia,which
+isthemostprominentfeatureinanti-GQ1bantibodysyndromes.19
+Itseemstimelytodefinethephenotypesofanti-GQ1bantibodysyn-dromefortheproperdiagnosisofthissyndromewithdiverseclini-calpresentations.
+ClinicalFeaturesoftheSubtypes
+Typical Anti-GQ1b Antibody Syndrome
+With Ophthalmoplegia
+Classic MFS
+ClassicMFSischaracterizedbythetriadofexternalophthalmople-
+gia,ataxia,andareflexia( Figure 1).10Thepathogeneticroleofthe
+anti-GQ1bantibodyinthedevelopmentofclassicMFShasbeenrec-ognizedsincetheearly1990s.
+11ClassicMFSisthemostcommonphe-
+notypeofanti-GQ1bantibodysyndrome.19Theantibodytiterin-
+creasesduringtheearlyacutephaseanddeclineswithtime,whereastheantibodyisnotdetectedinhealthycontrolsordiseasecontrolpatients.
+11,17Thepathogenicroleofanti-GQ1bantibodiesisfurtherIMPORTANCE Thediscoveryoftheanti-GQ1bantibodyhasexpandedthenosologyofclassic
+MillerFishersyndrometoincludeBickerstaffbrainstemencephalitis,Guillain-Barrésyndromewithophthalmoplegia,andacuteophthalmoplegiawithoutataxia,whichhavebeenbroughtundertheumbrellaterm anti-GQ1b antibody syndrome .Itseemstimelytodefinethe
+phenotypesofanti-GQ1bantibodysyndromefortheproperdiagnosisofthissyndromewithdiverseclinicalpresentations.Thisreviewsummarizesthesesyndromesandintroducesrecentlyidentifiedsubtypes.
+OBSERVATIONS Althoughophthalmoplegiaisahallmarkofanti-GQ1bantibodysyndrome,
+recentstudieshaveidentifiedthisantibodyinpatientswithacutevestibularsyndrome,opticneuropathywithdiscswelling,andacutesensoryataxicneuropathyofatypicalpresentation.Ophthalmoplegiaassociatedwithanti-GQ1bantibodypositivityiscompleteinmorethanhalfofthepatientsbutmaybemonocularorcomitant.Theprognosisismostlyfavorable;however, approximately14%ofpatientsexperiencerelapse.
+CONCLUSIONS AND RELEVANCE Anti-GQ1bantibodysyndromemaypresentdiverse
+neurologicalmanifestations,includingophthalmoplegia,ataxia,areflexia,centralorperipheralvestibulopathy,andopticneuropathy.Understandingthewideclinicalspectrummayaidinthedifferentiationandmanagementofimmune-mediatedneuropathieswithmultiplepresentations.
+JAMA Neurol .2024;81(7):762-770.doi: 10.1001/jamaneurol.2024.1123
+PublishedonlineMay13,2024.Multimedia
+CMEatjamacmelookup.com
+Author Affiliations: Author
+affiliationsarelistedattheendofthisarticle.
+Corresponding Author: Ji-SooKim,
+MD,PhD,DepartmentofNeurology,SeoulNationalUniversityBundangHospital,SeoulNationalUniversityCollegeofMedicine,173-82Gumi-ro,Bundang-gu,Seongnam-si,Gyeonggi-do463-707,SouthKorea(jisookim@snu.ac.kr ).Clinical Review & Education
+JAMA Neurology | Review
+762 JAMA Neurology July2024 Volume81,Number7 (Reprinted) jamaneurology.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 2 ---
+supportedbytheirearlydetectionduringthediseasecourse,within
+1or2daysaftertheonsetofneurologicdeficits.Thisimpliesthattheantibodyisindeedinvolvedinthepathogenesisandnotanepi-phenomenonduetotissuedestruction.
+17However, thisshouldbe
+interpretedwithcautionbecauseanti-GQ1bantibodypositivitycanalso be an epiphenomenon in the presence of another autoim-munedisorderordysimmunestate.Anti-GQ1bantibodiesarealsofoundinotherclinicalphenotypes,andthesedisordersaregroupedundertheumbrellaterm anti-GQ1b antibody syndrome .
+10,12
+Overlap With GBS
+Ophthalmoplegiacanbeobservedin15%ofGBScases.23Motor
+weaknessisprominent,graded3orlessontheMedicalResearchCouncilscale.Iftheclinicalphenotypeisalsocompatiblewithothersubtypes(eg,BBEorMFS)whilemanifestingasaprominentap-pendicular weakness, it is considered to overlap with GBS (ie,GBS-O).
+12,24PatientswithGBS-Oaccountfor20%to28%ofthose
+withanti-GQ1bantibodysyndrome.12,19
+BBE
+AclinicaldiagnosisofBBEcanbemadewhenpatientsshowmen-talchangeswithpyramidalsignsandophthalmoplegia.
+11,12,15Thecon-
+sciousness disturbance ranges from drowsiness (about 43%) tocoma.
+12,24Apartfromthepathologicreflexes(eg,Babinskisignor
+deeptendonhyperreflexia),mildappendicularweaknesscanbeassociated.
+12Iftheweaknessisprofound,anoverlapwithGBSshould
+beconsidered.24Otherthanthosecorefeatures,variousfocalneu-
+rologic deficits and nystagmus can be observed in patients withBBE.
+25Brainmagneticresonanceimages(MRIs)areusuallyunre-
+vealingbutmayberequiredtoexcludepotentialmimickers,suchasbrainstemstroke,Wernickeencephalopathy,andinfectious,de-myelinating,orautoimmuneencephalitis.
+26Approximately10%to
+30%ofpatientswithBBEshowhighsignal-intensitylesionsinthemesencephalon, cerebellum, or thalamus on T2-weighted MRI(Figure 2).
+24,26,27TheclinicaloutcomeofBBEisgenerallyfavor-
+ableunlessoverlappingwithGBS,and66%ofpatientsshowafullrecoverywithin6months.
+24
+Acute Ophthalmoplegia Without Ataxia
+Somepatientswithanti-GQ1bantibodiesmaypresentwithalim-ited form of acute ophthalmoplegia without areflexia or ataxia(Figure1).
+14,28Inthisinstance,anerveconductionstudyandcere-
+brospinalfluid(CSF)analysis,whichwouldguidethediagnosisofanti-GQ1bantibodysyndrome,rarelyshowabnormalresults.
+13,14
+Thus,ocularmotorfindingsareimportantbecausetheyaretheonlyclinicalsignsfordiagnosisbeforetheresultsofantibodytestsareavailable.Bilateralinvolvementiscommon(73%),mostlywithab-ductiondeficitsinbotheyes.
+28Iridoplegiamaybeobservedinnearly
+halfofthepatients.14Asexternalophthalmoplegiamaytakethefea-
+tureofmultipleocularmotornervepalsieswithoutothersignsofpolyradiculopathies,differentiationfrommyastheniagravis,thyroid-associatedophthalmopathy,Wernickeencephalopathy,orTolosa-Huntsyndromecanbechallenging.
+Atypical Antiganglioside Antibody Syndrome
+Without Ophthalmoplegia
+Acute Vestibular Syndrome
+AlthoughGQ1bgangliosidesarepreferentiallyexpressedintheocu-
+larmotornerves,theyarealsopresentinahighconcentrationinthevestibulocochlear nerves.
+29Therefore, canal paresis can be ob-
+servedduringbithermalcalorictestsinpatientswithMFSbutwith-outophthalmoplegia.
+30Furthermore,typicalfeaturesofacuteuni-Figure 1. Illustration of the Spectrum of Ophthalmoplegia Observed in Anti-GQ1b Antibody Syndrome
+Monocular ophthalmoplegia
+Bilateral abduction deficits
+Isolated iridoplegia
+Skew deviation
+Internuclear ophthalmoplegia
+Thepatternsofophthalmoplegiacanrangefromisolatediridoplegiatocompleteexternal/internalophthalmoplegia.ClinicalSpectrumofAnti-GQ1bAntibodySyndrome Review Clinical Review & Education
+jamaneurology.com (Reprinted) JAMA Neurology July2024 Volume81,Number7 763
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 3 ---
+lateral peripheral vestibulopathy (ie, vestibular neuritis) may be
+observedinassociationwithserumanti-GQ1bantibodypositivity(Figure 3,Figure 4,and Table).
+20,31Indeed,antigangliosideanti-
+bodies,mostlyanti-GQ1bantibodies,werefoundin12of105pa-tients(11%)withacuteunilateralperipheralvestibulopathy.
+31Inthese
+cases,abnormalhead-impulsetestresults32andcanalparesison
+bithermalcalorictests30,33-35mostlyindicateperipheralvestibu-
+lopathy. Furthermore, spontaneous downbeat nystagmus; peri-odicalternating,gaze-evoked,andcentralpositionalnystagmus;ocu-larflutter;andsaccadicdysmetriahavebeendescribedinassociationwithanti-GQ1bantibodypositivity.
+30,32,36,37Thus,anti-GQ1banti-
+bodysyndromeshouldbeconsideredinpatientspresentingwitheitherperipheralorcentralvestibulopathyofaprobableimmune-mediatedetiology.
+Optic Neuropathy With Disc Swelling
+Since GQ1b is also abundant in the optic nerve,29optic neuro-
+pathy can be observed in anti-GQ1b antibody syndrome.16,38,39
+However, therehaveonlybeenanecdotesofopticnerveinvolve-
+ments in association with anti-GQ1b antibody positivity in theliterature.
+22,38-41
+Opticnerveinvolvementmaybeeitherunilateralorbilateral,22
+anditcanoccurduringtherecoveryphaseofophthalmoplegia.39
+Patientsalmostalwaysshowdiscswelling,eventhoughthemecha-nismremainsunclear.Thismaybeduetoinflammationinvolvingtheopticnerves(ie,opticneuritis)orsecondarytoincreasedintracra-nialpressureandstasisoftheaxoplasmicflow(ie,papilledema).
+42
+Sincediscswellingcanbethesolemanifestation,22anti-GQ1banti-bodysyndromeshouldbeconsideredwhentheclinicalpresenta-
+tionofpatientswithdiscedemadoesnotfitintothatoftypicalop-ticneuritisorpapilledema.
+Acute Sensory Ataxic Neuropathy
+The“ataxicformofpolyradiculoneuritis”wasfirstdescribedin1962inapatientwithprofoundataxiawithalossofproprioceptionandvibrationsensationbutwithoutweaknessorophthalmoplegia.
+43The
+clinicalpresentationofthisataxicGBSissimilartothatofclassicMFSexceptfortheabsenceofophthalmoplegia.PatientswithataxicGBSwerefoundtocarryanti-GQ1bimmunoglobulin(Ig)Gantibodiesthatcross-reactwithGT1a.
+44Anautopsyrevealeddegenerationofthe
+fibersintheposteriorandClarkecolumnsbutnopathologyinthecerebellum.
+43Thissuggeststhatcerebellar-likeataxiaisaconse-
+quenceofdamageofafferentfiberstothespinocerebellarsystem,althoughneithernervesnordorsalrootgangliaweresampledintheautopsystudy.
+9Theanti-GQ1bantibodycanbindtothesensoryneu-
+ronsofthespinocerebellartractandpresentcerebellar-likeataxia.45
+Indeed,ataxicGBSandacutesensoryataxicneuropathymaybepartsofthesameclinicalspectrumandthuscouldbereferredtoasacuteataxicneuropathywithoutophthalmoplegia.
+9
+Patterns of Internal and External Ophthalmoplegia
+Patientswithophthalmoplegiaduetopositiveanti-GQ1bantibod-iesusuallyshowbinocularinvolvementsbutoftenasymmetricandmonocularinvolvementin27%ofcases.
+14Abductiondeficitsare
+commoninophthalmoplegia(Figure1),14,46,47althoughcomplete
+ophthalmoplegiaisobservedinmorethanhalfofpatients.46Ap-Figure 2. Magnetic Resonance Images of a Patient With Bickerstaff Brainstem Encephalitis
+Multiplescatteredlesionsarefoundinthebrainstem(yellowarrowheads)andopticchiasm(whitearrowheads).Clinical Review & Education Review ClinicalSpectrumofAnti-GQ1bAntibodySyndrome
+764 JAMA Neurology July2024 Volume81,Number7 (Reprinted) jamaneurology.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 4 ---
+proximately6%ofsingleocularmotornervepalsycanbeascribed
+to anti-GQ1b antibody.47Additionally, patients can show inter-
+nuclearophthalmoplegia( Video),48one-and-a-halfsyndrome,49or
+dissociatedhorizontalnystagmussuggestingcentralinvolvement.50
+Notably,themoststrikingfeatureofanti-GQ1bantibodysyndromeisprogressionofophthalmoplegiaduringtheillness.
+Iridoplegia
+Pupillaryabnormalitiesmayoccurin42%to55%ofpatientswithanti-GQ1b antibody syndrome, including mydriasis (42%), de-creasedlightreflexes(42%),andanisocoria.
+14,18Giventheocca-
+sionalfindingsoflight-neardissociationanddenervationsupersen-sitivitytocholinergicagents,theciliaryganglionorshortciliarynervemayalsobeaffectedbyanti-GQ1bantibodies.
+51,52
+Strabismus
+Diplopiaandstrabismusobservedinpatientswithanti-GQ1banti-bodysyndromemostlychangeaccordingtogazedirection(ie,in-comitant).H owever,the amountofocularmisalignmentmaybeun-changedregardlessofthedirectionofgazeorofwhicheyeisfixating
+thetarget(ie,comitant).
+53,54Incomitantstrabismus,thesaccadic
+velocityismostlypreserved.53,54Giventheaccompanyingcentral
+ocularmotorsigns,suchasspontaneousorpositionaldownbeatnystagmus,saccadichypermetria,orpulse-stepmismatch,comi-tant strabismus observed in patients with anti-GQ1b antibodysyndrome may be ascribed to dysfunction of the cerebellum orbrainstem.
+54Similartotypicalparalyticocularmotornervepalsies,
+the prognosis is excellent with a full recovery mostly within 6months.
+54
+Peripheral Lesions
+GQ1b gangliosides are enriched in the paranodal regions of thehumanoculomotor,trochlear,andabducensnervesandprobablyintheciliaryganglia.
+29Thus,theclinicalpresentationofanti-GQ1b
+antibodysyndromeismostlycausedbyinjuriestotheperipheralnerves.However, GQ1bgangliosidesarealsofoundinthecerebel-
+largranularcelllayerinmiceandrats.
+55,56Giventheselectivestain
+ofthedeepcerebellarnucleiandcerebellarmolecularlayerwithFigure 3. Patient With Acute Vestibular Syndrome
+Video head-impulse testsB Bithermal caloric testsC
+Velocity, degree/s Velocity, degree/s400
+300
+200100
+0
+–100
+400
+300
+200100
+0
+–100
+0 200 400 600 0 200
+Time, ms400 600 0 200 400 600
+Head
+EyeWarm
+SCV (avg)
+CoolWarm
+Cool
+04 5 33 [sec]  [sec] 22
+Right ear Left ear Right ear Left ear11 0 45 33 22 11R 45 L
+R 30 LR 15 L
+0 (d/s)
+L 15 R
+L 30 R
+L 45 R
+Warm
+Warm(d/s)
+CoolCoolRight ear Left ear Video-oculographyA
+A,Video-oculographydocumentsspontaneousnystagmusbeatingleftward
+(8.0°persecond),upward(2.1°persecond),andcounter-clockwise(4.3°persecond)withoutvisualfixation.B,Videohead-impulsetestsshowdecreasedvestibulo-ocularreflexgainsandcatch-upsaccadesfortherighthorizontalcanal(HC)andanteriorcanal(AC).C,Bithermalcalorictestsshowacanal
+paresisintherightear.Hindicateshorizontalpositionoftherighteye;PC,posteriorcanal;SCV,slow-componentvelocity;T,torsionalpositionoftherighteye;UBD,unexpectedbeatdirection;V,verticalpositionoftherighteye.ClinicalSpectrumofAnti-GQ1bAntibodySyndrome Review Clinical Review & Education
+jamaneurology.com (Reprinted) JAMA Neurology July2024 Volume81,Number7 765
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 5 ---
+anti-GQ1bantibodiesinhumans,17,57theseantibodiesmayaffect
+thecentralnervoussysteminitiallyorduringthecoursewhentheblood-nervebarrierisbrokenneartherootsofthecranialnerves.
+58
+Antigangliosideantibodiesalsoplayaroleindamagingtheblood-nervebarrier,allowinginfiltrationofinflammatorycellsfromtheperipheryandresultinginfurthernerveinjurybydestroyingthetight junction between the endothelial cells forming the blood-nerve barrier.
+59,60Indeed, an autopsy revealed chromatolytic
+changesandpyknosisofthemidbrainaswellassegmentaldemy-elinationoftheoculomotorandperipheralnerves,inapatientwithclassicMFS.
+61
+Supranuclearophthalmoplegiacanalsobeobservedinanti-
+GQ1bantibodysyndrome.Theseincludehorizontalgaze-evokednys-tagmus,preservationoftheBellphenomenoninverticalophthal-moplegia,internuclearophthalmoplegia,andpreservedconvergenceinthepresenceofadductionpalsy.
+18Moreover,patientsmayshow
+diffuseslowactivitiesonelectroencephalography,absentcorticalN20inthepresenceofnormalcervicalN13somatosensoryevokedpotentials,absentR2responsesonblinkreflex,orelevatedmetabo-lisminthebrainstemandcerebellum,whichallindicateinvolve-mentsofthecentralaswellasperipheralnervoussystemsinanti-GQ1bantibodysyndrome.
+58,62
+Laboratory Findings
+The anti-GQ1b antibody titers peak at clinical presentation anddeclinerapidlyduringthecourseofrecovery.Mostpatientsshowpositivityduringthefirstweekaftersymptomonset.
+63Theanti-
+GQ1bIgGantibodytitercorrelateswithclinicalseverityscore,es-peciallythatofophthalmoplegia.
+17Enzyme-Linked Immunosorbent Assay vs Glycoarray
+Differentmethodsmaypreferentiallydetectdifferenttypesofan-tibodiesowingtovariationsintheorientationoftheglycanhead-groupsontheimmobilizedsurface.Thus,theresultsmaynotbecon-cordant among different assay techniques.
+64Enzyme-linked
+immunosorbentassay(ELISA)remainsthemostcommonlyusedmethodbecauselaboratoriesarewidelyconversantwiththisstan-dardtechnology.Glycoarraysareusefulforscreeningdifferentan-tigangliosideantibodiesinasmallamountofserum.
+65
+ThesensitivityissimilarbetweenELISAandglycoarray,each
+showingratesof89%and87%forclassicMFS,57%and73%forGBS-O,andthesame74%and74%forBBE,respectively.
+66Both
+testsarecomplementary;thus,thesensitivityratesmayincreaseup to 92% for MFS, 75% for GBS-O, and 82% for BBE whencombined.
+66
+Frequency of False-Negative or False-Positive Results
+Itiswidelyacceptedthatanti-GQ1bantibodyisabsentinhealthyin-dividualsordiseasecontrols.
+67Besides,thesensitivityofseruman-
+tibodiestargetingGQ1bis92%withaspecificityof97%forMFS.68
+Thus, measurements of antibodies in the CSF confer no furtherbenefit.
+68
+Antibodies are detected in 89% to 95% of patients with
+MFS,17,66,69and the positive predictive value varies across sub-
+types,showinglowerpositivityinBBE(approximately74%)andGBS-O(approximately57%).
+24,66,70Thus,diagnosesbasedonlyon
+antibodypositivitycanmisleaddetection.Similarly,inmyastheniagravis,thepresenceofseronegativityinpatientsindicateshetero-geneouspathogenesisorthepresenceofnovelautoantibodies.
+66Figure 4. Illustration of the Clinical Findings and Mechanism of Molecular Mimicry Causing Anti-GQ1b Antibody Syndrome
+Anti-GQ1b antibody syndrome
+ARASDecreased 
+consciousness
+Appendicular ataxia, 
+imbalance, nystagmus
+Skin
+Muscle
+spindle Areflexia, ataxia, weakness
+GQ1bAntiganglioside antibody
+Mechanism of molecular mimicryB-cellPlasmocyte Antigen-presenting cellImbalance,
+peripheral nystagmusOphthalmoplegiaDecreased
+visual acuity
+BacteriaGD1b GT1a
+Cer CerCer
+Galactose
+GlucoseN-acetylgalactosamine
+N-acetylneuraminic acid
+ARASindicatesascendingreticularactivatingsystem;Cer,ceramide.Clinical Review & Education Review ClinicalSpectrumofAnti-GQ1bAntibodySyndrome
+766 JAMA Neurology July2024 Volume81,Number7 (Reprinted) jamaneurology.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 6 ---
+Association of Anti-GQ1b Antibody Presence
+and Titer With Prognosis
+Forcertainsubtypes,thepresenceandtiteroftheanti-GQ1banti-
+bodycanpredictclinicaloutcomes.TheclinicalmanifestationsandprognosesofBBEdonotdifferbetweenthosewithandwithoutantibodies.
+25Incontrast,anti-GQ1bantibodypositivityisapredic-
+tivefactorforartificialventilationinpatientswithGBS-O.71Aninvitro
+studyshowedthatanti-GQ1bantibodyhasanα-latrotoxin–likeblock-adeeffectonneuromusculartransmission.
+72Likewise,intraperito-
+neal injection of the anti-GQ1b antibody and human serum re-sultedinrespiratoryparalysisduetoblockadeofneuromusculartransmissioninmice.
+73
+Other Antiganglioside Antibodies Associated
+With Anti-GQ1b Antibodies
+Anti-GQ1bantibodiesfrequentlycross-reactwithGT1a(upto68%),
+GD3, and GD1b.66,74,75This cross-reactivity may explain the di-
+verseclinicalmanifestationsobservedinpatientswithanti-GQ1bantibodies.Forinstance,patientshaveahigherchanceofmotorweaknessandartificialventilationifantibodiesbindnotonlytoGQ1b-containingantigensbutalsotoGD1b-containingantigens.
+66Addi-
+tionally,cross-reactionwiththeantigencontainingGM1orGD1ain-dicatesaremarkablemotorweakness.
+75SinceGT1agangliosidesare
+abundantontheglossopharyngealandvagusnerves,patientswithanti-GQ1b antibodies cross-reacting with GT1a can exhibit pro-foundbulbarpalsy.
+76Likewise,deepsensationmaybeimpaired
+whentheantibodycross-reactswithGD1b.75Differences Between IgM and IgG Anti-GQ1b Antibodies
+Itiscommonlyagreedthatthepresenceofanti-GQ1bIgGantibodyislikelythepathogenicisotypeofanti-GQ1bantibodysyndrome.How-ever,thepathogenicroleofanti-GQ1bIgMantibodiesremainsun-clear.ThepresenceofIgManti-GQ1bantibody,incombinationwithotherantibodiesagainstadisialosylstructure(ie,GD1b,GQ1b,GT1a,andGD3),isassociatedwithacuteandchronicataxicneuropathy.
+9,77
+TheIgG-mediatedacuteimmunologicalprocessesdrivenbyexpo-suretobacterialantigensaredifferentfromthoseduetoIgMantibod-ies.TheIgMantibodypersistsandisduetoantigen-dependentclonalB-cellexpansion,therebyleadingtomonoclonalIgMgammopathy.
+9
+Inthiscontext,IgMantibodiesmaycausechronicdamageleadingtoaxonaldegeneration,althoughtheprognosisremainstobedelin-eatedforthevarioussubtypesofanti-GQ1bantibodysyndrome.
+9
+Differential Diagnosis
+Anti-GQ1bantibodysyndromeshouldbedifferentiatedfromanydisorderthatmanifestsprimarilywithacuteorsubacutefocalneuro-logicaldeficits,especiallyophthalmoplegia.TheseincludeWernickeen-cephalopathy,multiplesclerosis,neuro-Behcetdisease,myastheniagravis,pituitaryapoplexy,andTolosa-Huntsyndrome.Additionally,pa-tientsmaypresentwithunilateralophthalmoplegiathatmasquer-adesasocularmotornervepalsyofvariousetiologies.
+47Therefore,anti-
+GQ1b antibody syndrome should be considered in any type ofophthalmoplegia,especiallywhenanimmune-mediatedmechanismissuspected,suchasanantecedentinfectioninyoungpatients(usu-ally<50yearsold).
+47Table. Clinical Characteristics and Laboratory Findings of Anti-GQ1b Antibody Syndrome
+SyndromeClinical manifestationCerebrospinal fluid
+analysisaNerve conduction studyaAtaxia Areflexia Others
+Typical anti-GQ1b antibody syndrome with ophthalmoplegia
+Classic Fisher
+syndromeYes Yes No Albuminocytologic
+dissociation (~76%)Evidence of axonal
+neuropathy/neuronopathywith predominant sensorynerve changes (reducedSNAP and absent H reflexes)
+GBS with
+ophthalmoplegiaNo Yes Weakness,
+sensory changesAlbuminocytologic
+dissociationSuggestive of neuropathy
+without fulfillingdemyelinating or axonalneuropathy criteria,especially in the early stage(during the first week)
+Bickerstaff
+brainstemencephalitisNo No Impaired
+consciousness,weakness,hyperreflexiaPleocytosis or
+albuminocytologicdissociation (~46%)Normal but relevant
+abnormal findings whenoverlapped with GBS or MFS
+Acute
+ophthalmoplegiawithout ataxiaNo No No Mostly normal;
+pleocytosis oralbuminocytologicdissociation in limitednumber of patients (18%)Normal
+Atypical anti-GQ1b antibody syndrome without ophthalmoplegia
+Acute vestibular
+syndromeYes No Findings of
+peripheral andcentralvestibulopathyCentral vestibulopathy:
+pleocytosis (~20%) oralbuminocytologicdissociation (~50%);peripheral: unknownLikely normal
+Optic neuropathy
+with disc swellingNo No Visual
+disturbance,visual fielddefectUnknown Unknown
+Acute sensory
+ataxic neuropathyYes Yes No Albuminocytologic
+dissociation (~33%)UnknownAbbreviations:GBS,Guillain-Barré
+syndrome;MFS,MillerFishersyndrome;SNAP,sensorynerveactionpotential.
+aNerveconductionstudiesand
+cerebrospinalfluidanalysescansupportthediagnosisbutareofteninconclusiveintheearlystagesofthedisease;therefore,diagnosisandtreatmentshouldnotbedelayedifanti-GQ1bantibodysyndromeissuspectedonclinicalgrounds.ClinicalSpectrumofAnti-GQ1bAntibodySyndrome Review Clinical Review & Education
+jamaneurology.com (Reprinted) JAMA Neurology July2024 Volume81,Number7 767
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 7 ---
+Treatments
+Theideaofimmunomodulatingtherapyhasbeenendorsedbyits
+efficacyinGBS.78Immunomodulatingtherapymayneutralizethe
+autoantibodiesandinhibitcomplementactivationinanti-GQ1ban-tibodysyndrome.
+79Intravenousimmunoglobulin(IVIg)inhibitsthe
+bindingofantibodiestoGQ1b,therebypreventingcomplementac-tivationandsubsequentpathophysiologicaleffectsinmice.
+80Clini-
+caldatahavealsosuggestedthattheuseofIVIgmayhastenthere-coveryofophthalmoplegiaandataxia.
+81Incontrast,plasmapheresis
+doesnotaffectthespeedofrecoveryinpatientswithanti-GQ1ban-tibodysyndrome.
+82
+Theadoptionofimmunomodulatorytherapyneedstobestrati-
+fiedinindividualpatients,giventhefavorableoutcomesevenwithconservativetreatmentinmostpatientswithanti-GQ1bantibodysyndrome.
+18,81Todate,nowell-designedrandomizedclinicaltrials
+havedeterminedthetherapeuticeffectsoftheuseofIVIgorplas-mapheresisincomparisonwithplacebo.
+83
+Prognosis
+Mostpatientsrecovercompletelywithin4to12weeksofsymptomonset.Themediandurationtofullrecoveryisapproximately4weeksforataxiaand12weeksforophthalmoplegia.
+18Therecoveryrate
+showednocorrelationwithage,sex,evidenceofpriorinfection,anddisabilityatthenadirofthepatients.
+18Rarely,patientsdeteriorate
+despitetreatment,developingthefeaturesofGBSandeventuallyrequiringmechanicalventilation.
+84Thisneurologicdeteriorationoc-
+cursmorefrequentlyinBBEandGBS-Osubtypes.84,85Thus,careful
+monitoringandmanagementarerequiredforpatientswithcertainsub-typesbecauseseriouscomplicationscanoccur:eg,coma,
+86cardio-
+myopathyduetodysautonomia,87corticobulbardysfunction,67,88and
+evendeath.
+Potential of Anti-GQ1b Antibody Syndrome Relapse
+Anti-GQ1b antibody syndrome is mostly monophasic, withapproximate recurrences in only 14% of cases.
+89,90Relapse canoccur, especially when the patients have an underlying disease
+suchasHIVinfection32orcancer,whichmayexposeimmunogens
+withmolecularmimicry.Alternatively,giventhehighfrequencyofhumanhistocompatibilityleukocyteantigenDR2inpatientswithrecurrence,
+89aparticularimmunogeneticbackgroundmayplaya
+role.Duringrelapse,theantibodytiterishigherthanthatduringthe first attack with a grave clinical presentation.
+91The overall
+clinical outcome remains favorable despite multiplerecurrences.
+90
+Paraneoplastic Etiology
+Duringtheprocessofcarcinogenesis,novelgangliosidesmaybeexpressedonthetumorcellsthatshareepitopeswithcranialorperipheral nerves.
+92Consequently, paraneoplastic cranial
+neuropathycanbeassociatedwithvarioustypesofcancers,eg,thyroidcarcinoma,lungcancer,andlymphomas.
+93Elevatedanti-
+ganglioside antibody levels in patients with thyroid cancermay suggest that the process of carcinogenesis can evokeautoimmunization.
+94Compared with patients without cancer,
+those with cancer may show a higher IgM antiganglioside anti-body titer due to an antitumor immune reaction itself, irre-spective of the presence of cranial neuropathy.
+95Thus, it is still
+unknown whether antiganglioside antibodies are detected as achanceassociationorproducedduetoanimmunologicalmecha-nismtriggeredbythetumor.
+96
+Conclusions
+Theclinicalspectrumofanti-GQ1bantibodysyndromeisexpand-ing.However,a causalrelationshipbetweenantibodypositivityand
+certainphenotypesremainstobeestablished.Giventhevariousclini-calfeaturesofanti-GQ1bantibodysyndrome,recognitionofitswideclinicalspectrummayaidinthedifferentiationandmanagementofimmune-mediatedneuropathieswithmultiplefaces.
+ARTICLE INFORMATION
+Accepted for Publication: March1,2024.
+Published Online: May13,2024.
+doi:10.1001/jamaneurol.2024.1123
+Author Affiliations: DepartmentofNeurology,
+KoreaUniversityMedicalCenter,Seoul,SouthKorea(Lee);NeurotologyandNeuro-ophthalmologyLaboratory,KoreaUniversityAnamHospital,Seoul,SouthKorea(Lee);BiomedicalResearchInstitute,SeoulNationalUniversityBundangHospital,Seongnam,SouthKorea(H.-J.Kim);DizzinessCenter,ClinicalNeuroscienceCenter,DepartmentofNeurology,SeoulNationalUniversityBundangHospital,Seongnam,SouthKorea(J.-Y.Choi,J.-S.Kim);DeparmentofNeurology,SeoulNationalUniversityCollegeofMedicine,Seoul,SouthKorea(J.-Y.Choi,J.-S.Kim);DepartmentofNeurology,PusanNationalUniversityHospital,PusanNationalUniversitySchoolofMedicineandBiomedicalResearchInstitute,Pusan,SouthKorea(K.-D.Choi).
+Conflict of Interest Disclosures: DrJ.-S.Kim
+reportedservingasanassociateeditorof Frontiers
+in Neuro-otology andontheeditorialboardsof
+Frontiers in Neuro-ophthalmology ,Journal of
+Neuro-ophthalmology ,Journal of VestibularResearch,and Clinical and Translational
+Neuroscience .Nootherdisclosureswerereported.
+Funding/Support: Thisstudywassupportedbythe
+BasicScienceResearchProgramthroughtheNationalResearchFoundationofKorea(NRF)fundedbytheMinistryofEducation,ScienceandTechnology(NRF-2016R1D1A1B04935568)andtheMinistryofScienceandInformationandCommunicationTechnology(2022R1A4A1018869).
+Role of the Funder/Sponsor: Thefundershadno
+roleinthedesignandconductofthestudy;collection,management,analysis,andinterpretationofthedata;preparation,review,orapprovalofthemanuscript;ordecisiontosubmitthemanuscriptforpublication.
+REFERENCES
+1. SchnaarRL.Thebiologyofgangliosides. Adv
+Carbohydr Chem Biochem .2019;76:113-148.doi: 10.
+1016/bs.accb.2018.09.002
+2. WiegandtH. Gangliosides .Glycolipids;1985:
+199-260,doi: 10.1016/S0167-7306(08)60022-8 .
+3. SipioneS,MonyrorJ,GalleguillosD,SteinbergN,
+KadamV.Gangliosidesinthebrain:physiology,pathophysiologyandtherapeuticapplications.Front Neurosci .2020;14:572965.doi: 10.3389/fnins.
+2020.572965
+4. LedeenR,WuG.Gangliosidesofthenervous
+system. Methods Mol Biol .2018;1804:19-55.doi: 10.
+1007/978-1-4939-8552-4_2
+5. YukiN.Gangliosidemimicryandperipheral
+nervedisease. Muscle Nerve .2007;35(6):691-711.
+doi:10.1002/mus.20762
+6. WillisonHJ,PlompJJ.Anti-ganglioside
+antibodiesandthepresynapticmotornerveterminal. Ann N Y Acad Sci .2008;1132:114-123.
+doi:10.1196/annals.1405.010
+7. FukamiY,WongAH,FunakoshiK,SafriAY,
+ShahrizailaN,YukiN.Anti-GQ1bantibodysyndrome:anti-gangliosidecomplexreactivitydeterminesclinicalspectrum. Eur J Neurol .2016;23
+(2):320-326.doi: 10.1111/ene.12769
+8. KanzakiM,KaidaK,UedaM,etal.Ganglioside
+complexescontainingGQ1bastargetsinMillerFisherandGuillain-Barresyndromes. J Neurol
+Neurosurg Psychiatry .2008;79(10):1148-1152.
+doi:10.1136/jnnp.2007.142950
+9. YukiN,UnciniA.Acuteandchronicataxic
+neuropathieswithdisialosylantibodies:acontinuousclinicalspectrumandacommonClinical Review & Education Review ClinicalSpectrumofAnti-GQ1bAntibodySyndrome
+768 JAMA Neurology July2024 Volume81,Number7 (Reprinted) jamaneurology.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 8 ---
+pathophysiologicalmechanism. Muscle Nerve .
+2014;49(5):629-635.doi: 10.1002/mus.24192
+10. FisherM.Anunusualvariantofacuteidiopathic
+polyneuritis(syndromeofophthalmoplegia,ataxiaandareflexia). N Engl J Med .1956;255(2):57-65.
+doi:10.1056/NEJM195607122550201
+11. ChibaA,KusunokiS,ShimizuT,KanazawaI.
+SerumIgGantibodytogangliosideGQ1bisapossiblemarkerofMillerFishersyndrome. Ann
+Neurol.1992;31(6):677-679.doi: 10.1002/
+ana.410310619
+12. OdakaM,YukiN,HirataK.Anti-GQ1bIgG
+antibodysyndrome:clinicalandimmunologicalrange. J Neurol Neurosurg Psychiatry .2001;70(1):
+50-55.doi: 10.1136/jnnp.70.1.50
+13. YukiN,OdakaM,HirataK.Acute
+ophthalmoparesis(withoutataxia)associatedwithanti-GQ1bIgGantibody:clinicalfeatures.Ophthalmology .2001;108(1):196-200.doi: 10.1016/
+S0161-6420(00)00420-6
+14. LeeSH,LimGH,KimJS,etal.Acute
+ophthalmoplegia(withoutataxia)associatedwithanti-GQ1bantibody. Neurology .2008;71(6):426-429.
+doi:10.1212/01.wnl.0000324266.95814.74
+15. BickerstaffER,CloakePC.Mesencephalitisand
+rhombencephalitis. BMJ.1951;2(4723):77-81.doi:
+10.1136/bmj.2.4723.77
+16. YukiN,SatoS,TsujiS,HozumiI,MiyatakeT.An
+immunologicabnormalitycommontoBickerstaff’sbrainstemencephalitisandFisher’ssyndrome.J Neurol Sci .1993;118(1):83-87.doi: 10.1016/0022-
+510X(93)90250-3
+17. ChibaA,KusunokiS,ObataH,MachinamiR,
+KanazawaI.Serumanti-GQ1bIgGantibodyisassociatedwithophthalmoplegiainMillerFishersyndromeandGuillain-Barrésyndrome:clinicalandimmunohistochemicalstudies. Neurology .1993;43
+(10):1911-1917.doi: 10.1212/WNL.43.10.1911
+18. MoriM,KuwabaraS,FukutakeT,YukiN,Hattori
+T.ClinicalfeaturesandprognosisofMillerFishersyndrome. Neurology .2001;56(8):1104-1106.
+doi:10.1212/WNL.56.8.1104
+19. LeeSU,KimHJ,ChoiJY,KimJK,KimJS.Acute
+vestibularsyndromeassociatedwithanti-GQ1bantibody. Neurology .2019;93(11):e1085-e1092.
+doi:10.1212/WNL.0000000000008107
+20. LeeSU,KimHJ,ChoiJY,KimJS.
+Anti-gangliosideantibody-associatedacuteunilateralperipheralvestibulopathy. J Neurol.2019;
+266(1):250-252.doi: 10.1007/s00415-018-9109-z
+21. BruceCT,McClellandCM,VanStavernGP.
+PapilledemainanotherwiseclinicallytypicalcaseofMillerFishersyndrome. Can J Ophthalmol .2015;50
+(5):e69-e71.doi: 10.1016/j.jcjo.2015.04.016
+22. KimSH,BaekSH,LeeSU,YuS,KimJS.Optic
+discedemaasasolemanifestationofanti-GQ1bantibodysyndrome. J Neurol.2021;268(6):
+2263-2266.doi: 10.1007/s00415-021-10518-5
+23. HughesRA,CornblathDR.Guillain-Barré
+syndrome. Lancet.2005;366(9497):1653-1666.
+doi:10.1016/S0140-6736(05)67665-9
+24. OdakaM,YukiN,YamadaM,etal.Bickerstaff’s
+brainstemencephalitis:clinicalfeaturesof62casesandasubgroupassociatedwithGuillain-Barrésyndrome. Brain.2003;126(Pt10):2279-2290.
+doi:10.1093/brain/awg233
+25. PandaS,TripathiM.Anti-GQ1bIgGantibody
+syndrome:clinicalandimmunologicalrange.J Neurol Neurosurg Psychiatry .2002;72(3):418-419.
+doi:10.1136/jnnp.72.3.418
+26. ShahrizailaN,YukiN.Bickerstaffbrainstem
+encephalitisandFishersyndrome:anti-GQ1bantibodysyndrome. J Neurol Neurosurg Psychiatry .
+2013;84(5):576-583.doi: 10.1136/jnnp-2012-302824
+27. MondéjarRR,SantosJM,VillalbaEF.MRI
+findingsinaremitting-relapsingcaseofBickerstaffencephalitis. Neuroradiology .2002;44(5):411-414.
+doi:10.1007/s00234-001-0733-3
+28. YukiN.Acuteparesisofextraocularmuscles
+associatedwithIgGanti-GQ1bantibody. Ann Neurol .
+1996;39(5):668-672.doi: 10.1002/ana.410390517
+29. ChibaA,KusunokiS,ObataH,MachinamiR,
+KanazawaI.Gangliosidecompositionofthehumancranialnerves,withspecialreferencetopathophysiologyofMillerFishersyndrome. Brain Res.
+1997;745(1-2):32-36.doi: 10.1016/S0006- 8993(96)
+01123-7
+30. MinodaR,UnoK,ToriyaT,EuraM,NoguchiS,
+MasuyamaK.NeurologicandotologicfindingsinFisher’ssyndrome. Auris Nasus Larynx .1999;26(2):
+153-158.doi: 10.1016/S0385-8146(98)00050-9
+31. KimKT,ParkE,LeeSU,KimB,KimBJ,KimJS.
+Clinicalfeaturesandneurotologicalfindingsinpatientswithacuteunilateralperipheralvestibulopathyassociatedwithantigangliosideantibody. Neurology .2023;101(19):e1913-e1921.
+doi:10.1212/WNL.0000000000207814
+32. JungI,KimHJ,KimJS.Fluctuatingataxiaand
+nystagmusinassociationwithanti-GQ1bantibodyinHIVinfection. J Neurol Sci .2017;382:123-125.
+doi:10.1016/j.jns.2017.09.044
+33. FrossRD,DaubeJR.NeuropathyintheMiller
+Fishersyndrome:clinicalandelectrophysiologicfindings. Neurology .1987;37(9):1493-1498.doi: 10.
+1212/WNL.37.9.1493
+34. ReddelSW,BarnettMH,YanWX,HalmagyiGM,
+PollardJD.Chronicophthalmoplegiawithanti-GQ1bantibody. Neurology .2000;54(4):
+1000-1002.doi: 10.1212/WNL.54.4.1000
+35. VermeerschG,BoschiA,DeggoujN,vanPesch
+V,SindicCJ.RecurrentMillerFishersyndromewithvestibularinvolvement. Eur Neurol .2011;66(4):
+210-214.doi: 10.1159/000331486
+36. JeongSH,NamJ,KwonMJ,KimJK,KimJS.
+Nystagmusandataxiaassociatedwithantigangliosideantibodies. J Neuroophthalmol .
+2011;31(4):326-330.doi: 10.1097/WNO.
+0b013e31822f6707
+37. Zaro-WeberO,GalldiksN,DohmenC,FinkGR,
+NowakDA.Ocularflutter,generalizedmyoclonus,andtrunkataxiaassociatedwithanti-GQ1bantibodies. Arch Neurol .2008;65(5):659-661.
+doi:10.1001/archneur.65.5.659
+38. ToshniwalP.Demyelinatingopticneuropathy
+withMiller-Fishersyndrome:thecaseforoverlapsyndromeswithcentralandperipheraldemyelination. J Neurol.1987;234(5):353-358.
+doi:10.1007/BF00314295
+39. Colding-JørgensenE,VissingJ.Visual
+impairmentinanti-GQ1bpositiveMillerFishersyndrome. Acta Neurol Scand .2001;103(4):259-260.
+doi:10.1034/j.1600-0404.2001.d01-31.x
+40. ChanJW.Opticneuritisinanti-GQ1bpositive
+recurrentMillerFishersyndrome. Br J Ophthalmol .
+2003;87(9):1185-1186.doi: 10.1136/bj o.87.9.118541. CarvalhoAA,GalvãoMD,RochaMS,PiccoloAC,
+MaiaSC.Millerfishersyndromeandopticneuritis:case report [in Portuguese]. Arq Neuropsiquiatr .
+2000;58(4):1115-1117.doi: 10.1590/S0004-
+282X2000000600021
+42. PulitanòS,ViolaL,GenoveseO,etal.
+Miller-Fishersyndromemimickingintracranialhypertensionfollowingheadtrauma. Childs Nerv Syst .
+2005;21(6):473-476.doi: 10.1007/
+s00381-005-1144-2
+43. RichterRB.Theataxicformof
+polyradiculoneuritis(Landry-Guillain-Barresyndrome):clinicalandpathologicobservations.J Neuropathol Exp Neurol .1962;21:171-184.doi: 10.
+1097/00005072-196204000-00001
+44. YukiN,SusukiK,HirataK.AtaxicGuillain-Barré
+syndromewithanti-GQ1bantibody:relationtoMillerFishersyndrome. Neurology .2000;54(9):
+1851-1853.doi: 10.1212/WNL.54.9.1851
+45. KusunokiS,ChibaA,KanazawaI.Anti-GQ1bIgG
+antibodyisassociatedwithataxiaaswellasophthalmoplegia. Muscle Nerve .1999;22(8):1071-
+1074.doi: 10.1002/(SICI)1097-4598(199908)22:
+8<1071::AID-MUS10>3.0.CO;2-0
+46. RyuWY,KimYH,YoonBA,ParkHT,BaeJS,Kim
+JK.PatternofextraocularmuscleinvolvementsinMillerFishersyndrome. J Clin Neurol .2019;15(3):
+308-312.doi: 10.3988/jcn.2019.15.3.308
+47. ChoiKD,ChoiSY,ChoiJH,etal.Characteristics
+ofsingleocularmotornervepalsyassociatedwithanti-GQ1bantibody. J Neurol.2019;266(2):476-479.
+doi:10.1007/s00415-018-9161-8
+48. KeaneJR.Internuclearophthalmoplegia:
+unusualcausesin114of410patients. Arch Neurol .
+2005;62(5):714-717.doi: 10.1001/archneur.62.5.714
+49. BerlitP,RakickyJ.TheMillerFishersyndrome:
+reviewoftheliterature. J Clin Neuroophthalmol .
+1992;12(1):57-63 .
+50. MeienbergO,RyffelE.Supranucleareye
+movementdisordersinFisher’ssyndromeofophthalmoplegia,ataxia,andareflexia:reportofacaseandliteraturereview. Arch Neurol .1983;40(7):
+402-405.doi: 10.1001/archneur.1983.
+04050070032005
+51. NittaT,KaseM,ShinmeiY,YoshidaK,ChinS,
+OhnoS.Mydriasiswithlight-neardissociationin
+Fisher’ssyndrome. Jpn J Ophthalmol .2007;51(3):
+224-227.doi: 10.1007/s10384-007-0429-2
+52. RadziwillAJ,SteckAJ,BorruatFX,
+BogousslavskyJ.IsolatedinternalophthalmoplegiaassociatedwithIgGanti-GQ1bantibody. Neurology .
+1998;50(1):307.doi: 10.1212/WNL.50.1.307
+53. KwonE,YoonBA,KimHJ,ChoiJY,YangHK,
+KimJS.Acuteacquiredconcomitantesotropiainanti-GQ1b-antibodysyndrome. J Clin Neurol .2021;
+17(2):322-324.doi: 10.3988/jcn.2021.17.2.322
+54. LeeSU,BaekSH,KimHJ,ChoiJY,KimBJ,Kim
+JS.Acutecomitantstrabismusinanti-GQ1bantibodysyndrome. J Neurol.2023;270(1):486-492.
+doi:10.1007/s00415-022-11394-3
+55. KotaniM,KawashimaI,OzawaH,TerashimaT,
+TaiT.Differentialdistributionofmajorgangliosidesinratcentralnervoussystemdetectedbyspecificmonoclonalantibodies. Glycobiology .1993;3(2):
+137-146.doi: 10.1093/glycob/3.2.137
+56. KawashimaI,NagataI,TaiT.Immunocyto-
+chemicalanalysisofgangliosidesinratprimarycerebellarculturesusingspecificmonoclonalClinicalSpectrumofAnti-GQ1bAntibodySyndrome Review Clinical Review & Education
+jamaneurology.com (Reprinted) JAMA Neurology July2024 Volume81,Number7 769
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026
+--- Page 9 ---
+antibodies. Brain Res .1996;732(1-2):75-86.
+doi:10.1016/0006- 8993(96)00493-3
+57. KornbergAJ,PestronkA,BlumeGM,LopateG,
+YueJ,HahnA.SelectivestainingofthecerebellarmolecularlayerbyserumIgGinMiller-Fisherandrelatedsyndromes. Neurology .1996;47(5):1317-1320.
+doi:10.1212/WNL.47.5.1317
+58. OgawaraK,KuwabaraS,YukiN.Fisher
+syndromeorBickerstaffbrainstemencephalitis?Anti-GQ1bIgGantibodysyndromeinvolvingboththeperipheralandcentralnervoussystems. Muscle
+Nerve.2002;26(6):845-849.doi: 10.1002/mus.10246
+59. KandaT,YamawakiM,IwasakiT,MizusawaH.
+Glycosphingolipidantibodiesandblood-nervebarrierinautoimmunedemyelinativeneuropathy.Neurology .2000;54(7):1459-1464.doi: 10.1212/
+WNL.54.7.1459
+60. KandaT.Biologyoftheblood-nervebarrier
+anditsalterationinimmunemediatedneuropathies. J Neurol Neurosurg Psychiatry .2013;
+84(2):208-212.doi: 10.1136/jnnp-2012-302312
+61. BarontiniF,DiLolloS,MaurriS,LambruschiniP.
+LocalizationofthepathologicalprocessinMillerFishersyndrome. Ital J Neurol Sci .1992;13(3):221-225.
+doi:10.1007/BF02224393
+62. KimYK,KimJS,JeongSH,ParkKS,KimSE,
+ParkSH.CerebralglucosemetabolisminFishersyndrome. J Neurol Neurosurg Psychiatry .2009;80
+(5):512-517.doi: 10.1136/jnnp.2008.154765
+63. NishimotoY,OdakaM,HirataK,YukiN.
+Usefulnessofanti-GQ1bIgGantibodytestinginFishersyndromecomparedwithcerebrospinalfluidexamination. J Neuroimmunol .2004;148(1-2):
+200-205.doi: 10.1016/j.jneuroim.2003.11.017
+64. WillisonHJ,VeitchJ,SwanAV,etal.
+Inter-laboratoryvalidationofanELISAforthedeterminationofserumanti-gangliosideantibodies. Eur J Neurol .1999;6(1):71-77.doi: 10.
+1046/j.1468-1331.1999.610071.x
+65. EmilienD,HughW.Diagnosticutilityofauto
+antibodiesininflammatorynervedisorders.J Neuromuscul Dis .2015;2(2):107-112.
+doi:10.3233/JND-150078
+66. YoshikawaK,KuwaharaM,MorikawaM,etal.
+Variedantibodyreactivitiesandclinicalrelevanceinanti-GQ1bantibody-relateddiseases. Neurol
+Neuroimmunol Neuroinflamm .2018;5(6):e501.
+doi:10.1212/NXI.0000000000000501
+67. LoYL.Clinicalandimmunologicalspectrumof
+theMillerFishersyndrome. Muscle Nerve .2007;36
+(5):615-627.doi: 10.1002/mus.20835
+68. SpatolaM,DuPasquierR,SchluepM,
+RegeniterA.SerumandCSFGQ1bantibodiesinisolatedophthalmologicsyndromes. Neurology .
+2016;86(19):1780-1784.doi: 10.1212/WNL.
+0000000000002558
+69. KogaM,YukiN,TakahashiM,SaitoK,HirataK.
+CloseassociationofIgAanti-gangliosideantibodieswithantecedentCampylobacterjejuniinfectioninGuillain-BarréandFisher’ssyndromes.J Neuroimmunol .1998;81(1-2):138-143.doi: 10.1016/
+S0165-5728(97)00168-9
+70. CarpoM,PedottiR,AllariaS,etal.Clinical
+presentationandoutcomeofGuillain-Barréandrelatedsyndromesinrelationtoanti-ganglioside
+antibodies.
+J Neurol Sci .1999;168(2):78-84.doi: 10.
+1016/S0022-510X(99)00173-2
+71. KaidaK,KusunokiS,KanzakiM,KamakuraK,
+MotoyoshiK,KanazawaI.Anti-GQ1bantibodyasafactorpredictiveofmechanicalventilationinGuillain-Barrésyndrome. Neurology .2004;62(5):
+821-824.doi: 10.1212/01.WNL. 0000113718.27729.43
+72. O’HanlonGM,PlompJJ,ChakrabartiM,etal.
+Anti-GQ1bgangliosideantibodiesmediatecomplement-dependentdestructionofthemotornerveterminal. Brain.2001;124(Pt5):893-906.
+doi:10.1093/brain/124.5.893
+73. HalsteadSK,ZitmanFM,HumphreysPD,etal.
+Eculizumabpreventsanti-gangliosideantibody-mediatedneuropathyinamurinemodel.Brain.2008;131(Pt5):1197-1208.doi: 10.1093/brain/
+awm316
+74. YukiN.Molecularmimicrybetween
+gangliosidesandlipopolysaccharidesofCampylobacterjejuniisolatedfrompatientswithGuillain-BarrésyndromeandMillerFishersyndrome. J Infect Dis .1997;176(suppl2):S150-S153.
+doi:10.1086/513800
+75. SusukiK,YukiN,HirataK.Finespecificityof
+anti-GQ1bIgGandclinicalfeatures. J Neurol Sci .2001;
+185(1):5-9.doi: 10.1016/S0022-510X(01)00464-6
+76. KogaM,YoshinoH,MorimatsuM,YukiN.
+Anti-GT1aIgGinGuillain-Barrésyndrome. J Neurol
+Neurosurg Psychiatry .2002;72(6):767-771.doi: 10.
+1136/jnnp.72.6.767
+77. UnciniA,YukiN.SensoryGuillain-Barré
+syndromeandrelateddisorders:anattemptatsystematization. Muscle Nerve .2012;45(4):464-470.
+doi:10.1002/mus.22298
+78. HughesRA,SwanAV,vanDoornPA.
+IntravenousimmunoglobulinforGuillain-Barrésyndrome. Cochrane Database Syst Rev .2014;2014
+(9):CD002063.doi: 10.1002/14651858.CD002063.
+pub6
+79. WittstockM,BeneckeR,ZettlUK.Therapywith
+intravenousimmunoglobulins:complicationsandside-effects. Eur Neurol .2003;50(3):172-175.
+doi:10.1159/000073059
+80. JacobsBC,O’HanlonGM,BullensRW,VeitchJ,
+PlompJJ,WillisonHJ.Immunoglobulinsinhibitpathophysiologicaleffectsofanti-GQ1b-positiveseraatmotornerveterminalsthroughinhibitionofantibodybinding. Brain.2003;126(Pt10):2220-2234.
+doi:10.1093/brain/awg235
+81. MoriM,KuwabaraS,FukutakeT,HattoriT.
+IntravenousimmunoglobulintherapyforMillerFishersyndrome. Neurology .2007;68(14):1144-1146.
+doi:10.1212/01.wnl.0000258673.31824.61
+82. MoriM,KuwabaraS,FukutakeT,HattoriT.
+PlasmapheresisandMillerFishersyndrome:analysisof50consecutivecases. J Neurol
+Neurosurg Psychiatry .2002;72(5):680.doi: 10.1136/
+jnnp.72.5.680
+83. OverellJR,HsiehST,OdakaM,YukiN,Willison
+HJ.TreatmentforFishersyndrome,Bickerstaff’sbrainstemencephalitisandrelateddisorders.Cochrane Database Syst Rev .2007;2007(1):
+CD004761.doi: 10.1002/14651858.CD004761.pub284
+. ItoM,KuwabaraS,OdakaM,etal.Bickerstaff’s
+brainstemencephalitisandFishersyndromeformacontinuousspectrum:clinicalanalysisof581cases.J Neurol.2008;255(5):674-682.doi: 10.1007/
+s00415-008-0775-0
+85. FunakoshiK,KuwabaraS,OdakaM,HirataK,
+YukiN.ClinicalpredictorsofmechanicalventilationinFisher/Guillain-Barréoverlapsyndrome. J Neurol
+Neurosurg Psychiatry .2009;80(1):60-64.doi: 10.
+1136/jnnp.2008.154351
+86. MatsumotoH,KobayashiO,TamuraK,Ohkawa
+T,SekineI.MillerFishersyndromewithtransientcoma:comparisonwithBickerstaffbrainstemencephalitis. Brain Dev .2002;24(2):98-101.doi: 10.
+1016/S0387-7604(01)00409-0
+87. OomuraM,YamawakiT,OeH,etal.Association
+ofcardiomyopathycausedbyautonomicnervoussystemimpairmentwiththeMillerFishersyndrome. J Neurol Neurosurg Psychiatry .2003;74
+(5):689-690.doi: 10.1136/jnnp.74.5.689
+88. LoYL,RatnagopalP.Corticobulbardysfunction
+intheMillerFishersyndrome. Clin Neurol Neurosurg .
+2003;105(3):156-158.doi: 10.1016/S0303-8467(02)
+00139-7
+89. ChidaK,NomuraH,KonnoH,TakaseS,
+ItoyamaY.RecurrentMillerFishersyndrome:clinicalandlaboratoryfeaturesandHLAantigens.J Neurol Sci .1999;165(2):139-143.doi: 10.1016/
+S0022-510X(99)00095-7
+90. HeckmannJG,DütschM.RecurrentMiller
+Fishersyndrome:clinicalandlaboratoryfeatures.Eur J Neurol .2012;19(7):944-954.doi: 10.1111/
+j.1468-1331.2011.03584.x
+91. UchigamiH,SaitoY,TsuchidaT,UchiboriA,
+ChibaA,SaitoM.ComparisonofantibodyreactivityinthefirstandsecondepisodesofrecurrentMillerFishersyndrome. Neurol Sci .2021;42(4):1607-1609.
+doi:10.1007/s10072-020-04850-3
+92. HakomoriS.Aberrantglycosylationincancer
+cellmembranesasfocusedonglycolipids:overviewandperspectives. Cancer Res .1985;45(6):2405-2414 .
+93. WanleenuwatP,IwanowskiP,KozubskiW.
+Antigangliosideantibodiesinneurologicaldiseases.J Neurol Sci .2020;408:116576.doi: 10.1016/
+j.jns.2019.116576
+94. LewartowskaA,PacuszkaT,AdlerG,
+PanasiewiczM,WojciechowskaW.GangliosidereactiveantibodiesofIgGandIgMclassinseraofpatientswithdifferentiatedthyroidcancer.Immunol Lett .2002;80(2):129-132.doi: 10.1016/
+S0165-2478(01)00300-5
+95. PerezCA,RavindranathMH,SohD,Gonzales
+A,YeW,MortonDL.Serumanti-gangliosideIgMantibodiesinsofttissuesarcoma:clinicalprognosticimplications. Cancer J.2002;8(5):384-394.doi: 10.
+1097/00130404-200209000-00009
+96. AntoineJC,CamdessanchéJP,FerraudK,
+CaudieC.Antigangliosideantibodiesinparaneoplasticperipheralneuropathies. J Neurol
+Neurosurg Psychiatry .2004;75(12):1765-1767.
+doi:10.1136/jnnp.2003.032193Clinical Review & Education Review ClinicalSpectrumofAnti-GQ1bAntibodySyndrome
+770 JAMA Neurology July2024 Volume81,Number7 (Reprinted) jamaneurology.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 03/31/2026

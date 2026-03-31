@@ -1,0 +1,279 @@
+Citation: Chen A, Kim J, Henderson G, Berkowitz A. Posterior reversible encephalopathy syndrome in Guillain-Barre syndrome. J Clin Neurosci. 2015;22(5):914-916. PMID: 25800144
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+Posterior reversible encephalopathy syndrome in Guillain-Barré
+syndrome
+Adam Chen⇑, Jennifer Kim, Galen Henderson, Aaron Berkowitz
+Department of Neurology, Brigham and Women’s Hospital, Harvard Medical School, 75 Francis Street, Boston, MA 02115, USA
+article info
+Article history:
+Received 7 November 2014Accepted 10 November 2014
+Keywords:Autonomic nervous system diseasesGuillain-Barré syndromePosterior leukoencephalopathy syndromeabstract
+Autonomic dysfunction is a well-known complication of Guillain-Barré syndrome (GBS) and may mani-
+fest as hemodynamic ﬂuctuations. Posterior reversible encephalopathy syndrome (PRES) is commonly
+associated with acute hypertension, but is rarely reported to occur in association with GBS. We describea patient with GBS who developed PRES in the setting of autonomic dysfunction and review the clinical
+features of all 12 previously reported patients with co-occurrence of GBS and PRES. Almost all cases have
+occurred in women over the age of 55, raising the possibility of increased sensitivity to dysautonomia inthis patient group.
+/C2112014 Elsevier Ltd. All rights reserved.
+1. Case report
+A 63-year-old woman with a history of depression and anxiety
+presented with 3 days of back pain and cramps in her distal
+extremities. She had a self-limited gastrointestinal illness the week
+prior. On admission, her blood pressure and pulse were 172/
+98 mmHg and 96 beats per minute respectively. Shortly after pre-
+sentation, she acutely developed bilateral loss of vision followed
+by a generalized tonic-clonic seizure. Lorazepam was administered
+and she was intubated for airway protection in the setting of post-
+ictal respiratory distress. MRI of the brain showed symmetric pari-
+eto-occipital T2-weighted hyperintense lesions, consistent with
+posterior reversible encephalopathy syndrome (PRES) ( Fig. 1 ).
+Lumbar puncture demonstrated elevated total protein (59 mg/dl;
+normal range 5–55 mg/dl) and only one white blood cell.
+Levetiracetam was given and she was extubated within a day. Her
+electroencephalogram showed no epileptiform discharges. For
+intermittent hypertension, she was treated with labetalol. Overthe next several hours, she developed progressive dyspnea and dif-
+fuse weakness. She was reintubated due to worsening respiratory
+failure. On examination, she was able to follow commands and
+mouth some words. Her extra-ocular movements were intact and
+her face was symmetric. Her muscle tone was diminished and no
+extremity movements were observed, either spontaneous or to
+noxious stimuli. Deep tendon reﬂexes were absent. Her blood pres-
+sure became more labile, ranging from 60/40 to 190/80 mmHg.
+Nerve conduction studies revealed a severe generalized polyneu-
+ropathy with absence of almost all compound muscle and sensory
+nerve action potentials. She was diagnosed with Guillain-Barré syn-
+drome (GBS) and treated with intravenous immunoglobulin G
+(IVIG; 2 g/kg over 5 days). She had a prolonged hospitalization
+and required placement of gastrostomy and tracheostomy tubes.
+When seen in follow-up 10 months later, there was signiﬁcant
+clinical improvement. She no longer required respiratory or nutri-
+tional support. She returned to all of her pre-hospitalization activi-
+ties and was functionally independent. Her neurologic examination
+⇑Corresponding author. Tel.: +1 617 732 7432; fax: +1 617 278 6083.
+E-mail address: achen15@partners.org (A. Chen).
+Fig. 1. Axial T2-weighted ﬂuid attenuated inversion recovery MRI demonstrates bilateral symmetric hyperintense lesions involving mostly the parietal an d occipital lobes (A)
+with some involvement of the frontal lobes (B).914 Case Reports / Journal of Clinical Neuroscience 22 (2015) 914–916
+--- Page 2 ---
+Table 1
+Summary of reports of co-occurrence of posterior reversible encephalopathy syndrome and Guillain-Barré syndrome
+Age Sex Initial GBS
+symptomsInitial PRES
+symptomsDays between GBS
+symptom onset
+and PRES symptom
+onsetHistory
+of HTNInitial BP
+(mmHg)CSF
+protein
+(mg/dl)CSF WBC EMG/NCS MRI ﬁndings Treatment Outcome Reference
+58 F Back/radicular
+pain, sensory
+changes in feetEncephalopathy,
+seizure3 No 152/82 93 2 CMAP amplitude ;, velocity
+;, temporal dispersion,PRES^IVIG 7 months
+Walk independently[4]
+F wave absent.
+Blink reﬂex prolonged
+66 F Back pain,
+ascendingparalysis, R facialweaknessEncephalopathy 5 Yes 226/106
+(maximum)115 2 ‘‘Consistent with GBS’’ PRES + basilar artery
+vasoconstriction,multiple infarcts, basalganglia petechial and Rfrontal subarachnoidhemorrhagesIVIG 3 weeks [5]
+Vision returned butquadriplegic
+62 F Back pain radiating
+to L shoulderSeizure,
+encephalopathy6 NR 191/98 112 ‘‘Normal’’ CMAP latency ", PRES IVIG 1 month [6]
+SNAP L median absent, Full recovery (except
+reduced L ankle reﬂex) F wave prolonged
+62 F Flaccid paralysis,
+facial diplegiaCortical
+blindnessSimultaneous NR 204/113 95 NR CMAP latency ", conduction
+block.PRES + occipital and
+cerebellar infarcts,small hemorrhagePLEX 9 months [7]
+SNAP latency ", amplitude ;, Full recovery (except absent
+ankle reﬂexes) F wave prolonged
+82 F Back pain, leg
+weakness andparesthesiasConfusion,
+seizure6 Yes 148/78 133 ‘‘Normal’’ CMAP partial conduction
+block, temporal dispersion,PRES PLEX 2 weeks
+Mental status normal,improved lower extremitystrength[8]
+F wave prolonged
+57 F Sensory changes in
+ﬁngers/feetHeadache Simultaneous No 180/100 147 5 ‘‘Demyelinating
+polyneuropathy’’PRES IVIG 2 weeks [9]
+Improved strength andsensation
+67 F Shoulder/back pain Drowsiness, L
+homonymoushemianopia3 No 190/90 131 0 CMAP latency ", amplitude ;, PRES IVIG 1 month
+Full recovery[10]
+SNAP latency "or absent,
+F wave prolonged
+28 F Sensory changes in
+hands/feetAsymptomatic 7
+*No 150/85 75 ‘‘Normal’’ CMAP amplitude ;, PRES IVIG
+(stoppeddue toallergy)5 months
+Moderate distal sensory loss,neuropathic pain[11]
+SNAP amplitude ;,
+F wave prolonged
+63 F Sensory changes in
+feetHeadache,
+corticalblindness4 No 180/100 189 0 CMAP latency ", velocity ;,
+amplitude ;,PRES IVIG, PLEX 1 year
+Walk with cane, R facialweakness, distal armweakness[12]
+SNAP velocity ;, amplitude ;,
+F wave absent
+76 F Radicular pain and
+paresthesias in allextremitiesEncephalopathy,
+seizure14 No 210/116 114 5 CMAP conduction block, PRES IVIG 1 month
+Full recovery (except diffuseareﬂexia, vibratory sensationloss in distal legs)[13]
+SNAP amplitude ;, velocity ;,
+F wave absent
+67 F Neck pain,
+paresthesiasAsymptomatic 7
+*NR NR 67 ‘‘Normal’’ ‘‘Consistent with GBS’’ PRES IVIG NR [14]
+63 M Gait difﬁculty, arm
+weaknessSeizure 5 No 192/94 176 4 CMAP latency ", amplitude ;,
+velocity "PRES IVIG 6 months [15]
+Ambulatory, independentwith ADL
+63 F Back pain, sensory
+changes in digitsCortical
+blindness,seizure3 No 172/98 59 1 CMAP absent, PRES IVIG 10 months Present
+report SNAP absent Full recovery (except mild
+paresthesias, vibratorysensation loss in feet)
+*MRI of the brain showing PRES was obtained 7 days after GBS symptom onset.
+^MRI ﬁndings of PRES deﬁned as relatively symmetric, posterior-dominant T2-weighted hyperintense lesions.
+ADL = activities of daily living, BP = blood pressure, CMAP = compound muscle action potential, CSF = cerebrospinal ﬂuid, EMG = electromyography, F = fe male, GBS = Guillain-Barré syndrome, HTN = hypertension,
+IVIG = intravenous immunoglobulin G, L = left, M = male, NCS = nerve conduction study, NR = not reported, PLEX = plasma exchange, PRES = posterior reversi ble encephalopathy syndrome, R = right, SNAP = sensory nerve action
+potential, WBC = white blood cell count, "= increased, ;= decreased.Case Reports / Journal of Clinical Neuroscience 22 (2015) 914–916 915
+--- Page 3 ---
+was normal with the exception of mild paresthesias in her ﬁnger-
+tips and reduced vibratory sensation in her feet.
+2. Discussion
+Autonomic dysfunction is a well-described complication of GBS
+and affects over 60% of patients [1]. Manifestations include hyper-
+tension and tachycardia alternating with hypotension and brady-
+cardia, arrhythmia, and urinary retention. Severe dysautonomia
+occurs in 20% of patients and can contribute to morbidity and mor-
+tality [2]. PRES is associated with a myriad of medical conditions
+and medications, but acute or relative hypertension is a common
+trigger [3]. PRES co-occurring with GBS is a rarely reported phe-
+nomenon, with 12 documented patients in the English literature
+to our knowledge ( Table 1 )[4–15] .
+Considering all reported cases, including our patient, 12 (92%)
+were female. Twelve (92%) were over the age of 55 with an average
+age of 63 (range 28 to 82 years). Nine (69%) had distinct onset of
+GBS-related symptoms (that is, back pain, sensorimotor deﬁcits)
+prior to PRES-related symptoms (encephalopathy, visual changes,
+seizure). On average, GBS symptoms occurred 5 days (range 3 to
+14) before PRES symptoms. Two patients (15%) were diagnosed
+with GBS and PRES simultaneously. Two patients (15%) had GBS
+but only incidental radiological evidence of PRES without clinical
+signs or symptoms of the disorder. Regarding GBS characteristics,
+all patients had cerebrospinal ﬂuid albuminocytologic dissociation,
+with average total protein 116 mg/dl (range 59 to 189). Nerve con-
+duction studies were performed in all patients and showed ﬁnd-
+ings consistent with GBS. With respect to PRES characteristics, all
+patients were hypertensive at time of presentation, but only two
+(12%) had a history of chronic hypertension. MRI ﬁndings typicalof PRES were seen in all patients. One patient also had occipital
+and cerebellar infarcts with a small hemorrhage while another
+had evidence of reversible vasoconstriction with associated
+infarcts and hemorrhage [5,7] . All patients were treated with
+IVIG and/or plasma exchange, but the majority (10, 77%) received
+IVIG alone. PRES was diagnosed prior to initiation of treatment in
+12 patients (92%). Outcome was reported in 12 patients (92%) with
+an average follow-up time of 5 months (range 2 weeks to 1 year).
+Seven patients (54%) had recovery to functional independence. Of
+the ﬁve patients whose follow-up was longer than 6 months, four
+(80%) had near-complete recovery.
+It has been proposed that GBS is an independent risk factor for
+PRES [6,7,12,15] . The exact mechanism for the relationship
+between the conditions is unknown, but one hypothesis is that
+dysautonomia may be a contributing factor. Blood pressure insta-
+bility, in particular acute hypertension, may lead to increased
+capillary ﬁltration pressure in the cerebral vasculature, resulting
+in secondary endothelial damage and development of PRES [3].
+This is supported by the fact that all reported cases of GBS-associ-
+ated PRES had early hypertension while only 17% had a history of
+chronic hypertension. Most patients did not develop symptoms of
+PRES until several days after onset of GBS symptoms, suggesting
+that duration as well as degree of hypertension may also play a
+role. An alternative theory suggests that the increased cere-
+brospinal ﬂuid levels of inﬂammatory cytokines and chemokines
+seen in GBS may similarly alter capillary membrane permeability
+and disrupt the blood–brain barrier, resulting in PRES [2,16,17] .
+The majority of reported cases of GBS-associated PRES were
+women over age 55. Overall, men are about 1.5 times more likely
+than women to be affected by GBS [18]. Conversely, PRES is
+thought to occur more commonly in women, although robust epi-
+demiological data are lacking [19]. This raises the possibility of sexand age-speciﬁc factors that may increase susceptibility to auto-
+nomic instability or its effects. T he incidence of PRES co-occurring
+with GBS is unknown. Two reported patients had incidental
+discovery of radiographic evidence of PRES without clinical signs
+of the syndrome [11,14] . Therefore, subclinical impaired
+cerebrovascular autoregulation may be more common in GBS than
+has been documented, since most patients are unlikely to have an
+indication for brain MRI. Further prospective studies may be
+helpful in clarifying the true incidence of PRES occurring in the
+setting of GBS.
+Conﬂicts of Interest/Disclosures
+Dr. Chen, Dr. Kim, and Dr. Henderson report they have no ﬁnan-
+cial or other conﬂicts of interest in relation to this research and its
+publication. Dr. Berkowitz reports no relevant disclosures, but
+receives royalties from Clinical Pathophysiology Made Ridiculously
+Simple (Medmaster, Inc.) and The Improvising Mind (Oxford
+University Press). This research received no grant funding.
+References
+[1]Zochodne DW. Autonomic involvement in Guillain–Barré syndrome: a review.
+Muscle Nerve 1994;17:1145–55 .
+[2]Yuki N, Hartung H. Guillain–Barré syndrome. N Engl J Med
+2012;366:2294–304 .
+[3]Feske SK. Posterior reversible encephalopathy syndrome: a review. Semin
+Neurol 2011;31:202–15 .
+[4]Elahi A, Kelkar P, St Louis EK. Posterior reversible encephalopathy syndrome as
+the initial manifestation of Guillain–Barré Syndrome. Neurocrit Care
+2004;1:465–8 .
+[5]Doss-Esper CE, Singhal AB, Smith MS, et al. Reversible posterior
+leukoencephalopathy, cerebral vasoconstriction, and strokes after intravenousimmune globulin therapy in Guillain–Barre syndrome. J Neuroimaging
+2005;15:188–92
+.
+[6]Van Diest D, Van Goethem JWM, Vercruyssen A, et al. Posterior reversible
+encephalopathy and Guillain–Barré syndrome in a single patient: coincidence
+or causative relation? Clin Neurol Neurosurg 2007;109:58–62 .
+[7]Bavikatte G, Gaber T, Eshiett MU. Posterior reversible encephalopathy
+syndrome as a complication of Guillain–Barré syndrome. J Clin Neurosci
+2010;17:924–6 .
+[8]Fugate JE, Wijdicks EF, Kumar G, et al. One thing leads to another: GBS
+complicated by PRES and Takotsubo cardiomyopathy. Neurocrit Care2009;11:395–7
+.
+[9]Sutter R, Mengiardi B, Lyrer P, et al. Posterior reversible encephalopathy as the
+initial manifestation of a Guillain–Barré syndrome. Neuromuscul Disord
+2009;19:709–10 .
+[10] Abraham A, Ziv S, Drory VE. Posterior reversible encephalopathy syndrome
+resulting from Guillain–Barré-like syndrome secondary to West Nile virus
+infection. J Clin Neuromuscul Dis 2011;12:113–7 .
+[11] Parmentier C, Vandermeeren Y, Laloux P, et al. Asymptomatic posterior
+reversible encephalopathy revealed by brain MRI in a case of axonal Guillain–
+Barré syndrome. Clin Neurol Neurosurg 2012;114:1006–9 .
+[12] Rigamonti A, Basso F, Scaccabarozzi C, et al. Posterior reversible
+encephalopathy syndrome as the initial manifestation of Guillain–Barrésyndrome: case report and review of the literature. J Peripher Nerv Syst
+2012;17:356–60
+.
+[13] Etxeberria A, Lonneville S, Rutgers M-P, et al. Posterior reversible
+encephalopathy syndrome as a revealing manifestation of Guillain–Barré
+syndrome. Rev Neurol (Paris) 2012;168:283–6 .
+[14] Barbay M, Arnoux A, Lebreton C, et al. Clinically silent posterior reversible
+encephalopathy in Guillain–Barre syndrome. Can J Neurol Sci 2013;40:267 .
+[15] Banakar BF, Pujar GS, Bhargava A, et al. Guillain–Barre syndrome with
+posterior reversible encephalopathy syndrome. J Neurosci Rural Pract
+2014;5:63–5 .
+[16] Lu M-O, Zhu J. The role of cytokines in Guillain–Barré syndrome. J Neurol
+2011;258:533–48 .
+[17] Chiang S, Ubogu EE. The role of chemokines in Guillain–Barré syndrome.
+Muscle Nerve 2013;48:320–30 .
+[18] Hughes RAC, Cornblath DR. Guillain–Barré syndrome. Lancet
+2005;366:1653–66 .
+[19] Legriel S, Pico F, Azoulay E. Annual update in intensive care and emergency
+medicine 2011, vol. 1. Berlin, Heidelberg: Springer Berlin Heidelberg; 2011 .
+http://dx.doi.org/10.1016/j.jocn.2014.11.004916 Case Reports / Journal of Clinical Neuroscience 22 (2015) 914–916

@@ -1,0 +1,479 @@
+Citation: Ito M, Kuwabara S, Odaka M, et al. Bickerstaff brainstem encephalitis and Fisher syndrome form a continuous spectrum. Brain. 2008;131:388-396. PMID: 18274803
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+J Neurol (2008) 255:674–682
+DOI 10.1007/s00415-008-0775-0 ORIGINAL COMMUNICATIONJON 2775Masafumi Ito
+Satoshi Kuwabara
+Masaaki OdakaSonoko MisawaMichiaki KogaKoichi HirataNobuhiro Yuki*Bickerstaff’s brainstem encephalitis 
+and Fisher syndrome form a continuous spectrum
+Clinical analysis of 581 cases
+Introduction 
+Fisher [10] reported three cases of acute ophthalmoplegia, 
+ataxia, and areflexia subsequent to upper respiratory infectious symptoms, and postulated that the disorder is a Guillain-Barré syndrome (GBS) variant because of CSF albuminocytological dissociation in one. Some patients with Fisher syndrome (FS) progress to GBS [22], proving Fisher’s postulation. Bickerstaff [4] reported eight such cases and named the condition “brain-stem encephalitis”, a definitive syndrome. Seven of those eight patients had symmetrical ophthalmoplegia, ataxia, and impaired consciousness. The etiology of Bickerstaff’s brainstem encephalitis (BBE) was speculated to be similar to that of GBS because prodromal upper respiratory infection and CSF albuminocytological dissociation were present. One of Bickerstaff’s original patients had flaccid limb weakness. In a study that included 62 patients with BBE, 37 had limb weakness, considered the result of an overlapping axonal subtype of GBS [26]. These clinical findings indicate that BBE and GBS are closely related Received: 13 June 2007
+Received in revised form: 4 September 2007
+Accepted: 9 October 2007Published online: 18 February 2008
+M. Ito, MD · M. Odaka, MD, PhD · 
+M. Koga, MD, PhD · K. Hirata, MD, PhD · 
+N. Yuki, MD, PhD ( /L53175)
+Dept. of Neurology
+Dokkyo Medical University 
+Kitakobayashi 880, Mibu
+Shimotsuga, T ochigi 321-0293, Japan
+S. Kuwabara, MD, PhD · S. Misawa, MD, PhD 
+Dept. of Neurology
+Chiba University School of Medicine
+1-8-1 Inohana, Chuo-ku
+Chiba 260-8670, Japan
+* Present address and reprint request to
+GBS Laboratory
+3-9-5 Kamiikedai, Ota City
+T okyo 145-0064, Japan■ Abstract   Whether Bickerstaff’s 
+brainstem encephalitis (BBE) is a distinct disease or a subtype of Fisher syndrome (FS) is unclear as there have been no clinical studies with sufficiently large numbers of patients with FS or BBE. Our aim was to clarify the nosological relationship. Medical records of patients suffering acute ophthalmoplegia and ataxia within four weeks of onset were reviewed. BBE was the diagnosis for patients with impaired consciousness, FS for those with clear consciousness and areflexia. Clinical features, neuroimages, and laboratory find-ings were analyzed. Patients were grouped as having BBE (n = 53), FS (n = 466), or as unclassified (n = 62). The BBE and FS groups had similar features; positive serum anti-GQ1b IgG antibody (68 % versus 83 %), antecedent Campylobacter jejuni  
+infection (23 % versus 21 %), CSF 
+albuminocytological dissociation (46 % versus 76 %), brain MRI 
+abnormality (11 % versus 2 %), and abnormal EEG findings (57 % versus 25 %). BBE (n = 4) and FS (n = 28) subgroups underwent detailed electrophysiological testing. Both groups frequently showed absent soleus H-reflexes, but normal sensory nerve conduc-tion (75 % versus 74 %) and a 1-Hz power spectrum peak on postural body sway analysis (67 % versus 72 %). Common autoantibodies, antecedent infections, and MRI and neurophysiological results found in this large study offer conclusive ev-idence that Bickerstaff’s brainstem encephalitis and Fisher syndrome form a continuous spectrum with variable CNS and PNS involvement.
+■ Key words   Anti-GQ1b 
+antibody · Bickerstaff’s brainstem encephalitis · Campylobacter jejuni 
+· Fisher syndrome · Guillain-Barré 
+syndrome
+674_682_Ito_JON_2775.indd   674 674_682_Ito_JON_2775.indd   674 14.05.2008   14:03:36 Uhr 14.05.2008   14:03:36 Uhr
+--- Page 2 ---
+  675
+and on a continuous spectrum, as Bickerstaff assumed 
+[4]. 
+One of the three patients originally described by 
+Fisher [10] experienced drowsiness, and four of the eight patients described by Bickerstaff [4] had hypo- or areflexia. Subsequently, Bickerstaff’s group reported 18 other patients who had “brainstem encephalitis and the syndrome of Miller Fisher” and argued for a central origin [1]. All 18 had ophthalmoplegia and ataxia. Eleven experienced drowsiness, and one was comatose. T endon reflexes were absent in 11, normal in three, and brisk in four. Based on radiological (three patients) and pathological (one patient) changes in the brainstem, as well as abnormal EEG findings (12 patients), they insisted that the responsible lesion is localized in the CNS. Ropper [30], who criticized their report, considered six of the 18 cases typical FS, and the other 12 obscure brainstem lesions without peripheral polyneuropathy. 
+Serum IgG antibody to ganglioside GQ1b, reported 
+as a possible FS marker [7], was also detected in BBE 
+patients [35]. The immunological profile common 
+to FS and BBE supports a common pathogenesis. A comprehensive, case-control study was made that identified serologically antecedent infectious agents in FS and GBS [16] but not in BBE. Because of the lack of studies of large numbers of patients with FS or BBE, it is unclear whether BBE is a distinct disease or FS subtype. For our study we therefore reviewed medical records of 581 patients who had acute ophthalmoplegia and ataxia but no significant limb weakness. We analyzed their clinical features and laboratory findings and obtained conclusive evidence that FS and BBE form a continuous spectrum with variable CNS and PNS involvement. 
+Methods
+■ Patients and diagnostic criteria 
+Between 1999 and 2006, approximately 9200 patients were referred for 
+serum anti-ganglioside antibody testing from hospitals throughout 
+Japan, which excluded the BBE patients reported in our previous study [26]. The Ethical Committee at Dokkyo Medical University ap-
+proved performance of this study. Clinical information was obtained 
+from each primary physician. CSF albuminocytological dissociation 
+was defined as a raised protein concentration (more than 45 mg/dl) 
+associated with a count of 10 or fewer leukocytes/μl. CSF pleocytosis 
+was defined as the increased count of 11 or more leukocytes/μl.
+ Based on Fisher’s [10] and Bickerstaff’s [4] findings, “progressive, relatively symmetric external ophthalmoplegia and ataxia by four 
+weeks” are the clinical features necessary for a diagnosis of both BBE 
+and FS. Whereas “hypo- or areflexia” and clear consciousness were re-
+quired for the diagnosis of FS, “impaired consciousness” is for that of 
+BBE. Hypo- or areflexia was not an exclusion criterion for the diagno-sis of BBE because half of the original cases had hypo- or areflexia. In 
+our study, “severe limb weakness” of 3 or less on the Medical Research Council (MRC) scale was an exclusion criterion for both conditions, although there was gross flaccid limb weakness in Bickerstaff’s Case 4 
+[4]. In contrast, limb weakness of 4 on the MRC scale was an inclusion 
+criterion for either condition because there was mild limb weakness in Fisher’s original Case 1 [10]. For the diagnosis of either condition, the 
+following must be excluded: vascular disease involving the brainstem, Wernicke’s encephalopathy, botulism, myasthenia gravis, brainstem tumor, pituitary apoplexy, acute disseminated encephalomyelitis (disorders described by Bickerstaff and Cloake, Fisher, Bickerstaff, and Al-Din et al.) [1, 4, 5, 10], multiple sclerosis, neuro-Behçet disease, vasculitis, lymphoma, and Creutzfeldt-Jakob disease (our addition). Based on GBS criteria [2],
+ extensor plantar reflexes do not exclude an 
+FS diagnosis if other clinical features are typical.
+■ Anti-ganglioside and infectious serology
+Serum IgG antibodies to GQ1b, GT1a, GM1b, GalNAc-GD1a, and GD1b 
+(Fig. 1) were measured by an enzyme-linked immunosorbent assay 
+[37]. Serum was considered positive for anti-ganglioside antibodies 
+when the absorbance value was 0.1 or higher at a dilution 1:500. 
+ Sera obtained from 34 patients with BBE, 73 with FS, and 44 
+with unclassified conditions (see Pa tient selection in Results) were 
+available for infection serology tests. Evidence of recent infections by Campylobacter jejuni , Haemophilus influenzae , cytomegalovirus, 
+Epstein-Barr virus, and Mycoplasma pneumoniae  were assayed 
+serologically [16]: Sera from 73 hospital control subjects were used. 
+Frequency differences between groups were compared by the χ
+2 or 
+Fisher’s exact (two-tailed) test. A p value of less than 0.05 was consid-
+ered significant. 
+■ Nerve conduction study, H-reflex, somatosensory evoked potential, 
+and postural body sway analyses
+A subgroup of BBE patients (n = 4) or FS (n = 28), seen consecutively 
+at Chiba University Hospital, underwent nerve conduction and H-re-
+flex studies as well as somatosensory evoked potentials and postural 
+body sway analyses. Motor nerve conduction studies, including F-wave ones, of the median, ulnar, peroneal, and tibial nerves were 
+made by conventional procedures. Antidromic sensory nerve action 
+potentials were recorded in the median, ulnar, superficial radial, 
+GM1b
+GD1b
+GT1a
+GT1a-like LOS
+GD1c-like LO SGQ1bGaINAc-GD1a
+Core-Lipid ACore-Lipid A CerCerCer CeramideGlucoseGalactose
+N-AcetylglucosamineN-Acetylneuraminic acidN-Acetylgalactosamine
+CerCer
+Cer
+Fig. 1   Structures of GM1b, GD1b, GalNAc-GD1a, GT1a, GQ1b, GT1a-like lipo-
+oligosaccharide (LOS), and GD1c-like LOS
+674_682_Ito_JON_2775.indd   675 674_682_Ito_JON_2775.indd   675 14.05.2008   14:03:36 Uhr 14.05.2008   14:03:36 Uhr
+--- Page 3 ---
+676
+and sural nerves. H-reflexes were recorded from the soleus muscles 
+after submaximal stimulation of 1-ms duration at the politeal fossa. Somatosensory evoked potentials (SEPs) were recorded by standard procedures after median nerve stimulation at the wrist or tibial nerve stimulation at the ankle. Cervical N13 and cortical N20 were recorded for median nerve stimulation, and lumbar N20 and cortical P37 for tibial nerve stimulation. Body sway was measured as displacement of the centre of foot pressure detected on a rigid platform mounted on strain gauges us-ing posturography (G5500, Anima Corp., T okyo, Japan), as described elsewhere [20]. The total length (mm) traveled in 30 seconds was calculated from the centre of foot pressure as subjects stood on the platform. Peak frequency of body sway was calculated by Fourier analysis with a computer program (Gravi Analyzer, Anima Corp.). 
+Results
+■ Patient selection
+Based on medical records available to us, 896 patients 
+who showed progressive, relatively symmetric external ophthalmoplegia and ataxia by four weeks were recruited. 
+Insufficient information for clinical analysis excluded 280 patients and 35 others were excluded because of limb weakness of 3 or less on the MRC scale during the course of illness. The 581 selected patients were divided into three groups: 53 with typical BBE who had impaired consciousness; 466 with typical FS who had alert consciousness and hypo- or areflexia; 62 patients were unclassified because of clear consciousness and preserved muscle stretch reflexes during their illnesses. 
+■ Clinical profiles
+Table 1 shows the clinical profiles of the 53 BBE patients. 
+Males predominated (male/female ratio, 2.3 : 1). The distribution of onset age showed two peaks at 20–29 and 40–49 years (Fig. 2). Ninety-six percent of the patients had had antecedent infectious symptoms (52 % upper respi-ratory infectious symptoms only, 21 % diarrhea only, 8 % 
+   BBE FS UC
+ Number of patients 53 466 62
+ Sex (male/female) 37/16 281/185 28/34 Age (years): median (range) 40 (0–78)  44 (2–86) 42 (8–88)
+ Antecedent illness: n (%)
+  Upper respiratory infectious symptoms 32 (60 %) 354 (76 %) 42 (67 %)
+  Diarrhea 15 (29 %) 117 (25 %) 16 (26 %)  Other  9 (16 %)   9 (2 %)  7 (11 %)
+ Initial symptom: n (%)
+  Consciousness disturbance  5 (9 %)   0 (0 %)  0 (0 %)  Diplopia 17 (32 %) 303 (65 %) 38 (61 %)  Blepharoptosis  1 (2 %)  19 (4 %)  1 (2 %)  Limb weakness  0 (0 %)   9 (2 %)  1 (2 %)  Gait disturbance 25 (47 %) 149 (32 %) 15 (24 %)  Dysesthesia  7 (13 %)  65 (14 %) 13 (21 %)
+ Neurological sign during illness course: n (%) 
+  Consciousness disturbance 53 (100 %)   0 (0 %)  0 (0 %)  Blepharoptosis 18 (34 %) 172 (37 %) 38 (32 %)  External ophthalmoplegia 53 (100 %) 466 (100 %) 62 (100 %)  Internal ophthalmoplegia 29 (55 %) 163 (35 %) 20 (32 %)  Facial weakness 22 (42 %) 103 (22 %) 10 (16 %)  Bulbar palsy 18 (34 %)  79 (17 %)  5 (8 %)  Mild limb weakness* 26 (49 %) 117 (25 %) 15 (24 %)
+  Muscle stretch reflex
+    Absent or decreased 16 (60 %) 466 (100 %)  0 (0 %)
+    Normal or brisk 10 (40 %)   0 (0 %) 62 (100 %)
+  Babinski‘s sign 20 (38 %)   9 (2 %)  9 (15 %)  Ataxia 53 (100 %) 466 (100 %) 62 (100 %)  Sensory disturbance 22 (42 %) 242 (52 %) 26 (42 %)
+    Dysesthesia 21 (40 %) 210 (45 %) 25 (40 %)    Superficial sense impairment  8 (15 %)  33 (7 %)  5 (8 %)    Deep sense impairment  1 (2 %)  79 (17 %)  8 (13 %)
+ Assisted ventilation: n (%) 18 (34 %)   5 (1 %)  0 (0 %)
+* /H11084 4 on the Medical Research Council scaleTable 1   Clinical profiles of patients with Bickerstaff‘s 
+brainstem encephalitis (BBE), Fisher syndrome (FS), 
+and unclassified condition (UC)
+674_682_Ito_JON_2775.indd   676 674_682_Ito_JON_2775.indd   676 14.05.2008   14:03:37 Uhr 14.05.2008   14:03:37 Uhr
+--- Page 4 ---
+  677
+both, 8 % fever only, and 8 % headache only). The most 
+common initial symptoms were gait disturbance (47 %) and diplopia (32 %), 9 % developing both the same day. According to our strict diagnostic criteria for BBE, all the patients had impaired consciousness (drowsiness 55 %, stupor 17 %, semicoma 8 %, and coma 20 %). Blepharoptosis (34 %), internal ophthalmoplegia (55 %), facial weakness (42 %), and bulbar palsy (34 %) also were found. Muscle stretch reflexes were absent or decreased in 60 %, normal in 13 %, and brisk in 27 %. Babinski’s sign was present in 38 %. Deep sense impairment was rare (2 %). Median time to nadir was 3 days (range 
+2–10 days). Treatments were as follows: intravenous im-
+munoglobulin (IVIG) only 35 %; combinations of IVIG 
+and methylprednisolone 18 %, methylprednisolone only 
+16 %, combinations of plasmapheresis and methylpred-nisolone 12 %, plasmapheresis only 8 %, and no specific immunotherapy 11 %. Assisted ventilation during the acute phase was required for 34 %. Two patients (4 %) died; one of aspiration pneumonia 14 days after onset, the other of sudden cardiac arrest 48 days after onset. 
+Patients were admitted for median 35 days (range 8–149 days). At discharge, diplopia persisted in 42 %, gait dis-turbance in 44 %, but 13 % showed complete remission with no residual symptoms.
+Of the 466 FS patients, males predominated (male/fe-male ratio, 1.5 : 1) (Table 1). Age distribution showed two 
+peaks at 30–39 and 50–59 years (Fig. 2). Ninety percent had had antecedent illnesses; 64 % upper respiratory infectious symptoms only, 13 % diarrhea only, 12 % both, and 2 % fever only. The most common initial symptoms were diplopia (65 %) and gait disturbance (32 %), 14 % developing both the same day. All the patients suffered external ophthalmoplegia, ataxia, and hypo- or areflexia. Blepharoptosis (37 %), internal ophthalmoplegia (35 %), facial weakness (22 %), and bulbar palsy (17 %) also were present. Extensor plantar response (2 %) and need for ventilation support (1 %) were rare. Deep sense impair-ment was infrequent (17 %). Median time to nadir was 4 days (range 1–20 days). As treatment, IVIG only was given to 56 %, plasmapheresis only to 13 %, combined IVIG and methylprednisolone to 7 %, plasmapheresis followed by IVIG to 2 %, methylprednisolone only to 2 %, combined plasmapheresis and methylprednisolone to 2 %, combined plasmapheresis and methylpredniso-lone followed by IVIG to 0.4 %, and no specific immu-notherapy to 18 %. Median hospitalization time was 21 days (range 2–300 days). No patient died. At discharge, diplopia persisted in 71 % and gait disturbance in 20 %; whereas 16 % showed complete remission with no re-sidual symptoms. Table 1 and Fig. 2 give clinical profiles of the 62 unclassified patients.
+■ Anti-ganglioside and infectious serology, and CSF 
+study findings
+Of the tested anti-ganglioside antibodies, anti-GQ1b IgG 
+antibody was positive in BBE (68 %), FS (83 %), and the unclassified conditions (58 %) (Table 2). Most patients also had anti-GT1a IgG antibody. In contrast, four BBE, four FS, and 10 unclassified patients had anti-GM1b, anti-GalNAc-GD1a, or anti-GD1b IgG antibodies but no anti-GQ1b antibody. 
+Serological evidence of recent C. jejuni  (23 %) or H. 
+influenzae  (6 %) infection was more common in 34 BBE 
+patients, as well as in FS patients, than in the hospital control participants (Table 3). Anti- H. influenzae  an-
+tibody-positive patients had had symptoms of upper 
+respiratory infections. C. jejuni  was isolated from one 
+BBE and 16 FS patients. H. influenzae  was isolated from 
+three BBE and 26 FS patients. In those patients with unclassified conditions, C. jejuni infection (18 %) com-
+monly preceded onset, whereas H. influenzae  infection 
+(2 %) did not. The H. influenzae  antibody-positive pa-
+tient had had symptoms of upper respiratory infections. C. jejuni  was isolated from one, and H. influenzae  from 
+three unclassified patients. None of the patients with BBE or unclassified conditions had serological evidence of recent M. pneumoniae  or cytomegalovirus infection. 
+During the first week of illness, CSF albumino-
+cytological dissociation occurred in 25 % of the BBE, 10
+84
+0
+80
+40
+0
+12
+8
+04
+< 10
+10 - 1920 - 2930 - 3940 - 4950 - 5960 - 6970 - 79
+80 < AgeNumber of patientsFemaleMaleBBE
+FS
+UC
+Fig. 2   Age distributions of patients with Bickerstaff’s brainstem encephalitis 
+(BBE), Fisher syndrome (FS) and unclassified conditions (UC)
+674_682_Ito_JON_2775.indd   677 674_682_Ito_JON_2775.indd   677 14.05.2008   14:03:37 Uhr 14.05.2008   14:03:37 Uhr
+--- Page 5 ---
+678
+37 % of the FS and 30 % of the unclassified patients 
+(Table 4): CSF pleocytosis was present in 32 % of the 
+BBE, in 4 % only of the FS and in 7 % of the unclassified patients. In the second week, CSF albuminocytological dissociation occurred in 46 % of the BBE, 76 % of the FS, and 54 % of the unclassified patients. CSF pleocytosis occurred in 31 % of the BBE, in 5 % only of the FS, and in 15 % of the unclassified patients.■ MRI and neurophysiological findings
+Table 4 presents abnormal MRI and EEG findings. On 
+T2-weighted images 11 % of 47 BBE patients had high 
+intensity abnormalities in the pons (n = 4), thalamus (n = 2), cerebellum (n = 1), medulla oblongata (n = 1), midbrain (n = 1), superior cerebellar peduncle (n = 1), or corpus callosum (n = 1). One percent of 353 FS patients had MRI abnormalities in the midbrain (n = 1), cerebellum (n = 1), or middle cerebellar peduncle (n = 1). Seven percent of 54 unclassified patients had abnormalities in the pons (n = 3), medulla oblongata (n = 2), or middle cerebellar peduncle (n = 1). EEG    BBE FS UC
+ Number of patients 53 466 62
+ IgG antibody to n (%) n (%) n (%)
+  GQ1b 36 (68 %) 387 (83 %) 36 (58 %)
+  GT1a 32 (60 %) 364 (78 %) 41 (66 %)
+  GQ1b or GT1a 36 (68 %) 401 (86 %) 42 (68 %)
+  GM1b without GQ1b reactivity  0 (0 %)   9 (2 %)  3 (5 %)
+  GalNAc-GD1a without GQ1b reactivity  1 (2 %)   9 (2 %)  2 (3 %)
+  GD1b without GQ1b reactivity  1 (2 %)   9 (2 %)  2 (3 %)
+  GM1b, GalNAc-GD1a, or GD1b without GQ1b reactivity  2 (4 %)  19 (4 %)  6 (10 %)Table 2   Anti-ganglioside IgG antibodies in patients 
+with Bickerstaff‘s brainstem encephalitis (BBE), Fisher syndrome (FS), and unclassified conditions (UC)
+       Two-tailed p value
+   BBE FS UC HC BBE vs HC FS vs HC UC vs HC
+ Available data  34 73 44 73
+   n (%) n (%) n (%) n (%)
+ Campylobacter jejuni   8 (23 %)  15 (21 %)  8 (18 %)  2 (3 %)  0.0014  0.0007  0.0058
+ Haemophilus influenzae   2 (6 %)   6 (8 %)  1 (2 %)  0 (0 %)  NS  0.014  NS
+ Cytomegalovirus  0 (0 %)   3 (4 %)  0 (0 %)  0 (0 %)  NS  NS  NS
+ Mycoplasma pneumoniae   0 (0 %)   2 (3 %)  0 (0 %)  4 (5 %)  NS  NS  NS
+HC hospital controls; NS not significant ( p > 0.05)Table 3   Infectious serology in patients with Bicker-
+staff‘s brainstem encephalitis (BBE), Fisher syndrome 
+(FS), and unclassified conditions (UC)
+    BBE FS UC
+ CSF The first week
+   Number of patients 44 375 46
+   Albuminocytological dissociation: n (%) 11 (25 %) 139 (37 %) 14 (30 %)   Cell count (cells/μl): median (range)  4 (0–668)   1 (0–105)  1 (0–15)   Pleocytosis: n (%) 14 (32 %)  15 (4 %)  3 (7 %) 
+   The second week
+   Number of patients 13  95 13   Albuminocytological dissociation: n (%)  6 (46 %)  72 (76 %)  7 (54 %)   Cell count (cells/μl): median (range)  3 (0–161)   2 (0–42)  2 (1–61)
+   Pleocytosis: n (%)  4 (31 %)   5 (5 %)  2 (15 %)
+ MRI Number of patients 47 353 54
+   Abnormal findings: n (%)  5 (11 %)   4 (1 %)  4 (7 %) 
+ EEG Number of patients 30  32  8
+   Abnormal findings: n (%) 17 (57 %)   8 (25 %)  0 (0 %) Table 4   CSF findings and abnormal MRI and EEG 
+study findings in patients with Bickerstaff‘s brain-stem encephalitis (BBE), Fisher syndrome (FS), and 
+unclassified condition (UC)
+674_682_Ito_JON_2775.indd   678 674_682_Ito_JON_2775.indd   678 14.05.2008   14:03:37 Uhr 14.05.2008   14:03:37 Uhr
+--- Page 6 ---
+  679
+recordings showed diffuse slow activities in the θ or δ 
+range in 57 % of 30 BBE and 25 % of 32 FS patients. 
+Table 5 shows results of neurophysiological studies 
+of the subgroup of patients with BBE (n = 4) or FS (n = 28). In nerve conduction and H-reflex studies, the most frequent abnormality was the absence of soleus H-reflexes in 75 % of the BBE and 74 % of the FS patients, whereas routine motor and sensory nerve conduction study results were normal for both groups. SEPs were rarely abnormal, and one of the three BBE patients had no cortical potentials (median N20, tibial P37) despite having normal spinal/peripheral potentials (median N13, tibial N20). Similarly, abnormal SEP frequencies were low in FS patients; 23 % had them in median SEPs and 15 % in tibial SEPs. Body sway analyses showed a power spectrum peak at 1-Hz, indicative of proprioceptive afferent system dysfunction in 67 % of the BBE and 72 % of the FS patients. Detailed findings for one BBE patient were reported elsewhere [27].
+Discussion
+■ Clinical similarities
+The findings of this large study provide significant 
+information about the clinical features of BBE and FS and convincing evidence of their clinical similarity. In both BBE and FS, males predominated, and the age distribution showed two peaks. Symptoms of anteced-
+ent infectious illnesses were most common for the upper respiratory system. Blepharoptosis and internal ophthalmoplegia were frequent during the illness. Deep sensation was relatively unimpaired despite profound ataxia. 
+CSF albuminocytological dissociation occurred in 
+1/4 of our BBE patients during the first week of illness, increasing to 1/2 in the second week, but each dissocia-tion frequency was lower than in our FS patients. The presence of CSF albuminocytological dissociation in 
+BBE, as well as in FS, suggests that they have a common etiology. In addition, 1/3 of the BBE patients had CSF pleocytosis, compared to 1/20 of the FS patients. These findings show that CSF studies alone cannot discrimi-nate BBE from FS. Breakdown of the blood-CSF barrier may be more severe in BBE, thereby producing CSF pleocytosis more often than in FS. 
+■ Both CNS and PNS involvement
+Although the presence of brainstem lesions in BBE was 
+doubted [30], postmortem examinations of three BBE patients found definite inflammatory changes in the brainstem [1, 4, 26]. Our BBE patients also had definite CNS involvement because all had impaired conscious-ness. Hyperreflexia and Babinski’s sign were present in 1/3 of the BBE patients. MRI detected CNS lesions in 1/10 of the BBE patients, and EEG abnormalities in 3/5. In contrast, EEG recordings showed diffuse slow activities in 1/4 of the fully conscious FS patients tested. In the three FS patients, T
+2-weighted MRI showed high 
+intensity abnormalities in the brainstem and cerebel-lum. In an alert FS patient, T
+1-weighted MRI showed 
+areas with increased signal intensity in the cerebral 
+white matter, as well as in the brainstem and cerebellum [8]. Supranuclear, nuclear, and internuclear ocular mo-tor signs have been reported in several FS patients [23]. These observations indicate that central components are 
+occasionally associated with FS. 
+Some investigators have suggested that lesions 
+scattered in the brainstem tegmentum and cerebel-lar peduncles are responsible for ataxia and areflexia [24], but neurophysiological study results suggest that peripheral abnormalities occur in some FS patients [11, 14, 31]. Similar findings in previous reports include reduced amplitudes of sensory nerve action potentials and the absence of soleus H-reflexes in some FS patients, 
+   BBE  FS
+   Number of Abnormality Number of Abnormality
+   examined n (%) examined n (%)
+   patients  patients
+ Nerve conduction study
+  Motor nerve conduction  4  0 (0 %)  28   0 (0 %)   F-wave  4  0 (0 %)  28   0 (0 %)   Sensory nerve conduction  4  0 (0 %)  28   2 (7 %) 
+  Soleus H-reflex*  4 3 (75 %)  23  17 (74 %) 
+ Somatosensory evoked potential
+  Median  4 1 (25 %)  13   3 (23 %)   Tibial  3 1 (33 %)  13   2 (15 %) 
+ Postural body sway analysis**  3 2 (67 %)  18  13 (72 %) 
+* Absent H-reflexes defined as abnormal
+** Power spectrum peak at 1-Hz regarded as abnormalTable 5   Nerve conduction study, somatosensory 
+evoked potential, and postural body sway analyses 
+in patients with Bickerstaff‘s brainstem encephalitis (BBE) and Fisher syndrome (FS)
+674_682_Ito_JON_2775.indd   679 674_682_Ito_JON_2775.indd   679 14.05.2008   14:03:37 Uhr 14.05.2008   14:03:37 Uhr
+--- Page 7 ---
+680
+but the number of those examined was too small to 
+reach a definite conclusion. Our study includes 28 pa-tients with FS and 4 with BBE who underwent detailed neurophysiological testing. Results showed that major abnormalities were the absence of soleus H-reflexes and a 1-Hz peak in body sway analyses. Body sway analysis is the classic method used to evaluate the proprioceptive afferent system. Postural sway with a 1-Hz frequency has been reported in patients with tabes dorsalis or ataxic polyneuropathy [3], and a previous FS study found nine of 10 patients had a 1-Hz peak [20]. Our study confirmed these findings and showed that BBE patients also had this peak, indicating that ataxia is caused by a mecha-nism, dysfunction of the proprioceptive afferent system, common to FS and BBE. Patients with FS or BBE showed both CNS and PNS involvement [8, 27], supporting the hypothesis of continuity between those conditions. The coexistence of central and peripheral components refutes the idea of a simple relationship between BBE and purely central involvement, as well as between FS and a simple peripheral neuropathy.  
+■ Immunopathogenesis
+Most patients with BBE or FS who had been studied had 
+had infectious symptoms before the onset of neurologi-cal symptoms. A history of antecedent upper respiratory infection was frequent for both conditions, but most of the causative microorganisms were not identified. Our 
+comprehensive study, however, found H. influenzae  to be 
+the causative agent in some BBE patients, as reported in FS patients [16]. It is interesting that in Fisher’s original publication he reported isolation of H. influenzae  from 
+the sputum of one of his three patients [10]. Our BBE patients with serologic evidence of recent H. influenzae  
+infection all had had upper respiratory infection symp-toms. H. influenzae  was isolated both from those with 
+BBE and with FS, but bacterial isolation is not always indicative of the causative agent, as discussed elsewhere [17]. In both conditions, a history of preceding diarrhea was less common than one of preceding upper respira-tory infection symptoms, as reported in GBS [33]. Of previously identified microorganisms, our study showed C. jejuni  to be the most frequent agent in BBE, as well as 
+in FS [16]. The presence of common, antecedent infec-tious agents such as C. jejuni and H. influenzae in both 
+conditions supports the hypothesis that BBE and FS have similar etiologies, as is the case for GBS and FS [34]. 
+Anti-GQ1b IgG antibody was positive in 8/10 of the 
+FS and 7/10 of the BBE patients, but found to be negative in healthy and disease control participants, including those with brainstem infarctions and Wernicke’s en-cephalopathy [7, 35]. The fact that both conditions have this autoantibody in common is strong support for FS and BBE representing a single autoimmune disease. As stated, C. jejuni  was the most frequent microbial 
+agent identified in FS and BBE, and was isolated from both groups of patients. Lipo-oligosaccharide (LOS) is a major cell-surface structure expressed by C. jejuni . 
+The bacterial sialyltransferase Cst-II functions in the 
+biosynthesis of ganglioside-like LOS, the 51
+st amino acid 
+determining its enzymatic activity [12]. Cst-II (Thr51) produces GM1-like and GD1a-like LOSs, and cst-II  
+(Thr51) strains are associated with GBS [18]. In contrast, Cst-II (Asn51) produces GT1a-like and GD1c-like LOSs (Fig. 1), in which each terminal trisaccharide is identical to that of GQ1b [15, 18]; moreover, cst-II (Asn51) strains 
+are associated with FS [18]. We recently showed that the characteristics of a C. jejuni  isolate from a BBE patient 
+were those of FS not GBS isolates [15]. That isolate had cst-II (Asn51) and the GQ1b epitope on LOS, evidence 
+that BBE and FS are part of a continuous spectrum and that BBE is closer to FS than to GBS. 
+Human immunohistochemical studies showed that 
+GQ1b is highly expressed in extramedullary regions of the ocular motor nerves and some large neurons of dorsal root ganglia [6, 19]. Patients with mild BBE show drowsi-ness but are easily roused by stimulation, suggesting that 
+the brainstem’s reticular formation is involved in BBE. The blood-brain barrier (BBB) protects the brain from deleterious effects of large molecules circulating in the 
+blood, but there are several areas where the BBB is defi-cient. Studies on the permeability [9] and ultrastructure [32] of the area postrema have demonstrated that the BBB of this region is relatively permeable, allowing large 
+molecules to penetrate into the brainstem parenchyma at this site. It is possible that in BBE the anti-GQ1b an-tibody reaches the brainstem via this route, and attacks the brainstem reticular formation, but this has yet to be demonstrated experimentally. Anti-GQ1b monoclonal antibody reacts with LOSs from FS-related H. influ-
+enzae strains [16], indicative that those LOSs have the 
+GQ1b epitope. The possible sequence of events in the pathogenesis of BBE and FS therefore is the following. (1) Infection by a microorganism bearing the GQ1b epitope induces production of anti-GQ1b IgG antibody in certain patients. (2) The anti-GQ1b antibody binds to GQ1b, which is expressed on the oculomotor nerves and primary sensory neurons, inducing FS. (3) In some cases anti-GQ1b antibody also enters the brainstem through areas where the BBB is deficient, e.g. area postrema, and (4) binds to GQ1b which may be expressed on the 
+brainstem reticular formation, thus inducing BBE. 
+Several patients with FS and ataxic GBS have been 
+reported to have anti-GM1b, anti-GD1b, or anti-Gal-NAc-GD1a IgG antibody but not anti-GQ1b antibody [25, 36]. Our study adds patients who have either FS or BBE. Although some humans may express GM1b, GD1b, or GalNAc-GD1a in their oculomotor nerves, primary sensory neurons, and brainstems, further immunohisto-chemical studies are required to test our hypothesis.
+674_682_Ito_JON_2775.indd   680 674_682_Ito_JON_2775.indd   680 14.05.2008   14:03:38 Uhr 14.05.2008   14:03:38 Uhr
+--- Page 8 ---
+  681
+■ Proposal of “Fisher-Bickerstaff syndrome” and its 
+treatment
+As discussed above, BBE is not distinct from FS clini-
+cally, anatomically, or etiologically. These two conditions 
+therefore represent a single autoimmune disease that variably involves the PNS and CNS. Clinical findings, anatomical lesions, and immunological findings for our unclassified condition group were similar to those for BBE and FS. A nosological position is needed for un-classified conditions. FS is familiar to most neurologists, whereas BBE is not. Fisher [10] reported the original cases in 1956, and Bickerstaff and Cloake [5] their first cases in 1951, which they classified as BBE. We propose the new eponymic terminology “Fisher-Bickerstaff syn-drome” which includes unclassified conditions as well as FS and BBE. 
+Randomized controlled trials have established the 
+efficacy of plasma change and IVIG for GBS [13, 29]. Their efficacy for use in Fisher-Bickerstaff syndrome has yet to be shown because there have been no ran-
+domized controlled trials [28]. This retrospective study could also not show whether immunotherapy is effec-tive for Fisher-Bickerstaff syndrome, and whether each therapeutic response differs between FS and BBE. Ret-rospective analysis of 92 consecutive FS cases, however, showed that IVIG somewhat lessened ophthalmoplegia and ataxia but had no effect on outcomes, presumably because of good natural recoveries [21]. Most of our FS patients had received IVIG or plasmapheresis, which may have been unnecessary. Although BBE outcomes generally are good, several BBE patients have died [1, 4, 26]. We therefore suggest that patients with BBE should be treated with IVIG or plasmapheresis, which should be confirmed in future studies.
+■ Acknowledgments   We thank Prof. Allan Y ates for his valuable 
+comments. This work was supported in part by a grant for research on 
+intractable diseases from the Ministry of Health, Labour, and Welfare 
+of Japan (S.K. and N.Y.).
+References 
+ 1. Al-Din AN, Anderson M, Bickerstaff 
+ER, Harvey I (1982) Brainstem encephalitis and the syndrome of 
+Miller Fisher: a clinical study. Brain 
+105:481–495
+ 2. Asbury AK, Cornblath DR (1990) 
+ Assessment of current diagnostic 
+criteria for Guillain-Barré syndrome. 
+Ann Neurol 27(Suppl):S21–S24
+ 3. Bergin PS, Bronstein AM, Murray NM, 
+Sancovic S, Zeppenfeld DK (1995) 
+Body sway and vibration perception 
+thresholds in normal aging and in 
+patients with polyneuropathy. J Neurol Neurosurg Psychiatry 58:335–340
+ 4. Bickerstaff ER (1957) Brain-stem 
+encephalitis: further observations 
+on a grave syndrome with benign 
+prognosis. Br Med J i:5032:1384–1387
+ 5. Bickerstaff ER, Cloake PCP (1951) 
+ Mesencephalitis and rhombencephali-
+tis. Br Med J ii:4723:77–81
+ 6. Chiba A, Kusunoki S, Obata H, 
+Machinami R, Kanazawa I (1993) 
+Serum anti-GQ1b IgG antibody is 
+associated with ophthalmoplegia in Miller Fisher syndrome and 
+Guillain-Barré syndrome: clinical and 
+immunohistochemical studies. Neurol-
+ogy 43:1911–1917
+ 7. Chiba A, Kusunoki S, Shimizu T, 
+Kanazawa I (1992) Serum IgG anti-
+body to ganglioside GQ1b is a possible 
+marker of Miller Fisher syndrome. 
+Ann Neurol 31:677–679 8. Echaniz-Laguna A, Battaglia F, 
+Heymann R, Tranchant C, Warter JM (2000) The Miller Fisher syndrome: 
+neurophysiological and MRI evidence 
+of both peripheral and central origin 
+in one case. J Neurol 247:980–982
+ 9. Faraci FM, Choi J, Baumbach GL, 
+Mayhan WG, Heistad DD (1989) 
+Microcirculation of the area postrema. Permeability and vascular responses. 
+Circ Res 65:417–425
+10. Fisher M (1956) An unusual variant 
+of acute idiopathic polyneuritis 
+(syndrome of ophthalmoplegia, ataxia and areflexia). N Engl J Med 255:57–65
+11. Fross RD, Daube JR (1987) Neuropathy 
+in the Miller Fisher syndrome: clinical 
+and electrophysiologic findings. 
+Neurology 37:1493–1498
+12. Gilbert M, Karwaski MF, Bernatchez 
+S, Y oung NM, Taboada E, Michniewicz 
+J, Cunningham AM, Wakarchuk WW 
+(2002) The genetic bases for the 
+variation in the lipo-oligosaccharide of 
+the mucosal pathogen, Campylobacter 
+jejuni : biosynthesis of sialylated 
+ganglioside mimics in the core oligo-
+saccharide. J Biol Chem 277:327–337
+13. Hughes RAC, Raphaël JC, Swan A V , 
+van Doorn PA (2006) Intravenous 
+immunoglobulin for Guillain-Barré syndrome. Cochrane Database Syst 
+Rev:CD002063
+14. Jamal GA, Ballantyne JP (1988) The lo-
+calization of the lesion in patients with 
+acute ophthalmoplegia, ataxia and 
+areflexia (Miller Fisher syndrome): a 
+serial multimodal neurophysiological study. Brain 111:95–11415. Kimoto K, Koga M, Odaka M, Hirata 
+K, Takahashi M, Li J, Gilbert M, Yuki N (2006) Relationship of bacterial 
+strains to clinical syndromes of 
+ Campylobacter -associated neuro pa-
+thies. Neurology 67:1837–1843
+16. Koga M, Gilbert M, Li J, Koike S, Taka-
+hashi M, Furukawa K, Hirata K, Yuki N 
+(2005) Antecedent infections in Fisher syndrome: a common pathogenesis of 
+molecular mimicry. Neurology 64:
+1605–1611
+17. Koga M, Koike S, Hirata K, Yuki N 
+(2005) Ambiguous value of Haemophi-
+lus influenzae  isolation in Guillain-
+Barré and Fisher syndromes. J Neurol 
+Neurosurg Psychiatry 76:1736–1738
+18. Koga M, Takahashi M, Masuda M, 
+Hirata K, Yuki N (2005) Campylobacter  
+gene polymorphism as a determinant 
+of clinical features of Guillain-Barré 
+syndrome. Neurology 65:1376–1381
+19. Kusunoki S, Chiba A, Kanazawa I 
+(1999) Anti-GQ1b IgG antibody is 
+associated with ataxia as well as 
+ophthalmoplegia. Muscle Nerve 22:1071–1074
+20. Kuwabara S, Asahina M, Nakajima M, 
+Mori M, Fukutake T, Hattori T, Yuki N 
+(1999) Special sensory ataxia in Miller 
+Fisher syndrome detected by postural 
+body sway analysis. Ann Neurol 45:
+533–536
+21. Mori M, Kuwabara S, Fukutake T, 
+Hattori T (2007) IV immunoglobulin 
+treatment for Fisher syndrome. 
+Neurology 68:1144–1146
+674_682_Ito_JON_2775.indd   681 674_682_Ito_JON_2775.indd   681 14.05.2008   14:03:38 Uhr 14.05.2008   14:03:38 Uhr
+--- Page 9 ---
+682
+22. Mori M, Kuwabara S, Fukutake T, 
+Yuki N, Hattori T (2001) Clinical features and prognosis of Miller Fisher syndrome. Neurology 56:1104–1106
+23. Najim Al-Din AS, Anderson M, 
+Eeg-Olofsson O, Trontelj JV (1994) 
+Neuro-ophthalmic manifestations of 
+the syndrome of ophthalmoplegia, 
+ataxia and areflexia: observations 
+on 20 patients. Acta Neurol Scand 89:87–94
+24. Najim Al-Din AS, Trontelj JV , Anderson 
+M, Eeg-Olofsson O (1993) Ataxia and 
+areflexia in SOAA. Acta Neurol Scand 
+88:363–369
+25. Odaka M, Yuki N, Tatsumoto M, Tateno 
+M, Hirata K (2004) Ataxic Guillain-Barré syndrome associated with 
+anti-GM1b and anti-GalNAc-GD1a 
+antibodies. J Neurol 251:24–29
+26. Odaka M, Yuki N, Y amada M, Koga M, 
+Takemi T, Hirata K, Kuwabara S (2003) Bickerstaff 's brainstem encephalitis: 
+clinical features of 62 cases and a sub-
+group associated with Guillain-Barré 
+syndrome. Brain 126:2279–229027. Ogawara K, Kuwabara S, Yuki N 
+(2002) Fisher syndrome or Bickerstaff brainstem encephalitis? : anti-GQ1b IgG antibody syndrome involving both the peripheral and central nervous systems. Muscle Nerve 26:845–849
+28. Overell J, Hsieh S, Odaka M, Yuki N, 
+Willison H (2007) Treatment for Fisher 
+syndrome, Bickerstaff 's brainstem 
+encephalitis and related disorders. Cochrane Database Syst Rev CD004761
+29. Raphaël JC, Chevret S, Hughes RAC, 
+Annane D (2002) Plasma exchange for 
+Guillain-Barré syndrome. Cochrane 
+Database Syst Rev CD001798
+30. Ropper AH (1983) The CNS in 
+ Guillain-Barré syndrome. Arch Neurol 40:397–398
+31. Sauron B, Bouche P , Cathala HP , Chain 
+F, Castaigne P (1984) Miller Fisher 
+syndrome: clinical and electrophysio-
+logic evidence of peripheral origin in 10 cases. Neurology 34:953–956
+32. van Breemen VL, Clemente CD (1955) 
+Silver deposition in the central ner-
+vous system and the hematoencephalic 
+barrier studied with the electron microscope. J Biophys Biochem Cytol 
+1:161–16633. Yuki N (2001) Infectious origins of, 
+and molecular mimicry in, Guillain-Barré and Fisher syndromes. Lancet Infect Dis 1:29–37
+34. Yuki N, Koga M (2006) Bacterial 
+infections in Guillain-Barré and 
+Fisher syndromes. Curr Opin Neurol 
+19:451–457
+35. Yuki N, Sato S, Tsuji S, Hozumi I, 
+Miyatake T (1993) An immunologic abnormality common to Bickerstaff’s 
+brain stem encephalitis and Fisher's 
+syndrome. J Neurol Sci 118:83–87
+36. Yuki N, Susuki K, Hirata K (2000) 
+Ataxic form of Guillain-Barré 
+syndrome associated with anti-GD1b 
+IgG antibody. J Neurol Neurosurg Psychiatry 69:136–137
+37. Yuki N, Tagawa Y, Irie F, Hirabayashi 
+Y, Handa S (1997) Close association 
+of Guillain-Barré syndrome with 
+antibodies to minor monosialogan-gliosides GM1b and GM1 α. J Neuroim-
+munol 74:30–34
+674_682_Ito_JON_2775.indd   682 674_682_Ito_JON_2775.indd   682 14.05.2008   14:03:38 Uhr 14.05.2008   14:03:38 Uhr

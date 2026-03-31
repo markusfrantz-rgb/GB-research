@@ -1,0 +1,499 @@
+Citation: Maier H, Schmidbauer M, Pfausler B, et al. Central nervous system pathology in patients with the Guillain-Barre syndrome. Brain. 1997;120(3):451-464. PMID: 9126057
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+braini0311
+Brain(1997),120,451–464
+Central nervous system pathology in patients with
+the Guillain–Barre ´syndrome
+Hans Maier,1,3Manfred Schmidbauer,1,2,*Bettina Pfausler,4Erich Schmutzhard4and Herbert Budka1
+1Institute of Neurology and2Neurological Clinic, University Correspondence to: Herbert Budka, MD, Institute of
+of Vienna,3Institute of Pathology and4Neurological Clinic, Neurology, University of Vienna, Allgemeines Krankenhaus
+University of Innsbruck, Austria 04J, Wa ¨hringer Gu ¨rtel 18–20, A-1097 Vienna, Austria
+*Present address: Department of Neurology, County
+Hospital Oberwart, Dornburggasse 80, A-7400 Oberwart,Austria
+Summary
+Thirteen autopsy cases of patients with clinical criteria of the ganglia and spinal roots in varying distribution and severity.
+Mononuclear cell inﬁltrates were composed of macrophages Guillain–Barre ´syndrome were investigated for pathological
+changes and cellular composition of inﬂammatory inﬁltrates and T lymphocytes, with even distribution in cases with short
+survival (1 and 2 days), and predominance of macrophages in the CNS and PNS. The survival times from the onset of
+neurological symptoms until death ranged from 1 day to 12 in cases with protracted clinical course. T lymphocytes were
+equally composed of OPD4 1and CD8 1cells without months. In the CNS, degeneration of spinal posterior tracts
+was seen in three cases. Mononuclear inﬁltrates consisted of obviousdifferencesbetweencasesofshortandlongduration,
+or between PNS and CNS inﬁltrates in 11 out of 12 cases, evenly proportioned lymphocytes and macrophages in cases
+with survival of 1 and 2 days, whereas macrophages whilsttwocaseshadadominantOPD4 1subset.Weconclude
+that CNS pathology is frequent in patients with Guillain– predominated in cases with survival of 5 days and longer.
+Inﬁltrates presented as nodular clusters around blood vessels Barre ´syndrome. It involves axons with secondary myelin
+impairment, microglial activation and inﬂammatory and neurons, or were scattered diffusely. They were found
+within the spinal cord in eight out of 13 cases, within the inﬁltration. In this series, primary demyelination is not found
+intheCNS.Changessuchasdegenerationofspinalposterior medulla oblongata in eight out of 12 cases, within the pons
+in ﬁve out of nine cases, and in one out of four midbrains. tracts are secondary to pathology in the PNS. Inﬂammatory
+cell reactions in the CNS are similar to those in the PNS Activation of microglia, either focal or diffuse, was found in
+various degrees in 11 out of 13 cases, involving the spinal and to CNS pathology in experimental allergic neuritis. This
+inﬂammation might reﬂect CNS immune activation in the cord (six out of 13 cases), the medulla oblongata (10 out of
+12cases),thepons(ﬁveoutofninecases)orassubependymal absence of the relevant antigen, in addition to cellular
+reactions accompanying secondary CNS changes. The rims along the walls of the ventricular system and the central
+canal of the spinal cord (seven out of 13 cases). In the PNS, presence of distinct pathology in the CNS is in contrast with
+other recent studies on the pathology of Guillain–Barre ´ myelin loss (12 out of 13 cases), axonal degeneration (six
+out of 13 cases) and mononuclear cell inﬁltrates (13 out of syndrome which, unlike this study, may have been inﬂuenced
+by recently introduced treatments. 13 cases) were seen in segmental and cranial nerves, spinal
+Keywords : Guillain–Barre ´syndrome; central nervous system; cell inﬁltrates; lymphocyte subsets; neuropathology
+Abbreviations : cDNA 5complementary DNA; CMV 5cytomegalovirus; EAN 5experimental allergic neuritis; HSV 5
+herpes simplex virus; VZV 5varicella zoster virus
+Introduction
+Neuropathological reports on CNS pathology in patients changes were interpreted as secondary to the pathological
+process in the PNS (peripheral nervous system), and were with Guillain–Barre ´syndrome are rare and are mostly
+based on a small number of cases. In recent studies, CNS found to be restricted to central chromatolysis of spinal
+©Oxford University Press 1997
+--- Page 2 ---
+452H. Maier et al.
+anterior horn cells and degeneration of posterior columns Material and methods
+(Dehaene et al., 1986; Feasby et al., 1986; Kanda et al.,Post-mortem material
+1989; Honavar et al., 1991). Only in earlier studiesThirteen autopsy cases of patients were investigated at the
+(Haymaker and Kernohan, 1949; Asbury et al., 1969; vanInstituteofNeurology,Vienna,between1957and1985(Cases
+Zandycke et al., 1982) were some sparse and non-2–4, 7–11, 13), and at the Neuropathological Laboratory of
+characteristic ﬁndings of primary CNS pathology reported,the Institute of Pathology, Innsbruck, between 1987 and
+including perivascular lymphocytes in the white matter and 1991 (Cases 1, 5, 6, 12). Metabolic, toxic, neoplastic or
+subependymal parenchyma of the brain, proliferation of paraneoplastic syndromes as differential diagnosis to
+meningeal cells or inﬂammatory inﬁltration of meninges. Guillain–Barre ´syndrome were excluded intra vitam and/or
+However, histopathological analysis was then restricted to post-mortem by complete autopsy in all cases. The clinical
+conventional staining techniques; no information was given records were reviewed for correctness of the diagnosis;
+about the amount of pathological material available in all cases fulﬁlled the criteria for Guillain–Barre ´syndrome
+each case, and poor clinical information raised some doubt (Asburyet al., 1978). Clinical data of all cases are given in
+on the accuracy of the diagnosis (Hughes, 1990). Table 1.
+In this retrospective histopathological study we examined Since this study was retrospective, the sampling of tissues
+the CNS in a series of Guillain–Barre ´syndrome cases, all was not standardized. Spinal cord and spinal roots were
+untreated by intravenous immunoglobulins, and most examined in all 13cases; if available, samples from forebrain
+(11 cases), oblongata (12 cases), pons (nine cases), untreated by corticosteroids.
+Table 1Clinical data of 13 patients with Guillain-Barre ´syndrome
+Case no. Duration of Age Sex Steroid Plasma- Antecedent Tetraparesis/ Cranial nerve Notes Cause of death
+(death) signs and therapy pheresis event -plegia involvement
+symptoms
+1 (1991) 1 day 78 F No No None Lower limb ? Cardiac failure Pulmonary
+paresis embolism
+2 (1974) 2 days 67 M No No Operation for Yes No Respiratory arrest
+tongue carcinoma
+3 (1970) 5 days 59 F No No None Yes No Pulmonary
+embolism
+4 (1985) 6 days 41 M Yes No Upper respiratory Yes Yes (bulbar, Pneumonia
+tract infection III, IV, VI, VII)
+5 (1990) 9 days 78 M Yes No Inﬂuenza-like Yes Yes (III, IV, VI) Sepsis
+illness
+6 (1990) 14 days 56 F No Yes Cough Yes Yes (III, IX, Pneumothorax Acute respiratory
+X, XI, XII) failure
+7 (1970) 3 weeks 71 M No No Arterial bypass Yes ? Acute respiratory Endocarditis
+failure
+8 (1980) 4 weeks 79 M No No Inﬂuenza-like Yes Yes (bulbar) Cardioversion, Cardiorespiratory
+illness respiratory failure failure
+9 (1978) 5 weeks 65 M No No Inﬂuenza-like Yes Yes Respiratory failure Respiratory arrest
+illness
+10 (1958) 6 weeks 26 M No No None Yes Yes (bulbar, VII) Respiratory arrest11 (1971) 8 weeks 19 M No No Epistaxis, fever Yes Yes (bulbar) Pneumonia12 (1987) 12 months 77 M No No None Yes No Respiratory
+failure
+13 (1957) ? 16 M No No None Yes No Asystoly
+--- Page 3 ---
+CNS in Guillain–Barre ´syndrome 453
+Table 2Antibodies used for immunocytochemistry
+Antibody Clone Antigen recognised Labelled target Dilution Source
+Anti-LCA PD7/26, 2B11 CD45RB antigen, Leukocytes 1:10 DAKO A/S, Glostrup,
+leukocyte Denmarkcommon antigen
+Anti-CD3 Polyclonal CD3 antigen T cells 1:50 (pp) DAKOAnti-CD8 C8/144B CD8 antigen Cytotoxic/suppressor T cells 1:40 DAKOAnti-CD20 L26 CD20 antigen B cells 1:50 (ap) DAKOOPD4 OPD4 CD45RO antigen Activated T (and B) cells 1:20 (pp) DAKOAnti-CD45RO UCHL-1 CD45RO antigen Activated and (in part) resting T 1:150 DAKO
+cells, granulocytes, monocytes
+Anti-CD68 KP1 CD68 antigen Macrophages 1:100(pp) DAKOAnti-Ki-M1P Ki-M1p Ki-M1P antigen Monocytes/macrophages, microglia 1:10 (pp) Dr Wacker, Kiel, Germany
+(Gehrmann and Kreutzberg, 1993) (Radzun et al., 1991)
+Anti-MBP Polyclonal MBP Myelin 1:100 DAKOAnti-NFP 2F11 NFP, mainly Neuronal cells 1processes 1:100 DAKO
+phosphorylated
+Anti-GFAP Polyclonal GFAP Normal and reactive astrocytes 1:400 DAKOAnti-HSV-1 Polyclonal HSV type 1 antigens HSV type 1 1:100 DAKOAnti-HSV-2 Polyclonal HSV type 2 antigens HSV type 2 1:100 DAKOAnti-CMV CCh2 CMV antigens CMV 1:20 DAKOAnti-VZV GP 01 8 21 Glycoprotein 3 of VZV VZV 1:2000 Dr Kurata, Tokyo, Japan
+Anti-VZVCl/170.1 17 21 Nucleoprotein of VZV VZV 1:1000 Dr Kurata, Tokyo, Japan
+Anti-measles virus Polyclonal Measles virus antigens Measles virus 1:100 Dr Vainionpa ¨a¨, Turku, Finland
+KV Hochosterwitz Polyclonal arboviral antigens TBME virus 1:20 Dr F. X. Heinz, Vienna, Austria
+LCA 5leukocyte common antigen; pp 5protease pretreatment; ap 5autoclave pretreatment at 120°C and 1 bar for 10 min in citrate buffer pH 6.0;
+MBP 5myelin basic protein; NFP 5neuroﬁlament proteins; GFAP 5glial ﬁbrillary acidic protein; HSV 5herpes simplex virus; CMV 5
+cytomegalovirus; VZV 5varicella zoster virus; TBME 5central European tick-borne meningoencephalitis.
+mesencephalon (four cases), peripheral nerves (six cases), on up to three representative tissue blocks in all cases.
+Biotinylated complementary DNA (cDNA) probes for HSV cranial nerves (11 cases), spinal ganglia (four cases), and
+skeletal muscle (three cases) were investigated. The type of I and II, and CMV (Enzo Biochem, New York, USA) and
+DNA probes for VZV (VZGP 01, VZVCl/170.1, obtained peripheral nerves and exact segment levels of spinal ganglia
+could not be identiﬁed in all cases. Cervical levels of the fromDrKurata,Tokyo)wereusedandprocessedasdescribed
+spinal cord were available in 12 out of 13 cases, lumbar in previous studies (Schmidbauer et al., 1989a,b, 1992). All
+levelsin11cases,thoraciclevelsin10cases,sacralsegments anti-viral antibodies and DNA probes have been working
+and cauda equina in each of seven cases. reliably on parafﬁn sections of positive control tissues.
+Formalin-ﬁxed, parafﬁn-embedded sections were stained
+with haematoxylin and eosin, Klu ¨ver–Barrera’s method for
+myelin, Bodian silver impregnation for axons and by
+Semiquantitative grading of cellular inﬁltrates immunocytochemical methods.
+and of tissue damage
+Evaluation of the severity of cellular inﬁltrates and of
+Immunocytochemistry demyelinationoraxonalpathologywasperformedbygrading
+Table 2 summarizes the antibodies used. Immunostaining of inﬂammatoryinﬁltratesasabsent(0);veryscarce(0/ 1);mild
+sections was performed using the peroxidase-anti-peroxidase (1); moderate ( 11) and severe ( 111). Scarce (0/ 1)
+method with polyclonal antibodies, and the labelled biotin– inﬁltrates were not considered to be pathological changes as
+avidin method with monoclonal antibodies. they were similar in intensity to control cases ( seebelow).
+For assessment of lymphocyte subtypes, approximately
+even amounts of OPD4 1and CD8 1cells were valued as
+Antiviral immunocytochemistry and in situ 1in both subsets. In cases with differing composition, the
+dominatingsubsetwasestimatedas 11,theminoroneas 1. hybridization
+The severity of demyelination and of axonal damage was All cases were immunohistochemically investigated for
+estimated as absent (0); mild ( 1)5,25% of ﬁbres affected; presence of viral antigens ( seeTable 2). In situhybridization
+moderate ( 11)526–50% of ﬁbres affected and severe for herpes simplex virus (HSV) types I and II, cytomegalo-
+virus(CMV)andvaricellazostervirus(VZV)wasperformed ( 111)5more than 50% of ﬁbres affected.
+--- Page 4 ---
+454H. Maier et al.
+Table 3Cell inﬁltrates in peripheral and central nervous system and changes in skeletal muscle
+Case no. Duration T cells OPD4 1 CD8 1 B cells Macrophages Microglia in CNS Muscle
+(year) of illness (CD3, UCHL-1) cells cells (CD20) (LCA, Ki-M1P) (LCA, Ki-M1P)
+1 (1991) 1 day 1SR, SC PNS: ly. 1PNS: ly. 11 (scarce) 1SR,11SG 0 2
+11SG 1SC (perivasc.)
+2 (1974) 2 days 1SC (perivascu.) CNS: ly. 11CNS: ly. 11 (scarce in 1thalamus, MO, pons Periventr. 2
+11MO, PNS: ly. 1PNS: ly. 1PN, MO) 1SC (perivasc.) ( 1temporal CX, BG
+1pons, thalamus 1/11PN, SM 11pons, MO, SC)
+1/11SR, PN, SM 11spinal grey
+3 (1970) 5 days 1men., SR CNS: ly. CNS: ly. 1(scarce in 1MO, 1/11MO (n. 2
+perivasal 1perivasal 1men.) 11/111SC, SR, gracilis, periventr.),
+PNS: ly. 1PNS: ly. 11 /11CN, SC (periventr.)
+111PN,1men.
+4 (1985) 6 days 1MO, BG, SC, CNS: ly. 1CNS: ly. 11 (scarce) 1MO, SC, SR 1MO 2
+1/11SR, PNS: ly. 1PNS: ly. 11 1 /111SG (nodular, diffuse),
+1SG, SM 11SC (periventr.,
+lat. col., grey matter)
+5 (1990) 9 days 1/11cauda, PN, SM CNS: ly. 1CNS: ly. ( 1)0 11/111SR, cauda, 1pons, MO 2
+PNS: ly. 1PNS: ly. 1 SM, PN (periventr., olives)
+6 (1990) 14 days 1MO, CNS: ly. 11CNS ly. 10 1/11SR, anterior 111MO 2
+1/11SR, SM, PNS: ly. 1PNS: ly. 1 horn, men., (periventr., focal),
+111SG,11PN men.: ly. 1 111 SG,11PN 1SC
+7 (1970) 3 weeks 1SR CNS: ly. 1 CNS: ly. 1,0 11/111SRs 1MO 2
+PNS: ly. 1PNS: ly. 11 MO (perivasc.) (nodules, periventr.)
+8 (1980) 4 weeks 1SR, SG, SM CNS: ly. 1CNS: ly. 1(scarce) 1CN, SG, SM 1mesencephalon Rare regenerating
+PNS: ly. 1PNS: ly. 11 1 /111SR ﬁbres, no inﬁltrates
+9 (1978) 5 weeks 0/ 1SR CNS: ly. 1CNS: ly. 10 1MO, SR 1MO (nodules) Groups of atrophic
+PNS: ly. 1PNS: ly. 11 /11CN ﬁbres, myonecroses
+Focally mph.
+10 (1958) 6 weeks 1SR 22 0 1/111SR 0/ 1SC (periventr.) 2
+11 (1971) 8 weeks 1/11CN PNS: ly. 1PNS: ly. 10 11/111CN 1/11SC Groups of atrophic
+11SR 111SR, PN (perivasc., ﬁbres. Fibrosis.
+1PN 11sacral dura diffuse) Perivasc. ly., mph.
+In endo 1
+perimysium
+12 (1987) 12 mths 0 CN CNS: mph. 1 00 / 1CN 1SC (lat. col., 2
+1SR 1/11SC,11/111SR grey matter)
+13 (1957) ? 1brain stem, SR, PN CNS: ly. 1CNS: ly. 10 1/11brainstem, 1/11pons, MO, SC 2
+PNS: ly. 1PNS: ly. 1 CN, SR, PN
+SR5spinal roots; SC 5spinal cord; SG 5spinal ganglion; SM 5spinal meninges; MO 5medulla oblongata; PN 5peripheral nerve; CN 5cranial nerves; CX 5cortex;
+BG5basal ganglia; perivasc. 5perivascular; periventr. 5periventricular; lat. col. 5lateral column; men. 5meninges; ly. 5lymphocytes; mph. 5macrophages. Changes
+graded as follows: 0 5none; 0/ 15very scarce; 15slight; 11 5moderate; 111 5 severe. 25not examined.
+Controls Results
+Five control cases were used for evaluation of incidenceComposition of cellular inﬁltratesof inﬁltrating mononuclear cells and of the density of
+tbnonuclear cell inﬁltrates were similar in PNS and CNS,microglia and as negative controls for immunocytochemistry.
+and were composed of lymphocytes and macrophages inWe investigated sections from brain and spinal cord with
+varying density, distribution and proportion (Table 3). Ten roots of patients who died immediately (or ,3 h) after a
+out of 13 cases showed predominance of monocytes/ fatal event (diagnoses: acute brainstem haemorrhage due
+macrophages. In cases with duration of 1 and 2 days, T to hypertension; suicide by shooting; myocardial infarction;
+lymphocytes and macrophages were present in almost even subarachnoidal bleeding following rupture of an aneurysm;
+densities, as was also found in one case with a survival of and acute ischaemia due to anaesthesia accident).
+--- Page 5 ---
+CNS in Guillain–Barre ´syndrome 455
+Table 4Changes in the spinal cord
+Case no. Spinal cord
+(duration)
+Central Posterior tract Spinocerebellar Mononuclear cell inﬁltrates Microglial activation
+chromatolysis degeneration tractof motor degeneration Posterior Lateral Grey Meninges Posterior Lateral Grey matter Pericanalicularneurons tracts column matter tracts column
+1 (1 day) 0 0 0 1 0 1 00000
+2 (2 days) 11 0 111 1 1 0 11 1 (AH) 11
+3 (5 days) 0 0 0 0/ 1 00 0 / 1 00 11 1
+4 (6 days) 1 00 0 0 / 11 1 0 11 /11 11
+5 (9 days) 0 0 0 0 0 0 1/11 0000
+6 (14 days) 0 0 0 1 0/11 1 /11 000 / 1 0
+7 (3 weeks) 11 0 0 000 00000
+8 (4 weeks) 0 0 0 0/ 1 00 / 10/1 000 / 1 0
+9 (5 weeks) 1 00 11 0 0000 / 1 0
+10 (6 weeks) 0 0 0 0 0 0 0 0 0 0 0/ 1
+11 (8 weeks) 11 1 0 1/11 0/11 1 0 111 1 0/1
+12 (12 mths) 0 11 0 11 0/11 00 11 0
+13 (?) 1 00 0 0 1 000 1(D) 0
+AH5anterior horn; D 5diffuse. Changes graded as follows: 0 5none; 0/ 15very scarce; 15slight; 11 5moderate.
+Table 5Changes in the brainstem
+Case no. Medulla oblongata Pons Mesencephalon
+(duration)
+Microglial Mononuclear ML Microglial Mononuclear ML Microglial Mononuclear MLactivation inﬁltrates degen. activation inﬁltrates degen activation inﬁltrates degen.
+1 (1 day) 0 0 0 22 2 22 2
+2 (2 days) 11dorsolateral 1perivascular 0 11peri- 1perivascular 0 22 2
+diffuse and ventricularperiventr. 1diffuse
+3 (5 days) 1nodules 0/ 1diffuse, 0 1periventr. 0 0 22 2
+11n. gracilis, meninges
+11periventr.
+4 (6 days) 1diffuse, nod- 11perivascular 0 0/ 1scarce 1perivascular 0 22 2
+ular, periventr.
+5 (9 days) 1nodules, 1nodular in 0 1periventr. 1perivascular 0 22 2
+periventr. olives
+6 (14 days) 1periventr. 1perivascular 0 0 0 0 22 2
+7 (3 weeks) 1nodules, 0/ 1scarce 0 0 0/ 1scarce 0 22 2
+periventr. perivascular perivascular
+8 (4 weeks) 1periventr. 0 0 22 2 0 1perivascular, 0
+scattered
+9 (5 weeks) 1nodules 1perivascular 0 22 2 00 0
+10 (6 weeks) 22 2 2 2 2 2 2 2
+11 (8 weeks) 111diffuse 1perivascular, 0 11focal 1focal, 0 0 0 0
+11n. gracilis, scattered
+olive
+12 (12 mths) 0/ 11 nodular in 0 0 0 0 0 0 0
+olives
+13 (?) 1diffuse 11perivascular 0 1diffuse 1/11 0 22 2
+perivascular,scattered
+ML5medial lemniscus; degen. 5degeneration; n. 5nucleus; periventr. 5periventricular. Changes graded as: 0 5none; 0/ 1very scarce; 1slight;
+11moderate, 111severe; 25not examined.
+--- Page 6 ---
+456H. Maier et al.
+Table 6Changes in the forebrain
+Case no. Chiasma opticum Basal ganglia Temporal cortex, hippocampus
+(duration)
+Demyelination Axonal Inﬁltrates Microglia Mononuclear Microglia Mononuclear
+damage activation cell inﬁltrates activation cell inﬁltrates
+1 (1 day) 2 00 0 0
+2 (2 days) 21 periventr. 1thalamus 1periventr. 0
+1thalamus (perivascular)
+3 (5 days) 2 00 0 0
+4 (6 days) 2 0 1perivascular 0 0
+5 (9 days) 2 00 0 0
+6 (14 days) 2 00 0 0
+7 (3 weeks) 2 00 0 0
+8 (4 weeks) 0 0 0 0 0 0 09 (5 weeks) 0 0 0 0 0 0 0
+10 (6 weeks) 22 2 2 2
+11 (8 weeks) 2 00 0 0
+12 (12 mths) 2 00 0 0
+13 (?) 22 2 2 2
+Periventr. 5periventricular; 0 5no changes; 15slight changes; 25not examined.
+14 days. B lymphocytes were either not present (eight cases) nodular, the topographical distribution and density varied
+or rare (ﬁve cases). between cases.
+Microglial activation was found predominantly in the grey
+matter of the spinal cord (Fig. 1A), and in some cases inChanges in the CNSdorsolateral quadrants or in the nuclei of the posterior tractsType, distribution and extent of changes in the CNS of allofthemedullaoblongata(Fig.2),withinnucleiofthepontinecases are summarized in Tables 4–6.grey (Fig. 5) and in the walls of the fourth ventricle (Fig.
+6A) and/or surrounding the central canal of the spinal cord(Fig. 6B).
+Mononuclear cell inﬁltrates
+Inﬁltrates consisted of macrophages and lymphocytes in
+varying intensity, localization and inﬁltration patterns.Macrophages were detected among motoneurons of the
+Secondary changes due to PNS damage
+anterior horn (Fig. 1A) or among neurons of the nucleus CNS damage secondary to PNS pathology was indicated by
+olivaris inferior (Fig. 1B), in nodular clusters (Fig. 2), axonal reaction/central chromatolysis of motoneurons in the
+perivascularly (Fig. 3), or diffusely scattered. anterior horn of the spinal cord and in three cases by
+Three Guillain–Barre ´syndrome cases with short-term secondary degeneration of the posterior columns.
+survival showed perivascular cufﬁng of lymphocytes within
+the spinal cord or medulla oblongata (Fig. 4A–F).
+Immunostaining for T cell subtypes using antibodies Changes in the PNS
+against OPD4 1and CD8 1cells showed additional Table 7 gives an overview of cell inﬁltrates, degree of
+immunostaining of microglial cells in the CNS, and rarely demyelination and axonal damage in various sites of the
+of macrophages (one case), with anti-OPD4. Lymphocytic peripheral nervous system of all cases.
+inﬁltrates consisted of both OPD4 1and CD8 1cells in even It was not possible to detect any obvious relationship
+proportions, with the exception of two cases with survival between intensity and/or distribution of cell inﬁltrates and
+times of 2 days and 2 weeks, which showed a distinctly the duration or severeness of illness.
+stronger OPD4 1component.
+In 11 cases, the composition of lymphocytic inﬁltrates
+with OPD4 1and CD8 1cells was similar in the PNS and Immunohistochemistry and in situhybridization
+CNS; only in Case 6, did the intensity of CNS inﬁltrationfor viral infectionsby OPD4 1cells seem to exceed that by CD8 1cells, whilstNo speciﬁc reaction products were detected.in the PNS lymphocytic subsets were evenly distributed.
+Control cases Microglial activation
+In spinal roots, no (or very scarce) mononuclear cells were In 11 out of 13 cases, activation of microglia was prominent
+in the CNS. Microglial distribution was either diffuse or found within the fascicles. Few CLA- and/or CD68-positive
+--- Page 7 ---
+CNS in Guillain–Barre ´syndrome 457
+Fig. 1Case 11. ( A) Anterior horn of the spinal cord with inﬁltration by microglial cells and
+macrophages. Anti-CD68, magniﬁcation 3200. (B) Macrophage clusters among neurons of the nucleus
+olivaris inferior of medulla oblongata. Anti-CD68, magniﬁcation 3200.
+cells were seen around vessels in the parenchyma of the Discussion
+spinal cord and forebrain. Microglial cells were seen in low In this study on Guillain–Barre ´syndrome pathology, changes
+density within the CNS, but two cases showed a slightly within the CNS were seen frequently in varying degrees
+higher density ( 1) of microglial cells in the wall of the of intensity and distribution of inﬁltrating macrophages,
+microglial cells, and/or lymphocytes. Lymphocytic inﬁltrates fourth ventricle.
+--- Page 8 ---
+458H. Maier et al.
+Fig. 2Case 5. Nodular cluster of microglial cells in the dorsolateral medulla oblongata (nucleus
+gracilis). Anti-Ki-M1P, magniﬁcation 3400.
+Fig. 3Case 4. Perivascular and nodular aggregates of macrophages. Anti-CD68; magniﬁcation 3100.
+were found within the spinal cord or brainstem in cases with ofTlymphocytesandIa-positivecellsintheCNS(Lassmann
+et al., 1991). short survival, up to 6 days. The presence of T lymphocytes
+in the CNS was neglected in some studies on experimental In normal brain tissue, perivascular microglial cells are a
+subpopulation of resident intraparenchymal microglia allergicneuritis(EAN)(Izumo etal.,1985),butwasobserved
+in another study in which increased numbers of macrophages (Lassmann et al., 1991). We found activation of microglia
+in the CNS predominantly in the spinal cord and brainstem, were present from the onset in the dorsal columns of the
+spinalcord,accompaniedbyaxonalloss,myelindegeneration in one case as early as 2 days after onset of neurological
+symptoms. In two cases, microglial activation was seen in and reactive gliosis with signiﬁcant increase in the number
+--- Page 9 ---
+CNS in Guillain–Barre ´syndrome 459
+Fig. 4Serial sections of the same vessel in medulla oblongata of Case 4. ( A) Perivascular cufﬁng of mononuclear cells reactive with
+anti-LCA. ( B) T-cell component, anti-CD3. ( C) Scarce B lymphocytes, anti-CD20. ( D) OPD4-labelled cells. ( E) CD8 1lymphocytes. ( F)
+Intermingled macrophages. Anti-CD68; magniﬁcations 3264.
+the nuclei of the posterior tracts and around neurons of the microglial cells were scattered throughout the ventral and
+dorsal grey matter of the spinal cord, or clustered around spinal anterior horn. Inﬁltrating microglia has been described
+as one major feature in the spinal cord of EAN rats with a motor neurons, and were described as appearing in increased
+number in the projection ﬁelds of primary afferent sensory peak at ~7 days after T cell transfer (Gehrmann et al., 1992);
+--- Page 10 ---
+460H. Maier et al.
+Fig. 5Microglial activation in pontine nuclei of Case 11. Anti-LCA, magniﬁcation 3400.
+ﬁbres of the lumbar (nucleus gracilis) and cervical (nucleus of such a speciﬁc brainstem lesion; the pathological process
+does not necessarily have to be localized in the brainstem cuneatus) spinal segments of the rat in perineuronal and
+perivascular positions (Gehrmann et al., 1992). Thus, to cause clinical features of the Miller–Fisher syndrome
+(Barontini and Sita ´, 1983; Ropper, 1983; Phillips et al., inﬂammatory features seen in our Guillain–Barre ´syndrome
+series closely resemble those of its experimental model. 1984).Inourseries,additionalclinicalinvolvementofcranial
+nerves was similar to the Miller–Fisher syndrome in three However, periventricular microglial activation as found in
+this series has not been described in EAN. We found it in cases(Cases4–6),butitwasnotpossibletogainmoredetailed
+clinical information on additional cerebellar dysfunction three out of four cases with short survival time (up to 6
+days). In cases of longer duration, periventricular microglial retrospectively. We found pathological changes in the
+brainstem of these cases, featuring microglia activation and/ inﬁltrates were absent or only mild, similar in intensity to
+those found in some of our control cases. It might be or macrophage inﬁltration.
+In some clinical studies on patients with chronic speculated that antigen presentation in the CSF of Guillain–
+Barre´syndrome cases at an early stage might provoke severe inﬂammatory demyelinating polyneuropathy using CT or
+MRI, CNS lesions were interpreted as foci of demyelination periventricular microglial activation, but that it decreases
+with increasing duration of illness. (Rubin et al., 1987; Thomas et al., 1987; Ormerod et al.,
+1990) but their true nature remains obscure. There are only It is possible that microglia activation in the CNS, as
+described in this series, reﬂects a non-speciﬁc reaction, a few neuropathological studies reporting the combination of
+demyelination in both the PNS and CNS (Lassmann et al., similar to that seen in patients after long lasting intensive
+care unit therapy (Schmidbauer et al., 1989a). However, 1981; Best, 1985; Tachi et al., 1985; de la Monte et al.,
+1986). Because of its rarity, the combination of primary microglial cells were already present after only a few days
+in nearly all our short survival cases. myelin damage in both CNS and PNS is an unusual event,
+but it may indicate possible links between the pathogenesis The Miller–Fisher syndrome is a variant of Guillain–
+Barre´syndromewithcharacteristicclinicalsymptoms;several of Guillain–Barre ´syndrome and multiple sclerosis. In other
+words, both entities might represent endpoints of a studies have suggested a brainstem lesion as the
+morphological substrate of clinical signs and symptoms clinicopathological continuum of CNS and PNS disease
+(Poser, 1987; Thomas, 1992). In this study, however, central (Al-Dinet al., 1982; Barontini and Sita ´, 1983; Ropper, 1983;
+Phillipset al., 1984; Dehaene et al., 1986). However, only demyelination was absent in all cases.
+Pathology of the PNS in patients with Guillain–Barre ´ one clinicopathological study described a case as exhibiting
+‘areas of central necrosis, occasionally rod cells, and syndrome has been well deﬁned (van Zandycke et al., 1982;
+Phillipset al., 1984; Best, 1985; Dehaene et al., 1986; astrocytic proliferation, sometimes forming ‘glial stars’, and
+perivascular cufﬁng of mononuclear cells’ (Al-Din et al., Kanda et al., 1989; Honavar et al., 1991; for review, see
+Hughes, 1990). The composition of cellular inﬁltrates and 1982). However, other authors have doubted the existence
+--- Page 11 ---
+CNS in Guillain–Barre ´syndrome 461
+Fig. 6Microglial activation, Case 3. ( A) Floor of the 4th ventricle in medulla oblongata. ( B) Central
+canal of cervical spinal cord. Anti-LCA; magniﬁcations 3400.
+their distribution in cases with very short clinical course (of of all cases (Asbury et al., 1969). Other, more recent studies,
+however, report a more variable presence of lymphocytes ,5 days) have so far not been analysed. This study conﬁrms
+that macrophages dominate the inﬂammatory PNS changes, in Guillain–Barre ´syndrome lesions (Carpenter, 1972; van
+Zandycke et al., 1982; Honavar et al., 1991) including accompanied by a more or less conspicuous component of
+T lymphocytes. Even after clinical courses as short as 1 or cases with predominant macrophage inﬁltrates, but absent
+lymphocytes (Kanda et al., 1989). In biopsy studies of 2 days, T cells and macrophages are present in nearly even
+densities.Anearlierstudy,includingcaseswithshortsurvival Guillain–Barre ´syndrome, lymphocytic inﬁltration was not a
+frequent observation (Prineas et al., 1972; Brechenmacher of a few days, described lymphocytic inﬁltrates in the PNS
+--- Page 12 ---
+462H. Maier et al.
+Table 7Neuropathological changes in the peripheral nervous system: (A) mononuclear cell inﬁltration, (B) myelin loss and
+(C) axonal damage
+Case no. Mononuclear cell inﬁltration
+(duration)
+Anterior root Posterior root SG PN CN
+C TLS CTLS C E
+(A) Mononuclear cell inﬁltration
+1 (1 day) 1 2 11 2 1 2 1 2 1 11 2 IX/X 0
+2 (2 days) 0 0/ 1 00 0 / 1 0/11 1 2 2 1 /11 V1
+3 (5 days) 1 11 111 111 11 11 111 111 1 2 11 /111IX/X 1, XII 11
+4 (6 days) 0 0 1 0 1 1 11 1 11 111 2 IX/X 0
+5 (9 days) 0 2 0 20 21 /11 2 11 2 111 XII 0
+6 (14 days) 0 2 0 2 1 2 11 2 11 111 111 2
+7 (3 weeks) 0 1 1 1 1 111 11 11 2 2 2 0
+8 (4 weeks) 0 0 21 00 / 1 2 11 111 11 2 III1
+9 (5 weeks) 0 0 1 0 00000 22 IX/X 11
+10 (6 weeks) 2 111 111 2 2 111 111 2 2 2 2 2
+11 (8 weeks) 0/ 10 1 1 11 11 11 111 2 2 111 III1,V111, IX/X 1
+12 (12 mths) 11 1 0 2 111 111 11 2 2 2 2 IX/X -/ 1
+13 (?) 11 1 2 21 1 1 1 2 2 22 0V 1, XII 11
+(B) Myelin loss
+1 (1 day) 0 2 0 20 2 0 21 1 2 IX/X 0
+2 (2 days) 0 0 0 0 0 0 0/ 1 0/12 2 1 /11 V0
+3 (5 days) 0 0 0 0 0/ 1 0000 21 IX/X 0, XII 0
+4 (6 days) 0 0 11 00 1 11 1 11 111 2 IX/X 0
+5 (9 days) 0 2 0 20 2 0 2 0/12 1 1 XII 0
+6 (14 days) 0 2 0 20 2 1 2 11 1 111 2
+7 (3 weeks) 0/ 10/1 11 11 1 1 111 11 2 2 2 0
+8 (4 weeks) 0 0 2 00 0 21 1 1 0/12 III 0
+9 (5 weeks) 0 0 0 0 0 0 0 0 0 22 0
+10 (6 weeks) 21 /11 1 /11 2 2 1 /11 1 /11 2 2 2 2 2
+11 (8 weeks) 0 0 1 1 11 1 11 111 2 2 111 III11,V11, IX/X
+1/11
+12 (12 mths) 0 1 0 20 1 0/12 2 2 2 IX/X 1
+13 (?) 0 0 2 2 11 11 2 2 2 2 00
+(C) Axonal damage
+1 (1 day) 0 2 0 20 2 0 2 00 2 IX/X 0
+2 (2 days) 0 0 0 0 0 0 0 0 22 1 V0
+3 (5 days) 0 0 0 0 0 0 0 0 0 21 IX/X 0, XII: 0
+4 (6 days) 0 0 0 0 0 0 0 0 0 0 2 IX/X 0
+5 (9 days) 0 2 0 20 2 0 2 0/12 1 XII 0
+6 (14 days) 0 2 0 20 2 0 2 0/100 2
+7 (3 weeks) 0 0 11 0 111 2 2 2 0
+8 (4 weeks) 0 0 2 00 0 2 0/11 0 2 III 0
+9 (5 weeks) 0 0 0 0 0 0 0 0 0 22 0
+10 (6 weeks) 200 22 00 2 2 222
+11 (8 weeks) 0 0 11 00 11 11 2 2 11 III11, V 0, IX/X 1
+12 (12 mths) 0 0 0 2000 22 2 2 IX/X 0
+13 (?) 0 0 22 00 22 2 2 00
+SG5spinal ganglia; PN 5peripheral nerve; CN 5cranial nerve. C 5cervical, T 5: thoracic, L 5lumbar, S 5sacral, CE 5cauda equina. Neuropathology
+severity: 0 5none; 0/ 1very scarce; 1slight; 11moderate; 111severe; 25not examined.
+et al., 1987). This reported variation in observations might series of Guillain–Barre ´syndrome cases, taking advantage
+of the antibodies applicable on formalin-ﬁxed, parafﬁn- reﬂect some sampling bias, but more likely indicates that
+Guillain–Barre ´syndrome pathology is heterogeneous with embedded material, which have not been available until
+recently. Frozen sections could be investigated in one case topographically varying severity of changes (Hughes, 1990).
+This is also supported by the considerable variation seen in of an autopsy study, describing the presence of both CD4 1
+and CD8 1cells and a probable dominating CD4 1subset in our own series.
+Our study presents new data on T-cell subsets in a larger some nerves (Grifﬁn et al., 1993). Nerve biopsies have been
+--- Page 13 ---
+CNS in Guillain–Barre ´syndrome 463
+Asbury AK, Arnason BG, Adams RD. The inﬂammatory lesion in examinedintwocases,showingastrongerCD4 1component
+idiopathic polyneuritis. Its role in pathogenesis. Medicine and a less intense CD8 1fraction in a Guillain–Barre ´
+(Baltimore) 1969; 48: 173–215. syndrome patient, and dominating CD8 1cells in a patient
+with HIV polyneuropathy (Cornblath et al., 1987). In EAN, Asbury AK, Arnason BG, Karp HR, McFarlin DE. Criteria for
+the presence of CD4 1and CD8 1cells has been reported diagnosis of Guillain-Barre ´syndrome. Ann Neurol 1978; 3: 565–6.
+in the PNS, but not within the spinal cord (GehrmannBarontini F, Sita ´D. The nosological position of Fisher 9s syndromeet al., 1992).(ophthalmoplegia, ataxia and areﬂexia). J Neurol 1983; 229: 33–44.CD4 labelling data need to be interpreted carefully in
+Best PV. Acute polyradiculoneuritis associated with demyelinated formol-ﬁxed tissue: the monoclonal antibody OPD4 which
+plaques in the central nervous system: report of a case. Acta works on parafﬁn sections was originally described as
+Neuropathol (Berl) 1985; 67: 230–4. labellingCD4 1helper/inducerTcells(Yoshino etal.,1989).
+More recently, this same antibody was shown to recognizeBrechenmacherC,VitalC,DeminiereC,LaurentjoyeL,CastaingY,
+mainly the CD45RO antigen (Poppema et al., 1991). In our Gbikpi-BenissanG, etal.Guillain-Barre ´syndrome:anultrastructural
+cases, both OPD4 1and CD8 1lymphocytes occur among study of peripheral nerve in 65 patients. Clin Neuropathol 1987; 6:
+inﬁltrating cells, mostly evenly distributed, in both PNS and 19–24.
+CNS, also in cases with very short duration of illness. InCarpenter S. An ultrastructural study of an acute fatal case ofmultiple sclerosis, acute plaques show predominantGuillain-Barre ´syndrome. J Neurol Sci 1972; 15: 125–40.inﬁltration by CD4 1cells, and chronic active lesions are
+Cornblath DR, McArthur JC, Kennedy PG, Witte AS, Grifﬁn JW. associated with a dominating CD8 1subset (Raine, 1994).
+Inﬂammatorydemyelinatingperipheralneuropathiesassociatedwith In our Guillain–Barre ´syndrome series, only one case with
+human T-cell lymphotropic virus type III infection. Ann Neurol survival time of 14 days showed a dominating OPD4 1cell
+1987; 21: 32–40.component in the CNS, but evenly distributed T-cell subsets
+in the PNS. Dehaene I, Martin JJ, Geens K, Cras P. Guillain-Barre ´syndrome
+In our series, we did not observe an obvious primary with ophthalmoplegia: clinicopathologic study of the central and
+axonal lesion as reported in rare cases of acute (Feasby peripheral nervous systems, including the oculomotor nerves.
+Neurology 1986; 36: 851–4. et al., 1986; Feasby et al., 1993) and chronic idiopathic
+polyneuropathy (Julien et al., 1989). In the skeletal muscle,de la Monte SM, Ropper AH, Dickersin GR, Harris NL, Ferry JA,neurogenic damage featuring grouped atrophy of muscleRichardson EP Jr. Relapsing central and peripheral demyelinatingﬁbres (Phillips et al., 1984), as also seen in two out of threediseases.Unusualpathologicfeatures.ArchNeurol1986;43:626–9.
+cases of this series, is evidence of axonal impairment, which
+Feasby TE, Gilbert JJ, Brown WF, Bolton CF, Hahn AF, Koopmanis likely to be secondary.
+WF,et al.An acute axonal form of Guillain-Barre ´polyneuropathy.We conclude that the CNS is frequently affected in our
+Brain 1986; 109: 1115–26.patients with Guillain–Barre ´syndrome. The CNS changes
+are non-demyelinating and therefore do not represent an Feasby TE, Hahn AF, Brown WF, Bolton CF, Gilbert JJ, Koopman
+WJ. Severe axonal degeneration in acute Guillain-Barre ´syndrome: equivalent of the PNS myelin damage in Guillain–Barre ´
+evidence of two different mechanisms? J Neurol Sci 1993; 116: syndrome. Changes such as degeneration of spinal posterior
+185–92. tracts or perineuronal microgliosis in projection nuclei are
+secondary to pathology in the PNS. Inﬂammatory cellGehrmann J, Kreutzberg GW. Monoclonal antibodies againstreactions are also found in the CNS and are similar to thosemacrophages/microglia: immunocytochemical studies of early
+in the PNS. Moreover, they are similar to CNS pathology in microglial activation in experimental neuropathology. Clin
+EAN of the rat, including inﬁltrates of mononuclear cells Neuropathol 1993; 12: 301–6.
+and activation of microglia. This inﬂammation might reﬂectGehrmann J, Gold R, Linington C, Lannes-Vieira J, Wekerle H,CNSimmuneactivationintheabsenceoftherelevantantigen,Kreutzberg GW. Spinal cord microglia in experimental allergicin addition to cellular reactions accompanying secondaryneuritis. Evidence for fast and remote activation. Lab Invest 1992;CNS changes. These changes might relate to clinical signs of67: 100–13.CNS involvement in patients with Guillain–Barre ´syndrome.
+Grifﬁn JW, George R, Ho T. Macrophage systems in peripheral
+nerves. A review. [Review]. J Neuropathol Exp Neurol 1993; 52:Acknowledgements 553–60.
+TheauthorswishtothankDrsWacker(Kiel),Kurata(Tokyo),Haymaker W, Kernohan JW. The Landry-Guillain-Barre ´syndrome:Vainionpa¨a¨(Turku) and Heinz (Vienna) for providinga clinicopathologic report of ﬁfty fatal cases and a critique of theantibodies, and MrsH. Flicker and Ms. S.Jo ¨bstl for excellentliterature. Medicine 1949; 28: 59–141.technical assistance.
+Honavar M, Tharakan JK, Hughes RAC, Leibowitz S, Winer JB.
+A clinicopathological study of the Guillain-Barre ´syndrome. NineReferencescases and literature review. Brain 1991; 114: 1245–69.Al-Din AN, Anderson M, Bickerstaff ER, Harvey I. Brainstem
+Hughes RAC. Guillain-Barre ´syndrome. London: Springer-Verlag, encephalitis and the syndrome of Miller Fisher. Brain 1982; 105:
+481–95. 1990.
+--- Page 14 ---
+464H. Maier et al.
+Izumo S, Linington C, Wekerle H, Meyermann R. Morphologic Raine CS. Multiple sclerosis: immune system molecule expression
+in the central nervous system. [Review]. J Neuropathol Exp Neurol study on experimental allergic neuritis mediated by T cell line
+speciﬁc for bovine P2 protein in Lewis rats. Lab Invest 1985; 53: 1994; 53: 328–37.209–18.Ropper AH. The CNS in Guillain-Barre ´syndrome [editorial]. Arch
+Neurol 1983; 40: 397–8. Julien J, Vital C, Lagueny A, Ferrer X, Brechenmacher C. Chronic
+relapsing idiopathic polyneuropathy with primary axonal lesions. JRubin M, Karpati G, Carpenter S. Combined central and peripheralNeurol Neurosurg Psychiatry 1989; 52: 871–5.myelinopathy. Neurology 1987; 37: 1287–90.
+Kanda T, Hayashi H, Tanabe H, Tsubaki T, Oda M. A fulminantSchmidbauer M, Budka H, Ambros P. Herpes simplex virus (HSV)case of Guillain-Barre ´syndrome: topographic and ﬁbre size relatedDNA in microglial nodular brainstem encephalitis. J Neuropatholanalysis of demyelinating changes. J Neurol Neurosurg PsychiatryExp Neurol 1989a; 48: 645–52.1989; 52: 857–64.
+Schmidbauer M, Budka H, Ulrich W, Ambros P. CytomegalovirusLassmann H, Budka H, Schnaberth G. Inﬂammatory demyelinating(CMV) disease of the brain in AIDS and connatal infection: apolyradiculitis in a patient with multiple sclerosis. Arch Neurolcomparative study by histology, immunocytochemistry and in situ1981; 38: 99–102.DNA hybridization [published erratum appears in Acta Neuropathol
+(Berl) 1990; 79: 579]. Acta Neuropathol (Berl) 1989b; 79: 286–93. LassmannH,FierzW,NeuchristC,MeyermannR.Chronicrelapsing
+experimental allergic neuritis induced by repeated transfer of P2-Schmidbauer M, Budka H, Pilz P, Kurata T, Hondo R. Presence,protein reactive T cell lines. Brain 1991; 114: 429–42.distribution and spread of productive varicella zoster virus infection
+in nervous tissues. Brain 1992; 115: 383–98. OrmerodIEC,WaddyHM,KermodeAG,MurrayNMF,ThomasPK.
+Involvement of the central nervous system in chronic inﬂammatoryTachi N, Ishikawa Y, Tsuzuki A, Minami R, Sasaki K, Shinoda M.demyelinating polyneuropathy: a clinical, electrophysiological andA case of childhood multiple sclerosis with peripheral neuropathy.magnetic resonance imaging study. J Neurol Neurosurg PsychiatryNeuropediatrics 1985; 16: 231–4.1990; 53: 789–93.
+Thomas PK. The Guillain-Barre ´syndrome: no longer a simplePhillips MS, Stewart S, Anderson JR. Neuropathological ﬁndingsconcept [editorial]. J Neurol 1992; 239: 361–2.in Miller Fisher syndrome. J Neurol Neurosurg Psychiatry 1984;
+47: 492–5. Thomas PK, Walker RWH, Rudge P, Morgan-Hughes JA, King
+RHM, Jacobs JM, et al. Chronic demyelinating peripheralPoppema S, Lai R, Visser L. Monoclonal antibody OPD4 is reactiveneuropathy associated with multifocal central nervous systemwithCD45RO,butdiffersfromUCHL-1bytheabsenceofmonocytedemyelination. Brain 1987; 110: 53–76.reactivity. Am J Pathol 1991; 139: 725–9.
+Yoshino T, Mukuzono H, Aoki H, Takahashi K, Takeuchi T,Poser CM. The peripheral nervous system in multiple sclerosis. AKubonishiI,etal.Anovelmonoclonalantibody(OPD4)recognizingreview and pathogenetic hypothesis. [Review]. J Neurol Sci 1987;a helper/inducer T cell subset. Its application to parafﬁn-embedded79: 83–90.tissues. Am J Pathol 1989; 134: 1339–46.
+Prineas JW. Acute idiopathic polyneuritis. An electron microscopeVan Zandycke M, Martin JJ, Vande Gaer L, Van den Heyning PJ.study. Lab Invest 1972; 26: 133–47.Facial myokymia in the Guillain-Barre ´syndrome: a
+clinicopathologic study. Neurology 1982; 32: 744–8. Radzun HJ, Hansmann M-L, Heidebrecht HJ, Bo ¨dewadt-Radzun S,
+Wacker HH, Kreipe H, et al. Detection of a monocyte/macrophagedifferentiation antigen in routinely processed parafﬁn-embeddedtissues by monoclonal antibody Ki-M1P. Lab Invest 1991; 65: Received August 6, 1996. Revised November 6, 1996.
+Accepted November 14, 1996 306–15.

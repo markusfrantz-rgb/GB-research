@@ -1,0 +1,350 @@
+Citation: Castillo P, Woodruff B, Caselli R, et al. Steroid-responsive encephalopathy associated with autoimmune thyroiditis. Arch Neurol. 2006;63(2):197-202. PMID: 16476807
+Source: PDF extraction
+
+---
+
+
+--- Page 1 ---
+ORIGINAL CONTRIBUTION
+Steroid-Responsive Encephalopathy
+Associated With Autoimmune Thyroiditis
+Pablo Castillo, MD; Bryan Woodruff, MD; Richard Caselli, MD; Steven Vernino, MD, PhD;
+Claudia Lucchinetti, MD; Jerry Swanson, MD; John Noseworthy, MD; Allen Aksamit, MD; Jonathan Carter, MD;Joseph Sirven, MD; Gene Hunder, MD; Vahab Fatourechi, MD; Bahram Mokri, MD; Daniel Drubach, MD;Sean Pittock, MD; Vanda Lennon, MD, PhD; Brad Boeve, MD
+Background :Steroid-responsive encephalopathy asso-
+ciated with autoimmune thyroiditis (SREAT), oftentermed Hashimoto encephalopathy , is a poorly under-
+stood and often misdiagnosed entity.
+Objective :To characterize the clinical, laboratory, and
+radiologic findings in patients with SREAT to poten-tially improve recognition of this treatable entity.
+Design :Retrospective analysis of clinical features and
+diagnostic test data.
+Setting :Two affiliated tertiary care referral institutions.
+Patients :Twenty consecutive (6 male) patients diag-
+nosed as having SREAT from 1995 to 2003.
+Main Outcome Measures :Clinical features and an-
+cillary test findings associated with SREAT.
+Results :The median age at disease onset was 56 years
+(range, 27-84 years). The most frequent clinical fea-tures were tremor in 16 (80%), transient aphasia in 16(80%), myoclonus in 13 (65%), gait ataxia in 13 (65%),seizures in 12 (60%), and sleep abnormalities in 11 (55%).All patients were assigned an alternative misdiagnosis atpresentation, most commonly viral encephalitis (n=5),
+Creutzfeldt-Jakob disease (n=3), or a degenerative de-mentia (n=4). The most frequent laboratory abnormali-ties were increased liver enzyme levels in 11, increasedserum sensitive thyroid-stimulating hormone levels in 11,
+and increased erythrocyte sedimentation rate in 5. In only5 patients (25%) did cerebrospinal fluid abnormalitiessuggest an inflammatory process. Magnetic resonance im-aging abnormalities believed to be related to the encepha-lopathy were present in 5 patients (26%).
+Conclusions :The clinical, laboratory, and radiologic find-
+ings associated with SREAT are more varied than previ-ously reported. Misdiagnosis at presentation is common.This treatable syndrome should be considered even if theserum sensitive thyroid-stimulating hormone level anderythrocyte sedimentation rate are normal, the cerebrospi-nal fluid profile does not suggest an inflammatory pro-cess, and neuroimaging results are normal. Until the patho-physiologic mechanism of this and other autoimmuneencephalopathies is better characterized, we believe thatdescriptive terms that reflect an association rather than cau-sation are most appropriate for this syndrome.
+Arch Neurol. 2006;63:197-202
+NEUROLOGISTS ARE OFTEN
+consulted to evaluate pa-
+tients with acute or sub-acute encephalopathy.The differential diagno-
+sis for encephalopathy is wide, but theclinical features and findings on blood,cerebrospinal fluid (CSF), electroencepha-lography (EEG), and neuroimaging stud-ies often (but not always) lead to an accu-
+rate diagnosis. Once infectious causes areexcluded, an autoimmune or inflamma-tory process may be suspected on the basisof inflammatory and autoimmune mark-ers in the serum and CSF and meningeal andparenchymal abnormalities on magneticresonance imaging (MRI) of the brain.
+Autoimmune encephalopathy may take
+many forms, including paraneoplastic oridiopathic limbic encephalitis, that are de-fined by characteristic serologic and neu-
+roimaging abnormalities.
+1,2Idiopathic au-
+toimmune encephalopathy is also oftendefined on the basis of a clinical responseto steroids. Steroid-responsive encepha-lopathy associated with autoimmune thy-roiditis (SREAT), often referred to asHashimoto encephalopathy , was initially de-
+scribed by Brain et al.
+3Although high se-
+rum levels of thyroperoxidase (TPO) an-
+tibody, formerly known as antimicrosomalantibody, are often found in patients withSREAT, this organ-specific autoantibodyis a serologic marker for the common con-dition of autoimmune (Hashimoto) thy-roiditis and a common marker of autoim-munity in most autoimmune neurologicdisorders.
+4,5A direct causal relationship be-
+tween thyroid antibodies and encepha-lopathy is unlikely.
+6Numerous case re-Author Affiliations:
+Department of Neurology(Drs Castillo, Vernino,Lucchinetti, Swanson,Noseworthy , Aksamit, Mokri,Drubach, Pittock, Lennon, andBoeve), Department of InternalMedicine, Divisions ofRheumatology (Dr Hunder) andEndocrinology (Dr Fatourechi),Department of Immunology(Dr Lennon), and Departmentof Laboratory Medicine andPathology (Drs Pittock andLennon), Mayo Clinic Collegeof Medicine, Rochester, Minn;and Department of Neurology(Drs Woodruff, Caselli, Carter,and Sirven), Mayo ClinicCollege of Medicine,Scottsdale, Ariz.
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+197
+©2006 American Medical Association. All rights reserved.
+--- Page 2 ---
+ports, small series, and an excellent recent literature
+review7-11have characterized this entity further. Never-
+theless, many uncertainties regarding the condition per-sist, including the spectrum of clinical findings, the as-sociated laboratory and radiologic findings, the clinicalsignificance of the quantitative level of TPO antibody, thecriteria required for diagnosis, the appropriate terms forthe condition, and the typical outcome of steroid treat-ment. The literature thus far has not provided sufficientdata on these challenging issues to aid the diagnosis ofthis disorder and guide its management. We sought toaddress some of these issues by analyzing data on a se-ries of patients in whom the diagnosis of SREAT was madeat Mayo Clinic Rochester (in Minnesota) and Mayo ClinicScottsdale (in Arizona) during an 8-year period.
+METHODS
+This retrospective study was reviewed and approved by the Mayo
+Clinic institutional review board. The authors identified con-secutive patients in whom a diagnosis of SREAT was made at MayoClinic Rochester or Mayo Clinic Scottsdale between November1995 and July 2003. For the purpose of this study, the diagnosisof SREAT required fulfillment of the following criteria: (1) en-
+cephalopathy manifested by cognitive impairment and 1 or moreof the following: neuropsychiatric features (eg, hallucinations, de-lusions, or paranoia), myoclonus, generalized tonic-clonic or par-tial seizures, or focal neurologic deficits; (2) presence of serumthyroid antibody (TPO or microsomal); (3) euthyroid status (se-rum sensitive thyroid-stimulating hormone [TSH], 0.3-5.0 mIU/L)or mild hypothyroidism (serum sensitive TSH, 5.1-20.0 mIU/L)that would not account for encephalopathy; (4) no evidence inblood, urine, or CSF analyses of an infectious, toxic, metabolic,or neoplastic process; (5) no serologic evidence of the neuronalvoltage-gated calcium channel, voltage-gated potassium chan-nel, or other currently recognized paraneoplastic autoantibodiesto indicate another diagnosis; (6) no findings on neuroimagingstudies indicating vascular, neoplastic, or other structural le-sions to explain the encephalopathy; and (7) complete or near-complete return to the patient’s neurologic baseline status fol-lowing corticosteroid treatment. This last criterion was specificallyrequired because our primary aim was to identify patients whoresponded to treatment and then characterize their clinical, labo-ratory, and radiologic features. These criteria are similar to thosepreviously published,
+6,7,12except that we required the absence of
+voltage-gated calcium and potassium channels and other para-neoplastic autoantibodies for inclusion in this analysis.
+We retrospectively reviewed and analyzed all available clini-
+cal, laboratory, radiologic, and brain biopsy data to determine thespectrum of features and findings associated with SREAT. A re-view of patients evaluated at our institution before 1996 has beenpublished, which includes 2 of the cases in this study.
+7A review
+of the EEG findings in SREAT, which included 15 patients in thisstudy, has also been published.
+12The current article expands on
+the report in abstract form of 17 patients in our original data set.6
+During this same approximately 8-year period, we treated
+additional patients who fulfilled the same criteria described inthis article, except that no significant improvement occurredfollowing high-dose corticosteroid treatment (ie, steroid-unresponsive encephalopathy associated with autoimmune en-cephalopathy). We present data on these patients and argue thatthey likely have a nonautoimmune or noninflammatory ori-gin for their encephalopathy.
+RESULTS
+DEMOGRAPHIC AND CLINICAL FINDINGS
+Twenty patients met criteria for the diagnosis of SREAT
+as noted herein. The symptoms and findings for the 20patients are given in
+Table 1 . All but 1 patient required
+hospitalization during the acute phase of illness be-cause of the severity of their deficits. The median age atonset was 56 years (range, 27-84 years). There was a pre-ponderance of female patients (70%). The most com-mon associated manifestations were behavioral-cognitive abnormalities (by definition) in 20 (100%),tremor in 16 (80%), transient aphasia in 16 (80%), my-oclonus in 13 (65%), gait ataxia in 13 (65%), seizures in12 (60%), and sleep abnormalities in 11 (55%). The ini-tial clinical diagnoses are given in
+Table 2 . Misdiag-
+noses were common. The most frequent misdiagnoseswere viral encephalitis, Creutzfeldt-Jakob disease, and de-generative dementia.
+Nine patients had a history of hypothyroidism that an-
+tedated the onset of neurologic symptoms, and 2 had eu-thyroid goiter. Five additional patients developed hypo-throidism after the resolution of encephalopathy. OtherTable 1. Clinical Findings in 20 Patients
+With Steroid-Responsive EncephalopathyAssociated With Autoimmune Thyroiditis
+Abnormal Clinical Finding No. (%) of Patients
+Cognitive impairment and behavioral changes 20 (100)
+Fluctuating symptoms 19 (95)Transient aphasia 16 (80)Tremor 16 (80)Myoclonus 13 (65)Ataxia or gait disorder 13 (65)Seizures 12 (60)
+Generalized 10 (50)Partial 7 (35)Both 5 (25)
+Sleep disturbance 11 (55)
+Hypersomnolence 8 (40)Insomnia 3 (15)
+Headache 10 (50)Lateralized motor or sensory deficits 5 (25)Psychosis or paranoia 5 (25)
+Table 2. Initial Clinical Diagnoses in 20 Patients
+With Steroid-Responsive EncephalopathyAssociated With Autoimmune Thyroiditis
+Initial Clinical Diagnosis No. (%) of Patients
+Viral encephalitis 5 (25)
+Creutzfeldt-Jakob disease 3 (15)Stroke or transient ischemic attack 3 (15)Alzheimer disease 3 (15)Migraine 2 (10)Lewy body dementia 1 (5)Psychosis 1 (5)Metabolic encephalopathy 1 (5)Delirium 1 (5)
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+198
+©2006 American Medical Association. All rights reserved.
+--- Page 3 ---
+autoimmune disorders were present in 6 patients and in-
+cluded diabetes mellitus type 1 in 2 (10%), systemic lu-pus erythematosus in 1 (5%), and Crohn disease in 1 (5%).Two patients had symptoms of sicca syndrome (10%). Otherautoimmune disorders were diagnosed subsequently in 2patients, primary Sjo ¨gren syndrome in one (5%) and per-
+nicious anemia in the other (5%). Subacute combined de-generation developed in the latter case before the diagno-sis of pernicious anemia was made. Five patients (25%) hada family history of non–organ-specific (rheumatologic) ororgan-specific autoimmune disease.
+BLOOD AND SEROLOGIC ABNORMALITIES
+Pertinent laboratory findings are given in
+Table 3 . The
+serum sensitive TSH level was mildly elevated in 11 (55%).By definition, all patients had thyroid antibodies. The mi-crosomal antibody titer was elevated in 7 of 7 tested (me-dian, 1:6400; range, 1:400 to 1:102 400; reference range,/H110211:100), and the TPO antibody titer was elevated in 13
+of 13 tested (median, 250 IU/mL; range, 65-4830 IU/mL; reference range, /H1102120 IU/mL). All patients experi-
+enced a marked degree of encephalopathy, and the lev-els of thyroid antibodies did not correlate with the severityof neurologic deficits. Eleven patients had mild thyroidfailure (serum sensitive TSH, 5.1-15.6 mIU/L). Erythro-cyte sedimentation rate was mildly to moderately el-evated (median, 38 mm/h; range, 30-75 mm/h) in 5 (26%)of 19 tested. The C-reactive protein level was elevatedin 3 of 9 patients tested. Eleven patients (55%) had a mildelevation of serum aminotransferase levels.
+CSF FINDINGS
+The CSF was analyzed in all patients. No infectious ori-
+gins were identified (
+Table 4 ). The protein level was
+elevated in 17 patients (85%) (range, 55-680 mg/dL[0.055-0.68 g/dL]; reference range, /H1102145 mg/dL [ /H110210.045
+g/dL]). Neuron-specific enolase and 14-3-3 protein lev-els were normal in 6 patients tested. Five had mild lym-phocytic pleocytosis (white blood cell count, 5-30 cells/µL). The CSF IgG index was normal in all of 14 tested,and the CSF IgG synthesis rate was elevated in 2.
+EEG FINDINGS
+All patients underwent EEG studies, of which 19 results were
+abnormal. Generalized slowing was seen in 19 patients. Otherfindings included focal slowing, triphasic waves, epilepti-form abnormalities, and photomyogenic response. One pa-tient had a normal routine EEG result. Steroid therapy wasassociated with improvement or resolution of EEG abnor-malities in all 17 patients who had EEG follow-up.
+12
+MRI FINDINGS
+Cranial MRI was performed in 19 patients (1 patient had a
+permanent pacemaker). Fourteen patients (74%) had nor-mal imaging results or nonspecific white matter abnormali-ties consistent with age. Four patients had a diffuse increasedsignal on T2-weighted and fluid-attenuated inversion recov-ery (FLAIR) images in the cerebral white matter, and 1 MRIshowed extensive dural enhancement. Following cortico-steroid therapy, the MRI findings normalized in the 4 cases
+with white matter signal changes (as exemplified in the studyby Bohnen et al
+13); meningeal enhancement has persisted
+for throughout 5 years in the other patient.
+CEREBRAL ANGIOGRAPHY
+Cerebral angiography was performed in 5 patients to look
+for evidence of vasculitis. Findings were normal in eachcase except for 1, which showed a nonspecific slow tran-sit time in the distribution of the anterior cerebral artery.
+MENINGEAL OR BRAIN BIOPSY
+Meningeal or brain biopsy was performed in 2 cases. His-
+tologic findings were entirely normal in the 1 patient withstriking meningeal thickening and dural enhancementon MRI. In another patient with diffuse white matter sig-nal changes on imaging, histologic findings includedpatchy myelin pallor, scant perivascular chronic inflam-mation, mild gliosis, and microglial activation.
+THERAPY
+By definition, marked clinical improvement was seen in all
+patients following high-dose corticosteroid therapy, in which15 returned to their normal neurologic baseline status and5 had mild residual symptoms, which included tremor in1, gait impairment in 1, mild forgetfulness in 1, mild forget-Table 3. Serologic and Other Laboratory Abnormalities
+in 20 Patients With Steroid-Responsive EncephalopathyAssociated With Autoimmune Thyroiditis
+Serologic or Laboratory Test No. of Patients *
+Thyroperoxidase antibody positive 13/13
+Thyroid microsomal antibody positive 7/7Thyroglobulin antibody positive 6/10Antinuclear antibody positive 6/20Extractable nuclear antigen antibody positive 1/20Rheumatoid factor positive 1/17Gliadin antibody positive 1/11Erythrocyte sedimentation rate elevated 5/19C-reactive protein level elevated 3/9Liver aminotransferase levels (AST/ALT) elevated 11/20
+Abbreviations: ALT, alanine aminotransferase; AST, aspartate
+aminotransferase.
+*Denominator represents total number of patients tested.
+Table 4. Cerebrospinal Fluid Abnormalities in 20 Patients
+With Steroid-Responsive EncephalopathyAssociated With Autoimmune Thyroiditis
+Parameter No. of Patients *
+Protein level elevated 17/20
+Leukocyte count elevated ( /H110224/µL) 5/20
+IgG synthesis rate elevated 2/14IgG index elevated 0/14Oligoclonal bands increased ( /H110222) 1/12
+*Denominator represents total number of patients tested.
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+199
+©2006 American Medical Association. All rights reserved.
+--- Page 4 ---
+fulness and tremor in 1, and mild forgetfulness and gait im-
+pairment in 1. Intravenous methylprednisolone, 1 g/d for5 days, was used in 17 patients followed by a course of oralsteroids in 6 patients. Oral prednisone, 60-100 mg/d for 10to 30 days, was used in 3 patients. Eight patients (40%) wereable to discontinue the use of steroids after initial treatmentand had no relapses. Three required treatment of relapseswith additional short courses of intravenous methylpred-nisolone, and 9 patients required continuous treatment withoral steroids or with other immunomodulatory therapy tomaintain remission. These other therapies included azathio-prine(n=3),methotrexate(n=2),cyclophosphamide(n=1),and intravenous immunoglobulin (n=1). Thyroid hormonetherapy was initiated in patients with laboratory evidenceof hypothyroidism, but neurologic improvement did not cor-relate with thyroid hormone therapy.
+STEROID NONRESPONDERS
+Data on 12 patients with a subacute encephalopathy as-
+sociated with autoimmune thyroiditis who failed to im-prove with high-dose corticosteroids are given in
+Table 5 .
+All of these patients fulfilled criteria 1 through 6 as statedin the “Methods” section. The 2 patients with autopsy-proven Creutzfeldt-Jakob disease (cases 1 and 2) and case5 had an increased signal in the cerebral cortical ribbonon FLAIR-positive and FLAIR-negative diffusion-weighted images and increased neuron-specific enolaseor 14-3-3 protein levels; thus, these patients were sus-
+pected to have Creutzfeldt-Jakob disease ante mortem.However, because of our experience with another pa-tient with an increased signal in the cortical ribbon onFLAIR images who responded to corticosteroids (B.B.,unpublished data, 1997) and the report of increased 14-3-3 protein levels in other patients diagnosed as havingHashimoto encephalopathy who responded to ste-roids,
+14we treated these 3 patients with steroids in the
+unlikely but possible event that an autoimmune or in-flammatory mechanism was the cause of their illness. Thepatient with autopsy-proven Lewy body disease had a his-tory of dream enactment behavior that was highly sug-gestive of rapid eye movement (REM) sleep behavior dis-order and thus of underlying Lewy body disease,
+15but
+the markedly elevated thyroid microsomal antibody ti-ter led the physicians involved in his care to diagnose himas having probable Hashimoto encephalopathy and to treathim with steroids. The patient with neurofilament in-clusion body disease had clinical and radiologic fea-tures typical of frontotemporal dementia,
+16but the mark-
+edly elevated thyroid microsomal antibody titer led to hertreatment with corticosteroids also; this patient is caseUS1 in the study by Josephs et al.
+17Most of the remain-
+ing patients have experienced progression in their en-
+cephalopathy, suggesting an underlying neurodegenera-tive disorder.Table 5. Data From 12 Patients With Subacute Encephalopathy Associated With Autoimmune Thyroiditis Who Experienced No
+Significant Clinical Improvement Following High-Dose Corticosteroid Treatment
+Patient
+No./Sex/Age, y Antibody * Treatment Outcome
+1/M/67 TM, 1:400 Methylprednisolone , 1 g intravenously for 3 d,
+then prednisone, 60 mg orallywith gradual taperNo improvement, progressive encephalopathy
+with deat h 1 y later; autopsy showed CJD
+2/F/72 TPO, 170 Methylprednisolone , 1 g intravenously for 5 d No improvement, progressive encephalopathy
+with death 8 mo later; autopsy showed CJD
+3/M/75 TM, 1:102 400 Methylprednisolone , 1 g intravenously for 5 d No improvement, progressive encephalopathy
+with deat h 1 y later; autopsy showed nLBD
+4/F/53 TM, 1:25 600 Methylprednisolone , 1 g intravenously for 5 d No improvement, progressive encephalopathy
+with deat h 2 y later; autopsy showed NIBD
+5/F/56 TPO, 723 Methylprednisolone , 1 g intravenously for 3 d No improvement durin g3do f therapy, transferred
+to local hospice care with deat h 5 d later;
+no autopsy performed
+6/M/72 TM, 1:400; TG /H11001 Methylprednisolone , 1 g intravenously for 5 d No improvement, progressive encephalopathy
+with deat h 5 y later; no autopsy performed
+7/F/85 TPO, 184 Methylprednisolone , 1 g intravenously for 5 d No improvement, progressive encephalopathy
+during following 4 y
+8/F/28 TPO, 25; TG /H11001 Methylprednisolone , 1 g intravenously for 5 d No improvement, fluctuating encephalopathy
+during the following 1 y
+9/F/66 TPO, 1150 Methylprednisolone , 1 g intravenously for 5 d No improvement, static encephalopathy during
+the following 2 y
+10/M/71 TG /H11001 Prednisone, 60 mg for 30 d, with taper No improvement, progressive encephalopathy
+during the following 2 y
+11/F/73 TPO, 1031 Methylprednisolone , 1 g intravenously for 5 d No improvement during subsequent 3 mo, lost
+to follow-up
+12/F/78 TPO, 114 Methylprednisolone , 1 g intravenously for 5 d No improvement; progressive encephalopathy
+during the following 1 y
+Abbreviations: CJD, Creutzfeldt-Jakob disease; NIBD, neurofilament inclusion body disease; nLBD, neocortical-predominant Lewy body disease; T G/H11001,
+thyroglobulin antibody positive, TM, thyroid microsomal antibody titer; TPO, thyroperoxidase antibody level.
+*The reference ranges in Mayo Medical Laboratories (Rochester, Minn, and Scottsdale, Ariz) at the time the samples were analyzed were as follows: TM, l ess
+than 1:100; TPO, less than 20 IU/mL; and TG, negative.
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+200
+©2006 American Medical Association. All rights reserved.
+--- Page 5 ---
+COMMENT
+This large series of patients provides an additional char-
+acterization of SREAT and should aid in improving rec-ognition of patients in whom to consider instituting therapy.The clinical findings are varied but consistent with thosereported previously.
+11Cognitive impairment and behav-
+ioral changes are the defining characteristics of any en-cephalopathy. Other features that characterize SREAT in-clude fluctuating symptoms, tremor, myoclonus, transientaphasia, sleep abnormalities, seizures, and gait difficul-ties. Headache, neuropsychiatric features, and lateralizedmotor or sensory deficits were present in a few cases. Giventhe nonspecific nature of the neurologic and laboratoryfindings, and the age at onset spanning several decades,it is not surprising that alternative initial diagnoses wereconsidered in all of our patients. Notably, disorders suchas Creutzfeldt-Jakob disease, Alzheimer disease, and de-mentia with Lewy bodies were suspected in many cases,underscoring the need to consider autoimmune encepha-lopathy even in those with features that suggest irrevers-ible prion and degenerative disorders.
+The levels of thyroid antibodies were variable. All patients
+wereencephalopathic,butantibodylevelsdidnotcorrespondto the severity of the clinical deficits. The presence of thy-roid antibodies in serum, not the level, was the clinically rel-evant issue, indicating that SREAT should be considered inpatients with encephalopathy even if thyroid antibody lev-els are only mildly elevated. Furthermore, SREAT shouldbe considered in patients with encephalopathy regardlessof whether they are euthyroid or mildly hypothyroid.
+As has long been recognized for patients with auto-
+immune thyroid disease, multiple other autoimmune dis-orders commonly coexist.
+4,5,18-21One third of our pa-
+tients had evidence of multiple autoimmune disorders.The finding of elevated serum levels of liver aminotrans-ferases in 60% of our cases was not anticipated. Whetherthe elevated liver enzyme levels represent a forme frusteof autoimmune hepatitis or some other process is not clear,but this finding warrants further investigation.
+The finding of elevated CSF protein levels in most of
+our patients is consistent with prior reports.
+8,11,22How-
+ever, it is important to recognize that normal CSF pro-tein levels, absence of lymphocytic pleocytosis, normalIgG synthesis rate, and absence of oligoclonal bands donot exclude the diagnosis of SREAT.
+The MRI abnormalities found in some of our pa-
+tients were consistent with an active encephalopathic pro-cess, including diffuse white matter signal abnormali-ties and meningeal enhancement. In several patients theseabnormalities resolved following steroid therapy, a phe-nomenon that has been reported previously.
+13Most pa-
+tients with the diagnosis of SREAT had normal neuro-imaging results, including normal cerebral angiographyfindings. These imaging characteristics are different fromthe striking mesial temporal lobe abnormalities encoun-tered in subacute inflammatory autoimmune or para-neoplastic limbic encephalitis.
+1,2
+Although the data in this study may improve the recog-
+nitionofpotentialpatientswithSREAT,theunderlyingpatho-genesis remains unclear. The putative role of thyroid auto-immunity in the pathogenesis of Hashimoto encephalopa-
+thy is complicated by the fact that serum TPO levels areelevated in approximately 10% of healthy adults, and theprevalence of individuals with elevated TPO levels increaseswith increasing age.
+23Thyroid autoantibodies are also com-
+monly found in patients with other autoimmune neurologicdisorders, including paraneoplastic and nonparaneoplasticlimbic encephalitis.
+2It therefore seems unlikely that thyroid
+antibodies are the direct cause of the encephalopathy. Weconsider TPO antibody 1 of several related thyroid and gas-tric autoantibody markers of neurologic autoimmunity.
+Several other etiologies have been proposed, includ-
+inghypothyroidismitself,humoralfactors,antigen-antibodycomplexes, overt vasculitis, intrathecal thyroid antibod-ies, and global cerebral hypoperfusion.
+11,24-27It is certainly
+possible that more than 1 etiologic mechanism could leadto an autoimmune or inflammatory encephalopathy thatresponds to corticosteroids. Systematic studies of patientswith encephalopathy, which could include a battery of se-rum and CSF autoimmune markers or other radiologic stud-ies, may offer insights into the pathogenetic mechanisms.
+The nomenclature in the autoimmune encephalopathies
+remains confusing. Encephalopathy, steroid responsiveness,and evidence of autoimmunity in the serum and CSF arecommon to most forms of autoimmune meningoencepha-lopathy, including Sjo ¨gren syndrome,
+28systemic lupus
+erythematosus,29and cerebellitis associated with glutamic
+acid decarboxylase autoantibody.23The term nonvasculitic
+autoimmune inflammatory meningoencephalitis has been sug-
+gested to facilitate the recognition and treatment of the au-toimmune encephalopathies with similar clinical features.
+30
+In our view, the term Hashimoto encephalopathy implies that
+the encephalopathy is caused by Hashimoto thyroiditis, butas noted in this article, no conclusive evidence of thisexists. We therefore view nonvasculitic autoimmune inflam-
+matory meningoencephalitis as the most appropriate term for
+encompassing all subtypes of steroid-responsive encepha-lopathies of nonvasculitic origin and favor the terms steroid-
+responsive encephalopathy associated with autoimmune thy-roiditis
+6orsteroid-responsive encephalopathy associated with
+Hashimoto thyroiditis31for the subtype of nonvasculitic
+autoimmune inflammatory meningoencephalitis describedin this report. Debate over the nomenclature will likely con-tinue until the precise autoimmune or inflammatory pro-cesses are identified and proved to be pathogenic.
+Some may argue with our use of the term steroid-
+responsive in describing this entity, in which the response
+to a treatment defines the entity of interest. Although werecognize the inherent circularity of defining a syndromebased on response to treatment (as could also be arguedregarding the utility of levodopa responsiveness in diag-nosing Parkinson disease), we conceded to the consider-able practical utility of emphasizing steroid responsive-ness that we hope will improve the diagnosis and therapyof encephalopathic patients. We hypothesize that patientswith an encephalopathy associated with thyroid antibod-ies who do not markedly improve with corticosteroids rep-resent those with a nonautoimmune or noninflammatorydisorder, and our 4 patients who underwent autopsy andwho did not respond to high-dose corticosteroids supportthis contention. We suspect that most of the other nonre-sponders in Table 5, and most others who do not respond
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+201
+©2006 American Medical Association. All rights reserved.
+--- Page 6 ---
+to corticosteroids, have an underlying neurodegenerative
+or prion disorder. The issue for physicians who evaluatepatients with a subacute encephalopathy associated withautoimmune thyroiditis is whether corticosteroid therapyis justified. Given the fact that the alternative diagnoses,such as Creutzfeldt-Jakob disease or a neurodegenerativedisorder, can be incurable, a corticosteroid trial may be war-ranted in appropriate patients. Perhaps certain features orfindings may predict which patients will and will not re-spond to corticosteroids, and this important issue is cer-tainly worthy of further study.
+We acknowledge several limitations of this study. Be-
+cause of the retrospective nature of this clinical series,not all patients underwent the same tests and evalua-tions. Our data should not be viewed as inclusive of allpatients with SREAT at our institution during an 8-yearperiod. In addition, the data should not be viewed asshowing the entire spectrum of neurologic and labora-tory findings associated with SREAT. In this period ofstudy, numerous patients seen at our institution with asteroid-responsive encephalopathy were not tested for thy-roid autoimmunity and therefore would not have beenidentified for inclusion in our analysis. However, we hopethat our findings improve the recognition of patients whomay have an autoimmune or inflammatory mechanismunderlying their encephalopathy, as well as stimulate fur-ther research into SREAT and other forms of nonvascu-litic autoimmune inflammatory meningoencephalitis.
+Accepted for Publication: May 24, 2005.
+Correspondence: Brad Boeve, MD, Mayo Clinic, 200 First
+St SW, Rochester, MN 55905.Author Contributions: Study concept and design: Castillo,
+Mokri, and Boeve. Acquisition of data: Castillo, Vernino,
+Lucchinetti, Aksamit, Carter, Sirven, Hunder, Mokri,Drubach, Lennon, and Boeve. Analysis and interpreta-
+tion of data: Woodruff, Caselli, Vernino, Swanson,
+Noseworthy, Carter, Fatourechi, Drubach, Pittock,Lennon, and Boeve .Drafting of the manuscript: Castillo,
+Woodruff, Vernino, Noseworthy, Lennon, and Boeve.Critical revision of the manuscript for important intellec-tual content : Caselli, Vernino, Lucchinetti, Swanson,
+Aksamit, Carter, Sirven, Hunder, Fatourechi, Mokri,Drubach, Pittock, Lennon, and Boeve. Obtained funding:
+Boeve. Administrative, technical, and material support:
+Sirven, Fatourechi, Mokri, Drubach, Pittock, and Lennon.Study supervision: Vernino, Noseworthy, Aksamit,
+Fatourechi, Lennon, and Boeve.Funding/Support: This study was supported in part by
+the Robert H. and Clarice Smith and Abigail Van BurenAlzheimer’s Disease Research Program of the Mayo Foun-dation, Rochester, Minn, and grant P50 AG16574 fromthe National Institute on Aging, Bethesda, Md.
+REFERENCES
+1. Lawn N, Westmoreland B, Kiely M, et al. Clinical, magnetic resonance imaging,
+and electroencephalographic findings in paraneoplastic limbic encephalitis. Mayo
+Clin Proc . 2003;78:1363-1368.
+2. Thieben M, Boeve B, Aksamit A, et al. Reversible autoimmune limbic encepha-
+litis with neuronal potassium channel antibodies. Neurology . 2004;62:1177-
+1182.3. Brain L, Jellinek E, Ball K. Hashimoto’s disease and encephalopathy. Lancet . 1966;
+2:512-514.
+4. Lennon V. Serologic profile of myasthenia gravis and distinction from the Lambert-
+Eaton myasthenic syndrome. Neurology . 1997;48(suppl 5):S23-S27.
+5. Walikonis J, Lennon V. Radioimmunoassay for glutamic acid decarboxylase
+(GAD65) autoantibodies as a diagnostic aid for stiff-man syndrome and a cor-relate of susceptibility to type 1 diabetes mellitus. Mayo Clin Proc . 1998;73:
+1161-1166.
+6. Castillo P, Boeve B, Scha ¨uble B, et al. Steroid-responsive encephalopathy asso-
+ciated with thyroid autoimmunity: clinical and laboratory findings [abstract].Neurology . 2002;58(suppl 3):A248.
+7. Sawka A, Fatourechi V, Boeve B, Mokri B. Rarity of encephalopathy associated
+with autoimmune thyroiditis: a case series from Mayo Clinic from 1950 to 1996.Thyroid . 2002;12:393-398.
+8. Kothbauer-Margreiter I, Sturzenegger M, Komor J, et al. Encephalopathy asso-
+ciated with Hashimoto thyroiditis: diagnosis and treatment. J Neurol . 1996;
+243:585-593.
+9. Canton A, de Fabregas O, Tintore M, et al. Encephalopathy associated to auto-
+immune thyroid disease: a more appropriate term for an underestimated condition?J Neurol Sci . 2000;176:65-69.
+10. Shaw P, Walls T, Newman P, et al. Hashimoto’s encephalopathy: a steroid-
+responsive disorder associated with high anti-thyroid antibody titers—report of5 cases. Neurology . 1991;41:228-233.
+11. Chong J, Rowland L, Utiger R. Hashimoto encephalopathy: syndrome or myth?
+Arch Neurol . 2003;60:164-171.
+12. Scha ¨uble B, Castillo P, Boeve B, Westmoreland B. Steroid-responsive encephalopa-
+thy associated with autoimmune thyroiditis. Clin Neurophysiol . 2003;114:32-37.
+13. Bohnen N, Parnell K, Harper C. Reversible MRI findings in a patient with Hashi-
+moto’s encephalopathy. Neurology . 1997;49:246-247.
+14. Hernandez Echebarria LE, Saiz A, Graus F, et al. Detection of 14-3-3 protein in
+the CSF of a patient with Hashimoto’s encephalopathy. Neurology . 2000;54:
+1539-1540.
+15. Boeve B, Silber M, Ferman T. REM sleep behavior disorder in Parkinson’s dis-
+ease and dementia with Lewy bodies. J Geriatr Psychiatry Neurol . 2004;17:
+146-157.
+16. Neary D, Snowden J, Gustafson L, et al. Frontotemporal lobar degeneration: a
+consensus on clinical diagnostic criteria. Neurology . 1998;51:1546-1554.
+17. Josephs K, Holton J, Rossor M, et al. Neurofilament inclusion body disease: a
+new proteinopathy? Brain . 2003;126:2291-2303.
+18. Suzuki N, Mitamura R, Ohmi H, et al. Hashimoto thyroiditis, distal renal tubular
+acidosis, pernicious anaemia and encephalopathy: a rare combination of auto-immune disorders in a 12-year-old girl. Eur J Pediatr . 1994;153:78-79.
+19. Takahashi S, Mitamura R, Itoh Y, et al. Hashimoto encephalopathy: etiologic
+considerations. Pediatr Neurol . 1994;11:328-331.
+20. Vasconcellos E, Pina-Garza J, Fakhoury T, Fenichel G. Pediatric manifestations
+of Hashimoto’s encephalopathy. Pediatr Neurol . 1999;20:394-398.
+21. Skodda S, Kraus M, Durwen H, Gehlen W. Hashimoto’s encephalopathy asso-
+ciated with isolated ACTH deficiency and hyponatremia: a case report. J Neurol .
+1999;246:970-971.
+22. Seipelt M, Zerr I, Nau R, et al. Hashimoto’s encephalitis as a differential diagnosis
+of Creutzfeldt-Jakob disease. J Neurol Neurosurg Psychiatry . 1999;66:172-176.
+23. Marcocci C, Chiovato L. Thyroid-directed antibodies. In: Braberman L, ed. The
+Thyroid . Vol 8. Baltimore, Md: Williams & Wilkins; 2000:414-431.
+24. Garrard P, Hodges JR, De Vries PJ, et al. Hashimoto’s encephalopathy present-
+ing as “myxodematous madness.” J Neurol Neurosurg Psychiatry . 2000;68:
+102-103.
+25. Ferracci F, Bertiato G, Moretto G. Hashimoto’s encephalopathy: epidemiologic
+data and pathogenetic considerations. J Neurol Sci . 2004;217:165-168.
+26. Ferracci F, Moretto G, Candeago RM, et al. Antithyroid antibodies in the CSF: their
+role in the pathogenesis of Hashimoto’s encephalopathy. Neurology . 2003;
+60:712-714.
+27. Forchetti CM, Katsamakis G, Garron DC. Autoimmune thyroiditis and a rapidly
+progressive dementia: global hypoperfusion on SPECT scanning suggests a pos-sible mechanism. Neurology . 1997;49:623-626.
+28. Caselli R, Scheithauer B, Bowles C. The treatable dementia of Sjogren’s syndrome.
+Ann Neurol . 1991;30:98-101.
+29. Ellis S, Verity M. Central nervous system involvement in systemic lupus ery-
+thematosus: a review of neuropathologic findings in 57 cases, 1955-1977. Se-
+min Arthritis Rheum . 1979;8:212-221.
+30. Caselli R, Boeve B, Scheithauer B, et al. Nonvasculitic autoimmune inflamma-
+tory meningoencephalitis (NAIM): a reversible form of encephalopathy. Neurology .
+1999;53:1579-1581.
+31. Mahmud F, Lteif A, Renaud D, et al. Steroid-responsive encephalopathy asso-
+ciated with Hashimoto’s thyroiditis in an adolescent with chronic hallucinationsand depression: case report and review. Pediatrics . 2003;112:686-690.
+(REPRINTED) ARCH NEUROL / VOL 63, FEB 2006 WWW.ARCHNEUROL.COM
+202
+©2006 American Medical Association. All rights reserved.
