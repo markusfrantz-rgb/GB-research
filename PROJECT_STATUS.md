@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-03-30
+> Senast uppdaterad: 2026-04-01
 
 ## Fas: Live / Aktiv forskning
 
@@ -63,7 +63,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-03-31)
+### Aktuellt förlopp (2026-03-21 → 2026-04-01)
 
 | Datum | Händelse |
 |-------|---------|
@@ -92,6 +92,11 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-03-31 | MR-genomgång planerad: neurolog Daniel + röntgenläkare. Daniel har redan pratat med röntgenläkaren och söker kontakt med neuroradiolog på Karolinska. Kortisonbeslut avvaktar. |
 | 2026-03-31 (fm) | **Klinisk förbättring:** Puls 84–85, BT stabilare, noradrenalin utsatt, magen igång. Vätskemål −500 ml uppnått. Patient tillfreds. |
 | 2026-03-31 (~11:00) | **Hemodynamisk försämring:** BT 96/44, puls 100. Sedering höjd (patienten "stressad" — troligen utlöst av diarré/magaktivitet). Noradrenalin återinsatt. Vikt 58,5 kg (−2,5 kg). Glukos 5% borttagen, sondmat ökad. |
+| 2026-03-31 | **Solu-Medrol (IV metylprednisolon) insatt** — preventivt för att förhindra ADEM-utveckling. MR-fynden visar mycket små prickar, ej som ADEM (ännu), men kombinationen med kraftig GBS och total kranialnervsutslagning oroar. |
+| 2026-04-01 (fm) | **Vikt 56,8 kg** (ned från 58,5, nära baseline 56). Fötter ej längre svullna, magen fortfarande svullen. Temp 37,8°C. Sänka visar infektionstecken — antibiotika bytt. BT 180–200 (högt, dysautonomi — svängt från hypotension), ej noradrenalin. Puls strax över 100. |
+| 2026-04-01 | **Neurologsamtal (Daniel):** Behandlar preventivt med Solu-Medrol mot ADEM. MR-prickar mycket små — ej som ADEM ännu. Daniels oro: kraftig GBS med total ansikts-/kranialnervsutslagning. Daniel har följt svåra GBS-fall i 10+ år, anser detta fall speciellt. |
+| 2026-04-01 (13:00) | **MR hjärna + ryggmärg planerad** (båda). |
+| 2026-04-01 | **Labbeställningar (2026-03-31):** Anti-IgA-antikroppar beställda, inväntar svar. Anti-GQ1b beställd, inväntar svar. Daniel vill se ytterligare protein (troligen NfL eller anti-NF155). |
 
 ### Kommunikation
 
@@ -107,8 +112,8 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 | Test | Status | Varför det behövs |
 |------|--------|--------------------|
 | Elektrofysiologi (NCS/EMG) | **Ej utförd** | Subtypning (AIDP/AMAN/AMSAN), prognos |
-| Gangliosid-antikroppar | **Ej skickade** | Subtypning, behandlingsval |
-| Anti-IgA-antikroppar (IgE + IgG) | **Ej skickade** | IVIg-säkerhet |
+| Gangliosid-antikroppar (inkl. anti-GQ1b) | **Beställd 2026-03-31, inväntar svar** | Subtypning, behandlingsval |
+| Anti-IgA-antikroppar (IgE + IgG) | **Beställd 2026-03-31, inväntar svar** | IVIg-säkerhet |
 | Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering |
 | Serum-NfL | **Ej taget** | Prognos, axonal skada, behandlingssvar under sedering |
 | TSH, fT4 | **Kontrollerade 2026-03-26:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. | Levotyroxindos verkar ok — men fT3 behövs |

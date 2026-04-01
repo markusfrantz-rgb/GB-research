@@ -55,7 +55,10 @@ status: active
 | 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), **gabapentin** (neuropatisk smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). |
 | 2026-03-30 | **Vikt (läkarbekräftad):** Viktuppgång **5 kg på 6–7 dygn** (56→~61 kg, +8,9%). Vätskemål −500 till −1000 ml/dygn pågår. |
 | 2026-03-30 | **LP genomförd:** Förhöjt albumin, normalt celltal (**albuminocytologisk dissociation** — bekräftar GBS). Inga tecken på CNS-infektion eller inflammation. Neurolog Daniel: ovanligt kraftig GBS, men flera liknande fall har återhämtat sig efter 3–4 månaders ventilatorvård. |
-| 2026-03-31 | MR-genomgång: neurolog + röntgenläkare. Kortisonbeslut avvaktar. **Klinisk förbättring:** puls 84–85, BT stabilare, noradrenalin utsatt, magen igång, vätskemål uppnått, patient tillfreds. |
+| 2026-03-31 | MR-genomgång: neurolog + röntgenläkare. **Klinisk förbättring** fm: puls 84–85, BT stabilare, noradrenalin utsatt. **Hemodynamisk försämring** ~11:00: BT 96/44, noradrenalin återinsatt. Vikt 58,5 kg (−2,5 kg). |
+| 2026-03-31 | **Solu-Medrol (IV metylprednisolon) insatt** — preventivt mot ADEM. MR-prickar mycket små, ej som ADEM ännu. |
+| 2026-04-01 (fm) | Vikt 56,8 kg (nära baseline). Fötter ej svullna. Temp 37,8°C. Infektionstecken — antibiotika bytt. BT 180–200 (dysautonomi, svängt från hypotension). Puls strax >100. |
+| 2026-04-01 | **Neurologsamtal (Daniel):** Preventiv Solu-Medrol mot ADEM. Kraftig GBS med total kranialnervsutslagning. Anti-IgA och anti-GQ1b beställda (2026-03-31), inväntar svar. MR hjärna + ryggmärg planerad. |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 

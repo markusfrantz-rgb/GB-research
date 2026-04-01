@@ -58,25 +58,30 @@ status: active
 | 2026-03-31 | **MR-genomgang:** Neurolog Daniel har pratat med rontgenlakaren och soker kontakt med neuroradiolog pa Karolinska for second opinion. Funderar pa om fynden ar kranialnervsintradezon (GBS) vs parenkymlesioner (ADEM/HE). Kortisonbeslut avvaktar. |
 | 2026-03-31 (fm) | **Klinisk forbattring:** Puls 84–85 (forsta gang <90, ned fran ihallande >100). BT stabilare, **noradrenalin utsatt** (hemodynamiskt stabil utan vasopressor). Magen igang (laxering fungerar). Patienten verkar mer tillfreds. Vatskeaterstallning pagar metodiskt (mal −500 ml igar, uppnatts). |
 | 2026-03-31 (~11:00) | **Hemodynamisk forsamring:** BT 96/44, puls 100. Sedering hojd (patienten "stressad" — troligen utlost av diarre/magaktivitet). **Noradrenalin aterinsatt.** Diarre i morse (laxering fungerar, bidrar till negativ vatska men triggar autonom stress). |
+| 2026-03-31 | **Solu-Medrol (IV metylprednisolon) insatt** — preventivt for att forhindra ADEM-utveckling. MR-prickar mycket sma, ej som ADEM (annu). |
+| 2026-04-01 (fm) | Vikt 56,8 kg (ned fran 58,5, nara baseline 56). Fotter ej langre svullna, magen fortfarande svullen. Temp 37,8°C. Sanka visar infektionstecken — antibiotika bytt. BT 180–200 (hogt, dysautonomi — svangt fran hypotension), ej noradrenalin. Puls strax over 100. |
+| 2026-04-01 | **Neurologsamtal (Daniel):** Behandlar preventivt med Solu-Medrol mot ADEM. MR-prickar mycket sma — ej som ADEM annu. Daniels oro: kraftig GBS med total ansikts-/kranialnervsutslagning. Daniel har foljt svara GBS-fall i 10+ ar, anser detta fall speciellt. |
+| 2026-04-01 (13:00) | **MR hjarna + ryggmard planerad** (bada — ny info). |
+| 2026-04-01 | **Labbestallningar (2026-03-31):** Anti-IgA-antikroppar bestallda, invantar svar. Anti-GQ1b bestalld, invantar svar. Daniel vill se ytterligare protein (troligen NfL eller anti-NF155). |
 
-### Nuvarande status (2026-03-31)
+### Nuvarande status (2026-04-01)
 
 - **Respirator:** Ja, beroende. Ventilering 4,5.
 - **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 6 post-trakeostomi)
 - **Medvetande:** Nedsovd. EEG visar sedering — svart att skilja fran neurologiskt tillstand. Sederingsnivan bedoms adekvat.
 - **Neurologisk bedomning:** **100% forlamning** — kan inte oppna nagot oga, ingen rorelse i nagon kroppsdel. Sista ogonlocksrorelsen forsvann troligen mellan 25/3 kvall och 26/3 fm (innan PE4). Total forlamning etablerad innan PE4–5 genomfordes. Neurolog Daniel beskriver det som en ovanligt kraftig GBS.
-- **Autonom dysfunktion:** Fluktuerar — BT stabilare tidigt 31/3 (puls 84–85, noradrenalin utsatt), men **forsamring kl ~11:00:** BT 96/44, puls 100, noradrenalin aterinsatt efter sederingshojning. Anisokori.
-- **Infektion:** Utlakt, antibiotika har fungerat.
-- **Temp:** 37,7°C (2026-03-29)
-- **Vikt/vatska:** Vikt **58,5 kg** (2026-03-31, ned fran ~61 kg). Vatskeaterstallning pagar: −1000 till −1500 ml balans. **Glukos 5% borttagen** (var 1 440 ml/dygn). Sondmat okad for att kompensera kalorier. Teamet mater och beraknar lopande. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
+- **Autonom dysfunktion:** Fluktuerar markant — BT 180–200 (2026-04-01 fm, hogt, svangt fran hypotension), ej noradrenalin for tillfallet. Puls strax over 100. Anisokori.
+- **Infektion:** Ny infektion misstankt (sanka visar infektionstecken 2026-04-01). Antibiotika bytt.
+- **Temp:** 37,8°C (2026-04-01). Sanka visar infektionstecken — antibiotika bytt.
+- **Vikt/vatska:** Vikt **56,8 kg** (2026-04-01, ned fran 58,5, nara baseline 56). Fotter ej langre svullna, magen fortfarande svullen. **Glukos 5% borttagen** (var 1 440 ml/dygn). Sondmat okad for att kompensera kalorier. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
 - **Behandling given:** Alla 5 PE-sessioner slutforda (PE5 genomford 2026-03-27 lunch).
 - **Medicinering (2026-03-31 ~11:00):** Propofol 0,2 mg/kg/h (sedering — kraftigt sankt fran 1,5 mg/kg/h 29/3, hojd av skoterska fran annu lagre niva), fentanyl 1,5 mcg/kg/h (smartlindring — hojd fran 1,0), klonidin 1,5 mcg/kg/h (autonom stabilisering — hojd fran 0,9), noradrenalin (aterinsatt), **gabapentin** (neuropatisk smarta), kaliumklorid, ~~glukos 5%~~ (borttagen 31/3), Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen. Inga tecken pa CNS-infektion eller inflammation.
 - **Lab (2026-03-27):** fT3: **normalt**. TSH mycket lagt, fT4 10-12 pmol/L (lag-normal, 2026-03-26). Sick euthyroid syndrome sannolikt.
-- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna (2026-03-28): litet fynd — neurolog + rontgenlakare genomgar MR 2026-03-31. Kortisonbeslut avvaktar.
-- **Anti-IgA-antikroppar:** Annu ej bestallt (fraga neurolog Daniel).
+- **Bilddiagnostik:** Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). MR hjarna (2026-03-28): mycket sma prickar, ej som ADEM (annu). **Solu-Medrol (IV metylprednisolon) insatt 2026-03-31** — preventivt mot ADEM. **Ny MR hjarna + ryggmard planerad 2026-04-01 kl 13.**
+- **Anti-IgA-antikroppar:** Bestallda 2026-03-31, invantar svar.
 - **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
-- **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Avvaktar MR-genomgang och kortisonbeslut.
+- **Plan B:** Diskuterad med neurolog + ytterligare specialist (2026-03-26 em). Solu-Medrol insatt 2026-03-31 (preventivt mot ADEM). Anti-GQ1b bestalld, invantar svar. Daniel vill se ytterligare protein (troligen NfL eller anti-NF155).
 
 ---
 
