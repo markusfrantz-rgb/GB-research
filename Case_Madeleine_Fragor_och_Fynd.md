@@ -277,8 +277,8 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-19 forskningsdokument | ~690 peer-reviewed kallor | 309 fulltexter tillgangliga | 34 MR-referensbilder | sokbara kunskapsfragment
+19 forskningsdokument | ~690 peer-reviewed kallor | 319 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 
-*Sammantalld 2026-03-26. Baserad pa ~660 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*
+*Sammantalld 2026-03-26. Baserad pa ~690 peer-reviewed kallor fran PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanstallningen har inte genomgatt formell peer review och ersatter inte klinisk bedomning.*

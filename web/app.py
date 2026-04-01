@@ -161,6 +161,7 @@ _PUBLIC_PREFIXES = (
     "06-monitoring-prognosis/",
     "07-acute-icu-protocols/",
     "08-immunoglobulin-iga-safety/",
+    "research-ivig-iga/",
     "Case_Madeleine_Fragor_och_Fynd.md",
     "Tillgang_till_medicinska_kallor.md",
 )

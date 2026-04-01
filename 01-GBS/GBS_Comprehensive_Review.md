@@ -913,7 +913,7 @@ Internationally validated in IGOS cohort (Walgaard et al., 2022).
 ### 5.6 Mortality
 
 - **Overall mortality**: 3-7% (up to 10% in some series)
-- **Ventilated patients**: ~20% mortality
+- **Ventilated patients**: ~20% mortality (older estimates; Thille 2025, n=513 GBS across 47 ICUs, found 9.4% ICU mortality — likely reflecting improved modern ICU care)
 - **Primary causes of death**: Sepsis, acute respiratory distress syndrome, pulmonary embolism, cardiac arrest (arrhythmias from autonomic dysfunction)
 - **Important**: Up to two-thirds of deaths occur during the recovery phase, not the acute phase (Leonhard et al., 2019)
 
@@ -970,11 +970,11 @@ Approximately 40% of GBS patients show no improvement in the first 4 weeks after
 - Result: Primary endpoint not met; some secondary outcomes favored eculizumab
 - Citation: Misawa S, et al. *Lancet Neurol*. 2018;17(6):519-529. DOI: 10.1016/S1474-4422(18)30114-5
 
-**Phase 3 Trial** (Japan, 2021-2022; Misawa et al., 2024):
-- N = 57 patients
+**Phase 3 Trial** (Japan, 2021-2022; Kuwabara et al., 2024):
+- N = 57 patients (eculizumab n=37, placebo n=20)
 - Primary endpoint: Time to achieve ability to run
-- Result: No clinical benefit despite reducing serum C5 concentration
-- Citation: Misawa S, et al. *Eur J Neurol*. 2024;31(7):e16322. DOI: 10.1111/ene.16322
+- Result: No clinical benefit despite reducing serum C5 concentration (HR 0.9; 95% CI 0.45-1.97; p=0.89)
+- Citation: Kuwabara S, et al. *J Peripher Nerv Syst*. 2024;29(3):339-349. DOI: 10.1111/jns.12646
 
 **Current status**: Not recommended by EAN/PNS guideline. Larger, adequately powered trials in different populations would be needed.
 
@@ -1239,7 +1239,7 @@ IGOS data are now being used as **external control arms** for clinical trials, w
 
 36. **Misawa S, et al.** Safety and efficacy of eculizumab in Guillain-Barre syndrome: a multicentre, double-blind, randomised phase 2 trial. *Lancet Neurol*. 2018;17(6):519-529. DOI: [10.1016/S1474-4422(18)30114-5](https://doi.org/10.1016/S1474-4422(18)30114-5)
 
-37. **Misawa S, et al.** Efficacy and safety of eculizumab in Guillain-Barre syndrome: A phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *Eur J Neurol*. 2024;31(7):e16322. DOI: [10.1111/ene.16322](https://doi.org/10.1111/ene.16322)
+37. **Kuwabara S, Kusunoki S, Kuwahara M, et al.** Efficacy and safety of eculizumab in Guillain-Barre syndrome: A phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *J Peripher Nerv Syst*. 2024;29(3):339-349. DOI: [10.1111/jns.12646](https://doi.org/10.1111/jns.12646)
 
 ### Prognosis
 

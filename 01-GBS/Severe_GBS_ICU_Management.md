@@ -212,7 +212,7 @@ It is reasonable to consider tracheostomy in a patient who:
 - Persistent laryngeal sensory deficits may delay decannulation
 - Mini-tracheostomy tubes may be retained for secretion management after weaning from ventilation
 
-(Orlikowski et al., 2021)
+(Cheng et al., 2021)
 
 ---
 
@@ -589,7 +589,7 @@ GBS patients with severe motor impairment, even those with complete paralysis, *
 |---|---|
 | Overall GBS | 3-7% |
 | ICU-admitted GBS | ~5% |
-| Mechanically ventilated GBS | ~20% |
+| Mechanically ventilated GBS | ~20% (older estimates; Thille 2025: 9.4%, n=513 GBS, 47 ICUs) |
 | GBS with dysautonomia | ~6% (3x higher than without) |
 
 Death occurs most commonly from cardiovascular and respiratory complications, which can arise in both the acute and recovery phases (van den Berg et al., 2014; Weiss et al., 2025).

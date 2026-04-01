@@ -397,7 +397,7 @@ The higher rates in Bazán-Rodríguez 2023 likely reflect a more severely affect
 
 Autonomic dysfunction is a recognized independent risk factor for failed extubation in GBS. Nguyen et al. (2006) demonstrated that autonomic dysfunction was present in **73% of patients who failed extubation** compared with **27% of those successfully extubated** (p=0.008). This has direct implications for ventilator weaning strategy: all weaning attempts — including spontaneous breathing trials (SBT) — must be coordinated with a period of documented autonomic stability. If an autonomic storm or severe hemodynamic instability occurs during an SBT, the trial should be **immediately aborted** and the patient returned to full ventilatory support. For the complete weaning protocol, including SBT criteria and step-by-step procedures, see companion document: `Ventilator_Weaning_GBS_Protocol.md`.
 
-> **Citation:** Nguyen TN, et al. Factors predicting extubation failure in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290093
+> **Citation:** Nguyen TN, et al. Factors predicting extubation success in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290095
 
 ---
 
@@ -676,7 +676,7 @@ IF simultaneous HR/BP instability with diaphoresis:
 
 12. Peric S, et al. Autonomic involvement in Guillain-Barre syndrome: an update. *Clin Auton Res*. 2019;29:289-299.
 
-13. Kanda T, et al. Effect of early tracheostomy on mortality of mechanically ventilated patients with Guillain-Barre syndrome: a nationwide observational study. *J Neurol Neurosurg Psychiatry*. 2020;91:1037-1043.
+13. Kanda T, et al. Effect of early tracheostomy on mortality of mechanically ventilated patients with Guillain-Barre syndrome: a nationwide observational study. *Neurocrit Care*. 2020;33(3):759-768. PMID: 32291575
 
 14. Breen D, et al. Tracheostomy decreases continuous analgesia and sedation requirements. *Anesthesia*. 2022;77:794-802.
 
@@ -696,4 +696,4 @@ IF simultaneous HR/BP instability with diaphoresis:
 
 22. Bazán-Rodríguez L, et al. Autonomic dysfunction in Guillain-Barré syndrome: frequency and clinical associations. *Auton Neurosci*. 2023;245:103070. PMID: 36634383
 
-23. Nguyen TN, et al. Factors predicting extubation failure in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290093
+23. Nguyen TN, et al. Factors predicting extubation success in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290095

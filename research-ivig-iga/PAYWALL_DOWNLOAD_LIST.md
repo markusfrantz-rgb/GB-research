@@ -53,7 +53,7 @@ These papers address the core intersection of GBS + IgA deficiency, desensitizat
 | 16 | 1393505 | Grand Maison F et al. | 1992 | Recurrent GBS: clinical and laboratory features | Brain | **KEY:** 12 patients, 32 episodes. Severity varies unpredictably. Core recurrence data | Try Oxford/Brain archive |
 | 17 | 18931012 | Kuitwaard K et al. | 2009 | Recurrent Guillain-Barre syndrome | J Neurol Neurosurg Psychiatry | **KEY:** 32 patients, 81 episodes. Largest RGBS series. 2-7 episodes over decades | Try BMJ/JNNP archive |
 | 18 | 22507178 | Mossberg N et al. | 2012 | The recurrent GBS: a long-term population-based study | Acta Neurol Scand | **KEY:** Population-based RGBS data. 15/229 GBS over 17 years | |
-| 19 | 29685815 | Misawa S et al. | 2018 | Safety and efficacy of eculizumab in GBS: Phase 2 trial | Lancet Neurol | **KEY:** Phase 2 positive complement inhibitor. 74% vs 18% walked. Alternative to IVIG | |
+| 19 | 29685815 | Misawa S et al. | 2018 | Safety and efficacy of eculizumab in GBS: Phase 2 trial | Lancet Neurol | **KEY:** Phase 2 positive complement inhibitor. 74% vs 18% could run at 24wk. Alternative to IVIG | |
 | 20 | 40000167 | Annexon | 2024 | ANX005 Phase 1 results in GBS | Neurology | **KEY:** Novel C1q inhibitor for GBS. Phase 1 data. IgA-safe alternative pathway | |
 | 21 | 38987228 | Kuwabara S et al. | 2024 | Efficacy and safety of eculizumab in GBS: Phase 3 trial | J Periph Nerv Syst | **KEY:** Phase 3 negative result -- important to know complement inhibition failed in larger trial | |
 | 22 | 14738791 | van Koningsveld R et al. | 2004 | Effect of methylprednisolone added to standard IVIg for GBS | Lancet | **KEY:** Steroids + IVIG trial. Informs treatment decisions when IVIG is problematic | Try Lancet archive |

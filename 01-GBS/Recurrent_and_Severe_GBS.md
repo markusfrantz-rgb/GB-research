@@ -534,7 +534,7 @@ The PE/Sandoglobulin GBS Trial (1997) tested combined PE + IVIg vs each alone:
 
 | Agent | Mechanism | Evidence | Status |
 |-------|-----------|----------|--------|
-| Eculizumab | Anti-C5 complement inhibitor | Phase 2 (JET-GBS): 74% vs 15% running at 24 weeks; Phase 3: **no significant benefit** | Not recommended by EAN/PNS 2023 |
+| Eculizumab | Anti-C5 complement inhibitor | Phase 2 (JET-GBS): 74% vs 18% could run at 24 weeks; Phase 3: **no significant benefit** | Not recommended by EAN/PNS 2023 |
 | Rituximab | Anti-CD20 B-cell depletion | Case reports only | No RCT evidence |
 | Alemtuzumab | Anti-CD52 lymphocyte depletion | Single case reports | Experimental only |
 | Imlifidase (IdeS) | IgG-cleaving enzyme | Under investigation | Pre-clinical/early trials |
@@ -543,7 +543,7 @@ The PE/Sandoglobulin GBS Trial (1997) tested combined PE + IVIg vs each alone:
 
 > Misawa S, Kuwabara S, Sato Y, et al. Safety and efficacy of eculizumab in Guillain-Barre syndrome: a multicentre, double-blind, randomised phase 2 trial. *Lancet Neurol*. 2018;17(6):519-529. doi:10.1016/S1474-4422(18)30114-5
 
-> Kuwabara S, Misawa S, Mori M, et al. Efficacy and safety of eculizumab in Guillain-Barre syndrome: a phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *J Peripher Nerv Syst*. 2024;29(3):326-335. doi:10.1111/jns.12646
+> Kuwabara S, Kusunoki S, Kuwahara M, et al. Efficacy and safety of eculizumab in Guillain-Barre syndrome: A phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *J Peripher Nerv Syst*. 2024;29(3):339-349. doi:10.1111/jns.12646
 
 > Plasma Exchange/Sandoglobulin Guillain-Barre Syndrome Trial Group. Randomised trial of plasma exchange, intravenous immunoglobulin, and combined treatments in Guillain-Barre syndrome. *Lancet*. 1997;349(9047):225-230.
 
@@ -718,7 +718,7 @@ A nationwide observational study found:
 - This parallels overall neurological recovery and cannot be accelerated by weaning protocols alone
 - Daily spontaneous breathing trials (SBT) should begin when clinically appropriate
 
-**Weaning success data (Plant et al., 2021):**
+**Weaning success data (Cheng et al., 2021):**
 - 29 GBS patients with prolonged ventilation referred to a specialist weaning center
 - **76% (22/29) successfully weaned** from invasive ventilation
 - 59% (13/22) used noninvasive ventilation (NIV) as a bridge therapy during weaning
@@ -737,7 +737,7 @@ A nationwide observational study found:
 - Stable hemodynamics and oxygen saturation during trials
 - Resolution of active pulmonary infection
 
-> Plant CL, Young CA, Baikie C, et al. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barre Syndrome. *Neurol Clin Pract*. 2021;11(4):e473-e479. doi:10.1212/CPJ.0000000000000793
+> Cheng MCF, Murphy PB, Hart N, Evans MRB, Spillane JE, Howard RS. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barre Syndrome. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 
 > Thille AW, Bayon C, Gauvrit M, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barré syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51:2054-2064. PMID: 41114833
 
@@ -746,7 +746,7 @@ A nationwide observational study found:
 **Median duration of mechanical ventilation**: 21-28 days (range 1-527 days in severe cases)
 
 **Decannulation timeline:**
-- Median time to tracheostomy decannulation: **193 days** (range 49-527 days) in severely affected patients requiring specialist weaning center transfer (Plant et al., 2021)
+- Median time to tracheostomy decannulation: **193 days** (range 49-527 days) in severely affected patients requiring specialist weaning center transfer (Cheng et al., 2021)
 - 4 of 29 patients required >12 months for weaning
 
 **Functional recovery milestones:**
@@ -760,7 +760,7 @@ A nationwide observational study found:
 | 1-2 years | Continued slow improvement; 75% reach pre-GBS function |
 | 3+ years | Some residual weakness in ~30% of adults |
 
-**Outcome by phenotype (Plant et al.):**
+**Outcome by phenotype (Cheng et al.):**
 - **Axonal disease** (n=13): 10/13 (77%) successfully weaned; 6 regained functional mobility
 - **Demyelinating disease** (n=10): 6/10 (60%) weaned; 3 gained functional mobility
 - **Overall 36-month mortality**: 17% (5/29)
@@ -877,7 +877,7 @@ After the acute phase resolves, SCIG reinstatement is supported by dual indicati
 
 12. Kuitwaard K, de Gelder J, Tio-Gillen AP, et al. Treatment-related fluctuations in Guillain-Barre syndrome after intravenous immunoglobulin or plasma exchange. *J Peripher Nerv Syst*. 2022;27(2):113-120. doi:10.1111/jns.12495
 
-13. Kuwabara S, Misawa S, Mori M, et al. Efficacy and safety of eculizumab in Guillain-Barre syndrome: a phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *J Peripher Nerv Syst*. 2024;29(3):326-335. doi:10.1111/jns.12646
+13. Kuwabara S, Kusunoki S, Kuwahara M, et al. Efficacy and safety of eculizumab in Guillain-Barre syndrome: A phase 3, multicenter, double-blind, randomized, placebo-controlled clinical trial. *J Peripher Nerv Syst*. 2024;29(3):339-349. doi:10.1111/jns.12646
 
 14. Lawn ND, Fletcher DD, Henderson RD, Wolter TD, Wijdicks EF. Long-term outcome in patients with Guillain-Barre syndrome requiring mechanical ventilation. *Neurology*. 2000;54(12):2311-2315. doi:10.1212/WNL.54.12.2311
 
@@ -899,7 +899,7 @@ After the acute phase resolves, SCIG reinstatement is supported by dual indicati
 
 23. Ogata H, Yamasaki R, Hiwatashi A, et al. Anti-Neurofascin 155 Antibody-Positive CIDP. *Front Neurol*. 2021;12:665136. doi:10.3389/fneur.2021.665136
 
-24. Plant CL, Young CA, Baikie C, et al. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barre Syndrome. *Neurol Clin Pract*. 2021;11(4):e473-e479. doi:10.1212/CPJ.0000000000000793
+24. Cheng MCF, Murphy PB, Hart N, Evans MRB, Spillane JE, Howard RS. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barre Syndrome. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 
 25. Plasma Exchange/Sandoglobulin Guillain-Barre Syndrome Trial Group. Randomised trial of plasma exchange, intravenous immunoglobulin, and combined treatments in Guillain-Barre syndrome. *Lancet*. 1997;349(9047):225-230.
 

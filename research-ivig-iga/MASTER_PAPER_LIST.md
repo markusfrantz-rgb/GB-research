@@ -400,7 +400,7 @@ Generated: 2026-03-26
 
 **88.** Misawa S, Kuwabara S et al.. Safety and efficacy of eculizumab in GBS: Phase 2 trial. *Lancet Neurol*. 2018.
 - PMID: 29685815 | Paywall
-- Phase 2 positive. 74% eculizumab vs 18% placebo walked at 24wk
+- Phase 2 positive. 74% eculizumab vs 18% placebo could run at 24wk
 
 **89.** Various. Riliprubart Phase 2 in CIDP. *PMC*. 2022.
 - PMID: 35378684 | Paywall

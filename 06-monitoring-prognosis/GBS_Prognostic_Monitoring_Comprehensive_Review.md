@@ -1113,7 +1113,7 @@ Understanding mortality risk by clinical status helps frame goals-of-care discus
 
 > **Citation:** Walgaard C, et al. Early recognition of poor prognosis in Guillain-Barré syndrome. *Neurology*. 2017;89(3):228-236. PMID: 27538676
 > **Citation:** Chakraborty T, et al. Guillain-Barré syndrome in the ICU. *Neurocrit Care*. 2020;32:708-722. PMID: 31297663
-> **Citation:** Thille AW, et al. Outcomes of mechanically ventilated patients with Guillain-Barré syndrome. *Crit Care Med*. 2025. PMID: 41114833
+> **Citation:** Thille AW, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barré syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51:2054-2064. PMID: 41114833
 
 ---
 
@@ -1240,4 +1240,4 @@ Understanding mortality risk by clinical status helps frame goals-of-care discus
 
 31. Chakraborty T, et al. Guillain-Barré syndrome in the ICU. *Neurocrit Care*. 2020;32:708-722. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31297663/)
 
-32. Thille AW, et al. Outcomes of mechanically ventilated patients with Guillain-Barré syndrome. *Crit Care Med*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41114833/)
+32. Thille AW, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barré syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51:2054-2064. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41114833/)

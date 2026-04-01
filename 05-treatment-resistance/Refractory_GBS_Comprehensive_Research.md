@@ -100,7 +100,7 @@ A 2025 pharmacodynamic analysis of the SID-GBS trial confirmed that while a seco
 
 **Evidence: NOT recommended.**
 
-The landmark 1992 Randomized Trial of PE, IVIg, and combined treatments demonstrated that combination therapy (PE followed by IVIg) conferred NO additional therapeutic advantage over either treatment alone.
+The landmark 1997 Randomized Trial of PE, IVIg, and combined treatments demonstrated that combination therapy (PE followed by IVIg) conferred NO additional therapeutic advantage over either treatment alone.
 
 The 2023 EAN/PNS guideline recommends against combined PE followed immediately by IVIg.
 

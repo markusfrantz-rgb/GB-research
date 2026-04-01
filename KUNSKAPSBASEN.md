@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~690 peer-reviewed referenser | 19 forskningsdokument | 309 fulltexter tillgängliga | 34 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~690 peer-reviewed referenser | 19 forskningsdokument | 319 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -85,7 +85,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 ## Forskningsfynd av möjlig klinisk relevans
 
-*Sammanställda från ~480 peer-reviewed källor. Presenterade som evidens för bedömning.*
+*Sammanställda från ~690 peer-reviewed källor. Presenterade som evidens för bedömning.*
 
 ### Behandlingsalternativ vid PE-refraktär GBS med IgA-brist
 
@@ -136,7 +136,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | | |
 |---|---|
 | Överlevande som går igen | **79%** |
-| Median ventilatorstid | ~28 dagar (IQR 12–60) |
+| Median ventilatorstid | 25 dagar (IQR 13–51) |
 | Prolonged weaning (≥7 dagar) | **64%** (Thille 2025, n=513 GBS, 47 IVA) |
 | Trakeostomi | **57%** av ventilerade GBS-patienter |
 | Reintubation efter extubationsförsök | **26%** |
@@ -145,6 +145,12 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | Mortalitet i modern IVA-vård | **9,4%** (Thille 2025) |
 
 → [Prognostisk monitorering — biomarkörer, skalor, protokoll](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md)
+
+### MR-differentialdiagnostik vid hjärnlesioner och kranialnervsfärgning
+
+Vid fynd på hjärn-MR hos GBS-patienter — vitsubstanslesioner, kranialnervsinladdning eller ovanliga signalförändringar — finns en systematisk genomgång av differentialdiagnoser och överlappande tillstånd, inklusive ett bildgalleri med 34 MR-referensbilder från publicerade fallrapporter.
+
+→ [**ADEM-GBS overlap, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, BBE-spektrum — MR-differentialdiagnostik med bildgalleri**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md)
 
 ### Evidens avseende upprepad IVIg-behandling
 
@@ -192,13 +198,13 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
 | [**Vätskestyrning vid GBS-dysautonomi**](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | **NYTT (2026-03-30):** 5%-tröskel, deresuscitation, WiPO (59% av weaning-svikt), beslutsalgoritm, diuretika-evidens (3 RCT), GBS-specifik sårbarhet |
 | [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
-| [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-referensbilder |
+| [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 33 MR-referensbilder |
 
 ---
 
 ## Källbibliotek — verifierade fulltexter
 
-309 fulltexter tillgängliga (65 PDF + 201 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 34 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+319 fulltexter tillgängliga (70 PDF + 206 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
@@ -218,6 +224,9 @@ Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom 
 - *What is the evidence for efgartigimod in ventilator-dependent GBS?*
 - *Vilka koagulationströsklar gäller för trakeostomi?*
 - *How does thyroid function affect GBS prognosis and recurrence?*
+- *What are the differential diagnoses for white matter lesions on brain MRI in GBS?*
+- *What does cranial nerve enhancement on MRI mean in GBS?*
+- *What is the Obersteiner-Redlich zone?*
 
 ---
 

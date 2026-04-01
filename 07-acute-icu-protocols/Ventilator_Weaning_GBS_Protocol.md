@@ -158,7 +158,7 @@ All of the following must be met before decannulation: *[Level 4 — retrospecti
 
 **Median time to decannulation: 193 days** (range 49-527). Plan for prolonged rehabilitation, speech/swallowing therapy, and transfer to a weaning facility when ICU care no longer required.
 
-> **Citation:** Cheng BC, et al. Predictive factors and long-term outcome of respiratory failure after Guillain-Barré syndrome. *J Clin Neurosci*. 2021;89:109-114. PMID: 33968468
+> **Citation:** Cheng MCF, et al. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barré Syndrome. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 
 ---
 
@@ -273,7 +273,7 @@ If ≥2 failed SBTs within one week: *[Level 5 — expert consensus]*
 
 *[Level 4 — retrospective cohort, n=29]*
 
-> **Citation:** Cheng BC, et al. *J Clin Neurosci*. 2021;89:109-114. PMID: 33968468
+> **Citation:** Cheng MCF, et al. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 
 **ICU mortality in larger cohort:** In Thille 2025 (n=513 GBS), ICU mortality was **9.4%** — notably, mortality was higher in patients who required reintubation (7% GBS, 16% MG) than in those successfully extubated. This reinforces the importance of optimizing extubation readiness rather than attempting premature extubation. *[Level 2 — multicenter retrospective cohort]*
 
@@ -297,7 +297,7 @@ Independent walking: **57% ventilated** vs **87% non-ventilated** (Walgaard 2017
 
 2. Nguyen TN, Badjatia N, Malhotra A, Gibbons FK, Qureshi MM, Greenberg SA. Factors predicting extubation outcome in patients with Guillain-Barré syndrome. *Neurocrit Care*. 2006;5(3):230-234. PMID: 17290095
 
-3. Cheng BC, Chang WN, Chang CS, et al. Predictive factors and long-term outcome of respiratory failure after Guillain-Barré syndrome. *J Clin Neurosci*. 2021;89:109-114. PMID: 33968468
+3. Cheng MCF, Murphy PB, Hart N, Evans MRB, Spillane JE, Howard RS. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barré Syndrome. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 
 4. Thille AW, Bayon C, Gauvrit M, et al. Characteristics of ventilator weaning in patients intubated for Guillain-Barré syndrome or myasthenia gravis: a nationwide multicenter study. *Intensive Care Med*. 2025;51:2054-2064. PMID: 41114833
 

@@ -382,7 +382,7 @@ For acute GBS, PE or low-IgA IVIg with full precautions remain the immediate opt
 
 ### 7.4 Eculizumab (Anti-C5) -- Negative Phase 3
 
-- Phase 2 was positive (74% eculizumab vs 18% placebo walked at 24 weeks in Japan) (PMID: 29685815)
+- Phase 2 was positive (74% eculizumab vs 18% placebo could run at 24 weeks in Japan) (PMID: 29685815)
 - **Phase 3 was NEGATIVE:** No clinical benefit demonstrated (PMID: 38987228)
 - EAN/PNS guideline does not recommend eculizumab for GBS
 - Included for completeness but **NOT recommended**
