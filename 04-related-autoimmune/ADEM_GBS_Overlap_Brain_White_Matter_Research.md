@@ -635,7 +635,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 ### 14.3 Miller Fisher Syndrome — CN III
 
 **Lantos et al. 2020** — Förstorad och enhancande CN III
-*AJNR Am J Neuroradiol.* PMC7357656.
+*AJNR Am J Neuroradiol.* PMC7357656. [Fulltext med zoombar bildvisning (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7357656/)
 [Visa bild: CN III förstoring + enhancement (4-panel)](/source/images/Lantos_2020_COVID_MFS_CN_III_enhancement_PMC7357656.jpg)
 
 ### 14.4 Bickerstaff Brainstem Encefalit (BBE) — PARENKYMLESIONER
@@ -648,7 +648,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 [1-årsuppföljning (regression)](/source/images/Romano_2021_BBE_midbrain_lesion_followup_fig2_PMC8442150.jpg)
 
 **Cuneo et al. 2016** — BBE med kranialnervsenhancement + hjärnstams-/ryggmärgslesioner
-*Neuroradiol J.* PMC5033101.
+*Neuroradiol J.* PMC5033101. [Fulltext med zoombar bildvisning (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5033101/)
 [Visa bild: Medulla + CN III/VII enhancement](/source/images/Cuneo_2016_BBE_brainstem_cranial_nerve_fig1_PMC5033101.jpg) |
 [Ryggmärdslesioner](/source/images/Cuneo_2016_BBE_brainstem_cranial_nerve_fig2_PMC5033101.jpg) |
 [Cauda equina](/source/images/Cuneo_2016_BBE_cauda_equina_fig3_PMC5033101.jpg)
