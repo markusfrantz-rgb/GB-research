@@ -63,6 +63,7 @@ status: active
 | 2026-04-01 | **Neurologsamtal (Daniel):** Behandlar preventivt med Solu-Medrol mot ADEM. MR-prickar mycket sma — ej som ADEM annu. Daniels oro: kraftig GBS med total ansikts-/kranialnervsutslagning. Daniel har foljt svara GBS-fall i 10+ ar, anser detta fall speciellt. |
 | 2026-04-01 (13:00) | **MR hjarna + ryggmard planerad** (bada — ny info). |
 | 2026-04-01 | **Labbestallningar (2026-03-31):** Anti-IgA-antikroppar bestallda, invantar svar. Anti-GQ1b bestalld, invantar svar. Daniel vill se ytterligare protein (troligen NfL eller anti-NF155). |
+| 2026-04-01 (em) | MR hjärna + rygg genomförd. Daniel granskar imorgon tillsammans med EEG. Besök: puls 84, BT 140/65 (stabilt ~1 h, ej noradrenalin). Patient lugn. Kompressionsstrumpor med massage på underbenen. |
 
 ### Nuvarande status (2026-04-01)
 

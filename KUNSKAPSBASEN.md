@@ -59,6 +59,7 @@ status: active
 | 2026-03-31 | **Solu-Medrol (IV metylprednisolon) insatt** — preventivt mot ADEM. MR-prickar mycket små, ej som ADEM ännu. |
 | 2026-04-01 (fm) | Vikt 56,8 kg (nära baseline). Fötter ej svullna. Temp 37,8°C. Infektionstecken — antibiotika bytt. BT 180–200 (dysautonomi, svängt från hypotension). Puls strax >100. |
 | 2026-04-01 | **Neurologsamtal (Daniel):** Preventiv Solu-Medrol mot ADEM. Kraftig GBS med total kranialnervsutslagning. Anti-IgA och anti-GQ1b beställda (2026-03-31), inväntar svar. MR hjärna + ryggmärg planerad. |
+| 2026-04-01 (em) | MR hjärna + rygg genomförd. Daniel granskar imorgon tillsammans med EEG. Besök: puls 84, BT 140/65 (stabilt ~1 h, ej noradrenalin). Patient lugn. Kompressionsstrumpor med massage på underbenen. |
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
