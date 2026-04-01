@@ -608,7 +608,8 @@ The following tests are frequently mentioned in the overlap literature when brai
 [CN V bilateral](/source/images/Zuccoli_2011_GBS_children_CN_V_fig2_PMC7965877_hires.jpg) |
 [CN VI bilateral](/source/images/Zuccoli_2011_GBS_children_CN_VI_fig5_PMC7965877_hires.jpg) |
 [CN VII bilateral](/source/images/Zuccoli_2011_GBS_children_CN_VII_fig1_PMC7965877_hires.jpg) |
-[CN XI bilateral](/source/images/Zuccoli_2011_GBS_children_CN_XI_fig3_PMC7965877_hires.jpg)
+[CN XI bilateral](/source/images/Zuccoli_2011_GBS_children_CN_XI_fig3_PMC7965877_hires.jpg) |
+[CN X bilateral (vagus)](/source/images/Zuccoli_2011_GBS_children_CN_X_fig6_PMC7965877_hires.jpg)
 
 **Sharma et al. 2019** — CN X + XI + cervikala rötter
 *SAGE Open Med Case Rep.* PMC6429638.
