@@ -599,7 +599,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 ### 14.1 GBS — Kranialnervs-Enhancement (NORMALT vid GBS)
 
 **Soh et al. 2023** — Multipla kranialnerver (CN V, VI, VII) på T1+Gd
-*J Korean Soc Radiol.* PMC10407074.
+*J Korean Soc Radiol.* PMC10407074. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC10407074/)
 [Visa bild: CN V + VI + VII enhancement (5-panel, hög upplösning)](/source/images/Soh_2023_GBS_COVID_vax_CN_V_VI_VII_enhancement_PMC10407074_hires.jpg)
 
 **Zuccoli et al. 2011** — 83% av GBS-patienter har kranialnervs-enhancement
@@ -612,15 +612,15 @@ The following tests are frequently mentioned in the overlap literature when brai
 [CN X bilateral (vagus)](/source/images/Zuccoli_2011_GBS_children_CN_X_fig6_PMC7965877_hires.jpg)
 
 **Sharma et al. 2019** — CN X + XI + cervikala rötter
-*SAGE Open Med Case Rep.* PMC6429638.
+*SAGE Open Med Case Rep.* PMC6429638. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC6429638/)
 [Visa bild: CN X, XI + nervrotsenhancement](/source/images/Sharma_2019_GBS_CN_X_XI_cervical_roots.jpg)
 
 **Dang & Bryson 2021** — MFS-GBS overlap: bilateral CN III + VII
-*BMJ Case Rep.* PMC8634230.
+*BMJ Case Rep.* PMC8634230. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC8634230/)
 [Visa bild: Bilateral CN III + CN VII enhancement (hög upplösning)](/source/images/Dang_2021_MFS_GBS_overlap_CN_enhancement_PMC8634230_hires.jpg)
 
 **Correa et al. 2021** — GBS: bilateral CN VII enhancement
-*J Neurovirol.* PMC7812977.
+*J Neurovirol.* PMC7812977. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC7812977/)
 [Visa bild: Bilateral CN VII (GBS, hög upplösning)](/source/images/Correa_2021_GBS_bilateral_CN_VII_fig5_hires.jpg) |
 [CN VI + VII enhancement](/source/images/Correa_2021_COVID_CN_VI_VII_enhancement_fig3_hires.jpg) |
 [CN VII geniculate](/source/images/Correa_2021_COVID_CN_VII_geniculate_fig4_hires.jpg)
@@ -628,7 +628,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 ### 14.2 GBS — Cauda Equina / Spinalrotsenhancement
 
 **Alkan et al. 2009** — Klassisk cauda equina-enhancement
-*J Radiol Case Rep.* PMC3303301.
+*J Radiol Case Rep.* PMC3303301. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC3303301/)
 [Visa bild: Cauda equina sagittal](/source/images/Alkan_2009_GBS_cauda_equina_sagittal.jpg) |
 [Cauda equina axial](/source/images/Alkan_2009_GBS_cauda_equina_axial.jpg)
 
@@ -654,18 +654,18 @@ The following tests are frequently mentioned in the overlap literature when brai
 [Cauda equina](/source/images/Cuneo_2016_BBE_cauda_equina_fig3_PMC5033101.jpg)
 
 **Tyrakowska et al. 2016** — Recidiverande BBE med pons/medulla-lesioner
-*Pol J Radiol.* PMC5214676.
+*Pol J Radiol.* PMC5214676. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC5214676/)
 [Visa bild: FLAIR-sekvens pons/medulla](/source/images/Tyrakowska_2016_BBE_FLAIR_pons_medulla.jpg) |
 [T1+Gd enhancement](/source/images/Tyrakowska_2016_BBE_T1Gd_enhancement.jpg)
 
 **Harjani et al. 2020** — BBE med NORMAL MR (visar att BBE kan sakna MR-fynd)
-*BMJ Case Rep.* PMC7511636.
+*BMJ Case Rep.* PMC7511636. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC7511636/)
 [Visa bild: Normal hjärnstam vid BBE](/source/images/Harjani_2020_BBE_FLAIR_DWI_brainstem.jpg)
 
 ### 14.5 Diagnostiskt flödesschema — Kranialnervsenhancement
 
 **Moltoni et al. 2024** — Differentialdiagnostik vid kranialnervsenhancement
-*Radiol Med.* PMC10808254.
+*Radiol Med.* PMC10808254. [PMC fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC10808254/)
 [Visa bild: Översikt enhancement-mönster (hög upplösning)](/source/images/Moltoni_2024_CN_enhancement_pattern_overview_hires.jpg)
 [Flödesschema: unilateral linjär enhancement](/source/images/Moltoni_2024_CN_unilateral_linear_flowchart_hires.png) |
 [Bilateral linjär](/source/images/Moltoni_2024_CN_bilateral_linear_flowchart_hires.png) |
