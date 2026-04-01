@@ -643,7 +643,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 > **Jämför med ovan:** BBE visar lesioner *i hjärnstammen själv*, inte bara nervenhancement.
 
 **Romano et al. 2021** — Klassisk BBE: mitthjärnslesion (5 sekvenser)
-*Neurohospitalist.* PMC8442150.
+*Neurohospitalist.* PMC8442150. [Fulltext med zoombar bildvisning (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8442150/)
 [Visa bild: Mitthjärnslesion FLAIR/T2/T1/DWI/Gd](/source/images/Romano_2021_BBE_midbrain_lesion_fig1_PMC8442150.jpg) |
 [1-årsuppföljning (regression)](/source/images/Romano_2021_BBE_midbrain_lesion_followup_fig2_PMC8442150.jpg)
 
