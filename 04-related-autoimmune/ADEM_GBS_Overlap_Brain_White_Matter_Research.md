@@ -603,7 +603,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 [Visa bild: CN V + VI + VII enhancement (5-panel, hög upplösning)](/source/images/Soh_2023_GBS_COVID_vax_CN_V_VI_VII_enhancement_PMC10407074_hires.jpg)
 
 **Zuccoli et al. 2011** — 83% av GBS-patienter har kranialnervs-enhancement
-*AJNR Am J Neuroradiol.* PMC7965877. PMID: 21292802.
+*AJNR Am J Neuroradiol.* PMC7965877. PMID: 21292802. [Fulltext med zoombar bildvisning (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7965877/)
 [Visa bild: CN III bilateral enhancement (hög upplösning)](/source/images/Zuccoli_2011_GBS_children_CN_III_fig4_PMC7965877_hires.jpg) |
 [CN V bilateral](/source/images/Zuccoli_2011_GBS_children_CN_V_fig2_PMC7965877_hires.jpg) |
 [CN VI bilateral](/source/images/Zuccoli_2011_GBS_children_CN_VI_fig5_PMC7965877_hires.jpg) |
