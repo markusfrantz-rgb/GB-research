@@ -259,7 +259,7 @@ def _postprocess_html(html):
                 f' target="_blank" rel="noopener" class="ext-link">{pmid}</a>')
         return link + _source_badge(pmid)
 
-    html = re.sub(r'([a-zA-Z0-9_/">])?PMID:\s*(\d+)', _pmid_repl, html)
+    html = re.sub(r'(">|[a-zA-Z0-9_/"])?PMID:\s*(\d+)', _pmid_repl, html)
 
     # Linkify PMC references (skip those inside URLs, filenames or existing links)
     def _pmc_repl(m):
