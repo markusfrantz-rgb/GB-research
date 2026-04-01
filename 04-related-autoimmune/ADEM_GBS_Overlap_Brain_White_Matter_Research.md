@@ -600,7 +600,7 @@ The following tests are frequently mentioned in the overlap literature when brai
 
 **Soh et al. 2023** — Multipla kranialnerver (CN V, VI, VII) på T1+Gd
 *J Korean Soc Radiol.* PMC10407074.
-[Visa bild: CN V + VI + VII enhancement (5-panel)](/source/images/Soh_2023_GBS_COVID_vax_CN_V_VI_VII_enhancement_PMC10407074.jpg)
+[Visa bild: CN V + VI + VII enhancement (5-panel, hög upplösning)](/source/images/Soh_2023_GBS_COVID_vax_CN_V_VI_VII_enhancement_PMC10407074_hires.jpg)
 
 **Zuccoli et al. 2011** — 83% av GBS-patienter har kranialnervs-enhancement
 *AJNR Am J Neuroradiol.* PMC7965877. PMID: 21292802.
@@ -616,11 +616,13 @@ The following tests are frequently mentioned in the overlap literature when brai
 
 **Dang & Bryson 2021** — MFS-GBS overlap: bilateral CN III + VII
 *BMJ Case Rep.* PMC8634230.
-[Visa bild: Bilateral CN III + CN VII enhancement](/source/images/Dang_2021_MFS_GBS_overlap_CN_enhancement_PMC8634230.jpg)
+[Visa bild: Bilateral CN III + CN VII enhancement (hög upplösning)](/source/images/Dang_2021_MFS_GBS_overlap_CN_enhancement_PMC8634230_hires.jpg)
 
 **Correa et al. 2021** — GBS: bilateral CN VII enhancement
 *J Neurovirol.* PMC7812977.
-[Visa bild: Bilateral CN VII (GBS)](/source/images/Correa_2021_GBS_bilateral_CN_VII_fig5.jpg)
+[Visa bild: Bilateral CN VII (GBS, hög upplösning)](/source/images/Correa_2021_GBS_bilateral_CN_VII_fig5_hires.jpg) |
+[CN VI + VII enhancement](/source/images/Correa_2021_COVID_CN_VI_VII_enhancement_fig3_hires.jpg) |
+[CN VII geniculate](/source/images/Correa_2021_COVID_CN_VII_geniculate_fig4_hires.jpg)
 
 ### 14.2 GBS — Cauda Equina / Spinalrotsenhancement
 
@@ -663,7 +665,11 @@ The following tests are frequently mentioned in the overlap literature when brai
 
 **Moltoni et al. 2024** — Differentialdiagnostik vid kranialnervsenhancement
 *Radiol Med.* PMC10808254.
-[Visa bild: Diagnostiskt flödesschema](/source/images/Moltoni_2024_CN_enhancement_pattern_overview.jpg)
+[Visa bild: Översikt enhancement-mönster (hög upplösning)](/source/images/Moltoni_2024_CN_enhancement_pattern_overview_hires.jpg)
+[Flödesschema: unilateral linjär enhancement](/source/images/Moltoni_2024_CN_unilateral_linear_flowchart_hires.png) |
+[Bilateral linjär](/source/images/Moltoni_2024_CN_bilateral_linear_flowchart_hires.png) |
+[Unilateral förtjockad](/source/images/Moltoni_2024_CN_unilateral_thickened_flowchart_hires.png) |
+[Bilateral förtjockad](/source/images/Moltoni_2024_CN_bilateral_thickened_flowchart_hires.png)
 
 ### 14.6 Tolkningsguide
 
