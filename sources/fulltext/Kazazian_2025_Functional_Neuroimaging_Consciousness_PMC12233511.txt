@@ -1,0 +1,369 @@
+# Functional Neuroimaging in Disorders of Consciousness: Towards Clinical Implementation
+
+## Title
+Functional neuroimaging in disorders of consciousness: towards clinical implementation
+
+## Authors
+- Karnig Kazazian (Western Institute of Neuroscience, Western University)
+- Martin M Monti (Brain Injury Research Center, UCLA)
+- Adrian M Owen (Western Institute of Neuroscience, Western University)
+
+**Journal:** Brain, 2025 Feb 25;148(7):2283–2298
+**DOI:** 10.1093/brain/awaf075
+**PMCID:** PMC12233511
+
+---
+
+## Abstract
+
+This review provides a comprehensive overview of functional neuroimaging applications in disorders of consciousness (DoC). The authors detail three primary technical approaches: functional MRI (fMRI), EEG, and PET imaging. Despite clinical endorsement by major organizations, widespread implementation remains limited by perceived costs, technological barriers, and lack of specialized expertise.
+
+Key findings indicate that approximately 20% of behaviorally non-responsive patients demonstrate covert awareness through neuroimaging. The authors outline which patients benefit most from imaging, optimal timing for assessment, and practical implementation strategies. They recommend multimodal approaches combining multiple imaging techniques and paradigms for improved diagnostic accuracy.
+
+The review emphasizes that neuroimaging can: detect residual cognitive function, identify covert command-following, predict recovery outcomes, and inform critical medical decision-making in both acute and prolonged disorders of consciousness.
+
+---
+
+## Introduction
+
+Disorders of consciousness following severe brain injury affect millions globally and present significant diagnostic and prognostic challenges. Traditional behavioral assessments, while historically considered the gold standard, frequently fail to identify preserved cognitive abilities in patients who appear completely unresponsive.
+
+**Key clinical challenge:** "Behavioral assessments, long considered the gold standard for evaluating" such patients "often provide unreliable diagnostic and prognostic information" and may miss awareness present in approximately 20% of non-responsive individuals.
+
+### Clinical Significance
+
+The phenomenon of "covert awareness" or "cognitive motor dissociation" describes patients whose actual cognitive capabilities exceed what behavioral testing reveals. These patients can demonstrate intentional brain activity changes in response to commands despite showing no outward responses.
+
+---
+
+## Clinical Overview
+
+### Acute Disorders of Consciousness
+
+Acute DoC requires rapid assessment within ICU settings. The most common acute form is coma, characterized by complete absence of arousal and awareness. Medical teams face uncertainty regarding awareness levels and long-term recovery prospects, directly influencing decisions about aggressive life support.
+
+**Prognostication challenge:** Many prognostic indicators exist for poor outcomes, but "few tools exist for predicting a 'good' functional and neurological outcome."
+
+### Prolonged Disorders of Consciousness
+
+Prolonged DoC includes vegetative state (VS/unresponsive wakefulness syndrome) and minimally conscious state (MCS). The VS features wakefulness without awareness, while MCS demonstrates limited but clear evidence of self or environmental awareness. Two MCS subtypes exist: MCS- (without command-following) and MCS+ (with language or command-following abilities).
+
+### Behavioral Assessment Tools
+
+The Coma Recovery Scale-Revised (CRS-R) remains the most widely used standardized behavioral assessment, detecting awareness in up to 40% of apparently unresponsive patients. However, it fails to identify awareness in approximately 20% of cases where it exists.
+
+---
+
+## Functional Neuroimaging: Historical Perspective
+
+### Timeline of Key Developments
+
+The field spans over 30 years of development:
+
+**1980s-1990s:** PET and SPECT imaging revealed widespread metabolic reductions in prolonged DoC, though occasionally normal metabolism was documented.
+
+**Mid-1990s:** H215O PET activation studies enabled linking neural activity changes to specific cognitive processes. Early studies examining responses to story narration, faces, speech, and pain stimuli established that many DoC patients retained greater cognitive processing than behavioral testing suggested.
+
+**Early 2000s:** The shift to fMRI offered advantages over PET: wider availability, no radiation, improved statistical power, and better spatial/temporal resolution. This enabled more direct connections between neural activity patterns and preserved cognitive functions including speech perception, emotion, and sensory processing.
+
+**2006 - Landmark Discovery:** For the first time, researchers demonstrated that a patient diagnosed as vegetative could modulate fMRI activity intentionally during mental imagery tasks (imagining playing tennis, walking through home) in response to external commands. This provided unequivocal evidence of covert awareness despite behavioral non-responsiveness.
+
+**2010:** Follow-up studies showed approximately 17% of patients diagnosed as VS could willfully modulate brain activity, suggesting significant undetected awareness prevalence.
+
+**2011:** EEG studies confirmed comparable findings to fMRI, identifying covert awareness in approximately 20% of behaviorally command-non-following patients.
+
+**2010-2020:** Advanced neuroimaging techniques proliferated. Evidence accumulated showing intact neural responses associated with better recovery chances. Machine learning and improved data processing enabled development of diagnostic and prognostic models.
+
+**2017-2019:** Studies demonstrated neuroimaging feasibility in acute ICU settings, with covert command-following detected via EEG in 15% of severely brain-injured patients showing better functional recovery prospects.
+
+**2024:** Multi-national study confirmed covert awareness in approximately 25% of DoC patients.
+
+---
+
+## Imaging Techniques
+
+### Functional MRI (fMRI)
+
+fMRI measures brain activity by detecting blood oxygen level-dependent (BOLD) signals reflecting local oxygen consumption changes. Often considered the gold standard, fMRI provides superior spatial resolution enabling precise activity localization.
+
+**Practical considerations:**
+- In acute settings: Most hospitals already have MRI scanners with minimal transport distances; however, hemodynamically unstable patients may be unable to tolerate scanning
+- Recommendation: Coordinate functional scans with clinically required structural imaging to minimize risks
+- In prolonged DoC: Access more problematic as many patients reside in non-hospital settings; nonetheless, diagnostic benefits justify transportation efforts
+
+### PET Imaging
+
+18F-FDG-PET measures glucose metabolism using radiolabeled glucose analogs. Particularly valuable for identifying metabolic activity regions reliably differentiating awareness states.
+
+**Key advantages:** Sedation post-tracer uptake minimally affects metabolic demands, making it reliable for sedated patients.
+
+**Important distinction:** While fMRI can establish covert command-following (intentional neural modulation), PET measures metabolic network integrity supporting awareness rather than confirming awareness itself.
+
+### EEG
+
+EEG records electrical brain activity via scalp electrodes, offering high temporal but limited spatial resolution.
+
+**Advantages:**
+- Portable and widely accessible
+- Suitable across the entire temporal continuum of DoC
+- Most ICUs equipped with standard montages usable for detecting covert brain activity
+- Can be continuously applied to individual patients
+- Can couple to cognitive paradigms and brain-computer interfaces
+- Low-cost and non-invasive
+
+**Challenges:** Sensitivity to external artifacts and motion presents technical difficulties.
+
+### Emerging Technologies
+
+**Functional Near-Infrared Spectroscopy (fNIRS):**
+- Optical equivalent to fMRI
+- Portable, inexpensive, enables bedside monitoring
+- Infers brain activity through neurovascular coupling measuring oxygenated/deoxygenated hemoglobin concentration changes
+- Recently demonstrated effectiveness detecting resting-state networks, sensorimotor processing, speech-specific auditory processing, and volitional command-driven activity
+- Successfully identified acute and prolonged DoC patients with covert awareness
+- Prognostic utility remains undetermined
+
+**Transcranial Magnetic Stimulation-EEG (TMS-EEG):**
+- Combines magnetic brain stimulation with electrical activity recording
+- Enables neural complexity measurement via Perturbational Complexity Index
+- High specificity and sensitivity for differentiating awareness states
+- Avoids reliance on language, attention, or memory processes
+- Measures capacity for rather than direct awareness
+- Currently limited use but promising for diagnosis and prognosis
+
+**Brain-Computer Interfaces (BCIs):**
+- Both fNIRS and fMRI have demonstrated "communicate" capabilities with behaviorally non-responsive patients
+- A true routine clinical BCI for brain-injured patients has not yet been developed
+- Significant technical hurdles remain regarding sensitivity and real-time reliability
+- Future potential: Allowing DoC patients to communicate regarding wellbeing, pain, and end-of-life preferences, providing medical decision-making autonomy
+- EEG and fNIRS are ideal candidates due to simplicity and portability
+
+---
+
+## Neuroimaging Task Types
+
+### Command-Following Paradigms
+
+Patients receive instructions to engage mental imagery requiring intentional brain activity control in response to external prompts. Positive results depend on patient active participation absent without awareness.
+
+**Common paradigms:**
+- Motor imagery (imagining tennis playing, hand opening/closing)
+- Spatial navigation (imagining home walking)
+
+**Advantages:** Directly detect preserved awareness; positive results reveal intact language comprehension, working memory, and executive processing.
+
+**Critical limitation:** Negative results cannot rule out awareness. Patients may fail to hear instructions, comprehend language, be confused from medications, or lack cognitive capacity despite retaining some awareness. False-negatives remain possible.
+
+### Passive Paradigms
+
+These examine neural activity responding to external sensory stimuli (language, music, somatosensory) without requiring active patient participation.
+
+**Diagnostic/prognostic value:**
+- Positive results absent behavioral responses indicate preserved cortical function to particular stimuli
+- Neural processing extent correlates with recovery degree
+
+**Important caveat:** Responses don't necessarily accompany phenomenological stimulus experience. Awareness isn't required for positive responses; similar signatures appear in healthy individuals under anesthesia or sleep.
+
+**EEG-based measures:**
+- P3/P300 responses: Event-related potentials reflecting consciousness and attention-related cognitive processes
+- Local-global ERP paradigm: Incorporates two auditory regularity layers; associated with improved prognosis and MCS-to-consciousness transitions
+- Deviant tones, somatosensory stimuli, hierarchical auditory linguistic processing levels, spatial attention assessment
+
+**Inter-subject synchronization:**
+- Novel approach presenting DoC patients with complex stimuli
+- Examines whether neural and cardiac activity synchronization occurs comparable to healthy controls
+- Provides sensitive, naturalistic preserved cognition assessment
+- Examines how responses align with complex stimuli like speech/narratives compared to controls
+
+### Resting-State/Stimulus-Free Paradigms
+
+Measure spontaneous synchronized brain activity patterns absent external stimulation.
+
+**fMRI findings:** Reveals networks linked to different brain functions including cognition and awareness.
+
+**EEG findings:** Organized into distinct frequency bands corresponding to different mental activity states.
+
+**Evidence:** Strong convergence indicating resting-state techniques accurately predict awareness levels (VS versus MCS) and long-term recovery with high precision. Quantitative EEG metrics examining power spectral density through median/mean frequency show high promise.
+
+**PET findings:** Reliably differentiates awareness states; up to 67% of behaviorally diagnosed VS patients retain partial brain metabolism patterns resembling MCS patients (termed MCS*).
+
+**Important distinction:** While detecting networks supporting awareness and cognitive processes, these measures don't directly measure awareness itself.
+
+---
+
+## Clinical Importance of Neuroimaging
+
+### Prolonged Disorders of Consciousness
+
+Advanced neuroimaging in prolonged DoC has significant clinical implications:
+
+1. **Diagnostic alteration:** Fundamentally changes cognitive condition understanding with profound ethical/medical consequences, potentially leading to tailored rehabilitation programs
+2. **Prognostic accuracy:** Enhances precision regarding recovery potential and long-term outcomes
+3. **Recovery prediction:** Over two-thirds of individuals showing neuroimaging-detected covert awareness later regained behavioral awareness signs
+4. **Legal significance:** Provides valuable information addressing critical questions regarding awareness and recovery prospects in nutrition/hydration withdrawal proceedings
+
+### Acute Disorders of Consciousness
+
+In acute settings, neuroimaging arguably becomes more pressing. Detecting covert brain activity may substantially impact clinical decision-making:
+
+- Patients with covert command-following or passive stimuli responses similar to healthy individuals warrant entirely different rehabilitation versus life-sustaining measure withdrawal discussions
+- Preserved awareness has direct prognostic implications; these patients show greater behavioral awareness recovery chances and faster recovery
+
+**Critical importance:** Majority of ICU brain-injured patient deaths result from life-sustaining measure withdrawal. Correct awareness assessment is crucial avoiding inappropriate/premature decisions.
+
+Recent advances demonstrate neuroimaging's superior sensitivity and specificity compared to standard clinical tools for recovery prediction. This potentially deprivation of precise predictors adversely affects outcomes, lengthens hospital stays, increases costs, and may lead to erroneous withdrawal decisions.
+
+---
+
+## Barriers to Clinical Implementation
+
+Despite multiple international bodies endorsing functional neuroimaging, implementation remains limited. Surveys indicate only 8-20% of medical centers use advanced neuroimaging for diagnostic/prognostic purposes.
+
+### Key Barriers
+
+**Cost Concerns:**
+- While initial acquisition costs are substantial, neuroimaging expenses are minimal compared to acute/long-term DoC patient care costs
+- Costs justify consideration as function of patient benefits
+- Most hospitals acquire imaging equipment for varied purposes, making operational costs relatively low
+- Private healthcare insurance companies increasingly reimburse fMRI and EEG costs
+- Advanced neuroimaging is not excessively costly relative to overall care expenses
+
+**Technology Access:**
+- Remote and low-income area access significantly restricted
+- Innovative solutions needed: mobile imaging units, telemedicine consultations
+- Most modern MRI scanners possess functional neuroimaging capabilities
+- Over 7,800 MRI scanners exist in the USA alone, with most capable of performing fMRI
+- Clinical-grade EEG montages widely available in many settings
+
+**Personnel Expertise:**
+- Specialized knowledge crucial for accurate analysis and interpretation
+- Current absence of widely accepted automated pipelines
+- Guidelines exist but often fail to: specify paradigms/technologies for specific cases, identify which patients benefit most, recommend optimal imaging timing, describe clinical practice integration
+
+---
+
+## Patient Selection and Timing Recommendations
+
+### Acute Disorders of Consciousness
+
+Neuroimaging should be considered for patients not demonstrating behavioral command-following through serial standardized neurological assessments, except when brain death confirmed or clear poor prognosis markers present.
+
+**Optimal timing:**
+- Once patients achieve hemodynamic stability
+- After rewarming completion for hypothermia-treated patients
+- Before critical life-sustaining therapy discussions occurring typically within 10-14 days post-injury
+
+**Rationale:** Early imaging informs families and surrogate decision-makers during critical care trajectory discussions.
+
+### Prolonged Disorders of Consciousness
+
+Advanced neuroimaging should be considered in any DoC patient lacking behavioral command-following evidence.
+
+**Important considerations:**
+- Recovery likelihood decreases with longer DoC duration
+- However, delayed recovery remains documented and possible
+- Longer DoC duration correlates with increased covert awareness likelihood
+- No definitive temporal cutoff recommendation exists for advanced neuroimaging assessment
+- Longer DoC periods create greater imperative understanding true cognitive state
+
+**Particularly timely scenarios:** Legal situations involving nutrition/hydration withdrawal petitions; understanding true patient cognitive state seems essential before life-sustaining measure discontinuation decisions.
+
+**Additional recommendations:**
+- Multi-modal imaging approach probing awareness and preserved cortical processing improves detection accuracy
+- Multiple technique/paradigm combinations provide patients best preserved cognitive ability demonstration chances
+- Multiple testing occasions reduce false-negative finding possibilities
+- Single time-point assessments prone to false negatives
+
+**Hierarchical framework:**
+- Begin with conventional neurophysiological measures (standard EEG, evoked potentials)
+- Progress to advanced techniques (ERPs) and quantitative EEG analysis
+- Finally employ most sophisticated tools (TMS-EEG, active EEG paradigms)
+- Structure ensures informed decisions before resource-intensive method deployment
+
+---
+
+## Implementation Strategies
+
+### Practical Acquisition and Analysis Framework
+
+**Imaging setup:**
+- Scanner-based techniques require acquisition sequence establishment
+- One structural T1 (MPRAGE) sequence overlay structural-functional images
+- EEG setup involves standard clinical-grade montages
+- Specific acquisition parameters vary by manufacturer but reported in functional neuroimaging paper methods
+
+**Data acquisition:**
+- Resting-state sequences collected absent external stimuli
+- Task-based sequences require appropriate stimuli
+- MRI-compatible headphones, amplifiers, stimulus delivery laptops necessary
+- Active command-following and passive auditory tasks recommended
+
+**Data analysis:**
+- Follow standard statistical protocols
+- Utilize neuroimaging toolboxes or publicly available code
+- Semi-automatic processing with extensive online tutorials
+- Consider well-established regions-of-interest activating in specific task responses
+
+**Data interpretation:**
+- Training available through endorsing societies
+- 'Probable,' 'possible,' or 'indeterminate' evidence guidelines applied
+- Integrate findings into electronic health records for seamless workflow
+- Medical teams should review before family communication
+
+### Implementation Models
+
+**Hub-and-Spoke Model:**
+Regional centers (spokes) collect neuroimaging data from patients, sending to specialized centers (hubs) for analysis/interpretation. This structure ensures varied region patient access to advanced imaging technologies while centralizing expertise. Similar approaches used in epilepsy EEG monitoring.
+
+**Two-Tiered System (France Model):**
+- Local (Tier 1) and regional (Tier 2) centers work collaboratively
+- Supported by centralized electronic databases and algorithmic hubs
+- Tailors diagnostic rigor to individual patient needs
+- Ensures efficient resource allocation
+- Includes national registry of DoC patients facilitating evidence-based monitoring
+
+---
+
+## Future Directions
+
+### Standardization Needs
+
+1. **Publicly available paradigms:** Enable standardized imaging data acquisition
+2. **Automated preprocessing pipelines:** Simplify complex data processing
+3. **Industry standards:** Establish fMRI, EEG, PET protocol uniformity preventing cross-center comparison difficulties
+4. **Standardized reporting/interpretation:** Ensure consistent result presentation
+
+### Educational Development
+
+- Comprehensive training modules, tutorials, workshops educating clinicians/researchers
+- Clinical body endorsement and support enhancing uptake
+- Common data elements definition for future research facilitating data-sharing and result aggregation
+
+### Economic Evaluation
+
+- Medico-economic studies examining implementation cost-effectiveness
+- Analysis of cost savings from improved diagnosis, tailored treatment, potentially shortened ICU stays
+- Demonstration of value to regulatory authorities fostering broader adoption
+
+### Accessible Tool Development
+
+- Exploration of low-cost tools: EMG, cardiac monitoring showing preserved cognitive processing indicators
+- Pupillometry techniques detecting covert brain activity as more accessible alternatives in advanced imaging-lacking settings
+- Olfactory sniff response biomarkers distinguishing unresponsive versus minimally conscious states, predicting awareness recovery
+- Incorporation of nursing staff assessments enhancing diagnostic accuracy
+
+---
+
+## Conclusion
+
+Successfully translating advanced imaging techniques from research to clinical settings requires unified clinician, radiologist, medical staff, and researcher collaboration. This integration can substantially enhance assessment accuracy, clarifying preserved awareness understanding and improving prognosis.
+
+"Patients with DoC deserve the most comprehensive and precise evaluation" available, as their "quality of life and potential for recovery hinge on accurate diagnoses and prognosis."
+
+The gap between cutting-edge research and practical application must be bridged to ensure latest imaging advancements translate into tangible benefits for all DoC patients.
+
+---
+
+## References
+
+The article contains extensive references spanning foundational work (1997-2024) documenting neuroimaging's evolution in DoC assessment, including landmark studies, guidelines, and recent advances. Complete reference list spans multiple pages in original publication.

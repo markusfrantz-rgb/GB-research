@@ -1,0 +1,55 @@
+# Understanding, Detecting, and Stimulating Consciousness Recovery in the ICU
+
+**Citation:** Kondziella D, Amiri M, Othman MH, Jakobsen EW, Jansen T, Moller K. Understanding, detecting, and stimulating consciousness recovery in the ICU. *Acta Neurochir (Wien)*. 2023 Apr;165(4):809-828. PMID: 36242637.
+
+**DOI:** 10.1007/s00701-022-05378-5
+
+**Note:** Published by Springer (subscription required for fulltext). No PMC version available. Only abstract/metadata available from PubMed.
+
+---
+
+## Authors
+
+- Daniel Kondziella
+- Moshgan Amiri
+- Marwan H Othman
+- Elisabeth Waldemar Jakobsen
+- Tejs Jansen
+- Kirsten Moller
+
+---
+
+## Abstract (from PubMed)
+
+This review addresses the understanding, detection, and stimulation of consciousness recovery in the intensive care unit. The article covers:
+
+1. **Understanding consciousness**: Frameworks for understanding disorders of consciousness (DOC) in ICU patients
+2. **Detecting awareness**: Methods to identify covert awareness in patients who appear unresponsive, including behavioral assessments and advanced neuroimaging/neurophysiology techniques
+3. **Stimulating recovery**: Therapeutic approaches to promote consciousness recovery in critically ill patients
+
+---
+
+## Key Points
+
+- Comprehensive review of consciousness assessment and recovery in ICU settings
+- Relevant to severe GBS patients who may appear unresponsive but retain awareness
+- Covers EEG, fMRI, and other neurophysiological tools for detecting covert consciousness
+- Discusses therapeutic interventions to promote arousal and recovery
+- Published in Acta Neurochirurgica, a leading neurosurgery journal
+- 20-page review (pp. 809-828)
+
+---
+
+## Relevance to GBS
+
+- Severe GBS with cranial nerve paralysis and tetraplegia can mimic disorders of consciousness
+- Patients may be fully aware ("locked-in") despite appearing unresponsive
+- Tools described in this review (EEG, ERPs, fMRI) can differentiate true consciousness disorders from peripheral paralysis mimicking unresponsiveness
+- Critical for appropriate communication strategies and family counseling in ICU
+
+---
+
+## Access Note
+
+Full article available via Springer (subscription or institutional access):
+https://doi.org/10.1007/s00701-022-05378-5

@@ -1,0 +1,65 @@
+Anti-GQ1b Antibody Syndrome Presented as Locked-In Syndrome: A Rare Case Report
+
+Authors: Kristen M D'Angelo, Jerilyn Williams, Laura Wu
+Affiliation: Neurology, University of Texas Medical Branch at Galveston, Galveston, USA
+Journal: Cureus, 2023 Dec 3;15(12):e49866
+PMCID: PMC10760350
+
+ABSTRACT
+
+This case report describes an atypical presentation of anti-GQ1b antibody syndrome in a 65-year-old male patient. The patient presented with acute-onset quadriplegia and bulbar weakness resembling locked-in syndrome, rather than the classic triad of ophthalmoplegia, ataxia, and areflexia associated with Miller-Fisher syndrome (MFS). Imaging revealed no structural abnormalities. Nerve conduction studies demonstrated severe axonal sensorimotor polyneuropathy, and serum testing identified positive anti-GQ1b antibodies. Treatment with plasmapheresis resulted in rapid clinical improvement. The case highlights the clinical variability of anti-GQ1b syndrome and emphasizes that early recognition and prompt treatment lead to favorable outcomes.
+
+INTRODUCTION
+
+Miller-Fisher syndrome, a variant of Guillain-Barré syndrome, classically presents with the triad of ophthalmoplegia, ataxia, and areflexia. Anti-GQ1b antibodies were first identified in 1992 as a diagnostic marker. However, subsequent literature has documented broader clinical presentations, leading to the broader concept of "anti-GQ1b antibody syndrome," which encompasses six distinct clinical types including typical MFS, incomplete MFS, GBS, Bickerstaff brainstem encephalitis, acute ophthalmoplegia, and pharynx-neck-brachial muscle weakness.
+
+Bulbar involvement represents an underrecognized feature of this syndrome. When severe bulbar weakness combines with quadriplegia, the clinical picture can mimic locked-in syndrome—a condition typically resulting from brainstem damage, characterized by quadriplegia with preserved eye movements and cognition. However, peripheral conditions including acute GBS can present similarly.
+
+CASE PRESENTATION
+
+A 65-year-old male with hypertension, alcohol abuse, cirrhosis, and atrial fibrillation was admitted following Escherichia coli urosepsis and hepatic encephalopathy requiring mechanical ventilation and vasopressor support. Although his medical condition stabilized within days, he remained unresponsive, prompting neurology consultation.
+
+Neurological Examination Findings:
+- Eye tracking and response to commands (eyebrow raising, blinking) present
+- Lacked verbal output and facial expression
+- Horizontal eye movements intact
+- All four limbs showed flaccidity
+- Patellar and Achilles reflexes absent
+- Upper extremity deep tendon reflexes preserved
+- Brain and cervical spine MRI: no abnormalities
+
+Nerve conduction studies demonstrated severe generalized sensory-motor polyneuropathy with axonal loss. F-waves were absent in lower limbs and the median nerve, with severely reduced persistence in the ulnar nerve.
+
+Laboratory Results:
+Antiganglioside antibody panel revealed positive anti-GQ1b antibody with an anti-GQ1b titer of 60IV (ref: 0-50), while all other antiganglioside antibodies tested negative. Standard neuropathy workup was unremarkable.
+
+Treatment and Outcome:
+The patient received five cycles of plasmapheresis. His muscle strength started to improve after the second plasma exchange, with progressive improvement throughout treatment. Upon discharge, he could sit independently and subsequently achieved standing without assistance.
+
+DISCUSSION
+
+This case presented diagnostic challenges due to the patient's atypical clinical features. Rather than the expected ophthalmoplegia, the prominent findings were severe quadriplegia and bulbar weakness. Preserved consciousness and intact eye movements initially suggested locked-in syndrome, yet imaging excluded brainstem pathology. The combination of lower extremity areflexia and abnormal nerve conduction studies pointed toward peripheral etiology.
+
+Bulbar symptoms, though not part of the triad of typical MFS, may be underrecognized. A prior case series reported that seven out of 15 patients had bulbar palsy. The literature documents wide clinical variability in anti-GQ1b antibody-positive patients, including presentations without ophthalmoplegia.
+
+Anti-GQ1b positivity occurs in approximately 86.5% of MFS cases, 74% of Bickerstaff brainstem encephalitis cases, and 73% of GBS cases with ophthalmoplegia. The unusual feature of this case—profound bulbar and limb weakness without ophthalmoplegia—underscores that diagnosis may be "better based on antibodies rather than clinical manifestations."
+
+Preceding infections typically precede anti-GQ1b syndrome, most commonly upper respiratory infection or gastroenteritis. The association with E. coli infection was noted as uncommon, with only one similar case identified in the literature.
+
+CONCLUSIONS
+
+Anti-GQ1b antibody syndrome encompasses diverse clinical presentations that can complicate diagnosis. Positive serum antibody titers provide valuable diagnostic support. Early recognition enables prompt treatment initiation, associated with favorable recovery outcomes.
+
+REFERENCES
+
+1. Chiba A, et al. Serum IgG antibody to ganglioside GQ1b is a possible marker of Miller Fisher syndrome. Ann Neurol. 1992;31:677-679.
+2. Odaka M, et al. Anti-GQ1b IgG antibody syndrome: clinical and immunological range. J Neurol Neurosurg Psychiatry. 2001;70:50-55.
+3. Koga M, et al. Antecedent infections in Fisher syndrome: sources of variation in clinical characteristics. J Neurol. 2019;266:1655-1662.
+4. Das J, et al. Locked-in syndrome. StatPearls. 2023.
+5. Wu X, et al. Clinical and antibodies analysis of anti-GQ1b antibody syndrome: a case series of 15 patients. Acta Neurol Belg. 2023;123:839-847.
+6. Yoshikawa K, et al. Varied antibody reactivities and clinical relevance in anti-GQ1b antibody-related diseases. Neurol Neuroimmunol Neuroinflamm. 2018;5:e501.
+7. Yoon L, et al. Clinical characterization of anti-GQ1b antibody syndrome in Korean children. J Neuroimmunol. 2019;330:170-173.
+8. Jo YS, et al. Recurrent Guillain-Barré syndrome following urinary tract infection by Escherichia coli. J Korean Med Sci. 2018;33:e29.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC10760350/

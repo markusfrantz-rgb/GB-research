@@ -1,0 +1,57 @@
+# Reversible Right Cerebellar FLAIR Hyperintensity in Bickerstaff Brainstem Encephalitis
+
+## Title
+Reversible Right Cerebellar FLAIR Hyperintensity in Bickerstaff Brainstem Encephalitis
+
+## Author
+Yasumasa Hashimoto
+
+**Affiliation:** Department of Internal Medicine, General Medicine, and Neurology, Kansai Medical University Kori Hospital, Japan
+
+**Journal:** Internal Medicine, Advance Publication, March 24, 2026
+**DOI:** 10.2169/internalmedicine.7087-26
+**PMID:** 41882901
+
+**Keywords:** bickerstaff brainstem encephalitis, anti-GQ1b antibody, brain magnetic resonance imaging (MRI), FLAIR images, after immunotherapy
+
+**Received:** January 8, 2026; **Accepted:** February 5, 2026
+
+**Correspondence:** Dr. Yasumasa Hashimoto, hashimoto.yas@kmu.ac.jp
+
+---
+
+## Pictures in Clinical Medicine
+
+A 39-year-old man presented with fever, headache, and vomiting one week after consuming raw bovine offal (senmai). A neurological examination revealed a mildly impaired consciousness (Japan Coma Scale I-1), nuchal rigidity, bilateral ophthalmoplegia with diplopia on rightward gaze, rotatory nystagmus on left gaze, mild right-dominant limb ataxia on finger-to-nose testing, and an ataxic gait.
+
+Laboratory investigations revealed a normal leukocyte count and inflammatory markers. The serum anti-GQ1b IgG antibody test results were positive. A cerebrospinal fluid analysis revealed predominantly mononuclear pleocytosis (mononuclear cells, 135 cells/microL; polymorphonuclear cells, 1.7/microL), and elevated protein (152 mg/dL). PCR testing for herpes simplex virus and varicella-zoster virus was negative.
+
+Brain MRI performed on hospital day 3 revealed a focal hyperintense lesion in the right cerebellar hemisphere on FLAIR images (Picture A), anatomically consistent with the patient's right-dominant limb ataxia.
+
+Based on the acute clinical triad of impaired consciousness, ophthalmoplegia, and ataxia, combined with positive anti-GQ1b IgG antibodies as supplementary evidence, the clinical diagnosis of Bickerstaff brainstem encephalitis (BBE) was established. Although BBE typically presents with symmetric neurological findings (1), BBE demonstrating clinical heterogeneity (2), and asymmetric limb ataxia can sometimes occur, particularly with focal cerebellar involvement.
+
+Following intravenous immunoglobulin therapy, the patient's symptoms improved, and follow-up MRI on hospital day 25 showed a resolution of the cerebellar hyperintensity (Picture B). Abnormal MRI findings have been reported in approximately 30% of the patients with BBE (1), and may include transient cerebellar or brainstem hyperintensities on FLAIR images, which can be reversible after immunotherapy (3).
+
+The author states that he has no Conflict of Interest (COI).
+
+---
+
+## Figure Legend
+
+**Picture A:** Brain MRI (FLAIR) on hospital day 3 showing focal hyperintense lesion in the right cerebellar hemisphere, anatomically consistent with the patient's right-dominant limb ataxia.
+
+**Picture B:** Follow-up brain MRI (FLAIR) on hospital day 25 showing resolution of the cerebellar hyperintensity after intravenous immunoglobulin therapy.
+
+---
+
+## References
+
+1. Odaka M, Yuki N, Yamada M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barre syndrome. Brain 126: 2279-2290, 2003.
+
+2. Koga M, Kusunoki S, Kaida K, et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry 83: 1210-1215, 2012.
+
+3. Almohamed A, Qatza A, Alsamman H, et al. First case report on Bickerstaff brainstem encephalitis in a young adult from Syria: Bridging clinical knowledge and practice. Radiol Case Rep 20: 1211-1214, 2024.
+
+---
+
+**License:** The Internal Medicine is an Open Access journal distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.

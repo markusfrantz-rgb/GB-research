@@ -1,0 +1,475 @@
+DOI: 10.1111/jns.12238
+
+Journal of the Peripheral Nervous System 22:446–450 (2017)
+
+RESEARCH REPORT
+
+Prediction of disease progression in Miller Fisher
+and overlap syndromes
+Christine Verboon1 , Heleen van Berghem1 , Pieter A. van Doorn1 , Liselotte Ruts2 , and
+Bart C. Jacobs1,3
+1
+
+Department of Neurology, Erasmus MC, Rotterdam, The Netherlands; 2 Department of Neurology, Havenziekenhuis,
+Rotterdam, The Netherlands; and 3 Department of Immunology, Erasmus MC, Rotterdam, The Netherlands
+
+Abstract Patients with Miller Fisher syndrome (MFS) may have a relatively mild clinical
+course or progress to Guillain-Barré syndrome (GBS) with limb weakness (MFS-GBS overlap
+syndrome). Other variants in this spectrum are GBS with ophthalmoparesis and Bickerstaff’s
+Brainstem encephalitis (BBE). To compare the clinical course of MFS and overlap syndromes
+and to identify predictors of disease progression. In a prospective study of 170 patients with
+GBS and variant forms, 37 (22%) had a MFS, MFS-GBS overlap syndrome, ophthalmoplegic
+GBS or BBE. The clinical, serological, and electrophysiological features were compared.
+Twenty-three patients presented with MFS, of which 10 (43%) developed limb weakness
+(MFS-GBS overlap syndrome). All these transitions occurred in the ﬁrst week after onset
+of symptoms. There were no differences in the clinical, electrophysiological and serological
+features at entry between MFS and MFS-GBS. Twelve patients had ophthalmoplegic GBS
+and the disease severity at nadir and outcome was worse than in the patients with a
+MFS-GBS overlap syndrome. No early predictors for progression from MFS to MFS-GBS
+overlap syndrome were found. All transitions occurred in the ﬁrst week. This ﬁnding
+implicates that all patients with MFS need careful monitoring for at least 1 week.
+Key words: Miller Fisher syndrome, ophthalmoparesis, progression to overlap syndrome
+
+Introduction
+
+Ophthalmoplegia could also occur later on in patients
+presenting with GBS with limb weakness and sensory deﬁcits (“ophthalmoplegic GBS”). Other patients
+in this related spectrum of disorders have GBS and
+may later on develop consciousness disturbances and
+pyramidal tract signs and are diagnosed as Bickerstaff’s
+brainstem encephalitis (BBE) (Wakerley et al., 2014).
+The clinical course and outcome of these subtypes
+may vary considerably.
+At present, no early characteristics have been
+identiﬁed that can be used to predict whether a patient
+initially diagnosed as MFS is at risk for progression to
+MFS-GBS overlap syndrome (Sekiguchi et al., 2016).
+We aimed to determine risk factors for progression to
+MFS-GBS overlap syndrome and compared the clinical
+course and outcome of these variant forms.
+
+Ophthalmoparesis is a distinctive clinical feature
+in patients with Miller Fisher syndrome (MFS) and
+Guillain-Barré syndrome (GBS). Patients with MFS
+have ophthalmoparesis with additional ataxia and areﬂexia without limb weakness, and usually have a relatively benign clinical course requiring no speciﬁc treatment (Mori et al., 2001; Overell et al., 2007). Some
+patients presenting with MFS may deteriorate and
+develop additional limb weakness (MFS-GBS overlap
+syndrome) or bulbar or respiratory failure (Blau et al.,
+1980; Funakoshi et al., 2009; Sekiguchi et al., 2016).
+
+Address correspondence to: Bart C. Jacobs, MD, PhD, Departments
+of Neurology and Immunology, Erasmus MC, P.O. BOX 2040, 3000
+CA Rotterdam, The Netherlands. Tel: +31 10 7043999; Fax: +31 10
+7044727; E-mail: b.jacobs@erasmusmc.nl
+© 2017 Peripheral Nerve Society
+
+446
+
+Journal of the Peripheral Nervous System 22:446–450 (2017)
+
+Materials and Methods
+
+Limb weakness occurred in all MFS-GBS patients
+within 1 week after onset of symptoms (median 1 day,
+range 0–6 days). No signiﬁcant differences were found
+in the clinical features at entry that could be used to
+predict progression from MFS to MFS-GBS overlap
+syndrome (Table 1).
+At entry, patients with ophthalmoplegic GBS had
+more severe limb weakness (MRC sum score 39, IQR
+27-43) than MFS-GBS overlap (MRC sum score 53, IQR
+44–58) (p = 0.02) and a worse median GBS disability
+score (median 4 (IQR 4–5) vs. 3 (IQR 3–4)) (p = 0.04)
+(Table 1). Two MFS patients had bulbar weakness at
+presentation and another patient with MFS developed
+bulbar weakness after 1 week. None of them required
+mechanical ventilation. The two BBE patients had the
+most severe clinical picture, being completely paralyzed and ventilated. Both developed disturbances in
+consciousness within 12 days after onset of weakness.
+A cyto-albuminologic dissociation in CSF was more
+often found in ophthalmoplegic GBS patients (67%)
+than in the other groups (MFS 18% and MFS-GBS
+overlap 20%) (p = 0.02).
+NCS revealed that patients with MFS most
+often had sensory nerve involvement only (44%),
+whereas ophthalmoplegic GBS and patients with
+MFS-GBS overlap most often had both sensory and
+motor involvement (respectively 100% and 70%,
+MFS 33%, p = 0.007). All patients with ophthalmoplegic GBS had evidence of motor nerve involvement
+on NCS: 33%–67% had reduced distal compound
+muscle action potentials (dCMAP’s) or unresponsive nerves, 22%–50% had prolonged distal motor
+latencies (DML), 34%–67% had decreased motor
+conduction velocity (MCV), and 50%–100% had
+abnormal F-waves. In the MFS-GBS overlap group,
+motor involvement consisted of abnormal dCMAP
+amplitudes in 0%–75% of the patients, prolonged
+DML in 13%–38%, decreased MCV in 0%–38%, and
+prolonged or absent F-waves in 30%–50%. In contrast, MFS patients showed more often sensory nerve
+involvement (0%–28% abnormal sensory nerve action
+potential [SNAP], 43%–75% prolonged distal sensory
+latency [DSL], and 0%–57% decreased sensory conduction velocity [SCV]) and less frequent motor nerve
+involvement (0%–13% abnormal dCMAP amplitudes,
+0%–33% prolonged DML, 0%–34% decreased MCV,
+and 0% abnormal F-waves).
+Serum anti-GQ1b IgG antibodies were more often
+present in patients with MFS (85%) or MFS-GBS
+overlap (63%) than in patients with ophthalmoplegic
+GBS (8%) (p < 0.001). One patient with BBE was
+positive for IgM to GQ1b, but negative for IgG to GQ1b.
+The other patient with BBE was negative for both IgM
+and IgG to GQ1b.
+
+Data were derived from a prospective, multicenter
+cohort study in 170 Dutch patients with GBS, MFS
+or variant forms, who were included within 2 weeks
+after onset of symptoms (GRAPH study) (Ruts et al.,
+2010). The study was approved by an ethical standards
+committee on human experimentation, and informed
+consent was obtained from all patients.
+For the current study, we selected patients with
+ophthalmoparesis and divided them into four groups:
+(1) patients without limb weakness (MFS), (2) patients
+who developed bilateral limb weakness during disease
+course (MFS-GBS overlap syndrome), (3) patients with
+limb weakness as presenting symptom, who later
+on developed ophthalmoplegia (ophthalmoplegic GBS),
+and (4) patients with disturbance of consciousness
+diagnosed as BBE (Wakerley et al., 2014).
+Data were collected from study entry and after 6
+months follow-up. Potential risk factors for disease progression in MFS to MFS-GBS overlap syndrome analyzed were gender, age, antecedent event, presenting
+neurological features at entry (including facial weakness, sensory deﬁcits, pain, MRC sum-score, GBS disability score), results of CSF and nerve conduction
+studies (NCS), and presence of serum anti-GQ1b antibodies. Information on ataxia was collected retrospectively from patient records and deﬁned as presence
+of coordination problems, positive test of Romberg or
+ataxic gait.
+Cerebrospinal ﬂuid (CSF) was tested for white
+blood cell count and protein level. Serum was tested
+for IgM and IgG antibodies to GQ1b (IgM and IgG) by
+ELISA (Kuijf et al., 2005).
+
+Statistical analysis
+We used SPSS (version 21) for statistical analyses.
+Categorical data were presented as proportions and
+differences were analyzed using the Fisher’s exact test
+or Chi-squared test. Continuous data were presented
+as medians and interquartile ranges (IQR) and compared using the Mann-Whitney U test. A two-sided
+p-value of <0.05 was considered to be statistically signiﬁcant.
+
+Results
+In the cohort of 170 patients, 38 (22%) had ophthalmoparesis at entry or during disease. One patient was
+excluded because of an additional transverse myelitis, resulting in 37 patients included in this study.
+Twenty-three patients presented with MFS, of whom
+10 (43%) later on developed limb weakness (MFS-GBS
+overlap). Twelve patients (32%) had ophthalmoplegic
+GBS and 2 patients (5%) BBE (Fig. 1 and Table 1).
+447
+
+15298027, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12238 by Goteborgs, Wiley Online Library on [02/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Verboon et al.
+
+Journal of the Peripheral Nervous System 22:446–450 (2017)
+
+Figure 1. Patient inclusions. BBE, Bickerstaff brainstem encephalitis; GBS, Guillain-Barré syndrome; GRAPH, GBS Research
+about Pain and Heterogeneity; MFS, Miller Fisher syndrome. *This patient was diagnosed with atypical GBS with transverse
+myelitis (demyelinating lesion in thoracic spine).
+
+Univariate analysis did not reveal any features at
+entry which were signiﬁcantly associated with progression to MFS-GBS overlap (deﬁned as an odds ratio > 1.0
+and calculated for sensory deﬁcits, facial weakness,
+GBS disability score at entry, CSF examination, results
+of NCS, and presence of GQ1b antibodies).
+None of the patients with MFS developed respiratory failure, while 1 patient (10%) of the MFS-GBS
+overlap group and 7 (58%) of the ophthalmoplegic GBS
+patients and both BBE patients needed ventilatory support at some time during the disease course (p-value
+MFS-GBS overlap vs. GBS group = 0.03). In the patient
+with MFS-GBS overlap syndrome, respiratory failure
+occurred within 1 day after onset of symptoms.
+At nadir, the MRC-sum score was lower in the ophthalmoplegic GBS group than in the MFS-GBS overlap group (median 24 [IQR 4–39] vs. 51 [IQR 44–58])
+(p = 0.002). These patients also had a worse GBS
+disability score than the MFS-GBS overlap patients
+(median 5 [IQR 4–5] vs. 3 [IQR 3–4]) (p = 0.01).
+
+Five MFS patients (39%) were treated with IVIg
+of whom two (40%) had residual symptoms or signs
+after 6 months follow-up. Of the eight untreated
+MFS patients, ﬁve patients had residual symptoms
+or signs (63%). All patients in the MFS-GBS overlap,
+ophthalmoplegic GBS and BBE group were treated
+with IVIg. After 6 months, limb weakness was still
+present in 10% of the MFS-GBS overlap syndrome
+patients, 55% of the ophthalmoplegic GBS patients
+and in both BBE patients. Sensory deﬁcits were found
+in 38% of the MFS patients, 56% of the patients
+with MFS-GBS overlap syndrome, 82% of the patients
+with ophthalmoplegic GBS, and in both patients with
+BBE patients. Cranial nerve involvement (oculomotor
+or facial weakness) was observed in 20% of the MFS
+patients, 44% of the MFS-GBS overlap syndrome
+patients, 50% of the ophthalmoplegic GBS patients
+and in both BBE patients.
+The median time to independent walking was not
+signiﬁcantly different between patients with MFS and
+448
+
+15298027, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12238 by Goteborgs, Wiley Online Library on [02/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Verboon et al.
+
+Journal of the Peripheral Nervous System 22:446–450 (2017)
+
+Table 1. Demographical features and clinical course of MFS and overlap syndromes.
+MFS (n = 13) MFS-GBS overlap (n = 10) Ophthalmoplegic GBS (n = 12)
+Gender (male), n (%)
+9/13 (69%)
+Age, years (median, IQR)
+51 (37–55)
+Antecedent event
+Diarrhea, n (%)
+2/13 (15%)
+Upper respiratory infectious symptoms, n (%)
+5/13 (39%)
+Clinical features at entry
+Clinical triad*, n (%)
+8/13 (62%)
+Ophthalmoparesis (at least 1 nerve), n (%)
+13/13 (100%)
+Ataxia, n (%)
+8/13 (62%)
+Decreased reﬂexes or areﬂexia, n (%)
+12/13 (92%)
+Paresthesias, n (%)
+9/13 (69%)
+Pain, n (%)
+7/12 (58%)
+Sensory deﬁcits, n (%)
+5/13 (39%)
+Facial weakness, n (%)
+5/13 (39%)
+MRC-sum score, median (IQR)
+60 (60–60)
+GBS-disability score, median (IQR)
+3 (2–3)
+Ventilator dependency, n (%)
+–
+Additional investigations
+Time from onset until LP (days), median, IQR
+3 (2–7)
+Cyto-albuminologic dissociation in CSF, n (%)
+2/11 (18%)
+Time from onset until NCS (days), median (IQR)
+5 (3–11)
+Results nerve conduction studies
+Normal, n (%)
+2/9 (22%)
+Sensory abnormalities, n (%)
+4/9 (44%)
+Motor (+/− sensory) abnormalities, n (%)
+3/9 (33%)
+GQ1b-IgG positive in serum, n (%)
+11/13 (85%)
+GQ1b-IgM positive in serum, n (%)
+2/13 (15%)
+
+7/10 (70%)
+58 (50–64)
+
+9/12 (75%)
+47 (39–61)
+
+–
+7/10 (70%)
+
+3/12 (25%)
+4/11 (36%)
+
+6/9 (67%)
+9/10 (90%)
+6/8 (75%)
+9/10 (90%)
+6/9 (67%)
+3/10 (30%)
+7/10 (70%)
+5/10 (50%)
+53 (44–58)
+3 (3–4)
+1/10 (10%)
+
+2/10 (20%)
+7/9 (78%)
+2/10 (20%)
+9/10 (90%)
+11/11 (100%)
+7/10 (70%)
+10/11 (90%)
+6/10 (60%)
+39 (27–43)
+4 (4–5)
+7/12 (58%)
+
+2 (1–4)
+2/10 (20%)
+6 (3–10)
+
+4 (1–5)
+8/12 (67%)
+8 (7–24)
+
+–
+3/10 (30%)
+7/10 (70%)
+5/8 (63%)
+3/8 (38%)
+
+–
+–
+10/10 (100%)
+1/12 (8%)
+–
+
+*Clinical triad: involvement of ≥1 ocular nerve (oculomotor, trochlear or abducens), ataxia and decreased reﬂexes or areﬂexia without
+limb weakness. LP: lumbar puncture. NCS: nerve conduction study. MFS: Miller Fisher syndrome. MFS-GBS overlap: MFS patients later on
+developing limb weakness. Ophthalmoplegic GBS: GBS patients (with limb weakness) later on developing ophthalmoparesis.
+
+Previous studies reported variable proportions of
+patients with MFS who developed limb weakness
+ranging from 26% to 50% (Berlit and Rakicky, 1992;
+Lyu et al., 1997; Mori et al., 2001; Funakoshi et al.,
+2009; Mori and Kuwabara, 2011; Mori et al., 2012;
+Sekiguchi et al., 2016). These varying proportions
+can be explained in part by different deﬁnitions of
+weakness and disease progression. Our study, conducted in the Netherlands, conﬁrmed the ﬁndings of
+a recent study from Japan, showing that about half
+of the patients with MFS developed limb weakness
+after the ﬁrst week of onset of symptoms (Sekiguchi
+et al., 2016). Respiratory insufﬁciency in the Japanese
+MFS-GBS overlap syndrome requiring ventilatory
+support occurred within the ﬁrst week after onset of
+symptoms (Sekiguchi et al., 2016). This is comparable
+with another study in 45 patients with MFS-GBS
+overlap syndrome, in whom respiratory insufﬁciency
+occurred within 1 week (median 2 days, range 1 to
+6 days) (Funakoshi et al., 2009). The current study
+shows that the same disease dynamics occur in a
+prospective and unbiased cohort of Dutch patients.
+Together, these studies demonstrate that patients presenting with MFS have a considerable risk of disease
+
+MFS-GBS overlap (7 vs. 14 days) but was longer in
+patients with ophthalmoplegic GBS (91 days, p-value
+MFS-GBS overlap vs. ophthalmoplegic GBS = 0.03).
+This observation was conﬁrmed in Kaplan-Meijer analysis between the three groups, with a log rank p-value
+of 0.002. The proportion of patients walking independently at 6 months however was the same for
+MFS-GBS overlap (80%) and ophthalmoplegic GBS
+patients (83%), and in addition all MFS patients were
+able to walk independently.
+
+Discussion
+In our study, 43% of the patients with MFS developed limb weakness and one MFS-GBS overlap patient
+developed respiratory failure. This disease progression
+occurred in the ﬁrst week of onset of symptoms in all
+these cases. We identiﬁed no early characteristics to
+determine which MFS patients are at risk for progression to MFS-GBS overlap syndrome. These ﬁndings
+indicate that at present there are no predictors of disease progression for MFS and that all these patients
+need careful monitoring of the clinical course for at
+least 1 week.
+449
+
+15298027, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12238 by Goteborgs, Wiley Online Library on [02/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Verboon et al.
+
+Journal of the Peripheral Nervous System 22:446–450 (2017)
+
+progression but that this occurs predominantly early
+in the disease course.
+In the current study we deﬁned two subtypes in
+the MFS-GBS spectrum; the MFS-GBS overlap syndrome and ophthalmoplegic GBS. Both subtypes are
+characterized by weakness of the limbs and eye muscles, but the sequence in which these symptoms
+develop differs. Interestingly, our patients with ophthalmoplegic GBS were more severely affected at nadir
+and had poorer outcome than patients with MFS-GBS
+overlap syndrome. Apparently, the site weakness
+appears initially, usually is most severely affected at
+nadir and shows the slowest and incomplete recovery.
+This ﬁnding also gives further support to the hypothesis that GBS and MFS form a continuous spectrum
+in which the MFS-GBS overlap syndrome and ophthalmoplegic GBS are intermediate forms (Wakerley et al.,
+2014).
+Although MFS is considered to have a benign
+course, we found that 63% of untreated and 40%
+of the IVIg treated MFS patients had residual
+symptoms and signs after 6 months follow-up. No
+randomized controlled trial has been performed investigating the efﬁcacy of IVIg or plasma exchange
+in MFS or MFS-GBS overlap syndrome (Overell
+et al., 2007).
+The main limitation of the study is the limited number of patients of speciﬁc subtypes that has inﬂuenced
+the study power to demonstrate risk factors for disease
+progression. The Japanese study investigating the difference between the subtypes in 60 patients, also did
+not identify such risk factors for MFS (Sekiguchi et al.,
+2016).
+
+Acknowledgements
+C. V. and H. B. did conceptualization of the study,
+analysis and interpretation of the data, and drafting
+and revising the manuscript. L. R. has collected data,
+interpretation of the data and revising the manuscript.
+P. A. v. D. interpretation of the data and revising the
+manuscript. B. C. J. has design and conceptualization
+of the study, analysis and interpretation of the data,
+drafting and revising the manuscript.
+
+References
+Berlit P, Rakicky J (1992). The Miller Fisher syndrome. Review of
+the literature. J Clin Neuroophthalmol 12:57–63.
+Blau I, Casson I, Lieberman A, Weiss E (1980). The not-so-benign
+Miller Fisher syndrome: a variant of the Guilain-Barre syndrome. Arch Neurol 37:384–385.
+Funakoshi K, Kuwabara S, Odaka M, Hirata K, Yuki N
+(2009). Clinical predictors of mechanical ventilation in
+Fisher/Guillain-Barre overlap syndrome. J Neurol Neurosurg
+Psychiatry 80:60–64.
+Kuijf ML, van Doorn PA, Tio-Gillen AP, Geleijns K, Ang CW,
+Hooijkaas H, Hop WC, Jacobs BC (2005). Diagnostic value
+of anti-GM1 ganglioside serology and validation of the
+INCAT-ELISA. J Neurol Sci 239:37–44.
+Lyu RK, Tang LM, Cheng SY, Hsu WC, Chen ST (1997).
+Guillain-Barre syndrome in Taiwan: a clinical study of 167
+patients. J Neurol Neurosurg Psychiatry 63:494–500.
+Mori M, Kuwabara S (2011). Fisher syndrome. Curr Treat Options
+Neurol 13:71–78.
+Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T (2001). Clinical
+features and prognosis of Miller Fisher syndrome. Neurology
+56:1104–1106.
+Mori M, Kuwabara S, Yuki N (2012). Fisher syndrome: clinical
+features, immunopathogenesis and management. Expert
+Rev Neurother 12:39–51.
+Overell JR, Hsieh ST, Odaka M, Yuki N, Willison HJ (2007).
+Treatment for Fisher syndrome, Bickerstaff’s brainstem
+encephalitis and related disorders. Cochrane Database
+Syst Rev 1:CD004761. https://doi.org/10.1002/14651858
+.CD004761.pub2.
+Ruts L, Drenthen J, Jongen JL, Hop WC, Visser GH,
+Jacobs BC, van Doorn PA, Dutch GBSSG (2010). Pain
+in Guillain-Barre syndrome: a long-term follow-up study.
+Neurology 75:1439–1447.
+Sekiguchi Y, Mori M, Misawa S, Sawai S, Yuki N, Beppu M,
+Kuwabara S (2016). How often and when Fisher syndrome
+is overlapped by Guillain-Barre syndrome or Bickerstaff brainstem encephalitis? Eur J Neurol 23:1058–1063.
+Wakerley BR, Uncini A, Yuki N, Group GBSC (2014). Guillain-Barre
+and Miller Fisher syndromes – new diagnostic classiﬁcation.
+Nat Rev Neurol 10:537–544.
+
+Disclosure
+P. A. D. received research support from the Prinses
+Beatrix Spierfonds, the GBS-CIDP Foundation International, Baxter Biopharmaceutics, Grifols, and Sanquin
+Plasma Products. P. A. D. conducted the GRAPH
+study in patients with GBS and MFS. B. C. J. received
+research support from the Netherlands Organization for Health Research and Development, Erasmus
+MC, Prinses Beatrix Spierfonds, Stichting Spieren
+voor Spieren, GBS-CIDP Foundation International,
+CSL-Behring, Annexon and Grifols and is the PI of the
+International GBS Outcome Study (IGOS).
+
+450
+
+15298027, 2017, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jns.12238 by Goteborgs, Wiley Online Library on [02/04/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Verboon et al.
+
+

@@ -1,0 +1,140 @@
+Therapeutic Effect of Efgartigimod in Refractory Anti-GQ1b Antibody Syndrome Coexisting with Myasthenia Gravis
+
+Authors: Keiko Watanabe, Seiya Takahashi, Akane Kanda, Takuya Watanabe, Yuki Kakinuma, Satoshi Yano, Ryuta Kinno
+Journal: Frontiers in Immunology, 2025 Jun 10;16:1605985
+PMCID: PMC12185387
+
+ABSTRACT
+
+Anti-GQ1b antibody syndrome comprises autoimmune neurological disorders including Miller Fisher syndrome and Guillain-Barré syndrome variants. Its coexistence with myasthenia gravis is exceptionally rare. This report describes an 84-year-old man presenting with fever, diarrhea, and progressive limb weakness, initially suspected of stroke but diagnosed with GBS based on clinical findings and antibody testing. Despite intravenous immunoglobulin therapy, his condition deteriorated to respiratory failure requiring mechanical ventilation. Bilateral ptosis and eye movement dysfunction emerged, suggesting coexisting myasthenia gravis.
+
+Standard treatments including high-dose methylprednisolone and plasmapheresis provided only partial improvement. The introduction of intravenous efgartigimod (an FcRn antagonist) resulted in remarkable clinical recovery: respiratory function improved within 7 days, enabling ventilator weaning, and limb weakness substantially resolved. Following a second efgartigimod cycle, the patient regained speech and independent mobility.
+
+INTRODUCTION
+
+Anti-GQ1b antibody syndrome represents "a spectrum of autoimmune neurological disorders characterized by the presence of immunoglobulin G (IgG) antibodies targeting GQ1b gangliosides." These conditions include Miller Fisher syndrome, Guillain-Barré syndrome with ophthalmoplegia, Bickerstaff brainstem encephalitis, and acute ophthalmoplegia without ataxia.
+
+The simultaneous occurrence of both anti-GQ1b antibody syndrome and myasthenia gravis is documented but exceptionally uncommon, presenting diagnostic complexity and therapeutic challenges.
+
+CASE PRESENTATION
+
+Clinical Course:
+
+An 84-year-old Japanese man initially presented with fever and diarrhea. Four days later, he developed right upper extremity weakness, prompting neurosurgical evaluation. Progressive weakness in remaining limbs followed, necessitating neurology department transfer on day 3.
+
+Initial Examination Findings:
+- Oxygen saturation: 97% (room air)
+- Manual muscle testing: Grade 0 (upper and lower extremities)
+- Absent tendon reflexes
+- Reduced touch sensation in extremities
+- Intact vibratory sensation
+- Normal cranial nerve examination
+
+Laboratory Results:
+- Elevated creatinine: 1.21 mg/dL
+- Elevated C-reactive protein: 2.90 mg/dL
+- Anti-acetylcholine receptor antibodies: 0.6 nmol/L (positive)
+- Anti-MuSK antibodies: <0.02 nmol/L (negative)
+
+Serological Testing:
+ELISA demonstrated serum IgG reactivity with GM1, GD1a, GQ1b, and GalNAc–GD1a complexes with phosphatidic acid.
+
+Cerebrospinal Fluid Analysis:
+- Cell count: 0/μL
+- Protein: 27 mg/dL
+- Glucose: 81 mg/dL
+- Chloride: 125 mEq/L
+- Oligoclonal bands: negative
+- IgG index: 0.49
+
+Nerve Conduction Studies:
+Motor nerve conduction studies showed no evoked potentials for the bilateral median, ulnar, and tibial nerves with preserved sensory responses, indicating axonal GBS.
+
+Treatment Timeline:
+
+Day 3: Intravenous immunoglobulin therapy initiated (0.4 g/kg/day for 5 days) based on initial GBS diagnosis.
+
+Day 4: Clinical deterioration with dysphasia and respiratory failure (PaO2: 58.8 mmHg, PaCO2: 55.5 mmHg). Mechanical ventilation initiated.
+
+Day 6: Bilateral ptosis, eye movement dysfunction, and neck weakness emerged; edrophonium (Tensilon) test positive, indicating neuromuscular junction dysfunction.
+
+Day 12: Intravenous methylprednisolone (1 g/day for 3 days) for coexisting myasthenia gravis. Gradual improvement in ptosis and eye movement dysfunction.
+
+Day 16: Immunoadsorption plasmapheresis therapy initiated. After seven sessions, neck weakness showed mild improvement, though limb weakness and respiratory failure persisted.
+
+Day 41: First intravenous efgartigimod cycle commenced (10 mg/kg/week, four infusions per cycle).
+
+Days 41-72: Progressive improvement in lower extremity weakness (reaching grade 3) and upper extremity weakness (reaching grade 1); respiratory function improved sufficiently to discontinue mechanical ventilation.
+
+Post-second efgartigimod cycle: Patient regained speech capabilities with speech valve and achieved independent mobility.
+
+Day 187: Transfer to rehabilitation facility.
+
+Antibody Response to Treatment:
+
+| Antibody | Before treatment | After IVIG | After IAPP | After efgartigimod |
+|----------|------------------|-----------|------------|-------------------|
+| GM1 | +++ | +++ | ++ | − |
+| GD1a | +++ | +++ | ++ | − |
+| GQ1b | + | ++ | − | − |
+| GalNAc–GD1a | ++ | +++ | − | − |
+| Anti-AChR (nmol/L) | 0.6 | 0 | 0 | 0 |
+| Serum IgG (mg/dL) | 1449 | N/A | 818 | 597 |
+
+DISCUSSION
+
+Diagnostic Complexity:
+
+This case presented overlapping features characteristic of multiple anti-GQ1b antibody spectrum conditions. The patient's positive anti-GQ1b antibody status combined with typical brainstem encephalitis manifestations suggested Bickerstaff brainstem encephalitis diagnosis. Additionally, positive status for anti-GM1, anti-GD1a, and GalNAc–GD1a antibodies and nonreactive motor nerve-conduction study results with preserved sensory nerve action potentials indicated axonal GBS.
+
+Myasthenia Gravis Diagnosis Challenges:
+
+The concurrent myasthenia gravis diagnosis relied on clinical features including ptosis and eye movement dysfunction, positive anti-acetylcholine receptor antibodies, and positive tensilon test. However, the relatively low antibody titer (0.6 nmol/L) may represent nonspecific reactivity.
+
+Rarity of Combined Presentation:
+
+The statistical probability of GBS and myasthenia gravis occurring together is estimated below 1 in 10 billion. The incidence of GBS independently is 0.4–1.7 per million annually, while myasthenia gravis affects 10–20 per million annually.
+
+Treatment Response Analysis:
+
+IVIG Response: The patient's worsening condition following IVIG may reflect poor response associated with anti-GM1 antibodies and axonal damage severity.
+
+Plasmapheresis Limitations: While seven sessions were conducted, persistent limb weakness and respiratory failure suggested inadequate benefit. Plasmapheresis may paradoxically increase antibody concentrations through rebound synthesis in certain myasthenia gravis cases.
+
+Efgartigimod Efficacy: The dramatic improvement following efgartigimod distinguishes this agent from conventional therapies. The drug functions as a neonatal Fc receptor antagonist, competitively inhibiting IgG autoantibody binding to FcRn, thereby promoting their lysosomal degradation. "Repeated administration of efgartigimod has been reported to reduce total IgG levels by approximately 75% from baseline across all IgG1–4 subclasses."
+
+Literature Review of Efgartigimod in GBS:
+
+Six documented cases of efgartigimod use for GBS:
+
+| Case | Age/Sex | Diagnosis | Timing | Antibody Changes | Serum IgG Change |
+|------|---------|-----------|--------|-----------------|-----------------|
+| 1 | 56M | AMAN | Day 13 | GT1a/GD3: ↓ | 20.2→6.71 g/L |
+| 2 | 54M | MFS-GBS overlap | Day 7 | Multiple: ↓ | 16.2→9.62 g/L |
+| 3 | 27M | MFS-GBS overlap | Day 25 | GQ1b: ↓ | 51.9→10.7 g/L |
+| 4 | 81F | GBS | Day 1 | Negative | 52% reduction |
+| 5 | 65F | GBS | Day 2 | Not collected | 30% reduction |
+| 6 | 58M | AMAN | ~1 month | Negative | Not available |
+
+Five of six cases demonstrated IgG reduction; three had confirmed anti-ganglioside antibodies with documented decreases following efgartigimod.
+
+Mechanism in Combined Pathology:
+
+Both ganglioside and acetylcholine receptor antibodies represent IgG autoantibodies with structural similarities. Consequently, efgartigimod's mechanism potentially benefits both anti-GQ1b antibody syndrome and myasthenia gravis through uniform IgG reduction.
+
+Clinical Advantages of Efgartigimod:
+
+1. Supply consistency: Unlike immunoglobulin products limited by volunteer blood donor availability, efgartigimod supply remains reliable.
+2. Speed of action: Achieves effects comparably quickly to plasmapheresis despite being minimally invasive.
+3. Tolerability: Administration simplicity enables expedited rehabilitation.
+
+Limitations:
+
+The authors acknowledge inability to definitively establish whether respiratory failure stemmed from myasthenia gravis or GBS components. Natural disease course cannot be excluded as contributing to observed improvement, particularly given the 40+ day treatment interval before efgartigimod introduction.
+
+CONCLUSION
+
+This case demonstrates that efgartigimod administration can produce rapid, substantial clinical improvement in refractory overlapping autoimmune neuromuscular syndromes, particularly when conventional immunotherapies prove inadequate. The documented disappearance of both anti-ganglioside and anti-AChR antibodies following treatment provides mechanistic support for efgartigimod's efficacy across overlapping autoimmune conditions sharing IgG-mediated pathophysiology.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC12185387/

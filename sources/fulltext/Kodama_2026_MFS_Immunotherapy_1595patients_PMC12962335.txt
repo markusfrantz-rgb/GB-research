@@ -1,0 +1,273 @@
+# Complete Fulltext: Overview of Immunotherapy Administration for Miller Fisher Syndrome in Japan
+
+## Title
+Overview of Immunotherapy Administration for Miller Fisher Syndrome in Japan: A Nationwide Retrospective Cohort Study
+
+## Authors
+Satoshi Kodama, Mitsuhiro Kainaga, Shotaro Aso, Taisuke Jo, Yohei Hashimoto, Hiroki Matsui, Hideo Yasunaga, Yuichiro Shirota, Masashi Hamada, Kiyohide Fushimi, Tatsushi Toda
+
+**Affiliations:**
+1. Department of Neurology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
+2. Department of Neurology, University of Iowa Hospital and Clinics, Iowa City, Iowa, USA
+3. Department of Health Services Research, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
+4. Department of Clinical Epidemiology and Health Economics, School of Public Health, The University of Tokyo, Japan
+5. Save Sight Institute, The Faculty of Medicine and Health, The University of Sydney, Sydney, Australia
+6. Department of Clinical Laboratory Medicine, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
+7. Department of Health Policy and Informatics, Institute of Science Tokyo Graduate School, Tokyo, Japan
+
+**Journal:** Annals of Clinical Epidemiology, 2025 Jun 20;8(1):10–17
+**DOI:** 10.37737/ace.26002
+**PMCID:** PMC12962335
+
+---
+
+## Abstract
+
+### Introduction
+Miller Fisher syndrome (MFS) exhibits "typically a benign course and spontaneous recovery." However, practitioners often administer immunotherapies including intravenous immunoglobulin (IVIG) and plasma exchange (PE) due to deterioration risks. This study evaluated real-world immunotherapy utilization for MFS management using nationwide Japanese database records.
+
+### Methods
+The researchers conducted a retrospective cohort analysis spanning April 2014 through March 2020 using the Japanese Diagnosis Procedure Combination database. Patient demographics and treatment modalities were documented. Primary outcomes encompassed hospital length of stay, in-hospital mortality, hospitalization expenses, and activities of daily living measured via Barthel index scores.
+
+### Results
+Among 1,595 identified MFS patients, 999 (62.6%) received immunotherapy. Treatment breakdown: IVIG (908, 56.9%), intravenous methylprednisolone (219, 13.7%), and PE (18, 1.8%). Immunotherapy recipients showed median hospitalization duration of 18 days versus 12 days for non-recipients. In-hospital mortality rates were 0.7% and 0.2% respectively. Median hospitalization costs were ¥1,660,200 versus ¥549,375. Barthel index scores at discharge (95–100) were similar: 75.3% and 75.2%.
+
+### Conclusion
+The investigation demonstrates "widespread use of immunotherapies for MFS in Japan despite its generally favorable natural course."
+
+**Keywords:** Guillain–Barré syndrome, Bickerstaff's brainstem encephalitis, intravenous immunoglobulin, plasma exchange
+
+---
+
+## Introduction
+
+Miller Fisher syndrome (MFS) constitutes "a rare subgroup of Guillain–Barré syndrome (GBS), an acute immune-mediated neuropathy." The condition displays characteristic features including acute external ophthalmoplegia, ataxia, and areflexia, typically emerging following upper respiratory tract infections. Symptom progression generally occurs within 1–2 weeks with frequent spontaneous improvement.
+
+However, certain cases deteriorate into severe manifestations like Bickerstaff's brainstem encephalitis, marked by consciousness impairment and cranial nerve dysfunction. MFS shares clinical characteristics and anti-ganglioside antibodies (particularly anti-GQ1b) with both GBS and Bickerstaff's brainstem encephalitis.
+
+Immunotherapies including IVIG and PE serve as standard treatments during acute GBS and Bickerstaff's brainstem encephalitis phases. For MFS specifically, immunotherapy administration becomes recommended "when the condition of the patient deteriorates." Multiple investigations have attempted identifying MFS deterioration predictors; however, "standardized criteria for the initiation of immunotherapy remain elusive." Consequently, clinical decision-making primarily reflects individual practitioner discretion.
+
+Since immunotherapies carry substantial costs and potential risks, their appropriate utilization remains critical for optimal care delivery and resource management. The authors employed national inpatient database information to examine immunotherapy implementation for MFS management, assessing real-world treatment patterns to identify necessary improvements in clinical decision-making.
+
+---
+
+## Methods
+
+### Study Design and Data Source
+This retrospective cohort investigation utilized the Japanese Diagnosis Procedure Combination database, encompassing "inpatient administrative and discharge abstract claims from >1,200 hospitals" representing "more than 50% of hospitalized patients who have undergone acute care." The database contains primary diagnoses, admission comorbidities, hospital-acquired conditions documented via ICD-10 codes, and text data alongside patient information including age, sex, body measurements, smoking status, Barthel index scores, pharmaceutical records, treatment documentation, discharge status, and hospital identifiers.
+
+Diagnostic accuracy validation demonstrated "sensitivity and specificity of the primary diagnoses were 50–80% and 96%, respectively."
+
+### Patient Identification
+Researchers identified patients with primary discharge diagnoses of "Miller-Fisher syndrome" or "Fisher syndrome" (ICD-10: G61.0 with Japanese diagnostic text) between April 2014 and March 2020. Data collection focused on immunotherapy administration including IVIG, PE, and intravenous methylprednisolone.
+
+### Variables and Categorization
+**Age Groups:** ≤19, 20–39, 40–59, 60–79, and ≥80 years
+
+**Consciousness Assessment:** The Japan Coma Scale categorized as 0 (fully alert), 1-digit (awake without stimuli), 2-digit (aroused by stimuli), and 3-digit (unarousable)
+
+**Functional Status:** Barthel index recorded activities of daily living at admission, with higher scores indicating preserved capacity. Categories: 95–100 (independent), 65–90, 25–60, and 0–20
+
+**Hospital Classification:** Academic (university hospitals) versus non-academic institutions
+
+**Admission Type:** Planned versus unplanned admissions
+
+### Outcome Measures
+Primary outcomes evaluated included hospital length of stay, in-hospital mortality, total hospitalization costs, Japan Coma Scale scores at discharge, Barthel index scores at discharge, and Barthel index score changes between admission and discharge. Variability assessment across facilities calculated immunotherapy proportions for hospitals managing five or more MFS cases.
+
+### Statistical Analysis
+Categorical variables appear as numbers and percentages, compared via Fisher's exact test. Continuous variables were analyzed using Student's t-test or Mann–Whitney U test, presented as mean/standard deviation or median/interquartile range. Stata software (version 17.0) performed all analyses with P < 0.05 significance threshold (two-tailed testing).
+
+### Ethics
+The University of Tokyo Institutional Review Board approved the investigation (approval number: 3501-(5)). Patient consent requirements were waived due to data anonymity.
+
+---
+
+## Results
+
+### Patient Identification and Treatment Distribution
+Among 25,438 patients with ICD-10 code G61.0 (GBS), 1,595 (6.3%) carried specific MFS diagnoses. Of these, 999 (62.6%) underwent immunotherapy: IVIG (908, 56.9%), intravenous methylprednisolone (219, 13.7%), and PE (18, 1.8%).
+
+Treatment combinations included monotherapy (762 IVIG alone, 77 methylprednisolone alone, 11 PE alone), dual therapy (132 IVIG + methylprednisolone, 7 IVIG + PE, 3 methylprednisolone + PE), and triple therapy (7 IVIG + methylprednisolone + PE).
+
+### Baseline Characteristics (Table 1)
+
+No significant differences emerged between immunotherapy and non-immunotherapy groups regarding age, sex, body mass index, Japan Coma Scale scores, Barthel index scores, smoking status, or documented comorbidities.
+
+Notable differences included:
+- **Unplanned admissions:** 86.9% (immunotherapy) versus 74.3% (non-immunotherapy), P < 0.001
+- **Academic hospital admissions:** 37.7% versus 27.7%, P < 0.001
+
+### Hospital-Level Immunotherapy Variation (Figure 1)
+
+Among 75 hospitals treating ≥5 MFS cases (5.3% of all hospitals managing MFS), immunotherapy administration patterns varied considerably:
+- 42.9% provided immunotherapy to >80% of MFS patients
+- 4.0% provided therapy to <20% of patients
+- Substantial variation suggested inconsistent treatment approaches across facilities
+
+### Interventions and Examinations (Table 2)
+
+Immunotherapy recipients underwent significantly more intensive procedures:
+
+**Tracheal Intubation/Mechanical Ventilation:**
+- During hospitalization: 2.3% versus 0.2%, P = 0.001
+- Within 5 days: 1.6% versus 0.2%, P = 0.007
+
+**Tracheotomy:**
+- During hospitalization: 1.4% versus 0%, P = 0.004
+- Within 30 days: 1.3% versus 0%, P = 0.005
+
+**Other Interventions:**
+- Antibiotic use: 17.0% versus 7.9%, P < 0.001
+- Intensive care unit stays during hospitalization: 3.4% versus 0.2%, P < 0.001
+- ICU stays within 5 days: 2.3% versus 0.2%, P = 0.001
+
+**Diagnostic Procedures:**
+- Lumbar puncture: 75.5% versus 62.8%, P < 0.001
+- Electromyography: 71.4% versus 55.0%, P < 0.001
+
+**Initial Diagnoses:**
+- Guillain–Barré syndrome diagnosis at admission: 2.6% versus 0.8%, P = 0.014
+
+### Hospitalization Outcomes (Table 3)
+
+**Length of Stay:**
+Immunotherapy recipients demonstrated significantly longer hospitalizations: median 18 days (interquartile range 13–29) versus 12 days (8–21), P < 0.001
+
+**Hospitalization Costs:**
+Median total costs: ¥1,660,200 (immunotherapy) versus ¥549,375 (non-immunotherapy), P < 0.001
+
+**Mortality:**
+In-hospital death rates showed no significant difference: 0.7% versus 0.2%, P = 0.145
+
+**Consciousness at Discharge:**
+Japan Coma Scale score of 0 (fully alert): 97.5% versus 97.3%, P = 0.981
+
+**Functional Status at Discharge:**
+Barthel index score of 95–100 (independent ADL): 75.3% versus 75.2%, P = 0.219
+
+**Functional Changes During Hospitalization:**
+Both groups exhibited similar patterns:
+- Both 95–100 at admission and discharge: 44.6% and 47.0%
+- Improved by ≥5 points: 30.4% and 29.2%
+- Unchanged: 3.5% and 4.4%
+- Deteriorated by ≥5 points: 4.1% and 4.2%
+
+Most patients achieved favorable outcomes regardless of immunotherapy receipt.
+
+---
+
+## Discussion
+
+### Primary Finding
+Investigation revealed that "62.6% of the patients with MFS in Japan received immunotherapy." Most patients attained independent activities of daily living at discharge irrespective of immunotherapy utilization, indicating generally favorable prognosis. Though unadjusted comparisons, immunotherapy recipients experienced prolonged hospitalizations and elevated costs without demonstrable mortality or functional advantages.
+
+### Comparison with Prior Literature
+The authors noted previous studies suggesting "MFS follows a generally favorable natural course." One retrospective analysis of 92 MFS patients (28 receiving IVIG, 23 receiving PE, 41 untreated) revealed "no differences in the improvement of external ophthalmoplegia and ataxia among the treatment groups," supporting favorable outcomes. Another investigation tracking 50 consecutive MFS patients documented that "ataxia resolved within an average of 1 month, external ophthalmoplegia resolved within 3 months," with only two experiencing persistent diplopia at 6-month follow-up. The present findings underscore "the prevalent use of immunotherapies in MFS management despite the potential for spontaneous recovery in most cases."
+
+### Severity and Clinical Decision-Making
+The researchers hypothesized that individualized clinical presentations influenced immunotherapy decisions. Despite comparable baseline characteristics between groups, immunotherapy recipients required significantly more intensive interventions including intubation, tracheotomy, antibiotics, and ICU admission, suggesting "a severe clinical course in this group." Japanese clinical guidelines recommend considering immunotherapy "in patients with rapid-onset complete external ophthalmoplegia." However, administrative databases lack specific clinical details. Unmeasured severity-related factors influenced immunotherapy initiation decisions.
+
+### Prognosis and Comparative Outcomes
+The cohort demonstrated generally favorable MFS outcomes: 75% achieved independent ADL, with only 4.1% experiencing deteriorated ADL during hospitalization. This compared somewhat less favorably than prior reports documenting "complete recovery" in most patients. The authors attributed this discrepancy partly to shorter observation periods; median hospitalization lasted 16 days potentially missing some spontaneous recoveries occurring post-discharge.
+
+Critically, "no significant differences in in-hospital death, ADL at discharge, level of consciousness at discharge, and changes in ADL were observed between the immunotherapy and non-immunotherapy groups." Since immunotherapy was administered to patients displaying greater initial severity, these comparable outcomes suggest immunotherapy "may have contributed to clinical recovery despite greater initial severity." However, findings require cautious interpretation given inability to adjust for confounding variables.
+
+### Resource Considerations and Practice Patterns
+Observations that most hospitals administered immunotherapy to ">80% of patients with MFS" indicated "its widespread use as a de facto standard in many medical facilities in Japan." Given that "immunotherapies such as IVIG and PE rely heavily on substantial human blood resources and incur high medical costs," and noting "the increasing demand for these treatments has led to a shortage of immunoglobulin products," the authors suggested immunotherapy merits reservation "for patients who present with severe neurological symptoms and those at high risk for deterioration, including progression to GBS or Bickerstaff's brainstem encephalitis."
+
+### Study Limitations
+Several limitations warrant acknowledgment:
+
+1. **Diagnostic Accuracy:** Administrative databases designed for non-research purposes may contain inaccurate MFS diagnoses. Some cohort members exhibited atypical presentations including consciousness impairment and respiratory failure requiring mechanical ventilation or tracheotomy, suggesting "differentiating MFS from GBS or Bickerstaff's brainstem encephalitis can be challenging in some patients, potentially influencing the decision to administer immunotherapy."
+
+2. **Missing Clinical Variables:** Database lacks detailed neurological findings, respiratory function measurements, and admitting department information, preventing necessary background adjustments for outcome comparisons. This limitation "highlights the need for future prospective studies incorporating detailed measures of disease severity to accurately evaluate the effectiveness of immunotherapy for MFS."
+
+3. **Observational Design:** Without randomization or adequate adjustment, causal inference regarding immunotherapy effectiveness remains uncertain.
+
+Despite limitations, the investigation assembled "large-scale nationwide data on MFS, which is a relatively rare condition, highlighting the widespread use of immunotherapies for MFS in Japan despite its generally favorable natural course."
+
+---
+
+## Conclusion
+
+Although Miller Fisher syndrome demonstrates "a self-limiting clinical course and favorable neurological outcomes," immunotherapies including "IVIG, PE, and intravenous methylprednisolone are widely used for this condition in Japan." This widespread adoption occurs despite the condition's generally benign natural history, suggesting opportunities for refining immunotherapy selection criteria and promoting resource conservation through more selective patient targeting.
+
+---
+
+## Tables
+
+### Table 1: Treatment and Demographic Characteristics of Patients with Miller Fisher Syndrome
+
+| Variable | Overall (N=1,595) | Without Immunotherapy (N=596) | With Immunotherapy (N=999) | P |
+|----------|-------------------|-------------------------------|---------------------------|-----|
+| **Immunotherapy, N (%)** | | | | |
+| IVIG | 908 (56.9) | — | 908 (90.9) | |
+| IVMP | 219 (13.7) | — | 219 (21.9) | |
+| PE | 18 (1.8) | — | 18 (2.9) | |
+| **Monotherapy** | | | | |
+| IVIG alone | 762 (47.8) | — | 762 (76.3) | |
+| IVMP alone | 77 (4.8) | — | 77 (7.7) | |
+| PE alone | 11 (0.7) | — | 11 (1.1) | |
+| **Dual Therapy** | | | | |
+| IVIG + IVMP | 132 (8.3) | — | 132 (13.2) | |
+| IVIG + PE | 7 (0.4) | — | 7 (0.7) | |
+| IVMP + PE | 3 (0.2) | — | 3 (0.3) | |
+| **Triple Therapy** | | | | |
+| IVIG + IVMP + PE | 7 (0.4) | — | 7 (0.7) | |
+| **Age (years), N (%)** | | | | 0.343 |
+| ≤19 | 52 (3.3) | 14 (2.4) | 38 (3.8) | |
+| 20–39 | 349 (21.9) | 141 (23.7) | 208 (20.8) | |
+| 40–59 | 539 (33.8) | 193 (32.4) | 346 (34.6) | |
+| 60–79 | 576 (36.1) | 217 (36.4) | 359 (35.9) | |
+| ≥80 | 79 (5.0) | 31 (5.2) | 28 (4.8) | |
+| **Sex (female), N (%)** | 672 (42.1) | 244 (40.9) | 428 (42.8) | 0.456 |
+| **Unplanned Admission, N (%)** | | | | |
+| Admission from home, % | 1,311 (82.2) | 443 (74.3) | 868 (86.9) | <0.001 |
+| **Academic Hospital, N (%)** | 542 (34.0) | 165 (27.7) | 377 (37.7) | <0.001 |
+
+### Table 2: Overview of Intervention and Examination
+
+| Variable | Overall (N=1,595) | Without Immunotherapy (N=596) | With Immunotherapy (N=999) | P |
+|----------|-------------------|-------------------------------|---------------------------|-----|
+| **Tracheal Intubation/Mechanical Ventilation** | | | | |
+| During hospitalization | 24 (1.5) | 1 (0.2) | 23 (2.3) | 0.001 |
+| Within 5 days of admission | 17 (1.1) | 1 (0.2) | 16 (1.6) | 0.007 |
+| **Tracheotomy** | | | | |
+| During hospitalization | 14 (0.9) | 0 (0.0) | 14 (1.4) | 0.004 |
+| Within 30 days of admission | 13 (0.8) | 0 (0.0) | 13 (1.3) | 0.005 |
+| **Antibiotic Use** | 217 (13.6) | 47 (7.9) | 170 (17.0) | <0.001 |
+| **ICU Stay** | | | | |
+| During hospitalization | 35 (2.2) | 1 (0.2) | 34 (3.4) | <0.001 |
+| **Lumbar puncture** | 1,128 (70.7) | 374 (62.8) | 754 (75.5) | <0.001 |
+| **Electromyogram** | 1,041 (65.3) | 328 (55.0) | 713 (71.4) | <0.001 |
+
+### Table 3: Outcomes of Patients with Miller Fisher Syndrome
+
+| Variable | Overall (N=1,595) | Without Immunotherapy (N=596) | With Immunotherapy (N=999) | P |
+|----------|-------------------|-------------------------------|---------------------------|-----|
+| **Length of Hospital Stay, days (IQR)** | 16 (11–26) | 12 (8–21) | 18 (13–29) | <0.001 |
+| **In-Hospital Death, N (%)** | 8 (0.5) | 1 (0.2) | 7 (0.7) | 0.145 |
+| **Total Medical Cost, Median, JPY** | 1,457,570 | 549,375 | 1,660,200 | <0.001 |
+| **Barthel Index 95–100 at Discharge, N (%)** | 1,200 (75.2) | 448 (75.2) | 752 (75.3) | 0.219 |
+
+---
+
+## Funding
+This work was supported by grants from the Ministry of Health, Labor and Welfare, Japan (23AA2003 and 24AA2006).
+
+## References
+
+1. Mori M, Kuwabara S. Fisher syndrome. Curr Treat Options Neurol 2011;13:71–78.
+2. Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T. Clinical features and prognosis of Miller Fisher syndrome. Neurology 2001;56:1104–1106.
+3. Mori M, Kuwabara S, Fukutake T, Hattori T. Intravenous immunoglobulin therapy for Miller Fisher syndrome. Neurology 2007;68:1144–1146.
+4. Japanese Society of Neurology. Practical guideline for Guillain Barre syndrome and Fisher syndrome 2013. Tokyo: Nankodo Co, Ltd; 2013.
+5. Sekiguchi Y, Mori M, Misawa S, et al. How often and when Fisher syndrome is overlapped by Guillain–Barré syndrome or Bickerstaff brainstem encephalitis? Eur J Neurol 2016;23:1058–1063.
+6. Verboon C, van Berghem H, van Doorn PA, Ruts L, Jacobs BC. Prediction of disease progression in Miller Fisher and overlap syndromes. J Peripher Nerv Syst 2017;22:446–450.
+7. Gold R, Stangel M, Dalakas MC. Drug Insight: the use of intravenous immunoglobulin in neurology. Nat Clin Pract Neurol 2007;3:36–44.
+8. Yasunaga H, Matsui H, Horiguchi H, Fushimi K, Matsuda S. Clinical epidemiology and health services research using the diagnosis procedure combination database in Japan. Asian Pac J Dis Manag 2015;7:19–24.
+9. Yamana H, Matsui H, Sasabuchi Y, Fushimi K, Yasunaga H. Categorized diagnoses and procedure records improved mortality prediction. J Clin Epidemiol 2015;68:1028–1035.
+10. Yamana H, Moriwaki M, Horiguchi H, et al. Validity of diagnoses, procedures, and laboratory data in Japanese administrative data. J Epidemiol 2017;27:476–482.
+11. Nakajima M, Okada Y, Sonoo T, Goto T. Development and validation of a novel method for converting the Japan Coma Scale to Glasgow Coma Scale. J Epidemiol 2023;33:531–535.
+12. Shigematsu K, Nakano H, Watanabe Y. The eye response test alone is sufficient to predict stroke outcome. BMJ Open 2013;3:e002736.
+13. Roth K, Darwish C, Keller MD, et al. Implementation of a tier system for IVIG indications to address IVIG shortage. Pediatr Blood Cancer 2024;71:e30871.

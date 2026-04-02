@@ -1,0 +1,81 @@
+Miller Fisher Syndrome, Bickerstaff Brainstem Encephalitis and Guillain-Barré Syndrome Overlap with Persistent Non-Demyelinating Conduction Blocks: A Case Report
+
+Authors: Angela Puma, Jeanne Benoit, Sabrina Sacconi, Antonino Uncini
+Journal: BMC Neurology, 2018 Jul 21;18:101
+DOI: 10.1186/s12883-018-1104-6
+PMCID: PMC6054855
+
+ABSTRACT
+
+This case describes a 61-year-old male who developed a rare triple overlap of three related neurological conditions following Mycoplasma pneumoniae infection. The patient presented with ophthalmoplegia, ataxia, and areflexia consistent with Miller Fisher syndrome (MFS), but rapidly deteriorated with severe weakness and altered consciousness indicating overlap with Bickerstaff's Brainstem Encephalitis (BBE) and axonal Guillain-Barré syndrome (GBS).
+
+Testing revealed elevated anti-GQ1b antibodies (1:2560), supporting the diagnosis. Initial nerve conduction studies showed severely reduced responses without demyelinating features, suggesting poor prognosis. However, serial electrophysiological studies over months revealed an unusual pattern: persistent motor conduction blocks (CBs) that resolved without developing temporal dispersion.
+
+The authors propose this pattern reflects sustained antibody-mediated nodal dysfunction rather than demyelination. Treatment with repeated intravenous immunoglobulin (IVIg) courses corresponded with clinical recovery. This case demonstrates how serial electrophysiology can illuminate underlying pathophysiology and guide treatment decisions.
+
+BACKGROUND
+
+Miller Fisher Syndrome and Bickerstaff's Brainstem Encephalitis were independently described in the 1950s. Both conditions followed preceding infections and presented with ophthalmoplegia and ataxia, though MFS featured areflexia suggesting peripheral nerve involvement while BBE included altered consciousness and hyperreflexia indicating central nervous system pathology.
+
+The early 1990s discovery of anti-GQ1b IgG antibodies in both conditions revealed they represent "part of the same disease spectrum, later referred to as anti-GQ1b antibody syndrome." Patients developing limb weakness overlapping with GBS or drowsiness overlapping with BBE further supported this unified immunological framework.
+
+CASE PRESENTATION
+
+A 61-year-old man acutely developed diplopia and balance disturbance. Within 24 hours, ascending paresthesias and emerging tetraparesis warranted hospitalization. By day 4, examination revealed a drowsy patient with complete ophthalmoplegia, areflexia, and severe tetraparesis.
+
+Laboratory Findings:
+- Cerebrospinal fluid: normal
+- IgM to Mycoplasma pneumoniae: positive
+- IgG anti-GQ1b: 1:2560 (elevated)
+- Anti-GM1, GD1a, GD1b, GM2: negative
+- Brain MRI (with gadolinium): normal
+- Neurofascin155, Contactin1, Contactin-associated protein1 antibodies: negative
+
+Clinical Course:
+
+The patient received initial IVIg (0.4 g/kg/day for 5 days) but deteriorated to complete ophthalmoplegia, tetraplegia, and coma requiring mechanical ventilation.
+
+A second IVIg course on day 24 led to improvement. He was extubated on day 41 and transferred to rehabilitation on day 57 with partial ophthalmoplegia resolution and limited strength recovery (MRC scale: 2-3/5 lower limbs, 2/5 upper limbs).
+
+Five months post-onset, anti-GQ1b IgG remained elevated (1:2560).
+
+A third IVIg course began on day 179. By day 240, the patient showed recovered muscle strength except right upper limb (3-4/5) and mild gait ataxia.
+
+SERIAL NERVE CONDUCTION STUDIES
+
+Day 4: CMAPs were non-recordable or severely reduced with slightly prolonged distal motor latencies and normal conduction velocities. SNAPs showed reduced amplitudes or were non-recordable.
+
+Day 72: Distal CMAPs previously undetectable appeared at 5.3 and 2.6 mV in median nerves and 1.1 mV in left ulnar nerve. Right ulnar CMAP amplitude increased 512%. Critically, partial conduction blocks emerged in intermediate nerve segments with amplitude decrements ranging 30.2-73%, without abnormal temporal dispersion. Motor conduction velocities were slowed.
+
+Day 128: Distal CMAP amplitudes further increased. Partial conduction blocks improved in intermediate segments though persisted with low amplitudes in peroneal nerves.
+
+Day 240: Distal CMAPs normalized in most nerves. Conduction blocks resolved except for one emerging partial block in left peroneal nerve's intermediate segment. Some slowing persisted. SNAP amplitudes remained reduced.
+
+DISCUSSION AND CONCLUSIONS
+
+GQ1b gangliosides concentrate "in the nodal and paranodal regions of the oculomotor nerves, muscle spindle afferents, peripheral nerves and possibly in the brainstem reticular formation." Anti-GQ1b antibodies may therefore explain the complex symptomatology spanning peripheral and central nervous system involvement.
+
+The triple overlap of MFS, BBE, and GBS occurs in approximately 15% and 12% of cases respectively, but triple overlap remains rare. Mycoplasma pneumoniae infection has previously been documented preceding all three conditions.
+
+Critical Finding: The persistent conduction blocks lasting 4-7 months without excessive temporal dispersion (which would indicate demyelination) suggest weakness resulted from "a sustained, antibody-mediated attack at the nodal region inducing a non-demyelinating conduction failure." This represents an "acute onset, long lasting, nodopathy" rather than classical demyelinating disease.
+
+The authors propose that improving distal conduction blocks revealed pre-existing proximal blocks. Alternatively, persistent anti-GQ1b antibody elevation (5 months post-onset) may have caused new blocks at proximal sites, possibly aided by blood-nerve barrier disruption.
+
+The slowed motor conduction velocities without demyelination can be explained by "inactivation of Nav channels" reducing conduction velocity even to demyelinating ranges, an effect documented with sodium channel blockade agents.
+
+Key Clinical Implication: Serial electrophysiology proved invaluable:
+- The second study permitted more accurate prognostication
+- Persistent conduction blocks on the third study justified a third IVIg course
+- This potentially accelerated recovery and prevented further axonal degeneration
+
+The distinction between nodopathy and demyelination matters therapeutically: nodopathy is potentially reversible with timely immunotherapy, whereas established axonal degeneration requires prolonged recovery through nerve regeneration.
+
+KEY REFERENCES
+
+1. Fisher M. (1956). An unusual variant of acute idiopathic polyneuritis. NEJM, 255:57-65.
+2. Bickerstaff ER. (1957). Brain-stem encephalitis. BMJ, 1:1384-1387.
+3. Chiba A, et al. (1992). Serum IgG antibody to ganglioside GQ1b. Ann Neurol, 31:677-679.
+4. Uncini A, Susuki K, Yuki N. (2013). Nodo-paranodopathy: beyond the demyelinating and axonal classification. Clin Neurophysiol, 124:1928-1934.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC6054855/

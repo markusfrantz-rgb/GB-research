@@ -1,0 +1,139 @@
+Takotsubo Cardiomyopathy in Bickerstaff Brainstem Encephalitis Triggered by COVID-19
+
+Authors: Mizuki Kimura, Shunta Hashiguchi, Kenichi Tanaka, Manato Hagiwara, Keita Takahashi, Yosuke Miyaji, Hideto Joki, Hiroshi Doi, Michiaki Koga, Hideyuki Takeuchi, Fumiaki Tanaka
+Affiliations: Department of Neurology and Stroke Medicine, Yokohama City University Graduate School of Medicine; Department of Neurology and Clinical Neuroscience, Yamaguchi University Graduate School of Medicine
+Journal: Frontiers in Neurology, 2021 Dec 24;12:822247
+DOI: 10.3389/fneur.2021.822247
+PMCID: PMC8741194
+
+ABSTRACT
+
+Takotsubo cardiomyopathy (TCM) represents a stress-induced form of cardiomyopathy triggered by critical illness including severe neurological disorders. However, associations between TCM and Bickerstaff brainstem encephalitis (BBE) remain rare in medical literature. During the COVID-19 pandemic, evidence indicates that COVID-19 often leads to various neurological disorders, yet few reports document associations between COVID-19 and BBE. This case describes TCM associated with BBE triggered by COVID-19, which responded to immunotherapy for BBE. Transthoracic echocardiography and electrocardiography enabled early diagnosis of TCM. Hemodynamic instability from TCM improved with immunotherapy while plasmapheresis combined with immunotherapy treated BBE. The authors conclude that BBE might follow COVID-19 and TCM should be considered when hemodynamic status remains unstable in a patient with BBE.
+
+Keywords: Bickerstaff brainstem encephalitis, anti-GQ1b ganglioside antibody, Takotsubo cardiomyopathy, intravenous immunoglobulin therapy, coronavirus disease 2019, transthoracic echocardiogram, hemodynamic instability
+
+INTRODUCTION
+
+Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, frequently leads to diverse neurological complications including ischemic stroke, encephalomyelitis, necrotizing myositis, and Guillain-Barré syndrome (GBS). One proposed mechanism involves direct SARS-CoV-2 invasion of neural cells through ACE2 receptors.
+
+Bickerstaff brainstem encephalitis represents a rare autoimmune encephalitis caused by autoantibodies against gangliosides, particularly GQ1b, present in approximately 75% of BBE cases. Clinical presentation includes acute bilateral ophthalmoparesis, ataxia, impaired consciousness, and pyramidal signs.
+
+Takotsubo cardiomyopathy constitutes a stress-induced cardiomyopathy presenting with malignant arrhythmias and hemodynamic instability, characterized by specific myocardial wall motion abnormalities and elevated myocardial enzymes. TCM is triggered by critical physiological and psychological events associated with excessive catecholamine release. Severe neurological disorders such as subarachnoid hemorrhage, intracerebral hemorrhage, stroke, epilepsy, migraine, encephalitis, traumatic brain injury, and ALS associate with TCM.
+
+CASE REPORT
+
+A 68-year-old Japanese woman presented with acute onset dysarthria and gait disturbance (day 1) following antecedent upper respiratory tract infection symptoms lasting two weeks. She had received no COVID-19 vaccination. Within two days she developed altered mental status and rapidly deteriorated, leading to hospital transfer on day 5.
+
+Clinical Presentation:
+- Bedbound and unconscious (mRS grade 5; GCS E1V1M1)
+- Blood pressure 152/114 mmHg, heart rate 120 bpm, temperature 33.2°C
+- Chest CT: bilateral pneumonia (presumably COVID-19)
+- SARS-CoV-2 PCR (sputum and CSF): negative
+- Anti-SARS-CoV-2 antibodies: seropositive (confirming infection)
+
+Neurological Examination:
+- Fixed eye position
+- Complete flaccid paralysis with diminished tendon reflexes in all extremities
+- Mydriasis (6 mm bilateral) with absent pupillary light responses
+- Absent oculocephalic, gag, corneal, and jaw jerk reflexes
+- Required intubation and mechanical ventilation due to glossoptosis
+
+CSF Analysis:
+- Cell count: 2 cells/µL (normal)
+- Protein: 20 mg/dL (normal)
+- Glucose: 164 mg/dL (elevated)
+- Oligoclonal bands: present
+
+Brain MRI: No significant abnormalities.
+
+Neurophysiological Findings:
+- EEG: no seizure activity; no responses to photic/sound stimuli
+- NCS: slight reduction in CMAPs and SNAPs; absent F-wave responses in upper and lower extremities
+- ABR: completely normal
+- Blink reflex: bilateral loss of R1 and R2
+- Median nerve SEP: normal P13/14 and N18 but absent N20
+- Interpretation: mild motor and sensory axonal neuropathy with brainstem dysfunction
+
+Immunological Findings:
+- Serum autoantibodies positive against GQ1b, GT1a, and GM1/GT1a complex
+- No serological evidence for recent C. jejuni, H. influenzae, M. pneumoniae, CMV, or EBV infection
+
+Diagnosis: Probable BBE triggered by COVID-19.
+
+Cardiac Findings:
+- ECG: deep T-wave inversions in multiple leads
+- Troponin I: 967.1 pg/mL (elevated)
+- Creatine kinase: 287 mg/mL (elevated)
+- B-type natriuretic peptide: 1,110.2 pg/mL (elevated)
+- CT angiography: no significant coronary stenosis
+- Echocardiography: apical akinesis with preserved basal function; EF ~50%
+- Diagnosis: Takotsubo cardiomyopathy
+
+Treatment Course:
+
+Inotropic support and heparinization for TCM management. For BBE: two cycles of IV methylprednisolone pulse therapy (1 g/day × 3 days) and IVIg (400 mg/kg/day × 5 days) initiated on day 6 (hospital day 2) because sustained hemodynamic instability precluded plasmapheresis.
+
+Following initial immunotherapies, hemodynamic status stabilized and cardiac enzymes decreased, though neurological status remained unchanged.
+
+Seven plasma exchange procedures beginning on day 14 enabled immediate extubation. By day 24, patient obeyed some commands despite persistent external ophthalmoplegia (GCS E1VTM6).
+
+Additional IVIg therapy proved necessary for substantial neurological recovery.
+
+Follow-up echocardiography (day 66): marked decrease in apical LV ballooning (good TCM recovery).
+
+Day 87 (hospital day 83): Walking without assistance (mRS grade 2); residual double vision and bilateral abduction disturbance at discharge.
+
+DISCUSSION
+
+BBE affects central and peripheral nervous systems, typically associated with ganglioside antibodies, particularly GQ1b. Autonomic dysfunction manifestations include malignant arrhythmia and hemodynamic instability resembling TCM symptoms.
+
+COVID-19 and Anti-Ganglioside Antibody Disorders:
+
+Recent evidence demonstrates COVID-19 leads to anti-ganglioside antibody-mediated disorders including GBS and Miller Fisher syndrome. Only one prior case reported anti-GD1a antibody-positive atypical BBE one month after SARS-CoV-2 infection. The authors note a 1-month interval seems too long to conclude COVID-19 association because the mean latency between SARS-CoV-2 infection and anti-ganglioside antibody-mediated disorders is 11-13 days.
+
+This patient developed probable BBE two weeks after SARS-CoV-2 infection with autoantibodies against GQ1b and GT1a, strongly suggesting COVID-19-triggered BBE.
+
+Mechanisms:
+
+One proposed mechanism involves cross-reactivity between viral protein-associated gangliosides and peripheral nerve gangliosides through molecular mimicry. However, SARS-CoV-2 proteins have no significant similarity to any known human proteins, accounting for notably lower seropositivity rates for anti-ganglioside antibodies in COVID-19-associated GBS (7%) compared to conventional GBS (60%).
+
+TCM and BBE Association:
+
+Among autoimmune neurological disorders, GBS is well-established as causing TCM, yet reports of TCM associated with BBE remain sparse. Only one previous report described a 62-year-old woman who developed TCM during acute BBE.
+
+The pathophysiology of TCM in BBE likely involves brainstem involvement influencing excessive and sustained sympathetic nervous system activation through the cardiovascular autonomic center in the medulla oblongata.
+
+Important consideration: TCM may be underdiagnosed in BBE patients due to masking of chest symptoms by altered consciousness or misdiagnosis as BBE-related cardiovascular autonomic dysfunction per se.
+
+In this patient, TCM improvement coincided with IVIg treatment for BBE, favoring BBE over COVID-19 as the TCM cause. IVIg likely exerted favorable impact through anti-inflammatory actions on the brainstem cardiovascular autonomic center.
+
+CONCLUSION
+
+During the COVID-19 pandemic, BBE may be triggered by COVID-19 similarly to GBS. The possibility of TCM should always be considered because both BBE and COVID-19 represent important risk factors for TCM.
+
+REFERENCES
+
+1. Berger JR. COVID-19 and the nervous system. J Neurovirol. 2020;26:143–8.
+2. Toscano G, et al. Guillain-Barre syndrome associated with SARS-CoV-2. NEJM. 2020;382:2574–6.
+3. Li Z, et al. Miller Fisher syndrome associated with COVID-19. Environ Sci Pollut Res Int. 2021;28:20939–44.
+4. Wu Y, et al. Nervous system involvement after COVID-19. Brain Behav Immun. 2020;87:18–22.
+5. Koga M, et al. Nationwide survey of BBE in Japan. J Neurol Neurosurg Psychiatry. 2012;83:1210–5.
+6. Yuki N, et al. Immunologic abnormality common to BBE and Fisher's syndrome. J Neurol Sci. 1993;118:83–7.
+7. Al-Din AN, et al. Brainstem encephalitis and the syndrome of Miller Fisher. Brain. 1982;105:481–95.
+8. Llorente Ayuso L, et al. Bickerstaff encephalitis after COVID-19. J Neurol. 2021;268:2035–37.
+9. Yalta K, et al. LV dysfunction in takotsubo cardiomyopathy. Card Fail Rev. 2018;4:14–20.
+10. Szardien S, et al. Mechanisms of stress (takotsubo) cardiomyopathy. Heart Fail Clin. 2013;9:197–205.
+11. Moady G, Atar S. Takotsubo syndrome during COVID-19 pandemic. CJC Open. 2021;3:1249–56.
+12. Finsterer J, Wahbi K. CNS disease triggering takotsubo. Int J Cardiol. 2014;177:322–9.
+13. Martins RP, et al. Takotsubo cardiomyopathy associated with GBS. J Neurol Sci. 2010;291:100–2.
+14. Odaka M, et al. BBE: clinical features of 62 cases. Brain. 2003;126:2279–90.
+15. Sriwastava S, et al. GBS as manifestation of COVID-19. J Neurol Sci. 2021;420:117263.
+16. Keddie S, et al. No association between COVID-19 and GBS. Brain. 2021;144:682–93.
+17. See FH, et al. A brain-heart interaction: BBE with takotsubo. QJM. 2020;114:204–5.
+18. Nef HM, et al. Mechanisms of stress cardiomyopathy. Nat Rev Cardiol. 2010;7:187–93.
+19. Yalta K, et al. Takotsubo in multiple sclerosis. Monaldi Arch Chest Dis. 2020;90:1420.
+20. Yalta K, et al. Takotsubo in BBE. Neurol Sci. 2021;42:1181–3.
+21. Giustino G, et al. Takotsubo in COVID-19. JACC. 2020;76:628–9.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC8741194/

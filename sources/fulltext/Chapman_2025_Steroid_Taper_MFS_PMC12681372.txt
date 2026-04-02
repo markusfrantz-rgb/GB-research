@@ -1,0 +1,156 @@
+# Immune Checkpoint Inhibitor-Induced Miller Fisher Syndrome: A Case of Relapsing Symptoms Requiring a Slow Corticosteroid Taper
+
+Authors: Miles Chapman, Muhammad A Khan, Rebecca Broad, Sreedharan Harikrishnan, Kaung Kyaw
+Affiliation: Neurology, East Kent Hospitals University NHS Foundation Trust, Canterbury, GBR
+Journal: Cureus. 2025 Nov 6;17(11):e96247
+DOI: 10.7759/cureus.96247 (estimated)
+PMCID: PMC12681372
+
+## Abstract
+
+Immune checkpoint inhibitors have revolutionized cancer treatment but can trigger neurological complications. Miller Fisher syndrome -- a rare Guillain-Barre variant characterized by eye movement paralysis, loss of coordination, and absent reflexes -- is exceptionally uncommon with immunotherapy. This report presents the first documented case of avelumab (a PD-L1 inhibitor) causing MFS with a relapsing pattern. A 76-year-old patient with metastatic Merkel cell carcinoma developed double vision, drooping eyelid, and unsteadiness after two avelumab doses. Clinical examination confirmed the characteristic triad. Cerebrospinal fluid showed protein elevation without cell increase; antibody testing was negative. Nerve studies showed only subtle sensory changes. High-dose corticosteroids and plasma exchange produced marked improvement but the condition relapsed twice after treatment cessation -- once at four months and again at fourteen months -- necessitating over one year of gradual dose reduction. After two years, the patient remains symptom-free on low-dose maintenance therapy with complete cancer remission following radiotherapy. This case expands understanding of immunotherapy-related neuropathies, demonstrates that MFS can occur without antibody markers, and emphasizes the importance of prolonged, cautious corticosteroid tapering.
+
+## Introduction
+
+Immune checkpoint inhibitors, particularly PD-L1 blockers like avelumab, have transformed cancer treatment across multiple malignancies including Merkel cell carcinoma, urothelial carcinoma, and renal cell carcinoma. However, these agents can provoke immune-related adverse events affecting various organ systems. Neurological irAEs are uncommon, occurring in approximately 1-5% of patients, but can be serious and require prompt recognition and specialized management.
+
+Miller Fisher syndrome represents a rare variant within the Guillain-Barre spectrum, defined by the combination of ophthalmoplegia (eye movement paralysis), ataxia (loss of coordination), and areflexia (absent reflexes). Classically associated with anti-GQ1b antibodies, MFS typically follows infections and is usually self-limited, though recurrence occasionally occurs.
+
+ICI-associated MFS is exceptionally rare. Previous reports describe cases following PD-1 inhibitors (pembrolizumab, nivolumab, ipilimumab combination), but notably, no fully described clinical case of avelumab-induced MFS has been published to date. Most documented cases presented with negative antibody results and variable neurophysiological findings, differing substantially from classical post-infectious presentations.
+
+The underlying mechanism likely involves loss of peripheral tolerance and T-cell-mediated autoimmunity triggered by PD-L1 blockade. PD-L1 normally restrains immune activation; its inhibition may allow autoreactive T-cells to aberrantly target nerve components.
+
+## Case Presentation
+
+### Patient Background
+
+A 76-year-old male presented with high-grade neuroendocrine metastatic Merkel cell carcinoma. After surgical excision of a chest lesion, staging imaging revealed nodal, hepatic, and adrenal metastases. He had no prior neurological disease, diabetes, vitamin deficiencies, or medications associated with neuropathy. No recent infections or vaccinations preceded symptom onset.
+
+### Treatment and Symptom Onset
+
+The patient received two intravenous infusions of avelumab 800 mg administered two weeks apart. Diplopia (double vision) commenced the day after the second infusion. Over the subsequent two weeks, symptoms progressed to include ptosis (eyelid drooping), lower back pain, and gait instability. By one month post-initial dose, deterioration was severe enough to necessitate hospitalization.
+
+### Clinical Examination Findings
+
+On admission, the patient demonstrated complete left ptosis, complex ophthalmoplegia affecting horizontal gaze, and impaired proprioception in all limbs. An ataxic gait and positive Romberg sign were evident. Areflexia was present in all four extremities. Muscle strength measured approximately MRC grade 4+/5 initially, improving to normal by discharge. These findings satisfied diagnostic criteria for Miller Fisher syndrome.
+
+### Laboratory and Imaging Investigations
+
+Lumbar puncture revealed elevated cerebrospinal fluid protein (2.08 g/L) with normal white blood cell count, confirming albuminocytologic dissociation. Importantly, anti-GQ1b antibodies and other ganglioside antibodies tested negative. Markers for myasthenia gravis (acetylcholine receptor and muscle-specific kinase antibodies) were negative. Paraneoplastic antibody panel including Hu, Ri, Yo, Ma2, CRMP5, Titin, Sox1, Zic4, Tr, Recoverin, and voltage-gated calcium channel antibodies were all negative. Infectious screening including Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, and HIV testing was negative. Brain and spinal MRI showed no abnormalities. PET-CT demonstrated partial treatment response with some hepatic metastasis resolution.
+
+### Neurophysiology
+
+Nerve conduction studies demonstrated preserved motor conduction velocities and amplitudes with attenuated but mostly recordable sensory responses in sural and digital nerves. F-waves remained intact with no demyelination evidence. Findings indicated mild sensory neuropathy and non-diagnostic for classical MFS. Normal vitamin B12 and HbA1c excluded metabolic causes.
+
+### Initial Treatment Response
+
+The patient commenced oral prednisolone 60 mg daily beginning the day after admission, followed by five cycles of plasma exchange initiated two days later. By the third plasma exchange cycle, ophthalmoplegia and gait improvements were evident. After two hospital weeks, double vision had nearly resolved. He discharged on a tapering corticosteroid regimen (reducing 5 mg weekly) with only mild residual imbalance and gaze-evoked diplopia.
+
+### First Relapse
+
+Two months post-discharge, two weeks after completing steroid therapy, the patient developed recurrent diplopia, left ptosis, and ataxia. Repeat nerve conduction studies again showed preserved motor conduction with mildly reduced sensory responses. Prednisolone was restarted at 20 mg daily but required escalation to 30 mg daily one month later before symptom resolution.
+
+### Second Relapse and Ongoing Management
+
+Ten months after initial avelumab exposure, the patient completed his latest weaning regimen. After four symptom-free months, MFS relapsed a second time. Prednisolone was restarted at 15 mg/day, then slowly reduced by 5 mg monthly to a maintenance dose of 5 mg daily. Approximately four months elapsed before symptom resolution, maintaining asymptomatic status thereafter. Prednisolone continues tapering by 1 mg every two months.
+
+Avelumab was permanently discontinued after the second dose, replaced with whole-body radiotherapy (30 Gy) initiated two and a half months later. The patient achieved complete metabolic cancer remission for over one year and remains under neurological and oncological follow-up exceeding two years.
+
+## Discussion
+
+### Pathophysiology
+
+The pathophysiology of ICI-related MFS is incompletely understood but is likely driven by T-cell-mediated loss of peripheral immune tolerance. Unlike post-infectious MFS driven primarily by antibody mechanisms, ICI-associated cases appear to represent a distinct, T-cell-dominant immune process with secondary, limited humoral activation.
+
+PD-L1 blockade removes inhibitory checkpoint signals that normally constrain cytotoxic and helper T-cell activity against self-antigens. This permits autoreactive T-cells to target peripheral nerve components, particularly ganglioside-rich cranial and sensory nerve structures, producing the characteristic clinical triad.
+
+Unlike classical post-infectious MFS, these cases frequently present seronegatively yet respond to corticosteroids, suggesting mechanistic differences. ICI-related neurological toxicities may cluster with other immune-related adverse events; systematic screening for concurrent systemic involvement remains important.
+
+### PD-1 versus PD-L1 Blockade
+
+Emerging evidence suggests mechanistic distinctions between inhibitor classes. Whereas PD-1 blockade simultaneously inhibits PD-1 interactions with both PD-L1 and PD-L2, producing a broader and less regulated T-cell response, PD-L1 inhibitors such as avelumab leave PD-L2 signaling intact, which may preserve partial immune homeostasis. This distinction may explain generally lower systemic irAE frequencies observed with PD-L1 inhibitors.
+
+### Differential Diagnosis
+
+Comprehensive differential included Bickerstaff brainstem encephalitis (excluded by absent encephalopathy, hyperreflexia, and normal MRI), paraneoplastic syndromes (ruled out by comprehensive negative antibody panels and close temporal relationship to avelumab), and myasthenia gravis (excluded by negative receptor antibodies and preserved neuromuscular transmission).
+
+### Comparison with Literature
+
+This case represents the first fully described avelumab-associated MFS presentation. Previous ICI-related cases involved PD-1 inhibitors (pembrolizumab, nivolumab, ipilimumab combinations). Notably, all documented ICI-associated MFS cases -- including this one -- presented with seronegative antibody results.
+
+Neurophysiological findings varied across reported cases: one case showed demyelinating polyneuropathy; another demonstrated initially normal studies progressing to reduced motor amplitudes; this patient showed only subtle sensory changes. This case appears to be the first reporting relapsing MFS following ICI exposure with corticosteroid withdrawal.
+
+### Management Principles
+
+Management of ICI-associated MFS differs fundamentally from classical post-infectious disease. Whereas corticosteroids are not recommended for typical post-infectious MFS, this patient responded promptly to corticosteroids and plasma exchange, supporting early and aggressive immunosuppression in ICI-associated cases.
+
+Treatment followed American Society of Clinical Oncology guidelines: ICI withholding, high-dose corticosteroids (prednisone 1-2 mg/kg/day equivalent), and escalation to intravenous immunoglobulin or plasma exchange for severe cases. Avelumab discontinuation followed Summary of Product Characteristics and European Medicines Agency guidance recommending immunotherapy cessation after grade 3-4 neurological adverse events.
+
+Long-term corticosteroid tapering proved well-tolerated without significant adverse effects. Immunotherapy rechallenge was avoided given severity, sustained remission with alternative treatment, and existing guidance discouraging reintroduction after severe neurological toxicity.
+
+### Causality Assessment
+
+Using the Naranjo Adverse Drug Reaction Probability Scale, a score of 7 indicated probable association between avelumab and MFS. The temporal relationship, absence of alternative explanations, and relapse pattern after corticosteroid withdrawal strongly support this link.
+
+## Timeline of the Case
+
+| Date/Interval | Key Events | Interventions | Outcome |
+|---|---|---|---|
+| Day 0 (May 2023) | First avelumab infusion | -- | -- |
+| Day 14 | Second avelumab infusion | -- | -- |
+| Day 15 | Diplopia begins | -- | Symptom onset |
+| Day 30 (June 2023) | Ptosis, ataxia, severe gait instability, hospital admission | LP; prednisolone 60 mg/day; plasma exchange x5 | Marked improvement by third cycle |
+| Week 6 (July 2023) | Hospital discharge | Steroid taper: 60 mg x 1 week, then -5 mg/week | Symptom resolution by end of July 2023 |
+| Week 18 (October 2023) | Relapse: diplopia, ptosis, ataxia | Prednisolone restarted 20 mg/day, escalated to 30 mg/day | Full resolution by January 2024 |
+| July 2024 | MFS relapse after steroid withdrawal; complete cancer remission | Prednisolone restarted 15 mg/day, tapered slowly (-5 mg/month) | Symptoms resolved by November 2024 |
+| September 2025 | Remains symptom-free | Maintenance prednisolone 5 mg/day, tapering by 1 mg every two months | No relapse |
+
+## Laboratory Investigations
+
+| Test | Patient's Result | Reference Range | Units |
+|---|---|---|---|
+| CSF protein | 2.08 | 0.15-0.45 | g/L |
+| CSF white cell count | 2 | <5 | cells/uL |
+| Anti-GQ1b antibody | Negative | Negative | -- |
+| Other ganglioside antibodies | Negative | Negative | -- |
+| AChR antibody | Negative | Negative | -- |
+| MuSK antibody | Negative | Negative | -- |
+| Paraneoplastic panel | Negative | Negative | -- |
+| Vitamin B12 | 520 | 200-900 | pg/mL |
+| HbA1c | 5.4 | <6.0 | % |
+
+## Comparison of ICI-Associated MFS Literature
+
+| Author | Age | ICI Used | Mechanism | Anti-GQ1b | Treatment | Outcome | Relapse |
+|---|---|---|---|---|---|---|---|
+| Baird-Gunning 2018 | 58 F | Ipilimumab+nivolumab | CTLA-4+PD-1 | Negative | IVIG+IV methylprednisolone; later PLEX | Full recovery, persistent areflexia | No |
+| Green 2019 | 62 M | Pembrolizumab | PD-1 | Negative | IVIG | Near complete recovery | No |
+| McNeill 2019 | 68 M | Nivolumab | PD-1 | Negative | IVIG (partial), then high-dose steroids | Substantial recovery, mild residual | No |
+| Chapman 2025 | 76 M | Avelumab | PD-L1 | Negative | Steroids+PLEX; prolonged taper | Multiple relapses, then sustained remission | Yes |
+
+## Conclusions
+
+This case demonstrates several critical points regarding ICI-associated neurological toxicity:
+
+1. Seronegative presentation: MFS can occur despite negative anti-GQ1b and other ganglioside antibodies, distinguishing it from classical post-infectious disease.
+
+2. Subtle neurophysiology: Clinicians should prioritize recognition of the classical clinical triad of ophthalmoplegia, ataxia, and areflexia even when supportive investigations are inconclusive.
+
+3. Relapsing course: Unlike typical post-infectious MFS, ICI-associated disease may relapse following treatment withdrawal, necessitating prolonged immunosuppression and careful tapering.
+
+4. Treatment differences: Corticosteroids, ineffective in classical MFS, prove beneficial in ICI-associated cases, suggesting distinct underlying mechanisms.
+
+5. Multidisciplinary coordination: These neurological toxicities have significant cancer therapy implications, requiring collaborative decisions regarding permanent ICI discontinuation.
+
+## References
+
+1. Wang DY, Salem JE, Cohen JV, et al. Fatal toxic effects associated with immune checkpoint inhibitors. JAMA Oncol. 2018;4:1721-1728.
+2. Spain L, Walls G, Julve M, et al. Neurotoxicity from immune-checkpoint inhibition in the treatment of melanoma. Ann Oncol. 2017;28:377-385.
+3. Chiba A, Kusunoki S, Obata H, et al. Serum anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller Fisher syndrome and Guillain-Barre syndrome. Neurology. 1993;43:1911-1917.
+4. Baird-Gunning JJ, Weerasinghe D, Silsby M, et al. Miller Fisher syndrome associated with immunotherapy for metastatic melanoma. Neurohospitalist. 2018;8:191-193.
+5. Green KE, Levine AM, Ward JH, Kaufman DI. GQ1b-seronegative Miller Fisher syndrome associated with pembrolizumab. J Neuroophthalmol. 2019;39:394-396.
+6. McNeill CJ, Fehmi J, Gladwin J, Price C. A rare case of Miller Fisher variant of Guillain-Barre syndrome induced by a checkpoint inhibitor. BMJ Case Rep. 2019;12:0.
+7. Schneider BJ, Naidoo J, Santomasso BD, et al. Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update. J Clin Oncol. 2021;39:4073-4126.
+8. Dalakas MC. Neurological complications of immune checkpoint inhibitors. Ther Adv Neurol Disord. 2018;11:1756286418799864.
+9. Ladjevardi CO, Skribek M, Koliadi A, et al. Differences in immune-related toxicity between PD-1 and PD-L1 inhibitors. Cancer Immunol Immunother. 2024;74:14.
+10. Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barre syndrome. Lancet. 2016;388:717-727.

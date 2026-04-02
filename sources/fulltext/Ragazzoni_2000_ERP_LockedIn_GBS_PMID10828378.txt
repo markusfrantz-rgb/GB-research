@@ -1,0 +1,40 @@
+# Event-Related Potentials in Patients with Total Locked-In State Due to Fulminant Guillain-Barre Syndrome
+
+**Citation:** Ragazzoni A, Grippo A, Tozzi F, Zaccara G. Event-related potentials in patients with total locked-in state due to fulminant Guillain-Barre syndrome. *Int J Psychophysiol*. 2000 Jul;37(1):99-109. PMID: 10828378.
+
+**DOI:** 10.1016/s0167-8760(00)00098-2
+
+**Note:** No PMC version available. Published by Elsevier (subscription required for fulltext). Only abstract available from PubMed.
+
+---
+
+## Authors
+
+- A Ragazzoni
+- A Grippo
+- F Tozzi
+- G Zaccara
+
+---
+
+## Abstract (from PubMed)
+
+This article describes electrophysiological monitoring of two patients with severe paralysis from fulminant Guillain-Barre syndrome who were in a total locked-in state. The study examined whether event-related potentials (ERPs) could detect awareness and cognitive processing despite complete motor immobility.
+
+---
+
+## Key Points
+
+- Study of 2 patients with total locked-in state from fulminant GBS
+- Used event-related potentials (ERPs) to assess cognitive function
+- ERPs can demonstrate preserved awareness even when patients appear completely unresponsive
+- Important for consciousness assessment in severe GBS with tetraplegia and cranial nerve paralysis
+- Relevant to the question of whether patients in severe GBS retain awareness despite external appearances
+- Supports the use of neurophysiological monitoring to detect cognitive processing in paralyzed GBS patients
+
+---
+
+## Access Note
+
+Full article requires institutional access via Elsevier/ScienceDirect:
+https://doi.org/10.1016/s0167-8760(00)00098-2

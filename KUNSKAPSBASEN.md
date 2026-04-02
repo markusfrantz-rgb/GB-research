@@ -205,6 +205,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [**Vätskestyrning vid GBS-dysautonomi**](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | **NYTT (2026-03-30):** 5%-tröskel, deresuscitation, WiPO (59% av weaning-svikt), beslutsalgoritm, diuretika-evidens (3 RCT), GBS-specifik sårbarhet |
 | [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
 | [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 33 MR-referensbilder |
+| [**Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap**](/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md) | **NYTT (2026-04-02):** Komplett genomgång av anti-GQ1b-syndromet — klassifikation, patofysiologi, diagnostik (serology-first), behandlingsprotokoll (IVIg/PLEX/IVMP/efgartigimod), prognos (69% komplett vid 1 år, Coly 2024 n=166), återhämtningstidslinjer, medvetandeåterhämtning (median 10d vid GQ1b+), locked-in-presentation, IVA-management, 54 referenser |
 
 ---
 

@@ -1,0 +1,143 @@
+# Large-Scale Profiling of Antibody Reactivity to Glycolipids in Patients with Guillain-Barre Syndrome
+
+Authors: Robin C M Thomma, Susan K Halstead, Laura C de Koning, Eveline J A Wiegers, Dawn S Gourlay, Anne P Tio-Gillen, Wouter van Rijs, Bart C Jacobs, Hugh J Willison, et al. (68 co-authors from IGOS consortium)
+Journal: Brain. 2025 Mar 17;148(11):4000-4015
+DOI: 10.1093/brain/awaf102
+PMCID: PMC12588681
+
+## Abstract
+
+Guillain-Barre syndrome represents an acute polyradiculoneuropathy where preceding infections frequently trigger antibody production targeting peripheral nerve antigens, particularly gangliosides. Anti-ganglioside antibodies appear central to disease heterogeneity and offer clinical utility. Recent investigations highlight glycolipid complexes as important targets. This investigation examined antibody reactivity patterns to glycolipids and glycolipid complexes using combinatorial arrays, correlating findings with clinical characteristics in Guillain-Barre syndrome.
+
+Study population: 1413 patients from the International Guillain-Barre syndrome Outcome Study (IGOS) (ages 0-91 years, 60.3% male) and 1061 controls (healthy, family, infectious, vaccination, other neurological disease) participated.
+
+Methods: Acute-phase sera from patients were screened for IgM, IgG, and IgA reactivity against 15 glycolipids and one phospholipid, including their heteromeric complexes. Antibody specificities and reactivity patterns were analyzed relative to clinical features.
+
+Results: Overall, 1309 patients (92.6%) demonstrated positivity for at least one anti-glycolipid (complex) antibody. Anti-GM1 and anti-GQ1b (complex) antibodies most effectively distinguished motor Guillain-Barre syndrome and Miller Fisher syndrome from controls, with glycolipid complex antibodies surpassing single glycolipid antibodies in performance. Three antibody-based models discriminated patients with Guillain-Barre syndrome, motor variant, and Miller Fisher syndrome from controls with elevated sensitivity and specificity, outperforming single glycolipid approaches used clinically. Seven distinct patient clusters with characteristic antibody patterns emerged, differentiated by geographical region, clinical variants, preceding Campylobacter jejuni infection, electrophysiological subtypes, Medical Research Council sum score at entry, and ambulation capacity at 26 weeks. Two clusters with distinct anti-GM1 (complex) reactivity (broad versus restricted) showed differential axonal subtype frequency. In cumulative incidence analyses, 15 anti-glycolipid (complex) antibodies associated with recovery time for independent 10-meter ambulation. Following adjustment for known prognostic factors, IgG anti-GQ1b:GM4, GQ1b:PS, and GQ1b:Sulfatide remained associated with faster recovery. Addition of anti-glycolipid antibodies to clinical prognostic models marginally enhanced discriminative capacity.
+
+Conclusion: Combinatorial array measurement of anti-glycolipid antibodies increases diagnostic yield compared to single glycolipid assaying, identifies clinically pertinent antibody reactivity patterns, and demonstrates potential utility in outcome prediction for Guillain-Barre syndrome.
+
+Keywords: peripheral neuropathy, autoantibody
+
+## Introduction
+
+Guillain-Barre syndrome (GBS) constitutes an acute immune-mediated polyradiculoneuropathy with an incidence of approximately 1-2 cases per 100,000 person-years. Patients typically present with rapidly progressive limb weakness, accompanied by additional neurological manifestations including cranial nerve involvement, sensory deficits, autonomic dysfunction, and respiratory insufficiency. Disease severity varies from mild limb weakness to complete tetraparalysis with respiratory failure. This clinical heterogeneity complicates early diagnosis and prediction of treatment response, clinical trajectory, and outcomes.
+
+Approximately two-thirds of GBS patients experience neurological symptoms preceded by infection. Preceding infections, notably Campylobacter jejuni, trigger antibody production that cross-reacts with peripheral nerve gangliosides through molecular mimicry mechanisms. Gangliosides are sialylated glycolipids abundantly distributed throughout peripheral nervous system nerve cell membranes, contributing to nerve cell structure and physiology. Antibody binding to these gangliosides initiates complement-mediated disruption of nerve membranes at nodes of Ranvier, ultimately resulting in neurophysiological changes and clinical manifestations.
+
+Clinical associations of ganglioside and glycolipid antibodies have been extensively investigated since their discovery four decades ago. Anti-GM1 antibodies consistently associate with motor-dominant GBS, while anti-GQ1b antibodies correlate with Miller Fisher syndrome. Glycolipid complex antibodies represent recent significant developments, though existing investigations typically examine limited antibody specificities in small, geographically constrained populations, with glycolipid heteromeric complex antibodies remaining understudied.
+
+Combinatorial glyco-arrays enable simultaneous testing of extensive anti-glycolipid (complex) antibody repertoires, permitting investigation of both single glycolipids and heteromeric arrangements. When two gangliosides cluster on artificial membranes, this interaction may enhance, attenuate, or leave unaffected antibody binding capacity.
+
+This investigation utilized the biobank and clinical database from the International Guillain-Barre syndrome Outcome Study (IGOS) to examine anti-glycolipid antibody presence on glyco-arrays within a substantial prospective cohort, relating findings to clinical subtypes and characteristics, preceding infections, clinical course, and outcomes.
+
+## Materials and Methods
+
+### Study Population
+
+Clinical data and serum samples originated from patients included in IGOS, a prospective multicentre cohort study enrolling patients with GBS irrespective of clinical variant, electrophysiological subtype, and disease severity. Exclusion criteria encompassed final diagnoses other than GBS, insufficient clinical data, >17 days between disease onset and inclusion, or protocol violations. Only patients with serum samples from study entry or Week 1 were included (n=1413). Clinical data encompassed demographics, clinical variants and features, disease severity, and electrophysiological subtypes. Preceding infections associated with GBS were determined using established methods. Electrophysiological subtypes were classified according to Hadden criteria for the initial 1500 IGOS patients.
+
+The control population consisted of 1061 individuals from geographically diverse historical cohorts: healthy (6.8%), family (27.3%), pre- and post-vaccination (16.8%), infectious without neurological symptoms (15.3%), and other neurological disease controls (33.8%).
+
+### Antibody Testing in Glyco-Array
+
+Patient sera were tested for IgM, IgG, and IgA against 15 individual glycolipids and one phospholipid [GM1, GM2, phosphatidylserine (PS), GM4, GA1, GD1a, GD1b, GT1a, GT1b, GQ1b, GD3, sulfated glucuronyl paragloboside (SGPG), LM1, N-acetylgalactosaminyl GD1a (GalNAc-GD1a), galactocerebroside (GalC), and sulfatide] and all possible 1:1 (volume:volume) glycolipid complexes (136 targets, 408 antibodies).
+
+Array slides were printed in-house with each unique single or complex glycolipid target duplicated per array. Slides underwent blocking with 2% bovine serum albumin (BSA) in PBS prior to individual serum sample application diluted 1:50 in 1% BSA in PBS. Following unbound antibody washing, arrays were probed concomitantly with fluorescently conjugated, heavy chain-specific detection antibodies: anti-human IgG-Alexa Fluor 647, anti-human IgM-TRITC, and anti-human IgA-FITC. Arrays were washed and air-dried. Fluorescent signals were sequentially detected using a GenePix 4300A microarray scanner.
+
+### Statistical Analyses
+
+Comparative analyses for antibody fluorescence intensities and clinical features employed Chi-square, Fisher's exact, Mann-Whitney U, and Kruskal-Wallis tests, and univariable logistic regression analyses. Logistic regression and receiver-operator characteristic (ROC) curve analyses evaluated antibody diagnostic value. Unsupervised hierarchical clustering explored antibody reactivity patterns. Antibody positivity cut-off values were established at the 97.5th percentile of control fluorescence intensities.
+
+## Results
+
+### Anti-Glycolipid (Complex) Antibodies Discriminate Patients from Controls
+
+Multiple anti-glycolipid antibodies distinguished patient subgroups from controls, with glycolipid complex antibodies generally outperforming single glycolipid antibodies. Overall, 1309 patients (92.6%) demonstrated positivity for at least one investigated antibody reactivity.
+
+For motor GBS and Miller Fisher syndrome patients, anti-GM1 and anti-GQ1b (complex) antibodies respectively best distinguished them from controls. Most GM1 and GQ1b complex antibodies outperformed single glycolipid antibodies. Sulfatide and GT1a addition to GM1 produced highest performance increases for motor GBS, while phosphatidylserine and sulfatide addition to GQ1b most improved Miller Fisher syndrome performance.
+
+### Multivariable Model Development
+
+Multivariable antibody combinations further enhanced diagnostic value. Newly created models outperformed current single-ganglioside models:
+
+- GBS model: Seven antibodies (AIC 2038 vs. 2825)
+- Motor GBS model: Two antibodies (AIC 892 vs. 1175)
+- Miller Fisher syndrome model: Two antibodies (AIC 417 vs. 714)
+
+At optimal thresholds, new models demonstrated increased sensitivity versus current models while maintaining high specificity:
+
+| Condition | Sensitivity (New vs. Current) | Specificity (New vs. Current) |
+|-----------|-------------------------------|-------------------------------|
+| GBS | 83% vs. 62% | 81% vs. 79% |
+| Motor GBS | 72% vs. 53% | 89% vs. 93% |
+| Miller Fisher syndrome | 83% vs. 58% | 91% vs. 92% |
+
+### Model Performance Statistics
+
+| Group | Model | Constituent IgG Antibodies | C-statistic | R-squared |
+|-------|-------|---------------------------|-------------|-----------|
+| GBS | Current | GM1, GD1a, GD1b, GQ1b | 0.76 (0.74-0.78) | 0.27 |
+| GBS | New | GD1b, GQ1b, SGPG, GM1:GD1a, GA1:LM1, GA1:Sulf, GalC:LM1 | 0.89 (0.88-0.91) | 0.56 |
+| Motor GBS | Current | GM1 | 0.74 (0.71-0.78) | 0.30 |
+| Motor GBS | New | GM1:GD1a, GA1:Sulf | 0.87 (0.84-0.90) | 0.52 |
+| MFS | Current | GQ1b | 0.76 (0.70-0.80) | 0.30 |
+| MFS | New | GQ1b:GA1, GQ1b:GalC | 0.91 (0.87-0.95) | 0.64 |
+
+### Cluster Analysis
+
+Unsupervised hierarchical clustering identified seven distinct patient clusters:
+
+- Cluster A (n=38): Broad-ranging GalNAc-GD1a reactivity
+- Cluster B (n=43): Restricted GA1 and broad-ranging GM1 reactivity
+- Cluster C (n=18): Restricted GalNAc-GD1a reactivity
+- Cluster D (n=50): Restricted GA1, GD1b, and GM1 reactivity
+- Cluster E (n=1155): Non-specific reactivity
+- Cluster F (n=70): Restricted GQ1b and GT1a reactivity
+- Cluster G (n=39): Broad-ranging GT1a reactivity
+
+Patient clusters demonstrated clinical distinctness, differing in geographical regions, GBS form proportions and variants, preceding infection serology, cranial nerve involvement at study entry, and clinical course.
+
+### Associations with Clinical Features
+
+Several anti-GM1, anti-GalNAc-GD1a, and anti-GA1 (complex) antibodies correlated with preceding diarrhoea, preceding C. jejuni infection, motor GBS, and inability to ambulate 10 meters unaided at 26 weeks. Patients with preceding Mycoplasma pneumoniae or cytomegalovirus infections demonstrated elevated fluorescence intensities of multiple anti-GalC and IgM anti-GM2 (complex) antibodies, respectively. Anti-GQ1b and anti-GT1a (complex) antibodies associated with preceding upper respiratory tract infections and Miller Fisher syndrome.
+
+### Prognostic Value
+
+Fifteen antibodies' positivity associated with time required for 10-meter ambulation ability regainment. Patients positive for multiple IgG antibodies against GM1 complexes required extended recovery time, whereas patients positive for IgG against GQ1b:GM4, GQ1b:PS, and GQ1b:Sulfatide achieved this endpoint more rapidly.
+
+Following adjustment for known prognostic factors (age, preceding diarrhoea, MRC sum score at entry), associations persisted only for IgG antibodies against GQ1b:GM4 [HR 1.56 (1.28-1.92), P<0.001], GQ1b:PS [HR 1.50 (1.27-1.77), P<0.001], and GQ1b:Sulfatide [HR 1.36 (1.15-1.60), P=0.004].
+
+Addition of anti-glycolipid antibodies to modified EGOS prognostic models increased AUC only marginally (highest delta-AUC in complete dataset = 0.01-0.02).
+
+## Discussion
+
+This investigation determined an extensive anti-glycolipid antibody repertoire within a substantial prospective GBS cohort. Multiple glycolipid complex antibodies distinguished motor GBS and Miller Fisher syndrome from controls more precisely than single glycolipid antibodies. Combining multiple antibodies further enhanced discriminative capacity. Seven characteristic antibody reactivity patterns with distinct clinical phenotypes emerged. Anti-GM1 (complex) antibodies distributed amongst patients with all electrophysiological subtypes.
+
+### Clinical Implementation Implications
+
+1. Diagnostic Enhancement: Anti-glycolipid antibodies may benefit patients with atypical presentation or differential diagnoses. Glycolipid complex antibodies demonstrate potentially higher diagnostic value than single glycolipid testing.
+
+2. Electrophysiological Subtype Classification: Findings challenge the historical concept that anti-GM1 (complex) antibodies predominantly cause axonal GBS. Anti-GM1 (complex) antibodies occurred across all electrophysiological subtypes.
+
+3. Outcome Prediction: Anti-glycolipid antibodies could potentially enhance outcome prediction alongside current clinical prognostic models, though improvements were marginal.
+
+4. Treatment Identification: Anti-glycolipid antibody reactivity pattern determination could potentially identify patients benefiting from additional or alternative treatments.
+
+### IgM and IgA Antibody Considerations
+
+IgM and IgA pathogenic potential in GBS remains unclear. Patients with GBS demonstrated lower multiple IgM antibody fluorescence intensities than controls. IgA antibody research in GBS remains limited, though current and several prior studies suggest pathophysiological role involvement, potentially specifically related to preceding gastrointestinal infection.
+
+### Antibody-Negative Patients
+
+Despite specific antibody reactivity pattern identification, the majority of study patients clustered in non-characterizing antibody reactivity clusters (Cluster E-a). These patients were predominantly European-enrolled, frequently had motor-sensory and demyelinating GBS, and demonstrated low preceding infection frequency.
+
+## Conclusion
+
+Combinatorial array measurement provides added single-array diagnostic value, enabled antibody reactivity pattern identification with distinct clinical phenotypes, and demonstrates prognostic potential. Importantly, anti-GM1 (complex) antibodies occur in patients with any electrophysiological subtype, despite particular axonal pathology associations. Further external validation studies remain required.
+
+## References
+
+[Complete reference list of 45+ citations as published in original article]
+
+Copyright: The Author(s) 2025. Published by Oxford University Press on behalf of the Guarantors of Brain under Creative Commons Attribution-NonCommercial License.

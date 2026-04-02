@@ -1,0 +1,80 @@
+# Overlap of Bickerstaff Encephalitis and Pharyngeal-Cervical-Brachial Variant of Guillain-Barre Syndrome Following COVID-19 Infection
+
+Authors: Kosuke Okuma, Kentaro Hori, Shingo Kawakami, Yoko Suzuki
+Affiliation: Department of Neurology, Japanese Red Cross Omori Hospital, Tokyo, Japan
+Journal: Cureus
+Publication Date: October 9, 2025
+DOI: 10.7759/cureus.94218
+PMCID: PMC12597110
+
+## Abstract
+
+A 36-year-old woman developed numbness and unsteadiness approximately 10 days following COVID-19 infection. Clinical presentation included drowsiness, dysarthria, and gait disturbance. Neurological examination revealed disturbances in consciousness, ophthalmoplegia, ataxia, pharyngeal and cervical muscle weakness, and sensory abnormalities predominantly affecting the upper extremities. Brain MRI and cerebrospinal fluid showed normal results, while median nerve somatosensory evoked potential indicated intracranial conduction abnormality. Testing revealed anti-GQ1b and anti-GT1a IgG antibodies, confirming Bickerstaff brainstem encephalitis with pharyngeal-cervical-brachial variant features. Treatment with intravenous immunoglobulin and methylprednisolone proved effective, with the patient achieving independent ambulation by day 20.
+
+## Introduction
+
+Bickerstaff brainstem encephalitis represents a rare variant of Guillain-Barre syndrome characterized by the triad of altered consciousness, ataxia, and external ophthalmoplegia. The pharyngeal-cervical-brachial variant presents with predominant weakness in pharyngeal, neck, and upper limb muscles. Both conditions typically follow upper respiratory infections and demonstrate overlapping clinical features with shared autoimmune mechanisms involving antiganglioside antibodies.
+
+COVID-19 has been associated with various neurological complications, including Guillain-Barre syndrome variants. However, reports indicate that antiganglioside antibodies are less often detected in COVID-19-associated cases compared to idiopathic presentations. While limited cases of Bickerstaff encephalitis following COVID-19 exist, documentation of concurrent Bickerstaff and pharyngeal-cervical-brachial variant overlap remains absent from medical literature.
+
+## Case Presentation
+
+A 36-year-old female with histories of depression and ulcerative colitis (treated with mesalazine suppository) developed upper respiratory symptoms 10 days before admission. She tested positive for SARS-CoV-2 seven days prior to hospitalization. Three days before admission, she experienced hand numbness and unsteadiness, followed by dysarthria and gait disturbance.
+
+### Admission Findings
+
+Vital signs remained stable (heart rate 72 bpm, blood pressure 104/74 mmHg, temperature 36.5C, SpO2 98%). Neurological examination revealed decreased consciousness with Glasgow Coma Scale score of E3V4M6. Notable findings included bilateral ptosis, sluggish pupillary responses, restricted ocular movements, and marked nasal speech. Neck and upper limb weakness (grade 4) with mild lower limb weakness (grade 4-5) were documented. Sensory examination showed dysesthesia in bilateral upper limbs and upper trunk with impaired vibratory sensation. Severe limb and truncal ataxia prevented independent sitting. Deep tendon reflexes were reduced or absent with positive Babinski and Chaddock signs bilaterally.
+
+### Laboratory and Diagnostic Findings
+
+Complete blood count and metabolic panel remained largely normal. C-reactive protein was mildly elevated at 0.55 mg/dL. Cerebrospinal fluid analysis demonstrated clear appearance, normal opening pressure (10 cm H2O), normal cell count (2/uL), and slightly elevated protein (44 mg/dL). Nerve conduction studies showed no significant abnormalities. Electroencephalography revealed posterior dominant alpha rhythm of 8-9 Hz, which was mildly slower than expected for her age and was poorly organized. Median nerve somatosensory evoked potential indicated reduced N20 amplitude with preserved P13/14 onset latency. Brain MRI demonstrated no intracranial hyperintense lesions or contrast enhancement.
+
+### Serological Testing
+
+Serum anti-ganglioside antibody testing revealed positive IgG anti-GQ1b (optical density 0.889) and anti-GT1a (optical density 0.940) antibodies, with negative results for anti-GM1, anti-GT1b, and anti-GD1a antibodies.
+
+### Treatment and Hospital Course
+
+The patient was admitted to intensive care due to impaired consciousness and bulbar palsy. Intravenous immunoglobulin therapy (400 mg/kg/day) was administered for five days, followed by three days of methylprednisolone pulse therapy (1,000 mg/day). Consciousness improved rapidly, and mechanical ventilation was not required. Transfer to the general ward occurred on hospital day 10.
+
+Neurological symptoms improved significantly within the first week, though ataxia became more apparent as strength recovered. Upper limb numbness persisted approximately two weeks. On hospital day 3, the patient developed abdominal distention, pain, and nausea. Abdominal imaging revealed diffuse intestinal dilation without mechanical obstruction, indicating paralytic ileus. Fasting and central venous nutrition were initiated, with symptom resolution within approximately 10 days.
+
+Follow-up electroencephalography demonstrated normalized background activity. Median nerve somatosensory evoked potential showed N20 amplitude recovery. The patient regained standing ability by day 10 and walked independently by day 20. Hospital discharge on day 24 occurred with mild bilateral eye abduction limitation and lower limb-dominant ataxia as residual findings.
+
+## Discussion
+
+Bickerstaff brainstem encephalitis and its pharyngeal-cervical-brachial variant represent rare Guillain-Barre syndrome subtypes. Anti-GQ1b antibodies are presumed disease-specific for Bickerstaff encephalitis, while anti-GT1a antibodies characterize the pharyngeal-cervical-brachial variant. However, clinical overlap is significant, with approximately 60% of Bickerstaff cases presenting with pharyngeal palsy. Serological studies indicate that 90% of anti-GT1a antibody-positive cases are also positive for anti-GQ1b antibodies due to cross-reactivity.
+
+The present patient demonstrated combined features of both conditions with positive serum IgG antibodies against both antigens. Abnormal median nerve somatosensory evoked potential findings, specifically reduced N20 amplitude or disappearance of the N20 component with preserved P13/14 onset latency, are frequently observed in Bickerstaff encephalitis and provide diagnostic utility despite absent brain MRI abnormalities.
+
+### COVID-19-Associated Guillain-Barre Syndrome Context
+
+Systematic review of 436 COVID-19-associated Guillain-Barre patients reported mean age of 61 years with male predominance, with symptom onset averaging 19 days post-infection. Acute inflammatory demyelinating polyneuropathy represents the most common subtype. Notably, among reviewed cases, only four involved pharyngeal-cervical-brachial variants, while no Bickerstaff encephalitis cases were identified.
+
+A distinguishing feature of COVID-19-associated Guillain-Barre syndrome involves lower antiganglioside antibody detection rates. Among 16 Miller-Fisher syndrome cases (which shares pathophysiological features with Bickerstaff encephalitis), anti-GQ1b antibodies were detected in only two cases, a significantly lower rate than the general detection frequency of approximately 90%. This suggests potentially divergent pathogenic mechanisms in COVID-19-triggered variants.
+
+### Case Comparison with Literature
+
+Review of five previously reported Bickerstaff encephalitis cases following COVID-19 revealed average interval of 12.2 days between infection and symptom onset (range 4-28 days). Most patients demonstrated anti-GQ1b antibody positivity and received intravenous immunoglobulin and steroid pulse therapy. The present case uniquely documented paralytic ileus as a complication, while one prior case involved takotsubo cardiomyopathy, highlighting the importance of monitoring autonomic dysfunction. No previously reported cases demonstrated concurrent pharyngeal-cervical-brachial variant features. Most patients achieved independent ambulation; however, one fatal case involved negative serum autoantibodies and bilateral midbrain abnormalities on MRI.
+
+### Diagnostic Significance
+
+In general, antiganglioside antibody-negative patients tend to exhibit abnormal brain MRI findings, increased CSF cell counts and protein levels, and prolonged disturbances of consciousness. The present case deviated from this pattern -- despite COVID-19 triggering, brain MRI and cerebrospinal fluid findings remained normal with rapid consciousness improvement and subsequent anti-ganglioside antibody detection. This pattern aligns with typical antibody-positive Bickerstaff cases, supporting continued serological assessment regardless of COVID-19 context.
+
+## Conclusions
+
+This case represents a documented overlap of Bickerstaff brainstem encephalitis and pharyngeal-cervical-brachial variant following COVID-19, achieved through prompt immunotherapy. When acute-onset impaired consciousness and brainstem symptoms follow COVID-19 infection, Bickerstaff encephalitis warrants consideration in differential diagnosis. When symptoms extend beyond classical presentation, coexisting variants require evaluation. Anti-ganglioside antibody assessment remains diagnostically essential despite COVID-19 etiology.
+
+## References
+
+1. Shahrizaila N, Yuki N. Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry. 2013;84:576-583.
+2. Koga M, et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis. J Neurol Neurosurg Psychiatry. 2012;83:1210-1215.
+3. Nagashima T, et al. Continuous spectrum of pharyngeal-cervical-brachial variant of Guillain-Barre syndrome. Arch Neurol. 2007;64:1519-1523.
+4. Pimentel V, et al. Guillain-Barre syndrome associated with COVID-19: a systematic review. Brain Behav Immun Health. 2023;28:100578.
+5. Llorente Ayuso L, et al. Bickerstaff encephalitis after COVID-19. J Neurol. 2021;268:2035-2037.
+6. Kimura M, et al. Case report: takotsubo cardiomyopathy in Bickerstaff brainstem encephalitis triggered by COVID-19. Front Neurol. 2021;12:822247.
+7. Mori D, et al. Bickerstaff brainstem encephalitis developed quickly after COVID-19 infection. Acute Med Surg. 2025;12:0.
+8. Naoki I, et al. Successful treatment with plasmapheresis of severe Bickerstaff brainstem encephalitis. Clin Exp Neuroimmunol. 2025;16:30-34.
+9. Kanbayashi T, et al. Utility of the combination of median nerve SEPs and auditory brainstem responses. Clin Neurophysiol. 2025;176:2110766.
+10. Yuki N, et al. An immunologic abnormality common to Bickerstaff's brain stem encephalitis and Fisher's syndrome. J Neurol Sci. 1993;118:83-87.
+11. Yoshikawa K, et al. Bickerstaff brainstem encephalitis with or without anti-GQ1b antibody. Neurol Neuroimmunol Neuroinflamm. 2020;7:0.

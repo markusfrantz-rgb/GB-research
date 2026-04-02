@@ -1,0 +1,81 @@
+# Faster Recovery of Internal Ophthalmoplegia than External Ophthalmoplegia in a Miller Fisher Variant of Guillain-Barre Syndrome
+
+Authors: Golla Abhinav, Jorge Gamez Jr, Michael C Yang, Tetyana Vaysman, Michelle von Gunten, Antonio Liu
+Department of Neurology, Adventist Health White Memorial, Los Angeles, California, USA (Abhinav, Gamez, Yang, von Gunten, Liu)
+Department of Internal Medicine, University of Maryland, Cheverly, Maryland, USA (Vaysman)
+Journal: Cureus. 2020 Mar 30;12(3):e7466
+DOI: 10.7759/cureus.7466
+PMCID: PMC7174959
+
+## Abstract
+
+This case presents a Miller Fisher Syndrome (MFS) variant of Guillain-Barre Syndrome (GBS) with detailed examination of differences between internal and external ophthalmoplegia, noting distinct patterns in onset, duration, and recovery.
+
+## 1. Introduction
+
+MFS variant of GBS involves both internal and external ophthalmoplegia. Prior research demonstrated that pupillary reactivity defects vary temporally. Using a pupillometer (NeurOptics NPi-200), clinicians can objectively measure pupillary size and reactivity via the Neurological Pupil Index (NPi) scale.
+
+The NPi scale ranges from 0-4.9: scores below 3.0 indicate "sluggish" reactivity, while 3.0-4.9 indicates "brisk" reactivity. A difference >=0.7 between eyes suggests abnormality.
+
+The authors note: "Currently, the literature describing the rate of recovery of the internal and external ophthalmoplegia in MFS is scarce."
+
+## 2. Case Presentation
+
+A 44-year-old right-handed male with no significant medical history presented with two days of speech difficulty and balance loss. He reported severe diarrhea two weeks prior and received influenza vaccine six months earlier. Initial exam revealed minimal left-eye abduction deficits with directional nystagmus.
+
+### Progressive Symptoms
+
+Over three days, minor ocular deficits progressed to severe external ophthalmoplegia with bilateral ptosis. Daily pupillometry showed:
+- Hospital day 1-2: Normal function (right NPi 2.6, left NPi 3.2)
+- Hospital day 3: Bilateral sluggish pupils (right NPi 0.7, left NPi 0.8)
+
+The patient developed nasal speech quality, moderate-to-severe dysarthria, and minimal-to-moderate dysphagia. Extremity and truncal ataxia worsened. Sensation remained intact; paresthesias persisted over one week. No urinary/bowel incontinence, respiratory compromise, or abnormal vital capacity occurred.
+
+### Laboratory Findings
+
+Ganglioside antibody panel (hospital day 10) revealed:
+- Asialo-GM1 Ab: 279
+- GD1a Ab: 52
+- GQ1b Ab: 273
+
+### Treatment
+
+Five plasmapheresis treatments began on hospital day 3. The patient experienced orthostatic hypotension with two syncopal episodes post-treatment.
+
+### Recovery Timeline
+
+Pupillary reactivity recovered within four days (by hospital day 7); external ophthalmoplegia persisted at discharge (hospital day 20) with only partial recovery. Six weeks post-discharge, symptoms fully resolved with normalized antibody levels (Asialo-GM1 Ab 50, GD1a Ab 18, GQ1b Ab 48).
+
+## 3. Discussion
+
+Miller Fisher Syndrome occurs in 1-7% of GBS cases worldwide and 5% in Western countries. Early MFS findings include ophthalmoplegia, diplopia, and pupillary abnormalities. However, at the time of authorship, the natural history of pupillary deficits and external ophthalmoplegia in MFS has not yet been objectively described.
+
+### Literature Comparison
+
+Previous cases show variable presentations. Kaymakamzade et al. reported atypical MFS with external ophthalmoplegia preceding internal ophthalmoplegia, characterized by mydriasis and decreased light reactivity. Lopez et al. documented internal ophthalmoplegia as sole initial manifestation, with external ophthalmoplegia developing by day two and complete resolution in two months.
+
+The current case uniquely demonstrates that the internal and external ophthalmoplegia can occur together in MFS but are independent of each other in terms of onset, severity, and duration.
+
+### Mechanism
+
+Anti-GQ1b antibodies bind presynaptic receptors at the neuromuscular junction of cranial nerves (oculomotor, trochlear, abducens) innervating extraocular muscles, triggering acetylcholine release and impairing NMJ function. GQ1b gangliosides also localize to the ciliary ganglion, controlling pupillary sphincter and ciliary muscles, explaining internal and external ophthalmoplegia prevalence.
+
+### Clinical Significance
+
+Pupillometry provided objective measurements demonstrating independent recovery patterns: pupillary reactivity deteriorated acutely on hospital day 3 and resolved after four days (hospital day 7), while external ophthalmoplegia reached nadir on hospital day 7, persisted at discharge with minor improvement, and resolved after several weeks.
+
+## Key Finding
+
+This antibody-proven MFS case with positive anti-GQ1b titers objectively documents that internal and external ophthalmoplegia demonstrate independent disease courses regarding onset, severity, and duration.
+
+## Ethical Approval
+
+The case received IRB approval and ethical clearance. All studies adhere to the Declaration of Helsinki.
+
+## Consent
+
+Informed written consent was obtained from the patient for publication.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.

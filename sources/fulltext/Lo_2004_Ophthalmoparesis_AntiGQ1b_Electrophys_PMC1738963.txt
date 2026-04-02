@@ -1,0 +1,41 @@
+# Acute Ophthalmoparesis in the Anti-GQ1b Antibody Syndrome: Electrophysiological Evidence of Neuromuscular Transmission Defect in the Orbicularis Oculi
+
+**Citation:** Lo Y, Chan L, Pan A, Ratnagopal P. Acute ophthalmoparesis in the anti-GQ1b antibody syndrome: electrophysiological evidence of neuromuscular transmission defect in the orbicularis oculi. *J Neurol Neurosurg Psychiatry*. 2004 Mar;75(3):436-440. PMID: 14966161. PMC1738963.
+
+**DOI:** 10.1136/jnnp.2003.023630
+
+**Note:** PMC version is PDF-only (no XML/HTML fulltext). Publisher (BMJ) blocks automated access. Abstract and metadata extracted from PMC XML. Full PDF available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC1738963/pdf/v075p00436.pdf
+
+---
+
+## Authors
+
+- Y Lo, L Chan, A Pan, P Ratnagopal
+- Department of Neurology, National Neuroscience Institute, Singapore General Hospital, Singapore
+
+---
+
+## Abstract
+
+### Objective
+To prospectively study anti-GQ1b antibody positive cases of acute ophthalmoparesis (AO) clinically and electrophysiologically.
+
+### Methods
+Nine consecutive cases presenting with predominantly acute ophthalmoplegia were assessed clinically and had stimulated single fibre electromyography (SFEMG) of the orbicularis oculi at presentation. All had magnetic resonance imaging brain scans and anti-GQ1b antibody titres determined.
+
+### Results
+Four cases had elevated anti-GQ1b antibody titres and abnormal SFEMG studies, which improved in tandem with clinical recovery over three months. Five other anti-GQ1b antibody negative cases were diagnosed as diabetic related cranial neuropathy, idiopathic cranial neuropathy, ocular myasthenia gravis, and Tolosa-Hunt syndrome. All five cases showed complete recovery over a three month period.
+
+### Conclusions
+This study demonstrated electrophysiologically the dynamic improvement of neuromuscular transmission of anti-GQ1b antibody positive cases of AO, in tandem with clinical recovery. Stimulated single fibre electromyography (SFEMG) is of value in differentiating weakness due to neuromuscular transmission defect from neuropathy in these clinical situations.
+
+---
+
+## Key Points
+
+- Prospective study of 9 cases of acute ophthalmoparesis
+- 4/9 had elevated anti-GQ1b antibodies with abnormal stimulated SFEMG of orbicularis oculi
+- SFEMG abnormalities improved in parallel with clinical recovery over 3 months
+- 5 anti-GQ1b negative cases: diabetic cranial neuropathy, idiopathic cranial neuropathy, ocular myasthenia gravis, Tolosa-Hunt syndrome
+- SFEMG demonstrates neuromuscular transmission defect (not just neuropathy) in anti-GQ1b syndrome
+- Supports the concept that anti-GQ1b antibodies cause neuromuscular junction dysfunction at the ocular motor level

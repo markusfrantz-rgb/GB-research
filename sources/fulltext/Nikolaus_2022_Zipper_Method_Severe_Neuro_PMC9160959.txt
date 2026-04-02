@@ -1,0 +1,282 @@
+# Modified Zipper Method Research Article - Full Text
+
+## Title
+Modified Zipper Method, a Promising Treatment Option in Severe Pediatric Immune-Mediated Neurologic Disorders
+
+## Authors
+Marc Nikolaus, MD¹²; Fabienne Kühne, MD¹²; Anna Tietze, MD³; Julia Thumfart, MD⁴; Caroline Kempf, MD⁴; Alexander Gratopp, MD⁵; Ellen Knierim, MD¹²; Petra Bittigau, MD¹²; Angela M Kaindl, MD¹²⁶
+
+**Affiliations:**
+1. Department of Pediatric Neurology, Charité-Universitätsmedizin Berlin, Berlin, Germany
+2. Center for Chronically Sick Children, Charité-Universitätsmedizin Berlin, Berlin, Germany
+3. Institute of Neuroradiology, Charité-Universitätsmedizin Berlin, Berlin, Germany
+4. Department of Pediatric Gastroenterology, Nephrology and Metabolic Diseases, Charité-Universitätsmedizin Berlin, Berlin, Germany
+5. Department of Pediatric Pneumology, Immunology and Intensive Care, Charité-Universitätsmedizin Berlin, Berlin, Germany
+6. Institute of Cell Biology and Neurobiology, Charité-Universitätsmedizin Berlin, Berlin, Germany
+
+**Published:** Journal of Child Neurology, April 18, 2022; 37(6):505–516
+**DOI:** 10.1177/08830738221089476
+**PMCID:** PMC9160959
+**PMID:** 35435761
+
+---
+
+## Abstract
+
+### Objective
+To introduce and evaluate a modified version of the "zipper method"—a treatment strategy alternating intravenous immunoglobulin (IVIG) and plasma exchange (PLEX) first reported for 9 pediatric cases of Guillain-Barré syndrome in 2018—for treatment of severe immune-mediated neurologic disorders in children.
+
+### Methods
+The modified zipper method comprised longer intervals between PLEX-IVIG cycles (48 hours instead of 24 hours), more cycles (7-10 instead of 5), a consistent plasma volume exchange (instead of the original multistep approach), and variable infusion times for IVIGs (4-8 hours). The modified zipper method was applied as an individual treatment approach once standard therapy failed. The follow-up ranged from 6 months to 2 years. Cases were analyzed retrospectively. Disease severity was mainly quantified by the Guillain-Barré syndrome disability score.
+
+### Results
+Four children (9-15 years) with (1) Miller-Fisher syndrome, (2) Bickerstaff brainstem encephalitis, (3) common Guillain-Barré syndrome, and (4) severe acute disseminated encephalomyelitis were treated by the modified zipper method. Results for duration of mechanical ventilation (median of 12 days, interquartile range [IQR] 8-16), hospital stay (median of 23 days, IQR 22-24), and time to unaided walking (median of 22 days, IQR 21-37) outperformed previous studies with IVIG/PLEX alone or IVIG + PLEX combinations unlike the zipper method.
+
+### Conclusion
+The modified zipper method is associated with a low mortality, a short mechanical ventilation time, a short hospital stay, and an excellent outcome in children with severe Guillain-Barré syndrome or acute disseminated encephalomyelitis. Our regimen is streamlined for applicability. Results emphasize its robust effectiveness as an option for therapy escalation in severe neuroimmunologic diseases. Now, multicenter trials are needed to evaluate this novel treatment strategy.
+
+**Keywords:** Guillain-Barré syndrome, pediatric neurology, neuroimmunology, zipper method, plasma exchange, intravenous immunoglobulin
+
+---
+
+## Introduction
+
+Although concepts of autoimmunity are long established for diseases such as multiple sclerosis or myasthenia gravis, we are only beginning to understand autoantibody-driven processes as a driving force behind many more neurologic disorders. This applies to both Guillain-Barré syndrome and acute disseminated encephalomyelitis, 2 postinfectious, immune-mediated neurologic diseases characterized by rapid-onset and progressive clinical course. Acute disseminated encephalomyelitis is a demyelinating CNS disorder with polyfocal neurologic deficits and encephalopathy, showing a general predilection to early childhood (prevalence 0.3-0.6:100 000). Guillain-Barré syndrome is defined by peripheral neuropathy with progressive symmetrical muscle weakness and sensory loss, may occur at any age, and is the most common cause of acute flaccid paralysis in children (prevalence 1-2:100 000).
+
+Acute disseminated encephalomyelitis typically progresses fulminantly, as patients develop ataxia, impairment of speech, optic neuritis, seizures, and further symptoms within days. Characteristic magnetic resonance imaging (MRI) findings are multifocal confluent and asymmetrically distributed cerebral and spinal T2 hyperintensities. Severe courses needing intensive care treatment are reported for 15% to 25% of the cases. The outcome of acute disseminated encephalomyelitis is generally favorable with full recovery of most children within weeks. However, long-term cognitive deficits affecting attention, verbal processing, and behavior have been observed, and the mortality rate is 1% to 3%.
+
+The clinical presentation of Guillain-Barré syndrome—and overlap syndromes within the Guillain-Barré syndrome spectrum like Miller-Fisher or Bickerstaff brainstem encephalitis—is more heterogeneous in distribution and severity of neurologic deficits. Although some patients experience spontaneously resolving discrete paresis only, others develop paralysis of limb muscles ascending to respiratory, oropharyngeal, facial and oculomotor weakness, autonomic dysfunction, and neuropathic pain within days. Overall, 25% of the patients develop severe phenotypes with respiratory insufficiency requiring invasive mechanical ventilation. The majority of Guillain-Barré syndrome patients though experience a slow spontaneous recovery. Nonetheless, many children develop chronic fatigue and/or pain, 20% remain unable to walk 6 months after treatment, and 2% to 10% die during the course of disease.
+
+Both Guillain-Barré syndrome and acute disseminated encephalomyelitis spectrum diseases often show prodromal infectious symptoms. In Guillain-Barré syndrome, two-thirds follow an infection of the respiratory or gastrointestinal tract, predominantly with *Campylobacter jejuni*. Most likely as a result of molecular mimicry, these infections trigger the development of anti-ganglioside antibodies (eg, anti-GM1/GQ1b) and other antibodies targeting myelin. They direct an immune reaction toward peripheral nerves causing demyelination and axonal damage. Given this autoimmune cascade, for more than 30 years treatment of Guillain-Barré syndrome focuses on the neutralization of autoantibodies through intravenous immunoglobulin (IVIG) application and/or their removal through plasma exchange (PLEX).
+
+Less is known concerning causative links to preceding infections in acute disseminated encephalomyelitis. However, since the discovery of anti–myelin oligodendrocyte glycoprotein (anti-MOG) antibodies, now detected in half of the cases, an autoimmune partly antibody-driven etiology is presumed, justifying the current first-line therapy with high-dose corticosteroids. IVIG and PLEX treatment is administered second-line in cases of severe or steroid-unresponsive acute disseminated encephalomyelitis but has only been described in single reports or small case series.
+
+In Guillain-Barré syndrome, both IVIG and PLEX have been proven effective, and taken separately are able to reduce the disease duration, accelerate recovery, and improve the patients' outcome in motor function—particularly when the treatment is started immediately. Nevertheless, the outcome of patients with severe Guillain-Barré syndrome remains unsatisfactory, and mortality is high even in children. Therefore, therapeutic regimens have been modified for years in terms of dosage, duration, and order of the 2 medications. Yet, data remain inconclusive, and further randomized controlled studies are largely missing, especially for children. Although some studies favor PLEX particularly for severe cases to reduce the duration of mechanical ventilation, others comparing PLEX and IVIG could not show significant advantages of one over the other. A treatment with PLEX and IVIG in sequential combination, with one modality following the other, did not seem superior to one substance alone, and the introduction of immunoadsorption did not change this picture.
+
+A novel treatment strategy referred to as the "zipper method" was reported in a small cohort of 9 pediatric Guillain-Barré syndrome patients in 2018. The authors claimed that this stringently alternating IVIG and PLEX approach reduced mortality, mechanical ventilation duration, and overall hospital stay and improved the motor function outcome. Although this approach appeared promising in the treatment of children with Guillain-Barré syndrome, no follow-up studies were published. Here, we present our experience in the treatment of 4 children with severe neuroimmunologic diseases (Guillain-Barré syndrome spectrum, acute disseminated encephalomyelitis) treated with a modified version of the original zipper method.
+
+---
+
+## Material and Methods
+
+### Subjects
+
+We analyzed retrospectively the electronic and paper-based medical files of 4 children, aged 9-15 years, with neuroimmunologic disease requiring intensive care treatment and who were treated with a modified version of the original zipper method. The children were admitted to our hospital between February 2019 and June 2020 because of severe Guillain-Barré syndrome spectrum disease (n = 3) or acute disseminated encephalomyelitis (n = 1). Diagnostic workup included clinical examination, cranial and spinal MRI with contrast, electrophysiological investigations, cerebrospinal fluid analysis, and extended infectiology and autoimmunology studies. A follow-up period ranging from 6 months to 2 years was documented and included intensive care unit treatment, time on the regular ward, and rehabilitation period. Disease severity and clinical course were quantified by applying the Guillain-Barré syndrome disability score, a widely used scoring system to assess the functional status of patients with Guillain-Barré syndrome. It considers motor function with a focus on the patient's ability to walk. Guillain-Barré syndrome disability scores were assigned to modified Rankin Scores. For the outcome measures of days of mechanical ventilation, duration of hospital stay, and time to unaided walking, median values and interquartile ranges (IQRs) were calculated. All patients and their caregivers provided written informed consent.
+
+### Treatment Protocol According to the Zipper Method
+
+All patients were treated with a modified version of the original zipper method. According to the classic protocol, PLEX starts immediately after the diagnosis of Guillain-Barré syndrome is established. The first PLEX removes 1.5 times the patient's plasma volume and replaces it with 5% albumin. Immediately afterward, 0.4 g/kg IVIG must be administered. An infusion time is not specified. Twenty-four hours after the end of the IVIG infusion, a second PLEX removes 1 time the plasma volume. During the third cycle, fluid replacement is performed with fresh-frozen plasma because of the risk of hypofibrinogenemia. The cycles of PLEX and subsequent IVIG should be repeated 5 times within 7 days.
+
+Deviating from the original protocol, our modified zipper method mainly comprised (1) a longer interval of 48 hours between 2 PLEX sessions, (2) 7 to 10 instead of 5 cycles, and (3) a consistent plasma volume exchange of 1.5 times for every cycle. In addition, IVIG infusions were administered at a dose of 0.4 g/kg and variable infusion times (4-8 hours) and fluid replacement in most cases was conducted with fresh-frozen plasma rather than albumin. Details are stated in the results section. In all 4 cases, the modified zipper method was not initiated immediately after a diagnosis was established, but rather after initial treatment failed. It was applied as an individual treatment approach once the indication for PLEX, including the catheter placement, was made due to the severe clinical course. All caregivers gave informed consent. Treatment failure was defined as ongoing disease progression despite treatment. Initial treatment prior to the modified zipper method was 3 of 4 cases carried out in the hospitals that patients were admitted to prior to transfer to center. In 1 case (patient 1), this treatment deviated from standard of care (treatment with intravenous [IV] steroids instead of IVIG).
+
+During the time of this study, further 15 patients with Guillain-Barré syndrome (cases with less disease severity, without mechanical ventilation) and 4 patients with acute disseminated encephalomyelitis (milder cases, MOG-negative) were successfully treated in our hospital with standard therapy.
+
+---
+
+## Results
+
+### Patient 1
+
+A 15-year-old previously healthy boy presented with general muscle weakness and double vision, which had developed on the same day. Within 7 hours, he was no longer ambulatory. Physical examination on admission revealed trochlearis, abducens and facial nerve palsies, areflexia of upper and lower extremities, and fast-progressing paralysis and dysphagia. Within 3 hours after admission, he required orotracheal intubation and mechanical ventilation. A tracheostomy was performed 4 days later. The cranial and spinal MRIs with contrast were unremarkable. Cerebrospinal fluid analysis showed normal cell count, elevated protein levels, and a highly positive titer of antiganglioside M1 IgM. Extended screening for infectious diseases detected a positive serology for *C jejuni*. Electrophysiological studies including visual and brainstem auditory evoked potentials revealed involvement of the optic nerve and brainstem. Repeated nerve conduction studies indicated a progressive axonal neuropathy. Based on these findings, we diagnosed a Guillain-Barré syndrome/Miller-Fisher overlap syndrome, subtype of acute motor axonal neuropathy.
+
+After an unsuccessful initial treatment with a 3-day course of IV methylprednisolone (1 g/kg/d), which is not the standard treatment, the patient was transferred to our hospital. Because of the rapid progression at our center, we initiated the modified zipper method. After the second cycle, disease progression stopped, from the fifth treatment cycle onwards motor function improved slowly, and we were able to end the treatment after 7 cycles. Associated autonomous symptoms including arterial hypertension and mild neuropathic pain were controlled with amlodipine (0.1 mg/kg/d, oral) and pregabalin (4 mg/kg/d, oral), respectively. A ventilator-associated pneumonia was treated with antibiotics, and the patient was successfully weaned to a home care ventilator after 12 days. When transferred to rehabilitation after 21 days in the intensive care unit, the abducens nerve palsy was still present. The patient was able to move his head with elimination of gravity (2/5) and elicit contractions in the upper (1/5) but not lower (0/5) extremity muscles. During rehabilitation, respiratory support was weaned and terminated after 30 days, and the patient could be decannulated after further 13 days. He was discharged ambulatory, but with persistent muscle weakness 50 days after the onset of symptoms. Six months later, he was symptom-free, and no relapse occurred 2 years later.
+
+### Patient 2
+
+A 15-year-old girl with an unremarkable medical history was presented with a 4-day history of impaired consciousness, headache, unsteady gait, fever, lymphadenopathy, and tonsillitis. Clinical examination revealed splenomegaly and reduced muscle strength. A lumbar puncture revealed profound albuminocytologic dissociation but was negative for anti-ganglioside antibodies. When empiric virostatic and antibiotic treatment had been started, we detected a primary infection with Epstein-Barr virus. In addition, a first MRI revealed a mild cytotoxic lesion of the corpus callosum without contrast enhancement, that is, discrete signal changes in the splenium as a result of a cytokinopathy. Nerve conduction studies were consistent with an acute demyelinating polyneuropathy. Within 3 days, the patient developed ascending flaccid paralysis up to tetraplegia, pain, areflexia, reduced vigilance, and respiratory exhaustion. We started mechanical ventilation on the third day after admission. At that time, a follow-up MRI revealed progressive nonenhancing signal alterations in the thalamus, internal and external capsula, basal ganglia, cerebellum, and pontine tegmentum as well as diffuse supra- and infratentorial cortical swelling. To treat cerebral edema, IV dexamethasone (0.3 mg/kg/d) was administered for 2 weeks. Based on all findings, we diagnosed the Guillain-Barré syndrome subtype of acute inflammatory demyelinating polyradiculoneuropathy subtype DD anti-ganglioside-negative Bickerstaff brainstem encephalitis associated with primary Epstein-Barr virus infection.
+
+One week after symptom onset, we initiated 7 cycles of the modified zipper method. Symptoms resolved rapidly and the patient was extubated after the fourth cycle. In a follow-up MRI 14 days after initiation of the zipper method, edema and signal alterations had resolved, and the patient was transferred to a regular ward. While muscle reflexes remained slightly reduced, no residual paralysis was observed. Twenty days after the first cycle of modified zipper method the patient regained full motor function. She was discharged home after 25 days of hospital treatment.
+
+Altogether, the long-term outcome was very favorable. While the patient still noticed a minimal reduced ability to concentrate on the day of discharge, a neurocognitive evaluation 3 months post symptom onset was unremarkable. She was still symptom-free at a follow-up evaluation 9 months post symptom onset.
+
+### Patient 3
+
+A 12-year-old previously healthy female presented with a 7-day history of bilateral dysesthesia in her feet, bilateral ascending muscle weakness of her legs, and diurnal enuresis. An upper respiratory tract infection with fever was reported 7 days prior to symptom onset. Physical examination revealed flaccid bilateral symmetric paralysis of the lower extremities, slurred speech, and beginning dysphagia. MRI revealed signs of cervical and lumbar polyradiculitis. Cerebrospinal fluid analysis demonstrated considerable albuminocytologic dissociation without detection of anti-ganglioside antibodies. Together with the results of a nerve conduction study (considerable slowing and prolonged distal motor latency), the patient fulfilled the criteria for the Guillain-Barré syndrome subtype acute inflammatory demyelinating polyradiculoneuropathy.
+
+An initial 3-day course of IVIG (1 g/kg/d) initiated 3 days after admission did not prevent disease progression with complete tetraplegia, arterial hypertension and severe neuropathic pain. While blood pressure was controlled with oral propranolol (1.5 mg/kg/d) and nifedipine (0.5 mg/kg/d), pain proved to be therapy refractory after several attempts with various regimens including oral gabapentin (50 mg/kg/d), amitriptyline (1 mg/kg/d) and carbamazepine (7.5 mg/kg/d), continuous infusion of esketamine (0.1 mg/kg/hours) and topical treatment with lidocaine 5% ointment. An acquired pneumonia was treated successfully with clarithromycin. Despite early respiratory support via non-invasive ventilation (NIV) and a cough assist device to clear secretion, dysphagia and dyspnea progressed to respiratory insufficiency. The patient required orotracheal intubation followed by tracheostomy 14 days after admission. Follow-up MRI showed progressing polyradiculitis, with contrast enhancement of now all spinal and most cranial nerves (III, V-VII, IX-XI). Thus, therapy was intensified by 10 courses of our modified zipper method. In doing so, the motor function slowly improved starting from second cycle, and neuropathic pain – therapy refractory at the beginning – resolved after 8 cycles. Respiratory support was weaned to NIV and high-flow nasal cannula (HFNC) 7 days and terminated 14 days after starting the first cycle. After 21 days on the intensive care unit, the patient was decannulated and transferred to a rehabilitation center. After 25 days of rehabilitation, the patient was discharged without clinical findings. She was symptom-free 6 months after start of the disease but lost to follow-up afterwards.
+
+### Patient 4
+
+A 9-year-old boy without pre-existing conditions developed rapid progressing fatigue, weakness, confusion, and reduced consciousness after a 3-day episode of fever and vomiting. Neuroimaging revealed large multifocal and confluent demyelinating T2 hyperintense lesions with contrast uptake (periventricular, juxtacortical, striatocapsular and thalamic, cerebellar, in the brainstem and spinal cord). Cerebrospinal fluid analysis demonstrated normal cell count and lactate and protein levels but showed type 2 oligoclonal bands. An acute disseminated encephalomyelitis was suspected.
+
+Initial treatment with a 5-day course of IV methylprednisolone (30 mg/kg/d) followed by 5 days of IVIG (0.4 g/kg/d) could not prevent further deterioration with vision loss, somnolence, general increase in muscle tone up to full rigor, and severe agitation. Electrophysiological studies including visual and somatosensory evoked potentials as well as nerve conduction studies detected a demyelinating neuropathy. EEG demonstrated encephalopathy with diffuse slowing, but no epileptiform discharges. Results of further analyses for anti-neuronal autoantibodies in cerebrospinal fluid and serum including MOG antibodies were negative, and extended screening for infections was unremarkable.
+
+We thus intensified immunosuppressive therapy by 7 courses of our modified zipper method. Rigor and spasticity were treated with oral baclofen (1.5 mg/kg/d). Agitation was controlled with IV lormetazepam (3 µg/kg/h), oral clonidine (4 µg/kg/d), and oral chloralhydrate (100 mg/kg/d). Autonomous symptoms including arterial hypertension and neuropathic pain were treated with enalapril (0.2 mg/kg/d, oral) and gabapentin (30 mg/kg/d, oral), respectively. Neither respiratory nor circulatory support were necessary. We initiated our modified zipper method protocol. Starting with the third course of PLEX and IVIG, the patient showed improvement in vigilance and motor function as well as a decrease in spasticity and pain. He began to communicate, was alert, and could see, swallow, and eat again. After 10 days on the intensive care unit and 5 cycles, the patient had improved significantly and could be transferred to a regular ward, where sedative and analgesic medication were tapered and discontinued successfully. Although a follow-up MRI showed an improvement of signal alterations, electrophysiological results still demonstrated a neuropathy. Therefore, oral immunomodulatory therapy with mycophenolate mofetil (20 mg/kg/d) and prednisone (0.2 mg/kg/d) was started after completing 7 courses of the modified zipper method.
+
+Thirty days after his first symptoms, the patient was transferred to rehabilitation, where he continued to improve. After a further month, muscle strength was partly regained (3-4/5). The boy could sit without help and communicated age-appropriately. Forty-five days after starting the first cycle of zipper method, most of the MRI lesions had improved considerably, but a supratentorial, posttreatment cerebral atrophy remained. Because of residual spasticity, oral baclofen (1.5 mg/kg/d) was continued, and an intention tremor of the upper extremities was controlled with oral tetrabenazine (1.25 mg/kg/d). New dystonic paroxysms were successfully controlled with levetiracetam (20 mg/kg/d, oral). Six months after the first symptoms, enalapril, baclofen, and prednisone were tapered, whereas treatment with tetrabenazine, levetiracetam and immunomodulation with mycophenolate mofetil was continued. The patient was ambulatory, and motor impairments were limited to a tremor and a more rapid exhaustion on physical exertion. He remained without seizures. The main concern was a cognitive impairment, particularly with decrease in processing speed and a reduced performance of working memory and attention. The patient attended school regularly but with poor performance.
+
+Thirteen months after the initial episode, the patient experienced severe ataxia and MRI showed new contrast-enhancing lesions. Again, MOG antibodies were negative. The relapse was controlled with a 5-day course of IV methylprednisolone (30 mg/kg/d). Currently, differential diagnoses include acute disseminated encephalomyelitis relapse, or multiphasic disseminated encephalomyelitis, and multiple sclerosis. A therapy escalation to rituximab is under discussion.
+
+---
+
+## Tables and Figures
+
+### Table 1. Symptoms and Diagnostics of 4 Patients Treated With the Modified Zipper Method
+
+| Patient no. | Age (y) | Sex | Prodrome | Symptoms and progression | Autonomic dysfunction | CSF | MRI | Electrophysiology | ICU due to |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 15 | M | None | Muscle weakness, double vision, 4th, 6th, 7th nerve palsy, areflexia, dysphagia, tetraplegia within 1 d. Admission. Intubation on 1st day. | Arterial hypertension, neuropathic pain | WBC: 2 [<5], Protein: 481 mg/L [150-450], Infectious: *Campylobacter jejuni* Autoimmune: anti-GM1 IgM | Normal | Abnormal: neurography, VEP, AEP | Ascending flaccid paralysis, respiratory insufficiency |
+| 2 | 15 | F | Fever, headache, swollen lymph nodes, splenomegaly | Progressing fatigue, gait disturbance, confusion, muscle weakness for 4 d. Admission. Somnolence, GCS score 8, dysphagia, hyporeflexia, tetraplegia. Intubation on 3rd day. | Neuropathic pain | WBC: 2 [<5], protein: 858 mg/L [150-450] Infectious: EBV-PCR + IgM, Autoimmune: negative | T2 lesions: corpus callosum, basal ganglia, thalamus, pyramidal tract. Resolved within 10 d | Abnormal: neurography, VEP, AEP, EEG | GCS score 8, dysphagia, hyporeflexia, flaccid paralysis |
+| 3 | 12 | F | Upper respiratory tract infection | Paresthesia, weakness in both legs, ascending tetraplegia with facial palsy within 1 wk. Admission. Neuropathic pain, respiratory insufficiency. NIV. Intubation after 14 d. | Arterial hypertension, neuropathic pain | WBC: 7 [<5], Protein: 5041 mg/L [150-450], Infectious: negative Autoimmune: negative | Polyradiculitis: 3rd, 5th-7th, and 9th-11th cranial nerves, all spinal nerves. | Abnormal: neurography | Ascending flaccid paralysis, respiratory insufficiency |
+| 4 | 9 | M | Fever, vomiting | Fatigue, confusion, somnolence for 3 d. Admission. Lack of movement, dysphagia, rigor, spasticity, agitation, dystonic seizures, intention tremor. No Intubation. | Arterial hypertension, neuropathic pain | WBC, protein: normal OCB: positive, type 2 Infectious: negative Autoimmune: negative | Confluent, contrast pos T2 lesions: periventricular, juxtacortical, striatocapsular, bithalamic, cerebellar, pontine, spinal. Resolved within 3 mo, persistent atrophy | Abnormal: VEP, SSEP, EEG | Somnolence, dysphagia, rigor |
+
+**Abbreviations:** AEP, auditory evoked potential; CSF, cerebrospinal fluid; EBV, Epstein-Barr virus; EEG, electroencephalography; GCS, Glasgow Coma Scale; ICU, intensive care unit; IgM, immunoglobulin M; NIV, noninvasive ventilation; OCB, oligoclonal bands; PCR, polymerase chain reaction; SSEP, somatosensory evoked potentials; VEP, visual evoked potential; WBC, white blood cell count.
+
+### Table 2. Modified Zipper Method: Treatment Details, Clinical Course, and Outcome
+
+| Patient no. | Therapy prior to MZM | Cycles | IVIG dosage (g/kg) | IVIG infusion (h) | PLEX parameters | Start of "zipper" after first admission (d) | Start of improvement | First, improvement of | Mechanical ventilation (d) | Hospital stay (d) | Progress with treatment | GBS disability score: On admission | On nadir of disease | On ICU discharge | After rehab |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 3-d course of IV methylprednisolone (1 g/kg/d) | 7 | 0.4 | 4 | 2.5 L (1.0×) plasma volume exchange, 2 h, replacement with FFP, 48 h interval | 5 | 2nd cycle | Respiration | 21 | ICU: 22 rehab: 29 | No | 4 (mRS 5) | 5 | 5 | 1 |
+| 2 | 2 weeks of IV dexamethasone (0.3 mg/kg /d) (for cerebral edema) | 7 | 0.4 | 8 | 2.5L (1.1×) plasma volume exchange, 2 h, replacement with FFP, 48 h interval | 5 | 1st cycle | Global | 10 | ICU: 19; regular: 6 | No | 3 (mRS 5) | 5 | 3 | 0 |
+| 3 | 3-d course of IVIG (1 g/kg/d) | 10 | 0.4 | 4 | 1.5× plasma volume exchange, 2 h, replacement with FFP, 48 h interval | 12 | 2nd cycle | Strength | 14 | ICU: 21; rehab: 25 | No | 5 (mRS 5) | 5 | 3 | 0 |
+| 4 | 5-d course of IV methylprednisolone (30 mg/kg/d) followed by 5 d of IVIG (0.4 g/kg/d) | 7 | 0.4 | 6 | 1.5× plasma volume exchange, 2 h, replacement with HA 5%, after 3rd cycle FFP + vitamin K substitution, 48 h interval | 15 | 3rd cycle | Vigilance | 0 | ICU: 10; regular: 13; rehab: 30 | No | 4 (mRS 5) | 4 | 4 | 0 |
+
+**Abbreviations:** FFP, fresh-frozen plasma; GBS, Guillain-Barré syndrome; HA, human albumin; ICU, intensive care unit; IVIG, intravenous immunoglobulin; mRS, modified Rankin Score; PLEX = plasmapheresis; regular, regular ward; rehab, rehabilitation clinic.
+
+### Table 3. Outcome After Original and Modified Zipper Method Compared to Previously Published Treatment Strategies Including PLEX and IVIG
+
+| | PLEX | IVIG | PLEX + IVIG | ZIPPER method—Original | ZIPPER method—Modified |
+|---|---|---|---|---|---|
+| Days of mechanical ventilation; original zipper: mean; previous data and "modified": median (IQR) | 29 (14-57) | 26 (15-45) | 18 (10-56) | 7 | 12 (8-16) |
+| Days of hospital stay, without rehab; original zipper: mean; previous data and "modified": median (IQR) | 63 (28-124) | 53 (21-135) | 51 (24-117) | 18 | 23 (22-24) |
+| Days to unaided walking; original zipper: mean; previous data and "modified": median (IQR) | 49 (19-148) | 51 (20-164) | 40 (19-137) | 24 | 22 (21-37) |
+
+---
+
+## Discussion
+
+A novel treatment strategy for severe Guillain-Barré syndrome referred to as zipper method, a strict alternating application regimen of PLEX and IVIG, was presented in 2018 by Kesici et al. Here, IVIG was administered immediately after every PLEX with a 24-hour interval from the end of an IVIG infusion to the next PLEX session. Started at an early stage of disease, PLEX would not only remove autoantibodies from the plasma but also control hypercytokinemia, decrease leukocyte degranulation, and inhibit macrophage activation and phagocytosis. IVIG after each PLEX would block the antibodies' Fc receptors, inhibit complement activation, and neutralize new autoantibodies, shifted from tissue to plasma and regenerated in a rebound because of its clearance during PLEX. Because of assumed antibody kinetics, a 24-hour interval was set for achieving this synergistic effect. Applied to 9 pediatric patients, this treatment regimen resulted in an excellent outcome and was claimed to function as a promising immunomodulation strategy for various indications and scenarios.
+
+### Application of Modified Zipper Method to Various Neuroimmunologic Diseases
+
+Here we report the treatment of 4 patients with severe and progressing neuroinflammatory conditions with a modified version of the original zipper method. In doing so, we also extended the indication for this novel therapy regimen. Although the original report restricted the zipper method to acute motor axonal neuropathy, the subtype for which an antibody-mediated autoimmunity is most accepted (molecular mimicry), we applied it to patients covering the whole spectrum of Guillain-Barré syndrome. This included 1 acute inflammatory demyelinating polyradiculoneuropathy subtype, which is the most common entity in children, usually antibody-negative and with an often more favorable outcome compared to acute motor axonal neuropathy, 1 Guillain-Barré syndrome/Miller-Fisher overlap syndrome of acute motor axonal neuropathy subtype with proven *C jejuni* infection and anti-GM1 antibodies, and 1 Bickerstaff brainstem encephalitis overlap associated with Epstein-Barr virus infection. Beyond Guillain-Barré syndrome, we also applied it to a very severe case of acute disseminated encephalomyelitis. In 3 of 4 cases, symptoms of a prodromal infection were reported and in 2 of 4 cases, we found serologic proof for an acute infection. In 3 of 4 cases, MRI revealed abnormalities (eg, extended polyradiculitis, confluent cortical/white matter T2 hyperintensities) typical for Guillain-Barré syndrome and acute disseminated encephalomyelitis, respectively. In all cases (4/4), electrophysiological studies showed alterations expected in Guillain-Barré syndrome or acute disseminated encephalomyelitis. A significant albuminocytologic dissociation was detected in all Guillain-Barré syndrome cases (3/3), whereas no characteristic antineuronal antibody (eg, MOG) was found in the patient with acute disseminated encephalomyelitis.
+
+Although different in clinical presentation and diagnosis, all 4 cases showed a similar fulminant deterioration, fast progression, and developed a severe clinical course. Time from onset of prodromal symptoms to admission was 1 to 7 days, time from admission to intensive care unit transfer ranged from some hours (patient 1) to 10 days (patient 4). The indication for intensive care unit treatment was tetraplegia and respiratory failure in all Guillain-Barré syndrome cases (3/3), and reduced vigilance, dysphagia, and rigor in the patient with acute disseminated encephalomyelitis, as well as autonomic dysregulation in 3 of 4 cases. The electrophysiologic findings emphasize the severity of neuropathy. In patient 1, nerve conduction studies on disease nadir revealed neuropathy with axonal damage on upper and low extremities consistent with acute motor axonal neuropathy. Patient 2 showed a mild demyelinated neuropathy of the lower extremities. In patient 3, we found the full picture of severe acute inflammatory demyelinating polyradiculoneuropathy with demyelinating neuropathy in upper and lower extremities and several nerves that were already nonresponsive. In patient 4, subtle signs of demyelinating neuropathy in the lower extremities were detected.
+
+### Modification of the Original Zipper Method
+
+Apart from extending the zipper method to indications beyond acute motor axonal neuropathy type Guillain-Barré syndrome, we also extended but simplified the original protocol to make it easier to use, more flexible and less logistically challenging. In short, treatment was carried out with longer intervals between 2 cycles, a higher number of cycles, consistent plasma volume exchange, and variable IVIG infusion times. In detail, PLEX – IVIG cycles were administered at the more common 48-hour interval between 2 PLEX sessions rather than 24 hours between the end of an IVIG infusion and start of the next PLEX session. Although longer intervals are well established in PLEX protocols for various indications, we found no data supporting the precise 24-hour alternation proposed in the original protocol and did not consider it necessary for the synergistic effect of alternating both modalities. Given our experience with the treatment of other severe neuroimmunologic diseases using PLEX, we prolonged the regimen by performing at least 7 cycles instead of 5 and extending their number up to 10. As IVIG infusion time was not specified in the original protocol, we allowed variation of 4-8 hours because of the duration of other intensive care unit treatments. PLEX sessions were run with a consistent plasma volume exchange (1.5× or maximum 2.5 L of exchange) rather than the original zipper method approach that involved an initial plasma volume exchange of 1.5×, followed by 1.0× in following sessions. Volume replacement was carried out either with fresh-frozen plasma (in 3/4 cases) or albumin (in patient 4). IVIG was tolerated well in all 4 patients, and PLEX was performed without dialysis-related incidents such as circulatory problems, bleeding, or imbalances in electrolytes or IG levels. Despite the expanded procedure, no catheter-associated complications, for example, bloodstream infections, occurred.
+
+### Clinical Course Under Modified Zipper Method
+
+Despite initial attempts with standard therapeutic approaches (courses of IV methylprednisolone and IVIG alone) in all but 1 patient who received IV prednisolone, all 4 patients showed rapid deterioration. Rather than escalating the therapy to PLEX, we chose to apply our modified zipper method as an individual treatment regimen. It was initiated on average 5 days after admission and 9 days following symptom onset. This is in contrast to the rapid application of the original zipper method as primary treatment 1 day after admission and on average 3 days following symptom onset.
+
+Under the modified zipper method, disease progress was halted in all patients. First clinical effects were seen early after the first to third cycle, and further immediate improvement became evident until the sixth to seventh round—except for patient 3. In the latter, we prolonged the treatment because of ongoing significant benefit after the seventh cycle. Despite a long disease course, as expected especially for Guillain-Barré syndrome, the eventual outcome turned out positive in all 4 cases. The duration of mechanical ventilation amounted to 21 days in patient 1 (tracheal cannula, switch to home respirator after 12 days, weaning on continuous positive airway pressure and high-flow nasal cannula after 18 days, decannulation after 43 days), 14 days in patient 3 (tracheal cannula, weaning on continuous positive airway pressure and high-flow nasal cannula after 7 days, decannulation after 25 days), and only 10 days in patient 2 (endotracheal intubation, extubation after 10 days, weaning on high-flow nasal cannula for 3 days). Patient 4 did not develop respiratory failure. The duration of intensive care unit stays varied from 10 to 22 days. An inpatient rehabilitation of 3-4 weeks followed in 3 of 4 cases. The patients' overall functional status was assessed via Guillain-Barré syndrome disability score and modified Rankin Score. On admission, all 4 patients were bedridden with a modified Rankin Score of 5 due to progressing flaccid paralysis (except for patient 4), and a Guillain-Barré syndrome disability score of 3-5. Deterioration during the first days after admission resulted in a Guillain-Barré syndrome disability score of 4-5 on disease nadir. At the end of 7 to 10 cycles of zipper method, Guillain-Barré syndrome disability score still amounted to 3-5. Although patients could be discharged from the intensive care unit because of a controlled respiratory situation and resolved autonomic dysfunction, flaccid paralysis only improved with delay, and 3 of 4 patients were still severely impaired in motor function. After rehabilitation, a Guillain-Barré syndrome disability score of 0-1 revealed the favorable outcome and an almost complete restitution of motor function in all patients. The ongoing improvement with latency after completion of the modified zipper method treatment was reached without further immunosuppressive therapy—except for patient 4, where because of the different diagnosis, a long-term immunomodulation with mycophenolate mofetil was started.
+
+### Robust Effectiveness of the Modified Zipper Method
+
+As Kesici et al, we could only relate our outcome data with previous studies on treatment of Guillain-Barré syndrome in adults, as there are limited randomized controlled trials in children, which mostly comprise mild cases. In our first experience with the modified zipper method, patients needed mechanical ventilation for a median of 12 days (IQR 8-16 days) and could be discharged from the hospital after a median of 23 days (IQR 22-24 days). Time to unaided walking, representative for the neurologic outcome and functional status of the patients, was a median of 22 days (IQR 21-37 days). In comparison, adult patients treated with IVIG or PLEX alone needed mechanical ventilation for a median of 26 or 29 days, were discharged after a median of 53 or 63 days, and were able to walk again unaided after a median of 49 or 51 days, respectively. For patients treated with a combination of IVIG and PLEX in a sequential regimen, it was a median of 18 days on mechanical ventilation, a median of 51 days in the hospital, and a median of 40 days to unaided walking. Our data are within the same range as that reported for the original zipper method, with mechanical ventilation time of 7 days, discharge from the hospital after 18 days, and unaided walking after 24 days (mean values, no standard deviation reported). Both our patients and the original series in Kesici et al showed a relatively rapid gain in motor function and eventually had an excellent outcome, whereas in previous studies, after 48 weeks 13% to 17% of the patients were still unable to walk unaided. Moreover, in previous studies, hospital-acquired infections during intensive care unit treatment were most often responsible for the high mortality in severe Guillain-Barré syndrome. In contrast, the respirator-associated pneumonia in 2 of our 4 patients was easily controlled, and as in Kesici et al, none of our patients died. This also might reflect a faster stabilization of the respiratory situation by the modified zipper method.
+
+---
+
+## Conclusion
+
+Because of its retrospective design, the heterogeneity of patients, and the lack of controls, our study holds several limitations. With only 4 patients, it comprises a small and highly heterogenous series of severe pediatric immune-mediated neurologic disorders. In this mixed group, the modified zipper method was applied as individual treatment approach once initial therapy failed. As a consequence, each patient received different initial therapeutic attempts of various duration prior to the application of the modified zipper method, which started from different time points after symptom onset, accordingly. This, in particular, deviates from the original report by Kesici et al, comprising a more homogenous cohort that immediately received the zipper method as the only treatment. Therefore, a direct correlation between the novel treatment regimen and clinical improvement was more obvious, whereas in our study overlapping effects between initial therapy and the modified zipper method cannot be excluded despite the rapid stop of disease progression in all patients.
+
+Despite these limitations, in summary, our data support the effectiveness of the modified zipper method. Similar to the original zipper method, the modified regimen, streamlined and simpler to use, still appears to lower mortality, reduce time on mechanical ventilation, and shorten hospital stays, altogether leading to an excellent outcome in children with severe Guillain-Barré syndrome. However, because our study was not powered to be able to draw firm conclusions on outcome measures, it rather represents a first experience with the zipper method in another cohort, providing some external validation to the original report from Kesici et al.
+
+In addition, we showed, that this novel treatment strategy can be applied safely and effectively not only in acute motor axonal neuropathy subtype but also in severe cases of acute inflammatory demyelinating polyradiculoneuropathy, overlap syndromes within the Guillain-Barré syndrome spectrum, and even other autoantibody-driven conditions like acute disseminated encephalomyelitis. A current case report about successfully treating chorea in a child with systemic lupus erythematosus using zipper method further indicates a robust effectiveness of the zipper method as an option for therapy escalation in a further scenario.
+
+A proper evaluation of the method remains difficult because most previous studies are outdated. Therefore, it is hard to assess certain parameters like days of hospital stay or even mortality today. Randomized controlled trials investigating, for example, whether to prefer immunoadsorption to PLEX in cases of antibody-driven etiology, are missing, and despite its persistently high mortality, there is no consensus on treatment strategies for children with severe Guillain-Barré syndrome or acute disseminated encephalomyelitis. Thus, after its introduction in 2018 by Kesici et al and our data supporting its effectiveness in another limited number of patients, it now needs prospective studies or registry data—for example, the new German registry for therapeutic apheresis in pediatric dialysis facilities—with cohorts large enough to challenge the zipper method and evaluate its possibilities.
+
+---
+
+## References
+
+1. Tenembaum S, Chitnis T, Ness J, Hahn JS, Group IPMS. Acute disseminated encephalomyelitis. Neurology. 2007;68(16):S23-S36. doi: 10.1212/01.wnl.0000259404.51352.7f.
+
+2. Hicks CW, Kay B, Worley SE, Moodley M. A clinical picture of Guillain-Barré syndrome in children in the United States. J Child Neurol. 2010;25(12):1504-1510. doi: 10.1177/0883073810370481.
+
+3. Sejvar JJ, Baughman AL, Wise M, Morgan OW. Population incidence of Guillain-Barré syndrome: a systematic review and meta-analysis. Neuroepidemiology. 2011;36(2):123-133. doi: 10.1159/000324710.
+
+4. Pohl D, Alper G, Haren KV, et al. Acute disseminated encephalomyelitis updates on an inflammatory CNS syndrome. Neurology. 2016;87(9 Supplement 2):S38-S45. doi: 10.1212/wnl.0000000000002825.
+
+5. van Koningsveld R, Steyerberg EW, Hughes RA, Swan AV, Doorn van, Jacobs PA. BC. A clinical prognostic scoring system for Guillain-Barré syndrome. Lancet Neurology. 2007;6(7):589-594. doi: 10.1016/s1474-4422(07)70130-8.
+
+6. van den Berg B, Walgaard C, Drenthen J, Fokke C, Jacobs BC, van Doorn PA. Guillain–Barré syndrome: pathogenesis, diagnosis, treatment and prognosis. Nat Rev Neurol. 2014;10(8):469-482. doi: 10.1038/nrneurol.2014.121.
+
+7. Hughes RAC, Cornblath DR. Guillain-Barre syndrome. Lancet. 2005;366(9497):1653-1666. doi: 10.1016/s0140-6736(05)67665-9.
+
+8. Hughes RA, Swan AV, van Doorn PA. Intravenous immunoglobulin for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2014;9(9):CD002063. doi: 10.1002/14651858.cd002063.pub6.
+
+9. Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2017;2(2):CD001798. doi: 10.1002/14651858.cd001798.pub3.
+
+10. Jager de, Minderhoud AEJ. JM. Residual signs in severe Guillain-Barré syndrome: analysis of 57 patients. J Neurol Sci. 1991;104(2):151-156. doi: 10.1016/0022-510x(91)90304-p.
+
+11. Devos D., Magot A., Perrier-Boeswillwald J, et al. Guillain–Barré syndrome during childhood: particular clinical and electrophysiological features. Muscle Nerve. 2013;48(2):247-251. doi: 10.1002/mus.23749.
+
+12. Yuki N, Hartung H-P. Guillain–Barré syndrome. N Engl J Med. 2012;366(24):2294-2304. doi: 10.1056/nejmra1114525.
+
+13. Kuwabara S, Yuki N. Axonal Guillain-Barré syndrome: concepts and controversies. Lancet Neurol. 2013;12(12):1180-1188. doi: 10.1016/s1474-4422(13)70215-1.
+
+14. Efficiency of plasma exchange in Guillain-Barré syndrome: role of replacement fluids. French Cooperative Group on Plasma Exchange in Guillain-Barré Syndrome. Ann Neurol. 1987;22(6):753-761. doi: 10.1002/ana.410220612.
+
+15. Shahrizaila N, Yuki N. The role of immunotherapy in Guillain-Barré syndrome: understanding the mechanism of action. Expert Opin Pharmacother. 2011;12(10):1551-1560. doi: 10.1517/14656566.2011.564160.
+
+16. Hacohen Y, Mankad K, Chong WK, et al. Diagnostic algorithm for relapsing acquired demyelinating syndromes in children. Neurology. 2017;89(3):269-278. doi: 10.1212/wnl.0000000000004117.
+
+17. Pohl D, Tenembaum S. Treatment of acute disseminated encephalomyelitis. Curr Treat Options Neurol. 2012;14(3):264-275. doi: 10.1007/s11940-012-0170-0.
+
+18. Reindl M, Waters P. Myelin oligodendrocyte glycoprotein antibodies in neurological disease. Nat Rev Neurol. 2019;15(2):89-102. doi: 10.1038/s41582-018-0112-x.
+
+19. Raphaël JC, Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2012;7(7):CD001798. doi: 10.1002/14651858.cd001798.pub2.
+
+20. El-Bayoumi MA, El-Refaey AM, Abdelkader AM, El-Assmy MM, Alwakeel AA, El-Tahan HM. Comparison of intravenous immunoglobulin and plasma exchange in treatment of mechanically ventilated children with Guillain Barré syndrome: a randomized study. Crit Care. 2011;15(4):R164. doi: 10.1186/cc10305.
+
+21. Dada MA, Kaplan AA. Plasmapheresis treatment in Guillain–Barré syndrome: potential benefit over IVIg in patients with axonal involvement. Ther Apher Dial. 2004;8(5):409-412. doi: 10.1111/j.1526-0968.2004.00183.x.
+
+22. Meché van der FGA, Schmitz PIM. A randomized trial comparing intravenous immune globulin and plasma exchange in Guillain-Barré syndrome. N Engl J Med. 1992;326(17):1123-1129. doi: 10.1056/nejm199204233261705.
+
+23. Hughes RAC, Swan AV, Raphaël J-C, Annane D, van Koningsveld R, van Doorn PA. Immunotherapy for Guillain-Barré syndrome: a systematic review. Brain. 2007;130(9):2245-2257. doi: 10.1093/brain/awm004.
+
+24. Group PEG-BST. Randomised trial of plasma exchange, intravenous immunoglobulin, and combined treatments in Guillain-Barré syndrome. Lancet. 1997;349(9047):225-230. doi: 10.1016/s0140-6736(96)09095-2.
+
+25. Seta T, Nagayama H, Katsura K, et al. Factors influencing outcome in Guillain–Barré syndrome: comparison of plasma adsorption against other treatments. Clin Neurol Neurosurg. 2005;107(6):491-496. doi: 10.1016/j.clineuro.2004.12.019.
+
+26. Galldiks N, Dohmen C, Neveling M, Fink GR, Haupt WF. Selective immune adsorption treatment of severe Guillain Barré syndrome in the intensive care unit. Neurocrit Care. 2009;11(3):317-321. doi: 10.1007/s12028-009-9252-6.
+
+27. Kesici S, Tanyıldız M, Yetimakman F, Bayrakci B. A novel treatment strategy for severe Guillain-Barré syndrome: zipper method. J Child Neurol. 2018;34(5):277-283. doi: 10.1177/0883073819826225.
+
+28. Hughes RAC, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled trial of prednisolone in acute polyneuropathy. Lancet. 1978;312(8093):750-753. doi: 10.1016/s0140-6736(78)92644-2.
+
+29. Starkey J, Kobayashi N, Numaguchi Y, Moritani T. Cytotoxic lesions of the corpus callosum that show restricted diffusion: mechanisms, causes, and manifestations. Radiographics. 2017;37(2):160085. doi: 10.1148/rg.2017160085.
+
+30. Vriesendorp FJ, Mayer RF, Koski CL. Kinetics of anti-peripheral nerve myelin antibody in patients with Guillain-Barré syndrome treated and not treated with plasmapheresis. Arch Neurol. 1991;48(8):858-861. doi: 10.1001/archneur.1991.00530200100027.
+
+31. Wakerley BR, Uncini A, Yuki N, et al. Guillain–Barré and Miller Fisher syndromes—new diagnostic classification. Nat Rev Neurol. 2014;10(9):537-544. doi: 10.1038/nrneurol.2014.138.
+
+32. Shahrizaila N, Yuki N. Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry. 2013;84(5):576. doi: 10.1136/jnnp-2012-302824.
+
+33. Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barré syndrome. Lancet. 2016;388(10045):717-727. doi: 10.1016/s0140-6736(16)00339-1.
+
+34. Kalita J, Kumar M, Misra UK. Prospective comparison of acute motor axonal neuropathy and acute inflammatory demyelinating polyradiculoneuropathy in 140 children with Guillain–Barré syndrome in India. Muscle Nerve. 2018;57(5):761-765. doi: 10.1002/mus.25992.
+
+35. Kleiter I, Gahlen A, Borisow N, et al. Apheresis therapies for NMOSD attacks: a retrospective study of 207 therapeutic interventions. Neurol Neuroimmunol Neuroinflamm. 2018;5(6):e504. doi: 10.1212/nxi.0000000000000504.
+
+36. Walsh M, Casian A, Flossmann O, et al. Long-term follow-up of patients with severe ANCA-associated vasculitis comparing plasma exchange to intravenous methylprednisolone treatment is unclear. Kidney Int. 2013;84(2):397-402. doi: 10.1038/ki.2013.131.
+
+37. Korinthenberg R, Schessl J, Kirschner J, Mönting JS. Intravenously administered immunoglobulin in the treatment of childhood Guillain-Barré syndrome: a randomized trial. Pediatrics. 2005;116(1):8-14. doi: 10.1542/peds.2004-1324.
+
+38. Baglan E, Ozdel S, Yazıcı MU, et al. A novel therapeutic approach using the zipper method to treat chorea in a pediatric-onset systemic lupus erythematosus patient. Lupus. 2020;30(3):502-509. doi: 10.1177/0961203320984013.
+
+39. Thumfart J, Weber LT, Müller D, Taylan C. Therapeutic apheresis in pediatric dialysis facilities. Updated March 8, 2021. Cited August 2, 2021. https://www.aphereseregister.de
+
+40. Rajabally YA, Durand M-C, Mitchell J, Orlikowski D, Nicolas G. Electrophysiological diagnosis of Guillain–Barré syndrome subtype: could a single study suffice? J Neurol Neurosurg Psychiatry. 2015;86(1):115. doi: 10.1136/jnnp-2014-307815.
+
+---
+
+## Author Contributions
+MN contributed to the conception of the study, acquisition, analysis, and interpretation of all data, and wrote the first draft of the manuscript. FK contributed to acquisition and analysis of the electrophysiological studies and to the first draft of the manuscript. AT performed the radiological evaluation. JT, CK and AG took care of the patients, contributed to the conception concerning the treatment protocol and critically read the manuscript. EK and PB contributed to the design of the study, took care of the patients, and critically read the manuscript. AMK contributed to the conception of the study, analyzed and interpreted the data and was instrumental in writing the manuscript. All authors read and approved the final version of the manuscript.
+
+## Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+## Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+## Ethical Approval
+Consent for publication of individual details was obtained from patients' caregivers. Ethical approval for the study was obtained from the IRB of Charité (EA2/121/17).
+
+---
+
+**Note:** Supplemental materials including PDF and DOCX files were available but not extracted in this text format as they contain additional tables and detailed figures beyond the main article text.

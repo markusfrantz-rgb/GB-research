@@ -1,0 +1,1397 @@
+Neurological Sciences (2024) 45:5657–5669
+https://doi.org/10.1007/s10072-024-07686-3
+
+REVIEW ARTICLE
+
+The spectrum of anti-GQ1B antibody syndrome: beyond Miller Fisher
+syndrome and Bickerstaff brainstem encephalitis
+Ciro Maria Noioso1 · Liliana Bevilacqua1 · Gabriella Maria Acerra1 · Paola Della Valle1 · Marina Serio1 ·
+Agnese Pecoraro1 · Annalisa Rienzo1 · Umberto De Marca1 · Giuseppe De Biasi1 · Claudia Vinciguerra1 ·
+Giuseppe Piscosquito1 · Antonella Toriello1 · Stefano Tozza2 · Paolo Barone1 · Aniello Iovino1
+Received: 18 January 2024 / Accepted: 3 July 2024 / Published online: 11 July 2024
+© Fondazione Società Italiana di Neurologia 2024
+
+Abstract
+Introduction Since the initial identification of Miller Fisher syndrome (MFS) and Bickerstaff brainstem encephalitis
+(BBE),significant milestones have been achieved in understanding these diseases.Discoveries of common serum antibodies (IgG anti-GQ1b), antecedent infections, neurophysiological data, andneuroimaging suggested a shared autoimmune
+pathogenetic mechanism rather than distinct pathogenesis, leadingto the hypothesis that both diseases are part of a unified syndrome, termed “Fisher-Bickerstaff syndrome”. The subsequent identification of atypical anti-GQ1b-positive forms
+expanded the classification to a broader condition known as “Anti-GQ1b-Antibody syndrome”.
+Methods An exhaustive literature review was conducted, analyzing a substantial body of research spanning from the initialdescriptions of the syndrome’s components to recent developments in diagnostic classification and researchperspectives.
+Results Anti-GQ1b syndrome encompasses a continuous spectrum of conditions defined by a common serological profilewith varying degrees of peripheral (PNS) and central nervous system (CNS) involvement. MFS and BBE represent theopposite ends of this spectrum, with MFS primarily affecting the PNS and BBE predominantly involving the CNS.Recently
+identified atypical forms, such as acute ophthalmoparesis, acute ataxic neuropathy withoutophthalmoparesis, Guillain-Barré
+syndrome (GBS) with ophthalmoparesis, MFS-GBS and BBE-GBS overlap syndromes,have broadened this spectrum.
+Conclusion This work aims to provide an extensive, detailed, and updated overview of all aspects of the anti-GQ1b syndromewith the intention of serving as a stepping stone for further shaping thereof. Special attention was given to therecently
+identified atypical forms, underscoring their significance in redefining the boundaries of the syndrome.
+Keywords “Miller Fisher syndrome” · “Bickerstaff brainstem encephalitis” · “Anti-GQ1b antibody syndrome” · “Antiganglioside antibody syndrome” · “Anti GQ1b” · “Ganglioside”
+
+Introduction
+Since the initial identification of Miller Fisher syndrome
+(MFS) and Bickerstaff brainstem encephalitis (BBE), significant milestones have been achieved in the understanding of such diseases. Commonalities discovered in serum
+
+Ciro Maria Noioso
+c.noioso@yahoo.com
+1
+
+Neurology Unit, University Hospital “San Giovanni di Dio e
+Ruggi d’Aragona”, University of Salerno, Salerno, Italy
+
+2
+
+Department of Neuroscience, Reproductive Sciences and
+Odontostomatology, University of Naples “Federico II”,
+Naples, Italy
+
+antibodies (IgG anti GQ1b), antecedent infection, neurophysiological data and neuroimaging suggested a shared
+autoimmune pathogenetic mechanism rather than distinct
+pathogenesis, thus allowing the hypothesis that both diseases are part of a unified syndrome, named “Fisher-Bickerstaff syndrome” [1].
+The identification of anti-GQ1b-positive formes frustes
+has further led to the classification of a more inclusive condition known as “Anti-GQ1b-Antibody syndrome”. This
+syndrome encompasses a continuous spectrum of conditions defined by a common serological profile and varying
+degrees of peripheral nervous system (PNS) and central nervous system (CNS) involvement [2, 3].
+Such a spectrum presents MFS and BBE at the opposite ends, with MFS primarily affecting the PNS and BBE
+
+13
+
+5658
+
+predominantly involving the CNS, and includes various
+formes frustes such as acute ophthalmoparesis, acute ataxic
+neuropathy without ophthalmoparesis, Guillain-Barré syndrome (GBS) with ophthalmoparesis and MFS-GBS and
+BBE-GBS overlap syndromes [4].
+The present work aims to provide an extensive, detailed
+and up-to-dated overview of all aspects of the anti-GQ1b
+syndrome through a review and analysis of a substantial
+body of literature, spanning from initial description of its
+components to recent developments in diagnostic classification and research perspectives.
+
+Historical perspective
+Original description
+Cranial nerve involvement in GBS had already been postulated by Guillain himself, who, in the 1938 Belgian Symposium, described forms of the syndrome presenting isolated
+cranial nerve involvement and forms exhibiting polyneuropathy accompanied by impaired consciousness [5].
+These early descriptions share similarities with MFS and
+BBE.
+In the 1951 article “Mesencephalitis and rhomboencephalitis”, Bickerstaff described three patients who displayed
+a gradual development of ataxia, external ophthalmoplegia
+and drowsiness following antecedent infection. The terms
+“mesencephalitis” and “rhomboencephalitis” were initially
+suggested to differentiate these conditions from classic
+forms of encephalitis [6].
+Bickerstaff later expanded his case series in 1957, theorizing that the pathological process responsible for impaired
+cerebral function without damage to the organ itself was
+localized to the brainstem [7].
+It was only in 1978 that Bickerstaff reviewed the syndrome for the Handbook of Clinical Neurology under the
+title “Brain stem encephalitis (Bickerstaff’s encephalitis)”
+[8].
+Meanwhile in 1956 Miller Fisher described three patients
+exhibiting ataxia, ophthalmoplegia and areflexia following
+an antecedent infection, one of which experienced mild
+drowsiness during the acute phase of the disease [9].
+
+Evolving pathophysiology
+The etiology of both conditions has long been debated. In
+his original description, Fisher considered ataxia to be the
+manifestation of an unusual peripheral neuron lesion, while
+also categorizing it as a cerebellar disturbance due to the
+disproportional clinical compared to sensory loss, even in
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+
+the absence of pathological changes in the cerebellum and
+cerebellar dysarthria [9, 10].
+In 1982 Al-Din and Bickerstaff reported 18 cases of
+brainstem encephalitis and MFS, suggesting a common central cause for both syndromes. All patients exhibited ophthalmoplegia and ataxia. Among them, a variable degree
+of impairment of consciousness was present in 12 patients
+and tendon reflexes were absent in 11 patients, normal in 3
+and brisk in 4. Additionally, 4 patients showed long tract
+signs such as Babinski sign and 2 presented sensory disturbances. The initial trigger was presumed to be a hypersensitivity reaction following infection and the hypothesized
+pathogenesis included a cerebellar origin for ataxia and a
+supranuclear cause for ophthalmoplegia, while areflexia
+and impaired consciousness were thought to result from the
+involvement of the midbrain and the pontine reticular formation [11].
+This hypothesis found support in several pieces of evidence: abnormal EEG findings present in 12 patients,
+brainstem lesions found in 3 MFS patients, and abnormal
+brainstem evoked potential in one. Moreover, the same
+hypothesis was also endorsed by Keane JR, but disputed by
+Ropper, who considered 6 of the 18 patients as having typical MFS and the remaining 12 as exhibiting obscure brainstem lesions without peripheral neuropathy [11–14].
+Ropper himself, after conducting an in-depth electrophysiological study on MFS patient, suggested a purely
+peripheral etiology based on the observed alterations in
+joint position sense and muscle spindle proprioception [15].
+The discovery of anti-GQ1b antibodies in MFS patients
+by Chiba in 1991 and later in BBE patients by Yuki made
+it evident that both conditions originate from the same
+immune-mediated process, triggered by an antecedent infective episode, thus leading to the establishment of a common
+spectrum referred to as “Fisher Bickerstaff syndrome” [1,
+16, 17].
+Subsequent findings of anti-GQ1b antibodies in atypical
+forms have then led to the development of a new nosological entity known as the “Anti-GQ1b antibody syndrome”,
+comprising a continuous spectrum of phenotypes characterized by a common serological profile and variable degrees
+of CNS and PNS involvement [3, 18].
+Evidence of lesions in MFS patients observed through
+neuroimaging, including glucose hypermetabolism in the
+cerebellar vermis and hemispheres using PET, and a reduced
+N-acetyl aspartate (NAA) to creatine (Cr) ratio (NAA/Cr)
+through Magnetic Resonance Spectroscopy (MRS) in these
+areas, suggests a cerebellar dysfunction, supporting the central involvement in the “peripheral” forms of the spectrum
+[19–26].
+At the neuronal level, stable creatine levels are used
+as a reference point against NAA levels, whit reductions
+
+Neurological Sciences (2024) 45:5657–5669
+
+indicating neural dysfunction, localized to the cerebellum.
+The normalization of the NAA/Cr ratio at 2.5 months is
+associated with recovery [26, 27].
+Autopsies of MFS patients have revealed evidence of the
+loss of Purkinje neurons in the cerebellum [28].
+
+Epidemiology
+The worldwide annual incidence of GBS is ~ 1–2/100,000
+inhabitants. Of these, MFS represents a small fraction of the
+total, with the percentage varying according to the area considered. The literature shows a higher incidence in the East
+than the West: in Asian countries it accounts for ~ 15–25%
+of GBS cases (Taiwan 18%, Hong Kong 9%, Thailand
+7.7%); it is lower in Europe: an Italian review estimated an
+incidence of 0.04–0.18 cases in 100,000 inhabitants (6%),
+while some reports reported an incidence of 7% in Spain [4,
+10, 29–32].
+Because of its rarity, there are no epidemiological studies
+on BBE in Europe, although clinical experience suggests
+a lower incidence. One epidemiological study on BBE in
+Japan reports an incidence of 0.078 in 100,000 [33].
+Both MFS and BBE present a slight male prevalence,
+early age onset (average age 36) and autumn-winter peak
+[4, 34, 35].
+Although atypical forms have a significantly lower incidence and no epidemiological studies have been conducted,
+the incidence of these forms appears to be higher in Asian
+countries [36, 37].
+
+Clinical features
+MFS is classically defined by the triad characterized by ophthalmoparesis, ataxia and osteotendinous areflexia, which
+appear in ~ 80% of patients [9, 10, 38]. Ophthalmoparesis,
+typically bilateral, progresses to complete external ophthalmoplegia within 1–2 weeks. Ataxia, often very severe, may
+result in an inability to walk without support despite normal
+strength. Areflexia, a less specific component of the triad
+(absent in 18%), may also be confined to an isolated body
+area [10, 39]. The triad is often accompanied by additional
+signs, including ptosis (60%), facial nerve palsy (30–50%),
+sensory deficits (20–50%), and hyposthenia (20–25%) [10,
+18, 40–42]. MFS may present with atypical manifestations,
+such as an initial presentation with bilateral internal ophthalmoplegia, unilateral external ophthalmoplegia, bilateral abducent nerve palsy, or isolated bilateral ptosis [20,
+43–46]. The literature documents numerous cases of MFS
+accompanied by optic neuritis, often bilateral, resulting
+in blurred vision without pain, color desaturation or field
+deficit [47]. MFS may also be accompanied by internuclear
+
+5659
+
+ophthalmoplegia (INO), mimicking posterior circulation
+stroke [48].
+Bickerstaff originally described BBE as a clinical syndrome defined by progressive, relatively symmetric external
+ophthalmoplegia and ataxia within 4 weeks, accompanied
+by disturbances in consciousness or hyperreflexia [7, 11].
+Although atypical cases of BBE not accompanied by ophthalmoplegia have been described, the predominant presence of this symptom in BBE cases makes its absence a
+marker suggesting a lower likelihood of anti-GQ1B antibody syndrome [49, 50]. Ataxia can manifest as both truncal and limb ataxia in 71% of cases, truncal only in 18%,
+and limb-only in 11% [34]. Other signs of CNS involvement
+include: varying degrees of impaired consciousness in 74%
+of patients, ranging from mild drowsiness (55%) to stupor
+(17%), semicoma (8%) and coma (20%); long tract signs,
+such as Babinski sign (43%), hemisensory loss and hyperreflexia (30%), found in all patients not exhibiting impaired
+consciousness [34, 51]. In addition, the literature describes
+decorticate posturing as a possible sign of CNS involvement
+[52, 53]. Central signs tend to be milder in children, and may
+manifest as irritability or hyperexcitability [54, 55]. Internal
+ophthalmoplegia (34%), blepharoptosis (29%) and nystagmus (27%) are relatively common [33, 34, 56]. Additional
+signs associated to these symptoms include limb weakness
+(60%) superficial sensory loss (31%), facial diplegia (45%),
+pupillary abnormalities and bulbar palsy (34%), oropharyngeal palsy, decreased or absent tendon reflex (67%).
+Similar to MFS, cases of optic neuritis have been reported
+[57]. Deep sense impairment is rarer (2%) [51].
+As evidenced in retrospective studies of both BBE and
+MFS, diplopia is the most common initial symptom, occurring in 63% of MFS cases and 52% of BBE cases, followed
+by ataxia, observed in 5% of MFS patients and 35% of BBE
+patients [34, 35]. In 23% of BBE cases, both conditions
+may develop on the same day (3,8,43–45) [35]. Other initial
+symptoms include dysesthesia (10% in MFS, 19% in BBE),
+limb weakness (15% in MFS, 11% in BBE), and dysarthria
+(15% in MFS, 11% in BBE) with similar percentages [34,
+35].
+The average time from infection to onset is shorter in
+BBE (5 days, ranging from 2 to 10). MFS exhibits higher
+variability and longer time to onset with ophthalmoparesis
+appearing on average at 7 days from infection (ranging from
+1 to 30 days), followed by ataxia at 10 days (ranging from
+1 to 30 days), and areflexia appearing with the highest variability at 14 days on average (ranging from 4 to 45 days)
+[35, 51].
+
+13
+
+5660
+
+BBE/MFS associated with GBS
+Forms of BBE/MFS overlapping with GBS are described.
+Development of flaccid tetraparesis in BBE patients,
+observed in 60% of cases, may represent the epiphenomenon of a clinical profile otherwise indistinguishable from
+pure BBE [34, 58, 59]. Overlap syndromes can affect patient
+outcomes, with one-quarter of those scoring 3 on the MRC
+scale experiencing persistent limb weakness [34].
+
+Atypical forms - Formes frustes
+Atypical forms definited in literature like formes frustes are
+incomplete forms that, while sharing a common serological
+profile, may not fully meet the criteria for BBE/MFS. These
+encompass a broad clinical spectrum, including acute ataxic
+neuropathy (AAN), acute ophthalmoparesis (AO), pharyngeal-cervical-brachial (PCB) weakness, acute ptosis (AP),
+acute mydriasis (AM), acute oropharyngeal palsy (AOP),
+acute bulbar palsy (ABP), acute vestibular syndrome (AVS)
+[60].
+AAN is characterized by profound ataxia without ophthalmoplegia and includes two conditions forming a continuous spectrum: ataxic GBS and acute sensory ataxic
+neuropathy (ASAN).
+Ataxic GBS patients (69% of AAN) also exhibit negative Romberg sign, hypo/areflexia, distal paresthesias and
+cerebrospinal fluid (CSF) albuminocytological dissociation
+(ACD), placing this condition as a GBS variant [61, 62].
+These features are absent in ASAN (31% of AAN),
+which more frequently exhibits a positive Romberg sign
+and is defined by the absence of sensory nerve action potentials (SNAP), normal CSF findings, loss of large myelinated
+fibers and axonal damage [63].
+Possible initial symptoms of both conditions include distal dysesthesias (51% in ataxic GBS vs. 71% in ASAN), and
+gait disturbances (49% in ataxic GBS vs. 35% in ASAN).
+Over the course of the diseases, distal dysesthesias (70%
+in ataxic GBS vs. 88% in ASAN) and superficial sensory
+impairments (27% in ataxic GBS vs. 24% in ASAN) often
+develop. The average time to nadir is 4 days (ranging from
+2 to 15 days) in ataxic GBS and 7 days (ranging from 3 to
+13 days) in ASAN. The average length of hospital stay is 16
+days (ranging from 3 to 68 days) in ataxic GBS and 22 days
+(ranging from 5 to 150 days) in ASAN [64].
+AO is characterized by acute, symmetric, combined
+external and internal ophthalmoplegia without ataxia or
+areflexia, associated with anti-GQ1b seropositivity [51, 65,
+66]. Unilateral involvement has been described in 27% of
+cases, making diagnosis more challenging [67].
+PCB weakness is another extensive form, characterized by areflexia and weakness of the oropharyngeal,
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+
+cervicobrachial and proximal muscles. The most common
+onset symptom is arm weakness (29% of cases), followed
+by dysphagia (17%) and diplopia (17%). Rarer initial symptoms include blepharoptosis, facial weakness, photophobia
+or dysgeusia. Patients frequently develop hypo/areflexia
+(91% in the arms, 86% in the legs), superficial sensory loss
+(59% in the arms and 38% in the legs), ophthalmoparesis
+(55%) and arm weakness, predominantly proximal in 47%
+of cases and distal in 28%. Ataxia (43%), autonomic dysfunction (20%) and consciousness disturbance (5%) are
+possible [36].
+PCB weakness, initially classified among GBS variants,
+was included into the anti-GQ1b syndrome spectrum following a retrospective study on 100 “pure PCB” patients,
+39 of whom tested positive for anti-GQ1b seropositivity.
+Possible overlap with MFS (26% of cases) and BBE (5%
+of cases), with subsequent development of ataxia, ophthalmoparesis or altered consciousness, provides additional evidence of PCB weakness’s place within this spectrum [36,
+68, 69].
+AVS, recently incorporated into the spectrum, is characterized by an acute onset of dizziness, spontaneous or positional vertigo (80%), truncal (100%) or limb ataxia (86%),
+sensory abnormalities (43%) and various ocular motor findings, such as spontaneous (50%), gaze-evoked (50%), positional (30%) or head-shaking nystagmus (40%), all without
+ophthalmoplegia. Other possible symptoms include saccadic dysmetria (20%), ocular flutter or opsoclonus, downbeat nystagmus and central positional nystagmus [70].
+ABP is a condition characterized by acute bulbar paralysis in conjunction with other cranial symptoms or ataxia,
+without the presence of limb or neck weakness. The onset
+of acute bulbar paralysis, a prominent symptom, commonly
+presents with dysarthria (50%), diplopia (35%), and dysphagia (35%). Less common manifestations include gait
+ataxia (14%), rhinolalia (11%), facial palsy (11%), and ptosis (3.6%). As the condition advances, external ophthalmoplegia (71%), hypo/areflexia (64%), facial palsy (61%), gait
+ataxia (50%), and sensory abnormality (50%) are frequently
+observed [37] Table 1.
+
+Pathogenesis
+The etiology of these conditions has been demonstrated
+to be immunological. Antecedent infections, as originally
+described, appears present in the majority of patients: in
+MFS preceding upper respiratory system infections are
+most common (56–76% of patients). Gastrointestinal infection (4%) and isolated fever (2%) are less frequent. MFS
+can also be associated with autoimmune disease, neoplasms, surgical procedures, use of medication such as TNF
+
+Neurological Sciences (2024) 45:5657–5669
+Table 1 Atypical forms included in the spectrum with main clinical
+characteristics
+Atypical forms
+Clinical features
+Acute ataxic neuropathy (AAN)
+Ataxia without
+ophthalmoplegia
+Acute ophthalmoparesis (AO)
+Ophthalmoparesis without
+ataxia or areflexia
+Pharyngeal-cervical-brachial
+Weakness of the oropharyn(PCB) weakness
+geal, cervicobrachial and
+proximal muscles with areflexia
+Acute oropharyngeal palsy (AOP) Weakness of the oropharyngeal
+muscles without areflexia
+Acute ptosis (AP)
+Isolated ptosis
+Acute mydriasis (AM)
+Isolated mydriasis
+Acute bulbar palsy (ABP),
+Acute bulbar paralysis with
+other cranial symptoms or
+ataxia, without the presence of
+limb or neck weakness
+Acute vestibular syndrome (AVS) Dizziness, vertigo and ataxia,
+without ophthalmoplegia
+
+α, heroine, anti-streptokinase, isotretinoin, bone marrow
+transplantation [42, 71–79].
+In the case of BBE, a stronger correlation with antecedent infections has been identified, affecting approximately
+92% of patients. Upper respiratory infections (66%), isolated fever (9%), fever and headache (6%), diarrhea only
+(5%), and a combination of respiratory infection symptoms
+and diarrhea (5%) have been observed [34]. Gastrointestinal
+infections are more commonly associated with classic GBS
+[80].
+Specific pathogens are isolated in patients across this
+spectrum, with Campylobacter jejuni being the most frequently isolated (21% in MFS, 23% in BBE, and 31% in
+PCB), followed by Haemophilus influenzae (8% in MFS,
+6% in BBE) [35, 36, 51].
+Notably, no significant differences have been found in
+the relative frequencies of pathogens found in patients with
+pure forms of BBE and BBE-GBS overlap forms [34].
+H. influenzae is isolated more frequently (18%) in formes
+frustes compared to C. jejuni (2%) [51].
+Cytomegalovirus (CMV) has been isolated in PCB but
+not in other forms of this spectrum [36, 51].
+In most forms of Anti-GQ1b antibody syndrome, no specific pathogens have been isolated [51].
+The underlying mechanism appears to be related to
+“molecular mimicry”. The activation of the immune system against lipo-oligosaccharides (LOS) present on the
+pathogens’ membrane, which resemble the shape of human
+gangliosides (GQ1b, GM1, GD1a), triggers the production
+of autoantibodies. When the generated antibody is GM1
+or GD1b, it results in the classic form of GBS, while the
+production of GQ1b antibodies leads to the development of
+anti-GQ1b antibody syndrome [10, 81]. Supporting this, the
+fact that the LOS of C. jejuni isolated from MFS or BBE
+
+5661
+
+patients, as well as H. influenzae isolated from an MFS
+patient, were demonstrated to mimic GQ1b [82–84].
+It is interesting to note how the immune system’s response
+towards the same pathogens leads to distinct clinical presentations, such as GBS and Anti-GQ1b antibody syndrome.
+Essential to the production of gangliosides-like LOS are
+the presence of enzymes such as Campylobacter sialyltransferase (CstII), N-acetylgalactosaminyltransferase (CgtA)
+and galactosyltransferase (CgtB), encoded by bacterial
+genes found in C. jejuni isolated from anti-GQ1b seropositive patients [85, 86].
+The specific antibody type produced is dictated by the
+51st amino acid of CstII, which determines its enzyme
+activity: the presence of Threonine (Thr51) leads to the
+production of GM1- and GD1a-like LOS, while Asparagine
+(Asn51) leads to the production of GQ1b-like LOS [85, 87].
+GQ1b is a ganglioside found predominantly in paranodal
+myelin, especially in oculomotor nerves (III-IV and VI cranial nerves), dorsal root ganglia (DRG), and fibers of neuromuscular spindles [10].
+GQ1b would act by stabilizing the formation of the axoglial paranode, composed of Contactin-1 (CNTN1) and
+CASPR, expressed by neurons, which bind to the glialderived NF-155 counterpart. This paranodal axo-glial structure is essential for the longitudinal conduction of nerve
+impulses, regulating ion channel clustering, propagating
+the action potential, and preventing the lateral diffusion of
+membrane proteins in myelinated nerve fibers. Antibodymediated targeting of this epitope leads to an acute blockade
+of nerve impulse propagation, resulting in the sudden onset
+of symptoms [81, 88].
+Given the presence of ganglioside GQ1b in the paranodal structure, the diagnostic process for suspected diseases
+in this spectrum requires the exclusion of paranodopathies,
+which present with similar clinical features but have different neurophysiological profiles [89].
+As highlighted by Chiba, GQ1b accounts for 11–13%
+of ganglioside composition in oculomotor nerves, compared to 5–8% in all other cranial nerves, accounting for the
+symptomatologic triad of MFS patients: ophthalmoparesis,
+ataxia, and areflexia [4, 90].
+Additionally, the presence of the GQ1b epitope in the
+optic nerve, glossopharyngeal nerve and vagus nerve
+accounts for possible optic and oropharyngeal involvement
+[1, 91].
+Pupillary abnormalities are attributed to autoantibodymediated ciliary nerves and ganglion involvement [92].
+The varied symptomatology of AVS result from variable
+involvement of the peripheral and central vestibular system,
+both of which express the GQ1b epitope [70, 93–95].
+How to explain the CNS involvement typical of BBE?
+
+13
+
+5662
+
+The mechanism underlying the typical central nervous
+system (CNS) involvement in BBE remains a subject of
+investigation. The most widely accepted hypothesis suggests a disruption of the blood-brain barrier (BBB), a protecting barrier against large circulating molecules, in BBE
+patients, which remains intact in MFS patients. An in vitro
+study demonstrated that the serum of BBE patients, but not
+MFS patients, could disrupt a BBB model by increasing production of matrix metalloproteinase-9 (MMP-9) secreted by
+human brain microvascular endothelial cells [96].
+An alternative hypothesis involves the passage of antibodies at the area postrema, where the BBB is relatively
+permeable [97, 98].
+These hypotheses are substantiated by post-mortem
+examinations in BBE patients, revealing inflammatory
+changes in the brainstem, including perivascular lymphocytic infiltration with oedema and glial nodules [7, 34].
+An alternative explanation is provided by differences
+in antibody specificity among various forms of anti-GQ1b
+antibody syndrome: in contrast to ASAN, anti-GQ1b antibodies in MFS seldom exhibit cross-reactivity with antiGD1b ganglioside [64].
+The variable consciousness impairment typical of BBE
+suggests a variable degree of involvement of the reticular
+formation, rich in GQ1b.
+A likely sequence of events in the pathogenesis of AntiGQ1b antibody syndrome is as follows:
+1. Antecedent infection by microorganisms carrying
+LOS mimicking GQ1b triggers the production of IgG
+anti-GQ1b;
+2. Anti-GQ1b antibodies attach to the epitopes expressed
+on the oculomotor nerves, DRG, and fibers of neuromuscular spindles, inducing MFS;
+3. Antibodies may potentially pass into the brainstem
+through areas where the BBB is deficient, where they
+attach to GQ1b in the reticular formation, leading to
+BBE.
+The finding of anti-GQ1b seronegative MFS and ataxic
+GBS patients presenting anti-GM1b, anti-GD1b, or antiGalNAc-GD1a IgG antibodies may be explained by the
+presence of these relative gangliosides in their oculomotor
+nerves, primary sensory neurons and brainstems [99, 100].
+
+Anti-GQ1b antibody syndrome and COVID
+Neuromuscular manifestations have been frequent postinfective complications of Middle East respiratory syndrome (MERS) and COVID. In a retrospective analysis
+of 214 hospitalized patients, neurological complications
+were observed in 36% of the cases examined, with a higher
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+
+incidence of central nervous system (CNS) involvement
+(24.8%) compared to peripheral nervous system (8.9%)
+[101]. These complications spanned a spectrum of severity,
+from mild symptoms like headache, dizziness, myalgia, and
+anosmia to more serious conditions, such as encephalopathy, encephalitis, necrotizing hemorrhagic encephalopathy,
+stroke, epileptic seizures, and Guillain-Barré syndrome
+[102].
+In accordance with the ALBACOVID registry, patients
+with Guillain-Barré Syndrome (GBS) represented 0.5% of
+COVID-19-related hospitalizations. Among these, those
+with Miller Fisher Syndrome (MFS) constituted approximately 10%, while patients with pharyngeal-cervical-brachial weakness (PCB) accounted for around 2% [57, 103,
+104]. While uncommon, there have been reports of multiple
+cases of MFS and BBE occurring after COVID-19 vaccination in various countries [105–109].
+
+Diagnostic approach
+The diagnostic process primarily relies on clinical assessment, although laboratory investigations can provide valuable support. Hyperproteinorrachia, a recognized marker
+of GBS, may not manifest in the early stages and might be
+absent in certain cases within the Anti-GQ1b antibody syndrome spectrum: the incidence of hyperproteinorrachia in
+this spectrum tends to progressively increase over the initial
+three weeks of onset. Notably, Albuminocytological dissociation (ACD) is detected in ~ 47% of MFS patients. Within
+this subgroup, the incidence rises from 66% within the first
+week to 82% by the third week [4].
+Conversely, ACD is less common in BBE patients, with
+an occurrence rate of 25% during the initial week, escalating to 46% in the second week [34, 110]. Atypical forms
+exhibit an ACD incidence of approximately 30% [51, 64].
+Cerebrospinal fluid (CSF) pleocytosis, characterized by
+an increased number of white blood cells in the CSF, is
+observed more frequently in BBE (32%) than in MFS (5%)
+and atypical forms (7%) [34, 51]. Consequently, CSF studies alone cannot clearly discriminate these forms.
+In contrast, anti-GQ1b dosage demonstrates superior
+sensitivity and specificity during the initial week, with antibodies being detectable in 85% of MFS patients and 68% of
+BBE patients [3, 4]. Antibodies other than GQ1b may also
+be identified in different forms of the spectrum with varying
+incidence, as outlined in the following Tables [34, 36, 51,
+64, 110–113] Table 2.
+Anti-GT1a and anti-GM1 antibodies can function as antiGQ1b equivalents in two ways:
+1. As demonstrated in adult mouse brain models, these
+relative gangliosides, in addition to being found in the
+
+Neurological Sciences (2024) 45:5657–5669
+
+5663
+
+Table 2 Antibodies other than GQ1b may also be identified in different forms of the spectrum, with varying incidence. We present in this table
+the relative incidences in percentages of ganglioside reported in the literature in the various forms of the spectrum. The dash indicates that there
+is no available literature data regarding the relative incidence of the corresponding element. It is interesting to note how Anti-GT1a and anti-GM1
+antibodies can function as anti-GQ1b equivalents. Associative studies between anti-ganglioside antibodies and clinical phenotype have shown
+that GD1b and GT1b antibodies are linked to the worsening of ataxia, while anti-GT1a antibodies have been correlated with bulbar symptoms
+due to the high expression of GT1a gangliosides in the glossopharyngeal and vagus nerves. A correlation has been reported between GM1, GD1a,
+and GalNAc-GD1a antibodies and limb weakness. ACD= albuminocytological dissociation, MFS= Miller Fisher syndrome, BBE= Bickerstaff
+brainstem encephalitis, PCB= pharyngeal-cervical-brachial weakness, AVS= acute vestibular syndrome), AO= acute ophthalmoparesis without
+ataxia, ABP= acute bulbar palsy
+GQ1b
+GD1a
+GM1
+GM1b
+GT1a
+GalNAc-GD1a GD1b
+ACD
+CSF pleocytosis
+MFS51
+83
+28
+15
+78
+2
+2
+47
+5
+BBE51
+68
+13
+13
+60
+2
+2
+46
+32
+PCB36
+39
+12
+10
+16
+51
+1
+Ataxic GBS64
+18
+47
+39
+Acute sensory ataxic neuropathy64
+65
+46
+30
+AVS70
+67
+0
+13
+50
+20
+AO without ataxia70
+80
+8
+23
+73
+6
+GBS with ophthalmoparesis2
+92
+22
+44
+93
+13
+ABP37
+59
+78
+48
+
+peripheral nerve roots, thus explaining the limb weakness found in overlap forms, are also present in brainstem nuclei, thalamus and white matter tracts [114,
+115];
+1. Furthermore, these antibodies have the potential to
+cross-react with the ganglioside GQ1b [116, 117].
+Associative studies between anti-ganglioside antibodies
+and clinical phenotype have suggested a correlation. Specifically, anti-GD1b and GT1b antibodies have been linked
+to the worsening of ataxia, while the presence of anti-GT1a
+antibodies has been correlated with a worsening of ophthalmoparesis [117]. In contrast, Kashihara et al. evidenced how
+anti-GT1a IgG antibodies in PCB weakness, ABP and AOP
+patients were associated with bulbar symptoms such as dysarthria, dysphagia and facial weakness. This association
+was attributed to the high expression of GT1a gangliosides
+in the glossopharyngeal and vagus nerves [37, 91, 118].
+Additionally, Fukami et al. reported a correlation between
+GM1, GD1a, and GalNAc-GD1a antibodies and limb weakness [117].
+
+Instrumental investigations
+In MFS patients, MRI remains normal in 99% of cases [51].
+In the remaining 1%, MRI may reveal hyperintensity in
+T2-weighted images at the brainstem, cerebellum, middle
+cerebellar peduncle and cranial and spinal nerve root [10,
+51, 119–121]. MRI abnormalities are more frequent in
+BBE (11% of cases), such as hyperintensity in the medulla
+oblongata, pons, thalamus, cerebellum, superior cerebellar peduncle or corpus callosum [51]. According to some
+authors, incidence of MRI abnormalities may reach 30%
+[34, 59, 122]. Hyperintensity and/or contrast enhancement
+
+of the nerve roots, cauda equina-conus medullaris may be
+observed in MFS/BBE-GBS overlap forms, similar to several GBS patients [59, 123, 124].
+EEG recordings show diffuse slowed activities in the θ
+or δ range at rest in 57% of BBE and 25% of MFS patients
+[51]. The higher incidence of neuroimaging and EEG
+abnormalities indicates greater CNS involvement in BBE,
+although found in varying degrees in MFS as well Table 3.
+
+Neurophysiology
+Neurophysiological findings in of Anti-GQ1b antibody
+syndrome are milder compared to those found in GBS.
+Unlike the latter, typical signs of acquired demyelinating
+polyneuropathy, such as reduced motor conduction velocity
+(MCV), marked temporal dispersion and conduction blocks,
+are absent in pure forms of the spectrum. In these forms
+motor and sensory conduction studies are normal. Reduced
+sensory nerve action potential (SNAP) amplitude disproportionate to the slowing of sensory conduction velocity or
+prolongation of the distal latencies, indicative of sensory
+neuropathy, may be found [125, 126].
+The study of late responses, performed to assess the more
+proximal segment of nerves such as plexuses and roots,
+reveals the absence of soleus H-reflexes, the neurophysiological equivalent of the myotatic reflex [51, 126–128].
+This neurophysiological abnormality, found in 75% of
+BBE and 94% of MFS patients, may be due to the selective
+involvement of the Ιa muscle spindles expressing the GQ1b
+ganglioside [51, 127–129]. Reappearance of the H-reflex is
+associated with patient recovery [42].
+Electrophysiological characteristics of atypical forms are
+less well documented: in AO and AVS, nerve conduction
+studies (NCSs) are usually normal; axonal damage similar
+
+13
+
+5664
+Table 3 Comparison between MFS and BBE: in both conditions,
+the etiology has been demonstrated to be immunological, secondary
+to ‘molecular mimicry. Unlike MFS, BBE shows a stronger correlation with antecedent infections, with specific pathogens, particularly
+Campylobacter jejuni, frequently isolated. MFS is classically defined
+by the triad characterized by ophthalmoparesis, ataxia, and osteotendinous areflexia. On the other hand, BBE is defined as a clinical
+syndrome characterized by progressive, relatively symmetric external
+ophthalmoplegia and ataxia within 4 weeks, accompanied by disturbances in consciousness or hyperreflexia. The degree of consciousness disturbance varies from mild drowsiness to stupor, semicoma, and
+coma. Other signs of CNS involvement, such as Babinski sign, hemisensory loss, and hyperreflexia, can be found in all patients not exhibiting impaired consciousness. In both conditions, the triad of symptoms
+is frequently associated with additional signs. Unlike MFS, BBE may
+require assisted ventilation during the acute phase (1% vs. 34%) and
+presents a mortality rate of 4%, attributed to aspiration pneumonia and
+sudden cardiac arrest. Both conditions may recur, albeit in different
+percentages. Albuminocytological dissociation (ACD) is detected in
+similar percentages in both conditions, while cerebrospinal fluid (CSF)
+pleocytosis is observed more frequently in BBE than in MFS. For
+both, anti-GQ1b dosage demonstrates high sensitivity and specificity
+during the initial week. BBE presents a higher incidence of neuroimaging and EEG abnormalities, indicating greater CNS involvement,
+although such abnormalities are found in varying degrees in MFS as
+well. Percentages are derived from citations (3) (34) (51)
+MFS
+BBE
+82%
+92%
+Antecedent illness (%)
+Upper respiratory infectious symptoms
+56–76%
+66%
+Gastrointestinal infectious symptoms
+4%
+5%
+Isolated fever
+2%
+9%
+Pathogens isolated
+Campylobacter jejuni
+21%
+23%
+Haemophilius influenzae
+8%
+6%
+Clinical features
+Consciousness disturbance
+0%
+74%
+Mild drowsiness
+55%
+Stupor
+17%
+Semicoma
+8%
+-Coma
+20%
+Blepharoptosis
+60%
+29%
+External ophthalmoplegia
+100%
+100%
+Internal ophthalmoplegia
+35%
+55%
+Facial nerve palsy
+30–50%
+45%
+Bulbar palsy
+17%
+34%
+Mild limb weakness
+20–25%
+60%
+Sensory deficits
+20–50%
+31%
+Dysesthesia
+45%
+40%
+Superficial sense impairment
+7%
+15%
+Deep sense impairment
+17%
+2%
+Ataxia
+100%
+100%
+Babinski sign
+2%
+43%
+Normal or brisk reflex
+0
+30%
+Absent or decreased reflex
+100%
+67%
+Outcome
+Assisted ventilation
+1%
+34%
+Mortality rate
+0%
+4%
+Recurrence rate
+12%
+25%
+Paraclinical findings
+Albuminocytological dissociation (ACD)
+47%
+46%
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+Table 3 (continued)
+CSF pleocytosis
+Serum IgG anti-GQ1b antibodies
+MRI abnormal findings (%)
+EEG abnormal findings (%)
+
+MFS
+5%
+85%
+1%
+25%
+
+BBE
+32%
+68%
+11%
+57%
+
+to AMAN may be found in PCB, AAN [37, 64, 66, 70, 123,
+130].
+In ABP, a possible presence of facial nerve involvement
+with an abnormal blink reflex is observed in approximately
+17% of patients [37].
+In this form, despite clinical localization of hyposthenia
+restricted to motor cranial nerve territories, a subclinical
+limb neuropathy of varying severity can be detected in more
+than one-third of patients, thereby providing electrophysiological support for the current theory of ABP being part of
+a continuous spectrum [37, 131].
+In both typical and atypical forms, the gradual improvement of SNAP amplitudes is linked to the recovery from
+pathology [132].
+The overlapping of GBS with MFS and BBE may be
+expressed through electrophysiological findings of superimposed acute motor axonal neuropathy [123, 124].
+Body sway analysis, a method used to study the proprioceptive afferent system, shows postural sway with a 1-Hz
+frequency in both MFS and BBE [51, 133]. Sway at this
+frequency, also found in tabes dorsalis and ataxic polyneuropathy patients, suggest concomitant and common
+proprioceptive afferent system dysfunction, supporting the
+hypothesis of continuity between these conditions [133,
+134]. Auditory brainstem response (ABR), used to evaluate
+activation from the cochlea to the midbrain and detect damage, especially in the pons, may be helpful for the diagnosis and follow up in BBE: patients may exhibit low-evoked
+potentials without prolonged latency between I and V wave,
+caused by the loss of neural cells presenting anti-GQ1b
+[115, 135].
+
+Therapy
+Due to the rarity of spectrum conditions, there are no
+randomized, double-blind, placebo-controlled trials on
+treatment of the Anti-GQ1b Antibody syndrome, and retrospective studies yield controversial results. An important retrospective study on 92 MFS patients, including 28
+treated with intravenous immunoglobulin (IVIG) and 23
+treated with plasma exchange (PLEX); while 41 remained
+untreated, evidenced a survival rate of 100%, regardless of
+therapeutic strategy employed. It is inferred that MFS is
+self-limiting and therapy is unlikely to affect the patients’
+outcome [136, 137].
+
+Neurological Sciences (2024) 45:5657–5669
+
+For this condition time to remission of symptoms varies
+depending on those considered: ataxia subsides on average
+in 35 days (ranging from 10 to 121 days), ophthalmoplegia
+in 93 days (ranging from 18 to 244 days), and areflexia in
+64 days, displaying the highest variability (ranging from 10
+to 650 days). Complete remission occurs on average within
+6 months with no sequelae [35].
+On the other hand, BBE may require assisted ventilation
+during the acute phase (1% vs. 34%) and presents a mortality rate of 4%. Causes of death have been reported to be
+aspiration pneumonia and sudden cardiac arrest deat variable interval from onset [51]. Most patients achieve complete remission within 6 months, though some may continue
+to exhibit dysesthesia, diplopia or ataxia beyond this time
+frame [34].
+IVIG and PLEX have been used in the treatment of both
+conditions. Considering the self-limiting course of MFS, the
+rate of mortality, and the requirement for assisted ventilation in BBE, the cost and potential side effects of treatment,
+the current recommendation would be not to treat patients
+unless signs of complications, such as a possible BBE diagnosis, manifest [137].
+In the presence of PCB or forms overlapping with GBS,
+treatment with IVIG or PLEX is advisable, as is the case
+with pure GBS [123, 138, 139]. The overlap of Anti-GQ1b
+and GBS, along with the presence of bulbar and facial palsies, may represent a predictive factor of respiratory failure requiring mechanical ventilation [140]. Cases of severe
+BBE not responsive to IVIG or PLEX are described: these
+are effectively treated with Rituximab, anti-CD 20 monoclonal antibody [141]. Its effectiveness may be explained by
+the binding of anti-GQ1b antibodies to presynaptic motor
+nerve endings, leading to complement activation and membrane attack complex formation [142, 143].
+
+Recurrent forms
+Although typically monophasic, cases of recurrent MFS and
+BBE are described in literature: approximately 12% of MFS
+and about 25% of BBE cases can recur [144–150]. These
+forms are clinically, laboratoristically and electrophysiologically indistinguishable from non-recurrent forms and
+tend to present similar symptoms as in the first occurrence,
+albeit less severe, with an average interval of about six years
+between episodes [151]. Haplotype HLA-DR2 appears to be
+correlated with the recurrence of MFS [152].
+
+5665
+
+References
+1.
+2.
+3.
+
+4.
+5.
+6.
+7.
+8.
+9.
+
+10.
+11.
+
+12.
+13.
+14.
+15.
+16.
+
+17.
+
+18.
+
+Declarations
+
+19.
+
+Conflict of interest The authors declare that the research was conducted in the absence of any commercial or financial relationships that
+could be construed as a potential conflict of interest.
+
+20.
+
+Yuki N (2009) Fisher syndrome and Bickerstaff brainstem
+encephalitis (Fisher-Bickerstaff syndrome). J Neuroimmunol
+215:1–9. https://doi.org/10.1016/j.jneuroim.2009.05.020
+Wakerley BR, Uncini A, Yuki N et al (2014) Guillain-Barré and
+Miller Fisher syndromes–new diagnostic classification. Nat Rev
+Neurol 10:537–544. https://doi.org/10.1038/nrneurol.2014.138
+Shahrizaila N, Yuki N (2013) Bickerstaff brainstem encephalitis
+and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry 84:576–583. https://doi.org/10.1136/
+jnnp-2012-302824
+Teener JW (2012) Miller Fisher’s syndrome. Semin Neurol
+32:512–516. https://doi.org/10.1055/s-0033-1334470
+Guillain G (1938) Synthèse générale De La discussion. J Belge
+Neurol Psy 38:323–329
+Bickerstaff ER, Cloake PCP (1951) Mesencephalitis and
+rhombencephalitis. Br Med J 2:77–81. https://doi.org/10.1136/
+bmj.2.4723.77
+Bickerstaff ER (1957) Brain-stem encephalitis; further observations on a grave syndrome with benign prognosis. Br Med J
+1:1384–1387. https://doi.org/10.1136/bmj.1.5032.1384
+Bickerstaff E (1978) Brain stem encephalitis (Bickerstaff’s
+encephalitis). Handbook of clinical neurolohy, infections of the
+nervous system. prat II 34:605
+Fisher M (1956) An unusual variant of acute idiopathic
+polyneuritis (syndrome of ophthalmoplegia, ataxia and areflexia). N Engl J Med 255:57–65. https://doi.org/10.1056/
+NEJM195607122550201
+Noioso CM, Bevilacqua L, Acerra GM et al (2023) Miller Fisher
+syndrome: an updated narrative review. Front Neurol 14:1250774.
+https://doi.org/10.3389/fneur.2023.1250774
+Al-Din AN, Anderson M, Bickerstaff ER, Harvey I (1982)
+Brainstem encephalitis and the syndrome of Miller Fisher: a
+clinical study. Brain 105(Pt 3):481–495. https://doi.org/10.1093/
+brain/105.3.481
+Anderson M, Al-din AN, Bickerstaff ER, Harvey I (1984) The
+CNS in Guillain-Barré syndrome. Arch Neurol 41:705. https://
+doi.org/10.1001/archneur.1984.04050180027009
+Keane JR, Finstead BA (1982) Upward gaze paralysis as the initial sign of Fisher’s syndrome. Arch Neurol 39:781–782. https://
+doi.org/10.1001/archneur.1982.00510240043012
+Ropper AH (1983) The CNS in Guillain-Barré syndrome. Arch Neurol 40:397–398. https://doi.org/10.1001/
+archneur.1983.04050070027003
+Ropper AH (1988) Three patients with Fisher’s syndrome and
+normal MRI. Neurology 38:1630–1631. https://doi.org/10.1212/
+wnl.38.10.1630
+Chiba A, Kusunoki S, Shimizu T, Kanazawa I (1992) Serum
+IgG antibody to ganglioside GQ1b is a possible marker of
+Miller Fisher syndrome. Ann Neurol 31:677–679. https://doi.
+org/10.1002/ana.410310619
+Yuki N, Sato S, Tsuji S et al (1993) An immunologic abnormality common to Bickerstaff’s brain stem encephalitis and
+Fisher’s syndrome. J Neurol Sci 118:83–87. https://doi.
+org/10.1016/0022-510x(93)90250-3
+Mori M, Kuwabara S, Fukutake T et al (2001) Clinical features
+and prognosis of Miller Fisher syndrome. Neurology 56:1104–
+1106. https://doi.org/10.1212/wnl.56.8.1104
+Lolekha P, Phanthumchinda K (2008) Optic neuritis in a patient
+with Miller-Fisher syndrome. J Med Assoc Thai 91:1909–1913
+Bae JS, Kim JK, Kim SH, Kim OK (2009) Bilateral internal
+ophthalmoplegia as an initial sole manifestation of Miller Fisher
+syndrome. J Clin Neurosci 16:963–964. https://doi.org/10.1016/j.
+jocn.2008.09.009
+
+13
+
+5666
+21. Akinci G, Oztura I, Hiz-Kurul S (2010) Anti-GQ1b-negative
+Miller Fisher syndrome presented with one-sided horizontal gaze
+palsy. Turk J Pediatr 52:317–320
+22. Yiş U, Bayram E, Topçu Y et al (2013) A case of atypical Miller
+Fisher syndrome with negative anti-GQ1b immunoglobulin G
+and importance of H reflex. Turk J Pediatr 55:235–236
+23. Waung MW, Singer MA (2012) An unusual case of Miller Fisher
+syndrome presenting with proptosis and chemosis. Muscle Nerve
+45:764–766. https://doi.org/10.1002/mus.23285
+24. Hara M, Morita A, Ichihara K et al (2012) Miller Fisher syndrome
+associated with influenza A infection. Intern Med 51:2621–2623.
+https://doi.org/10.2169/internalmedicine.51.7984
+25. Kim YK, Kim JS, Jeong S-H et al (2009) Cerebral glucose
+metabolism in Fisher syndrome. J Neurol Neurosurg Psychiatry
+80:512–517. https://doi.org/10.1136/jnnp.2008.154765
+26. Sandler RD, Hoggard N, Hadjivassiliou M (2015) Miller-Fisher
+syndrome: is the ataxia central or peripheral? Cerebellum Ataxias
+2:3. https://doi.org/10.1186/s40673-015-0021-3
+27. Currie S, Hadjivassiliou M, Wilkinson ID et al (2013) Magnetic
+resonance spectroscopy of the normal cerebellum: what degree of
+variability can be expected? Cerebellum 12:205–211. https://doi.
+org/10.1007/s12311-012-0415-1
+28. Berlit P, Rakicky J (1992) The Miller Fisher syndrome. Review of
+the literature. J Clin Neuroophthalmol 12:57–63
+29. Ma Y-M, Liu TKT, Wong V (2010) Guillain-Barre syndrome in southern Chinese children: 32 year experience in Hong Kong. Pediatr Int 52:13–19. https://doi.
+org/10.1111/j.1442-200X.2009.02951.x
+30. Lolekha P, Phanthumchinda K (2009) Miller-Fisher syndrome
+at King Chulalongkorn Memorial Hospital. J Med Assoc Thai
+92:471–477
+31. Clinical E, Neurology EP (1998) Guillain-Barré syndrome variants in Emilia-Romagna, Italy, 1992-3: incidence, clinical features, and prognosis. Emilia-Romagna Study Group on Clinical
+and Epidemiological Problems in Neurology. J Neurol Neurosurg
+Psychiatry 65:218–224. https://doi.org/10.1136/jnnp.65.2.218
+32. Téllez-Zenteno JF, Jacinto-Tinajero JC, Avila-Funes A et al
+(2001) [Guillain-Barre syndrome. Experience in a third level hospital]. Rev Invest Clin 53:311–314
+33. Koga M, Kusunoki S, Kaida K et al (2012) Nationwide survey of
+patients in Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry 83:1210–1215. https://doi.org/10.1136/jnnp-2012-303060
+34. Odaka M, Yuki N, Yamada M et al (2003) Bickerstaff’s brainstem encephalitis: clinical features of 62 cases and a subgroup
+associated with Guillain-Barré syndrome. Brain 126:2279–2290.
+https://doi.org/10.1093/brain/awg233
+35. San-Juan OD, Martínez-Herrera JF, García JM et al (2009) Miller
+Fisher syndrome: 10 years’ experience in a third-level center. Eur
+Neurol 62:149–154. https://doi.org/10.1159/000226599
+36. Nagashima T, Koga M, Odaka M et al (2007) Continuous spectrum of pharyngeal-cervical-brachial variant of Guillain-Barré
+syndrome. Arch Neurol 64:1519–1523. https://doi.org/10.1001/
+archneur.64.10.1519
+37. Cao Q, Chu H, Fu X et al (2020) Case Report: Acute Bulbar Palsy
+Plus Syndrome: a Guillain-Barré syndrome variant more prone
+to be a subtype than overlap of distinct subtypes. Front Neurol
+11:566480. https://doi.org/10.3389/fneur.2020.566480
+38. Collier J (1932) Peripheral neuritis. The Morrison Lectures, 1932,
+delivered before the Royal College of Physicians of Edinburgh,
+May 1932. Edinb Med J 39:601–618
+39. Truong J, Conley J, Ashurst J (2020) Miller-Fisher syndrome: a
+Case Report and Review of the literature. Clin Pract Cases Emerg
+Med 4:653–655. https://doi.org/10.5811/cpcem.2020.7.48507
+40. Lyu RK, Tang LM, Cheng SY et al (1997) Guillain-Barré syndrome in Taiwan: a clinical study of 167 patients. J Neurol
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+
+41.
+42.
+
+43.
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+56.
+
+57.
+
+Neurosurg Psychiatry 63:494–500. https://doi.org/10.1136/
+jnnp.63.4.494
+Kollár K, Liptai Z, Rosdy B, Móser J (2009) [Guillain-Barré syndrome in childhood]. Ideggyogy Sz 62:399–404
+Arányi Z, Kovács T, Sipos I, Bereczki D (2012) Miller Fisher
+syndrome: brief overview and update with a focus on electrophysiological findings. Eur J Neurol 19:15–20 e1-3. https://doi.
+org/10.1111/j.1468-1331.2011.03445.x
+Smith J, Clarke L, Severn P, Boyce R (2007) Unilateral external
+ophthalmoplegia in Miller Fisher syndrome: case report. BMC
+Ophthalmol 7:7. https://doi.org/10.1186/1471-2415-7-7
+Wertheim MS, Benzimra JD, Jadresic LP, Ferris JD (2008)
+Ocular presentation of pediatric Miller-Fisher syndrome.
+J Pediatr Ophthalmol Strabismus 45:245–246. https://doi.
+org/10.3928/01913913-20080701-16
+Stalpers XL, Verhagen WIM, Meulstee J (2009) Isolated bilateral ptosis as the only ophthalmologic sign in the Fisher variant
+of Guillain-Barré syndrome. J Neuroophthalmol 29:354–355.
+https://doi.org/10.1097/WNO.0b013e3181b41445
+Kinno R, Ichikawa H, Tanigawa H et al (2011) Unilateral abducens nerve Palsy as an early feature of multiple Mononeuropathy
+Associated with Anti-GQ1b antibody. Case Rep Neurol 3:82–85.
+https://doi.org/10.1159/000326340
+Zhao T, Deng Y, Ding Y et al (2020) Anti-GQ1b antibody syndrome presenting with visual deterioration as the initial symptom:
+a case report. Med (Baltim) 99:e18805. https://doi.org/10.1097/
+MD.0000000000018805
+Sim BNH, Joseph JP (2019) Forme fruste anti-GQ1b-negative
+Miller Fischer syndrome masquerading as posterior circulation stroke. J R Coll Physicians Edinb 49:304–306. https://doi.
+org/10.4997/JRCPE.2019.411
+Koga M (2013) Another CNS phenotype of anti-GQ1b antibody
+syndrome. J Neurol Neurosurg Psychiatry 84:1185. https://doi.
+org/10.1136/jnnp-2013-305236
+Wakerley BR, Soon D, Chan Y-C, Yuki N (2013) Atypical Bickerstaff brainstem encephalitis: ataxic hypersomnolence without
+ophthalmoplegia. J Neurol Neurosurg Psychiatry 84:1206–1207.
+https://doi.org/10.1136/jnnp-2013-304993
+Ito M, Kuwabara S, Odaka M et al (2008) Bickerstaff’s brainstem
+encephalitis and Fisher syndrome form a continuous spectrum:
+clinical analysis of 581 cases. J Neurol 255:674–682. https://doi.
+org/10.1007/s00415-008-0775-0
+Kurihara M, Bannai T, Otsuka J et al (2018) Optic neuropathy
+and decorticate-like posture as presenting symptoms of Bickerstaff’s brainstem encephalitis: a case report and literature review.
+Clin Neurol Neurosurg 173:159–162. https://doi.org/10.1016/j.
+clineuro.2018.08.019
+Shimozono K, Shimono K, Kusunoki S (2012) [Case of Bickerstaff brainstem encephalitis associated with spindle coma and
+decorticate posture]. Rinsho Shinkeigaku 52:656–659. https://
+doi.org/10.5692/clinicalneurol.52.656
+Santoro JD, Lazzareschi DV, Campen CJ, Van Haren KP (2018)
+Pediatric Bickerstaff brainstem encephalitis: a systematic review
+of literature and case series. J Neurol 265:141–150. https://doi.
+org/10.1007/s00415-017-8684-8
+Cai L, Hu Z, Liao J et al (2021) Clinical characterization of AntiGQ1b antibody syndrome in Childhood. Front Pediatr 9:649053.
+https://doi.org/10.3389/fped.2021.649053
+Jebaraj AP, Swiston CJ, Vegunta S, Warner JEA (2022)
+Isolated bilateral Internal Ophthalmoplegia as an atypical initial presentation of anti-GQ1b antibody syndrome. J
+Neuroophthalmol
+42:e389–e390.
+https://doi.org/10.1097/
+WNO.0000000000001314
+Kim JE, Heo JH, Kim HO et al (2017) Neurological complications
+during treatment of Middle East Respiratory Syndrome. J Clin
+Neurol 13:227–233. https://doi.org/10.3988/jcn.2017.13.3.227
+
+Neurological Sciences (2024) 45:5657–5669
+58. Rho YI (2014) Overlapping Guillain-Barré syndrome and Bickerstaff’s brainstem encephalitis associated with Epstein Barr
+virus. Korean J Pediatr 57:457–460. https://doi.org/10.3345/
+kjp.2014.57.10.457
+59. Michev A, Musso P, Foiadelli T et al (2019) Bickerstaff Brainstem
+Encephalitis and overlapping Guillain-Barré syndrome in children: report of two cases and review of the literature. Eur J Paediatr Neurol 23:43–52. https://doi.org/10.1016/j.ejpn.2018.11.008
+60. de Bruyn A, Poesen K, Bossuyt X et al (2019) Clinical spectrum of the anti-GQ1b antibody syndrome: a case series of eight
+patients. Acta Neurol Belg 119:29–36. https://doi.org/10.1007/
+s13760-019-01093-8
+61. Richter RB (1962) The ataxic form of polyradiculoneuritis
+(Landry-Guillain-Barre syndrome). Clinical and pathologic
+observations. J Neuropathol Exp Neurol 21:171–184
+62. Mihori A, Nakayama M, Ono S, Shimizu N (1998) [Ataxic form
+of Guillain-Barré syndrome associated with acute hepatitis A–a
+case report]. Rinsho Shinkeigaku 38:242–245
+63. Windebank AJ, Blexrud MD, Dyck PJ et al (1990) The syndrome
+of acute sensory neuropathy: clinical features and electrophysiologic and pathologic changes. Neurology 40:584–591. https://
+doi.org/10.1212/wnl.40.4.584
+64. Ito M, Matsuno K, Sakumoto Y et al (2011) Ataxic Guillain-Barré
+syndrome and acute sensory ataxic neuropathy form a continuous
+spectrum. J Neurol Neurosurg Psychiatry 82:294–299. https://
+doi.org/10.1136/jnnp.2010.222836
+65. Du FH, Yerevanian A, Shtrahman M (2020) Acute ophthalmoplegia in a patient with anti-GQ1b antibody and chronic facial
+diplegia. BMJ Case Rep 13:e234319. https://doi.org/10.1136/
+bcr-2020-234319
+66. Lee S-H, Lim G-H, Kim JS et al (2008) Acute ophthalmoplegia (without ataxia) associated with anti-GQ1b antibody. Neurology 71:426–429. https://doi.org/10.1212/01.
+wnl.0000324266.95814.74
+67. Susuki K, Yuki N, Muramatsu M, Hirata K (2000) Unilateral
+ophthalmoparesis and limb ataxia associated with anti-GQ1b
+IgG antibody. J Neurol 247:652–653. https://doi.org/10.1007/
+s004150070139
+68. Wakerley BR, Yuki N (2014) Pharyngeal-cervical-brachial variant of Guillain-Barre syndrome. J Neurol Neurosurg Psychiatry
+85:339–344. https://doi.org/10.1136/jnnp-2013-305397
+69. Ropper AH (1994) Further regional variants of acute immune
+polyneuropathy. Bifacial weakness or sixth nerve paresis with
+paresthesias, lumbar polyradiculopathy, and ataxia with pharyngeal-cervical-brachial weakness. Arch Neurol 51:671–675.
+https://doi.org/10.1001/archneur.1994.00540190051014
+70. Lee S-U, Kim H-J, Choi J-Y et al (2019) Acute vestibular syndrome associated with anti-GQ1b antibody. Neurology 93:e1085–
+e1092. https://doi.org/10.1212/WNL.0000000000008107
+71. Gentile S, Messina M, Rainero I et al (2006) Miller Fisher syndrome associated with Burkitt’s lymphoma. Eur J Neurol 13:430.
+https://doi.org/10.1111/j.1468-1331.2006.01254.x
+72. Lo YL (2007) Clinical and immunological spectrum of the
+Miller Fisher syndrome. Muscle Nerve 36:615–627. https://doi.
+org/10.1002/mus.20835
+73. Roquer J, Pou Serradell A (1992) [Paraneoplastic Miller-Fisher
+syndrome?]. Neurologia 7:40
+74. Csépány T, Boczán J, Magyar MT et al (2004) Miller Fisher
+syndrome–a presenting clinical manifestation of lung cancer in a
+previously apparently healthy individual. J Neurol 251:898–900.
+https://doi.org/10.1007/s00415-004-0465-5
+75. Shin I-SJ, Baer AN, Kwon HJ et al (2006) Guillain-Barré and
+Miller Fisher syndromes occurring with tumor necrosis factor
+alpha antagonist therapy. Arthritis Rheum 54:1429–1434. https://
+doi.org/10.1002/art.21814
+
+5667
+76. Pritchard J, Appleton R, Howard R, Hughes R, a. C (2004) Guillain-Barré syndrome seen in users of isotretinoin. BMJ 328:1537.
+https://doi.org/10.1136/bmj.328.7455.1537
+77. Yu EH, Geraldi-Samara D (2020) Pharyngeal-Cervico-Brachial/
+Miller Fisher Overlap Syndrome with Infliximab exposure. J
+Clin Neuromuscul Dis 21:157–158. https://doi.org/10.1097/
+CND.0000000000000274
+78. Desai SS, Allen E, Deodhar A (2002) Miller Fisher syndrome in
+adult onset still’s disease: case report and review of the literature
+of other neurological manifestations. Rheumatology (Oxford)
+41:216–222. https://doi.org/10.1093/rheumatology/41.2.216
+79. Rubio-Nazabal E, Marey-Lopez J, Torres-Carrete JP et al (2002)
+Miller-Fisher syndrome and Hodgkin’s disease. J Neurol Neurosurg Psychiatry 73:344. https://doi.org/10.1136/jnnp.73.3.344
+80. Yuki N (2001) Infectious origins of, and molecular mimicry in,
+Guillain-Barré and Fisher syndromes. Lancet Infect Dis 1:29–37.
+https://doi.org/10.1016/S1473-3099(01)00019-6
+81. Martín-Aguilar L, Pascual-Goñi E, Querol L (2019) Autoantibodies in immune-mediated inflammatory neuropathies.
+Med Clin (Barc) 153:360–367. https://doi.org/10.1016/j.
+medcli.2019.06.007
+82. Kimoto K, Koga M, Odaka M et al (2006) Relationship of bacterial
+strains to clinical syndromes of Campylobacter-associated neuropathies. Neurology 67:1837–1843. https://doi.org/10.1212/01.
+wnl.0000244468.22377.6b
+83. Koga M, Gilbert M, Li J et al (2005) Antecedent infections in
+Fisher syndrome: a common pathogenesis of molecular mimicry. Neurology 64:1605–1611. https://doi.org/10.1212/01.
+WNL.0000160399.08456.7C
+84. Houliston RS, Koga M, Li J et al (2007) A Haemophilus influenzae strain associated with Fisher syndrome expresses a novel disialylated ganglioside mimic. Biochemistry 46:8164–8171. https://
+doi.org/10.1021/bi700685s
+85. Gilbert M, Karwaski M-F, Bernatchez S et al (2002) The genetic
+bases for the variation in the lipo-oligosaccharide of the mucosal pathogen, Campylobacter jejuni. Biosynthesis of sialylated
+ganglioside mimics in the core oligosaccharide. J Biol Chem
+277:327–337. https://doi.org/10.1074/jbc.M108452200
+86. Koga M, Gilbert M, Takahashi M et al (2006) Comprehensive
+analysis of bacterial risk factors for the development of GuillainBarre syndrome after Campylobacter jejuni enteritis. J Infect Dis
+193:547–555. https://doi.org/10.1086/499969
+87. Koga M, Takahashi M, Masuda M et al (2005) Campylobacter
+gene polymorphism as a determinant of clinical features of
+Guillain-Barré syndrome. Neurology 65:1376–1381. https://doi.
+org/10.1212/01.wnl.0000176914.70893.14
+88. Susuki K, Baba H, Tohyama K et al (2007) Gangliosides contribute to stability of paranodal junctions and ion channel clusters in myelinated nerve fibers. Glia 55:746–757. https://doi.
+org/10.1002/glia.20503
+89. Uncini A (2023) Autoimmune nodo-paranodopathies 10 years
+later: clinical features, pathophysiology and treatment. J Peripher
+Nerv Syst 28(Suppl 3):S23–S35. https://doi.org/10.1111/
+jns.12569
+90. Chiba A, Kusunoki S, Obata H et al (1997) Ganglioside composition of the human cranial nerves, with special reference to pathophysiology of Miller Fisher syndrome. Brain Res 745:32–36.
+https://doi.org/10.1016/s0006-8993(96)01123-7
+91. Koga M, Yoshino H, Morimatsu M, Yuki N (2002) Anti-GT1a
+IgG in Guillain-Barré syndrome. J Neurol Neurosurg Psychiatry
+72:767–771. https://doi.org/10.1136/jnnp.72.6.767
+92. Kaymakamzade B, Selcuk F, Koysuren A et al (2013) Pupillary
+involvement in Miller Fisher Syndrome. Neuroophthalmology
+37:111–115. https://doi.org/10.3109/01658107.2013.792356
+
+13
+
+5668
+93. Lee S-U, Kim H-J, Choi J-Y, Kim J-S (2019) Anti-ganglioside
+antibody-associated acute unilateral peripheral vestibulopathy. J
+Neurol 266:250–252. https://doi.org/10.1007/s00415-018-9109-z
+94. Jung I, Kim H-J, Kim J-S (2017) Fluctuating ataxia and nystagmus
+in association with anti-GQ1b antibody in HIV infection. J Neurol Sci 382:123–125. https://doi.org/10.1016/j.jns.2017.09.044
+95. Zaro-Weber O, Galldiks N, Dohmen C et al (2008) Ocular flutter, generalized myoclonus, and trunk ataxia associated with
+anti-GQ1b antibodies. Arch Neurol 65:659–661. https://doi.
+org/10.1001/archneur.65.5.659
+96. Saito K, Shimizu F, Koga M et al (2013) Blood-brain barrier
+destruction determines Fisher/Bickerstaff clinical phenotypes:
+an in vitro study. J Neurol Neurosurg Psychiatry 84:756–765.
+https://doi.org/10.1136/jnnp-2012-304306
+97. Faraci FM, Choi J, Baumbach GL et al (1989) Microcirculation
+of the area postrema. Permeability and vascular responses. Circ
+Res 65:417–425. https://doi.org/10.1161/01.res.65.2.417
+98. Van Breemen VL, Clemente CD (1955) Silver deposition in the
+central nervous system and the hematoencephalic barrier studied
+with the electron microscope. J Biophys Biochem Cytol 1:161–
+166. https://doi.org/10.1083/jcb.1.2.161
+99. Odaka M, Yuki N, Tatsumoto M et al (2004) Ataxic GuillainBarré syndrome associated with anti-GM1b and anti-GalNAcGD1 antibodies. J Neurol 251:24–29. https://doi.org/10.1007/
+s00415-004-0259-9
+100. Yuki N, Susuki K, Hirata K (2000) Ataxic form of GuillainBarré syndrome associated with anti-GD1b IgG antibody. J Neurol Neurosurg Psychiatry 69:136–137. https://doi.org/10.1136/
+jnnp.69.1.136
+101. Mao L, Jin H, Wang M et al (2020) Neurologic manifestations of
+hospitalized patients with Coronavirus Disease 2019 in Wuhan,
+China. JAMA Neurol 77:683–690. https://doi.org/10.1001/
+jamaneurol.2020.1127
+102. Maury A, Lyoubi A, Peiffer-Smadja N et al (2021) Neurological manifestations associated with SARS-CoV-2 and other coronaviruses: a narrative review for clinicians. Rev Neurol (Paris)
+177:51–64. https://doi.org/10.1016/j.neurol.2020.10.001
+103. Romero-Sánchez CM, Díaz-Maroto I, Fernández-Díaz E et al
+(2020) Neurologic manifestations in hospitalized patients with
+COVID-19: the ALBACOVID registry. Neurology 95:e1060–
+e1070. https://doi.org/10.1212/WNL.0000000000009937
+104. Aladawi M, Elfil M, Abu-Esheh B et al (2022) Guillain Barre
+Syndrome as a complication of COVID-19: a systematic review.
+Can J Neurol Sci 49:38–48. https://doi.org/10.1017/cjn.2021.102
+105. Dang YL, Bryson A (2021) Miller-Fisher Syndrome and GuillainBarre syndrome overlap syndrome in a patient post Oxford-AstraZeneca SARS-CoV-2 vaccination. BMJ Case Rep 14:e246701.
+https://doi.org/10.1136/bcr-2021-246701
+106. Nishiguchi Y, Matsuyama H, Maeda K et al (2021) Miller
+Fisher syndrome following BNT162b2 mRNA coronavirus
+2019 vaccination. BMC Neurol 21:452. https://doi.org/10.1186/
+s12883-021-02489-x
+107. Neophytou P, Artemiadis A, Hadjigeorgiou GM, Zis P (2023)
+Miller Fischer syndrome after COVID-19 infection and vaccine:
+a systematic review. Acta Neurol Belg. https://doi.org/10.1007/
+s13760-023-02336-5
+108. Monte G, Pro S, Ursitti F et al (2022) Case report: a pediatric
+case of Bickerstaff brainstem encephalitis after COVID-19 vaccination and Mycoplasma pneumoniae infection: looking for
+the culprit. Front Immunol 13:987968. https://doi.org/10.3389/
+fimmu.2022.987968
+109. Finsterer J, Matovu D (2022) Do not miss Bickerstaff encephalitis as a complication of SARS-CoV-2 vaccines. Radiol Case Rep
+17:2824–2825. https://doi.org/10.1016/j.radcr.2022.05.044
+110. Nishimoto Y, Odaka M, Hirata K, Yuki N (2004) Usefulness of
+anti-GQ1b IgG antibody testing in Fisher syndrome compared
+
+13
+
+Neurological Sciences (2024) 45:5657–5669
+with cerebrospinal fluid examination. J Neuroimmunol 148:200–
+205. https://doi.org/10.1016/j.jneuroim.2003.11.017
+111. Kusunoki S, Shimizu J, Chiba A et al (1996) Experimental sensory neuropathy induced by sensitization with ganglioside GD1b.
+Ann Neurol 39:424–431. https://doi.org/10.1002/ana.410390404
+112. Liu J-X, Willison HJ, Pedrosa-Domellöf F (2009) Immunolocalization of GQ1b and related gangliosides in human extraocular
+neuromuscular junctions and muscle spindles. Invest Ophthalmol
+Vis Sci 50:3226–3232. https://doi.org/10.1167/iovs.08-3333
+113. Kusunoki S, Chiba A, Kanazawa I (1999) Anti-GQ1b IgG antibody is associated with ataxia as well as ophthalmoplegia.
+Muscle Nerve 22:1071–1074. https://doi.org/10.1002/(sici)10974598(199908)22:8%3C1071::aid-mus10%3E3.0.co;2-0
+114. Vajn K, Viljetić B, Degmečić IV et al (2013) Differential distribution of major brain gangliosides in the adult mouse central
+nervous system. PLoS ONE 8:e75720. https://doi.org/10.1371/
+journal.pone.0075720
+115. Chiba A, Kusunoki S, Obata H et al (1993) Serum anti-GQ1b
+IgG antibody is associated with ophthalmoplegia in Miller Fisher
+syndrome and Guillain-Barré syndrome: clinical and immunohistochemical studies. Neurology 43:1911–1917. https://doi.
+org/10.1212/wnl.43.10.1911
+116. Susuki K, Yuki N, Hirata K (2001) Fine specificity of anti-GQ1b
+IgG and clinical features. J Neurol Sci 185:5–9. https://doi.
+org/10.1016/s0022-510x(01)00464-6
+117. Fukami Y, Wong AHY, Funakoshi K et al (2016) Anti-GQ1b
+antibody syndrome: anti-ganglioside complex reactivity determines clinical spectrum. Eur J Neurol 23:320–326. https://doi.
+org/10.1111/ene.12769
+118. Kashihara K, Shiro Y, Koga M, Yuki N (1998) IgG anti-GT1a
+antibodies which do not cross react with GQ1b ganglioside in a
+pharyngeal-cervical-brachial variant of Guillain-Barré syndrome.
+J Neurol Neurosurg Psychiatry 65:799. https://doi.org/10.1136/
+jnnp.65.5.799
+119. Taphoorn MJ, Uitdehaag BM, Lanting P (1991) A brain-stem
+lesion in the Miller Fisher syndrome demonstrated by CT and
+MRI. J Neurol 238:243. https://doi.org/10.1007/BF00314791
+120. Giroud M, Mousson C, Chalopin JM et al (1990) Miller-Fisher
+syndrome and pontine abnormalities on MRI: a case report. J
+Neurol 237:489–490. https://doi.org/10.1007/BF00314769
+121. Garcia-Rivera CA, Rozen TD, Zhou D et al (2001) Miller
+Fisher syndrome: MRI findings. Neurology 57:1755. https://doi.
+org/10.1212/wnl.57.10.1755
+122. Romano N, Federici M, Castaldi A (2021) Imaging presentation
+of Bickerstaff Brainstem Encephalitis. Neurohospitalist 11:370–
+372. https://doi.org/10.1177/1941874421993671
+123. Hiew FL, Ramlan R, Viswanathan S, Puvanarajah S (2017) Guillain-Barré syndrome, variants & forms fruste: reclassification
+with new criteria. Clin Neurol Neurosurg 158:114–118. https://
+doi.org/10.1016/j.clineuro.2017.05.006
+124. Wakerley BR, Kokubun N, Funakoshi K et al (2016) Clinical classification of 103 Japanese patients with Guillain-Barré
+syndrome. J Neurol Sci 369:43–47. https://doi.org/10.1016/j.
+jns.2016.08.002
+125. Sauron B, Bouche P, Cathala HP et al (1984) Miller Fisher syndrome: clinical and electrophysiologic evidence of peripheral origin in 10 cases. Neurology 34:953–956. https://doi.org/10.1212/
+wnl.34.7.953
+126. Fross RD, Daube JR (1987) Neuropathy in the Miller Fisher
+syndrome: clinical and electrophysiologic findings. Neurology
+37:1493–1498. https://doi.org/10.1212/wnl.37.9.1493
+127. Jamal GA, Ballantyne JP (1988) The localization of the lesion in
+patients with acute ophthalmoplegia, ataxia and areflexia (Miller
+Fisher syndrome). A serial multimodal neurophysiological study.
+Brain 111(Pt 1):95–114. https://doi.org/10.1093/brain/111.1.95
+
+Neurological Sciences (2024) 45:5657–5669
+128. Dachy B, Deltenre P, Deconinck N, Dan B (2010) The H reflex
+as a diagnostic tool for Miller Fisher syndrome in pediatric
+patients. J Clin Neurosci 17:410–411. https://doi.org/10.1016/j.
+jocn.2009.06.014
+129. Ogawara K, Kuwabara S, Yuki N (2002) Fisher syndrome or
+Bickerstaff brainstem encephalitis? Anti-GQ1b IgG antibody syndrome involving both the peripheral and central nervous systems.
+Muscle Nerve 26:845–849. https://doi.org/10.1002/mus.10246
+130. Arai M, Susuki K, Koga M (2003) Axonal pharyngeal-cervicalbrachial variant of Guillain–Barré syndrome without Anti-GT1a
+IgG antibody. Muscle Nerve 28:246–250. https://doi.org/10.1002/
+mus.10424
+131. Kim JK, Kim B-J, Shin HY et al (2016) Acute bulbar palsy as
+a variant of Guillain-Barré syndrome. Neurology 86:742–747.
+https://doi.org/10.1212/WNL.0000000000002256
+132. Yuki N, Uncini A (2014) Acute and chronic ataxic neuropathies
+with disialosyl antibodies: a continuous clinical spectrum and a
+common pathophysiological mechanism. Muscle Nerve 49:629–
+635. https://doi.org/10.1002/mus.24192
+133. Kuwabara S, Asahina M, Nakajima M et al (1999) Special sensory
+ataxia in Miller Fisher syndrome detected by postural body sway
+analysis. Ann Neurol 45:533–536. https://doi.org/10.1002/15318249(199904)45:4%3C533::aid-ana19%3E3.0.co;2-h
+134. Bergin PS, Bronstein AM, Murray NM et al (1995) Body sway
+and vibration perception thresholds in normal aging and in
+patients with polyneuropathy. J Neurol Neurosurg Psychiatry
+58:335–340. https://doi.org/10.1136/jnnp.58.3.335
+135. Kurihara T, Igarashi Y, Kobai K et al (2020) Diagnosis and prediction of prognosis for Bickerstaff’s brainstem encephalitis
+using auditory brainstem response: a case report. Acute Med Surg
+7:e517. https://doi.org/10.1002/ams2.517
+136. Jacobs BC, O’Hanlon GM, Bullens RWM et al (2003) Immunoglobulins inhibit pathophysiological effects of anti-GQ1b-positive sera at motor nerve terminals through inhibition of antibody
+binding. Brain 126:2220–2234. https://doi.org/10.1093/brain/
+awg235
+137. Mori M, Kuwabara S, Fukutake T, Hattori T (2007) Intravenous immunoglobulin therapy for Miller Fisher syndrome. Neurology 68:1144–1146. https://doi.org/10.1212/01.
+wnl.0000258673.31824.61
+138. Hughes RAC, Swan AV, Raphaël J-C et al (2007) Immunotherapy for Guillain-Barré syndrome: a systematic review. Brain
+130:2245–2257. https://doi.org/10.1093/brain/awm004
+139. Overell JR, Hsieh ST, Odaka M et al (2007) Treatment for Fisher
+syndrome, Bickerstaff’s brainstem encephalitis and related disorders. Cochrane Database Syst Rev 2007:CD004761. https://doi.
+org/10.1002/14651858.CD004761.pub2
+140. Kaida K, Kusunoki S, Kanzaki M et al (2004) Anti-GQ1b antibody
+as a factor predictive of mechanical ventilation in Guillain-Barré
+syndrome. Neurology 62:821–824. https://doi.org/10.1212/01.
+wnl.0000113718.27729.43
+141. Hardy TA, Barnett MH, Mohamed A et al (2012) Severe Bickerstaff’s encephalitis treated with Rituximab: serum and CSF
+
+5669
+GQ1b antibodies. J Neuroimmunol 251:107–109. https://doi.
+org/10.1016/j.jneuroim.2012.07.008
+142. Halstead SK, Zitman FMP, Humphreys PD et al (2008) Eculizumab prevents anti-ganglioside antibody-mediated neuropathy
+in a murine model. Brain 131:1197–1208. https://doi.org/10.1093/
+brain/awm316
+143. Fletcher DD, Lawn ND, Wolter TD, Wijdicks EFM (2000) Longterm outcome in patients with Guillain–Barré syndrome requiring mechanical ventilation. Neurology 54:2311–2315. https://doi.
+org/10.1212/WNL.54.12.2311
+144. Heckmann JG, Dütsch M (2012) Recurrent Miller Fisher syndrome: clinical and laboratory features. Eur J Neurol 19:944–954.
+https://doi.org/10.1111/j.1468-1331.2011.03584.x
+145. Vermeersch G, Boschi A, Deggouj N et al (2011) Recurrent
+Miller Fisher syndrome with vestibular involvement. Eur Neurol
+66:210–214. https://doi.org/10.1159/000331486
+146. Toru S, Ohara M, Hane Y et al (2012) Successful steroid treatment
+for recurrent Miller Fisher syndrome. Muscle Nerve 45:763–764.
+https://doi.org/10.1002/mus.23257
+147. Grosso S, Verrotti A, Tei M et al (2014) Recurrent Miller Fisher
+syndrome in children. Pediatr Neurol 50:269–271. https://doi.
+org/10.1016/j.pediatrneurol.2013.10.016
+148. Dong H, Liu Z, Tang Y et al (2011) Recurrent Fisher-Bickerstaff syndrome: report of a Chinese case. Chin Med J (Engl)
+124:2786–2788
+149. Sharma V, Chan YC, Ong null et al (2006) Bickerstaff’s brainstem
+encephalitis: can it recur? J Clin Neurosci 13:277–279. https://
+doi.org/10.1016/j.jocn.2005.01.011
+150. Chamsi Basha A, Kolko N, Santoro JD, Alomani H (2020) A
+probable case of recurrent Bickerstaff Brainstem Encephalitis
+with Fulminant Course in a Pediatric patient. Neurologist 25:14–
+16. https://doi.org/10.1097/NRL.0000000000000255
+151. Ishii J, Yuki N, Kawamoto M et al (2016) Recurrent GuillainBarré syndrome, Miller Fisher syndrome and Bickerstaff
+brainstem encephalitis. J Neurol Sci 364:59–64. https://doi.
+org/10.1016/j.jns.2016.03.008
+152. Chida K, Nomura H, Konno H et al (1999) Recurrent Miller
+Fisher syndrome: clinical and laboratory features and HLA
+antigens. J Neurol Sci 165:139–143. https://doi.org/10.1016/
+s0022-510x(99)00095-7
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of
+such publishing agreement and applicable law.
+
+13
+
+

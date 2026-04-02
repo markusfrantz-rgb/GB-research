@@ -1,0 +1,231 @@
+# Treatment for Fisher Syndrome, Bickerstaff's Brainstem Encephalitis and Related Disorders
+
+**Citation:** Overell JR, Hsieh ST, Odaka M, Yuki N, Willison HJ. Treatment for Fisher syndrome, Bickerstaff's brainstem encephalitis and related disorders. *Cochrane Database Syst Rev*. 2007 Jan 24;(1):CD004761. PMID: 17253522. PMC8407391.
+
+**DOI:** 10.1002/14651858.CD004761.pub2
+
+---
+
+## Abstract
+
+### Background
+Fisher syndrome represents a regional variant of Guillain-Barre syndrome distinguished by impairment of eye movements (ophthalmoplegia), incoordination (ataxia) and loss of tendon reflexes (areflexia). These conditions associate with anti-GQ1b IgG antibodies. Intravenous immunoglobulin and plasma exchange are commonly employed treatments.
+
+### Objectives
+To systematically evaluate randomized controlled trial evidence regarding acute immunomodulatory therapies for Fisher Syndrome and variants.
+
+### Search Methods
+The authors searched multiple databases including the Cochrane Neuromuscular Disease Trials Register, MEDLINE, EMBASE, CINAHL, and LILACS through February 2009.
+
+### Selection Criteria
+The review sought randomized and quasi-randomized controlled trials. Since none were identified, retrospective case series containing five or more patients were analyzed and summarized.
+
+### Data Collection and Analysis
+All Fisher Syndrome variant studies underwent scrutiny for immunotherapy data, with outcomes collated and summarized.
+
+### Main Results
+We found no randomised or non-randomised prospective controlled trials of immunotherapy in Fisher Syndrome or related disorders.
+
+### Authors' Conclusions
+Evidence from randomized controlled trials supporting immunomodulatory therapy in these conditions remains absent.
+
+---
+
+## Plain Language Summary
+
+Fisher syndrome represents an uncommon paralyzing condition typically following infectious triggers. It involves eye movement problems, coordination loss, and absent reflexes. Unlike Guillain-Barre syndrome, it spares limb strength. Western prevalence represents 5-10% of Guillain-Barre cases, while Eastern Asia reports higher frequencies (25% in Japan).
+
+Bickerstaff's brainstem encephalitis shares similar features but includes consciousness alteration and central nervous system involvement. Treatment approaches employ immunotherapies like plasma exchange or intravenous immunoglobulin.
+
+This systematic review discovered no randomized controlled trials examining Fisher syndrome treatment. Observational studies suggest complete recovery typically occurs. Randomized trials remain necessary for establishing treatment value.
+
+---
+
+## Background
+
+Fisher syndrome constitutes a clinical variant of Guillain-Barre syndrome (GBS), an acute post-infectious paralytic illness caused by inflammatory disruption of peripheral nerve integrity and function. Characterized by ophthalmoplegia, ataxia, and areflexia, Fisher syndrome affects 5-10% of Western GBS cases but represents 19-25% in Eastern Asia.
+
+The syndrome exhibits varied presentations. Pupillary abnormalities, ptosis, bulbar and facial palsy often accompany the characteristic triad. Limited forms may involve only partial symptom manifestations, while bulbar or facial palsy occasionally presents in isolation.
+
+Clinically distinguishing Fisher syndrome from GBS remains straightforward and prognostically significant. GBS typically progresses toward generalized weakness and respiratory involvement. Fisher syndrome may overlap with GBS, causing limb or respiratory weakness alongside characteristic features. Such cases receive classification as "GBS with ophthalmoplegia."
+
+### Immunological Basis
+
+Gangliosides represent surface antigens preferentially localized in nervous tissue. Antiganglioside antibodies frequently appear in acute-phase sera from GBS patients. Anti-GQ1b IgG antibodies were identified in Fisher syndrome patients and demonstrate sensitive and specific tests for FS and its variants. Antibody titers peak at presentation and decay rapidly, becoming undetectable within one month.
+
+### Infection Association
+
+Fisher syndrome typically follows antecedent infection, suggesting acute primary immune responses. Campylobacter jejuni enteritis receives particular attention, with molecular mimicry between GQ1b/GT1a and bacterial lipo-oligosaccharides well-supported. A comprehensive pathogen study revealed 31% of 201 patients with GBS, and 18% of 65 patients with FS, were seropositive for recent C. jejuni infection.
+
+### Natural History
+
+Fisher syndrome generally represents self-limiting, benign pathology. All of 28 untreated FS patients returned to normal activities six months after neurologic onset. Median recovery periods showed ataxia resolution within 32 days and ophthalmoplegia within 88 days. Contrasting GBS, which carries 3.5-12% mortality and substantial disability, Fisher syndrome demonstrates favorable outcomes.
+
+### Bickerstaff's Brainstem Encephalitis (BBE)
+
+Closely related, BBE presents with consciousness alteration or long tract signs alongside ophthalmoplegia and ataxia. Classification remains controversial — some regard it separately, others as Fisher syndrome variant. Distinguishing features include drowsiness, coma, hyperreflexia, and extensor plantar responses.
+
+Evidence supporting BBE-FS relationship includes antecedent infection (in 92%), presence of raised protein in the cerebrospinal fluid (in 59%) and presence of anti-GQ1b antibody (in 66%). Brain MRI abnormalities appear in 30% of BBE cases. The largest published series documented complete remission of symptoms at six months in 66% of patients, most of whom had received various combinations of immunotherapy. Co-authors proposed the eponym "Fisher-Bickerstaff syndrome" after analyzing clinical and investigational similarities.
+
+### Treatment Rationale
+
+Plasma exchange and intravenous immunoglobulin employ mechanisms discussed in separate Cochrane reviews for GBS. Plasma exchange demonstrates superiority over supportive care in mild, moderate, and severe GBS through 30 days post-onset. Intravenous immunoglobulin is similar in efficacy to PE, but no adequate trials have compared it to placebo. Methylprednisolone showed no GBS benefit in Cochrane analysis. A 2004 randomized trial demonstrated adding methylprednisolone to standard IVIg therapy provided no additional recovery advantage.
+
+Numerous case reports describe FS immunotherapy application, particularly in complicated presentations involving central disturbances, severe bulbar involvement requiring ventilation, or GBS overlap features.
+
+---
+
+## Objectives
+
+To systematically review randomized and non-randomized evidence regarding treatment approaches for Fisher syndrome and related conditions.
+
+---
+
+## Methods
+
+### Criteria for Study Consideration
+
+**Study Types:**
+The review sought randomized controlled trials of acute immunomodulatory therapy in Fisher syndrome and variants. Anticipating evidence scarcity, quasi-randomized trials, historically-controlled trials, and concurrent control trials meeting adequate diagnostic and intervention criteria underwent meta-analysis consideration, reported separately from RCTs.
+
+Recognizing potential evidence limitations, prospective and retrospective comparative cohort studies, case-control studies, and case series containing >=5 patients received discussion section inclusion. Requirements included sufficient clinical features for syndrome classification, adequate intervention descriptions, and adequate outcome information documentation. All languages were eligible.
+
+### Participant Types
+
+The review incorporated four patient groups:
+
+**(1) Typical FS:** Patients presenting with ophthalmoplegia, areflexia, and ataxia. Clinical severity varies; hyporeflexia substitutes for areflexia when necessary. Additional features including pupillary abnormalities, ptosis, and bulbar/facial palsy may coexist.
+
+**(2) Bickerstaff's Brainstem Encephalitis (BBE):** Patients with ophthalmoplegia and ataxia plus altered consciousness or pyramidal signs (hyperreflexia/extensor plantar responses).
+
+**(3) Limited FS:** Patients manifesting one or two triad components plus positive serology (serum anti-GQ1b/GT1a IgG antibody). Presentations may involve ophthalmoplegia, ataxia, or mixed manifestations. Additional features as in typical FS may occur.
+
+**(4) Other Limited Syndromes:** Patients with positive serology and isolated cranial motor syndromes excluding ophthalmoplegia, typically oropharyngeal or facial weakness.
+
+All patient groups required investigations excluding alternative diagnostic explanations.
+
+### Intervention Types
+
+All interventions underwent consideration. Anticipated focus included plasma exchange, IVIg, steroids, or combinations. Studies comparing treatments against placebo, no treatment, or alternative treatments qualified. Series containing >=5 participants reporting untreated patient outcomes were assessed. Supportive treatments, physiotherapy, or ventilation management constituted "untreated" classification.
+
+### Outcome Measures
+
+**Primary Outcomes:**
+The primary outcome measure was the proportion of patients who were symptom free and had returned to normal function by six months.
+
+**Secondary Outcomes:**
+1. Symptom-free patient proportion at one month
+2. Ventilation requirement proportion within one month of onset
+3. Six-month mortality proportion
+4. Treatment-related fluctuation or relapse proportion during 12 weeks post-treatment
+5. Adverse event proportions
+
+---
+
+## Search Methods
+
+Searches updated the Cochrane Neuromuscular Disease Trials Specialized Register (February 2009) employing multiple terminology variants: 'Miller Fisher syndrome', 'Fisher syndrome', 'anti-GQ1b antibody syndrome', 'acute ataxic neuropathy', 'acute ophthalmoplegia', 'acute ophthalmoparesis', 'acute oropharyngeal palsy', 'Bickerstaff's brain stem encephalitis', 'Bickerstaff's encephalitis'.
+
+Database searches encompassed:
+- MEDLINE (January 1966-February 2009)
+- EMBASE (January 1980-February 2009)
+- CINAHL Plus (January 1937-February 2009)
+- LILACS (January 1982-February 2009)
+
+---
+
+## Data Collection and Analysis
+
+### Study Selection
+
+Given substantial literature availability in Japanese and Chinese journals, the review team included native English speakers, native Japanese speakers, and a Chinese speaker. Two independent reviewers assessed English and Japanese articles; STH assessed Chinese articles.
+
+### Data Synthesis
+
+Planned analysis involved calculating weighted treatment effects across trials using fixed-effect or random-effects models when heterogeneity existed. Subgroup analyses examined: (1) four patient groups, (2) children <=15 years, (3) ventilation-requiring patients, (4) patients treated at different disease phases.
+
+---
+
+## Results
+
+We found no randomised, quasi-randomised, historically controlled trials, or trials with concurrent controls that met the selection criteria. We found no (randomised) controlled trials of any treatment in FS or in related disorders, nor did we find any prospective cohort series or case control studies. Multiple retrospective series met discussion criteria and appear summarized below.
+
+---
+
+## Discussion
+
+The Fisher syndrome literature comprises predominantly case reports and small retrospective series. Complexity emerges from variable syndrome presentations, BBE overlap features, and potential GBS progression. While these conditions share common pathological triggers, extrapolating GBS randomized controlled data to Fisher syndrome remains theoretically reasonable, yet may inappropriately expose patients with self-limiting disease to potentially toxic therapies.
+
+### Fisher Syndrome: Series Data (>=5 patients)
+
+Untreated patients demonstrated high six-month complete recovery rates (60-100%). Only one group published >=5 IVIg-treated patients, with 89% achieving symptom-freedom at six months. Plasma exchange-treated series showed 66-96% symptom-free proportions at six months.
+
+The largest typical FS series by Mori et al. examined 92 consecutive patients. Clinical recovery was reviewed comparing patients treated with IVIg (n=28), PE (n=23), or supportive treatment only (n=41). Results demonstrated no statistical differences between groups. One year post-onset, 89 (96%) of the 92 patients had complete remission of ophthalmoplegia and ataxia.
+
+The authors reported that the periods between neurological onset and the beginning of amelioration of ophthalmoplegia and ataxia were slightly shorter for the IVIg group than the control group (ophthalmoplegia: 12.0 vs 13.5 days, P=0.04; ataxia: 8.0 vs 10.0 days, P=0.027), with PE groups showing control-comparable results. Conclusions emphasized that in FS IVIg slightly hastens the amelioration of ophthalmoplegia and ataxia, but does not affect the final outcome, presumably because of a good natural recovery.
+
+### Bickerstaff's Brainstem Encephalitis: Series Data (>=5 patients)
+
+BBE series data showed fewer symptom-free patients at six months (mean 65%) compared to typical FS, with higher ventilation requirements (mean 16%). No particular treatment approach demonstrated clear advantage.
+
+The 2003 Odaka et al. series examined 62 BBE-diagnosed patients with strict criteria: progressive ophthalmoplegia and ataxia peaking within four weeks, consciousness disturbance or hyperreflexia. Flaccid tetraparesis appeared in 60%, classified as "BBE with overlapping GBS."
+
+Detailed findings revealed: antecedent illness in 92%, consciousness disturbance in 74%, Babinski's sign in 40%, facial diplegia in 45%, pupillary abnormalities and bulbar palsy in 34%. Deep tendon reflexes were absent/decreased in 58%, normal in 8%, brisk in 34%. Serum anti-GQ1b IgG positivity occurred in 66%; MRI showed posterior fossa, white matter, or thalami abnormalities in 30%.
+
+Nearly all patients demonstrated monophasic courses with good outcomes. Complete remission of symptoms at six months in 66% of patients occurred overall. Assisted ventilation was required for 10 (16%) of the 62 BBE patients during the acute phase. Dysesthesias or limb weakness persisted in 14%, diplopia or gait disturbance in 9%. Three patients experienced residual symptoms (psychic change, dementia, dysphagia). Three deaths occurred: respiratory obstruction, sudden cardiopulmonary arrest, and hemorrhagic cerebral infarction from candida meningitis.
+
+### Limited Fisher Syndrome: Series Data (>=5 patients)
+
+A small 2008 case series described acute ophthalmoplegia (without ataxia) with anti-GQ1b antibody association. Eleven patients were reported; eight completed follow-up. External ophthalmoparesis appeared in all, featuring mixed horizontal-vertical gaze palsy (n=7), pure horizontal (n=3), pure vertical (n=1). Prognosis proved uniformly excellent, with symptom resolution by three months in treated and untreated patients.
+
+---
+
+## General Conclusions
+
+Experimental evidence supports therapeutic approaches reviewed herein. Mouse neuromuscular junction models demonstrated that human IVIg inhibits the binding of anti-GQ1b antibodies to GQ1b, thereby preventing antibody binding to neural GQ1b, complement activation and subsequent pathophysiological effects. This provided experimental IVIg treatment rationale for Fisher syndrome.
+
+Technical challenges persist in anti-ganglioside antibody elimination through specific immunoadsorption therapy. Emerging evidence implicating anti-GQ1b antibodies as central pathogenic mediators suggests selective plasma exchange exploration warrants consideration.
+
+Eculizumab (humanized monoclonal antibody inhibiting terminal complement activation at C5) demonstrated protection against complement-mediated damage in murine Fisher syndrome models.
+
+Clinical studies emphasizing recovery speed in typical FS or severe BBE variants overlapping GBS warrant priority.
+
+Despite absent randomized trial evidence, review authors considered extrapolating GBS data to complicated FS populations (profound ataxia, severe bulbar palsy, respiratory/limb weakness in overlap syndromes) clinically logical. Less severe syndromes likely improve completely with conservative approaches.
+
+---
+
+## Authors' Conclusions
+
+### Implications for Practice
+
+There are no randomised controlled trials of immunomodulatory therapy in FS or related disorders on which to base practice.
+
+### Implications for Research
+
+Randomised controlled trials are needed to establish the value of immunomodulatory therapy in FS and related disorders. Typical FS is self-limiting, and has a benign prognosis, and so the clinical aim of any therapeutic intervention is limited to speeding recovery.
+
+---
+
+## History
+
+- Protocol first published: Issue 2, 2004
+- Review first published: Issue 1, 2007
+- Search update: 2 August 2009
+
+## Contributions of Authors
+
+JRO and HJW prepared protocol and review, assessing English-language papers. NY and MO assessed Japanese studies; STH assessed Chinese articles. All co-authors provided comments and amendments throughout.
+
+---
+
+## Selected Key References
+
+- Al-Din AN, et al. Brainstem encephalitis and the syndrome of Miller Fisher. *Brain*. 1982;105(Pt 3):481-95.
+- Bickerstaff ER. Brainstem encephalitis. *BMJ*. 1957;15(5032):1384-7.
+- Chiba A, et al. Serum IgG antibody to ganglioside GQ1b is a possible marker of Miller Fisher syndrome. *Ann Neurol*. 1992;31(6):677-9.
+- Fisher M. An unusual variant of acute idiopathic polyneuritis. *NEJM*. 1956;255(2):57-65.
+- Jacobs BC, et al. Immunoglobulins inhibit pathophysiological effects of anti-GQ1b-positive sera at motor nerve terminals. *Brain*. 2003;126(Pt 10):2220-34.
+- Mori M, et al. Clinical features and prognosis of Miller Fisher syndrome. *Neurology*. 2001;56(8):1104-6.
+- Mori M, et al. Intravenous immunoglobulin therapy for Miller Fisher Syndrome. *Neurology*. 2007;68(14):1144-6.
+- Odaka M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barre syndrome. *Brain*. 2003;126(Pt 10):2279-90.
+- Yuki N, et al. An immunologic abnormality common to Bickerstaff's brain stem encephalitis and Fisher's syndrome. *J Neurol Sci*. 1993;118(1):83-7.

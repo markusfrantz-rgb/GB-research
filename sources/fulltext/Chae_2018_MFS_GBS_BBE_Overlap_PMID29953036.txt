@@ -1,0 +1,386 @@
+CASE REPORT/CASE SERIES
+
+A Case Report of Overlapping Miller Fisher Syndrome,
+Guillain-Barré Syndrome, and the Bickerstaff Brainstem
+Encephalitis
+Choong Sik Chae, MD, Kyoung Min Kwon, MD, Jung Soo Lee, MD, PhD,
+and Yeo Hyung Kim, MD
+
+Introduction: Patients with overlapping Miller Fisher syndrome
+(MFS), Guillain-Barré syndrome (GBS), and the Bickerstaff brainstem
+encephalitis (BBE) have rarely been reported, and the diverse clinical
+features and sequelae are challenging for physicians. Through this case
+report, we present the clinical course, treatment, recovery, and sequelae
+of an overlapping MFS, GBS, and BBE syndrome and provide a review
+of the literature.
+Case Report: A 76-year-old woman was initially presented with diplopia, ophthalmoplegia, and ataxia, but she later developed weakness of
+limbs, respiratory failure, deterioration of consciousness, and cognitive
+impairment. After IV immunoglobulin and corticosteroid therapy, she
+began to recover consciousness and from the weakness from day 18.
+After 8 months of rehabilitative therapy, she was able to swallow food
+without difﬁculty, but she still cannot walk without assistance, showed
+cognitive impairment, and the tracheostomy remained in place because
+of persistent respiratory muscle weakness.
+Conclusions: As the clinical course of MFS-GBS-BBE overlapping
+syndrome is variable, involving not only the peripheral but also the
+central nervous system, the establishment of a comprehensive therapeutic strategy is warranted.
+Key Words: Miller Fisher syndrome, Guillain-Barré syndrome, central
+nervous system, brainstem, encephalitis
+
+(The Neurologist 2018;23:128–130)
+
+T
+
+here are several clinical subtypes of Guillain-Barré syndrome (GBS) and its variants Miller Fisher syndrome
+(MFS) and the Bickerstaff brainstem encephalitis (BBE) with
+different neurological features and presentations.1,2 Although
+the typical clinical features of GBS, MFS, and BBE are wellrecognized, GBS is also used as a broad term to describe a
+number of related acute autoimmune neuropathies and it
+sometimes cannot comprehensively describe the full spectrum
+of related diseases including overlapping cases.1,3 The evidence
+from overlapping cases supports the classiﬁcation of MFS,
+GBS, and BBE as subtypes within a clinical spectrum of the
+
+From the Department of Rehabilitation Medicine, College of Medicine, The
+Catholic University of Korea, Seoul, Republic of Korea.
+The English in this document has been checked by at least 2 professional
+editors, both native speakers of English (for a certiﬁcate, please see:
+www.textcheck.com/certiﬁcate/llBlil).
+The authors declare no conﬂict of interest.
+Reprints: Yeo Hyung Kim, MD, Department of Rehabilitation Medicine,
+Uijeongbu St. Mary’s Hospital, College of Medicine, The Catholic
+University of Korea 271, Cheonbo-Ro, Uijeongbu-si, Gyeonggi-do
+11765, Republic of Korea. E-mail: kyhyung@gmail.com.
+Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved.
+ISSN: 1074-7931/18/2304-0128
+DOI: 10.1097/NRL.0000000000000183
+
+same disease, possibly affecting the peripheral and/or central
+nervous systems.1,3,4
+Patients with overlapping MFS, GBS, and BBE have
+rarely been reported, and the clinical course and prognosis of
+the disease have not been described in detail. Herein, we report
+a Korean female with a GBS overlapping syndrome showing
+the manifestations of peripheral and central nervous system
+involvement. The clinical diagnosis of GBS was supported by
+cerebrospinal ﬂuid (CSF) albuminocytological dissociation,
+serologic anti-GQ1b antibodies, and an electrophysiological
+evidence of acute motor and sensory axonal neuropathy. This
+case report illustrates the challenging presentation, treatment,
+recovery, and sequelae of an overlapping MFS-GBS-BBE
+syndrome and provides a review of the literature.
+
+CASE REPORT
+A 76-year-old Asian woman developed myalgia, fever, nausea,
+and vomiting for 3 days. She had been diagnosed with type 2 diabetes
+mellitus and hypertension 10 years before. She visited the emergency
+room due to a gradual aggravation of her symptoms and the development of diplopia and ophthalmoplegia (day 1). At the emergency room,
+her mental status was alert without limb weakness. She had gait disturbance with an ataxic pattern. Her deep tendon reﬂex was hypoactive,
+and no pathologic reﬂex was observed. She was admitted to the neurological department with a diagnosis of MFS. Her CSF on day 1
+showed increased protein levels (94.8 mg/dL) and 5 white blood cells/
+mm3. On day 2, she could not open her eyes spontaneously due to
+severe ptosis. A brain magnetic resonance imaging on day 3 showed no
+remarkable ﬁndings. Dysarthria and dysphagia were newly developed,
+and a Levin tube was inserted. She showed muscle weakness of
+Medical Research Council (MRC) grade 4 in the upper and lower
+extremities. On day 3, her muscle power was aggravated to MRC grade
+3 in all extremities. Dyspnea developed on day 4 and her oxygen saturation dropped to 82%. As her saturation level was not maintained, she
+was intubated and assisted ventilation was started. The arterial CO2
+levels remained constant within the normal range. On day 5, her limb
+weakness further progressed to MRC grade 1. Her mental status
+decreased from alert to a stupor state, and she showed a sluggish pupil
+reﬂex. She was positive for immunoglobulin (Ig) G against GQ1b
+(1:1600), but negative for IgGs against GM1, GD1b, GT1a, or GT1b
+(normal range for each antibody <1:40) in a serum sample obtained on
+day 2. Electromyography and nerve conduction studies revealed acute
+motor and sensory axonal neuropathy and bilateral facial neuropathy.
+A clinical diagnosis of GBS was considered and she received IV
+immunoglobulin (IVIG) therapy on day 6 for 5 days (400 mg/kg/d).
+However, IVIG administration had no immediate effect on her motor
+weakness and deteriorated mental status. A follow-up brain magnetic
+resonance imaging on day 13 revealed no abnormalities in the brainstem
+and cerebral hemispheres. A follow-up CSF examination on day 16
+showed more increased protein levels (401.9 mg/dL) and 0 white blood
+cells. Electroencephalography on day 17 showed diffuse cerebral dysfunction without epileptiform discharges. As her limb weakness and
+stupor mental status were persistent after IVIG treatment, on day 17, the
+patient received additional therapy with 1000 mg/d methylprednisolone
+
+128 | www.theneurologist.org
+The Neurologist  Volume 23, Number 4, July 2018
+Copyright r 2018 Wolters Kluwer Health, Inc. All rights reserved.
+
+The Neurologist  Volume 23, Number 4, July 2018
+
+Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved.
+
+Stand with assistance
+for a short time
+after 6 mo
+Diabetes
+HTN
+76/F
+Our case
+2018
+
+Diplopia, ophthalmoplegia,
+ataxia
+
+Negative
+56/M
+Pegg et al9
+
+Hands tingling, unsteadiness,
+diplopia
+
+Asthma
+Unsteady gait
+20/M
+Han et al8
+
+Not reported
+72/F
+Fujii et al7
+
+Not reported
+
+Facial numbness, diplopia,
+vertigo, extremity tingling
+sense, and weakness
+Diplopia, unsteady gait
+43/F
+Stevenson
+et al6
+
+AMSAN indicates acute motor sensory axonal neuropathy; HTN, hypertension; IVIG, IV immunoglobulin; NCS, nerve conduction study; PE, plasma exchange.
+
+IVIG (1 session)
+IV Methylprednisolone
+GQ1b (day 2)
+AMSAN
+Yes (day 1)
+
+Walk with a frame
+after 4-5 mo
+IVIG (2 sessions)
+PE
+GD1a, GQ1b
+(not reported)
+AMSAN
+
+AMSAN
+No (day 1)
+Yes (day 21)
+
+No (day 1)
+Yes (day 7)
+
+Walk around with
+support on day 132
+IV Dexamethasone
+
+Full recover after
+10 mo
+IVIG (2 sessions)
+Immunoadsorption
+
+GM1, GD1a,
+GQ1b, GT1a
+(day 6)
+Negative
+AMSAN
+No (day 1)
+
+Independent gait on
+day 27
+IVIG (1 session)
+GM1
+(not reported)
+Demyelinating
+Yes
+(not reported)
+
+Tandem gait on
+day 22
+
+Outcome
+Treatment
+
+PE (7 sessions)
+GQ1b (day 2)
+Not reported
+Not reported
+
+BBE day 1
+MFS day 2
+GBS day 5
+BBE day 1
+GBS day 9
+MFS day 10
+MFS day 1
+GBS day 3
+BBE day 5
+MFS day 1
+BBE day 12
+GBS day 21
+MFS day 1
+GBS day 7
+BBE day 42
+MFS day 1
+GBS day 3
+BBE day 5
+Not reported
+Diplopia, unsteady gait
+34/F
+Arai et al5
+
+Antibodies
+(Sampling Day)
+NCS
+Albuminocytological
+dissociation (day)
+Clinical
+Course
+Comorbidity
+Initial
+Symptoms
+Age/Sex
+
+DISCUSSION
+This case demonstrates the variable and unpredictable course
+of overlapping MFS, GBS, and BBE. To our knowledge, 6 cases
+of overlapping MFS-GBS-BBE, including the current patient, have
+been reported since 2002 (age, 20 to 76 y; M:F, 2:4), as shown in
+Table 1.5–9 An unsteady gait and oculomotor dysfunction are
+commonly observed as the initial presentation. The overlap of the
+second entity occurred within 2 weeks in all reported cases, and
+the overlap of the third entity varied from day 5 to day 42. The
+sequence of the entities differed among the reported cases. Albuminocytological dissociation in the CSF was detected in 4 cases
+(days 1 to 21). Axonal neuropathy was observed in 4 cases, which
+is consistent with previous reports that axonal rather than demyelinating forms of GBS overlap with MFS.10 Only 1 case reported
+by Stevenson et al6 showed demyelinating neuropathy, which
+exhibited the best prognosis of independent ambulation on day 27.
+Anti-GQ1b antibodies are thought to cause ophthalmoplegia and
+cerebellar-type ataxia.11 It is assumed that the impaired consciousness in BBE is also mediated by the expression of GQ1b
+ganglioside in the reticular formation.1 Consistent with our review,
+anti-Gq1b antibodies were detected in 4 of 6 cases.5–9 The clinical
+features of our patient according to the new diagnostic classiﬁcation suggested by the GBS classiﬁcation group are summarized
+in Figure 1.1 We concluded our patient to have BBE by reviewing
+the diagnostic criteria suggested by Koga et al.12 BBE is characterized by the presence of anti-GQ1b antibodies and a typical
+clinical picture of acute progressive external ophthalmoplegia,
+ataxia, and impaired consciousness by 4 weeks, followed by
+spontaneous recovery within 12 weeks after onset. The patient met
+the diagnostic criteria for BBE except for uncertain recovery of
+ataxia within 12 weeks, which is due to the severe weakness by
+overlapping of GBS.
+IVIG or plasma exchange (PE) monotherapy are recommended treatments for GBS. The combined treatment with
+IVIG, PE, steroids, or immunoadsorption yielded no signiﬁcant
+difference in patient outcome compared with monotherapy.2
+However, there are no established treatment regimens or clinical trials for overlapping cases. As shown in Table 1, all of the
+reported MFS-GBS-BBE overlapping cases were treated differently. After the initial treatment with IVIG or PE, additional
+treatments such as multiple sessions of IVIG or PE, steroids,
+and immunoadsorption were used in 4 cases. The deteriorating
+
+TABLE 1. Reported Cases of Overlapping Miller Fisher Syndrome, Guillain-Barré Syndrome, and the Bickerstaff Brainstem Encephalitis
+
+for 5 consecutive days. Her mental status began to recover to an alert
+state from day 18 with a tendency to wax and wane. Her limb weakness
+improved to MRC grade 3 on day 21; however, ventilator weaning was
+delayed due to the impaired ventilation and copious secretions. A tracheostomy was performed on day 23 and mechanical ventilation was
+removed on day 24. After recovery of consciousness, she showed a
+cognitive decline compared with before the onset of the disease.
+During the hospital days, rehabilitative strengthening exercises,
+respiratory exercises, balance training, and occupational therapy were
+gradually applied. She began to open her eyelids and move eyeballs
+spontaneously on day 45. There was a large amount of aspiration during
+a videoﬂuoroscopic study on day 48, which was caused by decreased
+pharyngeal contraction; therefore, we decided to continue the Levin
+tube feeding. She could sit on the side of the bed on day 53. After
+discharge from our hospital (day 54), she underwent an outpatient daily
+rehabilitation program. On day 69, she exhibited a normal swallowing
+function and started a regular diet without difﬁculty. On day 150, her
+muscle power was improved to MRC grade 4 in some proximal muscles
+and she could stand unassisted for a short time. The peak cough ﬂow on
+day 194 was 50 m/s due to persistent respiratory muscle weakness and
+attempts to remove the tracheostomy failed. On day 247, she could not
+ambulate independently, but she could walk indoors for a short distance
+with the aid of a walker.
+
+GBS Overlapping Syndrome
+
+www.theneurologist.org | 129
+
+Copyright r 2018 Wolters Kluwer Health, Inc. All rights reserved.
+
+The Neurologist  Volume 23, Number 4, July 2018
+
+Chae et al
+
+FIGURE 1. The clinical course of the current patient showing all core clinical features of GBS, MFS, and BBE. The timing of recovery of
+ataxia is uncertain. BBE indicates Bickerstaff’s brainstem encephalitis; cGBS, classic Guillain-Barré syndrome; MFS, Miller Fisher syndrome.
+
+course of overlap syndrome may result in inconsistent treatments. After 6 months, most patients with GBS and MFS show
+independent ambulation, and 66% of BBE patients achieve
+complete remission.4,13 However, the prognosis of MFS-GBSBBE overlapping cases has not yet been identiﬁed. Most
+patients in previous case reports showed a favorable outcome at
+6 months. However, after 8 months, the current patient, who
+had underlying diabetic polyneuropathy and is the oldest
+reported case to date, could not walk independently and the
+tracheostomy was maintained. The most difﬁcult sequelae
+remaining in our patient are the weakness in the respiratory
+muscles and cognitive impairment. Considering the normal
+arterial CO2 levels, her respiratory failure seems to be caused by
+peripheral and cranial neuropathy rather than brainstem dysfunction. Cognitive decline was the least predicted sequela and
+is thought to be an evidence of the involvement of central
+nervous system. Rehabilitative training is continuing with an
+emphasis on respiratory muscle exercise and cognitive training.
+Multicenter studies are needed to identify appropriate treatment
+strategies and predict the prognosis of overlapping cases.
+REFERENCES
+1. Wakerley BR, Uncini A, Yuki N. Guillain-Barre and Miller Fisher
+syndromes—new diagnostic classification. Nat Rev Neurol. 2014;
+10:537–544.
+2. Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barre syndrome.
+Lancet. 2016;388:717–727.
+3. Odaka M, Yuki N, Hirata K. Anti-GQ1b IgG antibody syndrome:
+clinical and immunological range. J Neurol Neurosurg Psychiatry.
+2001;70:50–55.
+
+4. Dimachkie MM, Barohn RJ. Guillain-Barre syndrome and variants.
+Neurol Clin. 2013;31:491–510.
+5. Arai M, Odaka M, Yuki N, et al. A patient with overlapping
+Bickerstaff’s brainstem encephalitis, Miller Fisher syndrome and
+Guillain-Barre syndrome during the clinical course. Eur J Neurol.
+2002;9:115–116.
+6. Stevenson VL, Ferguson SM, Bain PG. Bickerstaff’s brainstem
+encephalitis, Miller Fisher syndrome and Guillain-Barre syndrome
+overlap with negative anti-GQ1b antibodies. Eur J Neurol. 2003;
+10:187.
+7. Fujii D, Manabe Y, Takahasi Y, et al. A case of fisher-bickerstaff
+syndrome overlapped by guillain-barre syndrome. Case Rep
+Neurol. 2012;4:212–215.
+8. Han C, Wang Y, Jia J, et al. Bickerstaff’s brainstem encephalitis,
+Miller Fisher syndrome and Guillain-Barre syndrome overlap in an
+asthma patient with negative anti-ganglioside antibodies. BMC Res
+Notes. 2012;5:295.
+9. Pegg EJ, Chhetri SK, Lekwuwa UG, et al. An overlapping case of
+Miller Fisher Syndrome, Bickerstaff’s Encephalitis, and the ASMAN
+variant of Guillain-Barre syndrome. Case Rep Neurol Med. 2016;
+2016:1596850.
+10. Umapathi T, Tan EY, Kokubun N, et al. Non-demyelinating,
+reversible conduction failure in Fisher syndrome and related
+disorders. J Neurol Neurosurg Psychiatry. 2012;83:941–948.
+11. Hughes RA, Cornblath DR. Guillain-Barre syndrome. Lancet.
+2005;366:1653–1666.
+12. Koga M, Kusunoki S, Kaida K, et al. Nationwide survey of patients
+in Japan with Bickerstaff brainstem encephalitis: epidemiological
+and clinical characteristics. J Neurol Neurosurg Psychiatry. 2012;83:
+1210–1215.
+13. Odaka M, Yuki N, Yamada M, et al. Bickerstaff’s brainstem
+encephalitis: clinical features of 62 cases and a subgroup associated
+with Guillain-Barre syndrome. Brain. 2003;126:2279–2290.
+
+130 | www.theneurologist.org
+Copyright © 2018 Wolters Kluwer Health, Inc. All rights reserved.
+Copyright r 2018 Wolters Kluwer Health, Inc. All rights reserved.
+
+

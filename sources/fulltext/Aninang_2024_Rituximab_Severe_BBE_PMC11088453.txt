@@ -1,0 +1,119 @@
+Utility of Brainstem Auditory Evoked Response as a Diagnostic Tool and Rituximab as a Treatment for Severe Bickerstaff Brainstem Encephalitis: A Case Report
+
+Authors: Myra T Aninang, Marianne Rae Baltazar-Libiran, Ludwig F Damian
+Affiliation: Neurology, Institute for Neurosciences, St. Luke's Medical Center, Quezon City, Philippines
+Journal: Cureus, 2024 Apr 10;16(4):e57993
+PMCID: PMC11088453
+
+ABSTRACT
+
+Bickerstaff brainstem encephalitis (BBE) represents a rare neurological disorder presenting with three characteristic features: impaired eye movements, ataxia, and altered consciousness. Clinical evaluation and antibody testing (anti-GQ1b) typically establish diagnosis, though in resource-limited settings, electrophysiological testing may supplement diagnosis when serologic testing proves unavailable. Due to its rarity and generally favorable outcomes, standardized treatment approaches remain undefined. While immunomodulatory interventions—including intravenous immunoglobulin, plasma exchange, and corticosteroids—often yield positive results, severe manifestations sometimes resist conventional therapies.
+
+The report describes a 26-year-old man presenting with double vision following upper respiratory infection, subsequently developing tingling sensations, limb weakness, and consciousness changes. Initial testing showed partial eye movement dysfunction progressing to severe paralysis and altered mental status. Electrophysiological studies revealed nerve dysfunction patterns. Brain imaging appeared normal. Video-EEG demonstrated abnormal brain activity patterns. Auditory pathway testing confirmed brainstem involvement. Following unsuccessful treatment with immunoglobulin and high-dose corticosteroids, the patient received rituximab infusion, resulting in marked improvement within one week.
+
+Keywords: Guillain-Barré syndrome, neuroimmunology, anti-GQ1b antibody syndrome, brainstem auditory evoked potential, rituximab therapy, Bickerstaff brainstem encephalitis
+
+INTRODUCTION
+
+Bickerstaff brainstem encephalitis constitutes a neuro-immunologic condition affecting both peripheral and central nervous components. The condition manifests through sudden-onset progressive external eye movement dysfunction, loss of coordination, and consciousness impairment. BBE exists within a spectrum of post-infectious demyelinating conditions alongside Guillain-Barré syndrome and Miller-Fisher syndrome.
+
+In 2012, diagnostic criteria for BBE were formalized, classifying cases as "definite" or "probable" based on clinical presentation and anti-GQ1b antibody presence. No universally accepted treatment protocol exists, though immunological mechanisms suggest benefit from immune-modulating therapies.
+
+CASE PRESENTATION
+
+A 26-year-old male presented with double vision. One week prior to neurological symptoms, he experienced upper respiratory infection. Emergency evaluation revealed limited upward eye movement on the left side. Respiratory testing confirmed influenza A infection. Within hours of admission, he developed generalized paresthesias, generalized weakness, and swallowing difficulty. Re-examination demonstrated incomplete bilateral eye movement dysfunction, facial muscle weakness, speech difficulty, complete limb paralysis, coordination loss, and absent reflexes.
+
+Day 2: Electrophysiological nerve testing showed reduced motor unit activity in the right thigh muscle and absent reflex responses in bilateral lower leg nerves, without abnormal nerve fiber dispersal patterns. Post-examination, consciousness declined necessitating intubation for airway protection. Assessment indicated probable BBE.
+
+Cerebrospinal fluid: elevated protein (74 mg/dL; ref 8-32) with normal cell counts (4 cells/µL, 100% lymphocytes), supporting nerve tissue inflammation. Opening pressure: 18 cmH₂O. CSF/serum glucose ratio: 0.62. CSF IgG: 2.09 mg/dL. CSF oligoclonal panel: present.
+
+Immunoglobulin therapy at 2 grams per kilogram for five days commenced. Consciousness further deteriorated; pupils remained reactive but eye movement responses disappeared. Video-EEG monitoring revealed background brain rhythm abnormalities.
+
+Additional corticosteroid pulses at 500 mg IV every twelve hours for three days. Repeat brain imaging: no significant abnormalities.
+
+Day 7: Repeat nerve conduction studies demonstrated progressive sensory and motor nerve dysfunction (AMSAN variant). Key findings:
+
+Nerve Conduction Studies (Day 2 vs Day 7):
+- Median nerve CMAP (wrist): Left 15.1→3.0 mV; F-wave: 23.8 ms → absent
+- Ulnar nerve CMAP (wrist): Left 11.2→3.6 mV; SAP digit 5: 8 µV → no response
+- Sural nerve SAP: Left 21 µV → no response; Right 27 µV → no response
+- Common peroneal CMAP (ankle): Left 4.7→0.1 mV; Right 3.5→1.1 mV
+- Posterior tibial CMAP (ankle): Left 15.5→7.6 mV; Right 14.0→5.2 mV
+- H-reflex: bilateral absent on both days
+- F-waves (AH): bilateral absent by Day 7
+
+Brainstem Auditory Evoked Response (Day 10): Bilateral partial dysfunction of the auditory pathways supporting central conduction dysfunction at the level of the pons.
+
+Day 11: Rituximab infusion at 500 mg IV administered after failure of conventional therapy.
+
+Clinical Response to Rituximab:
+- Day 12 (1 day post-rituximab): Lower extremity movements appeared
+- Follow-up EEG: improved background activity
+- Day 14 (3 days post): Partial eye opening
+- Day 17 (6 days post): Sustained wakefulness
+
+Patient weaned from mechanical ventilation and transferred from ICU on hospital day 20. Discharged on hospital day 47 with oral feeding capability and supported ambulation.
+
+BBE Diagnostic Criteria (Koga et al.):
+
+"Definite" BBE: Criteria (1), (2), and (4) satisfied
+"Probable" BBE: Criteria (1) and (4) OR (2), (3), and (4) satisfied
+
+(1) Acute progressive external ophthalmoplegia, ataxia, and impaired consciousness within four weeks, followed by spontaneous recovery within twelve weeks.
+(2) Positive serum IgG anti-GQ1b antibodies
+(3) Incomplete agreement on (1) due to: inability to evaluate ataxia due to severe weakness or consciousness disturbance; unconfirmed symptom recovery; marked asymmetry of eye movement dysfunction; long tract signs replacing consciousness impairment
+(4) Other conditions excluded
+
+DISCUSSION
+
+This presentation describes a patient exhibiting classical BBE symptoms, diagnosed utilizing auditory pathway testing, demonstrating marked improvement following rituximab administration after conventional therapies proved ineffective.
+
+Disease mechanisms remain incompletely understood but appear triggered by preceding infection. Anti-ganglioside antibody testing remains unavailable locally in the Philippines. Brainstem auditory evoked response evaluates auditory nerve function up to midbrain structures, allowing localization of pathway dysfunction. This examination pinpointed central conduction dysfunction at the brainstem pons level.
+
+Rituximab Mechanism:
+
+Rituximab constitutes a chimeric IgG1 monoclonal antibody targeting CD20 protein on B-lymphocytes. It functions through:
+1. Triggering antibody and complement-dependent responses resulting in CD20-positive B-cell depletion
+2. Reducing early T-helper activation
+3. Generating rituximab-coated B cells functioning as immune complex decoys
+
+Research showed anti-GQ1b antibodies binding and disrupting nerve terminal structure at neuromuscular junctions in experimental models, mediated by complement activation. This process potentially represents the pharmacological target for rituximab in BBE treatment.
+
+Previous Literature on Rituximab in BBE:
+
+One documented case involved a 27-year-old male with severe BBE positive for anti-GQ1b antibody demonstrating poor response to immunoglobulin, plasma exchange, and high-dose corticosteroids, showing substantial neurological improvement following rituximab (Hardy et al. 2012).
+
+Prognosis:
+
+BBE generally carries favorable prognosis. Research demonstrated equivalent treatment response, severity, and outcomes between antibody-positive and antibody-negative patients, though consciousness impairment resolved faster in antibody-positive cases (10 vs 23 days). A 62-patient series showed 66% achieved complete remission without residual symptoms after six months, though three died.
+
+CONCLUSIONS
+
+In resource-constrained environments lacking serologic testing, electrophysiological testing such as auditory pathway evaluation can facilitate BBE diagnosis, particularly when neuroimaging fails to demonstrate brainstem abnormalities.
+
+No definitive BBE treatment currently exists. Emerging evidence supports rituximab utility for severe disease resistant to conventional treatment, justifying additional investigations establishing its therapeutic role in BBE management.
+
+REFERENCES
+
+1. Yoshikawa K, et al. Bickerstaff brainstem encephalitis with or without anti-GQ1b antibody. Neurol Neuroimmunol Neuroinflamm. 2020;7.
+2. Odaka M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barré syndrome. Brain. 2003;126:2279–2290.
+3. Koga M, et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis. J Neurol Neurosurg Psychiatry. 2012;83:1210–1215.
+4. Horton E, et al. Bickerstaff's encephalitis. BMJ Case Rep. 2014;2014:0.
+5. Vatanagul JA, et al. Bickerstaff's brainstem encephalitis in a 31 year old male with positive GQ1b and GM1b antibodies. Philippine J Neurol. 2008;12:29–33.
+6. Ando M, Belonguel N. Bickerstaff's brainstem encephalitis in a 49-year-old diabetic Filipino male. J Neurol Sci. 2017;381.
+7. Cabungcal AG, Pabellano-Tiongson ML. Autopsy evidence of central and peripheral demyelination in GBS/BBE overlap syndrome. Neurol Asia. 2023;28:431–433.
+8. Singh R, Vates E. Brainstem auditory evoked response test. StatPearls. 2023.
+9. Kurihara T, et al. Diagnosis and prediction of prognosis for BBE using ABR: a case report. Acute Med Surg. 2020;7:0.
+10. Ogawara K, et al. Fisher syndrome or Bickerstaff brainstem encephalitis? Muscle Nerve. 2002;26:845–849.
+11. Overell JR, et al. Treatment for Fisher syndrome, BBE and related disorders. Cochrane Database Syst Rev. 2007;2007:0.
+12. Hardy TA, et al. Severe Bickerstaff's encephalitis treated with rituximab: serum and CSF GQ1b antibodies. J Neuroimmunol. 2012;251:107–109.
+13. Vidarsson G, et al. IgG subclasses and allotypes: from structure to effector functions. Front Immunol. 2014;5:520.
+14. Ramwadhdoebe TH, et al. Effect of rituximab on T and B cell subsets in RA. Rheumatology. 2019;58:1075–1085.
+15. Taylor RP, Lindorfer MA. The mechanism of action of rituximab in autoimmune disease. Nat Clin Pract Rheumatol. 2007;3:86–95.
+16. Halstead SK, et al. Eculizumab prevents anti-ganglioside antibody-mediated neuropathy in a murine model. Brain. 2008;131:1197–1208.
+17. Carmona A, et al. GBS in a patient with DLBCL and rituximab. Clin Transl Oncol. 2006;8:764–766.
+18. Jaso R, et al. GBS after rituximab in ITP. J Neurol. 2010;257:488–489.
+19. Marino D, et al. Neurological syndrome after R-CHOP. Int J Hematol. 2011;94:461–462.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC11088453/

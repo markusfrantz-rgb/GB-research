@@ -1,0 +1,1554 @@
+PERSPECTIVES
+OPINION
+
+Guillain–Barré and Miller Fisher
+syndromes—new diagnostic classification
+Benjamin R. Wakerley, Antonino Uncini and Nobuhiro Yuki for the
+GBS Classification Group
+Abstract | Guillain–Barré syndrome (GBS) and its variant, Miller Fisher syndrome (MFS),
+exist as several clinical subtypes with different neurological features and presentations.
+Although the typical clinical features of GBS and MFS are well recognized, current
+classification systems do not comprehensively describe the full spectrum of either
+syndrome. In this Perspectives article, GBS and MFS are classified on the basis of
+current understanding of the common pathophysiological profiles of each disease
+phenotype. GBS is subclassified into classic and localized forms (for example,
+pharyngeal–cervical–brachial weakness and bifacial weakness with paraesthesias),
+and MFS is divided into incomplete (for example, acute ophthalmoparesis, acute ataxic
+neuropathy) and CNS subtypes (Bickerstaff brainstem encephalitis). Diagnostic criteria
+based on clinical characteristics are suggested for each condition. We believe this
+approach to be more inclusive than existing systems, and argue that it could facilitate
+early clinical diagnosis and initiation of appropriate immunotherapy.
+Wakerley, B. R. et al. Nat. Rev. Neurol. 10, 537–544 (2014); published online 29 July 2014;
+corrected online 7 October 2014; doi:10.1038/nrneurol.2014.138
+
+Introduction
+
+Guillain–Barré syndrome (GBS) is the
+broad term used to describe a number of
+related acute autoimmune neuropathies,
+although the term is also used more speci­
+fically to define patients with peripheral
+polyneuropathy affecting all four limbs
+with or without cranial nerve involve­
+ment. GBS was first recognized in 1916 by
+Guillain, Barré and Strohl, who described
+two patients who developed acute ­areflexic
+paralysis in association with raised protein
+levels in cerebrospinal fluid (CSF), but no
+increased cell content.1 By 1938, Guillain
+had recognized various forms of GBS and
+proposed a clinical classification that took
+into account four presentations: the lower
+form, the spinal and midbrain form, the
+midbrain form, and ­poly­radiculo­neuropathy
+with impaired mentation.2
+Almost 20 years later, in his seminal
+paper, Miller Fisher described three patients
+with “an unusual variant of acute idiopathic
+polyneuritis (syndrome of ophthalmo­
+plegia, ataxia and areflexia),” which bore
+Competing interests
+The authors declare no competing interests.
+
+resemblance to the midbrain form pro­
+posed by Guillain.2,3 Contemporaneously,
+Bickerstaff described eight patients who
+presented with ophthalmoplegia, ataxia and
+hypersomnolence, similar to—yet distinct
+from—GBS polyradiculoneuropathy with
+impaired mentation.4
+Clinical diagnostic criteria for GBS were
+introduced in 1978 following an increase
+in incidence after the swine flu vaccination
+programme, and these criteria were later
+reaffirmed.5,6 The criteria were devised to
+enable non-neurologists to recognize GBS
+and were intentionally restrictive, requir­
+ing the presence of universal limb areflexia
+or hyporeflexia. However, with the identi­
+fication of several new phenotypes in the
+past 30 years, the conceptual framework
+of GBS has become increasingly complex.
+For example, in 1986, Ropper described
+patients who developed rapidly progressive
+oropharyngeal, neck and shoulder weak­
+ness that mimicked the descending paralysis
+seen in botulism.7 In 1994, the same author
+also described some patients with areflexic
+paraparesis7,8 and others with acute pro­
+gression of facial diplegia and numbness in
+the extremities;8 he speculated that these
+
+NATURE REVIEWS | NEUROLOGY
+
+three conditions were localized subtypes of
+GBS, which he called pharyngeal–cervical–­
+brachial weakness, the paraparetic variant,
+and bifacial weakness with paraesthesias,
+respectively. These studies led, in 1990, to
+proposed diagnostic criteria for pure motor
+GBS, pure sensory GBS, MFS, several local­
+ized subtypes of GBS (including pharyngeal–
+cervical–­brachial weakness and paraparetic
+GBS) and pure pandysautonomia.9
+A further revision was prompted by results
+from nerve conduction studies. Classification
+criteria published in 2001 by a GBS consen­
+sus group based in the Netherlands described
+several subtypes of GBS: sensorimotor GBS,
+pure motor GBS, MFS and a bulbar form.10
+Nerve conduction studies enabled the group
+to further subclassify sensorimotor GBS
+into either acute inflammatory demyelinat­
+ing polyneuro­pathy (AIDP) or acute motor–
+sensory axonal neuropathy, and pure motor
+GBS into acute motor demyelinating neuro­
+pathy or acute motor axonal neuropathy
+(AMAN). Criteria outlined by the Brighton
+Collaboration GBS working group in 2011
+have also used nerve conduction studies to
+identify patients with vaccination-related
+GBS or MFS.11
+The primary aim of this Perspectives
+article from the GBS Classification Group
+(Box 1) is to present clinical criteria to
+enable neurologists and non-neurologists
+to diagnose GBS and all its variants using a
+simple yet all-inclusive classification sys­tem.
+While some variants are rare (for example,
+acute ptosis and acute mydri­asis) and might
+never be encountered by many physi­
+cians, others (for example, pharyngeal–­
+cervical–brachial weakness) might be
+more common than previously thought,
+having been frequently misdiagnosed as
+myasthenia gravis, botulism or brainstem
+stroke.12 We also consider the classification
+of GBS, MFS and their subtypes. Rather
+than broadly categorizing each subtype as
+an axonal or demyelinating neuropathy,
+we propose new diagnostic criteria based
+on an inclusive set of clinical features. To
+avoid confusion, we use the terms ‘classic
+GBS’ to describe patients who present with
+acute flaccid paralysis of all four limbs,
+and ‘GBS subtypes’ to collectively describe
+the localized forms of GBS. Similarly, we
+use ‘classic MFS’ to describe patients with
+VOLUME 10 | SEPTEMBER 2014 | 537
+
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+Box 1 | The GBS Classification Group
+■■ Shahram Attarian, Centre Hospitalier de la Timone, Marseille, France
+■■ Jong Seok Bae, Hallym University College of Medicine, Seoul, South Korea
+■■ Amilton A. Barreira, University of São Paulo, São Paulo, Brazil
+■■ Yee-Cheun Chan, National University Hospital, Singapore
+■■ Alain Créange, Université Paris-Est Créteil, Créteil, France
+■■ Sung-Tsang Hsieh, National Taiwan University Hospital, Taipei, Taiwan
+■■ Badrul Islam, International Centre for Diarrhoeal Disease Research, Bangladesh, Dhaka,
+Bangladesh
+■■ Meena A. Kannan, Nizam’s Institute of Medical Sciences, Hyderabad, India
+■■ Nobuo Kohara, Kobe City Medical Centre General Hospital, Kobe City, Japan
+■■ Norito Kokubun, Dokkyo Medical University, Tochigi, Japan
+■■ Jean-Pascal Lefaucheur, Université Paris-Est Créteil, Créteil, France
+■■ Osvaldo Nascimento, Federal Fluminense University, Rio de Janeiro, Brazil
+■■ Nortina Shahrizaila, University of Malaya, Kuala Lumpur, Malaysia
+■■ Umapathi Thirugnanam, National Neuroscience Institute, Singapore
+■■ Antonino Uncini, University G. d’Annunzio, Chieti, Italy
+■■ Peter Van den Bergh, University Hospitals St-Luc, Brussels, Belgium
+■■ Benjamin R. Wakerley, Gloucestershire Royal Hospital, Gloucester, UK
+■■ Einar Wilder-Smith, National University Hospital, Singapore
+■■ Rawiphan Witoonpanich, Ramathibodi Hospital, Bangkok, Thailand
+■■ Nobuhiro Yuki, National University of Singapore, Singapore
+
+Table 1 | Clinical features of GBS, MFS and their subtypes
+Category
+
+Clinical features
+Pattern of weakness
+
+Ataxia
+
+Hypersomnolence
+
+Classic GBS
+
+Four limbs
+
+No or minimal
+
+No
+
+Pharyngeal–cervical–brachial
+weakness*
+
+Bulbar, cervical and
+upper limbs
+
+No
+
+No
+
+Acute pharyngeal weakness‡
+
+Bulbar
+
+No
+
+No
+
+Paraparetic GBS*
+
+Lower limbs
+
+No
+
+No
+
+Bifacial weakness with
+paraesthesias*
+
+Facial
+
+No
+
+No
+
+Classic MFS
+
+Ophthalmoplegia
+
+Yes
+
+No
+
+Acute ophthalmoparesis§
+
+Ophthalmoplegia
+
+No
+
+No
+
+Acute ataxic neuropathy
+
+No weakness
+
+Yes
+
+No
+
+Acute ptosis§
+
+Ptosis
+
+No
+
+No
+
+Acute mydriasis§
+
+Paralytic mydriasis
+
+No
+
+No
+
+BBE
+
+Ophthalmoplegia
+
+Yes
+
+Yes
+
+Acute ataxic hypersomnolence¶
+
+No weakness
+
+Yes
+
+Yes
+
+GBS
+
+MFS
+
+§
+
+||
+
+*Localized subtypes of GBS. ‡Incomplete form of pharyngeal–cervical–brachial weakness. §Incomplete forms of MFS. ||CNS
+subtype of MFS. ¶Incomplete form of BBE. Abbreviations: BBE, Bickerstaff brainstem encephalitis; GBS, Guillain–Barré
+syndrome; MFS, Miller Fisher syndrome.
+
+acute ophthalmo­plegia and ataxia, whereas
+the ‘MFS subtypes’ encompass both
+more-extensive (that is, with additional
+features, such as hyper­s omnolence) and
+­less-extensive ­(incomplete) forms of MFS.
+
+Nosological considerations
+
+Though phenotypically different, GBS and
+MFS subtypes share a number of clinical
+features including the presence of ante­
+cedent infection, a monophasic disease
+course, areflexia, distal paraesthesias, CSF
+538 | SEPTEMBER 2014 | VOLUME 10
+
+albuminocytological dissociation, and
+nerve conduction abnormalities. 3,4,7,8,13
+In addition, some patients have overlap­
+ping or sequential diagnoses: some patients
+with MFS develop tetraplegia during the
+clinical course of illness, 14 one patient
+with pharyngeal–cervical–brachial weak­
+ness was reported to develop leg weakness
+during the progressive phase of the illness,15
+and another patient in the recovery phase
+of classic GBS showed only pharyngeal–­
+cervical–brachial weakness.16 These factors
+
+
+
+support the classification of these various
+disease subtypes within the spectrum of
+GBS (Table 1).
+Phenotypic differences among the local­
+ized GBS subtypes—pharyngeal–­cervical–
+brachial weakness, paraparetic GBS and
+bifacial weakness with paraesthesias—are
+nosologically defined according to the
+pattern and characteristics of limb and cranial
+nerve involvement. Phenotypic differences
+among the MFS subtypes—the CNS subtype
+Bickerstaff brainstem encephalitis (BBE),
+and the incomplete forms, acute ophthalmo­
+paresis and acute ataxic ­neuropathy—are
+defined on the basis of presence or absence
+of hyper­somno­lence, or at least one of the
+cardinal features of MFS (ophthalmo­plegia
+and ataxia). Other localized subtypes of
+GBS, including sixth cranial nerve paresis
+with paraesthesias, and severe ptosis without
+ophthalmoplegia, have been described7,8 but
+these conditions can be positioned in our
+classification system as incomplete forms of
+MFS, termed acute ­ophthalmoparesis and
+acute ptosis, respectively.
+Acute sensory small-fibre ­neuropathy,
+acute sensory and autonomic neuro­
+pathy, and acute pandysautonomia prob­
+ably represent postinfectious autoimmune
+conditions similar to GBS.17–20 However, to
+avoid confusion—and in keeping with other
+authors10,11—we have not included these dis­
+orders in our classification of GBS variants.
+By contrast, acute sensory large-fibre neuro­
+pathy,20 which has been described as pure
+sensory GBS or acute sensory ataxic neuro­
+pathy,9,21 can be positioned as an incom­
+plete form of MFS, namely, acute ataxic
+­neuropathy, in our classification.22
+Although nerve conduction studies are
+not required in our clinical classification
+system, they can be useful in elucidating the
+type of neuropathy and supporting the diag­
+nosis. The underlying nerve conduction
+abnormalities associated with GBS and its
+subtypes can be categorized as demyelinat­
+ing (AIDP) and axonal (AMAN and acute
+sensorimotor axonal neuropathy) forms.23
+Electrophysiological studies indicate that
+MFS, pharyngeal–cervical–brachial weak­
+ness and paraparetic GBS are all axonal
+forms of neuropathy,24–26 whereas bifacial
+weakness with paraesthesias is demyelin­
+ating in nature. 27 The axonal forms are
+associated with antiganglioside anti­bodies
+(Table 2), and affected patients might
+show promptly reversible nerve conduc­
+tion failure or axonal degeneration. This
+feature suggests a common pathogenetic
+mechanism of autoantibody-mediated
+www.nature.com/nrneurol
+
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+Table 2 | Diagnostic criteria for GBS, MFS and their subtypes
+Classification
+
+Core clinical features
+
+Notes
+
+Supportive features
+
+Mostly symmetric pattern of limb
+and/or motor cranial-nerve
+weakness*‡§
+
+Alternative diagnosis should be excluded
+
+Antecedent infectious symptoms||
+
+General syndrome
+All GBS spectrum
+disorders
+
+Presence of distal paraesthesia
+at or before the onset of
+weakness
+
+Monophasic disease course with
+interval between onset and nadir
+of weakness of 12 h to 28 days,
+followed by clinical plateau
+
+Cerebrospinal fluid
+albuminocytological dissociation¶
+
+Specific diagnoses
+Classic GBS
+
+Weakness* and areflexia/
+hyporeflexia in all four limbs
+
+Weakness usually starts in the legs and ascends but may
+start in the arms
+
+Electrophysiological evidence
+of neuropathy
+
+Weakness may be mild, moderate or complete paralysis
+Cranial-nerve-innervated muscles or respiratory muscles
+may be involved
+Muscle stretch reflexes may be normal or exaggerated in
+10% of cases
+Pharyngeal–
+cervical–brachial
+weakness
+
+Oropharyngeal, neck and arm
+weakness*‡ and arm areflexia/
+hyporeflexia
+
+Absence of certain features indicates incomplete pharyngeal–
+cervical–brachial weakness: patients without arm and neck
+weakness have ‘acute oropharyngeal palsy’; patients without
+pharyngeal palsy have ‘acute cervicobrachial weakness’
+
+Absence of leg weakness
+
+Electrophysiological evidence
+of neuropathy
+Presence of anti-GT1a or
+anti-GQ1b IgG antibodies
+
+Some leg weakness may be present, but oropharyngeal, neck
+and arm weakness should be more prominent
+Presence of additional features indicates overlap with other
+GBS variants: ataxia with ophthalmoplegia suggests overlap
+with MFS; ataxia without ophthalmoplegia suggests
+overlap with acute ataxic neuropathy; ataxia, ophthalmoplegia
+and disturbed consciousness suggests overlap with BBE
+Paraparetic GBS
+
+Leg weakness* and leg areflexia/
+hyporeflexia
+
+Typically, bladder function is normal and there is no
+well-defined sensory level
+
+Electrophysiological evidence
+of neuropathy
+
+In some patients, limb paraesthesias may be absent
+and muscle stretch reflexes may be normal
+
+Electrophysiological evidence
+of neuropathy
+
+Absence of certain features indicates incomplete MFS: patients
+without ataxia have ‘acute ophthalmoparesis’; patients without
+ophthalmoplegia have ‘acute ataxic neuropathy’
+
+Presence of anti-GQ1b IgG
+antibodies
+
+Absence of arm weakness
+Bifacial weakness
+with paraesthesias
+
+Facial weakness* and limb
+areflexia/hyporeflexia
+Absence of ophthalmoplegia,
+ataxia and limb weakness
+
+MFS
+
+Ophthalmoplegia, ataxia*‡
+and areflexia/hyporeflexia
+Absence of limb weakness#
+and hypersomnolence
+
+BBE
+
+Hypersomnolence and
+ophthalmoplegia and ataxia*‡
+
+Presence of a single feature indicates incomplete MFS: ptosis
+suggests ‘acute ptosis’; mydriasis suggests ‘acute mydriasis’
+Patients without ophthalmoplegia have the incomplete form
+of BBE known as ‘acute ataxic hypersomnolence’
+
+Presence of anti-GQ1b IgG
+antibodies
+
+Absence of limb weakness#
+*Weakness may be asymmetric or unilateral. ‡Clinical severity of each component may vary from partial to complete. §Except in acute ataxic neuropathy and acute ataxic hypersomnolence.
+||
+Such as the presence of upper respiratory infectious symptoms or diarrhoea 3 days to 6 weeks before the onset of neurological symptoms. ¶Cerebrospinal fluid with total white cell count
+<50 cells per μl and protein above the normal laboratory range. #Presence of limb weakness indicates overlap with GBS. Abbreviations: BBE, Bickerstaff brainstem encephalitis; GBS, Guillain–
+Barré syndrome; MFS, Miller Fisher syndrome.
+
+dysfunction or disruption at the nodes of
+Ranvier, resulting in a continuum of nerve
+pathologies from transitory conduction
+failure to axonal degeneration.23,26,28
+We believe that the updated classifica­
+tion system we present enables most forms
+of GBS to be accurately defined as discrete
+or overlapping syndromes on the basis of
+their clinical features.
+
+Clinical–serological relationship
+Our classification system does not stipulate
+antiganglioside antibody testing, although
+
+the results can be informative. The discov­
+ery of anti-GQ1b antibodies in patients with
+MFS and BBE provided important evidence
+that these disorders formed part of the
+same disease spectrum,29 and a comparative
+study revealed that anti-GQ1b antibodies
+were present in 83% of patients with MFS
+and 68% of patients with BBE.30 GQ1b is
+strongly expressed in the oculo­motor, troch­
+lear and abducens nerves, as well as muscle
+spindles; thus, anti-GQ1b antibodies are
+thought to cause both ophthalmoplegia and
+cerebellar-like ataxia.31,32 In addition, GQ1b
+
+NATURE REVIEWS | NEUROLOGY
+
+is possibly expressed in the reticular for­
+mation, and anti-GQ1b antibodies might,
+therefore, explain the decreased level of
+consciousness seen in patients with BBE.30
+Acute ophthalmoparesis is also associated
+with the presence of anti-GQ1b antibod­
+ies, and some patients later develop bilateral
+facial or bulbar weakness.22 Neither ptosis
+nor mydriasis is a cardinal feature of MFS,
+but patients often present with these signs.33
+Isolated ptosis and mydriasis, caused by
+weakness of the levator palpebrae superi­oris
+and iris sphincter muscles, respectively, have
+VOLUME 10 | SEPTEMBER 2014 | 539
+
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+also been reported in association with antiGQ1b antibodies, and these features might
+­represent a very incomplete form of MFS.34,35
+So-called ataxic GBS is characterized by
+profound cerebellar-like ataxia in the absence
+of both a Romberg sign and ophthalmo­
+plegia.13 Patients with ataxic GBS also carry
+anti-GQ1b IgG antibodies, which supports
+its classification as an incomplete form of
+MFS.36 Acute sensory ataxic neuropathy is
+characterized by profound sensory ataxia in
+the absence of ophthalmoplegia, but with a
+Romberg sign.21 The nosological position
+of acute sensory ataxic neuropathy became
+clear when affected individuals were com­
+pared with patients who had ataxic GBS.33
+Anti-GQ1b antibodies were found in 18%
+of patients with acute sensory ataxic neuro­
+pathy, and in 65% of patients with ataxic
+GBS. Anti-GD1b IgG antibodies without
+GQ1b crossreactivity were detected in 35% of
+the patients with acute sensory ataxic neuro­
+pathy and 14% of those with ataxic GBS.
+These findings suggest that the conditions
+are not distinct but, rather, variants within a
+continuous spectrum. Cerebellar-like ataxia
+has also been described in patients with
+MFS, and is thought to be caused by selec­
+tive dysfunction of muscle spindle affer­
+ents mediated by anti-GQ1b anti­bodies.3,37
+To avoid confusion, ataxic GBS and acute
+sensory ataxic neuropathy are classified
+in this article as incomplete forms of MFS,
+and are collectively referred to as acute
+ataxic neuropathy.33,38,39
+GT1a is more densely expressed than
+GQ1b in human glossopharyngeal and vagal
+nerves.40 Patients with pharyngeal–cervical–
+brachial weakness often carry anti-GT1a IgG
+antibodies, some of which might crossreact
+with GQ1b.41 Although the serological pro­
+files of patients with pharyngeal–­cervical–
+brachial weakness show con­s iderable
+overlap with those of patients with MFS, we
+believe that pharyngeal–­cervical–­brachial
+weakness is best placed as a subtype of GBS
+rather than MFS. By definition, patients
+with pharyngeal–­cervical–brachial weak­
+ness display arm weakness, whereas those
+with MFS do not, and pharyngeal–­cervical–­
+brachial weakness should, therefore, be
+considered a localized subtype of GBS.
+Patients with acute oropharyngeal palsy
+have anti-GT1a and anti-GQ1b anti­bodies,42
+supporting the classification of this condi­
+tion as an incomplete form of pharyngeal–­
+cervical–brachial weakness. By contrast,
+AMAN is associated with anti-GM1 or antiGD1a IgG antibodies,43 and the discovery
+of anti-GD1a antibodies in a patient with
+540 | SEPTEMBER 2014 | VOLUME 10
+
+paraparetic GBS whose nerve conduction
+results indicated axonal neuro­pathy sug­
+gested that ­paraparetic GBS is a localized
+form of AMAN.25
+
+Peripheral versus central pathology
+Many neurologists view GBS as a disease
+that only affects the peripheral nerves,
+but this assertion is not always true: some
+patients display exaggerated deep tendon
+reflexes, either transiently or throughout the
+course of their illness.44,45 The early formal
+criteria for GBS5 required hyporeflexia or
+areflexia, but the researcher who developed
+these criteria later recognized that some
+patients with features otherwise typical
+of GBS also displayed “extensor plantar
+responses, and ill-defined sensory levels,”
+indicating possible CNS involvement. 6
+Although application of these criteria has
+enabled most patients with GBS to be identi­
+fied, some individuals have ­undoubtedly
+been misdiagnosed in the past.
+The risk of misdiagnosis was first high­
+lighted in a report that described three
+North American men who each developed
+rapidly progressive tetraparesis after a
+gastrointestinal illness, but were not diag­
+nosed as having GBS owing to the presence
+of normal to brisk deep tendon reflexes.46
+Similarly, acute pure motor neuropathy in
+four patients who carried anti-GM1 IgG
+antibodies was not initially diagnosed as
+GBS because of the preservation of reflexes,
+yet nerve conduction studies later con­
+firmed AMAN.47 The presence of hyper­
+reflexia resulted in AMAN being initially
+misdiagnosed as postinfectious myelitis in a
+patient with progressive weakness in all four
+limbs, although nerve conduction studies
+later revealed the correct diagnosis.48
+A study of 213 patients with GBS identified
+23 patients (10%) who demonstrated normal
+or brisk reflexes during the clinical course of
+illness.45 Among these individuals, tendon
+reflexes were normal in eight patients and
+exaggerated in three patients throughout the
+course of illness. The remaining 12 patients
+exhibited exaggerated reflexes at some stage,
+which later returned to normal. Interestingly,
+patients with GBS who had preserved deep
+tendon reflexes more frequently presented
+with pure motor limb weakness, and were
+more likely to have anti-GM1 or anti-GD1a
+antibodies, as well as neurophysio­logical
+features consistent with AMAN, than were
+patients with reduced reflexes. A similar
+rate (9%) of normal or exaggerated reflexes
+was observed in a study of 494 patients with
+GBS in the Netherlands, and most of these
+
+
+
+patients showed evidence of a mild, pure
+motor neuro­pathy.49 Some clini­cians have
+suggested that such individuals should be
+categ­orized as having a ‘hyper­reflexic variant’
+of GBS,50 but we believe that this distinction is
+unnecessary. The localization and underlying
+mechanism of hyper­reflexia in such individ­
+uals remain unknown, although disruption
+of intramedullary inhibitory interneurons,
+which could occur if anti­ganglio­side anti­
+bodies crossed the ­blood–brain barrier, has
+been postulated.48
+The earliest descriptions of BBE and MFS
+suggested overlap between the two syn­
+dromes; for example, half of Bickerstaff ’s
+patients had hyporeflexia or areflexia,4 and
+one of Miller Fisher’s three patients experi­
+enced drowsiness. 3 This overlap led to
+widespread conjecture about whether the
+aetiologies of these disorders were central or
+peripheral. In a large sample of patients with
+BBE, CNS pathology was observed on brain
+MRI in 11%, and abnormal EEG recordings
+were obtained in 57%.30 Though only 2% of
+patients with MFS showed abnormalities
+on MRI, 25% of patients had aberrant EEG
+activity,30 which indicated that some patients
+with MFS—despite having no impairment of
+consciousness—had evidence of CNS dys­
+function. A complementary overlap between
+BBE and MFS exists with regard to PNS
+pathology: 74% of patients with MFS dem­
+onstrated absence of the soleus H‑reflex in
+peripheral nerve testing, as did three of four
+patients with BBE. Together, these results
+suggest that MFS and BBE lie within a clini­
+cal spectrum of variable involvement of the
+PNS and CNS.
+
+Diagnosis and classification
+
+We believe that the diagnosis of GBS, MFS
+and their subtypes can be made clinically
+in the majority of patients, and that current
+diagnostic criteria are too rigid and overly
+reliant on laboratory data.6,10,11 Nerve con­
+duction studies and CSF analysis are often
+inconclusive in the early stages of disease and,
+therefore, should not delay diagnosis and
+treatment if GBS or its variants are sus­
+pected on clinical grounds. CSF albumino­
+cytological dissociation is absent within the
+first week of symptom onset in more than
+half of patients with GBS.51 In approximately
+40% of patients, nerve conduction studies
+performed within the first week can suggest a
+diagnosis of neuropathy without fulfilling the
+criteria for one of the specific electrophysio­
+logical subtypes.49 Moreover, on the basis of
+serial nerve conduction study recordings,
+the electrophysiological classification of
+www.nature.com/nrneurol
+
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+GBS has been shown to change in 24–38%
+of patients , making the diagnosis of the
+precise subtype an a posteri­ori process.23,52
+Furthermore, neurophysiological examina­
+tion is not readily available in some parts
+of the world. Antiganglioside antibody
+testing is useful, but obtaining results takes
+time and, ­therefore, should not be relied on
+for diagnosis.
+Striking an optimal balance between diag­
+nostic criteria that are neither too inclusive
+nor too restrictive remains important for
+clinical practice. Two decades ago, the
+American Academy of Neurology outlined
+strict diagnostic criteria (specificity 100%,
+sensitivity 46%) for chronic inflammatory
+demyelinating polyneuropathy (CIDP).53
+These criteria have since been replaced by
+slightly less specific (96%) but much more
+sensitive (81%) criteria that enable the rec­
+ognition of atypical presentations, for which
+immunotherapy would have otherwise been
+delayed or withheld. 54,55 We believe that
+a similar reappraisal of the current diag­
+nostic and classification criteria for GBS
+is warranted to avoid underdiagnosis and
+delayed treatment, especially in patients
+with atypical forms or those with normal or
+­exaggerated deep tendon reflexes.
+The diagnostic criteria that we present
+in Table 2 facilitate the classification of
+GBS, MFS and their subtypes. Weakness,
+which may affect the limbs or the terri­
+tories served by motor cranial nerves, is
+a core feature that is present in almost all
+subtypes, the main exceptions being acute
+ataxic neuropathy and acute ataxic hyper­
+somnolence (Table 1). Weakness is usually
+symmetric; however, unilateral ophthalmo­
+plegia with or without unilateral ataxia
+(and, rarely, with unilateral limb weak­
+ness) has been reported in association with
+antiganglioside antibodies.11,56–58
+The other core feature is that the clini­
+cal course should be monophasic. The time
+interval between the onset and nadir of
+neurological symptoms ranges from 12 h to
+28 days, and is followed by a clinical plateau.
+In a study published in 2014, 97% of patients
+with GBS reached symptom nadir within
+4 weeks.49 We regard treatment-related clin­
+ical fluctuations occurring within 8 weeks
+after the start of immunotherapy as part
+of the monophasic course, and patients
+exhibiting these fluctuations should be dif­
+ferentiated from patients with acute-onset
+CIDP.59 The latter diagnosis should be con­
+sidered in patients who deteriorate after
+8 weeks from initial onset, or when three or
+more treatment-­related fluctuations occur.
+
+Recurrent GBS is seen in less than 10% of
+patients, but subsequent episodes seem to
+become more severe and occur at shorter
+time intervals as time goes on.60,61 A history
+of upper respiratory infections or diarrhoea
+3 days to 6 weeks before the onset of GBS is
+common and supports the diagnosis.
+GBS can be diagnosed in patients who
+present with bilateral flaccid limb weakness.
+Frequently, patients with GBS also experi­
+ence distal limb numbness, paraesthesia or
+pain, any of which can even be their initial
+symptom.62 Weakness associated with GBS
+is often described as ascending, and might
+involve respiratory muscles and cranial
+nerves. Up to 10% of patients might display
+normal or exaggerated reflexes throughout
+the disease course.45,49 In patients with sus­
+pected GBS who present with preserved or
+exaggerated reflexes, repeated nerve con­
+duction studies are essential, as evidence
+of peripheral neuropathy can confirm
+the diagnosis.
+The key clinical finding in patients with
+pharyngeal–cervical–brachial weakness is
+oropharyngeal, neck and arm weakness
+associated with areflexia.12 The majority also
+experience some sensory disturbance in the
+arms, although sensory impairment was not
+included in the original description of this
+GBS subtype.7 The consistency and severity
+of leg weakness varies within and between
+patients, but generally should not be more
+prominent than arm weakness. Incomplete
+forms of pharyngeal–­cervical–brachial weak­
+ness have also been described. For example,
+isolated bulbar palsy results in acute pharyn­
+geal weakness,42 but can also progress to com­
+plete pharyngeal–cervical–brachial weakness
+during the course of the illness.63 Along with
+such transitions, the presence of anti-GT1a
+or anti-GQ1b IgG antibodies further sup­
+ports the clinical diagnosis of pharyngeal–­
+cervical–brachial weakness (or one of its
+incomplete forms).24,41
+Patients with paraparetic GBS develop
+flaccid leg weakness, but have normal
+neuro­logical findings in the upper limbs.7,8
+The diagnosis is supported by evidence
+of axonal-type neuropathy on ner ve
+conduction studies, and the presence of
+antiganglioside antibodies.25
+Bilateral facial weakness in the absence of
+limb weakness can be sufficient to warrant
+a diagnosis of bifacial weakness with par­
+aesthesias, although sensory disturbance
+in the limbs also occurs in the majority of
+individuals.8,27 Diagnosis is supported by
+demyelinating features on nerve ­conduction
+studies in the limbs.
+
+NATURE REVIEWS | NEUROLOGY
+
+Patients with MFS present with ophthal­
+moplegia, ataxia and areflexia,3 and those
+who additionally experience hypersomno­
+lence have BBE, the CNS subtype of MFS.4,64
+Although none of the patients originally
+described by Bickerstaff displayed hyper­
+reflexia, some researchers have suggested that
+the presence of hyperreflexia is sufficient to
+diagnose BBE even in the absence of hyper­
+somnolence, because both features indicate
+CNS involvement.65 However, given that
+some patients with GBS also display hyper­
+reflexia,45 our classification system categ­
+orizes such patients as having MFS rather
+than BBE. Incomplete forms of MFS include
+acute ataxic neuropathy, which can be diag­
+nosed in the absence of ophthalmoplegia,33
+and acute ophthalmo­paresis, which can be
+diagnosed in the absence of ataxia.22 Very
+incomplete forms of MFS show only isolated
+ptosis or mydriasis.34,35 Incomplete BBE,
+known as acute ataxic hypersomnolence,
+can be the diagnosis in patients who have
+evidence of ataxia and hypersomnolence in
+the absence of ophthal­moplegia.66 The pres­
+ence of anti-GQ1b or anti-GD1b IgG anti­
+bodies can confirm the clinical diagnosis of
+these MFS subtypes.
+The possibility of overlap between GBS,
+MFS and their subtypes warrants brief dis­
+cussion. Patients with MFS or BBE who
+develop limb weakness can be diagnosed
+as having overlap with GBS.14,65 Leg weak­
+ness can develop in some patients with
+­pharyngeal–cervical–brachial weakness. If
+it occurs early and is severe,16 this represents
+fulminant pharyngeal–cervical–brachial
+weakness, rather than overlap with GBS. As
+outlined in the original description,7 patients
+with pharyngeal–cervical–­brachial weakness
+could present with ophthalmoplegia, whereas
+those patients with pharyngeal–cervical–­
+brachial weakness presenting with additional
+ophthalmo­plegia and ataxia in the absence of
+tetraparesis have ­overlapping MFS.
+The frequency of different subtypes
+within the GBS–MFS spectrum has not
+been examined in detail, and is likely to vary
+in different parts of the world. One prospec­
+tive study of more than 250 patients diag­
+nosed with GBS at a single hospital in the
+USA found the following frequencies: MFS
+5%, pharyngeal–cervical–brachial weakness
+3%, paraparetic GBS 2%, and bifacial weak­
+ness with paraesthesias 1%.9 A retrospective
+single-hospital study conducted in Taiwan
+found the following frequencies among 43
+patients: MFS 7%, BBE 7%, pharyngeal–­
+cervical–brachial weakness 5%, and poly­
+neuritis cranialis 5%. 67 In a study from
+VOLUME 10 | SEPTEMBER 2014 | 541
+
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+Box 2 | Differential diagnoses
+GBS
+■■ Acute spinal cord disease
+■■ Carcinomatous or lymphomatous
+meningitis
+■■ Myasthenia gravis
+■■ Critical illness neuropathy
+■■ Thiamine deficiency
+■■ Periodic paralysis
+■■ Corticosteroid-induced myopathy
+■■ Toxins (such as neurotoxic shellfish
+poisoning)
+■■ Acute hypophosphataemia
+■■ Prolonged use of neuromuscular junction
+blocking drugs
+■■ Tick paralysis
+■■ West Nile poliomyelitis
+■■ Acute intermittent porphyria
+■■ Functional paralysis
+MFS, BBE, and pharyngeal–cervical–brachial
+weakness
+■■ Brainstem stroke
+■■ Myasthenia gravis
+■■ Wernicke encephalopathy
+■■ Botulism
+■■ Brainstem encephalitis
+■■ Diphtheria
+■■ Tick paralysis
+Paraparetic GBS
+■■ Lumbosacral plexopathy
+■■ Diabetic neuropathy
+■■ Neoplasms
+■■ Inflammatory conditions (such as
+sarcoidosis)
+■■ Infections (such as cytomegalovirus,
+Lyme disease)
+■■ Lesions of the cauda equina
+Bifacial weakness with paraesthesias
+■■ Lyme disease
+■■ Sarcoidosis
+Abbreviations: BBE, Bickerstaff brainstem
+encephalitis; GBS, Guillain–Barré syndrome; MFS,
+Miller Fisher syndrome.
+
+the Netherlands that applied the Brighton
+crit­e ria11 to diagnose approximately 500
+patients with GBS, after exclusion of those
+with MFS and BBE, weakness was restricted
+to the legs in 6% of patients, which suggests
+a diagnosis of paraparetic GBS, and to the
+arms in 1% of patients, in keeping with
+­pharyngeal–cervical–brachial weakness.49
+
+Differential diagnoses
+
+Numerous conditions can mimic GBS,
+MFS and their subtypes. In this section, we
+highlight the most important of these dif­
+ferential diagnoses—diseases that also cause
+rapidly progressive and often symmetric
+paresis (Box 2).68
+In patients who present with weakness and
+exaggerated reflexes, a central cause should
+always be excluded before the weakness is
+542 | SEPTEMBER 2014 | VOLUME 10
+
+attributed to GBS. Conversely, patients with
+extensive necrotizing myelo­pathy can lose
+their deep tendon reflexes. Spinal cord or, in
+some patients, brainstem pathology should
+be excluded early with MRI, especially if a
+‘sensory level’—a point on the body below
+which sensation is reduced or absent—is
+present, or if weakness develops abruptly in
+association with urinary retention. Although
+urinary dysfunction may develop in over
+one-quarter of patients with GBS,69 typically
+it is not an early feature.
+Isolated sensory symptoms in the pres­
+ence of normal deep tendon reflexes might
+be misdiagnosed as a conversion or dissoci­
+ative disorder in some patients with GBS,
+especially early in the disease course. Such
+patients should be advised to return to the
+clinic if they experience disease progres­
+sion. By contrast, functional weakness is
+usually sudden in onset (less than 12 h into
+the disease course) and asymmetric. When
+present, motor and sensory physical signs
+are inconsistent or incongruent with any
+GBS subtype. In the absence of sensory defi­
+cits, differential diagnoses for GBS include
+periodic paralysis, myasthenia gravis, botu­
+lism, poliomyelitis, and acute myopathy of
+any cause.
+The main differential diagnoses for both
+MFS and pharyngeal–cervical–brachial
+weakness are brainstem strokes, myas­
+thenia gravis and botulism. In patients with
+reduced levels of consciousness, Wernicke
+encephalopathy and brainstem encephali­
+tis should be excluded before considering
+BBE. In patients with isolated or multiple
+cranial neuropathies—especially when
+these are asymmetric—other inflammatory,
+neoplastic and infectious aetiologies must
+be excluded.
+In the early stages, paraparetic GBS can
+be difficult to distinguish from other more
+common conditions, such as lumbosacral
+plexopathy or cauda equina syndrome. MRI
+with gadolinium contrast of the lumbo­sacral
+region is, therefore, mandatory to exclude an
+infiltrative or compressive cause of the para­
+paresis. In patients with diabetic neuropathy
+or idiopathic lumbosacral plexopathy, onset
+is typically asymmetric, with continued pro­
+gression and bilateral involvement beyond
+1 month. Cytomegalovirus infection in
+the context of HIV-positive patients might
+also cause painful lumbosacral plexopathy,
+and this infection is usually associated with
+urinary retention.
+Careful history taking and clinical exami­
+nation should enable clinicians to differen­
+tiate bifacial weakness with paraesthesias
+
+
+
+from bilateral Bell palsy in the majority of
+individuals. Typically, patients with bilateral
+Bell palsy do not have distal paraesthesias70
+and are likely to present with other features,
+including mastoid pain and hyperacusis;
+these patients are less likely to recover fully
+than are patients with bifacial weakness
+with paraesthesias.27 Laboratory data can
+also differentiate patients with Bell palsy
+(who do not demonstrate CSF albumino­
+cytological dissociation or evidence of
+demyelination in their limbs) from indi­
+viduals who have bifacial weakness with
+paraesthesias. However, rapidly progres­
+sive isolated bilateral facial weakness may
+also be present in patients with sarcoidosis
+or Lyme disease.
+
+Conclusions
+
+In this article, we classify GBS, MFS and
+their subtypes according to their clinical
+features. The appreciation that these condi­
+tions form a continuum wherein discrete,
+complete and incomplete forms of disease
+exist (and sometimes overlap) remains
+the most important concept for defining
+atypical presentations of these disorders
+and overlap syndromes. The validity of this
+classification system still needs to be tested
+in large cohorts of patients by independent
+assessors in different parts of the world, and
+we accept that further refinements may be
+necessary. Moreover, this classification
+system should be discussed in the context
+of guidelines for the management of GBS
+published by the European Federation of
+Neurological Societies and the Peripheral
+Nerve Society. The use of this classifica­
+tion system could enable important data
+to be collected on the frequency of differ­
+ent subtypes of GBS and MFS in different
+countries, as well as the natural course
+of these illnesses and their responses to
+treatment. We envisage that this approach
+would help to identify the most commonly
+encountered differential diagnoses for each
+variant, and contribute to the development
+of ­standardized management protocols.
+Department of Neurology, Gloucestershire
+Royal Hospital, Great Western Road,
+Gloucester GL1 3NN, UK (B.R.W.). Department
+of Neuroscience, Imaging and Clinical
+Sciences, University G. d’Annunzio, Via dei
+Vestini 31, Chieti 66013, Italy (A.U.).
+Departments of Medicine and Physiology,
+Yong Loo Lin School of Medicine, National
+University of Singapore, Unit 09‑01, Centre
+for Translational Medicine, 14 Medical Drive,
+Singapore 117599, Singapore (N.Y.).
+Correspondence to: N.Y.
+mdcyuki@nus.edu.sg
+
+www.nature.com/nrneurol
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+Guillain, G., Barré, J. A. & Strohl, A. Sur un
+syndrome de radiculonévrite avec
+hyperalbuminose du liquide céphalo-rachidien
+sans réaction cellulaire: remarques sur les
+caractères cliniques et graphiques des réflexes
+tendineux [French]. Bull. Mem. Hop. Paris 40,
+1462–1470 (1916).
+Guillain, G. Les polyradiculonévrites avec
+dissociation alumbinocytologique et á evolution
+favorable (syndrome de Guillain et Barré)
+[French]. J. Belge Neurol. Psychiatr. 38,
+323–329 (1938).
+Fisher, M. An unusual variant of acute
+idiopathic polyneuritis (syndrome of
+ophthalmoplegia, ataxia and areflexia). N. Engl.
+J. Med. 255, 57–65 (1956).
+Bickerstaff, E. R. Brain-stem encephalitis:
+further observations on a grave syndrome with
+benign prognosis. Br. Med. J. 1, 1384–1387
+(1957).
+Asbury, A. K., Arnason, B. G., Karp, H. R. &
+McFarlin, D. E. Criteria for diagnosis of Guillain–
+Barré syndrome. Ann. Neurol. 3, 565–566
+(1978).
+Asbury, A. K. & Cornblath, D. R. Assessment of
+current diagnostic criteria for Guillain–Barré
+syndrome. Ann. Neurol. 27 (Suppl.), S21–S24
+(1990).
+Ropper, A. H. Unusual clinical variants and
+signs in Guillain–Barré syndrome. Arch. Neurol.
+43, 1150–1152 (1986).
+Ropper, A. H. Further regional variants of acute
+immune polyneuropathy: bifacial weakness or
+sixth nerve paresis with paresthesias, lumbar
+polyradiculopathy, and ataxia with pharyngeal–
+cervical–brachial weakness. Arch. Neurol. 51,
+671–675 (1994).
+Ropper, A. H., Wijdicks, E. F. M. & Truax, B.
+Guillain–Barré Syndrome (F. A. Davis, 1990).
+van der Meché, F. G. et al. Diagnostic and
+classification criteria for the Guillain–Barré
+syndrome. Eur. Neurol. 45, 133–139 (2001).
+Sejvar, J. J. et al. Guillain–Barré syndrome
+and Fisher syndrome: case definitions and
+guidelines for collection, analysis, and
+presentation of immunization safety data.
+Vaccine 29, 599–612 (2011).
+Wakerley, B. R. & Yuki, N. Pharyngeal–cervical–
+brachial variant of Guillain–Barré syndrome.
+J. Neurol. Neurosurg. Psychiatry 85, 339–344
+(2013).
+Richter, R. B. The ataxic form of
+polyradiculoneuritis (Landry–Guillain–Barré
+syndrome): clinical and pathologic
+observations. J. Neuropathol. Exp. Neurol. 21,
+171–184 (1962).
+Kimoto, K. et al. Relationship of bacterial
+strains to clinical syndromes of Campylobacterassociated neuropathies. Neurology 67,
+1837–1843 (2006).
+Mizoguchi, K. et al. Two species of
+antiganglioside antibodies in a patient with
+a pharyngeal–cervical–brachial variant of
+Guillain–Barré syndrome. J. Neurol. Neurosurg.
+Psychiatry 57, 1121–1123 (1994).
+Miura, Y., Susuki, K., Yuki, N., Ayabe, M. &
+Shoji, H. Guillain–Barré syndrome presenting
+pharyngeal–cervical–brachial weakness in the
+recovery phase. Eur. Neurol. 48, 53–54 (2002).
+Koike, H. et al. Clinicopathological features of
+acute autonomic and sensory neuropathy.
+Brain 133, 2881–2896 (2010).
+Koike, H. et al. The spectrum of
+clinicopathological features in pure autonomic
+neuropathy. J. Neurol. 259, 2067–2075 (2012).
+Ohyama, K. et al. Autonomic manifestations in
+acute sensory ataxic neuropathy: a case
+report. Auton. Neurosci. 179, 155–158 (2013).
+
+20. Uncini, A. & Yuki, N. Sensory Guillain–Barré
+syndrome and related disorders: an attempt at
+systematization. Muscle Nerve 45, 464–470
+(2012).
+21. Pan, C. L., Yuki, N., Koga, M., Chiang, M. C. &
+Hsieh, S. T. Acute sensory ataxic neuropathy
+associated with monospecific anti-GD1b IgG
+antibody. Neurology 57, 1316–1318 (2001).
+22. Yuki, N., Odaka, M. & Hirata, K. Acute
+ophthalmoparesis (without ataxia) associated
+with anti-GQ1b IgG antibody: clinical features.
+Ophthalmology 108, 196–200 (2001).
+23. Kokubun, N. et al. Conduction block in acute
+motor axonal neuropathy. Brain 133,
+2897–2908 (2010).
+24. Arai, M., Susuki, K. & Koga, M. Axonal
+pharyngeal–cervical–brachial variant of
+Guillain–Barré syndrome without anti-GT1a
+IgG antibody. Muscle Nerve 28, 246–250
+(2003).
+25. Nagashima, T. et al. Paraparetic Guillain–Barré
+syndrome: extending the axonal spectrum.
+Neurol. Clin. Neurosci. 1, 224–226 (2013).
+26. Umapathi, T., Tan, E. Y., Kokubun, N., Verma, K.
+& Yuki, N. Non-demyelinating, reversible
+conduction failure in Fisher syndrome and
+related disorders. J. Neurol. Neurosurg.
+Psychiatry 83, 941–948 (2012).
+27. Susuki, K., Koga, M., Hirata, K., Isogai, E. &
+Yuki, N. A Guillain–Barré syndrome variant
+with prominent facial diplegia. J. Neurol. 256,
+1899–1905 (2009).
+28. Uncini, A., Susuki, K. & Yuki, N. Nodoparanodopathy: beyond the demyelinating
+and axonal classification in anti-ganglioside
+antibody-mediated neuropathies. Clin.
+Neurophysiol. 124, 1928–1934 (2013).
+29. Shahrizaila, N. & Yuki, N. Bickerstaff brainstem
+encephalitis and Fisher syndrome: anti-GQ1b
+antibody syndrome. J. Neurol. Neurosurg.
+Psychiatry 84, 576–583 (2013).
+30. Ito, M. et al. Bickerstaff’s brainstem
+encephalitis and Fisher syndrome form a
+continuous spectrum: clinical analysis of
+581 cases. J. Neurol. 255, 674–682 (2008).
+31. Chiba, A., Kusunoki, S., Obata, H.,
+Machinami, R. & Kanazawa, I. Serum antiGQ1b IgG antibody is associated with
+ophthalmoplegia in Miller Fisher syndrome
+and Guillain–Barré syndrome: clinical and
+immunohistochemical studies. Neurology 43,
+1911–1917 (1993).
+32. Liu, J. X., Willison, H. J. & Pedrosa-Domellof, F.
+Immunolocalization of GQ1b and related
+gangliosides in human extraocular
+neuromuscular junctions and muscle spindles.
+Invest. Ophthalmol. Vis. Sci. 50, 3226–3232
+(2009).
+33. Ito, M., Matsuno, K., Sakumoto, Y., Hirata, K.
+& Yuki, N. Ataxic Guillain–Barré syndrome
+and acute sensory ataxic neuropathy form a
+continuous spectrum. J. Neurol. Neurosurg.
+Psychiatry 82, 294–299 (2011).
+34. Jindal, G., Parmar, V. R. & Gupta, V. K. Isolated
+ptosis as acute ophthalmoplegia without ataxia,
+positive for anti-GQ1b immunoglobulin G.
+Pediatr. Neurol. 41, 451–452 (2009).
+35. Yuki, N., Koga, M. & Hirata, K. Isolated internal
+ophthalmoplegia associated with
+immunoglobulin G anti-GQ1b antibody.
+Neurology 51, 1515–1516 (1998).
+36. Yuki, N., Susuki, K. & Hirata, K. Ataxic Guillain–
+Barré syndrome with anti-GQ1b antibody:
+relation to Miller Fisher syndrome. Neurology
+54, 1851–1853 (2000).
+37. Yuki, N. & Uncini, A. Acute and chronic ataxic
+neuropathies with disialosyl antibodies:
+a continuous clinical spectrum and a common
+
+NATURE REVIEWS | NEUROLOGY
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+pathophysiological mechanism. Muscle Nerve
+49, 629–635 (2014).
+Notturno, F., Caporale, C. M. & Uncini, A. Acute
+sensory ataxic neuropathy with antibodies to
+GD1b and GQ1b gangliosides and prompt
+recovery. Muscle Nerve 37, 265–268 (2008).
+Willison, H. J., Almemar, A., Veitch, J. &
+Thrush, D. Acute ataxic neuropathy with crossreactive antibodies to GD1b and GD3
+gangliosides. Neurology 44, 2395–2397
+(1994).
+Koga, M., Yoshino, H., Morimatsu, M. & Yuki, N.
+Anti-GT1a IgG in Guillain–Barré syndrome.
+J. Neurol. Neurosurg. Psychiatry 72, 767–771
+(2002).
+Nagashima, T., Koga, M., Odaka, M., Hirata, K.
+& Yuki, N. Continuous spectrum of pharyngeal–
+cervical–brachial variant of Guillain–Barré
+syndrome. Arch. Neurol. 64, 1519–1523
+(2007).
+O’Leary, C. P. et al. Acute oropharyngeal palsy is
+associated with antibodies to GQ1b and GT1a
+gangliosides. J. Neurol. Neurosurg. Psychiatry
+61, 649–651 (1996).
+Ogawara, K. et al. Axonal Guillain–Barré
+syndrome: relation to anti-ganglioside
+antibodies and Campylobacter jejuni infection
+in Japan. Ann. Neurol. 48, 624–631 (2000).
+McKhann, G. M. et al. Acute motor axonal
+neuropathy: a frequent cause of acute flaccid
+paralysis in China. Ann. Neurol. 33, 333–342
+(1993).
+Yuki, N. et al. Guillain–Barré syndrome
+associated with normal or exaggerated
+tendon reflexes. J. Neurol. 259, 1181–1190
+(2012).
+Jackson, C. E., Barohn, R. J. & Mendell, J. R.
+Acute paralytic syndrome in three American
+men: comparison with Chinese cases. Arch.
+Neurol. 50, 732–735 (1993).
+Yuki, N. & Hirata, K. Preserved tendon reflexes
+in Campylobacter neuropathy. Ann. Neurol. 43,
+546–547 (1998).
+Kuwabara, S. et al. Hyperreflexia in axonal
+Guillain–Barré syndrome subsequent to
+Campylobacter jejuni enteritis. J. Neurol. Sci.
+199, 89–92 (2002).
+Fokke, C. et al. Diagnosis of Guillain–Barré
+syndrome and validation of Brighton criteria.
+Brain 137, 33–43 (2014).
+Baheti, N. N., Manuel, D., Shinde, P. D.,
+Radhakrishnan, A. & Nair, M. Hyperreflexic
+Guillain–Barré syndrome. Ann. Indian Acad.
+Neurol. 13, 305–307 (2010).
+Nishimoto, Y., Odaka, M., Hirata, K. & Yuki, N.
+Usefulness of anti-GQ1b IgG antibody testing in
+Fisher syndrome compared with cerebrospinal
+fluid examination. J. Neuroimmunol. 148,
+200–205 (2004).
+Uncini, A., Manzoli, C., Notturno, F. &
+Capasso, M. Pitfalls in electrodiagnosis of
+Guillain–Barré syndrome subtypes. J. Neurol.
+Neurosurg. Psychiatry 81, 1157–1163
+(2010).
+An ad hoc subcommittee of the American
+Academy of Neurology AIDS Task Force.
+Research criteria for diagnosis of chronic
+inflammatory demyelinating polyneuropathy
+(CIDP). Neurology 41, 617–618 (1991).
+Joint Task Force of the EFNS and the PNS.
+European Federation of Neurological Societies/
+Peripheral Nerve Society Guideline on
+management of chronic inflammatory
+demyelinating polyradiculoneuropathy: report of
+a joint task force of the European Federation
+of Neurological Societies and the Peripheral
+Nerve Society—first revision. J. Peripher. Nerv.
+Syst. 15, 1–9 (2010).
+
+VOLUME 10 | SEPTEMBER 2014 | 543
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+55. Rajabally, Y. A., Nicolas, G., Pieret, F., Bouche, P.
+& Van den Bergh, P. Y. Validity of diagnostic
+criteria for chronic inflammatory demyelinating
+polyneuropathy: a multicentre European study.
+J. Neurol. Neurosurg. Psychiatry 80, 1364–1368
+(2009).
+56. Ichikawa, H. et al. Unilateral oculomotor nerve
+palsy associated with anti-GQ1b IgG antibody.
+Neurology 59, 957–958 (2002).
+57. Logullo, F., Manicone, M., Di Bella, P. &
+Provinciali, L. Asymmetric Guillain–Barré
+syndrome. Neurol. Sci. 27, 355–359 (2006).
+58. Susuki, K., Yuki, N., Muramatsu, M. & Hirata, K.
+Unilateral ophthalmoparesis and limb ataxia
+associated with anti-GQ1b IgG antibody.
+J. Neurol. 247, 652–653 (2000).
+59. Ruts, L., van Koningsveld, R. & van Doorn, P. A.
+Distinguishing acute-onset CIDP from Guillain–
+Barré syndrome with treatment related
+fluctuations. Neurology 65, 138–140 (2005).
+60. Kuitwaard, K., van Koningsveld, R., Ruts, L.,
+Jacobs, B. C. & van Doorn, P. A. Recurrent
+Guillain–Barré syndrome. J. Neurol. Neurosurg.
+Psychiatry 80, 56–59 (2009).
+61. Mossberg, N. et al. The recurrent Guillain–Barré
+syndrome: a long-term population-based study.
+Acta Neurol. Scand. 126, 154–161 (2012).
+
+544 | SEPTEMBER 2014 | VOLUME 10
+
+62. Ropper, A. H. The Guillain–Barré syndrome.
+N. Engl. J. Med. 326, 1130–1136 (1992).
+63. Nagashima, T., Odaka, M., Koga, M., Yuki, N.
+& Hirata, K. A case of pharyngeal–cervical–
+brachial weakness suggestive of the
+nosological continuity between acute
+oropharyngeal palsy [Japanese]. Rinsho
+Shinkeigaku 42, 523–526 (2002).
+64. Bickerstaff, E. R. & Cloake, P. C.
+Mesencephalitis and rhombencephalitis.
+Br. Med. J. 2, 77–81 (1951).
+65. Odaka, M. et al. Bickerstaff’s brainstem
+encephalitis: clinical features of 62 cases
+and a subgroup associated with Guillain–
+Barré syndrome. Brain 126, 2279–2290
+(2003).
+66. Wakerley, B. R., Soon, D., Chan, Y. C. & Yuki, N.
+Atypical Bickerstaff brainstem encephalitis:
+ataxic hypersomnolence without
+ophthalmoplegia. J. Neurol. Neurosurg.
+Psychiatry 84, 1206–1207 (2013).
+67. Lin, J. J. et al. Clinical variants of Guillain–Barré
+syndrome in children. Pediatr. Neurol. 47,
+91–96 (2012).
+68. Ropper, A. H. & Samuels, M. A. Adam’s
+and Victor’s Principle of Neurology 9th edn
+1251–1325 (McGraw–Hill, 2009).
+
+
+
+69. Sakakibara, R. et al. Prevalence and
+mechanism of bladder dysfunction in Guillain–
+Barré syndrome. Neurourol. Urodyn. 28,
+432–437 (2009).
+70. Yanagihara, N., Mori, H., Kozawa, T.,
+Nakamura, K. & Kita, M. Bell’s palsy.
+Nonrecurrent v recurrent and unilateral v
+bilateral. Arch. Otolaryngol. 110, 374–377
+(1984).
+Acknowledgements
+The authors are grateful to James Sejvar for his
+suggestions and critical reading of the manuscript.
+The authors’ work was supported by the Singapore
+National Medical Research Council (Individual
+Research Grant 10nov086 and Clinician Science
+Award 047/2012 to N.Y.) and Yong Loo Lin School
+of Medicine, Singapore (R‑172‑000‑264‑733).
+Author contributions
+B.R.W. and N.Y. researched data for the article and
+contributed equally to writing the article. B.R.W.,
+A.U., N.Y. and all members of the GBS Classification
+Group made substantial contributions to
+discussions of the content, and review and/or
+editing of the manuscript before submission.
+
+www.nature.com/nrneurol
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+PERSPECTIVES
+CORRIGENDUM
+Guillain–Barré and Miller Fisher syndromes—new diagnostic classification
+Benjamin R. Wakerley, Antonino Uncini, Nobuhiro Yuki and the GBS Classification Group
+Nat. Rev. Neurol. 10 (2014); 537–544; doi:10.1038/nrneurol.2014.138
+In Box 1 of the originally published article, Jong Seok Bae should have been included as a member of the GBS
+Classification Group. Also, in Table 2, the row title ‘Bifacial weakness with distal paraesthesias’ should have
+read ‘Bifacial weakness with paraesthesias’. These errors have been corrected in the HTML and PDF versions
+of the article.
+
+NATURE REVIEWS | NEUROLOGY
+
+VOLUME 10 | SEPTEMBER 2014 | i
+© 2014 Macmillan Publishers Limited. All rights reserved
+
+

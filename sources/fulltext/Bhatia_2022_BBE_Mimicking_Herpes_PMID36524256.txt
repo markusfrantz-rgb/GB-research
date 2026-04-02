@@ -1,0 +1,195 @@
+# Bickerstaff's Brainstem Encephalitis Mimicking Herpetic Encephalomyelitis
+
+## Title
+Bickerstaff's brainstem encephalitis mimicking herpetic encephalomyelitis in a liver transplant patient with anti-GQ1b antibodies
+
+## Authors
+- Sehajdev Singh Bhatia (Emergency Department, Norfolk and Norwich University Hospitals NHS Foundation Trust, Norwich, UK)
+- Carlo Canepa (Stroke and Neurology, James Paget University Hospitals NHS Foundation Trust, Great Yarmouth, UK)
+- Asha Notarianni (General Surgery, Jersey General Hospital, Saint Helier, Jersey)
+
+**Journal:** BMJ Case Reports, December 13, 2022; 15(12):e251784
+**DOI:** 10.1136/bcr-2022-251784
+**PMCID:** PMC9748917
+**PMID:** 36524256
+
+---
+
+## Abstract
+
+A woman in her late 70s with liver transplant history presented with "ophthalmoplegia, ataxia, areflexia, positive Babinski's sign and reduced consciousness" following herpes zoster infection. Brain and spinal cord imaging, cerebrospinal fluid analysis with viral PCR, and routine bloodwork were normal. Serum anti-GQ1b antibodies tested positive. Diagnosis was Bickerstaff's brainstem encephalitis, part of the anti-GQ1b syndrome spectrum including Miller-Fisher syndrome. Complete recovery occurred without immunoglobulin or plasma exchange therapy.
+
+**Keywords:** Neurology, Brain stem/cerebellum, Neuroophthalmology, Transplantation
+
+---
+
+## Background
+
+Bickerstaff's brainstem encephalitis (BBE) represents a rare neurological condition with "estimated annual incidence of 0.078 per 100 000." The condition forms part of the anti-GQ1b antibody syndrome, sharing serological characteristics with Miller-Fisher syndrome (MFS). This case represents the first documented instance of BBE in a liver transplant patient with primary biliary cirrhosis history and positive anti-GQ1b antibodies. Despite clinical rarity, prognosis remains excellent. Treatment approaches have been extrapolated from Guillain-Barre syndrome (GBS) management strategies.
+
+---
+
+## Case Presentation
+
+The patient, a woman in her late 70s, presented with "2-week history of progressive bilateral leg weakness, unstable gait and fluctuating drowsiness with moments of confusion." This followed a 4-week progressive bilateral lumbosacral herpes zoster infection extending down her right groin and leg.
+
+### Medical History
+- Two liver transplants for primary biliary cirrhosis
+- Immunosuppression with tacrolimus
+- Post-transplant lymphoproliferative disorder (PTLD) in remission
+- Chronic pancreatitis
+
+### Clinical Examination
+Upon presentation, the patient demonstrated drowsiness but maintained conversation ability and followed simple commands. Notably, "once verbal stimulus was eliminated, she would fall asleep, displaying signs of hypersomnolence."
+
+Cranial nerve examination revealed:
+- Bilateral upward gaze palsy
+- Horizontal nystagmus on smooth pursuit
+
+Neurological findings included:
+- Deep tendon areflexia
+- Bilateral extensor plantar reflexes
+- 2/5 symmetrical flaccid paraparesis in lower limbs
+- Preserved tone and power in upper limbs
+- Non-painful glove-and-stocking distribution paraesthesia
+- Otherwise globally preserved sensory perception
+
+No history of foreign travel or insect bites suggesting tickborne encephalitis was documented.
+
+---
+
+## Investigations
+
+### Blood Tests
+Full blood count, liver function, renal function, and repeat blood cultures were normal. Tacrolimus levels measured low at 3.3 microg/L (reference range 5.0-15.0 microg/L). SARS-CoV-2 RNA was not detected. Anti-mitochondrial antibody M2, anti-M2-3E, and anti-Ro52 tested strongly positive, consistent with primary biliary cirrhosis diagnosis.
+
+### Imaging Studies
+MRI with and without contrast of brain and spinal cord "did not reveal signs of encephalitis or myelitis." No conus medullaris syndrome, cauda equina syndrome, demyelination, stenosis, infarction, hemorrhage, or edema was identified.
+
+### Cerebrospinal Fluid Analysis
+CSF analysis did not reveal "protein-cytological dissociation (protein 0.37 g/L, glucose 3.2 mmol/L and white cell count of 0.0x10^9/L)." Viral PCR of CSF did not detect herpes virus type 1, type 2, varicella zoster, enterovirus, or adenovirus DNA.
+
+### Electrophysiology
+"Nerve conduction studies at 8 weeks post-symptom onset were unremarkable, with no discernible demyelinating or axonal features, nor large fibre peripheral neuropathy noted."
+
+### Anti-ganglioside Testing
+Serum anti-ganglioside testing revealed "positive anti-GQ1b IgM antibodies while both anti-GM1 and anti-GD1b subtypes were negative." CSF testing showed negative anti-GM1; insufficient sample remained for anti-GQ1b analysis. Plans were made for 6-month serial testing.
+
+---
+
+## Differential Diagnosis
+
+**Initial presumptive diagnosis:** Acute infectious herpetic encephalomyelitis, based on recent herpes zoster infection. However, acellular CSF with negative viral PCR and normal MRI made this unlikely.
+
+**Tacrolimus neurotoxicity:** Ruled out by normal MRI and low serum levels, plus absence of significant hepatic dysfunction on bloodwork.
+
+**Acute inflammatory demyelinating polyneuropathy variants:** GBS, acute motor axonal neuropathy (AMAN), and acute sensorimotor axonal neuropathy were considered but excluded by nerve conduction studies showing no demyelination or axonal pathology.
+
+**Acute disseminated encephalomyelitis (ADEM):** Excluded by normal brain and spinal cord imaging.
+
+**Final diagnosis:** Bickerstaff's brainstem encephalitis as part of the anti-GQ1b syndrome, made by clinical features and diagnosis of exclusion.
+
+---
+
+## Treatment
+
+The patient received "intravenous acyclovir 800 mg four times a day" for 10 days, treating for presumed herpetic encephalitis. Tacrolimus was withheld initially for 3 days until levels were confirmed low, then reintroduced. Hospital stay lasted 7 days with physiotherapy for strength and balance support.
+
+---
+
+## Outcome and Follow-up
+
+By hospital day 3, consciousness level improved significantly. At 4-week post-discharge clinic visit, nearly complete recovery had occurred. The patient demonstrated lucidity across all cognitive domains without dysarthria, memory loss, or behavioral changes. Lower limb strength showed some limitation primarily from gluteal and quadriceps pain related to prolonged herpes zoster infection. Eye movements normalized completely. At 6-month follow-up, the patient remained well with no symptom recurrence.
+
+---
+
+## Discussion
+
+Miller-Fisher syndrome comprises "ophthalmoplegia, ataxia and areflexia." When MFS presents with central nervous system signs including pyramidal features or reduced consciousness level, it constitutes Bickerstaff's brainstem encephalitis. BBE diagnosis requires these clinical features within context of antecedent infection.
+
+### Anti-GQ1b Antibody Syndrome
+Prior to 1992's landmark discovery of anti-GQ1b antibodies in MFS patients, "MFS and BBE had been considered separate clinical entities." The designation 'anti-GQ1b antibody syndrome' now represents the serological profile common to both MFS and BBE.
+
+### Clinical Correlation
+This patient presented with "progressive ataxia, upward gaze palsy and global areflexia," alongside extensor plantar reflexes, confusion, and hypersomnolence indicating CNS involvement. With positive anti-GQ1b antibodies and exclusion of common pathologies, BBE diagnosis was established.
+
+### Consciousness and Brainstem Pathology
+The patient's ability to maintain wakefulness during conversation but sleep during silence suggested brainstem pathology. Level of consciousness relates to cortical function (causing delirium), while state of consciousness depends on reticular activating system function in the brainstem (producing awake versus asleep states).
+
+### Symptom Prevalence
+Odaka et al. quantified BBE symptom prevalence across 62 cases: "100% involved external ophthalmoplegia, 92% an antecedent illness, 60% limb weakness, 58% absent/reduced reflexes, 45% consciousness disturbance, 40% Babinski's sign, 34% hyper-reflexia, 27% nystagmus, 8% normal reflexes." This patient displayed all aforementioned symptoms over a 2-week course.
+
+### Transplantation Context
+Solid organ transplantation can produce multiple neurological complications including post-transplant autoimmune encephalitis from diverse causes: medication toxicity, posterior reversible encephalopathy syndrome, viral infections, and PTLD. This patient's PTLD was in remission; PTLD typically shows radiological abnormalities absent in this case.
+
+### Herpes Zoster Encephalomyelitis Versus BBE
+Herpes zoster encephalomyelitis (HZE) represents rare CNS involvement after reactivated herpes zoster dissemination. This patient had unremarkable viral PCR and absent lymphocytic pleocytosis, making HZE unlikely. Although aseptic HZE subtypes exist, the combination of clinical features, antecedent HZ infection, positive anti-ganglioside antibodies, and negative viral screening favored BBE.
+
+### Broader Differentials
+Other considered diagnoses included acute inflammatory demyelinating polyneuropathies, AMAN, acute sensorimotor neuropathy, encephalitis, encephalomyelitis, ADEM, cerebrovascular infarction/ischemia, myasthenia gravis, and Wernicke's encephalopathy.
+
+### CSF Findings
+Key investigation was CSF analysis, completely normal in this patient. Compared with GBS, "frequency of protein-cytological dissociation has been shown to be lower than in MFS or BBE." Protein-cytological dissociation can develop over time in isolated BBE cases. Notably, "anti-ganglioside antibodies present in acute phase sera of MFS and BBE" can also appear in CSF itself, confirming CNS access. This likely occurs where blood-brain barrier is most deficient, particularly the brainstem.
+
+### Neuroimaging Findings
+MRI is essential for excluding alternative brainstem encephalitis etiologies. Serial MRI studies show hyperintense T2-weighted signal changes in some BBE cases, though "MRI abnormality is still uncommon, reported in 11%-30% of BBE cases." This case showed completely normal brain and spinal cord imaging with and without contrast.
+
+### Electrophysiology and Pathophysiology
+The underlying neuropathy pathophysiology remains debated, with electrophysiology studies differentiating GBS, MFS, and BBE. This patient's nerve conduction study at 6 weeks post-discharge and 8 weeks post-symptom onset was unremarkable. Alberti et al. found that overlapping Fisher-Bickerstaff syndrome patients showed "day 10 nerve conduction studies revealed reduced sensory nerve action potential amplitude but no signs of demyelination." Improvement or resolution in SNAP appeared by days 15-18, consistent with reversible sensory conduction block. These findings moved anti-ganglioside-mediated neuropathies toward axonal rather than demyelinating GBS classification. The node of Ranvier has been identified as a dysfunction site, leading to the term "'nodo-paranodopathy', which perhaps better describes the neuropathy in the anti-GQ1b syndrome."
+
+### Ganglioside Distribution and Antibody Prevalence
+Ganglioside antibodies are abundant in neural tissue. Molecular mimicry from antecedent pathogens produces characteristic neurological phenotypes. GQ1b comprises "5%-6% of the total gangliosides in human peripheral nervous tissue, but a greater 11%-13% in the cranial nerves." IgG anti-GQ1b antibodies appear in "68% of BBE cases (n=53) and 83% of MFS cases (n=466), but typically the prevalence in patients with GBS is much lower." Antibody-positive BBE displays distinctive clinical features, with "preceding infection and sensory disturbance being more frequent. However, CSF cell counts and abnormal MRI of the brain findings are more rare." Antibody titers closely follow clinical disease course from onset to resolution, identifying them as pathogenic.
+
+### Disease Recurrence and Antibody Patterns
+Anti-GQ1b syndrome disease recurrence (14%) exceeds GBS recurrence (4%). Ito et al. reported a case with recurrent MFS-GBS overlap subsequently becoming BBE-GBS overlap, initially seronegative for anti-GQ1b but later positive for other anti-ganglioside antibodies with successive recurrences while remaining anti-GQ1b negative. Conversely, Barbagallo et al. described GQ1b-seronegative MFS-BBE overlap recurring 12 years later with positive anti-GQ1b antibodies. Recurrence associates with increased clinical severity and anti-ganglioside antibody pattern change, the latter describing individual antibodies becoming positive or negative on serial testing. Clinical severity and antibody patterning may be linked.
+
+### Treatment Approaches
+BBE cases may be self-limiting, require intravenous immunoglobulin or plasma exchange. Refractory cases have used anti-CD20 monoclonal antibodies (rituximab). A 2007 Cochrane review found no randomized treatment data for MFS and BBE but considered it "clinically logical to extrapolate the evidence in treatment of GBS to both MFS and BBE." This patient completed intravenous acyclovir for presumed herpetic encephalomyelitis without additional immunotherapies, yet recovered completely.
+
+### Research Implications
+Due to BBE rarity, research into mechanisms, treatment efficacy, and antibody titers' prognostic role remains limited. This case was unique as BBE mimicked herpetic encephalomyelitis, illuminating future polyphasic disease prediction and clinical severity assessment.
+
+---
+
+## Learning Points
+
+1. Suspect Bickerstaff's brainstem encephalitis when "antecedent infection, ataxia, ophthalmoplegia and areflexia develop alongside pyramidal signs or altered consciousness."
+2. Guillain-Barre syndrome and its variants, including BBE, may be mimicked by conditions like encephalomyelitis requiring exclusion.
+3. Anti-GQ1b antibody titers follow disease clinical course from onset through resolution.
+4. Anti-ganglioside pattern change may connect to polyphasic BBE and disease severity.
+5. Majority of cases are self-limiting; current treatment options extrapolate from GBS management.
+
+---
+
+## References
+
+1. Koga M, Kusunoki S, Kaida K, et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis. J Neurol Neurosurg Psychiatry 2012;83:1210-5.
+2. Odaka M, Yuki N, Yamada M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases. Brain 2003;126:2279-90.
+3. Chiba A, Kusunoki S, Shimizu T, et al. Serum IgG antibody to ganglioside GQ1b is a possible marker of Miller Fisher syndrome. Ann Neurol 1992;31:677-9.
+4. Shahrizaila N, Yuki N. Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry 2013;84:576-83.
+5. Parvizi J, Damasio A. Consciousness and the brainstem. Cognition 2001;79:135-60.
+6. Cohen DA, Lopez-Chiriboga AS, Pittock SJ, et al. Posttransplant autoimmune encephalitis. Neurol Neuroimmunol Neuroinflamm 2018;5:e497.
+7. Kamdar KY, Rooney CM, Heslop HE. Posttransplant lymphoproliferative disease following liver transplantation. Curr Opin Organ Transplant 2011;16:274-80.
+8. Castellano-Sanchez AA, Li S, Qian J, et al. Primary central nervous system posttransplant lymphoproliferative disorders. Am J Clin Pathol 2004;121:246-53.
+9. McCormick WF, Rodnitzky RL, Schochet SS, et al. Varicella-Zoster encephalomyelitis. Arch Neurol 1969;21:559-70.
+10. Pergam SA, Forsberg CW, Boeckh MJ, et al. Herpes zoster incidence in a multicenter cohort of solid organ transplant recipients. Transpl Infect Dis 2011;13:15-23.
+11. Kang M, Aslam S. Varicella zoster virus encephalitis in solid organ transplant recipients. Transpl Infect Dis 2019;21:e13038.
+12. Gilden DH, Kleinschmidt-DeMasters BK, LaGuardia JJ, et al. Neurologic complications of the reactivation of varicella-zoster virus. N Engl J Med 2000;342:635-45.
+13. Bennett JE. Infectious diseases and their etiological agents. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 8th ed. 2015: 2157-87.
+14. Hardy TA, Barnett MH, Mohamed A, et al. Severe Bickerstaff's encephalitis treated with rituximab. J Neuroimmunol 2012;251:107-9.
+15. Sotoudeh H, Razaei A, Saadatpour Z, et al. Brainstem encephalitis: the role of imaging in diagnosis. Curr Probl Diagn Radiol 2021;50:946-60.
+16. Mondejar RR, Santos JMG, Villalba EF. MRI findings in a remitting-relapsing case of Bickerstaff encephalitis. Neuroradiology 2002;44:411-4.
+17. Alberti MA, Povedano M, Montero J, et al. Early electrophysiological findings in Fisher-Bickerstaff syndrome. Neurologia 2020;35:40-5.
+18. Uncini A, Susuki K, Yuki N. Nodo-paranodopathy: beyond the demyelinating and axonal classification. Clin Neurophysiol 2013;124:1928-34.
+19. Yuki N. Anti-Ganglioside antibody and neuropathy: review of our research. J Peripher Nerv Syst 1998;3:3-18.
+20. Uchibori A. Anti-GQ1b antibody: recent topics. Clin Exp Neuroim 2021;12:158-64.
+21. Ito M, Kuwabara S, Odaka M, et al. Bickerstaff's brainstem encephalitis and Fisher syndrome form a continuous spectrum. J Neurol 2008;255:674-82.
+22. Yoshikawa K, Kuwahara M, Morikawa M, et al. Bickerstaff brainstem encephalitis with or without anti-GQ1b antibody. Neurol Neuroimmunol Neuroinflamm 2020;7:e889.
+23. Ishii J, Yuki N, Kawamoto M, et al. Recurrent Guillain-Barre syndrome, Miller Fisher syndrome and Bickerstaff brainstem encephalitis. J Neurol Sci 2016;364:59-64.
+24. Ito H, Hatanaka Y, Fukami Y, et al. Anti-Ganglioside complex antibody profiles in a recurrent complicated case of GQ1b-seronegative Miller Fisher syndrome and Bickerstaff brainstem encephalitis. BMC Neurol 2018;18:72.
+25. Barbagallo G, Caggiula M, Lupo A, et al. Recurrent Miller-Fisher syndrome overlapping Guillain-Barre syndrome and Bickerstaff brainstem encephalitis. Clin Neurol Neurosurg 2021;206:106691.
+26. Overell JR, Hsieh ST, Odaka M, et al. Treatment for Fisher syndrome, Bickerstaff's brainstem encephalitis and related disorders. Cochrane Database Syst Rev 2007;2007:CD004761.
+
+---
+
+**Copyright:** BMJ Publishing Group Limited 2022. Re-use permitted under CC BY-NC.

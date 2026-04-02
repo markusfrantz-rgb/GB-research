@@ -1,0 +1,28 @@
+Anti-GQ1b IgG Antibody Syndrome: Clinical and Immunological Range
+
+Authors: M Odaka, N Yuki, K Hirata
+Affiliation: Department of Neurology, Dokkyo University School of Medicine, Japan
+Journal: Journal of Neurology, Neurosurgery, and Psychiatry
+Publication Date: January 2001, Vol. 70(1):50–55
+DOI: 10.1136/jnnp.70.1.50
+PMCID: PMC1763462
+
+ABSTRACT
+
+The authors investigated the nosological relationships among Miller Fisher syndrome (MFS), Guillain-Barré syndrome (GBS) with ophthalmoplegia, Bickerstaff's brain stem encephalitis (BBE), and acute ophthalmoparesis without ataxia. They examined 194 patients with anti-GQ1b IgG antibodies, analyzing antecedent illness, initial symptoms, neurological signs, and CSF findings.
+
+Key Findings:
+- All patients displayed external ophthalmoplegia across diagnostic categories
+- Hyporeflexia or areflexia characterized MFS and GBS cases
+- Ataxia appeared in MFS and BBE presentations
+- Upper respiratory tract infection preceded symptoms in 60-80% of cases
+- CSF albuminocytological dissociation occurred in 25-75% of patients
+- Anti-GM1 or anti-GD1a IgG presence varied: 50% (GBS), 35% (MFS/GBS), 27% (BBE/GBS), 16% (MFS), 8% (BBE)
+
+CONCLUSIONS
+
+The researchers propose that "a common autoimmune mechanism functions in the pathogenesis" of these conditions. They argue that MFS, GBS, BBE, and acute ophthalmoparesis form "a continuous range," unified by shared anti-GQ1b IgG antibodies despite variable clinical presentations.
+
+---
+Source: PMC fulltext via https://pmc.ncbi.nlm.nih.gov/articles/PMC1763462/
+Note: This is a condensed extraction. The original article contains additional detailed tables and data for the 194-patient cohort analysis.

@@ -1,0 +1,124 @@
+# Anti-galactocerebroside Antibody-Associated Bickerstaff's Brainstem Encephalitis With Dysautonomia: A Case Report and a Review of Associated Central Nervous System Diseases
+
+Authors: Masato Okitsu, Keizo Sugaya, Kazushi Takahashi
+Affiliation: Department of Neurology, Tokyo Metropolitan Neurological Hospital, Tokyo, Japan
+Journal: Cureus. 2024 Sep 17;16(9):e69587
+DOI: 10.7759/cureus.69587
+PMCID: PMC11484165
+
+## Abstract
+
+A 68-year-old man developed diplopia, unsteady walking, and bladder and bowel dysfunction followed by consciousness disturbance within four weeks. Physical examination revealed consciousness disturbance, bilateral ptosis, ophthalmoplegia, disappearing of doll's eye phenomenon, dysarthria, and diminished deep tendon reflexes. Cerebrospinal fluid examination showed oligoclonal bands. Autoantibody to galactocerebroside was positive only in serum. Blink reflex and auditory brainstem response showed abnormal findings although brain MRI and peripheral nerve conduction study were negative. Bickerstaff's brainstem encephalitis associated with anti-Gal-C antibody was diagnosed. Methylprednisolone pulse therapy proved ineffective. The patient developed paralytic ileus and required artificial ventilation. Intravenous immunoglobulin administration led to weaning from the ventilator two weeks later. Symptoms slowly improved over four months. The case demonstrates that anti-Gal-C antibody causes diverse central nervous system diseases, and anti-Gal-C antibody-associated BBE presents clinically differently from classic BBE.
+
+Keywords: anti-galactocerebroside antibody, auditory brainstem response, Bickerstaff's brainstem encephalitis, Guillain-Barre syndrome, paralytic ileus
+
+## Introduction
+
+Bickerstaff brainstem encephalitis represents a rare immunological disease presenting with motor and sensory disturbances and dysautonomia alongside ophthalmoplegia, ataxia, and consciousness disturbance. Most cases follow antecedent infection, with approximately two-thirds testing positive for serum anti-GQ1b IgG antibody among anti-ganglioside antibodies. Some cases demonstrate positivity for anti-GM1, GD1a, and GalNAc-GD1a IgG antibodies. Standard treatment includes intravenous immunoglobulin and plasma exchange with generally favorable prognosis.
+
+This report describes an older patient with anti-galactocerebroside antibody-associated BBE without prior infection history, presenting with impaired consciousness, ataxia, and ophthalmoplegia with autonomic dysfunction. The patient required ventilatory management and demonstrated partial response to immunotherapy.
+
+## Case Presentation
+
+### Patient History and Clinical Features
+
+A 68-year-old man developed diplopia and unsteady walking four weeks before hospital admission, with subsequent defecation disorder. His previous physician documented dysarthria and extremity ataxia despite normal head MRI. Two weeks later, he experienced difficulty opening his mouth and right ptosis appeared. The day before admission, his wife noted consciousness disturbance, prompting emergency room evaluation. Medical staff confirmed urinary retention and placed a urethral catheter.
+
+Medical history included mild untreated hypertension with no current medications or supplements. The patient consumed 2 liters of beer daily while maintaining a balanced diet.
+
+### Physical Examination
+
+Vital signs on admission were normal: pulse 70/min, blood pressure 132/77 mmHg, body temperature 36.7C. Glasgow coma scale was E3V4M5 indicating impaired consciousness. Cranial nerve examination revealed 2.5 mm pupils with maintained light reflex. Bilateral eye movements were strongly restricted both vertically and horizontally, with gaze-directed horizontal nystagmus observed in the left eye during rightward gaze. Bilateral ptosis predominated on the left with loss of doll's eye phenomenon. Dysarthria was present. Limb deep tendon reflexes showed hyporeflexia, with manual muscle test scores of at least four despite insufficient cooperation.
+
+### Laboratory Findings
+
+Blood tests showed mildly elevated inflammatory response (9,100 white blood cells/uL; normal: 4,000-8,500/uL) and CRP of 1.77 mg/dL (normal: <0.3 mg/dL). Serum antibody titer by complement fixation test for Mycoplasma pneumoniae was 4 (<64). Cerebrospinal fluid examination demonstrated positive oligoclonal bands, although cell count, protein, and IgG index remained within normal range. Following immunotherapy, the patient tested positive for serum anti-Gal-C IgG antibody via enzyme-linked immunosorbent assay; all other measured autoimmune disease-related antibodies, including anti-GQ1b antibody, were negative.
+
+### Imaging and Electrophysiological Studies
+
+Brain MRI and cervical spine MRI revealed no abnormalities. Nerve conduction studies showed no conduction block, decreased amplitude, or decreased conduction velocity. Auditory brainstem response demonstrated low-voltage responses on each side without prolonged latency. Blink reflex examination showed poor R1 and R2 reflexes bilaterally. Electroencephalogram demonstrated slow (7-8 Hz) and low amplitude posteriorly dominant rhythm wave without epileptic discharge.
+
+## Clinical Course and Treatment
+
+### Initial Management
+
+Given the patient's drinking history and symptomatic progression, Wernicke's encephalopathy was initially suspected. High-dose vitamin B1 (1,500 mg/day for three days, then 250 mg/day for five days) was administered at admission; however, no therapeutic response occurred. Serum vitamin B1 was subsequently found to be normal and treatment ceased. Methylprednisolone pulse therapy (1 g/day for three days) was initiated on the eighth hospitalization day.
+
+### Complications
+
+On the ninth hospital day, abdominal pain and distention appeared. Abdominal computed tomography revealed gas retention and abnormal dilatation of the entire intestinal tract without obstruction, consistent with paralytic ileus. On day 10, consciousness decreased to GCS E1V2M4 with declining oxygen saturation. Glossoptosis and saliva retention secondary to dysphagia necessitated artificial ventilation.
+
+Brain MRI and electroencephalography repeated on day 11 showed no change. Days 11-15 involved the first intravenous immunoglobulin course (0.4 g/kg/day) without immediate response. Approximately one week after IVIG initiation, respiratory status gradually improved and stabilized. The patient was subsequently extubated and weaned from ventilatory support.
+
+On day 24, swelling and redness appeared in the right forearm. Ultrasonography confirmed superficial vein thrombosis, treated with heparin. No additional IVIG therapy was administered due to concerns regarding thrombotic side effects.
+
+### Recovery and Follow-up
+
+Two and a half months after hospitalization, follow-up brain MRI showed no significant abnormalities or change. Symptoms progressed slowly, and at four months post-admission, the patient could speak despite dysarthria and ambulate short distances with assistance. Serum anti-Gal-C IgG antibody became negative on follow-up testing. The patient ultimately received a diagnosis of anti-Gal-C antibody-associated BBE and was transferred to a rehabilitation facility.
+
+## Discussion
+
+### Diagnostic Considerations
+
+The diagnostic criteria for BBE require: 1) decreased consciousness level, 2) bilateral external ophthalmoplegia, and 3) ataxia, with subacute onset progressing within four weeks. This case satisfied all criteria. Abnormalities in blink reflex and auditory brainstem response have been previously reported in BBE cases. Although brain MRI showed no abnormality, abnormal findings occur in only 11% of BBE cases, thus MRI's diagnostic utility remains limited. The patient presented with atypical features including anti-Gal-C antibody positivity, absent antecedent infection, and poor outcome.
+
+### Galactocerebroside Antibodies and CNS Disease
+
+Galactocerebroside, a glycolipid component of myelin, becomes a target for anti-Gal-C antibodies that induce either central or peripheral nervous system disorders. While this antibody reportedly contributes to demyelinating Guillain-Barre syndrome development, the detailed course of BBE in adults remains valuable to document.
+
+Previously reported anti-Gal-C-associated CNS disease cases show age at disease onset ranging widely from infants to elderly individuals. Disease types include encephalitis, brainstem lesions, meningoencephalitis, and acute disseminated encephalomyelitis. Preceding infection was documented in seven of 11 previously reported cases. Most patients received immunotherapy (methylprednisolone in six cases, dexamethasone in one case, intravenous immunoglobulin in three cases, frequently combined). Seven of ten described cases demonstrated treatment efficacy, though detailed improvement degrees remain unclear.
+
+### Age and Disease Phenotype
+
+Notably, disease onset age correlates with disease type. Many patients exhibiting acute disseminated encephalomyelitis were older individuals, and these patients demonstrated poorer treatment responses than other cohorts. No prior BBE cases in older individuals have been documented.
+
+### Infection and Antibody Development
+
+Respiratory infection represents the most common BBE antecedent, occupying approximately 60% of cases. In comparative studies of anti-GQ1b antibody-positive versus negative BBE cases, prior infection frequency was significantly lower in negative cases, approximately 50%. Mycoplasma pneumoniae infection frequency has been significantly higher in anti-Gal-C antibody-positive Guillain-Barre syndrome cases than those without the antibody.
+
+The present case exhibited no clear antecedent infection episode. Anti-Gal-C IgG antibody induction mechanisms remain unclear. Nevertheless, symptom relief with immunotherapy and negative antibody titer on follow-up testing suggest anti-Gal-C antibody involvement in BBE development.
+
+### Treatment Response and Outcomes
+
+This case demonstrated partial immunotherapy response with relatively poor outcome. Previous anti-Gal-C antibody-related central nervous system disease reports demonstrated poor immunotherapy responses in acute disseminated encephalomyelitis groups. Brain parenchyma involvement, including brainstem regions, may show undesirable immunotherapy responses in anti-Gal-C antibody-related diseases.
+
+### Autonomic Dysfunction and Complications
+
+This case demonstrated complicated urinary retention and paralytic ileus as characteristic features. Autonomic dysfunctions, including dysautonomia, occur more frequently in anti-Gal-C antibody-associated Guillain-Barre syndrome than other antibody-positive variants. Although nerve conduction studies excluded peripheral motor or sensory neuropathy, autonomic neuropathy may have occurred. Alternatively, Bickerstaff's brainstem encephalitis itself may have complicated autonomic dysfunction.
+
+The patient required artificial ventilation due to impaired consciousness and airway problems. Initial strong Wernicke's encephalopathy suspicion delayed immunotherapy. Earlier parallel immunotherapy and vitamin therapy implementation would have been beneficial. Advanced patient age may have contributed to unfavorable outcome compared to generally recognized Bickerstaff's brainstem encephalitis prognosis, typically observed in younger patients.
+
+### Clinical Implications
+
+Anti-Gal-C antibody evaluation in encephalitis or brainstem encephalitis patients with unknown causes remains uncommon. Some previous patients may have been overlooked, missing treatment opportunities. Additional case accumulation is necessary for establishing appropriate diagnostic and therapeutic evidence.
+
+## Conclusions
+
+This report documents an older male patient with Bickerstaff's brainstem encephalitis presenting with multiple cranial neuropathies, ataxia, impaired consciousness, and dysautonomia, testing positive for anti-Gal-C antibody. Multiple immunotherapies achieved only partial response while complications including ventilatory disturbance and paralytic ileus developed. Anti-Gal-C antibody-positive Bickerstaff's brainstem encephalitis prognosis tends toward worse outcomes compared to classic Bickerstaff's brainstem encephalitis, warranting cautious treatment approach.
+
+## Author Contributions
+
+Concept and design: Masato Okitsu, Keizo Sugaya, Kazushi Takahashi
+Drafting of manuscript: Masato Okitsu
+Critical review: Keizo Sugaya, Kazushi Takahashi
+Supervision: Kazushi Takahashi
+
+## References
+
+1. Yoshikawa K, Kuwahara M, Morikawa M, Kusunoki S. Bickerstaff brainstem encephalitis with or without anti-GQ1b antibody. Neurol Neuroimmunol Neuroinflamm. 2020;7:e889.
+2. Shahrizaila N, Yuki N. Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry. 2013;84:576-583.
+3. Cleaver J, James R, Chohan G, Lyons P. Bickerstaff's brainstem encephalitis associated with anti-GM1 and anti-GD1a antibodies. BMJ Case Rep. 2020;13:e236545.
+4. Odaka M, Yuki N, Yamada M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barre syndrome. Brain. 2003;126:2279-2290.
+5. Graus F, Titulaer MJ, Balu R, et al. A clinical approach to diagnosis of autoimmune encephalitis. Lancet Neurol. 2016;15:391-404.
+6. Kurihara T, Igarashi Y, Kobai K, et al. Diagnosis and prediction of prognosis for Bickerstaff's brainstem encephalitis using auditory brainstem response. Acute Med Surg. 2020;7:e517.
+7. Alberti MA, Povedano M, Montero J, Casasnovas C. Early electrophysiological findings in Fisher-Bickerstaff syndrome. Neurologia. 2020;35:40-45.
+8. Dyer CA, Benjamins JA. Glycolipids and transmembrane signaling: antibodies to galactocerebroside cause an influx of calcium in oligodendrocytes. J Cell Biol. 1990;111:625-633.
+9. Samukawa M, Kuwahara M, Morikawa M, et al. Electrophysiological assessment of Guillain-Barre syndrome with both Gal-C and ganglioside antibodies. J Neuroimmunol. 2016;301:61-64.
+10. Sugeno N, Kawaguchi N, Hasegawa T, et al. A case with anti-galactocerebroside antibody-positive Mycoplasma pneumoniae meningoencephalitis presenting secondary hypersomnia. Neurol Sci. 2012;33:1473-1476.
+11. Samukawa M, Hirano M, Tsugawa J, et al. Refractory acute disseminated encephalomyelitis with anti-galactocerebroside antibody. Neurosci Res. 2012;74:284-289.
+12. Sauteur PM, Hackenberg A, Tio-Gillen AP, et al. Intrathecal anti-GALC antibodies in Bickerstaff brain stem encephalitis. Neuropediatrics. 2015;46:428-430.
+13. Kuwahara M, Samukawa M, Ikeda T, et al. Characterization of the neurological diseases associated with Mycoplasma pneumoniae infection and anti-glycolipid antibodies. J Neurol. 2017;264:467-475.
+14. Ito M, Kuwabara S, Odaka M, et al. Bickerstaff's brainstem encephalitis and Fisher syndrome form a continuous spectrum. J Neurol. 2008;255:674-682.
+15. Samukawa M, Hamada Y, Kuwahara M, et al. Clinical features in Guillain-Barre syndrome with anti-Gal-C antibody. J Neurol Sci. 2014;337:55-60.
+16. Meyer Sauteur PM, Huizinga R, Tio-Gillen AP, et al. Intrathecal antibody responses to GalC in Guillain-Barre syndrome triggered by Mycoplasma pneumoniae. J Neuroimmunol. 2018;314:13-16.
+17. Berciano J, Sedano MJ, Pelayo-Negro AL, et al. Proximal nerve lesions in early Guillain-Barre syndrome. J Neurol. 2017;264:221-236.

@@ -1,0 +1,261 @@
+# Bickerstaff Encephalitis in Childhood: A Review of 74 Cases in the Literature from 1951 to Today
+
+**Citation:** Giaccari LG, Mastria D, Barbieri R, De Maglio R, Madaro F, Paiano G, Pace MC, Sansone P, Pulito G, Mascia L. Bickerstaff encephalitis in childhood: a review of 74 cases in the literature from 1951 to today. *Front Neurol*. 2024;15:1387505. PMC10963475.
+
+**DOI:** 10.3389/fneur.2024.1387505
+
+---
+
+## Authors
+
+- Luca Gregorio Giaccari (Department of Anesthesia and Intensive Care, "Vito Fazzi" Hospital, Lecce, Italy)
+- Donatella Mastria
+- Rosella Barbieri
+- Rossella De Maglio
+- Francesca Madaro
+- Gianfranco Paiano
+- Maria Caterina Pace (Department of Women, Child, General and Specialist Surgery, University of Campania "L. Vanvitelli", Naples, Italy)
+- Pasquale Sansone
+- Giuseppe Pulito
+- Luciana Mascia (Department of Experimental Medicine, University of Salento, Lecce, Italy)
+
+---
+
+## Abstract
+
+Bickerstaff brainstem encephalitis (BBE) is a rare autoimmune disease characterized by the subacute onset of bilateral external ophthalmoplegia, ataxia, and decreased level of consciousness. This narrative review examined 74 pediatric cases documented from 1951 through 2023. The condition shows male predominance and frequently follows respiratory or gastrointestinal infections. Initial presentations typically involve consciousness disturbance, headache, vomiting, diplopia, gait disturbance, dysarthria, and fever. Diagnostic findings include abnormal cerebrospinal fluid, electroencephalography, and MRI studies, alongside antiganglioside antibodies (anti-GQ1b and anti-GM1). Treatment involves immunoglobulin therapy, corticosteroids, or plasmapheresis. Approximately 70% of pediatric patients achieve full recovery without sequelae, demonstrating favorable long-term outcomes.
+
+---
+
+## Introduction
+
+BBE was first described by Bickerstaff and Cloake in 1951 as "Mesencephalitis and rhombencephalitis," subsequently renamed "brainstem encephalitis" by Bickerstaff.
+
+The disease presents with the subacute onset of bilateral external ophthalmoplegia, ataxia, and decreased level of consciousness. Associated features include pupillary abnormalities, bilateral facial paralysis, Babinski's sign, and bulbar paralysis.
+
+### Epidemiology
+
+Annual incidence approximates 0.078 per 100,000 inhabitants in Japan, with male/female ratio of 1.3 and average onset age of 39 years. Very few pediatric studies exist, with unknown incidence rates in children.
+
+### Infectious Associations
+
+BBE has been reported to occur often after upper respiratory or gastrointestinal tract infections. The exact pathological mechanism remains incompletely understood, though associations with antiganglioside antibodies — particularly anti-GQ1b — are well-documented. These antibodies appear in 68% of patients with BBE.
+
+### Clinical Features
+
+The classic triad comprises ataxia, ophthalmoplegia and altered consciousness. Additional features include hyperreflexia, Babinski's sign, deep sensory impairment, facial weakness, bulbar palsy, and nystagmus.
+
+### Diagnostic Findings
+
+CSF analysis typically reveals evidence of albumin-cytologic dissociation and pleocytosis. EEG findings demonstrate central nervous system impairment, with patients exhibiting characteristic "unarousable sleep-like" EEG patterns. MRI shows high-intensity areas on T2-weighted images of the brainstem, thalamus, cerebellum and cerebrum in approximately one-third of cases.
+
+### Course and Prognosis
+
+The BBE course is generally monophasic with complete remission of symptoms within 6 months in over half of the patients.
+
+---
+
+## Materials and Methods
+
+### Literature Search Strategy
+
+Researchers conducted a narrative review using PubMed, Embase, Scopus, Google Scholar, and Cochrane Library databases. Search terms included combinations of "Bickerstaff brainstem encephalitis," "Bickerstaff's encephalitis," "Bickerstaff's syndrome," "children," and "pediatric." Only English-language articles were included, spanning from the first documented case in 1951 through December 2023.
+
+### Eligibility Criteria
+
+The PICO framework guided study selection:
+- **Population**: Patients younger than 18 years with BBE diagnosis
+- **Intervention**: Diagnostic and therapeutic management
+- **Comparison**: Not applicable
+- **Outcomes**: Hospitalization length and sequelae presence
+
+### Study Selection
+
+Two independent researchers screened titles and abstracts, with a third reviewer consulted for disagreements. Selected articles underwent full-text review. Studies with incomplete outcomes or non-English language were excluded.
+
+### Data Extraction
+
+Researchers extracted age, sex, preinfectious history, symptoms, signs, diagnostic findings (CSF analysis, CT/MRI, EEG, EMG, serum antibodies), therapeutic interventions, and outcomes.
+
+### Data Analysis
+
+Standard spreadsheet software analyzed symptoms and signs as ratios (n/N percentage). Missing data were assumed absent to account for reporting bias. Diagnostic studies reported positive findings as ratios (n/N percentage). Other data presented as mean +/- standard deviation.
+
+---
+
+## Results
+
+### Study Population
+
+The analysis encompassed 41 studies documenting 74 total cases. Demographics revealed 73% male cases (54 males, 20 females). Mean age at onset was 8.65 +/- 4.93 years, ranging from 7 months to 18 years.
+
+### Preinfection History
+
+| Previous Disease | Number |
+|---|---|
+| Upper respiratory infection | 17 |
+| Lower respiratory infection | 10 |
+| Gastroenteritis/Diarrhea | 8 |
+| Other unspecified infections | 4 |
+| No previous illness | 23 |
+
+Among documented cases with identified microbiological agents:
+- Mycoplasma pneumoniae: 5 cases
+- Campylobacter jejuni: 3 cases
+- Haemophilus influenzae: 2 cases
+- Cytomegalovirus: 3 cases
+- Salmonella typhi: 1 case
+- Influenza B virus: 1 case
+- SARS-CoV-2: 1 case
+
+Mean interval between infection and neurological symptom onset: 10.12 +/- 6.99 days.
+
+### Initial Symptoms and Neurological Signs
+
+| Symptom/Sign | Number (%) |
+|---|---|
+| **Initial Symptoms** | |
+| Consciousness disturbance | 35 (47.3) |
+| Seizure | 5 (6.8) |
+| Headache | 21 (28.4) |
+| Vomiting | 15 (20.3) |
+| Diplopia | 16 (21.6) |
+| Strabismus | 3 (4.1) |
+| Blepharoptosis | 2 (2.7) |
+| Limb weakness | 9 (12.2) |
+| Gait disturbance | 23 (31.1) |
+| Dysarthria | 12 (16.2) |
+| Fever | 30 (40.5) |
+| **Signs During Illness Course** | |
+| Consciousness disturbance | 40 (54.1) |
+| Ophthalmoplegia | 51 (68.9) |
+| Ocular motor weakness/ptosis (CN III, IV, VI) | 36 (48.6) |
+| Facial weakness (CN VII) | 42 (56.8) |
+| Bulbar weakness (CN IX, X, XI) | 39 (52.7) |
+| Mild limb weakness | 27 (36.5) |
+| Absent/decreased muscle stretch reflex | 28 (37.8) |
+| Normal/brisk muscle stretch reflex | 14 (19.0) |
+| Babinski sign | 18 (24.3) |
+| Ataxia | 46 (62.2) |
+| Sensory disturbance | 4 (5.4) |
+| Autonomic instability | 6 (8.1) |
+
+### Diagnostic Assessment
+
+| Finding | Number/Total (%) |
+|---|---|
+| **Lumbar Puncture** | |
+| Abnormal LP | 38/69 (55.1) |
+| CSF pleocytosis | 15/69 (21.7) |
+| CSF cytoalbuminological dissociation | 23/69 (33.3) |
+| **EEG** | |
+| Abnormal EEG | 29/34 (85.3) |
+| **MRI** | |
+| Abnormal MRI | 24/58 (41.4) |
+| **CT** | |
+| Abnormal CT | 0/9 (0) |
+| **EMG** | |
+| Abnormal EMG | 11/21 (52.4) |
+| **Serum Antibodies** | |
+| Anti-GQ1b positive | 24/44 (54.5) |
+| Anti-GM1 positive | 3/8 (37.5) |
+
+### Therapeutic Management
+
+| Treatment | Number of Cases |
+|---|---|
+| Steroids alone | 10 |
+| IVIG alone | 11 |
+| Steroids + IVIG | 18 |
+| Plasmapheresis | 4 |
+| Antibiotics | 16 |
+| Antivirals | 15 |
+| ICU admission | 16 |
+| Mechanical ventilation | 14 |
+| Tracheostomy | 2 |
+| External ventricular drainage | 2 |
+
+Intensive Care Unit length of stay: 12.85 +/- 7.44 days.
+
+### Outcomes
+
+| Outcome | Number |
+|---|---|
+| Total hospitalization length | 24.2 +/- 13.75 days |
+| No sequelae | 34 |
+| Any sequelae | 13 |
+| Deaths | 2 |
+
+Recovery time to reported outcomes: 4.2 +/- 2.56 months. Among cases with documented outcomes (66.2% of total), approximately 70% achieved complete recovery without sequelae.
+
+---
+
+## Discussion
+
+### Epidemiological Features
+
+The review confirms BBE as uncommon in childhood, with male predominance at a 3:1 ratio — contrasting with typical female predominance observed in most autoimmune diseases. The onset of neurologic deficits is often sudden, although nonspecific symptoms may precede neurologic manifestations by several weeks.
+
+### Infectious Triggers and Pathogenesis
+
+Fifty percent of cases reported preceding infections within two weeks before neurological symptom onset. BBE occurs following respiratory or gastrointestinal tract infections, most frequently caused by M. pneumoniae, H. influenzae, and C. jejuni. One case documented BBE following COVID-19 vaccination. The authors propose that a transient autoimmune response to myelin or other self-antigens through molecular mimicry during the infectious episode preceding symptoms may trigger demyelinating disease processes.
+
+### Clinical Course and Presentation
+
+BBE remains usually a monophasic disease; only one case of recurrent BBE is reported. The most frequent initial manifestations involved consciousness disturbance, headache, vomiting, diplopia, gait disturbance, dysarthria, and fever. During the disease course, almost all the patients developed consciousness disturbance, external ophthalmoplegia, and ataxia.
+
+### Diagnostic Findings
+
+Lumbar puncture is a high-priority test in cases of suspected central nervous system disease. Abnormal lumbar puncture findings exceeded 50% of cases, with the main CSF alterations found being albuminocytological dissociation (33.3%) and pleocytosis (21.7%).
+
+**Electroencephalography**: EEG abnormalities appeared in more than 85% of cases in which the exam was performed. Characteristic patterns included predominant N1 and/or N2 sleep patterns, even with external stimuli ("unarousable sleep-like" EEG), including the fusiform coma pattern.
+
+**Electromyography**: Abnormal EMG was found in more than 50% of patients. Findings demonstrated reduced or non-recordable compound muscle action potentials (CMAPs) and sensory nerve action potentials (SNAPs).
+
+**Neuroimaging**: CT scans showed no abnormalities. MRI is the gold standard technique for brain imaging in encephalitis. Abnormal MRI findings appeared in 41.4% of cases.
+
+### Antiganglioside Antibodies
+
+Anti-GQ1b antibodies were detected in more than half of the patients. These antibodies bind to GQ1b antigens on cranial nerves and muscle spindles. The mechanism involves infection by microorganisms bearing the GQ1b epitope inducing IgG antibody production in susceptible individuals. Anti-GM1 antibodies were detected in almost 40% of patients, though their specific pathogenic role remains incompletely understood.
+
+### Treatment Approaches
+
+There are no established guidelines for treatment and currently different regimens are used based on the patient's clinical status and the doctor's opinion.
+
+**Corticosteroids**: Methylprednisolone typically administered at 1 g per day for 3-5 days followed by oral prednisone 1 mg/kg/day for 1-4 weeks.
+
+**IVIG**: IVIG has many immunomodulatory and anti-inflammatory effects. The IVIG dose range is between 400 mg/kg/day for 5 days or a more rapid course of 1-2 g/kg given over 1-2 days.
+
+**Plasmapheresis**: Plasmapheresis is a reasonable option to consider in BBE patients with no or limited improvement after corticosteroids or IVIG, typically involving 1 session every other day for 5-7 cycles.
+
+### Hospitalization and Critical Care
+
+The length of hospitalization was approximately 24 days. More than 20% of patients required ICU admission for an average of approximately 13 days, mainly due to depressed level of consciousness and respiratory insufficiency. Almost all of them required mechanical ventilation.
+
+These pediatric rates proved lower compared to adults: in an observational study, 57% of patients were intubated for an average of approximately 1 month and 68% of them required tracheostomy.
+
+### Prognosis
+
+BBE has a good prognosis and recovery in childhood is faster than in adulthood, usually resolving within 4 to 6 weeks after starting treatment. The analysis found that 70% of patients reported no sequelae. Mortality remained rare at 2.7%. Death is a very rare outcome in patients with BBE receiving optimal treatment.
+
+---
+
+## Limitations
+
+1. **Study Design**: The review was based on case series and case reports, which are often excluded from systematic reviews due to the greater potential for bias, especially severity bias and selection bias.
+
+2. **Methodological Constraints**: A meta-analysis was not performed, due to the design of most of the studies (case report, case series) and the lack of a comparator.
+
+Despite these limitations, these studies contribute to the available evidence base given the rarity of larger controlled trials.
+
+---
+
+## Conclusion
+
+BBE represents a rare autoimmune disease, even in childhood, with knowledge of its presentation essential for early recognition and appropriate management. While the pathogenesis is unclear, diagnostic approaches rely on the combination of clinical, radiological and laboratory data. Management remains primarily based on immunomodulatory therapy including IVIG and in the most serious cases on plasmapheresis. The prognosis is good, with a good recovery rate, particularly in pediatric populations. Future studies need to investigate the pathogenesis, possible triggers and therapeutic possibilities.
+
+---
+
+## Funding and Conflicts of Interest
+
+The authors declare no financial support was received. No commercial or financial relationships representing potential conflicts of interest were reported.

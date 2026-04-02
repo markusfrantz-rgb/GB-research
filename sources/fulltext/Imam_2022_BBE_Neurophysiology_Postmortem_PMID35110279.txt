@@ -1,0 +1,128 @@
+# Bickerstaff Brainstem Encephalitis: Clinical, Neurophysiological, Laboratory and Postmortem Findings
+
+## Title
+Bickerstaff brainstem encephalitis: clinical, neurophysiological, laboratory and postmortem findings of a case presenting as encephalomyelitis
+
+## Authors
+- Ibrahim Imam (Neurology, Royal Devon and Exeter NHS Foundation Trust)
+- Ptolemaios G Sarrigiannis (Neurophysiology, Royal Devon and Exeter NHS Foundation Trust)
+- Aditya G Shivane (Department of Cellular and Anatomical Pathology, University Hospitals Plymouth NHS Trust)
+
+**Journal:** BMJ Case Reports, 2022 Feb 2; 15(2):e245588
+**DOI:** 10.1136/bcr-2021-245588
+**PMCID:** PMC8811546
+**PMID:** 35110279
+
+---
+
+## Abstract
+"A patient was admitted with a 1-week history of upper respiratory tract infection and rapidly progressive encephalopathy dominated by brainstem features and widespread areflexia." Her antiganglioside antibodies and electroencephalography findings aligned with BBE diagnosis. Postmortem examination revealed "florid brainstem encephalitis and myelitis." Bacterial isolates from respiratory specimens included *Haemophilus influenzae* and *Fusobacterium*. Despite typically favorable prognosis with anti-GQ1b antibodies, this patient's severe pathological changes and sepsis-associated encephalopathy contributed to fatal outcome.
+
+---
+
+## Background Section
+BBE presents classically with "impaired consciousness, flaccid quadriparesis, ptosis and ophthalmoplegia" and may include ataxia, bulbar involvement, and sensory changes. Approximately one-third test positive for anti-GQ1b antibodies. Prognosis is generally favorable, particularly for antibody-positive cases. This case describes an unusual fatal outcome despite expected good prognosis.
+
+---
+
+## Case Presentation
+The patient was a 26-year-old female presenting with malaise, sore throat, hoarseness, and cough lasting one week. On admission, she developed "fluctuating double vision and drooping of the left eyelid" with transient paresthesias and numbness in gums and teeth.
+
+**Clinical examination revealed:** mild dysarthria, bilateral ptosis (worse left), diplopia worsening on left gaze, alternating esotropia with bilateral horizontal gaze restriction, hip flexion weakness (grade 4), widespread areflexia, and marked lower limb ataxia. Facial strength, sensation, and neck flexibility remained normal.
+
+---
+
+## Investigations
+**Laboratory findings included:**
+- Elevated CRP: 158
+- Elevated white cell count: 20 cells/mm3
+- Elevated neutrophils: 16 cells/mm3
+- Positive anti-GQ1b antibody (titre 6400, normal 0-25)
+
+**CSF analysis:**
+- Mildly elevated protein: 0.67 g/L (normal 0.2-0.5)
+- Glucose: 4 mmol/L (normal 2.2-3.9) with serum glucose 5.7 mmol/L
+- 11 cells (immunophenotypically normal lymphocytes)
+
+**Microbiology:** Sputum cultured *Haemophilus influenzae*; throat swab positive for *Fusobacterium*. CSF PCR was negative for adenovirus, enterovirus, HSV 1&2, and VZV. Serology negative for HIV and chlamydia. Urine antigens negative for *Legionella* and pneumococcus. Nasal PCR negative for adenovirus, parainfluenza, metapneumovirus, and rhinovirus.
+
+**Imaging:** Chest X-ray, CT angiography of brain, and brain MRI all normal.
+
+**Serological testing:** Negative for antinuclear antibodies, ANCA, extractable nuclear antigen, anti-acetylcholine receptor, anti-muscle-specific kinase, anti-NMDA, anti-VGKC, and anti-GM1 antibodies.
+
+**Electroencephalography:** Performed 9 days post-ICU admission while comatose (24 hours post-sedation cessation). "High amplitude mainly delta slow wave activity maximal anteriorly, with remarkable synchrony between the two hemispheres." Some reactivity to verbal and tactile stimulation noted. "Evidence of non-specific widespread cerebral dysfunction; the synchronous bihemispheric involvement was in keeping with subcortical involvement to include brainstem lesion."
+
+**Nerve conduction studies:** Limited testing 4 days after admission revealed:
+- No response from superficial peroneal nerve
+- Mildly attenuated sural nerve potential with normal conduction velocity
+- Borderline median nerve compound muscle action potentials with normal distal latency and conduction velocity
+- Extreme paucity of F-waves (2/15)
+- Similar abductor hallucis findings with relative F-wave paucity (7/15)
+
+Findings consistent with GBS spectrum disorder without specific demyelination features.
+
+---
+
+## Postmortem Findings
+**Gross examination:** Moderate leptomeningeal congestion with mild cerebral gyral flattening and sulcal narrowing suggesting cerebral edema. Cranial nerves and basal blood vessels normal; no cerebral herniation evident. Normal gray-white matter differentiation throughout cerebrum. Brainstem showed mild congestion without focal lesions.
+
+**Histology:** Mild focal reactive meningothelial hyperplasia and sparse chronic inflammatory cells (small lymphocytes and macrophages) limited to temporal leptomeninges. Occasional perivascular lymphocytes present.
+
+**Immunohistochemistry:** "Diffuse upregulation of HLA-DR-positive macrophages and microglia" marked throughout brainstem, cerebellar white matter, corpus callosum, spinal cord gray matter, posterior columns, and spinal nerve roots.
+
+**Organs:** Heart normal; pulmonary congestion and edema present; right thyroid lobe mildly enlarged; other viscera normal.
+
+---
+
+## Differential Diagnosis
+Initial admission diagnosis considered pharyngo-cervical-brachial GBS variant triggered by upper respiratory infection. However, clinical progression and nerve conduction findings proved inconsistent. Anti-GQ1b antibodies raised Miller Fisher syndrome possibility, but profound brainstem dysfunction atypical for MFS. Viral encephalitis and bacterial meningoencephalitis ruled out by negative CSF screening and PCR.
+
+---
+
+## Treatment
+Initial therapy included intravenous immunoglobulins and antibiotics (acyclovir, penicillin V, amoxicillin, meropenem, vancomycin, gentamicin, metronidazole). Given poor treatment response, intravenous methylprednisolone was subsequently administered.
+
+---
+
+## Outcome and Follow-up
+By hospital day two, patient became drowsy with inability to clear secretions adequately. Forced vital capacity measured 1.4 L, necessitating ICU admission. Following sedation and intubation, complications developed including "hypotension and sinus tachycardia which did not respond to fluids and norepinephrine." Patient died 12 days after admission from cardiac arrest.
+
+---
+
+## Discussion
+Clinical, laboratory, neurophysiological, and postmortem findings align with BBE diagnosis. Relatively normal CSF consistent with two-thirds of BBE presentations. Normal brain MRI occurs in two-thirds of cases, as seen here. EEG changes, while non-specific, compatible with BBE.
+
+Brain biopsy in BBE typically reveals "perivascular lymphocytic inflammation," confirmed in this postmortem examination with "HLA-DR-positive cells predominantly in the brainstem." The largest BBE literature series describes one autopsy case showing "perivascular lymphocytic infiltration with perivascular oedema and glial nodules, chromatolytic changes in trigeminal motor and spinal anterior horn cells and focal lymphocytic infiltration of dorsal root ganglia."
+
+Two previous autopsy cases documented "brainstem oedema and perivascular lymphocytic inflammation, astrocytic proliferation, microglial activation and slight Purkinje cell loss." The present case expands neuropathological understanding by demonstrating "patchy leptomeningeal involvement and widespread spinal cord involvement."
+
+Optimal BBE treatment strategy remains unclear. Standard therapy utilizes "IVIg or plasma exchange," with steroids sometimes used alongside IVIg. This patient received both IVIg and methylprednisolone, though timing of steroid initiation's impact on outcome remains uncertain.
+
+BBE typically carries favorable outcomes, particularly for anti-GQ1b antibody-positive cases, exhibiting "less frequent abnormalities in CSF and MRI scans, and tend to recover more rapidly and have fewer residual deficits than those without the antibodies." Mortality from BBE remains rare; documented deaths associated with pulmonary embolism or BBE recurrence. This patient's poor outcome, despite positive anti-GQ1b antibodies without pulmonary embolism or recurrence, proved unexpected.
+
+The fatal outcome may reflect "florid pathological changes at postmortem," or sepsis-associated encephalopathy (SAE) contribution. SAE associates with "high morbidity and mortality," and this patient's elevated inflammatory markers suggested possible underlying sepsis.
+
+---
+
+## Learning Points
+- BBE merits consideration as differential diagnosis in patients presenting with GBS, Miller Fisher syndrome, viral encephalitis, infective meningoencephalitis, or SAE
+- Poor outcomes despite typically favorable BBE prognosis suggest considering comorbidities like SAE in severe, rapidly progressive cases
+- Early adjunctive steroid consideration warranted in patients with severe, rapidly progressive BBE
+
+---
+
+## References
+1. Bickerstaff ER, Cloake PCP. Mesencephalitis and rhombencephalitis. Br Med J 1951;2:77-81.
+2. Shahrizaila N, Yuki N. Bickerstaff brainstem encephalitis and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol Neurosurg Psychiatry 2013;84:576-83.
+3. Odaka M, Yuki N, Yamada M, et al. Bickerstaff's brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barre syndrome. Brain 2003;126:2279-90.
+4. Koga M, Kusunoki S, Kaida K, et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry 2012;83:1210-5.
+5. Yuki N, Sato S, Tsuji S, et al. An immunologic abnormality common to Bickerstaff's brain stem encephalitis and Fisher's syndrome. J Neurol Sci 1993;118:83-7.
+6. Al-Din AN, Anderson M, Bickerstaff ER, et al. Brainstem encephalitis and the syndrome of Miller Fisher: a clinical study. Brain 1982;105:481-95.
+7. Ogawara K, Kuwabara S, Yuki N. Fisher syndrome or Bickerstaff brainstem encephalitis? Anti-GQ1b IgG antibody syndrome involving both the peripheral and central nervous systems. Muscle Nerve 2002;26:845-9.
+8. Ito M, Kuwabara S, Odaka M, et al. Bickerstaff's brainstem encephalitis and Fisher syndrome form a continuous spectrum: clinical analysis of 581 cases. J Neurol 2008;255:674-82.
+9. Gofton TE, Young GB. Sepsis-associated encephalopathy. Nat Rev Neurol 2012;8:557-66.
+10. Maramattom BV, Wijdicks EF. Acute neuromuscular weakness in the intensive care unit. Crit Care Med 2006;34:2835-41.
+
+---
+
+**Copyright:** BMJ Publishing Group Limited 2022. Re-use permitted under CC BY-NC.

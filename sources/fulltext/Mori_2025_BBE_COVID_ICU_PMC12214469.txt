@@ -1,0 +1,122 @@
+# Bickerstaff Brainstem Encephalitis Following COVID-19
+
+## Title
+Bickerstaff brainstem encephalitis developed quickly after COVID-19 infection
+
+## Authors
+Daiki Mori, Takahiro Yamada, Hiroshi Fukuma, Shota Nakao, Tetsuya Matsuoka
+
+**Institution:** Rinku General Medical Center, Senshu Trauma and Critical Care Center, Osaka, Japan
+
+**Journal:** Acute Medicine & Surgery, 2025 Jul 2;12(1):e70071
+**DOI:** 10.1002/ams2.70071
+**PMCID:** PMC12214469
+
+---
+
+## Abstract
+
+Bickerstaff brainstem encephalitis (BBE) is an autoimmune disease characterized by impaired consciousness, ophthalmoplegia, and ataxia. The authors report two cases of BBE following COVID-19.
+
+**Case 1:** A 51-year-old male diagnosed with COVID-19 four days after fever onset developed prolonged loss of consciousness with ophthalmoplegia and ataxia. Treatment with steroids and immunoglobulin improved consciousness.
+
+**Case 2:** A 28-year-old female diagnosed with COVID-19 experienced prolonged loss of consciousness, ophthalmoplegia, and myoclonus. Treatment with steroids, immunoglobulin, and plasmapheresis ameliorated consciousness.
+
+**Conclusion:** "Both patients developed central nervous system (CNS) symptoms within a week of COVID-19 onset, indicating that BBE develops immediately after prior infection."
+
+---
+
+## Introduction
+
+Bickerstaff brainstem encephalitis represents an autoimmune disorder typically presenting after preceding infection. While pathogens such as *Campylobacter jejuni* and *Haemophilus influenzae* are commonly implicated, few cases associated with COVID-19 have been documented. This report describes two cases where BBE developed within one week of COVID-19 onset.
+
+---
+
+## Case Presentations
+
+### Case 1: 51-Year-Old Male
+
+**Presentation:** Patient presented with fever on day four during Omicron variant surge and received COVID-19 diagnosis. He was independent in activities of daily living and had received two doses of mRNA-based COVID-19 vaccine.
+
+**Initial Vitals:**
+- Respiratory rate: 24/min
+- Oxygen saturation: 95% (room air)
+- Blood pressure: 144/91 mmHg
+- Heart rate: 92/min
+- Glasgow Coma Scale: E4V5M6
+- Body temperature: 38.1 degrees C
+
+**Clinical Course:** Although communicative on admission, consciousness deteriorated, requiring intubation on day 1. Head CT revealed cortical edema suggestive of meningitis or encephalitis. Cerebrospinal fluid analysis showed elevated pressure and mild pleocytosis. Acyclovir was initiated for suspected viral meningitis/encephalitis; however, herpes simplex virus DNA and SARS-CoV-2 PCR in CSF were negative.
+
+**Neurological Findings:** Doll's eye sign was observed, suggesting brainstem disorder.
+
+**Diagnosis and Treatment:** On day 11, suspected parainfectious encephalopathy including BBE prompted treatment with methylprednisolone (1000 mg, days 11-13) and intravenous immunoglobulin (IVIg; 32.5 g, days 15-19). Anti-GQ1b antibody returned positive, confirming BBE diagnosis.
+
+**Outcome:** Consciousness improved on day 24, although ophthalmoplegia persisted. Patient transferred to rehabilitation on day 43 and discharged independently on day 175.
+
+### Case 2: 28-Year-Old Female
+
+**Presentation:** Patient was found collapsed at home during Omicron variant surge. History included autism spectrum disorder and no prior COVID-19 vaccination. Cohabitant had confirmed health status two days prior.
+
+**Initial Vitals:**
+- Respiratory rate: 34/min
+- Oxygen saturation: 96% (reservoir mask; 15 L/min)
+- Blood pressure: 123/61 mmHg
+- Heart rate: 168/min
+- Glasgow Coma Scale: E1V1M1
+- Body temperature: 41.1 degrees C
+
+**Laboratory Findings:** Elevated inflammatory markers, renal dysfunction, and coagulopathy. Arterial blood gas analysis indicated acidosis with high lactate levels. SARS-CoV-2 antigen was positive.
+
+**Initial Diagnosis:** Septic shock secondary to aspiration pneumonia. Altered consciousness attributed to sedative overdose. Head CT revealed cerebral edema considered secondary to septic shock. Chest CT showed infiltrative shadow with air bronchograms.
+
+**Treatment and Progression:** Intubated and treated with Meropenem and dexamethasone. On day 5, GCS improved to E4VTM6; however, upward gaze deviation, mandibular dyskinesia, and nystagmus appeared. Extubated on day 7. Despite consciousness improvements, exhibited reduced verbal output, poor command compliance, and limb weakness.
+
+**Additional Testing:** Electroencephalography on day 8 showed no significant findings. CSF analysis revealed albuminocytologic dissociation on day 9.
+
+**Diagnostic Workup:** On day 11, suspected autoimmune encephalitis including anti-NMDA receptor encephalitis and BBE. Treated with methylprednisolone (1000 mg/day, three days) on days 10, 20, 27 and IVIg (25 g/day for five days) on day 15. Anti-NMDA receptor antibody was negative.
+
+**Neuropathy Identification:** Nerve conduction study on day 25 demonstrated severe axonal damage, leading to acute autonomic sensory and motor neuropathy diagnosis.
+
+**Imaging Findings:** MRI on day 31 revealed corticospinal tract degeneration centered in midbrain. Anti-GQ1b antibody was negative.
+
+**Final Treatment:** Plasma exchange initiated on day 36, performed seven times total, improving consciousness, ophthalmoplegia, and mandibular dyskinesia, although limb weakness persisted. Transferred to rehabilitation on day 121. Patient died on day 559.
+
+---
+
+## Discussion
+
+The authors report two BBE cases that developed immediately after COVID-19 diagnosis. BBE represents an autoimmune disorder characterized by altered consciousness, ophthalmoplegia, and ataxia, primarily affecting the brainstem. Neurological symptoms typically emerge approximately two weeks after preceding infection, peak within four weeks, and gradually resolve.
+
+**Notable Finding:** "In these cases, central nervous system (CNS) symptoms developed within 1 week of COVID-19 onset, a notably shorter interval than previously reported cases."
+
+**Pathophysiology:** Anti-GQ1b IgG antibodies are believed to contribute to neurological impairment. The molecular mimicry hypothesis proposes that infection induces anti-GQ1b antibody production, leading to disease onset. Specific IgG antibodies have been detected as early as the fourth day after COVID-19 onset, suggesting early induction of anti-GQ1b antibodies may have caused BBE.
+
+**Atypical Presentations:** While typical cases show no significant findings in MRI or CSF analysis, atypical cases may present with MRI abnormalities or moderate-to-severe CSF pleocytosis. Some atypical cases are anti-GQ1b antibody-negative and exhibit delayed recovery.
+
+**Case 2 Classification:** MRI abnormalities and anti-GQ1b antibody negativity classified this patient as an atypical case. The study compared a typical and atypical case but found no definitive association with vaccination type.
+
+**Altered Consciousness Mechanisms:** Both cases presented with altered consciousness as CNS symptom. Altered consciousness has been reported in 7.5% of hospitalized COVID-19 cases. Proposed mechanisms include SARS-CoV-2 invasion via olfactory nerve, brain injury due to cytokine passage through inflammation-compromised blood-brain barrier, and secondary factors such as hypoxemia and coagulopathy leading to stroke.
+
+**Early Treatment Importance:** "Rapid steroid administration for BBE may lead to recovery within days, highlighting the potential benefits of early treatment. Early diagnosis is essential not only for effective treatment but also to reduce the psychological burden on patient and family."
+
+---
+
+## Conclusion
+
+"Altered consciousness, ophthalmoplegia, and ataxia in the early phase of COVID-19 should prompt consideration of BBE, thorough evaluation, and timely treatment."
+
+---
+
+## References
+
+1. Koga M. Bickerstaff brainstem encephalitis: epidemiology, diagnosis, and therapy. Nippon Rinsho. 2013;71:898-903.
+2. Ito M, Kuwabara S, Odaka M, Misawa S, Koga M, Hirata K, et al. Bickerstaff's brainstem encephalitis and fisher syndrome form a continuous spectrum: clinical analysis of 581 cases. J Neurol. 2008;255:674-682.
+3. Lucia LA, Pedro TR, Rafael FBR, Maria LGA, Fernando SH. Bickerstaff encephalitis after COVID 19. J Neurol. 2021;268:2035-2037.
+4. Kimura M, Hashiguchi S, Tanaka K, Hagiwara M, Takahashi K, Miyaji Y, et al. Case report: takotsubo cardiomyopathy in Bickerstaff brainstem encephalitis triggered by COVID-19. Front Neurol. 2021;12:1-6.
+5. Rokni M, Ghasemi V, Tavakoli Z. Immune responses and pathogenesis of SARS-CoV-2 during an outbreak in Iran: comparison with SARS and MERS. Rev Med Virol. 2020;30:e2107.
+6. Censi S, Bisaccia G, Gallina S, Tomassini V, Uncini A. Guillain-Barre syndrome and COVID-19 vaccination: a systematic review and meta-analysis. J Neurol. 2024;271:1063-1071.
+7. Ling M, Huijuan J, Mengdie W, Hu Y, Chen S, He Q, et al. Neurologic manifestations of hospitalized patients with coronavirus disease 2019 in Wuhan, China. JAMA Neurol. 2020;77:683-690.
+8. Dmitri B, Kenneth P, Elkhonon G. Multiple neuroinvasive pathways in COVID-19. Mol Neurobiol. 2021;58:564-575.
+9. Carlos Manuel R, Inmaculada D, Eva F, et al. Neurologic manifestations in hospitalized patients with COVID-19: the ALBACOVID registry. Neurology. 2020;95:e1060-e1070.
+10. Zakaria A, Karima SN, Soufiane K, Meryem E, Jamal E, Tarik S. Bickerstaff brainstem encephalitis: a case report. Radiology. 2023;18:2704-2706.

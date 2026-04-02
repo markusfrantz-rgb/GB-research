@@ -1,0 +1,149 @@
+# A Study of Guillain-Barre Syndrome with Reference to Cranial Neuropathy and Its Prognostic Implication
+
+Authors: Amita Bhargava, Basavaraj F Banakar, Guruprasad S Pujar, Shubhakaran Khichar
+Department of Neurology, Dr. Sampurnanand Medical College, Jodhpur, Rajasthan, India
+Journal: Journal of Neurosciences in Rural Practice, 2014 Nov;5(Suppl 1):S43-S47
+DOI: 10.4103/0976-3147.145200
+PMCID: PMC4271381
+
+## Abstract
+
+Background: Prior research has not specifically focused on cranial nerve involvement in Guillain-Barre syndrome (GBS) and its prognostic significance.
+
+Aim: To examine the clinical characteristics of GBS patients with emphasis on cranial neuropathy and prognostic outcomes.
+
+Materials and Methods: The study enrolled 61 GBS patients meeting Asbury Cornblath criteria. Researchers collected demographic and clinical data using a semi-structured questionnaire. All participants underwent comprehensive neurological examination, nerve conduction studies, and cerebrospinal fluid analysis. Treatment followed illness severity protocols, with six-month follow-up monitoring. Analysis compared patients with and without cranial nerve involvement across multiple parameters.
+
+Results: Thirty-eight patients (62.3%) presented with cranial nerve palsies; 25 had multiple involvement and 13 had isolated palsies. Bulbar palsy occurred in 30 (49.2%), facial nerve palsy in 28 (46%), hypoglossal involvement in 6 (10%), and ophthalmoplegia in 4 (6.5%). Respiratory paralysis, IVIg requirements, and ventilatory support showed significant associations with cranial nerve involvement. Complete recovery of cranial nerve dysfunction occurred within three months.
+
+Conclusion: Cranial neuropathy correlates with disease severity in GBS. Cranial nerve-innervated muscles recovered faster than distal limb muscles, though six-month outcomes showed no difference between groups.
+
+Keywords: Bulbar palsy, facial palsy, Guillain-Barre syndrome
+
+## Introduction
+
+Guillain-Barre syndrome represents an acute inflammatory polyradiculoneuropathy characterized by rapidly progressive, symmetric, areflexic flaccid paralysis with albuminocytological dissociation. Global incidence ranges from 0.6 to 4 cases per 100,000 annually. Following poliomyelitis eradication, GBS has become the leading cause of acute flaccid paralysis in India and constitutes a serious neurological emergency affecting all ages with male predominance.
+
+The condition frequently follows nonspecific infections or triggering events including trauma, surgery, or vaccination occurring days to weeks before symptom onset. Clinical diagnosis receives support from electrophysiological characterization identifying three subtypes: acute inflammatory demyelinating polyradiculoneuropathy (AIDP), acute motor axonal neuropathy (AMAN), and acute motor and sensory axonal neuropathy (AMSAN).
+
+Cranial nerve weakness commonly develops in GBS patients, typically manifesting as facial or pharyngeal weakness. Despite the prevalence of cranial involvement, focused literature specifically examining cranial neuropathies in GBS populations remains limited, prompting this investigation into the clinical profile and prognostic implications of cranial nerve involvement.
+
+## Materials and Methods
+
+### Study Population and Data Collection
+
+Researchers enrolled all GBS patients meeting Asbury Cornblath diagnostic criteria admitted or referred between October 1, 2011, and December 31, 2013. The Institutional Ethics Committee approved the study protocol. A semi-structured questionnaire captured demographic information including age, sex, occupation, seasonal factors, preceding illnesses, and disease duration.
+
+### Clinical Assessment
+
+Detailed clinical history and comprehensive neurological examinations were performed. Disability at disease nadir was assessed using the Hughes functional grading scale, with scores <=2 classified as good outcomes and higher scores as poor outcomes. Special attention focused on cranial nerve pathology through systematic daily inquiry and examination for dysphagia, facial asymmetry, diplopia, and dysarthria.
+
+### Investigations
+
+All patients underwent complete hemogram, serum biochemistry, potassium testing, serologies for anti-nuclear antibody (ANA), hepatitis B surface antigen (HBsAg), and human immunodeficiency virus (HIV), urinalysis, cerebrospinal fluid (CSF) analysis, and detailed nerve conduction studies (NCS).
+
+### Electrophysiological Studies
+
+Nerve conduction studies were performed within the second hospitalization week, examining median, ulnar, common peroneal, tibial, and sural nerves using conventional techniques. Classification into AIDP, AMAN, and AMSAN subtypes followed Ho et al. criteria.
+
+### Treatment and Follow-up
+
+Treatment intensity corresponded to illness severity. Intravenous immunoglobulin (IVIg) was administered at 2 g/kg body weight over five days for appropriate candidates. All patients received regular monthly follow-up assessments, with disability recorded using Hughes functional grading and systematic examination for residual cranial nerve deficits.
+
+## Results
+
+### Demographic and Clinical Characteristics
+
+The cohort comprised 61 GBS patients: 44 males (72.1%) and 17 females (27.9%), with 78% from rural backgrounds. Age ranged from 8 to 78 years (mean 34 years), with predominance in the 11-40 year age group. Seasonal variation showed highest incidence during August-November (44.3%).
+
+### Antecedent Events and Presentation
+
+Twenty-nine patients (47.5%) reported antecedent events: upper respiratory illness in 12 (41.3%), acute gastroenteritis in 10 (34.4%), and fever alone in 7 (24.1%). The latent period between preceding illness and symptom onset ranged from 2 to 20 days.
+
+Motor weakness presented in 98% of patients as the most common initial symptom. Subjective sensory complaints occurred in 70% (43 patients): limb pain in 22 (36.1%), paresthesias in 13 (21.3%), backache in 5 (8.2%), and combined symptoms in 3 (5.9%). However, objective sensory loss was documented in only 6 patients (10%).
+
+Respiratory involvement affected 31 patients (51%). Autonomic dysfunction occurred in 27 (44.3%) with manifestations including tachycardia (10), constipation (7), bradycardia (4), excessive sweating (2), and hypertension (2). Bladder involvement was documented in 9 patients (14.8%).
+
+### Atypical Features
+
+Three patients presented with seizures: two secondary to progressive reversible encephalopathy syndrome (PRES) -- one from dysautonomia and one following IVIg therapy -- and one from hypoxic brain injury.
+
+### Electrophysiological Subtypes
+
+Classification revealed AIDP in 37 patients (60.6%), AMAN in 20 (32.8%), AMSAN in 3 (5%), and indeterminate classification in 1 patient.
+
+### Cerebrospinal Fluid Analysis
+
+Cerebrospinal fluid demonstrated albuminocytological dissociation in 49 patients (80%), with protein levels ranging from 48 to 242 mg/dl.
+
+### Disease Severity and Treatment
+
+Ninety-five percent of patients exhibited poor Hughes scores at disease nadir. Intravenous immunoglobulin was administered to 42 patients (69%). Ventilatory support was required by 22 patients (36%), with duration ranging from 2 to 45 days. Two patients died. Hospital stays ranged from 4 to 65 days.
+
+### Outcomes
+
+At one month, only 4 patients (6.5%) achieved good outcome scores (Hughes <=2), with 55 (90%) demonstrating poor scores (Hughes >=3). By six months, among 53 patients completing follow-up (8 lost to follow-up), 38 (74.5%) achieved good outcomes -- able to walk unassisted -- while 13 (25.5%) retained poor outcomes. The most common residual finding at six months was absent ankle reflexes in 25 patients.
+
+### Cranial Neuropathy Findings
+
+Thirty-eight patients (62.3%) presented with cranial nerve palsies: 25 with multiple cranial nerve involvement and 13 with isolated palsies. Among isolated cases, 7 had facial palsy and 6 had bulbar palsy.
+
+Bulbar Palsy: Thirty patients (49.2%) experienced bulbar palsy. Most presented with dysphagia; some had dysphonia. Two required intubation due to copious secretions and were managed with nasogastric feeding. Complete recovery occurred within one month.
+
+Facial Palsy: Twenty-eight patients (46%) presented with facial nerve involvement; all except 3 demonstrated bilateral involvement. Only 4 patients reported altered taste sensation. By one month, 15 showed partial recovery; the remainder achieved complete recovery. By three months, all remaining patients recovered completely.
+
+Other Cranial Nerves: Tongue paralysis occurred in 6 patients (10%). Ophthalmoplegia affected 4 patients (6.5%), with presenting complaint of diplopia; one had complete external ophthalmoplegia while three had partial involvement. One patient presented with bilateral sensorineural hearing loss. All these patients with multiple cranial nerve involvement recovered completely over 1-2 months.
+
+### Comparative Analysis
+
+Significant associations existed between cranial nerve involvement and respiratory paralysis (p<0.05), IVIg requirement (p<0.05), and ventilator support need (p<0.05). Age, sex, antecedent illness, and GBS subtype showed no correlation with cranial nerve involvement presence or absence.
+
+## Discussion
+
+Guillain-Barre syndrome represents an acute-onset, monophasic, immune-mediated polyneuropathy frequently following antecedent infection.
+
+### Cranial Nerve Involvement Frequency
+
+The present study documented cranial nerve involvement in 38 patients (62.3%), aligning with previous literature reporting involvement ranging from 50-75%. The finding that 65% of affected patients experienced multiple cranial nerve palsies suggests systemic rather than isolated insult.
+
+Notably, all patients with cranial nerve palsies demonstrated marked quadriparesis, indicating greater disease severity. Several patients failed to report subjective cranial symptoms despite objective findings -- 10 of 28 facial palsy patients exhibited bilateral mild-to-moderate palsy without complaint -- emphasizing the necessity for dedicated systematic examination.
+
+### Bulbar Palsy
+
+Bulbar palsy represented the most common cranial manifestation at 49.2%, consistent with established literature. Dysphagia predominated among bulbar palsy patients. Management included nasogastric feeding, with intubation indicated in two cases due to excessive secretions. Complete recovery occurred within one month in the follow-up period.
+
+### Facial Palsy
+
+Facial nerve involvement occurred in 28 patients (46%), consistent with literature reporting 45-53% frequency. Bilateral involvement predominated, though 3 patients presented with unilateral palsy -- a rare but documented presentation. Only 4 patients reported altered taste sensation, suggesting proximal facial nerve involvement. Recovery progressed over one month (15 with partial recovery) to three months (all achieved complete recovery).
+
+### Rare Cranial Nerve Involvement
+
+The study identified uncommon manifestations: tongue paralysis in 6 (10%), ophthalmoplegia in 4 (6.5%), and single-case vestibulocochlear nerve involvement. Ophthalmoplegia patients complained of diplopia, with one demonstrating complete external ophthalmoplegia and three partial involvement. The single deafness case showed bilateral sensorineural hearing loss on audiometry -- a rare entity with limited case reports in literature. All these patients with multiple cranial nerve involvement achieved complete recovery over 1-2 months.
+
+### Prognostic Implications
+
+Comparing patients with and without cranial nerve involvement revealed significant associations with respiratory paralysis, IVIg requirements, and ventilator support needs. Bulbar palsy patients frequently experienced concurrent respiratory paralysis, indicating this finding as an important respiratory involvement indicator. Recovery of cranial nerve palsies occurred earlier compared to motor limb deficits.
+
+At six-month follow-up, no difference emerged in outcomes between cranial nerve and non-cranial nerve groups -- 75% of the overall cohort achieved independent ambulation. This aligns with van Koningsveld et al.'s prospective study documenting 82% independent walking at six months.
+
+## Conclusion
+
+Cranial neuropathy represents a common GBS manifestation; systematic investigation yields detection of additional cases and rare cranial nerve pathologies. The study identified a correlation between cranial nerve palsies and illness severity. Bulbar palsy serves as an indicator of concurrent respiratory paralysis. Cranial nerve-innervated muscles demonstrate earlier recovery compared to distal limb muscles. However, no association emerged between six-month outcomes and cranial nerve involvement presence.
+
+## References
+
+1. Hiraga A, Mori M, Ogawara K, Hattori T, Kuwabara S. Differences in patterns of progression in demyelinating and axonal Guillain-Barre syndromes. Neurology. 2003;61:471-4.
+2. Hughes RA, Rees JH. Clinical and epidemiological features of Guillain-Barre syndrome. J Infect Dis. 1997;176(Suppl 2):S92-8.
+3. Hung PL, Chang WN, Huang LT, et al. A clinical and electrophysiologic survey of childhood Guillain-Barre syndrome. Pediatr Neurol. 2004;30:86-91.
+4. Haymaker WE, Kernohan JW. The Landry-Guillain-Barre syndrome. Medicine (Baltimore). 1949;28:59-141.
+5. Hughes RA, Newsom-Davis JM, Perkin GD, Pierce JM. Controlled trial of prednisolone in acute polyneuropathy. Lancet. 1978;2:750-3.
+6. Ho TW, Mishu B, Li CY, et al. Guillain-Barre syndrome in northern China. Relationship to Campylobacter jejuni infection and anti-glycolipid antibodies. Brain. 1995;118:597-605.
+7. Landry J. Note sur la paralysie ascendante aigue. Gaz Hebd Med Chir. 1859;6:472-488.
+8. Guillain G, Barre J, Strohl A. Sur un syndrome de radiculo-nevrite avec hyperalbuminose du liquid cephalorachidien sans reaction cellulaire. Bull Mem Soc Med Hop Paris. 1916;40:1462-70.
+9. Loffel NB, Rossi LN, Mumenthaler M, et al. The Landry-Guillain Barre syndrome. J Neurol Sci. 1977;33:71-9.
+10. Dhadke SV, Dhadke VN, Bangar SS, Korade MB. Clinical profile of Guillain Barre syndrome. J Assoc Physicians India. 2013;61:168-72.
+11. Winer JB, Hughes RA, Osmond C. A prospective study of acute idiopathic neuropathy. J Neurol Neurosurg Psychiatry. 1988;51:605-12.
+12. Kamihiro N, Higashigawa M, Yamamoto T, et al. Acute motor-sensory axonal Guillain-Barre syndrome with unilateral facial nerve paralysis after rotavirus gastroenteritis. J Infect Chemother. 2012;18:119-23.
+13. Verma R, Chaudhari TS, Giri P. Unilateral facial palsy in Guillain-Barre syndrome (GBS): A rare occurrence. BMJ Case Rep. 2012;bcr2012007077.
+14. Takazawa T, Ikeda K, Murata K, et al. Sudden deafness and facial diplegia in Guillain-Barre Syndrome. Intern Med. 2012;51:2433-7.
+15. van Koningsveld R, Steyerberg EW, Hughes RA, et al. A clinical prognostic scoring system for Guillain-Barre syndrome. Lancet Neurol. 2007;6:589-94.

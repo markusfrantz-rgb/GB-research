@@ -1,0 +1,116 @@
+# A Pilot Study on Serial Nerve Ultrasound in Miller Fisher Syndrome
+
+Authors: Hsueh-Wen Hsueh, Kai-Chieh Chang, Chi-Chao Chao, Sung-Tsang Hsieh
+Affiliations: Department of Neurology, National Taiwan University Hospital, Taipei, Taiwan; Department of Neurology, National Taiwan University Hospital Yunlin Branch, Yunlin, Taiwan
+Journal: Frontiers in Neurology. 2020 Aug 14;11:865
+DOI: 10.3389/fneur.2020.00865
+PMCID: PMC7457056
+
+## Abstract
+
+Objective: Miller Fisher syndrome (MFS) is primarily a clinical diagnosis featuring ophthalmoplegia, ataxia, and reduced reflexes. Prior studies of immune-mediated neuropathies suggest ultrasound may detect changes correlating with disease activity. This investigation evaluated serial nerve ultrasound feasibility in MFS using healthy controls.
+
+Methods: Five MFS patients and 18 healthy controls underwent standardized sonography assessing facial, large arm and leg nerves, and spinal nerve roots. MFS patients received routine testing including electrodiagnostics and anti-GQ1b antibody screening. Four patients had repeat evaluations at 14 and 90 days post-onset.
+
+Results: Facial nerve width was significantly larger in MFS patients compared to controls (1.19 +/- 0.31 mm versus 0.67 +/- 0.13 mm, P = 0.01). Cervical roots and limb nerve sizes were similar between groups. Two patients demonstrated facial nerve size reduction over time, with minimal changes in other nerves.
+
+Conclusion: Serial ultrasound in MFS is feasible and can track facial nerve size changes complementing standard diagnostics. Additional research is needed to establish diagnostic utility.
+
+## Introduction
+
+Miller Fisher syndrome represents a Guillain-Barre syndrome (GBS) variant, a post-infectious monophasic neuropathy. GBS incidence ranges from 1.1-1.8 per 100,000 annually. Geographic variation exists in GBS spectrum prevalence, with MFS comprising 18-26% of cases in Asia versus 3-5% in Western nations.
+
+MFS cardinal features include ophthalmoplegia, ataxia, and hyporeflexia. However, limb paresthesia and facial palsy frequently occur in pure MFS, and overlap with other GBS variants can occur. Despite clinical presentation, MFS diagnosis relies heavily on symptomatology and neurological examination, as nerve conduction studies and cerebrospinal fluid analyses typically show nonspecific early findings. Anti-GQ1b antibody positivity occurs in 70-90% of MFS patients but testing requires time and doesn't influence immediate treatment decisions.
+
+Recent morphological sonography studies have complemented classical electrophysiological approaches. Nerve enlargement appears clearly on sonography in entrapment neuropathy, yet GBS sonographic studies remain limited, with MFS investigations particularly scarce. Facial nerve sonography has been explored in Bell's palsy but not previously in MFS.
+
+## Materials and Methods
+
+### Subject Recruitment
+
+The study (201705058RIND) received ethics approval from National Taiwan University Hospital, with informed consent obtained. Researchers applied GBS consensus diagnostic criteria: (1) ophthalmoplegia and ataxia with/without areflexia; (2) monophasic disease with 12 hours-28 days progression to nadir followed by plateau; (3) alternative diagnoses excluded.
+
+MFS patients were recruited between January-December 2018. Inclusion criteria required MFS diagnosis confirmation and ultrasound acceptance. Exclusion criteria encompassed diabetes mellitus, chronic kidney disease, prior Bell's palsy, hereditary disease family history, chronic infection, and toxin exposure.
+
+### Nerve Conduction Studies
+
+Nerve conduction studies employed Nicolet Viking IV Electromyography equipment using standardized laboratory methods. Studied nerves included facial, sural, peroneal, tibial, median, and ulnar nerves (motor and sensory components). Abnormal results comprised reduced compound motor action potentials (CMAPs), reduced sensory nerve action potentials (SNAPs), conduction blocks, prolonged distal latencies, decreased nerve conduction velocity, or prolonged F-wave latency.
+
+Blink reflex studies measured R1 and R2 latencies. Laboratory reference values defined abnormality as ipsilateral R1 latency exceeding 13 microseconds, ipsilateral R2 exceeding 36 microseconds, or contralateral R2 exceeding 38 microseconds. Testing occurred at admission (pre-treatment), 14 days, and 90 days post-initial evaluation.
+
+### Nerve Ultrasound
+
+Ultrasound utilized a 3-12 MHz linear probe with Philips Affinity 70G equipment performed by Dr. Hsueh. Cross-sectional area (CSA) was measured using tracing methods at the nerve's hyperechoic rim inner border. Limb nerve sampling followed departmental protocols: median nerve at wrist, forearm, and elbow; ulnar nerve at wrist, elbow, and arm; radial nerve at spiral groove outlet; tibial nerve at medial malleolus; sural nerve at lateral malleolus.
+
+Cervical roots were measured 2 cm distal to transverse processes at C5, C6, and C7 levels using longitudinal views. Facial nerve measurements occurred transversely beneath the ear lobule inside the parotid gland, measuring maximal width including the hyperechoic border. Mean values of bilateral facial nerves were calculated.
+
+### Statistical Analysis
+
+Numerical variables were expressed as mean +/- standard deviation. Gaussian-distributed data underwent t-test comparison; small samples used Wilcoxon rank sum testing. Categorical data employed Fisher's exact test. Significance threshold was P < 0.05.
+
+## Results
+
+### Clinical, Serological, and Electrophysiological Data
+
+Nineteen GBS-spectrum disorder patients presented at the hospital during 2018; five met MFS criteria. All presented within one week of symptom onset. Average patient age was 53.6 +/- 12.9 years; three were female.
+
+All patients demonstrated ophthalmoplegia, ptosis, and ataxia. Four patients exhibited facial diplegia and hyporeflexia; one showed hyperreflexia but was classified as MFS due to absent hypersomnolence. Cerebrospinal fluid analysis revealed no pleocytosis; two patients had elevated total protein. Electrophysiological study two weeks post-onset showed no abnormalities in CMAP, SNAP, and nerve conduction velocity in limb nerves. Abnormal findings were present in under 50% of patients: A-wave presence in lower limbs (n=2), prolonged F-wave latency in lower limbs (n=1), prolonged R2 latency in blink study (n=1), and reduced facial nerve CMAPs (n=1).
+
+Three patients received intravenous immunoglobulin; two underwent plasmapheresis. Anti-ganglioside antibodies were checked in four patients, with two demonstrating anti-GQ1b IgG antibody positivity.
+
+### Comparison Between MFS and Control Groups
+
+Facial nerve findings: MFS group width measured 1.19 +/- 0.31 mm, significantly larger than controls (0.67 +/- 0.13 mm, P = 0.01).
+
+Cervical roots: Although MFS widths appeared larger, no statistically significant differences emerged between groups at C5, C6, or C7 levels.
+
+Limb nerves: Cross-sectional areas were comparable between groups across all measured locations.
+
+### Serial Follow-Up
+
+All patients demonstrated gradual symptom improvement; abnormal electrophysiological findings improved by three-month follow-up. Four patients underwent serial ultrasound evaluation. Facial nerve size decreased over time in two patients; one remained stable within normal limits at disease onset.
+
+## Discussion
+
+This investigation demonstrated enlarged facial nerve presence in MFS patients, with facial nerve width decreasing parallel to clinical symptom improvement in two patients.
+
+Only one prior MFS ultrasound study existed. In 2015, Decard and colleagues reported two MFS cases with vagus nerve, spinal nerve, and peripheral nerve enlargement that improved within two weeks concurrent with clinical improvement. Cervical root enlargement in MFS may indicate nerve involvement beyond brain and cranial nerves, potentially explaining generalized hyporeflexia.
+
+Unlike prior studies, this investigation evaluated facial nerves specifically. Spinal nerve size showed no significant differences between groups, contrasting with Decard's findings. Potential explanations include patient characteristics differences.
+
+Magnetic resonance imaging occasionally reveals cranial nerve enhancement in MFS but lacks resolution for quantitative nerve enlargement assessment. Ultrasound enables such quantification. Bell's palsy studies documented facial nerve enlargement by ultrasound. This represents the first demonstration of facial nerve ultrasound use in GBS-spectrum disorders.
+
+In GBS, enlargement appears in various nerve regions and subsides parallel with clinical symptom improvement. Several GBS studies reported cervical spinal nerve enlargement in early phases. However, nerve enlargement in GBS appears smaller than in CIDP, suggesting different pathogenic mechanisms.
+
+Facial nerve enlargement pathogenesis may relate to nerve edema or "onion-bulb" formation. Since remyelination requires time, early enlargement and improvement within months in GBS-spectrum disorders likely relate to edematous changes rather than "onion-bulb" formation.
+
+### Study Limitations
+
+1. Facial palsy isn't MFS's cardinal feature; only one patient lacked facial palsy.
+2. Sonography was performed by a single unblinded operator.
+3. The relatively low 3-12 MHz frequency range probe provided inferior resolution for superficial structures.
+4. The study lacked disease control groups assessing facial nerve enlargement specificity to MFS.
+5. Small, heterogeneous patient sample with some GBS overlap limits generalizability.
+
+## Conclusion
+
+Sonography revealed enlarged facial nerves at MFS onset, decreasing three months after disease onset. Further validation is needed to establish nerve ultrasound as an objective MFS evaluation tool.
+
+## References
+
+1. Wakerley BR, Uncini A, Yuki N. Guillain-Barre and Miller Fisher syndromes--new diagnostic classification. Nat Rev Neurol. 2014;10:537-44.
+2. Aranyi Z, Csillik A, Devic P, et al. Ultrasonographic identification of nerve pathology in neuralgic amyotrophy. Ann Neurol. 2015;78:795-805.
+3. Decard BF, Fladt J, Grzybowski A, et al. Nerve ultrasound in Miller Fisher variant of Guillain-Barre syndrome. Muscle Nerve. 2015;52:1106-10.
+4. Various additional references (32 total) as published in original article.
+
+## Data Availability
+
+Datasets generated for this study are available upon request from the corresponding author.
+
+## Ethics Statement
+
+Studies involving human participants received ethics committee approval from National Taiwan University Hospital. Patients provided written informed consent.
+
+## Conflict of Interest
+
+Authors declare research was conducted without commercial or financial conflicts of interest.

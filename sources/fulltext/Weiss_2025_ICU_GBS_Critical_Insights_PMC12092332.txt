@@ -1,0 +1,325 @@
+# Critical Insights for Intensivists on Guillain-Barre Syndrome
+
+Authors: Nicolas Weiss, Clemence Marois, Loic Le Guennec, Benjamin Rohaut, Sophie Demeret
+Affiliations: Sorbonne Universite, AP-HP.Sorbonne Universite, Hopital de la Pitie-Salpetriere, Paris, France
+Journal: Annals of Intensive Care. 2025 May 21;15:67
+DOI: 10.1186/s13613-025-01464-w
+PMCID: PMC12092332
+
+## Abstract
+
+Guillain-Barre Syndrome (GBS) represents the predominant cause of acute flaccid tetraplegia internationally, affecting approximately 1-2 cases per 100,000 people per year. This immune-mediated polyneuropathy typically follows infections or immunological triggers, including vaccinations. Three electrophysiologically-distinct subtypes exist: acute inflammatory demyelinating polyneuropathy (AIDP), acute motor axonal neuropathy (AMAN), and acute motor sensory axonal neuropathy (AMSAN). Pathophysiology involves molecular mimicry between microbial antigens and nerve structures, particularly gangliosides and myelin proteins. Diagnosis relies primarily on clinical history, supplemented by lumbar puncture and electroneuromyography to confirm subtype differentiation. Treatment encompasses intravenous immunoglobulins or therapeutic plasma exchange alongside symptomatic management, including mechanical ventilation when necessary. Prognosis remains generally favorable with mortality rate < 5% overall, though neurological sequelae may occur. Current research explores complement-targeted therapies and neurofilament light chain biomarkers for enhanced prognostication and management strategies.
+
+Keywords: Guillain-Barre syndrome, Miller-Fisher, Acute polyradiculoneuritis, Bickerstaff encephalitis
+
+## Introduction
+
+GBS constitutes the leading cause of acute flaccid tetraplegia worldwide, with an incidence of approximately 1-2 cases per 100,000 inhabitants per year. The syndrome demonstrates slightly elevated incidence in males and increases with age, though occurrence at any age remains possible. This immune-mediated polyneuropathy frequently follows infectious episodes or immunological events such as vaccination. Diagnosis depends principally on anamnesis and clinical evaluation, with lumbar puncture and electroneuromyogram (ENMG) utilized to eliminate alternative diagnoses. ICU admission becomes necessary in respiratory failure scenarios (30% of cases, with 20% requiring mechanical ventilation), swallowing impairment, or dysautonomia manifestations (10% of cases). Therapeutic options include intravenous immunoglobulins or therapeutic plasma exchange, combined with supportive intervention. Long-term prognosis demonstrates favorability, with mortality under 5%, although neurological consequences occasionally emerge.
+
+Historical documentation suggests Landry partially described this syndrome in 1859, though definitive characterization occurred in 1916 by Guillain, Barre, and Strohl, whose description encompassed clinical presentation, albumin-cytological dissociation, and electrophysiological findings, distinguishing GBS from infectious neuropathies like acute anterior poliomyelitis.
+
+GBS classically divides into three categories: AIDP, AMAN, and AMSAN.
+
+## Section 1: Triggering Events
+
+Physicians recognized temporal association between symptom emergence and recent infections, indicating abnormal immune response activation. Medical documentation and serological evidence demonstrate that two-thirds of GBS cases are preceded by an acute infectious event.
+
+### Primary Infectious Triggers
+
+Campylobacter jejuni represents the most frequently identified infectious agent, particularly in Asia, where it accounts for about half of the cases. Additional bacterial triggers include Mycoplasma pneumoniae and Haemophilus influenzae. Viral agents include cytomegalovirus, Epstein-Barr virus, Influenza-A virus, Hepatitis E virus, and arboviruses (Chikungunya, Dengue, and Zika viruses).
+
+Well-designed case-control studies have conclusively associated six infectious agents with GBS: Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, Hepatitis E virus, Mycoplasma pneumoniae, and Zika virus. Reports document GBS following SARS-CoV-2 infection.
+
+### Vaccination-Related Cases
+
+GBS has appeared post-vaccination, particularly following Semple-type rabies vaccine and various influenza vaccines, with incidence of approximately 1 case per 100,000 vaccinations. However, the risk of GBS following influenza vaccination is lower than after an influenza infection.
+
+Cases have emerged after Human Papilloma virus, measles, mumps, rubella, meningococcus, and SARS-CoV-2 vaccinations. Global mass vaccination campaigns must be considered contextually. Overall, vaccination protection against GBS-causing infections surpasses development risk.
+
+### Alternative Triggers
+
+Other precipitating factors include immunotherapies (anti-tumor necrosis factor, type I interferons, immune checkpoint inhibitors), chemotherapies (platin salts, brentuximab), surgical procedures, and traumatic brain injury.
+
+## Section 2: Pathophysiology
+
+GBS classification rests upon electrophysiological findings distinguishing AIDP, AMAN, and AMSAN subtypes. AMAN and AMSAN pathophysiology involve molecular mimicry between infectious agent epitopes and nerve structures.
+
+### Antibody-Mediated Mechanisms
+
+IgG antibodies targeting gangliosides -- particularly GM1 and GD1a at Ranvier nodes -- characterize these subtypes. Animal models demonstrate that immunizing against gangliosides induces GBS-like symptoms, establishing high homology between nerve surface gangliosides and glycan structures of infectious agents. This molecular mimicry hypothesis demonstrates particular documentation for Campylobacter jejuni.
+
+### Complement Pathway Involvement
+
+The complement pathway, initiated by C1q binding, plays a crucial role, with C3 fragment deposition being more pronounced in GBS patients than in healthy controls.
+
+### Pathological Features
+
+Although neuromuscular biopsy remains unnecessary for diagnosis, pathological examination reveals complement deposition and macrophage infiltration in AIDP, AMSAN, and AMAN cases, with T lymphocytes commonly present in AIDP. Myelin degradation in AIDP produces conduction velocity reductions, while functional blockades characterize AMAN and AMSAN, disrupting nerve impulses through Na+/K+ ATPase blockade at Ranvier nodes.
+
+### Genetic and Individual Factors
+
+While molecular mimicry constitutes a fundamental GBS pathophysiology component, genetic predispositions remain largely unexplored. Only minority populations developing Campylobacter jejuni infection progress to GBS, with specific strains linked to outbreaks. Although most patients experience single GBS episodes, 2-5% may have recurrent episodes.
+
+### Nodal-Paranodal Antibodies
+
+Recent investigations implicate antibodies targeting node of Ranvier or paranode antigens in GBS and treatment-resistant chronic inflammatory demyelinating neuropathies (autoimmune nodo-paranodopathies). Notably, some initially presented with acute clinical patterns resembling GBS. Experts hypothesize that certain treatment-resistant GBS cases may associate with antibodies against neurofascin or contactin proteins.
+
+### Secondary Axonal Degeneration
+
+Despite spontaneous patient recovery, irreversible damage can occur due to secondary axonal degeneration, resulting from persistent blockades or prolonged axonal denudation.
+
+## Section 3: Clinical Presentation
+
+### Classical Presentation
+
+GBS typically manifests as rapidly progressing, ascending symmetrical sensorimotor deficit evolving through three phases: progression, plateau, and recovery.
+
+Initial presentation frequently involves sensory disturbance (paresthesia, ataxia, radicular pain) in lower limbs, gradually ascending to upper limbs over days -- rarely hours -- followed by motor deficits. Tendon reflexes progressively diminish and eventually disappear. Radicular and lumbar pain frequently occur, potentially complicating initial diagnosis.
+
+The progression phase lasts, by definition, under four weeks, typically less than two weeks in 80% of cases, distinguishing GBS from subacute or chronic neuropathies requiring extensive evaluation.
+
+### Severe Manifestations
+
+Peak disease intensity can produce tetraplegia, facial paralysis, pharyngeal and laryngeal muscle involvement, resulting in impaired swallowing and aspiration risk. Respiratory muscle involvement precipitates respiratory failure, necessitating mechanical ventilation.
+
+Dysautonomia, characterized by blood pressure and pulse lability, commonly occurs. Manifestations include cardiac arrhythmias, blood pressure instability, urinary retention, or functional ileus. Dysautonomia appears more frequent in severe cases but occasionally presents as primary feature with minimal sensorimotor impairment.
+
+### Incidence of Serious Complications
+
+Overall, 20% of patients require mechanical ventilation, and 10-20% experience significant dysautonomia during the acute phase. Some patients endure severe pain resistant to multiple analgesics, while others primarily experience ataxia.
+
+### Plateau and Recovery Phases
+
+The plateau phase follows, during which symptoms stabilize, potentially lasting days to weeks, or months in severe ICU cases with severe tetraplegia or locked-in syndrome. Recovery extends over subsequent months.
+
+### Atypical Presentations
+
+Atypical GBS manifestations have been described, including Miller-Fisher syndrome, characterized by ophthalmoplegia, ataxia, and areflexia. This variant associates with positive anti-GQ1b antiganglioside antibodies and may progress to typical GBS presentation.
+
+Bickerstaff's brainstem encephalitis combines GBS-like symptoms with altered consciousness, representing a very rare entity. Direct anti-GQ1b antibody action on ascending reticular activating system in brainstem may explain this phenomenon. When altered consciousness appears in GBS patients, hyponatremia or posterior reversible encephalopathy syndrome secondary to extreme blood pressure fluctuation should be considered.
+
+## Section 4: Diagnosis
+
+GBS diagnosis remains primarily clinical, with lumbar puncture and ENMG confirming diagnosis and excluding alternative diagnoses.
+
+### Diagnostic Criteria
+
+The National Institute of Neurological Disorders and Stroke (NINDS) established first diagnostic criteria in 1978. An international expert committee updated these in 2011 at Brighton to standardize epidemiological and pharmacovigilance studies. Notably, neither NINDS nor Brighton criteria mandate additional diagnostic tests for "probable GBS" diagnosis, though Brighton criteria incorporate lumbar puncture and ENMG results confirming "definite GBS."
+
+### Lumbar Puncture
+
+Lumbar puncture's primary purpose involves excluding alternative diagnoses (Lyme disease, varicella-zoster virus infection, and other infections). Absent diabetes mellitus or spinal compression, albumin-cytological dissociation -- characterized by elevated protein levels with fewer than 10 cells per uL -- is highly indicative of an inflammatory polyradiculitis.
+
+However, albumin-cytological dissociation may be absent in up to 50% of cases during the first week of symptom onset and in 10-30% of cases during the second week. Mild cellular response occasionally occurs, though cell counts rarely exceed 50 per uL. Pleocytosis between 10-50 cells per uL warrants further investigation, potentially suggesting alternative diagnosis.
+
+Lumbar puncture proves particularly crucial when bilateral facial palsy or cutaneous vesicular eruption exists, potentially indicating Lyme disease or varicella-zoster virus infection. Normal CSF analysis does not necessitate repetition if diagnosis otherwise confirms.
+
+### Electroneuromyogram
+
+ENMG can initially yield normal results if performed early after symptom onset. When abnormal, ENMG confirms GBS diagnosis and distinguishes subtypes. Nerve conduction abnormalities peak approximately two weeks after symptom onset. If first-week ENMG appears normal, second testing approximately one week later should occur.
+
+Typically, ENMG examines all four limbs, encompassing at least four motor nerves and three sensory nerves, plus H reflexes and F waves. AIDP shows increased distal motor latencies, decreased conduction velocities, prolonged F wave latencies, temporal dispersion, and conduction block. AMAN demonstrates reduced motor wave amplitudes, while AMSAN presents decreased amplitudes in motor and sensory waves. Some AMAN and AMSAN cases exhibit conduction block.
+
+ENMG's diagnostic importance and differential diagnosis value exist; however, performance should not delay immunomodulatory treatment initiation upon clinical suspicion. Performing ENMG twice accurately differentiates subtypes, as initial testing can prove inconclusive. In ICU settings, ENMG may face compromises from artifacts precluding correct analysis.
+
+### Additional Examinations
+
+Beyond EMG and lumbar puncture, spinal cord MRI assumes importance when spinal cord lesions appear suspected. Anti-ganglioside antibody measurement carries limited diagnostic value due to analysis kit variability, delayed results (several weeks), and low European positivity rates. However, their presence in Miller-Fisher syndrome provides significant diagnostic clues.
+
+Infectious disease serologies offer epidemiological insights but prove unnecessary for diagnosis. Cultures or PCR provide limited utility given the post-infectious disease nature.
+
+Recommended minimal etiological work-up includes complete blood count, electrolytes with creatinine, HbA1c, B12 and folate levels, HIV serology, and serum protein electrophoresis with immunofixation. Atypical presentation or nitrous oxide consumption warrants homocysteine and methylmalonic acid measurement.
+
+### Emerging Diagnostic Tools
+
+Asymmetrical presentation or very acute onset (< 12 hours) may necessitate cerebral or spinal MRI ruling out stroke. Preliminary studies suggest nerve sonography could help in the diagnosis, as GBS patients often show enlarged nerve roots and trunks compared to controls.
+
+Elevated levels of neurofilament light chains have been observed in GBS patients, with their increase potentially correlating with disease severity and prognosis.
+
+### Differential Diagnosis
+
+Main differential diagnoses include infectious and inflammatory myelitis and myeloradiculitis. Sensory level presence and early bladder sphincter dissynergia without pyramidal syndrome suggest spinal cord lesion. Varicella-zoster virus or Lyme disease-caused infectious myeloradiculitis presents similarly. Vesicular lesions in specific varicella-zoster dermatomes or Lyme disease facial diplegia prove highly suggestive. Lumbar puncture assists diagnosis establishment.
+
+Acute inflammatory neuropathy occurs with HIV seroconversion, though typically developing subacutely over four weeks and associating with meningitis on lumbar puncture.
+
+Inflammatory neuropathies linked to systemic diseases, malignant hemopathies, or sarcoidosis present acutely. Thorough anamnesis and etiological work-up prove crucial.
+
+Historical psychiatric symptoms, depression, or abdominal pain -- especially with dark urine -- suggest porphyria in axonal neuropathy cases. Brainstem stroke typically poses no true differential diagnosis, as onset pattern (sudden versus progressive) and brain MRI findings differentiate readily.
+
+Diabetic or alcoholic neuropathies occasionally present acutely, mimicking GBS. Additional differential diagnoses appear in Table 2.
+
+### Acute-Onset CIDP
+
+Approximately 5% of patients initially diagnosed with GBS are finally diagnosed as having acute-onset chronic inflammatory demyelinating polyradiculoneuropathy. This distinction proves important since treatment strategy differs slightly (repeated IV-Ig administration or corticosteroid use). Progression exceeding eight weeks typically characterizes this condition; major and minor features differentiate it from GBS.
+
+## Section 5: Complications
+
+### Dysautonomia
+
+Between 10% and 50% of GBS patients experience dysautonomia due to autonomic nervous system involvement, depending on diagnostic criteria employed. Other hypotension or cardiac arrhythmia causes -- such as nosocomial infection-related sepsis, bleeding, or pulmonary embolism -- must first be excluded.
+
+Dysautonomia symptoms include blood pressure fluctuations, cardiac arrhythmias, ileus, and urinary retention. Most common manifestations are sinus tachycardia, elevated blood pressure, and blood pressure instability.
+
+Unfortunately, consensus dysautonomia definition in GBS lacks specificity, with no standardized assessment recommendations. Some authors propose systolic blood pressure variation exceeding 85 mmHg daily without confounding causes suggests dysautonomia, considered more sensitive than previously proposed 40-50 mmHg thresholds. Blood pressure instability and tachycardia patients face higher cardiac arrhythmia risk, particularly asystole.
+
+While dysautonomia may occur in mild GBS, the risk appears more prominent in severe cases presenting with tetraplegia, respiratory impairment, and swallowing difficulties during the ascending or plateau phase. 23% of GBS patients have a heart rate above 100 beats per minute, rising to 75% among those requiring mechanical ventilation.
+
+Minimal stimulation triggers severe dysautonomia, particularly bradycardia. Severe cases experience profound symptoms from tracheal suctioning, intubation, mouth care, or bathing. Some teams maintain intravenous atropine availability. Conservative management proves generally preferred beyond severe bradycardia. Antihypertensive drugs or antiarrhythmics carry risk unless absolutely necessary. Pacemakers rarely warrant indication.
+
+Ileus presents frequent complications, potentially causing functional bowel obstruction. Maintaining normal potassium and avoiding sedatives proves advisable. Posterior reversible encephalopathy syndrome due to extreme blood pressure fluctuation is possible (7% of dysautonomic patients), and may be exacerbated by IV immunoglobulin treatment. Takotsubo cardiomyopathy represents another rare life-threatening complication, probably enhanced by dysautonomia through sympathetic nervous system activation and catecholamine elevation.
+
+### Hyponatremia: Salt-Wasting Syndrome or Inappropriate Antidiuretic Hormone Secretion
+
+Hyponatremia's exact GBS mechanism remains debated. Certain experts suggest salt-wasting syndrome primarily causes hyponatremia. Recent pathophysiological investigation proposed this might link to altered adrenal gland autoregulation from autonomic nervous system dysfunction, requiring further confirmation. Intravenous immunoglobulin contributes to hyponatremia through serum protein elevation, potentially causing pseudohyponatremia.
+
+Clinically, hyponatremia typically responds to sodium chloride administration -- intravenously or orally -- with dosage adjustment based on urinary sodium losses. Hyponatremia exacerbation of neurological symptoms warrants recognition.
+
+### Vivid Dreams
+
+GBS patients occasionally experience altered sleep with depersonalization, described as vivid dreams, sometimes misdiagnosed as delirium. These symptoms may face underdiagnosis, particularly in mechanically ventilated severe patients experiencing communication difficulties. When mechanically non-ventilated patients report such complaints, ICU transfer consideration might arise, as these symptoms could associate with dysautonomia and more severe illness.
+
+## Section 6: Treatment Strategies
+
+### Specific Treatments
+
+Treatment strategies have received extensive documentation, summarized through Cochrane reviews. The European Academy of Neurology recently published comprehensive guidelines. Standard care involves immunotherapy administration -- either therapeutic plasma exchange (TPE) or intravenous immunoglobulins (IV-Ig) -- for ascending phase patients, ideally within initial two weeks.
+
+#### Therapeutic Plasma Exchange
+
+TPE received validation as GBS treatment during the 1980s, with multiple randomized controlled trials demonstrating improved patient proportions achieving independent walking without aid at one month compared to placebo. Studies indicated four TPE sessions sufficed -- superior to six even in severe mechanically ventilated patients. Research confirmed two TPE effectiveness in mild GBS patients. Fresh frozen plasma replacement proved inferior to albumin and crystalloids while showing increased side-effects.
+
+Bleeding risk, infection, and severe cardiovascular instability represent classical TPE counter-indications meriting discussion. European Academy of Neurology guidelines recommend performing 4-5 TPE sessions over one to two weeks for total exchanged volumes of 12-15 liters in severe ICU forms.
+
+#### Intravenous Immunoglobulins
+
+During the 1990s, randomized controlled trials comparing IV-Ig with TPE found no significant difference in the primary outcome of patients being able to walk without aid at one month. Recommended dosing for patients unable to stand comprises 0.4 grams per kilogram daily for five days. Rapid administration (two days versus five days) might associate with more treatment-related fluctuations, requiring discouragement.
+
+Recently, the Erasmus group conducted randomized, double-blinded, placebo-controlled trials testing second-course IV-Ig efficacy (2 grams/kilogram over five days, administered 7-9 days after initial course) in poor-prognosis patients (modified Erasmus Guillain-Barre Syndrome Outcome Score >= 6). This trial including 93 patients demonstrated no primary outcome significance (Guillain-Barre Syndrome disability score at four weeks post-inclusion) or outcome measures, though second courses associated with more frequent thromboembolic complications.
+
+Current clinical practice favors single IV-Ig courses, as administration by non-specialized teams avoids TPE's specialized equipment requirements. Nevertheless, TPE shows promise in immune para-nodopathy treatment-resistant patients. Limited data suggest IV-Ig potential for mechanical ventilation duration reduction.
+
+#### Treatment Modifications and Switching
+
+Recurring ICU discussions address whether mechanically ventilated patients should receive second IV-Ig courses or switch from IV-Ig to TPE or TPE to IV-Ig for insufficient/no response after one month. This question receives insufficient literature addressing, though guidelines recommend against alternative treatments, not recommending immediate IV-Ig following TPE. One RCT comparing TPE, IV-Ig, and IV-Ig started after final TPE found no outcome differences; experts consider TPE efficacy after IV-Ig should not differ, given similar IV-Ig and TPE effectiveness.
+
+#### Treatment-Related Fluctuations
+
+Cases initially improving or stabilizing with treatment subsequently deteriorating manifest treatment related fluctuations, present in approximately 10% of GBS patients according to one study. These fluctuations might benefit from re-treatment with IV-Ig or TPE per observational studies (no RCTs available).
+
+#### Corticosteroids
+
+Multiple well-designed studies assessing corticosteroid effectiveness -- administered orally or intravenously -- consistently demonstrated no beneficial effects. Some prospective studies suggested potential harm with symptom worsening when corticosteroids were used. Consequently, corticosteroids lack recommendation for GBS treatment.
+
+### Symptomatic Treatments
+
+Beyond specific treatments, managing respiratory failure, alleviating pain, addressing dysautonomia, and preventing decubitus complications proves crucial.
+
+#### Mechanical Ventilation
+
+**Need for mechanical ventilation:**
+
+Multiple studies suggest delayed mechanical ventilation (MV) association with increased morbidity, including aspiration pneumonia and cardio-respiratory arrest. However, a recent monocentric randomized trial including 55 patients found no difference in the incidence of pneumonia between patients with early VM and those with delayed VM.
+
+Although mechanical ventilation criteria historically rested on expert opinion and small retrospective studies, recent larger-scale investigations established robust criteria. A large French retrospective study identified six independent predictive risk factors for the need for MV: inability to cough (OR 9.09), inability to abduct shoulder to horizontal (OR 2.99), neck flexion weakness (OR 4.34), GBS disability grade >= 4 (wheelchair bound or bedridden) (OR 2.53), a delay of less than 7 days between symptom onset and hospital admission (OR 2.51), and liver cytolysis (OR 2.09). Four criteria presence associated with 85% mechanical ventilation requirement.
+
+The EGRIS (Erasmus GBS Respiratory Insufficiency Score) and mEGRIS (modified EGRIS) scores, validated on international cohorts, assess respiratory failure risk within first admission week, considering onset-to-admission timing, bulbar involvement, and MRC score. Clinically, assessing head-off-bed lifting capacity and forced vital capacity performs commonly. Single breath count (patient maximal inspiration counting without breathing resumption) approximates this assessment. Head-lifting inability and apneic counts below 15 prove advantageous mechanical ventilation need markers.
+
+Forced vital capacity below 20 milliliters per kilogram or 50% declines within 24 hours constitute strong prognostic factors indicating advanced diaphragmatic dysfunction requiring prompt intubation. Pulse oximetry rarely assists, as oxygen desaturation typically occurs late in restrictive respiratory insufficiency. Diaphragmatic muscle action potential amplitude exploration showed disappointing ventilation-need prediction results.
+
+For intubation, significant dysautonomia presence should favor non-hypotensive induction agents.
+
+Non-invasive ventilation (NIV) typically faces contraindication with swallowing disorders, bilateral facial paralysis, or ineffective cough. NIV thus proves inappropriate for GBS given rapid respiratory function improvement lack within hours. However, preoxygenation application may occur.
+
+**Timing of tracheostomy:**
+
+Mechanical ventilation duration often extends, with median times estimated between 21-28 days. Foot flexion ability absence at immune therapy conclusion was proposed as beneficial bedside prolonged mechanical ventilation duration predictor in one study. A 212-patient ICU hospitalized cohort study (2001-2011) indicated 22 patients (10%) required mechanical ventilation exceeding two months, averaging three months from tracheostomy decannulation. Prolonged ventilation risk factors include motor deficit severity, axonal involvement severity on ENMG, advanced age, and lung disease history.
+
+Without robust data, tracheostomy consideration seems reasonable in patients remaining ventilator-dependent after two weeks with multiple failed weaning trials, and patients experiencing at least one failed extubation. Conscious patient tracheostomy advantages include greater comfort, earlier and safer chair mobilization, improved oral hygiene, facilitated communication, and superior swallowing and bulbar function assessment during weaning. Tracheostomy enables gradual respiratory assistance discontinuation while maintaining cannula placement until adequate secretion clearance restoration.
+
+Persistent laryngeal sensory deficit causing dysphagia might contribute to delayed decannulation.
+
+**Mechanical ventilation weaning:**
+
+Ventilation weaning consideration follows general clinical improvement initiation, usually after etiological treatment (intravenous immunoglobulins or TPE) conclusion. Weaning modalities rely primarily on expert opinion, as available studies remain limited, often monocentric, retrospective, and small, or excluded GBS patients.
+
+Generally, pressure ventilation modes should gain favor once patient tolerance occurs, with gradual inspiratory support level decreases. For severe GBS, this may require several days or weeks. These patients face elevated atelectasis risk, with some centers favoring daytime pressure ventilation and nighttime volume ventilation.
+
+Conventional weaning criteria (hemodynamic, respiratory, neurological) prove necessary but insufficient for neuromuscular patient successful extubation prediction. Effective cough, low secretions, absent ongoing respiratory infection, and head-off-bed lifting capacity prove necessary extubation and weaning trial initiation prerequisites.
+
+Multiple studies used forced vital capacity for weaning guidance, measurements easily performed on recent ventilator models. Some evidence suggests SBTs consideration when forced vital capacity exceeds 15 milliliters per kilogram or increases 4 milliliters per kilogram from pre-intubation values. Another study proposed weaning initiation at 7 milliliters per kilogram with progressively prolonged SBTs, then extubation when forced vital capacity exceeded 15 milliliters per kilogram and patients breathed freely 24 consecutive hours. Certain authors recommend pressure measurement consideration, suggesting SBT performance only when maximal inspiratory pressure exceeds -20 centimeters H2O and/or maximal expiratory pressure exceeds +40 centimeters H2O.
+
+Progressive SBT duration increases over days and prolonged SBT trials exceeding two hours better assess respiratory muscle fatigue. However, ideal trial duration remains undetermined, ranging 2-24 hours, averaging 6-8 hours proposed. SBTs undergo repeated administration with progressively increasing duration.
+
+No preferred SBT type data exists. However, prolonged cuff-inflated T-piece SBTs risk tube obstruction, favoring ZEEP (zero end-expiratory pressure) use. Once inspiratory muscles ensure normal ventilation (respiratory rate, tidal volume, end-tidal carbon dioxide, PaO2/FiO2 ratio) during prolonged cuff-inflated SBTs, secretion drainage function assessment might progress through progressively longer cuff-deflated T-piece SBTs, extending 6-8 hours if necessary. This technique also tests bulbar dysfunction imperfectly.
+
+Extubation failure frequently relates to secretion clearance inability; patients intolerant of deflated cuffs unable clearing secretions face elevated extubation failure risk. Extubation failures have correlated with pneumonia presence or persistent dysautonomia.
+
+Non-invasive ventilation or high-flow oxygen therapy post-extubation application remains unstudied in this population but could represent interesting techniques for several hours post-extubation in atelectasis-risk patients.
+
+#### Pain Management
+
+Pain management proves challenging through sensory nerve involvement producing significant pain, paresthesia, radiculalgia, and low back pain. Limited treatment options exist. A Cochrane review summarizing three RCT data involving 277 GBS patients yielded negative results, though gabapentin might demonstrate slight acute-phase effectiveness, and carbamazepine may assist long-term. Common practice employs antiseizure medications for neuropathic pain, particularly gabapentin and pregabalin.
+
+Paracetamol poses problems through possible initial GBS phase mild liver enzyme elevation. Occasionally, level 2-3 analgesics prove necessary, though results show inconsistency and potential deleterious side-effects, particularly ileus. Local anesthetics like lidocaine 5% plaster might be attempted with low adverse-effect risk. Dysautonomia presence requires certain medication caution (tricyclic antidepressants such as amitriptyline).
+
+#### Maintain Effective Communication and Psychological Support
+
+Effective communication maintenance proves crucial for patient care and management. Most severe motor impairment patients may develop locked-in syndrome. Advanced communication interfaces utilizing visual tracking, subtle movement detectors, or neurophysiological signals controlling computers serve as essential communication aids, enabling patient need, symptom, and concern expression despite conventional communication impossibility, maintaining healthcare provider and family connection, and reducing psychological condition burden.
+
+GBS ICU management contexts render these communication aids invaluable for complication early detection and patient-specific symptomatic treatment tailoring. Early hospitalization psychological disorder screening and treatment through multidisciplinary approaches prove essential. Anxiety indeed associates with weakness, bulbar dysfunction, and respiratory failure in these patients.
+
+#### Prevention of Further Complications
+
+Decubitus prevention proves essential. Proper patient positioning prevents equinus varus -- a deformity potentially requiring tenotomy fixing. Early physiotherapist-directed mobilization and positioning prove crucial for contracture and osteoma development prevention, though not GBS-specific.
+
+Blood sugar level control through appropriate insulin therapy protocol proves important. Hyperglycemia occurrence correlates with poorer mechanically ventilated GBS patient intensive-care discharge outcomes. Several studies suggest exercise programs improve functional mobility, cardiopulmonary function, isokinetic muscle strength, work rate, and fatigue reduction in GBS patients. Multidisciplinary rehabilitation recommendation stands, though ICU-related limited patient participation creates challenges.
+
+#### Therapeutic Perspectives
+
+No significant progress has occurred in GBS treatment and management since the 1990s. Complement activation-blocking strategies using eculizumab -- inhibiting C5 cleavage into C5a and C5b and thus final complement cascade activation -- showed animal study promise. However, only two small phase 3 human studies tested these strategies. First studies included eight patients (five eculizumab, three placebo). Second studies involved 34 patients (23 eculizumab, 11 placebo). Unfortunately, both studies failed primary endpoint achievement (independent walking at one month).
+
+A recent phase 3 RCT comparing eculizumab as IV-Ig add-on therapy versus placebo included 57 severe GBS patients (37 eculizumab, 20 placebo) but failed nevertheless to demonstrate any effect on primary or secondary outcomes. Blockade of the complement cascade before the final activation of the complement cascade might be another strategy.
+
+## Section 7: Outcome
+
+Despite favourable outcome general perception, 16% of severe cases admitted to the ICU remain unable to walk independently at one year, and about 30% still experience chronic pain. Only 50% achieve independent walking recovery at six months with established standard care.
+
+Two-thirds of GBS patients experienced ICU stay complications. Main complications include ventilator-associated pneumonia (30-78% of patients), acute respiratory distress syndrome (26%), septic shock (22-24%), ileus and/or bowel perforation (17%), pulmonary embolism (7%), gastrointestinal hemorrhage (7%), acute renal failure (4%), or tracheostomy complications (4%).
+
+Overall GBS mortality remains relatively low, around 3-5% mainly from ICU complications. However, retrospective cohort mortality among dysautonomia patients proved three times higher (6% versus 2%).
+
+### Prognostic Factors
+
+The most important factor being associated with poor outcome in the literature is the abnormal mean amplitude of compound muscle action potential on ENMG. Others include older age, disease onset-to-hospitalization timing of seven days or less, and ventilatory support necessity.
+
+The mEGOS (modified Erasmus GBS Score) might assess prognosis, incorporating disease onset age, diarrhea preceding GBS presence, and day-seven admission MRC score. Elevated plasma levels of neurofilament light chains may serve as an early surrogate marker for long-term outcomes in the future.
+
+Recent neurocritical care society guidelines suggest considering complete clinical condition rather than single variables during prognostication. For prolonged ventilation patients -- especially elderly -- ethical care intensity discussions may sometimes prove necessary, centering on patient wishes.
+
+### Psychological Burden and Economic Impact
+
+Beyond physical disabilities, these patients frequently experience psychological burdens, including frequent post-traumatic stress disorder (PTSD) even years after their ICU stay. GBS constitutes significant economic burden through prolonged ICU stays (often several months), extended rehabilitation periods, and ongoing specialized care and unemployment compensation support.
+
+There exists a critical unmet medical need for improved management of the most severe GBS patients.
+
+## Conclusion
+
+GBS persists as significant clinical challenge through varied presentation, complex pathophysiology, and severe complication potential. Although appropriate management offers generally favorable prognosis, long-term neurological sequelae potential emphasizes early diagnosis and treatment importance.
+
+While immunotherapies like IV-Ig and TPE comprise treatment mainstays, recent disease molecular mechanism understanding advancements offer novel therapeutic approach hope. However, respiratory failure and dysautonomia complication management current options demand meticulous care and tailored interventions. As research continues unraveling GBS intricacies, new etiology and pathophysiology insights may advance improved patient outcomes and innovative therapy development.
+
+## Acknowledgements
+
+The authors thank ICU nurses, physiotherapists, neurophysiology departments, and fellows.
+
+## Authors' Contributions
+
+Nicolas Weiss authored the initial manuscript version. Clemence Marois and Loic Le Guennec critically reviewed initial versions. Sophie Demeret and Benjamin Rohaut reviewed final manuscript versions, implementing additional changes.
+
+## Funding
+
+Not applicable -- review article.
+
+## Competing Interests
+
+Nicolas Weiss received consultant fees from Owkin and Alexion. Clemence Marois received consultant fees from UCB.

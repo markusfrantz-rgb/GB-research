@@ -1,0 +1,667 @@
+Neurocrit Care (2012) 17:102–106
+DOI 10.1007/s12028-012-9691-3
+
+PRACTICAL PEARL
+
+Bickerstaff’s Brainstem Encephalitis Presenting to the ICU
+Gary Hunter • G. Bryan Young • Lee Cyn Ang
+
+Published online: 24 May 2012
+Ó Springer Science+Business Media, LLC 2012
+
+Abstract
+Background Bickerstaff’s brainstem encephalitis continues to pose a diagnostic and treatment challenge since the
+original descriptions by Bickerstaff and Miller-Fisher. The
+clinical syndrome overlaps with AIDP and MFS, but is
+accompanied by decreased level of consciousness not
+attributable to other causes, and the variable presence of
+long-tract signs.
+Methods The methods in this study include the case
+presentation with autopsy findings of an elderly male presented with progressive weakness and impairment of
+consciousness and the literature review.
+Results Examination revealed areflexia and loss of most
+brainstem reflexes. Some improvement occurred after
+several weeks in the ICU, prior to death from pulmonary
+embolism. Pathologic specimens were similar to others in
+the literature, with inflammatory changes in nerve roots and
+brainstem.
+Conclusions The above findings led us to conclude that
+Bickerstaff’s brainstem encephalitis remains a clinical
+Electronic supplementary material The online version of this
+article (doi:10.1007/s12028-012-9691-3) contains supplementary
+material, which is available to authorized users.
+G. Hunter (&)
+Division of Neurology, Department of Medicine, University
+of Saskatchewan, 112 3502 Taylor St. E., Saskatoon, SK S7V
+1J1, Canada
+e-mail: grwhunter@gmail.com
+G. B. Young
+Division of Neurology, Department of Medicine, University
+of Western Ontario, London, ON, Canada
+L. C. Ang
+Department of Pathology, University of Western Ontario,
+London, ON, Canada
+
+123
+
+diagnosis despite advances in electrophysiologic testing
+and neuroimaging. BBE likely represents part of a spectrum,
+overlapping with AIDP and MFS. Immunomodulation may
+be helpful in shortening the clinical course.
+Keywords Bickerstaff  Miller-Fisher  AIDP 
+Combined demyelination
+
+Case Summary
+An 80-year-old gentleman presented to the emergency
+department with difficulty with ambulation and generalized
+weakness progressing over several days. There was
+equivocal history of chronic lower back pain and possibly
+some pain in the legs as well. There was no history of
+preceding febrile illness. There was no history of paresthesias in the extremities. When he became unable to get
+out of bed independently, he was taken to the emergency
+room and admitted to the medicine service. While on the
+ward, he developed features of delirium (disorientation and
+agitation) and eventually decreased level of consciousness.
+He required intubation for respiratory failure presumed
+secondary to decreased consciousness, and the neurocritical care service was consulted on the first day of his ICU
+stay as he was found to be unrousable after sedation was
+stopped. Past medical history was significant for coronary
+artery disease with bypass grafting several years prior,
+hypertension, hyperlipidemia, remote history of prostate
+cancer treated with radiation, and smoking.
+He showed no response to noxious stimulation administered supraorbitally or to the extremities. Respirations
+were regular and shallow, and intermittently he spontaneously triggered the ventilator. Vital signs were within
+normal limits and no vasopressor drugs were required. He
+
+Neurocrit Care (2012) 17:102–106
+
+showed bifacial weakness and tended to lie with the mouth
+open, and with the eyes midline and immobile. Pupillary
+responses were preserved, but the vestibulo-ocular reflex
+was absent even with cold caloric testing. Corneal reflexes
+were initially present, but disappeared on subsequent
+examinations. The jaw jerk was brisk. Cough and gag
+reflexes were absent. Tone was normal in the right upper
+extremity and both legs, but the left arm demonstrated
+persistent rigidity throughout range of motion that was
+partially velocity-dependent. Reflexes in the extremities
+were all absent and plantar responses were mute. Heart
+sounds and there was no evidence of meningism, rash, or
+adenopathy.
+Initial blood work demonstrated no significant abnormalities aside from a mild leukocytosis. While in the ICU
+the patient developed renal insufficiency, although this was
+not felt to account for his impairment of consciousness as it
+was a late finding and responded well to hydration alone.
+EEG demonstrated mild slowing, and triphasic waves
+suggestive of metabolic encephalopathy MRI of the brain
+were essentially normal. MRI of the spine demonstrated
+possible foci of epidural infection at 2 levels in the thoracic
+spine, but no evidence of spinal cord compression. Cerebrospinal fluid analysis demonstrated mild lymphocytic
+pleocytosis (62 wbc/mm3), and significantly elevated protein (1,513 mg/dl). Glucose was normal. Extensive
+investigations for infectious agents were negative (HSV 1
+and 2 PCR, EBV, CMV, VZV, bacterial cultures, fungal
+elements, acid-fast bacilli, tuberculosis PCR, and West
+Nile virus). Cytology and flow cytometry from the CSF
+were negative for any neoplastic process. Serum and CSF
+angiotensin converting enzyme levels were normal. Chest
+X-ray was negative for adenopathy. Nerve conduction studies demonstrated mild slowing and decreased
+amplitude, with some evidence of denervation on needle
+electrode examination, suggestive of mixed demyelinating/
+axonal polyneuropathy. The patient was treated for possible sepsis with broad-spectrum antibiotics. Only mild
+fevers were documented early in the course of his illness,
+and blood cultures were negative.
+The patient’s condition persisted essentially unchanged
+for almost 7 weeks. During that time, he was treated with
+intravenous immunoglobulin (IVIG) for 5 days, dexamethasone for 5 days, and received intravenous thiamine.
+He eventually underwent tracheostomy and gastrostomy
+tube insertion. He was transferred back to the ward after
+approximately 6 weeks in the ICU (see video). One week
+later, eye movements were noted to be improving, and
+within a few days he was able to speak a few words and
+was following commands with the right arm. Unfortunately, after approximately 2 months in hospital, the
+patient unexpectedly died of pulmonary embolism.
+
+103
+
+Fig. 1 Trigeminal nerve roots with focal lymphocytic aggregates;
+LFB/HE 9200
+
+Fig. 2 Central chromatolysis of motor neurons in trigeminal motor
+nucleus
+
+Pathological Findings (Figs. 1, 2, 3)
+Multiple sections through the brainstem showed a mild perivascular lymphocytic infiltrate, consisting of mainly
+B-lymphocytes (CD20-positive) and scattered microglial
+nodules. The neurons of oculomotor, trochlear, abducens,
+facial, and hypoglossal nuclei were significant for central
+chromatolysis. A mild lymphocytic infiltrate was also identified in the cranial nerves, especially the trigeminal nerve,
+accompanied by ongoing axonal degeneration and loss.
+Immunohistochemistry for HSV1, HSV2, EBV, CMV, and
+varicella was negative in the brainstem sections. Sections
+from the cervical, lumbar, and sacral spinal cord showed
+anterior horn neurons with central chromatolysis and a mild
+lymphocytic infiltrate in the spinal nerve roots and leptomeninges. Few Lewy bodies were noted in the amygdala, nucleus
+
+123
+
+104
+
+Neurocrit Care (2012) 17:102–106
+
+clinical features made a unified set of diagnostic criteria
+challenging, and Bickerstaff’s opening comments from his
+1951 paper highlight the original—and persistent—difficulties in understanding the condition, and the ongoing
+importance of recognizing clinical syndromes:
+Despite the advances of the recent decades in scientific
+methods of investigation, conditions are not infrequently seen, particularly in neurological practice,
+which fall outside the well-recognized syndromes and in
+which it is possible to hazard only a guess at the etiological pathological processes involved. If the patient
+recovers, the exact explanation may never be certain,
+but one experience with such a condition may enable it
+to be recognized again, and even in the face of ignorance
+about its nature, some idea of its likely course and
+prognosis may be formed.
+
+Fig. 3 Migroglial nodule in dorsal motor nucleus of vagus; LFB/HE
+9400
+
+basalis, substantia nigra, and locus ceruleus. The pathologic
+diagnosis was encephalomyeloradiculitis, and taking the
+clinical setting into consideration, was consistent with Bickerstaff’s encephalitis.
+
+Discussion
+Between 1951 and 1957, Bickerstaff [1, 2] and Fisher [3]
+separately described 11 cases of a newly recognized syndrome
+characterized by variable combinations of ophthalmoplegia,
+ataxia, impairment of reflexes, and altered consciousness,
+ranging from drowsiness to coma. Owing to the common
+findings of prodromal infections and albuminocytologic dissociation, an overlap with Guillain–Barre syndrome has
+always been suspected, although only one of Bickerstaff’s first
+eight cases had flaccid limb weakness. A summary of the
+original 11 patients is seen in Table 1. The variability in
+
+Since then, there have been many reports of overlap
+syndromes with features of classic Fisher syndrome (FS;
+ataxia, areflexia, and ophthalmoplegia) and Bickerstaff’s
+brainstem encephalitis (BBE), with the larger series’
+reported by Al-Din et al. in 1982 (with Bickerstaff as one
+of the authors) [4], Odaka et al. in 2003 [5], and from Ito
+et al. in 2008 [6]. In the largest report, the number of
+patients with BBE was relatively small compared to those
+with FS (53 vs. 466), but they found that the two groups
+were relatively similar with respect to (BBE:FS): Serology
+for anti-GQ1b antibodies (68 vs. 83 %), albuminocytologic
+dissociation (46 vs. 76 %), MRI abnormalities (11 vs.
+2 %), and EEG changes (57 vs. 25 %). One might argue
+that these differences are more significant than the authors
+propose, and that these findings are not necessarily ‘‘conclusive evidence’’ of an overlap between FS and BBE as
+suggested in their discussion. The clinical data are perhaps
+more convincing, since the median age, infectious prodrome, and initial symptoms were very similar. Reflexes
+
+Table 1 Original 11 cases from Bickerstaff and Fisher (1951–1957) [1–3]
+Case
+
+Author, Year
+
+Age, Gender
+
+Prodrome
+
+Consciousness
+
+Ophthalmoplegia
+
+Weakness
+
+Reflexes
+
+CSF
+
+1
+
+B, 1951
+
+24, F
+
+Malaise, headache
+
+Drowsy, rousable
+
+Y
+
+Y (face)
+
+NA
+
+26 wbc
+
+2
+
+B, 1951
+
+36, M
+
+Malaise, headache
+
+Drowsy, rousable
+
+Y
+
+Y (face)
+
+Decreased
+
+ACD
+
+3
+
+B, 1951
+
+24, F
+
+Headache
+
+Drowsy, rousable
+
+Y
+
+Y (face)
+
+NA
+
+N
+
+4
+
+B, 1957
+
+47, F
+
+Vertigo, vomiting, HP
+
+Drowsy
+
+Y
+
+Y (diffuse)
+
+NA
+
+N
+
+5
+
+B, 1957
+
+11, M
+
+Malaise, headache
+
+Drowsy
+
+Y
+
+Y (diffuse)
+
+Absent
+
+12 wbc
+
+6
+
+B, 1957
+
+10, M
+
+Malaise, headache
+
+Drowsy
+
+NA
+
+Y (face)
+
+NA
+
+28 wbc
+
+7
+
+B, 1957
+
+10, M
+
+Malaise, headache
+
+Drowsy
+
+Y
+
+Y (face)
+
+Absent
+
+65 wbc
+
+8
+
+B, 1957
+
+14, M
+
+Malaise, myalgias
+
+Drowsy
+
+Y
+
+Y (face)
+
+Absent
+
+ACD
+
+9
+
+F, 1956
+
+Malaise
+
+NA
+
+Y
+
+Y (diffuse)
+
+Absent
+
+ACD
+
+10
+11
+
+F, 1956
+F, 1956
+
+Malaise
+Headache
+
+Drowsy
+NA
+
+Y
+Y
+
+NA
+NA
+
+Absent
+Absent
+
+N
+N
+
+B Bickerstaff, F Fisher, ACD albuminocytologic dissociation, wbc white blood cell count, NA not assessed
+
+123
+
+Neurocrit Care (2012) 17:102–106
+Table 2 Differential diagnosis
+of Bickerstaff’s brainstem
+encephalitis
+
+105
+
+Syndrome
+
+Similarities
+
+Differences
+
+Brainstem stroke
+or hemorrhage
+
+Ophthalmoplegia, coma,
+UMN signs
+
+Acute onset
+No LMN signs in extremities
+Posturing
+Normal CSF
+
+Wenicke’s
+encephalopathy
+
+Botulism
+
+Myasthenia gravis
+
+Ophthalmoplegia,
+encephalopathy
+
+Malnutrition, alcohol abuse
+
+May have impaired
+reflexes (beriberi)
+
+No UMN signs
+
+Ataxia
+Ophthalmoplegia
+
+Normal CSF
+Early loss of pupillary responses
+
+Weakness
+
+Nausea and vomiting
+
+LMN dysfunction
+
+More than one patient presenting
+
+Ophthalmoplegia and
+bulbar symptoms
+
+Normal mental status (unless hypoxic/
+hypercapnic)
+
+Weakness
+
+Fluctuating symptoms, asymmetric
+ophthalmoplegia
+Normal reflexes
+
+Brainstem neoplasm
+
+ADEM
+
+Ophthalmoplegia
+and CN deficits
+
+No prodrome
+Usually less acute
+
+Impaired consciousness
+
+No prodrome
+
+Gradual onset
+
+Normal CSF
+
+UMN signs
+
+No LMN signs in extremities/
+decreased reflexes
+
+May involve brainstem
+
+Very abnormal MRI including
+supratentorial structures
+
+Prodrome
+
+May have less protein in CSF
+
+UMN signs
+
+No LMN signs/decreased reflexes
+
+CSF may be similar
+Meningeal infiltration
+(sarcoid, neoplastic)
+ADEM acute disseminated
+encephalomyelitis, UMN upper
+motor neuron, LMN lower
+motor neuron, CN cranial nerve,
+CSF cerebrospinal fluid, MRI
+magnetic resonance imaging
+
+CN palsies
+
+History of cancer, weight loss,
+systemic symptoms
+
+Prodrome
+
+Prominent headache
+
+Impaired consciousness
+
+Less likely signs of neuropathy/
+decreased reflexes
+
+Abnormal CSF
+
+were decreased or absent in all of the FS patients by definition, and 60 % of the BBE group. Extensor plantar
+responses were found in 38 % of the BBE group and none
+of the FS patients. Impaired consciousness was appropriately required for a diagnosis of BBE in this study, and
+20 % were comatose.
+In the largest series of patients with pure BBE, Odaka
+et al. [5] reported on 62 patients with progressive, relatively
+symmetric external ophthalmoplegia and ataxia within
+4 weeks. Patients were only included if they also demonstrated disturbance of consciousness or hyper-reflexia, and if
+other causes were excluded. Important alternate diagnostic
+considerations are shown in Table 2. Altered consciousness
+was reported in 74 %, with 29 % showing ‘‘stupor’’ or more
+severe impairment including coma. Reflexes were absent or
+
+Low CSF glucose in neoplastic disease
+Adenopathy on X-ray in sarcoid
+
+decreased in 58 %, albuminocytologic dissociation was seen
+in up to 57 % after the third week. CSF pleocytosis was seen
+in up to 36 % in the first week, significantly more commonly
+than in other autoimmune neuropathies such as Guillain–
+Barre Syndrome (GBS) or MFS. Association with GQ1b
+antibodies is also supported in this series, with 66 % of
+patients showing high titers. Electroencephalographic
+(EEG) studies were abnormal in 70 %, mainly showing
+diffuse slowing in the theta and delta frequencies. MRI
+findings were variable with one-third showing non-specific
+changes in the brainstem, thalamus, cerebellum, and or
+cerebrum. Neurophysiologic studies strongly supported a
+primarily axonal process, suggesting some overlap
+with acute motor axonal neuropathy (AMAN) subtype of
+GBS.
+
+123
+
+106
+
+One patient from this series underwent autopsy, following
+a clinical course with striking similarities to ours. This was a
+37-year-old patient who developed ophthalmoplegia, weakness, areflexia, and coma after an upper-respiratory illness.
+Coma persisted for 3 weeks. Neurophysiology showed primarily axonal dysfunction, and CSF showed pleocytosis. He
+was alert by day 33 but suddenly died from respiratory causes
+on day 45. Histologic findings in the brainstem included perivascular lymphocytic cuffing and glial nodules. Interestingly,
+this case also demonstrated marked central chromatolysis of
+the trigeminal motor nucleus cell bodies, and similar findings
+in anterior horn cells of the spinal cord. Few other autopsy
+reports are available—Al-Din et al. [4] reported one case
+showing microglia and lymphocytic cuffing, and Bickerstaff
+[2] reported one case with only ‘‘remarkably scanty’’
+abnormalities.
+Pathophysiologic differences between usual ‘‘peripheral’’ autoimmune neuropathies and central manifestations
+are speculative, but other syndromes may have relevance to
+understanding BBE. One such condition is severe combined demyelination syndrome, which presents as either
+typical AIDP followed by symptoms and signs of acute
+disseminated encephalomyelitis, or vice versa [7]. In some
+reports, the onset appears to be truly simultaneous [8],
+whereas in others, including a recent case at our center
+(unpublished data), there is clearly a delay between the two
+events. These cases raise the possibility of a ‘‘two-hit’’
+pathogenesis, wherein a primary inflammatory process in
+one compartment could feasibly lead to antigen presentation in the other and a second wave of inflammation against
+a similar epitope. Given that these cases are rare, studying
+optimal interventions is difficult, but early aggressive
+immunosuppression may be warranted. Options include
+combined IVIG and steroids, or simply a second stage of
+treatment when a second phase of disease becomes
+apparent. Interestingly, in most cases of BBE, the cerebral
+white matter is generally spared [9–12].
+
+Conclusions
+Since the original description by two observant clinicians,
+understanding of the entity known as BBE has changed
+little—this is perhaps as much a testament to their skill as it
+is a humbling acknowledgment of our ongoing limitations,
+despite decades of advances in medical technology and
+imaging. It seems clear that there is significant overlap
+between BBE and other autoimmune neuropathies for the
+
+123
+
+Neurocrit Care (2012) 17:102–106
+
+reasons cited above, which have now been repeatedly
+documented. However, the relevant contributions of central
+and peripheral processes to each of the clinical findings
+remains unclear, as do the optimal treatments. This case
+adds significantly to the paucity of available pathologic
+data in BBE, and the findings are similar to those few cases
+that have previously reported. We agree that the disorder is
+probably one form of a spectrum of disorders including all
+of the acute autoimmune neuropathies, perhaps most closely related to MFS and AMAN. Ultimately, Bickerstaff’s
+comments remain as true today as for the original cases,
+and ongoing efforts toward comprehensive understanding
+are needed.
+
+References
+1. Bickerstaff ER, Cloake PC. Mesencephalitis and rhombencephalitis. Br Med J. 1951;2(4723):77–81.
+2. Bickerstaff ER. Brain-stem encephalitis; further observations on a
+grave syndrome with benign prognosis. Br Med J. 1957;1(5032):
+1384–7.
+3. Fisher M. An unusual variant of acute idiopathic polyneuritis (syndrome of ophthalmoplegia, ataxia and areflexia). N Engl J Med.
+1956;255(2):57–65.
+4. Al-Din AN, Anderson M, Bickerstaff ER, Harvey I. Brainstem
+encephalitis and the syndrome of Miller Fisher: a clinical study.
+Brain. 1982;105(Pt 3):481–95.
+5. Odaka M, Yuki N, Yamada M, Koga M, Takemi T, Hirata K,
+Kuwabara S. Bickerstaff’s brainstem encephalitis: clinical features of 62 cases and a subgroup associated with Guillain-Barré
+syndrome. Brain. 2003;126(Pt 10):2279–90.
+6. Ito M, Kuwabara S, Odaka M, Misawa S, Koga M, Hirata K,
+Yuki N. Bickerstaff’s brainstem encephalitis and Fisher syndrome form a continuous spectrum: clinical analysis of 581 cases.
+J Neurol. 2008;255(5):674–82.
+7. Bernard G, Riou E, Rosenblatt B, Dilenge ME, Poulin C.
+Simultaneous Guillain-Barré syndrome and acute disseminated
+encephalomyelitis in the pediatric population. J Child Neurol.
+2008;23(7):752–7.
+8. Amit R, Glick B, Itzchak Y, Dgani Y, Meyeir S. Acute severe
+combined demyelination. Childs Nerv Syst. 1992;8(6):354–6.
+9. Mondéjar RR, Santos JM, Villalba EF. MRI findings in a
+remitting-relapsing case of Bickerstaff encephalitis. Neuroradiology. 2002;44(5):411–4.
+10. Weidauer S, Ziemann U, Thomalske C, Gaa J, Lanfermann H,
+Zanella FE. Vasogenic edema in Bickerstaff’s brainstem
+encephalitis: a serial MRI study. Neurology. 2003;61(6):836–8.
+11. Berkowicz T, Siger-Zajdel M, Zaleski K, Sokołowska D,
+Wendorff J, Selmaj K. Bickerstaff’s brainstem encephalitis—an
+analysis of clinical and MRI findings. Neurol Neurochir Pol.
+2006;40(1):16–21.
+12. Hori S, Fukuda O, Koyama S, Kameda H, Takahashi T, Endo S.
+Bickerstaff’s brainstem encephalitis with positive findings on
+head MRI—case report. Brain Nerve. 2008;60(3):287–90. In
+Japanese.
+
+

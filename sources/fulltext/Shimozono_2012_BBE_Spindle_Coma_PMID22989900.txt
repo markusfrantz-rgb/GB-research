@@ -1,0 +1,38 @@
+# A Case of Bickerstaff Brainstem Encephalitis Associated with Spindle Coma and Decorticate Posture
+
+**Citation:** Shimozono K, Shimono K, Kusunoki S. [Case of Bickerstaff brainstem encephalitis associated with spindle coma and decorticate posture]. *Rinsho Shinkeigaku (Clinical Neurology)*. 2012;52(9):656-659. PMID: 22989900.
+
+**DOI:** 10.5692/clinicalneurol.52.656
+
+**Language:** Japanese (with English abstract)
+
+**Note:** Only abstract available. Full article in Japanese, published in Rinsho Shinkeigaku. No PMC or free English fulltext available.
+
+---
+
+## Authors
+
+- Koji Shimozono (Department of Internal Medicine, Ootemachi Hospital)
+- Kenshin Shimono (Department of Internal Medicine, Ootemachi Hospital; Department of Emergency Medicine, Kagoshima City Hospital)
+- Susumu Kusunoki (Department of Neurology, Kinki University School of Medicine)
+
+---
+
+## Abstract
+
+A 25-year-old male developed fever and diarrhea, followed ten days later by gait difficulty. Clinical presentation included lethargy, dysarthria and weakness of limbs with absent oculocephalic response and positive extensor toe signs. Despite aciclovir and methylprednisolone treatment, the patient deteriorated into coma with decorticate posture, accompanied by autonomic symptoms and groaning.
+
+Diagnostic findings revealed normal brain MRI and brainstem evoked potentials, but EEG demonstrated spindle coma patterns. CSF analysis showed no specific abnormalities. High-dose immunoglobulin initiated on day 6 improved consciousness. The patient subsequently developed external ophthalmoplegia and ataxic gait. Serological testing confirmed IgG type anti-GQ1b antibodies, establishing Bickerstaff's brainstem encephalitis diagnosis. Complete symptom resolution occurred within six months.
+
+---
+
+## Key Findings
+
+- **First documented case of spindle coma in serologically confirmed BBE**
+- Spindle coma on EEG despite normal brain MRI and brainstem evoked potentials
+- Decorticate posture as presenting feature
+- Anti-GQ1b antibody positive
+- Responded to high-dose IVIg with consciousness improvement
+- Full recovery within 6 months
+
+**Keywords:** Bickerstaff brainstem encephalitis, spindle coma, anti-ganglioside antibodies, decorticate posture

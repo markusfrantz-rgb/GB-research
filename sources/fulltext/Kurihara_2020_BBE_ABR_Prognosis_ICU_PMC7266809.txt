@@ -1,0 +1,103 @@
+# Diagnosis and Prediction of Prognosis for Bickerstaff's Brainstem Encephalitis Using Auditory Brainstem Response
+
+## Title
+Diagnosis and prediction of prognosis for Bickerstaff's brainstem encephalitis using auditory brainstem response: a case report
+
+## Authors
+Toru Kurihara, Yutaka Igarashi, Kaori Kobai, Taiki Mizobuchi, Hiromoto Ishii, Noriko Matsumoto, Shoji Yokobori, Hiroyuki Yokota
+
+**Affiliations:**
+1. Department of Emergency and Critical Care Medicine, Nippon Medical School Hospital, Tokyo, Japan
+2. Department of Anesthesiology, Wakayama Medical University, Wakayama, Japan
+3. Department of Neurology, Nippon Medical School Hospital, Tokyo, Japan
+
+**Corresponding author:** Yutaka Igarashi (igarashiy@nms.ac.jp)
+
+**Journal:** Acute Medicine & Surgery. 2020 Jun 2;7(1):e517
+**DOI:** 10.1002/ams2.517
+**PMCID:** PMC7266809
+**PMID:** 32685172
+
+---
+
+## Abstract
+
+The authors present a case involving a 75-year-old woman who developed progressive consciousness impairment following upper respiratory infection. Initial diagnostic imaging and laboratory studies proved unrevealing. The patient demonstrated "dilated pupils and no light reflex" consistent with brainstem dysfunction. Auditory brainstem response testing showed reduced voltage without prolonged latencies. Subsequent serum testing identified "immunoglobulin G anti-GQ1b antibody" confirming BBE diagnosis. The patient recovered completely after steroid therapy and rehabilitation, discharged without neurological deficits.
+
+---
+
+## Introduction
+
+Emergency physicians encounter consciousness disorders frequently, yet early diagnosis remains challenging. This case demonstrates progressive consciousness impairment culminating in deep coma, ultimately attributed to an autoimmune brainstem condition. The clinical presentation underscores how auditory brainstem response testing aids in lesion detection and recovery prediction for this rare but serious neurological disorder.
+
+---
+
+## Case Report
+
+A 75-year-old woman presented with dizziness and bilateral arm weakness one week after upper respiratory infection. Hospital admission followed deteriorating motor function. Her medical history included prior breast cancer diagnosis. Initial magnetic resonance imaging revealed no intracranial abnormalities. Blood and cerebrospinal fluid examinations similarly showed no significant findings explaining her symptoms.
+
+By hospital day six, her consciousness had progressively worsened, with Glasgow Coma Scale score E1V1M4, dilated pupils, absent light reflexes, and only upper extremity responsiveness. Lower limb paralysis was complete. Mechanical ventilation became necessary via endotracheal intubation.
+
+Repeat MRI on day eight showed no abnormal fluid-attenuated inversion recovery or diffusion-weighted imaging findings. Cerebrospinal fluid analysis revealed 6/microL cell count and 39 mg/dL total protein. Electroencephalography occasionally demonstrated "slow wave of 2-3 Hz."
+
+The auditory brainstem response demonstrated "low voltage, but there was no prolonged interval of latency between I and V wave." Somatosensory evoked potential testing showed bilateral N20 responses. These findings suggested upper brainstem pathology including midbrain involvement.
+
+By hospital day ten, the patient responded to verbal commands with modest paralysis improvement. Clinical presentation suggested Guillain-Barre syndrome or related disorder. Steroid pulse therapy (1 gram daily for three days) commenced.
+
+Day fifteen revealed left vocal cord paralysis, prompting tracheostomy placement. Consciousness gradually recovered. By day twenty, transfer to rehabilitation occurred. Later serum testing demonstrated "positive result for serum immunoglobulin G (IgG)-type GQ1b antibody," establishing definitive BBE diagnosis. After rehabilitation, the patient was discharged on hospital day 103 without significant neurological sequelae.
+
+---
+
+## Discussion
+
+The case presented describes a patient with BBE experiencing gradual consciousness deterioration followed by complete recovery after deep coma state.
+
+Initial clinical assessment based on bilateral pupil dilation, light reflex loss, and neurological examination findings suggested brainstem lesions at the upper brainstem and midbrain level. However, MRI, electroencephalography, and cerebrospinal fluid examinations showed no significant abnormalities explaining the clinical presentation.
+
+### Differential Diagnoses
+
+The authors present Table 1 listing consciousness impairment causes challenging emergency diagnosis, including:
+- Cerebrovascular disorders (stroke, pituitary stroke)
+- Autoimmune conditions (myasthenia gravis, multiple sclerosis, neuromyelitis optica, Behcet disease, Sweet syndrome, acute disseminated encephalomyelitis, anti-GQ1b antibody syndromes)
+- Infections (poliomyelitis, viral encephalitis)
+- Trauma (diffuse axonal injury)
+- Neoplasia
+- Dural disease
+- Metabolic disorders
+- Other conditions (vasculitis, non-convulsive status epilepticus, toxins)
+
+Anti-GQ1b antibody analysis proved essential for BBE diagnosis establishment in this patient.
+
+### Bickerstaff's Brainstem Encephalitis Background
+
+BBE represents an autoimmune brainstem disorder typically triggered by preceding infection. The majority of cases demonstrate IgG-type GQ1b antibodies. Characteristic symptoms include "oculomotor disorders, ataxia, and impaired consciousness." Approximately twenty percent of patients require mechanical ventilation. The condition remains rare, with almost 100 annual cases reported in Japan (population 120 million).
+
+Table 2 outlines diagnostic criteria distinguishing "Defined" from "Probable" BBE cases, requiring combinations of: acute progressive external ophthalmoplegia, ataxia, impaired consciousness within four weeks with spontaneous recovery within twelve weeks; positive serum IgG anti-GQ1b antibodies; and exclusion of alternative diagnoses.
+
+### Auditory Brainstem Response Findings
+
+The diagnostic criteria notably exclude electrophysiological testing including auditory brainstem response. However, ABR reflects "activation from the cochlea to the midbrain" and effectively detects small pontine lesions. This patient's ABR revealed no prolonged I-V wave latency interval despite significant neurological deficits -- findings differing from standard brainstem pathology patterns.
+
+Ogawara and colleagues previously reported similar ABR characteristics in BBE patients: absent prolonged latency intervals with reduced potential amplitudes, paralleling this case's findings.
+
+The authors hypothesize that anti-GQ1b antibodies selectively damage neural cells possessing the antibody epitope, while sparing cells lacking this target. This selective cellular damage would preserve normal nerve conduction velocities (explaining normal latencies) while reducing overall potential amplitude due to decreased functional neural population. This mechanism explains the discrepancy between severe neurological deficits and relatively preserved ABR latency measures.
+
+The distinction between ABR findings and neurological examination results may prove diagnostically valuable for identifying BBE.
+
+---
+
+## Conclusion
+
+Emergency physicians may initially classify BBE presentations as consciousness disturbances of unknown etiology. Neurological examination findings are critical for detecting lesions and suspecting BBE. Serum IgG anti-GQ1b antibody analysis remains necessary for definitive BBE diagnosis. Auditory brainstem response testing assists in lesion detection and functional recovery prediction for affected patients.
+
+---
+
+## References
+
+1. Cooksley T, Rose S, Holland M. A systematic approach to the unconscious patient. Clin Med (Lond) 2018; 18: 88-92.
+2. Koga M, Kusunoki S, Kaida K et al. Nationwide survey of patients in Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry 2012; 83: 1210-5.
+3. Yoshikawa K, Kuwahara M, Morikawa M et al. Varied antibody reactivities and clinical relevance in anti-GQ1b antibody-related diseases. Neurol Neuroimmunol Neuroinflamm. 2018; 5: e501.
+4. Okda M, Yuki N, Hirata K. Anti-GQ1b IgG antibody syndrome: clinical and immunological range. J Neurol Neurosurg Psychiatry 2001; 70: 50-5.
+5. Davis H. Principles of electric response audiometry. Ann Otol Rhinol Laryngol 1976; 85(SUPPL 28(3 Pt3)): 1-96.
+6. Ogawara K, Kuwabara S, Yuki N. Fisher syndrome or Bickerstaff brainstem encephalitis? Anti-GQ1b IgG antibody syndrome involving both the peripheral and central nervous systems. Muscle Nerve 2002; 26: 845-9.
+7. Chiba A, Kusunoki S, Obata H et al. Serum anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller Fisher syndrome and Guillan-Barre syndrome: clinical and immunohistochemical studies. Neurology 1993; 43: 1911-7.

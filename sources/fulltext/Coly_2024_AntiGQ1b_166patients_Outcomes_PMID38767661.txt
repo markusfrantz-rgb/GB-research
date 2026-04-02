@@ -1,0 +1,906 @@
+Journal of Neurology (2024) 271:4982–4990
+https://doi.org/10.1007/s00415-024-12410-4
+
+ORIGINAL COMMUNICATION
+
+Clinical, paraclinical and outcome features of 166 patients with acute
+anti‑GQ1b antibody syndrome
+Martin Coly1,2,3 · David Adams1,2,4 · Shahram Attarian5 · Françoise Bouhour6 · Jean‑Philippe Camdessanché7 ·
+Guillaume Carey8 · Cécile Cauquil1,2,4 · Jean‑Baptiste Chanson9 · Pascale Chrétien10,11,12 · Alain Créange13 ·
+Emilien Delmont5 · Guillaume Fargeot1,2 · Simon Frachet14 · Thierry Gendre13 · Thierry Kuntzer15 ·
+Céline Labeyrie1,2,4 · Thierry Maisonobe16 · Maud Michaud17 · Maximilien Moulin18 · Guillaume Nicolas19 ·
+Jean‑Baptiste Noury20 · Yann Péréon21 · Angela Puma22 · Guilhem Sole23 · Frédéric Taithe24 · Céline Tard8 ·
+Marie Théaudin15 · Serge Timsit20 · Laura Venditti1,2 · Andoni Echaniz‑Laguna1,2,4
+Received: 31 January 2024 / Revised: 24 April 2024 / Accepted: 26 April 2024 / Published online: 20 May 2024
+© Springer-Verlag GmbH Germany, part of Springer Nature 2024
+
+Abstract
+Background & purpose In this retrospective study, we aimed at defining the clinical, paraclinical and outcome features of
+acute neurological syndromes associated with anti-GQ1b antibodies.
+Results We identified 166 patients with neurological symptoms appearing in less than 1 month and anti-GQ1b antibodies
+in serum between 2012 and 2022. Half were female (51%), mean age was 50 years (4–90), and the most frequent clinical
+features were areflexia (80% of patients), distal upper and lower limbs sensory symptoms (78%), ophthalmoplegia (68%),
+sensory ataxia (67%), limb muscle weakness (45%) and bulbar weakness (45%). Fifty-three patients (32%) presented with
+complete (21%) and incomplete (11%) Miller Fisher syndrome (MFS), thirty-six (22%) with Guillain–Barre syndrome (GBS),
+one (0.6%) with Bickerstaff encephalitis (BE), and seventy-three (44%) with mixed MFS, GBS & BE clinical features. Nerve
+conduction studies were normal in 46% of cases, showed demyelination in 28%, and axonal loss in 23%. Anti-GT1a antibodies were found in 56% of cases, increased cerebrospinal fluid protein content in 24%, and Campylobacter jejuni infection
+in 7%. Most patients (83%) were treated with intravenous immunoglobulins, and neurological recovery was complete in
+69% of cases at 1 year follow-up. One patient died, and 15% of patients relapsed. Age > 70 years, initial Intensive Care Unit
+(ICU) admission, and absent anti-GQ1b IgG antibodies were predictors of incomplete recovery at 12 months. No predictors
+of relapse were identified.
+Conclusion This study from Western Europe shows acute anti-GQ1b antibody syndrome presents with a large clinical phenotype, a good outcome in 2/3 of cases, and frequent relapses.
+Keywords Anti-GQ1b antibodies · Miller-Fisher syndrome · Bickerstaff’s brainstem encephalitis · Guillain–Barre
+syndrome
+
+Introduction
+Gangliosides, including GQ1b, are glycosphingolipids
+with a structure in which a hydrophobic ceramide and a
+hydrophilic sugar chain portion are bound, and sialic acid
+is bound to the sugar chain portion [1, 2]. Gangliosides are
+abundant in the nervous system, and their distribution is
+heterogeneous between different nerve tissues [2]. GQ1b
+represents approximately 5–6% of the total gangliosides
+in human peripheral nervous system (PNS), and 11–13%
+Extended author information available on the last page of the article
+Vol:.(1234567890)
+
+in oculomotor nerves [2]. In oculomotor nerves, GQ1b are
+mostly localized in the paranodal region of the node of Ranvier [2]. In addition to oculomotor nerves, the GQ1b sugar
+chain antigen is also highly expressed in human dorsal root
+ganglion cells and Ia sensory fibers in muscle spindles, often
+in association with GT1a sugar chains [2]. GQ1b includes
+two chemical groups composed of two sialic acids, i.e., a
+disialosyl group, that are bound to galactose, and anti-GQ1b
+antibodies recognize the sugar chain portion to which sialic
+acid is bound [2].
+Miller Fisher syndrome (MFS) is a clinical syndrome
+associating ophthalmoplegia, ataxia and areflexia [3].
+
+Journal of Neurology (2024) 271:4982–4990
+
+Bickerstaff’s encephalitis (BE) is a clinical syndrome associating ophthalmoplegia, ataxia and areflexia, i.e., MFS,
+and a reduced level of consciousness, i.e. drowsiness [4].
+BE and MFS have a good outcome and usually occur after
+an infection, with Campylobacter jejuni and Haemophilus
+influenzae being the most frequently identified pathogens
+[5–7]. As such, both BE and MFS are considered as Guillain-Barré syndrome (GBS) variants [5].
+Before anti-GQ1b antibodies were found in both conditions in 1992, MFS and BE were considered separate
+clinical entities. Today, as MFS and BE share a common
+serological profile and pathophysiology, both conditions
+are referred as being part of the “anti-GQ1b antibody
+syndrome” [6, 7]. Large series of MFS and BE patients
+with anti-GQ1b antibodies have been described, mainly in
+Asian countries where both conditions are common [8, 9].
+Intriguingly, in these series, 10–30% of patient are GQ1bseronegative using conventional assays [2, 10]. However,
+calcium-dependent anti-GQ1b antibodies have been
+recently found in a majority of these “GQ1b seronegative”
+patients, thus demonstrating anti-GQ1b antibodies are a
+major component of MFS and BE pathophysiology [2, 10]
+In this retrospective study, we analyzed the clinical,
+electrophysiological, laboratory and treatment response
+characteristics of patients with acute anti-GQ1b antibody
+syndrome originating from 19 French and Swiss University Hospitals. Our aim was to define the clinical and
+paraclinical features of acute anti-GQ1b-associated neurological syndromes, and to provide clues as to how better
+manage and treat these patients.
+
+Patients & methods
+Patients
+We performed an observational retrospective study including patients with: (1) neurological symptoms appearing in
+less than 1 month; (2) anti-GQ1b antibodies in serum; and
+(3) diagnosed between 2012 and 2022. Neurologists from
+19 University Hospitals in France and Switzerland were
+contacted, and clinical, paraclinical & treatment data were
+gathered from medical records by the referring physician.
+Treatment response was evaluated by the referring neurologist according to each center practice. This study is in
+conformity with the World Medical Association Declaration of Helsinki 1964 and its later amendments. Given that
+our study was conducted retrospectively on documented
+patient records with no specific intervention of any kind,
+local ethical approval and specific informed consent were
+not required.
+
+4983
+
+Neurological assessment & diagnostic classification
+Data gathering was performed between February and September 2022. In addition to neurological symptoms and
+signs, data on treatment and outcome were also gathered.
+Patients were classified according to Shahrizaila's clinical
+classification [11, 12]: (1) GBS spectrum, including classic
+GBS and other GBS variant, i.e., paraparetic GBS, pharyngeal cervical brachial weakness (PCBW), facial diplegia and
+paresthesia; (2) MFS spectrum, including classic MFS and
+other MFS subgroups, i.e., acute ophthalmoplegia or acute
+ataxic neuropathy; and (3) BE spectrum, including classic
+BE & acute ataxic hypersomnolence. If patients had overlapping features between these groups, they were designated as
+MFS/GBS or GBS/BE.
+
+Biological assessment
+Anti-GQ1b antibodies were investigated using different
+methods in each University Hospital, including commercially available immunodots (GA Generic Assays GmbH,
+Germany) and ELISA (Enzyme Linked Immunosorbent
+Assay) (Gangliocombi dosing kit, Bühlman, Switzerland)
+[13, 14]. Calcium-dependent anti-GQ1b antibodies were not
+investigated [10]. Serum bacteria and virus serology were
+investigated using standard methods, including Campylobacter jejuni, Epstein-Barr virus (EBV), Cytomegalovirus
+(CMV) and Mycoplasma pneumoniae.
+
+Other paraclinical investigations
+Electrodiagnostic studies (EDX) were performed using
+standard methods. Demyelination was defined using standard criteria, including motor distal latency prolongation,
+reduction of motor conduction velocity, prolongation of
+F-wave latency, absent F-waves, motor conduction block,
+abnormal temporal dispersion, and distal Compound Muscle Action Potential (CMAP) duration prolongation [11].
+Brain and spinal cord magnetic resonance imaging (MRI),
+and cerebrospinal fluid (CSF) analysis were performed using
+standard methods.
+
+Statistical analysis
+We analyzed the clinical and paraclinical characteristics
+of our patients, including age, sex, clinical subtype (MFS,
+MFS/GBS, GBS, GBS/BE, and BE), initial clinical severity
+(as measured with Intensive Care Unit [ICU] admission),
+anti-GQ1b antibodies serological profile (IgM, IgG, and
+IgM + IgG), and treatment (PE, IVIg, and CTX) to identify
+predictors of full recovery at 12 months and predictors of
+
+4984
+
+relapse. Quantitative variables were investigated using Wilcoxon-Mann–Whitney test and Student’s t-test, and qualitative variables were investigated using chi-squared and Fisher
+tests. Two-tailed tests were used with significance level set
+to 0.05. Statistical analyses were performed using SPSS,
+Microsoft Excel Software and BiostaTgv.
+
+Results
+Neurological characteristics of 166 patients
+with acute anti‑GQ1b antibody syndrome
+A hundred and sixty-six (166) patients with acute anti-GQ1b
+syndrome were identified in the 2012–2022 timeframe in
+19 French and Swiss University Hospitals. All patients presented with a monophasic illness with sensory and/or motor
+symptoms, altered tendon reflexes, reaching nadir within
+28 days, in the absence of alternative cause, consistent with
+GBS. Clinical characteristics of this group of 166 patients
+are detailed in Table 1. Mean age was 50 years (4–90) and
+51% of cases were female. The most frequent clinical signs
+were abolished tendon reflexes (80% of cases), distal upper
+and lower limbs sensory symptoms (78%), ophthalmoplegia
+(68%), sensory ataxia (67%), limb muscle weakness (45%)
+and bulbar weakness (45%). Facial weakness was observed
+in 27% of cases, and Babinski sign in 3%. Most patients
+(69%) had a preceding event before disease onset, including
+respiratory infection (34% of cases), gastroenteritis (15%),
+flu-like syndrome (10%), and vaccination (4%). Twentyeight percent (28%) of patients presented with headache
+when admitted, and 22% had central nervous system (CNS)
+involvement, including mainly cerebellar ataxia and more
+rarely hypersomnolence. One patient (0.6%) died of respiratory failure in ICU.
+Clinical classification of patients is detailed in Table 2.
+Fifty-three patients (32%) had MFS spectrum clinical features, thirty-six patients (22%) had GBS spectrum clinical
+features, and only one patient (0.6%) had BE spectrum features. Seventy-three patients (44%) presented with mixed
+clinical features, including sixty-five patients (39%) with
+MFS/GBS features and eight patients (5%) with GBS/BE
+features. Three patients were unclassified because of insufficient clinical data.
+
+Biological characteristics of 166 patients with acute
+anti‑GQ1b antibody syndrome
+Biological characteristics of our patients are detailed in
+Table 3. All patients had anti-GQ1B antibodies. In 118
+patients in whom IgG was specifically tested, 111 (94%)
+were positive. In 111 patients in whom IgM was specifically
+tested, 28 (25%) were positive. Twenty-one patients (13%)
+
+Journal of Neurology (2024) 271:4982–4990
+Table 1  Clinical characteristics of 166 patients with acute anti-GQ1b
+antibody syndrome
+Clinical characteristics
+
+N (%)
+
+Female
+Male
+Mean age at disease onset (range)
+Preceding event
+Respiratory infection
+No obvious previous infection
+Diarrhea
+Flu-like syndrome
+Angina
+Vaccination
+Abolished tendon reflexes
+Upper limbs
+Lower limbs
+Distal sensory involvement
+Upper limbs
+Lower limbs
+Both
+Proximal sensory involvement
+Upper limbs
+Lower limbs
+Both
+Sensory ataxia
+Proximal weakness
+Upper limbs
+Lower limbs
+Both
+Distal weakness
+Upper limbs
+Lower limbs
+Both
+Babinski sign
+Ophthalmoplegia
+Ptosis
+Pupillary abnormalities
+Mydriasis
+Myosis
+Anisocoria
+Non-reactive pupils
+Bulbar impairment
+Dysphagia
+Dysphonia
+Dyspnea
+Facial weakness
+Unilateral
+Bilateral
+Headache
+Central nervous system involvement
+Cerebellar ataxia
+Hyper somnolence
+
+84 (51%)
+82 (49%)
+50 years (4–90)
+56 (34%)
+52 (31%)
+24 (15%)
+17 (10%)
+8 (5%)
+6 (4%)
+133 (80%)
+113 (68%)
+129 (78%)
+129 (78%)
+24 (15%)
+8 (5%)
+97 (58%)
+49 (30%)
+8 (5%)
+19 (11%)
+22 (13%)
+111 (67%)
+71 (43%)
+10 (6%)
+13 (8%)
+48 (29%)
+56 (34%)
+14 (8%)
+5 (3%)
+37 (22%)
+5 (3%)
+113 (68%)
+56 (34%)
+29 (17%)
+24 (14%)
+2 (1%)
+2 (1%)
+1 (0.6%)
+74 (45%)
+56 (34%)
+52 (31%)
+21 (13%)
+45 (27%)
+28 (17%)
+17 (10%)
+46 (28%)
+37 (22%)
+28 (17%)
+10 (6%)
+
+Journal of Neurology (2024) 271:4982–4990
+
+4985
+
+Table 1  (continued)
+Clinical characteristics
+
+N (%)
+
+Confusion
+Spasticity
+
+4 (2%)
+2 (1%)
+
+Table 2  Clinical classification of 166 patients with acute anti-GQ1b
+antibody syndrome
+Clinical classification
+
+N (%)
+
+MFS spectrum
+Typical MFS
+Incomplete MFS (including acute ophthalmoplegia and
+acute ataxic neuropathy)
+MFS/GBS spectrum
+MFS/GBS
+MFS/PCBW
+MFS/PCBW/FW
+Incomplete MFS/GBS
+Incomplete MFS/PCBW/FW
+MFS/FW
+Incomplete MFS/PCBW
+GBS spectrum
+Typical GBS
+PCBW/FW
+FW
+GBS/BE spectrum
+BE/GBS
+BE/PCBW
+BE spectrum
+Typical BE
+Unclassified
+
+53 (31.9%)
+35
+18
+65 (39.2%)
+23
+22
+8
+5
+3
+2
+2
+36 (21.7%)
+31
+3
+2
+8 (4.8%)
+7
+1
+1 (0.6%)
+1
+3 (1.8%)
+
+BE Bickerstaff encephalitis; FW facial weakness; GBS Guillain Barré
+syndrome; MFS Miller Fisher syndrome; PCBW pharyngeal-cervicalbrachial weakness
+
+had both anti-GQ1b IgG and IgM antibodies. Other antiganglioside antibodies were found in 81% of cases, including
+anti-GT1a antibodies in 56% of patients.
+
+Other paraclinical investigations
+Paraclinical characteristics of our patients are detailed in
+Table 3. CSF analysis was performed on average 5 days after
+disease onset and showed raised protein content in 24% of
+cases. In our group of 166 patients, mean CSF protein content was 0.6 g/L. EDX studies were performed on average
+9 days after disease onset and were normal in 46% of cases.
+Demyelinating neuropathy was observed in 28% of cases
+and axonal neuropathy in 23%. Brain MRI was normal in
+106/122 patients (87%). Cranial nerve abnormalities, including hyperintense signals and/or contrast enhancement after
+
+gadolinium injection involving oculomotor, trigeminal, and
+facial nerve, were observed in 11% of cases. Spinal cord
+MRI showed myelitis in two patients, including 1 cervical
+and 1 thoracic. Serological proof of recent infection was
+found in 17% of cases, including Campylobacter jejuni (7%
+of cases), Mycoplasma pneumoniae (4%), Epstein Barr virus
+(2%) and Cytomegalovirus (2%).
+
+Treatment and outcome of 166 patients with acute
+anti‑GQ1b antibody syndrome
+Fifty-three patients (32%) were admitted in ICU, and almost
+half of them (26; 16%) required mechanical ventilation. One
+patient died in ICU from respiratory failure. Most patients
+(148 patients; 89%) were treated, including with intravenous
+immunoglobulins (IVIg) (138 patients; 83%), corticosteroids (CTX) (17 patients; 10%) and plasma exchange (PE) (9
+patients; 5%). Amongst the 138 patients treated with IVIg,
+124 were treated with one dose of 2 g/kg administered over
+5 days, 13 with 2 doses of 2 g/kg, and 1 with 3 doses of 2 g/
+kg. The 17 patients treated with CTX were given IV methylprednisolone 1 g/day over 1 to 3 days in all cases. Five
+PE sessions were done in the 9 patients treated with PE. No
+maintenance therapy was given in the cases described here.
+After a mean 12 months follow-up, 69% of patients presented with complete neurological recovery and 29% with
+incomplete neurological recovery. Thirteen patients (8%)
+had presented with a previous acute neurological episode
+before being included in our series, and 12 patients (7%) presented with an acute anti-GQ1b antibody syndrome relapse
+after the episode described here. Overall, 25/166 patients
+(15%) from our series had a relapsing history.
+
+Predictors of full recovery at 12 months
+and predictors of relapse
+We identified several predictors of complete recovery at
+12 months, including age < 70 years (74% of patients with
+age < 70 years recovered completely vs. 45% of patients
+with age > 70 years, p < 0.001), no initial ICU admission
+(50% of patients who had not been admitted in ICU recovered completely vs 27% of patients who had been admitted in ICU, p < 0.008) and the presence of anti-GQ1b IgG
+antibodies, whether associated or not with IgM antibodies
+(73% of patients with anti-GQ1b IgG antibodies recovered
+completely vs 28% of patients with only anti-GQ1b IgM
+antibodies, p = 0.02). Patients with MFS tended to more frequently fully recover than patients with MFS/GBS, GBS and
+GBS/BE, but the comparison between the MFS subgroup
+and other subgroups did not reach statistical significance
+(80% of patients with MFS recovered completely vs 64%
+of patients with MFS/GBS, GBS and GBS/BE, p = 0.08).
+Importantly, treatment was not a predictor of full recovery.
+
+4986
+Table 3  Paraclinical
+characteristics of 166 patients
+with acute anti-GQ1b antibody
+syndrome
+
+Journal of Neurology (2024) 271:4982–4990
+Paraclinical characteristics
+
+N (%)
+
+Serologic evidence of recent infection
+No evidence of infection
+Campylobacter jejuni
+Mycoplasma pneumoniae
+Epstein-Barr virus
+Cytomegalovirus
+Cerebrospinal fluid (CSF)
+Raised protein content
+Mean protein content (g/l)
+Mean CSF white cells (/mm3)
+Mean delay between disease onset and CSF analysis (days)
+Nerve conduction studies (NCS)
+Normal
+Demyelinating
+Axonal
+Insufficient data
+Mean delay between disease onset and NCS (days)
+Brain magnetic resonance imaging (MRI)
+Normal
+Abnormal
+Cranial nerve abnormalities
+White matter abnormalities
+Cranial nerve & white matter abnormalities
+Anti-ganglioside antibodies
+IgG anti-GQ1b
+IgM anti-GQ1b
+IgG & IgM anti-GQ1b
+Other anti-ganglioside antibodies
+Anti-GT1a antibodies
+
+We did not identify predictors of relapse: age, sex, initial
+clinical severity, clinical subtype, outcome at 12 months and
+anti-GQ1b antibodies serologic profile did not significantly
+differ between the group of patients with relapses and the
+group of patients with no relapses.
+
+Discussion
+In this retrospective study we analyzed the clinical, EDX,
+biological, treatment response and outcome characteristics
+of 166 patients with acute anti-GQ1b antibody syndrome.
+To our knowledge, this is the largest cohort from Western
+Europe described until now.
+The clinical spectrum of acute anti-GQ1b antibody syndrome is not well known. Indeed, in contrast with our study,
+a majority of previous studies analyzed patients on the basis
+of clinical presentation, i.e., MFS and/or BE, and not on the
+basis of the presence of anti-GQ1b antibodies in serum [9].
+In addition, most studies describing MFS originates from
+
+138/166 (83%)
+12/166 (7%)
+6/166 (4%)
+4/166 (2%)
+3/166 (2%)
+38/159 (24%)
+0.6
+10
+5
+70/152 (46%)
+43/152 (28%)
+35/152 (23%)
+4/152 (3%)
+9
+106/122 (87%)
+16/122 (13%)
+12/122 (10%)
+3/122 (2%)
+1/122 (1%)
+111/118 (94%)
+28/111 (25%)
+21/166 (13%)
+134/165 (81%)
+92/165 (56%)
+
+Asia, and there is no major study analyzing acute anti-GQ1b
+syndrome in a European population.
+Our study shows that MFS clinical presentation is
+observed in only 32% of patients with acute anti-GQ1b syndrome, while 44% of patients present with mixed MFS/GBS
+& GBS/BE clinical features (Fig. 1). This observation suggests the phenotypical spectrum of acute anti-GQ1b is large,
+ranging from typical MFS to typical BE, with most patients
+presenting with mixed phenotypes including typical GBS
+presentation. Only 1 patient (0.6%) in our series presented
+with typical BE, highlighting the fact that BE is an extremely
+rare condition. Our study also shows that acute anti-GQ1b
+syndrome tends to recur, with almost 1 out of 7 patients
+(15%) presenting with relapses. Relapsing acute anti-GQ1b
+syndrome has already been described, and no predisposing
+factor has been identified until now [15–17]. Our study confirms the latter, as we failed to identify predictors of relapse,
+including age, sex, initial clinical severity, clinical subtype,
+outcome at 12 months, and anti-GQ1b antibodies serologic profile. Our study confirms acute anti-GQ1b antibody
+
+Journal of Neurology (2024) 271:4982–4990
+
+4987
+
+Fig. 1  Clinical spectrum of 166
+patients with acute anti-GQ1b
+antibody syndrome. Fifty-three
+patients (31.9%) presented with
+complete (21.1%) and incomplete (10.8%) Miller Fisher
+syndrome (MFS), thirty-six
+(21.7%) with Guillain-Barré
+syndrome (GBS), one (0.6%)
+with Bickerstaff encephalitis
+(BE), and seventy-three (44%)
+with mixed MFS/GBS &
+GBS/BE clinical features. BE
+Bickerstaff encephalitis; GBS
+Guillain-Barré syndrome; MFS
+Miller Fisher syndrome
+
+syndrome has low mortality (0.6%), and demonstrates CNS
+involvement is significant, including spinal cord MRI abnormalities in 2 cases and brain MRI abnormalities in 13% of
+patients.
+In our study, 56% of patients presented with anti-GT1a
+antibodies in addition to anti-GQ1b antibodies. This result
+is in accordance with previous results demonstrating that
+almost all patients with anti-GQ1b IgG antibodies also present with an anti-GT1a IgG activity [18, 19]. Absorption
+studies suggest that the same antibody reacts with GQ1b
+and GT1a [18, 19].
+In our study, 46% of patients had normal EDX investigations, 28% had demyelinating neuropathy, and 23% had
+axonal neuropathy. It is interesting to note that EDX investigations in patients with MFS and BE usually show a pattern of axonal sensory neuropathy with no demyelination
+[20, 21]. This apparent discrepancy is likely explained by
+the fact that we studied a group of patients with acute antiGQ1b antibody syndrome and not a group of patients with
+MFS. Most patients in our study (66% of cases) presented
+with GBS-like clinical phenotypes, and EDX findings in our
+study likely reflect this clinical heterogeneity. This discrepancy may also be in part explained by the fact that EDX
+investigations were performed early in our study, i.e., after
+a mean delay of 9 days after symptoms onset, before significant axonal loss and/or demyelination is likely to appear.
+MFS and BE are usually self-limiting disorders with
+good spontaneous prognosis [7]. In this context, whether
+patients with MFS and BE require immunomodulating treatment remains unclear. A 2007 Cochrane review found no
+randomized data for the treatment of MFS and BE [22].
+However, the authors proposed to extrapolate the evidence
+
+for treating GBS to both MFS and BE [22]. Interestingly,
+a recent retrospective study found treated and untreated
+MFS patients had similar outcome [23]. In this context,
+one may hypothesize treatment may be useful in patients
+with a severe GBS-like clinical phenotype [24], and perhaps less relevant in patients with a typical MFS phenotype
+[25]. In our series, 83% of patients were treated with IVIg,
+and outcome was excellent in most cases. However, when
+considering predictors of full recovery at 12 months in our
+series, we observed patients with age < 70 years, MFS clinical presentation, no ICU admission and anti-GQ1b IgG antibodies more frequently presented with complete recovery
+at 1 year in comparison with other patients, i.e., patients
+with age > 70 years, GBS clinical presentation, initial ICU
+admission and no anti-GQ1b IgG antibodies. Interestingly,
+treatment was not a predictor of full recovery. In this context,
+whether IVIg treatment was relevant in our series remains
+unclear. Additional studies are needed to determine whether
+immunomodulating therapies are useful in all patients or
+only a subset of patients with acute anti-GQ1b antibody
+syndrome.
+Pathological data suggest MFS is a nodo-paranodopathy
+likely involving a complement-mediated disruption of the
+node of Ranvier [26]. When considering CNS involvement,
+it has been shown that sera from BE patients destroyed the
+blood–brain-barrier (BBB), which was not the case with sera
+from patients with MFS. BE serum-related BBB disruption
+may be the result of autocrine secretion of metalloproteinase
+MMP-9 from BBB-composing endothelial cells [27].
+Our series has limits. First, the retrospective design
+led to missing data, including detailed clinical and EDX
+follow-up. Second, the multicentric design led to absent
+
+4988
+
+standardized data collection and clinical evaluation. Third,
+we did not have data detailing how many patients with no
+polyneuropathy presented with anti-GQ1b antibodies in
+our 19 recruiting centers. Nonetheless, it is known that
+the incidence of anti-ganglioside antibodies in healthy
+individuals ranges from 1 to 9% [28–30]. Fourth, the fact
+that anti-GQ1b antibodies were investigated using different methods in each University Hospital did not allow us
+to investigate correlations between antibodies titers and
+other variables such as outcome, relapse, and clinical
+presentation.
+
+Conclusion
+To summarize, our study demonstrates acute anti-GQ1b
+antibody syndrome presents with a wide GBS-like clinical
+spectrum mostly involving PNS and rarely CNS. Mortality
+is low, outcome is good in 2/3 of cases, and relapses are
+frequent. Most patients in our study were treated with IVIg,
+but whether this treatment is useful in all cases of acute antiGQ1b antibody syndrome remains to be evaluated.
+Acknowledgements The authors thank Dr Anne-Sophie DELEPLANCQUE, MD, for her help in identifying patients from Lille
+University Hospital.
+Author contributions MC, DA, SA, FB, JPC, GC, CC, JBC, PC, AC,
+ED, GF, SF, TG, TK, CL, TM, MMi, MMo, GN, JBN, YP, AP, GS,
+FT, CT, MT, ST, LV & AEL participated in data collection. AEL&MC
+designed research, performed research, and participated in data collection. MC & AEL wrote the manuscript. DA, SA, FB, JPC, GC,
+CC, JBC, PC, AC, ED, GF, SF, TG, TK, CL, TM, MMi, MMo, GN,
+JBN, YP, AP, GS, FT, CT, MT, ST & LV revised the manuscript for
+intellectual content. All authors have read and agreed to the published
+version of the manuscript.
+Funding This work received no grant from any funding agency.
+Data availability All data and related documentation from this study
+are available on request to qualified researchers with no time limit, and
+subject to a standard data-sharing agreement.
+
+Declarations
+Conflict of interest MC, DA, SA, FB, JPC, GC, CC, JBC, PC, AC, ED,
+GF, SF, TG, TK, CL, TM, MMi, MMo, GN, JBN, YP, AP, GS, FT,
+CT, MT, ST, LV & AEL disclose all competing interests. Dr M. Coly,
+Pr D. Adams, Pr S. Attarian, Dr F. Bouhour, Pr JP. Camdessanche,
+Dr G. Carey, Dr C. Cauquil, Dr P. Chretien, Dr E. Delmont, Dr G.
+Fargeot, Dr S. Frachet, Dr T. Gendre, Dr T. Kuntzer, Dr C. Labeyrie,
+Dr T. Maisonobe, Dr M. Michaud, Dr M. Moulin, Pr G. Nicolas, Dr
+JB. Noury, Pr Y. Pereon, Dr A. Puma, Dr G. Sole, Dr F. Taithe, Dr C.
+Tard, Dr M. Theaudin, Pr S. Timsit, Dr L. Venditti: declares no disclosures, Dr JB. Chanson declares consultancy fees from Alnylam. Pr
+A. Creange received grants from Octapharma. Pr A. Echaniz-Laguna
+received consulting fees from LFB, Alnylam, and Pfizer.
+Ethical standards For this type of study formal consent is not required.
+
+Journal of Neurology (2024) 271:4982–4990
+
+References
+1. Cutillo G, Saariaho AH, Meri S (2020) Physiology of gangliosides
+and the role of antiganglioside antibodies in human diseases. Cell
+Mol Immunol 17(4):313–322
+2. Uchibori A (2021) Anti-GQ1b antibody: recent topics. Clin Exp
+Neuroimmunol 12(3):158–164
+3. Fisher M (1956) An unusual variant of acute idiopathic polyneuritis (syndrome of ophthalmoplegia, ataxia and areflexia). N Engl
+J Med 255(2):57–65
+4. Bickerstaff ER, Cloake PCP (1951) Mesencephalitis and rhombencephalitis. Br Med J 2(4723):77–81
+5. The GBS Classification Group, Wakerley BR, Uncini A, Yuki N
+(2014) Guillain-Barré and Miller Fisher syndromes—new diagnostic classification. Nat Rev Neurol 10(9):537–544
+6. Odaka M, Yuki N, Hirata K (2001) Anti-GQ1b IgG antibody syndrome: clinical and immunological range. J Neurol Neurosurg
+Psychiatry 70(1):50–55
+7. Shahrizaila N, Yuki N (2013) Bickerstaff brainstem encephalitis
+and Fisher syndrome: anti-GQ1b antibody syndrome. J Neurol
+Neurosurg Psychiatry 84(5):576–583
+8. Doets AY, Verboon C, van den Berg B, Harbo T, Cornblath DR,
+Willison HJ et al (2018) Regional variation of Guillain-Barré syndrome. Brain J Neurol 141(10):2866–2877
+9. Ito M, Kuwabara S, Odaka M, Misawa S, Koga M, Hirata K et al
+(2008) Bickerstaff’s brainstem encephalitis and Fisher syndrome
+form a continuous spectrum: clinical analysis of 581 cases. J Neurol 255(5):674–682
+10. Uchibori A, Gyohda A, Chiba A (2016) Ca2+-dependent antiGQ1b antibody in GQ1b-seronegative Fisher syndrome and
+related disorders. J Neuroimmunol 298:172–177
+11. Sejvar JJ, Kohl KS, Gidudu J, Amato A, Bakshi N, Baxter R et al
+(2011) Guillain-Barré syndrome and Fisher syndrome: case definitions and guidelines for collection, analysis, and presentation of
+immunization safety data. Vaccine 29(3):599–612
+12. Shahrizaila N, Lehmann HC, Kuwabara S (2021) Guillain-Barré
+syndrome. Lancet 397(10280):1214–1228
+13. Chabraoui F, Derrington EA, Mallie-Didier F, Confavreux C,
+Quincy C, Caudie C (1993) Dot-blot immunodetection of antibodies against GM1 and other gangliosides on PVDF-P membranes.
+J Immunol Methods 165(2):225–230
+14. Willison HJ, Yuki N (2002) Peripheral neuropathies and antiglycolipid antibodies. Brain J Neurol 125(Pt 12):2591–2625
+15. Peillet C, Adams D, Attarian S, Bouhour F, Cauquil C, Cassereau
+J et al (2022) Anti-disialosyl-immunoglobulin m chronic autoimmune neuropathies: a nationwide multicenter retrospective study.
+Eur J Neurol 29(12):3547–3555
+16. Ishii J, Yuki N, Kawamoto M, Yoshimura H, Kusunoki S, Kohara
+N (2016) Recurrent Guillain-Barré syndrome, Miller Fisher
+syndrome and Bickerstaff brainstem encephalitis. J Neurol Sci
+364:59–64
+17. Chida K, Nomura H, Konno H, Takase S, Itoyama Y (1999)
+Recurrent Miller Fisher syndrome: clinical and laboratory features
+and HLA antigens. J Neurol Sci 165(2):139–143
+18. Chiba A, Kusunoki S, Obata H, Machinami R, Kanazawa I
+(1993) Serum anti-GQ1b IgG antibody is associated with ophthalmoplegia in Miller Fisher syndrome and Guillain-Barré syndrome: clinical and immunohistochemical studies. Neurology
+43(10):1911–1917
+19. Kim JK, Bae JS, Kim DS, Kusunoki S, Kim JE, Kim JS et al
+(2014) Prevalence of anti-ganglioside antibodies and their clinical
+correlates with Guillain-Barré syndrome in Korea: a nationwide
+multicenter study. J Clin Neurol Seoul Korea 10(2):94–100
+20. Shahrizaila N, Goh KJ, Kokubun N, Tan AH, Tan CY, Yuki N
+(2014) Sensory nerves are frequently involved in the spectrum of
+
+Journal of Neurology (2024) 271:4982–4990
+
+21.
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+fisher syndrome: sensory nerve involvement in FS. Muscle Nerve
+49(4):558–563
+Alberti MA, Povedano M, Montero J, Casasnovas C (2020) Early
+electrophysiological findings in Fisher-Bickerstaff syndrome.
+Neurol Engl Ed 35(1):40–45
+Overell JR, Hseih ST, Odaka M, Yuki N, Willison HJ (2007)
+Treatment for Fisher syndrome, Bickerstaff’s brainstem encephalitis and related disorders. Cochrane Neuromuscular Group, editor.
+Cochrane Database Syst Rev. https://​doi.​org/​10.​1002/​14651​858.​
+CD004​761.​pub2
+Bai HX, Wang ZL, Tan LM, Xiao B, Goldstein JM, Yang L (2013)
+The effectiveness of immunomodulating treatment on Miller
+Fisher syndrome: a retrospective analysis of 65 Chinese patients.
+J Peripher Nerv Syst JPNS 18(2):195–196
+Van Doorn PA, Van den Bergh PYK, Hadden RDM, Avau B,
+Vankrunkelsven P, Attarian S et al (2023) European Academy
+of Neurology/Peripheral Nerve Society Guideline on diagnosis and treatment of guillain-barré syndrome. Eur J Neurol
+30(12):3646–3674
+Tavee J, Brannagan TH, Lenihan MW, Muppidi S, Kellermeyer L,
+Donofrio PD et al (2023) Updated consensus statement: Intravenous immunoglobulin in the treatment of neuromuscular disorders
+report of the AANEM ad hoc committee. Muscle Nerve. https://​
+doi.​org/​10.​1002/​mus.​27922
+Uncini A, Susuki K, Yuki N (2013) Nodo-paranodopathy: beyond the demyelinating and axonal classification in
+
+4989
+
+27.
+
+28.
+
+29.
+
+30.
+
+anti-ganglioside antibody-mediated neuropathies. Clin Neurophysiol 124(10):1928–1934
+Saito K, Shimizu F, Koga M, Sano Y, Tasaki A, Abe M et al
+(2013) Blood-brain barrier destruction determines Fisher/Bickerstaff clinical phenotypes: an in vitro study. J Neurol Neurosurg
+Psychiatry 84(7):756–765
+Lardone RD, Alaniz ME, Irazoqui FJ, Nores GA (2006) Unusual
+presence of anti-GM1 IgG-antibodies in a healthy individual, and
+their possible involvement in the origin of disease-associated antiGM1 antibodies. J Neuroimmunol 173(1–2):174–179
+Conrad K, Schneider H, Ziemssen T, Talaska T, Reinhold D,
+Humbel RL et al (2007) A new line immunoassay for the multiparametric detection of antiganglioside autoantibodies in
+patients with autoimmune peripheral neuropathies. Ann NY Acad
+Sci 1109:256–264
+Johannis W, Renno JH, Klatt AR, Wielckens K (2014) Antiglycolipid antibodies in patients with neuropathy: a diagnostic assessment. J Clin Neurosci Off J Neurosurg Soc Australas
+21(3):488–492
+
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of
+such publishing agreement and applicable law.
+
+Authors and Affiliations
+Martin Coly1,2,3 · David Adams1,2,4 · Shahram Attarian5 · Françoise Bouhour6 · Jean‑Philippe Camdessanché7 ·
+Guillaume Carey8 · Cécile Cauquil1,2,4 · Jean‑Baptiste Chanson9 · Pascale Chrétien10,11,12 · Alain Créange13 ·
+Emilien Delmont5 · Guillaume Fargeot1,2 · Simon Frachet14 · Thierry Gendre13 · Thierry Kuntzer15 ·
+Céline Labeyrie1,2,4 · Thierry Maisonobe16 · Maud Michaud17 · Maximilien Moulin18 · Guillaume Nicolas19 ·
+Jean‑Baptiste Noury20 · Yann Péréon21 · Angela Puma22 · Guilhem Sole23 · Frédéric Taithe24 · Céline Tard8 ·
+Marie Théaudin15 · Serge Timsit20 · Laura Venditti1,2 · Andoni Echaniz‑Laguna1,2,4
+* Andoni Echaniz‑Laguna
+andoni.echaniz-laguna@aphp.fr
+
+9
+
+Department of Neurology, Reference Center
+for Neuromuscular Disorders NEIDF, European Reference
+Network for Neuromuscular Diseases EURO‑NMD,
+University Hospital of Strasbourg, 67098 Strasbourg, France
+
+1
+
+Neurology Department, Bicêtre University Hospital,
+94276 Le Kremlin‑Bicêtre, France
+
+10
+
+2
+
+French National Reference Center for Rare Neuropathies
+(CERAMIC), 94276 Le Kremlin‑Bicêtre, France
+
+Clinical Immunology Laboratory, Bicêtre University
+Hospital, 94276 Le Kremlin‑Bicêtre, France
+
+11
+
+3
+
+Sorbonne University, 75013 Paris, France
+
+Paris University, CNRS, INSERM, UTCBS, Paris, France
+
+12
+
+4
+
+INSERM U1195, Paris-Saclay University,
+94276 Le Kremlin‑Bicêtre, France
+
+Pathology Department, Bicêtre University Hospital,
+94276 Le Kremlin‑Bicêtre, France
+
+13
+
+Neurology Department, Créteil University Hospital, UPEC,
+94010 Créteil, France
+
+14
+
+Neurology Department, Limoges University Hospital,
+87042 Limoges, France
+
+15
+
+Department of Clinical Neurosciences, Lausanne
+University Hospital (CHUV) and University of Lausanne,
+1011 Lausanne, Switzerland
+
+16
+
+Department of Clinical Neurophysiology, Pitié-Salpêtrière
+University Hospital, 75013 Paris, France
+
+17
+
+Neurology Department, NEIDF Reference Center, Nancy
+University Hospital, 54000 Nancy, France
+
+5
+
+Reference Centre for Neuromuscular Diseases PACA RARE,
+Filnemus, EURO‑NMD, CHU Timone, 13005 Marseille,
+France
+
+6
+
+Reference Centre for Neuromuscular Diseases PACA RARE,
+Hôpital Neurologique Pierre Wertheimer, Hospices Civils de
+Lyon, 69677 Bron Cedex, France
+
+7
+
+Neurology Department, Saint-Étienne University Hospital,
+42055 Saint‑Étienne, France
+
+8
+
+Centre de Référence Des Maladies Neuromusculaires
+Nord/Est/Ile‑de‑France, Neurology Department, U1172,
+CHU Lille, 59000 Lille, France
+
+4990
+18
+
+Neurology Department, Reims University Hospital,
+51092 Reims, France
+
+19
+
+Nord‑Est/Ile‑de‑France Neuromuscular Reference Center,
+Neurology Department, Raymond Poincaré Hospital, UVSQ
+Paris-Saclay University, Garches, France
+
+20
+
+Centre de Référence Des Maladies Neuromusculaires AOC,
+INSERM, LBAI, UMR1227, CHRU de Brest, Brest, France
+
+21
+
+Reference Centre for Neuromuscular Disorders AOC
+Filnemus, Euro-NMD, Hôtel-Dieu, CHU Nantes,
+44000 Nantes, France
+
+Journal of Neurology (2024) 271:4982–4990
+22
+
+Peripheral Nervous System and Muscle Department,
+Université Côte d’Azur, Pasteur 2 Hospital, Centre
+Hospitalier Universitaire de Nice, Nice, France
+
+23
+
+Reference Centre for Neuromuscular Diseases AOC,
+Filnemus, Euro‑NMD, Neurology and Neuromuscular
+Diseases Department, Hôpital Pellegrin, CHU de Bordeaux,
+33076 Bordeaux, France
+
+24
+
+Neurology Department, Clermont-Ferrand University
+Hospital, 63058 Clermont‑Ferrand, France
+
+

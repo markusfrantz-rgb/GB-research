@@ -1,0 +1,40 @@
+# Anti-GQ1b Antibody Syndrome: Clinical Overlap of Bickerstaff Brainstem Encephalitis and Miller Fisher Syndrome — A Diagnostic Conundrum
+
+**Citation:** Wander A, Singh R, Peer S, Roshwanth A. Anti-GQ1b antibody syndrome: clinical overlap of Bickerstaff brainstem encephalitis and Miller Fisher syndrome — a diagnostic conundrum. *BMJ Case Reports*. 2025 Oct 15. PMID: 41101789.
+
+**DOI:** 10.1136/bcr-2025-267048
+
+**Note:** BMJ Case Reports blocks automated fulltext access (403 Forbidden). Only abstract/metadata available from PubMed. No PMC ID assigned.
+
+---
+
+## Authors
+
+- Arvinder Wander
+- Ramandeep Singh
+- Sameer Peer
+- Roshwanth A
+
+---
+
+## Abstract
+
+This case report describes an early adolescent female with overlapping features of both Bickerstaff brainstem encephalitis (BBE) and Miller Fisher syndrome (MFS), characterized by anti-GQ1b antibody positivity. The patient was successfully treated with intravenous immunoglobulin (IVIg) therapy.
+
+---
+
+## Key Points
+
+- Case of adolescent female with BBE-MFS overlap
+- Anti-GQ1b antibody positive
+- Highlights the diagnostic challenge of distinguishing BBE from MFS when features overlap
+- Supports the concept of an anti-GQ1b antibody spectrum (Fisher-Bickerstaff syndrome)
+- Successfully treated with IVIg
+- Published in BMJ Case Reports, October 2025
+
+---
+
+## Access Note
+
+Full article available via BMJ Case Reports (subscription or institutional access):
+https://doi.org/10.1136/bcr-2025-267048
