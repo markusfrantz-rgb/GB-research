@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-04-01
+> Senast uppdaterad: 2026-04-02
 
 ## Fas: Live / Aktiv forskning
 
@@ -246,3 +246,6 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-03-26 | Ny mapp `08-immunoglobulin-iga-safety/` tillagd i RAG-config. RAG reindexerad: 649 chunks (var 617). |
 | 2026-03-26 | Klinisk uppdatering: PE4 genomförd, sedering lättas, temp 37,5°C. |
 | 2026-03-26 | **Paradigmskifte dokumenterat:** IgA-brist ej längre absolut kontraindikation för IVIg (NHS 2025, BSI/UKPIN 2022). Anti-IgA-testning ej rutinmässigt rekommenderad. Komplementaktivering (CARPA) föreslagen alternativ mekanism (Collet 2024). |
+| 2026-04-02 | **Diagnostisk klarhet:** Anti-GQ1b POSITIV (höga titrar) → GBS–MFS–BBE överlappssyndrom bekräftat. MR bekräftar BBE-komponent. Daniel: prognos god, tar tid. |
+| 2026-04-02 | Solu-Medrol 3/3 slutförd. PE-kateter borttagen. Diagnostiska luckor uppdaterade (anti-GQ1b → löst). |
+| 2026-04-02 | Klinisk uppdatering: vikt 56,2 (baseline), temp 37,9, puls 117, BT 170/66. Magen mindre svullen. |
