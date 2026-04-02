@@ -98,6 +98,9 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-04-01 (13:00) | **MR hjärna + ryggmärg planerad** (båda). |
 | 2026-04-01 | **Labbeställningar (2026-03-31):** Anti-IgA-antikroppar beställda, inväntar svar. Anti-GQ1b beställd, inväntar svar. Daniel vill se ytterligare protein (troligen NfL eller anti-NF155). |
 | 2026-04-01 (em) | MR hjärna + rygg genomförd. Daniel granskar imorgon tillsammans med EEG. Besök: puls 84, BT 140/65 (stabilt ~1 h, ej noradrenalin). Patient lugn. Kompressionsstrumpor med massage på underbenen. |
+| 2026-04-02 | **Anti-GQ1b: POSITIV (höga titrar)** → **GBS–MFS–BBE överlappssyndrom bekräftat.** MR (hjärna + rygg) bekräftar BBE-komponenten. Daniel: **prognos god, tar tid.** Diagnostisk klarhet uppnådd. |
+| 2026-04-02 | Solu-Medrol dos 3/3 given (diskrepans ssk/läkare löst — Daniel bekräftade 3 doser). PE-kateter tas bort (infektionsriskreduktion). Anti-IgA inväntar svar (ej brådskande). |
+| 2026-04-02 | Vitals: vikt 56,2 kg (↓ mot baseline), temp 37,9°C, puls 117, BT 170/66 (brett pulstryck, dysautonomi). Magen mindre svullen. |
 
 ### Kommunikation
 
@@ -108,18 +111,18 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen på diafragmafunktion och djupet av den motoriska påverkan.
 
-### Diagnostiska luckor (per 2026-03-27)
+### Diagnostiska luckor (uppdaterad 2026-04-02)
 
 | Test | Status | Varför det behövs |
 |------|--------|--------------------|
 | Elektrofysiologi (NCS/EMG) | **Ej utförd** | Subtypning (AIDP/AMAN/AMSAN), prognos |
-| Gangliosid-antikroppar (inkl. anti-GQ1b) | **Beställd 2026-03-31, inväntar svar** | Subtypning, behandlingsval |
-| Anti-IgA-antikroppar (IgE + IgG) | **Beställd 2026-03-31, inväntar svar** | IVIg-säkerhet |
-| Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering |
+| Gangliosid-antikroppar (inkl. anti-GQ1b) | **✓ RESULTAT 2026-04-02: Anti-GQ1b POSITIV (höga titrar)** | GBS–MFS–BBE överlappssyndrom bekräftat |
+| Anti-IgA-antikroppar (IgE + IgG) | **Beställd 2026-03-31, inväntar svar** | IVIg-säkerhet (plan B-förberedelse, ej brådskande) |
+| Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering — möjligen mindre relevant nu med tydlig GQ1b-diagnos |
 | Serum-NfL | **Ej taget** | Prognos, axonal skada, behandlingssvar under sedering |
-| TSH, fT4 | **Kontrollerade 2026-03-26:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. | Levotyroxindos verkar ok — men fT3 behövs |
-| fT3 | **Resultat 2026-03-27: normalt** | Avgörande för nervregeneration (Schwann-celler, BDNF, NGF) — nu bekräftat normalt |
-| CSF IL-8 | **Ej taget** | GBS vs CIDP (96,7% specificitet) |
+| TSH, fT4 | **Kontrollerade 2026-03-26:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. | Levotyroxindos verkar ok |
+| fT3 | **Resultat 2026-03-27: normalt** | Avgörande för nervregeneration — nu bekräftat normalt |
+| CSF IL-8 | **Ej taget** | GBS vs CIDP — möjligen mindre relevant nu med tydlig diagnos |
 
 ### Hypoteser att utreda
 
