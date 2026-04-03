@@ -1,0 +1,961 @@
+Original Article
+
+Long-term Sequelae of Pediatric Bickerstaff
+Brainstem Encephalitis Includes Autonomic
+and Sleep Dysregulation
+
+Journal of Child Neurology
+2019, Vol. 34(3) 153-160
+ª The Author(s) 2018
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/0883073818820488
+journals.sagepub.com/home/jcn
+
+Jonathan D. Santoro, MD1,2
+
+Abstract
+Bickerstaff brainstem encephalitis is a rare, immune-mediated disorder of the brainstem and peripheral nervous system. Published
+knowledge of pediatric Bickerstaff brainstem encephalitis focuses on the acute phase of the disease process. This study evaluated longterm neurologic and immune sequelae of Bickerstaff brainstem encephalitis in children. A single-center retrospective chart review was
+performed. Clinical data, neuroimaging, polysomnograms, and serum data were reviewed. Five patients were included in this study. Four
+patients had no neurologic residua, and 1 patient continued to have mild bulbar dysfunction. There was neither recurrence of symptoms
+nor development of other neurologic or immunologic disorders at a median of 3 years after diagnosis. Review of systems was largely
+negative, although 2 patients endorsed symptoms consistent with mild orthostatic hypotension for 1 year after diagnosis, but these
+findings were not sustained. Four of 5 patients endorsed sleep dysregulation. Three patients met criteria for pediatric obstructive sleep
+apnea. Prognosis following pediatric Bickerstaff brainstem encephalitis is excellent although posttreatment autonomic and sleep dysregulation may reflect residua from acute phase inflammation in the peripheral nervous system and connections of the reticular
+activating formation of the brainstem, although this was time limited. Further prospective, multicenter, analysis is warranted.
+Keywords
+Bickerstaff, brainstem, obstructive sleep apnea, sleep, long-term, orthostatic hypotension
+Received July 27, 2018. Received revised October 17, 2018. Accepted for publication November 24, 2018.
+
+Bickerstaff brainstem encephalitis is a rare, immune-mediated
+disorder of the brainstem and peripheral nervous system characterized by a clinical triad of ataxia, encephalopathy, and
+ophthalmoplegia.1,2 The pathophysiology of Bickerstaff brainstem encephalitis is poorly understood but is believed to lie on
+a spectrum with other acute immune-mediated polyneuropathies, such as Guillain-Barré syndrome and Miller-Fisher syndrome. Bickerstaff brainstem encephalitis is differentiated
+from these entities by evidence of alterations in mental status
+and the presence of GQ1b antibodies (GQ1b Ab) (Figure 1).2,3
+Several large-scale studies of Bickerstaff brainstem encephalitis have been conducted in Japan, where the annual incidence is
+estimated to be 8 per 100 million individuals, and children
+constitute a minority of reported cases.2,4,5 Until recently,
+Bickerstaff brainstem encephalitis had not been examined in
+pediatric populations, with the majority of published knowledge focusing on the acute phase of the disease process.6
+Bickerstaff brainstem encephalitis and other GQ1b Ab–
+mediated disorders are nearly always monophasic, with most
+patients making full recovery. Rare reports of continued autonomic
+dysfunction in Guillain-Barré syndrome and Miller-Fisher syndrome exist but this has not been described in Bickerstaff brainstem
+encephalitis.7,8 Beyond description of focal neurologic deficits
+after diagnosis and treatment, existing literature is limited on the
+
+post-acute neurologic and immunologic clinical courses of patients
+with Bickerstaff brainstem encephalitis.2-9
+This study investigates the long-term neurologic and immunologic outcomes of 5 previously published cases of pediatric
+Bickerstaff brainstem encephalitis and identify areas of clinical
+investigation in the follow-up of this population.
+
+Methods
+Cohort Identification
+Following approval by the institutional review board, a retrospective
+chart review of pediatric patients previously diagnosed at our institution with Bickerstaff brainstem encephalitis was performed. Patients
+
+1
+
+Division of Child Neurology, Department of Neurology, Stanford University,
+Palo Alto, CA, USA
+2
+Department of Neurology, Massachusetts General Hospital, Harvard Medical
+School, Boston, MA, USA
+Corresponding Author:
+Jonathan D. Santoro, MD, Division of Child Neurology, Department of
+Neurology, Stanford University, 730 Welch Rd, 2nd floor, Palo Alto,
+CA 94305, USA.
+Email: jdsantoro@mgh.harvard.edu
+
+154
+
+Journal of Child Neurology 34(3)
+
+Figure 1. Presumed pathophysiology of GQ1b antibody formation and associated clinical syndrome.
+were identified through clinical practice and laboratory search for
+GQ1b Ab positivity. Diagnosis of Bickerstaff brainstem encephalitis
+had been made using criteria published by Koga et al,4 with acute
+clinical presentations published previously.6
+Inclusion criteria were age less than 18 years at diagnosis and an
+in-clinic physical and neurologic examination more than 2 years after
+diagnosis of Bickerstaff brainstem encephalitis. The author had examined all patients during their clinical course. First improvement was
+defined as any normalization of a patient’s neurologic examination
+following nadir of symptoms. Complete resolution was defined as
+attainment of normalized neurologic examination or return to functional baseline.
+
+Data Collection
+Previously published data on demographics, clinical history, neurologic examination at presentation, neurodiagnostic studies, treatment,
+and time to resolution of symptoms in the patient cohort were gathered
+for comparison.6 Additional data points collected included school
+assessments, polysomnogram data, neuroimaging studies, and serum
+lab work performed after initial presentation and hospital discharge.
+Neuroimaging was reviewed in person by the primary author and a
+board-certified neuroradiologist at our institution. All diagnostic studies performed as part of neurologic follow-up between diagnosis and
+follow-up were reviewed.
+
+Polysomnography
+All studies were conducted at our institution’s pediatric sleep center in
+accordance with the standards defined by the American Academy of
+
+Sleep Medicine without electroencephalographic (EEG) monitoring.10
+Software utilized during polysomnogram collection and analysis was
+Sandman NT (Nellcor Puritan Bennett, Ottawa, Ontario). All studies
+were performed using simultaneous pressure transducer, thermistor
+for nasal flow, piezoelectric chest and abdominal belts, end-tidal
+(ET) CO2 monitoring, pulse oximetry, snore microphone, 2-leg channels, chin electromyography, standard EEG montage, electrocardiography, and simultaneous video monitoring. In accordance with
+existing pediatric literature, abnormal apnea-hypopnea index was
+defined as 5.0 and abnormal periodic limb movement index in rapid
+eye movement (REM) sleep was defined as 5.0.10,11
+
+Results
+In total, 5 patients were identified for review. The median age
+at diagnosis was 13 years. The median time between diagnosis
+and last follow-up was 3 years (range 2.5-4.0 years), and
+patients had a median current chronologic age of 17 years.
+Demographic and acute clinical data is presented in Tables 1
+and 2. All patients were GQ1b Ab positive at diagnosis with a
+median titer of 1:6400. In general, all patients had recovered
+fully or near fully without evidence of recurrence of disease.
+One patient had a persistent nasal voice, which was considered
+a sign of residual brainstem dysfunction, although no limitations in his daily activities or difficulty with oromotor function
+were evident. This patient had an otherwise normal neurologic
+examination.
+Complete review of systems remained largely negative following each patient’s monophasic illness. There were no
+
+Santoro
+
+155
+
+Table 1. Patient Demographic Data and Clinical Course.
+Age at
+Symptoms at initial
+diagnosis Gender Ethnicity presentation
+Patient 1
+
+15
+
+M
+
+Patient 2
+
+13
+
+M
+
+Patient 3
+
+6
+
+F
+
+Patient 4
+
+4
+
+M
+
+Patient 5
+
+18
+
+M
+
+CSF results
+
+Treatment
+
+Time to resolution (d)
+
+IVIg (2 g/kg) over 5 d First improvement: 12
+LP1 (day 3): bloody tap,
+Somnolence, ataxia,
+Full resolution: 23
+started on
+but otherwise
+ophthalmoplegia !
+hospital day 2,
+unremarkable
+confusion, bilateral facial
+then steroid pulse
+paresis, global weakness, LP2 (day 8): unremarkable
+of 1 g/d for 3 d
+findings
+hyperreflexia, truncal/
+appendicular ataxia !
+severe obtundation,
+complete
+ophthalmoplegia, severe
+dysarthria
+LP1 (day 4): unremarkable Methylprednisolone First improvement: 10
+Asian
+Somnolence, ataxia,
+at 1 g/d for 3 d
+Full resolution: 24
+findings
+diplopia, gaze paresis,
+LP2 (day 13):
+emesis, aphasia,
+unremarkable findings
+dysarthria, global
+weakness,
+ophthalmoplegia, truncal
+ataxia, areflexia
+LP1 (day 4): 11 WBC/mL Ceftriaxone for 2 d First improvement: 11
+White
+Anorexia, somnolence,
+followed by IVIg Full resolution: 120
+(71% neutrophils, 24%
+dysarthria, ataxic gait,
+(2 g/kg)
+lymphocytes, 5%
+complete bilateral
+administered over
+monocytes), 1 RBC/mL,
+ophthalmoplegia, left2 d on day 5
+protein 47 mg/dL,
+sided facial weakness,
+glucose within normal
+dysphagia, dysmetria,
+limits
+generalized weakness,
+hyporeflexia, stockingglove pattern
+neuropathy to fine touch
+and pain ! complete
+loss of sensation in
+lower extremities, poor
+airway control
+First
+LP1 (day 4): unremarkable IVIg (2 g/kg)
+Hispanic Headache in supine
+improvement: 8
+findings
+administered over
+position, emesis,
+3d
+bilateral arm weakness,
+Full resolution: 14
+significant truncal ataxia,
+ataxic gait, hyporeflexia
+! somnolence,
+horizontal nystagmus,
+external
+ophthalmoparesis,
+sluggishly reactive pupils,
+right-sided facial
+weakness, appendicular
+ataxia, weak gag reflex
+with poor secretion
+control, anorexia,
+areflexia, flattened affect
+First improvement: 5
+1 g/d
+LP (day 2): 2 WBC/mL
+Asian
+Headache, blurry vision/
+methylprednisone Full resolution: 15
+(90% lymphocytes),
+double vision, global
+for 3 d starting on
+1 RBC/mL, 51 mg/dL
+weakness, dysarthria,
+hospital day 3
+glucose, 110 mg/dL
+ataxia, partial
+protein
+ophthalmoparesis,
+hyporeflexia, and
+somnolence/lethargy
+Asian
+
+Abbreviations: CSF, cerebrospinal fluid; IVIg, intravenous immunoglobulin; LP, lumbar puncture; RBC, red blood cell; WBC, white blood cell.
+
+156
+
+Journal of Child Neurology 34(3)
+
+Table 2. Preceding Illness, Therapeutic Intervention, and
+Neurodiagnostic Studies by Frequency and Time to Improvement.
+Frequency
+n (%), median IQR)
+Demographics
+Median age (y) at diagnosis
+Median age (y) at follow-up
+Time between diagnosis and follow-up
+Gender (M:F)
+Median BMI at presentation
+Preceding illness
+Any illness
+URTI
+Gastroenteritis
+None
+Symptomsa
+Bulbar palsy
+Hypo/areflexia
+Extremity weakness
+Facial palsy
+Visual deficits
+Hyperreflexia
+Altered sensorium/paresthesias
+Aphasia/mutism
+Clinical course
+Median days to nadirb
+Median days to full resolution
+Treatment
+IVIg only
+Steroids
+Steroids and IVIg
+Neurodiagnostic Studies (at diagnosis)
+Anti-GQ1b Ab positivity
+Median titer
+CSF cytoalbuminologic dissociation
+CSF pleocytosis
+Abnormal MRI
+
+13 (5-16.5)
+17 (8.5-19.5)
+3 (3-4)
+4:1
+20.5
+4 (80)
+4 (80)
+1 (20)
+0
+5 (100)
+4 (80)
+3 (60)
+3 (60)
+2 (40)
+1 (20)
+1 (20)
+1 (20)
+10 (6.5-11.5)
+24 (19-89)
+2 (40)
+2 (40)
+1 (20)
+5 (100)
+6400 (3360-9600)
+2 (40)
+1 (20)
+0
+
+Abbreviations: BMI, body mass index; CSF, cerebrospinal fluid; IVIg,
+intravenous immunoglobulin; URTI, upper respiratory tract infection.
+a
+In addition to altered mental status, ophthalmoplegia, and ataxia.
+b
+Alternatively defined as days to first clinical improvement.
+
+episodes of optic neuritis, myelitis, encephalopathy, epilepsy,
+migraine headache, or focal neurologic deficits endorsed by
+patients or family members. Two patients (patients 2 and 5)
+reported intermittent lightheadedness with standing, typically
+in the morning, for the first year after diagnosis and treatment
+for Bickerstaff brainstem encephalitis. In evaluation of orthostatic hypotension, both patients had orthostatic vitals assessed
+at multiple visits (Table 3), but neither met clinical criteria for
+orthostatic hypotension.12 The symptoms of orthostatic hypotension were not assessed with autonomic testing nor necessitated pharmacologic treatment. Patients with symptoms of
+orthostatic hypotension did not endorse concurrent symptoms
+of peripheral neuropathy during this period, nor were they
+reported to have abnormalities of gait. Hydration status was
+reported to be normal by history, and no patient was appreciably deconditioned on physical examination. One patient
+
+(patient 4) endorsed repeated allergic responses to foods and
+environmental allergens although none resulted in anaphylaxis.
+All 5 patients had received routine vaccinations (including
+influenza; meningococcus; human papilloma virus; and
+diphtheria and tetanus toxoids and acellular pertussis) no less
+than 6 months after diagnosis and treatment, but no patient had
+complications related to administration.
+Interestingly, sleep dysregulation following diagnosis and
+treatment of Bickerstaff brainstem encephalitis was reported
+in 4 patients, with 3 endorsing persistent symptoms. No patient
+had a family or personal history of sleep dysregulation prior to
+diagnosis of Bickerstaff brainstem encephalitis. All patients
+endorsed that the severity of these issues was worse in the first
+year after diagnosis and slowly improved thereafter without
+large fluctuations in symptoms. All 4 patients endorsed snoring
+(100%), with 3 patients having had observed apneic events
+(75%) with these episodes at some point following their monophasic illness (Table 4). Median body mass index at diagnosis
+was 20.5, with no patient demonstrating increases in body mass
+index during the study period. Three patients (75%) also
+endorsed insomnia with a primary complaint of difficulty falling asleep. Additionally, 3 patients (75%) reported frequent
+nocturnal arousals. Subjective restlessness, defined as frequent
+motion/moving during sleep (3 patients), and sleep talking
+(1 patient) were also reported. Ferritin levels were not available
+for any patient.
+Polysomnograms were available in 4 patients, at a median
+time of 13.3 months (range 9-19 months) after diagnosis and
+treatment. All patients had normal REM latency, average REM
+cycles, and percentages spent in each phase of sleep. One
+patient was noted to have poor sleep efficiency at 71%.
+Apnea-hypopnea indices were elevated in 3 patients indicating
+mild obstructive sleep apnea. Of these patients, none were
+noted to have central hypoventilation, with no dramatic rises
+in end-tidal CO2 levels (Table 4). Periodic limb movements
+were marginally elevated in only 1 patient, and no patient was
+noted to have clinical evidence of REM behavior disorder. One
+patient with very mildly elevated periodic limb movement
+index displayed evidence of REM sleep without atonia on
+video review.
+Neuroimaging consisting of magnetic resonance imaging
+(MRI) of the brain with and without contrast was normal in all
+patients, including 3 follow-up studies performed an average of
+9 months after diagnosis. In all 3 cases, neuroimaging remained
+normal at subsequent follow-up scans. Only 1 patient (patient
+1) had nerve conduction studies performed at presentation, with
+normal results at day 13 of illness. In the setting of full recovery, this study was not repeated. Similarly, as no patient had
+seizures at presentation or subsequently, no EEGs were
+repeated in the follow-up period. Anti-GQ1b Ab was tested
+again in 3 patients, one of which was the previously mentioned
+patient with bulbar insufficiency (Table 5). Only 1 patient had a
+persistently elevated GQ1b Ab (1:320, down from 1:12 800) at
+6 months but the patient was clinically asymptomatic, and thus
+no intervention was made.
+
+Santoro
+
+157
+
+Table 3. Orthostatic Vital Sign Data.
+Patient 2
+
+Patient 5
+
+Visit number (time to visit from discharge)
+
+Blood pressurea
+supine standing
+
+Heart rateb
+supine standing
+
+1 (0-3 mo)
+2 (6-12 mo)
+3 (12-18 mo)
+4 (18þ mo)
+Largest D
+Mean
+
+–
+–
+106/66
+90/45
+114/76
+96/70
+112/84
+108/78
+–18/–21
+111/75
+101/64
+
+–
+64
+88
+72
+
+a
+b
+
+–
+70
+90
+102
+þ16
+
+75
+
+87
+
+Blood pressure
+supine standing
+110/82
+88/64
+102/68
+90/52
+–
+–
+104/64
+100/72
+–22/–18
+105/71
+93/63
+
+Heart rate
+supine standing
+78
+62
+–
+64
+
+87
+68
+–
+88
+þ10
+
+68
+
+81
+
+Blood pressure measured in millimeters of mercury (mmHg).
+Heart rate measured as beats per minute.
+
+Discussion
+Although traditionally characterized as a monophasic illness,
+there are no studies that document the long-term follow-up of
+children diagnosed with Bickerstaff brainstem encephalitis.
+This case series reports 5 patients who made complete or near
+complete neurologic recovery from GQ1b Ab–positive Bickerstaff brainstem encephalitis with no evidence of recurrence of
+disease or development of further neurologic or immune disorders. Although review of systems in all patients was essentially negative, disrupted sleep was frequently reported, with
+elevated apnea-hypopnea index appreciated in 75% of patients
+who had a polysomnogram. These abnormalities were not associated with continued presence of GQ1b Ab, which was only
+mildly elevated in 1 patient 6 months after diagnosis and is of
+unclear clinical significance.
+The resolution of symptoms both by neurologic examination
+and review of systems is consistent with previously reported
+literature identifying that Bickerstaff brainstem encephalitis is
+monophasic in nature.4-6 Although palatal insufficiency and
+bulbar dysfunction has been previously reported in the acute
+phases of Bickerstaff brainstem encephalitis, a persistent dysfunction several years after diagnosis has not.5,6,13 This patient
+with continued nasal voice had prominent dysphagia in the
+acute setting as well, and the author hypothesizes that persistent
+symptoms may be mild residua of prior inflammation during
+the acute phase although gliosis was not identified on repeat
+neuroimaging in this patient. Persistent symptoms associated
+with GQ1b Ab activity are presumed to be unlikely as patients
+with continued antibody presence typically take a relapsing/
+remitting clinical course and often have other focal neurologic
+findings.14-16
+Two patients also noted symptoms of orthostatic hypotension following the acute phase of illness. This is consistent with
+autonomic dysfunction observed in disorders such as GuillainBarré syndrome and Miller-Fisher syndrome, which are
+thought to be on the GQ1b Ab spectrum of disease.17-19 Interestingly, these 2 patients had more mild clinical courses during
+the acute phase, with rapid improvements following IV methylprednisolone therapy monotherapy. Further, GQ1b Ab titer was
+1:6400 at diagnosis, which was the median in our study making
+
+it difficult to draw conclusions regarding the severity of Bickerstaff brainstem encephalitis and subsequent symptoms of
+orthostatic hypotension. Some degree of orthostatic hypotension can be seen in patients who are dehydrated or cardiovascular deconditioned, which would not necessarily indicate
+autonomic dysfunction although this was not evidenced in the
+clinical history or physical examination. Finally, these patients
+were both untreated with very mild symptoms (as evidenced by
+orthostatic vital signs as well)—a testament to the indistinct
+association between Bickerstaff brainstem encephalitis and
+autonomic dysfunction.
+Perhaps the most interesting finding in this study was the
+revelation of persistent sleep dysfunction and disordered
+respiration in sleep in this population following the acute
+phase of illness. Sleep disturbances were the most frequently
+reported sequelae of any kind in this study and also previously unreported in literature on Bickerstaff brainstem encephalitis. The exact etiology to this dysfunction is unclear,
+although clinically, 3 patients met criteria for pediatric
+obstructive sleep apnea.20 Although the pathology of Bickerstaff brainstem encephalitis is presumed to involve GQ1b
+Ab activity in the reticular activating formation of the brainstem,2-4 long-term pathology has not been previously demonstrated outside of the acute phase of illness. It was interesting
+to note that initial GQ1b Ab titer or subsequent positivity did
+not correlate sleep-related sequelae. The observation of
+obstructive sleep apnea may be evidence of mild residual
+glossopharyngeal or vagus nerve inflammation or injury,
+although this was not directly assessed in these patients.
+Interestingly, of patients with abnormalities on polysomnogram, apnea-hypopnea index was elevated in younger
+patients (patients 2-4), and REM sleep without atonia was
+appreciated in the youngest patient. These patients had no
+evidence of pathologic change on repeat neuroimaging. The
+author hypothesizes that a combination of microstructural
+changes occurring during the primary disease process and
+younger patients who may be more susceptible to this pathology in the setting of development of critical circuits in the
+reticular activating formation may be the most unifying
+explanation for this finding. In addition to disordered breathing, 1 patient demonstrated very mild elevations in periodic
+
+158
+
+Journal of Child Neurology 34(3)
+
+Table 4. Polysomnogram Data and Subjective Sleep Complaints by History.
+Patient ID
+Patient 1,
+9 mo
+
+Patient 2,
+14 mo
+
+Patient 3,
+19 mo
+
+Patient 4,
+11 mo
+
+1:6400
+378
+71
+121
+3
+0.9
+38
+36.1
+25
+14
+41.2
+44.8
+49.2
+P
+2
+48.2
+N
+N
+
+1:640a
+478
+96
+145
+2
+0.5
+40.8
+31.3
+17.4
+8.2
+42.9
+43.9
+48.7
+P
+0
+17.5
+N
+N
+
+1:320
+412
+89
+178
+4
+0.8
+37
+41.2
+20.1
+7.1
+40.7
+43.2
+51.0
+P
+5.3
+21.2
+N
+Y
+
+Y
+Y
+Y
+Y
+Y
+Y
+
+Y
+Y
+Y
+Y
+N
+Y
+
+Y
+Y
+Y
+N
+N
+N
+
+Polysomnogram data
+Initial GQ1b Ab titer
+1:12 800
+Total sleep time
+401
+Sleep efficiency
+82
+REM latency
+140
+REM cycles
+4
+%N1
+0.5
+%N2
+43.8
+%N3
+36.5
+%REM
+19.2
+AHI
+2.5
+Mean EtCO2 (awake)
+39.4
+Mean EtCO2 (asleep)
+42.0
+Peak EtCO2 (asleep)
+50.3
+Central/obstructive apnea
+P
+PLMI REM
+3.1
+PLMI NREM
+12.8
+Evidence of RBD
+N
+Evidence of RSWA
+N
+Subjective sleep complaints (Y/N)
+Snoring
+Y
+Observed apnea
+N
+Insomnia
+N
+Y
+Restlessness
+N
+Sleep talking
+Y
+Frequent movement
+
+Mean
+
+Median
+
+IQR
+
+5040
+383.75
+84.5
+146
+3.25
+0.675
+42.4
+36.28
+20.43
+7.95
+41.05
+43.48
+49.80
+
+5040
+406.5
+85.5
+142.5
+3.5
+0.65
+40.9
+36.3
+19.65
+7.65
+40.95
+43.55
+49.75
+
+400-11 200
+383.75-461.5
+73.75-94.25
+125.75-169.75
+2.25-4
+0.5-0.88
+37.25-49.05
+32.5-40.03
+17.85-23.78
+3.65-12.55
+39.73-42.48
+42.30-44.56
+48.825-50.83
+
+2.6
+24.93
+
+2.55
+19.35
+
+0.5-4.75
+13.98-41.45
+
+Abbreviations: %N1, percentage of time is stage 1 sleep; %N2, percentage of time in stage 2 sleep; %N3, percentage of time in stage 3 or deep sleep; %REM,
+percentage of time in REM sleep; AHI, apnea-hypopnea index; EtCO2, end tidal carbon dioxide; PLMI REM, periodic limb movement index in REM sleep; PLMI
+NREM, periodic limb movement index in non-REM sleep; RBD, REM behavior disorder; REM, rapid eye movement sleep; RSWA, REM sleep without atonia.
+a
+This study was negative initially and then resulted as positive 1:320 titer on repeat lab draw 1 week later (day 8 of illness).
+
+Table 5. Repeat GQ1b Ab Testing.
+
+Persistent neurologic
+dysfunction
+Initial GQ1b Ab at diagnosis
+Follow-up GQ1b Ab
+Months between initial and
+follow-up testing
+
+Patient 1
+
+Patient 2
+
+Patient 4
+
+No
+
+Yes
+
+No
+
+1:12 800
+1:320
+
+1:6400
+0 (not
+detected)
+13
+
+1:320
+0 (not
+detected)
+9
+
+6
+
+limb movement index in REM sleep, thus meeting a criterion
+for REM sleep without atonia. Although this case is mild, it
+may provide an etiology to this patient’s subjective complaint of restless sleep when more specific conclusions cannot be drawn. Of note, no patient demonstrated clinical
+evidence of REM behavior disorder, which would be more
+specific for large-scale central inflammatory disease. A small
+number of other studies have noted dysregulated sleep in
+persons with other infectious and inflammatory disorders
+of the brainstem although it is unclear if these pathologic
+
+processes cause injury by a similar mechanism although no
+significant parasomnias such as REM behavior disorder were
+appreciated in this cohort.21-26 Additionally, the sleep-related
+pathology in these cases was quite heterogeneous and may
+not be as clearly applicable to the cases presented in this
+manuscript. The cases presented indicate that more indepth screening of patients in the post-acute period of Bickerstaff brainstem encephalitis for sleep disorders is
+warranted.
+This study is limited in both its retrospective nature and
+case series format. Additionally, the data presented come
+from a single institution and report a small number of patients.
+Selection bias is possible as the patients were identified and
+examined by the author, although standardized tools of diagnosis and clinical workup were performed according to established criteria.2-6 There is severity bias for both testing of
+GQ1b Ab and diagnosis of Bickerstaff brainstem encephalitis
+in clinical practice, and thus the cases presented in this manuscript may reflect only moderate to severe cases of rhombencephalitis with associated GQ1b Ab positivity. The one
+patient who remained GQ1b Ab positive was resampled the
+earliest in our cohort at only 6 months, which may have
+
+Santoro
+
+159
+
+created a time-associated sampling bias as both specimens
+that were obtained at later time points in other patients were
+negative. Of note, use of piezoelectric bands for measuring
+chest and abdominal effort is nonstandard, with the American
+Academy of Sleep Medicine recommending use of respiratory
+inductance plethysmography. This was unlikely to have changed the findings presented in this study but is a deviation from
+American Academy of Sleep Medicine recommendations.
+Finally, given the rarity of Bickerstaff brainstem encephalitis,
+a small number of patients meeting strict inclusion/exclusion
+criteria limits the overall power of the observations presented
+and prevents extrapolation of these data to directly inform
+clinical care.
+
+Conclusions
+Pediatric Bickerstaff brainstem encephalitis with GQ1b Ab
+positivity appears to have a relatively benign clinical course
+following the acute phase of disease although autonomic dysfunction and sleep dysregulation seem to be long-term issues in
+this population. To further expand on this data, the author
+suggests further study of pediatric Bickerstaff brainstem encephalitis in larger, multicenter, prospective design given the
+rarity of this disorder. Collection of this data will allow the
+stratification of mild, moderate, and severe cases and provide
+a uniform way of investigating autonomic, sleep, and other
+autoimmune-associated pathology in a more standardized manner, especially as GQ1b Ab–associated disorders are increasingly tested for and identified.
+Acknowledgments
+The author wishes to thank the division of Child Neurology at Stanford for their continued support in the research and production of this
+manuscript.
+
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article.
+
+Funding
+The author received no financial support for the research, authorship,
+and/or publication of this article.
+
+ORCID iD
+Jonathan D. Santoro, MD
+
+https://orcid.org/0000-0002-8350-8234
+
+Ethical Approval
+This study received IRB approval from institutions involved. Consent
+was waived in the setting of retrospective chart review.
+
+References
+1. Fisher M. An unusual variant of acute idiopathic polyneuritis—
+syndrome of ophthalmoplegia, ataxia, and areflexia. N Engl J
+Med. 1956;255(2):57-65.
+
+2. Ito M, Kuwabara S, Odaka M, et al. Bickerstaff’s brainstem encephalitis and Fisher syndrome form a continuous spectrum: clinical
+analysis of 581 cases. J Neurol. 2008;255(5):674-682.
+3. Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T. Clinical
+features and prognosis of Miller Fisher syndrome. Neurology.
+2001;56(8):1104-1106.
+4. Koga M, Kusunoki S, Kaida K, et al. Nationwide survey of
+patients in Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry. 2012;83(12):1210-1215.
+5. Hacohen Y, Nishimoto Y, Fukami Y, et al. Paediatric brainstem
+encephalitis associated with glial and neuronal autoantibodies.
+Dev Med Child Neurol. 2016;58(8):836-841.
+6. Santoro JD, Lazzareschi DV, Campen CJ, Van Haren KP. Pediatric Bickerstaff brainstem encephalitis: a systematic review of
+literature and case series. J Neurol. 2018;265(1):141-150.
+7. Koeppen S, Kraywinkel K, Wessendorf TE, et al. Long-term
+outcome of Guillain-Barre syndrome. Neurocrit Care. 2006;
+5(3):235-242.
+8. Lyu RK, Tang LM, Hsu WC, Chen ST. Quantitative cardiovascular autonomic function study in Fisher syndrome. J Neurol
+Neurosurg Psychiatry. 2002;73(3):333-335.
+9. Overell JR, Willison HJ. Recent developments in Miller Fisher
+syndrome and related disorders. Curr Opin Neurol. 2005;18(5):
+562-566.
+10. American Academy of Sleep Medicine. International Classification of Sleep Disorders, 2nd Edition. Diagnostic and Coding
+Manual. Westchester, IL: American Academy of Sleep Medicine;
+2005.
+11. Marcus CL, Traylor J, Gallagher PR, et al. Prevalence of periodic
+limb movements during sleep in normal children. Sleep. 2014;
+37(8):1349-1352.
+12. Freeman R, Wieling W, Axelrod FB, et al. Consensus statement
+on the definition of orthostatic hypotension, neutrally mediated
+syncope and the postural tachycardia syndrome. Clin Auton Res.
+2011;21(2):69-72.
+13. Verhelst H, Maes M, Deblaere K, Van Coster R. Palatal insufficiency as isolated sign of GQ1b antibody syndrome. Pediatr Neurol. 2011;44(4):292-294.
+14. Kuijf M, Ruts L, van Doorn PA, Koudstaal PJ, Jacobs BC. Diagnostic value of anti-GQ1b antibodies in patient with relapsing
+dysarthria and ataxia. BMJ Case Rep. 2009;2009. pii:bcr08.
+2008.0783.
+15. Hamaguchi T, Yamaguchi K, Komai K, et al. Recurrent antiGQ1b IgG antibody syndrome showing different phenotypes in
+different periods. J Neurol Neurosurg Psychiatry. 2009;74(9):
+1350.
+16. Sharma V, Chan YC, OngTeoh HL, Wilder-Smith EP. Bickerstaff’s brainstem encephalitis: can it recur? J Clin Neurosci. 2006;
+13(2):277-279.
+17. Samadi M, Kazemi B, Golzari Oskoui S, Barzegar M. Assessment
+of autonomic dysfunction in childhood Guillain-Barre syndrome.
+J Cardiovasc Thorac Res. 2013;5(3):81-85.
+18. Dimario FJ, Edwards C. Autonomic dysfunction in childhood
+Guillain-Barre syndrome. J Child Neurol. 2012;27(5):581-586.
+
+160
+19. Lyu RK, Tang LM, Hsu WC, Chen ST. Quantitative cardiovascular autonomic function study in Fisher syndrome. J Neurol
+Neurosurg Psychiatry. 2002;73(3):333-335.
+20. Marcus CL, Brooks LJ, Draper KA, et al. Diagnosis and management of childhood obstructive sleep apnea syndrome. Pediatrics.
+2012;130:576-584.
+21. Saji N, Kawarai T, Tadano M, et al. Does CSF hypocretin-1
+decrease in Bickerstaff’s brainstem encephalitis? Clin Neurol
+Neurosurg. 2007;109(6):547-548.
+22. Limousin N, Dehais C, Heran F, Oudiette D, Arnulf I. A brainstem inflammatory lesion causing REM sleep behavior disorder
+and sleepwalking (parasomnia overlap disorder). Sleep Med.
+2009;10(9):1059-1062.
+
+Journal of Child Neurology 34(3)
+23. Launois SH, Syanko N, Joyeux-Faure M, Tamisier R, Pepin JL.
+Acquired central hypoventilation following Listeria monocytogenes rhombencephalitis. Thorax. 2017;72(8):763-765.
+24. Milhaud D, Bernardin G, Roger PM, Magnie M, Mattei M. Central apnea with consciousness impairment due to Listeria rhombencephalitis sequelae. Rev Neurol (Paris). 1999;155(2):
+152-154.
+25. Piazzi G, Montagna P. Remitting REM sleep behavior disorder as
+the initial sign of multiple sclerosis. Sleep Med. 2012;3(5):
+437-439.
+26. Tippmann-Peikert M, Boeve BF, Keegan BM. REM sleep behavior disorder initiated by acute brainstem multiple sclerosis. Neurology. 2006;66(8):1277-1279.
+
+

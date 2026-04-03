@@ -1,0 +1,930 @@
+Journal of Neurology (2018) 265:141–150
+https://doi.org/10.1007/s00415-017-8684-8
+
+ORIGINAL COMMUNICATION
+
+Pediatric Bickerstaff brainstem encephalitis: a systematic review
+of literature and case series
+Jonathan Douglas Santoro1 · Daniel V. Lazzareschi2 · Cynthia Jane Campen1 · Keith P. Van Haren1
+Received: 23 October 2017 / Accepted: 16 November 2017 / Published online: 24 November 2017
+© Springer-Verlag GmbH Germany, part of Springer Nature 2017
+
+Abstract
+Objective To characterize the phenotype of pediatric Bickerstaff’s brainstem encephalitis (BBE) and evaluate prognostic
+features in the clinical course, diagnostic studies, and treatment exposures.
+Methods We systematically reviewed PubMed, Web of Science, and SCOPUS databases as well as medical records at
+the Lucile Packard Children’s Hospital to identify cases of pediatric BBE. Inclusion required all of the following criteria:
+age ≤ 20 years, presence of somnolence or alterations in mental status at the time of presentation or developed within 7 days
+of presentation, ataxia, and ophthalmoplegia.
+Results We reviewed 682 manuscripts, identifying a total of 47 pediatric BBE cases. We also describe five previously unreported cases. The phenotype of these pediatric patients was similar to previously published literature. Sixty-eight percent
+of patients demonstrated positive anti-GQ1b antibody titers, yet the presence of these antibodies was not associated with
+longer times to recovery. Patients with neuroimaging abnormalities featured a longer median time to recovery, but this was
+not statistically significant (p = 0.124). Overall, patients treated with any form of immunotherapy (intravenous immunoglobulin, steroids, or plasmapheresis) demonstrated shorter median time to resolution of symptoms compared to supportive
+therapy, although this trend was not statistically significant (p = 0.277). Post-hoc t tests revealed a trend towards use of
+immunotherapy against supportive care alone (p = 0.174).
+Conclusion Our study identified clinical, radiologic, and treatment features that may hold prognostic value for children with
+BBE. The role of immunotherapy remains under investigation but may prove of utility with further, randomized controlled
+studies in this rare disease.
+Keywords Pediatric · Bickerstaff · Brainstem · Encaphalitis · Immunotherapy
+
+Introduction
+Bickerstaff’s brainstem encephalitis (BBE) is a rare,
+immune-mediated, disorder of the brainstem and peripheral nervous system characterized by a clinical triad of
+ataxia, encephalopathy, and ophthalmoplegia [1, 2]. The
+Daniel V. Lazzareschi is a co-first author.
+Electronic supplementary material The online version of this
+article (https://doi.org/10.1007/s00415-017-8684-8) contains
+supplementary material, which is available to authorized users.
+* Jonathan Douglas Santoro
+jsantoro@stanford.edu
+1
+
+Division of Child Neurology, Lucile Packard Children’s
+Hospital at Stanford, Palo Alto, CA, USA
+
+2
+
+Stanford University School of Medicine, Palo Alto, CA, USA
+
+pathophysiology of BBE is poorly understood but is believed
+to lie on a spectrum with other acute immune-mediated polyneuropathies, such as Guillain–Barré Syndrome (GBS) and
+Miller-Fisher syndrome (MFS). BBE is unique from these
+entities, in that it presents with marked alterations in mental
+status [2, 3]. Many of the existing large-scale studies of BBE
+have been conducted in Japan where the annual incidence is
+estimated to be 8 per 100 million individuals, and children
+constitute a minority of reported cases [2, 4, 5].
+To our knowledge, no prior systematic reviews of pediatric BBE exist, nor are there trials validating therapeutic
+interventions in pediatric populations. This study explores
+47 cases of pediatric BBE from an extensive search of
+medical literature as well as five, previously unreported,
+cases evaluated at the Lucile Packard Children’s Hospital
+at Stanford University (LPCH). This analysis has three primary objectives: first, to phenotype pediatric BBE, and in
+Vol.:(0123456789)
+1
+3
+
+142
+
+Journal of Neurology (2018) 265:141–150
+
+doing so, identify clinical presentations and neurodiagnostic
+profiles; second, to identify diagnostic and prognostic biomarkers in pediatric BBE; and third, to evaluate the utility
+of therapeutic immunomodulatory interventions in children
+with this disease.
+
+Methods
+Following approval by the Stanford University Institutional Review Board, we conducted a literature review
+to identify appropriate studies and searched the PubMed
+database on April 29, 2016. We ran additional searches in
+PubMed, Web of Science, and Scopus databases on May
+23, 2016, June 13, 2016, and April 24, 2017. No restrictions in date of publication were applied. The authors
+included manuscripts published in either English or Spanish. The specific search strategies for all databases are
+included in supplemental materials. Five additional cases
+were identified through course of practice at LPCH from
+2012 to 2017 (Supplemental Data).
+Inclusion and exclusion criteria for evaluating the literature were determined prior to the search (“Appendices
+A” and “B”) and were based on previously used criteria
+published by Koga et al. [4]. All patients had to meet criteria for at least “probable” BBE. All manuscripts were
+reviewed independently by the authors (JDS and DVL).
+
+Data were extracted from manuscripts with cases identified as meeting all inclusion criteria and no exclusion
+criteria using a standardized tool for term classification
+(“Appendix B”), which was performed in duplicate by the
+authors (JDS and DVL) to eliminate bias or inconsistencies in data extraction (Fig. 1).
+To assess responses to immunotherapy, a one-way analysis of variance (ANOVA) test was performed among four
+treatment groups: supportive care only, steroid or IVIG
+monotherapy, steroid/IVIG dual therapy, and any immunotherapy (steroids, intravenous immunoglobulin (IVIg),
+or plasmapheresis (PLEX)). Additionally, we used a multivariate linear regression to test our primary hypothesis
+that immunotherapy intervention would reduce the median
+time to resolution of neurologic symptoms. The exposure
+was binary and defined as receiving any form of immunotherapy versus receiving supportive and non-immunologicbased therapies only. The outcome was time-to-symptom
+resolution using propensity score and binary presence/
+absence of immunotherapy as predictors. To calculate each
+patient’s propensity score, we used a logistic regression model with multiple binary and continuous predictors, including history of prior upper respiratory tract infection (URTI), severity of altered mental status, bulbar palsy,
+muscle weakness, and hyperreflexia. For variable selection
+in this non-parsimonious model, we excluded those measured variables whose coefficients’ p values exceeded 0.2 in
+
+Database Search
+Pubmed 184, Refworks and Scopus 513, Web of
+Science 162
+(N= 859)
+
+Full Manuscripts not
+Published in English or
+Spanish Language (N= 8)
+
+Stanford Cases
+(n=5)
+
+Manuscripts After Duplicates Removed
+N= 811
+
+Records After Removal of Non-Clinical Reports
+(reviews, commentary, animal studies, pharmacokinetic
+studies, unrelated to topic)
+N= 682
+
+Diagnosis Consistent with
+Guillain-Barré Syndrome
+N= 448
+Manuscripts Consistent with Diagnosis of Bickerstaff’s
+Brainstem Encephalitis
+N= 39, n= 47
+Total Cases
+n= 52
+
+Fig. 1  Manuscript review algorithm (N = manuscripts, n = cases)
+
+13
+
+Diagnosis Consistent with
+Miller-Fisher Syndrome
+N= 113
+
+Diagnosis of other
+medical pathology notconsistent with BBE (Ex:
+Herpes Encephalitis)
+N= 82
+
+Journal of Neurology (2018) 265:141–150
+
+univariate screening. Propensity scores were employed to
+improve balance between the patients who did and did not
+receive immunotherapy, and these scores reflect the likelihood of each patient receiving immunotherapy based on
+the severity of his/her disease status, thereby minimizing
+severity bias in the evaluation of disease outcome based
+on treatment. Due to limitations in sample size, scorebased matching methods of analysis were not possible, and
+as such the propensity score was used as a continuous predictor alongside binary immunotherapy exposure in the final
+linear regression model.
+
+Results
+In total, 859 citations were retrieved among three database
+resources. A combined method of manual and citation manager de-duplication was conducted to eliminate 48 duplicate
+citations and an additional eight citations that were published in neither English nor Spanish, resulting in a total
+of 803 citations for review. A review at the abstract level
+eliminated an additional 121 citations. In total, 682 manuscripts were included for full manual review, with authors
+(JDS and DVL) determining inclusion based on pre-defined
+criteria. Following application of strict inclusion/exclusion
+criteria, this study identified 39 manuscripts describing 47
+patients [6–42]. Five additional patients treated at LPCH
+were also reviewed and included. Of these, there were 32
+cases of “definitive” BBE and 20 cases of “probable” BBE
+[4]. A complete collection of all cases is provided in supplemental materials.
+The median age of patients was 10 years; the youngest
+patient was 2 years of age. Sex was specified in 50 cases,
+of which 36 were male and 14 were female (2.6:1 male-tofemale ratio). A total of 47 patients (90%) reported a transient, self-resolving, illness preceding the onset of neurologic symptoms with a median time of antecedent illness
+to neurologic symptom development of 9 days. Of these
+patients, 14 (30%) experienced a flu-like illness; 19 (40%)
+reported an upper respiratory tract infection (URTI); 13
+(25%) reported gastroenteritis; and 5 (10%) reported experiencing both a flu-like illness or URTI and gastroenteritis.
+Beyond the characteristic triad of altered mental status,
+ataxia, and ophthalmoplegia, the most commonly reported
+neurologic findings in the 52 cases were hypo/areflexia in
+33 patients (63%), extremity weakness in 29 (56%), bulbar
+palsy in 25 (48%), visual deficits/disturbances including
+diplopia in 22 (42%), facial palsy in 20 (38%), hyperreflexia
+in 13 (25%), and altered sensorium or paresthesias in 13
+(25%) (Table 1). Intubation for mechanical ventilation, a
+post hoc marker for severity of disease, was required in 9
+patients (17%). Of this group, 3 (33%) had positive MRI
+
+143
+Table 1  Preceding illness, therapeutic intervention and neurodiagnostic studies by frequency and time to improvement
+Frequency
+n (%)
+Demographics
+Median age (years)
+Gender (M:F)
+Preceding illness (n = 47)
+Any illness
+URTI
+Flu-like syndrome
+Gastroenteritis
+None
+Clinical ­presentationa (n = 52)
+Hypo/areflexia
+Extremity weakness
+Bulbar palsy
+Visual deficits
+Facial palsy
+Hyperreflexia
+Altered sensorium/paresthesias
+Babinski reflex
+Nystagmus
+Hypotonia
+Neck stiffness
+Hypertonia/rigidity
+Aphasia
+Clinical course (n = 44)
+Median days to ­nadirb
+Median days to full resolution
+Treatment (n = 49)
+Supportive
+Steroids and IVIg
+Acyclovir
+IVIg only
+Antibiotics
+Steroids
+IVIg and plasmapheresis
+Plasmapheresis
+Neurodiagnostic studies
+Abnormal EEG
+Anti-GQ1b Ab positivity
+CSF pleocytosis
+CSF cytoalbuminologic dissociation
+Abnormal CT
+Abnormal MRI
+Abnormal EMG/NCS
+a
+b
+
+10
+36:14
+42 (89)
+19 (40)
+14 (30)
+13 (28)
+5 (10)
+33 (63)
+29 (56)
+25 (48)
+22 (42)
+20 (38)
+13 (25)
+13 (25)
+10 (19)
+8 (15)
+8 (15)
+7 (13)
+2 (4)
+2 (4)
+10
+90
+15 (31)
+12 (24)
+11 (22)
+9 (18)
+9 (18)
+7 (13)
+2 (4)
+1 (2)
+24/33 (72)
+19/28 (68)
+12/31 (32)
+10/31 (32)
+4/10 (40)
+13/32 (41)
+12/27 (44)
+
+In addition to altered mental status, ophthalmoplegia, and ataxia
+Alternatively defined as days to first clinical improvement
+
+13
+
+144
+
+findings in the brainstem and 3 (33%) were GQ1b positive.
+The median time of intubation was 3 days.
+Neurodiagnostic testing revealed 19 of 28 (68%) patients
+with anti-GQ1b antibody positivity, 12 of 27 (44%) with
+abnormal EMG or nerve conduction studies (NCS), 13 of 32
+(41%) with non-specific abnormalities on brain MRI (predominantly T2 white matter hyperintensities), and 24 of 33
+(72%) with non-epileptic abnormalities in electroencephalographic tracings (predominantly diffuse slowing and excessive delta activity). Patients with MRI abnormalities had
+the longest median time to symptom resolution at 120 days
+and demonstrated a median time to clinical nadir at 9 days.
+The former metric (median time to symptom resolution) was
+statistically insignificant when compared to patients without
+neuroimaging abnormalities (p = 0.124). EMG/NCS data
+were too limited to evaluate in association with outcome.
+All 52 patients in this study had a lumbar puncture (LP).
+A total of 31 (60%) patients had an LP, which demonstrated cerebrospinal fluid (CSF) abnormalities. Of these
+31 patients, 24 (77%) occurred within the first week of hospitalization, while the remaining seven patients (23%) were
+discovered on serial lumbar punctures following previously
+normal findings. Of the 31 patients with available CSF studies, 17 (55%) showed elevated protein; 12 (39%) demonstrated pleocytosis; 10 (32%) demonstrated albuminocytologic dissociation; and 3 (10%) showed decreased glucose
+(Table 1). The percentage of CSF profiles with one or more
+abnormality within one week of symptom onset was 61.5%,
+increasing by 10.7% with additional samples obtained after
+the week of hospital admission.
+During hospitalization, 15 (31%) patients received supportive therapy; 12 (24%) received steroid–IVIg dual therapy; 9 (18%) received IVIg monotherapy; 7 (13%) received
+steroid monotherapy; 2 (4%) received IVIg with PLEX;
+and 1 (2%) received PLEX only. Additionally, 11 (22%) of
+patients were exposed to acyclovir and 9 (18%) were exposed
+to antibiotics in the first week of hospitalization. The median
+time to resolution of symptoms in those treated with steroid
+monotherapy, IVIg monotherapy, supportive therapy, IVIg
+and steroid dual therapy, PLEX, and PLEX–IVIg dual therapy was 24, 60, 73, 102, 120, and 171 days, respectively. Of
+the 19 patients with GQ1b Ab positivity, all but one received
+immunotherapy, with a median time to nadir of 10 days and
+a median time to full recovery of 111 days.
+A one-way ANOVA comparing supportive care, steroids and IVIg dual therapy, steroids or IVIg monotherapy,
+and any immunotherapy was statistically insignificant
+(p = 0.277). Sub analysis with Tukey’s post hoc comparing steroids and IVIg dual therapy, steroids or IVIg monotherapy, and any form of immunotherapy against supportive
+therapy revealed p values of 0.757, 0.287, and 0.174, respectively (Table 2 and Fig. 2). We used propensity scores to
+account for illness severity while comparing the use of any
+
+13
+
+Journal of Neurology (2018) 265:141–150
+
+immunotherapy versus supportive and/or non-immunologic
+(e.g., antibiotics) therapies on symptom mitigation but found
+no significant predictive value for immunotherapy regarding
+time to nadir or full resolution (p = 0.941 and p = 0.370,
+respectively). There were no statistically significant differences between “probable” and “definitive” classifications of
+BBE with regards to use of immunotherapy [4].
+
+Discussion
+This study provides the first comprehensive case analysis of
+BBE disease course, diagnostic studies, response to immunotherapy, and prognosis in pediatric populations. Pediatric
+BBE has a similar clinical profile to adults, although neurodiagnostic investigations with LP, MRI, EMG/NCS and
+EEG appear to be more routinely abnormal in the pediatric
+population. Despite statistical insignificance, the trending p
+values for use of immunotherapy in our varied cohort may
+suggest a role for immunomodulatory intervention in this
+population based on earlier median times to clinical nadir
+and total resolution of symptoms in those treated with steroids, IVIg, or a combination of these therapies.
+The clinical presentations of pediatric BBE in our cohort
+appeared similar to previously published adult cases, albeit
+with a higher prevalence in males [2, 4]. Biomarkers were
+analyzed for frequency of abnormalities in this study. Our
+study found a larger percentage of abnormal MRI studies compared to previous investigations of pediatric BBE
+(41 vs. 14%) [5]. Those with abnormal neuroimaging on
+MRI had longer median time to full recovery in our cohort
+although this was not clinically significant. Of the pediatric
+patients with reported autoimmune markers, 68% of pediatric patients demonstrated positive anti-GQ1b antibody
+titers, which is comparable to adult studies (69%) [2, 4, 43,
+44]. The underlying etiology of antibody production to the
+GQ1b moiety remains unclear, and the diagnostic relevance
+of assessing these titers merits further investigation. Prior
+studies suggest a lower prevalence of anti-GQ1b antibodies
+in children (43%), but these serum samples were obtained
+within 3 months of symptom onset, and given the unknown
+duration of auto-antibody presence in circulation, detectable
+titers may have lapsed by the time of sampling, resulting in
+falsely low positivity [5]. Ultimately, CSF profiling in our
+study appeared to be consistent with previously reported literature. With the exception of one pediatric case, anti-GQ1b
+antibody negativity did not co-occur with marked CSF
+pleocytosis as has frequently been observed in adult cases
+[4]. This study further demonstrated that the percentage of
+abnormal CSF profiles within 1 week of symptom onset was
+comparable in children and adults at 61.5 and 56%, respectively, although the percentage of adults with abnormal CSF
+surveyed 2 weeks from symptom onset increased by 26%
+
+d
+
+c
+
+b
+
+a
+
+2009
+8.8 years [9.2]
+10:2
+3/12 (25)
+3/12 (25)
+5/12 (42)
+1/12 (8)
+10.7 days
+5/12 (42)
+8/12 (67)
+8/12 (67)
+5/12 (42)
+6/12 (50)
+3/12 (25)
+8/9 (89)
+5/10 (50)
+10/12 (83)
+0/0 (0)
+6/11 (55)
+2/8 (25)
+18.5, 14 [7.5]
+124.7, 102 [118]
+p = 0.757
+
+4/14 (29)
+4/14 (29)
+3/14 (21)
+1/14 (7)
+20.9 days
+10/15 (67)
+7/15 (47)
+6/15 (40)
+8/15 (53)
+3/15 (20)
+2/15 (13)
+6/10 (60)
+0/0 (0)
+9/15 (60)
+4/7 (57)
+3/3 (100)
+3/7 (43)
+14.9, 9.5 [12.3]
+212.1, 73 [282.3]
+–
+
+IVIg and steroids (n = 12)
+
+1987
+9.8 years [7.5]
+7:7
+
+13.4, 7.5 [6.75]
+91.4, 60 [100]
+p = 0.287
+
+7/11 (64)
+9/12 (75)
+13/18 (72)
+0/2 (0)
+3/15 (20)
+6/8 (75)
+
+14/18 (78)
+10/18 (56)
+9/18 (50)
+7/18 (39)
+4/18 (22)
+4/18 (22)
+
+11/18 (61)
+4/18 (22)
+2/18 (11)
+3/18 (17)
+9 days
+
+2005
+9.9 years [7.5]
+14:3
+
+IVIg or steroid monotherapy
+(n = 18)
+
+Post hoc t test p value
+
+Interquartile range is between 25th and 75th percentiles
+
+Any immunotherapy includes steroid monotherapy, IVIg monotherapy, steroid and IVIg dual therapy, or any combination with PLEX
+
+Supportive therapy includes antibiotics or antiviral medications but no immunotherapy
+
+Demographics
+Median year of publication
+Age (mean, IQR)c
+Gender (M:F)
+Preceding symptoms: n (%)
+URI
+Flu-like syndrome
+Gastroenteritis
+None
+Days prior to presentation (mean)
+Clinical presentation: n (%)
+Hypo/areflexia
+Extremity weakness
+Bulbar palsy
+Facial palsy
+Hyperreflexia
+Intubation
+Neurodiagnostic studies, n (%)
+Abnormal EEG
+Anti-GQ1b Ab positivity
+Abnormal CSF
+Abnormal CT
+Abnormal MRI
+Abnormal EMG
+Recovery (mean, median, IQR)c
+Days to clinical nadir
+Days to full resolution
+Significanced vs. supportive
+
+Supportive ­therapya (n = 15)
+
+Table 2  Demographics and clinical profiles by therapeutic interventions received
+
+15.5, 10 [8.5]
+107.2, 90 [96]
+p = 0.174
+
+16/21 (76)
+15/23 (65)
+24/31 (77)
+0/2 (0)
+10/27 (37)
+8/17 (47)
+
+20/31 (65)
+19/31 (61)
+18/31 (58)
+12/31 (39)
+10/31 (32)
+7/31 (23)
+
+14/31 (45)
+8/31 (26)
+7/31 (23)
+4/31 (13)
+9.7 days
+
+2006
+9.4 years [8.5]
+25:6
+
+Any ­immunotherapyb (n = 31)
+
+Journal of Neurology (2018) 265:141–150
+145
+
+13
+
+146
+
+Journal of Neurology (2018) 265:141–150
+
+Fig. 2  Intervention type by time to resolution of symptoms (days)
+
+compared to only 10.7% of children. While the immunologic
+mechanisms underlying this discrepancy remain unclear,
+these data demonstrate that serial lumbar punctures may
+be less diagnostically useful in pediatric patients. Neurodiagnostic studies assessed in this cohort lack sensitivity
+and specificity in this disease process and thus require more
+nuanced scrutiny before becoming reliable components of
+prognostic evaluation.
+Due to lack of existing treatment algorithms in pediatric BBE, therapeutic interventions and responses were
+scrutinized closely. Interestingly, patients treated with
+steroid and IVIg monotherapies demonstrated shorter
+median times to complete resolution of symptoms at 24
+and 60 days, respectively, while other treatment exposures were associated with longer symptom resolution
+
+13
+
+windows. Time to clinical nadir did not appear to correlate with any specific therapy in our study. Ultimately,
+more pediatric patients were treated with supportive therapy alone compared to adult cases (31 versus 11%) and
+among this group there was a median time to recovery
+of 73 days [40]. Severity bias may explain the shortened
+median time to recovery of patients receiving supportive
+therapy only compared to more aggressive dual immunotherapy with IVIg and steroids (102 days), as the median
+time to recovery was over 40 days longer than either individual immuno-monotherapy. Only three patients were
+treated with PLEX in our study: 2 in combination with
+IVIg, one of which was complicated by anaphylaxis after
+IVIg. Although both steroid and IVIg monotherapies
+reduced time to resolution of symptoms, available data
+
+Journal of Neurology (2018) 265:141–150
+
+are too limited to draw definitive conclusions about treatment outcome. Further, the longer time to full recovery of
+patients treated with IVIg and steroids (102 days), PLEX
+alone (120 days), and PLEX with IVIg (171 days) may be
+similarly skewed by severity bias. Together, these findings
+suggest a possible response to immunotherapy in pediatric BBE, although clear associations between diagnostic
+criteria, treatment algorithms, and long-term outcomes
+are difficult to ascertain, as previously demonstrated in an
+adult-based Cochrane Review in 2007 [45].
+Direct statistical comparison of treatment modalities was
+attempted but ultimately underpowered, and as such, not
+significant. It appears that there may be a role for immunotherapy in BBE (steroids and/or IVIg) as it was noted to be
+safe (only one reported episode of anaphylaxis in response to
+IVIg and no deaths reported in any study) and non-inferior to
+supportive therapy with reduced median duration of symptoms. The substantial heterogeneity in treatment of BBE
+further complicates the underpowered statistical analysis of
+our sample. Use of these agents in BBE differs from the
+primary treatment of GBS, a related entity for which steroids have been deemed inefficacious. Similarly, PLEX was
+infrequently used in patients with BBE in contrast to other
+pediatric neuro-immune disorders such as GBS, MFS, and
+myasthenia gravis, and these treatment discrepancies may
+underscore a lack of understanding of the presumed autoimmune etiology of BBE.
+This study had several limitations, most notably the retrospective nature of the identification and clinical course
+of included patients, as well as the incomplete outcome
+data available from a variety of case studies. Additionally,
+data collected in this review were unable to be statistically
+compared to those of prior studies due to the absence of
+raw data published in these studies’ appendices [2, 4, 43,
+44]. The rarity of BBE makes prospective studies difficult,
+especially in pediatric patients, and thus existing literature
+outside of this manuscript has been scarce. For this reason,
+a severity bias, as addressed above, and publication bias
+in terms of the literature and cases available for review is
+likely present in our data. Additionally, studies utilizing
+supportive therapy alone were published earlier (median
+year of publication was 1987) compared to those with
+patients who received any immunotherapy (2006), which
+adds availability heuristic-bias complicating the interpretation of earlier studies whose authors may have utilized
+immunotherapy if it had been more readily available or
+more commonly utilized at that time. Similarly the country of origin of reports may have also limited use of particular immunotherapy for access reasons. An additional
+limitation was that only 54% of the included patients were
+tested for anti-GQ1b antibodies, 23% reported incomplete
+outcome data including time to clinical nadir and/or full
+resolution, and 6% failed to specify any treatment course.
+
+147
+
+It should also be noted that none of the reference population studies used for adult comparison excluded children,
+and a small minority of pediatric cases may have skewed
+the results closer to those observed in our exclusively pediatric assessment, thereby rendering conservative estimates
+of differences between these populations. Finally, given
+the rarity of BBE, a small number of patients meeting
+strict inclusion/exclusion criteria further limits the overall
+power of our observations and prevents extrapolation of
+these data to directly inform clinical guidelines. However,
+this rigidity was needed to rule out less convincing cases
+which ranged on the brainstem/rhombencephalitis spectrum although we could not rule out overlap between BBE
+and other pathology in this study.
+This study included a systematic review of published
+cases of pediatric-onset BBE, a unique and under-investigated subset of the disease, as well as previously unpublished pediatric cases from LPCH. Clinical presentation
+between age groups appeared similar, but variation in
+yield of neurodiagnostic studies and their potential prognostic value warrants further investigation. Furthermore,
+use of immunotherapy with either IVIg or steroids may
+reduce total duration of symptoms, although it is difficult to determine this definitively, given both severity and
+publication bias. This study highlights the clinical criteria and diagnostic studies needed to thoroughly evaluate
+pediatric patients for BBE and provides initial data to support the potential use of immunotherapy in these patients.
+Ultimately, these and similar data exist on a convoluted
+spectrum of immune-mediated neurological disorders, and
+rigorous analysis in larger, prospective studies is needed
+to evaluate the diagnostic and therapeutic utility of these
+observations.
+
+Compliance with ethical standards
+Conflicts of interest All authors declared that they have no potential
+conflict of interest.
+Ethical standards For this type of study formal consent is not required.
+
+Appendix A: Patient related inclusion
+and exclusion criteria for cases
+
+Inclusion criteria (must meet all
+criteria)
+
+Exclusion criteria (excluded if any
+criteria met)
+Study did not meet all inclusion
+criteria
+
+13
+
+148
+
+Journal of Neurology (2018) 265:141–150
+
+Inclusion criteria (must meet all
+criteria)
+
+Exclusion criteria (excluded if any
+criteria met)
+
+Progression to complete ophthalmoplegia (or alternatively
+partial ophthalmoplegia at
+presentation)
+Evidence of somnolence or
+alterations in mental status
+at the time of presentation or
+developed within 7 days of
+presentation without other
+identifiable cause
+Ataxia
+
+Comorbidities or prior medical
+history that would alter assessment of ophthalmoplegia
+
+≤ 20 years of age
+
+Comorbidities or prior medical
+history that would alter assessment of mental status
+
+Comorbidities that would alter
+evaluation of ataxia
+≥ 20 years of age
+Comorbidities or prior medical
+history that would alter immune
+function
+Presence of sepsis or viremia in a
+patient
+Seizures at or before presentation
+Prior or concurrent diagnosis of
+viral or bacterial meningitis or
+encephalitis
+Prior neurosurgical interventions
+Case had insufficient details to
+determine if all inclusion criteria
+were met
+
+Non-patient related exclusion criteria: review articles
+without case reporting, commentary or editorial pieces,
+studies in non-human species, pharmacokinetic or genetic
+studies not relevant to the clinical syndrome in question,
+and manuscripts that were non-clinical in nature
+
+Appendix B: Standardized manuscript
+and case review criteria
+Antecedent illness: reported as described in manuscripts
+unless not listed. For terms not listed, the following terminology were used to determine antecedent illness:
+URTI: cough, cold, nasal discharge, increased work of
+breathing, fever.
+Flu-like syndrome: fever, headache, myalgia, nausea,
+emesis, and/or general malaise.
+Gastroenteritis: diarrhea (non-bloody), abdominal pain,
+abdominal cramping, loose stools, emesis, fever.
+Symptom classification: clinical presentation of cases
+was determined to include ataxia, somnolence or altered
+mental status and ophthalmoplegia based on use of any of
+the included terms:
+
+13
+
+– Ataxia: truncal/appendicular, gait instability, widebased gait, dysmetria, dysdiadochokinesia, cerebellar
+ataxia, postural instability, positive Romberg.
+– Somnolence: any form of altered mental status (irritability, confusion, somnolence, drowsiness, fluctuating levels of consciousness, excessive sleeping, coma,
+etc.).
+– Ophthalmoplegia: any limitation of ocular movement,
+ptosis, nystagmus, any pupillary defect (sluggish pupillary reflexes, anisocoria, mydriasis, etc.).
+Treatment: the following criteria were used to determine
+type of treatment used:
+Supportive: antibiotics or antivirals only, respiratory support, airway support, physical therapy, occupational therapy,
+IV fluids, hospitalization, speech therapy.
+Steroids: use either methylprednisolone, prednisone,
+dexamethasone, or ACTH.
+IVIg: any formulation of immunoglobulin.
+PLEX: any formulation or duration of plasmapheresis.
+CSF studies: studies were deemed “abnormal” in each
+category based on the following criteria:
+Glucose < 50 mg/dL.
+Protein > 45 mg/dL.
+WBC ≥ 5 mm3.
+Opening pressure > 20 cm H20.
+Cytoalbuminologic dissociation: combination of an
+increased protein concentration (> 45 mg/dL) and a cell
+count < 5 mm3.
+Time to recovery: all recovery times are estimated from
+the onset of BBE symptoms, not hospital days.
+– 1st improvement: not fever by itself, extubation or isolated improvement in altered mental status only if no new
+treatment modalities attempted afterward (otherwise first
+improvement in clinical triad), time to first improvement
+after first nadir if course is biphasic.
+– Full recovery: completely asymptomatic or “near complete recovery” accepted if only 1–2 trace symptoms
+remain that did not result in disability (persistent symptoms noted in appendix C).
+
+References
+1. Fisher M (1956) An unusual variant of acute idiopathic polyneuritis—syndrome of ophthalmoplegia, ataxia, and areflexia. N Engl
+J Med 255(2):57–65
+2. Ito M, Kuwabara S, Odaka M, Misawa S, Koga M, Hirata K,
+Yuki N (2008) Bickerstaff’s brainstem encephalitis and Fisher
+syndrome form a continuous spectrum: clinical analysis of 581
+cases. J Neurol 255(5):674–682
+
+Journal of Neurology (2018) 265:141–150
+3. Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T (2001) Clinical features and prognosis of Miller Fisher syndrome. Neurology
+56(8):1104–1106
+4. Koga M, Kusunoki S, Kaida K, Uehara R, Nakamura Y, Kohriyama T, Kanda T (2012) Nationwide survey of patients in
+Japan with Bickerstaff brainstem encephalitis: epidemiological and clinical characteristics. J Neurol Neurosurg Psychiatry
+83(12):1210–1215
+5. Hacohen Y, Nishimoto Y, Fukami Y, Lang B, Waters P, Lim MJ,
+Yuki N et al (2016) Paediatric brainstem encephalitis associated
+with glial and neuronal autoantibodies. Dev Med Child Neurol
+58(8):836–841
+6. Ajena D, Ferrari S, Romito S, Zagila F, Biban P, Squintani G
+(2013) A pediatric case of Miller Fisher syndrome with central
+involvement. Neurol Sci. 34(9):1689–1690
+7. Al-Din AN, Anderson M, Bickerstaff ER, Harvey I (1982) Brainstem encephalitis and the syndrome of Miller Fisher: a clinical
+study. Brain 105(Pt 3):481–495
+8. Arias AP, Santoni A, Goenaga B, Martinez MJ, Gonzalez N
+(2015) Sindrome de Bickerstaff: caso Clinico. Arch Argent Pediatr 113(4):226–229
+9. Barontini F, Sitá D (1983) The nosological position of Fisher’s
+syndrome—ophthalmoplegia, ataxia and areflexia. J Neurol
+229(1):33–44
+10. Bell W, Van Allen M, Blackman J (1970) Fisher syndrome in
+childhood. Dev Med Child Neurol 12(6):758–766
+11. Bradshaw DY, Jones HR (2001) Pseudomeningoencephalitic presentation of pediatric Guillain Barre syndrome. J*** Child Neurol
+16(7):505–508
+12. Campos-Segovia A, Perez-Villena A, Martinez J, Sanchez CZ,
+Blanco-Martin AB, Aurrecoechea JF, Izquierdo SM, JimenezMartinez J (2016) Encefalitis de tronco de Bickerstaff atipica: 2
+casos pediatricos. Neurol Argent 8(3):181–186
+13. Damasceno A, Franca MC Jr, Pimenta DS, Deus-Silva L, Nucci
+A, Damasceno BP (2008) Bickerstaff’s encephalitis, GuillainBarré syndrome and idiopathic intracranial hypertension: are they
+related conditions? Arg Neuropsiquiatr 66(3B):744–746
+14. Eggenberger ER, Coker S, Menezes M (1993) Pediatric Miller
+Fisher syndrome requiring intubation: a case report. Clin Pediatr
+(Phila) 32(6):372–375
+15. Fargas A, Roig M, Vazquez E, Fitó A (1998) Brainstem involvement in a child with ophthalmoplegia, ataxia, areflexia syndrome.
+Pediatr Neurol 18(1):73–75
+16. Fargas i Busquets A, Roig Quilis M, Gratacòs Vinyola M, Macaya
+Ruiz A, del Toro Riera M, Fitó Costa A (1998) Ophthalmoplegiaataxia-areflexia in pediatrics three new patients and review of the
+literature. An Esp Pediatr 48(5):483–488
+17. Fox RJ, Kasner SE, Galetta SL, Chalela JA (2000) Treatment
+of Bickerstaff’s brainstem encephalitis with immune globulin. J
+Neurol Sci 178(2):88–90
+18. Genizi J, Kasis I, Schif A, Shahar E (2007) Effect of high-dose
+methyl-prednisolone on brainstem encephalopathy and basal
+ganglia impairment complicating cat scratch disease. Brain Dev.
+29(6):377–379
+19. Gologorsky RC, Barakos JA, Sahebkar F (2013) Rhomb- and
+Bickerstaff encephalitis: two clinical phenotypes? Pediatr Neurol
+48(3):244–248
+20. Han C, Wang Y, Jia J, Ji X, Fredrickson V, Ding Y, Sun W et al
+(2012) Bickerstaff’s brainstem encephalitis, Miller–Fisher syndrome and Guillain-Barre syndrome overlap in an asthma patient
+with negative anti-ganglioside antibodies. BMC Res Notes 5:295
+21. Kanzaki A, Yabuki S, Yuki N (1995) Bickerstaff’s brainstem
+encephalitis associated with cytomegalovirus infection. J Neurol
+Neurosurg Psychiatry 58(2):260–261
+22. Kikuchi M, Tagawa Y, Iwamoto H, Hoshino H, Yuki N (1997)
+Bickerstaff’s brainstem encephalitis associated with IgG
+
+149
+
+23.
+
+24.
+25.
+
+26.
+
+27.
+28.
+
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+
+anti-GQ1b antibody subsequent to Mycoplasma pneumoniae
+infection: favorable response to immunoadsorption therapy. J
+Child Neurol 12(6):403–405
+Kimoto K, Koga M, Odaka M, Hirata K, Takahashi M, Li J, Gilbert M, Yuki N (2006) Relationship of bacterial strains to clinical
+syndromes of Campylobacter-associated neuropathies. Neurology
+67(10):1837–1843
+Matsumoto H, Kobayashi O, Tamura K, Ohkawa T, Sekine I
+(2002) Miller Fisher syndrome with transient coma: comparison
+with Bickerstaff brainstem encephalitis. Brain Dev 24(2):98–101
+Matsuo M, Odaka M, Koga M, Tsuchiya K, Hamasaki Y, Yuki
+N (2004) Bickerstaff’s brainstem encephalitis associated with
+IgM antibodies to GM1b and GalNAc-GD1a. J Neurol Sci
+217(2):225–228
+Meyer Sauteur PM, Relly C, Hackenberg A, Stahr N, Berger C,
+Bloemberg GV, Jacobs E et al (2014) Mycoplasma pneumoniae
+intrathecal antibody responses in Bickerstaff brainstem encephalitis. Neuropediatrics 45(1):61–63
+Park JY, Ko KO, Lim JW, Cheon EJ, Yoon JM, Kim HJ (2014)
+A pediatric case of Bickerstaff’s brainstem encephalitis. Korean J
+Pediatr 57(12):542–545
+Pavone P, Le Pira A, Greco F, Vitaliti G, Smilari PL, Parano E,
+Falsaperla R (2014) Bickerstaff’s brainstem encephalitis (BBE)
+in childhood: rapid resolution after intravenous immunoglobulins
+treatment. Eur Rev Med Pharmacol Sci 18(17):2496–2499
+Ragosta K (1993) Miller Fisher syndrome, a brainstem encephalitis, mimics brain death. Clin Pediatr (Phila) 32(11):685–687
+Reyes AR, Garcés P, Reig R, Martinéz E, Sebastián I, Herrera
+M (2001) Benign encephalitis of the brainstem. Rev Neurol
+32(4):341–344
+Rho YI (2014) Overlapping Guillain-Barré syndrome and Bickerstaff’s brainstem encephalitis associated with Epstein Barr virus.
+Korean J Pediatr 57(10):457–460
+Schain RJ, Wilson G (1971) Brainstem encephalitis with
+radiographic evidence of medullary enlargement. Neurology
+21(5):537–539
+Sonmez FM, Odemis E, Ahmetoglu A, Ayvaz A (2004) Brainstem
+encephalitis and acute disseminated encephalomyelitis following
+mumps. Pediatr Neurol 30(2):132–134
+Steer AC, Starr M, Kornberg AJ (2006) Bickerstaff brainstem
+encephalitis associated with Mycoplasma pneumoniae infection.
+J Child Neurol 21(6):533–534
+Suzuki K, Meguro K, Nakayama J, Aoki T, Tsurushima H
+(1997) MRI of an infant with Fisher syndrome. Childs Nerv Syst
+13(2):95–96
+Tachi N, Tsuzuki Y, Minami R (1986) A case of brainstem
+encephalitis with CT scan abnormality mimicking Fisher syndrome. Brain Dev 8(5):538–541
+Tsapis M, Laugel V, Koob M, de Saint Martin A, Fischbach M
+(2010) A pediatric case of Fisher–Bickerstaff spectrum. Pediatr
+Neurol 42(2):147–150
+Uribe SMR, Suárez HF, Sandoval RP, Mellado TP (2013)
+Anti-GQ1b syndrome: a report of four cases. Rev Med Chil
+141(9):1211–1215
+Venkateshwara Prasad KN, Venkatesh KS, Devi NG (2013) Bickerstaff brainstem encephalitis in pediatrics—a case report. J Pediatr Neurosci 8(3):263–264
+Villalobos Chaves F, Casado Chocán JL, Moreno Rojas A, Serrano Castro V (1995) Miller–Fisher syndrome and encephalitis of
+the brainstem. Neurologia 10(2):115–116
+Wali GM (1991) Bickerstaff’s brainstem encephalitis associated
+with typhoid fever. Postgrad Med J 67(793):1011–1012
+Yuki N, Odaka M, Hirata K (2000) Bickerstaff’s brainstem
+encephalitis subsequent to Campylobacter jejuni enteritis. J Neurol Neurosurg Psychiatry 68(5):680–681
+
+13
+
+150
+43. Odaka M, Yuki N, Hirata K (2001) Anti-GQ1b IgG antibody syndrome: clinical and immunological range. J Neurol Neurosurg
+Psychiatry 70(1):50–55
+44. Tan IL, Mowry EM, Steele SU, Pardo CA, McArthur J, Nath A,
+Venkatesan A (2013) Brainstem encephalitis: etiologies, treatment
+and predictors of outcome. J Neurol 260(9):2312–2319
+
+13
+
+Journal of Neurology (2018) 265:141–150
+45. Overell JR, Hseih ST, Odaka M, Yuki N, Willison HJ (2007)
+Treatment for Fisher syndrome, Bickerstaff’s brain-stem encephalitis and related disorders. Cochrane Database of Systematic
+Reviews (Art. no.: CD004761)
+
+

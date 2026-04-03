@@ -1,0 +1,284 @@
+Intravenous immunoglobulin therapy
+for Miller Fisher syndrome
+Masahiro Mori, MD; Satoshi Kuwabara, MD; Toshio Fukutake, MD; and Takamichi Hattori, MD
+
+Abstract—We analyzed clinical recovery of 92 patients with Miller Fisher syndrome who had been treated with IV
+immunoglobulin (IVIg; n ⫽ 28), plasmapheresis (n ⫽ 23), and no immune treatment (n ⫽ 41). IVIg slightly hastened the
+amelioration of ophthalmoplegia and ataxia, but the times of the disappearances of those symptoms were similar among
+three groups. In Miller Fisher syndrome, IVIg and plasmapheresis seem not to have influenced patients’ outcomes,
+presumably because of good natural recovery.
+NEUROLOGY 2007;68:1144–1146
+
+Downloaded from https://www.neurology.org by Goteborg Universitet on 2 April 2026
+
+Both plasmapheresis1 and IV immunoglobulin (IVIg)
+therapy2 have beneficial effects on Guillain–Barré
+syndrome (GBS). Because Miller Fisher syndrome
+(MFS) is closely linked to GBS, these treatments
+have been tried in patients with MFS.3-5 Moreover,
+removal of the anti-GQ1b antibody, a major pathogenetic factor in MFS, by plasmapheresis has been
+thought to ameliorate symptoms. The efficacy of immunomodulating treatments on MFS has been reported, as patients showed good recovery after these
+treatments.3-5 However, because patients with MFS
+usually have a natural good recovery over time,6 the
+efficacy of such treatments must be carefully judged.
+Because of the rarity of MFS, prospective randomized control trials are difficult to design. We therefore reviewed records of 92 consecutive patients with
+MFS to determine whether IVIg or plasmapheresis
+affected the speed of recovery.
+Methods. Patients. We reviewed medical records of 92 patients
+with MFS, seen at Chiba University Hospital or affiliated hospitals between 1979 and 2005. Fifty of the patients were described
+in our previous investigation of the natural course of MFS.7 Comparison of recoveries in patients treated with plasmapheresis and
+those not given immune-modulating therapy are described elsewhere.8 Inclusion criteria for the current study were the presence
+of the clinical triad of MFS (ophthalmoplegia, ataxia, and
+areflexia) and acute onset without major limb weakness or other
+signs indicative of CNS involvement.
+Treatments. Twenty-eight patients with MFS were treated
+with IVIg (400 mg/kg/day s-sulfonated human immunoglobulin)
+for 5 consecutive days (the IVIg group). Twenty-three underwent
+plasmapheresis with a second filter (Evaflux 3A, Kuraray Co.
+Ltd., Kurashiki, Japan, or Immusorber TR-350, Asahi medical Co.
+
+Additional material related to this article can be found on the Neurology
+Web site. Go to www.neurology.org and scroll down the Table of Contents for the April 3 issue to find the title link for this article.
+
+Ltd., Tokyo, Japan) (the PP group) and received it every other day
+2 to 6 times (mean 4.1 times). All patients gave informed consent
+to the treatments. The 41 patients who did not receive immunemodulating therapy served as controls. Whether patients were
+given plasmapheresis, immunoglobulin, or neither depended on
+differences in the practices of neurologists and differences in when
+MFS was diagnosed. Plasmapheresis was not in wide use before
+1985, and some did not receive IVIg because until 2000 it was not
+approved in Japan as a health insurance treatment for immunemediated neuropathies. Therefore, patients were frequently
+treated with PP between 1985 and 1999 and with IVIg between
+2000 and 2005.
+Assessments. The clinical course was charted monthly until
+symptoms and signs disappeared, with focus on amelioration of
+ophthalmoplegia and ataxia. We did not assess areflexia because
+it did not affect patients’ daily living activities and is difficult to
+assess by retrospective analysis. All of the patients were asked
+about the times between onset of ataxia and the start of its amelioration of symptoms. Time between onsets of ophthalmoplegia
+and ataxia and the time taken for their disappearance were
+judged by the various neurologists.
+Statistical analysis. The significance of differences in percentage was determined by the Fisher exact test. The time to
+recovery was analyzed by the Kaplan–Meier method, and the logrank test was analyzed by means of an SPSS statistical package
+(version 11.0.1J, SPSS Japan Inc., Tokyo, Japan). Comparisons
+between the two patient groups were evaluated by the Steel–
+Dwass test. A p value ⬍ 0.05 was considered significant.
+
+Results. Baseline study. The table shows the clinical
+features of the three patient groups. There were no significant differences among the IVIg, PP, and control groups
+in age, sex, antecedent events, frequency of limb weakness,
+or frequency of the inability to walk independently. The
+frequency of complete external ophthalmoplegia was
+higher in the IVIg than the control group (p ⫽ 0.007), but
+was similar in the PP and control groups and in the PP
+and IVIg groups. Time from onset to initial treatment did
+not differ significantly between the IVIg and PP groups.
+Follow-up study. The figure shows Kaplan–Meier
+curves for the periods between ophthalmoplegia and ataxia
+onset and the start of alleviation in each patient subgroup.
+Those were more likely to alleviate faster in the IVIg group
+
+From the Department of Neurology, Graduate School of Medicine, Chiba University, Inohana, Chuo-ku, Chiba, Japan (M.M., S.K., T.H.); and Department of
+Neurology, Kameda Medical Center, Higashi-cho, Kamogawa-shi, Chiba, Japan (T.F.).
+Supported in part by a Neuroimmunological Disease Research Committee grant from the Ministry of Health, Labor and Welfare, Japan.
+Disclosure: The authors report no conflicts of interest.
+Received June 14, 2006. Accepted in final form November 27, 2006.
+Address correspondence and reprint requests to Dr. Masahiro Mori, Department of Neurology, Graduate School of Medicine, Chiba University, 1-8-1,
+Inohana, Chuo-ku, Chiba, 260-8670 Japan; e-mail: morim@faculty.chiba-u.jp
+1144
+
+Copyright © 2007 by AAN Enterprises, Inc.
+
+Table Clinical features of the subgroups of patients with Miller Fisher syndrome according to treatment
+
+Age, median (range), years
+Men:Women
+
+Immunoglobulin
+(n ⫽ 28)
+
+Plasmapheresis
+(n ⫽ 23)
+
+Control
+(n ⫽ 41)
+
+44.5 (21–68)
+
+41.0 (13–66)
+
+42.0 (10–78)
+
+16:12
+
+15:8
+
+31:10
+
+Previous infection (R:G:O)
+
+17:3:8
+
+16:2:5
+
+30:1:10
+
+Limb weakness
+
+5 (18%)
+
+5 (22%)
+
+5 (12%)
+
+Inability to walk independently at nadir
+
+9 (32%)
+
+9 (39%)
+
+9 (22%)
+
+Complete ophthalmoplegia at nadir
+
+15 (54%)*
+
+8 (35%)
+
+9 (22%)
+
+Time from onset to initial treatment, median (range), days
+
+4.0 (0–11)
+
+5.0 (0–17)
+
+* p ⬍ 0.05, compared with the control group.
+
+Downloaded from https://www.neurology.org by Goteborg Universitet on 2 April 2026
+
+R ⫽ respiratory infection; G ⫽ gastroenteritis; O ⫽ others or none.
+
+than in the control group (ophthalmoplegia, p ⫽ 0.04;
+ataxia, p ⫽ 0.027), whereas those between the PP and
+control groups and those between the IVIg and the PP
+groups did not significantly differ. The median (range)
+days between ophthalmoplegia onset and the start of amelioration was 12.0 (3 to 39) days for the IVIg group, 11.5 (3
+to 44) days for the PP group, and 13.5 (1 to 87) days for the
+control group. The median (range) days between ataxia
+onset and the start of amelioration was 8.0 (2 to 23) days
+for the IVIg group, 9.0 (1 to 36) days for the PP group, and
+10.0 (1 to 59) days for the control group. Kaplan–Meier
+curves for the periods between ophthalmoplegia and ataxia
+onset and the disappearance of ophthalmoplegia and
+ataxia were similar for each patient group. The median
+(range) days between ophthalmoplegia onset and the disappearance was 82.0 (5 to 170) days for the IVIg group,
+92.0 (8 to 466) days for the PP group, and 76.0 (45 to 164)
+days for the control group (table E-1 on the Neurology Web
+site at www.neurology.org). The median (range) days between ataxia onset and the disappearance was 39.0 (10 to
+254) days for the IVIg group, 21.0 (5 to 101) days for the
+PP group, and 31.0 (4 to 270) days for the control group.
+In the subgroup analyses of patients who had severe
+disability (complete ophthalmoplegia or unable to walk due
+to ataxia), the times for the disappearance of ophthalmoplegia and ataxia did not differ significantly among IVIg,
+PP, and control groups.
+
+Figure. Kaplan–Meier curves show the percentage of patients with Miller Fisher syndrome by group whose symptoms (ophthalmoplegia [A], ataxia [B]) were not alleviated.
+IV immunoglobulin therapy (IVIg) slightly hastened the
+time between symptom onset and the start of alleviation of
+ophthalmoplegia (p ⫽ 0.04) and ataxia (p ⫽ 0.027). Plasmapheresis (PP) did not. N.S. ⫽ not significant.
+
+One year after the onset of neurologic symptoms, except
+for areflexia, only four (4%) patients with MFS had residual symptom(s) (three diplopia, one both diplopia and ophthalmoplegia; one [4.3%] in IVIg group, two [8.6%] in PP
+group, and one [2.4%] in control group); 96% were free of
+all symptoms and signs, whether or not they received IVIg
+therapy or plasmapheresis.
+
+Discussion. We found that for patients with MFS,
+IVIg therapy seems not to influence patient outcomes, though it slightly hastens the periods between ophthalmoplegia and ataxia onset and the
+start of the alleviation of these symptoms. Natural
+recovery was excellent; almost all the patients were
+free from ophthalmoplegia and ataxia 1 year after
+onset, whether or not they received immune modulation treatment.
+Some reports have suggested the possible efficacy
+of plasmapheresis on MFS, but none have compared
+its clinical effects in treated and nontreated patients.3 In a previous report, we showed that the
+time required for the lessening of ataxia and ophthalmoplegia to start and the chance of recovery
+from them did not differ significantly for patients
+treated or not treated with plasmapheresis.8 We suggested that this probably was mainly due to patients’
+good spontaneous recovery from MFS symptoms. In
+our current study, we enrolled more patients who
+had or had not been treated with plasmapheresis,
+and included analyses by the log-rank test. We found
+no efficacious effect of plasmapheresis on the speed
+of recovery of patients with MFS.
+Whereas this study was retrospective, and some
+bias could have played in selecting patients for IVIg,
+plasmapheresis, or no treatment, our findings suggest that IVIg slightly hastens the alleviation of ophthalmoplegia and ataxia but does not affect recovery
+outcome. Presumably, this is because MFS follows a
+good, natural course. Theoretically, removing or neutralizing pathogenetic autoantibodies would benefit
+in immune-mediated disorders,9,10 but it seems that
+there are only slight effects of IVIg on the speed of
+recovery. Considering the high cost of IVIg, its use
+would not be necessary for patients with MFS unless
+there is overlapping GBS or Bickerstaff brainstem
+April 3, 2007
+
+NEUROLOGY 68
+
+1145
+
+encephalitis. However, IVIg treatment could remain
+an option for patients with MFS overlapping these
+disorders.
+References
+1. The Guillain-Barré Syndrome Study Group. Plasmapheresis and acute
+Guillain-Barré syndrome. Neurology 1985;35:1096–1104.
+2. van der Meché FGA, Schmitz PIM, the Dutch Guillain-Barré Study
+Group. A randomized trial comparing intravenous immune globulin and
+plasma exchange in Guillain-Barré syndrome. N Engl J Med 1992;326:
+1123–1129.
+3. Littlewood R, Bajada S. Successful plasmapheresis in the Miller-Fisher
+syndrome. BMJ 1981;282:778.
+4. Arakawa Y, Yoshimura M, Kobayashi S, et al. The use of intravenous
+immunoglobulin in Miller Fisher syndrome. Brain Dev 1993;15:231–
+233.
+
+5. Zifko U, Drlicek M, Senautka G, Grisold W. High dose immunoglobulin
+therapy is effective in the Miller Fisher syndrome. J Neurol 1994;241:
+178–179.
+6. Fisher CM. An unusual variant of acute idiopathic polyneuritis (syndrome of ophthalmoplegia, ataxia and areflexia). N Engl J Med 1956;
+255:57–65.
+7. Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T. Clinical features
+and prognosis of Miller Fisher syndrome. Neurology 2001;56:1104–
+1106.
+8. Mori M, Kuwabara S, Fukutake T, Hattori T. Plasmapheresis and
+Miller Fisher syndrome: analysis of 50 consecutive cases. J Neurol
+Neurosurg Psychiatry 2002;72:680.
+9. Yuki N. Tryptophan-immobilized column adsorbs immunoglobulin G
+anti-GQ1b antibody from Fisher’s syndrome: a new approach to treatment. Neurology 1996;46:1644–1651.
+10. Jacobs BS, O’Hanlon GM, Bullens RW, Veitch J, Plomp JJ, Willison HJ.
+Immunoglobulins inhibit pathophysiological effects of anti-GQ1bpositive sera at motor nerve terminals through inhibition of antibody
+binding. Brain 2003;126:2220–2234.
+
+Downloaded from https://www.neurology.org by Goteborg Universitet on 2 April 2026
+
+ACTIVATE YOUR ONLINE SUBSCRIPTION
+At www.neurology.org, subscribers can now access the full text of the current issue of Neurology and back issues. Select
+the “Login instructions” link that is provided on the Help screen. Here you will be guided through a step-by-step
+activation process.
+Neurology online offers:
+• Access to journal content in both Adobe Acrobat PDF or HTML formats
+• Links to PubMed
+• Extensive search capabilities
+• Complete online Information for Authors
+• Examinations on designated articles for CME credit
+• Access to in-depth supplementary scientific data
+
+1146
+
+NEUROLOGY 68
+
+April 3, 2007
+
+

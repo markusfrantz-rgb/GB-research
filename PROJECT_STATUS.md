@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (19 st, ~690+ referenser)
+### Forskningsdokument (20 st, ~750+ referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -42,8 +42,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, ~1280 chunks (19 docs + 243 fulltexts) |
-| Fulltext-källor | Live | 319 fulltexter (70 PDF + 206 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1489 chunks (20 docs + 288 fulltexts) |
+| Fulltext-källor | Live | 380 fulltexter (86 PDF + 251 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -249,3 +249,11 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-02 | **Diagnostisk klarhet:** Anti-GQ1b POSITIV (höga titrar) → GBS–MFS–BBE överlappssyndrom bekräftat. MR bekräftar BBE-komponent. Daniel: prognos god, tar tid. |
 | 2026-04-02 | Solu-Medrol 3/3 slutförd. PE-kateter borttagen. Diagnostiska luckor uppdaterade (anti-GQ1b → löst). |
 | 2026-04-02 | Klinisk uppdatering: vikt 56,2 (baseline), temp 37,9, puls 117, BT 170/66. Magen mindre svullen. |
+| 2026-04-02 | **Nytt forskningsdokument:** `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` — 16 sektioner, 54 peer-reviewed referenser. Täcker klassifikation, patofys, diagnostik (serology-first), behandling, prognos, IVA-management, locked-in. |
+| 2026-04-02 | **Massiv fulltextnedladdning:** 38 nya fulltexter (8 paywall + 30 OA). 4 parallella sökning → 4 parallella nedladdning → 6 parallella dataextraktionsagenter. |
+| 2026-04-02 | **RAG reindexerad:** 1461 chunks (upp från 1292). Totalt 20 dokument. |
+| 2026-04-02 | KUNSKAPSBASEN.md uppdaterad med nytt dokument. Deploy till gbs.ragbase.org. |
+| 2026-04-02 | **Tillgångsfil massuppdaterad:** 44 nya artiklar tillagda (session 2: 38 + session 3: 6). Totalt 288 unika artiklar. |
+| 2026-04-02 | **Nya fulltexter (session 3):** Mori 2001, Mori 2007, Santoro 2018, Santoro 2019, Pisano 2025, Puma 2018 (PDF), Lombet 2021 (nedladdad från belgisk journal). |
+| 2026-04-02 | **Siffersynk:** Alla hårdkodade siffror uppdaterade (KUNSKAPSBASEN, Case_Madeleine, Tillgångsfil, PROJECT_STATUS). |
+| 2026-04-02 | RAG reindexerad: **1489 chunks** (20 docs + 288 fulltexter). 380 filer totalt (86 PDF + 251 text + 43 research). |

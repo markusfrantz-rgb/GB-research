@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~690 peer-reviewed referenser | 19 forskningsdokument | 319 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~750 peer-reviewed referenser | 20 forskningsdokument | 380 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -211,7 +211,7 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 
 ## Källbibliotek — verifierade fulltexter
 
-319 fulltexter tillgängliga (70 PDF + 206 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+380 fulltexter tillgängliga (86 PDF + 251 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 
@@ -237,4 +237,4 @@ Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom 
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~690 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars 2026. Baserad på ~750 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*

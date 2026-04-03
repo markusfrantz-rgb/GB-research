@@ -1,0 +1,254 @@
+Neurocrit Care (2025) 42:726–729
+https://doi.org/10.1007/s12028-024-02171-3
+
+LESSONS LEARNED
+
+A Case of Guillain–Barré Syndrome
+and Repurposing cEEG to Enable
+Communication in Total Locked‑in Syndrome
+Thomas J. Pisano*
+
+and Joshua M. Levine
+
+© 2024 Springer Science+Business Media, LLC, part of Springer Nature and Neurocritical Care Society
+
+The Case
+On presentation, a 19-year-old male patient with a history of testicular torsion reported that earlier that day, he
+rapidly developed numbness and tingling sequentially of
+his right foot, right hand, left foot, and left hand. In the
+emergency department, he had difficulty walking. A little
+more than 2 weeks prior, the patient had a sore throat,
+cough, and fatigue; other family members in his household also had similar symptoms. Noncontrast computed
+tomography scans of the head and cervical spine were
+unremarkable, and he was admitted to the hospital. He
+rapidly developed profound quadriparesis. He was intubated for failure to protect his airway, aspiration, and
+hypoxemia around 30 h after the first reported neurological symptoms. He developed aspiration pneumonia
+shortly after. He was transferred to a university-based
+hospital neurointensive care unit. Upon admission to the
+neurointensive care unit, the patient was alert and could
+follow commands with slight voluntary movement of
+his toes and right thumb. There was bilateral ptosis and
+decreased abduction. His limbs were flaccid, and deep
+tendon reflexes were absent.
+What Other Information Would you Want
+to Obtain?
+Further diagnostic steps included contrasted magnetic
+resonance imaging (MRI) of his neuroaxis (performed
+given multiple cranial nerve involvement on examination), lumbar puncture, electromyography/nerve
+conduction studies, and testing for antiganglioside antibodies. MRI of the brain and spine with contrast showed
+*Correspondence: thomas.pisano@pennmedicine.upenn.edu
+Department of Neurology, University of Pennsylvania, 3400 Spruce Street,
+Philadelphia, PA 19104, USA
+
+enhancement of multiple cranial nerves, including the
+left oculomotor, right abducens, bilateral hypoglossal,
+right spinal accessory nerves, and diffuse enhancement
+of the spinal nerve roots and proximal cauda equina
+(Fig. 1). A lumbar puncture approximately 36 h after
+onset was significant for a mild elevation in the protein
+level (47 mg/dL, normal 15–45 mg/dL) without pleocytosis (2 cells/µL). A presumptive diagnosis of Guillain–
+Barré syndrome (GBS) was made. Electromyogram/nerve
+conduction studies (EMG/NCS) on hospital day two
+revealed severe primarily motor polyneuropathy with
+some evidence of demyelination. Repeat EMG/NCS on
+hospital day eight was consistent with fulminant demyelinating sensory-motor neuropathy. A repeat lumbar
+puncture done 7 days after symptom onset was traumatic but revealed more significant albuminocytologic
+dissociation even upon correction for the red blood cell
+count (red blood cell count 2999 cells/µL, white blood
+cell count 20 cells/µL, protein level 374 mg/dL). These
+data and positive antiganglioside antibodies (anti-GM1
+and anti-GD1b) corroborated the diagnosis of GBS. His
+paralysis continued to ascend until he was able to move
+only his right brow. The patient used his brow elevation
+to communicate answers to yes/no questions with the
+clinical team.
+
+What is the Treatment for GBS?
+Separate meta-analyses have shown benefit for the
+use of both intravenous immunoglobulin (IVIg) and
+plasma exchange (PLEX) in GBS [1, 2]. Data suggest
+that IVIg is at least as effective as PLEX and possibly
+that IVIg is superior [3, 4] and has a safer side-effect
+profile [5]. He was treated with a five-day course
+of IVIg. Sixteen days later, given the severity and
+
+727
+
+Case Continued
+Despite early treatment with a five-day course of IVIg
+(2 g/kg total dose divided across five days) the patient’s
+condition worsened, leading to complete loss of voluntary movement by hospital day five. Continuous electroencephalography (cEEG) surface electrodes were placed
+over the forehead to amplify nonvisible facial muscle
+activity (right brow muscles targeted because they were
+the last to lose all visible movement). This facilitated
+communication by allowing staff and family members to
+visualize muscle activity in real-time on a cEEG screen.
+This electrophysiologic communication interface allowed
+the patient to communicate his level of pain, anxiety, and
+other concerns despite being in a total locked-in syndrome [7]. Despite aggressive treatment, he remained
+quadriplegic and dependent on mechanical ventilation by
+hospital day 40, with only partial recovery of some cranial nerve function.
+
+Fig. 1 Cranial nerve and cervical and thoracic nerve rootlet enhancement. Postcontrast T1-weighted magnetic resonance imaging (MRI)
+sequences reveal cranial nerve and cervical and thoracic nerve rootlet
+enhancement. a Sagittal cervical T1 postcontrast MRI sequence with
+cross-section lines corresponding to panels (b–d). b Cross-section
+at approximately the pontomedullary junction with faint bilateral
+cranial nerve enhancement. c and d, Cross-section at C5 (c) and C6
+(d) demonstrating dorsal and ventral nerve rootlet enhancement
+(arrows). e Sagittal thoracic T1 postcontrast MRI sequence with crosssection lines corresponding to panels (f, g). f and g, Cross-section
+at T5 (f) and T11 (g) demonstrating dorsal and ventral nerve rootlet
+enhancement (arrows)
+
+progression of his GBS, he was also treated with PLEX.
+However, combing PLEX with IVIg has not shown to
+provide further benefit [4].
+Steroids are not an effective option in GBS, as they
+do not change disability after four weeks, nor do they
+affect rates of death or disability at 1 year [6]. Despite
+evidence that suggest steroids may be effective in
+experimental animal models of autoimmune neuritis, there is some relatively low-quality evidence in
+humans to suggest corticosteroids may actually delay
+recovery [6]. It has been proposed that the benefits of
+steroid-based immunosuppression are counteracted by
+steroid inhibition of repair processes [6].
+
+Use of cEEG for Communication
+The patient was no longer able to communicate when
+the last observable voluntary brow movement was lost.
+An electrophysiologic communication interface was created using cEEG surface electrodes to amplify nonvisible
+muscle activity (see Supplementary Material for specifications). Real-time muscle amplification peaks were
+easily detected by medical staff and family members on
+a live cEEG monitor. With minimal training, they used
+a code in which two peaks indicated “yes” and one peak
+indicated “no,” enabling the patient to communicate his
+level of pain, anxiety, and shortness of breath, as well
+as answer yes/no questions posed by the clinical team
+(Fig. 2; Supplementary Video; see Supplementary Material for detailed method to implement this approach).
+Family members noted it was “super easy” to learn to
+use the electrophysiologic communication interface.
+They were also appreciative of regaining some ability for
+the patient to communicate, stating that “even though
+there were no signs of life and he was not breathing
+on his own, the fact that he could hear us and respond
+meant he is alive.” This simple yet effective electrophysiologic communication interface provided a practical
+approach to addressing communication challenges in
+severely paralyzed individuals, thereby enhancing patient
+autonomy and improving the quality of care. The patient
+eventually regained enough function to nod and shake
+his head, make some eye movements, open and close his
+mouth, and shrug his shoulders prior to being discharged
+to a ventilator-capable long-term acute care facility. The
+patient was discharged from the facility; he is currently
+ventilator-liberated and wheelchair-bound and, with
+hand orthoses, is able to use a computer and feed himself.
+
+728
+
+Fig. 2 EEG enables communication by amplifying muscle artifacts. Screenshot from EEG tracing demonstrating forehead muscle signal amplification, enabling communication in a patient with total locked-in syndrome. a, b The patient was asked to raise their eyebrows three (a) and two
+times (b). Discrete amplified frontalis muscle signal is observed in the frontal EEG leads (Fp2-F8, Fp1-F3, F3-C3, Fp2-F4). Arrows highlight example
+amplification artifacts. AP bipolar montage shown; vertical and horizontal scale bars depict 140 µV and 1 s, respectively. A 60-Hz notch filter, a
+1-Hz low-frequency filter, and a 70-Hz high-frequency filter were used. Sensitivity was set to 70 µV/mm, and a time base of 30 mm/s was used. AP,
+anteroposterior; EEG, electroencephalography
+
+Discussion
+Here, we present a compelling case of a 19-year-old man
+who presented to the emergency department with symptoms of GBS that were preceded by an upper respiratory
+tract infection. Despite initial treatment with IVIg and
+PLEX, the patient developed profound quadriparesis and
+respiratory failure. Notably, the patient lost all voluntary
+movement, becoming totally locked-in. cEEG was used
+in a nontraditional way as an electrophysiologic communication interface to amplify forehead muscle electrographic signals to enable basic communication. Medical
+staff and family members were easily able to detect realtime amplification peaks. This allowed them to rapidly begin asking the patient questions and deciphering
+answers.
+Many complex and more invasive ways have been
+proposed to facilitate communication in lockedin patients [8, 9]. The approach is remarkably
+simple: using surface EEG electrodes to amplify nonvisible muscle activity. In this case, we targeted the brow
+
+region; however, a simple approach could be used for
+alternative face or body muscles given different patient
+circumstances (i.e., targeting muscles the patient last
+lost control of ). This electrophysiologic communication interface enabled the patient to communicate his
+level of pain, anxiety, and shortness of breath, as well as
+answer yes/no questions posed by the clinical team. It
+also helped rule out status epilepticus contributing to
+his lack of responsiveness.
+Use of cEEG in this context represents a novel
+approach to improve the communication challenges
+faced by severely paralyzed individuals [9]. By amplifying nonvisible muscle activity, this simple electrophysiologic communication interface enabled a patient to
+communicate effectively with the clinical team, despite
+being in a total locked-in syndrome. This straight-forward approach uses a technology accessible to most
+intensive care units and can relatively easily enhance
+patient autonomy and hospitalized quality of life.
+
+729
+
+Lessons Learned
+1. Rapid progression and early diagnosis GBS can
+quickly escalate from mild to severe symptoms,
+emphasizing the necessity of early recognition and
+comprehensive diagnostic steps, including MRI, lumbar puncture, and nerve conduction studies.
+2. Effective treatment protocols IVIg and PLEX are the
+primary treatments for GBS, with IVIg often preferred because of its safety profile. Steroids are not
+effective and may delay recovery.
+3. Communication in severe cases For patients who progressed to a total locked-in syndrome due to severe
+GBS, cEEG can be used as an electrophysiologic
+communication interface to amplify nonvisible muscle activity, enabling basic communication.
+4. Accessibility and adaptability of cEEG cEEG is widely
+available in intensive care units. Our approach can be
+implemented without additional software, providing
+a practical and adaptable solution to improve patient
+autonomy and quality of care.
+Supplementary Information
+The online version contains supplementary material available at https://​doi.​
+org/​10.​1007/​s12028-​024-​02171-3.
+Author contributions
+Patient care: JML. Conceptualization: TJP, JML. Writing–original draft: JML.
+Writing—review and editing: TJP, JML. Generative AI was used for enhancing
+manuscript clarity and improving grammar.
+Source of Support
+None to report.
+Conflicts of Interest
+There are no potential conflicts of interest relevant to this article.
+Ethical Approval/Informed Consent
+This study is in accordance with the principles of the Institutional Review
+Board (IRB) of the University of Pennsylvania that a case report of three or less
+
+cases does not require IRB approval (3.2.2). The patient consented for their
+case to be published.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Received: 26 June 2024 Accepted: 22 October 2024
+Published: 2 December 2024
+
+References
+1. Hughes RA, Swan AV, van Doorn PA. Intravenous immunoglobulin for
+Guillain–Barré syndrome. Cochrane Database Syst Rev. 2014;2014(9):
+CD002063.
+2. Chevret S, Hughes RA, Annane D. Plasma exchange for Guillain–Barré
+syndrome. Cochrane Database Syst Rev. 2017;2017(2): CD001798.
+3. van der Meché FG, Schmitz PI, Dutch Guillain–Barré Study Group. A
+randomized trial comparing intravenous immune globulin and plasma
+exchange in Guillain–Barré syndrome. N Engl J Med. 1992;326(17):1123–9.
+4. Plasma Exchange/Sandoglobulin Guillain-Barré Syndrome Trial Group.
+Randomised trial of plasma exchange, intravenous immunoglobulin, and combined treatments in Guillain–Barré syndrome. Lancet.
+1997;349(9047):225–30.
+5. Zaki HA, Iftikhar H, Najam M, Masood M, Al-Marri ND, Elgassim MA, et al.
+Plasma exchange (PE) versus intravenous immunoglobulin (IVIG) for the
+treatment of Guillain–Barré syndrome (GBS) in patients with severe symptoms: a systematic review and meta-analysis. eNeurologicalSci. 2023;31:
+100468.
+6. Hughes RA, Brassington R, Gunn AA, van Doorn PA. Corticosteroids for
+Guillain–Barré syndrome. Cochrane Database Syst Rev. 2016;2016(10):
+CD001446.
+7. Bauer G, Gerstenbrand F, Rumpl E. Varieties of the locked-in syndrome. J
+Neurol. 1979;221(2):77–91.
+8. Birbaumer N, Murguialday AR, Cohen L. Brain-computer interface in
+paralysis. Curr Opin Neurol. 2008;21(6):634–8.
+9. Canny E, Vansteensel MJ, van der Salm SM, Müller-Putz GR, Berezutskaya J.
+Boosting brain-computer interfaces with functional electrical stimulation:
+potential applications in people with locked-in syndrome. J Neuroeng
+Rehabil. 2023;20(1):157.
+
+
