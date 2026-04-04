@@ -259,3 +259,7 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-02 | **Nya fulltexter (session 3):** Mori 2001, Mori 2007, Santoro 2018, Santoro 2019, Pisano 2025, Puma 2018 (PDF), Lombet 2021 (nedladdad från belgisk journal). |
 | 2026-04-02 | **Siffersynk:** Alla hårdkodade siffror uppdaterade (KUNSKAPSBASEN, Case_Madeleine, Tillgångsfil, PROJECT_STATUS). |
 | 2026-04-02 | RAG reindexerad: **1489 chunks** (20 docs + 288 fulltexter). 380 filer totalt (86 PDF + 251 text + 43 research). |
+| 2026-04-03 | **Anti-GQ1b overlap-doc uppdaterat (54→57 ref):** MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabiliteringstidslinje (Lombet 2021 FIM 19→123), cEEG locked-in-protokoll (Pisano 2025), sömnstörning som BBE-senföljd, vaccinationssäkerhet. |
+| 2026-04-03 | **Nytt IVA-dokument:** `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` — 14 sektioner + daglig checklista, 24 ref. Medvetandebedömning, sedering (dexmedetomidin), dysautonomi, cEEG-kommunikation, VTE, infektionsprevention vid steroider, smärta, nutrition, rehabilitering. |
+| 2026-04-03 | RAG reindexerad: **1506 chunks** (21 docs). Siffersynk alla filer. Deploy till gbs.ragbase.org. |
+| 2026-04-03 | **Klinisk uppdatering: EJ INHÄMTAD.** Markus prioriterade tekniskt arbete. Senast kända status: 2026-04-02 (dag 13). |
