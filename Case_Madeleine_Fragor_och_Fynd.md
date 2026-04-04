@@ -75,6 +75,7 @@ status: active
 | 2026-04-04 | **Procalcitonin beställd** av Stefan (IVA-läkare) för att skilja bakteriell infektion från autonom feber. Infektionskonsult begärd. Svampodling (candida) begärd — patient har **tidigare candidainfektion i ungdomen** (anamnes). |
 | 2026-04-04 | **Levervärden försämrade** (uppmärksammat ~2/4, specifika värden okända). Möjliga orsaker: piperacillin/tazobactam-hepatotoxicitet, paracetamolbelastning, post-steroid, sepsisrelaterad kolestas, hepatosplenic candida. Monitorera LFTs 2×/vecka. |
 | 2026-04-04 (~14:30) | **Vitals (besök):** Puls **89** (bästa sedan insjuknande), BT **133/62** (pulstryck 71, mycket stabilare), temp **37,8°C**, vikt **54,6 kg** (−1,6 från 2/4, under baseline 56). Propofol 0,55 mg/kg/h (ökad), fentanyl 1 µg/kg/h, klonidin 1,2 µg/kg/h, noradrenalin 0,01→0,04 µg/kg/min (kort BT-dip under 100). Kaliumklorid 5,5 mmol/h. Patient ser harmonisk ut. Röntgen mage genomförd. |
+| 2026-04-04 (~15:00) | **Vitals (20 min efter noradrenalin-justering):** Puls **76–78** (lägsta under hela vårdtiden), BT **135/65**. Stabil hemodynamik. |
 
 ### Nuvarande status (2026-04-04, dag 15)
 
