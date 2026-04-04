@@ -1,0 +1,707 @@
+Sci Immunol . Author manuscript; available in PMC: 2024 Dec 6. 
+ 
+ Published in final edited form as: Sci Immunol. 2023 May 26;8(83):eade2335. doi: 10.1126/sciimmunol.ade2335 
+
+- Search in PMC 
+
+- Search in PubMed 
+
+- View in NLM Catalog 
+
+- Add to search 
+
+## IgA deficiency destabilizes homeostasis towards intestinal microbes and increases systemic immune dysregulation
+ 
+ Peyton E Conrey 
+
+## Peyton E Conrey 
+
+^1Division of Allergy Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Peyton E Conrey 
+
+^1,^†, Lidiya Denu 
+
+## Lidiya Denu 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Lidiya Denu 
+
+^2,^†, Kaitlin C O’Boyle 
+
+## Kaitlin C O’Boyle 
+
+^1Division of Allergy Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Kaitlin C O’Boyle 
+
+^1,^†, Isaiah Rozich 
+
+## Isaiah Rozich 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Isaiah Rozich 
+
+^2,^4,^†, Jamal Green 
+
+## Jamal Green 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Jamal Green 
+
+^2,^4, Jeffrey Maslanka 
+
+## Jeffrey Maslanka 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Jeffrey Maslanka 
+
+^2,^4, Jean-Bernard Lubin 
+
+## Jean-Bernard Lubin 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Jean-Bernard Lubin 
+
+^2, Tereza Duranova 
+
+## Tereza Duranova 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Tereza Duranova 
+
+^2, Brittany L Haltzman 
+
+## Brittany L Haltzman 
+
+^3mdgroup, Patient Services, Wayne, PA, 19087, USA 
+ Find articles by Brittany L Haltzman 
+
+^3, Lauren Gianchetti 
+
+## Lauren Gianchetti 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ Find articles by Lauren Gianchetti 
+
+^2, Derek A Oldridge 
+
+## Derek A Oldridge 
+
+^5Department of Pathology and Laboratory Medicine, Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by Derek A Oldridge 
+
+^5,^6, Nina De Luna 
+
+## Nina De Luna 
+
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Nina De Luna 
+
+^4, Laura A Vella 
+
+## Laura A Vella 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by Laura A Vella 
+
+^2,^4,^6, David Allman 
+
+## David Allman 
+
+^5Department of Pathology and Laboratory Medicine, Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by David Allman 
+
+^5,^6, Jonathan Spergel 
+
+## Jonathan Spergel 
+
+^1Division of Allergy Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by Jonathan Spergel 
+
+^1,^6, Ceylan Tanes 
+
+## Ceylan Tanes 
+
+^7Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by Ceylan Tanes 
+
+^7, Kyle Bittinger 
+
+## Kyle Bittinger 
+
+^7Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ Find articles by Kyle Bittinger 
+
+^7, Sarah E Henrickson 
+
+## Sarah E Henrickson 
+
+^1Division of Allergy Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ 
+^8Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Sarah E Henrickson 
+
+^1,^4,^6,^8,^‡, Michael A Silverman 
+
+## Michael A Silverman 
+
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ 
+^8Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ Find articles by Michael A Silverman 
+
+^2,^4,^6,^8,^‡,^*
+
+- Author information 
+
+- Article notes 
+
+- Copyright and License information 
+
+^1Division of Allergy Immunology, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^2Division of Infectious Disease, Department of Pediatrics, The Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^3mdgroup, Patient Services, Wayne, PA, 19087, USA 
+ 
+^4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+ 
+^5Department of Pathology and Laboratory Medicine, Children’s Hospital of Philadelphia, Philadelphia, PA 19104, USA 
+ 
+^6Institute for Immunology, IFI, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ 
+^7Department of Pediatrics, Division of Gastroenterology, Hepatology and Nutrition, Perelman School of Medicine, University of Pennsylvania, PA 19104, USA 
+ 
+^8Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA 
+
+^†
+Co-first authors
+
+^‡
+Co-senior authors
+
+ Author contributions: Conceptualization: MAS and SEH; Methodology: PEC, KOB, LD, LAV, KB, IR, SEH and MAS; Investigation: PEC, LD, KOB, JG, JM, JBL, TD, CT, IR and NDL; Writing – Original Draft: MAS and SEH.; Formal Analysis: PEC, LD, DO, IR, NDL, LAV ,SEH and MAS; Writing – Review &amp; Editing: all authors; Visualization: MAS, SEH, LD, PEC, NDL and IR; Funding Acquisition: MAS, SHE, and JS; Resources: DA; Supervision: MAS and SEH.
+
+^*
+Corresponding author: Michael A. Silverman ( silvermam1@chop.edu )
+
+Issue date 2023 May 26.
+ 
+ PMC Copyright notice 
+ 
+ PMCID: PMC11623094  NIHMSID: NIHMS1914950  PMID: 37235682 
+ 
+ The publisher's version of this article is available at Sci Immunol 
+
+## Abstract
+
+The ability of most selective IgA deficiency (SIgAD) patients to remain apparently healthy has been a persistent clinical conundrum. Compensatory mechanisms, including IgM, have been proposed, yet it remains unclear how secretory IgA and IgM work together in the mucosal system, and on a larger scale, whether the systemic and mucosal anti-commensal responses are redundant or possess unique features. To address this gap in knowledge, we developed an integrated host-commensal approach combining microbial flow cytometry and metagenomic sequencing (mFLOW-Seq) to comprehensively define which microbes induce mucosal and systemic antibodies. We coupled this approach with high dimensional immune profiling to study a cohort of pediatric SIgAD patients and household control siblings. We find that mucosal and systemic antibody networks cooperate to maintain homeostasis by targeting a common subset of commensal microbes. In IgA-deficient mice and humans, we find increased translocation of specific bacterial taxa associated with elevated levels of systemic IgG targeting fecal microbiota. Associated features of immune system dysregulation included elevated levels of inflammatory cytokines, enhanced follicular CD4 T helper cell frequency and activation, and an altered CD8 T cell activation state. While SIgAD is clinically defined by absence of serum IgA, the symptomatology and immune dysregulation were concentrated in the subjects who were also fecal IgA-deficient. These findings reveal that mucosal IgA deficiency leads to aberrant systemic exposures and immune responses to commensal microbes which increase the likelihood of humoral and cellular immune dysregulation and symptomatic disease in IgA-deficient patients.
+
+## One Sentence Summary:
+
+Mucosal IgA deficiency impairs immune homeostasis toward microbiota in children and mice, increasing the risk of immune dysregulation.
+
+## INTRODUCTION
+
+A long-standing paradox has been the central role of secretory IgA in mucosal biology, contrasted with the rather mild phenotype in patients with IgA deficiency. Selective IgA deficiency (SIgAD) is the most common primary immune deficiency, affecting ~1 in 600 Caucasian individuals ( 1 , 2 ). To be diagnosed with this disorder, patients must be over 4 years of age and have absent serum IgA and normal serum levels of IgG and IgM, without other known causes of immune deficiency. SIgAD patients have variable clinical presentations, with a minority of patients developing recurrent infections, severe atopy and/or autoimmune disease, while others remain apparently asymptomatic ( 1 – 3 ). SIgAD has a familial pattern of inheritance in a minority of patients ( 4 ) and can be a precursor to more complex humoral immune deficiencies like Common Variable Immune Deficiency (CVID) ( 5 ). Investigations into potential underlying genetic causes demonstrated a possible link in some patients with variants in the TNFRSF13B gene, which encodes the TACI protein ( 6 ), but the great majority of patients lack a monogenic cause of SIgAD. Various mechanisms have been proposed to compensate for the lack of IgA, including increased circulating and secretory IgM ( 7 , 8 ). It remains unclear how secretory IgA and IgM work together in the mucosal system, and whether the systemic and mucosal anti-commensal networks are redundant or perform distinct functions. It is important to note that this common primary immune deficiency is arguably a disease of outliers—most patients with SIgAD do not have clear clinical symptoms yet we lack an understanding of how SIgAD predisposes some affected individuals to develop systemic immune dysregulation.
+
+Here, we studied human pediatric SIgAD, complemented by studies of IgA-deficient mice, to better understand how IgA functions to maintain mucosal and systemic homeostasis with gut microbiota. First, what is the relationship between anti-commensal responses in the mucosal (i.e., secretory IgA and IgM) and systemic compartments (i.e., IgG)? Second, what are the impacts of IgA deficiency on systemic immune homeostasis? To address these questions, we first developed an integrated host-commensal approach combining microbial flow cytometry and 16S rRNA gene sequencing (mFLOW-Seq) to simultaneously define the microbial targets of intestinal secretory IgA and IgM and circulating IgM and IgG in a well-controlled cohort of pediatric SIgAD patients and household control siblings. Second, we coupled this comprehensive analysis of humoral responses against commensal microbes with high dimensional immune profiling to determine the impacts of IgA deficiency on host immune state. We showed that mucosal and systemic antibody networks cooperate to maintain homeostasis by targeting a common subset of commensal microbes and, further, that IgA has a non-redundant role in restraining microbial translocation and systemic responses to these commensals in both mice and humans. We found dysregulated cytokine secretion, elevated systemic IgG antibodies against commensal microbes, hyperactivated CD8 T cells and an increased frequency of activated CD4 follicular helper T (Tfh) cells in a subset of SIgAD individuals. Complementary studies in IgA-deficient mice mirrored these findings and demonstrated increased translocation of specific intestinal commensal microbes into mesenteric adipose tissue, connecting microbial translocation to systemic immune dysregulation in IgA deficiency. Unexpectedly, five children with SIgAD had normal levels of IgA in their feces, and these children manifested markedly less immune dysregulation and clinical disease than the SIgAD patients with absent fecal IgA, linking the presence of fecal IgA in some SIgAD patients to the low rate of symptomatic SIgAD patients.
+
+Overall, this study demonstrates that the absence of secretory IgA in mice and humans significantly increases systemic exposure to commensal stimulation which in turn drives increased systemic immune dysregulation including an activated CD8 T cell subset, increased circulating T follicular helper (Tfh) cells and IgG antibodies targeting gut microbes.
+
+## RESULTS
+
+## Sibling cohort of SIgAD patients identifies fecal and serum IgA discordance
+
+To investigate the relationships between mucosal and systemic antibody responses to intestinal microbiota in children, we collected stool, blood samples and clinical metadata from pediatric siblings from 15 families that included at least one sibling diagnosed with SIgAD ( Table S1 – S2 ). Since the maternal microbiome, along with genetic and environmental factors, shapes commensal microbiota and immune system development ( 9 – 11 ), we employed a sibling-controlled study design to minimize differences due to these important variables. From these 15 families, all 15 probands with the diagnosis of SIgAD had serum IgA levels &lt;7 mg/dL. 4 control siblings (subjects 1–2, 2–2, 8–2 and 14–2) were found to have undetectable serum IgA, meeting the clinical definition for SIgAD, and were assigned to the IgA-deficient group ( Table S2 and Fig. S1A ).
+
+While serum IgA concentration is used to diagnose selective IgA deficiency, the relationship of serum IgA, secretory IgA in feces and the intestinal microbiome remains unclear. In this cohort, serum IgA concentration did not correlate with percentage of fecal microbes coated by IgA, free fecal IgA concentration or quantity of IgA bound to fecal microbes ( Fig. S1B ). Unexpectedly, IgA was detected in the feces of 5 of the 19 SIgAD subjects (26%) by ELISA and confirmed by microbial flow cytometry. ( Fig. S1C – F and Table S2 ). Conversely, 1 of the 13 control subjects with normal serum IgA concentration lacked fecal IgA ( Table S2 ), a phenotype which is reminiscent of microbial degradation of intestinal IgA reported in mice ( 12 ). Since serum IgA concentration and fecal IgA levels were discordant in 6 of 32 (19%) study subjects, we defined each subject’s IgA status, based on the presence and binding of IgA to commensal microbes, as either fecal “IgA^+” or “IgA^−” ( Table S2 and Fig. S1G ). We used stringent criteria for the fecal IgA negative group, which required less than 10 mg/g free fecal IgA, less than 1 mg/g bacteria bound secretory IgA, and less than 5% IgA bound fecal microbes by microbial flow cytometry ( Table S2 and Fig. S1C – D ). Applying these criteria to this cohort yielded 15 fecal IgA negative and 17 fecal IgA positive pediatric subjects, including 5 fecal IgA^+ SIgAD subjects ( Fig. S1G ). We propose that using a fecal IgA definition, rather than a serum definition, supports a more rigorous investigation of the impact of intestinal IgA on the fecal microbiome and systemic immune system. Specifically, we propose that SIgAD subjects who possess fecal IgA (N=5) have less immune dysregulation and clinical symptoms than those SIgAD subjects without fecal IgA (N=14). This model may provide mechanistic insight as to why some SIgAD patients develop immune dysregulation and clinical symptoms and others do not. Indeed, we found a pattern of more symptomatic disease in SIgAD subjects lacking fecal IgA compared to SIgAD subjects possessing fecal IgA, including more autoimmune disease (29% vs 0%) and allergy (64% vs 40%) ( Table S3 ). Specifically, 4/14 SIgAD fecal IgA^− subjects were diagnosed with an autoimmune disease (type 1 diabetes or autoimmune thyroiditis) while 0/5 of the SIgAD fecal IgA^+ subjects had an autoimmune diagnosis ( Table S3 ).
+
+## Secretory IgA and IgM coat an overlapping subset of commensal microbes in healthy controls
+
+Microbes are highly bound by human IgA ( 7 , 8 , 13 , 14 ), IgM ( 7 , 8 , 13 , 14 ) and systemic IgG ( 15 ), yet an integrated analysis of the microbial targets of these three isotypes in the same individuals has not been reported. Defining the microbial targets is important as it clarifies the interaction of IgA, IgM and IgG with the host’s commensals. One model would have these isotypes interact with separate microbial targets, while another possibility is they work together to provide layers of antibody responses against a common subset of microbes. We first sought to determine the proportion of gut microbes bound by these antibodies in IgA-sufficient immune environments using microbial flow cytometry (mFLOW) ( 16 ). In mFLOW, fecal microbes were stained with fluorophore-conjugated polyclonal secondary antibodies specific for human IgA, IgM or IgG ( Fig. 1A ). In parallel, serum antibodies from each individual were incubated with their fecal microbes before staining with secondary antibodies specific for human IgA, IgM or IgG. In IgA-sufficient siblings, secretory IgA and IgM bound to 19.9% and 25.8% of the fecal microbiota, respectively, while IgG did not coat fecal microbes unless serum IgG was added to fecal microbiota, as expected ( Fig. S2A ). Dual coating by secretory IgA and IgM was observed in 10.7% of fecal microbes, while 8.9% and 11.1% of fecal microbes were uniquely bound by either IgA or IgM, respectively ( Fig. S2B ). In addition, systemic IgG antibodies from serum bound to 7.6% of fecal microbes, most of which were dually coated with IgG and IgM ( Fig. S2C ). Thus, a substantial proportion of fecal microbiota are bound by mucosal IgA and IgM and targeted by circulating IgG antibodies in healthy children.
+
+## Fig. 1. Secretory IgA and IgM and systemic IgG coat diverse fecal microbes in healthy children.
+
+ Open in a new tab 
+ 
+ A. Microbial flow cytometry and 16S rRNA gene sequencing (mFLOW-Seq) schematic and gating scheme. Fecal microbes were incubated with or without autologous serum (normalized to 10 mg/mL of IgG) stained with the nucleic acid dye SYTO BC and either secondary fluorophore conjugated anti-IgA, anti-IgM or anti-IgG antibodies or isotype controls and analyzed by flow cytometry or sorted into selected population. 16S rRNA gene sequencing and microbiome analysis is performed on sorted populations. B. Binding probabilities of representative microbes depicting IgA, IgM and dual IgA and IgM targets for IgA^+IgM^−, IgA^−IgM^+ and IgA^+IgM^+ populations. Amplicon sequence variant (ASV) are within parentheses. C. Scatterplot of the IgM and IgA coating probability for each ASV (N=107). Symbols with horizontal or vertical error bars are enriched in IgM or IgA binding (FDR&lt;0.05). Error bars depict standard error of the mean. D. Correlation of the binding probability to each ASV of sIgM to sIgA. Spearman correlation, line represents simple linear regression. E. Binding probabilities of representative microbes depicting IgM, IgG and dual IgM and IgG targets for IgM^+IgG^−, IgM^+IgG^+ and IgM^−IgG^+ populations. Amplicon sequence variant (ASV) are within parentheses. F. Correlations of the binding probability to each ASV of sIgA to IgG (left panel) and serum sIgM to IgG (right panel). Spearman correlation, line represents simple linear regression. G Venn diagram and H. Circos plot depicting the relationship of microbial ASVs with a binding probability &gt;50% in either IgA, IgM or IgG. Purple lines connect ASVs bound &gt;50% for both of the indicated antibody isotypes. Overlapping bacterial ASVs are shown by the red part of inner ring (IgG N=28, IgA N=29 and IgM N=31). Bacterial ASVs bound by only one isotype are represented by the orange part of inner ring (IgG N=4, IgA N=9 and IgM N=13).
+ 
+To provide an integrated view of the specific fecal microbes targeted by the mucosal and systemic antibody networks, we developed an efficient approach using mFLOW and 16S rRNA gene sequencing (mFLOW-Seq) ( Fig. 1A ) and applied this to our cohort of 32 pediatric subjects. For the fecal IgA-sufficient subjects, we sorted four populations of mucosal-targeted microbes, based on the presence or absence of bound secretory IgA and/or secretory IgM, and four populations of systemic-targeted microbes, based on the presence or absence of bound serum IgM and IgG antibodies ( Fig. S2D ). For fecal IgA-deficient subjects, we sorted mucosal-targeted microbes by presence or absence of IgM. The microbiomes of these sorted populations were assessed by sequencing amplicons from the V4 region of the 16S rRNA gene. 5.5 million amplicons were analyzed from 199 sorted populations and 32 unsorted samples. To obtain the most robust picture of the microbiomes from the 16S rRNA gene sequences, we focused on the microbial taxa, defined as amplicon sequence variants (ASVs) ( 17 ), present in at least a third of the fecal samples (N=107). The diversity and composition of the fecal microbiomes were similar between IgA-sufficient and -deficient subjects ( Fig. S2E – G ). To determine the degree to which each microbial taxa is bound by IgA, IgM and systemic IgG, we employed Bayesian analysis to define the absolute probability (on a scale of 0–100%) that a microbe from a specific taxa is bound by secretory IgA, IgM or both or systemic IgM, IgG or both. Linear mixed effect (LME) modeling was then applied to binding probabilities to define which bacterial taxa defined by ASVs are preferentially coated by secretory IgM or IgA. We identified 8 ASVs highly coated by IgA and 15 ASVs that were preferentially coated by IgM with FDR&lt;0.05 ( Fig. 1B and S3A – B ). Since 10.7% of fecal microbes were coated by both IgA and IgM in healthy controls ( Fig. S2B ), we applied LME analyses to define the taxa that are preferentially bound by IgA^+IgM^+ (“double positive”) compared to either IgM^+IgA^− or IgM^−IgA^+. A total of 33 ASVs were enriched in the dually-coated IgA^+IgM^+ population ( Fig. 1B and S3C ). The double positive IgA^+IgM^+ fraction found in the fecal microbiomes of healthy children was predominantly composed of Firmicutes but also included microbes from the 4 other phyla typically found in the human gut microbiome ( Bacteroidetes , Verrucomicrobia , Actinobacteria and Proteobacteria ). Notably, potentially pathogenic or immunomodulatory microbes from the family Enterobacteriaceae and the genera Bifidobacterium and Akkermansia were dually-coated by IgA and IgM ( Fig. 1B and S3C – D ). To integrate and visualize the binding probabilities of these sorted populations, we plotted the probability of being coated with secretory IgM or secretory IgA for each ASV ( Fig. 1C ). Few microbes had a coating probability of less than 25% or greater than 75% for either IgA or IgM. Finally, a global comparison of the IgA and IgM binding probabilities across all 107 ASVs indicates that IgM and IgA binding were correlated (Spearman r=0.49, p=7.3 × 10^−8) ( Fig. 1D ) indicating that these two main secretory isotypes bind to common microbial targets to a similar degree. From these data, we draw the following conclusions: 1) secretory IgA and IgM bind to a diverse and mostly shared set of fecal microbes, 2) relatively few taxa such as Ruminococcus and Coprococcus were discretely targeted by IgA or IgM, respectively, and 3) potentially pathogenic and immunomodulatory bacteria from phyla Proteobacteria ( Enterobacteriaceae , Sutterella ), Actinobacteria ( Bifidobacterium ) and Verrucomicrobia ( Akkermansia ) were highly coated by both secretory IgA and IgM.
+
+## Systemic IgG and secretory IgA and IgM antibodies target overlapping sets of microbes
+
+Given the finding that mucosal IgA and IgM bind to a similar set of fecal microbes in healthy children, we next investigated whether systemic IgG antibodies target an overlapping or unique set of microbes. Recently, systemic IgGs capable of binding to commensal enteric microbes have been identified in healthy adult humans ( 15 ) and mice ( 16 , 18 ). Some argue that mucosal IgA and systemic IgG converge on common microbial targets ( 15 ) which led us to investigate this question in this pediatric cohort. First, to determine the degree of binding of serum IgGs to commensal fecal microbes in healthy children, we incubated their fecal microbes with autologous serum (which contains IgA, IgM and IgG). This allows binding of systemic antibodies to fecal microbes which is quantified by mFLOW ( Fig. 1A ). To identify the specific commensal microbial targets of systemic IgG and IgM, we analyzed the microbiomes of populations of microbes bound by IgG and/or IgM using mFLOW-Seq ( Fig. 1A and S2D ). 5 ASVs from the fecal microbiome were highly targeted by systemic IgG. These 5 IgG targeted microbes belong to the phylum Firmicutes and were distributed across 1 order ( Clostridiales ) and 3 families ( Peptostreptococcaceae , Lachnospiraceae and Ruminococcaceae ) and 1 genus ( Ruminococcus ) ( Fig. 1E and S4A ). 29 ASVs were dually targeted by IgG and IgM ( Fig. S4B – C ). Having defined the binding probabilities of 107 fecal ASVs to mucosal IgM and IgA and systemic IgG ( Table S4 ), we next determined the degree to which systemic IgG and mucosal IgA and IgM anti-commensal antibody networks target the same or different commensal microbes by comparing the binding probabilities of each antibody isotype for each ASV. The probability of systemic IgG coating was highly correlated with the likelihood of fecal secretory IgA coating the same ASV (Spearman r=0.66, p=6.3 × 10^−15) ( Fig. 1F ). Similarly, fecal secretory IgM binding also correlated with the probability of serum IgG coating (Spearman r=0.62, p=1.2 × 10^−12) ( Fig. 1F ). In addition, there were almost complete overlap of microbes with greater than 50% binding probability for either secretory IgM, secretory IgA or IgG ( Fig. 1G ). 28 of the 32 ASVs targeted by IgG were also bound by IgA and/or IgM ( Fig. 1G – H ). Further, the 5 most IgG-targeted microbes were also highly coated by secretory IgM and secretory IgA (binding probability range, 55–74% for IgM and 57–85% for IgA) ( Table S4 ). These strong correlations between the microbial targets of the main mucosal antibody isotypes, secretory IgA and IgM, and systemic IgG demonstrated that the mucosal and systemic antibody networks target a largely overlapping and phylogenetically diverse range of microbes and suggests a layered and potentially coordinated mucosal and systemic humoral response to commensal microbiota.
+
+## IgM modestly compensates for the absence of intestinal IgA
+
+Since pentameric IgM is secreted into mucosal sites using the same polymeric immunoglobulin transporter (pIgR) as dimeric IgA, and secretory IgM has previously been shown to increase in concentration and degree of binding to some commensal microbes in IgA-deficient individuals ( 7 , 8 , 19 ), we investigated several potential mechanisms by which secretory IgM may compensate for absent fecal IgA in this pediatric cohort. To discern the roles of serum and fecal IgA, we divided our cohort into four groups based on the presence or absence of serum IgA and/or fecal IgA, which provided 3 groups with sufficient numbers of subjects for meaningful comparisons (Control, fecal IgA^+ [N=12], SIgAD, fecal IgA^+ [N=5] and SIgAD, fecal IgA^− [N=14]) ( Fig. 2A ). We first investigated whether fecal IgA-deficient subjects had elevated levels of IgM in fecal samples or increased proportions of fecal microbes coated with secretory IgM. We found a modest increase in free IgM concentration in feces of fecal IgA-deficient SIgAD subjects by ELISA but no significant increase in bound secretory IgM to fecal microbes by either mFLOW or ELISA ( Fig. S5A – B ). Since we did not observe significant increases in the total quantity of secretory IgM binding to fecal microbes, we next investigated whether IgM might compensate for the lack of fecal IgA by specifically coating those microbes that are coated with IgA in healthy controls. We reasoned that if IgM binding to commensal microbes substantially compensates for IgA deficiency, IgM binding would increase for those commensals coated by IgA in healthy subjects. To address this hypothesis, we sorted and sequenced the IgM-uncoated and IgM-coated microbial populations from fecal IgA-deficient and -sufficient siblings. Contrary to this hypothesis, the probability of IgM binding to the most highly IgA-targeted microbes was unchanged in IgA-deficient subjects ( Fig. S5C – D ). Of note, these ASVs were present in similar relative abundance in control and IgA-deficient siblings. This lack of compensatory IgM binding to microbes normally highly coated by IgA provides evidence that secretory IgM does not compensate for IgA deficiency by enhanced binding to fecal microbes that are typically bound by IgA. In summary, pediatric subjects with fecal IgA deficiency have a modest increase in free fecal IgM concentration ( Fig. S5A ) but do not possess increased binding of secretory IgM to fecal microbes ( Fig. S5B – D ). Taken together, we find modest evidence for fecal IgM partially compensating in this cohort of pediatric patients lacking secretory IgA, but we do not rule out more significant compensation at other anatomic sites or by untested mechanisms.
+
+## Fig. 2. IgA restrains systemic targeting of commensal microbes.
+
+ Open in a new tab 
+ 
+ A. Cartoon of participant groups within study, based on serum IgA and fecal IgA. B. Serum IgG concentration in control and SIgAD participants (with the latter split into fecal IgA^− and fecal IgA^+ groups). C. Microbial flow cytometry (mFLOW) schematic and gating scheme. Fecal microbes were incubated with autologous serum (amount of serum used per patient normalized to 10 mg/mL of IgG) stained with the nucleic acid dye SYTO BC and either fluorophore conjugated anti-IgM or anti-IgG antibodies or isotype controls and analyzed by flow cytometry. mFLOW plots from a control fecal IgA^+ subject (middle left) and an SIgAD fecal IgA^− subject (middle right). On right, percentage (left) and mean fluorescence intensity (MFI) (right) of fecal microbes coated by serum IgG . D. (left) Representative flow cytometry plots showing the gating of IgA-, IgG1-, or IgG2b-bound fecal bacteria in IgA^+/− and IgA^−/− mice. Samples from RAG2^−/− mice were used as negative controls. (right) Plot of the percentage of bacteria bound by IgA, IgG1, or IgG2b in RAG2^−/− (N=3), IgA^+/− (N=7) and IgA^−/− (N=8) mice from a representative experiment. A total of 3 independent experiments were performed using littermate mice as controls. Statistics comparisons were done using a non-parametric Mann-Whitney-Wilcoxon test. * P&lt;0.05, *** P&lt;0.001.
+
+## Serum IgGs bind to a higher proportion of fecal microbes in subjects lacking fecal IgA
+
+Given that secretory IgM only modestly compensated for the effects of fecal IgA deficiency in our pediatric cohort, we next investigated the impact of IgA deficiency on the predominant circulating antibody isotypes, IgM and IgG. We hypothesized that secretory IgA restrains systemic exposure to commensal microbes, and that subjects lacking secretory IgA would therefore have increased systemic exposure to commensal microbes and a corresponding increase in systemic antibody responses to commensal microbiota. Quantitatively, serum IgM concentrations and the proportion of circulating IgM^+ memory (CD27^+ CD19^+) B cells were similar between subjects lacking fecal IgA and their control siblings ( Fig. S6A – B ). In contrast, SIgAD subjects lacking fecal IgA had 37% higher serum IgG concentration than control fecal IgA^+ subjects (median 1,280 mg/dL vs 934 mg/dL, p=0.02) ( Fig. 2B ). These findings demonstrate that fecal IgA deficiency primarily impacts IgG concentration of the systemic humoral compartment.
+
+We next considered whether an increased systemic IgG response against commensal microbes in part accounts for the increase in serum IgG concentration in IgA-deficient subjects. To test this hypothesis, we incubated fecal microbes from each subject with autologous serum to determine the proportion of fecal microbes targeted by systemic IgG and IgM antibodies. As serum IgG concentrations differed across subjects, we normalized to a concentration of 10 mg/mL of total IgG for this assay. Circulating IgG antibodies from SIgAD subjects lacking fecal IgA coated a significantly higher proportion of their own intestinal commensal microbes with a higher median fluorescence intensity (MFI) than control fecal IgA^+ or SIgAD fecal IgA^+ subjects (IgG percent binding: Control, fecal IgA^+ 8.9%, SIgAD, fecal IgA^− 14.2% and SIgAD, fecal IgA^+ 7.0%, p&lt;0.05) ( Fig. 2C ). This enhanced binding was robust across a wide range of serum IgG concentrations ( Fig. S6C ). In contrast, serum IgM binding to commensal microbes was indistinguishable between healthy and IgA-deficient siblings ( Fig. S6D ). We therefore conclude that increased concentrations of serum IgGs capable of binding to commensal microbes contributes to the higher total serum IgG concentration in SIgAD subjects.
+
+Similarly, we evaluated systemic anti-commensal IgG binding in a mouse model of IgA deficiency in which the IgA constant region is deleted ( 20 ). Serum IgG1 and IgG2b from IgA-deficient mice coated a significantly higher proportion of fecal microbes compared to littermate control mice ( Fig. 2D ). The enhanced systemic IgG response was evident shortly after weaning in mice 5–6 weeks of age, a timepoint that corresponds to early induction of anti-commensal IgG2b in mice ( 16 ). These data demonstrate a role for IgA in shaping systemic antibody responses to commensal microbes early in immune system development. Taken together, these findings in humans and mice demonstrate that secretory IgA restrains the total quantity and microbial specificities of circulating IgG antibodies in mice and humans.
+
+## Systemic immune dysregulation in pediatric subjects lacking intestinal IgA
+
+Given the increased systemic IgG antibody response to commensal microbes, we hypothesized that IgA deficiency may lead to additional systemic alterations in the immune system. To explore potential mediators of immune dysregulation in fecal IgA-deficient SIgAD subjects, we compared serum cytokine levels in fecal IgA-deficient SIgAD subjects versus fecal IgA^+ control and fecal IgA^+ SIgAD subjects. Out of 38 cytokines assayed, 30 were significantly increased in SIgAD fecal IgA^− subjects compared to control fecal IgA^+ subjects, including type 1 (IFN-γ, IFN-α2 and IL-12), type 2 (IL-4, IL-5 and IL-13), type 17 (IL-17A) and inflammatory cytokines (e.g., IL-6, IL-8, TNFα and TNFβ), while only 1 (CXCL1) was increased in the control fecal IgA^+ subjects ( Fig. 3A and S7A ). In addition, this striking pattern of cytokine elevation was confined to the SIgAD fecal IgA^− subjects and not observed in the fecal IgA^+ subjects. Thus fecal IgA restrains systemic cytokine dysregulation in patients with SIgAD.
+
+## Fig. 3. Systemic immune dysregulation in subjects lacking fecal IgA.
+
+ Open in a new tab 
+ 
+ A. Serum cytokine concentrations in patients with SIgAD [split into fecal IgA deficiency (N=14) and fecal IgA sufficiency (N = 5)] and control siblings (N=12). B. Serum cytokine concentrations (pg/mL) in IgA^+/− control (N=18) and littermate IgA^−/− (N=14) mice.* P&lt;0.05,** P&lt;0.01, and *** P&lt;0.001. C. Quantile-Quantile (QQ) plot illustrating observed versus expected Chi-squared statistics computed by Fisher’s method of meta-analysis across cytokines for patient outlier detection. Analysis includes all 38 cytokines. D. Spearman correlation of the percent of IgG binding to fecal commensal to serum cytokine concentration. Line is simple linear regression. E. Heatmap of the Spearman correlation coefficient of the percentage of IgG and IgM binding. F. Heatmap of the correlation of the percent of IgG and IgM binding in IgA-deficient subjects compared to sibling controls. Statistics comparisons were done using a non-parametric Mann-Whitney-Wilcoxon test. * P&lt;0.05, # P&lt;0.01, and &amp; P&lt;0.001.
+ 
+We found a similar broad pattern of serum cytokine dysregulation in IgA-deficient mice with increased type 1 (CXCL9 and IL-12), type 2 (IL-13 and IL-4) and pro-inflammatory cytokines (e.g., IL-6) but not IFN-γ, IL-17 or TNFα ( Fig. 3B and S7B ). Having observed broad cytokine dysregulation in the IgA-deficient subjects and mice, we next explicitly tested whether this was due to a few subjects with broadly dysregulated serum cytokines versus single or few cytokines dysregulated in each subject using an outlier analysis. The strategy was based on Fisher’s method of meta-analysis, and we found elevation of serum cytokine expression across the measured cytokines in a subset of fecal IgA negative subjects (p = 0.038; Fisher’s exact test; Fig. 3C ). This analysis supports a model in which a subset of SIgAD fecal IgA^− subjects have broad dysregulation of their cytokine profile.
+
+We next investigated whether there was a relationship between the level of systemic cytokine concentrations and systemic IgG binding to commensal microbes. IgG binding to commensals was correlated with type 1 (IFN-γ), type 2 (IL-4 and IL-13), type 17 (IL-17A) and other pro-inflammatory cytokines (IL-6) ( Fig. 3D – E ). This correlation was driven almost entirely by enhanced IgG binding in the subjects lacking fecal IgA ( Fig. 3F ). In contrast, there were no statistically significant correlations between systemic cytokines and the proportion of IgM binding to commensals. These findings demonstrate that systemic anti-commensal IgGs are specifically correlated with dysregulated cytokines in IgA-deficient subjects. These findings suggest that a common pathophysiology, potentially loss of intestinal barrier function, may be driving the elevated systemic anti-commensal IgG antibodies and dysregulated cytokines.
+
+We next investigated the degree to which IgA deficiency impacts the systemic cellular immune compartment using Cytometry by Time of Flight (CyTOF) of peripheral blood mononuclear cells (PBMCs) to define their high dimensional immune profile ( 21 ). The impact of fecal IgA deficiency on T cell activation state was assessed using dimensionality reduction analysis of CD3 T cells to identify clusters of T cells and then cluster participation was compared between healthy controls and IgA-deficient participants ( Fig. 4A and Table S5 ). We identified one cluster of effector memory CD8 T cells (cluster 15) with elevated levels of Helios, TIGIT, Eomes, and CD39 that was significantly increased in IgA-deficient subjects ( Fig. 4B ) and could be consistent with a T cell exhaustion-like process (Tex-like), which is a dysfunctional CD8 T cell state that can be seen in the setting of chronic antigen stimulation and inflammation. The increase in the frequency of cluster 15 was driven by the subgroup of the IgA-deficient subjects who lacked both serum and fecal IgA ( Fig. S8A ). Of note, there was no decrease in secretion of cytokines by CD8 T cells following PMA/ionomycin stimulation ( Fig. S8B ), which would have been more consistent with an exhaustion-like picture, though we were unable to evaluate the more informative question of antigen specific effector function. Supporting the finding of altered CD8 T cell activation state in IgA-deficient subjects, IgA-deficient mice had a modestly increased percentage of PD-1^+ Eomes^+ CD8 non-naïve T cells (Tnn) and CD69^+ CD8 Tnn in the MLN and spleen compared to littermate control mice, which is consistent with a Tex-like process ( Fig. 4C ). Thus, in both human and mouse IgA deficiency, we found evidence of altered CD8 T cell activation state.
+
+## Fig. 4. Cellular immune dysregulation in subjects lacking fecal IgA.
+
+ Open in a new tab 
+ 
+ A. High dimensional immune profiling via mass cytometry (CyTOF). PBMCs were labeled with metal-conjugated antibodies and assessed by CyTOF. Dimensionality reduction was performed using the PhenoGraph ( 43 ) algorithm [via the cytofkit package ( 44 )] to cluster 5,000 live cells per subject, with cluster diagram as shown on the left and galaxy plots shown to the right. Circles highlight cluster 15, which is enriched in the fecal IgA^+ group. The scale for galaxy plots ranges from none or few cells (black and purple) to higher cell frequency (yellow). B. Cluster participation frequency between fecal IgA^+ (N=17) and fecal IgA^− (N=15) subjects in the CD8 T exhausted-like cluster 15. C. PD-1 and Eomes expression in non-naive CD8 T cells (CD8 Tnn) from the spleens of IgA^−/− mice (N=23) and littermate control IgA^+/− mice (N=23) with summary plots from the mesenteric lymph nodes (MLN) on the left and spleen to the right. Data are representative of results from 4 independent experiments. D. CXCR5 and PD-1 expression in CD4 T cells from PBMCs from pediatric subjects measured via spectral flow cytometry (above). Summary plots of the frequency of total and activated Tfh in participant PBMCs (below). E. CXCR5 and PD-1 expression in CD4 T cells from the mesenteric lymph nodes (MLN) and spleens of IgA^−/− mice (N=23) and littermate control IgA^+/− mice (N=23) with summary plots from the mesenteric lymph nodes (MLN) on the left and spleen to the right. Data are representative of results from 4 independent experiments. Statistics comparisons were done using a non-parametric Mann-Whitney-Wilcoxon test. * P&lt;0.05, ** P&lt;0.01, and *** P&lt;0.001. F. Soluble CD14 (ng/mL) in IgA-deficient pediatric subjects compared to their control siblings. Statistics comparison was done using a paired t-test.
+ 
+The majority of CD4 T helper subset (Th1, Th2, Th17 and Treg) frequencies were unaltered, including when analyzed by the presence of fecal IgA within SIgAD subjects ( Fig. S8C – D ). However, we identified an intriguing, elevated frequency of circulating Tfh (5.9% vs 7.8%, P=0.01) and activated circulating Tfh (4.5% vs 7.6%, P=0.03) ( Fig. 4D ). Of note, other subsets of Tfh were not elevated in frequency ( Fig. S8E ). The increased circulating Tfh and activated Tfh in subjects with SIgAD suggested that IgA deficiency may also drive an increase in Tfh cells within lymphoid sites. Indeed, IgA-deficient mice have a robust increase in the frequency of Tfh in the mesenteric lymph nodes (7.7% vs 9.6%, P=0.006) and spleen (2.8% vs 5.1%, P=0.0004) ( Fig. 4E ). This finding is reminiscent of IgA-deficient CVID patients who develop elevated circulating Tfh frequency which is thought to be driven by translocation of microbial products such as LPS due to an impaired gut barrier ( 22 ). As such, we propose that fecal IgA deficiency leads to increased systemic exposure to commensal microbes or microbial products. To address the hypothesis that intestinal IgA supports intestinal barrier function and restrains microbial translocation, we measured the serum concentration of soluble CD14 (sCD14), a biomarker for immune response to commensal microbes, to indicate the degree of microbial translocation from the gut to systemic sites ( 23 ). sCD14 concentration was elevated in fecal IgA-deficient participants compared to their household sibling control ( Fig. 4F ), supporting the hypothesis that IgA restrains access of microbes and/or microbial products to systemic sites. In addition, since Tfh-promoting cytokines such as IL-6 and IL-12 are elevated in fecal IgA^− SIgAD subjects ( Fig. 3A ), these factors may also contribute to the enhanced Tfh ( Fig. 4D – E ) and systemic IgG antibody levels ( Fig. 2B – C ) in IgA-deficient mice and people.
+
+## IgA restrains commensal translocation into mesenteric adipose tissue
+
+Since the fecal IgA-deficient subjects did not have signs or symptoms indicative of ongoing inflammation, we suspected they may experience low level or intermittent translocation of commensal microbes or microbial products from the gut to systemic sites. Since IgG-producing B cells provide long-lasting responses to brief systemic bacterial exposures ( 24 ) and bind to those microbes with high specificity ( 25 ), we utilized systemic IgGs from IgA-deficient subjects to identify specific microbes that may induce systemic immune responses. To define the commensal microbial targets of systemic IgG and IgM in subjects with IgA deficiency and their healthy siblings, we double-sorted and sequenced the microbiomes of 4 populations of antibody-bound microbes (IgM^+IgG^−, IgM^+IgG^+, IgM^−IgG^+ and IgM^−IgG^−). The probabilities of IgM and IgG binding were broadly similar between fecal IgA^+ and IgA^− siblings with a modest non-significant shift of some taxa towards higher IgG probability in the IgA-deficient group ( Fig. S9A ). Yet, in a subset of fecal IgA-deficient subjects who have highly elevated IgG binding to commensals (range: 17–47%), we found a high binding probability for their IgG antibodies to the two most abundant Bacteroidetes ASVs and to Enterobacteriaceae which notably included microbes with pathogenic potential (e.g., E. coli) ( Fig. 5A ). In subjects with IgA deficiency, total IgG binding to fecal microbes was correlated with the probability of IgG binding to Enterobacteriaceae ( Fig. 5B ) which suggests that increased IgG binding is driven in part by microbes with potential to translocate and cause systemic inflammation ( 26 ).
+
+## Fig. 5. IgA restrains microbial translocation to mesenteric adipose tissue.
+
+ Open in a new tab 
+ 
+ A. IgG binding heatmap with each individual on the x axis and the top 20 most abundant fecal microbes, represented as ASVs, on the y axis. B. Fecal IgG binding percentage with probability of IgG coating Enterobacteriaceae in subjects with fecal IgA deficiency (N=11). Spearman correlation, line represents simple linear regression. C. Colony forming units per gram (CFU/g) of mesenteric adipose tissue from littermate IgA^−/− (N=31) and IgA^+/− (N=28) mice from 5 independent experiments. D. Relative proportions of the specific bacterial species isolated from the MAT of IgA^+/− and IgA^−/− mice. E. Binding of three L. johnsonii isolates derived from the MAT of IgA^−/− mice by antibodies from IgA^+/− vs. IgA^−/− mouse serum (N=6 for IgA^−/− and IgA^+/−). Parabacteroides distasonis was used as a non-translocating commensal microbe negative control. Data are representative of results from 2 independent experiments. Statistics were calculated using a non-parametric Mann-Whitney-Wilcoxon test. * P&lt;0.05, ** P&lt;0.01, and *** P&lt;0.001.
+ 
+To directly address whether IgA impacts microbial translocation of live bacteria to local and systemic sites, we returned to the mouse model and cultured relevant tissues from IgA-deficient and littermate IgA-sufficient mice. Previous studies had suggested that bacteria may translocate to mesenteric lymph nodes (mLNs) ( 16 , 27 ), liver ( 28 ), spleen ( 18 ), and mesenteric adipose tissue (MAT) in mice ( 29 ) and humans ( 30 ). We found bacterial translocation in both IgA-deficient and -sufficient mice to the mLNs and to a lesser extent to the spleen ( Fig. S9B ). In contrast, IgA-deficient mice have increased translocation of live bacteria to the MAT (10/31 IgA KO mice vs 2/28 littermate controls, P=0.017) with Lactobacillus (69%) , Bifidobacterium (15%) , Enterococcus (7%) , and Lactococcus (7%) species cultured from this tissue ( Fig. 5C – D ). Lactobacillus johnsonii (38%) was the most commonly isolated translocating microbe in IgA-deficient mice ( Fig 5D ). To test whether increased IgG binding to intestinal microbes is driven by microbes that translocate to extra-intestinal sites, serum from IgA-deficient and littermate IgA-sufficient mice was incubated with three different Lactobacillus johnsonii isolates cultured from the MAT of IgA-deficient mice. Serum IgG1 and IgG2b from IgA-deficient mice bound to a higher proportion of each of these three translocating L. johnsonii isolates than IgA-sufficient littermate controls yet did not bind to a non-translocating intestinal commensal microbe Parabacteroides distasonis ( Fig. 5E ). Taken together, this data demonstrates that IgA restrains systemic anti-commensal IgG by preventing translocation of commensal microbes to specific systemic sites.
+
+In addition, E. coli, a clinically relevant pathogen from the Enterobacteriaceae family was cultured from the mLNs of both IgA-deficient and control mice ( Fig. S9C ). Of note, high levels of IgG targeting the Enterobacteriaceae family is correlated with amount of overall binding of IgG to fecal microbes ( Fig. 5B ). These findings suggest that in the absence of fecal IgA, a compensatory increase of circulating IgG antibodies specific for commensal microbes, especially those capable of translocating from the gut to systemic sites, helps prevent infection and excessive inflammation by binding and clearing those microbes. In the subset of SIgAD subjects lacking fecal IgA, we propose that increased systemic exposure to these translocated microbes drives elevated systemic cytokines and T cell dysregulation which predisposes these individual to the symptomatic diseases associated with SIgAD ( Table S3 ).
+
+## DISCUSSION
+
+In this study we found that secretory IgA restrains the systemic IgG response to commensal microbes and limits the development of systemic immune dysregulation of circulating CD4 and CD8 T cell subsets and serum cytokines in both humans and mice. These effects are modest in some IgA-deficient subjects and striking in others. The differences suggest that the variable phenotypes of IgA deficiency may reflect the degree to which mucosal barrier function is compromised as well as differences in systemic responses to aberrant exposure to specific commensal microbes. Indeed, the SIgAD subjects, defined by absent serum IgA, who also lack fecal IgA exhibited more clinical symptoms and evidence of immune dysregulation, particularly elevated inflammatory cytokines and anti-commensal IgGs. In contrast, the 26% of SIgAD subjects in this cohort with fecal IgA did not develop immune dysregulation and clinical disease. Based on these results, we propose that secretory IgA supports the intestinal barrier to maintain homeostatic levels of interaction between commensal microbes and the systemic immune system. In the absence of secretory IgA, barrier function is diminished and systemic exposure to commensal microbes increases, leading to aberrant humoral and systemic responses to commensal microbes. In a subset of SIgAD individuals, these inflammatory responses trigger symptomatic diseases associated with SIgAD. Thus, we propose that secretory IgA tunes the homeostatic dialogue between the systemic immune compartment and commensal microbiota.
+
+In this study, we developed an integrated approach (mFLOW-Seq) to simultaneously define the specific microbial targets of secretory IgA and IgM and systemic IgM and IgG in children with IgA deficiency and their unaffected siblings. While previous studies had evaluated antibody targets in humans ( 7 , 8 , 13 – 15 , 31 , 32 ), our study provides a comprehensive analysis of the fecal microbes targeted by secretory IgA and IgM and systemic IgM and IgG within the same individual. This comprehensive approach provides an important window into how IgA-sufficient and -deficient children respond to their commensal microbes and reveals a striking layering of commensal fecal microbial targets by secretory IgA and IgM within mucosal sites and between mucosal IgA/IgM and systemic circulating IgG antibodies.
+
+In our analysis of antibody targets, we adapted a Bayesian analytic approach ( 33 ) to determine the probability of binding by each antibody isotype (i.e., IgA, IgM and IgG) to provide an intuitive and specific measure of antibody targeting across multiple isotypes. In comparison, previous studies used the ratio of the relative abundance of IgA^+ and IgA^− bacteria ( 32 ) or an IgA binding index ( 31 ) to define which microbes are targeted by IgA. The Bayesian approach provides several important advantages compared to other methods including avoiding artifactual associations based on different relative abundances of ASVs, increased power to detect differences in antibody binding to specific ASVs between experimental groups and lower coefficients of variation ( 33 ). In total, binding probabilities offer an intuitive approach to better understand and study the complex binding dynamics of anti-commensal antibodies to intestinal microbiota.
+
+By sorting microbes into singly (i.e., IgA, IgM or IgG) bound and dually-targeted (e.g., IgA and IgM bound) groups, we discovered several important properties of anti-commensal antibody networks. First, we found that microbial populations from the same taxa exist in multiple binding states (e.g., unbound, singly bound by IgA, singly bound by IgM or dually bound by IgA and IgM). For example, Coprococcus has been described as a prominent IgA target in a previous study ( 7 ), but we find a more complex pattern for this microbe with a 50% probability of being coated solely by IgM, 40% of being coated by IgM and IgA and less than 10% chance of being uncoated or coated by IgA alone. While these distinct binding states may be due to multiple strains or species corresponding to the same ASV, this heterogeneous binding of mucosal and systemic antibodies may also be due to heterogeneous expression of key immunogenic bacterial surface epitopes such as phase variation of type 1 fimbria expression, as has recently been described for monoclonal IgA antibodies binding to commensal E. coli ( 34 ). Second, the probability of IgA and IgM binding across the most abundant taxa follows a continuous distribution for most microbes with a few taxa (e.g., Ruminococcus and Coprococcus) being more highly IgA or IgM targeted, respectively. Almost all taxa of microbes are bound by secretory antibodies at least 25% of the time and few are bound more than 75% of the time. This may reflect cross-species reactivity ( 35 ) or polyreactivity ( 36 ) of many secretory antibodies to conserved epitopes like LPS and flagellin ( 37 ). Third, microbes that translocate to systemic tissues elicit broad antibody binding. For example, Enterobacteriaceae and Bifidobacterium are highly targeted by secretory IgA, IgM and systemic IgG, and we see translocation of specific microbes from these taxa including E. coli, Lactobacillus sp. and B. pseudolongum to MLNs and MAT coupled with development of enhanced systemic IgG responses to MAT translocating microbes. Sorting singly- and dually-bound microbes revealed a more complex biology that may help reveal the relationship of mucosal IgA and IgM towards commensal microbes and how they collaborate in that process.
+
+In both mice and humans with IgA deficiency, we identified two specific cellular defects, increased frequency of Tfh cells and an exhausted-like subset of CD8 T cells with increased expression of activation and inhibitory receptors, which we think are likely sequela of poor intestinal barrier function yielding increased systemic exposure to commensal microbes. We identified factors in mice and humans with IgA deficiency which could be the signals needed for the development of both enhanced frequency of Tfh cells and T cell exhaustion including increased microbial translocation, systemic recognition of commensal gut microbes, elevated serum sCD14 and elevated systemic cytokines such as type 1 and type 2 interferons which are associated with T cell activation. We identified a significantly increased frequency of an exhausted-like CD8 T cell cluster in a subset of fecal IgA-deficient subjects, and we see parallel features in IgA-deficient mice including a systemic increase in PD-1^+ Eomes^+ CD8 Tnn, another cell subset that can be seen in a state of T cell exhaustion ( 38 ). Evidence in other settings has shown that chronic inflammation may be able to cause, or at least tune, an exhausted-like phenotype ( 39 , 40 ), which may parallel the inflammation we have measured in IgA deficiency. Here, we provide evidence of an increase in exposure to commensal microbes (chronic antigen stimulation) and chronic inflammation (including altered cytokine state), which could potentially drive T cell exhaustion. In both cases, these elevations in Tex-like CD8 T cell and Tfh frequency could represent the impact of impaired mucosal barrier function in IgA deficiency yielding increased and chronic antigenic stimulation which could be sufficient to alter T cell function. Beyond dysregulated cellular immunity, there are clear impacts on humoral immunity in SIgAD.
+
+Secretory IgM compensates for some aspects of IgA deficiency as seen in human( 7 , 8 ) and murine models of IgA deficiency ( 20 ), but the specific evidence for how much IgM is compensating in the pediatric setting is incomplete ( 41 ). We highlight that IgM compensation is modest in this cohort pediatric patients with SIgAD. For example, there is a modest increase in free IgM in the feces of SIgAD who are deficient in fecal IgA, yet no significant corresponding increase in IgM bound to fecal microbes by ELISA or mFLOW which differs from previous studies ( 7 , 8 ). We propose that the lack of intestinal IgA may over time lead to microbial dysbiosis which may drive a compensatory secretory IgM response. Thus a compensatory IgM response in SIgAD subjects becomes more evident in adults with IgA deficiency compared to pediatric patients.
+
+One of the main remaining hurdles to truly achieve precision medicine is a mechanistic understanding of diseases where patients with a single “umbrella” diagnosis based on clinical findings or laboratory testing (i.e., selective IgA deficiency as currently clinically defined solely based on serum IgA concentration) have diverse clinical phenotypes. Here, we use the disease of selective IgA deficiency, where only a subset of patients are clinically symptomatic, to better understand how the mucosal humoral immune response tunes the baseline immune state. We hypothesize that the symptomatic patients with more extreme immune dysregulation may be the patients lacking secretory IgA leading to greater barrier dysfunction. Here, we have gained insight into the specific question of the impact of IgA deficiency on mucosal and systemic antibody responses to commensal microbes, T cell function and cytokine environment in both humans and mice, delved into the broader question of how to study a disease where symptomatic patients are the exception rather than the norm, and have provided a model with diagnostic and therapeutic implications to move this inquiry forward.
+
+## MATERIALS AND METHODS
+
+## Study design
+
+To evaluate the impact of IgA deficiency on immune function, studies were undertaken in pediatric subjects and mice. The objectives were to define mucosal and systemic antibody responses against commensal microbes, determine the degree to which IgA contributes to intestinal barrier function, and to determine whether subjects with SIgAD have systemic immune dysregulation. Pediatric patients with IgA deficiency and their co-housed siblings with normal IgA levels were recruited and clinical history was collected. High dimensional immune profiling of T and B cells, serum cytokine analysis, detailed evaluation of stool and serum IgA levels, and mucosal and systemic antibodies reactivity to commensal microbes were assessed. Complementary studies were undertaken in IgA-deficient and littermate control mice, including high dimensional immune profiling, serum cytokine analysis as well as evaluation of gut commensal microbe translocation to systemic sites. Direct evaluation of altered immune state in IgA deficiency in pediatric human patients and in a mouse model permitted evaluation of the interaction between humoral immune deficiency and systemic immune dysregulation.
+
+## Patient recruitment
+
+Patient recruitment began in the summer of 2017 and finished by the end of 2018. The Department of Biomedical Health Informatics (DBHI) and the Recruitment Enhancement Core (REC) assisted in developing a list of patients that were seen in the last 10 years by the Division of Immunology at The Children’s Hospital of Philadelphia with a diagnosis of IgA deficiency and a serum IgA level of &lt;7 mg/dL. Families were contacted via email. For each family that was interested, a verbal screening consent was administered to allow for initial screening of patients by phone. We reviewed the electronic medical records of the IgA-deficient sibling and non-deficient sibling to screen for inclusion and exclusion criteria. Inclusion criteria : 1) Males or females, 2) Selective IgA deficiency patients and their non-IgA-deficient siblings followed in CHOP Immunology clinic, and 3)Parental/guardian permission (informed consent) and if appropriate, child assent. Exclusion criteria : 1) Antibiotic exposure in the past 30 days or 2) Active infection as reported by subject or parent/guardian.
+
+## PBMC sample processing
+
+Peripheral blood mononuclear cells (PBMCs) were isolated using a Ficoll Plaque PLUS gradient (Sigma). Whole blood was mixed 1:1 with PBS and layered onto a Ficoll gradient. Cells were centrifuged. Buffy coat suspension was removed and spun down for cell isolation. ACK lysis of erythrocytes was performed. Cells were counted in RPMI (10% FBS, 1% L-Glutamine, 1% Pen-Strep). Cells were spun down and resuspended in 1 mL of freezing media (90% FBS, 10% DMSO).
+
+## Flow cytometry sample staining and acquisition for human samples
+
+Cryopreserved PBMCs were thawed in 10mL cRPMI (RPMI 1640 1X supplemented with 10% heat-inactivated fetal bovine serum (FBS), 1% L-glutamine and 1% Pen-Strep). PBMCs were centrifuged at 315 x g for 5 minutes and resuspended at a concentration of 2 × 10^6 cells/mL in cRPMI. Cell suspensions were plated at 200 μL per well in 96-well round-bottom plates and centrifuged at 515 x g for 5 minutes. For cytokine studies, cells were stimulated for 4 hours at 37°C in the presence of PMA/Ionomycin as well as BFA (GolgiPlug; BD Biosciences) and Monensin (GolgiStop; BD Biosciences). Cell pellets were resuspended in 50 μL of surface antibody cocktail and incubated at room temperature, in the dark, for 20 minutes. Cells were washed with 150 uL FACS buffer (PBS, 1% FBS) and spun down at 500 x g for 5 minutes. Cells were permeabilized with 50 μL of a permeabilization reagent which included 3 parts Fixation/Permeabilization Concentrate (Invitrogen) and 1 part eBioscience fixation/perm diluent (Invitrogen). Cell suspensions were incubated for 20 minutes at room temperature followed by a wash with 150 μL PERM Buffer (1 part 10X permeabilization concentrate and 9 parts water). Cell suspensions were centrifuged at 500 x g for 5 minutes and resuspended in 50 μL of intracellular antibody cocktail. Cells incubated for 60 minutes at room temperature and were subsequently washed with 150 μL of permeabilization buffer. Cells were resuspended in 100 μL of a streptavidin-BB 790 antibody cocktail and incubated for 10 minutes before fixing with 1.6% PFA. Fixed cells were stored at 4°C and analyzed on a BD LSR, Fortessa, X-50 or Cytek Aurora as indicated.
+
+## Fecal ELISA
+
+Stool pellets were homogenized in 1000μL of sterile-filtered PBS with 1% bovine serum albumin (BSA) (Fisher). The homogenates were centrifuged at 100 x g for 15 minutes. The supernatants were transferred to sterile 1.5-mL Eppendorf tubes and centrifuged at 8000 x g for 5 minutes. The supernatant was used to measure the concentration of free immunoglobulin in the feces while the bacterial pellets were used to measure the bacterial-bound immunoglobulin concentration. The assay was performed using the Human ELISA Quantitation Set according to manufacturer instructions (E80–102, E80–104, E80–100; Bethyl).
+
+## Mice
+
+IgA^−/− and IgA^+/− mice were generated by breeding IgA^−/− mice to congenic C57BL/6 mice born and maintained in the BRB facility at the University of Pennsylvania (provided by Dr. Allman ( 42 )). IgA^+/− sires were then mated to IgA^−/− dams to generate experimental mice which include littermates of both sexes age 4–14 weeks. We utilized this breeding scheme to standardize maternal antibody and microbiome transfer effects and to avoid cage effects ( 43 ). All experiments were approved by the University of Pennsylvania IACUC.
+
+## Human and mouse serum cytokine analysis
+
+Millipore’s 38-plex MILLIPLEX MAP human cytokine/chemokine magnetic bead panel kit (hcytmag-60k-PX38; Millipore) was used to measure the following cytokines and chemokines: IL-1α, IL-1β, IL-1Ra, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-12 (p40), IL-12 (p70), IL-13, IL-15, IL-17, IP-10, EGF, eotaxin, FGF-2, Flt-3 ligand, fractalkine, G-CSF, GM-CSF, GRO, IFN-α2, IFN-γ, MCP-1, MCP-3, MDC, MIP-1α, MIP-1β, sCD40L, TGFα, TNFα, TNFβ, and VEGF. The immunoassay was performed according to the manufacturer’s instructions and the plate was run on a MAGPIX multiplex reader and analyzed with Luminex xPONENT software. For mouse studies, serum was obtained from the retro-orbital venous plexus at the time of sacrifice and stored at −80°C. Millipore’s 32-plex MILLIPLEX MAP mouse cytokine/chemokine magnetic bead panel kit (MCYTMAG-70K-PX32; Millipore) was used to measure the following cytokines and chemokines: G-CSF, GM-CSF, IFN-γ, IL-1α, IL-1β, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-12 (p40), IL-12 (p70), IL-13, IL-15, IL-17, IP-10, KC, MCP-1, MIP-1β, M-CSF, MIP-2, MIG, RANTES, VEGF and TNFα. The immunoassay was performed as described above. The limit of detection is 3.2 pg/mL. Values that were listed as &lt;3.2 where the actual read net fluorescence is lower than the lowest standard net reading were set to 3.2 pg/mL. Analytes with less than 50% of values above the limit of detection in both cases and control groups were excluded from analysis.
+
+## Microbial translocation assay
+
+IgA-deficient and littermate control mice from 4–12 weeks of age were used to assay bacterial translocation from the intestinal lumen to systemic tissues. The MLN, mesenteric adipose tissue (MAT), and spleen were sterilely harvested and placed into autoclaved, pre-weighed 1.5mL Eppendorf tubes. The tissue masses were then measured. Next, samples were processed and cultured anaerobically (90% N2, 5% CO2, and 5% H2): this included homogenization of the tissues in reduced PBS followed by inoculation of the homogenate onto Yeast Casitone Fatty Acids with Carbohydrate (YCFAC) plates. All samples were incubated anaerobically at 37°C for 4 days. Following the incubation period, colony forming units (CFU) were counted and normalized to the weight of the tissue (CFU/g). A pseudocount of +1 was used for samples with no growth to allow visualization of all samples on a log axis.
+
+## Statistical analysis
+
+Statistical significance was determined as indicated in the figure legends with Prism 9 (GraphPad Software Inc). P values &lt;0.05 were considered statistically significant. Heatmaps were generated using publicly available software from the Broad Institute (Morpheus, https://software.broadinstitute.org/morpheus ). For outlier analysis, Z-scores were first computed for each analyte (across patients), and the corresponding Z-score vectors (across analytes) were then transformed to a patient-level chi-square statistic computed by the formula of Fisher’s method of metanalysis using a standard normal reference distribution and two-tailed assumptions. P-values for outlier significance were computed by permutation test, whereby the patient label was permuted separately for each individual analyte to create a reference distribution for the resulting chi-squared statistic. For microbiome analysis, multiple tests were corrected for false discovery rate using Benjamini-Hochberg method.
+
+## Supplementary Material
+
+ MDAR checklist 
+ 
+ NIHMS1914950-supplement-MDAR_checklist.docx ^ (70.7KB, docx) 
+ 
+ data file S1 
+Raw data file
+
+ NIHMS1914950-supplement-data_file_S1.xlsx ^ (436.7KB, xlsx) 
+ 
+ main supplementary material 
+Fig. S1: Serum IgA concentration does not correlate to fecal IgA concentration or the percentage of bacteria bound by IgA.
+
+Fig. S2: Secretory IgA and IgM and systemic IgG coat diverse microbes in healthy children, and overlapping sets of microbes are targeted in healthy and fecal IgA-deficient children.
+
+Fig. S3: Secretory IgA and IgM target an overlapping set of microbes in healthy children.
+
+Fig. S4: Systemic IgM and IgG target an overlapping set of microbes in healthy children.
+
+Fig. S5: Limited compensation by secretory IgM in subjects with fecal IgA deficiency.
+
+Fig. S6: Serum IgG binds to a higher proportion of microbes in fecal IgA-deficient humans and mice compared to healthy controls.
+
+Fig. S7: Elevated systemic cytokines in IgA-deficient humans and mice.
+
+Fig. S8: Cellular immune-phenotyping in IgA-deficient humans and controls.
+
+Fig. S9: IgG targeting and microbial translocation.
+
+Table S1: Demographics
+
+Table S2: Defining IgA status based on serum IgA concentration, fecal IgA concentration and % IgA binding to commensal microbes
+
+Table S3: Clinical phenotypes
+
+Table S4: Antibody binding probabilities for IgM, IgA and IgG
+
+Table S5: CyTOF clusters
+
+ NIHMS1914950-supplement-main_supplementary_material.docx ^ (16.2MB, docx) 
+
+## Acknowledgments
+
+We thank members of the Henrickson and Silverman labs for helpful discussions. We thank the staff at the mouse facility at Biomedical Research Building at the University of Pennsylvania. We thank the University of Pennsylvania Diabetes Research Center (DRC) for the use of the RIA Biomarker Core (P30-DK19525) and the CHOP Center for Human Phenomics (CHPS), supported by the National Center for Advancing Translational Sciences, National Institutes of Health (UL1TR001878). We thank the CHOP flow cytometry core for assistance with microbial flow cytometry and sorting and Penn-CHOP microbiome sequencing core for performing sequencing. We thank Dr. Ike Eisenlohr and Will Bailis for helpful comments on the manuscript.
+
+## Funding
+
+MAS, JS and SEH were funded by a CHOP Microbiome Pilot Grant. MAS was funded by a JDRF Career Development Award (5-CDA-2020-946-S-B). SEH was funded by National Institute of Allergy and Infectious Diseases (NIAID) K08 AI135091, the Burroughs Wellcome Fund, the American Academy of Allergy, Asthma, and Immunology, the Immune Deficiency Foundation, the Primary Immune Deficiency Treatment Consortium, and the Chan Zuckerberg Initiative. DAO was funded by NHLBI R38 HL143613 and NCI T32 CA009140. LAV was funded by NIAID K08 AI136660.
+
+## Footnotes
+
+Competing interests
+
+The authors declare no competing interests.
+
+## Data and materials availability:
+
+The microbiome sequencing data and the custom code used for analysis of the data can be accessed through GitHub at https://github.com.ctanes/silverman_IgA_deficiency_paper or through the Zenodo archive at https://doi.org/10.5281/zenodo.7897613 . All other data needed to evaluate the conclusions in the paper are present in the paper or the Supplementary Materials. Requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Michael Silverman ( silvermam1@chop.edu ).
+
+## References and Notes
+
+- 
+ 1. Jorgensen GH
+et al. , Clinical symptoms in adults with selective IgA deficiency: a case-control study. J Clin Immunol
+33, 742–747 (2013).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 2. Yel L, Selective IgA deficiency. J Clin Immunol
+30, 10–16 (2010).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 3. Lougaris V. et al. , Clinical and Laboratory Features of 184 Italian Pediatric Patients Affected with Selective IgA Deficiency (SIgAD): a Longitudinal Single-Center Study. J Clin Immunol
+39, 470–475 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 4. Ashman RF
+et al. , Genetic and immunologic analysis of a family containing five patients with common-variable immune deficiency or selective IgA deficiency. J Clin Immunol
+12, 406–414 (1992).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 5. Espanol T, Catala M, Hernandez M, Caragol I, Bertran JM, Development of a common variable immunodeficiency in IgA-deficient patients. Clin Immunol Immunopathol
+80, 333–335 (1996).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 6. Schroeder HW Jr.
+et al. , Susceptibility locus for IgA deficiency and common variable immunodeficiency in the HLA-DR3, -B8, -A1 haplotypes. Mol Med
+4, 72–86 (1998).
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 7. Fadlallah J. et al. , Microbial ecology perturbation in human IgA deficiency. Sci Transl Med
+10, (2018). [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 8. Catanzaro JR
+et al. , IgA-deficient humans exhibit gut microbiota dysbiosis despite secretion of compensatory IgM. Sci Rep
+9, 13574 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 9. Ansaldo E, Farley TK, Belkaid Y, Control of Immunity by the Microbiota. Annu Rev Immunol
+39, 449–479 (2021).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 10. Atyeo C, Alter G, The multifaceted roles of breast milk antibodies. Cell
+184, 1486–1499 (2021).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 11. Brodin P, Davis MM, Human immune system variation. Nat Rev Immunol
+17, 21–29 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 12. Moon C. et al. , Vertically transmitted faecal IgA levels determine extra-chromosomal phenotypic variation. Nature
+521, 90–93 (2015).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 13. Magri G. et al. , Human Secretory IgM Emerges from Plasma Cells Clonally Related to Gut Memory B Cells and Targets Highly Diverse Commensals. Immunity
+47, 118–134 e118 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 14. Janzon A. et al. , Interactions between the Gut Microbiome and Mucosal Immunoglobulins A, M, and G in the Developing Infant Gut. mSystems
+4, (2019). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 15. Fadlallah J. et al. , Synergistic convergence of microbiota-specific systemic IgG and secretory IgA. J Allergy Clin Immunol
+143, 1575–1585 e1574 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 16. Koch MA
+et al. , Maternal IgG and IgA Antibodies Dampen Mucosal T Helper Cell Responses in Early Life. Cell
+165, 827–841 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 17. Callahan BJ, McMurdie PJ, Holmes SP, Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J
+11, 2639–2643 (2017).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 18. Zeng MY
+et al. , Gut Microbiota-Induced Immunoglobulin G Controls Systemic Infection by Symbiotic Bacteria and Pathogens. Immunity
+44, 647–658 (2016).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 19. Macpherson AJ, Yilmaz B, Limenitakis JP, Ganal-Vonarburg SC, IgA Function in Relation to the Intestinal Microbiota. Annu Rev Immunol
+36, 359–381 (2018).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 20. Harriman GR
+et al. , Targeted deletion of the IgA constant region in mice leads to IgA deficiency with alterations in expression of other Ig isotypes. J Immunol
+162, 2521–2529 (1999).
+ [ PubMed ] [ Google Scholar ] 
+
+- 
+ 21. Bendall SC, Nolan GP, Roederer M, Chattopadhyay PK, A deep profiler’s guide to cytometry. Trends Immunol
+33, 323–332 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 22. Le Coz C. et al. , Common variable immunodeficiency-associated endotoxemia promotes early commitment to the T follicular lineage. J Allergy Clin Immunol
+144, 1660–1673 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 23. Brenchley JM, Douek DC, Microbial translocation across the GI tract. Annu Rev Immunol
+30, 149–173 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 24. Li H. et al. , Mucosal or systemic microbiota exposures shape the B cell repertoire. Nature
+584, 274–278 (2020).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 25. Moor K. et al. , Analysis of bacterial-surface-specific antibodies in body fluids using bacterial flow cytometry. Nat Protoc
+11, 1531–1553 (2016).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 26. Janda JM, Abbott SL, The Changing Face of the Family Enterobacteriaceae (Order: “Enterobacterales”): New Members, Taxonomic Issues, Geographic Expansion, and New Diseases and Disease Syndromes. Clin Microbiol Rev
+34, (2021). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 27. Rogier EW
+et al. , Secretory antibodies in breast milk promote long-term intestinal homeostasis by regulating the gut microbiota and host gene expression. Proc Natl Acad Sci U S A
+111, 3074–3079 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 28. Martinez-Lopez M. et al. , Microbiota Sensing by Mincle-Syk Axis in Dendritic Cells Regulates Interleukin-17 and −22 Production and Promotes Intestinal Barrier Integrity. Immunity
+50, 446–461 e449 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 29. Peyrin-Biroulet L. et al. , Mesenteric fat as a source of C reactive protein and as a target for bacterial translocation in Crohn’s disease. Gut
+61, 78–85 (2012).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 30. Ha CWY
+et al. , Translocation of Viable Gut Microbiota to Mesenteric Adipose Drives Formation of Creeping Fat in Humans. Cell
+183, 666–683 e617 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 31. Kau AL
+et al. , Functional characterization of IgA-targeted bacterial taxa from undernourished Malawian children that produce diet-dependent enteropathy. Sci Transl Med
+7, 276ra224 (2015). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 32. Palm NW
+et al. , Immunoglobulin A coating identifies colitogenic bacteria in inflammatory bowel disease. Cell
+158, 1000–1010 (2014).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 33. Jackson MA
+et al. , Accurate identification and quantification of commensal microbiota bound by host immunoglobulins. Microbiome
+9, 33 (2021).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 34. Rollenske T. et al. , Parallelism of intestinal secretory IgA shapes functional microbial fitness. Nature
+598, 657–661 (2021).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 35. Pabst O, Slack E, IgA and the intestinal microbiota: the importance of being specific. Mucosal Immunol
+13, 12–21 (2020).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 36. Bunker JJ
+et al. , Natural polyreactive IgA antibodies coat the intestinal microbiota. Science
+358, (2017). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 37. Weis AM, Round JL, Microbiota-antibody interactions that regulate gut homeostasis. Cell Host Microbe
+29, 334–346 (2021).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 38. McLane LM, Abdel-Hakeem MS, Wherry EJ, CD8 T Cell Exhaustion During Chronic Viral Infection and Cancer. Annu Rev Immunol
+37, 457–495 (2019).
+ [ DOI ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 39. Wang Z. et al. , Paradoxical effects of obesity on T cell function during tumor progression and PD-1 checkpoint blockade. Nat Med
+25, 141–151 (2019).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 40. Porsche CE, Delproposto JB, Geletka L, O’Rourke R, Lumeng CN, Obesity results in adipose tissue T cell exhaustion. JCI Insight
+6, (2021). [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 41. Plebani A. et al. , IgM and IgD concentrations in the serum and secretions of children with selective IgA deficiency. Clin Exp Immunol
+53, 689–696 (1983).
+ [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 42. Wilmore JR
+et al. , Commensal Microbes Induce Serum IgA Responses that Protect against Polymicrobial Sepsis. Cell Host Microbe
+23, 302–311 e303 (2018).
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 43. Levine Jacob H, Simonds Erin F, Bendall Sean C, et al. , Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. Cell
+162, 184–197 (2015). 10.1016/j.cell.2015.05.047.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+- 
+ 44. Chen H, Lau MC, Wong MT, Newell EW, Poidinger M, Chen J, Schneidman D, Cytofkit: a bioconductor [ackage for an integrated mass cytometry data analysis pipeline. PLOS Computational Biology
+12, e1005112 (2016). 10.1371/journal.pcbi.1005112.
+ [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ] 
+
+## Associated Data
+
+ This section collects any data citations, data availability statements, or supplementary materials included in this article. 
+
+## Supplementary Materials
+
+ MDAR checklist 
+ 
+ NIHMS1914950-supplement-MDAR_checklist.docx ^ (70.7KB, docx) 
+ 
+ data file S1 
+Raw data file
+
+ NIHMS1914950-supplement-data_file_S1.xlsx ^ (436.7KB, xlsx) 
+ 
+ main supplementary material 
+Fig. S1: Serum IgA concentration does not correlate to fecal IgA concentration or the percentage of bacteria bound by IgA.
+
+Fig. S2: Secretory IgA and IgM and systemic IgG coat diverse microbes in healthy children, and overlapping sets of microbes are targeted in healthy and fecal IgA-deficient children.
+
+Fig. S3: Secretory IgA and IgM target an overlapping set of microbes in healthy children.
+
+Fig. S4: Systemic IgM and IgG target an overlapping set of microbes in healthy children.
+
+Fig. S5: Limited compensation by secretory IgM in subjects with fecal IgA deficiency.
+
+Fig. S6: Serum IgG binds to a higher proportion of microbes in fecal IgA-deficient humans and mice compared to healthy controls.
+
+Fig. S7: Elevated systemic cytokines in IgA-deficient humans and mice.
+
+Fig. S8: Cellular immune-phenotyping in IgA-deficient humans and controls.
+
+Fig. S9: IgG targeting and microbial translocation.
+
+Table S1: Demographics
+
+Table S2: Defining IgA status based on serum IgA concentration, fecal IgA concentration and % IgA binding to commensal microbes
+
+Table S3: Clinical phenotypes
+
+Table S4: Antibody binding probabilities for IgM, IgA and IgG
+
+Table S5: CyTOF clusters
+
+ NIHMS1914950-supplement-main_supplementary_material.docx ^ (16.2MB, docx) 
+
+## Data Availability Statement
+
+The microbiome sequencing data and the custom code used for analysis of the data can be accessed through GitHub at https://github.com.ctanes/silverman_IgA_deficiency_paper or through the Zenodo archive at https://doi.org/10.5281/zenodo.7897613 . All other data needed to evaluate the conclusions in the paper are present in the paper or the Supplementary Materials. Requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Michael Silverman ( silvermam1@chop.edu ).

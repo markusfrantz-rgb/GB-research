@@ -7,7 +7,7 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~780 peer-reviewed referenser | 21 forskningsdokument | 380 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+~810 peer-reviewed referenser | 21 forskningsdokument | 390 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
 
 ---
 
@@ -206,13 +206,13 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
 | [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 33 MR-referensbilder |
 | [**Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap**](/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md) | **UPPDATERAT (2026-04-03):** Komplett genomgång av anti-GQ1b-syndromet — klassifikation, patofysiologi, diagnostik (serology-first), behandlingsprotokoll (IVIg/PLEX/IVMP/efgartigimod), prognos (69% komplett vid 1 år, Coly 2024 n=166), återhämtningstidslinjer, pediatrisk BBE (Santoro 2018 n=52), rehabiliteringsdata (Lombet 2021, FIM 19→123), cEEG locked-in-kommunikation (Pisano 2025), sömnstörning som senföljd, 57 referenser |
-| [**IVA-protokoll: GBS–MFS–BBE Overlap**](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md) | **NYTT (2026-04-03):** Konkreta IVA-protokoll specifikt för BBE-GBS overlap — medvetandebedömning, sederingsstrategi (dexmedetomidin), dysautonomi, kommunikation vid locked-in (cEEG), VTE-profylax ("Hunter-lektionen"), infektionsprevention vid steroider, smärta (gabapentin RCT), nutrition, rehabilitering, daglig checklista, 24 referenser |
+| [**IVA-protokoll: GBS–MFS–BBE Overlap**](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md) | **UPPDATERAT (2026-04-04):** 20 sektioner — medvetandebedömning, sedering, dysautonomi, kommunikation (cEEG), VTE-profylax, infektionsprevention, **candida/svampövervakning** (BDG, Candida Score, PCT-tolkning), **feber-differentialdiagnostik** (steg-för-steg-algoritm), **IgA-brist IVA-implikationer** (blodprodukter, mukosal immunitet, IVIg-protokoll), **sköldkörtel/Hashimotos** (levotyroxin, NTIS, interaktioner), **leverövervakning**, smärta, nutrition, rehabilitering, daglig checklista, 51 referenser |
 
 ---
 
 ## Källbibliotek — verifierade fulltexter
 
-380 fulltexter tillgängliga (86 PDF + 251 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
+390 fulltexter tillgängliga (86 PDF + 261 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
 
 > [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
 

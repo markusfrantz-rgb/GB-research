@@ -1,0 +1,299 @@
+Epidemiology, clinical characteristics, and outcome of candidemia in critically ill patients in Germany: a single-center retrospective 10-year analysis
+
+Background
+
+Despite advances in the management of bloodstream infections (BSI) caused by Candida spp., the mortality still remains high in critically ill patients. The worldwide epidemiology of yeast-related BSI is subject to changing species distribution and resistance patterns, challenging antifungal treatment strategies. The aim of this single-center study was to identify predictors of mortality after 28 and 180 days in a cohort of mixed surgical and medical critically ill patients with candidemia.
+
+Methods
+
+Patients, who had been treated for laboratory-confirmed BSI caused by Candida spp. in one of 12 intensive care units (ICU) at a University hospital between 2008 and 2017, were retrospectively identified. We retrieved data including clinical characteristics, Candida species distribution, and antifungal management from electronic health records to identify risk factors for mortality at 28 and 180 days using a Cox regression model.
+
+Results
+
+A total of 391 patients had blood cultures positive for Candida spp. (incidence 4.8/1000 ICU admissions). The mortality rate after 28 days was 47% (n = 185) and increased to 60% (n = 234) after 180 days. Age (HR 1.02 [95% CI 1.01–1.03]), a history of liver cirrhosis (HR 1.54 [95% CI 1.07–2.20]), septic shock (HR 2.41 [95% CI 1.73–3.37]), the Sepsis-related Organ Failure Assessment score (HR 1.12 [95% CI 1.07–1.17]), Candida score (HR 1.25 [95% CI 1.11–1.40]), and the length of ICU stay at culture positivity (HR 1.01 [95% CI 1.00–1.01]) were significant risk factors for death at 180 days. Patients, who had abdominal surgery (HR 0.66 [95% CI 0.48–0.91]) and patients, who received adequate (HR 0.36 [95% CI 0.24–0.52]) or non-adequate (HR 0.31 [95% CI 0.16–0.62]) antifungal treatment, had a reduced mortality risk compared to medical admission and no antifungal treatment, respectively.
+
+Conclusions
+
+The mortality of critically ill patients with Candida BSI is high and is mainly determined by disease severity, multiorgan dysfunction, and antifungal management rather than species distribution and susceptibility. Our results underline the importance of timely treatment of candidemia. However, controversies remain on the optimal definition of adequate antifungal management.
+
+Background
+
+Bloodstream infections (BSI) caused by Candida spp. have become a major concern in critical care medicine due to the increasing number of immunocompromised patients. Yeast-related BSI are usually healthcare-associated infections with a high mortality of up to 60% in critically ill patients. Importantly, BSI caused by Candida spp., central-line-associated BSI in particular, have been increasing over the past decades. The international EPIC II study including more than 14,000 patients showed that Candida was the third most common cause of infection and was second in both North America and Western Europe. Importantly, mortality was found to be substantially higher in patients with Candida BSI compared with patients suffering from Gram-positive or Gram-negative BSI.
+
+In the past years, a shift in Candida spp. towards non-albicans Candida spp. has been observed. The proportion of candidemia caused by non-albicans Candida spp. was 59.8% in an Italian multicenter survey. An analysis from a North American prospective registry showed similar rates with 57.9% of non-albicans Candida spp.. The shift in species distribution may reflect selection pressure induced by prior azole prescription.
+
+Current recommendations on the management of invasive candidiasis in nonneutropenic patients suggest that adequate source control including catheter removal, should be performed early, if clinically feasible. Although there is strong evidence that a delay in treatment negatively affects outcome, the optimal time point of intervention, such as central venous catheter (CVC) removal, is under debate.
+
+The aim of this retrospective study was to identify risk factors for mortality 28 and 180 days after Candida BSI. We hypothesized that survival would mainly be determined by appropriate antifungal treatment, such as adequate antifungal substance and timely source control, and yeast spp. Therefore, we analyzed clinical characteristics, antifungal management, and patterns of Candida spp. distribution in a mixed population of critically ill patients at 12 multidisciplinary intensive care units (ICUs) over a 10-year period.
+
+Methods
+
+Ethical approval and study design
+
+This study was approved by the ethics committee at the Hamburg State Chamber of Physicians (registration no.: WF 012/13). The need for an informed consent was waived by the ethics committee, because data were retrieved from electronic health records. Critically ill patients with blood cultures positive for Candida spp. between October 2008 and July 2017 were included in the current analysis.
+
+Setting
+
+The University Medical Center Hamburg-Eppendorf is a tertiary care hospital with 1738 hospital beds that treated 98,356 in-patients in 2017. The number of critical care patients increased over time, from 5999 patients in 2008 to 8817 patients in 2017. The Department of Intensive Care Medicine includes 12 multidisciplinary ICUs with a total of 140 ICU beds. The Department of Intensive Care Medicine has units for the postoperative care following cardiac, neurosurgery, traumatologic, vascular or visceral surgery. Our department routinely treats patients following solid organ or allogeneic stem cell transplantations. Mixed patient populations, both medical and surgical, are being treated on each unit.
+
+Data collection
+
+The following demographic and clinical variables were collected from the electronic patient data management system (PDMS, ICM, Dräger, Lübeck, Germany): age, sex, body mass index, admission diagnosis, comorbidities, Candida spp., antifungal treatment; Simplified Acute Physiology Score II (SAPS II) and Sepsis-related Organ Failure Assessment (SOFA) score at time of culture positivity; septic shock; laboratory findings; CVC duration, number of CVCs per patient; length of ICU, and hospital stay.
+
+In addition, the Candida score was calculated in all patients at the onset of clinical symptoms. The Candida score is a four-item clinical score and includes the components “severe sepsis”, “total parenteral nutrition”, “surgery”, and “multifocal Candida colonization”. One point is added for each component resulting in a maximum score of 4. A score ≥ 3 is considered an accurate discriminative value to select patients with Candida colonization requiring antifungal treatment.
+
+Survival data at 28 and 180 days after culture positivity were obtained from medical records or from telephone follow-up with the patient, next-of-kin or caregiver.
+
+Microbiological assays
+
+Aerobe and anaerobe blood cultures (BD Bactec Plus, BD, Heidelberg, Germany) were incubated in a Bactec instrument for up to 5 days. Bottles flagged positive were subjected to Gram-staining. Bottles showing growth of yeast and those that did not show visible microorganism were streaked onto Columbia blood and Sabouraud agar plates (Oxoid, Basingstoke, UK). After incubation at 37 °C for up to 48 h yeast were identified to the species level using whole cell mass spectrometry fingerprinting (Biotyper, Bruker Daltonics, Bremen, Germany), microscopy, or biochemical profiling (Auxacolor, Bio-Rad, Munich, Germany). All yeast isolates were subject to susceptibility testing using gradient strips. Susceptibility was interpreted according to the guidelines of the European Committee on Antimicrobial Susceptibility Testing (EUCAST).
+
+Antifungal management
+
+We categorized antifungal treatment into (a) empirical treatment; (b) treatment upon confirmation of BSI with Candida spp.; (c) antifungal medication resistant to the culprit Candida spp.; (d) delayed antifungal treatment (> 24 h after culture positivity), and no antifungal treatment. Empirical antifungal treatment was administered to patients with risk factors for candidiasis and persistent fever despite antibacterial medication and/or a positive culture from non-sterile sites.
+
+The initial treatment was considered adequate, if: (1) antifungal medication was administered empirically or within the first 24 h of culture positivity; (2) the isolated yeast was susceptible to the antifungal agent, and (3) source control, defined as CVC removal, was initiated within the first 48 h after blood culture positivity.
+
+Statistical analysis
+
+Continuous variables are expressed as median with 1st to 3rd quantile. Categorical variables are given as absolute and relative numbers. The distribution of data was visually interpreted using histograms. Variables were compared between groups (survivors vs. non-survivors and albicans vs. non-albicans) with the Wilcoxon–Mann–Whitney U test, the Chi-square test or the Fisher’s exact test as appropriate.
+
+A multivariable Cox proportional hazards regression model was performed to identify variables associated with mortality at 28 days and 180 days. One episode of candidemia per patient was analyzed. Variables that were considered clinically relevant or that had been identified as predictors of mortality in the EUCANDICU trial were included as covariates: age, SOFA score, septic shock, Candida spp. (albicans vs. non-albicans), Candida score, admission diagnosis (medical, abdominal surgery, surgery other than abdominal), liver cirrhosis, immunosuppression (including solid organ or stem cell transplantation, acquired immune deficiency syndrome, immunosuppressive medication), mean CVC duration at culture positivity, mechanical ventilation, length of ICU stay at culture positivity, antifungal treatment (adequate, non-adequate, none), echinocandin. The proportional hazards assumption and the linearity assumption for continuous variables in the Cox model were assessed based on Schoenfeld and marginal residuals.
+
+Cochran–Armitage trend test was performed to assess a change in distribution patterns of Candida spp. during the study period. All given p-values are of descriptive nature and not adjusted for multiple testing. Statistical analyses were performed using IBM® SPSS® Statistics 21 and R Version 3.5.1.
+
+Results
+
+Patient characteristics
+
+Flow of participants throughout the study. “Accessible for antifungal treatment” refers to patients, who were not transferred or died prior to diagnosis of bloodstream infection caused by Candida spp
+
+For this retrospective study, we identified 391 patients with Candida BSI, who were treated in one of 12 ICUs. The first patient was enrolled on October 24th, 2008 and the last 180-day follow-up was on January 13 th, 2018. During the study period from January 2008 until December 2017, 75.741 patients were admitted to our department with a crude mortality of 8.9%. Candida BSI was found in 391 patients (0.5%), accounting for an incidence of 4.8/1000 ICU admissions. For the flow of participants throughout the study, see Fig. 1.
+
+Baseline demographic and clinical characteristics, admission diagnosis, treatment-related variables and microbiological findings in critically ill patients with laboratory-confirmed bloodstream infection with Candida spp. Continuous variables are given as median (1st to 3rd quantile), categorical variables are given as n (%)
+
+	Study participants n = 391	Non-survivors n = 234	Survivors n = 157	Descriptive p-value (unadjusted)a	 	Demographics	 	 Age (years)	65 (56–74)	65 (57–73)	65 (53–74)	0.614	 	 Male gender	240 (61)	151 (65)	89 (57)	0.138	 	Comorbid conditions on admission	 	 Coronary heart disease	100 (26)	63 (27)	37 (24)	0.480	 	 Diabetes mellitus	99 (25)	62 (27)	37 (24)	0.554	 	 COPD	57 (15)	31 (13)	26 (17)	0.383	 	 Liver cirrhosis	70 (18)	56 (24)	14 (9)	 < 0.001	 	 Chronic kidney disease	205 (52)	129 (55)	76 (48)	0.216	 	 Hematologic malignancy	28 (7)	22 (9)	6 (4)	0.045	 	 Solid tumor	139 (36)	82 (35)	57 (36)	0.830	 	 Implantable cardiac devices	32 (22)	21 (23)	11 (20)	0.837	 	 Stem cell transplantation	5 (1)	4 (2)	1 (1)	0.355	 	 Human immunodeficiency virus	0 (0)	2 (1)	2 (1)	0.245	 	 Solid organ transplantation	22 (6)	13 (6)	9 (6)	0.941	 	Admission diagnosis				0.041	 	 Medical	175 (45)	116 (50)	59 (38)		 	 Abdominal surgery	133 (34)	76 (33)	57 (36)		 	 Surgery other than abdominal	83 (21)	42 (18)	41 (26)		 	ICU stay	 	 Arterial catheter	363 (93)	216 (92)	147 (94)	0.619	 	 Mechanical ventilation	362 (93)	218 (93)	144 (92)	0.594	 	 Red blood cell transfusion	2 (0–7)	3 (0–9)	2 (0–6)	0.056	 	 SAPS II scoreb	44 (35–53)	48 (40–57)	36 (31–47)	 < 0.001	 	 SOFA scoreb	8 (5–11)	10 (7–12)	6 (3–9)	 < 0.001	 	 Candida scoreb	3 (2–4)	3 (2–4)	2 (1–4)	 < 0.001	 	 Sepsis	287 (73)	198 (85)	89 (57)	 < 0.001	 	 Septic shock	151 (39)	128 (55)	23 (15)	 < 0.001	 	 Extracorporeal organ support before culture positivity	182 (47)	129 (55)	53 (34)	 < 0.001	 	   After culture positivity	210 (54)	156 (68)	54 (34)	 < 0.001	 	ICU length of stay (days)	28 (15–51)	25 (13–48)	33 (21–54)	0.003	 	   Before culture positivity	12 (5–23)	12 (5–23)	13 (5–23)	0.638	 	Hospital length of stay (days)	37 (22–66)	30 (16–58)	50 (33–72)	 < 0.001	 	   Before culture positivity	15 (8–30)	16 (8–31)	14 (8–29)	0.428	 	Inflammatory parameters at culture positivity	 	 White blood cell count (109/l)	13 (9–20)	14 (2–22)	12 (9–16)	0.005	 	 Procalcitonin (µg/l)	2 (1–7)	3 (1–7)	2 (1–8)	0.042	 	 C-reactive protein (mg/dl)	124 (71–189)	129 (71–193)	121 (68–187)	0.682	 	 Lactate (mmol/l)	2 (1–4)	3 (2- 5)	2(1–2)	 < 0.001	 	Central venous catheter (CVC)	 	 Number of CVCs per patient	5 (3–8)	5 (3–8)	5 (3–9)	0.232	 	 CVC overall time in place (hours)	726 (326–1432)	698 (306–1400)	772 (344–1443)	0.710	 	 Max. time in place per CVC (hours)	242 (162–308)	230 (156–308)	257 (188–308)	0.204	 	 Min. time in place per CVC (hours)	43 (15–87)	38 (12–68)	61 (18–99)	0.001	 	 Mean time in place per CVC (hours)	141 (101–176)	135(94–168)	157 (109–190)	0.009	 	 Time in place per CVC before first Candida finding (hours)	232(19–563)	237 (30–627)	223 (6–535)	0.444	 	Microbiological findings	 	 Candida albicans	238 (61)	135 (58)	103 (66)	0.116	 	 Candida non-albicans species	153 (39)	99 (42)	54 (34)	 	 Gram-positive bacteremia	155 (40)	85 (37)	70 (45)	0.109	 	 Gram-negative bacteremia	38 (10)	19 (8)	19 (12)	0.193	 	
+
+aWilcoxon–Mann–Whitney U test was performed for continuous variables and Fisher’s exact test for categorical variables. bScores at culture positivity. COPD: chronic obstructive pulmonary disease. SAPS II: Simplified Acute Physiology Score II. ICU: intensive care unit. SOFA score: Sepsis-related organ failure assessment score
+
+Table 1 shows baseline demographic characteristics, comorbid conditions, admission diagnoses, and treatment-related variables for survivors and non-survivors at 180 days. The median age was 65.2 years (IQR: 56.0–73.7); 61.4% (n = 240) patients were male. There were no significant differences in demographic characteristics between survivors and non-survivors. Patients who died had higher SAPS II, SOFA, and Candida scores, increased length of hospital and ICU stays. Non-survivors suffered more frequently from liver cirrhosis and septic shock, required extracorporeal organ support before and after Candida BSI more frequently, had higher mean CVC duration, and increased length of ICU and hospital stays. Selected patient characteristics throughout the study period are presented in Additional file 1. A list of referring specialties is provided in Additional file 2.
+
+Candida species
+
+Distribution of Candida albicans versus non-albicans Candida spp. between 2008 and 2017
+
+Microbiological assays identified ten different Candida spp. in our study population (Additional file 3). The most frequent species was C. albicans (n = 238, 60.9%), followed by C. glabrata (n = 76, 19.4%), C. parapsilosis (n = 26, 6.6%) and C. tropicalis (n = 23, 5.9%). C. dubliniensis was identified in 13 patients (3.3%) and C. krusei in 7 patients (1.8%). C. lusitaniae and C. kefyr were detected in 3 patients (0.8%) each. Only one patient (0.3%) each was tested positive for C. norvegensis or C. guilliermondii. C. auris was not identified in any blood culture. Figure 2 shows the distribution of non-albicans and C. albicans throughout the study period from 2008 until 2017. The albicans/non-albicans ratio did not change over this time period (p = 0.653). For details on species distribution, see Additional file 3.
+
+Of note, the number of Candida albicans and non-albicans Candida spp. were similarly distributed between 2012 and 2015 (2012; 48.8%, 2013; 43.6%, 2014; 46.6%, 2015 48.0% non-albicans Candida spp.). By contrast, the proportion of non-albicans Candida spp. decreased in 2016 and 2017 (30.6% and 26.5%, respectively, Additional file 4).
+
+Antifungal management
+
+Antifungal treatment in critically ill patients with laboratory-confirmed bloodstream infection with Candida spp. Continuous variables are given as median (1st to 3rd quantile), categorical variables are given as n (%)
+
+	Study participants n = 391	Non-survivors n = 234	Survivors n = 157	Descriptive p-value (unadjusted)a	 	Antifungal strategy				0.128	 	 Targeted b	174 (44.5%)	96 (41.0%)	78 (49.7%)		 	 Empirical c	88 (22.5%)	53 (22.6%)	35 (22.3%)		 	 Resistant d	8 (2.0%)	3 (1.3%)	5 (3.2%)		 	 Delayed e	14 (3.6%)	8 (3.4%)	6 (3.8%)		 	 None	107 (27.4%)	74 (31.6%)	33 (21.0%)		 	Treatment with echinocandin	187 (47.8%)	108 (46.2%)	79 (50.3%)	0.419	 	Empirical therapy c				0.435	 	 Echinocandin	41 (10.5%)	24 (10.3%)	17 (10.8%)		 	 Azoles	48 (12.3%)	32 (13.7%)	16 (10.2%)		 	 Amphotericin B	6 (1.5%)	2 (0.9%)	4 (2.5%)		 	Duration of antifungal treatment (days)	8 (0–17)	5 (0–15)	11 (3–19)	 < 0.001	 	Antifungals f	 	 Fluconazole	159 (40.7)	83 (35.5)	76 (48.4)		 	 Anidulafungin	129 (33.0)	75 (32.1)	54 (34.4)		 	 Caspofungin	66 (16.9)	37 (15.8)	29 (18.5)		 	 Voriconazole	22 (5.6)	18 (7.7)	4 (2.5)		 	 Amphotericin B	16 (4.1)	8 (3.4)	8 (5.1)		 	 Posaconazole	1 (0.3)	1 (0.4)	0 (0)		 	 Itraconazole	1 (0.3)	1 (0.4)	0 (0)		 	
+
+aWilcoxon–Mann–Whitney U test was performed for continuous variables and Fisher’s exact test for categorical variables. bTargeted treatment was initiated within 24 h of culture positivity. cEmpirical treatment was administered in patients with risk factors for candidemia and persistent fever despite antibacterial medication or positive culture from non-sterile sites. Empirical treatment refers to antifungal medication that was effective according to antifungal susceptibility testing. dResistant: antifungal treatment that was not effective against the detected Candida species. eDelayed: antifungal treatment was started more than 24 h after culture positivity. fAntifungal substances used throughout the study period between 2008 and 2017. The total number does not add up to 284 because of escalation/de-escalation of antifungal treatment
+
+Antifungal management in 391 critically ill patients with Candida-induced bloodstream infection. aNumbers do not add up to 296 because more than one criterion was found in some patients. bRefers to patients, who died or were transferred to another hospital/rehabilitation facility, before microbiological results were obtained. cCandida spp. was not susceptible to antifungal substance administered
+
+Two hundred ninety-six patients (75.7%) were accessible for antifungal treatment. In the remaining patients, 63 (16.1%) died and 32 (8.2%) had been transferred before microbiological results were obtained. Empirical antifungal medication was administered in 88/391 patients (22.5%), Table 2. The criteria for adequate antifungal treatment were fulfilled by 258/296 (87.5%) patients of those accessible for treatment (Fig. 3). Treatment was considered non-adequate in 7/296 (2.4%) patients for CVC removal more than 48 h after culture positivity with Candida spp. In another 35/296 (11.8%) patients, treatment was delayed or not susceptible for the BSI-causing Candida spp. (Fig. 3). The three most frequently used substances were fluconazole, anidulafungin, and caspofungin. For details on antifungal medication, see Table 2.
+
+Follow-up 28 and 180 days after Candida BSI
+
+Probability of death 28 and 180 days after blood cultures were tested positive for Candida spp. 381 observations, 178 events (28 days), and 227 events (180 days) were included in the multivariable analysis
+
+Probability of death	At 28 days	At 180 days	 	Variable	Hazard ratio	95% CI	Hazard ratio	95% CI	 	Age (per year increase)	1.02	1.00–1.03	1.02	1.01–1.03	 	Liver cirrhosis (vs. none)	1.61	1.09–2.38	1.54	1.07–2.20	 	Immunosuppressiona (vs. none)	0.97	0.71–1.32	0.84	0.63–1.11	 	SOFA score (per point increase)	1.14	1.08–1.19	1.12	1.07–1.17	 	Septic shock	2.60	1.77–3.82	2.41	1.73–3.37	 	Admission diagnosis	 	  Abdominal surgery vs. medical	0.55	0.38–0.81	0.66	0.48–0.91	 	  Other surgery vs. medical	0.79	0.52–1.20	0.70	0.48–1.03	 	  Abdominal surgery vs. other surgery	1.43	0.89–2.30	1.06	0.71–1.60	 	Days at ICU before Candida BSI (per day increase)	1.01	1.00–1.01	1.01	1.00—1.01	 	Mechanical ventilation (vs. none)	0.95	0.49–1.82	0.77	0.44–1.34	 	Extracorporeal organ support before Candida BSI (vs. none)	1.23	0.85–1.78	1.28	0.93–1.76	 	Mean CVC duration (per h increase)	1.00	1.00–1.00	1.00	1.00–1.00	 	Candida score (per point increase)	1.21	1.06–1.37	1.25	1.11–1.40	 	Candida species (albicans vs. non-albicans)	1.14	0.82–1.59	1.08	0.80–1.44	 	Treatment with echinocandins (vs. none or other antifungals)	0.67	0.45–0.99	0.79	0.56–1.11	 	Antifungal treatment:	 	  Non-adequate vs. none	0.23	0.10–0.56	0.31	0.16—0.62	 	  Adequate vs. none	0.30	0.20–0.45	0.36	0.24–0.52	 	  Adequate vs. non-adequate	0.78	0.34–1.81	0.88	0.47–1.65	 	
+
+SAPS II: Simplified Acute Physiology Score II at time of culture positivity. ICU: intensive care unit. BSI: bloodstream infection. CVC: central venous catheter. SOFA score: Sepsis-related organ failure assessment score. aImmunosuppression: stem cell transplantation, acquired immunodeficiency syndrome, solid organ transplantation, immunosuppressive medication. The criteria for adequate antifungal treatment were fulfilled, if (1) antifungal medication was administered within the first 24 h of culture positivity, (2) substance dosage was weight adjusted and in accordance with current recommendations, (3) the isolated yeast was susceptible to the antifungal agent, and (4) source control was initiated within the first 48 h after blood culture positivity
+
+The mortality after 28 days was 47.3% (n = 185) and increased to 59.8% (n = 234) after 180 days, counted from the first day of BSI with Candida spp. Higher age, SOFA and Candida scores, liver cirrhosis, septic shock, CVC duration, and length of ICU stay were risk factors for mortality at 28 and 180 days in the multivariable Cox regression. Patients, who received adequate and non-adequate antifungal treatment for Candida BSI, and patients undergoing abdominal surgery had a higher probability of survival at 28 and 180 days. Echinocandins for antifungal treatment were associated with survival at 28, but not at 180 days. Details on the multivariable models are presented in Table 3 and Additional file 5.
+
+Discussion
+
+In this single-center retrospective study, including 391 critically ill patients with Candida BSI, we observed a high mortality 28 and 180 days after culture positivity. We identified higher age, a history of liver cirrhosis, high SOFA and Candida scores, increased length of ICU stay, and the presence of septic shock as risk factors for mortality after Candida BSI. Patients, who had abdominal surgery, and patients receiving any empirical antifungal agent had a reduced risk of mortality compared to medical admission type and no antifungal treatment, respectively. Throughout the study period of 10 years, we did not observe a significant change in the distribution pattern of yeast species and no multidrug-resistant Candida auris spp. was identified.
+
+We found a mortality rate of 47% 28 days after diagnosis of Candida BSI. Our results are in line with findings from previous studies. In one of the largest European multicenter trials on the epidemiology of ICU-acquired candidiasis, the 30-day mortality rate was 42%. Similarly, a 30-day-mortality of 45% has been reported after candidemia in internal medicine wards. The French Mycoses study group observed 50% survival in a mixed ICU population 30 days after candidemia, which is similar to the findings of a retrospective observation by Ghanem-Zoubi and colleagues. An analysis from prospectively collected data in the French REA-RAISIN network showed a mortality rate of 52% among patients with ICU-acquired candidemia in 213 ICUs.
+
+We found that adequate antifungal management, defined by the start of antifungal medication, susceptibility of Candida spp., and time point of CVC removal, was a predictor of survival after 28 and 180 days. Interestingly, multivariable analysis showed that also non-adequate antifungal treatment including delayed administration of antifungal medication or resistant drugs was associated with an increased probability of survival. By contrast, adequate antifungal treatment, does not seem to be superior with regard to survival after 28 or 180 days when compared to non-adequate antifungal management. Several factors may be accountable for the non-superiority of adequate antifungal treatment over non-adequate antifungal management with regard to survival in our study population. First, there are no detailed uniform criteria for adequate antifungal treatment. We used a rather strict definition that has been proposed previously. Following a more liberal definition, 21 (7.1%) more patients would have fulfilled the criteria for adequate treatment, which may have altered the results of our analysis.
+
+The influence of different definitions of appropriate antifungal treatment on the strength of association with mortality after candidemia has been reported by another retrospective trial. Three definitions of appropriate empiric treatment and their association with 30-day mortality were compared in a cohort of 302 critically ill patients. Interestingly, statistical associations varied by definition, which underlines the impact of treatment criteria on outcome prediction.
+
+Second, the susceptibility of Candida spp. to specific antifungal drugs may not necessarily correlate with outcome. Ghrenassia and colleagues observed that Candida susceptibility was not associated with survival after candidemia in immunocompromised patients. Neither was the choice of antifungal agent in favor of echinocandins. As opposed to the treatment regimen in our study, antifungal prophylaxis was used by Ghenrassia et al. which may limit the comparability with our results.
+
+Third, the fact that any empiric antifungal treatment was initiated, irrespective of susceptibility and time point, may mirror awareness and disease recognition of Candida BSI by the ICU team, which might explain the positive association with survival at 28 and 180 days.
+
+We found an association between treatment with echinocandins and survival after 28 days. By contrast, mortality after 180 days was not influenced by echinocandins for antifungal management. There remains controversy on the impact of echinocandins on mortality. Of note, other factors such as comorbid conditions, disease severity, and appropriate antifungal management including source control may be more relevant for survival after candidemia, which may explain the conflicting results. We found a beneficial effect of echinocandins on short-term mortality after 28 days that did not sustain the 180-day follow-up. Long-term survival in critically ill patients may be determined by the underlying condition and disease severity rather than the type of initial antifungal medication.
+
+Compared with medical patients, patients undergoing abdominal surgery had a lower risk of mortality at 28 and 180 days. Similar results have been reported from the Spanish CANDIPOP trial that found a lower mortality from candidemia in surgical wards compared with medical wards. Better outcome in surgical patients might be attributable to lower disease severity, fewer immunosuppression, and organ failure.
+
+Preexisting liver cirrhosis was associated with increased 28- and 180-day mortality in our study population, which confirms the results of previous studies. Next to the SOFA score as an indicator of morbidity in critical care patients and the presence of septic shock, we found an association between the Candida score and reduced survival at 28 and 180 days. All factors that were identified as predictors of poor outcome in our study population have been linked with increased mortality in ICU patients before. Thus, our results confirm the importance of disease severity and multiorgan dysfunction for the prognosis after Candida BSI.
+
+Candida albicans was the most frequently encountered yeast isolate in our study population, followed by Candida glabrata and Candida parapsilosis. Our findings are in line with data from the multicenter EUCANDICU trial reporting similar distribution patterns. There are conflicting results on a shift in Candida spp. towards non-albicans isolates. Several Italian studies report a decrease of Candida albicans and an increase of non-albicans Candida spp. . By contrast, two observational studies in French and Belgian ICUs did not observe a species shift and describe patterns similar to our results with a predominance of Candida albicans. We found a relatively stable Candida albicans/non-albicans ratio between 2012 and 2015. Interestingly, there was a substantial shift towards Candida albicans in the years 2016 and 2017. The decrease of non-albicans species in favor of Candida albicans might be attributable to episodic fluctuations that have been observed periodically. Of note, Candida auris, a multidrug-resistant pathogen, which was first described in Japan in 2009, has been recently associated with outbreaks worldwide, including Europe, could not be detected in our study population.
+
+Our study has several limitations that need to be addressed. Results from this retrospective analysis are of exploratory nature and should be interpreted with caution. Another limitation of this study is the lack of biomarkers that have since been used to diagnose and monitor therapy. However, these biomarkers ((1,3) beta-D glucan and Candida-Ag) were not widely available in our retrospective cohort and have only become established in recent years.
+
+We did not analyze total parenteral nutrition, which is one of the leading risk factors for increased mortality after Candida BSI, as a single variable, since it is included in the Candida score. Numerous parameters have been identified as risk factors for mortality after candidemia in critically ill patients. These include a history of congestive heart failure, the presence of solid tumors with metastases, red blood cell transfusions, and the duration of antifungal treatment. For survival analysis, we selected covariates that were considered clinically relevant or factors that had been associated with 30-day mortality in a multinational observational study in 23 European ICUs. Other covariates and unknown variables that were omitted from our analyses may have biased the results of this study, which has to be considered when interpreting our findings.
+
+Source control was defined as CVC removal in our study. We did not include other management strategies such as the removal of implanted devices, drainage of infected fluid collections or surgical debridement of infected solid tissue. We chose this definition, because we aimed to analyze the impact of measures that were immediately performed by the ICU team rather than surgical procedures.
+
+One strength of our study is the long observation period of 10 years that allows the analysis of species distribution independently from seasonal fluctuations. Importantly, we obtained microbiological results from a mixed population of critically ill patients, including surgical and medical conditions, hematologic malignancy, solid and organ stem cell transplantation.
+
+Most previous trials that assessed outcome after candidemia report short-term mortality rates after one month, since the 30-day outcome is traditionally used as an endpoint in critical care trials. We aimed to evaluate outcome beyond this time period and assessed long-term survival 180 days after diagnosis of Candida BSI in addition to 28-day mortality.
+
+Conclusion
+
+Candida BSI is still a serious and life-threatening disease with very high morbidity and mortality in critically ill patients. Our study demonstrates that prompt antifungal treatment improves the likelihood of survival, regardless of yeast susceptibility and exact time point of administration. Patients with liver cirrhosis and high disease severity as expressed by the SAPS II and the Candida scores, and organ failure requiring extracorporeal support are at increased risk of death 28 and 180 days after culture positivity, whereas surgical patients seem to have more favorable outcome after Candida BSI. Species distribution remained relatively constant throughout a 10-year period with Candida albicans as the predominant yeast species. Our results underline the importance of rapid treatment of Candida BSI and point to the need for a uniform definition of adequate antifungal management.
+
+Supplementary information
+
+Abbreviations
+
+BSI
+
+Bloodstream Infections
+
+CVC
+
+Central venous catheter
+
+ICU
+
+Intensive care unit
+
+SAPS II
+
+Simplified Acute Physiology Score II
+
+SOFA
+
+Sepsis-related Organ Failure Assessment
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Marlene Fischer and Stefan Kluge contributed equally to this work
+
+Supplementary information
+
+Supplementary information accompanies this paper at 10.1186/s13613-020-00755-8.
+
+Authors’ contributions
+
+MSch, MF and SK have made substantial contributions to conception and design of the study as well as to the acquisition, analysis and interpretation of data. TW, TD, AKO and SW have made substantial contributions to analysis and interpretation of data. MSch, MF, HR and SK have drafted the submitted article. All authors read and approved the final manuscript.
+
+Funding
+
+Open Access funding enabled and organized by Projekt DEAL. Pfizer Inc. supported this study with an IIR Grant. The company did not have any role in study design, data collection, data analysis, data interpretation, preparing the report or any decision contributing to its publication. MSch receives funding from the Medical Faculty of the University of Hamburg for clinical leave. MF receives research support from the Johanna und Fritz Buch Gedächtnis-Stiftung.
+
+Availability of data and materials
+
+The datasets generated and/or analyzed during the current study are not publicly available due to data protection of the patients, but are available from the corresponding author on reasonable request.
+
+Ethics approval and consent to participate
+
+Study was approved by the local ethical committee.
+
+Consent for publication
+
+Is enclosed by each author.
+
+Competing interests
+
+The authors declare that they have no competing interests.
+
+References
+
+Incidence and outcome of invasive candidiasis in intensive care units (ICUs) in Europe: results of the EUCANDICU project
+
+Burden of candidemia in the united states, 2017
+
+The association between treatment appropriateness according to EUCAST and CLSI breakpoints and mortality among patients with candidemia: a retrospective observational study
+
+Nosocomial candidemia in patients admitted to medicine wards compared to other wards: a multicentre study
+
+ICU mortality following ICU-acquired primary bloodstream infections according to the type of pathogen: a prospective cohort study in 937 Germany ICUs (2006–2015)
+
+Pathogens causing central-line-associated bloodstream infections in acute-care hospitals-United States, 2011–2017
+
+Extended Prevalence of infection in ICUSGOI. Candida bloodstream infections in intensive care units: analysis of the extended prevalence of infection in intensive care unit study
+
+Epidemiology of invasive fungal infections in the intensive care unit: results of a multicenter Italian survey (AURORA Project)
+
+Epidemiology and outcomes of candidemia in 3648 patients: data from the Prospective Antifungal Therapy (PATH Alliance(R)) registry, 2004–2008
+
+Risk factors for fluconazole-resistant candidemia
+
+Recent exposure to caspofungin or fluconazole influences the epidemiology of candidemia: a prospective multicenter study involving 2441 patients
+
+Update by the Infectious Diseases Society of America. Vol. 62, Clinical infectious diseases: an official publication of the Infectious Diseases Society of
+
+Bassetti M, Merelli M, Ansaldi F, de Florentiis D, Sartor A, Scarparo C, et al. Clinical and therapeutic aspects of candidemia: a five year single centre study. Consolaro MEL, editor. PLoS ONE. 2015;10(5):e0127534.
+
+Time to initiation of fluconazole therapy impacts mortality in patients with candidemia: a multi-institutional study
+
+A bedside scoring system (“Candida score”) for early antifungal treatment in nonneutropenic critically ill patients with Candida colonization
+
+Intensive care medicine research agenda on invasive fungal infection in critically ill patients
+
+Usefulness of the “Candida score” for discriminating between Candida colonization and invasive candidiasis in non-neutropenic critically ill patients: a prospective multicenter study
+
+A multicenter study of septic shock due to candidemia: outcomes and predictors of mortality
+
+Independent risk factors for mortality in critically ill patients with candidemia on Italian Internal Medicine Wards
+
+ICU-acquired candidaemia in France: epidemiology and temporal trends, 2004–2013—a study from the REA-RAISIN network
+
+Candidemia in critically ill immunocompromised patients: report of a retrospective multicenter cohort study
+
+Candidemia in the ICU: does initial antifungal matter?
+
+Impact of initial antifungal therapy on the outcome of patients with Candidemia and septic shock admitted to medical wards: a propensity score-adjusted analysis
+
+Initial antifungal strategy reduces mortality in critically Ill patients with candidemia: a propensity score-adjusted analysis of a multicenter study
+
+Anidulafungin versus fluconazole for invasive candidiasis
+
+Vena A, Bouza E, Valerio M, Padilla B, Paño-Pardo JR, Fernández-Ruiz M, et al. Candidemia in non-ICU surgical wards: Comparison with medical wards. Sturtevant J, editor. PLoS ONE. 2017;12(10):e0185339.
+
+Mortality in patients with early- or late-onset candidaemia
+
+The SOFA score-development, utility and challenges of accurate assessment in clinical trials
+
+Candida score as a predictor of worse outcomes and mortality in severely injured trauma patients with positive candida cultures
+
+A new simplified acute physiology score (SAPS II) based on a European/North American multicenter study
+
+Incidence and outcomes for patients with cirrhosis admitted to the united kingdom critical care units
+
+Epidemiology, clinical characteristics, and outcome of candidemia in a tertiary referral center in Italy from 2010 to 2014
+
+Invasive fungal infections in the intensive care unit: a multicentre, prospective, observational study in Italy (2006–2008)
+
+Increasing candidaemia incidence from 2004 to 2015 with a shift in epidemiology in patients preexposed to antifungals
+
+Changes in the distribution of colonising and infecting Candida spp. isolates, antifungal drug consumption and susceptibility in a French intensive care unit: a 10-year study
+
+Candida auris sp. Nov., a novel ascomycetous yeast isolated from the external ear canal of an inpatient in a Japanese hospital
+
+Candida auris: a rapidly emerging cause of hospital-acquired multidrug-resistant fungal infections globally
+
+The global challenge of Candida auris in the intensive care unit
+
+A Candida auris outbreak and its control in an intensive care setting
+
+First hospital outbreak of the globally emerging Candida auris in a European hospital
+
+ESICM/ESCMID task force on practical management of invasive candidiasis in critically ill patients
+
+Biomarker-based strategy for early discontinuation of empirical antifungal treatment in critically ill patients: a randomized controlled trial
+
+Risk factors associated with mortality among patients who had candidemia in a university hospital
+
+Candida isolation in patients hospitalized on a surgical ward: significance and mortality-related factors
+
+Characteristics of candidaemia with Candida-albicans compared with non-albicans Candida species and predictors of mortality
+
+Incidence, characteristics and outcome of ICU-acquired candidemia in India
+
+Mortality as an endpoint in studies in critically ill patients: a reappraisal of definitions

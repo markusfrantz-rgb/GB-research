@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-04-02
+> Senast uppdaterad: 2026-04-04
 
 ## Fas: Live / Aktiv forskning
 
@@ -32,7 +32,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 18 | `07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md` | **Vätskestyrning vid GBS-dysautonomi: 5%-tröskel, deresuscitation, WiPO, diuretika-evidens (3 RCT), beslutsalgoritm** | Komplett |
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 | 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
-| 21 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: medvetandebedömning, sedering (dexmedetomidin), dysautonomi, locked-in-kommunikation (cEEG), VTE-profylax, infektionsprevention vid steroider, smärta, nutrition, rehabilitering, daglig checklista, 24 ref** | Komplett |
+| 21 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
@@ -44,8 +44,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1489 chunks (20 docs + 288 fulltexts) |
-| Fulltext-källor | Live | 380 fulltexter (86 PDF + 251 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1638 chunks (21 docs + 298 fulltexts) |
+| Fulltext-källor | Live | 390 fulltexter (86 PDF + 261 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -65,7 +65,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-04-01)
+### Aktuellt förlopp (2026-03-21 → 2026-04-04)
 
 | Datum | Händelse |
 |-------|---------|
@@ -103,6 +103,10 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-04-02 | **Anti-GQ1b: POSITIV (höga titrar)** → **GBS–MFS–BBE överlappssyndrom bekräftat.** MR (hjärna + rygg) bekräftar BBE-komponenten. Daniel: **prognos god, tar tid.** Diagnostisk klarhet uppnådd. |
 | 2026-04-02 | Solu-Medrol dos 3/3 given (diskrepans ssk/läkare löst — Daniel bekräftade 3 doser). PE-kateter tas bort (infektionsriskreduktion). Anti-IgA inväntar svar (ej brådskande). |
 | 2026-04-02 | Vitals: vikt 56,2 kg (↓ mot baseline), temp 37,9°C, puls 117, BT 170/66 (brett pulstryck, dysautonomi). Magen mindre svullen. |
+| 2026-04-04 (natt) | **Feberepisod:** Temp 39°C + svajande BT. Stabiliserades med febernedsättande → 38,4°C. |
+| 2026-04-04 (fm) | Ej vaken, ej kontaktbar. Sedering mildare senaste dagarna, ökas igen ~kl 13. |
+| 2026-04-04 | **Infektion:** Haemophilus identifierad ~10 dagar sedan. Cefotaxim → **piperacillin/tazobactam** ~3 dagar sedan. CRP: 135 (31/3) → 58 (3/4) → **36 (4/4)** — kraftigt fallande trots feber. Bronkoskopi, slangar, urin — inget nytt fokus. |
+| 2026-04-04 | **Procalcitonin beställd** (Stefan, IVA). Infektionskonsult begärd. Svampodling (candida) begärd — anamnes candidainfektion i ungdomen. Feber trots fallande CRP → misstanke autonom feber vs kvarvarande infektion vs svamp. |
 
 ### Kommunikation
 
@@ -263,3 +267,5 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-03 | **Nytt IVA-dokument:** `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` — 14 sektioner + daglig checklista, 24 ref. Medvetandebedömning, sedering (dexmedetomidin), dysautonomi, cEEG-kommunikation, VTE, infektionsprevention vid steroider, smärta, nutrition, rehabilitering. |
 | 2026-04-03 | RAG reindexerad: **1506 chunks** (21 docs). Siffersynk alla filer. Deploy till gbs.ragbase.org. |
 | 2026-04-03 | **Klinisk uppdatering: EJ INHÄMTAD.** Markus prioriterade tekniskt arbete. Senast kända status: 2026-04-02 (dag 13). |
+| 2026-04-04 | **Klinisk uppdatering (dag 15):** Feberepisod natt 3→4/4 (temp 39°C + svajande BT). Stabiliserad med febernedsättande → 38,4°C. Ej vaken, ej kontaktbar. Haemophilus-infektion under behandling (cefotaxim → pip/tazo). CRP kraftigt fallande: 135 → 58 → 36. Bronkoskopi/slangar/urin ua. PCT beställd + infektionskonsult. Svampodling (candida) beställd. Levervärden försämrade (~2/4). Stefan ny IVA-läkare. |
+| 2026-04-04 | **STOR UTBYGGNAD av IVA-overlap-dokumentet:** 5 nya sektioner (13-17): candida/svampövervakning (BDG, Candida Score, PCT i svamp vs bakterie), feber-differentialdiagnostik (steg-för-steg-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos/NTIS/levotyroxin), leverövervakning (DILI). Daglig checklista utökad. Totalt 20 sektioner, 51 referenser, 956 rader. |

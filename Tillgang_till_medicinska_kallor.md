@@ -1,6 +1,6 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-04-02
+> Senast uppdaterad: 2026-04-04
 > Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **337** (86 PDF + 251 text) |
+| Filer i sources/fulltext/ | **347** (86 PDF + 261 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **288** |
+| Unika artiklar (efter deduplicering) | **298** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **380** |
+| **Totalt filer på disk** | **390** |
 
 ---
 
@@ -510,4 +510,33 @@
 
 ---
 
-*243 unika artiklar (276 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 319 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-04-01.*
+### Candida, svampövervakning, IgA-immunologi (session 5, 2026-04-04)
+
+| # | Artikel | Status | Källa |
+|---|---------|--------|-------|
+| 289 | Thomas-Ruddel 2022 — Candida risk factors in ICU, systematic review + meta-analysis (n=34 studies). AB OR 5.6. PMID: 34673022 | ✅ fulltext | [text](/source/ThomasRuddel_2022_Candida_RiskFactors_MetaAnalysis_PMC8941622.txt) |
+| 290 | Kokkoris 2024 — PCT in candidemia vs bacteremia (n=63 ICU). PCT 0.29 vs 1.73. PMID: 38930085 | ✅ fulltext | [text](/source/Kokkoris_2024_PCT_Candidemia_Bacteremia_PMC11204834.txt) |
+| 291 | De Pascale 2020 — BDG-guided antifungal interruption, RCT (n=108). Safe de-escalation. PMID: 32891170 | ✅ fulltext | [text](/source/DePascale_2020_BDG_Guided_Antifungal_RCT_PMC7487510.txt) |
+| 292 | White 2020 — Cochrane: BDG for invasive fungal infections (49 studies, n=6244). PMID: 32693433 | ✅ fulltext | [text](/source/White_2020_Cochrane_BDG_Review_PMC7387835.txt) |
+| 293 | Vosughimotlagh 2023 — IgA deficiency clinical manifestations, systematic review + meta-analysis (n=952). 18.5% fungal. PMID: 37641141 | ✅ fulltext | [text](/source/Vosughimotlagh_2023_IgADeficiency_Manifestations_MetaAnalysis_PMC10463351.txt) |
+| 294 | El Haddad 2023 — IgG/IgM compensation in IgA deficiency, 3.6× lower coating. PMID: 38065985 | ✅ fulltext | [text](/source/ElHaddad_2023_IgG_IgM_Compensation_IgADeficiency_PMC10709418.txt) |
+| 295 | Conrey 2023 — IgA deficiency destabilizes gut homeostasis, systemic dysregulation. PMID: 37235682 | ✅ fulltext | [text](/source/Conrey_2023_IgADeficiency_Gut_Homeostasis_PMC11623094.txt) |
+| 296 | Carelli 2024 — Serial BDG monitoring in ICU candidemia (n=103, 10y). BDG decline → 17% vs 53% mortality. PMID: 38997712 | ✅ fulltext | [text](/source/Carelli_2024_Serial_BDG_Monitoring_PMC11241937.txt) |
+| 297 | Schroeder 2020 — Candidemia epidemiology Germany (n=391, 10y). Candida Score HR 1.25. PMID: 33064220 | ✅ fulltext | [text](/source/Schroeder_2020_Candidemia_Epidemiology_PMC7567770.txt) |
+| 298 | Catanzaro 2019 — IgA deficiency gut dysbiosis despite compensatory IgM. PMID: 31537840 | ✅ fulltext | [text](/source/Catanzaro_2019_IgADeficiency_Gut_Dysbiosis_PMC6753154.txt) |
+
+### Bakom betalvägg (session 5) — för Markus att hämta
+
+| # | Artikel | PMID | Förlag |
+|---|---------|------|--------|
+| — | Moreno-Sabater 2023 — IgA deficiency + C. albicans overgrowth (NYCKELREFERENS) | 37169153 | Elsevier (JACI) |
+| — | Soutar 2023 — BSH transfusion reactions guideline | 37211954 | Wiley (BJH) |
+| — | Lass-Flörl 2024 — Invasive candidiasis review | 38514673 | Nature (Nat Rev Dis Primers) |
+| — | León 2006 — Candida Score (klassiker) | 16505659 | LWW (Crit Care Med) |
+| — | Kazancioglu 2022 — BDG diagnostic value | 35298433 | JIDC |
+| — | Cardigan 2020 — Washed red cells | 32633823 | Wiley (Vox Sanguinis) |
+| — | Annane 1996 — Bronchial IgA and pneumonia | 8630606 | ATS (AJRCCM) |
+
+---
+
+*298 unika artiklar (347 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 390 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-04-04.*

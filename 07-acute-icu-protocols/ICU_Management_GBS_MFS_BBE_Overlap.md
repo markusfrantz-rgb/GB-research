@@ -20,9 +20,14 @@ status: active
 10. [Nutrition](#10-nutrition)
 11. [Early ICU-Based Rehabilitation](#11-early-icu-based-rehabilitation)
 12. [Post-Steroid Monitoring in BBE](#12-post-steroid-monitoring-in-bbe)
-13. [Long-Term Sequelae to Anticipate](#13-long-term-sequelae-to-anticipate)
-14. [Decision Algorithm: Daily ICU Checklist for BBE-GBS Overlap](#14-decision-algorithm-daily-icu-checklist-for-bbe-gbs-overlap)
-15. [References](#15-references)
+13. [Fungal Infection Risk and Candida Surveillance](#13-fungal-infection-risk-and-candida-surveillance)
+14. [Fever Differential Diagnosis Protocol](#14-fever-differential-diagnosis-protocol)
+15. [IgA Deficiency — ICU-Specific Implications](#15-iga-deficiency--icu-specific-implications)
+16. [Thyroid Management in ICU (Hashimoto's Context)](#16-thyroid-management-in-icu-hashimotos-context)
+17. [Hepatotoxicity and Liver Monitoring](#17-hepatotoxicity-and-liver-monitoring)
+18. [Long-Term Sequelae to Anticipate](#18-long-term-sequelae-to-anticipate)
+19. [Decision Algorithm: Daily ICU Checklist for BBE-GBS Overlap](#19-decision-algorithm-daily-icu-checklist-for-bbe-gbs-overlap)
+20. [References](#20-references)
 
 ---
 
@@ -426,7 +431,354 @@ Corticosteroids are NOT effective in GBS (8 RCTs, Cochrane: Hughes 2016). Animal
 
 ---
 
-## 13. Long-Term Sequelae to Anticipate
+## 13. Fungal Infection Risk and Candida Surveillance
+
+### 13.1 Why Fungal Risk Is Elevated in BBE-GBS Overlap
+
+Standard GBS ICU protocols address bacterial infections (VAP, CLABSI, CAUTI). However, BBE-GBS overlap patients who receive IVMP face compounding risk factors for invasive candidiasis that warrant dedicated surveillance.
+
+**Risk factor matrix:**
+
+| Risk Factor | Evidence | Relevance to BBE-GBS + IVMP |
+|---|---|---|
+| **Broad-spectrum antibiotics** | OR 5.6 (95% CI 3.6–8.8) for invasive candidiasis (Thomas-Ruddel 2022, meta-analysis n=34 studies) | Pip/tazo, cefotaxim, carbapenems all suppress competing bacterial flora |
+| **Corticosteroids** | Significant independent RF (Kayaaslan 2022, Bestepe Dursun 2022) | IVMP suppresses Th17 responses critical for antifungal defense |
+| **CVC/central line** | OR 4.7 (Thomas-Ruddel 2022) | Arterial line, CVC, tracheostomy — multiple portals |
+| **Prolonged ICU stay** | Mean candidemia onset: **12.9 days** (95% CI 11.7–14.2; Zhang 2020) | BBE-GBS overlap = prolonged ICU by definition |
+| **Candida colonization** | OR 4.7 (Thomas-Ruddel 2022); colonization index >0.5 predicts invasion | Prior candida history increases baseline colonization |
+| **IgA deficiency** | 18.5% fungal infection prevalence in SIgAD (Vosughimotlagh 2023, meta-analysis n=952) | See Section 13.2 |
+
+*[Level 1 for overall risk factors — meta-analysis; Level 3 for individual studies]*
+
+### 13.2 IgA Deficiency and Candida — A Unique Synergy
+
+Secretory IgA directly reduces *C. albicans* budding and invasion of intestinal epithelial cells. In IgA-deficient patients, compensatory IgM partially preserves fungal ecology — **but this compensation fails when Th17/Th22 responses are concurrently impaired** (as caused by corticosteroids). The result is unopposed candida overgrowth at mucosal surfaces with potential translocation to the bloodstream. *[Level 3]*
+
+> **Citation:** Moreno-Sabater A, Sterlin D, Imamovic L et al. Intestinal Candida albicans overgrowth in IgA deficiency. *J Allergy Clin Immunol*. 2023;152(3):748-759.e3. PMID: 37169153
+
+**Clinical implication:** The combination of **IgA deficiency + corticosteroids + broad-spectrum antibiotics** creates a synergistic mucosal defense gap that standard infection prevention bundles do not address. Candidemia attributable mortality is approximately **30%** (Lass-Flörl 2024).
+
+### 13.3 Screening Protocol
+
+#### Beta-D-Glucan (BDG)
+
+Serum BDG is the recommended screening tool for invasive candidiasis in ICU. Its primary clinical value is its **high negative predictive value** — a negative BDG effectively rules out invasive candidiasis and can guide safe antifungal de-escalation. *[Level 1 — Cochrane review]*
+
+| Cutoff | Sensitivity | Specificity | Source |
+|--------|-----------|-------------|--------|
+| ≥80 pg/mL (Fungitell, manufacturer) | 27–100% | 0–100% | White 2020 (Cochrane, 49 studies, n=6244) |
+| ≥112 pg/mL (optimized ICU cutoff) | 87% | 82% | Kazancioglu 2022 (n=83 ICU patients) |
+| BDG + CRP ≥85 mg/L combined | AUC 0.862 | — | Kazancioglu 2022 |
+
+**Serial monitoring:** Patients with BDG downslope had **17% mortality vs 53%** in those without decline (p<0.01; Carelli 2024, n=103 ICU patients, 10 years). *[Level 3]*
+
+**BDG-guided de-escalation is safe:** BDG-guided strategy reduced antifungal duration from **10 days to 2 days** (IQR 1–3 vs 6–13) with identical 30-day mortality (28.3% vs 27.3%) and identical invasive candidiasis rates (De Pascale 2020, RCT, n=108). *[Level 2]*
+
+**Limitations:** BDG may be lower in *C. parapsilosis* and *C. auris* infections (Mikulska 2022, 2024). False positives possible with certain antibiotics, gauze, and albumin infusion.
+
+#### Candida Score (León 2006)
+
+| Component | Points |
+|---|---|
+| Total parenteral nutrition | 1 |
+| Surgery | 1 |
+| Multifocal Candida colonization | 1 |
+| Severe sepsis | 2 |
+| **Score ≥3: consider antifungal treatment** | |
+
+Validated in multiple studies; Candida Score is an independent predictor of 180-day ICU mortality (HR 1.25, 95% CI 1.11–1.40; Schroeder 2020, n=391). *[Level 3]*
+
+#### Culture Surveillance
+
+- Surveillance cultures (tracheal aspirate, urine, rectal swab) **2×/week** during high-risk period (post-steroid + broad-spectrum AB)
+- Blood cultures with any new fever
+- **Colonization index >0.5** (colonized sites / cultured sites) predicts progression to invasive candidiasis
+
+### 13.4 PCT in Fungal vs Bacterial Infection
+
+PCT is typically **LOW or mildly elevated** in candidemia compared to bacteremia — this is a critical discriminator:
+
+| Biomarker | Candidemia | Bacteremia | p-value |
+|---|---|---|---|
+| **PCT** (ng/mL) | **0.29** (IQR 0.14–0.69) | **1.73** (IQR 0.5–6.9) | <0.001 |
+| CRP (mg/dL) | 6.3 | 19 | <0.001 |
+| NLR | 6 | 9.8 | 0.001 |
+
+Combined PCT + CRP + NLR model: **AUC-ROC 0.88** (Kokkoris 2024, n=63 ICU patients: 31 candidemia, 32 bacteremia). *[Level 3]*
+
+**Clinical implication:** In a patient with persistent fever, falling CRP, and **low PCT** — fungal infection should be considered alongside autonomic fever. Blood cultures have only **~40% sensitivity** for candidemia (Martin-Loeches 2025).
+
+### 13.5 When to Consider Empiric Antifungal Therapy
+
+The ATS 2025 guideline recommends against **routine** antifungal prophylaxis in non-neutropenic ICU patients (Epelbaum 2025). However, this addresses the general ICU population — not individually high-risk patients with multiple compounding factors. The ECMM/ISHAM/ASM 2025 global guideline provides risk-stratified guidance (Cornely 2025).
+
+**Consider empiric antifungal (echinocandin) if:**
+- Candida Score ≥3
+- Persistent fever despite adequate broad-spectrum antibiotics ≥72h AND negative bacterial workup
+- Positive BDG (≥80 pg/mL)
+- New hemodynamic instability without identified bacterial source
+- Multifocal Candida colonization with clinical deterioration
+- Multiple compounding risk factors (steroids + antibiotics + IgA deficiency + prior candida)
+
+**First-line empiric:** Echinocandin — caspofungin 70 mg IV load → 50 mg/day, OR micafungin 100 mg/day IV.
+**Step-down:** Fluconazole 400 mg/day once susceptible species confirmed (*C. albicans*, *C. parapsilosis*). Echinocandin resistance is rare; azole resistance (*C. glabrata*, *C. auris*) is increasing. *[Level 5 — ECMM/IDSA guideline]*
+
+---
+
+## 14. Fever Differential Diagnosis Protocol
+
+### 14.1 Fever in BBE-GBS: Not Always Infection
+
+Fever in ventilated GBS patients has multiple etiologies. The reflex to escalate antibiotics should be tempered by systematic differential diagnosis.
+
+| Cause | Frequency in GBS ICU | Key distinguishing features |
+|---|---|---|
+| **Bacterial infection** (VAP, UTI, CLABSI) | Most common overall | Rising CRP, high PCT (>0.5), positive cultures, localizing signs |
+| **Autonomic fever** | 29% of dysautonomic GBS (Chakraborty 2020, n=71) | Normal/falling CRP, low PCT, no localizing source, coincides with BP/HR lability, responds to dysautonomia treatment |
+| **Fungal infection** (candida) | Risk increases after day 12 | Low PCT (0.29 vs 1.73 in bacteremia), modest CRP, risk factors present, BDG elevated |
+| **Drug fever** | Variable | Temporal correlation with new medication, eosinophilia, no source, resolves with drug withdrawal |
+| **VTE/PE-related** | DVT 52% with systematic screening (Bersano 2016) | Tachycardia, hypoxia, D-dimer, CT-PA or duplex US |
+| **Central fever** (BBE brainstem) | Rare but possible in BBE | No infection markers, associated with brainstem signs, hypothalamic involvement |
+| **Post-steroid rebound** | Days 1–7 after IVMP | Self-limiting, CRP may transiently rise |
+
+### 14.2 Step-by-Step Fever Workup Algorithm
+
+```
+NEW FEVER (>38.5°C) IN BBE-GBS PATIENT
+═══════════════════════════════════════
+
+STEP 1: IMMEDIATE (within 1 hour)
+  ├─ Blood cultures ×2 (peripheral + central line if present)
+  ├─ Tracheal aspirate culture
+  ├─ Urine culture
+  ├─ CRP + Procalcitonin + WBC with differential
+  ├─ Lactate
+  ├─ Chest X-ray (if respiratory symptoms or new/increased secretions)
+  ├─ Line inspection (all sites — redness, pus, tenderness)
+  └─ LFTs (if not checked within 48h — hepatic source?)
+
+STEP 2: INTERPRET BIOMARKERS
+  ├─ PCT >0.5 + rising CRP        → BACTERIAL INFECTION likely
+  │   └─ Optimize antibiotics based on cultures/resistance
+  ├─ PCT <0.25 + falling/stable CRP → AUTONOMIC FEVER most likely
+  │   └─ See Step 4
+  ├─ PCT <0.5 + modest/stable CRP   → FUNGAL INFECTION possible
+  │   └─ Proceed to Step 3
+  ├─ PCT 0.25–0.5 (gray zone)       → Repeat in 12–24h
+  │   └─ Clinical correlation; serial trending
+  └─ KEY: Discordance (falling CRP + persistent high fever)
+      → Autonomic OR fungal — NOT typical bacterial pattern
+
+STEP 3: IF NO BACTERIAL SOURCE AT 48–72h
+  ├─ Beta-D-glucan (serum)
+  ├─ Fungal blood cultures (if not already included)
+  ├─ Surveillance cultures: tracheal, urine, rectal swab
+  ├─ Calculate Candida Score
+  ├─ CT chest/abdomen if clinical concern (hepatosplenic candida?)
+  ├─ Review ALL medications for drug fever (timeline correlation)
+  ├─ Duplex US lower extremities (VTE-related fever?)
+  └─ D-dimer + CT-PA if PE suspected
+
+STEP 4: AUTONOMIC FEVER MANAGEMENT
+  ├─ Diagnosis of exclusion — all above negative
+  ├─ Supportive features:
+  │   ├─ Fever coincides with BP/HR lability episodes
+  │   ├─ Responds to paracetamol (note: infectious fever also responds)
+  │   ├─ No sustained pattern — episodic, often nocturnal
+  │   └─ Low/normal PCT with falling CRP
+  ├─ Optimize dysautonomia treatment:
+  │   ├─ Dexmedetomidine (reduces sympathetic outflow)
+  │   ├─ Clonidine (central alpha-2 agonist)
+  │   └─ External cooling if needed (avoid overcooling — triggers shivering/autonomic storm)
+  └─ Re-evaluate if pattern changes, new signs, or CRP reverses upward
+```
+
+### 14.3 CRP Kinetics — Interpretation Guide
+
+| Parameter | Value |
+|---|---|
+| CRP half-life | ~19 hours |
+| Expected decline with successful treatment | ~50% reduction every ~2 days |
+| Time to peak after infection onset | 36–50 hours |
+| Steroid effect | Corticosteroids suppress CRP synthesis — CRP decline in post-steroid window may partly reflect residual steroid effect |
+| Persistent elevation >day 7 of treatment | Consider treatment failure, new source, or non-infectious cause |
+
+### 14.4 Post-Steroid Biomarker Interpretation
+
+Corticosteroids affect biomarker reliability:
+
+| Marker | Steroid effect | Clinical consequence |
+|---|---|---|
+| **CRP** | Steroids suppress CRP synthesis | Falling CRP post-IVMP may partly reflect steroid effect, not infection resolution. **Less reliable** in first 2 weeks post-IVMP. |
+| **PCT** | **Minimally affected** by steroids | **More reliable than CRP** for infection detection in post-steroid window. Preferred discriminator. |
+| **WBC** | Steroids cause leukocytosis (demargination) | WBC may be elevated 3–5 days post-IVMP without infection. Differential is more informative (left shift = infection). |
+| **Temperature** | Not directly affected | Autonomic dysregulation remains the primary confounder |
+
+---
+
+## 15. IgA Deficiency — ICU-Specific Implications
+
+### 15.1 Mucosal Immunity Under ICU Stress
+
+Selective IgA deficiency (SIgAD) means absent secretory IgA at all mucosal surfaces — respiratory, gastrointestinal, urogenital. In healthy SIgAD individuals, compensatory IgM provides partial mucosal coating, but this compensation is **3.6-fold lower** than normal IgA coating (El Haddad 2023). *[Level 3]*
+
+Under ICU conditions, even this reduced compensation is likely overwhelmed:
+- Critical illness reduces overall immunoglobulin production
+- Antibiotics disrupt the microbiome that compensatory IgM/IgG target
+- Corticosteroids further suppress immune function
+- Enteral fasting/reduced nutrition impairs mucosal barrier integrity
+- Mechanical ventilation bypasses upper airway mucosal defenses
+
+**Evidence for heightened infection risk:**
+- Reduced bronchial IgA production predicts nosocomial pneumonia in ventilated patients (Annane 1996, prospective, n=44: IgA/albumin ratio increase only 15% in patients who developed pneumonia vs 87% in those who did not). *[Level 3]*
+- IgA deficiency destabilizes gut microbial homeostasis and increases systemic immune dysregulation (Conrey 2023, translational). *[Level 3]*
+- Despite compensatory IgM, IgA-deficient patients show decreased microbial diversity and gut dysbiosis (Catanzaro 2019). *[Level 3]*
+- Clinical manifestation meta-analysis: **64.8% of SIgAD patients have infections**, 50.7% respiratory, **18.5% fungal** (Vosughimotlagh 2023, n=952). *[Level 1]*
+
+**Clinical implication:** IgA-deficient ICU patients should be considered at **heightened baseline risk** for VAP, gut bacterial translocation, candida overgrowth, and UTI. Infection prevention bundles should be applied rigorously, and surveillance thresholds lowered.
+
+### 15.2 Blood Product Safety
+
+#### IgA Content in Blood Products
+
+| Product | IgA content | Safe in SIgAD? |
+|---|---|---|
+| **Albumin 5%/20%** | Negligible (Cohn fractionation removes Ig) | **Yes — safe. No special precautions.** |
+| RBCs (SAGM) | Residual plasma IgA | Standard OK if no prior reaction history |
+| Platelets (in plasma) | Suspended in plasma — high IgA | Standard OK if no prior reaction history |
+| FFP | Full plasma IgA (~200 mg/dL) | **Avoid if possible;** use IgA-D donor FFP if required |
+| Cryoprecipitate | Contains plasma IgA | Consider fibrinogen concentrate as alternative |
+
+#### Risk Assessment
+
+**Actual anaphylaxis risk is far lower than historically taught:**
+- Anaphylactic transfusion reactions: **1.3 per million units** transfused (Mathew 2026, StatPearls)
+- In a study of 23 IgA-D patients receiving multiple transfusions: **zero adverse reactions** (Solves 2024)
+- The critical factor is the presence of **anti-IgA antibodies** (particularly IgE class), found in only ~1 in 1,200–1,600 IgA-D patients
+- Dutch TRIP hemovigilance (2003–2018): only 5 (0.7%) severe reactions in IgA-D individuals with anti-IgA
+
+*Based on BSH Guideline 2023 (Soutar, PMID: 37211954) and SNBTS protocol.* *[Level 5 — guideline]*
+
+#### Protocol
+
+1. **Notify blood bank** of SIgAD status on ICU admission
+2. **Anti-IgA antibody status:** Request testing if not already done
+3. **No prior reaction + anti-IgA unknown/negative:** Standard products acceptable with enhanced monitoring (vitals q15 min during transfusion)
+4. **Prior severe reaction OR anti-IgA (IgE class) positive:** Washed RBCs (double wash → residual IgA ~0.064 mg/dL; Cardigan 2020), IgA-D donor platelets/FFP
+5. **Emergency/life-saving:** **NEVER delay transfusion** for washed products. Give standard products with anaphylaxis preparedness (epinephrine 0.3–0.5 mg IM drawn up at bedside)
+6. **PE replacement fluid:** Albumin is safe (negligible IgA) — standard 5% albumin, no special products needed
+
+### 15.3 IVIg Administration Protocol (If Indicated)
+
+If IVIg becomes necessary as treatment escalation:
+
+| Parameter | Protocol |
+|---|---|
+| **Product** | Privigen (IgA ≤25 µg/mL) — available in Sweden. Gammagard Liquid ERC (≤2 µg/mL) if available. |
+| **Pre-medication** | Paracetamol 1 g + clemastine 2 mg IV + hydrocortisone 100–200 mg IV + saline 250–500 mL |
+| **Infusion rate** | Start 0.5 mL/kg/hr → increase stepwise to max 4.0 mL/kg/hr. **Do NOT exceed 4 mL/kg/hr first dose.** |
+| **Monitoring** | Vitals q15 min first hour, then q30 min. ICU setting mandatory. |
+| **Emergency** | Epinephrine drawn up at bedside. Stop infusion immediately if any signs of anaphylaxis. |
+| **Anti-IgA status** | If anti-IgA IgE+: highest risk — PE is preferred over IVIg. If anti-IgA IgG only: moderate risk, proceed with precautions. If negative: standard precautions. |
+
+Cross-reference: [IgA Deficiency, SCIG Tolerance, and IVIg Safety](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | [GBS and IgA Deficiency Combined Review](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md)
+
+---
+
+## 16. Thyroid Management in ICU (Hashimoto's Context)
+
+BBE-GBS overlap patients with Hashimoto's thyroiditis face unique thyroid-related ICU challenges. This section provides a focused ICU protocol; for comprehensive thyroid-autoimmune discussion, see [Hashimoto-IgA-GBS Autoimmune Cluster](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md).
+
+### 16.1 Levothyroxine — Never Interrupt
+
+Levothyroxine must be continued throughout ICU stay. **Failure to reinstate is a recognized risk factor for myxedema coma** (mortality 25–60%; StatPearls 2024). In a GBS patient, myxedema signs (weakness, hypoventilation, hypothermia, altered consciousness) may be completely masked by GBS symptoms. *[Level 4]*
+
+**Administration:**
+
+| Route | Protocol | Notes |
+|---|---|---|
+| **Enteral via NG tube** (preferred) | Liquid formulation > crushed tablets | **Hold tube feeding 1 hour before AND 1 hour after** |
+| **IV** (if enteral impossible) | 50–75% of oral dose | Cardiac monitoring required (arrhythmia risk) |
+
+**Critical interaction:** >50% of patients receiving concurrent continuous enteral nutrition develop subclinical or overt hypothyroidism (Dickerson 2010). Monitor weekly TSH/FT4 when using concurrent enteral nutrition. *[Level 3]*
+
+### 16.2 NTIS vs True Hypothyroidism
+
+~75% of ICU patients develop Non-Thyroidal Illness Syndrome (NTIS). In a patient with pre-existing Hashimoto's on levothyroxine, distinguishing NTIS from undertreated hypothyroidism is critical (Van den Berghe 2014):
+
+| Feature | NTIS (sick euthyroid) | True hypothyroidism |
+|---|---|---|
+| TSH | Normal or slightly low | **Elevated** (>20 strongly suggests) |
+| Free T4 | Low-normal | Low |
+| Free T3 | Low (almost universal in ICU) | Low |
+| **Reverse T3** | **Elevated** (key discriminator) | Normal/low |
+| Clinical context | Proportional to illness severity | Levothyroxine missed/underdosed |
+
+### 16.3 Monitoring Protocol
+
+| Test | When | Notes |
+|---|---|---|
+| TSH + FT4 | On admission, then **weekly** | Target TSH 0.5–2.5 mIU/L for optimal nerve regeneration (Wang 2022) |
+| Reverse T3 | If NTIS vs true hypothyroidism unclear | Elevated = NTIS |
+| FT3 | Not routine in ICU | Low in virtually all ICU patients; poor diagnostic value |
+
+### 16.4 Drug Interactions Affecting Thyroid in ICU
+
+| ICU Medication | Effect | Action |
+|---|---|---|
+| **Heparin (IV)** | Falsely elevates FT4 (free fatty acid displacement) | Measure FT4 **>1h after IV heparin, >10h after LMWH** |
+| **Glucocorticoids** (high dose) | Suppress TSH, inhibit T4→T3 conversion | Don't rely on TSH alone post-IVMP; monitor FT4 |
+| **Dopamine** | Suppresses TSH (central hypothyroidism) | Monitor FT4 if on dopamine |
+| **Phenytoin / carbamazepine** | Reduce T4 by 20–40% via hepatic enzyme induction | May need levothyroxine dose increase |
+| **PPIs** | Impair levothyroxine absorption | Monitor TSH |
+| **Al/Mg antacids, sucralfate** | Impair levothyroxine absorption | Separate by 4 hours |
+
+### 16.5 Myxedema Emergency Protocol
+
+If levothyroxine missed >3–5 days AND clinical suspicion:
+
+1. **IV hydrocortisone 100 mg FIRST** (prevent adrenal crisis — especially in polyautoimmune context)
+2. IV T4 loading 200–400 µg, then 50–100 µg/day
+3. Consider IV T3 5–20 µg loading, then 2.5–10 µg q8h
+4. Cardiac monitoring mandatory (arrhythmia risk)
+
+### 16.6 PE and Thyroid Hormones
+
+Each PE session removes approximately **50% of circulating free thyroid hormones** (levothyroxine is ~90% protein-bound with low Vd). In a Hashimoto's patient with minimal endogenous production, there is no rebound after PE-induced depletion. *[Level 4]*
+
+**Protocol:** Administer levothyroxine **AFTER** each PE session (not before). Monitor TSH/FT4 after each PE cycle. Consider supplemental dosing during PE series.
+
+---
+
+## 17. Hepatotoxicity and Liver Monitoring
+
+### 17.1 Liver Injury in BBE-GBS ICU Patients
+
+Multiple hepatotoxic exposures converge in these patients. Liver function should be monitored proactively, not reactively.
+
+| Cause | Mechanism | Typical pattern | Key marker |
+|---|---|---|---|
+| **Piperacillin/tazobactam** | Drug-induced liver injury (DILI) | Cholestatic or mixed (elevated ALP, GGT ± ALT) | Onset days to weeks; resolves with discontinuation |
+| **Paracetamol** (scheduled) | Dose-dependent hepatotoxicity | Hepatocellular (ALT >> ALP) | Ensure ≤4 g/day; reduce if liver impairment |
+| **Corticosteroids** (IVMP) | Transient enzyme elevation, steatosis | Mild hepatocellular | Usually self-limiting within 1–2 weeks |
+| **Hepatosplenic candidiasis** | Disseminated fungal infection | Elevated ALP, GGT; sometimes ALT | Persistent unexplained LFT rise + fever + risk factors → US/CT |
+| **Ischemic hepatitis** | Hypoperfusion from hemodynamic instability/dysautonomia | Massive transient ALT/AST spike (often >10× ULN) | Correlates temporally with hypotensive episodes |
+| **Sepsis-related cholestasis** | Cytokine-mediated bile flow impairment | Elevated bilirubin, ALP | Treat underlying infection |
+| **Enteral nutrition** | PN-associated liver disease | Cholestatic | Optimize enteral feeding; minimize PN |
+
+### 17.2 Monitoring Protocol
+
+- **Baseline LFTs** (ALT, AST, ALP, GGT, bilirubin) on ICU admission
+- **2×/week** during active antibiotic + paracetamol treatment
+- **If ALT/AST >3× ULN:** Review all hepatotoxic medications. Consider dose reduction or switch (e.g., pip/tazo → alternative).
+- **If ALT >5× ULN:** Discontinue paracetamol. Consider discontinuing offending antibiotic.
+- **If ALP/GGT rising + fever + no bacterial source:** Suspect hepatosplenic candidiasis — ultrasound abdomen, serum BDG.
+- **Paracetamol adjustment:** Reduce to max 2 g/day if any liver impairment. Discontinue if ALT >5× ULN.
+- **Ischemic hepatitis:** If massive ALT spike correlates with prior hypotensive/dysautonomic episode — no specific treatment needed; monitor for resolution.
+
+---
+
+## 18. Long-Term Sequelae to Anticipate
 
 ### 13.1 Beyond Motor Recovery
 
@@ -452,7 +804,7 @@ BBE-GBS overlap recovery is not complete when the patient walks. Clinicians shou
 
 ---
 
-## 14. Decision Algorithm: Daily ICU Checklist for BBE-GBS Overlap
+## 19. Decision Algorithm: Daily ICU Checklist for BBE-GBS Overlap
 
 ```
 DAILY ASSESSMENT — BBE-GBS OVERLAP
@@ -484,6 +836,29 @@ DAILY ASSESSMENT — BBE-GBS OVERLAP
   ├─ Foley still needed? (assess for removal daily)
   └─ Post-steroid window? (if IVMP given: heightened surveillance ×2 weeks)
 
+□ INFECTION — EXPANDED (post-steroid / IgA-deficient / on broad-spectrum AB)
+  ├─ Fever? → Run fever differential algorithm (Section 14)
+  ├─ CRP + PCT trend? (PCT more reliable than CRP post-steroid)
+  ├─ Fungal surveillance: BDG if persistent fever without bacterial source
+  ├─ Candida Score calculated? (TPN + surgery + colonization + sepsis)
+  ├─ Surveillance cultures (tracheal, urine) this week?
+  ├─ LFTs checked? (hepatotoxicity monitoring — Section 17)
+  └─ Paracetamol dose appropriate for liver function?
+
+□ IgA DEFICIENCY — SPECIFIC
+  ├─ Blood bank notified of IgA-D status? ✓
+  ├─ Anti-IgA antibody status known? (results pending / positive / negative)
+  ├─ If transfusion needed: appropriate products selected? (Section 15.2)
+  ├─ PE replacement fluid: albumin (safe, negligible IgA) ✓
+  └─ If IVIg considered: Privigen (≤25 µg/mL IgA), ICU monitoring, epi at bedside
+
+□ THYROID (Hashimoto's)
+  ├─ Levothyroxine given today? (never skip)
+  ├─ Timing: ≥1h separated from enteral nutrition?
+  ├─ If PE day: levothyroxine given AFTER PE session?
+  ├─ TSH/FT4 checked this week? (target TSH 0.5–2.5)
+  └─ Drug interactions: heparin timing, steroids, anticonvulsants?
+
 □ COMFORT
   ├─ Pain assessed? (BPS/CPOT)
   ├─ Gabapentin dose adequate?
@@ -505,7 +880,7 @@ DAILY ASSESSMENT — BBE-GBS OVERLAP
 
 ---
 
-## 15. References
+## 20. References
 
 ### Core BBE-GBS Overlap
 1. Coly M et al. 166 patients with acute anti-GQ1b antibody syndrome. *J Neurol*. 2024;271(8):4982-4990. PMID: 38767661
@@ -544,5 +919,38 @@ DAILY ASSESSMENT — BBE-GBS OVERLAP
 ### Steroids and Treatment
 23. Hughes RA et al. Cochrane: Corticosteroids for GBS. *Cochrane Database Syst Rev*. 2016;(10):CD001446. PMID: 27782360
 24. Wang YZ et al. Corticosteroids may aggravate GBS: mechanism study. *Neural Regen Res*. 2015;10(8):1283-1289. PMID: 26487856
+
+### Fungal Infection and Candida (Section 13)
+25. Thomas-Ruddel DO, Schlattmann P, Pletz M et al. Risk factors for invasive Candida infection in critically ill patients: systematic review and meta-analysis. *Chest*. 2022;161(2):345-355. PMID: 34673022
+26. Moreno-Sabater A, Sterlin D, Imamovic L et al. Intestinal Candida albicans overgrowth in IgA deficiency. *J Allergy Clin Immunol*. 2023;152(3):748-759.e3. PMID: 37169153
+27. Zhang Z, Zhu R, Luan Z, Ma X. Risk of invasive candidiasis with prolonged duration of ICU stay: systematic review and meta-analysis. *BMJ Open*. 2020;10(7):e036452. PMID: 32660950
+28. White SK, Schmidt RL, Walker BS et al. (1→3)-β-D-glucan testing for detection of invasive fungal infections in immunocompromised or critically ill people. *Cochrane Database Syst Rev*. 2020;7(7):CD009833. PMID: 32693433
+29. De Pascale G, Posteraro B, D'Arrigo S et al. (1,3)-β-D-Glucan-based empirical antifungal interruption in suspected invasive candidiasis: a randomized trial. *Crit Care*. 2020;24(1):550. PMID: 32891170
+30. Carelli S, Posteraro B, Torelli R et al. Prognostic value of serial (1,3)-β-D-glucan measurements in ICU patients with invasive candidiasis. *Crit Care*. 2024;28(1):232. PMID: 38997712
+31. Kazancioglu S, Bastug A, Kayaaslan B et al. Diagnostic value of β-D-glucan alone or combined with Candida score, colonization index and CRP for candidemia. *J Infect Dev Ctries*. 2022;16(2):359-366. PMID: 35298433
+32. Kokkoris S, Angelopoulos E, Gkoufa A et al. Diagnostic accuracy of procalcitonin and its combination with other biomarkers for candidemia in critically ill patients. *J Clin Med*. 2024;13(12):3557. PMID: 38930085
+33. León C, Ruiz-Santana S, Saavedra P et al. A bedside scoring system ("Candida score") for early antifungal treatment in nonneutropenic critically ill patients with Candida colonization. *Crit Care Med*. 2006;34(3):730-737. PMID: 16505659. *Validated in León 2009 (PMID: 19325481).*
+34. Schroeder M, Weber T, Denker T et al. Epidemiology, clinical characteristics, and outcome of candidemia in critically ill patients in Germany: single-center retrospective 10-year analysis. *Ann Intensive Care*. 2020;10(1):142. PMID: 33064220
+35. Lass-Flörl C, Kanj SS, Govender NP et al. Invasive candidiasis. *Nat Rev Dis Primers*. 2024;10(1):20. PMID: 38514673
+36. Martin-Loeches I, Cornely OA, Denning DW et al. Invasive candidiasis in intensive care medicine. *Intensive Care Med*. 2025;51(11):1852-1866. PMID: 41117944
+37. Epelbaum O, Marinelli T, Haydour Q et al. Treatment of invasive pulmonary aspergillosis and preventive and empirical therapy for invasive candidiasis: ATS clinical practice guideline. *Am J Respir Crit Care Med*. 2025;211(1):34-53. PMID: 39556361
+38. Cornely OA, Sprute R, Bassetti M et al. Global guideline for the diagnosis and management of candidiasis: ECMM/ISHAM/ASM. *Lancet Infect Dis*. 2025;25(5):e327-e343. PMID: 39956121
+39. Kayaaslan B, Kaya Kalem A, Asilturk D et al. Incidence and risk factors for COVID-19 associated candidemia in ICU patients. *Mycoses*. 2022;65(5):508-516. PMID: 35156742
+
+### IgA Deficiency — ICU Implications (Section 15)
+40. Vosughimotlagh A, Rasouli SE, Rafiemanesh H et al. Clinical manifestation for immunoglobulin A deficiency: systematic review and meta-analysis. *Allergy Asthma Clin Immunol*. 2023;19:75. PMID: 37641141
+41. El Haddad L, Ptasczynska I et al. IgG and IgM cooperate in coating of intestinal bacteria in IgA deficiency. *Nat Commun*. 2023;14:8124. PMID: 38065985
+42. Conrey PE, Droit L, Wargo KA et al. IgA deficiency destabilizes homeostasis toward intestinal microbes and increases systemic immune dysregulation. *Sci Immunol*. 2023;8(83):eade2335. PMID: 37235682
+43. Catanzaro JR, Strauss JD, Bielecka A et al. IgA-deficient humans exhibit gut microbiota dysbiosis despite secretion of compensatory IgM. *Sci Rep*. 2019;9:13574. PMID: 31537840
+44. Annane D, Clair B, Mathieu B et al. Immunoglobulin A levels in bronchial samples during mechanical ventilation and onset of nosocomial pneumonia in critically ill patients. *Am J Respir Crit Care Med*. 1996;153(5):1585-1590. PMID: 8630606
+45. Soutar R, McSporran W, Tomlinson T, Booth C, Grey S. Guideline on the investigation and management of acute transfusion reactions. *Br J Haematol*. 2023;201(5):832-844. PMID: 37211954
+46. Solves P, Bataller A, Galvez AB et al. Selective IgA deficiency and blood component transfusion: in search of the lost evidence. *Hemato*. 2024;5(2):9.
+47. Cardigan R, Sherlock C, Standfield S et al. Washed red cells: theory and practice. *Vox Sanguinis*. 2020;115:606-616. PMID: 32633823
+
+### Thyroid Management in ICU (Section 16)
+48. Van den Berghe G. Non-thyroidal illness in the ICU: a syndrome with different faces. *Thyroid*. 2014;24(10):1456-1465. PMC: 4195234
+49. Dickerson RN, Maish GO, Croce MA et al. Clinical relevancy of the levothyroxine-continuous enteral nutrition interaction. *Pharmacotherapy*. 2010;30(12):1285-1290.
+50. Wang S, Luo Z, Peng T. Risk factors for recurrent GBS including TSH. *Muscle Nerve*. 2022;65(6):688-692. PMID: 35342963
+51. Mathew V, Misgar RA, Ghosh S et al. Myxedema coma: a new look into an old crisis. *J Thyroid Res*. 2011;2011:493462. (Updated in StatPearls 2024, NBK545193)
 
 ---

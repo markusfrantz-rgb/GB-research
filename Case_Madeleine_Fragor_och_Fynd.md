@@ -23,6 +23,7 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv somnapne |
 | | Ospecificerad fodoamnesallergi, pollenallergi |
+| **Tidigare infektioner** | Candidainfektion i ungdomen (typ ej specificerad) |
 | **Lakemedel (aktuella)** | Levotyroxin (skoldkorteln) — dosjustering ca 2-3 veckor fore insjuknande |
 | | Luftrorsvidgande inhalator + nasspray (dagligen) |
 | | Antihistamin aret runt (dubbel dos jan/feb, pollen) |
@@ -67,24 +68,32 @@ status: active
 | 2026-04-02 | **Anti-GQ1b: POSITIV (höga titrar)** → **GBS–MFS–BBE överlappssyndrom bekräftat.** MR bekräftar BBE-komponenten (vitsubstanslesioner). Daniel: **prognos god, tar tid.** |
 | 2026-04-02 | Solu-Medrol dos 3/3 given (diskrepans ssk/läkare löst). PE-kateter tas bort (infektionsriskreduktion). Anti-IgA inväntar svar (ej brådskande — plan B-förberedelse). |
 | 2026-04-02 | Vitals: vikt 56,2 kg (nära baseline), temp 37,9°C, puls 117, BT 170/66 (brett pulstryck, dysautonomi). Magen mindre svullen. |
+| 2026-04-04 (natt) | **Feberepisod:** Temp 39°C + svajande blodtryck under natten. Stabiliserades med febernedsättande → temp 38,4°C. Hemodynamiskt stabilare på morgonen. |
+| 2026-04-04 (fm) | Ej vaken, ej kontaktbar (BBE + sedering). Sedering har varit mildare senaste dagarna men ökas igen ~kl 13. |
+| 2026-04-04 | **Infektion:** Haemophilus identifierad ~10 dagar sedan (trakeal-/blododling). Initialt cefotaxim → byte till **piperacillin/tazobactam** ~3 dagar sedan (bredare spektrum). CRP-trend: 135 (31/3) → 58 (3/4) → **36 (4/4)** — kraftigt fallande. |
+| 2026-04-04 | **Infektionsutredning:** Slangar, luftvägar, bronkoskopi, urin — inget nytt infektionsfokus identifierat. |
+| 2026-04-04 | **Procalcitonin beställd** av Stefan (IVA-läkare) för att skilja bakteriell infektion från autonom feber. Infektionskonsult begärd. Svampodling (candida) begärd — patient har **tidigare candidainfektion i ungdomen** (anamnes). |
+| 2026-04-04 | **Levervärden försämrade** (uppmärksammat ~2/4, specifika värden okända). Möjliga orsaker: piperacillin/tazobactam-hepatotoxicitet, paracetamolbelastning, post-steroid, sepsisrelaterad kolestas, hepatosplenic candida. Monitorera LFTs 2×/vecka. |
 
-### Nuvarande status (2026-04-02)
+### Nuvarande status (2026-04-04, dag 15)
 
-- **Respirator:** Ja, beroende. Ventilering 4,5.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 8 post-trakeostomi)
+- **Respirator:** Ja, beroende.
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 10 post-trakeostomi)
 - **Diagnos (2026-04-02):** **GBS–MFS–BBE överlappssyndrom.** Anti-GQ1b positiv (höga titrar). MR bekräftar BBE-komponenten. LP: albuminocytologisk dissociation. Klinisk bild: total kranialnervsutslagning (MFS), vitsubstanslesioner (BBE), ascending paralysi (GBS). Daniel: **prognos god, tar tid.**
-- **Medvetande:** Nedsovd. EEG visar sedering — svart att skilja fran neurologiskt tillstand. Sederingsnivan bedoms adekvat.
+- **Medvetande:** Ej vaken, ej kontaktbar (2026-04-04). BBE-medvetandepåverkan + sedering. Sedering mildare senaste dagarna men ökas igen 4/4 ~kl 13.
 - **Neurologisk bedomning:** **100% forlamning** — kan inte oppna nagot oga, ingen rorelse i nagon kroppsdel. Total forlamning sedan ~25-26/3.
-- **Autonom dysfunktion:** Fluktuerar markant — BT 170/66 (2026-04-02, brett pulstryck 104), puls 117. Dysautonomi kvarstår med dag-till-dag-svängningar.
-- **Infektion:** Kvarstående subfebrilitet. Temp 37,9°C (2026-04-02). Antibiotika bytt 2026-04-01. PE-kateter tas bort 2026-04-02 (infektionsriskreduktion).
-- **Vikt/vatska:** Vikt **56,2 kg** (2026-04-02, nära baseline 56). Magen mindre svullen. **Glukos 5% borttagen** (var 1 440 ml/dygn). Sondmat okad for att kompensera kalorier. Se [Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md).
+- **Autonom dysfunktion:** **Aktiv feberepisod natt 3→4/4:** Temp 39°C + svajande BT. Stabiliserades med febernedsättande → 38,4°C. Hemodynamiskt stabilare på morgonen. Dysautonomi kvarstår.
+- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Initialt cefotaxim → **piperacillin/tazobactam** sedan ~1/4. **CRP-trend kraftigt fallande: 135 (31/3) → 58 (3/4) → 36 (4/4).** Utredning (bronkoskopi, slangar, urin) visar inget nytt fokus. **Procalcitonin beställd 4/4** (Stefan, IVA) — avgör om feber är bakteriell eller autonom. Infektionskonsult begärd.
+- **Post-steroid infektionsfönster:** Solu-Medrol avslutades 2/4 → immunsuppression kvarstår ~2 veckor. Förhöjd infektionsrisk.
+- **Vikt/vatska:** Vikt **56,2 kg** (2026-04-02, nära baseline 56). Magen mindre svullen. Sondmat kompenserar kalorier efter att glukos 5% togs bort.
 - **Behandling given:** Alla 5 PE-sessioner slutforda. **Solu-Medrol 3/3 doser given** (2026-03-31 till 2026-04-02), preventivt mot ADEM/BBE.
 - **Medicinering (2026-03-31 ~11:00):** Propofol 0,2 mg/kg/h (sedering), fentanyl 1,5 mcg/kg/h (smartlindring), klonidin 1,5 mcg/kg/h (autonom stabilisering), **gabapentin** (neuropatisk smarta), kaliumklorid, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen.
-- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (ej brådskande — plan B-förberedelse).
-- **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27).
+- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (ej brådskande). **CRP: 36 (4/4, fallande).** **Procalcitonin: beställd 4/4, inväntar svar.**
+- **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). **Bronkoskopi (4/4):** inget anmärkningsvärt.
 - **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
-- **Plan:** Diagnostisk klarhet uppnådd — GBS–MFS–BBE overlap. Solu-Medrol slutförd. Daniel nöjd med kartläggningen. Prognos god men prolongerad återhämtning förväntad.
+- **Levervärden:** Försämrade (~2/4, specifika värden okända). Pip/tazo-hepatotoxicitet, paracetamolbelastning, och sepsisrelaterad kolestas som möjliga orsaker. Se [Hepatotoxicity and Liver Monitoring](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md#17-hepatotoxicity-and-liver-monitoring).
+- **Plan:** Diagnostisk klarhet uppnådd — GBS–MFS–BBE overlap. Inväntar PCT-svar och infektionskonsult för att styra feberbehandling. Leverövervakning 2×/vecka. Prognos god men prolongerad återhämtning förväntad.
 
 ---
 
@@ -285,7 +294,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-21 forskningsdokument | ~780 peer-reviewed kallor | 380 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
+21 forskningsdokument | ~810 peer-reviewed kallor | 390 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 
