@@ -7,7 +7,19 @@ status: active
 # Kliniskt case: Svår recidiverande GBS med IgA-brist och Hashimotos tyreoidit
 
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
-~810 peer-reviewed referenser | 21 forskningsdokument | 390 fulltexter tillgängliga | 33 MR-referensbilder | sökbara kunskapsfragment | Evidensgradering (Level 1-5)
+
+<div class="stats-bar">
+<span>~810 peer-reviewed referenser</span>
+<span>21 forskningsdokument</span>
+<span>390 fulltexter</span>
+<span>33 MR-referensbilder</span>
+<span>Evidensgradering Level 1–5</span>
+</div>
+
+<div class="case-alert">
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. 100% förlamning. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
+</div>
 
 ---
 
@@ -24,118 +36,124 @@ status: active
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
 | | Obstruktiv sömnapné |
 | | Ospecificerad födoämnesallergi, pollenallergi |
-| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) — dosjustering ca 2–3 v före insjuknande, **TSH/fT4 ej kontrollerade (insjuknande före planerad uppföljning)** |
+| **Läkemedel (aktuella)** | Levotyroxin (sköldkörteln) — dosjustering ca 2–3 v före insjuknande, **TSH/fT4 ej kontrollerade** |
 | | Luftrörsvidgande inhalator + nässpray (dagligen) |
 | | Antihistamin året runt (dubbel dos jan/feb, pollen) |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist) — utsatt ca 2023, efter ~2–3 års behandling |
 
-**Observation:** Patienten uppvisar tre autoimmuna tillstånd (GBS, selektiv IgA-brist, Hashimotos tyreoidit) som samtliga är kopplade till HLA-B8/DR3/DQ2-haplotypen (ancestral haplotype 8.1). Klassificeras som Multiple Autoimmune Syndrome (MAS) typ 3 (Cojocaru et al., 2010).
+**Observation:** Tre autoimmuna tillstånd (GBS + IgA-brist + Hashimotos) kopplade till HLA-B8/DR3/DQ2 — Multiple Autoimmune Syndrome typ 3.
 
-### Aktuellt förlopp
+<details class="collapse-section">
+<summary>Klinisk tidslinje (2026-03-21 — 2026-04-02) — klicka för att visa</summary>
 
 | Datum | Händelse |
 |-------|---------|
 | 2026-03-21 (fre) | Akut insjuknande. IVA/respirator inom timmar. Nära total förlamning. |
 | 2026-03-21–24 | 3 plasmaferesesessioner utan kliniskt svar |
 | 2026-03-23 | MR hjärna: **normal** |
-| 2026-03-24 (kväll) | CT huvud utförd pga anisokori (V pupill > H) + koagulopati — **normal**, inga blödningstecken |
-| 2026-03-25 (fm) | Trakeostomi genomförd (~kl 12). Feber 38,1°C. Autonom dysfunktion bekräftad: blodtrycksinstabilitet, anisokori (autonom genes efter normal CT). Levotyroxin ges. Luftrörsvidgande insatt. |
-| 2026-03-25 (em) | Sedering lättad — bedömning av spontanandningsförmåga (diafragmafunktion). **Kommunikation:** svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej). |
-| 2026-03-26 (fm) | PE session 4 genomförd (~kl 11). Temp 37,5°C (möjlig PE-relaterad). Sedering lättas för neurologisk bedömning. |
-| 2026-03-26 (em) | Sedering lättad — neurologisk bedömning: så gott som obefintliga reaktioner. Svag pupillreaktion vid ljus (hjärnstam fungerar). CT/MR planeras för att utesluta centrala orsaker. |
-| 2026-03-26 (em) | Plan B diskuterad med neurolog + annan specialist — teamet engagerat, bollar strategier. |
-| 2026-03-26 (em) | CT hjärna: **normal** (centrala orsaker uteslutna). Neurologen känner till efgartigimod men avvaktar — vill utvärdera PE först. IVIg trolig plan B. |
-| 2026-03-27 (fm) | PE session 5 genomförd (lunch). Alla 5 PE-sessioner slutförda. Neurologisk bedömning oförändrad (minimala/inga reaktioner). |
-| 2026-03-27 | Infektion utläkt, antibiotika fungerat. Temp 37,5°C. EEG initierat (sömndjup). Patienten mer vaken men etablerar ej kontakt. |
-| 2026-03-27 | fT3: **normalt**. Lungröntgen/ekokardiografi: **normalt hjärta**. Blodtryck fortsatt svårstabiliserat (dysautonomi). **Neurologisk bedömning:** oförändrad — minimala/inga reaktioner. Patienten mer vaken men etablerar ej kontakt. |
+| 2026-03-24 (kväll) | CT huvud: **normal** (anisokori = autonom dysfunktion) |
+| 2026-03-25 (fm) | Trakeostomi genomförd. Autonom dysfunktion bekräftad. |
+| 2026-03-26 | PE session 4. Neurologisk bedömning: minimala reaktioner. CT hjärna normal. |
+| 2026-03-27 | PE session 5 — alla 5 slutförda. fT3 normalt. Lungrtg/eko normalt. |
 | 2026-03-28 | MR hjärna genomförd. |
-| 2026-03-29 (fm) | BT 142/50, puls 97 (lägre än föregående dagar). SpO2 96%. Ventilering 4,5. Temp 37,7°C. Vätskemål: negativ balans −500 till −1000 ml. Laxering höjd. |
-| 2026-03-29 | **MR-svar:** Litet fynd på MR hjärna — ryggmärgsprov (LP) planeras för att avgöra om kortison ska ges. |
-| 2026-03-29 | **EEG:** Visar att patienten är nedsövd. Svårt att skilja sedering från neurologiskt tillstånd, men teamet bedömer sederingsnivån som adekvat. Sedering ökad något. |
-| 2026-03-29 | **Medicinering:** Klonidin 0,9 mcg/kg/h (autonom stabilisering), propofol 1,5 mg/kg/h (sedering), noradrenalin 0,1 mg/ml 3,1 ml/h (vasopressor), fentanyl 1 mcg/kg/h (smärta), **gabapentin** (neuropatisk smärta), kaliumklorid 7 mmol/h, glukos 5% 60 ml/h, Alvedon (paracetamol). Sondmat: Fresubin 2 kcal HP Fiber 20 ml/h (~960 kcal/dygn). |
-| 2026-03-30 | **Vikt (läkarbekräftad):** Viktuppgång **5 kg på 6–7 dygn** (56→~61 kg, +8,9%). Vätskemål −500 till −1000 ml/dygn pågår. |
-| 2026-03-30 | **LP genomförd:** Förhöjt albumin, normalt celltal (**albuminocytologisk dissociation** — bekräftar GBS). Inga tecken på CNS-infektion eller inflammation. Neurolog Daniel: ovanligt kraftig GBS, men flera liknande fall har återhämtat sig efter 3–4 månaders ventilatorvård. |
-| 2026-03-31 | MR-genomgång: neurolog + röntgenläkare. **Klinisk förbättring** fm: puls 84–85, BT stabilare, noradrenalin utsatt. **Hemodynamisk försämring** ~11:00: BT 96/44, noradrenalin återinsatt. Vikt 58,5 kg (−2,5 kg). |
-| 2026-03-31 | **Solu-Medrol (IV metylprednisolon) insatt** — preventivt mot ADEM. MR-prickar mycket små, ej som ADEM ännu. |
-| 2026-04-01 (fm) | Vikt 56,8 kg (nära baseline). Fötter ej svullna. Temp 37,8°C. Infektionstecken — antibiotika bytt. BT 180–200 (dysautonomi, svängt från hypotension). Puls strax >100. |
-| 2026-04-01 | **Neurologsamtal (Daniel):** Preventiv Solu-Medrol mot ADEM. Kraftig GBS med total kranialnervsutslagning. Anti-IgA och anti-GQ1b beställda (2026-03-31), inväntar svar. MR hjärna + ryggmärg planerad. |
-| 2026-04-01 (em) | MR hjärna + rygg genomförd. Daniel granskar imorgon tillsammans med EEG. Besök: puls 84, BT 140/65 (stabilt ~1 h, ej noradrenalin). Patient lugn. Kompressionsstrumpor med massage på underbenen. |
-| 2026-04-02 | **Anti-GQ1b: POSITIV (höga titrar)** → **GBS–MFS–BBE överlappssyndrom bekräftat.** MR bekräftar BBE-komponenten. Daniel: **prognos god, tar tid.** Solu-Medrol dos 3/3 given. PE-kateter tas bort (infektionsriskreduktion). Anti-IgA inväntar svar (ej brådskande). |
-| 2026-04-02 | Vitals: vikt 56,2 kg (nära baseline), temp 37,9°C, puls 117 (dysautonomi), BT 170/66 (brett pulstryck 104). Magen mindre svullen. |
+| 2026-03-29 | MR-svar: litet fynd. LP planeras. EEG: nedsövd patient. |
+| 2026-03-30 | **LP:** Albuminocytologisk dissociation — bekräftar GBS. Viktuppgång 5 kg/7 dygn. |
+| 2026-03-31 | **Solu-Medrol insatt** (preventivt mot ADEM). Hemodynamisk instabilitet (dysautonomi). |
+| 2026-04-01 | Infektionstecken — antibiotika bytt. MR hjärna + rygg genomförd. BT 180–200 (dysautonomi). |
+| 2026-04-02 | **Anti-GQ1b: POSITIV** → GBS–MFS–BBE overlap bekräftat. Solu-Medrol 3/3. PE-kateter borttagen. Daniel: prognos god, tar tid. |
+
+</details>
 
 → [Utskrivbart sammanfattningsdokument med frågor och evidenstabeller](/doc/Case_Madeleine_Fragor_och_Fynd.md)
 
-→ [**NYTT:** Vad den nya forskningen betyder för Madeleine — 12 frågor till läkarna, kontaktinfo](/doc/research-ivig-iga/MADELEINE_ANALYSIS.md)
+→ [Forskningsanalys: 12 frågor till läkarna, kontaktinfo](/doc/research-ivig-iga/MADELEINE_ANALYSIS.md)
 
 ---
 
-## Om denna databas
+## Forskningsdokument — välj din specialitet
 
-Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-brist. Databasen samlar tillgänglig evidens kring denna kliniska situation, organiserad för snabb åtkomst.
+<div class="specialty-grid">
 
-**Metod:** Systematisk genomgång av PubMed, Cochrane Library, ClinicalTrials.gov och relevanta guidelines (EAN/PNS 2023). Sökperiod: primärt 2012–2026, med inkludering av äldre landmärkesreferenser. All evidens presenteras med källhänvisningar och evidensgradering. Databasen använder RAG-teknik (Retrieval-Augmented Generation) för semantisk sökning.
+<div class="specialty-card specialty-icu">
+<div class="specialty-header">IVA-läkare</div>
+<div class="specialty-body">
+<a href="/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
+IVA-protokoll: GBS–MFS–BBE Overlap
+<span class="doc-sub">20 sektioner | 51 ref — medvetande, sedering, dysautonomi, candida, feber-DDx, IgA-brist, sköldkörtel, lever, checklista</span>
+</a>
+<a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
+<a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
+<a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
+<a href="/doc/01-GBS/Severe_GBS_ICU_Management.md" class="doc-link">Svår GBS — intensivvård (generell)</a>
+</div>
+</div>
 
-**Evidensskala:**
+<div class="specialty-card specialty-neuro">
+<div class="specialty-header">Neurolog</div>
+<div class="specialty-body">
+<a href="/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
+Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
+<span class="doc-sub">57 ref — klassifikation, diagnostik, behandling, prognos, rehabilitering</span>
+</a>
+<a href="/doc/01-GBS/GBS_Comprehensive_Review.md" class="doc-link">GBS fullständig översikt</a>
+<a href="/doc/01-GBS/Recurrent_and_Severe_GBS.md" class="doc-link">Recidiverande och fulminant GBS</a>
+<a href="/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md" class="doc-link">Prognostisk monitorering — biomarkörer och skalor</a>
+<a href="/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md" class="doc-link">ADEM-GBS overlap, MR-differentialdiagnostik, 33 MR-bilder</a>
+<a href="/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md" class="doc-link">PE-svikt: beslutsalgoritm</a>
+</div>
+</div>
 
-| Nivå | Beskrivning | Exempel |
-|------|-------------|---------|
-| *[Level 1]* | Cochrane systematic review, RCT | SID-GBS (Walgaard 2021), PE Cochrane (Chevret 2017), Tanruprubart fas 3 |
-| *[Level 2]* | Prospektiv kohortstudie, fas 2/3-studie | NfL IGOS-kohort (van Tilburg 2024), Imlifidase fas 2 |
-| *[Level 3]* | Retrospektiv analys, fallserie ≥10 pat | TSH som recidivrisk (Wang 2022), DVT-incidens (Bersano 2016) |
-| *[Level 4]* | Fallrapporter, fallserie <10 | Efgartigimod vid GBS (Ripellino 2025) |
-| *[Level 5]* | Expertutlåtande, mekanistisk extrapolering | Timing PE→IVIg, sekventiell terapi |
+<div class="specialty-card specialty-infect">
+<div class="specialty-header">Infektionsläkare</div>
+<div class="specialty-body">
+<a href="/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
+IVA-protokoll — sekt 8, 13–14: Infektion, candida, feber-DDx
+<span class="doc-sub">Svampövervakning (BDG, Candida Score), PCT-tolkning, autonom vs bakteriell vs fungal feber, post-steroid-fönster</span>
+</a>
+<a href="/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md" class="doc-link">Immunoglobulin-IgA-säkerhet (183 papers)</a>
+<a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård — infektionsprevention</a>
+</div>
+</div>
 
-**Begränsningar:** Sammanställningen är inte en systematisk review i formell mening och har inte genomgått peer review. Den ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.
+<div class="specialty-card specialty-immuno">
+<div class="specialty-header">Immunolog</div>
+<div class="specialty-body">
+<a href="/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md" class="doc-link doc-primary">
+GBS + IgA-brist — beslutsalgoritm
+<span class="doc-sub">Behandlingsval vid IgA-brist, IgA-säkra terapier</span>
+</a>
+<a href="/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md" class="doc-link">Selektiv IgA-brist — översikt</a>
+<a href="/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md" class="doc-link">IgA-brist, SCIG-tolerans och IVIg-säkerhet</a>
+<a href="/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md" class="doc-link">Klinisk syntes: immunoglobulin vid IgA-brist (183 papers)</a>
+<a href="/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md" class="doc-link">Hashimotos + IgA + GBS — autoimmunt kluster</a>
+</div>
+</div>
+
+<div class="specialty-card specialty-treat specialty-full">
+<div class="specialty-header">Behandlingsalternativ vid PE-refraktär GBS (tvärfackligt)</div>
+<div class="specialty-body">
+<a href="/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md" class="doc-link doc-primary">Efgartigimod, imlifidase — svenska kontakter och tillgänglighet</a>
+<a href="/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md" class="doc-link">Sekventiell terapi — timing och interaktioner</a>
+<a href="/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md" class="doc-link">PE-koagulopati och trombosprofylax</a>
+<a href="/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md" class="doc-link">Refraktär GBS — all forskning (SID-GBS, tanruprubart, imlifidase)</a>
+<a href="/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md" class="doc-link">Autoimmuna tillstånd — överlappande sjukdomar</a>
+</div>
+</div>
+
+</div>
 
 ---
 
-## Forskningsfynd av möjlig klinisk relevans
-
-*Sammanställda från ~690 peer-reviewed källor. Presenterade som evidens för bedömning.*
+## Nyckelevidens — snabbsammanfattning
 
 ### Behandlingsalternativ vid PE-refraktär GBS med IgA-brist
 
-| Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige (mars 2026) |
-|------------|---------|------------|-------------------------------------|
-| **Efgartigimod (Vyvgart)** | *[Level 4]* Fallrapporter: förbättring inom timmar–dagar vid refraktär, ventilatorsberoende GBS (Ripellino 2025, Deng 2025, Chen 2025). Retrospektiv analys n=17 *[Level 3]* (Sci Rep 2026). Fas 2 pågår. | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
-| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane systematic review för IVIg vid GBS. Privigen IgA ≤25 µg/mL. Patienten har tidigare tolererat Gamanorm (IgA ≤82,5 µg/mL). **OBS:** Anti-IgA-antikroppars roll kontroversiell (Rachid 2012) — testa före behandling. | Låg risk | **Ja** — rutinprodukt på svenska sjukhus |
-| **Imlifidase** | *[Level 2]* Fas 2 (2024, n=30): 6 veckor tidigare gångförmåga. Klyver specifikt IgG, ej koagulationsfaktorer. | Ja (enzym) | Compassionate use — Hansa Biopharma, Lund |
-| **Tanruprubart (ANX005)** | *[Level 1]* Fas 3 RCT positiv (n=242): OR 2.4, 31 dagar tidigare gångförmåga, 28 färre respiratordagar. Starkast evidens — men enbart som monoterapi. | Ja (mAb anti-C1q) | **Ej tillgängligt** — EMA MAA under granskning |
-
-→ [Fullständig genomgång: alla alternativ vid PE-svikt](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md)
-
-→ [Sekventiell terapi — timing och interaktioner](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md)
-
-### Timing vid sekventiell terapi
-
-| Sekvens | Timing | Kommentar |
-|---------|--------|-----------|
-| PE → IVIg | ≥48 timmar efter sista PE | PE vaskar inte ut IVIg givet *efteråt*. SID-GBS (andra IVIg-kuren) gäller ej vid byte från PE. |
-| PE → Efgartigimod | 24–48 timmar efter sista PE | Ingen farmakologisk konflikt. Kringgår IgA-risk helt. |
-| PE → Imlifidase | Ingen väntetid krävs | Klyver enbart IgG. Påverkar ej koagulationsfaktorer — fördel vid koagulopati. |
-
-### Koagulation och trakeostomi
-
-| Parameter | Tröskelvärde | Källa |
-|-----------|-------------|-------|
-| Fibrinogen <1,0 g/L | Pausa PE, ge ersättning | Wodajo et al., Transfusion 2024 *[Level 2]* |
-| Fibrinogen >1,5 g/L + TPK >50 + INR <1,5 | Säker trakeostomi | Pilarczyk et al., 2016 *[Level 3]* |
-| DVT-risk vid GBS + LMWH | 52% vid systematisk screening | Bersano et al., 2016 (PMID: 27240174) *[Level 3]* |
-
-→ [PE-koagulopati: fullständig genomgång](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md)
-
-### Sköldkörteln och GBS
-
-| Fynd | Källa |
-|------|-------|
-| TSH >3,87 µIU/mL är oberoende riskfaktor för GBS-recidiv (multivariat, n=320) | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
-| 70,1% av GBS-patienter har positiva tyreoidea-autoantikroppar | Tu et al., *Front Neurol* 2020 (PMID: 33013669) *[Level 3]* |
-| RGBS: lägre FT3, högre TSH. Antecedent sjukdom + AIDP + högt TSH = oberoende riskfaktorer | Wang S et al., *Muscle Nerve* 2022 (PMID: 35342963) *[Level 3]* |
-| T3 krävs för Schwann-cellsmyelinisering, BDNF- och NGF-uttryck | Lopez-Espindola 2019 |
-| Levotyroxinavbrott på IVA → myxedemkoma-risk (25–60% mortalitet) | Mathew et al., StatPearls 2024 |
-| **2026-03-26 lab:** TSH mycket lågt, fT4 10-12 (låg-normal). Sick euthyroid sannolikt. **fT3 normalt (2026-03-27).** | Klinisk data |
-
-→ [Hashimotos + IgA-brist + GBS: fullständig genomgång](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md)
+| Alternativ | Evidens | IgA-säkert | Tillgänglighet Sverige |
+|------------|---------|------------|------------------------|
+| **Efgartigimod (Vyvgart)** | *[Level 4]* Fallrapporter + retrospektiv n=17 | Ja (Fc-fragment) | **Ja** — EMA-godkänt MG/CIDP, off-label möjligt |
+| **IgA-depleterat IVIg** (Privigen) | *[Level 1]* Cochrane för IVIg vid GBS. Privigen IgA ≤25 µg/mL. | Låg risk | **Ja** — rutinprodukt |
+| **Imlifidase** | *[Level 2]* Fas 2 (n=30): 6 v tidigare gångförmåga | Ja (enzym) | Compassionate use — Hansa, Lund |
+| **Tanruprubart** | *[Level 1]* Fas 3 RCT (n=242): OR 2.4 | Ja (mAb) | **Ej tillgängligt** — EMA under granskning |
 
 ### Prognos vid svår ventilatorsberoende GBS
 
@@ -143,28 +161,10 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 |---|---|
 | Överlevande som går igen | **79%** |
 | Median ventilatorstid | 25 dagar (IQR 13–51) |
-| Prolonged weaning (≥7 dagar) | **64%** (Thille 2025, n=513 GBS, 47 IVA) |
-| Trakeostomi | **57%** av ventilerade GBS-patienter |
-| Reintubation efter extubationsförsök | **26%** |
-| Framgångsrik respiratoravvänjning | 76% |
+| Prolonged weaning (≥7 dagar) | **64%** (Thille 2025, n=513) |
+| Trakeostomi | **57%** |
+| Mortalitet i modern IVA-vård | **9,4%** |
 | Återhämtning fortsätter | Upp till 1–2 år |
-| Mortalitet i modern IVA-vård | **9,4%** (Thille 2025) |
-
-→ [Prognostisk monitorering — biomarkörer, skalor, protokoll](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md)
-
-### MR-differentialdiagnostik vid hjärnlesioner och kranialnervsfärgning
-
-Vid fynd på hjärn-MR hos GBS-patienter — vitsubstanslesioner, kranialnervsinladdning eller ovanliga signalförändringar — finns en systematisk genomgång av differentialdiagnoser och överlappande tillstånd, inklusive ett bildgalleri med 34 MR-referensbilder från publicerade fallrapporter.
-
-→ [**ADEM-GBS overlap, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, BBE-spektrum — MR-differentialdiagnostik med bildgalleri**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md)
-
-### Evidens avseende upprepad IVIg-behandling
-
-SID-GBS-studien (Walgaard et al., *Lancet Neurology* 2021, PMID: 33743237, n=93, RCT) *[Level 1]*: en andra IVIg-kur vid svår GBS visade ingen signifikant förbättring av utfallet och var associerad med fler allvarliga biverkningar (35% vs 16%). EAN/PNS 2023-riktlinjen avråder explicit från upprepad IVIg-behandling.
-
-### Anti-IgA-antikroppar och anafylaxirisk — aktuell evidens
-
-Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxirisken vid dokumenterade anti-IgA-antikroppar varierar beroende på antikroppsisotyp. IgE-anti-IgA är starkast associerad med anafylaxi, medan IgG-anti-IgA (vanligare) sällan ger svåra reaktioner. Patienten har tidigare tolererat Gamanorm SCIG (IgA ≤82,5 µg/mL) under ca 2–3 år utan reaktion. Denna tidigare tolerans kan vara relevant vid bedömning av IVIg-tolerans med produkter med lägre IgA-innehåll (Privigen ≤25 µg/mL, Gammagard S/D ≤1 µg/mL), men avsaknaden av aktuell exponering innebär att anti-IgA-antikroppsstatus bör verifieras.
 
 ---
 
@@ -173,69 +173,54 @@ Rachid & Bonilla (*JACI* 2012, systematisk genomgång): den kliniska anafylaxiri
 | Test | Klinisk relevans | Laboratorium |
 |------|-------------------|--------------|
 | Anti-gangliosidantikroppar (GM1, GD1a, GQ1b m.fl.) | Subtypning, prognos, behandlingsval | Sahlgrenska, Göteborg |
-| Anti-neurofascin (NF155, NF186) | CIDP-differentiering, rituximab-indikation | Specialiserade europeiska laboratorier |
-| Anti-IgA-antikroppar (IgE + IgG) | IVIg-säkerhetsbedömning | DiaMed ID-PaGIA snabbtest (timmar); Sahlgrenska |
+| Anti-neurofascin (NF155, NF186) | CIDP-differentiering, rituximab-indikation | Specialiserade europeiska lab |
+| Anti-IgA-antikroppar (IgE + IgG) | IVIg-säkerhetsbedömning | DiaMed ID-PaGIA snabbtest; Sahlgrenska |
 | Neurofilament light chain (NfL) | Prognos, axonal skadegrad | Wieslab/Malmö (brådskande 48 h) |
 | TSH, fT4, fT3 | Sköldkörtelstatus, recidivrisk, nervregeneration | Standardlaboratorium |
 | Elektrofysiologi (NCS/EMG) | Subtypning (AIDP/AMAN/AMSAN), prognos | Neurofysiologiskt lab |
-| CSF IL-8 | GBS vs CIDP-differentiering (cut-off 70 pg/mL, 96,7% specificitet) | Speciallab |
+| CSF IL-8 | GBS vs CIDP-differentiering (cut-off 70 pg/mL, 96,7% spec) | Speciallab |
 
 ---
 
-## Alla forskningsdokument
+## Om databasen
+
+Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-brist. Databasen samlar tillgänglig evidens, organiserad för snabb åtkomst. Metod: systematisk genomgång av PubMed, Cochrane Library, ClinicalTrials.gov och EAN/PNS 2023. Sökperiod primärt 2012–2026. RAG-teknik för semantisk sökning.
+
+**Evidensskala:** *[Level 1]* Cochrane/RCT → *[Level 2]* Prospektiv kohort → *[Level 3]* Retrospektiv analys → *[Level 4]* Fallrapporter → *[Level 5]* Expertutlåtande
+
+**Källbibliotek:** 390 fulltexter (86 PDF + 304 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
+
+**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1638 kunskapsfragment) och genererar svar med källhänvisningar.
+
+<details class="collapse-section">
+<summary>Alla 21 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
-| [Beslutsalgoritm: GBS + IgA-brist](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) | Steg-för-steg klinisk beslutsalgoritm, IgA-säkra terapier |
-| [PE-refraktär GBS — behandlingsalternativ](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | Efgartigimod, imlifidase, svenska kontakter |
-| [Sekventiell terapi efter PE-svikt](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md) | PE→IVIg/efgartigimod/imlifidase timing och interaktioner |
-| [PE-koagulopati och trombosprofylax](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md) | Fibrinogendepletion, DVT-profylax, trakeostomitidpunkt |
-| [Hashimotos + IgA-brist + GBS](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md) | Autoimmunt kluster, levotyroxin vid IVA, sköldkörtel och nervregeneration |
-| [Prognostisk monitorering](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md) | NfL, mEGOS, EGRIS, elektrofysiologi, IVA-protokoll |
-| [Recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md) | R-GBS vs A-CIDP, EGRIS-scoring, koagulopati, trakeostomi |
-| [Svår GBS — intensivvård](/doc/01-GBS/Severe_GBS_ICU_Management.md) | Ventilator, autonom dysfunktion, smärta, prognos |
-| [IgA-brist, SCIG-tolerans och IVIg-säkerhet](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | Gamanorm → IVIg-implikationer, svenska produkter |
+| [IVA-protokoll: GBS–MFS–BBE Overlap](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md) | 20 sektioner, 51 ref — medvetande, sedering, dysautonomi, candida, feber-DDx, IgA IVA, sköldkörtel, lever, checklista |
+| [Anti-GQ1b-spektrumet](/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md) | 57 ref — klassifikation, diagnostik, behandling, prognos, rehabilitering |
+| [GBS + IgA-brist — beslutsalgoritm](/doc/03-GBS-and-IgA-deficiency/GBS_IgA_Deficiency_Combined_Review.md) | Behandlingsval, IgA-säkra terapier |
+| [PE-refraktär GBS — alternativ](/doc/05-treatment-resistance/PE_Refractory_GBS_Treatment_Options.md) | Efgartigimod, imlifidase, svenska kontakter |
+| [Sekventiell terapi efter PE-svikt](/doc/05-treatment-resistance/Sequential_Combined_Therapy_After_PE_Failure.md) | Timing och interaktioner |
+| [PE-koagulopati och trombosprofylax](/doc/05-treatment-resistance/PE_Coagulopathy_and_Thromboprophylaxis_in_GBS.md) | Fibrinogen, DVT-profylax, trakeostomitidpunkt |
+| [Hashimotos + IgA + GBS](/doc/04-related-autoimmune/Hashimoto-IgAD-GBS-Autoimmune-Cluster.md) | Autoimmunt kluster, levotyroxin, sköldkörtel och nerv |
+| [Prognostisk monitorering](/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md) | NfL, mEGOS, EGRIS, elektrofysiologi |
+| [Recidiverande och fulminant GBS](/doc/01-GBS/Recurrent_and_Severe_GBS.md) | R-GBS vs A-CIDP, EGRIS, trakeostomi |
+| [Svår GBS — intensivvård](/doc/01-GBS/Severe_GBS_ICU_Management.md) | Ventilator, dysautonomi, smärta, prognos |
+| [IgA-brist, SCIG och IVIg-säkerhet](/doc/02-IgA-deficiency/IgA_Deficiency_SCIG_IVIg_Safety.md) | Gamanorm-tolerans, svenska produkter |
 | [GBS fullständig översikt](/doc/01-GBS/GBS_Comprehensive_Review.md) | Alla subtyper, patofysiologi, diagnostik, behandling |
 | [Selektiv IgA-brist — översikt](/doc/02-IgA-deficiency/Selective_IgA_Deficiency_Comprehensive_Review.md) | Genetik, CVID-spektrum, autoimmuna associationer |
-| [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart fas 3, imlifidase fas 2, efgartigimod |
-| [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA-associationer, molekylär mimikry |
-| [PE-svikt: definition och beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | PE-svikt efter 5 sessioner, biomarkörer under sedering, NfL-monitorering |
-| [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, BP-hantering, autonom storm, **mortalitet 6% vs 2%** |
-| [**Respiratoravvänjning vid GBS**](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT-protokoll, decannulation, reintubationsrisk 26%, långtidsutfall |
-| [**Vätskestyrning vid GBS-dysautonomi**](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | **NYTT (2026-03-30):** 5%-tröskel, deresuscitation, WiPO (59% av weaning-svikt), beslutsalgoritm, diuretika-evidens (3 RCT), GBS-specifik sårbarhet |
-| [**Immunoglobulin-IgA-säkerhet: Klinisk syntes**](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | **NYTT (2026-03-26):** 183 papers, paradigmskifte kring IgA-risk, produktjämförelse, toleransinduktion, alla IgA-säkra alternativ, beslutsalgoritm |
-| [**ADEM-GBS Overlap, CCPD och hjärn-MR vid GBS**](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | **NYTT (2026-03-31):** ADEM-GBS overlap, CCPD, kranialnervsinträdeszon (Obersteiner-Redlich), PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 33 MR-referensbilder |
-| [**Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap**](/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md) | **UPPDATERAT (2026-04-03):** Komplett genomgång av anti-GQ1b-syndromet — klassifikation, patofysiologi, diagnostik (serology-first), behandlingsprotokoll (IVIg/PLEX/IVMP/efgartigimod), prognos (69% komplett vid 1 år, Coly 2024 n=166), återhämtningstidslinjer, pediatrisk BBE (Santoro 2018 n=52), rehabiliteringsdata (Lombet 2021, FIM 19→123), cEEG locked-in-kommunikation (Pisano 2025), sömnstörning som senföljd, 57 referenser |
-| [**IVA-protokoll: GBS–MFS–BBE Overlap**](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md) | **UPPDATERAT (2026-04-04):** 20 sektioner — medvetandebedömning, sedering, dysautonomi, kommunikation (cEEG), VTE-profylax, infektionsprevention, **candida/svampövervakning** (BDG, Candida Score, PCT-tolkning), **feber-differentialdiagnostik** (steg-för-steg-algoritm), **IgA-brist IVA-implikationer** (blodprodukter, mukosal immunitet, IVIg-protokoll), **sköldkörtel/Hashimotos** (levotyroxin, NTIS, interaktioner), **leverövervakning**, smärta, nutrition, rehabilitering, daglig checklista, 51 referenser |
+| [Refraktär GBS — forskning](/doc/05-treatment-resistance/Refractory_GBS_Comprehensive_Research.md) | SID-GBS, tanruprubart, imlifidase, efgartigimod |
+| [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA, molekylär mimikry |
+| [PE-svikt: beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Definition, biomarkörer under sedering, NfL |
+| [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
+| [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation |
+| [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
+| [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
+| [ADEM-GBS Overlap, MR-differentialdiagnostik](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | CCPD, PRES, BBE-spektrum, 33 MR-bilder |
+
+</details>
 
 ---
 
-## Källbibliotek — verifierade fulltexter
-
-390 fulltexter tillgängliga (86 PDF + 261 text i `sources/fulltext/` + 43 i `research-ivig-iga/fulltexts/`) samt 33 MR-referensbilder. Alla behandlingsrekommendationer, tröskelvärden och prognostiska siffror i databasen är verifierade mot originalartiklarna.
-
-> [Komplett artikelöversikt med status, PMIDs och extraherad nyckeldata](/doc/Tillgang_till_medicinska_kallor.md)
-
----
-
-## Sök i databasen
-
-Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning och genererar svar med källhänvisningar.
-
-**Exempelfrågor:**
-
-- *What are the IgA-safe treatment options for refractory GBS?*
-- *Vilka biomarkörer kan prediktera behandlingssvar vid GBS?*
-- *Vad finns det för evidens vid plasmaferes-refraktär GBS med IgA-brist?*
-- *What is the anaphylaxis risk with IVIg in selective IgA deficiency?*
-- *Hur skiljer man akut-debuterande CIDP från recidiverande GBS?*
-- *What is the evidence for efgartigimod in ventilator-dependent GBS?*
-- *Vilka koagulationströsklar gäller för trakeostomi?*
-- *How does thyroid function affect GBS prognosis and recurrence?*
-- *What are the differential diagnoses for white matter lesions on brain MRI in GBS?*
-- *What does cranial nerve enhancement on MRI mean in GBS?*
-- *What is the Obersteiner-Redlich zone?*
-
----
-
-*Sammanställd mars 2026. Baserad på ~780 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, randomiserade kontrollerade studier, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars 2026. Baserad på ~810 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, RCT, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
