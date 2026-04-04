@@ -10,7 +10,7 @@ status: active
 
 <div class="stats-bar">
 <span>~810 peer-reviewed referenser</span>
-<span>21 forskningsdokument</span>
+<span>22 forskningsdokument</span>
 <span>390 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
@@ -77,8 +77,12 @@ status: active
 <div class="specialty-card specialty-icu">
 <div class="specialty-header">IVA-läkare</div>
 <div class="specialty-body">
+<a href="/doc/07-acute-icu-protocols/IVA_Handout_GBS_MFS_BBE_IgA_Deficiency.md" class="doc-link doc-primary">
+IVA-sammanfattning: alert + undvik + checklista (2 sidor)
+<span class="doc-sub">Fokuserat utskriftsblad — candidarisk, feber-DDx, levotyroxin, leverövervakning, undvik-lista</span>
+</a>
 <a href="/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
-IVA-protokoll: GBS–MFS–BBE Overlap
+IVA-protokoll: GBS–MFS–BBE Overlap (fullständigt)
 <span class="doc-sub">20 sektioner | 51 ref — medvetande, sedering, dysautonomi, candida, feber-DDx, IgA-brist, sköldkörtel, lever, checklista</span>
 </a>
 <a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
@@ -193,7 +197,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1638 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 21 forskningsdokument — fullständig lista</summary>
+<summary>Alla 22 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
