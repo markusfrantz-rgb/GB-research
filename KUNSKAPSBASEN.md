@@ -43,7 +43,7 @@ status: active
 
 **Observation:** Tre autoimmuna tillstånd (GBS + IgA-brist + Hashimotos) kopplade till HLA-B8/DR3/DQ2 — Multiple Autoimmune Syndrome typ 3.
 
-<details class="collapse-section">
+<details class="collapse-section" markdown="1">
 <summary>Klinisk tidslinje (2026-03-21 — 2026-04-02) — klicka för att visa</summary>
 
 | Datum | Händelse |
@@ -192,7 +192,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1638 kunskapsfragment) och genererar svar med källhänvisningar.
 
-<details class="collapse-section">
+<details class="collapse-section" markdown="1">
 <summary>Alla 21 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |

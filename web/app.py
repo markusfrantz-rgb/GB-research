@@ -188,7 +188,7 @@ def view_doc(filepath):
         if len(parts) >= 3:
             text = parts[2].strip()
 
-    doc_html = markdown.markdown(text, extensions=["tables", "fenced_code", "toc"])
+    doc_html = markdown.markdown(text, extensions=["tables", "fenced_code", "toc", "md_in_html"])
     doc_html = _postprocess_html(doc_html)
     title = filepath.split("/")[-1].replace(".md", "").replace("_", " ")
     return render_template("document.html", title=title, content=doc_html, filepath=filepath)
@@ -341,7 +341,7 @@ def _render_intro() -> str:
         parts = text.split("---", 2)
         if len(parts) >= 3:
             text = parts[2].strip()
-    html = markdown.markdown(text, extensions=["tables", "fenced_code", "codehilite", "toc"])
+    html = markdown.markdown(text, extensions=["tables", "fenced_code", "codehilite", "toc", "md_in_html"])
     return _postprocess_html(html)
 
 
