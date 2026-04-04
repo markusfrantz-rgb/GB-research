@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (20 st, ~750+ referenser)
+### Forskningsdokument (21 st, ~780+ referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -31,6 +31,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 17 | `08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md` | **Immunoglobulin-IgA-säkerhet: 183 papers, paradigmskifte, produktjämförelse, toleransinduktion, beslutsalgoritm** | Komplett |
 | 18 | `07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md` | **Vätskestyrning vid GBS-dysautonomi: 5%-tröskel, deresuscitation, WiPO, diuretika-evidens (3 RCT), beslutsalgoritm** | Komplett |
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
+| 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
+| 21 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: medvetandebedömning, sedering (dexmedetomidin), dysautonomi, locked-in-kommunikation (cEEG), VTE-profylax, infektionsprevention vid steroider, smärta, nutrition, rehabilitering, daglig checklista, 24 ref** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 

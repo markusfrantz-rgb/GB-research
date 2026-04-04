@@ -352,7 +352,15 @@ Documented recovery sequence in MFS-GBS-BBE overlap (Chae 2018):
 
 ### 8.3 Ophthalmoplegia Recovery
 
-**MFS (Mori et al., 2001, PMID: 11320188, n=50):** Ophthalmoplegia resolved at median **88 days** (~3 months). Ataxia resolved earlier at median **32 days**. Most patients free of symptoms by 6 months. *[Level 3]*
+**MFS natural history (Mori et al., 2001, PMID: 11320188, n=50; 28 untreated):**
+
+| Milestone | Median onset (days) | Median resolution (days) |
+|-----------|-------------------|------------------------|
+| Ataxia begins improving | 12 (range 3–41) | 32 (range 8–271) |
+| Ophthalmoplegia begins improving | 15 (range 3–46) | 88 (range 29–165) |
+| All symptoms resolved | — | **≤6 months in all patients** |
+
+Recovery sequence: ataxia → ophthalmoplegia → areflexia (slowest — two-thirds still had areflexia at follow-up). Blepharoptosis present in **58%**, the second most common sign. **No prognostic factors identified:** age, sex, severity, time to nadir — none predicted outcome. *[Level 3]*
 
 **Internal vs external ophthalmoplegia:** Internal ophthalmoplegia (pupillary) recovers **faster** than external (eye movement) ophthalmoplegia (Abhinav et al., 2020, PMC: 7174959). *[Level 4]*
 
@@ -361,6 +369,8 @@ Documented recovery sequence in MFS-GBS-BBE overlap (Chae 2018):
 ### 8.4 Facial Nerve Recovery
 
 Facial palsy may appear **during the recovery phase** of Fisher syndrome (delayed facial palsy). Serial studies show reversible conduction failure in proximal facial nerves (nodopathy), not structural damage. MRI shows enhancement that disappears with recovery (Umekawa et al., 2017, PMID: 28450686). *[Level 4]*
+
+**Delayed facial palsy is common:** In Mori 2001, 6/16 (38%) patients with facial palsy had it **worsen during recovery** of other symptoms. This paradoxical timing is a known feature of the anti-GQ1b spectrum. *[Level 3]*
 
 Facial nerve ultrasound: nerve width significantly larger in MFS (1.19 ± 0.31 mm vs controls 0.67 ± 0.13 mm), resolving with clinical recovery (Hsueh et al., 2020, PMID: 32922359). *[Level 4]*
 
@@ -591,7 +601,44 @@ Based on literature synthesis:
 | Swallowing | ~2–3 months | Chae 2018 |
 | Respiratory muscles | Last to recover — may take months | Chae 2018 |
 
-### 12.6 IGOS Antibody Profiling — Novel Prognostic Data
+### 12.6 Pediatric BBE — Different Profile, Good Outcome
+
+> **Citation:** Santoro JD et al. Pediatric Bickerstaff brainstem encephalitis: a systematic review. *J Neurol*. 2018;265(1):141-150. PMID: 29177548
+
+52 pediatric BBE cases (47 from literature + 5 new):
+
+| Feature | Pediatric | Adult (comparison) |
+|---------|-----------|-------------------|
+| MRI abnormal | **41%** | 11–30% |
+| EEG abnormal | **72%** | 57% |
+| Required ventilation | **17%** (median 3 days) | 20–34% |
+| Anti-GQ1b positive | 68% | 66–83% |
+| Time to nadir | Median 10 days | Similar |
+| Time to full resolution | Median **90 days** | ~6 months |
+
+**Treatment-stratified median recovery (pediatric):**
+- Steroid monotherapy: **24 days** (shortest)
+- IVIg monotherapy: **60 days**
+- Supportive only: **73 days**
+- IVIg + steroids: 102 days (severity bias)
+
+*Severity bias: dual therapy recipients likely had more severe disease. ANOVA p=0.277 (not significant).* *[Level 3]*
+
+### 12.7 Rehabilitation Timeline — BBE-GBS Overlap (Lombet 2021)
+
+> **Citation:** Lombet C et al. BBE-GBS overlap rehabilitation. *Rev Med Liege*. 2021;76(7-8):608-613. PMID: 34357713
+
+24-year-old woman, BBE-GBS overlap (MRI: bilateral posterior thalamic + periaqueductal T2 hyperintensity):
+
+| Timepoint | MRC sum upper limb | MRC sum lower limb | FIM (/126) |
+|-----------|-------------------|-------------------|-----------|
+| Day 43 (rehab admission) | 18/30 | 9/30 | **19** |
+| 9 months | 24/30 | 14/30 | 107 |
+| 4.5 years | 30/30 | 28/30 | **123** |
+
+Recovery pattern: **proximal → distal, upper → lower.** Ankle dorsiflexion last to recover. Persistent cognitive deficits (attention, processing speed, dual-tasking) at 4.5 years despite near-complete motor recovery. *[Level 4]*
+
+### 12.8 IGOS Antibody Profiling — Novel Prognostic Data
 
 > **Citation:** Thomma RCM et al. Large-scale profiling of antibody reactivity to glycolipids in GBS. *Brain*. 2025;148(11):4000-4015. PMID: 40096525
 
@@ -694,6 +741,24 @@ Anti-GQ1b syndrome can progress to a complete locked-in state — total paralysi
 - **Patients may be fully conscious** despite appearing unresponsive — pain, anxiety, and dyspnoea may be present but not detectable through vital signs (Kumta 2022)
 - Communication interfaces (eye tracking, ERPs, fMRI) should be considered for all seemingly unresponsive GBS/BBE patients
 
+### 14.3 cEEG Communication Protocol for Locked-In GBS
+
+> **Citation:** Pisano TJ, Levine JM. Repurposing cEEG to Enable Communication in Total Locked-in Syndrome. *Neurocrit Care*. 2025;42:726-729. PMID: 39623161
+
+19-year-old, total locked-in GBS (anti-GM1/GD1b+). When the last visible voluntary movement (right brow raise) was lost, the ICU team used **standard continuous EEG** to detect **nonvisible** frontalis muscle activity:
+
+**Technical setup:**
+- Standard frontal surface EEG electrodes (Fp2-F8, Fp1-F3, F3-C3, Fp2-F4)
+- AP bipolar montage
+- Sensitivity: 70 µV/mm, time base: 30 mm/s
+- Filters: 60 Hz notch, 1 Hz LF, 70 Hz HF
+
+**Communication code:** 2 peaks = "yes", 1 peak = "no". Family described it as "super easy." Staff and family read the signal directly on the live bedside cEEG monitor.
+
+**Clinical value:** Enabled pain assessment, anxiety communication, shortness of breath reporting — and also ruled out non-convulsive status epilepticus.
+
+**Key insight:** This uses equipment already present in most ICUs — no additional hardware or software required. *[Level 4]*
+
 ---
 
 ## 15. Relapse and Long-Term Follow-Up
@@ -718,6 +783,8 @@ Different relapses can present with **different phenotypes** within the anti-GQ1
 - **Sleep dysregulation:** 4/5 pediatric BBE patients; 3 met criteria for obstructive sleep apnea
 - **Persistent oscillopsia and motion sensitivity** may outlast limb function recovery (Bannai 2026)
 - **Respiratory muscle weakness:** May persist months beyond limb recovery (Chae 2018: tracheostomy still at 8 months)
+- **Sleep apnea after BBE:** 4/5 pediatric patients had sleep dysregulation; 3/4 met criteria for **obstructive sleep apnea** on polysomnography (AHI 7.1–14). Hypothesized mechanism: residual glossopharyngeal/vagus nerve injury + reticular formation damage (Santoro 2019, PMID: 30604651). *[Level 4]*
+- **Vaccination safety post-BBE:** All 5 pediatric patients received standard vaccines (influenza, meningococcus, HPV, DTaP) ≥6 months after diagnosis without complications (Santoro 2019). *[Level 4]*
 
 ### 15.4 When to Reassess Diagnosis
 
@@ -804,6 +871,9 @@ Different relapses can present with **different phenotypes** within the anti-GQ1
 52. Mori D et al. BBE after COVID-19 infection. *Acute Med Surg*. 2025;12(1):e70071. PMID: 40606543
 53. Bhatia SS et al. BBE mimicking herpetic encephalomyelitis. *BMJ Case Rep*. 2022;15(12):e251758. PMID: 36524256
 54. Imam I et al. BBE: neurophysiology and postmortem findings. *BMJ Case Rep*. 2022;15(1):e244780. PMID: 35110279
+55. Santoro JD et al. Pediatric BBE: systematic review and case series. *J Neurol*. 2018;265(1):141-150. PMID: 29177548
+56. Pisano TJ, Levine JM. Repurposing cEEG for locked-in communication in GBS. *Neurocrit Care*. 2025;42:726-729. PMID: 39623161
+57. Lombet C et al. BBE-GBS overlap rehabilitation. *Rev Med Liege*. 2021;76(7-8):608-613. PMID: 34357713
 
 ---
 
