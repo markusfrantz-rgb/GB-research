@@ -10,14 +10,14 @@ status: active
 
 <div class="stats-bar">
 <span>~810 peer-reviewed referenser</span>
-<span>22 forskningsdokument</span>
+<span>23 forskningsdokument</span>
 <span>390 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. 100% förlamning. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. <strong>Dag 16 (5/4): All sedering och vasopressorer pausade. Passiv cykling (maskin) påbörjad.</strong> Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -44,7 +44,7 @@ status: active
 **Observation:** Tre autoimmuna tillstånd (GBS + IgA-brist + Hashimotos) kopplade till HLA-B8/DR3/DQ2 — Multiple Autoimmune Syndrome typ 3.
 
 <details class="collapse-section" markdown="1">
-<summary>Klinisk tidslinje (2026-03-21 — 2026-04-02) — klicka för att visa</summary>
+<summary>Klinisk tidslinje (2026-03-21 — 2026-04-05) — klicka för att visa</summary>
 
 | Datum | Händelse |
 |-------|---------|
@@ -61,6 +61,8 @@ status: active
 | 2026-03-31 | **Solu-Medrol insatt** (preventivt mot ADEM). Hemodynamisk instabilitet (dysautonomi). |
 | 2026-04-01 | Infektionstecken — antibiotika bytt. MR hjärna + rygg genomförd. BT 180–200 (dysautonomi). |
 | 2026-04-02 | **Anti-GQ1b: POSITIV** → GBS–MFS–BBE overlap bekräftat. Solu-Medrol 3/3. PE-kateter borttagen. Daniel: prognos god, tar tid. |
+| 2026-04-04 | Feberepisod (39°C), stabiliserad. CRP fallande (135→58→36). Haemophilus under behandling (pip/tazo). PCT beställd. Levervärden försämrade. |
+| 2026-04-05 | **All sedering/vasopressorer pausade** (propofol, fentanyl, klonidin, noradrenalin). Temp 38,7°C (Dynastat). **Passiv cykling (maskin) 1,56 km/30 min.** |
 
 </details>
 
@@ -88,6 +90,7 @@ IVA-protokoll: GBS–MFS–BBE Overlap (fullständigt)
 <a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
 <a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
+<a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link">Infektionshantering vid prolongerad IVA-vård — antibiotika, CRBSI, PCT, hepatotoxicitet</a>
 <a href="/doc/01-GBS/Severe_GBS_ICU_Management.md" class="doc-link">Svår GBS — intensivvård (generell)</a>
 </div>
 </div>
@@ -113,6 +116,10 @@ Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 <a href="/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
 IVA-protokoll — sekt 8, 13–14: Infektion, candida, feber-DDx
 <span class="doc-sub">Svampövervakning (BDG, Candida Score), PCT-tolkning, autonom vs bakteriell vs fungal feber, post-steroid-fönster</span>
+</a>
+<a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link doc-primary">
+Infektionshantering vid prolongerad IVA-vård
+<span class="doc-sub">~35 ref — empirisk antibiotika, CRBSI-protokoll, eskalering, PCT-styrning, hepatotoxicitet, IgA-brist-övervakning, svenska riktlinjer (Strama/SILF)</span>
 </a>
 <a href="/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md" class="doc-link">Immunoglobulin-IgA-säkerhet (183 papers)</a>
 <a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård — infektionsprevention</a>
@@ -197,7 +204,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1638 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 22 forskningsdokument — fullständig lista</summary>
+<summary>Alla 23 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -222,6 +229,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
 | [ADEM-GBS Overlap, MR-differentialdiagnostik](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | CCPD, PRES, BBE-spektrum, 33 MR-bilder |
+| [Infektionshantering vid prolongerad IVA-vård](/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md) | ~35 ref — empirisk antibiotika, CRBSI, eskalering, PCT-styrning, hepatotoxicitet, IgA-övervakning, svenska riktlinjer |
 
 </details>
 

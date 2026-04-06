@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-04-04
+> Senast uppdaterad: 2026-04-06
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (21 st, ~780+ referenser)
+### Forskningsdokument (22 st, ~810+ referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -32,7 +32,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 18 | `07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md` | **Vätskestyrning vid GBS-dysautonomi: 5%-tröskel, deresuscitation, WiPO, diuretika-evidens (3 RCT), beslutsalgoritm** | Komplett |
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 | 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
-| 21 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
+| 21 | `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` | **Infektionshantering vid prolongerad IVA-vård: empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm (pip/tazo→meropenem), PCT-styrning (PRORATA/SAPS), hepatotoxicitet-alternativ, IgA-brist-övervakning, svenska riktlinjer (Strama/SILF), beslutsalgoritm vid positiv blododling, ~35 ref** | Komplett |
+| 22 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
 
 ### Utskrivbart kliniskt dokument
 
@@ -65,7 +66,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-04-04)
+### Aktuellt förlopp (2026-03-21 → 2026-04-05)
 
 | Datum | Händelse |
 |-------|---------|
@@ -107,11 +108,13 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-04-04 (fm) | Ej vaken, ej kontaktbar. Sedering mildare senaste dagarna, ökas igen ~kl 13. |
 | 2026-04-04 | **Infektion:** Haemophilus identifierad ~10 dagar sedan. Cefotaxim → **piperacillin/tazobactam** ~3 dagar sedan. CRP: 135 (31/3) → 58 (3/4) → **36 (4/4)** — kraftigt fallande trots feber. Bronkoskopi, slangar, urin — inget nytt fokus. |
 | 2026-04-04 | **Procalcitonin beställd** (Stefan, IVA). Infektionskonsult begärd. Svampodling (candida) begärd — anamnes candidainfektion i ungdomen. Feber trots fallande CRP → misstanke autonom feber vs kvarvarande infektion vs svamp. |
+| 2026-04-05 (18:30) | **Dramatisk förbättring (dag 16):** Temp 38,7°C (Dynastat givet). BT 143/65. **All sedering och vasopressorer pausade:** noradrenalin, klonidin, fentanyl, propofol — samtliga PAUS. Glukos 50mg/ml 30ml/h. KCl 7 mmol/h. Röntgen mage: ingen förstoppning, en hel del luft. **Passiv cykling (maskin) 1,56 km/30 min** — rehabilitering påbörjad. |
 
 ### Kommunikation
 
 ~~Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).~~
 **Uppdatering 2026-03-31:** Ingen kommunikation möjlig. 100% förlamning i hela kroppen — kan inte öppna något öga. Sista ögonlocksrörelsen försvann troligen mellan 25/3 kväll och 26/3 fm (innan PE4). Total förlamning etablerad innan PE4–5 genomfördes.
+**Uppdatering 2026-04-05:** Patienten tillräckligt vaken och motoriskt aktiv för rehabiliteringsträning (cykling). All sedering pausad.
 
 ### Post-trakeostomi (2026-03-25 em)
 
@@ -275,3 +278,6 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-04 | **Nytt dokument:** IVA-handout (2 sidor) — fokuserat utskriftsblad för IVA-teamet med alert/undvik/checklista. Tillagt i IVA-kortet på landningssidan. |
 | 2026-04-04 (~14:30) | **Vitals (besök):** Puls 89 (bästa), BT 133/62, temp 37,8, vikt 54,6 (−1,6). Hemodynamiskt stabilaste dagen hittills. Kort BT-dip korrigerad med minimal noradrenalin-justering. Röntgen mage genomförd. Markus lämnade IVA-handout + lapp till Stefan/IVA-teamet. |
 | 2026-04-04 | 5 commits, 5 pushes, 5 Railway auto-deploys denna session. |
+| 2026-04-05 | Klinisk uppdatering (dag 16): **alla sedativa och vasopressorer pausade** (noradrenalin, klonidin, fentanyl, propofol). Temp 38,7 (Dynastat). Passiv cykling 1,56 km/30 min. Röntgen mage ua (ingen förstoppning, luft). |
+| 2026-04-06 | Klinisk uppdatering (dag 17): CRP **165** (↑↑ från 36 den 4/4). Positiv blododling — bakterie identifierad, resistensbestämning pågår. Pip/tazo-dos höjd 5/4 vid CRP 108. Noradrenalin tillbaka (0,09 µg/kg/min). Remifentanil ersatt fentanyl (ultrakortverkande — bättre neurologisk bedömning). Temp 37,8, puls 108, BT 126/58. PCT 0,12 (1/4 — inaktuell, ny EJ tagen). Leverförhöjning: ASAT? upp, en annan ner, tredje oförändrad. |
+| 2026-04-06 | **Nytt forskningsdokument:** `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` — 11 sektioner, ~35 ref. Täcker empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm, PCT-styrning (PRORATA/SAPS), hepatotoxicitet, IgA-brist-övervakning, svenska Strama/SILF-riktlinjer, beslutsalgoritm vid positiv blododling. |
