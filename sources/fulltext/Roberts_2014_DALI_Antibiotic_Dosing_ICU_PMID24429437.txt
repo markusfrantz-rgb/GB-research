@@ -1,0 +1,704 @@
+MAJOR ARTICLE
+DALI: De ﬁning Antibiotic Levels in Intensive
+Care Unit Patients: Are Current β-Lactam
+Antibiotic Doses Suf ﬁcient for Critically Ill
+Patients?
+Jason A. Roberts,1,2Sanjoy K. Paul,3,4Murat Akova,5Matteo Bassetti,6Jan J. De Waele,7George Dimopoulos,8
+Kirsi-Maija Kaukonen,9Despoina Koulenti,1,8Claude Martin,10,11Philippe Montravers,12Jordi Rello,13
+Andrew Rhodes,14Therese Starr,2Steven C. Wallis,1and Jeffrey Lipman1,2; for the DALI Studya
+1Burns Trauma and Critical Care Research Centre, University of Queensland,2Royal Brisbane and Women ’s Hospital,3Clinical Trials and Biostatistics Unit,
+QIMR Berghofer Medical Research Institute, and4Queensland Clinical Trials and Biostatistics Centre, School of Population Health, University of
+Queensland, Brisbane, Australia;5School of Medicine, Hacettepe University, Ankara, Turkey;6Azienda Ospedaliera Universitaria Santa Maria della
+Misericordia, Udine, Italy;7Ghent University Hospital, Ghent, Belgium;8Attikon University Hospital, Athens, Greece;9Helsinki University Central Hospital,
+Helsinki, Finland;10Hospital Nord, Marseille,11AzuRea Group, and12Centre Hospitalier Universitaire Bichat-Claude Bernard, AP-HP, Université Paris VII,
+France;13CIBERES, Vall d ’Hebron Institut of Research, Universitat Autonoma de Barcelona, Spain; and14St George ’s Healthcare NHS Trust and St George ’s
+University of London, United Kingdom
+(See the Editorial Commentary by Craig on pages 1084 –5.)
+Background .Morbidity and mortality for critically ill patients with infections remains a global healthcare prob-
+lem. We aimed to determine whether β-lactam antibiotic dosing in critically ill patients achieves concentrations as-
+sociated with maximal activity and whether antibiotic concentrations affect patient outcome.
+Methods .This was a prospective, multinational pharmacokinetic point-prevalence study including 8 β-lactam
+antibiotics. Two blood samples were taken from each patient during a single dosing interval. The primary pharma-
+cokinetic/pharmacodynamic targets were free antibiotic concentrations above the minimum inhibitory concentra-tion (MIC) of the pathogen at both 50% (50% fT
+>MIC) and 100% (100% fT>MIC) of the dosing interval. We used
+skewed logistic regression to describe the effect of antibiotic exposure on patient outcome.
+Results .We included 384 patients (361 evaluable patients) across 68 hospitals. The median age was 61 (inter-
+quartile range [IQR], 48 –73) years, the median Acute Physiology and Chronic Health Evaluation II score was 18
+(IQR, 14 –24), and 65% of patients were male. Of the 248 patients treated for infection, 16% did not achieve 50%
+fT>MIC and these patients were 32% less likely to have a positive clinical outcome (odds ratio [OR], 0.68;
+P= .009). Positive clinical outcome was associated with increasing 50% fT>MIC and 100% fT>MIC ratios (OR,
+1.02 and 1.56, respectively; P< .03), with signi ﬁcant interaction with sickness severity status.
+Conclusions .Infected critically ill patients may have adverse outcomes as a result of inadeqaute antibiotic ex-
+posure; a paradigm change to more personalized antibiotic dosing may be necessary to improve outcomes for these
+most seriously ill patients.
+Keywords .continuous infusion; extended infusion; adverse events; pharmacokinetics; pharmacodynamics.
+Infections in critically ill patients are a major burden to
+the healthcare system. Of concern for clinicians andadministrators, neither the incidence of these infections
+over the past 30 years nor the mortality rates appear to
+be improving. This challenging dilemma has led to 70%of all intensive care unit (ICU) patients being
+Received 10 July 2013; accepted 10 October 2013; electronically published 14
+January 2014.
+aAll members of the DALI Study Group are listed in the Appendix.
+Correspondence: Jason A. Roberts, PhD, Burns Trauma and Critical Care Research
+Centre, University of Queensland, Level 3 Ned Hanlon Bldg, Royal Brisbane andWomen ’s Hospital, Butter ﬁeld St, Brisbane 4029, Queensland, Australia
+(j.roberts2@uq.edu.au).Clinical Infectious Diseases 2014;58(8):1072 –83
+© The Author 2014. Published by Oxford University Press on behalf of the Infectious
+Diseases Society of America. All rights reserved. For Permissions, please e-mail:journals.permissions@oup.com.DOI: 10.1093/cid/ciu027
+1072 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+prescribed antibiotics at any one time [ 1]. With such high rates
+of usage, it is easy to understand why the ICU stay is associated
+with the development of increasing levels of antibiotic-resistantbacteria that then pervade other healthcare settings.
+For severe infections causing sepsis and septic shock, the
+early initiation of antibiotics with an appropriate spectrumfor the likely pathogen has been demonstrated to be an effective
+intervention [ 2–4]. It has been suggested that superior infection
+outcomes could be achieved in critically ill patients by optimi-zation of the pharmacokinetic exposure of antibiotics [ 5,6].
+These suggestions are based, in part, on numerous data demon-
+strating grossly altered pharmacokinetics in critically ill patients
+from small single-center studies [ 7]. Given that antibiotic dos-
+ing regimens are derived from healthy volunteers and do not
+account for these major differences in drug disposition, the pre-
+sent approach is likely to lead to suboptimal outcomes for crit-ically ill patients [ 5,8].
+The β-lactams (penicillins, cep halosporins, carbapenems,
+and monobactams) are the most commonly prescribed familyof antibiotics. From a pharmacokinetic/pharmacodynamic(PK/PD) perspective, preclinical studies have de ﬁned these an-
+tibiotics to be time dependent, that is, the time for which the
+free (unbound) antibiotic concentration is maintained abovethe minimum inhibitory concentration (MIC) is the determi-
+nate factor associated with bacterial killing ( fT
+>MIC)[9,10].
+Whereas animal in vivo studies have de ﬁned an fT>MIC between
+40% and 70% of the dosing interval as being necessary [ 11], ret-
+rospective clinical evaluations have suggested that larger drug
+exposures are required, with β-lactam concentrations up to 4
+times the MIC for the entire dosing interval being suggested
+[12,13]. However, it remains unclear what PK/PD exposure is
+clinically necessary for maximal patient bene ﬁt.
+With the present level of knowledge, there are few robust data
+to direct further improvement for antibiotic treatment in criti-
+cally ill patients. Limiting progress is the absence of large-scale
+data on the appropriateness of present dosing. To address thesedeﬁciencies, we undertook the DALI (De ﬁning Antibiotic Lev-
+els in Intensive Care Patients) study.
+The primary objective of the study was to determine whether
+contemporary β-lactam antibiotic dosing in critically ill patients
+across a large number of ICUs achieves concentrations associ-
+ated with maximal activity. The secondary objective was to cor-relate the observed antibiotic PK/PD with the clinical outcomes
+of therapy.
+METHODS
+The DALI study was a prospective, multicenter pharmacokinet-
+ic point-prevalence study. The detailed protocol for this studyhas been published previously [ 14]. The β-lactam antibiotics el-
+igible for this analysis were amoxicillin (coadministered withclavulanate), ampicillin, cefazolin, cefepime, ceftriaxone, dori-
+penem, meropenem, and piperacillin (coadministered with
+tazobactam).
+Ethical approval to participate in this study was obtained at
+all participating centers and informed consent was obtained for
+each patient. The lead site was the University of Queensland,Australia (approval number 201100283, May 2011). Patients
+were all identi ﬁed for participation by clinical ICU staff on
+the Monday of the nominated sampling week, with blood sam-pling and data collection occurring throughout that week.
+PK/PD Targets
+The PK/PD ratio is de ﬁned as the ratio between the measured
+free antibiotic concentration in plasma at 50% or 100% of the
+dosing interval and the MIC. The target PK/PD ratios used inthis study are shown in Table 1. Where available, the MIC of the
+known pathogen was provided by the local microbiology labo-
+ratory. Where an MIC was not available, as many centers do
+not routinely generate these data, the MIC of the pathogenwas de ﬁned by the European Committee on Antimicrobial Sus-
+ceptibility Testing ’sM I C
+90data ( http://www.eucast.org/
+clinical_breakpoints ). Where no pathogen was formally identi-
+ﬁed, the highest MIC for susceptible bacteria to the antibiotic
+was assumed. These breakpoints were chosen for a worst-case
+scenario of bacterial susceptibility, which is what empiric dosingis based upon.
+Table 1. De ﬁnitions Used for Pharmacokinetic/Pharmacodynamic
+and Clinical Endpoints
+PK/PD Target Description
+50% fT>MIC Free drug concentration maintained above MIC
+of the known or suspected pathogen for atleast 50% of dosing interval. This was
+considered to be the most conservative PK/PD
+target.
+50% fT
+>4×MIC Free drug concentration maintained above a
+concentration 4-fold higher than the MIC of the
+known or suspected pathogen for at least 50%
+of dosing interval.
+100% fT>MIC Free drug concentration maintained above MIC
+of the known or suspected pathogen
+throughout the entire dosing interval.
+100% fT>4×MIC Free drug concentration maintained above a
+concentration 4-fold higher than the MIC of the
+known or suspected pathogen throughout the
+entire dosing interval.
+Positive clinical
+outcomeCompletion of treatment course without change
+or addition of antibiotic therapy, and with no
+additional antibiotics commenced with 48 h of
+cessation. De-escalation to a narrowerspectrum antibiotic was permitted butexcluded from the clinical outcome analysis.
+Negative clinical
+outcomeAny clinical outcome other than positive clinical
+outcome.
+Abbreviations: MIC, minimum inhibitory concentration; PK/PD, pharmacokinetic/
+pharmacodynamic.
+The DALI Study CID 2014:58 (15 April) 1073Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Study Treatments and Blood Sampling
+Antibiotic dosing was done as per the treating clinician and
+therapy could be administered by either intravenous inter-mittent or continuous infusion. Each patient had 2 blood sam-ples taken for each β-lactam antibiotic he or she was receiving.
+Blood sample A was a mid-dose blood sample at 50% of the
+way through a dosing interval and blood sample B was a pre-dose level at the end of a dosing interval. The observed con-
+centrations were then interpreted in relation to the known or
+presumed MIC of the pathogen. For example, the 100%fT
+>4×MIC would be attained if the blood sample B concentration
+exceeded the MIC by at least a factor of 4.
+Data Collection
+Data collection was performed by trained staff at each participating
+center and entered onto a case report form. Various demographic
+and clinical data were collected including age, sex, height, weight,
+presence of renal replacement therapy, and measures of organfunction and levels of patient sickness severity as described bythe APACHE II (Acute Physiology and Chronic Health Evaluation
+II) score [ 15] on admission and SOFA (Sequential Organ Failure
+Assessment) score on day of sampling [ 16]. Mortality at 30 days
+was also collected. Clinical outcome of therapy was assessed
+using the de ﬁnitions in Table 1. Combination therapy was de ﬁned
+as the concomitant use of ≥2 antibiotics of different mechanistic
+classes at the time of pharmacokinetic sampling.
+Antibiotic dosing data including the dose, infusion duration,
+frequency of administration, the time of dosing and sampling,and the day of antibiotic therapy were collected. All data were
+collated by the coordinating center (Burns Trauma and Critical
+Care Research Centre, University of Queensland, Australia).
+Maintenance of Sample Integrity
+Blood samples were processed and stored per protocol to main-tain integrity. A commercial courier company transported the
+clinical samples on dry ice to the coordinating center.
+Bioanalysis
+The concentration of the study antibiotics in the biological
+samples were determined by validated chromatographic
+methods (high performance liquid chromatography and liquid
+chromatography with tandem mass spectrometry) (US Foodand Drug Administration guidelines: www.fda.gov/downloads/
+Drugs/GuidanceComplianceRegulatoryInformation/Guidances/
+UCM070107.pdf ). Unbound drug concentrations were directly
+measured for the highly protein-bound drugs cefazolin and cef-
+triaxone using ultra ﬁltration with 30 kDa cutoff devices (Cen-
+trifree, Merck Millipore, Tullagreen, Ireland) [ 17].
+Statistical Analysis
+Basic statistics on demographic, clinical, and PK/PD-related
+data were presented by number (%) or median (interquartilerange [IQR]), as appropriate. The distributions of clinical and
+PK/PD-related study parameters were compared among differ-
+ent antibiotics using the Kruskal-Wallis test.
+To evaluate and compare the possible association of PK/PD
+targets with therapy-related outcome, after adjusting for
+APACHE II and SOFA scores, the skewed logistic regressiontechnique was used [ 18] .T h eo d d sr a t i o s( O R s )a n db o o t -
+strapped 95% con ﬁdence intervals (CIs) were obtained, and
+the model ﬁts were assessed using Akaike information criteria
+and Bayesian information criteria. Based on the estimated prob-abilities from the above models, the area under the receiver op-
+erating characteristic curve (AUROC) with 95% CIs was
+estimated.
+The probability of a positive clinical outcome associated with
+the ratio of concentration to MIC in interaction with higher and
+lower levels of sickness severity (APACHE II score) were evalu-ated using an interaction-based logistic regression setup. High
+and low sickness severity gr oups were categorized into ﬁrst
+and third quartiles. Graphical presentation of the con ﬁdence
+bounds for the probability of positive clinical outcome associat-ed with concentration to MIC ratio were developed using these
+groups.
+RESULTS
+Demographic and Clinical Data
+In 68 ICUs across 10 countries, 384 patients receiving β-lactam
+antibiotics were identi ﬁed. Twenty-three patients were excluded
+because of protocol violations relating to incorrect blood sample
+timing, leaving 361 evaluable patients. The demographic and
+clinical details for the patients are described in Table 2.
+Table 2. Clinical and Demographic Characteristics of Included
+Patients
+CharacteristicAll Patients
+(n = 361)Patients Treated for
+Infection (n = 248)
+Male sex, % 65 65
+Age, y 61 (48 –73) 60 (48 –74)
+Weight, kg 75 (65 –85) 78 (65 –86)
+APACHE II score 18 (13 –24) 18 (14 –24)
+SOFA score 5 (2 –9) 6 (3 –9)
+Serum creatinine
+concentration, µmol/L77 (53 –134) 76 (53 –144)
+Calculated creatinine
+clearance, mL/min80 (42 –125) 82 (44 –125)
+Urinary creatinine clearance,
+mL/min62 (31 –107) 64 (32 –103)
+Data are presented as median (interquartile range) unless otherwise specified.
+Abbreviations: APACHE, Acute Physiology and Chronic Health Evaluation;
+SOFA, Sequential Organ Failure Assessment.
+1074 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Antibiotics were mostly used for treatment of infection
+(68.7%), with the remainder de ﬁned as therapy for prophylaxis
+of infection (31.3%). One-third of patients (32.6%) had theirantibiotic course commenced in the 24 hours prior to blood
+sampling.
+PK/PD Data
+The data describing the achievement of PK/PD targets with em-
+piric dosing are described in Table 3. The box-and-whisker
+plots in Figure 1show up to 500-fold variations in the unbound
+concentrations of some antibiotics at both the 50% and 100%sampling times. As shown by the boxplots in Figure 2, this con-
+centration variation also extended to variation of PK/PD indices
+at both time points.
+Clinical Outcome Data
+The clinical cure (positive clinical outcome) rate across patientsreceiving both treatment and prophylaxis with β-lactam antibi-
+otics was 66.5%. The most common indications for β-lactam
+therapy were lung infection (41%) and intra-abdominal infec-tions (14%). By day 30 following study enrollment, 21.9% of
+patients had died; 40.8% of these deaths were considered to
+be related to the infection. The total infection-related mortalityfor all patients was 8.9%.
+Among those treated for infection (n = 248), 144 (58.1%) pa-
+tients had a positive clinical outcome. Of the patients treated forinfection, 72.9% had a bacterial pathogen isolated, of which
+34.2% had a pathogen MIC available. Of the pathogens identi-
+ﬁed, 18% were Pseudomonas aeruginosa (median MIC, 8 mg/L
+[IQR, 2 –16]) and 16% were Escherichia coli (median MIC, 4
+mg/L [IQR 1 –16]). The rates of positive clinical outcomes for
+these groups were 66% where no pathogen was isolated, 57%
+where 1 pathogen was isolated, and 54% for polymicrobial in-fections. β-Lactam monotherapy treatment was used in 38% of
+patients (n = 67), of whom 50% of patients achieved a positive
+clinical outcome (compared with the 63% in the combinationtherapy group).
+Sixty-seven percent of patients being treated for infection re-
+ceived therapy by intermittent bolus dosing and 33% by pro-longed infusion (either an extended infusion ≥2 hours or a
+continuous infusion). Of the patients who received prolonged
+infusion, 7% did not achieve 50% fT
+>MIC compared with 20%
+of patients receiving intermittent infusion.
+Sixteen percent of patients treated for infection did not
+achieve 50% fT>MIC, and these patients were 32% less likely
+to have a positive clinical outcome (OR, 0.68 [95%CI,.52 –.91]; P= .009).
+In our multivariate regression models, only APACHE II
+score, SOFA score, and the PK/PD indices 50% fT
+>MIC and
+100% fT>MIC were signi ﬁcantly associated with the clinical out-
+come ( P< .05). The median APACHE II score for patients with
+Table 3. Antibiotic Data for Achievement of Pharmacokinetic/Pharmacodynamic Targetsain Critically Ill Patients
+Dosing and PK/PD DataAntibiotic (No. of Patients)
+Total
+(N = 361)Amoxicillin
+(n = 71)Ampicillin
+(n = 18)Cefazolin
+(n = 14)Cefepime
+(n = 14)Ceftriaxone
+(n = 33)Doripenem
+(n = 13)Piperacillin
+(n = 109)Meropenem
+(n = 89)
+Dosage per 24 hb, g 6.0 (3.5 –6.0) 12.0 (8.3 –12.0) 3.0 (3.0 –4.0) 6.0 (5.0 –6.0) 2.0 (2.0 –4.0) 1.75 (1.50 –3.0) 12.0 (12.0 –16.0) 3.0 (3.0 –4.0)
+50% fT>MIC achieved 52.1% 55.6% 100.0% 78.6% 97.0% 100.0% 80.6% 95.0% 78.9%
+50% fT>4×MIC achieved 16.9% 27.8% 50.0% 50.0% 93.9% 69.2% 48.9% 68.8% 48.9%
+100% fT>MIC achieved 18.3% 33.3% 78.6% 78.6% 93.9% 76.9% 67.0% 69.7% 60.4%
+100% fT>4×MIC achieved 11.3% 22.2% 14.3% 71.4% 87.9% 30.8% 30.3% 41.6% 35.0%
+Abbreviation: PK/PD, pharmacokinetic/pharmacodynamic.
+aSee Table 1for definitions of targets.
+bMedian (interquartile range).
+The DALI Study CID 2014:58 (15 April) 1075Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+positive and negative clinical outcomes was 18 (IQR, 13 –23)
+and 21 (IQR, 16 –27), respectively ( P< .01). An increase in
+APACHE II score by 1 point was signi ﬁcantly associated with
+a 5% increased risk of negative outcome (OR, 1.05 [95% CI,
+1.02 –1.07]). For the 50% fT>MIC and 100% fT>MIC data, a high-
+er PK/PD ratio was associated with higher likelihood of a pos-itive clinical outcome (OR, 1.02 [95% CI, 1.01 –1.04] and OR,
+1.56 [95% CI, 1.15 –2.13], respectively). The results for the
+model for the 220 patients who did not receive renal replace-ment therapy are shown in Table 4.
+The predictive value of the 50% fT
+>MIC and 100% fT>MIC
+ratio for positive clinical outcome was the same (AUROC,0.63 [95% CI, .56 –.71] and 0.63 [95% CI, .56 –.71]) for 50%
+fT>MIC and 100% fT>MIC, respectively.
+The analyses of interaction effects of sickness severity status and
+increasing 50% fT>MIC ratios on the clinical outcome revealed
+that the likelihood of positive clinical outcome is signi ﬁcantly
+higher with increasing level of ratio of antibiotic concentrationto MIC for those with lower APACHE II score, compared to
+those with higher APACHE II score (Figure 3Aand3B).
+We also examined the effect of 50% fT
+>MIC on positive clin-
+ical outcome for different types of infection. For bloodstream
+infections (n = 24), a signi ﬁcant association was clearly present
+with increasing antibiotic concentrations at 50% of the dosing
+Figure 1. The boxplot of antibiotic concentrations observed at 50% ( A) and 100% ( B) of the dosing interval. Median, interquartile range, and range are
+presented. The y-axes are presented on a log 2scale.
+Figure 2. The pharmacokinetic/pharmacodynamic (PK/PD) ratios observed at 50% ( A) and 100% ( B) of the dosing interval. A ratio of 1 is considered to be
+a minimum PK/PD target of therapy at 50% of the dosing interval. Note that the PK/PD ratio is de ﬁned as the ratio between the measured antibiotic
+concentration in plasma at 50% or 100% of the dosing interval and the patient ’s minimum inhibitory concentration (MIC) or surrogate when MIC or pathogen
+is unknown. Abbreviation: fT>MIC, time the free (unbound) antibiotic concentration was maintained above the minimum inhibitory concentration.
+1076 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+interval, resulting in a greater probability of positive clinical
+outcome (OR, 1.13 [95% CI, 1.07 –1.19]). However, neither
+lung infection (n = 104; OR, 0.99 [95% CI,.99 –1.00]) nor
+intra-abdominal infection (n = 35; OR, 1.01 [95% CI,.96 –
+1.06]) showed any signi ﬁcant associations.
+The mean and median levels of MIC for all suspected bacteria
+in all patients were 8 mg/L and 2 mg/L, respectively. The pa-
+tients with a pathogen with a MIC ≤2m g / Lw e r e2 . 3t i m e s
+more likely to achieve a positive clinical outcome (OR, 2.27[95% CI, 1.79 –2.87]).
+DISCUSSION
+This multinational point prevalence study is the ﬁrst to examine
+unbound plasma concentrations of β-lactam antibiotics andpatient outcome across a large number of ICUs. These data
+show that mid-dose and trough β-lactam concentrations vary
+widely, and as such, achievement of PK/PD targets is highly incon-
+sistent. Of great concern, one- ﬁfth of patients do not even achieve
+a minimum conservative PK/PD target, 50% fT
+>MIC.T h i ss t u d y
+has also generated interesting hypotheses related to much highertarget β-lactam pharmacokinetic exposures than would have been
+previously considered for clinical outcome of infection. The dic-
+tum of “one dose ﬁts all ”i ss h o w nh e r et ob ep r o b l e m a t i c .
+Ourﬁnding of large variations in plasma concentrations of
+β-lactam antibiotics in ICUs is in keeping with other studies.
+Recent reviews have noted the enormous pharmacokinetic var-iability of β-lactam antibiotics in critically ill patients [ 6,7];
+however, all the studies commented on in these reviews were de-
+rived from single centers or from only very few related centers.Table 4. Multivariate Regression Results of Clinical Outcome for Patients Who Did Not Receive Renal Replacement Therapy
+Model Parameters50% fT>MIC 100% fT>MIC
+OR 95% CI PValue OR 95% CI PValue
+APACHE II score 0.94 .92 –.96 <.001 0.94 .92 –.96 .97
+SOFA score 0.97 .94 –1.00 .053 0.97 .94 –1.01 .13
+50% fT>MIC 1.03 1.01 –1.04 .001 . . .
+100% fT>MIC . . . 1.02 1.01 –1.05 .040
+AIC 1758.60
+BIC 1785.07
+Data are presented as estimates of odds ratios (95% CI) and Pvalues. Abbreviations: AIC, Akaike information criteria; APACHE, Acute Physiology and Chronic Health
+Evaluation II; BIC, Bayesian information criteria; CI, confidence interval; fT>MIC , time the free (unbound) antibiotic concentration was maintained above the minimum
+inhibitory concentration; OR, odds ratio; SOFA, Sequential Organ Failure Assessment.
+Figure 3. A, The effect of an increasing pharmacokinetic/pharmacodynamic (PK/PD) ratio at 50% of the dosing interval (ratio A) in interaction with Acute
+Physiology and Chronic Health Evaluation II (APACHE II) score on the probability of positive clinical outcome (n = 248; y-axis). B, The effect of PK/PD ratio at
+50% of the dosing interval (ratio A) in interaction with APACHE II score on the probability of positive clinical outcome for patients not receiving ren al
+replacement therapy (n = 220; y-axis). The estimated probabilities of positive clinical outcome along with its 95% con ﬁdence interval are presented for
+the less critically ill patient group (APACHE II score within lowest quartile of 0 –14 points; solid black lines) as well as the more critically ill patient group
+(APACHE II score within the third quartile of 18 –24 points; dashed line). Abbreviations: CI, con ﬁdence interval; MIC, minimum inhibitory concentration.
+The DALI Study CID 2014:58 (15 April) 1077Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+These studies are valuable because they demonstrate how anti-
+biotic concentrations in different types of patients will differ
+from non –critically ill patients. Such data are essential for artic-
+ulating how antibiotic dosing regimens that meet the speci ﬁc
+needs of these patients could be developed given that present
+regimens are not tested in these most severely ill patients bypharmaceutical companies.
+Antibiotics discovered and evaluated in vitro are tested in an-
+imals initially for toxicity, and subsequently for ef ﬁcacy. The an-
+tibiotic dose and frequency are based on these in vitro or animalin vivo PK/PD studies. These dosing regimens are then tested
+on healthy human volunteers for tolerability, with clinical ef ﬁ-
+cacy studies undertaken in non –critically ill patients. After the
+launch of the drug onto the general market, the same dosing
+regimen is used in critically ill patients; however, this is likely
+to lead to suboptimal outcomes in the ICU. Critically ill patientshave altered volumes of distribution for antibiotics [ 19,20], and,
+unlike other patient groups, need larger initial doses to rapidly
+achieve therapeutic concentrations [ 21]. These patients may
+have augmented renal clearances needing either higher dosesor more frequent dosing to overcome increased drug elimina-
+tion [ 22,23]. Critically ill patients often have low plasma albu-
+min concentrations [ 24] that alters the protein binding of drugs
+and has signi ﬁcant effects on pharmacokinetics [ 25,26].
+Given such potential for variability, it is not surprising that
+we found that one- ﬁfth of patients did not achieve the most
+conservative PK/PD target and <50% of patients achieved
+what we a priori de ﬁned as a preferred PK/PD target (Table 3).
+Furthermore, the variability of unbound concentrations acrossall antibiotics (Figure 1) as well as PK/PD ratios (Figure 2) were
+similarly large.
+The consequences of insuf ﬁcient antibiotic exposure may be
+severe, with clear relationships being demonstrated between an-tibiotic underdosing and the development of antibiotic resis-
+tance [ 27]. This link was initially shown with inappropriately
+low quinolone exposures [ 28], but more recently with other
+classes of antibiotics including β-lactams [ 29,30]. ICUs are
+known to harbor multidrug-resistant pathogens and, although
+there are many reasons for this, optimized dosing that minimiz-es the evolution of such pathogens should be considered a
+method to improve patient and health system outcomes.
+The secondary objective of this study was to compare antibi-
+otic PK/PD with observed clinical outcomes. An interesting
+ﬁnding in our study is the observed signi ﬁcant interaction effect
+of varying sickness severity while evaluating the dose-responserelationship. The patterns of probability of positive clinical out-come associated with increasing level of PK/PD ratio were
+markedly different for higher and lower levels of disease severity
+levels (Figure 3). This novel analysis approach delineates the ef-
+fect of antibiotic exposure more accurately. We found that the
+magnitude of the β-lactam exposures necessary to achieve apositive clinical outcome is particularly noteworthy and gener-
+ates interesting research questions for future study.
+The results of the DALI study support the conclusions of pre-
+vious small studies that better outcomes for critically ill patients
+can be expected with higher drug exposures, at least for less se-
+verely ill patients [ 12,13]. These data now support the conduct
+of an interventional study comparing critically ill patient out-
+comes with different PK/PD targets to de ﬁnitively determine
+what antibiotic exposures should be targeted in these patients.
+This study has notable limitations. While it is a prospectively
+designed point prevalence study, it is merely a snapshot picture
+ofβ-lactam antibiotic concentrations in critically ill patients on
+as i n g l ed a y[ 14]. Although we collected data on concomitant
+antibiotics, we did not assess the PK/PD of those antibiotics,
+nor did we assess duration of therapy of combination or mono-
+therapy. Furthermore, pathogens were only grown in 73% of pa-tients, and the actual MIC was only available in 34% of these
+patients, meaning that assumptions were necessary for the re-
+maining patients. Such assumptions were of a worst-case sce-nario, which we believe is highly acceptable as this is thecontext governing empiric dose selection. If the infections
+were mediated by more susceptible bacteria than were assumed,
+the PK/PD ratios would actually have been higher than those wedescribed here. Finally, we have not speci ﬁcally looked at drug
+concentrations at the site of infection, because of the technical
+challenges in performing such a large-scale evaluation. Howev-er, our data interestingly show that for bloodstream infections,
+where antibiotic concentrations were measured, a strong PK/PD
+relationship was present.
+CONCLUSIONS
+The implications of this large study performed across 68 ICUs are
+profound. These data show that many patients fall below PK/PDtargets (less than the most conservative PK/PD target in 20% of
+patients, and less than our suggested target in 50%). The results
+suggest that ICU clinicians should re ﬁne dosing strategies for crit-
+ically ill patients to optimize β-lactam antibiotic outcomes. With
+the signi ﬁcant pharmacokinetic variability observed, a more per-
+sonalized approach to antibiotic dosing would need to be adopt-
+ed to ensure that target drug exposures are assured.
+Notes
+Author contributions. J. A. R. and J. L. designed the study and wrote the
+initial protocol. S. K. P. and J. A. R. performed the modeling and data anal-
+yses. All authors helped conduct the trial and provided advice and input into
+the design and interpretation of the data and the drafting of the manuscript.
+Disclaimer. The funding organizations did not have a role in study de-
+sign, analysis, or drafting of the manuscript.
+Financial support. This work was supported by the European Society
+of Intensive Care Medicine (ESICM) European Critical Care Research Net-
+work (ECCRN), the Royal Brisbane and Women ’s Hospital Foundation, and
+the Antimicrobial Use in ICU Working Group in the Infection Section of
+1078 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+the ESICM. J. A. R. is funded by a Career Development Fellowship from the
+National Health and Medical Research Council of Australia (APP1048652).
+Potential con ﬂicts of interest. All authors: No reported con ﬂicts.
+All authors have submitted the ICMJE Form for Disclosure of Potential
+Conﬂicts of Interest. Con ﬂicts that the editors consider relevant to the
+content of the manuscript have been disclosed.
+References
+1. Vincent JL, Rello J, Marshall J, et al. International study of the preva-
+lence and outcomes of infection in intensive care units. JAMA 2009 ;
+302: 2323 –9.
+2. Kumar A, Roberts D, Wood KE, et al. Duration of hypotension before
+initiation of effective antimicrobial therapy is the critical determinant of
+survival in human septic shock. Crit Care Med 2006 ; 34: 1589 –96.
+3. Harbarth S, Garbino J, Pugin J, Romand JA, Lew D, Pittet D. Inappro-
+priate initial antimicrobial therapy and its effect on survival in a clinical
+trial of immunomodulating therapy for severe sepsis. Am J Med 2003 ;
+115: 529 –35.
+4. MacArthur RD, Miller M, Albertson T, et al. Adequacy of early empiric
+antibiotic treatment and survival in severe sepsis: experience from the
+MONARCS trial. Clin Infect Dis 2004 ; 38: 284 –8.
+5. Udy AA, Roberts JA, Dewaele J, Paterson DL, Lipman J. What's behind
+the failure of emerging antibiotics in the critically ill? Understanding
+the impact of altered pharmacokinetics and augmented renal clearance.
+Int J Antimicrob Agents 2012 ; 39: 455 –7.
+6. Goncalves-Pereira J, Povoa P. Antibiotics in critically ill patients: a sys-
+tematic review of the pharmacokinetics of beta-lactams. Crit Care 2011 ;
+15: R206.
+7. Sime F, Roberts MS, Peake SL, Lipman J, Roberts JA. Does beta-lactam
+pharmacokinetic variability in critically ill patients justify therapeuticdrug monitoring? A systematic review. Ann Intensive Care 2012 ; 2: 35.
+8. Lipman J, Udy AA, Roberts JA. Do we understand the impact of altered
+physiology, consequent interventions, and resultant clinical scenarios in
+ICU? The antibiotic story. Anaesth Intens Care 2011 ; 39: 999 –1000.
+9. Craig WA. Pharmacokinetic/pharmacodynamic parameters: rationale
+for antibacterial dosing of mice and men. Clin Infect Dis 1998 ; 26:
+1–10; quiz 1 –2.
+10. Mouton JW, den Hollander JG. Killing of Pseudomonas aeruginosa dur-
+ing continuous and intermittent infusion of ceftazidime in an in vitro
+pharmacokinetic model. Antimicrob Agents Chemother 1994 ; 38:
+931–6.
+11. Drusano GL. Antimicrobial pharmacodynamics: critical interactions of
+‘bug and drug. ’Nat Rev Microbiol 2004 ; 2: 289 –300.
+12. Li C, Du X, Kuti JL, Nicolau DP. Clinical pharmacodynamics of mero-
+penem in patients with lower respiratory tract infections. Antimicrob
+Agents Chemother 2007 ; 51: 1725 –30.
+13. McKinnon PS, Paladino JA, Schentag JJ. Evaluation of area under the
+inhibitory curve (AUIC) and time above the minimum inhibitory con-centration (T
+>MIC) as predictors of outcome for cefepime and ceftazi-
+dime in serious bacterial infections. Int J Antimicrob Agents 2008 ;
+31: 345 –51.
+14. Roberts JA, De Waele JJ, Dimopoulos G, et al. DALI: De ﬁning Antibi-
+otic Levels in Intensive care unit patients: a multi-centre point ofprevalence study to determine whether contemporary antibiotic dosing
+for critically ill patients is therapeutic. BMC Infect Dis 2012 ; 12: 152.
+15. Knaus WA, Draper EA, Wagner DP, Zimmerman JE. APACHE II: a
+severity of disease classi ﬁcation system. Crit Care Med 1985 ; 13:
+818–29.
+16. Vincent JL, de Mendonca A, Cantraine F, et al. Use of the SOFA score to
+assess the incidence of organ dysfunction/failure in intensive care units:
+results of a multicenter, prospective study. Working group on “sepsis-
+related problems ”of the European Society of Intensive Care Medicine.
+Crit Care Med 1998 ; 26: 1793 –800.
+17. Briscoe SE, McWhinney BC, Lipman J, Roberts JA, Ungerer JP. A meth-
+od for determining the free (unbound) concentration of ten beta-lactam
+antibiotics in human plasma using high performance liquid chromatog-
+raphy with ultraviolet detection. J Chromatogr 2012 ; 907: 178 –84.
+18. Nagler J. Scobit: an alternative estimator to logit and probit. Am J Pol
+Sci1994 ; 38: 230 –55.
+19. Marik PE. Aminoglycoside volume of distribution and illness severity in
+critically ill septic patients. Anaesth Intensive Care 1993 ; 21: 172 –3.
+20. Gous AG, Dance MD, Lipman J, Luyt DK, Mathivha R, Scribante J.
+Changes in vancomycin pharmacokinetics in critically ill infants.
+Anaesth Intensive Care 1995 ; 23: 678 –82.
+21. Roberts JA, Taccone FS, Udy AA, Vincent JL, Jacobs F, Lipman J. Van-
+comycin dosing in critically ill patients: robust methods for improved
+continuous-infusion regimens. Antimicrob Agents Chemother 2011 ;
+55: 2704 –9.
+22. Udy AA, Roberts JA, Boots RJ, Paterson DL, Lipman J. Augmented
+renal clearance: implications for antibacterial dosing in the criticallyill. Clin Pharmacokinet 2010 ; 49: 1 –16.
+23. Udy AA, Varghese JM, Altukroni M, et al. Sub-therapeutic initial beta-
+lactam concentrations in select critically ill patients: association between
+augmented renal clearance and low trough drug concentrations. Chest
+2012 ; 142: 30 –9.
+24. Finfer S, Bellomo R, McEvoy S, Lo SK, Myburgh J, Neal B, et al. Effect of
+baseline serum albumin concentration on outcome of resuscitation with
+albumin or saline in patients in intensive care units: analysis of data
+f r o mt h es a l i n ev e r s u sa l b u m i n ﬂuid evaluation (SAFE) study. BMJ
+2006 ; 333: 1044.
+25. Ulldemolins M, Roberts JA, Rello J, Paterson DL, Lipman J. The effects
+of hypoalbuminaemia on optimising antibiotic dosing in critically ill
+patients. Clin Pharmacokinet 2011 ; 50: 1 –12.
+26. Roberts JA, Pea F, Lipman J. The clinical relevance of plasma protein
+binding changes. Clin Pharmacokinet 2013 ; 52: 1 –8.
+27. Roberts JA, Kruger P, Paterson DL, Lipman J. Antibiotic resistance —
+what ’s dosing got to do with it? Crit Care Med 2008 ; 36: 2433 –40.
+28. Stamey TA, Bragonje J. Resistance to nalidixic acid. A misconception
+due to underdosage. JAMA 1976 ; 236: 1857 –60.
+29. Fantin B, Farinotti R, Thabaut A, Carbon C. Conditions for the emer-
+gence of resistance to cefpirome and ceftazidime in experimental endo-
+carditis due to Pseudomonas aeruginosa . J Antimicrob Chemother
+1994 ; 33: 563 –9.
+30. Gugel J, Dos Santos Pereira A, Pignatari AC, Gales AC. Beta-lactam
+MICs correlate poorly with mutant prevention concentrations for clin-
+ical isolates of Acinetobacter spp. and Pseudomonas aeruginosa . Anti-
+microb Agents Chemother 2006 ; 50: 2276 –7.
+The DALI Study CID 2014:58 (15 April) 1079Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Appendix. DALI (De ﬁning Antibiotic Levels in Intensive Care) Study Group
+Author Name Affiliation
+Jason A. Roberts Burns Trauma and Critical Care Research Centre, The University of Queensland, Brisbane, Australia
+Royal Brisbane and Women ’s Hospital, Brisbane, Australia
+Jeffrey Lipman Burns Trauma and Critical Care Research Centre, The University of Queensland, Brisbane, Australia
+Royal Brisbane and Women ’s Hospital, Brisbane, Australia
+Therese Starr Royal Brisbane and Women ’s Hospital, Brisbane, Australia
+Steven C. Wallis Burns Trauma and Critical Care Research Centre, The University of Queensland, Brisbane, Australia
+Sanjoy K. Paul Queensland Clinical Trials & Biostatistics Centre, School of Population Health, The University of
+Queensland, Brisbane, Australia
+Antonio Margarit Ribas Hospital Nostra Senyora de Meritxell, Escaldes-Engordany, Andorra
+Jan J. De Waele Ghent University Hospital, Ghent, Belgium
+Luc De Crop Ghent University Hospital, Ghent, BelgiumHerbert Spapen Universitair Ziekenhuis Brussels, Brussels, Belgium
+Joost Wauters Universitair Ziekenhuis Gasthuisberg, Leuven, Brussels
+Thierry Dugernier Clinique Saint Pierre, Ottignies, BelgiumPhilippe Jorens Universitair Ziekenhuis Antwerpen, Edegem, Belgium
+Ilse Dapper Algemeen Ziekenhuis Monica, Deurne, Belgium
+Daniel De Backer Erasme University Hospital, Brussels, BelgiumFabio S. Taccone Erasme University Hospital, Brussels, Belgium
+Jordi Rello Vall d ’Hebron Institut of Research. Universitat Autonoma de Barcelona, Spain Centro de Investigación
+Biomedica En Red- Enfermedades Respiratorias (CibeRes)
+Laura Ruano Vall d ’Hebron Institut of Research; Universitat Autonoma de Barcelona, Spain Centro de Investigación
+Biomedica En Red- Enfermedades Respiratorias (CibeRes)
+Elsa Afonso Hospital Universitari Vall d ’Hebron; Vall d ’Hebron Institut of Research. Universitat Autonoma de
+Barcelona, Spain Centro de Investigación Biomedica En Red- Enfermedades Respiratorias
+(CibeRes)
+Francisco Alvarez-Lerma Hospital Del Mar, Parc Salut Mar. Barcelona, SpainMaria Pilar Gracia-Arnillas Hospital Del Mar, Parc Salut Mar. Barcelona, Spain
+Francisco Fernández Centro Médico Delfos, Barcelona
+Neus Feijoo Hospital General de L ’Hospitalet, Barcelona, Spain
+Neus Bardolet Hospital General de L ’Hospitalet, Barcelona, Spain
+Assumpta Rovira Hospital General de L ’Hospitalet, Barcelona, Spain
+Pau Garro Hospital General de Granollers, Barcelona, SpainDiana Colon Hospital General de Granollers, Barcelona, Spain
+Carlos Castillo Hospital Txagorritxu, Vitoria, Spain
+Juan Fernado Hospital Txagorritxu, Vitoria, SpainMaria Jesus Lopez Hospital Universitario de Burgos. Burgos, Spain
+Jose Luis Fernandez Hospital Universitario de Burgos. Burgos, Spain
+Ana Maria Arribas Hospital Universitario de Burgos. Burgos, SpainJose Luis Teja Hospital Universitario Marques de Valdecilla, Santander, Spain
+Elsa Ots Hospital Universitario Marques de Valdecilla, Santander, Spain
+Juan Carlos Montejo Hospital Universitario 12 de Octubre, Madrid, SpainMercedes Catalan Hospital Universitario 12 de Octubre, Madrid, Spain
+Isidro Prieto Hospital Ramon y Cajal, Madrid, Spain
+Gloria Gonzalo Hospital Ramon y Cajal, Madrid, SpainBeatriz Galvan Hospital Universitario La Paz, Madrid, Spain
+Miguel Angel Blasco Hospital Universitario Severo Ochoa, Madrid, Spain
+Estibaliz Meyer Hospital Universitario Severo Ochoa, Madrid, SpainFrutos Del Nogal Hospital Universitario Severo Ochoa, Madrid, Spain
+Loreto Vidaur Hospital Universitario de Donostia, Donostia, Spain
+Rosa Sebastian Hospital Universitario de Donostia, Donostia, SpainPila Marco Garde Hospital Universitario de Donostia, Donostia, Spain
+1080 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Appendix continued.
+Author Name Affiliation
+Maria del Mar Martin Velasco Hospital Universitario Nuestra Señora de Candelaria, Spain
+Rafael Zaragoza Crespo Hospital Universitario Dr. Peset, Spain
+Mariano Esperatti Institut Clínic del Tòrax, Hospital Clinic, IDIBAPS, Barcelona, Spain; Centro de Investigación
+Biomedica En Red-Enfermedades Respiratorias (CibeRes)
+Antoni Torres Institut Clínic del Tòrax, Hospital Clinic, IDIBAPS, Barcelona, Spain; Centro de Investigación
+Biomedica En Red- Enfermedades Respiratorias (CibeRes)
+Philippe Montravers Centre Hospitalier Universitaire Bichat-Claude Bernard, AP-HP, Université Paris VII, Paris, France
+Olivier Baldesi Centre Hospitalier Pays D Aix, Aix en Provence, France and AzuRea GroupHerve Dupont Centre Hospitalier Universitaire d ’Amiens, Amiens, France
+Yazine Mahjoub Centre Hospitalier-Universitaire d ’Amiens, Amiens, France and AzuRea Group
+Sigismond Lasocki Centre Hospitalier-Universitaire d ’Angers, Angers, France
+Jean Michel Constantin Centre Hospitalier Universitaire de Clermont-Ferrand, Clermont-Ferrand, France and AzuRea Group
+Jean François Payen Centre Hospitalier-Universitaire Grenoble, Grenoble France and AzuRea Group
+Claude Martin Hopital Nord, Marseille, France; AzuRea Group, FranceJacques Albanese Hopital Nord, Marseille, France and AzuRea Group
+Yannick Malledant Hôpital Pontchaillou, Rennes, France
+Julien Pottecher University Hospital, Strasbourg, France and AzuRea GroupJean-Yves Lefrant Centre Hospitalier-Universitaire Nimes, Nimes France and AzuRea Group
+Samir Jaber Hospitalier-Universitaire Montpellier, Montpellier, France and AzuRea Group
+Olivier Joannes-Boyau Centre Hospitalier-Universitaire Bordeaux, Bordeaux, France and AzuRea GroupChristophe Orban Centre Hospitalier-Universitaire Nice, Nice, France and AzuRea Group
+Marlies Ostermann St Thomas ’Hospital, London, United Kingdom
+Cathrine McKenzie St Thomas ’Hospital, London, United Kingdom
+William Berry St Thomas ’Hospital, London, United Kingdom
+John Smith St Thomas ’Hospital, London, United Kingdom
+Katie Lei St Thomas ’Hospital, London, United Kingdom
+Francesca Rubulotta Charing Cross Hospital, Imperial Healthcare NHS Trust, London, United Kingdom
+Anthony Gordon Charing Cross Hospital, Imperial Healthcare NHS Trust, London, United Kingdom
+Stephen Brett Hammersmith Hospital, Imperial Healthcare NHS Trust, London, United KingdomMartin Stotz St Mary ’s Hospital, Imperial Healthcare NHS Trust, London, United Kingdom
+Maie Templeton St Mary ’s Hospital, Imperial Healthcare NHS Trust, London, United Kingdom
+Andrew Rhodes St George ’s Hospital, St George ’s Healthcare NHS Trust, London, United Kingdom
+Claudia Ebm St George ’s Hospital, St George ’s Healthcare NHS Trust, London, United Kingdom
+Carl Moran St George ’s Hospital, St George ’s Healthcare NHS Trust, London, United Kingdom
+Kirsi-Maija Kaukonen Helsinki University Central Hospital, Helsinki, FinlandVille Pettilä Helsinki University Central Hospital, Helsinki, Finland
+George Dimopoulos Attikon University Hospital, Athens, Greece
+Despoina Koulenti Attikon University Hospital, Athens, GreeceAglaia Xristodoulou Attikon University Hospital, Athens, Greece
+Vassiliki Theodorou University Hospital of Alexandroupolis, Alexandroupolis, Greece
+Georgios Kouliatsis University Hospital of Alexandroupolis, Alexandroupolis, GreeceEleni Sertaridou University Hospital of Alexandroupolis, Alexandroupolis, Greece
+Georgios Anthopoulos 251 Air Force General Hospital of Athens, Athens, Greece
+George Choutas 251 Air Force General Hospital of Athens, Athens, GreeceThanos Rantis 251 Air Force General Hospital of Athens, Athens, Greece
+Stylianos Karatzas General Hospital of Athens ‘Hippokrateion, ’Athens, Greece
+Margarita Balla General Hospital of Athens ‘Hippokrateion, ’Athens, Greece
+Metaxia Papanikolaou General Hospital of Athens ‘Hippokrateion, ’Athens, Greece
+Pavlos Myrianthefs ‘Aghioi Anargyroi ’Hospita, Athens, Greece
+Alexandra Gavala ‘Aghioi Anargyroi ’Hospita, Athens, Greece
+Georgios Fildisis ‘Aghioi Anargyroi ’Hospita, Athens, Greece
+The DALI Study CID 2014:58 (15 April) 1081Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Appendix continued.
+Author Name Affiliation
+Antonia Koutsoukou Sotiria General Hospital, Athens, Greece
+Magdalini Kyriakopoulou Sotiria General Hospital, Athens, Greece
+Kalomoira Petrochilou Sotiria General Hospital, Athens, Greece
+Maria Kompoti ‘Thriassio ’General Hospital of Eleusi, Athens, Greece
+Martha Michalia ‘Thriassio ’General Hospital of Eleusi, Athens, Greece
+Fillis-Maria Clouva-Molyvdas ‘Thriassio ’General Hospital of Eleusi, Athens, Greece
+Georgios Gkiokas Aretaieion University Hospital, Athens, GreeceFotios Nikolakopoulos Aretaieion University Hospital, Athens, Greece
+Vasiliki Psychogiou Aretaieion University Hospital, Athens, Greece
+Polychronis Malliotakis University Hospital Herakleion, Crete, GreeceEvangelia Akoumianaki University Hospital Herakleion, Crete, Greece
+Emmanouil Lilitsis University Hospital Herakleion, Crete, Greece
+Vassilios Koulouras University Hospital of Ioannina, Ioannina, GreeceGeorge Nakos University Hospital of Ioannina, Ioannina, Greece
+Mihalis Kalogirou University Hospital of Ioannina, Ioannina, Greece
+Apostolos Komnos General Hospital of Larisa, Larisa, GreeceTilemachos Zafeiridis General Hospital of Larisa, Larisa, Greece
+Christos Chaintoutis General Hospital of Larisa, Larisa, Greece
+Kostoula Arvaniti General Hospital of Thessaloniki ‘G. Papageorgiou, ’Thessaloniki, Greece
+Dimitrios Matamis General Hospital of Thessaloniki ‘G. Papageorgiou, ’Thessaloniki, Greece
+Christos Chaintoutis General Hospital of Thessaloniki ‘G. Papageorgiou, ’Thessaloniki, Greece
+Christina Kydona General Hospital of Thessaloniki ‘Hippokrateion, ’Thessaloniki, Greece
+Nikoleta Gritsi-Gerogianni General Hospital of Thessaloniki ‘Hippokrateion, ’Thessaloniki, Greece
+Tatiana Giasnetsova General Hospital of Thessaloniki ‘Hippokrateion, ’Thessaloniki, Greece
+Maria Giannakou Ahepa University Hospital, Thessaloniki, GreeceIoanna Soultati Ahepa University Hospital, Thessaloniki, Greece
+Ilias Chytas Ahepa University Hospital, Thessaloniki, Greece
+Eleni Antoniadou General Hospital ‘G. Gennimatas, ’Thessaloniki, Greece
+Elli Antipa General Hospital ‘G. Gennimatas, ’Thessaloniki, Greece
+Dimitrios Lathyris General Hospital ‘G. Gennimatas, ’Thessaloniki, Greece
+Triantafyllia Koukoubani General Hospital of Trikala, Trikala, GreeceTheoniki Paraforou General Hospital of Trikala, Trikala, Greece
+Kyriaki Spiropoulou General Hospital of Trikala, Trikala, Greece
+Vasileios Bekos Naval Hospital of Athens, Athens, GreeceAnna Spring Naval Hospital of Athens, Athens, Greece
+Theodora Kalatzi Naval Hospital of Athens, Athens, Greece
+Hara Nikolaou ‘Aghia Olga-Konstantopouleion ’General Hospital, Athens, Greece
+Maria Laskou ‘Aghia Olga-Konstantopouleion ’General Hospital, Athens, Greece
+Ioannis Strouvalis ‘Aghia Olga-Konstantopouleion ’General Hospital, Athens, Greece
+Stavros Aloizos General Hospital of Athens ‘NIMITS, ’Athens, Greece
+Spyridon Kapogiannis General Hospital of Athens ‘
+NIMITS, ’Athens, Greece
+Ourania Soldatou General Hospital of Athens ‘NIMITS, ’Athens, Greece
+Matteo Bassetti Azienda Ospedaliera Universitaria Santa Maria della Misericordia, Udine, ItalyChiara Adembri Azienda Ospedaliero Universitaria Careggi, Florence, Italy
+Gianluca Villa Azienda Ospedaliero Universitaria Careggi, Florence, Italy
+Antonio Giarratano Università degli Studi di Palermo, Palermo, ItalySanti Maurizio Raineri Università degli Studi di Palermo, Palermo, Italy
+Andrea Cortegiani Università degli Studi di Palermo, Palermo, Italy
+Francesca Montalto Università degli Studi di Palermo, Palermo, ItalyMaria Teresa Strano Università degli Studi di Palermo, Palermo, Italy
+1082 CID 2014:58 (15 April) Roberts et alDownloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+
+Appendix continued.
+Author Name Affiliation
+V. Marco Ranieri San Giovanni-Battista Molinette, Turin, Italy
+Claudio Sandroni Catholic University School of Medicine, Rome, Italy
+Gennaro De Pascale Catholic University School of Medicine, Rome, Italy
+Alexandre Molin University of Genoa, Genoa, ItalyPaolo Pelosi University of Genoa, Genoa, Italy
+Luca Montagnani Universitaria San Martino, Genova, Italy
+Rosario Urbino Universitaria S.Giovanni Battista della Città di Torino, Torino, ItalyIlaria Mastromauro Universitaria S.Giovanni Battista della Città di Torino, Torino, Italy
+Francesco G. De Rosa Universitaria S.Giovanni Battista della Città di Torino, Torino, Italy
+V. Marco Ranieri Universitaria S.Giovanni Battista della Città di Torino, Torino, ItalyTeresa Cardoso Hospital de Santo António, Porto, Portugal
+Susana Afonso Hospital de St António dos Capuchos, Lisbon, Portgual
+João Gonçalves-Pereira Hospital de São Francisco Xavier, Lisbon, PortugalJoão Pedro Baptista Hospital de Universidade de Coimbra, Coimbra, Portugal
+Murat Akova Hacettepe University School of Medicine, Ankara, Turkey
+Arife Özveren Hacettepe University School of Medicine, Ankara, Turkey
+The DALI Study CID 2014:58 (15 April) 1083Downloaded from https://academic.oup.com/cid/article/58/8/1072/356400 by GOTEBORGS UNIVERSITETSBIBLIOTEK. BIOMEDICINSKA BIBLIOTEKET user on 06 April 2026
+

@@ -1,0 +1,686 @@
+Effect of Piperacillin-Tazobactam vs Meropenem on 30-Day
+Mortality for Patients With E coli orKlebsiella pneumoniae
+Bloodstream Infection and Ceftriaxone ResistanceARandomizedClinicalTrial
+PatrickN.A.Harris,MBBS;PaulA.Tambyah,MD;DavidC.Lye,MBBS;YinMo,MBBS;TauH.Lee,MBBS;MesutYilmaz,MD;
+ThamerH.Alenazi,MD;YaseenArabi,MD;MarcoFalcone,MD;MatteoBassetti,MD,PhD;EldaRighi,MD,PhD;BenjaminA.Rogers,MBBS,PhD;SouhaKanj,MD;HasanBhally,MBBS;JonIredell,MBBS,PhD;MarcMendelson,MBBS,PhD;TomH.Boyles,MD;DavidLooke,MBBS;SpirosMiyakis,MD,PhD;GenevieveWalls,MB,ChB;MohammedAlKhamis,MD;AhmedZikri,PharmD;AmyCr owe,MBBS;PaulIngram,MBBS;
+NickDaneman,MD;PaulGriffin,MBBS;EugeneAthan,MBBS,MPH,PhD;PenelopeLorenc,RN;PeterBaker,PhD;LeahRoberts,BSc;ScottA.Beatson,PhD;AntonY.Peleg,MBBS,PhD;TiffanyHarris-Brown,RN,MPH;DavidL.Paterson,MBBS,PhD;fortheMERINOTrialInvestigatorsandtheAustralasianSocietyforInfectiousDiseaseClinicalResearchNetwork(ASID-CRN)
+IMPORTANCE
+Extended-spectrumβ-lactamasesmediateresistancetothird-generation
+cephalosporins(eg,ceftriaxone)in Escherichia coli andKlebsiella pneumoniae. Significant
+infectionscausedbythesestrainsareusuallytreatedwithcarbapenems,potentiallyselectingforcarbapenemresistance.Piperacillin-tazobactammaybeaneffective“carbapenem-sparing”optiontotreatextended-spectrumβ-lactamaseproducers.
+OBJECTIVES Todeterminewhetherdefinitivetherapywithpiperacillin-tazobactamis
+noninferiortomeropenem(acarbapenem)inpatientswithbloodstreaminfectioncausedbyceftriaxone-nonsusceptible E coliorK pneumoniae .
+DESIGN, SETTING, AND PARTICIPANTS Noninferiority,parallelgroup,randomizedclinicaltrial
+includedhospitalizedpatientsenrolledfrom26sitesin9countriesfromFebruary2014toJuly2017.Adultpatientswereeligibleiftheyhadatleast1positivebloodculturewith E colior
+Klebsiella spptestingnonsusceptibletoceftriaxonebutsusceptibletopiperacillin-
+tazobactam.Of1646patientsscreened,391wereincludedinthestudy.
+INTERVENTIONS Patientswererandomlyassigned1:1tointravenouspiperacillin-tazobactam,
+4.5g,every6hours(n = 188participants)ormeropenem,1g,every8hours(n = 191participants)foraminimumof4days,uptoamaximumof14days,withthetotaldurationdeterminedbythetreatingclinician.
+MAIN OUTCOMES AND MEASURES Theprimaryoutcomewasall-causemortalityat30days
+afterrandomization.Anoninferioritymarginof5%wasused.
+RESULTS Among379patients(meanage,66.5years;47.8%women)whowererandomized
+appropriately,receivedatleast1doseofstudydrug,andwereincludedintheprimaryanalysispopulation,378(99.7%)completedthetrialandwereassessedfortheprimaryoutcome.Atotalof23of187patients(12.3%)randomizedtopiperacillin-tazobactammettheprimaryoutcomeofmortalityat30dayscomparedwith7of191(3.7%)randomizedtomeropenem(riskdifference,8.6%[1-sided97.5%CI,− /H11009to14.5%]; P=.90fornoninferiority).Effectswereconsistentinan
+analysisoftheper-protocolpopulation.Nonfatalseriousadverseeventsoccurredin5of188patients(2.7%)inthepiperacillin-tazobactamgroupand3of191(1.6%)inthemeropenemgroup.
+CONCLUSIONS AND RELEVANCE Amongpatientswith E coliorK pneumoniae bloodstream
+infectionandceftriaxoneresistance,definitivetreatmentwithpiperacillin-tazobactamcomparedwithmeropenemdidnotresultinanoninferior30-daymortality.Thesefindingsdonotsupportuseofpiperacillin-tazobactaminthissetting.
+TRIAL REGISTRATION anzctr.org.auIdentifiers: ACTRN12613000532707 and
+ACTRN12615000403538 andClinicalTrials.govIdentifier: NCT02176122
+JAMA.2018;320(10):984-994.doi: 10.1001/jama.2018.12163
+CorrectedonJune18,2019.Editorialpage979
+VideoandSupplemental
+content
+CME Quiz at
+jamanetwork.com/learningandCME Questions page1033
+Author Affiliations: Author
+affiliationsarelistedattheendofthisarticle.
+Group Information: MERINOTrial
+InvestigatorsandtheAustralasianSocietyforInfectiousDiseaseClinicalResearchNetwork(ASID-CRN)arelistedattheendofthisarticle.
+Corresponding Author: DavidL.
+Paterson,MBBS,PhD,UniversityofQueenslandCentreforClinicalResearch,FacultyofMedicine,Bldg71/918RoyalBrisbane&Women'sHospitalCampus,Herston,QLD4029,Australia(d.paterson1@uq.edu.au ).Research
+JAMA | Original Investigation
+984 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+Gram-negative bacteria that produce extended-
+spectrum β-lactamase (ESBL) enzymes are a globalpublic health concern.
+1Based on national surveil-
+lancedatafrom2011,theUSCentersforDiseaseControlandPrevention estimated that ESBL producers accounted for atleast26000infectionsand1700deathsannually.
+2Akeyfea-
+tureofESBL-producing Enterobacteriaceae isphenotypicre-
+sistancetooxyiminocephalosporins,inadditiontopenicillins.3
+ESBLproducersareincreasinglycommonplaceinbothcom-munityandhealthcaresettings.
+4Carbapenemshavebeenre-
+gardedasthetreatmentofchoiceforseriousinfectionscausedby ESBL producers.
+3,5However, incr eased use of carbapen-
+ems may select for carbapenem resistance in gram-negativebacilli,
+6,7whichcurrentlyrepresentsthegreatestthreatinterms
+ofantibioticresistance.
+Onestrategytoreducetheglobaluseofcarbapenemscould
+be to reevaluate alternative agents (ie, carbapenem-sparingregimens).β-Lactam/β-lactamaseinhibitor(BLBLI)combina-tion antibiotics, such as piperacillin-tazobactam, have beenconsideredacarbapenem-sparingoptionfortreatmentofESBLproducers.
+8,9ESBLenzymesareinhibitedbytazobactam,and
+ESBLproducersarefrequentlysusceptibletoBLBLIsinvitro.
+Some observational studies have suggested that BLBLIs
+may be clinically effective for treating infections caused byESBLproducers,
+10-13butconflictingresultshavebeenreported.14
+This study aimed to test the hypothesis that a carbapenem-sparingregimen(piperacillin-tazobactam)isnoninferiortoacar-bapenem (meropenem) for the definitive treatment of blood-stream infection (BSI) caused by ceftriaxone-nonsusceptibleEscherichia coli orKlebsiella spp that test susceptible to
+piperacillin-tazobactam.
+Methods
+Study Design and Inclusion Criteria
+ThetrialprotocolwasdevelopedbytheAustralasianSocietyforInfectiousDiseaseClinicalResearchNetworkandhasbeenpreviously published.
+15The full protocol is provided in
+Supplement 1 . The protocol was designed to be pragmatic
+andreflectusualclinicalcare(PRECIS-2diagram16;eFigure7
+inSupplement 2 ). The institutional review board for each
+recruitingcenterapprovedtheprotocol.Writteninformedcon-sent was obtained from all patients or their appropriate rep-resentative. The results are reported in accordance with theCONSORTstatementextensionforNon-inferiorityandEquiva-lenceTrials.
+17
+This was an international, multicenter, open-label, paral-
+lelgroup,randomizedclinicaltrialofpiperacillin-tazobactamvs meropenem for the definitive treatment of BSI caused byceftriaxone-nonsusceptible E coliorKlebsiella spp.Adultpa-
+tients(aged≥18yearsor≥21yearsinSingapore)wereeligibleforenrollmentiftheyhadatleast1positivebloodculturewithE coliorKlebsiella sppthatwasnonsusceptibletoceftriaxone
+or cefotaxime, but remained susceptible to piperacillin-tazobactamandmeropenemaccordingtolocallaboratorypro-tocols.Patientshadtoberandomizedwithin72hoursofini-tialpositivebloodculturecollection.Exclusioncriteriaincludedallergytoeithertrialdrugorsimilarantibioticclasses,noex-
+pectationofsurvivalmorethan96hours,treatmentwithoutcurativeintent,polymicrobialbacteremia(likelyskincontami-nantsexcepted),previousenrollmentinthetrial,pregnancyorbreastfeeding,orrequirementforconcomitantantibioticswithactivityagainstgram-negativebacilli.Theprimarytreat-ingclinicianalsohadtoagreetoenrollmentinthestudypriortorandomization.
+Study Population, Stratification, and Randomization
+Patientswerescreenedforenrollmentin26hospitalsin9coun-tries (Australia, New Zealand, Singapore, Italy, Turkey,Lebanon, South Africa, Saudi Arabia, and Canada) fromFebruary 2014 to July 2017 (eFigure 3 in Supplement 2 ). Pa-
+tients were stratified according to infecting species ( E colior
+Klebsiella spp; groups E or K), presumed source of infection
+(urinarytractorelsewhere),andseverityofdisease(Pittbac-teremiascore≤4or>4).Ahigh-riskstratum(E2orK2)wasde-finedbynonurinarysourceforBSIandPittscoregreaterthan4(eFigure1in Supplement2 ).
+Patients were randomly assigned to either meropenem
+or piperacillin-tazobactam in a 1:1 ratio according to a ran-domization list prepared in advance for each recruiting siteand stratification. The sequence was generated using ran-dompermutedblocksof2and4patients,withtheallocateddrugrevealedusinganonlinerandomizationmodulewithinthe REDCap data management system.
+18All records were
+verifiedusingdouble-dataentry,withreferencetothepaperclinical record form.
+Intervention and Follow-up
+Meropenem, 1 g, was administered every 8 hours intrave-nously.Piperacillin-tazobactam,4.5g,wasadministeredevery6 hours intravenously. Each dose of study drug was infusedover 30 minutes. Study drug was administered for a mini-mumof4calendardaysafterrandomizationandupto14days,withthetotaldurationoftherapydeterminedbythetreatingclinician.Doseadjustmentforrenalimpairmentwasmadeac-cordingtocriteriaspecifiedinthetrialprotocol.Thetreatingclinicians and investigators were not blinded to the treat-mentallocation.Key Points
+Question Canpiperacillin-tazobactambeusedas
+carbapenem-sparingtherapyinpatientswithbloodstreaminfectionscausedbyceftriaxone-resistant Escherichia coli
+orKlebsiella pneumoniae ?
+Findings Inthisnoninferiorityrandomizedclinicaltrialthat
+included391patientswith E coliorK pneumoniae bloodstream
+infectionandceftriaxoneresistance,the30-daymortalityrateforpatientstreatedwithpiperacillin-tazobactamcomparedwithmeropenemwas12.3%vs3.7%,respectively.Thedifferencedidnotmeetthenoninferioritymarginof5%.
+Meaning Thesefindingsdonotsupportpiperacillin-tazobactam
+comparedwithmeropenemfortheseinfections.EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection Original Investigation Research
+jama.com (Reprinted) JAMASeptember11,2018 Volume320,Number10 985
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+Allpatientshadabloodculturecollectedatday3afterran-
+domizationoronanyotherdayiffebrile(temperature>38°C)up to day 5. Patients were followed up for 30 days after ran-domization, by telephone call if the patient was dischargedfrom hospital. All patients had baseline clinical and demo-graphic data recorded, as well as any antibiotics given up to48hourspriortoinitialpositivebloodcultureandfor30daysafterrandomization.Clinicaldatawererecordeddailyfromdayof initial positive blood culture until day 5 after randomiza-tion(withday1beingthedayofrandomization,whichhadtooccurwithin72hoursofinitialbloodculturecollection)(eTable1i nSupplement 2 ). On day 5, the primary treating team had
+theoptiontoceaseallantibiotics,continuetheallocatedagentorchangetostep-downtherapy(eFigure2in Supplement2 ).
+Definitions
+Empirical therapy was defined as antibiotic therapy given in
+theperiodpriortoenrollmentfollowingthecollectionoftheinitial positive blood culture. Empirical therapy was definedas“appropriate”ifcommencedwithin24hoursofinitialbloodculturecollectionandthebloodisolatewassusceptibleinvitroto the chosen agent(s). Study drug represented definitivetherapy,ie,therapygivenwhenresultsofsusceptibilitytest-ingwereknown.Treatmentdurationincludedthedaysofcom-mencementandcessationofthedrug.
+Outcomes
+The primary efficacy outcome was all-cause mortality at 30days after randomization. Secondary outcomes included (1)time to clinical and microbiologic resolution of infection,defined as the number of days from randomization to resolu-tion of fever (temperature >38.0°C) and leukocytosis (whiteblood cell count >12000/μL; to convert to ×10
+9/L, multiply
+by 0.001) plus sterilization of blood cultures; (2) clinical andmicrobiologic success at day 4 after randomization, definedas survival plus resolution of fever and leukocytosis plussterilization of blood cultures; (3) microbiologic resolutionofinfection,definedassterilityofbloodculturescollectedonorbeforeday4afterrandomization;(4)relapsedbloodstreaminfection, defined as growth of the same organism as in theoriginalbloodcultureaftertheendoftheperiodofstudydrugadministration but before day 30 after randomization;and(5)secondaryinfectionwithameropenem-orpiperacillin-tazobactam–resistant organism or Clostridium difficile infec-
+tion, defined as growth of a meropenem- or piperacillin-tazobactam–resistantgram-negativeorganismfromanyclinicalspecimen collected from day 4 after randomization to day 30orapositive C difficile stooltestinthesettingofdiarrhea.Ad-
+verseeventsweredocumentedforeachstudygroup.OtherBSIevents(causedbyorganismsotherthan E coliorKlebsiella spp)
+werealsorecordedupto30days.Foranymissingrepeatedvari-ableusedtodefineclinicalresolution(eg,dailywhitebloodcellcount), the last observation was carried forward until a newobservationwasrecorded.
+Microbiological Studies
+Bacteria isolated from blood cultures in enrolled patientswere available for further analysis at the coordinatinglaboratory. Minimum inhibitory concentrations (MICs) for
+piperacillin-tazobactamandmeropenemweredeterminedbyMIC test strips (bioMérieux and Liofilchem) and interpretedaccording to standards defined by the European Committeeon Antimicrobial Susceptibility Testing (EUCAST).
+19ESBL
+production was confirmed by combination disc testing withclavulanate.
+20Whole-genomesequencingwasperformedas
+previously described21(eTables 8-10 and eFigure 6 in the
+“Whole-GenomeSequencingMethods”sectionof Supplement
+2) to determine sequence types (STs) and characterize
+β-lactamasegenes.
+Sample Size Calculation
+Because no randomized clinical trials have previously com-pared treatment options for ESBL producers causing BSI, thesamplesizeestimationwasderivedfromthelargestretrospec-tivestudyavailableatthetime.
+10Theoverall30-daymortality
+inthisobservationalstudywas16.7%inthosereceivingacar-bapenem.Basedonamortalityrateof14%inthecontrolgroupand10%intheexperimentalgroup(assumingmortalityinob-servationalcohortsmaybegreaterthanintrialswithexclusioncriteria) and a noninferiority margin of 5%, 454 patients wereneededintotaltoachieve80%powerwitha1-sidedαlevelof.025,allowingfor10%dropout.
+22A5%noninferioritymarginwas
+chosen as the maximal difference in mortality between treat-mentsthatwouldbeclinicallyacceptable,byconsultationwithinfectiousdisease,criticalcare,andclinicaltrialspecialistsoftheAustralasian Society for Infectious Disease Clinical ResearchNetworkinvolvedintheprotocoldevelopment.
+15
+Statistical Analysis
+The primary analysis population was defined as any cor-rectly randomized patient receiving at least 1 dose of allo-cated drug and was used to make inference on noninferiorityof the treatment group (piperacillin-tazobactam), comparedwith control (meropenem), in terms of the primary outcome(30-day mortality). This was supported by an analysis ofthe per-protocol (PP) population. Protocol deviations defin-ing exclusion from the primary analysis and inclusion in thePP sample were adjudicated by an assessor blinded to treat-ment allocation. The proportions of deaths in the studygroups were calculated, with absolute risk differences deter-mined with the meropenem group as the reference. TheMiettinen-Nurminen method (MNM) was used to deter-mine 1-sided 97.5% CIs for risk differences.
+23As a multisite
+study, alternate methods were also examined includingscorebased methods, which extend MNM
+24and logistic
+regression with sites as fixed and random effects. Becausethe risk differences and confidence intervals for the primaryand secondary outcomes were similar when estimated byMNM or logistic regression, results for the MNM are pre-sented.Noninferiorityofall-causemortalityat30dayswouldbe established if the upper bound of the 1-sided 97.5% CIdidnotcrossthemarginof5%.
+For secondary outcomes, parametric and nonparametric
+tests were used as appropriate, depending on whether thedata were normally distributed. Because the secondary out-comeswereconsideredexploratory,adjustmentsformultipleResearch Original Investigation EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection
+986 JAMA September11,2018 Volume320,Number10 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+comparisons were not made. For secondary outcomes, sta-
+tistical tests were 2-sided, with a P< .05 considered sig-
+nificant. An analysis of the primary end point was under-taken in prespecified subgroups: (1) urinary vs nonurinarysource, (2) Pitt bacteremia score of 4 or greater or less than4, (3) E colivsK pneumoniae, (4) appropriate vs inappropri-
+ateempiricaltherapy,and(5)healthcare–associatedvsnon-health care–associated BSI. In addition, a post hoc analysiswasundertakenofhigh-incomevsmiddle-incomecountries(usingOrganizationforEconomicCooperationandDevelop-ment Development Assistance Committee definitions,http://www.oecd.org/dac ) and patients with the presence or
+absence of immune compromise.
+Thehomogeneityoftreatmenteffectsontheprimaryout-
+come was explored across subgroups using a test for the in-terventionbysubgroupinteractionbyaddingthistermandthesubgroupascovariatesinalogisticregressionmodel,usinga2-sidedsignificancelevelof P< .05.Toquantifytheeffectof
+missing data on secondary outcomes, a post hoc sensitivityanalysisusingmultipleimputationwasperformedusingmul-tivariateimputationbychainedequationsforbothdiscreteandcontinuous data,
+25with computation via the ‘mice’ package
+inRversion3.5.0.26
+Baselinepatientcharacteristicsweretabulated,withpro-
+portionsforcategoricalvariables,meanandSDsfornormallydistributed continuous variables, or median and interquar-tilerangesforskeweddata.Theinfluenceofclinicalvariablesotherthanrandomizedantibiotictherapyontheprimaryout-comewasalsoexploredinamultivariablelogisticregressionmodel,includingthetreatmentgroupasanindependentvari-able. Any variables associated with the primary outcome onbivariable analysis (2-sided P< .20) were included in a mul-
+tivariable logistic regression model (ie, urinary tract source,Pittscore,CharlsonComorbidityIndexscore,OrganizationforEconomicCooperationandDevelopmentregion,immunecom-promise,andhealthcare–associatedinfection).Themodelwasoptimizedusingastep-wiseapproach,beginningwiththebi-variablemodelmoststronglyassociatedwiththeprimaryout-come.Thegoodness-of-fitofthemodelaftereachstepwasas-sessedusingAkaike’sinformationcriteria.Variablesthatdidnot improve the model fit were excluded. Adjusted odds ra-tiosfortheeffectoftheinterventionontheprimaryoutcomewith 1-sided 97.5% CIs were calculated. Analysis of raw datatodetermineprimaryandsecondaryoutcomes,includingmiss-ingvalueimputationvialastvaluecarriedforwardwhereap-propriate, was performed in R version 4.3.1,
+27with subse-
+quent statistical testing undertaken using Stata version 15.1(StataCorp). The full statistical analysis plan is provided inSupplement1 .
+Study Monitoring
+Adataandsafetymonitoringboard(DSMB)wasestablished,
+comprising2independentinfectiousdiseasephysicianswithsupportprovidedbyanindependentstatistician.Interimanaly-ses were performed after the first 50, 150, and 340 patientscompletedthe30-dayfollow-upperiod.Thepredefinedstop-ping rule for superiority was a statistically significant differ-ence(atasignificancelevelof P< .001)inprimaryoutcome.Results
+Demographic and Clinical Characteristics of Patients
+Atotalof1646patientswerescreenedduringthetrialperiod.
+Ofthese,391(23.8%)wererandomized,although12patients(8inthepiperacillin-tazobactamgroupand4inthemerope-nem group) were randomized in error or did not receive theallocated study drug and were therefore excluded from theprimary analysis population, which included 379 patients atbaseline (191 received meropenem and 188 received pipera-cillin-tazobactam)( Figure1).Onepatientwhoreceivedpipera-
+cillin-tazobactamself-dischargedagainstmedicaladviceandwaslosttofollow-up,sothetotalnumberofpatientswhowereevaluatedfortheprimaryoutcomewas378.Baselinedemo-graphic and clinical details are summarized in Table 1. Over-
+all,treatmentgroupswerebalancedwithrespecttobaselinecharacteristics, although more patients in the meropenemgrouphaddiabetes(41.4%vs31.4%),aurinarytractsourceforBSI (67.0% vs 54.8%), and higher APACHE II scores (21.0 vs17.9).Morepatientsinthepiperacillin-tazobactamgrouphadimmunecompromise(27.1%vs20.9%)buthadashortertimetoreceiptofmicrobiologicallyappropriateantibioticsfromon-setofinfection(5.5hoursvs9.6hours).Bythedayofrandom-ization,40.7%patientshadresolvedobjectivemarkersofin-fection (as defined in the secondary outcome measure ofclinicalandmicrobiologicalresolution),althoughthiswassimi-larbetweengroups(40.3%inthemeropenemgroupand41.2%inthepiperacillin-tazobactamgroup).
+FollowingtheDSMBreviewat340patientsenrolled,adif-
+ference in the primary outcome was observed, at a signifi-cance level approximating the prespecified stopping rule(P= .004).Assuch,theDSMBrecommendedtemporarysus-
+pensionofthestudyonJuly8,2017,pendinganalysisonceall391randomizedpatientshadcompleted30-dayfollow-up.Thisanalysis showed that completing full enrollment was highlyunlikely to demonstrate noninferiority of piperacillin-tazobactam.Ifthemortalityrateobservedinthepiperacillin-tazobactam group at the interim analysis were to remainunchanged, it would have required a mortality rate greaterthan 43% in the meropenem group to conclude noninferior-ityatthe5%threshold.Evenifmortalitydroppedto6%inthepiperacillin-tazobactamgroup,mortalitygreaterthan34%inthemeropenemgroupwouldbenecessary.Adecisiontoter-minatethestudyonthegroundsofharmandfutilitywasmadebythestudymanagementteam,afterdiscussionwithsitein-vestigators,onAugust10,2017.Thisdecisionwasmadeinde-pendentlyfromtheDSMB.
+Primary Outcome
+Atotalof23of187patients(12.3%)withintheprimaryanalysispopulationrandomizedtoreceivepiperacillin-tazobactamasdefinitive therapy met the primary outcome of all-causemortality at 30 days compared with 7 of 191 (3.7%) in themeropenem group (risk difference, 8.6% [1-sided 97.5%CI, −/H11009to 14.5%]; P= .90 for noninferiority) (eFigure 4 in
+Supplement 2 ). Results were consistent within the PP popu-
+lation, with 18 of 170 patients (10.6%) meeting the primaryEffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection Original Investigation Research
+jama.com (Reprinted) JAMASeptember11,2018 Volume320,Number10 987
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+outcomeinthepiperacillin-tazobactamgroupcomparedwith
+7of186(3.8%)inthemeropenemgroup(riskdifference,6.8%[one-sided97.5%CI,− /H11009to12.8%]; P= .76fornoninferiority)
+(Table2).Adjustmentforaurinarytractsourceofinfectionand
+theCharlsonComorbidityIndexscoreresultedinlittlechangeinthefindings(unadjustedoddsratio,3.69[1-sided97.5%CI,0to8.82];adjustedoddsratio,3.41[1-sided97.5%CI,0to8.38)(eTable5in Supplement2 ).
+Secondary Outcomes
+Clinical and microbiological resolution by day 4 occurred in
+121of177patients(68.4%)inthepiperacillin-tazobactamgroupcompared with 138 of 185 (74.6%), randomized to merope-nem (risk difference, −6.2% [95% CI, −15.5 to 3.1%]; P= .19)
+(Figure2 ).Themediandayofresolutionofsignsofinfection
+afterrandomizationwas3(interquartilerange[IQR],1,5)inthepiperacillin-tazobactamgroup,and2(IQR,1,5)inthemerope-nem group, but this difference was not significant ( P=. 1 8 )
+(eFigure5in Supplement2 ).Therewerealsonosignificantdif-
+ferencesinmicrobiologicalresolutionbyday4orratesofmi-crobiologicalrelapse,secondaryinfectionwithanothermul-tiresistantorganism,or C difficile (Figure2).Patientsreceivingpiperacillin-tazobactamdidnothavesignificantlylowerrates
+ofsubsequentdetectionofcarbapenem-resistantorganisms,althoughthiseventwasinfrequent(3.2%vs2.1%)(Figure2).The secondary outcomes were also consistent within thePPpopulation.Insubgroupanalysesoftheprimaryoutcomewithintheprimaryanalysispopulation,noneofthetestsforinteraction were significant and none of the subgroupsmetthenoninferioritymargin.Inaddition,thedirectionofriskassociated with randomization to piperacillin-tazobactamremained in favor of meropenem across all subgroups(Table 2). Multiple imputation analysis for missing valuesshowed no differences in results for the analysis of second-ary outcomes when compared with the last observation car-riedforwardmethod(MissingValueMethodComparisonssec-tionandeTable11in Supplement2 ).
+Adverse Events
+Nonfatalseriousadverseeventsoccurredin5of188patients
+(2.7%)inthepiperacillin-tazobactamgroupcomparedwith3of191(1.6%)inthemeropenemgroup.Detailsofalldeathsandserious adverse events can be found in eTables 6 and 7 inSupplement2 .Figure 1. Patient Recruitment, Randomization, and Flow Through Study
+1646 Patients assessed for eligibility
+1255 Excluded
+866 Met exclusion criteriaa
+48Unspecified reasons218 Declined to participate
+123 Treating arm declined
+391 Randomized
+187 Included in the primary analysis
+1Excluded (lost to follow-up)
+170 Included in the per-protocol analysis
+18Excluded
+5Switched to meropenem before 5 d
+4Withdrew from study
+2Inadvertent dose of carbapenem
+1Withdrew (new resistant organism)
+1Only completed 3 d of study drug
+1Ceased due to rash
+1Added amikacin
+1Switched to tigecycline
+1Renal dose not adjusted per protocol
+1Switched due to renal dysfunction196 Randomized to receive piperacillin-tazobactam
+188 Received intervention as randomized
+8Did not receive intervention as randomized
+5Randomized in error
+2Withdrawn by treating physician
+1Withdrew consent2Ceftriaxone-sensitive strain
+2Piperacillin-tazobactam–resistant strain
+1Allergic to piperacillin-tazobactam195 Randomized to receive meropenem
+191 Received intervention as randomized
+4Did not receive intervention as randomized
+3Randomized in error
+1Withdrawn by treating physician1Meropenem-resistant strain
+1>72 h elapsed after initial blood culture
+1Polymicrobial infection
+191 Included in the primary analysis
+0Excluded
+186 Included in the per-protocol analysis
+5Excluded
+3Withdrew
+1Initiated imipenem in error
+1Switched to tigecycline1Lost to follow-up
+13Withdrew from study (data
+included in primary analysis)0Lost to follow-up
+4Withdrew from study (data
+included in primary analysis)aPatientscouldmeetmorethan1
+exclusioncriteria.Atotalof376patientswereexcludedbecausemorethan72hourshadelapsedsinceinitialbloodculture;317,basedonmicrobiologycriteria;110,allergytotrialdrug;94,polymicrobialinfection;78,notexpectedtosurvivemorethan96hours;44,pregnantorbreastfeeding;28,nointenttocure;20,youngerthan18yearsold(<21yearsoldinSingapore);and20,previouslyenrolled.For317patients,microbiologicalexclusionsbasedonsusceptibilitytestingwereasfollows:13.3%weresusceptibletoceftriaxone,10.7%werenonsusceptibletomeropenem,and78.9%werenonsusceptibletopiperacillin-tazobactam.Othermicrobiologicalexclusionsincludedorganismnotbeing E colior
+Klebsiella spp(<1%).Onepatient
+wasexcludedfromboththeprimaryanalysisandtheper-protocolpopulationfollowingself-dischargeandlosstofollow-up.Research Original Investigation EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection
+988 JAMA September11,2018 Volume320,Number10 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+Microbiology
+A total of 306 isolates cultured from the blood of patients in
+the primary analysis population (80.7%) were available formicrobiologicalanalysis(n = 266 E coliandn = 40 K pneumo-
+niae). The median piperacillin-tazobactam MIC was 2 mg/L
+(IQR, 1.5 mg/L to 4 mg/L). Twelve isolates (3.9%) tested non-susceptible to piperacillin-tazobactam according to theEUCAST breakpoint for susceptibility (≤8 mg/L), althoughonly 4 (1.3%) were nonsusceptible if the Clinical and Labora-tory Standards Institute breakpoint (≤16 mg/L) was applied
+32
+(eFigure 6 in Supplement 2 ). There was no significant differ-
+ence in the median MICs of piperacillin-tazobactam betweenthe treatment groups ( P= .64), although the median MIC
+was significantly greater in K pneumoniae than E coli(4 mg/L
+vs 2 mg/L; P< .001). Most isolates (99.7%) tested susceptible
+to meropenem (median MIC, 0.023 mg/L; IQR, 0.016 mg/LTable 1. Baseline Characteristics of Patients in the Primary Analysis
+Populationa
+CharacteristicPipercillin-Tazobactam
+(n = 188)Meropenem
+(n = 191)
+Organism
+Escherichia coli 162 (86.2) 166 (86.9)
+Klebsiella pneumoniae 26 (13.8) 25 (13.1)
+Stratificationb
+E1 (E coli , less severe
+infection)159 (84.6) 162 (84.8)
+E2 (E coli , more severe
+infection)3 (1.6) 3 (1.6)
+K1 (K pneumoniae,
+less severe infection)23 (12.2) 25 (13.1)
+K2 (K pneumoniae ,
+more severe infection)3 (1.6) 1 (0.5)
+Country
+Singapore 72 (38.3) 82 (42.9)
+Australia 42 (22.3) 43 (22.5)
+New Zealand 10 (5.3) 9 (4.7)
+Canada 1 (0.5) 1 (0.5)
+South Africa 5 (2.7) 6 (3.1)
+Italy 15 (8.0) 10 (5.2)
+Turkey 24 (12.8) 22 (11.5)
+Lebanon 8 (4.3) 7 (3.7)
+Saudi Arabia 11 (5.9) 11 (5.8)
+Age, median (IQR), y 70 (55-78) 69 (59-78)Male 101 (53.7) 97 (50.8)Acquisition
+Hospital-acquired 52 (27.7) 46 (24.1)
+Health care–associated 55 (29.3) 61 (31.9)
+Community-associated 81 (43.1) 84 (44.0)
+Source of bacteremia
+Urinary tract 103 (54.8) 128 (67.0)
+Intra-abdominal infection 34 (18.1) 28 (14.7)
+Vascular catheter–related
+infection3 (1.6) 3 (1.6)
+Surgical site infection 8 (4.3) 4 (2.1)
+Pneumonia 9 (4.8) 3 (1.6)
+Mucositis/neutropenia 12 (6.4) 7 (3.7)
+Musculoskeletal 1 (0.5) 0 (0)
+Skin and soft tissue 4 (2.1) 1 (0.5)
+Other 2 (1.1) 1 (0.5)
+Unknown 12 (6.4) 16 (8.4)
+Surgery within past 14 d 19 (10.1) 14 (7.3)ICU admission 13 (7.0) 14 (7.5)APACHE II Score, mean (SD)
+c17.9 (6.1) 21.0 (6.9)
+Charlson Comorbidity Index
+score, median (IQR)d2.0 (1.0-4.0) 2.0 (1.0-4.0)
+Pitt score, median (IQR)e1.0 (0-2.0) 1.0 (0-2.0)
+Immune compromise 51 (27.1) 40 (20.9)Neutropenia 16 (8.5) 9 (4.7)Central venous catheter 35 (18.6) 20 (10.5)Urinary catheter/
+nephrostomy51 (27.1) 37 (19.4)
+Moderate-severe
+renal dysfunction
+f31 (16.5) 30 (15.7)
+Diabetesf59 (31.4) 79 (41.4)
+(continued)Table 1. Baseline Characteristics of Patients in the Primary Analysis
+Populationa(continued)
+CharacteristicPipercillin-Tazobactam
+(n = 188)Meropenem
+(n = 191)
+Liver diseasef12 (6.4) 18 (9.4)
+qSOFA score ≥2g86 (45.7) 77 (40.3)
+Weight,
+mean (SD), kg67.2 (18.1) 69.3 (19.3)
+Empirical antibiotic
+category
+β-lactam/β-lactamaseinhibitor38 (20.2) 49 (25.7)
+Carbapenem 26 (13.8) 28 (14.7)
+Other 124 (66.0) 114 (59.7)
+Appropriate
+empiricalantibiotic126 (67.0) 127 (66.5)
+Time to
+randomization,median (IQR), h53.6 (44.9-65.6) 52.5 (46.0-63.7)
+Time to
+appropriateantibiotics,median (IQR), h5.5 (0.4-31.5) 9.6 (0.5-32.1)
+Abbreviations:APACHE,AcutePhysiologyandChronicHealthEvaluation
+score(onlycollectedinICU-admittedpatients);ICU,intensivecareunit;IQR,interquartilerange;qSOFA,quicksequentialorganfailureassessmentscore.
+aDataareexpressedasNo.(%)ofparticipantsunlessotherwiseindicated.
+bStratumdesignatedbyinfectingspecies( E coli=E,K pneumoniae = K)and
+diseaseseverity(non–urinarytractsourceandPittscore>4designatedasstratum2,otherwisestratumwas1).
+cProvidesanestimateofICUmortality,withascorerangingfrom0to71
+(scoring20-24signifiesamortalityriskofapproximately40%)28
+dProvidesa10-yearmortalityrisk,basedonweightedcomorbidconditions,
+rangingfrom0to29,withascoreof4associatedwithanestimated10-yearsurvivalof53%.
+29
+eProvidesameasureofin-hospitalmortalityriskinpatientswithbloodstream
+infectionsbasedonclinicalvariables,rangingfrom0to14,withaPittscore/H113504associatedwithariskofmortalityofapproximately40%.
+30
+fThesevariablesweredeterminedatthetimeofenrollmentbasedonthe
+definitionswithintheCharlsonComorbidityIndexscoreassessmentfollowingclinicalreviewbythesiteinvestigator.
+gqSOFAscoreisa4-pointscale(0-4)usedtopredictriskinpatientswithsepsis;
+ascore /H113502isassociatedwitha3-to14-foldincreaseinmortality.31EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection Original Investigation Research
+jama.com (Reprinted) JAMASeptember11,2018 Volume320,Number10 989
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+to0.032mg/L; EUCASTbreakpointforsusceptibility≤2mg/L).
+There was no clear relationship between piperacillin-tazobactam MIC and mortality in patients randomized to re-ceivethisdrug(eTable9in Supplement2 ).One K pneumoniae
+strainfromSingapore(inasurvivingpatientrandomizedtome-ropenem) demonstrated high-level resistance to piperacillin-tazobactam (MIC ≥256 mg/L) via the presence of bla
+DHA-1
+(AmpC-type β-lactamase). A single E colistrain from Turkey
+(fromasurvivingpatientrandomizedtomeropenem)demon-strated nonsusceptibility to meropenem (MIC, 4 mg/L) viabla
+OXA-162(avariantofOXA-48carbapenemase).
+PhenotypicESBLproductionwasconfirmedin86.0%of
+isolates(85.0%of E coliand92.5%of K pneumoniae ).Whole-
+genomesequencingdatawereavailablefor293(77.3%)oftheinitialbloodcultureisolatesfrompatientsintheprimaryanaly-sis population. The dominant E colimultilocus ST was ST131
+(56.8%), with a small number of multiple other STs repre-sented.For K pneumoniae ,noSTpredominated,althoughST25
+(16.7%)andST15(11.1%)weremostcommon.TheK2capsularserotype,associatedwithhypervirulence,
+33wasthemostcom-mon serotype detected in 6 of 36 K pneumoniae infections
+(16.7%);nostrainswithK1serotypewereidentified.ESBLgeneswere confirmed in 85.3% of isolates, with 10.2% possessingacquired ampCgenes(predominantly bla
+CMY-2);2.0%carried
+bothESBLand ampC.Aspreviouslydescribed,21thepredomi-
+nant ESBL genes were blaCTX-M-type (83.5%), with the most
+common subtypes being blaCTX-M-15 (54.5%), blaCTX-M-27
+(13.0%), and blaCTX-M-14 (11.0%). The presence of narrow-
+spectrumoxacillinases(suchas blaOXA-1andvariants)wasalso
+common (seen in 67.6% of all strains), and may compromiseβ-lactamaseinhibitionbytazobactam.
+34,35
+Discussion
+Inpatientswith E coliorK pneumoniae bloodstreaminfection
+and ceftriaxone resistance, noninferiority of piperacillin-tazobactam for the primary outcome of 30-day mortalitycould not be demonstrated when compared with merope-nem. The overall mortality in this study (7.9%) was lowerTable 2. Primary Analysis and Subgroup Analyses
+30-d Mortality, No./Total No. (%)Risk Difference, %
+(1-Sided 97.5% CI)aPValue
+for Noninferiority Piperacillin-Tazobactam Meropenem
+Primary analysis 23/187 (12.3) 7/191 (3.7) 8.6 (− /H11009to 14.5) .90
+Per-protocol analysis 18/170 (10.6) 7/186 (3.8) 6.8 (− /H11009to 12.8) .76
+Subgroup analysesbPValue for Interaction
+OECD country income
+Middle income 8/37 (21.6) 1/35 (2.9) 18.8 (− /H11009to 35.0)
+.31High income 15/150 (10.0) 6/156 (3.9) 6.2 (− /H11009to 12.5)
+Pitt score
+≥4 5/18 (27.8) 0/9 27.8 (− /H11009to 51.3)
+.99<4 18/169 (10.7) 7/182 (3.9) 6.8 (− /H11009to 12.8)
+Infecting species
+E coli 17/161 (10.6) 7/166 (4.2) 6.3 (− /H11009to 12.6)
+.99K pneumoniae 6/26 (23.1) 0/25 23.1 (− /H11009to 42.3)
+Infection
+HAI 18/107 (16.8) 4/107 (3.7) 13.1 (− /H11009to 21.8)
+.26Non-HAI 5/80 (6.3) 3/84 (3.6) 2.7 (− /H11009to 10.7)
+Appropriate empirical antibiotic therapy
+Appropriate 18/126 (14.3) 5/127 (3.9) 10.3 (− /H11009to 18.0)
+.70Inappropriate 5/61 (8.2) 2/64 (3.1) 5.1 (− /H11009to 15.2)
+UT vs non-UT source
+UT 7/102 (6.9) 4/128 (3.1) 3.7 (− /H11009to 10.7)
+.44Non-UT 16/85 (18.8) 3/63 (4.8) 14.1 (− /H11009to 24.5)
+Immune compromisec
+Present 10/51 (19.6) 1/40 (2.5) 17.1 (− /H11009to 30.5)
+.27Absent 13/136 (9.6) 6/151 (4.0) 5.6 (− /H11009to 12.2)
+Abbreviations:HAI,healthcare–associatedinfection;OECD,Organizationfor
+EconomicCooperationandDevelopment;UT,urinarytract.
+aTheabsoluteriskdifferencewascalculatedwitha1-sided97.5%CIusingthe
+Miettinen-Nurminenmethod.Themarginfornoninferioritywassetat5%.TheupperboundoftheCIexceededthisthresholdintheprimaryanalysispopulation,thusexcludingnoninferiority.
+bSubgroupanalysesperformedusingprimaryanalysispopulation.
+cImmunecompromisedefinedbyuseofcytotoxicchemotherapy,high-dosecorticosteroids(atleast30mg/dofprednisoloneorequivalent),antitumor
+necrosisfactorbiologicalagents(eg,infliximab,etanercept),otherimmuneactivemonoclonalantibodies(eg,rituximab)orimmunosuppressivetherapy(eg,tacrolimus,everolimus,methotrexate,cyclosporin,azathioprine,mycophenolate),neutrophilcount<500/μL(toconvertto×10
+9/L,multiply
+by0.001)ondayofbloodstreaminfection,presenceofactivesolidorgan/hematologicalmalignancy,orinfectionwithHIV(withaCD4count<200/mm
+3oranAIDS-definingcondition).Research Original Investigation EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection
+990 JAMA September11,2018 Volume320,Number10 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+than expected, likely reflecting barriers to recruiting patients
+into clinical trials with severe infections, as well as the exclu-sion of individuals who were deemed unlikely to survivebeyond 96 hours. Indeed, few patients (10/379, 2.6%) metstratification criteria for high-risk disease (ie, Pitt score >4andnonurinaryfocusofinfection). However, thiswouldtend
+to bias this study toward a lower estimate of the mortalityrisk. The risk of mortality was lower in patients with urinarysource of infection, although noninferiority was not demon-strated in the subgroup analysis (accepting that the studywasnotpoweredaccordingly).
+Arecenttrialofmeropenem-vaborbactamvspiperacillin-
+tazobactam for complicated urinary tract source foundsuperiority of meropenem-vaborbactam over piperacillin-tazobactam for a composite end point of clinical cure orimprovement and microbial eradication, even when fewcarbapenemase-producing strains (the target of the vabor-bactam inhibitor component) were present.
+36Whether
+piperacillin-tazobactam remains effective for urinary infec-tions caused by ESBL producers in patients without BSI orlow mortality risk remains uncertain. Eff orts to define alter-
+natives to carbapenems remain a priority. Whether newerBLBLIagents(suchasceftolozane-tazobactamorceftazidime-avibactam)areusefuloptionsinthisclinicalcontextremainsunknown and conclusions on the efficacy of new BLBLIs fortheseinfectionsshouldnotbedrawnfromtheresultsofthistrialbeforeevaluationwithinrandomizedstudies.
+Limitations
+This study has several limitations. First, the inherent delaysintheprocessingofbloodculturesandsusceptibilitytestingmeans that empirical therapy was not under control of thestudyteam.Manypatients(50/191,26.2%)whowererandom-ized to meropenem received a BLBLI empirically and, con-versely, 13.8% (26/188) of those randomized to piperacillin-
+tazobactam received a carbapenem empirically (eTable 3 inSupplement2 ).Asempiricaltherapymayhaveamajorinflu-
+enceonoutcome,thefactthatsome“contamination”ofdrugexposure between the 2 groups exists may complicate infer-ences.However, this would tend to bias toward noninferior-
+ity. This pragmatic study was purposefully designed not tomimic registration drug trials, but to reflect clinical practicewhereprescribersarefacedwithadecisionpointwhenceftri-axonenonsusceptibilityisknown.Second,step-downtherapy(whichwasallowedonday5afterrandomization)withacar-bapenem (eg, once-daily ertapenem) occurred in 20.1% (76/379) of all patients, even if randomized to piperacillin-tazobactam(eTable3in Supplement2 ).
+Third, whether adequate source control was achieved in
+patients with a complex source of BSI is not known andcould have influenced mortality if imbalances were present.Fourth, although patients were recruited from diverse geo-graphical and economic regions, only 2 patients wereenrolled from North America (Canada), so it is possible thattheseresultsarenotgeneralizabletotheUnitedStates.How-ever, E colistrainscausingBSIinthisstudyareconsistentwith
+theSTsandtheirassociatedESBLgenespreviouslydescribedas prevalent in the United States.
+37Piperacillin-tazobactam
+may be dosed differently in some US hospitals than in thistrial (eg, 3.375 g every 6 hours vs 4.5 g of 6 hours),
+14but the
+lower dosing regimen has been associated with a low prob-abilityofachievingoptimaldrugexposureinESBLproducers.
+38
+Extendedorcontinuousinfusionsofpiperacillin-tazobactammay optimize drug exposure but the clinical efficacy of thisapproachremainsuncertain.
+39
+Fifth, given that the primary treating clinician had to
+agree to enrollment, this may have introduced spectrum(or case-mix) bias. However, this was a reason for exclusionFigure 2. Secondary Outcomes
+–20 –5 10 –10 5 0
+Between-Group Risk Difference (95 CI), %–15Favors
+MeropenemFavors
+Piperacillin-TazobactamPatients Meeting End Point, 
+No./Total No. (%)
+Piperacillin-Tazobactam Meropenem Measure of SuccessBetween-Group
+Difference (95% CI)
+121/177 (68.4) 138/185 (74.6) Clinical and microbiological success at day 4
+a–6.2 (–15.5 to 3.1)
+169/174 (97.1) 184/185 (99.5) Microbiological success at day 4 –2.3 (–6.1 to 0.4)
+–20 –5 10 –10 5 0
+Between-Group Risk Difference (95 CI), %–15Favors
+Piperacillin-
+TazobactamFavors
+MeropenemPatients Meeting End Point, 
+No./Total No. (%)
+Piperacillin-Tazobactam Meropenem Measure of FailureBetween-Group
+Difference (95% CI)
+9/187 (4.8) 4/191 (2.1) Microbiological relapse 2.7 (–1.1 to 7.1)
+15/187 (8.0)b8/191 (4.2)cSecondary infection with multiresistant
+organism or Clostridium difficile3.8 (–1.1 to 9.1)
+aClinicalandmicrobiologicalsuccessdefinedassurvival,negativeblood
+cultures,temperatureof38°Corless,andperipheralwhitebloodcellcountoflessthanorequalto12000/μL(toconvertto×10
+9/L,multiply
+by0.001).bTwelvepatientswithmeropenem-orpiperacillin-tazobactam–resistantorganismand3with Clostridium difficile infection.
+cSixpatientswithmeropenem-orpiperacillin-tazobactam–resistantorganism
+and2with Clostridium difficile infection.EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection Original Investigation Research
+jama.com (Reprinted) JAMASeptember11,2018 Volume320,Number10 991
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+in only 123 of 1255 excluded patients (9.8%). Sixth, for miss-
+ing data variables used to determine clinical and microbio-logical resolution, imputation by carrying forward the lastobservation was used, which could bias secondary end pointmeasures. However, a post hoc sensitivity analysis using
+multiple imputation had no significant effect on these out-comes. Seventh, as an unblinded study, investigators wereaware of the treatment allocation and this may haveprompted the early cessation of piperacillin-tazobactam ifthe clinician perceived clinical failure. However, the r esults
+werecomparableinboththeprimaryanalysisandPPpopula-tions, suggesting this did not substantially alter the finalresults. Furthermore, the primary outcome measure was
+objective (mortality), mitigating any inherent bias that maybeintroducedbyanopen-labelstudy.
+Conclusions
+Amongpatientswith E coliorK pneumoniae bloodstreamin-
+fectionandceftriaxoneresistance,definitivetreatmentwithpiperacillin-tazobactam compared with meropenem did notresultinnoninferior30-daymortality.Thesefindingsdonotsupportuseofpiperacillin-tazobactaminthissetting.
+ARTICLE INFORMATION
+Accepted for Publication: July27,2018.
+Correction: ThisarticlewascorrectedonJune18,
+2019,toincludeinformationonsamplesizecalculationintheMethodssection.
+Author Affiliations: UniversityofQueensland,
+UQCentreforClinicalResearch,Brisbane,Queensland,Australia(Harris,Lorenc,Harris-Brown,Paterson);DepartmentofMicrobiology,PathologyQueensland,RoyalBrisbaneandWomen’sHospital,Brisbane,Queensland,Australia(Harris);InfectionManagementServices,PrincessAlexandraHospital,Brisbane,Queensland,Australia(Harris,Looke);DepartmentofInfectiousDiseases,NationalUniversityHospital,Singapore(Tambyah,Mo);YongLooLinSchoolofMedicine,NationalUniversityofSingapore,Singapore(Lye,Lee);DepartmentofInfectiousDiseases,InstituteofInfectiousDiseasesandEpidemiology,TanTockSengHospital,Singapore(Lye,Lee);LeeKongChianSchoolofMedicine,NanyangTechnologicalUniversity,Singapore(Lye,Lee);DepartmentofInfectiousDiseasesandClinicalMicrobiology,SchoolofMedicine,IstanbulMedipolUniversity,Istanbul,Turkey(Yilmaz);KingSaudBinAbdulazizUniversityforHealthSciencesandKingAbdullahInternationalMedicalResearchCenter,Riyadh,SaudiArabia(Alenazi,Arabi);DepartmentofPublicHealthandInfectiousDiseases,“Sapienza”UniversityofRome,Italy(Falcone);InfectiousDiseasesClinic,DepartmentofMedicineUniversityofUdineandSantaMariaMisericordiaHospital,Udine,Italy(Bassetti,Righi);MonashUniversity,CentreforInflammatoryDiseases,Melbourne,Victoria,Australia(Rogers);MonashInfectiousDiseases,MonashHealth,Melbourne,Victoria,Australia(Rogers);DivisionofInfectiousDiseases,DepartmentofInternalMedicine,AmericanUniversityofBeirutMedicalCenter,Beirut,Lebanon(Kanj);DepartmentofMedicineandInfectiousDiseases,NorthShoreHospital,Auckland,NewZealand(Bhally);MarieBashirInstituteforInfectiousDiseaseandBiosecurity,UniversityofSydney,Sydney,NewSouthWales,Australia(Iredell);CentreforInfectiousDiseasesandMicrobiology,WestmeadHospital,Westmead,NewSouthWales,Australia(Iredell);DivisionofInfectiousDiseases&HIVMedicine,DepartmentofMedicine,GrooteSchuurHospital,UniversityofCapeTown,CapeTown,SouthAfrica(Mendelson,Boyles);UniversityofQueensland,Brisbane,Queensland,Australia(Looke,Griffin);SchoolofMedicine,UniversityofWollongong,Wollongong,NewSouthWales,Australia(Miyakis);IllawarraHealthandMedicalResearchInstitute,Wollongong,
+NewSouthWales,Australia(Miyakis);DepartmentofInfectiousDiseases,WollongongHospital,Wollongong,NewSouthWales,Australia(Miyakis);DepartmentofInfectiousDiseases,MiddlemoreHospital,Auckland,NewZealand(Walls);KingFahadSpecialistHospital,Dammam,SaudiArabia(AlKhamis,Zikri);DepartmentofInfectiousDiseases,StVincent’sHospital,Melbourne,Victoria,Australia(Crowe);DepartmentofMicrobiology,StVincent’sHospital,Melbourne,Victoria,Australia(Crowe);SchoolofPathologyandLaboratoryMedicine,TheUniversityofWesternAustralia,Crawley,Australia(Ingram);DepartmentofInfectiousDiseases,FionaStanleyHospital,Murdoch,Australia(Ingram);DepartmentofMicrobiology,PathWestLaboratoryMedicine,Perth,WesternAustralia(Ingram);SunnybrookHealthSciencesCentre,UniversityofToronto,Toronto,Ontario,Canada(Daneman);DepartmentofMedicineandInfectiousDiseases,MaterHospitalandMaterMedicalResearchInstitute,Brisbane,Queensland,Australia(Griffin);QIMRBerghofer,Brisbane,Queensland,Australia(Griffin);DepartmentofInfectiousDiseases,BarwonHealthandDeakinUniversity,Geelong,Victoria,Australia(Athan);SchoolofPublicHealth,UniversityofQueensland,Brisbane,Queensland,Australia(Baker);AustralianCentreforEcogenomics,SchoolofChemistryandMolecularBiosciences,TheUniversityofQueensland,Queensland,Australia(Roberts,Beatson);Infection&ImmunityProgram,BiomedicineDiscoveryInstitute,MonashUniversity,Clayton,Australia(Peleg);DepartmentofMicrobiology,MonashUniversity,Clayton,Australia(Peleg);DepartmentofInfectiousDiseases,AlfredHospitalandCentralClinicalSchool,MonashUniversity,Melbourne,Victoria,Australia(Peleg);DepartmentofInfectiousDiseases,RoyalBrisbaneandWomen’sHospital,Brisbane,Queensland,Australia(Paterson).
+Author Contributions: DrsHarrisandPatersonhad
+fullaccesstoallofthedatainthestudyandtakeresponsibilityfortheintegrityofthedataandtheaccuracyofthedataanalysis.Allauthorshaveapprovedthefinalversionofthemanuscript.Concept and design: Harris,Rogers,Iredell,Miyakis,
+Ingram,Athan,Lorenc,Peleg,Paterson.Acquisition, analysis, or interpretation of data:
+Harris,Tambyah,Lye,Mo,Lee,Yilmaz,Alenazi,
+Arabi,Falcone,Bassetti,Righi,Rogers,Kanj,Bhally,Iredell,Mendelson,Boyles,Looke,Miyakis,Walls,AlKhamis,Zikri,Cr owe,Ingram,D aneman,Griffin,
+Athan,Lorenc,Baker,Roberts,Beatson,Peleg,Harris-Brown,Paterson.Drafting of the manuscript: Harris,Lorenc,Roberts,Harris-Brown,Paterson.
+Critical revision of the manuscript for importantintellectual content: Harris,Tambyah,Lye,Mo,Lee,
+Yilmaz,Alenazi,Arabi,Falcone,Bassetti,Righi,Rogers,Kanj,Bhally,Iredell,Mendelson,Boyles,Looke,Miyakis,Walls,AlKhamis,Zikri,Cr owe,
+Ingram,Daneman,Griffin,Athan,Baker,Beatson,Peleg,Harris-Brown,Paterson.Statistical analysis: Harris,Baker.
+Obtained funding: Harris,Mo,Ingram,Harris-
+Brown,Paterson.Administrative, technical, or material support:
+Harris,Tambyah,Lye,Mo,Yilmaz,Arabi,Righi,
+Rogers,Iredell,Boyles,Walls,Cr owe,Daneman,
+Lorenc,Harris-Brown,Paterson.Supervision: Harris,Lye,Alenazi,Arabi,Kanj,Bhally,
+Miyakis,Walls,AlKhamis,Zikri,Athan,Beatson,Peleg,Harris-Brown,Paterson.
+Conflict of Interest Disclosures: Allauthorshave
+completedandsubmittedtheICMJEFormforDisclosureofPotentialConflictsofInterest.DrHarrisreportedreceivinggrantsfromtheAustralianSocietyforAntimicrobials;theInternationalSocietyforChemotherapy;theNationalUniversityHospitalSingapore;theStudy,Education,andResearchCommitteeofPathology;andtheRoyalCollegeofPathologistsofAustralasiaFoundation.DrHarrisalsoreportedreceivingsupporttospeakataneducationaleventsponsoredbyPfizer.DrTambyahreportedreceivinggrantsfromtheNationalUniversityHealthSystem,GlaxoSmithKline,Janssen,Shionogi,Sanofi-Pasteur,Visterra,Baxter,ADAMAS,MerlionPharmaceuticals,Fabentech,andInviragen.HehasalsoreceivedhonorariafromNovartisandAstraZeneca.DrFalconereportedreceivingpersonalfeesfromMSD,Angelini,andAstellasandgrantsfromGilead.DrBassettireportedreceivinggrantsand/orpersonalfeesfromPfizer,MSD,Astellas,Menarini,Roche,Tetraphase,Achaogen,Angelini,AstraZeneca,Bayer,Basilea,Cidara,Gilead,MSD,Paratek,Pfizer,TheMedicinesCompany,andVifor.DrRogersreportedreceivinggrantsandpersonalfeesfromMSDAustraliaforattendingadvisoryboardsandresearchandpersonalfeesfromMaynePharmaforconsulting.DrKanjreportedreceivinghonorariaforspeakingandservingonadvisoryboardsforPfizer,Merck,Bayer,Gilead,Hikma,andAventis.MsLorencreportedreceivinggrantsfromtheAustralianSocietyforAntimicrobials,theInternationalSocietyforChemotherapy,andtheNationalUniversityHospitalSingapore.DrBeatsonreportedreceivingsupportforspeakingataneducationaleventsponsoredbyPfizer.DrPelegreportedreceivinggrantsfromMSD.DrPatersonreportedreceivingResearch Original Investigation EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection
+992 JAMA September11,2018 Volume320,Number10 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+grantsand/orpersonalfeesfromMerck,Pfizer,
+Shionogi,Achaogen,AstraZeneca,LeoPharmaceuticals,Bayer,GlaxoSmithKline,andCubist.Nootherdisclosureswerereported.
+Funding/Support: Thestudywassponsored
+bytheUniversityofQueensland.ThisstudywasfundedbygrantsfromtheAustralianSocietyforAntimicrobials(ASA),InternationalSocietyforChemotherapy(ISC),NationalUniversityHospitalSingaporeClinicianResearcherGrantNUHSRO/2014/121/CRG/07.Whole-genomesequencingwasfundedbygrantsfromtheAustralianInfectiousDiseaseCentreandAustralianGenomeResearchFacility;theRoyalCollegeofPathologistsofAustralasia(RCPA)Foundation;andtheStudy,Education,andResearchCommittee(SERC)ofPathologyQueensland.DrBeatsonwassupportedbyaNationalHealthandMedicalResearchCouncil(NHMRC)CareerDevelopmentFellowshipduringthecourseofthetrial.DrHarriswassupportedbyanAustralianPostgraduateAwardfromtheUniversityofQueensland.DrPelegwassupportedbyaNHMRCCareerDevelopmentandPractitionerFellowshipduringthecourseofthetrial.DrPatersonwassupportedbyaNHMRCPractitionerFellowshipduringthecourseofthetrial.
+Role of the Funder/Sponsor: Thefundershad
+noroleinthedesignandconductofthestudy;collection,management,analysis,andinterpretationofthedata;preparation,review,orapprovalofthemanuscript;anddecisiontosubmitthemanuscriptforpublication.
+Group Information: TheMERINOTrial
+InvestigatorsandtheAustralasianSocietyforInfectiousDiseaseClinicalResearchNetwork(ASID-CRN)membersincludethefollowing: Royal
+Brisbane & Women’s Hospital: JohnMcNamara
+andRachelSieler. The Alfred Hospital, Melbourne:
+JillGarlick,JessCosta,JanineRoney,andNigelPratt. American University of Beirut Medical
+Center, Lebanon: HoussamTabaja,Joumana
+Kmeid,RalphTayyar,andSaeedElZein. Dandeong
+Hospital, Australia: StephanieJones. Geelong
+Hospital, Australia: RaquelCowan,AlexTai,
+BelindaLin,BabakRad,EleanorMacMorran,andJamesPollard. Istanbul Medipol Mega Hospital
+Complex, Turkey: RumeysaDinleyici,Ayse
+Istanbullu,BahadirCeylan,andAliMert. King
+Fahad Specialist Hospital, Dammam, SaudiArabia:MaiHashhoushandTalebDalwi. Monash
+Medical Centre, Australia: TonyKorman,Rula
+Azzam,MichaelBirrell,CarlyHughes,SadidKhan,JillianLau,LayyangLee,KarenLim,YiDaniLin,DavidLister,DavidNew,NastaranRafiei,JamesStewart,AlexTai,MohamadAliTrad,andVictorAyeYeung. Middlemore Hospital, Auckland, New
+Zealand: StephenMcBride,DavidHolland,
+ChristopherHopkins,ChristopherLuey,SusanTaylor,andSusanMorpeth. Mater Hospital,
+Brisbane, Australia: MelissaFinneyandMegan
+Martin. North Shore Hospital, Auckland, New
+Zealand: UmitHolland. National University
+Hospital, Singapore: JaminahAliandRoland
+Jureen. Princess Alexandria Hospital, Brisbane,
+Australia: NeilUnderwood,AndrewHenderson,
+andNaomiRunnegar. Peter McCallum Cancer
+Centre, Melbourne, Australia: MonicaSlavin.
+Royal Perth Hospital and Fiona Stanley Hospital:
+OwenRobinson. Sunnybrook Hospital, Toronto,
+Canada:AsgarRishu. Wollongong Hospital,
+Australia: SamiaShawkat,JanayeFish,KweeChinLiew,andPeterNewton. Santa Maria Misericordia
+Hospital, Udine, Italy: MariaMerelli,Alessia
+Carnelutti,SilviaUssai,andDavidePecori. Tan Tock
+Seng Hospital, Singapore: EzlynIzharuddin,
+BarnabyYoung,andYingDing. Westmead
+Hospital, Sydney, Australia: RistilaRam,June
+Kelly,andNeelaJoshi. Charlotte Maxeke
+Johannesburg Academic Hospital, South Africa:GuyRichards,OliverSmith,andAhmadAlli. Groote
+Schuur Hospital, Cape Town, South Africa: Inge
+Vermeulen,BrendaWright,ChedwinGrey,AnnemieStewart,DenashaReddy,andSeanWasserman.King Abdulaziz Medical City, Riyadh, SaudiArabia:HanieRichi,KhizraSultana,NoufAlanazi,
+andEmanBinAwad. Ospedale Luigi Sacco, Milan,
+Italy:FabioFranzetti. Pretoria Academic Hospital,
+South Africa: AntonStolz,ElsabeDeKock,Tebogo
+Magongoa,MarizaneDutoit. “Sapienza”
+University, Rome, Italy: AlessandroRusso.
+San
+Remo Hospital: ChiaraDentone. Townsville
+Hospital, Australia: DamonEisen,LizHeyer.
+Additional Contributions: Wethankthedataand
+safetymonitoringboardforitsassistancewiththestudy:JesusRodriguez-Baño(InfectiousDiseasesDivisionatHospitalUniversitarioVirgenMacarena,Seville,Spain)andYoheiDoi(DivisionofInfectiousDiseasesUniversityofPittsburgh,Pittsburgh,Pennsylvania),withindependentstatisticaladvicefromAaronDane.SimonForsyth,PhD(UniversityofQueensland),helpedmanagetheREDCapdatabase.WealsothankHenryChambersMD,PhD(UniversityofCalifornia,SanFrancisco),andScottEvans,PhD(HarvardUniversity),fortheirthoughtfulreviewofthemanuscript.AmyJennison,PhD,andRikkiGraham,PhD(ForensicandScientificServicesLaboratory,Queensland),andtheAustralianGenomeResearchFacilityhelpedfacilitatebacterialwhole-genomesequencing.NouriBen-Zakour,PhD(UniversityofSydney),andMarkSchembri,PhD(UniversityofQueensland),alsosupportedthegenomicdataanalysis.AndrewHenderson,MBBS(UniversityofQueensland),ErnestTan(UniversityofQueensland),andKyraCottrell,BAppSc(UniversityofQueensland),assistedwithphenotypictestingofthebacterialstrains.MarkChatfield,MSc(UniversityofQueensland),helpedattendtoreviewers’statisticalcomments.Noneoftheseindividualsreceivedcompensationfortheirroleinthestudy.TheprotocolwasdevelopedandendorsedbytheASID-CRN,withinputfromJeffreyLipman,MBBCh(UniversityofQueensland),JasonRoberts,PhD(UniversityofQueensland),AndrewStewardson,MBBS,PhD(MonashUniversity),SanjoyPaul,PhD(UniversityofMelbourne),andEmmaMcBryde,MBBS,PhD(JamesCookUniversity).Theydidnotreceivecompensation.Wethankthesiteinvestigators,collaborators,andresearchassistantsfortheirhelpwiththestudy,aswellastheparticipatingmicrobiologylaboratoriesfortheirassistancewithstoringandshippingorganisms.
+REFERENCES
+1. PitoutJD,LauplandKB.Extended-spectrum
+beta-lactamase-producingEnterobacteriaceae:anemergingpublic-healthconcern. Lancet Infect Dis .
+2008;8(3):159-166. doi: 10.1016/S1473-3099(08)
+70041-0
+2. CentersforDiseaseControlandPrevention.
+Antibiotic Resistance Threats in the United States .
+Washington,DC:USDepartmentofHealthandHumanServices;2013.3. PatersonDL,BonomoRA.Extended-spectrum
+beta-lactamases:aclinicalupdate. Clin Microbiol Rev .
+2005;18(4):657-686.doi: 10.1128
+/CMR.18.4.657-686.2005
+4. DoiY,ParkYS,RiveraJI,etal.Community-
+associatedextended-spectrumβ-lactamase-producingEscherichiacoliinfectionintheUnitedStates. Clin Infect Dis .2013;56(5):641-648.doi: 10
+.1093/cid/cis942
+5. PelegAY,HooperDC.Hospital-acquired
+infectionsduetogram-negativebacteria. N Engl J
+Med.2010;362(19):1804-1813.doi: 10.1056
+/NEJMra0904124
+6. McLaughlinM,AdvinculaMR,MalczynskiM,
+QiC,BolonM,ScheetzMH.Correlationsofantibioticuseandcarbapenemresistanceinenterobacteriaceae. Antimicrob Agents Chemother .
+2013;57(10):5131-5133.doi: 10.1128/AAC.00607-13
+7. ChangH-J,HsuP-C,YangC-C,etal.Riskfactors
+andoutcomesofcarbapenem-nonsusceptibleEscherichiacolibacteremia:amatchedcase-controlstudy. J Microbiol Immunol Infect .2011;44(2):125-130.
+doi:10.1016/j.jmii.2010.06.001
+8. HarrisPN,TambyahPA,PatersonDL.β-lactam
+andβ-lactamaseinhibitorcombinationsinthetreatmentofextended-spectrumβ-lactamaseproducingEnterobacteriaceae:timeforareappraisalintheeraoffewantibioticoptions?Lancet Infect Dis .2015;15(4):475-485.doi: 10.1016
+/S1473-3099(14)70950-8
+9. TammaPD,Rodriguez-BanoJ.Theuseof
+noncarbapenemβ-lactamsforthetreatmentofextended-spectrumβ-lactamaseinfections.Clin Infect Dis .2017;64(7):972-980.doi: 10.1093
+/cid/cix034
+10. Rodríguez-BañoJ,NavarroMD,RetamarP,
+PicónE,PascualÁ;Extended-SpectrumBeta-Lactamases–RedEspañoladeInvestigaciónenPatologíaInfecciosa/GrupodeEstudiodeInfecciónHospitalariaGroup.β-Lactam/β-lactaminhibitorcombinationsforthetreatmentofbacteremiaduetoextended-spectrumβ-lactamase-producingEscherichiacoli:aposthocanalysisofprospectivecohorts. Clin Infect Dis .2012;54(2):167-174.
+doi:10.1093/cid/cir790
+11. Gutiérrez-GutiérrezB,Pérez-GaleraS,
+SalamancaE,etal.Amultinational,preregisteredcohortstudyofβ-lactam/β-lactamaseinhibitorcombinationsfortreatmentofbloodstreaminfectionsduetoextended-spectrum-β-lactamase-producingEnterobacteriaceae. Antimicrob Agents
+Chemother .2016;60(7):4159-4169.doi: 10.1128
+/AAC.00365-16
+12. NgTM,KhongWX,HarrisPN,etal.Empiric
+piperacillin-tazobactamversuscarbapenemsinthetreatmentofbacteraemiaduetoextended-spectrumbeta-lactamase-producingEnterobacteriaceae. PLoS One .2016;11(4):e0153696.
+doi:10.1371/journal.pone.0153696
+13. VardakasKZ,TansarliGS,RafailidisPI,
+FalagasME.CarbapenemsversusalternativeantibioticsforthetreatmentofbacteraemiaduetoEnterobacteriaceaeproducingextended-spectrumβ-lactamases:asystematicreviewandmeta-analysis. J Antimicrob Chemother .2012;67
+(12):2793-2803.doi: 10.1093/jac/dks301
+14. TammaPD,HanJH,RockC,etal;Antibacterial
+ResistanceLeadershipGroup.Carbapenemtherapyisassociatedwithimprovedsurvivalcomparedwithpiperacillin-tazobactamforpatientswithEffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection Original Investigation Research
+jama.com (Reprinted) JAMASeptember11,2018 Volume320,Number10 993
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026
+extended-spectrumβ-lactamasebacteremia. Clin
+Infect Dis .2015;60(9):1319-1325 .
+15. HarrisPN,PelegAY,IredellJ,etal.Meropenem
+versuspiperacillin-tazobactamfordefinitivetreatmentofbloodstreaminfectionsduetoceftriaxonenon-susceptibleEscherichiacoliandKlebsiellaspp(theMERINOtrial):studyprotocolforarandomisedcontrolledtrial. Trials.2015;16(1):24.
+doi:10.1186/s13063-014-0541-9
+16. LoudonK,TreweekS,SullivanF,DonnanP,
+ThorpeKE,ZwarensteinM.ThePRECIS-2tool:designingtrialsthatarefitforpurpose. BMJ.2015;
+350:h2147 .
+17. PiaggioG,ElbourneDR,PocockSJ,EvansSJ,
+AltmanDG;CONSORTGroup.Reportingofnoninferiorityandequivalencerandomizedtrials:extensionoftheCONSORT2010statement. JAMA.
+2012;308(24):2594-2604.doi: 10.1001/jama
+.2012.87802
+18. HarrisPA,TaylorR,ThielkeR,PayneJ,Gonzalez
+N,CondeJG.Researchelectronicdatacapture(REDCap):ametadata-drivenmethodologyandworkflowprocessforprovidingtranslationalresearchinformaticssupport. J Biomed Inform .
+2009;42(2):377-381.doi: 10.1016/j.jbi.2008.08.010
+19. EuropeanCommitteeonAntimicrobial
+SusceptibilityTesting. Breakpoint Tables for
+Interpretation of MICs and Zone Diameters,Version 7.1 .Basel,Switzerland:EUCAST;2017.
+20. EuropeanCommitteeonAntimicrobial
+SusceptibilityTesting. EUCAST Guidelines for
+Detection of Resistance Mechanisms and SpecificResistances of Clinical and/or EpidemiologicalImportance, Version 2.0 .Basel,Switzerland:
+EUCAST;2017.
+21. HarrisPNA,BenZakourNL,RobertsLW,etal;
+MERINOTrialinvestigators.Wholegenomeanalysisofcephalosporin-resistantEscherichiacolifrombloodstreaminfectionsinAustralia,NewZealandandSingapore:highprevalenceofCMY-2producersandST131carryingblaCTX-M-15andblaCTX-M-27[publishedonlineDecember14,2017]. J Antimicrob
+Chemother .doi:10.1093/jac/dkx466
+22. ChowS-C,WangH,ShaoJ. Sample Size
+Calculations in Clinical Research .2nded.BocaRaton,
+FL:ChapmanHall;2007.23. MiettinenO,NurminenM.Comparative
+analysisoftworates. Stat Med.1985;4(2):213-226.
+doi:10.1002/sim.4780040211
+24. GartJJ,NamJM.Approximateinterval
+estimationofthedifferenceinbinomialparameters:correctionforskewnessandextensiontomultipletables. Biometrics .1990;46(3):637-643.
+doi:10.2307/2532084
+25. vanBuurenS.Multipleimputationofdiscrete
+andcontinuousdatabyfullyconditionalspecification. Stat Methods Med Res .2007;16(3):
+219-242.doi: 10.1177/0962280206074463
+26. vanBuurenS,Groothuis-OudshoornK.
+mice:MultivariateImputationbyChainedEquationsinR. Journal of Statistical Software .
+https://www.jstatsoft.org/index.php/jss/article/view/v045i03 .Published2011.Accessed
+July16,2018.
+27. R:Alanguageandenvironmentforstatistical
+computing[computerprogram].Vienna,Austria:RFoundationforStatisticalComputing;2017.
+28. KnausWA,DraperEA,WagnerDP,
+ZimmermanJE.APACHEII:aseverityofdiseaseclassificationsystem. Crit Care Med .1985;13(10):
+818-829.doi: 10.1097/00003246-198510000-
+00009
+29
+. CharlsonME,PompeiP,AlesKL,
+MacKenzieCR.Anewmethodofclassifyingprognosticcomorbidityinlongitudinalstudies:developmentandvalidation. J Chronic Dis .1987;40
+(5):373-383.doi: 10.1016/0021-9681(87)90171-8
+30. ChowJW,YuVL.Combinationantibiotic
+therapyversusmonotherapyforgram-negativebacteraemia:acommentary. Int J Antimicrob
+Agents.1999;11(1):7-12.doi: 10.1016/S0924-8579
+(98)00060-0
+31. SeymourCW,LiuVX,IwashynaTJ,etal.
+Assessmentofclinicalcriteriaforsepsis:forthethirdinternationalconsensusdefinitionsforsepsisandsepticshock(sepsis-3). JAMA.2016;315(8):
+762-774.doi: 10.1001/jama.2016.0288
+32. ClinicalandLaboratoryStandardsInstitute.
+Performance standards for antimicrobialsusceptibility testing; twenty third informationalsupplement. CLSI document M100-S24 .Wayne,PA:
+CLSI;2014.33. LinJC,KohTH,LeeN,etal.Genotypesand
+virulenceinserotypeK2Klebsiellapneumoniaefromliverabscessandnon-infectiouscarriersinHongKong,SingaporeandTaiwan. Gut Pathog .
+2014;6:21.doi: 10.1186/1757-4749-6-21
+34. SugumarM,KumarKM,ManoharanA,
+AnbarasuA,RamaiahS.DetectionofOXA-1β-lactamasegeneofKlebsiellapneumoniaefrombloodstreaminfections(BSI)byconventionalPCRandin-silicoanalysistounderstandthemechanismofOXAmediatedresistance. PLoS One .2014;9(3):
+e91800.doi: 10.1371/journal.pone.0091800
+35. BethelCR,DistlerAM,RuszczyckyMW,etal.
+InhibitionofOXA-1β-lactamasebypenems.Antimicrob Agents Chemother .2008;52(9):3135-
+3143.doi: 10.1128/AAC.01677-07
+36. KayeKS,BhowmickT,MetallidisS,etal.
+Effectofmeropenem-vaborbactamvspiperacillin-tazobactamonclinicalcureorimprovementandmicrobialeradicationincomplicatedurinarytractinfection:theTANGOIrandomizedclinicaltrial. JAMA.2018;319(8):788-799.
+doi:10.1001/jama.2018.0438
+37. JohnsonJR,UrbanC,WeissmanSJ,etal;
+AMERECUSInvestigators.MolecularepidemiologicalanalysisofEscherichiacolisequencetypeST131(O25:H4)andblaCTX-M-15amongextended-spectrum-β-lactamase-producingE.colifromtheUnitedStates,2000to2009.Antimicrob Agents Chemother .2012;56(5):2364-
+2370.doi: 10.1128/AAC.05824-11
+38. AmbrosePG,BhavnaniSM,JonesRN.
+Pharmacokinetics-pharmacodynamicsofcefepimeandpiperacillin-tazobactamagainstEscherichiacoliandKlebsiellapneumoniaestrainsproducingextended-spectrumbeta-lactamases:reportfromtheARRESTprogram. Antimicrob Agents Chemother .
+2003;47(5):1643-1646.doi: 10.1128/AAC
+.47.5.1643-1646.2003
+39. NguyenHM,ShierKL,GraberCJ.
+Determiningaclinicalframeworkforuseofcefepimeandβ-lactam/β-lactamaseinhibitorsinthetreatmentofinfectionscausedbyextended-spectrum-β-lactamase-producingEnterobacteriaceae. J Antimicrob Chemother .2014;
+69(4):871-880.doi: 10.1093/jac/dkt450Research Original Investigation EffectofPiperacillin-TazobactamvsMeropenemin Escherichia coli orKlebsiella pneumoniae Infection
+994 JAMA September11,2018 Volume320,Number10 (Reprinted) jama.com
+© 2018 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by Göteborgs Universitet user on 04/06/2026

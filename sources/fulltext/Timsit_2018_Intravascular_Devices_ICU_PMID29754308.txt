@@ -1,0 +1,1072 @@
+Intensive Care Med (2018) 44:742–759
+https://doi.org/10.1007/s00134-018-5212-y
+REVIEW
+A state of the art review on optimal 
+practices to prevent, recognize, and manage 
+complications associated with intravascular 
+devices in the critically ill
+Jean‑François  Timsit1,2* , Mark  Rupp3,4, Emilio  Bouza5,6,7, Vineet  Chopra8, Tarja  Kärpänen9, Kevin  Laupland10, 
+Thiago  Lisboa11,12, Leonard  Mermel13,14, Olivier  Mimoz15,16,17, Jean‑Jacques  Parienti18,19, Garyphalia  Poulakou20, 
+Bertrand  Souweine21,22 and  Walter  Zingg23
+© 2018 Springer ‑Verlag GmbH Germany, part of Springer Nature and ESICM
+Abstract  
+Intravascular catheters are inserted into almost all critically ill patients. This review provides up ‑to‑date insight into 
+available knowledge on epidemiology and diagnosis of complications of central vein and arterial catheters in ICU. It 
+discusses the optimal therapy of catheter ‑related infections and thrombosis. Prevention of complications is a multi‑
+disciplinary task that combines both improvement of the process of care and introduction of new technologies. We 
+emphasize the main component of the prevention strategies that should be used in critical care and propose areas of 
+future investigation in this field.
+Keywords:  Intravascular catheter, Thrombosis, Pulmonary emboli, Sepsis, Critically ill
+Introduction
+Effective treatment of critically ill patients requires reli -
+able vascular access in order to monitor patient status 
+and deliver critically needed fluids, blood products, and 
+medications. Unfortunately, mechanical, thrombotic, and 
+infectious complications are not infrequent and result 
+in substantial morbidity, mortality, and excess cost. This 
+monograph offers expert advice on best practices regard -
+ing the insertion and care of intravascular catheters. 
+The panel was invited by the first author on the basis of 
+their expertise in epidemiology diagnosis, prevention, 
+and treatment of catheter-related bloodstream infection 
+from all over the world. None of the experts declined the 
+invitation. The first version of each section was written by three of the experts, and the text was reread and com -
+mented on by all the experts for improvement and modi -
+fication during two other rounds. No methodology was 
+used to capture evidence in particular, except for relying 
+on systematic reviews whenever possible.
+Epidemiology of infectious and non‑infectious 
+complications
+Central venous catheters (CVC)
+CVCs are frequently used in critical care with up to two-
+thirds of patients admitted to French ICUs being exposed 
+to at least one such device [ 1].
+Jugular, subclavian, and femoral veins are the major 
+insertion sites. Pneumothorax, hemothorax, arterial 
+puncture, cardiac dysrhythmia, and hematoma as well 
+as infection and thrombosis are complications directly 
+related to catheter insertion. The incidence of mechanical 
+complications is primarily related to the choice of inser -
+tion site and number of punctures performed, which can 
+*Correspondence:  Jean‑francois.timsit@aphp.fr 
+1 Université Paris Diderot/Hopital Bichat ‑ Réanimation Medicale et des 
+maladies infectieuses, Paris  75018, France
+Full author information is available at the end of the article
+743
+be reduced by ultrasound (US) guidance. Mechanical 
+complications are associated with significant morbidity and mortality with one study finding a nearly threefold increase in risk of death due to iatrogenic pneumotho
+-
+rax [2]. The occurrence of catheter-related bloodstream infection (CRBSI) can also be devastating, with a signifi
+-
+cant impact on mortality [3, 4] and costs [5].
+Among patient factors, immunosuppression consist -
+ently increases risk [1, 6]. The daily risk of catheter infec -
+tions does not increase over time [7]. Consequently, the benefit of routinely replacing CVCs after a stipulated period of time to prevent catheter infection has not been observed. As the cumulative risk of infection increases with the number of days the CVC is in place, prompt removal of unnecessary CVCs is mandatory [7]. In fact, in the before–after quasi-experimental Michigan Key
+-
+stone Project, prompt CVC removal, together with hand hygiene, use of full-barrier CVC insertion precautions, skin disinfection with chlorhexidine, and avoidance of the femoral site decreased the incidence of central line-associated bloodstream infection (CLABSI) from 7.7 at baseline to 1.4 per 1000 catheter-days [8].
+The least studied CVC complication is thrombosis. 
+Most of them are asymptomatic and occur despite the use of venous thromboprophylaxis [9]. A prospective observational study [10] found that the presence of pul
+-
+monary embolism in mechanically ventilated patients was associated with lower limb deep venous thrombosis in one-third of the cases. More than half of them were related to a femoral catheter. In this study, upper limb thrombosis associated with catheter insertion was not a risk factor for pulmonary emboli.
+Peripherally inserted central catheters (PICCs)
+The use of PICCs has grown dramatically in critically ill patients [11, 12]. Compared to traditional CVCs, PICCs 
+offer a number of advantages including (a) safer insertion via the upper extremity, thus avoiding pneumothorax; (b) convenient placement by nurse-led vascular access teams; and (c) clinical advantages in specific patients (e.g., those with coagulopathies, morbid obesity, head and neck inju
+-
+ries) where CVC placement is more challenging. How -
+ever, like CVCs, PICCs are associated with risks [12]. As a result of their length and small diameter, PICCs are more prone to dislodgement, thrombophlebitis, and catheter malfunction compared to traditional CVCs [12, 13]. A 
+systematic review of 62 studies found that the risk of deep venous thrombosis (DVT) among patients with PICCs was greatest for patients receiving PICCs in the ICU, aver
+-
+aging 13% in this subset [14]. When compared to CVCs, the risk of DVT was 2.5-fold higher (95% CI 1.54–4.32), likely due to insertion in smaller veins that are prone to venous stasis in hypercoagulable patients [14]. For these reasons, PICCs should not be used for short-term (< 15–20  days) catheterization in the ICU [15]. Initial 
+findings of lower CRBSIs in PICCs were likely due to con
+-
+founding by original studies examining outcomes in out -
+patient care, where indication and use are not comparable to inpatient care. A systematic review found no significant difference in rates of CRBSI between CVCs and PICCs in hospitalized (including critically ill) patients [16].
+Hemodialysis catheters
+About one-tenth of critically ill patients require a hemo -
+dialysis catheter (HDC) for renal replacement therapy (RRT) [17]. Although HDCs are inserted in central veins, the epidemiology of their complications cannot be directly extrapolated from other CVCs because HDCs differ in design (dual-lumen catheter with larger diam
+-
+eter), purpose (dedicated to extracorporeal blood venous circulation for RRT), handling (frequent hub disconnec
+-
+tion and manipulation and locking between sessions), and insertion site (subclavian site discouraged to preserve the vascular network). A higher rate of placement failures and hematoma has been reported in jugular compared to femoral veins when using the landmark technique for HDC placement [18]. Rates of HDC-related coloniza
+-
+tion and CRBSI range from 9 to 28/1000  catheter-days [18–20] and 1–3/1000 catheter-days, respectively. While there is no difference of CRBSI between the femoral and the jugular insertion site, HDC colonization is reported to be higher at the femoral site in obese patients [18, 19]. The risk of DC colonization was demonstrated to be steady over time for intermittent hemodialysis [21, 22] 
+but to increase sharply after 10 days for continuous RRT [21]. In two observational studies, the risk of HDC colo
+-
+nization for HDCs replaced for dysfunction did not differ between HDCs inserted by new puncture or exchanged over a guidewire [20, 23]. In a randomized study includ
+-
+ing a mixed ICU and non-ICU population, minocycline–rifampicin-coated HDCs failed to decrease the rate of colonization, but did reduce infection (0/66 versus 7/64 CRBSI in the treatment versus control arm, respectively) [24]. Studies on the efficacy of non-antibiotic antimicro
+-
+bial locks for preventing HDC infections have yielded conflicting results but differ by the types of lock solutions and duration of dwell time exposure [25–27].
+The rates of asymptomatic and symptomatic HDC-asso
+-
+ciated DVT are approximately 16.5% and 0.5%, respectively, with no differences between femoral and jugular placement [18]. HDC dysfunction resulting in HDC replacement 
+ranges from 10% [28] to 26% [27]. No difference between the right jugular and femoral sites (both of which outper
+-
+formed the left jugular site) was observed. Performance was lower at the femoral site compared to the jugular when for HDC < 24 cm or blood flow > 200 ml/min [28].
+744
+Arterial catheters
+The complications of arterial cannulation (AC) include 
+transient vascular occlusion, hematoma, hemorrhage, infection, pseudoaneurysm, air embolism, and neuro
+-
+logic injury [29]. Transient vascular occlusion may result from mechanical obstruction and subsequent thrombosis and occurred more frequently for radial access. Hema
+-
+toma formation occurs in approximately 6% of all femoral access attempts with 0.15% being life-threatening retrop
+-
+eritoneal hemorrhage. The risk of CRBSI associated with AC is comparable to the risk observed for CVCs [9, 30]. 
+However, compared to CVCs, the daily risk increases with time for ACs after day 7. Risk is higher for femoral as compared to radial access [7]. Arterial line CRBSIs are associated with pseudoaneurysm, thromboarteritis, and arterial rupture. Iatrogenic pseudoaneurysms pre
+-
+dominately occur after cannulation, especially in the case of multiple access attempts and coagulopathy and may lead to severe complications such as pseudoaneurysm rupture, distal embolization, and compression neuropa
+-
+thy [ 29]. Mechanical complication risk is decreased by 
+US-guided access. Limiting the duration of AC insertion also reduces the risk of arterial thrombi and infection occurrence.
+Recent advances and ongoing controversies 
+in diagnosis and treatment of vascular catheter‑related infection (Box 1)
+Mechanisms of infection
+Colonization of the catheter occurs via two main path -
+ways: the extraluminal route and the intraluminal route. 
+Colonization of short-term CVCs (< 15–20 days) occurs 
+predominantly from the skin puncture site, whereas colo -
+nization of long-term CVCs is usually related to intralu -
+minal bacterial spread from a contaminated hub [31]. In both cases, the source of microorganisms is usually com
+-
+mensal skin flora or flora of another person who manipu -
+lates the catheter without aseptic technique. Accordingly, coagulase-negative staphylococci are responsible for 40–50% of bloodstream infections, followed by S. aureus 
+(10–20%). gram-negative bacilli, especially Pseudomonas aeruginosa, Stenotrophomonas sp., and Acinetobacter 
+baumannii , are recovered in one-third of cases. Candida 
+sp. are recovered in 3–10% of cases.
+Biofilm formation on the inner and outer surfaces of 
+the catheter contributes to the development of CRBSI [32]. A biofilm is a complex structure formed by bac
+-
+teria that have attached to an artificial surface or tissue [33]. Bacterial attachment to the catheter surface begins within 24 h after catheter insertion. The bacteria prolifer
+-
+ate and secrete a polysaccharide matrix, which provides a medium for the attachment of additional organisms. Formation of a biofilm is virtually inevitable but does not always lead to clinical manifestations of infection, prob
+-
+ably because the bacteria contained in the biofilm are characterized by slow growth and limited virulence. Bio
+-
+film-associated intravascular catheter infections are typi -
+cally resistant to antimicrobials, not only because some antimicrobials cannot penetrate into the biofilm but also because the organisms are metabolically quiescent or slow growing. In addition, biofilms thwart host immune defense mechanisms.
+The pathogenesis of catheter-associated fibrin sheath 
+formation and thrombosis is poorly understood but bio
+-
+film formation is the first event. Subsequently, fibrin and other constituents, such as laminin, collagen, and even muscle cells, convert the film to a mature sheath [34]. Metallic cations, such as magnesium, calcium, and iron, stabilize the biofilm and contribute both to its develop
+-
+ment and bacterial growth [35]. Catheter thrombosis on the fibrin sheath may be facilitated by platelet activa
+-
+tion, decreased levels of protein C and antithrombin III, hyperfibrinogenemia, and homocysteine elevation [32].
+Diagnosis of catheter‑related infections
+The diagnostic methods that are currently accepted are summarized in Table  1. There are important differences 
+between CRBSI and CLABSI that need to be understood in order to properly interpret available studies. To meet the definition of CRBSI, a positive peripheral blood cul
+-
+ture must match a blood culture drawn through the catheter hub or a microorganism grown from a catheter culture (e.g., catheter tip). However, to meet the CLABSI definition a positive peripheral blood culture is not required, nor is a positive catheter culture required. The definition can be met with only a positive blood culture drawn through a catheter hub. As such, this definition requires a single blood culture positive for a pathogen (or two cultures positive for a common commensal) not recovered from another site during the 3  days pre
+-
+ceding and 7  days following the detection of the index bacteremia. The CLABSI definition is adapted for sur
+-
+veillance and is not meant to be used as a clinical defini -
+tion because of its lower specificity [36, 37]. Considerable 
+variability therefore occurs among experts [38, 39] and 
+hospitals [36] in the classification of CLABSI. In addi -
+tion, this definition is influenced by the number of blood cultures performed before introducing new antimicro
+-
+bials and the number of non-blood cultures and other diagnostic tests performed to characterize infectious foci responsible for secondary BSI.
+Fever is non-specific and erythema at the catheter 
+entry site is present in less than half of the cases of CRBSI [40]. Usually, when CRBSI is suspected, the common practice in the ICU is to remove the CVC and to replace it at a new site. However, only about 15–25% of CVCs so 
+745
+Table 1 Definitions of infection‑related catheter complications
+Definition Comments
+Catheter tip colonization Catheter tip culture that yields ≥ 15 cfu/plate (semiquantita‑
+tive),102 cfu/ml (quantitative sonication), or  103 cfu/ml (quantitative 
+vortexing)Qualitative culture should no longer be used
+Exit site infection Tenderness, erythema, or induration > 2 cm at catheter exit site; may 
+be associated with other signs and symptoms of infection, such as 
+fever or purulent drainage at exit site, with or without concomitant bloodstream infectionPositive culture of exudate confirms the exit site infection microbiologi‑
+cally
+NB: colonization without clinical signs does not define exit site infec‑
+tion
+Catheter ‑related bloodstream infection (CRBSI) One positive blood culture obtained from peripheral vein and clinical 
+manifestation of infection and (1) catheter tip colonization or (2) a differential time to positivity of more than 120 min and no obvious source of bloodstream infection except the catheter or (3) simulta‑neous quantitative cultures of blood with a ratio of > 3:1 cfu/mL of 
+blood (catheter vs. peripheral blood); NB: Quantitative culture of the catheter exit site reflects the extraluminal contamination. Its nega‑tive predictive value is higher than 99%Simultaneous quantitative culture from a peripheral vein and the 
+catheter of > 3:1 ratio is rarely used
+NB: Note that this definition differs from the definition of CLABSI used 
+for infection‑ control surveillance activities
+NB: the exclusion of other sources of infection results in important vari‑
+ability in the final classification. Purulence at the catheter exit site is clear evidence indicating the catheter is the source of infection
+Central line ‑associated bloodstream infection (CLABSI) One positive blood culture and clinical manifestation of infection in a 
+patient with a catheter in place with no other source of bacteremia except the catheterEasy to use for surveillance purposes. However, risk of overestimation of 
+BSI incidence due to catheter infection especially in ICU and in onco ‑
+hematological patients (see [127])
+Catheter ‑related clinical sepsis Clinical manifestation of infection that disappears within 48 h of 
+catheter removal and a positive catheter tip culture and no other obvious treated source of infectionRepresents 30–50% of catheter ‑related infections with general mani‑
+festations. Not easy to collect routinely but may need antimicrobial treatment (see text)
+Catheter ‑related thrombophlebitis Clinical definition: induration or erythema, warmth, and pain or 
+tenderness along the tract of a catheterized or recently catheter ‑
+ized vein
+Alternatively, imaging evidence of vascular thrombosis and clinical 
+manifestations concordant with location of a catheterized or recently catheterized vein
+Tunnel infection Tenderness, erythema, and/or induration further than 2 cm from the 
+catheter exit site, along the subcutaneous tract of a tunneled cathe ‑
+ter (e.g., Hickman or Broviac catheter), with or without concomitant bloodstream infection
+Port infection Infected fluid in the subcutaneous pocket, the external surface, and/
+or the catheter tip of a totally implanted intravascular device; often associated with tenderness, erythema, and/or induration over the pocket; spontaneous rupture and drainage, or necrosis of the over ‑
+lying skin, with or without concomitant bloodstream infection
+746
+removed indeed proved infected upon quantitative cath -
+eter tip culture [1, 27, 41–43].
+Diagnostic tests performed after catheter removal
+Qualitative broth culture has a high sensitivity but a very 
+low specificity, and is unable to distinguish contamina -
+tion from infection. Quantitative culture techniques have been developed and used to explore either the extra
+-
+luminal surface of the catheter (semiquantitative Maki roll-plate technique) or the extra- and intraluminal sur
+-
+faces via sonication or vortex wash [44–47]. Quantita -
+tive culture techniques have not been proven to be more accurate than the semiquantitative roll-plate method for short-term CVCs [48–50]. The sensitivity of catheter cul
+-
+ture [51, 52] may be decreased by prior antimicrobials 
+and this point should be kept in mind when interpreting negative or borderline culture results and emphasizes the need for diagnostic testing (blood and catheter cultures) before starting antimicrobials.
+Diagnosis of CRBSI with catheter in place
+Diagnostic techniques allowing an accurate diagnosis while keeping the catheter in place [53] are an attractive option for diagnosis unless CRBSI is suspected to be the cause of severe sepsis, in which case the catheter should be promptly removed [48].
+Quantitative culture of  catheter exit site A negative 
+quantitative culture of the catheter exit site in case of 
+suspicion of infection almost always rules out the diag
+-
+nosis of CRBSI (NPV = 99.2%) and unnecessary catheter 
+replacement ,but routine surveillance cultures are not helpful [54, 55].
+Simultaneous blood cultures from  catheter and  periph
+-
+eral vein Simultaneous blood cultures, drawn through 
+the catheter and a peripheral vein, without removal or 
+exchange of the catheter, are an accurate means to diag -
+nose CRBSI. Differential quantitative blood culture using the lysis centrifugation technique is cumbersome, rarely available, and is further limited by the lack of standardized cutoff points (published cutoffs vary from ≥ 3:1 to ≥ 8:1) 
+[46]. The time to positivity of a blood culture is closely related to the bacterial concentration in the blood. There
+-
+fore, the differential time to positivity (DTTP) of hub-drawn blood culture as compared to peripherally drawn blood culture has been proposed as a means to diagnose CRBSI [ 56]. If a cutoff of 120 min is used, sensitivity, spec
+-
+ificity, PPV, and NPV are greater than 90% [56]. This tech -
+nique theoretically only explores the intraluminal route of infection, but recent papers suggest that it can be used for both short-term and long-term CRBSI diagnosis [56–58]. Unfortunately, aspiration of blood for culture, drawn through the catheter lumen, is not possible in one-fourth of the cases primarily because of luminal occlusion [59]. Furthermore, each lumen may represent a source of infec
+-
+tion and it has been shown that the sampling of one out of three lumens of triple-lumen catheters misses 37% of CRBSI cases [60]. The 120-min cutoff may depend on the time of growth for specific etiologic agents. For example, the 120-min cutoff is less accurate for Candida sp. and S. aureus [61]. The accuracy of the technique is based on sampling the same amount of blood from both the cath
+-
+eter and peripherally.
+Is systemic treatment necessary in patients 
+with positive catheter tip culture but negative blood cultures?
+A review of available trials showed that only 17% of 
+patients with positive catheter cultures had CRBSI [62]. A positive catheter tip culture in the absence of a positive blood culture was associated with only a 1.3% incidence of subsequent BSI in one ICU [63]. Therefore, the con
+-
+sequence of a positive catheter culture without positive blood cultures in a non-symptomatic patient is a chal
+-
+lenge at the bedside.
+The Infectious Diseases Society of America (IDSA) 
+guidelines [48] recommend that catheter tips should not be cultured routinely, but only upon removal for sus
+-
+pected CRBSI. However, in the ICU, where abnormal temperature is present in more than half of the patients at the time of catheter removal and two of the four SIRS criteria are present in about 90% of patients, most cath
+-
+eter tips end up being cultured [43, 64]. Finally, the pres -
+ence of SIRS criteria or local signs was not predictive of subsequent infections in ICU cohorts studied [63, 65–
+67]. Studies that have explored this topic are summarized in Table E1.
+Other factors that may be considered for therapeutic 
+decision
+The decision of whether antibiotic treatment is initiated 
+in the case of a positive catheter tip culture depends on the identified microorganism. The risk of BSI may be higher if S.  aureus or non-fermentative gram-negative bacilli are recovered from a catheter tip (see Table  E1). Other favorable factors are an immunocompromised sta
+-
+tus and thrombosis of the catheterized vein [68].
+Duration of therapy is not known. A maximum of 
+7 days is accepted by the expert panel. A reasonable diag -
+nostic and therapeutic strategy is proposed in Fig. 1.
+Treatment of catheter‑related bloodstream 
+infections
+Treatment of CRBSI usually involves initiation of empiric 
+therapy prior to the availability of culture results with 
+747
+subsequent targeted treatment based on organism iden -
+tification and antimicrobial susceptibility testing results. 
+General principles include source control (removal of an infected catheter which in turn depends on pathogen and type of catheter) and administration of high dose (intra
+-
+venous) bactericidal agents with the narrowest spectrum possible. Duration of therapy is based on clinical features as well as the identified microorganism. Lock therapy and catheter salvage should not be proposed for ICU patients.
+Empiric treatment
+Empiric therapy (i.e., that initiated prior to availability of culture data) should be individualized to the patient’s characteristics, risk factors, and local epidemiology. CRBSIs are frequently due to gram-positive organ
+-
+isms and, accordingly, vancomycin is the cornerstone of the empiric regimen in settings with high prevalence of MRSA [1]. Empiric coverage for gram-negative organ
+-
+isms, particularly for P.  aeruginosa, should be based on clinical and epidemiological factors, such as severity of disease, known colonization or exposure to healthcare settings with increased probability of colonization, and neutropenia or hematologic malignancy [48]. In addi
+-
+tion, previous multidrug-resistant (MDR) gram-negative infection, critical illness, neutropenia, prior antibiotic therapy, or presence of a femoral catheter are recog
+-
+nized risk factors for MDR gram-negative infections [69]. Where patients are colonized with an MDR, the choice of the empiric treatment regimen should be based on previous susceptibility profiles. A carbapenem or a beta-lactam with beta-lactamase inhibitor with or without an aminoglycoside is generally recommended [70, 71].
+Empiric coverage for candidemia should be considered 
+if multiple sites are colonized with Candida spp. or for patients with bone marrow or organ transplants, hema
+-
+tologic malignancy, femoral catheterization, or when patients are receiving total parenteral nutrition or pro
+-
+longed administration of broad-spectrum antibiotics. Empiric treatment consists mainly of an echinocandin, whereas fluconazole may represent an option in set
+-
+tings without recovery of C. glabrata or C. krusei and in patients without exposure to fluconazole in the previous 3 months [48, 72]. The targeted treatment depends on the 
+microorganisms recovered and is discussed in the elec
+-
+tronic supplement and summarized in Table 2.
+Duration of treatment
+The duration of treatment depends on several fac -
+tors such as the pathogen, the type of the catheter, the host, and the presence of complications (Table  3). It is 
+mostly based on experts’ opinions and old cohort stud
+-
+ies. No strong evidence exists to support the actual recommendations.Surveillanc eTreatmen tCNS S. aureus
+2BC; PCT
+US
+Short tr eatmen tif no 
+thrombos is
+Long treatmen tif 
+thrombos isor risk
+factors*
+(Echocardiography) Bloodculture sif riskfactors*Ebact
+No treatment? Watchful
+waiting and US  
+examination if doubtCandid a
+NF GNB
+(Enterococci )
+2BC; PCT, BD glugan
+US examinatio n
+Short tr eatment if thrombosis, if 
+ECMO /CVVH, if transplant
+In other cases watchful waiting
+Short tr eatmen t= 3-5 day s
+Long treatmen t= 10-14 days unles scomplications
+Fig. 1 Proposed strategy in case of positive catheter tip culture without positive blood culture. CNS coagulase negative staphylococci, Ebact Entero -
+bacteriaceae, NF GNB non‑fermentative gram‑negative bacilli, US ultrasound examination, BC blood cultures, BDG 1,3‑beta‑ d‑glucan, ECMO extra‑
+corporeal membrane oxygenation, CVVH continuous veno ‑venous hemofiltration, PCT serum procalcitonin. Green boxes represent microorganisms 
+for which the absence of therapy is reasonable most of the time. The risk of watchful waiting should be scrutinized for microorganism mentioned in 
+the orange box. For S. aureus in red, the treatment is the most reasonable approach. *Risk factors: implantable devices or immunosuppression
+748
+Table 2 Proposed targeted therapy of CRBSI
+Pathogen/clinical scenario Conditions and comments Duration of  treatmenta
+Uncomplicated CRBSI
+ General concept for gram‑negative bacilli Negative blood cultures following catheter 
+removal or guidewire exchange
+Antibiotic therapy choice based on in vitro sus‑
+ceptibility, bactericidal mechanism, narrowest 
+spectrum possible7–14 days
+ General concept for gram‑positive cocci exclud‑
+ing Staphylococcus aureusNegative follow‑up blood cultures following 
+catheter removal or guidewire exchange
+Antibiotic therapy choice based on in vitro sus‑
+ceptibility, bactericidal mechanism, narrowest spectrum possible
+No clinical evidence of complicated infection, risk 
+factors for endocarditis, or hardware infection≤ 7 days for low virulence organisms and 
+10–14 days otherwise
+ Staphylococcus aureus Requires ALL of the following:Negative follow‑up blood cultures following 
+catheter removal or guidewire exchange
+Anti‑staphylococcal penicillin or first ‑generation 
+cephalosporin for MSSA; vancomycin or dapto ‑
+mycin for MRSA
+If MRSA, MIC must be ≤ 1.0 g/L
+Prompt response to institution of therapyNo indwelling devices (such as prosthetic heart 
+valves or vascular grafts) are present
+There is no clinical evidence of metastatic staphy‑
+lococcal infection
+Infective endocarditis has been excluded with 
+echocardiography14 days
+ Candida sp. Negative follow‑up blood cultures following 
+catheter removal or guidewire exchange
+Antifungal therapy with echinocandin or flucona‑
+zole, choice based on in vitro susceptibility
+Ophthalmologic exam negative for fungus if 
+echinocandin to be used14 days
+ All organisms if catheter removal is not possible Salvage treatment with antibiotic lock and sys‑
+temic treatment
+Low success rates; exceptionally used when 
+catheter exchange/removal is not possible in patients without sepsis of shock4 weeks
+(Enterococcus spp.) Shorter treatment may be applied for entero ‑
+coccal CRBSIs in both the setting of catheter removal and salvage, if complicated infection is excluded
+E. faecalis requires thorough investigation for 
+complicated infection, similarly to S. aureus7–14 days
+ Coagulase ‑negative staphylococci After catheter removal, in the absence of risk 
+cardiac factors, short treatment is feasible5–7 days
+10–14 days
+Complicated CRBSI
+ General concept all organisms Persistent bacteremia following catheter removal 
+and receipt of effective antimicrobial therapy
+Initiate search for complications (i.e., echocardio ‑
+gram) and metastatic foci4–6 weeks
+ General concept all organisms Complications related to bacteremia (i.e., sup ‑
+purative thrombophlebitis, endocarditis, osteo ‑
+myelitis, metastatic infection)4–6 weeks plus treatment adjusted to manage 
+the complication
+749
+Essential preventive measures critical care 
+specialists should offer (Box 2)
+Although attention to catheter insertion and main -
+tenance is of utmost importance in the prevention of 
+CRBSI, it must be kept in mind that the only sure way to prevent CRBSI, as well as other catheter-related com
+-
+plications, is to avoid a catheter. An increasing body of literature indicates the safety of peripheral intravenous lines for low-dose, short-term vasopressor infusions. To this end, minimization of catheter use or alternatives are an important aspect of CRBSI prevention.
+Optimal route for arterial and venous access
+The femoral route for central venous access is considered contaminated and prone to thrombosis [73]. Although the subclavian site for vein access in ICU patients has proven superior with regard to infectious and thrombotic complications compared to femoral access in a rand
+-
+omized study [73], the subclavian site was associated with mechanical complications in 17% of patients [42, 73]. In 
+a pragmatic multicenter, randomized trial of 2532 cen
+-
+tral venous catheterizations, subclavian, internal jugular, and femoral access routes have been compared for the risk of mechanical, thrombosis, and infectious complica
+-
+tions. This study showed that both internal jugular and femoral access increased the risk of CRBSI as compared with the subclavian site [42]. This study also showed that the time to intravascular complications differed between sites (p = 0.02), and the subclavian site proved safer than 
+the jugular site [hazard ratio (HR) 2.5, 95% confidence interval (CI) 1.1–5.6)] or the femoral site (HR 3.1, 95% CI 1.4–7.1), particularly for dwell time > 5 days. The rate of 
+complications was similar between internal jugular and femoral routes. Therefore, the optimal route for venous access depends of the expected duration of catheteriza
+-
+tion and the type of complication most concerning for an individual patient: immediate mechanical versus cumula
+-
+tive intravascular risks (Fig. 2).
+Regarding arterial access, a meta-analysis of 59 obser -
+vational studies [74] found that the risk of AC infection was higher for femoral site compared with radial site access (relative risk 1.93, 95% CI 1.32–2.84; p = 0.001).
+Ultrasound for insertion
+Systematic reviews have shown that the use of ultra -
+sound, compared to anatomic landmarks, is associated with a 10–80% greater procedural success, lower number of attempts, shorter time to catheterize the vessel, and a 50% reduction of mechanical complications especially for internal jugular and subclavian access [75, 76]. Ultra
+-
+sound also allows for prompt recognition of complica -
+tions [77], such as pneumothorax. Similarly, the use of ultrasound improves insertion success, reduces access time, and improves safety when placing PICCs [78], or arterial and peripheral venous catheters, particularly when difficult vascular access is anticipated.
+Indeed, access to appropriate equipment is necessary 
+[79]. A recent review of the literature and summary rec
+-
+ommendations suggests combining anatomic landmarks and ultrasound to improve safety. Online training for use of ultrasound, while growing, must be paired with real-time coaching in order to increase success and ensure adoption.
+Cutaneous antisepsis
+Skin antisepsis is one of the most important preven -
+tive measures. Numerous studies have been con -
+ducted to identify the best antiseptic solution for skin Table 2 continued
+Pathogen/clinical scenario Conditions and comments Duration of  treatmenta
+ Staphylococcus aureus Source control of metastatic complications (i.e., 
+abscess drainage, tube thoracostomy, arthros‑
+copy, surgical debridement)
+MSSA anti‑staphylococcal penicillin or first ‑gen‑
+eration cephalosporin (contraindicated if CNS involvement)
+MRSA vancomycin (caution MIC ≥ 1.5 g/L) or 
+daptomycin (caution lung involvement)
+MRSA poor response to first ‑line therapy switch to 
+ceftaroline or use combination therapies4–6 weeks plus treatment adjusted to manage 
+the complication
+ Candida sp. Endocarditis requires surgical evaluationCNS/eye involvement contraindicates echino ‑
+candin; use amphotericin/5‑FU followed by fluconazole if susceptible4–6 weeks plus treatment adjusted to manage 
+the complication
+MRSA methicillin-resistant Staphylococcus aureus, MSSA methicillin-susceptible Staphylococcus aureus, MIC minimum inhibitory concentration, CNS central nervous 
+system
+a Proposed duration of therapy referred to old cohort studies or experts’ recommendations. Shorter duration of therapy in case of uncomplicated bloodstream 
+infections should be tested
+750
+Table 3 Elements of  bundle of  catheter care and  maintenance (adapted from  https ://www.joint  commi ssion .org/asset s/1/6/CLABS I_Toolk  it_Tool_3‑18_CVC_
+Inser  tion_Bundl es.pdf )
+Organization Insertion bundle elements Maintenance bundle elements
+Michigan Keystone Intensive 
+Care
+Unit ProjectHand hygiene before catheter insertion
+Use of full barrier precautions
+Chlorhexidine skin preparation
+Avoidance of the femoral vein for inserting CVCs (except in children)Prompt removal of CVCs
+Institute for Healthcare 
+Improvement
+5 Million Lives CampaignHand hygieneMaximal barrier precautions upon insertionChlorhexidine skin antisepsis
+Optimal catheter site selection, avoid femoral vein for CVC insertion in adults
+Daily review of line necessity; prompt removal of unnecessary lines
+Canadian Patient Safety 
+Institute
+Safer Healthcare Now!Hand hygiene
+Maximal barrier precautions
+Chlorhexidine skin antisepsisOptimal catheter type and site selection
+In adults, subclavian vein insertion preferred; avoid femoral vein insertion
+In children, insertion site choice individualizedDaily review of line necessity, with prompt removal of unnecessary lines
+Aseptic lumen access
+Catheter site and tubing care
+United Kingdom Department 
+of Health High Impact Intervention
+Central venous catheter care 
+bundleCatheter type Use single ‑lumen catheter unless otherwise indicated
+ Use antimicrobial‑impregnated catheter if estimated duration of 1–3 weeks and high 
+risk of catheter ‑related bloodstream infection
+Insertion site Subclavian or internal jugular veinPersonal protective equipment
+ Maximal sterile barriers during insertion (sterile gown, sterile gloves, large sterile drape)
+ Eye and full body protectionSkin preparation 2% chlorhexidine gluconate in 70% isopropyl alcohol is used; allow to dry for at least 
+30 s
+Hand hygiene Hand hygiene before and after each episode of patient contact
+Dressing
+ Sterile, transparent, semipermeable dressing Safe disposal of sharps
+ Sharps are disposed of safely at the point of care
+Documentation
+ Document details of insertion in the medical recordHand hygiene
+ Hand hygiene immediately before and after each episode of patient contact
+Site inspection
+ Insertion site inspected daily for signs of infection; record finding in medical record
+Dressing
+ Intact, dry, adherent transparent dressing is present Clean insertion site with 2% chlorhexidine gluconate in 70% isopropyl alcohol prior to 
+dressing changes
+Catheter injection ports Cover injection ports with caps or valved connectorsCatheter access
+ Use aseptic technique to access the line
+ Clean ports and hubs with 2% chlorhexidine gluconate in 70% isopropyl alcoholprior to accessing catheters
+Administration set replacement
+ Replace immediately after administration of blood or blood products Replace after 24 h after administration of lipid‑ containing total parenteral nutrition
+ Replace within 72 h of all other fluid setsCatheter replacement
+ Catheter is removed if no longer required or decision not to remove is recorded
+Details of removal are documented in the medical record
+Health Protection Scotland: 
+Preventing infections when 
+inserting and maintaining 
+a CVCPerform surgical scrubUse maximal sterile barrier precautions (headwear, mask, sterile gown, and sterile gloves)
+Apply a sterile body drape to the patient
+Aseptic technique is maintained throughout catheter insertion
+2% chlorhexidine in 70% isopropyl alcohol is used for insertion site skin preparation and 
+allowed to dry before catheter insertion
+Use the subclavian site is used if possible, or internal jugular vein; femoral vein insertion 
+should be avoided whenever possible
+Use a sterile transparent, semipermeable dressing Need for the CVC is reviewed and recorded on a daily basis
+ CVC dressing is intact CVC dressing has been changed in the last 7 days
+ 2% chlorhexidine gluconate in 70% isopropyl alcohol is used for cleaning
+insertion sites during dressing changesHand hygiene is performed immediately before accessing the line or site
+Use an antiseptic containing 70% isopropyl alcohol for at least 15 s to clean the access 
+hub prior to accessing
+751
+decontamination and their main findings can be summa -
+rized as follows [6, 41, 80]: (1) application of sterile 2% 
+(w/v) alcoholic chlorhexidine gluconate (CHG) to decon -
+taminate the skin prior to insertion of a vascular cath -
+eter represents standard of care; (2) no cleansing of the 
+skin with soap or detergent is necessary unless the skin is obviously contaminated; (3) neither aqueous nor alco
+-
+holic povidone–iodine should be used as a first-line agent for skin decontamination.
+Adequate skin decontamination also requires correct 
+application technique, including the dose for the skin sur
+-
+face area and allowing adequate drying time. The optimal modality of antiseptic application remains controversial [81]. Application of the antiseptic either using applicators or sterile gauze handled with a pincer may increase anti
+-
+septic diffusion into the deeper layers of skin while keep -
+ing the hands of the operator away to reduce the risk of contamination. Single-use vials containing sterilized anti
+-
+septic further reduce the risk of contaminated solutions from multi-use bottles but may increase costs. Although CHG is the most effective disinfectant, it is associated with more cutaneous skin reactions [41, 82]. Although 
+rare, severe allergy and anaphylaxis to CHG has also been reported. Given the widespread use of CHG in medicine, the development of CHG resistance and cross-resistance to clinically relevant antibiotics has become a concern. To date, decreased microbial susceptibility to CHG (tol
+-
+erance), measured with increased minimum bactericidal concentration (MBC), has been observed [83] and is pri
+-
+marily due to the presence of multidrug efflux pumps. However, the clinical impact of this is uncertain as the concentration of CHG in clinical use still far exceeds the MBC. However, CHG tolerance has been associated with MRSA decolonization protocol failure [84]. Ubiquitous use of CHG, including in body washes, oral care, and decontamination of medical devices, however, warrants closer monitoring for emergence of resistant strains to CHG and cross-resistance to antibiotics [85]. Developing 
+the armamentarium of new effective antiseptics should therefore be a priority moving forwards.
+Chlorhexidine bathing
+A growing body of literature indicates that routine patient washing with chlorhexidine or universal decolo
+-
+nization protocols result in CLABSI reduction [86–88]. A recent meta-analysis of available randomized controlled trials (RCTs) suggests that the intervention is mainly active on gram-positive commensals [89].
+Impregnated materials
+A wide variety of antimicrobial-impregnated devices, designed to prevent CRBSI, have been introduced into clinical use, including impregnated CVCs, antimicrobial dressings, coated needleless connectors, and passive port protectors. The use of these devices should be proposed when a continuous quality improvement program failed to reach its objective [85].
+CHG dressings
+Both CHG-impregnated sponges and CHG-gel dressings are associated with a 60% decrease in the risk of arterial and central venous catheter infections including CRBSIs [43, 64]. CHG-containing dressings have demonstrated 
+efficacy in reducing the risk of CRBSI in ICU patients [90], although these are associated with a 1% risk of con
+-
+tact dermatitis in adults.
+Implementation of CHG dressings into clinical areas 
+therefore needs to be considered, especially in adult patients when the risk of infection is high despite the use of appropriate bundles of catheter care.
+Antimicrobial coated or impregnated CVCs
+A meta-analysis of five RCTs evaluating CHG–silver sulfadiazine-impregnated catheters incorporated into Inser/g415on  
+Success Mechanical *T hrombosi sI nfec/g415o n
+Femoral
+Jugular
+Subclavian
+*Risk of major mechanical co mplica/g415ons.  This risk is signiﬁcantly lower for ultrasound -guided jugular inser/g415on ( [75])
+Good
+Averag e
+Poor  
+Fig. 2 Specific advantages and attendant risks of each central venous site in the ICU. *Risk of major mechanical complications. This risk is signifi‑
+cantly lower for ultrasound‑ guided jugular insertion [75]
+752
+both the internal and the external surfaces has shown 
+to halve the risk of CRBSI [OR 0.51 (0.26–1.00)] [91]. However, this analysis found significant heterogeneity between studies. Catheters impregnated intraluminally and extraluminally with minocycline–rifampin reduce the risk or CRBSI as compared to polyurethane catheters and to externally coated chlorhexidine–silver sulfadia
+-
+zine-impregnated catheters (OR 0.23, 95% CI 0.14–0.40) [92]. Their use decreases the risk of CRBSI as compared to non-impregnated controls [5 studies in ICU, OR 0.26 (0.15–0.47)] [91]. However, many of the studies were performed in the era before infection preventive bun
+-
+dles were routine and whether impregnated catheters are cost-effective in such settings is not known. Although the emergence of antimicrobial resistance is of concern, par
+-
+ticularly with the minocycline–rifampin-coated catheter, this was not observed in controlled trials and in a large monocenter cohort (9200 CVCs/500,000 CVC days) [93]. Nevertheless, rifampin and minocycline are sometimes used as therapy in severe infections due to Acinetobac
+-
+ter baumannii  and MRSA and this should be considered 
+when making institutional decisions regarding the intro -
+duction of a coated or impregnated CVC.
+Other catheters impregnated with Oligon, silver zeo -
+lite, carbon, and platinum have been tested but have not proven their efficacy [91].
+Catheter lock for preventing thrombotic and infectious 
+complications
+The antimicrobial lock therapy (ALT) consists in instill -
+ing an antimicrobial solution into a catheter lumen for a 
+certain period of time to achieve a high local antimicro -
+bial concentration, thus overcoming sessile bacteria and fungi resistance and preventing or treating CRBSI. ALT is intended for catheters not used continuously and targets endoluminal catheter infections. Therefore, most avail
+-
+able data evaluating this strategy comes from long-term devices. In these patients, lock solutions with antibiotics (such as vancomycin or gentamicin) mixed in heparin to obtain antimicrobial–anticoagulant lock solutions can reduce long-term CRBSI [94] but may lead to the emer
+-
+gence of antibiotic-resistant organisms [95] and could lead to systemic toxicity due to lock solution spillage from catheters.
+The use of fibrinolytics in lock solutions reduced tun
+-
+neled dialysis catheter infection and dysfunction [96]. Cationic chelator-based solutions combined with anti-infectious agents not used for parenteral administration have been successfully used for preventing long-term catheter infections. In contrast, lock solutions with cit
+-
+rate alone, taurolidine citrate, or concentrated etha -
+nol have yielded conflicting results on their efficacy for CRBSI prevention or maintaining catheter patency [97–100].
+The extrapolation of these studies to short-term cath
+-
+eters inserted in critically ill patients is questionable because of differences in catheter type, use, and accessi
+-
+bility for ALT. Studies on ALT in ICU patients are scarce and addressed mainly hemodialysis catheters, since their lumens are idle and available for ALT only between renal replacement therapy sessions [25–27]. The results of a large study comparing interdialytic lock with unfraction
+-
+ated heparin and 4% citrate are not yet available [101]. Today, the routine use of prophylactic ALT for short-term catheter cannot be recommended.
+Relationship between thrombosis and infection
+Some clinical data [68, 102] suggest a close relationship 
+between catheter thrombosis and infection, especially in the superior vena caval territory [73, 103]. The diagnosis 
+of catheter thrombosis should therefore increase suspi
+-
+cion for catheter-related infection.
+Thrombosis risk is particularly pronounced for PICCs 
+as they often migrate from the cavoatrial junction [104] and are inserted into smaller veins.
+Anticoagulant and antithrombotic agents have been 
+used to prevent and manage thrombotic complications of central venous catheters. Several RCTs conducted in ICU patients have yielded conflicting results on the impact of heparin flushing to maintain line patency and there is insufficient evidence to recommend this practice [105]. There is a lack of clinical trial data to support the specific use of systemic anticoagulant therapy to prevent cathe
+-
+ter-related thrombosis in critically ill adults. Although an individualized risk–benefit evaluation is required, patients with cancer, inherited or acquired thrombo
+-
+philia, or recurrent thrombosis of unknown etiology may benefit from systemic anticoagulation to prevent cathe
+-
+ter-related complications [106]. It is not uncommon for catheter lumens to become occluded. Where not con
+-
+traindicated (e.g., infection), the use of fibrinolytic thera -
+pies can safely restore patency with associated reduction in cost [107, 108].
+Essential components of bundles of care
+Insertion and maintenance bundles have been developed to prevent microbial colonization of central venous cath
+-
+eters, thereby mitigating risk of CRBSI. Implementation of such bundles has been demonstrated to reduce the incidence of CLABSI by 52% (95% CI 32–66%) on the basis of high-quality studies [109]. Examples of some bundles are noted in Table  3. Although nearly half of 
+US ICUs reported having a CLABSI prevention bun
+-
+dle policy in a 2011 paper, only 38% of institutions that monitored bundle implementation reported full bundle 
+753
+compliance [110]. Monitoring adherence to the process 
+of care is key in obtaining positive results from bundle implementation. Importantly, the full impact and sus
+-
+tainability of bundles at the institutional level can only be achieved once a safety culture is adopted by the organiza
+-
+tion [111, 112].
+Role of nursing care
+The IV catheter care bundle includes a best practice checklist for catheter insertion, appropriate post-inser
+-
+tion catheter care, and prompt removal of the catheter when no longer required for patient care [113–115]. Nursing staff have an important role during these pro
+-
+cesses, but any personnel involved with the care of intra -
+vascular catheters should be trained and competent. The checklist is a tool to ensure the catheter insertion proce
+-
+dure is followed correctly, and it empowers healthcare workers to challenge and halt the procedure if this is not followed correctly. Appropriate post-insertion catheter care includes the following [116]: maintain a clean and dry catheter site and ensure that the dressing is intact; cleanse the skin with an antiseptic agent and allow it to dry when the dressing is replaced; unless clinically indi
+-
+cated, replace sterile, transparent, semipermeable poly -
+urethane dressings every 7  days [43] or daily if a gauze and tape dressing is used because of bleeding or excessive perspiration. Frequent dressing disruption may increase the risk of catheter-related infections over 12-fold in comparison to CVC without disruptions, especially with CVC inserted into jugular femoral veins [117]. Aseptic technique should be utilized when accessing or manip
+-
+ulating the catheter. Access devices or ports and infu -
+sion sets should be replaced as per local guidelines and manufacturers’ instructions. Although needle-free access devices may reduce the risk of infection, compliance with appropriate cleaning of these access devices is of para
+-
+mount importance in reducing the risk of infection.
+Knowledge, education, behavioral interventions: what is 
+useful?
+The most important intervention that reduced the inci -
+dence of CLABSI in the past decade was practice change 
+[118]. The adoption of best practice strategies reduced CLABSI rates by more than 50%. Education and training are at the heart of any behavior change strategy. How
+-
+ever, rather than the evidence base, individual experi -
+ence and personal perceptions are the main drivers for practice [119]. Thus, isolated knowledge delivery by ex cathedra teaching or handing out written protocols is not sufficient to change behavior. A systematic review on organization and structure of infection control identi
+-
+fied three key components addressing knowledge, educa -
+tion, and behavioral interventions directly or indirectly: (1) education and training involves frontline staff and is team- and task-oriented; (2) guidelines should be used in combination with practical education and training; and (3) implementation follows a multimodal strategy, including tools such as bundles and checklists, developed by multidisciplinary teams, taking into account local con
+-
+ditions [109, 120]. Behavioral change interventions pass 
+within an organizational culture [121]. Multimodal strat -
+egies improve the likelihood of implementation success because they take into account the local context. A mul
+-
+timodal strategy is the combination of best practice pro -
+cedures and technology, promoted by different “modes” such as lectures, visual cues, simulations, bedside train
+-
+ing, knowledge tests, or other imaginative ideas to raise interest and awareness of healthcare professionals aimed at changing behavior. Education and training should be both hands-on at the bedside and by use of skills labora
+-
+tories. Training should be a peer-to-peer action; involv -
+ing frontline staff in the process of planning improves acceptance and allows healthcare professionals to iden
+-
+tify with a behavioral change program.
+Bundles per se are not multimodal strategies but mne -
+monic milestones in complex procedures, originally established as an implementation tool. Bundled and non-bundled strategies were both effective in CLABSI reduction in a recent systematic review [122]. However, defining memorizable and measurable milestones help in the planning, execution, and evaluation of behavioral change interventions [118, 123, 124].
+Unanswered questions and roadmap for future 
+investigations
+Pathophysiology–epidemiology
+  –Not only infectious but also non-infectious complica -
+tions may lead to severe adverse events. Large multi -
+center epidemiological studies exploring the risks of 
+infectious and non-infectious complications and their severity in ICU patients are lacking.
+  –It is also important to develop outcome indicators combining infectious and non-infectious complica
+-
+tions of catheters in ICU.
+  –More research is needed to understand thrombosis formation, the dynamics of catheter tip colonization and the interplay between them, during the course of central venous catheterization. Specific predictive markers of catheter thrombosis should also be devel
+-
+oped and tested.
+Diagnostic strategies
+  –The value of early diagnostic techniques aimed to avoid unnecessary catheter removal should be investigated.
+754
+  –The utility of molecular techniques in the diagnosis 
+of CRBSI is not known and requires careful investiga -
+tions.
+Therapeutic strategies
+  –The benefit of an antibiotic therapy in patients with positive catheter culture without blood culture should be investigated (especially for non-staphylococcal iso
+-
+lates).
+  –The optimized duration of therapy for low virulence organisms following catheter removal is not known either in CRBSI or clinical sepsis. Comparison between very short antimicrobial therapy (1 dose in 48–72  h) versus 7–10  days is needed. Short- and long-term strategies should integrate both the nature of the microorganism and the underlying conditions.
+  –The balance between benefits and risks of anticoagu
+-
+lant therapy in case of asymptomatic catheter throm -
+bosis should be studied in further interventional trials.
+Prevention and nursing care
+  –Is routine insertion of CVC indicated in patients with low dose of vasopressor and adequate peripheral IV access?
+  –The role of PICCs compared to CVC in ICU patients requires further study and should combine infectious and non-infectious complications including thrombo
+-
+sis and infections. The respective advantages of femo -
+ral versus radial arterial catheters in terms of both infectious and non-infectious complications remain limited and require further interventional trials.
+  –Adequate securement of the catheter is important in preventing mechanical and infectious complications. Although sutures are widely used for intravascular catheter securement, suture colonization may increase the risk of infection. The appropriate securement of intravascular catheters in critically ill patients requires further evidence.
+  –Alcoholic 2% (w/v) CHG is currently recommended for skin antisepsis; the ideal concentration as well as the concentration of alcohol in the antiseptic solu
+-
+tion requires further evidence. For example, although high concentration of alcohol has a rapid antimicrobial action and drying time may be clinically appropriate, lower concentration of alcohol may improve the skin permeation of the antiseptic agent. The value of suc
+-
+cessive application of povidone–iodine and chlorhex -
+idine has been suggested [125, 126] in clinical studies 
+and requires further investigation.
+  –New antiseptic solutions should be tested.
+  –The benefit of CHG dressings to prevent infection for hemodialysis and ECMO catheters needs to be tested in clinical trials.  –The added value of antimicrobial-coated catheters in the context of low CRBSI rates should be evaluated.
+  –The use of needle-free access devices or use of open ports/hubs to access intravascular catheters requires further evidence, taking into account the compliance with the appropriate decontamination of these access points. Furthermore, the method of cleaning is open for debate, whether alcohol alone or with another anti
+-
+septic agent is required and the delivery method of the antiseptic agent to achieve the best efficacy.
+  –There is a lack of clinical trial data to support the spe
+-
+cific use of systemic anticoagulant therapies or throm -
+bolytics to prevent catheter-related thrombosis in criti -
+cally ill adults.
+Box 1: Key messages for diagnosis and treatment 
+of catheter‑related complications in critically ill 
+patients
+Mechanical complications including malfunction, occlu -
+sion, and thrombosis are more frequent than infectious 
+complications.
+Ultrasound guidance should always be used for insert -
+ing internal jugular catheters.
+Catheter-related bloodstream infection (CRBSI) is 
+a clinical definition that should be clearly differenti -
+ated from central line-associated bloodstream infec -
+tion (CLABSI) which is mainly used for epidemiological purposes.
+Empiric antimicrobial treatment of CRBSI should tar
+-
+get S.  aureus. Empiric therapy while awaiting culture 
+confirmation for other etiologies should be based on clin -
+ical variables, patients risk factors, and previous coloni -
+zation status.
+Catheter removal is the main therapeutic intervention 
+and always recommended, especially in the case of sepsis or shock.
+Treatment of patients with clinical sepsis and with a 
+positive catheter tip culture but without positive blood culture may be beneficial when S.  aureus is recovered, and to a lesser extent for gram-negative non-fermentative bacteria. Data are insufficient to recommend treatment of other etiologies in this case.
+The duration of antimicrobial therapy of uncompli
+-
+cated CRBSI is controversial and, depending on the causative pathogen, may not need to exceed 7–10  days following catheter removal.
+Positive blood culture after 72  h of therapy indicates 
+complicated CRBSI. Endocarditis and thrombophlebitis are the most common causes of failure. S. aureus CRBSI requires a high index of suspicion for endocarditis and metastatic infections.
+Symptomatic catheter thrombosis requires catheter 
+removal and anticoagulant therapy. Appropriate therapy 
+755
+of asymptomatic catheter thrombosis in critically ill 
+patients is undefined.
+Box 2: Key elements of prevention 
+of catheter‑related infection
+Hand hygiene.
+Strict aseptic surgical condition at catheter insertion.
+Preferential use of subclavian venous and radial arterial 
+insertion sites.
+Avoidance of insertion and immediate removal of 
+unnecessary catheters.
+Immediate replacement of soiled, moistened, or 
+detached catheter dressings.
+Use of alcoholic 2% chlorhexidine gluconate for skin 
+antisepsis and catheter care.
+Institution of a continuous quality improvement 
+program.
+Audit and feedback of the process of care, infection 
+rates, and periodic re-education of providers.
+The use of CHG-impregnated dressings or antimicro -
+bial-impregnated catheters should be limited to situa -
+tions where a continuous quality improvement program failed.
+Electronic supplementary material
+The online version of this article (https ://doi.org/10.1007/s0013 4‑018‑5212‑ y) 
+contains supplementary material, which is available to authorized users.
+Author details
+1 Université Paris Diderot/Hopital Bichat ‑ Réanimation Medicale et des mala‑
+dies infectieuses, Paris 75018, France. 2 UMR 1137 ‑ IAME Team 5 – DeSCID: 
+Decision Sciences in Infectious Diseases, Control and care Inserm/Univ Paris 
+Diderot, Sorbonne Paris Cité, 75018 Paris, France. 3 Division of Infectious 
+Diseases, University of Nebraska Medical Center, Omaha, NE, USA. 4 Depart ‑
+ment of Infection Control and Epidemiology, Nebraska Medicine, Omaha, NE, USA. 
+5 Medicine Department, School of Medicine, Universidad Complutense 
+de Madrid (UCM), Madrid, Spain. 6 Department of Clinical Microbiology 
+and Infectious Diseases, Hospital General Universitario Gregorio Marañón, Madrid, Spain. 
+7 Instituto de Investigación Sanitaria Gregorio Marañón, Madrid, 
+Spain. 8 Division of Hospital Medicine, Department of Medicine, Patient 
+Safety Enhancement Program and Center for Clinical Management Research, University of Michigan, Ann Arbor, MI 48109, USA. 
+9 Department of Clinical 
+Microbiology, University Hospitals Birmingham NHS Foundation Trust, Queen Elizabeth Hospital, Mindelsohn Way, Edgbaston, Birmingham B15 2GW, UK. 
+10 Department of Medicine, Royal Inland Hospital, Kamloops, BC V2C 2T1, 
+Canada. 11 Rede Institucional de Pesquisa e Inovação em Medicina Intensiva, 
+Complexo Hospitalar Santa Casa de Misericordia de Porto Alegre, Porto Alegre, Brazil. 
+12 Critical Care Department and Infection Control Committee, Hospital 
+de Clinicas de Porto Alegre, Porto Alegre, Brazil. 13 Department of Medicine, 
+Alpert Medical School of Brown University, Rhode Island Hospital, Providence, USA. 
+14 Division of Infectious Diseases and Department of Epidemiology 
+and Infection Control, Rhode Island Hospital, Providence, USA. 15 Service 
+des Urgences‑SAMU 86, CHU de Poitiers, Poitiers, France. 16 Université de 
+Poitiers, UFR de Médecine Pharmacie, Poitiers, France. 17 INSERM U1070, 
+Pharmacologie des Agents antiInfectieux, Poitiers, France. 18 Department 
+of Biostatistics and Clinical Research, Centre Hospitalier Universitaire (CHU), Caen, France. 
+19 INSERM Unité Mixte de Recherche Scientifique 1075 COMETE 
+(N.T.) and EA4655 Risques Microbiens, Caen, France. 20 4th Department 
+of Internal Medicine, Attikon University General Hospital, Athens University School of Medicine, Athens, Greece. 
+21 Service de Réanimation Médicale, 
+Hôpital Gabriel Montpied, CHU de Clermont ‑Ferrand, BP 69, 63003 Cler ‑
+mont‑Ferrand, Cedex 1, France. 22 Université Clermont Auvergne, CNRS, LMGE, 63000 Clermont‑Ferrand, France. 23 Infection Control Program and WHO 
+Collaborating Centre for Patient Safety, University of Geneva Hospitals, 4 rue Gabrielle Perret‑Gentil, 1211 Geneva, Switzerland. 
+Compliance with ethical standardsConflicts of interest
+Dr. Chopra discloses receiving grant support from the Agency for Healthcare Quality and Research and honoraria for research talks as a visiting professor. Dr. Kärpänen has received honoraria to present at a symposium and attend an international conference supported by 3M. Since contributing to the manuscript, she has taken a Senior Clinical Research Specialist role at 3M Deutschland GmbH. Dr. Mermel has served as a consultant for Marvao Medical and Nobio. Dr. Mimoz received grant support from 3M and Carefusion‑BD and honoraria for giving lectures from 3M and Carefusion‑BD. Dr. Timsit received grant support from 3M and honoraria for giving lectures from 3M.
+Received: 4 April 2018   Accepted: 5 May 2018
+Published online: 12 May 2018
+References
+ 1. Timsit JF, L’Heriteau F, Lepape A, Francais A, Ruckly S, Venier AG, Jarno P , Boussat S, Coignard B, Savey A (2012) A multicentre analysis of catheter ‑
+related infection based on a hierarchical model. Intensive Care Med 38(10):1662–1672
+ 2. de Lassence A, Timsit JF, Tafflet M, Azoulay E, Jamali S, Vincent F, Cohen Y, Garrouste ‑Orgeas M, Alberti C, Dreyfuss D (2006) Pneumothorax in 
+the intensive care unit: incidence, risk factors, and outcome. Anesthesi‑ology 104(1):5–13
+ 3. Siempos II, Kopterides P , Tsangaris I, Dimopoulou I, Armaganidis AE (2009) Impact of catheter ‑related bloodstream infections on 
+the mortality of critically ill patients: a meta‑analysis. Crit Care Med 37(7):2283–2289
+ 4. Soufir L, Timsit JF, Mahe C, Carlet J, Regnier B, Chevret S (1999) Attribut ‑
+able morbidity and mortality of catheter ‑related septicemia in critically 
+ill patients: a matched, risk ‑adjusted, cohort study. Infect Control Hosp 
+Epidemiol 20(6):396–401
+ 5. Nuckols TK, Keeler E, Morton SC, Anderson L, Doyle B, Booth M, Shanman R, Grein J, Shekelle P (2016) Economic evaluation of quality improvement interventions for bloodstream infections related to cen‑tral catheters: a systematic review. JAMA InternMed 176(12):1843–1854
+ 6. Pages J, Hazera P , Megarbane B, du Cheyron D, Thuong M, Dutheil JJ, Valette X, Fournel F, Mermel LA, Mira JP et al (2016) Comparison of alcoholic chlorhexidine and povidone ‑iodine cutaneous antiseptics 
+for the prevention of central venous catheter ‑related infection: a 
+cohort and quasi‑ experimental multicenter study. Intensive Care Med 
+42(9):1418–1426
+ 7. Lucet JC, Boudama L, Zahar JR, Schwebel C, Geffory A, Pease S, Herault MC, Haouache H, Adrie C, Thuong M et al (2010) Infectious risk associ‑ated with arterial catheters compared to central venous catheters. Crit Care Med 38(4):552–559
+ 8. Pronovost P , Needham D, Berenholtz S, Sinopoli D, Chu H, Cosgrove S, Sexton B, Hyzy R, Welsh R, Roth G et al (2006) An intervention to decrease catheter ‑related bloodstream infections in the ICU. N Engl J 
+Med 355(26):2725–2732
+ 9. Calvino ‑Gunther S, Schwebel C, Hamidfar ‑Roy R, Bonadona A, Lugosi 
+M, Ara‑Somohano C, Minet C, Potton L, Cartier JC, Vesin A et al (2016) Complications of intravascular catheters in ICU: definitions, incidence and severity. A randomized controlled trial comparing usual transpar ‑
+ent dressings versus new‑ generation dressings (the advanced study). 
+Intensive Care Med 42(11):1753–1765
+ 10. Minet C, Lugosi M, Savoye PY, Menez C, Ruckly S, Bonadona A, Schwebel C, Hamidfar ‑Roy R, Dumanoir P , Ara‑Somohano C et al (2012) 
+Pulmonary embolism in mechanically ventilated patients requiring computed tomography: prevalence, risk factors, and outcome. Crit Care Med 40(12):3202–3208
+756
+ 11. Fletcher JJ, Wilson TJ, Rajajee V, Stetler WR Jr, Jacobs TL, Sheehan KM, 
+Brown DL (2016) A randomized trial of central venous catheter type and thrombosis in critically ill neurologic patients. Neurocrit Care 25(1):20–28
+ 12. Chopra V, Priya A, Pekow PS, Thompson R, Flanders SA, Lindenauer PK (2016) Variation in prevalence and patterns of peripherally inserted central catheter use in adults hospitalized with pneumonia. J Hosp Med 11(8):568–575
+ 13. Pikwer A, Akeson J, Lindgren S (2012) Complications associated with peripheral or central routes for central venous cannulation. Anaesthesia 67(1):65–71
+ 14. Chopra V, Anand S, Hickner A, Buist M, Rogers MA, Saint S, Flanders SA (2013) Risk of venous thromboembolism associated with peripher ‑
+ally inserted central catheters: a systematic review and meta‑analysis. Lancet 382(9889):311–325
+ 15. Chopra V, Flanders SA, Saint S, Woller SC, O’Grady NP , Safdar N, Tre ‑
+rotola SO, Saran R, Moureau N, Wiseman S et al (2015) The Michigan appropriateness guide for intravenous catheters (MAGIC): results from a multispecialty panel using the RAND/UCLA appropriateness method. Ann Intern Med 163(6 Suppl):S1–S40
+ 16. Chopra V, O’Horo JC, Rogers MA, Maki DG, Safdar N (2013) The risk of bloodstream infection associated with peripherally inserted central catheters compared with central venous catheters in adults: a systematic review and meta‑analysis. Infect Control Hosp Epidemiol 34(9):908–918
+ 17. Truche AS, Darmon M, Bailly S, Clec’h C, Dupuis C, Misset B, Azoulay E, Schwebel C, Bouadma L, Kallel H et al (2016) Continuous renal replacement therapy versus intermittent hemodialysis in intensive care patients: impact on mortality and renal recovery. Intensive Care Med 42(9):1408–1417
+ 18. Parienti JJ, Thirion M, Megarbane B, Souweine B, Ouchikhe A, Polito A, Forel JM, Marque S, Misset B, Airapetian N et al (2008) Femoral versus jugular venous catheterization and risk of nosocomial events in adults requiring acute renal replacement therapy: a randomized controlled trial. JAMA 299(20):2413–2422
+ 19. Souweine B, Liotier J, Heng AE, Isnard M, Ackoundou‑N’Guessan C, Deteix P , Traore O (2006) Catheter colonization in acute renal failure patients: comparison of central venous and dialysis catheters. Am J Kidney Dis 47(5):879–887
+ 20. Chua HR, Schneider AG, Sherry NL, Lotfy N, Chan MJ, Galtieri J, Wong GR, Lipcsey M, Matte Cde A, Collins A et al (2014) Initial and extended use of femoral versus nonfemoral double ‑lumen vascular catheters 
+and catheter ‑related infection during continuous renal replacement 
+therapy. Am J Kidney Dis 64(6):909–917
+ 21. Parienti JJ, Dugue AE, Daurel C, Mira JP , Megarbane B, Mermel LA, Daubin C, du Cheyron D (2010) Continuous renal replacement therapy may increase the risk of catheter infection. Clin J Am Soc Nephrol 5(8):1489–1496
+ 22. Souweine B, Traore O, Aublet ‑Cuvelier B, Badrikian L, Bret L, Sirot J, 
+Gazuy N, Laveran H, Deteix P (1999) Dialysis and central venous cath‑eter infections in critically ill patients: results of a prospective study. Crit Care Med 27(11):2394–2398
+ 23. Coupez E, Timsit JF, Ruckly S, Schwebel C, Gruson D, Canet E, Klouche K, Argaud L, Bohe J, Garrouste ‑Orgeas M et al (2016) Guidewire exchange 
+versus new site placement for temporary dialysis catheter insertion in ICU patients: is there a greater risk of colonization or dysfunction? Crit Care 20(1):230
+ 24. Chatzinikolaou I, Finkel K, Hanna H, Boktour M, Foringer J, Ho T, Raad I (2003) Antibiotic‑ coated hemodialysis catheters for the prevention of 
+vascular catheter ‑related infections: a prospective, randomized study. 
+Am J Med 115(5):352–357
+ 25. Hermite L, Quenot JP , Nadji A, Barbar SD, Charles PE, Hamet M, Jacquiot N, Ghiringhelli F, Freysz M (2012) Sodium citrate versus saline catheter locks for non‑tunneled hemodialysis central venous catheters in critically ill adults: a randomized controlled trial. Intensive Care Med 38(2):279–285
+ 26. Parienti JJ, Deryckere S, Megarbane B, Valette X, Seguin A, Sauneuf B, Mira JP , Souweine B, Cattoir V, Daubin C et al (2014) Quasi‑ experimental 
+study of sodium citrate locks and the risk of acute hemodialysis cathe ‑
+ter infection among critically ill patients. Antimicrob Agents Chemother 58(10):5666–5672 27. Souweine B, Lautrette A, Gruson D, Canet E, Klouche K, Argaud L, Bohe J, Garrouste ‑Orgeas M, Mariat C, Vincent F et al (2015) Ethanol lock and 
+risk of hemodialysis catheter infection in critically ill patients. A rand‑omized controlled trial. Am J Respir Crit Care Med 191(9):1024–1032
+ 28. Parienti JJ, Megarbane B, Fischer MO, Lautrette A, Gazui N, Marin N, Hanouz JL, Ramakers M, Daubin C, Mira JP et al (2010) Catheter dysfunction and dialysis performance according to vascular access among 736 critically ill adults requiring renal replacement therapy: a randomized controlled study. Crit Care Med 38(4):1118–1125
+ 29. Simon EM, Summers SM (2017) Vascular access complications: an emergency medicine approach. Emerg Med Clin N Am 35(4):771–788
+ 30. Traore O, Liotier J, Souweine B (2005) Prospective study of arterial and central venous catheter colonization and of arterial‑ and central venous catheter ‑related bacteremia in intensive care units. Crit Care Med 
+33(6):1276–1280
+ 31. Mermel LA (2011) What is the predominant source of intravascular catheter infections? Clin Infect Dis 52(2):211–212
+ 32. Beloin C, Fernandez‑Hidalgo N, Lebeaux D (2017) Understanding bio ‑
+film formation in intravascular device ‑related infections. Intensive Care 
+Med 43(3):443–446
+ 33. Flemming HC, Wingender J, Szewzyk U, Steinberg P , Rice SA, Kjelleberg S (2016) Biofilms: an emergent form of bacterial life. Nat Rev Microbiol 14(9):563–575
+ 34. Costerton JW, Stewart PS, Greenberg EP (1999) Bacterial biofilms: a common cause of persistent infections. Science 284(5418):1318–1322
+ 35. Raad II, Fang X, Keutgen XM, Jiang Y, Sherertz R, Hachem R (2008) The role of chelators in preventing biofilm formation and catheter ‑related 
+bloodstream infections. Curr Opin Infect Dis 21(4):385–392
+ 36. Lin MY, Hota B, Khan YM, Woeltje KF, Borlawsky TB, Doherty JA, Steven‑son KB, Weinstein RA, Trick WE (2010) Quality of traditional surveillance for public reporting of nosocomial bloodstream infection rates. JAMA 304(18):2035–2041
+ 37. Timsit JF, Lugosi M, Minet C, Schwebel C (2011) Should we still need to systematically perform catheter culture in the intensive care unit? Crit Care Med 39:1556–1558
+ 38. Shuman EK, Washer LL, Arndt JL, Zalewski CA, Hyzy RC, Napolitano LM, Chenoweth CE (2010) Analysis of central line ‑associated bloodstream 
+infections in the intensive care unit after implementation of central line bundles. Infect Control Hosp Epidemiol 31(5):551–553
+ 39. Worth LJ, Brett J, Bull AL, McBryde ES, Russo PL, Richards MJ (2009) Impact of revising the national nosocomial infection surveillance system definition for catheter ‑related bloodstream infection in ICU: 
+reproducibility of the National Healthcare Safety Network case defini‑tion in an Australian cohort of infection control professionals. Am J Infect Control 37(8):643–648
+ 40. Safdar N, Maki DG (2002) Inflammation at the insertion site is not predictive of catheter ‑related bloodstream infection with short ‑term, 
+noncuffed central venous catheters. Crit Care Med 30(12):2632–2635
+ 41. Mimoz O, Lucet JC, Kerforne T, Pascal J, Souweine B, Goudet V, Mercat A, Bouadma L, Lasocki S, Alfandari S et al (2015) Skin antisepsis with chlorhexidine ‑alcohol versus povidone iodine ‑alcohol, with and 
+without skin scrubbing, for prevention of intravascular ‑catheter ‑related 
+infection (CLEAN): an open‑label, multicentre, randomised, controlled, two‑by‑two factorial trial. Lancet 386(10008):2069–2077
+ 42. Parienti JJ, Mongardon N, Megarbane B, Mira JP , Kalfon P , Gros A, Marque S, Thuong M, Pottier V, Ramakers M et al (2015) Intravascular complications of central venous catheterization by insertion site. N Engl J Med 373(13):1220–1229
+ 43. Timsit JF, Schwebel C, Bouadma L, Geffroy A, Garrouste ‑Orgeas M, 
+Pease S, Herault MC, Haouache H, Calvino ‑Gunther S, Gestin B et al 
+(2009) Chlorhexidine ‑impregnated sponges and less frequent dressing 
+changes for prevention of catheter ‑related infections in critically ill 
+adults: a randomized controlled trial. JAMA 301(12):1231–1241
+ 44. Sherertz RJ, Raad II, Belani A, Koo LC, Rand KH, Pickett DL, Straub SA, Fauerbach LL (1990) Three ‑year experience with sonicated vascular 
+catheter cultures in a clinical microbiology laboratory. J Clin Microbiol 28(1):76–82
+ 45. Maki DG, Weise CE, Sarafin HW (1977) A semiquantitative culture method for identifying intravenous‑ catheter ‑related infection. N Engl J 
+Med 296(23):1305–1309
+757
+ 46. Safdar N, Fine JP , Maki DG (2005) Meta‑analysis: methods for diagnosing 
+intravascular device ‑related bloodstream infection. Ann Intern Med 
+142(6):451–466
+ 47. Brun‑Buisson C, Abrouk F, Legrand P , Huet Y, Larabi S, Rapin M (1987) Diagnosis of central venous catheter ‑related sepsis. Critical level of 
+quantitative tip cultures. Arch Intern Med 147(5):873–877
+ 48. Mermel LA, Allon M, Bouza E, Craven DE, Flynn P , O’Grady NP , Raad II, Rijnders BJ, Sherertz RJ, Warren DK (2009) Clinical practice guidelines for the diagnosis and management of intravascular catheter ‑related 
+infection: 2009 update by the Infectious Diseases Society of America. Clin Infect Dis 49(1):1–45
+ 49. Bouza E, Sousa D, Rodriguez‑ Creixems M, Lechuz JG, Munoz P (2007) Is 
+the volume of blood cultured still a significant factor in the diagnosis of bloodstream infections? J Clin Microbiol 45(9):2765–2769
+ 50. Slobbe L, El Barzouhi A, Boersma E, Rijnders BJ (2009) Comparison of the roll plate method to the sonication method to diagnose catheter colonization and bacteremia in patients with long‑term tunnelled cath‑eters: a randomized prospective study. J Clin Microbiol 47(4):885–888
+ 51. Souweine B, Heng AE, Aumeran C, Thiolliere F, Gazuy N, Deteix P , Traore O (2008) Do antibiotics administered at the time of central venous catheter removal interfere with the evaluation of colonization? Inten‑sive Care Med 34(2):286–291
+ 52. Vandecasteele SJ, Van Eldere J, Merckx R, Peetermans WE (2004) The effect of systemic antibiotics on the microbiological diagnosis of experimental foreign body infections caused by Staphylococcus epider -
+midis. Diagn Microbiol Infect Dis 48(2):89–95
+ 53. Rijnders BJ, Peetermans WE, Verwaest C, Wilmer A, Van Wijngaerden E (2004) Watchful waiting versus immediate catheter removal in ICU patients with suspected catheter ‑related infection: a randomized trial. 
+Intensive Care Med 30(6):1073–1080
+ 54. Bouza E, Munoz P , Burillo A, Lopez‑Rodriguez J, Fernandez‑Perez C, Perez MJ, Rincon C (2005) The challenge of anticipating catheter tip colonization in major heart surgery patients in the intensive care unit: are surface cultures useful? Crit Care Med 33(9):1953–1960
+ 55. Fernandez‑ Cruz A, Martin‑Rabadan P , Suarez‑Salas M, Rojas‑ Wettig L, 
+Perez MJ, Guinea J, Guembe M, Pelaez T, Sanchez‑ Carrillo C, Bouza E 
+(2014) Is it feasible to diagnose catheter ‑related candidemia without 
+catheter withdrawal? Med Mycol 52(5):491–497
+ 56. Blot F, Nitenberg G, Chachaty E, Raynard B, Germann N, Antoun S, Laplanche A, Brun‑Buisson C, Tancrede C (1999) Diagnosis of catheter ‑related bacteraemia: a prospective comparison of the time 
+to positivity of hub ‑blood versus peripheral‑blood cultures. Lancet 
+354(9184):1071–1077
+ 57. Raad I, Hanna HA, Alakech B, Chatzinikolaou I, Johnson MM, Tarrand J (2004) Differential time to positivity: a useful method for diagnosing catheter ‑related bloodstream infections. Ann Intern Med 140(1):18–25
+ 58. Bouza E, Alvarado N, Alcala L, Sanchez‑ Conde M, Perez MJ, Munoz 
+P , Martin‑Rabadan P , Rodriguez‑ Creixems M (2005) A prospective, 
+randomized, and comparative study of 3 different methods for the diagnosis of intravascular catheter colonization. Clin Infect Dis 40(8):1096–1100
+ 59. Catton JA, Dobbins BM, Kite P , Wood JM, Eastwood K, Sugden S, Sandoe JA, Burke D, McMahon MJ, Wilcox MH (2005) In situ diagnosis of intravascular catheter ‑related bloodstream infection: a comparison 
+of quantitative culture, differential time to positivity, and endoluminal brushing. Crit Care Med 33(4):787–791
+ 60. Guembe M, Rodriguez‑ Creixems M, Sanchez‑ Carrillo C, Perez‑Parra 
+A, Martin‑Rabadan P , Bouza E (2010) How many lumens should be cultured in the conservative diagnosis of catheter ‑related bloodstream 
+infections? Clin Infect Dis 50(12):1575–1579
+ 61. Bouza E, Martin‑Rabadan P , Echenagusia A, Camunez F, Rodriguez‑Rosales G, Simo G, Echenagusia M, Guembe M (2014) Diagnosis of venous access port colonization requires cultures from multiple sites: should guidelines be amended? Diagn Microbiol Infect Dis 78(2):162–167
+ 62. Rijnders BJ, Van Wijngaerden E, Peetermans WE (2002) Catheter ‑tip 
+colonization as a surrogate end point in clinical studies on catheter ‑
+related bloodstream infection: how strong is the evidence? Clin Infect Dis 35(9):1053–1058
+ 63. Mrozec N, Lautrette A, Aumeran C, Laurichesse H, Forestier C, Traore O, Souweine B (2011) Bloodstream infection following positive catheter cultures, what are the risks in the ICU when catheters are routinely cultured upon removal? Crit Care Med 39(6):1301–1305
+ 64. Timsit JF, Mimoz O, Mourvillier B, Souweine B, Garrouste ‑Orgeas M, 
+Alfandari S, Plantefeve G, Bronchard R, Troche G, Gauzit R et al (2012) Randomized controlled trial of chlorhexidine dressing and highly adhesive dressing for preventing catheter ‑related infections in critically 
+ill adults. Am J Respir Crit Care Med 186(12):1272–1278
+ 65. Zafar U, Riederer K, Khatib R, Szpunar S, Sharma M (2009) Relevance of isolating Staphylococcus aureus from intravascular catheters without positive blood culture. J Hosp Infect 71(2):193–195
+ 66. Ruhe JJ, Menon A (2006) Clinical significance of isolated Staphylococ-cus aureus central venous catheter tip cultures. Clin Microbiol Infect 12(9):933–936
+ 67. Ekkelenkamp MB, van der Bruggen T, van de Vijver DA, Wolfs TF, Bonten MJ (2008) Bacteremic complications of intravascular catheters colo ‑
+nized with Staphylococcus aureus. Clin Infect Dis 46(1):114–118
+ 68. Timsit JF, Farkas JC, Boyer JM, Martin JB, Misset B, Renaud B, Carlet J (1998) Central vein catheter ‑related thrombosis in intensive care 
+patients: incidence, risks factors, and relationship with catheter ‑related 
+sepsis. Chest 114(1):207–213
+ 69. Akova M, Daikos GL, Tzouvelekis L, Carmeli Y (2012) Interventional strat ‑
+egies and current clinical experience with carbapenemase ‑producing 
+gram‑negative bacteria. Clin Microbiol Infect 18(5):439–448
+ 70. Lorente L, Jimenez A, Santana M, Iribarren JL, Jimenez JJ, Martin MM, Mora ML (2007) Microorganisms responsible for intravascular catheter ‑
+related bloodstream infection according to the catheter site. Crit Care Med 35(10):2424–2427
+ 71. Safdar N, Handelsman J, Maki DG (2004) Does combination antimicro ‑
+bial therapy reduce mortality in gram‑negative bacteraemia? A meta‑analysis. Lancet Infect Dis 4(8):519–527
+ 72. Cornely OA, Bassetti M, Calandra T, Garbino J, Kullberg BJ, Lortholary O, Meersseman W, Akova M, Arendrup MC, Arikan‑Akdagli S et al (2012) ESCMID guideline for the diagnosis and management of Candida diseases 2012: non‑neutropenic adult patients. Clin Microbiol Infect 18(Suppl 7):19–37
+ 73. Merrer J, De Jonghe B, Golliot F, Lefrant JY, Raffy B, Barre E, Rigaud JP , Casciani D, Misset B, Bosquet C et al (2001) Complications of femoral and subclavian venous catheterization in critically ill patients: a rand‑omized controlled trial. JAMA 286(6):700–707
+ 74. O’Horo JC, Maki DG, Krupp AE, Safdar N (2014) Arterial catheters as a source of bloodstream infection: a systematic review and meta‑analysis. Crit Care Med 42(6):1334–1339
+ 75. Brass P , Hellmich M, Kolodziej L, Schick G, Smith AF (2015) Ultrasound guidance versus anatomical landmarks for internal jugular vein cath‑eterization. Cochrane Database Syst Rev 1:CD006962
+ 76. Brass P , Hellmich M, Kolodziej L, Schick G, Smith AF (2015) Ultrasound guidance versus anatomical landmarks for subclavian or femoral vein catheterization. Cochrane Database Syst Rev 1:CD011447
+ 77. Milling TJ Jr, Rose J, Briggs WM, Birkhahn R, Gaeta TJ, Bove JJ, Melniker LA (2005) Randomized, controlled clinical trial of point ‑of‑care limited 
+ultrasonography assistance of central venous cannulation: the third sonography outcomes assessment program (SOAP ‑3) trial. Crit Care 
+Med 33(8):1764–1769
+ 78. Li J, Fan YY, Xin MZ, Yan J, Hu W, Huang WH, Lin XL, Qin HY (2014) A randomised, controlled trial comparing the long‑term effects of periph‑erally inserted central catheter placement in chemotherapy patients using B‑mode ultrasound with modified Seldinger technique versus blind puncture. Eur J Oncol Nurs 18(1):94–103
+ 79. Soni NJ, Reyes LF, Keyt H, Arango A, Gelfond JA, Peters JI, Levine SM, Adams SG, Restrepo MI (2016) Use of ultrasound guidance for central venous catheterization: a national survey of intensivists and hospitalists. J Crit Care 36:277–283
+ 80. Mimoz O, Chopra V, Timsit JF (2016) What’s new in catheter ‑related 
+infection: skin cleansing and skin antisepsis. Intensive Care Med 42(11):1784–1786
+ 81. Casey AL, Badia JM, Higgins A, Korndorffer J, Mantyh C, Mimoz O, Moro M (2017) Skin antisepsis: it’s not only what you use, it’s the way that you use it. J Hosp Infect 96(3):221–222
+ 82. Mimoz O, Chopra V, Widmer A (2016) What’s new in skin antisepsis for short ‑term intravascular catheters: new data to address old problems? 
+Intensive Care Med 42(12):2043–2045
+758
+ 83. Wang JT, Sheng WH, Wang JL, Chen D, Chen ML, Chen YC, Chang SC 
+(2008) Longitudinal analysis of chlorhexidine susceptibilities of noso ‑
+comial methicillin‑resistant Staphylococcus aureus isolates at a teaching hospital in Taiwan. J Antimicrob Chemother 62(3):514–517
+ 84. Lee AS, Macedo ‑Vinas M, Francois P , Renzi G, Schrenzel J, Vernaz N, 
+Pittet D, Harbarth S (2011) Impact of combined low‑level mupirocin and genotypic chlorhexidine resistance on persistent methicillin‑resistant Staphylococcus aureus carriage after decolonization therapy: a case ‑control study. Clin Infect Dis 52(12):1422–1430
+ 85. Bouadma L, Karpanen T, Elliott T (2018) Chlorhexidine use in adult patients on ICU. Intensive Care Med. https ://doi.org/10.1007/s0013 4‑018‑5137‑5
+ 86. Climo MW, Yokoe DS, Warren DK, Perl TM, Bolon M, Herwaldt LA, Wein‑stein RA, Sepkowitz KA, Jernigan JA, Sanogo K et al (2013) Effect of daily chlorhexidine bathing on hospital‑acquired infection. N Engl J Med 368(6):533–542
+ 87. Huang SS, Septimus E, Kleinman K, Moody J, Hickok J, Avery TR, Lankiewicz J, Gombosev A, Terpstra L, Hartford F et al (2013) Targeted versus universal decolonization to prevent ICU infection. N Engl J Med 368(24):2255–2265
+ 88. Milstone AM, Elward A, Song X, Zerr DM, Orscheln R, Speck K, Obeng D, Reich NG, Coffin SE, Perl TM (2013) Daily chlorhexidine bathing to reduce bacteraemia in critically ill children: a multicentre, cluster ‑
+randomised, crossover trial. Lancet 381(9872):1099–1106
+ 89. Afonso E, Blot K, Blot S (2016) Prevention of hospital‑acquired blood‑stream infections through chlorhexidine gluconate ‑impregnated 
+washcloth bathing in intensive care units: a systematic review and meta‑analysis of randomised crossover trials. Euro Surveill. https ://doi.org/10.2807/1560‑7917.ES.2016.21.46.30400 
+ 90. Centers for Disease Control and Prevention. 2017 updated recommen‑dations on the use of chlorhexidine ‑impregnated dressings for preven‑
+tion of intravascular catheter ‑related infections. https ://www.cdc.gov/
+infec  tionc ontro l/guide lines /pdf/bsi/c‑i‑ dress ings‑H.pdf . Accessed 10 
+May 2018
+ 91. Hockenhull JC, Dwan KM, Smith GW, Gamble CL, Boland A, Walley TJ, Dickson RC (2009) The clinical effectiveness of central venous catheters treated with anti‑infective agents in preventing catheter ‑related blood‑
+stream infections: a systematic review. Crit Care Med 37(2):702–712
+ 92. Falagas ME, Fragoulis K, Bliziotis IA, Chatzinikolaou I (2007) Rifampicin‑impregnated central venous catheters: a meta‑analysis of randomized controlled trials. J Antimicrob Chemother 59(3):359–369
+ 93. Ramos ER, Reitzel R, Jiang Y, Hachem RY, Chaftari AM, Chemaly RF, Hackett B, Pravinkumar SE, Nates J, Tarrand JJ et al (2011) Clinical effec‑tiveness and risk of emerging resistance associated with prolonged use of antibiotic‑impregnated catheters: more than 0.5 million catheter days and 7 years of clinical experience. Crit Care Med. https ://doi.org/10.1097/CCM.0b013 e3181 feb83 e
+ 94. Zacharioudakis IM, Zervou FN, Arvanitis M, Ziakas PD, Mermel LA, Mylonakis E (2014) Antimicrobial lock solutions as a method to prevent central line ‑associated bloodstream infections: a meta‑analysis of 
+randomized controlled trials. Clin Infect Dis 59(12):1741–1749
+ 95. Landry DL, Braden GL, Gobeille SL, Haessler SD, Vaidya CK, Sweet SJ (2010) Emergence of gentamicin‑resistant bacteremia in hemodialysis patients receiving gentamicin lock catheter prophylaxis. Clin J Am Soc Nephrol 5(10):1799–1804
+ 96. Hemmelgarn BR, Manns BJ, Soroka SD, Levin A, MacRae J, Tennankore K, Wilson JS, Weaver RG, Ravani P , Quinn RR et al (2018) Effectiveness and cost of weekly recombinant tissue plasminogen activator hemodi‑alysis catheter locking solution. Clin J Am Soc Nephrol. https ://doi.org/10.2215/CJN.08510 817
+ 97. Longo R, Llorens M, Goetz C, Platini C, Eid N, Sellies J, Ouamara N, Que ‑
+tin P (2017) Taurolidine/citrate lock therapy for primary prevention of catheter ‑related infections in cancer patients: results of a prospective, 
+randomized, phase IV trial (ATAPAC). Oncology 93(2):99–105
+ 98. Zhao Y, Li Z, Zhang L, Yang J, Yang Y, Tang Y, Fu P (2014) Citrate versus heparin lock for hemodialysis catheters: a systematic review and meta‑analysis of randomized controlled trials. Am J Kidney Dis 63(3):479–490
+ 99. Correa Barcellos F, Nunes BP , Valle LJ, Lopes T, Orlando B, Scherer C, Nunes M, Araujo Duarte G, Bohlke M (2017) Comparative effective ‑
+ness of 30% trisodium citrate and heparin lock solution in preventing infection and dysfunction of hemodialysis catheters: a randomized controlled trial (CITRIM trial). Infection 45(2):139–145
+ 100. Tribler S, Brandt CF, Petersen AH, Petersen JH, Fuglsang KA, Staun M, Broebech P , Moser CE, Jeppesen PB (2017) Taurolidine ‑citrate ‑heparin 
+lock reduces catheter ‑related bloodstream infections in intestinal 
+failure patients dependent on home parenteral support: a randomized, placebo ‑controlled trial. Am J Clin Nutr 106(3):839–848
+ 101. Bruyere R, Soudry‑Faure A, Capellier G, Binquet C, Nadji A, Torner S, Blasco G, Yannaraki M, Barbar SD, Quenot JP (2014) Comparison of hep ‑
+arin to citrate as a catheter locking solution for non‑tunneled central venous hemodialysis catheters in patients requiring renal replacement therapy for acute renal failure (VERROU‑REA study): study protocol for a randomized controlled trial. Trials 15:449
+ 102. Raad II, Luna M, Khalil SA, Costerton JW, Lam C, Bodey GP (1994) The relationship between the thrombotic and infectious complications of central venous catheters. JAMA 271(13):1014–1016
+ 103. Timsit JF, Bruneel F, Cheval C, Mamzer MF, Garrouste ‑Orgeas M, Wolff M, 
+Misset B, Chevret S, Regnier B, Carlet J (1999) Use of tunneled femoral catheters to prevent catheter ‑related infection. A randomized, con‑
+trolled trial. Ann Intern Med 130(9):729–735
+ 104. Chopra V, Kaatz S, Conlon A, Paje D, Grant PJ, Rogers MAM, Bernstein SJ, Saint S, Flanders SA (2017) The Michigan risk score to predict peripher ‑
+ally inserted central catheter ‑associated thrombosis. J Thromb Haemost 
+15(10):1951–1962
+ 105. Zhong L, Wang HL, Xu B, Yuan Y, Wang X, Zhang YY, Ji L, Pan ZM, Hu ZS (2017) Normal saline versus heparin for patency of central venous catheters in adult patients—a systematic review and meta‑analysis. Crit Care 21(1):5
+ 106. Akl EA, Ramly EP , Kahale LA, Yosuico VE, Barba M, Sperati F, Cook D, Schunemann H (2014) Anticoagulation for people with cancer and central venous catheters. Cochrane Database Syst Rev. https ://doi.org/10.1002/14651 858.CD006 468.pub5/full
+ 107. van Miert C, Hill R, Jones L (2012) Interventions for restoring patency of occluded central venous catheter lumens. Cochrane Database Syst Rev. https ://doi.org/10.1002/14651 858.CD007 119.pub2
+ 108. Ernst FR, Chen E, Lipkin C, Tayama D, Amin AN (2014) Comparison of hospital length of stay, costs, and readmissions of alteplase versus catheter replacement among patients with occluded central venous catheters. J Hosp Med 9(8):490–496
+ 109. Marang‑ van de Mheen PJ, van Bodegom‑ Vos L (2016) Meta‑analysis of 
+the central line bundle for preventing catheter ‑related infections: a case 
+study in appraising the evidence in quality improvement. BMJ Qual Saf 25(2):118–129
+ 110. Furuya EY, Dick A, Perencevich EN, Pogorzelska M, Goldmann D, Stone PW (2011) Central line bundle implementation in US intensive care units and impact on bloodstream infections. PLoS One 6(1):e15452
+ 111. Weaver SJ, Weeks K, Pham JC, Pronovost PJ (2014) On the CUSP: stop BSI: evaluating the relationship between central line ‑associated blood‑
+stream infection rate and patient safety climate profile. Am J Infect Control 42(10 Suppl):S203–S208
+ 112. Pronovost PJ, Weaver SJ, Berenholtz SM, Lubomski LH, Maragakis LL, Marsteller JA, Pham JC, Sawyer MD, Thompson DA, Weeks K et al (2017) Reducing preventable harm: observations on minimizing bloodstream infections. J Health Organ Manag 31(1):2–9
+ 113. O’Grady NP , Alexander M, Burns LA, Dellinger EP , Garland J, Heard SO, Lipsett PA, Masur H, Mermel LA, Pearson ML et al (2011) Guidelines for the prevention of intravascular catheter ‑related infections. Clin Infect 
+Dis 52(9):e162–e193
+ 114. Loveday HP , Wilson JA, Prieto J, Wilcox MH (2016) epic3: revised recom‑mendation for intravenous catheter and catheter site care. J Hosp Infect 92(4):346–348
+ 115. Marschall J, Mermel LA, Fakih M, Hadaway L, Kallen A, O’Grady NP , Pettis AM, Rupp ME, Sandora T, Maragakis LL et al (2014) Strategies to prevent central line ‑associated bloodstream infections in acute care hospitals: 
+2014 update. Infect Control Hosp Epidemiol 35(7):753–771
+ 116. Shapey IM, Foster MA, Whitehouse T, Jumaa P , Bion JF (2009) Central venous catheter ‑related bloodstream infections: improving post ‑inser ‑
+tion catheter care. J Hosp Infect 71(2):117–122
+ 117. Timsit JF, Bouadma L, Ruckly S, Schwebel C, Garrouste ‑Orgeas M, Bron‑
+chard R, Calvino ‑Gunther S, Laupland K, Adrie C, Thuong M et al (2012) 
+759
+Dressing disruption is a major risk factor for catheter ‑related infections. 
+Crit Care Med 40(6):1707–1714
+ 118. Ista E, van der Hoven B, Kornelisse RF, van der Starre C, Vos MC, Boersma 
+E, Helder OK (2016) Effectiveness of insertion and maintenance bundles to prevent central‑line ‑associated bloodstream infections in critically 
+ill patients of all ages: a systematic review and meta‑analysis. Lancet Infect Dis 16(6):724–734
+ 119. Nicol PW, Watkins RE, Donovan RJ, Wynaden D, Cadwallader H (2009) The power of vivid experience in hand hygiene compliance. J Hosp Infect 72(1):36–42
+ 120. Zingg W, Holmes A, Dettenkofer M, Goetting T, Secci F, Clack L, Allegranzi B, Magiorakos AP , Pittet D (2015) Hospital organisation, management, and structure for prevention of health‑ care ‑associated 
+infection: a systematic review and expert consensus. Lancet Infect Dis 15(2):212–224
+ 121. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC (2009) Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. Implement Sci 4:50
+ 122. Blot K, Bergs J, Vogelaers D, Blot S, Vandijck D (2014) Prevention of cen‑tral line ‑associated bloodstream infections through quality improve ‑
+ment interventions: a systematic review and meta‑analysis. Clin Infect Dis 59(1):96–105
+ 123. van der Kooi T, Sax H, Pittet D, van Dissel J, van Benthem B, Walder B, Cartier V, Clack L, de Greeff S, Wolkewitz M et al (2017) Prevention of hospital infections by intervention and training (PROHIBIT): results of a pan‑European cluster ‑randomized multicentre study to reduce central 
+venous catheter ‑related bloodstream infections. Intensive Care Med. 
+https ://doi.org/10.1007/s0013 4‑017‑5007‑6
+ 124. Zingg W, Cartier V, Inan C, Touveneau S, Theriault M, Gayet ‑Ageron A, 
+Clergue F, Pittet D, Walder B (2014) Hospital‑ wide multidisciplinary, mul‑
+timodal intervention programme to reduce central venous catheter ‑
+associated bloodstream infection. PLoS One 9(4):e93898
+ 125. Langgartner J, Linde HJ, Lehn N, Reng M, Scholmerich J, Gluck T (2004) Combined skin disinfection with chlorhexidine/propanol and aqueous povidone ‑iodine reduces bacterial colonisation of central venous 
+catheters. Intensive Care Med 30(6):1081–1088
+ 126. Patrick S, McDowell A, Lee A, Frau A, Martin U, Gardner E, McLorinan G, Eames N (2017) Antisepsis of the skin before spinal surgery with povidone iodine ‑alcohol followed by chlorhexidine gluconate ‑alcohol 
+versus povidone iodine ‑alcohol applied twice for the prevention of 
+contamination of the wound by bacteria: a randomised controlled trial. Bone Joint J 99(10):1354–1365
+ 127. Corley A, Cantara M, Gardner J, Trexler P , Rock C, Maragakis LL (2017) Central line ‑associated bloodstream infection rate elevation: attribut ‑
+able to National Healthcare Safety Network surveillance definition changes, ongoing opportunities for infection prevention, or both? Am J Infect Control 45(9):1030–1032

@@ -1,0 +1,727 @@
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 463Use of procalcitonin to reduce patients’ exposure to 
+antibiotics in intensive care units (PRORATA trial): a multicentre randomised controlled trial
+Lila Bouadma, Charles-Edouard Luyt, Florence Tubach, Christophe Crac co, Antonio Alvarez, Carole Schwebel, Frédérique Schortgen, 
+Sigismond Lasocki, Benoît Veber, Monique Dehoux, Maguy Bernard, Blandine Pasquet, Bernard Régnier, Christian Brun-Buisson, Jean  Chastre,* 
+Michel Wolﬀ  ,* for the PRORATA trial group†
+Summary 
+Background Reduced duration of antibiotic treatment might contain the emergence of multidrug-resistant bacteria in intensive care units. We aimed to establish the eﬀ  ectiveness of an algorithm based on the biomarker procalcitonin to 
+reduce antibiotic exposure in this setting.
+Methods In this multicentre, prospective, parallel-group, open-label trial, we used an independent, computer-
+generated randomisation sequence to randomly assign patients in a 1:1 ratio to procalcitonin (n=311 patients) or 
+control (n=319) groups; investigators were masked to assignment before, but not af ter
+, randomisation. For the 
+procalcitonin group, antibiotics were started or stopped based on predeﬁ  ned cut-oﬀ  
+ ranges of procalcitonin 
+concentrations; the control group received antibiotics according to present guidelines. Drug selection and the ﬁ  nal 
+decision to start or stop antibiotics were at the discretion of the physician. Patients were expected to stay in the intensive care unit for more than 3 days, had suspected bacterial infections, and were aged 18 years or older. Primary endpoints were mortality at days 28 and 60 (non-inferiority analysis), and number of days without antibiotics by day 28 (superiority analysis). Analyses were by intention to treat. The margin of non-inferiority was 10%. This trial is registered with ClinicalTrials.gov, number NCT00472667.
+Findings Nine patients were excluded from the study; 307 patients in the procalcitonin group and 314 in the control 
+group were included in analyses. M ortality of patients in the procalcitonin group seemed to be non-inferior to those 
+in the control group at day 28 (21∙2% [65/307] vs 20∙4% [64/314]; absolute diﬀ  erence 0∙8%, 90% CI –4∙6 to 6∙2) and 
+day 60 (30∙0% [92/307] vs
+ 26∙1% [82/314]; 3∙8%, –2∙1 to 9∙7). Patients in the procalcitonin group had signiﬁ  cantly 
+more days without antibiotics than did those in the control group (14∙3 days [SD 9·1] vs 11∙6 days [SD 8∙2]; absolute 
+diﬀ  erence 2∙7 days, 95% CI 1∙4 to 4∙1, p<0∙0001).
+Interpretation A procalcitonin-guided strategy to treat suspected bacterial infections in non-surgical patients in 
+intensive care units could reduce antibiotic exposure and selective pressure with no apparent adverse outcomes.
+Funding Assistance Publique-Hôpitaux de Paris, France, and Brahms, Germany.
+Introduction
+Antimicrobial resistance has emerged as a major factor 
+aﬀ ecting patient outcomes and overall resources in 
+intensive care units.1 We are now heading towards 
+extreme drug resistance, especially among gram-negative bacilli.
+1–3 Insuﬃ   cient measures to control infection and 
+selective antibiotic pressure are two key factors associated with the emergence of bacterial resistance.
+4 Compelling 
+evidence that antibiotic use causes resistance has led to calls to stop inappropriate prescription of antibiotics.
+4,5
+Antimicrobial consumption in the intensive care unit 
+can be substantially reduced by starting of antibiotics only for patients with true bacterial infections, or shortening of treatment duration for those needing antibiotics, or both.
+4–7 Guidance for duration of antibiotic 
+treatment could be based on the results of studies comparing two diﬀ  erent durations,
+8–10 but such studies 
+are still scarce for patients in intensive care units, and are applicable only for well deﬁ  ned infection sites. Another approach is to identify easily obtainable biomarkers, in addition to usual clinical and bacteriological indicators, to guide physicians. The potential advantage of such a strategy would be to individualise antibiotic duration according to the patient’s response to antimicrobial treatment.
+Procalcitonin, a calcitonin precursor hormone, is 
+judged to be a fairly speciﬁ  c marker for severe bacterial 
+infection in patients with suspected sepsis.
+11–13 Guidance 
+about serum procalcitonin concentration has substan-tially reduced antibiotic use in patients presenting at the emergency department or admitted to hospital for lower-respiratory-tract infections.
+14–17 Despite these encouraging 
+results, the potential usefulness of procalcitonin as an instrument to guide antibiotic use in all intensive care units has not yet been shown. Results from two small studies, each in one centre, have suggested that a protocol based on serial serum procalcitonin measurements could achieve shortening of antibiotic Lancet 2010; 375: 463–74
+Published Online
+January 23, 2010DOI:10.1016/S0140-6736(09)61879-1
+See Comment page 435*Authors contributed equally†Members listed at end of paper
+Service de Réanimation 
+Médicale (L Bouadma MD
+, 
+Prof B Régnier MD, Prof M Wolﬀ   MD), Département 
+d’Epidémiologie Biostatistique et Recherche Clinique (F Tubach MD, B Pasquet MS), Département d’Anesthésie et de Réanimation (S Lasocki MD), and Laboratoire de Biochimie (M Dehoux MD), Université Paris 7–Denis-Diderot, Hôpital Bichat–Claude-Bernard, Assistance Publique-Hôpitaux de Paris, Paris, France;  Service 
+de Réanimation Médicale  
+(C-E Luyt MD, Prof J Chastre MD), and Service de Pneumologie 
+et Réanimation (C Cracco MD), Université Paris 6–Pierre-et-Marie-Curie, Hôpital Pitié–Salpêtrière, Assistance Publique-Hôpitaux de Paris, Paris, France; Service de 
+Réanimation Médicale, Hôpital de Lafontaine, Saint-Denis, France (A Alvarez MD); Service de Réanimation Médicale, Centre Hospitalier Universitaire de Grenoble, Grenoble, France (C Schwebel MD); Service de Réanimation Médicale, Hôpital Henri-Mondor, Université Paris 12–Val-de-Marne, Assistance Publique-Hôpitaux de Paris, Créteil, France (F Schortgen MD, Prof C Brun-Buisson MD); Département d’Anesthésie et de Réanimation, Centre Hospitalier Universitaire de Rouen, Rouen, France  
+(Prof B Veber MD); and Laboratoire de Biochimie, Université Paris 5–René-Descartes, Hôpital Pitié–Salpêtrière, 
+Articles
+464 www.thelancet.com   Vol 375   February 6, 2010Assistance Publique-Hôpitaux 
+de Paris, Paris, France  
+(M Bernard MD)
+Correspondence to:
+Prof Michel Wolﬀ  , Service de 
+Réanimation Médicale et des 
+Maladies Infectieuses, Hôpital 
+Bichat–Claude-Bernard, 46, 
+rue Henri-Huchard, 75877 Paris 
+Cedex 18, France
+michel.wolﬀ  @bch.aphp.frtreatment by 2–3·5 days for patients in the intensive 
+care unit with sepsis or septic shock.18,19
+We therefore undertook a randomised, multicentre 
+eﬀ ectiveness trial to assess the beneﬁ  t of procalcitonin to 
+help physicians start, continue, or stop antibiotics for patients in intensive care units with suspected bacterial infections. Our objective was to establish whether a strategy based on procalcitonin concentration would achieve reduced antibiotic consumption. Because shortening of anti  biotic treatment might be harmful, our trial was desig-ned to assure that this strategy did not aﬀ  ect outcome.
+Methods
+Study design and participants
+The prospective, parallel-group, open-label PROcalcitonin to Reduce Antibiotic Treatments in Acutely ill patients (PRORATA) trial was undertaken in France between June, 2007, and May, 2008. We assessed critically ill 
+patients with suspected bacterial infections in seven (ﬁ  ve 
+medical, two surgical) intensive care units in ﬁ  ve 
+university-aﬃ   liated hospitals, and one medicosurgical 
+intensive care unit in a general hospital; in total these units comprised 140 beds.
+All adults with suspected bacterial infections at admis-
+sion to or during their stay in intensive care units were assessed for eligibility. Patients admitted with suspected infections were eligible if they were not receiving antibiotics before inclusion in the study or if they had received antibiotics for less than 24 h, provided that the interval between admission and inclusion was less than 12 h. Patients who developed sepsis during their stay in intensive care units were also considered for enrolment.
+Exclusion criteria were: age under 18 years; known 
+pregnancy; expected stay in the intensive care unit of less than 3 days; bone-marrow transplant or chemotherapy-induced neutropenia (<500 neutrophils per mL); infections for which long-term antibiotic treatment is strongly recommended (ie, infective endocarditis, osteoarticular infections, anterior mediastinitis after cardiac surgery, hepatic or cerebral abscesses, chronic prostatitis, or infection with Mycobacterium tuberculosis, Pneumocystis jirovecii, or Toxoplasma gondii); poor chance of survival, deﬁ  ned as a simpliﬁ  ed acute physiology score 
+(SAPS II) of more than 65 points at screening; and do-not-resuscitate orders.
+The study protocol was approved for all centres by the 
+ethics committee of the Saint-Louis University Hospital (Comité de Protection des Personnes), Paris, France, and written informed consent was obtained from the patients or their surrogates. An independent data and safety monitoring board reviewed the trial’s progress and adverse events according to treatment assignment.
+Randomisation and masking
+After baseline screening, an independent, centralised, computer-generated randomisation sequence (CleanWeb, Télémedecine, Technologies, Boulogne, France) was used to randomly assign patients in a 1:1 ratio to the procalcitonin or control groups. Patients were stratiﬁ  ed by centre with random block sizes of 2, 4, or 6; investigators were masked to assignment before, but not after, randomisation, as per our open-label design. This system was password protected and accessed by the principal investigator or study coordinator after the patient or surrogate gave consent and had met inclusion criteria. The patient’s initials and date of birth were entered and then the patient’s allocation was assigned. Although treatment assignments were not masked, all investigators were unaware of aggregate outcomes during the study, and primary endpoints were strictly deﬁ  ned and not patient-reported.
+Procedures 
+For patients in the procalcitonin group, two interventions were used to manage antibiotics: the ﬁ  rst used the 
+procalcitonin concentration to decide whether antibiotic treatment should be started; the second used serial serum procalcitonin concentrations to decide to stop antibiotics. Investigators used predeﬁ  ned algorithms to guide 
+physicians to start or discontinue antibiotics according to serum procalcitonin concentrations, using a modiﬁ  ed 
+version of a previously published algorithm.
+14 According 
+to the baseline procalcitonin concentration, starting of antibiotics was discouraged or encouraged (ﬁ  gure 1). 
+When antimicrobials were initially withheld, physicians were advised to repeat clinical assessments and procalcitonin measurements 6–12 h later to detect a late peak in procalcitonin concentration and ensure that antibiotics were provided to all patients with true bacterial infections. For patients who subsequently received antibiotics, procalcitonin concentrations were assessed daily until that treatment was ﬁ  nished.
+Investigators were encouraged to discontinue 
+antibiotics when procalcitonin concentration was less than 80% of the peak concentration or an absolute concentration of less than 0∙5 μg/L was reached. For these patients, procalcitonin guidance for starting and continuing of antibiotics was used for the ﬁ  rst and all subsequent infectious episodes until day 28, except for those discharged earlier from the intensive care unit. Additionally, the ﬁ  nal decision with respect to starting and continuing of antibiotics was at the discretion of the patients’ physicians, irrespective of the procalcitonin concentration. For all patients, we noted algorithm adherence for starting and stopping of antibiotics, reasons for overruling the algorithm (ie, continued antibiotics for clinically persistent infection, or patient deemed to have no infection), and whether treatment had been stopped because of discharge from the unit.
+For patients in the control group, before study onset all 
+investigators received and approved a reminder including recommendations for duration of antimicrobial treatment for the most frequent infections (webappendix pp 1–3); these recommendations were derived from international and local guidelines. However, investigators were free to 
+See Online for webappendix
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 465decide the optimum duration of antibiotic treatment 
+based on their own assessment of the infection’s clinical course, especially because present recommendations do not always give ﬁ  xed treatment durations for every type of 
+infection.
+For both groups, drug selection was at the discretion 
+of the patients’ physicians. Nevertheless, broad-spectrum antibiotics were recommended for initial empirical treatment (ie, before the susceptibility patterns of the responsible pathogens became known) of severe sepsis or septic shock, and for most severe infections. Notably, investigators were encouraged to start antibiotics as soon as possible in patients with severe infections, like septic shock, community-acquired pneumonia, ventilator-asso cia ted pneumonia, or bacterial meningitis.
+20,21 Antibiotic de-escalation with narrower-
+spectrum  antibiotics was strongly recommended, when possible, on the basis of culture results from specimens obtained at infection onset.
+For the procalcitonin group, blood samples were 
+obtained at inclusion, at each infectious episode until day 28, and every morning for patients receiving antibiotics. Procalcitonin concentration was assessed in every centre with time-resolved ampliﬁ  ed cryptate-
+emission technology (Kryptor procalcitonin, Brahms, Hennigsdorf, Germany) and functional assay (detection concentration 0∙06 μg/L). Total procalcitonin-assay im-preci sion was reported by Brahms to be 10% at 0∙20 μg/L and less than 6% at more than 0∙30 μg/L. The same reagents were used in all study laboratories throughout the study period; two quality-control materials were run daily with the lowest mean measurement of 0∙25 μg/L (total imprecision range 5∙8–8∙8%) and the highest mean measurement of 10 μg/L (4∙7–4∙8%). Measurements were obtained 7 days per week and results were transmitted to the treating physician within 2 h after blood was drawn. This method was used to measure procalcitonin concentration for patients in the control group from four of the seven centres (data were not available for the other three centres), but results were not sent to the treating physicians and were used for our analysis only.
+Data collection and deﬁ  nitions
+At admission to the intensive care unit, data collected were: age, sex, pre-existing comorbidities, previous location before admission, admission category, reason for admission, SAPS II, the presence and type of organ dysfunction using the sequential organ-failure assessment (SOFA) score,
+22 and use of mechanical 
+ventilation. Additionally, at inclusion and during follow-up we recorded: SAPS II (at inclusion only), SOFA score and type of organ or system failure (at inclusion and on days 7, 14, 21, and 28), vital signs, daily need for mechanical ventilation, source of infection when known, results of microbiological cultures, and adequacy of the initial empirical antibiotics. Septic shock was deﬁ  ned 
+according to previously published criteria.
+23Adequate antimicrobial treatment for patients with 
+microbiologically documented infection was deﬁ  ned as an initial antimicrobial regimen with in-vitro activity against 
+If blood sample taken for calculation of procalcitonin concentration at early stage of episode, 
+obtain a second procalcitonin concentration 6–12 h later
+Guidelines for continuing or stopping of antibioticsGuidelines for starting of antibiotics*
+Concentration<0·25 μg/L
+Antibiotics strongly discouragedConcentration ≥0·25 and <0·5 μg/L
+Antibiotics discouragedConcentration ≥0·5 and <1 μg/L
+Antibiotics encouragedConcentration ≥1 μg/L
+Antibiotics strongly 
+encouraged
+Concentration<0·25 μg/L
+Stopping of antibioticsstrongly encouraged
+Stopping of antibioticsencouragedDecrease by ≥80% from peak concentration, or concentration ≥0·25 and <0·5 μg/L
+Continuing of antibioticsencouragedDecrease by <80% frompeak concentration, and concentration ≥0·5 μg/L
+Changing of antibioticsstrongly encouragedIncrease of concentration compared with peak concentration and  concentration ≥0·5 μg/L
+Figure 1: Guidelines for starting, continuing, or stopping of antibiotics according to procalcitonin 
+concentrations*Excludes situations requiring immediate antibiotic treatment (eg, septic shock, purulent meningitis).
+1315 patients with suspected infection 
+assessed for eligibility
+630 enrolled and randomly assigned 
+to a treatment group685 not enrolled
+158 expected stay in ICU <3 days
+138 SAPS II >65104 received antibiotics for >24 h before assessment
+99 long-term antibiotic treatment needed63 logistical reasons46 do-not-resuscitate orders
+31 neutropenic15 no medical insurance12 previously enrolled in other studies10 refused consent
+4 younger than 18 years5 other reasons
+307 included in the analysis (1 lost to 
+follow-up on day 15)314 included in the analysis (1 lost to 
+follow-up on day 22)311 assigned to procalcitonin group 319 assigned to control group
+5 excluded 
+4 withdrew consent1 randomised twice4 excluded 
+4 withdrew consent
+Figure 2: Trial proﬁ  le
+ICU=intensive care unit. SAPS II= simpliﬁ  ed acute physiology score.
+Articles
+466 www.thelancet.com   Vol 375   February 6, 2010one or more pathogens that were judged to be responsible 
+for the infection. Relapse was deﬁ  ned as the growth of one or more of the initial causative bacterial strains (ie, same genus, species) from a second sample taken from the same infection site at 48 h or more after stopping of antibiotics, combined with clinical signs or symptoms of infection. Superinfection was deﬁ  ned as the isolation from the same or another site of one or more pathogens diﬀ erent from that identiﬁ  ed during the ﬁ  rst infectious 
+episode, together with clinical signs or symptoms of infection. Multidrug-resistant bacteria were deﬁ  ned as 
+one of the following: ticarcillin-resis tant Pseudomonas 
+aeruginosa, Acinetobacter baumannii, or Steno tro phomo nas maltophilia; extended-spectrum β-lactam-producing Entero   bacteriaceae; high-concen tration cephalosporinase-prod u cing AmpC Entero bac teriaceae; and meticillin-resistant Staphylococcus aureus.
+At the end of follow-up, every suspected infectious 
+episode was classiﬁ  ed by the investigator on the basis of 
+clinical, laboratory, and imaging or microbiological ﬁ ndings, or both. The four classiﬁ  cations were: 
+microbiologically documented infection (presence of a clinical or radiological infectious focus, or both, and pathogen identiﬁ  cation); clinically documented infection 
+(presence of a clinical or radiological infectious focus, or both, without causative pathogen identiﬁ  cation); absence 
+of infection (absence of a clinical or radiological infectious focus, or both, and antibiotics given for <2 days); and possible infection (all other situations). An adjudication committee—comprised of four specialists in infectious diseases and critical-care medicine who were masked to the randomisation assignment—reviewed and validated all infectious episode classiﬁ  cations by consensus.
+Primary endpoints were death from any cause by 
+days 28 and 60, and number of days without antibiotics at 28 days after inclusion. Secondary outcome measures were percentage of patients with relapse or superinfection (days 1–28); number of days without mechanical ventilation, deﬁ  ned as unassisted breathing (days 1–28); SOFA score (days 1, 7, 14, 21, and 28); length of stay in the intensive care unit and hospital; days of exposure to each antibiotic per 1000 inpatient days, deﬁ  ned as the number of days (>24 h) of continuous antibiotic treatment (days 1–28); duration of antibiotic treatment according to infection site; and percentage of emerging multidrug-resistant bacteria isolated from specimens taken for routine microbiological assessments (days 1–28).
+Statistical analysis
+The trial was designed to establish whether the procalcitonin-guided strategy was superior in terms of antibiotic use, as assessed by the number of days alive and without antibiotics, and its non-inferiority in terms of death.
+24 Assuming a mean of 12 days (SD 7∙5) without 
+antibiotics for the control group,6,8 133 patients per study 
+group would provide 90% power at a two-sided α=0∙05 to detect a 3-day increase in the number of days without antibiotics. To test for non-inferiority with a 10% α-risk, we needed 300 patients per study group to achieve 80% power to exclude a 10% between-group mortality diﬀ erence, assuming 35% mortality in the control 
+group.
+6,8,25–27 To account for possible patients lost to follow-
+up, we planned to enrol 630 patients.
+SAS software (version 9.1) was used for statistical 
+analyses. Superiority and non-inferiority analyses were by intention to treat. For the primary endpoint of mortality, the two-sided 90% CI was calculated for the percentage-point absolute diﬀ  erence between mortality in the two study groups (non-inferiority analysis). Conversely, the between-group absolute diﬀ  erence in the primary endpoint of number of days without antibiotics was analysed with the Student’s t  test and calculation of 95% CI for that mean Procalcitonin group (n=307) Control group (n=314)
+At admission to ICU
+Age (years) 61·0 (15·2) 62·1 (15·0)
+Men 207 (67%) 204 (65%)
+Admission category
+Medical 275 (90%) 280 (89%)
+Emergency surgery 20 (7%) 25 (8%)
+Elective surgery 12 (4%) 9 (3%)
+Origin
+Emergency department 144 (47%) 168 (54%)
+Medical or surgical department 138 (45%) 119 (38%)
+Other ICU 25 (8%) 27 (9%)
+Severe comorbidities
+NYHA III/IV heart failure 16 (5%) 13 (4%)
+Insulin-dependent diabetes mellitus 27 (9%) 22 (7%)
+Cirrhosis 20 (7%) 13 (4%)
+Oxygen therapy at home 23 (7%) 18 (6%)
+Chronic renal failure requiring dialysis 17 (6%) 11 (4%)
+Metastatic cancer 8 (3%) 5 (2%)
+Immunocompromised* 47 (15%) 51 (16%)
+SAPS II 47·1 (17·9) 46·9 (17·2)
+SOFA score 8·0 (4·7) 7·7 (4·6)
+Organ or system failure†
+Respiratory 153 (50%) 131 (42%)
+Cardiovascular 140 (46%) 141 (45%)
+Renal 60 (20%) 49 (16%)
+CNS 117 (38%) 111 (35%)
+Hepatic 19 (6%) 16 (5%)
+Coagulation 24 (8%) 25 (8%)
+Reason for admission to ICU
+Septic shock 53 (17%) 55 (18%)
+Non-septic shock 46 (15%) 46 (15%)
+Acute respiratory failure 115 (37%) 127 (40%)
+Renal failure 9 (3%) 6 (2%)
+Neurological failure 34 (11%) 36 (11%)
+Multiorgan failure 20 (7%) 20 (6%)
+Other‡ 30 (10%) 24 (8%)
+(Continues on next page)
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 467diﬀ erence (superiority analysis). Although not speciﬁ  ed in 
+the protocol, a worst-case imputation method was used for 
+missing data to conform with the intention-to-treat analysis. To further establish the prognostic eﬀ  ect of the procalcitonin algorithm for antibiotic treatment, logistic-regression analysis was applied to the endpoints of day-28 and day-60 mortality, adjusted for age, sex, pre-existing comorbidities, location before and reason for admission to the intensive care unit, SOFA score at admission, type of infection, blood culture results, septic shock, and mechanical ventilation at inclusion.
+For the primary endpoints, subgroup analyses were 
+prespeciﬁ  ed for: type of infection (patients with 
+community-acquired or hospital-acquired infection); patients with ventilator-associated pneumonia; immuno-compro mised patients; and patients strictly managed according to the study algorithms. The treatment eﬀ  ect 
+of the procalcitonin algorithm within each of these subgroups was investigated with the same methods as for the main analysis. Secondary outcome measures were compared between study groups with χ² or Student’s t tests, or both, as appropriate. Percentages of patients on antibiotics in each study group were plotted against time (days 1–28) and compared with a linear generalised model for repeated measures.
+28 Cumulative-event curves 
+were estimated with the Kaplan-Meier method, and a hazard ratio estimate (90% CI) was calculated.
+This trial is registered with ClinicalTrials.gov, number 
+NCT00472667 .
+Role of the funding source
+The study sponsors did not participate in the study design, data collection, data analysis, data interpretation, or writing of the report. LB, C-EL, FT, JC, and MW had full access to all the data and had ﬁ  nal responsibility for the decision to submit for publication.
+Results
+1315 patients with suspected infections were screened for eligibility, of whom 630 were enrolled and randomly assigned to the procalcitonin group (n=311 patients) or the control group (n=319; ﬁ  gure 2). Four patients in the procalcitonin group and ﬁ  ve in the control group were subsequently excluded from the analysis. Table 1 and webappendix pp 4–5 show the clinical characteristics of the remaining 621 patients at admission to the intensive care unit and inclusion into the study. For patients in the procalcitonin (n=307) and control (n=314) groups, respectively, infections at inclusion were classiﬁ  ed as 
+microbiologically documented in: 213 (69%) and 222 (71%), clinically documented in 36 (12%) and 52 (17%), possible in 11 (4%) and seven (2%), and absent in 47 (15%) and 33 (11%). Empirical antimicrobial treatment for patients with microbiologically documented infections was regarded as adequate for 193 (91%) patients in the procalcitonin group compared with 207 (93%) in the control group.Only two patients were lost to follow-up, one from 
+each group. In the procalcitonin group, the patient died on day 25 but no information was available about antibiotic exposure for days 15–25. From worst-case imputation, this patient was judged to have received antibiotics until death. In the control group, the patient was lost to follow-up on day 22 but was judged to have survived until day 60, without receiving any antibiotics after day 22.Procalcitonin group (n=307) Control group (n=314)
+(Continued from previous page)
+At inclusion to studySAPS II 43·8 (16·1) 43·4 (15·4)
+SOFA score 7·5 (4·4) 7·2 (4·4)
+Organ or system failure†
+Respiratory 148 (48%) 137 (44%)
+Cardiovascular 135 (44%) 127 (40%)
+Renal 58 (19%) 48 (15%)
+CNS 101 (33%) 100 (32%)
+Hepatic 13 (4%) 13 (4%)
+Coagulation 25 (8%) 21 (7%)
+Mechanical ventilation 211 (69%) 208 (66%)
+Type of infection
+Community-acquired infection 153 (50%) 173 (55%)
+Hospital-acquired infection 154 (50%) 141 (45%)
+Septic shock 138 (45%) 129 (41%)
+Serum lactate (>2 mmol/L)§ 91 (37%) 96 (38%)
+Positive blood cultures 55 (18%) 53 (17%)
+Procalcitonin (μg/L)¶ 12·0 (30·9); 1·6 (0·5–6·6) 12·0 (32·6); 1·5 (0·4–6·8)
+C-reactive protein (mg/L)|| 156·8 (109·2); 
+144·2 (63·0–229·0)159·6 (114·2); 
+137·2 (61·0–244·0)
+Infection site**
+Pulmonary 183 (71%)†† 211 (74%)‡‡
+Urinary tract 24 (9%) 18 (6%)
+Skin and soft tissue 5 (2%) 6 (2%)
+Intra-abdominal 14 (5%) 20 (7%)
+CNS 7 (3%) 6 (2%)
+Catheter-related infection 5 (2%) 3 (1%)
+Primary bloodstream infection 9 (3%) 11 (4%)
+Other¶¶ 11 (4%) 9 (3%)
+Data are mean (SD), number (%), or median (IQR). ICU=intensive care unit. NYHA=New York Heart Association 
+stage of disease. SAPS II=simpliﬁ  ed acute physiology score. SOFA=sequential organ-failure assessment. *Includes patients with acquired immunodeﬁ  ciency syndrome, solid-organ transplantation, or haematological malignancy, and those receiving chemotherapy or radiotherapy, immunosuppressive agents, or long-term corticosteroid therapy. †Deﬁ  ned by SOFA score >2. ‡Trauma (n=5 patients in procalcitonin group; n=4 in control group), need for continuous monitoring (n=12; n=10), and cardiac arrest (n=13; n=10). §Data were obtained for 247 patients in the procalcitonin group, and 255 in the control group; data were missing for remaining patients. ¶Data were obtained for 307 patients in the procalcitonin group, and 192 in the control group; data were missing for remaining patients. 
+||Data were obtained for 276 patients in the procalcitonin group, and 195 in the control 
+group; data were missing for remaining patients. **Data were obtained for 258 patients in the procalcitonin group, and 284 in the control group; data were missing for remaining patients. ††79 community-acquired pneumonia episodes, 75 ventilator-associated pneumonia episodes, and 29 hospital-acquired pneumonia episodes in non-mechanically ventilated patients. ‡‡101 community-acquired pneumonia episodes, 66 ventilator-associated pneumonia episodes, and 44 hospital-acquired pneumonia episodes in non-mechanically ventilated patients. ¶¶Endocarditis (n=1 in procalcitonin group), mediastinitis (n=1 in control group), and unknown (n=10 in procalcitonin group; n=8 in control group); cases of endocarditis and mediastinitis were diagnosed after inclusion so these patients were not excluded from the analysis.
+Table 1: Patient characteristics at baseline
+Articles
+468 www.thelancet.com   Vol 375   February 6, 2010Recommendations about duration of antimicrobial 
+treatment for the procalcitonin group were not followed 
+in 219 episodes. At inclusion, physicians immediately gave antibiotics to 65 patients because they judged that infection could not be ruled out, despite procalcitonin concentration of less than 0∙5 μg/L. Conversely, they did not give antibiotics to four patients because they believed that procalcitonin concentrations of more than 0∙5 μg/L were clearly explained by non-infectious events. During follow-up, physicians stopped antibiotics for 39 patients because they regarded the infection as clinically cured, despite persistently raised procalcitonin above 0∙5 μg/L. Antibiotics were continued for 111 patients: 32 were discharged from the intensive care unit, so procalcitonin concentrations were no longer available and the algorithm to stop antibiotics could not be used; and 79 were clinically unstable despite procalcitonin concentra tions below 0∙5 μg/L.
+For 14 of the 79 patients who were clinically unstable and 
+continued antibiotics, physicians prolonged antibiotics for a mean of 8∙8 days (SD 5) beyond the recommended duration, despite low procalcitonin concentrations, because they thought that stopping of the course any earlier would have been too early—ie, before the lower limit of the recommended antibiotic duration. Of these 14 patients, ten had not received appropriate initial treatment or were infected with multidrug-resistant strains (eg, P aeruginosa), or both. Of the 219 episodes in which the procalcitonin algorithm was not followed, the algorithm was overruled at inclusion and during follow-up for 57 patients, and therefore the algorithm was not adhered to in 162 patients, corresponding to 53% of the procalcitonin group.
+Recommendations about duration of antimicrobial 
+treatment for the control group were not heeded in 146 episodes because antibiotics were initially postponed (n=15) as physicians judged that infection was unlikely, antibiotics were stopped prematurely (n=46) as physicians judged that infection was cured, or antibiotics were unduly continued (n=85) as physicians judged that infection was not cured and still needed antibiotics. The control algorithm was overruled at inclusion and during follow-up for ﬁ  ve patients, and therefore the algorithm 
+was not adhered to in 141 patients, corresponding to 45% of the control group.
+Table 2 shows the proportion of deaths and the between-
+group absolute diﬀ  erence of mortality by days 28 and 60 after inclusion. According to our deﬁ  nition of non-Procalcitonin group 
+(n=307)Control group (n=314) Between-group 
+absolute diﬀ  erencep value
+Primary endpoints
+28-day mortality* 65 (21·2%) 64 (20·4%) 0·8% (–4·6 to 6·2) NA
+60-day mortality* 92 (30·0%) 82 (26·1%) 3·8% (–2·1 to 9·7) NA
+Number of days without antibiotics 14·3 (9·1) 11·6 (8·2) 2·7 (1·4 to 4·1) <0·0001
+Secondary endpoints (days 1–28)Relapse 20 (6·5%) 16 (5·1%) 1·4% (–2·3 to 5·1) 0·45
+Superinfection 106 (34·5%) 97 (30·9%) 3·6% (–3·8 to 11·0) 0·29
+Number of days without mechanical ventilation 16·2 (11·1) 16·9 (10·9) –0·7 (–2·4 to 1·1) 0·47
+SOFA score
+Day 1 7·5 (4·4) 7·2 (4·4) 0·3 (–0·4 to 1·0) 0·39
+Day 7 4·1 (4·2) 4·0 (4·2) 0·1 (–0·6 to 0·8) 0·73
+Day 14 2·8 (3·5) 2·8 (3·6) 0 (–0·6 to 0·7) 0·87
+Day 21 2·1 (3·3) 1·9 (3·1) 0·2 (–0·4 to 0·8) 0·52
+Day 28 1·5 (3·0) 0·9 (2·4) 0·6 (0·0 to 1·1) 0·0370
+Length of stay in ICU from inclusion (days) 15·9 (16·1) 14·4 (14·1) 1·5 (–0·9 to 3·9) 0·23
+Length of stay in hospital from inclusion (days) 26·1 (19·3) 26·4 (18·3) –0·3 (–3·2 to 2·7) 0·87
+Multidrug-resistant bacteria† 55 (17·9%) 52 (16·6%) 1·3% (–4·6 to 7·2) 0·67
+Days of antibiotic exposure per 1000 inpatient days 653 812 –159 (–185 to –131) <0·0001
+Duration of ﬁ  rst episode of antibiotic treatment (number [%]; days [SD])
+Overall population 307 (100%); 6·1 (6·0) 314 (100%); 9·9 (7·1) –3·8 (–4·8 to –2·7) <0·0001
+Community-acquired pneumonia 79 (26%); 5·5 (4·0) 101 (32%); 10·5 (6·4) –5·0 (–6·6 to –3·4) <0·0001
+Ventilator-associated pneumonia 75 (24%); 7·3 (5·3) 66 (21%); 9·4 (5·7) –2·1 (–4·0 to –0·3) 0·0210
+Intra-abdominal infection 14 (5%); 8·1 (7·7) 20 (6%); 10·8 (6·7) –2·7 (–7·7 to 2·4) 0·29
+Urinary tract infection 24 (8%), 7·4 (6·3) 18 (6%), 14·5 (9·3) –7·1 (–11·9 to –2·2) 0·0053
+Infection with positive blood culture 55 (18%), 9·8 (7·7) 53 (17%), 12·8 (8·1) –3·0 (–6·0 to 0·1) 0·06
+Data are number (%), diﬀ  erence (95% CI), or mean (SD), unless otherwise indicated. NA=not applicable. SOFA=sequential organ-failure assessment. ICU=intensive care unit. 
+*Diﬀ  erence (90% CI).  
+Table 2: Main outcome variables
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 469inferiority, mortality in the procalcitonin group was non-
+inferior to that in the control group. The Kaplan-Meier estimates of day-60 survival probability did not diﬀ  er 
+between the two groups (ﬁ  gure 3). After adjustment, the odds ratio for death for patients in the procalcitonin group versus the control group was 0∙89 (90% CI 0∙62–1∙28) for day 28, and 1∙09 (0∙79–1∙51) for day 60. 27 patients in the procalcitonin group and 18 in the control group died during days 29–60 due to: multiorgan failure with persistent respiratory failure (11 vs nine); underlying disease (eight vs three); non-infectious complications (eg, cardiac arrest or stroke; ﬁ  ve vs three); and treatment 
+withdrawal at the families’ request (three in each group). No deaths were recorded as related to relapse of infection.
+During the 28 days after inclusion, patients in the 
+procalcitonin group had a 23% relative reduction in days of antibiotic exposure compared with the control group (table 2). Patients in the procalcitonin group received antibiotics for a total of 10∙3 days (SD 7∙7) and those in the control group for 13∙3 days (7∙6) (p<0∙0001). The between-group absolute diﬀ  erence in the percentages of 
+patients receiving antibiotics was only 5∙6% (95% CI 1·4–9·8) on day 1, but rose to 22∙2% (19·1–25·9) on day 5, 37∙6% (30·5–45·1) on day 7, 10∙5% (2·5–18·7) on day 15, and 6∙2% (1·6–14·3) on day 20 (p<0∙0001; ﬁ  gure 4). 
+28 patients in the procalcitonin group did not receive 
+antibiotics at inclusion in accordance with the algorithm (procalcitonin <0∙5 μg/L). For only eight of these patients, antibiotics were given within 5 days, and all but one (who died on day 18 from underlying disease) survived until day 60. Of 15 patients in the control group who did not receive antibiotics at inclusion, eight received antibiotics within 5 days and four had died by day 60. For 17 patients (6 with community-aquired pneumonia, 11 with ventilator-associated pneumonia), the procalcitonin-guided strategy led to longer duration of antibiotic prescribing than did the recommendations for the control group. For patients randomised to the procalcitonin group, procalcitonin concentration when antibiotics were stopped was a median of 0·8 μg/L (IQR 0·3–3·2). No centre-eﬀ  ect was reported for the two main endpoints of 
+death and antibiotic exposure.
+For most secondary outcome measures (percentages of 
+patients with relapse or superinfection; number of days without mechanical ventilation; SOFA score apart from at day 28; length of stay in the intensive care unit and hospital; and percentage of emerging multidrug-resistant bacteria) no signiﬁ  cant diﬀ  erence was recorded between 
+study groups (table 2). After day 28, 119 (39%) of patients in the procalcitonin group and 122 (39%) in the control group were still in hospital, but only 53 (17%) and 43 (14%) were still in the intensive care unit.
+Duration of antibiotic exposure for the ﬁ  rst infectious 
+episode was signiﬁ  cantly shorter for patients assigned to receive procalcitonin-guided treatment than for those in the control group for the overall population, and those with community-acquired pneumonia, ventilator-associated pneumonia, urinary tract infections, and positive blood cultures (table 2). Patients in the procalcitonin group also had fewer days of antibiotic exposure per 1000 inpatient days (table 2).
+Antibiotic exposure was signiﬁ  cantly lower for patients 
+in the procalcitonin group than in the control group in all predeﬁ  ned subgroups: community-acquired infection 
+(3∙3 days), hospital-acquired infection (2∙3 days), ventilator-associated pneumonia (3∙1 days), immuno-compromised patients (3∙6 days), and patients strictly managed according to the study algorithms (3∙2 days; ﬁ gure 5A). By contrast, patient mortality by day 28 in the 
+procalcitonin group seemed to be non-inferior to the control group, but for some subgroups, there was insuﬃ   cient evidence for non-inferiority (ﬁ  gure 5B). 
+Although not prespeciﬁ  ed in the protocol, we did several other exploratory subgroup analyses on the basis of age, sex, microbiologically documented infections, presence or absence of one or more positive blood cultures, septic shock, mechanical ventilation, and SOFA score at inclusion. These analyses conﬁ  rmed the results of the main analysis. A signiﬁ  cant treatment-by-sex interaction for antibiotic exposure was recorded (ﬁ  gure 5B): for patients in the procalcitonin group, women were less exposed to antibiotics than men were.
+Discussion
+The results of our study show that for patients with suspected infections, either at admission to the intensive care unit or during their stay in the unit, procalcitonin-guided antibiotic treatment substantially lowers antibiotic exposure and is non-inferior to standard care with respect to outcomes. For patients in the procalcitonin group, the absolute diﬀ  erence of 2∙7 days between the 
+mean numbers of days without antibiotics by day 28 307
+314100
+90
+80
+70
+60
+50
+40
+30
+20HR 0·96 (90% CI 0·84–1·09)Overall survival (%)
+10
+0
+01 0 2 0 3 0
+Time (days)40 50 60
+Procalcitonin group
+Control groupNumber at risk
+273
+284255264235249225240219234215231Control groupProcalcitonin group
+Figure 3: Kaplan-Meier estimates of the probability of survival
+HR=hazard ratio. No signiﬁ  cant diﬀ  erence (log-rank test) was recorded between patients assigned to the 
+procalcitonin group and control group.
+Articles
+470 www.thelancet.com   Vol 375   February 6, 2010corresponds to a 23% relative reduction in antibiotic 
+exposure.
+Procalcitonin, one of the calcitonin precursors, is a 
+useful biomarker for the diagnosis of bacterial sepsis.11,12 
+To the best of our knowledge, eight randomised controlled trials assessing the use of procalcitonin to reduce antibiotic exposure have been published (table 3). Five trials done in either emergency departments on patients with lower-respiratory-tract infections,
+14,29 community-
+acquired pneumonia16 or acute exacerbation of chronic 
+bronchitis,17 or in primary care on patients with acute 
+respiratory tract infections15 reported that a predeﬁ  ned 
+algorithm to guide antibiotic prescription substantially decreased antibiotic use compared with standard care. The only previous trials of patients in intensive care units
+18,19,30 included small numbers of patients, and were 
+underpowered for safety, which in this setting is of the utmost importance. We studied patients with a wide range of infections and who were critically ill—all patients had high SAPS II and SOFA scores, 40% had septic shock, and two-thirds needed mechanical ventilation—which underscores the eﬀ  ective contribution 
+of a procalcitonin-guided strategy to lowering of antibiotic consumption in this setting. Moreover, this result was obtained while the control group’s duration of antimicrobial treatment was well within the range recommended in published reports.
+5,8,31,32 
+Chastre and colleagues8 showed that most patients 
+with ventilator-associated pneumonia could be safely treated for 8 days. However, their study excluded immuno suppressed patients and those who had received inappropriate initial antibiotics; moreover, those with P aeruginosa lung infections had a slightly increased relapse rate. For our study, we recommended that physicians treat patients with ventilator-associated pneumonia from P aeruginosa, those who were immunosup pressed, or those who did not initially receive appropri ate treatment for 15 days. These recommendations are in accordance with the 2005 guidelines from the American Thoracic Society and Infectious Diseases Society of America,
+32 and 
+recommendations made by the British Society for Antimicrobial Chemotherapy
+33 and the Canadian Critical 
+Care Trials Group.34 Furthermore, although several 
+studies showed that giving antibiotics for as little as 5 days can be suﬃ   cient for some patients with community-acquired pneumonia, standard care is 7–10 days and very short durations are not recommended for some pathogens (eg, Legionella pneumophila).
+31
+Results of research have not yet established the ideal 
+threshold to start or withdraw antibiotics for patients who are critically ill, and the percentage decline of procalcitonin from the peak concentration. Although investigators for previous studies on patients with lower-respiratory-tract infections chose a threshold of 0∙25 μg/L,
+14–17,29 the bacterial infection threshold for 
+critically ill patients was 0∙5–1 μg/L.11,18,35,36 We chose 
+0∙5 μg/L as a compromise between a low threshold, which could have led to unnecessary prescription of antibiotics, and a high threshold, which could have had detrimental consequences for the patient. As expected, antibiotic-sparing was obtained mainly during the ﬁ  rst 
+10 days by shortening of the duration of antibiotic treatment, whereas reduced antibiotic exposure was only marginal on day 1 (ﬁ  gure 4). Because crude procalcitonin 
+concentrations in the intensive care unit could have poor diagnostic beneﬁ  t,
+12,13,37 intensivists are understandably 
+reluctant to rely exclusively on biological markers when severe infection is suspected. Thus, procalcitonin might be more useful for stopping antibiotics than for use as a marker to exclude infection.
+Despite lower antibiotic exposure in the procalcitonin 
+group than in the control group, we were unable to show a between-group diﬀ  erence for the rates of emerging 
+multidrug-resistant bacteria. Nonetheless, we stress that infection is the tip of the iceberg compared with digestive colonisation.
+38 Rectal, nasal, and axillary swab screening 
+was not routinely done and might more accurately show antibiotic selective pressure. Moreover, a 3-day reduction of antibiotic use for only a small subset of admitted patients might not be suﬃ   cient to record a decreased 
+resistance-emergence rate, especially for some intensive care units with high cross-transmission rates.
+By contrast with ﬁ  ndings from patients in intensive 
+care units,
+18,19 we did not note any diﬀ  erence in the length 
+of stay in the unit between the groups, despite reduced duration of antibiotic treatment in the procalcitonin group. But length of stay can depend on many factors that are not directly linked to duration of antibiotic treatment. Furthermore, the perceived need by physicians to continue to monitor patients in the intensive care unit who received very short-term antibiotics might also explain the similar lengths of stay 00102030Patients receiving antibiotic treatment (%)405060708090100 Control group
+Procalcitonin group
+10Time (days)20 30
+Figure 4: Patients receiving antibiotics for days 1–28
+Signiﬁ  cantly fewer patients assigned to the procalcitonin group received antibiotics than did those assigned to the control group (p<0·0001, generalised linear model test for repeated measures).
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 471between the procalcitonin and control groups. In-
+triguingly, we reported a signiﬁ  cant treatment-by-sex 
+interaction for duration of antibiotic exposure. However, since no imbalances of disease severity or any other factors were reported between men and women in the two treatment groups, we think that the most plausible explanation is a chance ﬁ  nding.
+Several limitations of our study should be mentioned. 
+First, although our trial was multicentre and randomised, the design was open and only eight intensive care units participated. Second, surgical patients represented only 10% of the study population. Therefore, our ﬁ  ndings 
+cannot be extrapolated to surgical patients, in whom procalcitonin might be heightened even in the absence of infection,
+37 or to other subsets of patients, especially those who might need long-term antibiotic treatment, are neutropenic, or are infected with high-risk pathogens (eg, P aeruginosa), since they were excluded or represented 
+only a small fraction of our study population.
+Third, 53% of patients randomised to the procalcitonin 
+group were not given algorithm-guided treatment, either because the algorithm was overruled (physicians refused to start or stop antibiotics, even though the algorithm recommended it), or because they were discharged from the intensive care unit, precluding serial serum procalcitonin measurements. However, we were still able to show signiﬁ  cantly reduced antibiotic use during the 28-day period after inclusion. Notably, after exclusion of all patients in both study groups for whom treatment algorithms were overruled, patients in Overall population
+Prespeciﬁed analysisType of infection
+Community-acquiredHospital-acquired
+Ventilator-associatedpneumonia
+YesNo
+Immunocompromised
+YesNo
+Algorithm adherence
+YesNo
+Post-hoc analysisAge
+<62 years≥62 years
+Sex
+MenWomen
+Microbiologically documented episode
+YesNo
+Positive blood culture
+YesNo
+Septic shock
+YesNo
+Mechanical ventilation
+YesNo
+SOFA score at inclusion
+0–34–67–1011–2411·6/314
+12·0/173
+11·0/141
+9·7/66
+12·0/248
+9·4/51
+12·0/263
+10·4/173
+13·0/141
+12·1/146
+11·1/168
+11·6/204
+11·5/110
+9·9/222
+15·5/92
+7·3/53
+12·4/261
+8·4/129
+13·8/185
+10·8/208
+13·0/106
+13·4/70
+13·9/7910·5/89
+8·7/7664/314
+33/173
+31/141
+17/66
+47/248
+10/51
+54/262
+50/173
+14/140
+23/146
+41/168
+41/204
+23/110
+49/222
+15/92
+15/53
+49/261
+39/129
+25/184
+51/207
+13/106
+5/70
+13/7918/8928/7665/307
+26/153
+36/154
+14/75
+51/232
+12/47
+53/260
+40/145
+25/162
+23/149
+42/158
+51/207
+14/100
+47/213
+18/94
+16/55
+49/252
+48/138
+17/169
+56/211
+9/96
+4/61
+11/79
+17/8233/8514·3/307
+15·3/153
+13·3/154
+12·8/75
+14·8/232
+13·0/47
+14·5/260
+13·6/145
+15·0/162
+15·2/149
+13·5/158
+13·1/207
+16·9/100
+12·7/213
+17·9/94
+10·2/55
+15·2/252
+11·6/138
+16·5/169
+13·4/211
+16·3/96
+19·3/61
+16·4/7912·8/8210·3/850·532·7 (1·4 to 4·1)
+3·3 (1·4 to 5·2)2·3 (0·4 to 4·4)
+3·1 (0·7 to 5·6)
+2·8 (1·2 
+to 4·4)
+3·6 (0·2 to 7·0)
+2·5 (1·1 to 4·0)
+3·2 (1·2 to 5·1)
+2·0 (0·2 to 4·0)  0·8% (–4·6 to 6·2)
+–0·2% (–7·4 to 7·0)
+1·4% (–6·6 to 9·4)
+–7·1% (–18·7 to 4·5)
+3·0% (–3·1 to 9·1)
+5·9% (–8·0 to 19·8)
+–0·2% (–6·0 to 5·6)–1·3% (–9·6 to 7·0)
+5·4% (–0·9 to 11·7)0·81
+0·48
+0·43
+0·60
+0·0087
+0·78
+0·94
+0·54
+0·65
+0·120·75
+0·22
+0·82
+0·25
+0·64
+0·11
+0·79
+0·97
+0·57
+0·45
+0·58Days without antibiotics/
+number of patients
+Control
+groupProcalcitoningroupAbsolute diﬀerence (days; 95% CI) Absolute diﬀerence (%; 90% CI) p value† p value*
+Patient mortality/number of patients
+Control
+groupProcalcitoningroup
+Less antibiotic exposurein control groupLess antibiotic exposure inprocalcitonin group–1 0 1 2 3 4 5 6 7 8 9
+Higher mortalityin control groupHigher mortalityin procalcitonin group–20 –15 –10 –5 0 5 10 15 20B A
+Figure 5: Days without antibiotics (A) and patient mortality by day 28 (B), according to prespeciﬁ  ed and post-hoc baseline characteristics
+Dotted vertical lines in B show clinical non-inferiority margins that were calculated a priori. SOFA=sequential organ-failure assessment. *p values show the interaction between the subgroup and days 
+without antibiotics. †p values show the interaction between the subgroup and patient mortality. 
+Articles
+472 www.thelancet.com   Vol 375   February 6, 2010the procalcitonin group still had signiﬁ  cantly more days 
+without antibiotics than did controls (absolute diﬀ  erence 
+3∙2 days, 95% CI 1∙2 to 5∙1), without a signiﬁ  cant 
+diﬀ erence in 28-day mortality (absolute diﬀ  erence 
+–1·3%, 95% CI –9·6 to 7·0).
+Fourth, a slightly higher number of patients in the 
+procalcitonin group than in the control group died between days 29 and 60, potentially questioning the safety of a procalcitonin-guided strategy in the intensive care unit. However, no patient in either group who died during days 29–60 had an infection relapse, and most deaths resulted from complications directly related to the severity of underlying disease. Importantly, after taking into account the potential confounders, the odds ratio for death by day 60 was not signiﬁ  cantly diﬀ  erent 
+between the study groups, and none of the secondary outcome measures diﬀ  ered signiﬁ  cantly between study 
+groups, including the type and number of organ dysfunctions, number of days without mechanical ventilation, length of stay in the intensive care unit and hospital, and rate of relapse.
+Fifth, our trial’s sample size was calculated to have 
+suﬃ  cient power to exclude a 10% between-group mortality 
+diﬀ erence, which can be debated. To support this margin, 
+we searched published reports to establish the eﬀ  ect-size 
+of an antimicrobial drug versus no active treatment against severe infections, including ventilator-associated and community-acquired pneumonia. Substantial treatment eﬀ ects of antimicrobial treatment were shown in all 
+studies identiﬁ  ed,
+26,39–41 with increased mortality ranging 
+from 10% to more than 40% when no eﬀ  ective 
+antimicrobial treatment was prescribed. These ﬁ  ndings 
+justiﬁ  ed a non-inferiority safety margin of 10% in 
+accordance with preservation of 50% or more of the comparator drug’s or intervention’s eﬃ   cacy relative to 
+placebo or no treatment.
+42 This margin is also in accordance 
+with the Infectious Diseases Society of America recommendation for non-inferiority trials assessing antibiotic treatment for severe community-acquired pneumonia, deﬁ  ned as a pneumonia severity index of IV–V.
+27 Our study was designed assuming 35% mortality 
+for control patients, whereas we recorded a crude mortality of 26∙2% by day 60. This reduced mortality in the control group slightly increases the power of our study and, therefore, the probability of concluding non-inferiority.
+Sixth, our deﬁ  nitions of relapse and superinfection 
+were based on microbiological criteria and therefore needed microbiological results, some of which might have been less easily obtained once the patients were discharged from the intensive care unit; consequently, the occurrence of late relapse or superinfection could have been underestimated. Last, no formal cost-eﬀ ectiveness evaluation was done. In France, 
+procalcitonin analysis costs €10–15, an expenditure which should be compared with that of unnecessary antibiotics, especially when broad-spectrum or newly licensed agents are used.
+4,43 In 2008, Vandijck and colleagues43 reported 
+that the acquisition cost of antibiotics used to treat nosocomial bloodstream infections in adult patients in the intensive care unit was €114 daily.
+The diverse clinical characteristics and reasons for 
+admissions to the intensive care unit for patients enrolled in this study suggest that our conclusions could be applicable to most non-surgical patients in the intensive care unit, including those who are immunocompromised. A procalcitonin-guided strategy could reduce antibiotic selective pressure with potential beneﬁ  ts in the era of multiresistance.
+Contributors
+As principal investigators of the PRORATA trial, LB, C-EL, MW, JC, and FT had full access to all the study data, and take responsibility for their integrity and the accuracy of their analysis. LB, MW, JC, and FT participated in the study design. LB, MW, and FT obtained funding for the study. LB, MW, JC, and FT supervised the study, and LB, C-EL, CC, AA, CS, FS, SL, BV, and JC collected the data. BP and FT analysed the data; FT provided statistical expertise. LB, MW, JC, FT, and C-EL drafted the report, and the report was revised for important intellectual content Type of infection; setting Patients Eﬀ  ect on antibiotic exposure of 
+procalcitonin strategy vs control Mortality
+Procalcitonin Control  Procalcitonin Control
+Christ-Crain et al (2004)14Lower-respiratory tract infection; emergency department 124 119 0·49 (95% CI 0·44–0·55)* 3·2% 3·4%
+Christ-Crain et al (2006)16Community-acquired pneumonia; emergency department 151 151 0·52 (95% CI 0·48–0·55)† 11·9% 13·2%
+Stolz et al (2007)17COPD exacerbation; emergency department 102 106 0·76 (95% CI 0·64–0·92)† 4·9% 8·5%
+Briel et al (2008)15Respiratory-tract infection; primary care 232 226 72% (95% CI 66–78)‡ 0% 0·5%
+Schuetz et al (2009)29Lower-respiratory-tract infection; emergency department 671 688 5·7 vs 8·7§ 5·1% 4·8%
+Nobre et al (2008)18Severe sepsis or septic shock; ICU 31¶ 37¶ 17·4 (SD 7·6) vs 13·6 (7·6)|| 16·1% 16·2%
+Hochreiter et al (2009)19Infection with systemic inﬂ  ammatory-response syndrome; surgical ICU 57 53 5·9 (SD 1·1) vs 7·9 (0·5)** 26·3% 26·4%
+Stolz et al (2009)30Ventilator-associated pneumonia; ICU 51 50 10 (IQR 6–16) vs 15 (10–23)†† 20% 28%‡‡
+COPD=chronic obstructive pulmonary disease. ICU=intensive care unit. *Adjusted relative risk of antibiotic exposure. †Relative risk of antibiotic exposure. ‡Percentage reduction of antibiotic prescriptions. §Mean 
+days of antibiotic treatment; relative change in mean days –34·8% (–40·3 to –28·7). ¶Number of patients included in the per-protocol analysis. ||Mean number of days without antibiotics for days 1–28; p=0·04 for 
+between-group comparison. **Mean days of antibiotic treatment; p<0·001 for between-group comparison. ††Median days of antibiotic treatment; p=0·038 for between-group comparison. ‡‡p=0·32 for between-group comparison.
+Table 3: Studies that have used procalcitonin to reduce patient exposure to antibiotics
+Articles
+www.thelancet.com   Vol 375   February 6, 2010 473by CC, AA, CS, FS, SL, BV, BR, CB-B, MD, and MB. LB, C-EL, CC, AA, 
+CS, FS, SL, BV, JC, and FT provided administrative, technical, or material support.
+PRORATA trial group
+Bruno M
+ourvillier (Service de Réanimation Médicale, Hôpital 
+Bichat−Claude-Bernard, Assistance Publique-Hôpitaux de Paris, 
+Université Paris 7–Denis-Diderot, Paris); Jean-Louis Trouillet, Ania Nieszkowska, Alain Combes (Service de Réanimation Médicale, Hôpital Pitié−Salpêtrière, Assistance Publique-Hôpitaux de Paris, Université Paris 6–Pierre-et-Marie-Curie, Paris); Alexandre Demoule, Hélène Prodanovic (Service de Pneumologie et Réanimation, Hôpital Pitié−Salpêtrière, Assistance Publique-Hôpitaux de Paris, Université Paris 6–Pierre-et-Marie-Curie, Paris); Hakim Haouache, Nathalie Memain, Anne-Gaelle Si-Larbi, Marie Thuong (Service de Réanimation Médicale, Hôpital de Lafontaine, Saint-Denis); Jean-François Timsit (Service de Réanimation Médicale, Centre Hospitalier Universitaire de Grenoble, Université Joseph-Fourier, Grenoble); Olfa Beji (Service de Réanimation Médicale, Hôpital Henri-Mondor, Assistance Publique-Hôpitaux de Paris, Université Paris 12–Val-de-Marne, Créteil); Charles-Marie Bera (Laboratoire de Biochimie, Hôpital Bichat–Claude-Bernard, Assistance Publique-Hôpitaux de Paris, Paris).
+Conﬂ  icts of interest
+C-EL has received lecture fees from Brahms, and Merck Sharp & 
+Dohme-Chibret. BR has served as a consultant for AstraZeneca, Merck Sharp & Dohme-Chibret, and Lilly. JC has received consulting and lecture fees from Pﬁ  zer, Brahms, Wyeth, Johnson & Johnson, 
+Nektar-Bayer, and Arpida. MW has received consulting and lectures fees from Merck Sharp & Dohme-Chibret, Janssen-Cilag, Gilead, and AstraZeneca. All other authors declare that they have no conﬂ  icts of 
+interest.
+Acknowledgments
+We thank Isabelle Hoﬀ  man, Hélène Picard, and Erica Vlachos (Unité de Recherche Clinique, Hôpital Bichat–Claude-Bernard), and Jessica Palmyre (Unité de Recherche Clinique, Hôpital Pitié–Salpêtrière) for their outstanding eﬀ  orts in monitoring of the study; all the staﬀ   
+members of all the participating hospitals and intensive care units who have been associated with this trial; Aurélie Guimfack, Olivier Chassany, and François Lemaire (Département à la Recherche Clinique et au Développement, Assistance Publique–Hôpitaux de Paris) for their help with undertaking the study; and Janet Jacobson for editorial assistance. This trial was supported by a research grant from the Département à la Recherche Clinique et au Développement, Assistance Publique–Hôpitaux de Paris, which also sponsored the study (PHRC AOR06019). Brahms, one of the manufacturers of the procalcitonin assay, provided all assay-related materials free of charge for the study (Kryptor machines if not already available on-site, and kits and maintenance required for study-related measurements); Brahms did not provide any further funding for the study.
+References
+1 Kollef MH, Fraser VJ. Antibiotic resistance in the intensive care 
+unit. Ann Intern Med 2001; 134: 298–314.
+2 Hanberger H, Garcia-Rodriguez JA, Gobernado M, Goossens H, 
+Nilsson LE, Struelens MJ. Antibiotic susceptibility among aerobic gram-negative bacilli in intensive care units in 5 European countries. French and Portuguese ICU Study Groups. JAMA 1999; 281: 67–71.
+3 Neuhauser MM, Weinstein RA, Rydman R, Danziger LH, Karam G, 
+Quinn JP. Antibiotic resistance among gram-negative bacilli in US intensive care units: implications for ﬂ  uoroquinolone use. JAMA 
+2003; 289: 885–88.
+4 Goldmann DA, Weinstein RA, Wenzel RP, et al. Strategies to prevent 
+and control the emergence and spread of antimicrobial-resistant microorganisms in hospitals. A challenge to hospital leadership. JAMA 1996; 275: 234–40.
+5 Dellit TH, Owens RC, McGowan JE Jr, et al. Infectious Diseases 
+Society of America and the Society for Healthcare Epidemiology of America guidelines for developing an institutional program to enhance antimicrobial stewardship. Clin Infect Dis 2007; 44: 159–77 .6 Fagon JY , Chastre J, Wolﬀ   M, et al. Invasive and noninvasive 
+strategies for management of suspected ventilator-associated pneumonia. A randomized trial. Ann Intern Med 2000; 132: 621–30.
+7 Munoz-Price LS, Weinstein RA. Acinetobacter infection. 
+N Engl J Med 2008; 358: 1271–81.
+8 Chastre J, Wolﬀ   M, Fagon JY , et al. Comparison of 8 vs 15 days of 
+antibiotic therapy for ventilator-associated pneumonia in adults: a randomized trial. JAMA 2003; 290: 2588–98.
+9 el Moussaoui R, de Borgie CA, van den Broek P, et al. Eﬀ  ectiveness 
+of discontinuing antibiotic treatment after three days versus eight days in mild to moderate-severe community acquired pneumonia: randomised, double blind study. BMJ 2006; 332: 1355.
+10 Micek ST, Ward S, Fraser VJ, Kollef MH. A randomized controlled 
+trial of an antibiotic discontinuation policy for clinically suspected ventilator-associated pneumonia. Chest 2004; 125: 1791–99.
+11 Uzzan B, Cohen R, Nicolas P, Cucherat M, Perret GY . Procalcitonin 
+as a diagnostic test for sepsis in critically ill adults and after surgery or trauma: a systematic review and meta-analysis. Crit Care Med  
+2006; 34: 1996–2003.
+12 Becker KL, Snider R, Nylen ES. Procalcitonin assay in systemic 
+inﬂ  ammation, infection, and sepsis: clinical utility and limitations. Crit Care Med 2008; 36: 941–52.
+13 Tang BMP, Eslick GD, Craig JC, McLean AS. Accuracy of 
+procalcitonin for sepsis diagnosis in critically ill patients: systematic review and meta-analysis. Lancet Infect Dis 2007; 7: 210–17 .
+14 Christ-Crain M, Jaccard-Stolz D, B ingisser R, et al. Eﬀ  ect 
+of 
+procalcitonin-guided treatment on antibiotic use and outcome in lower respiratory tract infections: cluster-randomised, single-blinded intervention trial. Lancet 2004; 363: 600–07 .
+15 Briel M, Schuetz P, Mueller B, et al. Procalcitonin-guided antibiotic 
+use vs a standard approach for acute respiratory tract infections in primary care. Arch Intern Med 2008; 168: 2000–07 .
+16 Christ-Crain M, Stolz D, Bingisser R, et al. Procalcitonin guidance of 
+antibiotic therapy in community-acquired pneumonia: a randomized trial. Am J Respir Crit Care Med 2006; 174: 84–93.
+17 Stolz D, Christ-Crain M, Bingisser R, et al. Antibiotic treatment of 
+exacerbations of COPD: a randomized, controlled trial comparing procalcitonin-guidance with standard therapy. Chest 2007; 131: 9–19.
+18 Nobre V, Harbarth S, Graf JD, Rohner P, Pugin J. Use of 
+procalcitonin to shorten antibiotic treatment duration in septic patients: a randomized trial. Am J Respir Crit Care Med 2008; 177: 498–505.
+19 Hochreiter M, Kohler T, Schweiger AM, et al. Procalcitonin to guide 
+duration of antibiotic therapy in intensive care patients: a randomized prospective controlled trial. Crit Care 2009; 13: R83.
+20 Kumar A, Roberts D, Wood KE, et al. Duration of hypotension 
+before initiation of eﬀ  ective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med 2006; 34: 1589–96.
+21 Kollef MH, Sherman G, Ward S, Fraser VJ. Inadequate antimicrobial 
+treatment of infections: a risk factor for hospital mortality among critically ill patients. Chest 1999; 115: 462–74.
+22 Vincent JL, de Mendonca A, Cantraine F, et al. Use of the SOFA 
+score to assess the incidence of organ dysfunction/failure in intensive care units: results of a multicenter, prospective study. Working group on “sepsis-related problems” of the European Society of Intensive Care Medicine. Crit Care Med 1998; 26: 1793–800.
+23 Bone RC, Sibbald WJ, Sprung CL. The ACCP–SCCM consensus 
+conference on sepsis and organ failure. Chest 1992; 101: 1481–83.
+24 Piaggio G, Elbourne DR, Altman DG, Pocock SJ, Evans SJ. Reporting 
+of noninferiority and equivalence randomized trials: an extension of the CONSORT statement. JAMA 2006; 295: 1152–60.
+25 Annane D, Aegerter P, Jars-Guincestre MC, Guidet B. Current 
+epidemiology of septic shock: the CUB-Rea Network. Am J Respir Crit Care Med 2003; 168: 165–72.
+26 Fleming TR, Powers JH. Issues in noninferiority trials: the evidence 
+in community-acquired pneumonia. Clin Infect Dis 2008; 47 (suppl 3): S108–20.
+27 Spellberg B, Talbot GH, Brass EP, Bradley JS, Boucher HW, 
+Gilbert DN. Position paper: recommended design features of future clinical trials of antibacterial agents for community-acquired pneumonia. Clin Infect Dis 2008; 47 (suppl 3): S249–65.
+Articles
+474 www.thelancet.com   Vol 375   February 6, 201028 Zeger SL, Liang KY . Longitudinal data analysis for discrete and 
+continuous outcomes. Biometrics 1986; 42: 121–30.
+29 Schuetz P, Christ-Crain M, Thomann R, et al. Eﬀ  ect of 
+procalcitonin-based guidelines vs standard guidelines on antibiotic 
+use in lower respiratory tract infections: the ProHOSP randomized controlled trial. JAMA 2009; 302: 1059–66.
+30 Stolz D, Smymios N, Eggimann P, et al. Procalcitonin for reduced 
+antibiotic exposure in ventilator associated pneumonia—a randomized study. Eur Respir J 2009; published online Sept 24. DOI:10.1183/09031936.00053209.
+31 Mandell LA, Wunderink RG, Anzueto A, et al. Infectious Diseases 
+Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults. Clin Infect Dis 2007; 44 (suppl 2): S27–72.
+32 American Thoracic Society, Infectious Diseases Society of America. 
+Guidelines for the management of adults with hospital-acquired, ventilator-associated, and healthcare-associated pneumonia. Am J Respir Crit Care Med 2005; 171: 388–416.
+33 Masterton RG, Galloway A, French G, et al. Guidelines for the 
+management of hospital-acquired pneumonia in the UK: report of the working party on hospital-acquired pneumonia of the British Society for Antimicrobial Chemotherapy. J Antimicrob Chemother 2008; 62: 5–34.
+34 Muscedere J, Dodek P, Keenan S, Fowler R, Cook D, Heyland D, 
+VAP Guidelines Committee and the Canadian Critical Care Trials Group. Comprehensive evidence-based clinical practice guidelines for ventilator-associated pneumonia: diagnosis and treatment. J Crit Care 2008; 23: 138–47 .
+35 Harbarth S, Holeckova K, Froidevaux C, et al. Diagnostic value of 
+procalcitonin, interleukin-6, and interleukin-8 in critically ill patients admitted with suspected sepsis. Am J Respir Crit Care Med 2001; 164: 396–402.36 Luyt CE, Guérin V, Combes A, et al. Procalcitonin kinetics as a 
+prognostic marker of ventilator-associated pneumonia. Am J Respir Crit Care Med 2005; 171: 48–53.
+37 Luyt CE, Combes A, Reynaud C, et al. Usefulness of procalcitonin 
+for the diagnosis of ventilator-associated pneumonia. Intensive Care Med 2008; 34: 1434–40.
+38 Crémieux AC, Muller-Serieys C, Panhard X, et al. Emergence of 
+resistance in normal human aerobic commensal ﬂ  ora during 
+telithromycin and amoxicillin–clavulanic acid treatments. Antimicrob Agents Chemother 2003; 47: 2030–35.
+39 Iregui M, Ward S, Sherman G, Fraser VJ, Kollef MH. Clinical 
+importance of delays in the initiation of appropriate antibiotic treatment for ventilator-associated pneumonia. Chest 2002; 122: 262–68.
+40 Teixeira PJ, Seligman R, Hertz FT, Cruz DB, Fachel JM. Inadequate 
+treatment of ventilator-associated pneumonia: risk factors and impact on outcomes. J Hosp Infect 2007; 65: 361–67 .
+41 Austrian R, Gold J. Pneumococcal bacteremia with especial 
+reference to bacteremic pneumococcal pneumonia. Ann Intern Med 1964; 60: 759–76.
+42 US Department of Health and Human Services, Food and Drug 
+Administration, Center for Drug Evaluation and Research, Center for Biologics Evaluation and Research. Guidance for industry: E 10 choice of control group and related issues in clinical trials (2001). http://www.fda.gov/downloads/RegulatoryInformation/Guidances/ucm125912.pdf (accessed Aug 7, 2009).
+43 Vandijck DM, Depaemelaere M, Labeau SO, et al. Daily cost of 
+antimicrobial therapy in patients with intensive care unit-acquired, laboratory-conﬁ  rmed bloodstream infection. Int J Antimicrob Agents 2008; 31: 161–65.

@@ -1,6 +1,6 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-04-04
+> Senast uppdaterad: 2026-04-06
 > Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **347** (86 PDF + 261 text) |
+| Filer i sources/fulltext/ | **363** (94 PDF + 269 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **298** |
+| Unika artiklar (efter deduplicering) | **306** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **390** |
+| **Totalt filer på disk** | **406** |
 
 ---
 
@@ -537,6 +537,19 @@
 | — | Cardigan 2020 — Washed red cells | 32633823 | Wiley (Vox Sanguinis) |
 | — | Annane 1996 — Bronchial IgA and pneumonia | 8630606 | ATS (AJRCCM) |
 
+### Infektionshantering vid prolongerad IVA-vård (tillagda 2026-04-06)
+
+| # | Artikel | PMID | Fulltext |
+|---|---------|------|----------|
+| 1 | Harris 2018 — MERINO trial: pip/tazo vs meropenem vid ESBL-BSI (RCT n=378) | 30208454 | [PDF](/source/Harris_2018_MERINO_PipTazo_vs_Meropenem_PMID30208454.pdf) [text](/source/Harris_2018_MERINO_PipTazo_vs_Meropenem_PMID30208454.txt) |
+| 2 | Mermel 2009 — IDSA Guidelines: CRBSI diagnosis and management | 19489710 | [PDF](/source/Mermel_2009_IDSA_CRBSI_Guidelines_PMID19489710.pdf) [text](/source/Mermel_2009_IDSA_CRBSI_Guidelines_PMID19489710.txt) |
+| 3 | de Jong 2016 — SAPS trial: PCT-guided antibiotic duration in ICU (RCT n=1546) | 26947523 | [PDF](/source/deJong_2016_SAPS_PCT_Guidance_PMID26947523.pdf) [text](/source/deJong_2016_SAPS_PCT_Guidance_PMID26947523.txt) |
+| 4 | Pappas 2016 — IDSA Clinical Practice Guideline: Candidiasis management | 26679628 | [PDF](/source/Pappas_2016_IDSA_Candidiasis_Guidelines_PMID26679628.pdf) [text](/source/Pappas_2016_IDSA_Candidiasis_Guidelines_PMID26679628.txt) |
+| 5 | Bouadma 2010 — PRORATA trial: PCT to reduce antibiotic exposure in ICU (RCT n=621) | 20097417 | [PDF](/source/Bouadma_2010_PRORATA_PCT_Trial_PMID20097417.pdf) [text](/source/Bouadma_2010_PRORATA_PCT_Trial_PMID20097417.txt) |
+| 6 | Roberts 2014 — DALI study: β-lactam dosing in ICU (68 ICUs, 8 antibiotics) | 24429437 | [PDF](/source/Roberts_2014_DALI_Antibiotic_Dosing_ICU_PMID24429437.pdf) [text](/source/Roberts_2014_DALI_Antibiotic_Dosing_ICU_PMID24429437.txt) |
+| 7 | Timsit 2018 — Intravascular devices in critically ill: prevention and management | 29754308 | [PDF](/source/Timsit_2018_Intravascular_Devices_ICU_PMID29754308.pdf) [text](/source/Timsit_2018_Intravascular_Devices_ICU_PMID29754308.txt) |
+| 8 | Robak 2018 — Antibiotic-induced secondary IgA deficiency enhances susceptibility to pneumonia | 29771684 | [PDF](/source/Robak_2018_Antibiotic_Secondary_IgA_Deficiency_PMID29771684.pdf) [text](/source/Robak_2018_Antibiotic_Secondary_IgA_Deficiency_PMID29771684.txt) |
+
 ---
 
-*298 unika artiklar (347 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 390 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-04-04.*
+*306 unika artiklar (363 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 406 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-04-06.*

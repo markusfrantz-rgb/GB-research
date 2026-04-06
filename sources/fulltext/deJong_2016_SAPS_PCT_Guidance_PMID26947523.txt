@@ -1,0 +1,452 @@
+www.thelancet.com/infection   Vol 16   July 2016 819Articles
+Eﬃ   cacy and safety of procalcitonin guidance in reducing the 
+duration of antibiotic treatment in critically ill patients: a randomised, controlled, open-label trial
+Evelien de Jong, Jos A van Oers, Albertus Beishuizen, Piet Vos, Wytze J Vermeijden, Lenneke E Haas, Bert G Loef, Tom Dormans, 
+Gertrude C van Melsen, Yvette C Kluiters, Hans Kemperman, Maarten J van den Elsen, Jeroen A Schouten, Jörn O Streefk  erk, Hans G Krabbe, 
+Hans Kieft, Georg H Kluge, Veerle C van Dam, Joost van Pelt, Laura Bormans, Martine Bokelman Otten, Auke C Reidinga, Henrik End eman, 
+Jos W Twisk, Ewoudt M W van de Garde, Anne Marie G A de Smet, Jozef Kesecioglu, Armand R Girbes, Maarten W Nijsten, Dylan W de Lange
+Summary
+Background In critically ill patients, antibiotic therapy is of great importance but long duration of treatment is 
+associated with the development of antimicrobial resistance. Procalcitonin is a marker used to guide antibacterial therapy and reduce its duration, but data about safety of this reduction are scarce. We assessed the eﬃ   cacy 
+and safety 
+of procalcitonin-guided antibiotic treatment in patients in intensive care units (ICUs) in a health-care system with a comparatively low use of antibiotics.
+Methods We did a prospective, multicentre, randomised, controlled, open-label intervention trial in 15 hospitals in the 
+Netherlands. C 
+ritically ill patients aged at least 18 years, admitted to the ICU, and who received their ﬁ  rst dose of 
+antibiotics no longer than 24 h before inclusion in the study for an assumed or proven infection were eligible to 
+participate. P atients who received antibiotics for presumed infection were randomly assigned (1:1), using a computer
+-
+generated list, and stratiﬁ  ed (according to treatment centre, whether infection was acquired before or during ICU stay, and dependent on severity of infection [ie, sepsis, severe sepsis, or septic shock]) to receive either procalcitonin-guided or standard-of-care antibiotic discontinuation. Both patients and investigators were aware of group assignment.  In the 
+procalcitonin-guided group, a non-binding advice to discontinue antibiotics was provided if procalcitonin concentration  
+had decreased by 80% or more of its peak value or to 0·5 μg/L or lower 
+. In the standard-of-care group, patients were 
+treated according to local antibiotic protocols.  Primary endpoints were antibiotic daily deﬁ  ned doses and duration of  
+antibiotic treatment. All analyses were done by intention to treat. Mortality analyses were completed for all patients (intention to treat) and for patients in whom antibiotics were stopped while being on the ICU (per-protocol analysis). Safety endpoints were reinstitution of antibiotics and recurrent inﬂ  ammation measured by C-reactive protein concentrations and they were measured in the population adhering to the stopping rules (per-protocol analysis). The study is registered with ClinicalTrials.gov, number NCT01139489, and was completed in August, 2014.
+Findings Between Sept 18, 2009, and July 1, 2013, 1575 of the 4507 patients assessed for eligibility were randomly assigned 
+to the procalcitonin-guided group (761) or to standard-of -care (785). In 538 patients (71%) in the procalcitonin-guided group
+ 
+antibiotics were discontinued in the ICU. Median consumption of antibiotics was 7·5 daily deﬁ  ned doses (IQR 4·0–12·7) in the procalcitonin-guided group versus 9·3 daily deﬁ  ned doses (5·0–16·6) in the standard-of-care group (between-group absolute diﬀ  erence 2·69, 95% CI 1·26–4·12, p<0·0001). Median duration of treatment was 5 days (3–9) in the procalcitonin-
+guided group and 7 days (4–11) in the standard-of -care group (between-group absolute diﬀ  erence 
+1·22, 0·65–1·78, 
+p<0·0001). Mortality at 28 days was 149 (20%) of 761 patients in the procalcitonin-guided group and 196 (25%) of 785 patients in the standard-of-care group (between-group absolute diﬀ  erence 5·4%, 95% CI 1·2–9·5, p=0·0122) according to the intention-to-treat analysis, and 107 (20%) of 538 patients in the procalcitonin-guided group versus 121 (27%) of 457 patients in the standard-of-care group (between-group absolute diﬀ  erence 6·6%, 1·3–11·9, p=0·0154) in the per-protocol analysis. 1-year mortality in the per-protocol analysis was 191 (36%) of 538 patients in the procalcitonin-guided and 196 (43%) of 457 patients in the standard-of-care groups (between-group absolute diﬀ  erence 7·4, 1·3–13·8, p=0·0188).
+Interpretation Procalcitonin guidance stimulates reduction of duration of treatment and daily deﬁ  ned doses in 
+critically ill patients with a presumed bacterial infection. This reduction was associated with a signiﬁ
+ cant decrease in 
+mortality. Procalcitonin concentrations might help physicians in deciding whether or not the presumed infection is 
+truly bacterial, leading to more adequate diagnosis and treatment, the cornerstones of antibiotic stewardship.
+Funding Thermo Fisher Scientiﬁ  c.
+Introduction
+Sepsis remains a major cause of death in critically ill 
+patients. Rapid and adequate antibiotic therapy is of great importance in critically ill patients, but overly long antimicrobial treatment is undesirable because of increasing antibiotic resistance.
+1 However, with Lancet Infect Dis 2016; 
+16: 819–27
+Published Online
+February 29, 2016http://dx.doi.org/10.1016/S1473-3099(16)00053-0
+See Comment page 758VU University Medical Center
+, 
+Amsterdam, Netherlands  
+(E de Jong MD, A Beishuizen MD, 
+Prof J W Twisk PhD, Prof A R Girbes MD);  Elisabeth 
+Tweesteden Hospital, Tilburg, Netherlands (J A van Oers MD, P Vos RN, Y C Kluiters PhD); Medisch Spectrum Twente, Enschede, Netherlands (A Beishuizen, W J Vermeijden MD, H G Krabbe PhD);  Diakonessen 
+Hospital, Utrecht, Netherlands (L E Haas MD); Martini Hospital, Groningen, Netherlands (B G Loef MD, A C Reidinga MD); Atrium Hospital, Heerlen, Netherlands (T Dormans MD, L Bormans RN); Medical Centre Haaglanden, Haaglanden, The Hague, Netherlands (G C van Melsen MD); University Medical Centre Utrecht, Utrecht, Netherlands (H Kemperman PhD, Prof J Kesecioglu MD, D W de Lange MD); St Lucas Andreas Hospital, Amsterdam, Netherlands (M J van den Elsen MD);  Canisius 
+Wilhelmina Hospital, Nijmegen, Amsterdam, Netherlands ( J 
+A Schouten MD); 
+Bronovo Hospital, The Hague, Netherlands (J O Streefkerk MD) ; 
+Isala Hospital, Zwolle, Netherlands (H Kieft MD); Slotervaart Hospital Amsterdam, Netherlands  
+(G H Kluge MD);  Westfries 
+Gasthuis Hoorn, Netherlands  
+(V C van Dam MD);  University  
+Medical Centre, University of Groningen, Groningen, Netherlands (J van Pelt MD, Prof A M G A de Smet MD, M W Nijsten MD); Diakonessen 
+Articles
+820 www.thelancet.com/infection   Vol 16   July 2016Hospital Utrecht, Utrecht, 
+Netherlands (M B Otten MD, 
+H Endeman MD);  and 
+St Antonius Hospital, 
+Nieuwegein, Netherlands  
+(E M W van de Garde PhD)
+Correspondence to:
+Dr Evelien de Jong, VU University 
+Medical Center, Amsterdam, 
+1081 HV, Netherlands
+ev.dejong@vumc.nl;
+edejong@rkz.nl
+critically ill patients, physicians might be reluctant to 
+shorten the duration of antimicrobial treatment.2 
+Therefore, speciﬁ  c markers for resolution of infection might assist physicians in making antibiotic therapy decisions on an individual basis. Regularly used markers for this purpose are the leucocyte count and C-reactive protein (CRP). However, procalcitonin has been advocated as a marker with a better speciﬁ  city and 
+sensitivity than CRP for follow-up of severe bacterial infections.
+3–10
+Findings from several studies11–20 have shown that 
+procalcitonin guidance can reduce the duration of antibiotic treatment for patients with bacterial infection, but the safety of such protocols has not been ﬁ rmly established.
+7,21,22 Additionally, most of these 
+intensive care unit (ICU) trials were done in countries with a high baseline consumption of antibiotics. In the Netherlands the antibiotic consumption per person is quite low. By contrast, in terms of deﬁ  ned daily dosages per 1000 patient days, antibiotic consumption in France, Greece, the UK, and the USA is 1·5–3·3 times higher.
+23
+The objective of this trial was to assess the eﬃ   cacy 
+and safety of procalcitonin-guided antibiotic treatment in a large heterogeneous set of ICU patients in a health-care system with a comparatively low use of antibiotics. Our hypothesis was that addition of procalcitonin guidance to the standard of care could reduce the duration of antibiotic treatment and thus the amount of antibiotics given, without increasing mortality or recurrent infections.
+Methods
+Study design
+The Stop Antibiotics on Procalcitonin guidance Study (SAPS)
+24 was a prospective, multicentre, randomised, 
+open-label intervention trial in patients admitted to the ICU of three university medical centres and 12 teaching hospitals in the Netherlands. This study was approved for all centres by the ethics committee of the VU University Medical Center (Amsterdam, Netherlands) and is in full compliance with the Helsinki Declaration. The study protocol is available online.
+24
+Participants
+Eligible patients had to be at least 18 years of age, be admitted to the ICU, and have received their ﬁ  rst 
+dose of antibiotics no longer than 24 h before inclusion to the trial for an assumed or proven infection. Patients were excluded in cases of systemic antibiotics as prophylaxis only, antibiotics solely as part of selective decontamination of the digestive tract, prolonged therapy (eg, endocarditis), expected ICU stay of less than 24 h, severe immuno suppression, severe infections (due to viruses, parasites, or Mycobacterium tuberculosis), and moribund patients. Patients who received corticosteroids were not excluded. Patients could only participate once in this trial. All patients or Research in context
+Evidence before this study
+The decision 
+to discontinue antibiotics in patients in intensive 
+care units (ICUs) can be partly based on improvements oﬀ  ered 
+by a biomarker such as C-reactive protein. The biomarker procalcitonin displays a stronger and faster modulation for severity of bacterial infection than does C-reactive protein. Thus a satisfactory drop in procalcitonin concentrations might help to discontinue antibiotic use in a more timely fashion. Despite its widespread availability, the procalcitonin assay is sparsely used in many countries. The reluctance for early discontinuation of antibiotics is based on doubts as to whether 
+this practice is safe. W
+e searched PubMed, Embase, and 
+ClinicalTrials.gov for articles published between Jan 1, 1990, and Aug 31, 2015, using the search terms “procalcitonin”, “infection”, and “intensive care unit”. Two trials with a stopping criterion based on procalcitonin each randomly assigned more than 100 patients. The largest of these two trials was the PRORATA trial, which randomly assigned 631 patients and used a stopping criterion of procalcitonin at 20% or lower of its peak value or procalcitonin at 0·5 μg/L or lower. This trial showed a signiﬁ  cant reduction in antibiotic treatment duration, albeit in a context of relatively long duration of antibiotic treatment. However, since the PRORATA trial reported a non-signiﬁ  cant, but higher, 60-day mortality in its procalcitonin arm, safety concerns were raised regarding the reliability of procalcitonin.
+Added value of this study
+The Stop Antibiotics on Procalcitonin guidance Study (SAPS) was conceived as a pragmatic trial with fewer exclusion criteria than previous trials, with mortality used as a safety endpoint. SAPS used the same procalcitonin criterion as PRORATA as non-binding advice. The SAPS trial showed that procalcitonin monitoring coupled with a non-binding advice to consider stopping using antibiotics reduced duration of antibiotic treatment. The procalcitonin-guided group had a lower mortality than the standard-of-care group.
+Implications of all available evidence
+The timecourse of procalcitonin provides information on the resolution of severe bacterial infection. All evidence indicates that procalcitonin-guided treatment can reduce antibiotic treatment duration. Even in the context of a comparatively short antibiotic treatment duration this is feasible.
+Addition of procalcitonin measurements to the current 
+diagnostic arsenal will help clinicians reduce antibiotic treatment duration. Whether the procalcitonin assay will also be cost-eﬀ  ective is not clear. 
+Articles
+www.thelancet.com/infection   Vol 16   July 2016 821their legal representatives provided written informed 
+consent.
+Randomisation and masking
+Patients were randomly assigned (in a 1:1 ratio) to receive either treatment according to procalcitonin guidance (procalcitonin-guided group) or standard of care (standard-of-care group). Randomisation was done centrally by use of a computer-generated list produced by an independent research organisation (the Julius Centre for Human Research, Utrecht, Netherlands). Randomisation was stratiﬁ  ed according to treatment 
+centre, whether the infection was acquired before or during ICU stay, and severity of infection (ie, sepsis, severe sepsis, or septic shock).
+25 Patients and investigators 
+were aware of treatment assignment.
+Procedures
+For patients randomly assigned to the procalcitonin-guided group, once a day measurements of pro calcitonin concentrations were taken and made available to the attending physicians, including a baseline measurement as close to initiation of antibiotics as possible, at least within 24 h. Procalcitonin concentration was not measured in the standard-of-care group. Except for the procalcitonin measure ments, all monitoring was similar between the pro calcitonin-guided and the standard-of-care groups. Procalcitonin was measured on analysers available at the site (Kryptor machine [Thermo Fisher Scientiﬁ  c, 
+Waltham, MA, USA] or a suitable Vidas [Marcy-l’Étoile, France] or Roche [Basel, Switzerland] immunoanalyser)  
+that were maintained according to national quality standards. In the procalcitonin-guided group, pro-calcitonin con centration was measured until ICU
+ 
+discharge or until 3 days after systemic antibiotics were stopped. The study protocol advised to stop the prescribed anti biotics if procalcitonin concentration had decreased by 80% or more of its peak value (relative stopping threshold), or when it reached a value of 0·5 μg/L or lower (absolute stopping threshold). The attending physician was free to decide whether to continue antibiotic treatment in patients who had reached these thresholds. Reasons for non-adherence were recorded. Antibiotics in the standard-of-care group were stopped according to local or national guidelines and according to the discretion of attending physicians. The number of antibiotic-free days in the ﬁ  rst 
+28 days af
+ter study inclusion were recorded (including 
+antibiotic days on subsequent nursing wards). In both groups CRP concentrations were analysed once a day  until 
+28 days af ter inclusion as an additional safety measure. 
+ 
+Patients were followed up for 1 year after entering the study, allowing assessment of 28-day and 1-year mortality. 
+Outcomes
+The primary outcome was the consumption of antibiotics (expressed as deﬁ  ned daily doses) and duration of 
+antibiotic treatment (deﬁ  ned as the number of 24 h periods between start and end of antibiotic treatment) in in the two groups for all randomised patients who were not excluded (the modiﬁ  ed intention-to-treat population). For every participant, the total amount of antibiotics given during the study period was assessed on the basis of individual drug administration records. Our deﬁ  nition 
+of deﬁ  ned daily doses accords with the recom mendations of WHO (appendix).
+26 The route of administration was 
+incorporated in the daily dose calculations. The primary safety outcome was mortality at 28 days and 1 year, assessed in the modiﬁ  ed intention-to-treat population and the per-protocol population.
+Secondary outcomes were the percentage of patients 
+who had a recurrent infection, length of stay in hospital and ICU, costs of antibiotics, and costs of procalcitonin tests. Total direct costs of antibiotic treatment per patient were calculated by multiplying the total amounts of all antibiotics used with the lowest Dutch list price according to the Dutch National Health Care Institute, which reports the lowest and highest pharmacy purchase prices including 6% tax for all registered drugs.
+The SAPS trial was supervised by an independent Data 
+Safety Monitoring Board (consisting of an intensivist, statistician, and a pulmonologist), which was not involved in the study design, completion of the trial, or recruitment of patients. The Data Safety Monitoring Board concluded after the interim analysis (after the ﬁ  rst 
+750 patients had been included; about 2 years after start of the study) that the trial could be continued.
+Statistical analysis
+The goal of this trial was to establish whether the procalcitonin-guided strategy was superior in terms of anti biotic use and duration, length of stay in the ICU, and cost-eﬀ  ective ness and to show non-inferiority of the pro calcitonin-guided antibiotic management regarding 28-day mortality and recurrent infections. For the superiority primary outcome, the power calculation was based on an estimated 15% reduction in duration of antibiotic treatment. We assumed a mean duration of antibiotic treatment of 8 days and an SD of 6 days.
+17 With 
+an α of 0·05 and a β of 0·1 we would need 526 patients in each group. However, some patients would be discharged from the ICU before reaching the stopping rules. These patients would not be stopped according to the procalcitonin guidelines. We assumed that 20% of patients were going to be discharged before the stopping rule was enacted. Hence, we needed 631 patients per study group.
+We did not want the intervention to lead to excess 
+mortality in the procalcitonin-guided group. In view of a 28% mortality in a previously published study,
+17 for the 
+procalcitonin-guided group to be non-inferior to standard of care in terms of safety, the non-inferiority margin for procalcitonin-guided treatment regarding 28-day mortality was set to 8%. This margin would lead to a mortality of 28% in the standard-of-care group versus See Online for appendix
+For the
+ Netherlands national 
+quality standards see http://
+www.cckl.nl/index.php?pagina=35For the Dutch National Health 
+Care Institute anitbiotic price list see http://www.medicijnkosten.nl
+Articles
+822 www.thelancet.com/infection   Vol 16   July 201630% in the procalcitonin-guided group. On the basis of 
+these assumptions and with an α of 0·025 and a β of 0·1 we would need 663 patients in each group for 90% power that the one-sided 97·5% CI excludes a diﬀ  erence in the standard-of-care group of more than 8%. On the basis of these two calculations the study needed at least 1326 patients.We compared baseline characteristics and outcomes 
+with a t test or Mann-Whitney U test for continuous outcomes, χ² test for nominal outcomes, and a log-rank 
+test to compare Kaplan-M eier survival curves. W
+e 
+calculated a cumulative event estimate by a hazard ratio (HR; 95% CI). All tests were two-sided, with p values of 0·05 deemed statistically signiﬁ  cant. All analyses were completed using SPSS, version 20 (IBM software). The study is registered with ClinicalTrials.gov, NCT01139489.
+Role of the funding source
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had ﬁ  nal responsibility for the decision to submit for publication.
+Results
+From Sept 18, 2009, to July 1, 2013, 4507 patients were screened in the 15 participating ICUs. Of these, 1575 patients (35%) were enrolled including 29 patients who (after being randomly assigned to a group) withdrew from the study or had major protocol violations, resulting in the modiﬁ  ed intention-to-treat population of 1546 patients (761 in the procalcitonin-guided group and 785 in the standard-of-care group; ﬁ  gure 1). 223 (29%) of 761 patients in the procalcitonin-guided group had died or were discharged from the ICU before antibiotics were stopped. Although these patients did not discontinue their antibiotic treat ment, they were included in the analyses as part of the procalcitonin-guided group (intention-to-treat principle). 761 patients in the procalcitonin-guided group and 785 patients in the standard-of-care group were included in the modiﬁ  ed intention-to-treat analyses. Baseline characteristics of the 1546 patients were similar between the two groups (table 1).
+In the study population of 1546 patients, median 
+consumption of antibiotics was 7·5 deﬁ  ned daily doses (IQR 4·0–12·8) in the procalcitonin-guided group versus 9·3 deﬁ  ned daily doses (5·0–16·5) in the standard-of-
+care group (between-group absolute diﬀ   erence 2·69, 
+95% CI 1·26–4·12, p<0·0001). Median duration of treatment in the ﬁ  rst 28 days was 5·0 days (IQR 3·0–9·0) in the procalcitonin-guided group versus 7·0 days (4·0–11·0) in the standard-of-care group (between-group absolute diﬀ  erence 1·22, 0·65–1·78, p<0·0001). Median 
+antibiotic-free days within the ﬁ  rst 28 days after being randomly assigned to a treatment group was 7·0 (IQR 0·0–14·5) in the procalcitonin-guided group versus 5·0 days (0·0–13·0) in the standard-of-care group (between-group  absolute diﬀ  erence 1·31, 0·52–2·09, 
+p=0·0016).
+A
+t 28 days after randomisation, 149 (20%) of 761 patients 
+had died in the procalcitonin-guided group versus 196 (25%) of 785 patients in the standard-of-care group. The between-group absolute diﬀ  erence was 5·4% (95% CI 1·2–9·5, p=0·012). 1 year after randomisation this 4507 patients assessed for eligibility
+1575 enrolled
+1575 randomised
+776 assigned to 
+        procalcitonin-guided group799 assigned to standard-of-care          group
+14 excluded due to protocol       violations 8 needed long-term antibiotics          (>3 weeks) 1 ICU stay >24 h 2 logistic reason 2 received antibiotics >24 h           before screening 1 other15 excluded due to protocol      violations 4 withdrew informed consent 5 needed long-term antibiotics          (>3 weeks) 1 had M tuberculosis infection
+ 1 immunocompromised 1 logistic reason 1 received antibiotics >24 h          before screening 2 other2932 excluded 99 did not consent or did not want to participate 49 no next-of-kin to ask for deferred consent 142 expected stay on ICU <24 h 597 received antibiotics >24 h before screening 1220 had antibiotics prescribed prophylactically or                        only perioperatively (duration <48 h) 200 needed long-term antibiotics (>3 weeks) 20 pre-existing infection due to virus, parasite, or                           Mycobacterium tuberculosis 200 severely immunocompromised 89 were moribund 286 missed due to logistic reasons 30 other
+785 included in the modiﬁed         intention-to-treat        population 
+761 included in the modiﬁed         intention-to-treat        population 
+328 died or were          discharged from          ICU with antibiotics
+223 died or were        discharged from        ICU with antibiotics
+457 completed antibiotics on          ICU and included in          per-protocol analyses
+538 completed antibiotics on          ICU and included in          per-protocol analyses
+Figure 1: Trial proﬁ  le
+ICU=intensive care unit
+Articles
+www.thelancet.com/infection   Vol 16   July 2016 823diﬀ  erence remained with 265 deaths (35%) of 761 patients 
+in the procalcitonin-guided group versus 321 deaths (41%) 
+of 785 patients in the standard-of-care group (log-rank test p=0·0070). The between-group absolute diﬀ  erence was 
+6·1% (1·2–10·9, p<0·0158; HR 1·26, 1·07–1·49, p=0·0060) in the intention-to-treat analysis. The Kaplan-Meier survival curves of both groups are shown in ﬁ  gure 2.
+The remaining 538 (71%) of 761 patients in the 
+procalcitonin-guided and 457 (58%) of 785 patients in the standard-of-care group completed their antibiotic treatment in the ICU; these two groups were compared as per-protocol analysis. 28-day mortality in this analysis was 107 (20%) of 538 patients in the procalcitonin-guided group versus 121 (27%) of 457 patients in the standard-of-care group (between-group absolute diﬀ  erence 6·6%, 
+95% CI 1·3–11·9, p=0·0154). 1-year mortality in the per-protocol analysis was 191 (36%) of 538 patients in the procalcitonin-guided group and 196 (43%) of 457 patients in the standard-of-care group (between-group absolute diﬀ erence 7·4%, 1·3–13·8, p=0·0188). The diﬀ  erences in 
+various other subgroups are shown in the appendix.
+In the ﬁ  rst 28 days after being assigned to a group, 
+175 (23%) of 761 patients in the procalcitonin-guided group received an additional course of systemic antibiotics versus 173 (22%) of 785 patients in the standard-of-care group (intention-to-treat p=0·67). These additional antibiotics were given after a median interval of 4·0 days (IQR 2·0–8·0) in both the procalcitonin-guided and standard-of-care groups (p=0·96). In 38 (5%) of 761 patients in the procalcitonin-guided group versus 23 (3%) of 785 patients in the standard-of-care group (p=0·0492), a second course of antibiotic treatment was given for a re-infection that was proven by culture to be the same pathogen and the same organ as the original infection. When asked if the re-infection was caused by an overly short initial course of antibiotics, physicians answered aﬃ   rmatively for 16 
+(26%) of 61 patients with a recurrent infection. The non-inferiority analysis for the reinstitution of antibiotics in the per-protocol population was 151 (28%) of 538 in the procalcitonin-guided group versus 117 (26%) of 457 in the standard-of-care group (between-group  absolute diﬀ  erence –2·5%, 95% CI –7·9 to 3·1,
+  
+p=0·39).
+A stopping criterion was reached in 557 patients in 
+the procalcitonin-guided group during their ICU stay. Adherence to this stopping advice was for 243 patients (44%) who had their antibiotic treatments stopped within 24 h and 297 patients (53%) treatments were stopped within 48 h after reaching the stopping threshold. 17 patients (3%) did not have their antibiotics stopped.  Of 
+the reasons why intensivists decided to continue  
+antibiotics in patients who reached the stopping rule,
+ 
+various non-speciﬁ  c concerns about stopping antibiotics were mentioned (appendix).
+In 38 (7%) of 557 patients, antibiotics were already 
+discontinued before reaching either stopping rule. Of the patients in whom physicians adhered to one of the stopping rules, 126 (42%) of 297 patients were stopped because of a decrease in procalcitonin concentrations to 20% or lower of the peak value, 154 (52%) of 297 patients were stopped as the procalcitonin concentration was 0·5 μg/L or lower, and 17 (6%) of 297 patients reached 
+both these stopping rules simultaneously . Thus both
+ 
+Procalcitonin-guided 
+group (n=761)Standard-of-care group (n=785)
+Age (years) 65 (54–75) 65 (57–75)
+Men 464 (61%) 470 (60%)
+Severity of illness
+APACHE IV score
+2772·0 (52·0– 92·0) 71·0 (55·0–95·0)
+Sepsis or severe sepsis 625 (82%) 634 (81%)
+Septic shock 136 (18%) 151 (19%)
+SOFA score* 6·0 (3·0–9·0) 6·0 (4·0–9·0)
+Respiratory 3 (2–3) 3 (2–3)
+Cardiovascular 3 (0–4) 3 (0–4)
+Renal 0 (0–1) 0 (0–1)
+Hepatic 0 (0–0) 0 (0–0)
+Neurological 0 (0–2) 0 (0–1)
+Coagulation 0 (0–0) 0 (0–1)
+Acquisition of infection
+Community acquired 392 (52%) 400 (51%)
+Hospital acquired 189 (25%) 186 (24%)
+ICU acquired 180 (24%) 199 (25%)
+Presumed infection site
+Pulmonary 491 (65%) 503 (64%)
+CNS 29 (4%) 30 (4%)
+Skin and soft tissue 13 (2%) 23 (3%)
+Catheter-related infection 8 (1%) 11 (1%)
+Intra-abdominal infection 108 (14%) 129 (16%)
+Urinary tract infection 27 (4%) 24 (3%)
+ENT 7 (1%) 7 (1%)
+Bloodstream infection 4 (1%) 4 (1%)
+Unknown focus 74 (10%) 54 (7%)
+Infection and inﬂ  ammation
+Procalcitonin (μg/L) 1·9 (0·40–14·1) NA
+C-reactive protein (mg/L) 202·0 (99·0–306·3) 204·0 (105·5–307·5)
+Leucocytes (10⁹ cells per L) 14·7 (10·6–21·3) 14·9 (10·4–21·0)
+Temperature (°C) 38·0 (37·4–38·8) 38·0 (37·4–38·7)
+Treatment in ﬁ  rst 24 h
+Mechanical ventilation 617 (81%) 628 (80%)
+Renal replacement in ﬁ  rst 24 h 72 (9%) 86 (11%)
+Inotropic or vasopressor support 729 (96%) 751 (96%)
+Selective decontamination of the digestive tract 399 (52%) 421 (54%)
+Corticosteroids 412 (54%) 420 (54%)
+Data are median (IQR) or n (%). No substantial diﬀ  erences were noted between the two groups. APACHE IV=Acute and 
+Chronic Health Evaluation IV score.27 SOFA=Sequential Organ Failure Assessment score. ICU=intensive care unit. 
+ENT=an infectious focus in ear-nose-throat area. NA=not applicable. *SOFA contains six subscores (respiratory, cardiovascular , renal, hepatic [liver], neurological, and coagulation), each subscore can be attributed 0–4 points 
+depending 
+on the extent of organ dysfunction; the original SOFA score was used, including the mean arterial pressure 
+of <70 mm Hg to obtain 1 point for cardiovascular failure.
+Table 1: Baseline characteristics of the modiﬁ  ed intention-to-treat population 
+Articles
+824 www.thelancet.com/infection   Vol 16   July 2016components of the stopping rule seem to be of 
+relevance.For both study groups the CRP concentrations showed no diﬀ  erence for day 1 to day 28 (ﬁ  gure 3), even without Bonferroni correction for multiple testing.
+28 
+Median length of stay on the ICU was 8·5 days (IQR 5·0–17·0) in the procalcitonin-guided group versus 9·0 days (IQR 4·0–17·0) in the standard-of-care group (p=0·56; table 2). Median length of stay in the 
+hospital was the same for both groups at 22 days  
+(IQR 13·0–39·3 procalcitonin-guided 
+vs 12·0–40·0 
+standard-of-care; p=0·77; table 2).
+The median costs for the ﬁ  rst course of antibiotics 
+were €107 (IQR 51–229) in the procalcitonin-guided group versus €129 (66–273) in the standard-of-care group (p=0·0006; table 2). The cumulative estimated cost for the ﬁ  rst course of antibiotics in the procalcitonin-guided 
+group was €150 082 versus €181 263 in the standard-of-care group. These cost savings should be balanced against the costs of 5425 procalcitonin measurements taken in the intervention group.Discussion
+In the SAPS trial we noted a clear reduction of antibiotic treatment duration from 7 days in the standard-of-care group to 5 days in the procalcitonin-guided group. Early discontinuation of antibiotics was not associated with more subsequent antibiotic prescriptions or higher CRP concentrations in the procalcitonin-guided patients. Furthermore, this reduction was non-inferior in terms of 28-day mortality and was even accompanied by a lower mortality in the procalcitonin-guided group (19·6%) than in the standard-of-care group (25·0%).
+Additionally, the reduction in antibiotic treatment 
+duration achieved with procalcitonin guidance con-stitutes a relevant decrease in the volume of prescribed antibiotics on ICUs from 9·3 daily deﬁ  ned doses in the standard-of-care group to 7·5 daily deﬁ  ned doses in the procalcitonin-guided group. This decrease corresponded with a relative reduction in antibiotic consumption of 19%. The close similarity of the two CRP curves also suggests that the earlier discontinuation in the procalcitonin-guided group did not result in a higher rate of re-infection.
+The total reduction in antibiotic costs using pro-
+calcitonin guidance was a mean of €34 per patient. In our study about a mean of seven procalcitonin measurements were taken per patient. Therefore, the reduction in antibiotic costs will only outweigh the costs of additional procalcitonin measurements if procalcitonin tests costs less than about €4 per measurement. In other settings this value might diﬀ  er, but procalcitonin monitoring could oﬀ  er many more important beneﬁ  ts than only reduction of antibiotic costs.
+Reduction in 28-day mortality and 1-year  mortality 
+associated with the procalcitonin strategy was unexpected as this study was aiming for non-inferiority . If physicians 
+suspect that a patient has a bacterial infection they will (pre-emptively) start antibiotics. If procalcitonin con-centration is high, as expected, then these physicians are reassured about their initial diagnosis. H
+owever, if 
+procalcitonin concentrations are low, it makes severe bacterial infection improbable and the initial diagnosis is questioned. Physicians then need to reconsider their diagnosis at an earlier stage. Therefore, knowledge of procalcitonin concentrations might lead to earlier and more adequate diagnoses and treatments, reducing mortality. Furthermore, antibiotics that are unnecessary might lead to adverse eﬀ  ects without beneﬁ  ts (eg, 
+antibiotic resistance, selection of resilient pathogens such as clostridium, and drug reactions). Such adverse eﬀ  ects 
+of antibiotic treatment have been previously noted.
+29,30 In 
+a de-escalation study29 in ICU patients with severe sepsis 
+and septic shock, the odds for mortality were reduced in patients in whom antibiotics were stopped or speciﬁ  cally 
+aimed at the pathogens. The authors
+29 proposed that the 
+reduction of toxic eﬀ  ects of antibiotics might have 
+contributed to the survival beneﬁ  t—eg, low nephrotoxicity 
+of some classes of antibiotics. The percentages of patients Number at risk
+Procalcitonin-guided group
+Standard-of-care group761
+785554
+512496
+464525
+490503
+4730 50 100Hazard ratio standard-of-care group
+1·26, 95% CI 1·07–1·49 (p=0·0060)
+150
+Time since randomisation (days)200 250 300 350 400020406080100Survival (%)Procalcitonin-guided groupStandard-of-care group
+Figure 2: Kaplan-Meier plot for probability of survival from random assignment to day 365, in the modiﬁ  ed 
+intention-to-treat population
+050100150200250C-reactive protein  (mg/L)Procalcitonin-guided groupStandard-of-care group
+07 1 4
+Time since randomisation (days)21 28
+Figure 3: Serial measurements of C-reactive protein concentrations in both 
+study groupsThe mean values and SEs during the ﬁ  rst 28 days after random assignment are shown. Patients discharged from the intensive care unit before day 28 were included as long as they were still admitted to the hospital. 
+Articles
+www.thelancet.com/infection   Vol 16   July 2016 825who received a repeated course of antibiotics were similar 
+between the groups (23% in the procalcitonin guided vs  
+22% in the standard of care; table 2). However, the cases considered to be re-infections by physicians were much lower in the standard-of-care group (3%) than in the procalcitonin-guided group (5%; table 2). Although the diﬀ erence in re-infections was signiﬁ  cant (table 2), the 
+numbers suggest under-reporting, given the much higher reinstitution rate of antibiotics. Additionally, physicians might have been biased to considering re-infection earlier in patients in whom procalcitonin guidance contributed to the decision to discontinue antibiotics. The adequacy of the antibiotics, a more timely recognition of alternative diagnoses, and lower toxicity of antibiotics might all account for the lower mortality in our procalcitonin-guided study group than in the standard-of-care group.
+30 
+However, this remains speculative and bias or a type I error might still play a part.
+Previous studies
+14–20 have addressed the possibility to 
+stop antibiotic treatment based on a procalcitonin-guided strategy in critically ill patients. A small proof-of-principle study reported that a procalcitonin strategy was able to decrease antibiotic treatment for severe sepsis and septic shock.
+14 This strategy was supported in two small 
+ICU studies, but neither were powered for mortality.16,18 
+The French PRORATA trial,17 however, was larger and 
+aimed to show eﬃ   cacy and safety. In that study,17 
+procalcitonin guidance led to a reduction of 23% in antibiotic exposure and 2·7 additional antibiotic-free days. Unfortunately, the 60-day mortality was 3·8% higher in the procalcitonin-guided group than in the control group.
+17 Therefore, some debate remains whether 
+procalcitonin guidance can safely reduce antibiotic duration in critically ill patients. This debate was fuelled by the 2014 ProGuard study,
+20 which showed no 
+signiﬁ  cant reduction in duration of treatment, antibiotic-
+free days, or overall antibiotic exposure between a standard-of-care group versus a procalcitonin-guided group. However, this trial
+20 used only an absolute 
+stopping rule and a strict procalcitonin threshold of 0·1 μg/L. Our results show that both the absolute (ie, procalcitonin ≤0·5 μg/L) and the relative (ie, procalcitonin ≤20% of its peak value) stopping rules assisted in antibiotic discontinuation. Furthermore, the study
+20 was 
+designed with a size to detect—a rather ambitious—reduction of duration of treatment of at least 3·75 days. Although a reduction of 2 days was noted, it was not signiﬁ  cant. Our study suggests that reduction in 
+antibiotic exposure can be achieved without an increase in mortality, even in a context of low background use of antibiotics in critically ill patients. Lowering of the antibiotic exposure might have a beneﬁ  cial eﬀ  ect on 
+emergence of resistance. However, prophylactic use of antibiotics was not assessed in this study and such patients were not eligible, which is of importance because nine of the participating ICUs routinely used selective decontamination of the digestive tract. Antibiotics given as part of this decontamination strategy were only counted if the patient was considered to have an infection. Patients on selective decontamination of the digestive tract who had, or were suspected of having, an infection were not eligible for this study (appendix).Procalcitonin-guided 
+group (n=761)Standard-of-care group (n=785)Between-group absolute diﬀ  erence in means (95% CI)p value
+Antibiotic consumption (days)
+Daily deﬁ  ned doses in ﬁ  rst 28 days 7·5 (4·0 to 12·8) 9·3 (5·0 to 16·5) 2·69 (1·26 to 4·12) <0·0001
+Duration of treatment 5·0 (3·0 to 9·0) 7·0 (4·0 to 11·0) 1·22 (0·65 to 1·78) <0·0001
+Antibiotic-free days in ﬁ  rst 28 days 7·0 (0·0 to 14·5) 5·0 (0 to 13·0) 1·31 (0·52 to 2·09) 0·0016
+Mortality (%)
+28-day mortality 149 (19·6%) 196 (25·0%) 5·4% (1·2 to 9·5) 0·0122
+1-year mortality 265 (34·8%) 321 (40·9%) 6·1% (1·2 to 10·9) 0·0158
+Adverse events
+Reinfection 38 (5·0) 23 (2·9) –2·1% (–4·1 to -0·1) 0·0492
+Repeated course of antibiotics 175 (23·0) 173 (22·0) –1·0% (–5·1 to 3·2) 0·67
+Time (days) between stop and reinstitution of antibiotics 4·0 (2·0 to 8·0) 4·0 (2·0 to 8·0) –0·22 (–1·31 to 0·88) 0·96
+Costs
+Total cumulative costs of antibiotics €150 082 €181 263 NA NA 
+Median cumulative costs antibiotics per patient €107 (51 to 229) €129 (66 to 273) €33·6 (2·5 to 64·8) 0·0006
+Length of stay (days)
+On the intensive care unit 8·5 (5·0 to 17·0) 9·0 (4·0 to 17·0) –0·21 (–0·92 to 1·60) 0·56
+In hospital 22·0 (13·0 to 39·3) 22·0 (12·0 to 40·0) 0·39 (–2·69 to 3·46) 0·77
+Data are median (IQR), n (%), or mean (95% CI). Between-group absolute diﬀ  erences were calculated using the mean values, percentage diﬀ  erences, and 95% CIs. 
+NA=not applicable.
+Table 2: Primary and secondary outcome measures
+Articles
+826 www.thelancet.com/infection   Vol 16   July 2016Several studies show that a well considered reduction 
+of antibiotics, although not necessarily equal to early 
+discontinuation, is associated with decreased mortality.29 
+In patients with pulmonary infections a reduction in antibiotic use is associated with a reduction in mortality. In an individual patient meta-analysis,
+30 studying 
+4211 patients, the mortality in the procalcitonin-guided group was 5·6% versus 6·3% in the control group. Although this diﬀ  erence was not signiﬁ  cant, it 
+corroborates our reduced mortality. Our study was conceived to include a heterogeneous ICU-patient popu-lation in a real-life setting, focusing only on the additional value of procalcitonin tests in responsible discontinuation of antibiotic treatment. To our knowledge, this is the largest procalcitonin study in the intensive-care setting so far, with more than 1500 patients included. To emphasise the importance of safety, our study set the non-inferiority margin at 8% and estimated the sample size with a power of 90% instead of 80%. Ideally, a lower non-inferiority margin, such as 4%, would be desirable, but this margin would have required more than 5500 patients. An unexpected ﬁ nding was the reduced mortality in the procalcitonin-
+guided group. We postulated that reduced mortality in the procalcitonin-guided group was the result of an earlier focus on an alternative diagnosis if procalcitonin concentrations were low. Alternatively, persistently high procalcitonin con cen trations might suggest the need to critically review antimicrobial treatment.
+31
+Several limitations of our study should be mentioned. 
+First, about 30% of patients randomly assigned to the procalcitonin-guided strategy were discharged from the ICU before the algorithm recommended to stop antibiotic treatment. This ﬁ  gure was higher than the 20% we had 
+anticipated when designing this study. Further reduction of antibiotics might have been achieved if procalcitonin guidance had been continued on the wards. However, this study was designed for patients during ICU stay and continuation of the protocol on the ward was not deemed possible for logistical reasons.
+Second, physicians did not adhere to the stopping 
+advice in more than half of the patients. The patients in whom antibiotic treatment was continued did diﬀ  er in 
+some baseline characteristics from those who actually stopped antibiotics (appendix). Apparently, physicians use procalcitonin concentrations to show that antibiotics can be safely stopped in stable patients. They are, however, hesitant to stop use if patients are not yet stable. Clearly, use of procalcitonin concentrations cannot convince them in such cases.
+32 Whether 
+discontinuation of antibiotics in these sub jectively unstable patients would have led to increased mortality cannot be established by this study. Procalcitonin measurements can be used to support decision making in stable patients, but does not abolish proper clinical reasoning. Despite this limitation overall antibiotic consumption was reduced, indicating that especially inappropriate anti biotics were the ﬁ  rst to be 
+discontinued, which might turn out to be a major contributor to antibiotic stewardship.
+Third, speciﬁ  c patients who were immunocompromised 
+or treated for illnesses needing long durations of antibiotic treatment were excluded. These exclusions were chosen for safety and pragmatic reasons. Advice to stop antibiotic use in these patients was often ignored and therefore regarded as not useful. However, we are not aware of any reasons why measuring procalcitonin would not be useful in reducing duration of treatment in these infections too, albeit over longer timescales or with other thresholds. Particularly in these patient groups, early termination of antibiotic treatment might aﬀ  ect the 
+overall consumption of antibiotics.
+Fourth, clinicians were aware of the study group 
+assignments and not all co-interventions that might have been aﬀ  ected by this knowledge could be assessed.
+Fifth, we did not collect data for antibiotic resistance 
+and, therefore, we are unaware of the appropriateness of the empirical antibiotic strategy. Additionally, in many patients cultures were negative or contained bacteria or fungi that were not thought of as true pathogens (eg, candida colonisation in sputum cultures). The patients who did not reach a stopping rule might be the patients for whom the initial therapy was inappropriate or inadequate. Such patients might be detected earlier in the procalcitonin-guided group than in the standard-of-care group, leading to an earlier antibiotic switch.
+In conclusion, this large and pragmatic study shows 
+that a reduction in antibiotic treatment duration and consumption can be achieved with the addition of a procalcitonin-guided algorithm to aid clinical judgment. This reduction of antibiotic duration was achieved in a setting with an already low background consumption of antibiotics without an increase in mortality.
+Contributors
+EdJ, AB, JAvO, MWN, and DWdL were principal investigators of the Stop Antibiotics on Procalcitonin guidance Study (SAPS) and had full access to all of the study data and take responsibility for their integrity and the accuracy of the analysis. EdJ, JAvO, AB, MWN, and DWdL participated in the study design, supervised the study, analysed data, and drafted the manuscript. PV, LEH, BGL, TD, GCvM, YCK, HKe, MJvdE, JAS, JOS, HKr, HKi, GHK, VCvD, JvP, LB, MBO, ACR, HE, and JWT recruited patients in this study, collected data, and helped draft the manuscript. JWT and EMWvdG did data analyses. AMGAdS, JK, and ARG revised the manuscript for important intellectual content. All authors read and approved the manuscript.
+Declaration of interests
+EdJ has received a lecture fee from Thermo Fisher during the conduct of the study. JK has received personal fees from Becton Dickinson and QXV Communicating Limited, outside the submitted work. DWdL reports that his institute has received ﬁ  nancial support for an electronic database design for data collection and randomisation from Thermo Fisher Scientiﬁ  c (Waltham, MA, USA), and has received a personal fee for lecturing from Thermo Fisher. Thermo Fisher provided procalcitonin kits at reduced costs. Thermo Fisher had no involvement in data collection, data analysis, data interpretation, trial design, patient recruitment, or any aspect pertinent to the study. All other authors declare no competing interests.
+Articles
+www.thelancet.com/infection   Vol 16   July 2016 82717 Bouadma L, Luyt CE, Tubach F, et al, for the PRORATA trial group. 
+Use of procalcitonin to reduce patients’ exposure to antibiotics in 
+intensive care units (PRORATA trial): a multicentre randomised controlled trial. Lancet 2010; 375: 463–74.
+18 Hohn A, Schroeder S, Gehrt A, et al. Procalcitonin-guided 
+algorithm to reduce length of antibiotic therapy in patients with severe sepsis and septic shock. BMC Infect Dis 2013; 13: 158.
+19 Deliberato RO, Marra AR, Sanches PR, et al. Clinical and economic 
+impact of procalcitonin to shorten antimicrobial therapy in septic patients with proven bacterial infection in an intensive care setting. Diagn Microbiol Infect Dis 2013; 76: 266–71.
+20 Shehabi Y , Sterba M, Garrett PM, et al. Procalcitonin algorithm in 
+critically ill adults with undiﬀ  erentiated infection or suspected sepsis. A randomized controlled trial. Am J Respir Crit Care Med 2014; 190: 1102–10.
+21 Kopterides P, Siempos II, Tsangaris I, Tsantes A, Armaganidis A. 
+Procalcitonin-guided algorithms of antibiotic therapy in the intensive care unit: a systematic review and meta-analysis of randomized controlled trials. Crit Care Med 2010; 38: 2229–41.
+22 Wacker C, Prkno A, Brunkhorst FM, Schlattmann P. 
+Procalcitonin as a diagnostic marker for sepsis: a systematic review and meta-analysis. Lancet Infect Dis 2013; 13: 426–35.
+23 van de Sande-Bruinsma N, Grundmann H, Verloo D, et al. 
+Antimicrobial drug use and resistance in Europe. Emerg Infect Dis 2008; 14: 1722–30.
+24 Assink-de Jong E, de Lange DW, van Oers JA, Nijsten MW, 
+Twisk JW, Beishuizen A. Stop Antibiotics on guidance of Procalcitonin Study (SAPS): a randomised prospective multicenter investigator-initiated trial to analyse whether daily measurements of procalcitonin versus a standard-of-care approach can safely shorten antibiotic duration in intensive care unit patients—calculated sample size: 1816 patients. BMC Infect Dis 2013; 13: 178.
+25 Dellinger RP, Levy MM, Rhodes A, Annane D, et al. Surviving sepsis 
+campaign: international guidelines for management of severe sepsis and septic shock: 2012. Crit Care Med 2013; 41: 580–637 .
+26 WHO Collaborating Centre for Drug Statistics Methodology. 
+ATC/DDD index 2015. http://www.whocc.no/atc_ddd_index (accessed Jan 19, 2015).
+27 Brinkman S, Bakhshi-Raiez F, Abu-Hanna A, et al. External 
+validation of acute physiology and chronic health evaluation IV in Dutch intensive care units and comparison with acute physiology and chronic health evaluation II and simpliﬁ  ed acute physiology score II. J Crit Care 2011; 26: 105.e11–e18.
+28 Bland JM, Altman DG. Multiple signiﬁ  cance tests: the Bonferroni 
+method. BMJ 1995; 310: 170.
+29 Garnacho-Montero J, Gutiérrez-Pizarraya A, Escoresca-Ortega A, 
+et al. De-escalation of empirical therapy is associated with lower mortality in patients with severe sepsis and septic shock. Intensive Care Med 2014; 40: 32–40.
+30 Schuetz P, Briel M, Christ-Crain M, et al. Procalcitonin to guide 
+initiation and duration of antibiotic treatment in acute respiratory infections: an individual patient data meta-analysis. Clin Infect Dis 2012; 55: 651–62.
+31 Vincent JL, Teixeira L. Sepsis biomarkers. Values and limitations. 
+Am J Resp Crit Care Med 2014; 190: 1081–82.
+32 Gilbert D. Serum procalcitonin levels. It is all about conﬁ  dence. 
+Arch Intern Med 2012; 172: 722–23.References1 Van Boeckel TP, Gandra S, Ashok A, et al. Global antibiotic 
+consumption 2000 to 2010: an analysis of national pharmaceutical 
+sales data. Lancet Infect Dis 2014; 14: 742–50.
+2 Rice LB. The M
+axwell Finland lecture: for the duration-rational 
+antibiotic administration in an era of anti-microbial resistance and Clostridium diﬃ   cile. Clin Infect Dis 2008; 46: 491–96.
+3 Assicot M, Gendrel D, Carsin H, Raymond J, Guilbaud J, 
+Bohuon C. High serum procalcitonin concentrations in patients with sepsis and infection. Lancet 1993; 341: 515–18.
+4 Nijsten MW, Olinga P, The TH, et al. Procalcitonin behaves as a fast 
+responding acute phase protein in vivo and in vitro. Crit Care Med 2000; 28: 458–61.
+5 Harbarth S, Holeckova K, Froidevaux C, et al. Diagnostic value of 
+procalcitonin, interleukin-6, and interleukin-8 in critically ill patients admitted with suspected sepsis. Am J Respir Crit Care Med 2001; 164: 396–402.
+6 Simon L, Gauvin F, Amre DK, Saint-Louis P, Lacroix J. 
+Serum procalcitonin and C-reactive protein levels as markers of bacterial infection: a systematic review and meta-analysis. Clin Infect Dis 2004; 39: 206–17 .
+7 Tang BMP, Eslick GD, Craig JC, McLean AS. Accuracy of 
+procalcitonin for sepsis diagnosis in critically ill patients: systematic review and meta-analysis. Lancet Infect Dis 2007; 7: 210–17 .
+8 Becker KL, Snider R, Nylen ES. Procalcitonin assay in systemic 
+inﬂ  ammation, infection, and sepsis: clinical utility and limitations. Crit Care Med 2008; 36: 941–52.
+9 Castelli GP, Pognani C, Cita M, Paladini R. Procalcitonin as a 
+prognostic and diagnostic tool for septic complications after major trauma. Crit Care Med 2009; 37: 1845–49.
+10 Svoboda P, Kantorová I, Scheer P, Radvanova J, Radvan M. 
+Can procalcitonin help us in timing of re-intervention in septic patients after multiple trauma or major surgery? Hepatogastroenterology 2007; 54: 359–63.
+11 Christ-Crain M, Jaccard-Stolz D, Bingisser R, et al. Eﬀ  ect of 
+procalcitonin-guided treatment on antibiotic use and outcome in lower respiratory tract infections: cluster-randomised, single-blinded intervention trial. Lancet 2004; 363: 600–07 .
+12 Christ-Crain M, Stolz D, Bingisser R, et al. Procalcitonin guidance 
+of antibiotic therapy in community-acquired pneumonia: a randomized trial. Am J Respir Crit Care Med 2006; 174: 84–93.
+13 Stolz D, Christ-Crain M, Bingisser R, et al. Antibiotic treatment 
+of exacerbations of COPD: a randomized, controlled trial comparing procalcitonin-guidance with standard therapy. Chest 2007; 131: 9–19.
+14 Nobre V, Harbarth S, Graf JD, Rohner P, Pugin J. Use of 
+procalcitonin to shorten antibiotic treatment duration in septic patients: a randomized trial. Am J Respir Crit Care Med 2008; 177: 498–505.
+15 Schuetz P, Christ-Crain M, Thomann R, et al. Eﬀ  ect of 
+procalcitonin-based guidelines vs standard guidelines on antibiotic use in lower respiratory tract infections: the ProHOSP randomized controlled trial. JAMA 2009; 302: 1059–66.
+16 Hochreiter M, Köhler T, Schweiger AM, et al. Procalcitonin to 
+guide duration of antibiotic therapy in intensive care patients: a randomized prospective controlled trial. Crit Care 2009; 13: R83.
