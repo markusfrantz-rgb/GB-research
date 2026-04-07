@@ -44,7 +44,7 @@ status: active
 **Observation:** Tre autoimmuna tillstånd (GBS + IgA-brist + Hashimotos) kopplade till HLA-B8/DR3/DQ2 — Multiple Autoimmune Syndrome typ 3.
 
 <details class="collapse-section" markdown="1">
-<summary>Klinisk tidslinje (2026-03-21 — 2026-04-05) — klicka för att visa</summary>
+<summary>Klinisk tidslinje (2026-03-21 — 2026-04-06) — klicka för att visa</summary>
 
 | Datum | Händelse |
 |-------|---------|
@@ -63,7 +63,7 @@ status: active
 | 2026-04-02 | **Anti-GQ1b: POSITIV** → GBS–MFS–BBE overlap bekräftat. Solu-Medrol 3/3. PE-kateter borttagen. Daniel: prognos god, tar tid. |
 | 2026-04-04 | Feberepisod (39°C), stabiliserad. CRP fallande (135→58→36). Haemophilus under behandling (pip/tazo). PCT beställd. Levervärden försämrade. |
 | 2026-04-05 | Sedering pausad dagtid (remifentanil ersatt fentanyl). Temp 38,7°C. Passiv cykling (maskin). Fortsatt total förlamning och medvetslöshet. |
-| 2026-04-06 | **CRP 165** (↑↑ från 36). **Positiv blododling** — organism under identifiering. Pip/tazo-dos höjd. Labetalol via pump (dysautonomi). |
+| 2026-04-06 | **CRP 165**, SR 186. **Positiv blododling** — resistensbesked 7/4. Antibiotika ökad. Neurologundersökning: blygsam pupillförbättring, i övrigt ingen respons. |
 
 </details>
 

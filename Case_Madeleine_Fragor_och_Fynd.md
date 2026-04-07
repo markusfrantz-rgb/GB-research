@@ -78,8 +78,10 @@ status: active
 | 2026-04-04 (~14:30) | **Vitals (besök):** Puls **89** (bästa sedan insjuknande), BT **133/62** (pulstryck 71, mycket stabilare), temp **37,8°C**, vikt **54,6 kg** (−1,6 från 2/4, under baseline 56). Propofol 0,55 mg/kg/h (ökad), fentanyl 1 µg/kg/h, klonidin 1,2 µg/kg/h, noradrenalin 0,01→0,04 µg/kg/min (kort BT-dip under 100). Kaliumklorid 5,5 mmol/h. Patient ser harmonisk ut. Röntgen mage genomförd. |
 | 2026-04-04 (~15:00) | **Vitals (20 min efter noradrenalin-justering):** Puls **76–78** (lägsta under hela vårdtiden), BT **135/65**. Stabil hemodynamik. |
 | 2026-04-05 (18:30) | **Dag 16:** Temp 38,7°C (Dynastat givet). BT 143/65, puls ~86. Sedering pausad dagtid (remifentanil ersatt fentanyl — ultrakortverkande, återinsätts nattetid). Noradrenalin PAUS, klonidin PAUS. Glukos 50mg/ml 30ml/h. KCl 7 mmol/h. Röntgen mage: ingen förstoppning, en hel del luft. Passiv cykling (maskin) 1,56 km/30 min. **Fortsatt total förlamning och medvetslöshet** — ingen neurologisk förbättring trots sederingspaus. |
+| 2026-04-06 (fm) | **Dag 17:** Puls 108, BT 126/58, temp 37,8. Noradrenalin 0,09 µg/kg/min. Remifentanil PAUS (sedan kl 8). KCl 6 mmol/h. Labetalol PAUS. CRP **165** (↑↑ från 36 den 4/4). Positiv blododling — bakterie identifierad, resistensbestämning pågår. PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. |
+| 2026-04-06 (kväll, ~18–19) | Puls 102, BT 115/51, temp 37,5. Labetalol 350 µg/kg/h (pump). SR **186** (kraftigt förhöjd). Vita blodkroppar nedåt. Antibiotika ökad (pip/tazo) för ny bakterie — resistensbesked förväntas 7/4. **Neurologundersökning:** Ingen respons förutom **blygsam pupillreaktion — marginellt bättre än föregående undersökning.** Teamet förväntar SR-sänkning imorgon. |
 
-### Nuvarande status (2026-04-05, dag 16)
+### Nuvarande status (2026-04-06, dag 17)
 
 - **Respirator:** Ja, beroende.
 - **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 10 post-trakeostomi)
