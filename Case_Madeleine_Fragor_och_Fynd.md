@@ -77,28 +77,28 @@ status: active
 | 2026-04-04 | **Levervärden försämrade** (uppmärksammat ~2/4, specifika värden okända). Möjliga orsaker: piperacillin/tazobactam-hepatotoxicitet, paracetamolbelastning, post-steroid, sepsisrelaterad kolestas, hepatosplenic candida. Monitorera LFTs 2×/vecka. |
 | 2026-04-04 (~14:30) | **Vitals (besök):** Puls **89** (bästa sedan insjuknande), BT **133/62** (pulstryck 71, mycket stabilare), temp **37,8°C**, vikt **54,6 kg** (−1,6 från 2/4, under baseline 56). Propofol 0,55 mg/kg/h (ökad), fentanyl 1 µg/kg/h, klonidin 1,2 µg/kg/h, noradrenalin 0,01→0,04 µg/kg/min (kort BT-dip under 100). Kaliumklorid 5,5 mmol/h. Patient ser harmonisk ut. Röntgen mage genomförd. |
 | 2026-04-04 (~15:00) | **Vitals (20 min efter noradrenalin-justering):** Puls **76–78** (lägsta under hela vårdtiden), BT **135/65**. Stabil hemodynamik. |
-| 2026-04-05 (18:30) | **Dramatisk förbättring (dag 16):** Temp 38,7°C (Dynastat givet). BT 143/65. **All sedering och vasopressorer pausade:** noradrenalin PAUS, klonidin PAUS, fentanyl PAUS, propofol PAUS. Glukos 50mg/ml 30ml/h. KCl 7 mmol/h. Röntgen mage: ingen förstoppning, en hel del luft. **Passiv cykling (maskin) 1,56 km på 30 min** — rehabiliteringsträning påbörjad. |
+| 2026-04-05 (18:30) | **Dag 16:** Temp 38,7°C (Dynastat givet). BT 143/65, puls ~86. Sedering pausad dagtid (remifentanil ersatt fentanyl — ultrakortverkande, återinsätts nattetid). Noradrenalin PAUS, klonidin PAUS. Glukos 50mg/ml 30ml/h. KCl 7 mmol/h. Röntgen mage: ingen förstoppning, en hel del luft. Passiv cykling (maskin) 1,56 km/30 min. **Fortsatt total förlamning och medvetslöshet** — ingen neurologisk förbättring trots sederingspaus. |
 
 ### Nuvarande status (2026-04-05, dag 16)
 
 - **Respirator:** Ja, beroende.
 - **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 10 post-trakeostomi)
 - **Diagnos (2026-04-02):** **GBS–MFS–BBE överlappssyndrom.** Anti-GQ1b positiv (höga titrar). MR bekräftar BBE-komponenten. LP: albuminocytologisk dissociation. Klinisk bild: total kranialnervsutslagning (MFS), vitsubstanslesioner (BBE), ascending paralysi (GBS). Daniel: **prognos god, tar tid.**
-- **Medvetande:** **Vaken och aktiv (2026-04-05).** All sedering pausad (propofol, fentanyl, klonidin). Tillräckligt alert för rehabiliteringsträning.
-- **Neurologisk bedomning:** Motorisk status oklar. Passiv cykling (maskin) 1,56 km/30 min — tolererar rehabiliteringsträning. Aktiv motorik ej bekräftad.
-- **Autonom dysfunktion:** Temp 38,7°C (5/4, Dynastat givet). BT 143/65. **Alla vasopressorer pausade** (noradrenalin PAUS). Hemodynamiskt stabil utan farmakologiskt stöd.
-- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Initialt cefotaxim → **piperacillin/tazobactam** sedan ~1/4. **CRP-trend kraftigt fallande: 135 (31/3) → 58 (3/4) → 36 (4/4).** Utredning (bronkoskopi, slangar, urin) visar inget nytt fokus. **Procalcitonin beställd 4/4** (Stefan, IVA) — avgör om feber är bakteriell eller autonom. Infektionskonsult begärd.
+- **Medvetande:** **Medvetslös (2026-04-06).** Sedering pausas dagtid (remifentanil, ultrakortverkande — återinsätts nattetid) för att möjliggöra neurologisk bedömning. Ingen kontakt etablerad trots sederingspaus.
+- **Neurologisk bedomning:** **Fortsatt total förlamning.** 100% förlamning kvarstår — ingen aktiv motorik. Passiv cykling (maskin) 1,56 km/30 min.
+- **Autonom dysfunktion:** Dysautonomi kvarstår. BT-svängningar. Noradrenalin intermittent (0,09 µg/kg/min 6/4 fm). Labetalol 350 µg/kg/h (via pump) insatt för takykardi/hypertoni. Temp 38–38,7°C.
+- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Initialt cefotaxim → **piperacillin/tazobactam** sedan ~1/4 (dos höjd 5/4). **CRP-vändning: 135 (31/3) → 58 (3/4) → 36 (4/4) → 108 (5/4) → 165 (6/4).** **Positiv blododling (6/4)** — ny bakterie identifierad, art/resistens inväntas. PCT 0,12 (1/4, inaktuell — ny ej tagen).
 - **Post-steroid infektionsfönster:** Solu-Medrol avslutades 2/4 → immunsuppression kvarstår ~2 veckor. Förhöjd infektionsrisk.
 - **Vikt/vatska:** Vikt **56,2 kg** (2026-04-02, nära baseline 56). Magen mindre svullen. Sondmat kompenserar kalorier efter att glukos 5% togs bort.
 - **Behandling given:** Alla 5 PE-sessioner slutforda. **Solu-Medrol 3/3 doser given** (2026-03-31 till 2026-04-02), preventivt mot ADEM/BBE.
-- **Medicinering (2026-04-05 18:30):** **All sedering/smärtlindring/autonom stabilisering PAUSAD:** propofol PAUS, fentanyl PAUS, klonidin PAUS, noradrenalin PAUS. Kvarstår: Glukos 50mg/ml 30ml/h, KCl 7 mmol/h. Dynastat (parecoxib) givet mot feber/smärta.
+- **Medicinering (2026-04-06):** Remifentanil (ersatt fentanyl — pausas dagtid, ges nattetid). Noradrenalin intermittent. Labetalol 350 µg/kg/h (pump). KCl 6 mmol/h. Glukos 50mg/ml 30ml/h. Pip/tazo (dos höjd 5/4). Dynastat vid behov.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen.
-- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (ej brådskande). **CRP: 36 (4/4, fallande).** **Procalcitonin: beställd 4/4, inväntar svar.**
+- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (ej brådskande). **CRP: 165 (6/4, stigande).** PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. **Positiv blododling (6/4)** — organism under identifiering.
 - **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). **Bronkoskopi (4/4):** inget anmärkningsvärt.
 - **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
 - **Levervärden:** Försämrade (~2/4, specifika värden okända). Pip/tazo-hepatotoxicitet, paracetamolbelastning, och sepsisrelaterad kolestas som möjliga orsaker. Se [Hepatotoxicity and Liver Monitoring](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md#17-hepatotoxicity-and-liver-monitoring).
 - **Röntgen mage (5/4):** Ingen förstoppning. En hel del luft.
-- **Plan:** Diagnostisk klarhet uppnådd — GBS–MFS–BBE overlap. Passiv rehabilitering påbörjad. Febern kvarstår (38,7°C) — bevaka genes (autonom vs infektiös). Inväntar PCT-svar. Leverövervakning. All sedering pausad — möjliggör bättre neurologisk bedömning.
+- **Plan:** GBS–MFS–BBE overlap bekräftad. **Akut: bakteriemi under utredning** — inväntar artbestämning och resistens. CRP stigande (165). Ny PCT behövs. BDG bör beställas (candida-risk). Sedering pausas dagtid för neurologisk bedömning — ingen respons hittills. Passiv mobilisering pågår. Leverövervakning.
 
 ---
 

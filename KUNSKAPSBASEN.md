@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. <strong>Dag 16 (5/4): All sedering och vasopressorer pausade. Passiv cykling (maskin) påbörjad.</strong> Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning och medvetslöshet kvarstår (dag 17). Bakteriemi under utredning (CRP 165, positiv blododling). Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -62,7 +62,8 @@ status: active
 | 2026-04-01 | Infektionstecken — antibiotika bytt. MR hjärna + rygg genomförd. BT 180–200 (dysautonomi). |
 | 2026-04-02 | **Anti-GQ1b: POSITIV** → GBS–MFS–BBE overlap bekräftat. Solu-Medrol 3/3. PE-kateter borttagen. Daniel: prognos god, tar tid. |
 | 2026-04-04 | Feberepisod (39°C), stabiliserad. CRP fallande (135→58→36). Haemophilus under behandling (pip/tazo). PCT beställd. Levervärden försämrade. |
-| 2026-04-05 | **All sedering/vasopressorer pausade** (propofol, fentanyl, klonidin, noradrenalin). Temp 38,7°C (Dynastat). **Passiv cykling (maskin) 1,56 km/30 min.** |
+| 2026-04-05 | Sedering pausad dagtid (remifentanil ersatt fentanyl). Temp 38,7°C. Passiv cykling (maskin). Fortsatt total förlamning och medvetslöshet. |
+| 2026-04-06 | **CRP 165** (↑↑ från 36). **Positiv blododling** — organism under identifiering. Pip/tazo-dos höjd. Labetalol via pump (dysautonomi). |
 
 </details>
 
