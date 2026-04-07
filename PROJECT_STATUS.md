@@ -66,7 +66,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-04-06)
+### Aktuellt förlopp (2026-03-21 → 2026-04-07)
 
 | Datum | Händelse |
 |-------|---------|
@@ -280,5 +280,6 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-04 | 5 commits, 5 pushes, 5 Railway auto-deploys denna session. |
 | 2026-04-05 | Klinisk uppdatering (dag 16): **alla sedativa och vasopressorer pausade** (noradrenalin, klonidin, fentanyl, propofol). Temp 38,7 (Dynastat). Passiv cykling 1,56 km/30 min. Röntgen mage ua (ingen förstoppning, luft). |
 | 2026-04-06 (fm) | Klinisk uppdatering (dag 17): CRP **165** (↑↑ från 36 den 4/4). Positiv blododling — bakterie identifierad, resistensbestämning pågår. Pip/tazo-dos höjd 5/4 vid CRP 108. Noradrenalin tillbaka (0,09 µg/kg/min). Remifentanil ersatt fentanyl. Temp 37,8, puls 108, BT 126/58. PCT 0,12 (1/4 — inaktuell). ASAT uppåt, blandad leverbild. |
-| 2026-04-06 (kväll) | Puls 102, BT 115/51, temp 37,5. SR **186**. Vita blodkroppar nedåt. Antibiotika ökad för ny bakterie — resistensbesked 7/4. Labetalol 350 µg/kg/h (pump). **Neurologundersökning: ingen respons, men blygsam pupillförbättring (marginellt bättre än sist).** Fortsatt total förlamning och medvetslöshet. |
+| 2026-04-06 (kväll) | Puls 102, BT 115/51, temp 38. Labetalol 350 µg/kg/h (pump). |
+| 2026-04-07 (~11:00) | **Dag 18:** Temp 37,5. SR **186**. Vita blodkroppar nedåt. Antibiotika ökad — resistensbesked förväntas idag. **Neurologundersökning: ingen respons, men blygsam pupillförbättring (marginellt bättre än sist).** Fortsatt total förlamning och medvetslöshet. |
 | 2026-04-06 | **Nytt forskningsdokument:** `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` — 11 sektioner, ~35 ref. Täcker empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm, PCT-styrning (PRORATA/SAPS), hepatotoxicitet, IgA-brist-övervakning, svenska Strama/SILF-riktlinjer, beslutsalgoritm vid positiv blododling. |
