@@ -81,9 +81,9 @@ status: active
 | 2026-04-06 (fm) | **Dag 17:** Puls 108, BT 126/58, temp 37,8. Noradrenalin 0,09 µg/kg/min. Remifentanil PAUS (sedan kl 8). KCl 6 mmol/h. Labetalol PAUS. CRP **165** (↑↑ från 36 den 4/4). Positiv blododling — bakterie identifierad, resistensbestämning pågår. PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. |
 | 2026-04-06 (kväll, ~18–19) | Puls 102, BT 115/51, temp 38. Labetalol 350 µg/kg/h (pump). |
 | 2026-04-07 (~11:00) | **Dag 18:** Temp 37,5. SR **186** (kraftigt förhöjd). CRP **186** (topp). Vita blodkroppar nedåt. Antibiotika ökad (pip/tazo) för ny bakterie — resistensbesked förväntas idag. **Neurologundersökning:** Ingen respons förutom **blygsam pupillreaktion — marginellt bättre än föregående undersökning.** Teamet förväntar SR-sänkning. |
-| 2026-04-08 | **Dag 19:** CRP ~85 (kraftigt fall från topp 186). |
-| 2026-04-09 | **Dag 20:** CRP 36 (fortsatt fall). |
-| 2026-04-10 (kväll) | **Dag 21:** Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol nedtrappat 75→25 µg/kg/h (i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. CRP 31. |
+| 2026-04-08–09 | **Dag 19–20:** Temp **37,1** (normaliserad). CRP ~85 (8/4) → 36 (9/4) — kraftigt fall från topp. |
+| 2026-04-10 (em) | **Dag 21:** Temp **38,0** (upp igen efter normalisering). CRP 31. |
+| 2026-04-10 (kväll) | Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol nedtrappat 75→25 µg/kg/h (i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. |
 | 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — kontinuerlig probe borttagen, ny sätts vid ryggläge). Puls 111-113, BT 154/64 (svängt tillbaka till hypertension). Labetalol 40 µg/kg/h. CRP 55 (studs). **Vikt 53,6 kg** (under baseline 56 — ned ~7 kg från topp ~61). **Nya läkemedel:** Albumin 20% (200mg/ml 50ml/h), fosfat-infusion 34ml/h. Inget noradrenalin. Varm panna, svettighet (feber och/eller dysautonomi). |
 
 ### Nuvarande status (2026-04-11, dag 22)

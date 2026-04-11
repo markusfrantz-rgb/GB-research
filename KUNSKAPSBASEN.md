@@ -65,9 +65,8 @@ status: active
 | 2026-04-05 | Sedering pausad dagtid (remifentanil ersatt fentanyl). Temp 38,7°C. Passiv cykling (maskin). Fortsatt total förlamning och medvetslöshet. |
 | 2026-04-06 | **CRP 165**. **Positiv blododling** — antibiotika ökad. |
 | 2026-04-07 | SR **186**. CRP **186** (topp). Resistensbesked inväntas. Neurologundersökning: blygsam pupillförbättring, i övrigt ingen respons. |
-| 2026-04-08 | CRP ~85 (kraftigt fall från topp). |
-| 2026-04-09 | CRP 36 (fortsatt fall). |
-| 2026-04-10 | BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol 75→25. CRP 31. Temp 37,6. |
+| 2026-04-08–09 | Temp **37,1** (normaliserad). CRP 85→36 (kraftigt fall). |
+| 2026-04-10 | Temp **38** (upp igen). BT 94-100/46-51 (hypotension). Labetalol 75→25. CRP 31. |
 | 2026-04-11 | **Dag 22.** BT 154/64 (tillbaka i hypertension). Puls 111-113. Labetalol 40. CRP 55 (studs). Vikt **53,6 kg** (under baseline). Albumin 20% + fosfat-infusion insatta. Tempprobe borttagen (manuell mätning 37°C). |
 
 </details>
