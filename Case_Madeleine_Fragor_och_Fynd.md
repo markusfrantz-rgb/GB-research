@@ -80,28 +80,33 @@ status: active
 | 2026-04-05 (18:30) | **Dag 16:** Temp 38,7°C (Dynastat givet). BT 143/65, puls ~86. Sedering pausad dagtid (remifentanil ersatt fentanyl — ultrakortverkande, återinsätts nattetid). Noradrenalin PAUS, klonidin PAUS. Glukos 50mg/ml 30ml/h. KCl 7 mmol/h. Röntgen mage: ingen förstoppning, en hel del luft. Passiv cykling (maskin) 1,56 km/30 min. **Fortsatt total förlamning och medvetslöshet** — ingen neurologisk förbättring trots sederingspaus. |
 | 2026-04-06 (fm) | **Dag 17:** Puls 108, BT 126/58, temp 37,8. Noradrenalin 0,09 µg/kg/min. Remifentanil PAUS (sedan kl 8). KCl 6 mmol/h. Labetalol PAUS. CRP **165** (↑↑ från 36 den 4/4). Positiv blododling — bakterie identifierad, resistensbestämning pågår. PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. |
 | 2026-04-06 (kväll, ~18–19) | Puls 102, BT 115/51, temp 38. Labetalol 350 µg/kg/h (pump). |
-| 2026-04-07 (~11:00) | **Dag 18:** Temp 37,5. SR **186** (kraftigt förhöjd). Vita blodkroppar nedåt. Antibiotika ökad (pip/tazo) för ny bakterie — resistensbesked förväntas idag. **Neurologundersökning:** Ingen respons förutom **blygsam pupillreaktion — marginellt bättre än föregående undersökning.** Teamet förväntar SR-sänkning. |
+| 2026-04-07 (~11:00) | **Dag 18:** Temp 37,5. SR **186** (kraftigt förhöjd). CRP **186** (topp). Vita blodkroppar nedåt. Antibiotika ökad (pip/tazo) för ny bakterie — resistensbesked förväntas idag. **Neurologundersökning:** Ingen respons förutom **blygsam pupillreaktion — marginellt bättre än föregående undersökning.** Teamet förväntar SR-sänkning. |
+| 2026-04-08 | **Dag 19:** CRP ~85 (kraftigt fall från topp 186). |
+| 2026-04-09 | **Dag 20:** CRP 36 (fortsatt fall). |
+| 2026-04-10 (kväll) | **Dag 21:** Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol nedtrappat 75→25 µg/kg/h (i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. CRP 31. |
+| 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — kontinuerlig probe borttagen, ny sätts vid ryggläge). Puls 111-113, BT 154/64 (svängt tillbaka till hypertension). Labetalol 40 µg/kg/h. CRP 55 (studs). **Vikt 53,6 kg** (under baseline 56 — ned ~7 kg från topp ~61). **Nya läkemedel:** Albumin 20% (200mg/ml 50ml/h), fosfat-infusion 34ml/h. Inget noradrenalin. Varm panna, svettighet (feber och/eller dysautonomi). |
 
-### Nuvarande status (2026-04-07, dag 18)
+### Nuvarande status (2026-04-11, dag 22)
 
 - **Respirator:** Ja, beroende.
-- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 10 post-trakeostomi)
+- **Trakeostomi:** Genomford 2026-03-25 ~kl 12 (dag 17 post-trakeostomi)
 - **Diagnos (2026-04-02):** **GBS–MFS–BBE överlappssyndrom.** Anti-GQ1b positiv (höga titrar). MR bekräftar BBE-komponenten. LP: albuminocytologisk dissociation. Klinisk bild: total kranialnervsutslagning (MFS), vitsubstanslesioner (BBE), ascending paralysi (GBS). Daniel: **prognos god, tar tid.**
-- **Medvetande:** **Medvetslös (2026-04-06).** Sedering pausas dagtid (remifentanil, ultrakortverkande — återinsätts nattetid) för att möjliggöra neurologisk bedömning. Ingen kontakt etablerad trots sederingspaus.
-- **Neurologisk bedomning:** **Fortsatt total förlamning.** 100% förlamning kvarstår — ingen aktiv motorik. Passiv cykling (maskin) 1,56 km/30 min.
-- **Autonom dysfunktion:** Dysautonomi kvarstår. BT-svängningar. Noradrenalin intermittent (0,09 µg/kg/min 6/4 fm). Labetalol 350 µg/kg/h (via pump) insatt för takykardi/hypertoni. Temp 38–38,7°C.
-- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Initialt cefotaxim → **piperacillin/tazobactam** sedan ~1/4 (dos höjd 5/4). **CRP-vändning: 135 (31/3) → 58 (3/4) → 36 (4/4) → 108 (5/4) → 165 (6/4).** **Positiv blododling (6/4)** — ny bakterie identifierad, art/resistens inväntas. PCT 0,12 (1/4, inaktuell — ny ej tagen).
-- **Post-steroid infektionsfönster:** Solu-Medrol avslutades 2/4 → immunsuppression kvarstår ~2 veckor. Förhöjd infektionsrisk.
-- **Vikt/vatska:** Vikt **56,2 kg** (2026-04-02, nära baseline 56). Magen mindre svullen. Sondmat kompenserar kalorier efter att glukos 5% togs bort.
+- **Medvetande:** **Medvetslös.** Fortsatt total förlamning och medvetslöshet. Ingen kontakt etablerad.
+- **Neurologisk bedomning:** **Fortsatt total förlamning.** 100% förlamning kvarstår — ingen aktiv motorik. Blygsam pupillförbättring (7/4). Passiv cykling (maskin) pågår.
+- **Autonom dysfunktion:** Dysautonomi **pendlar aktivt** — hypotension (BT 94/46, dag 21) → hypertension (BT 154/64, dag 22). Labetalol justeras: 350 (6/4) → 75→25 (10/4) → 40 (11/4). Inget noradrenalin (11/4). Svettighet/värmekänsla (dysautonomi och/eller feber).
+- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Pip/tazo pågår. **CRP-kurva:** 36 (4/4) → 108 (5/4) → 165 (6/4) → **186 (7/4, topp)** → ~85 (8/4) → 36 (9/4) → 31 (10/4) → 55 (11/4, studs). **Infektionen viker men ej avslutad.** Resistensbesked inväntas (förväntades 8/4). PCT 0,12 (1/4, inaktuell — ny ej tagen).
+- **Post-steroid infektionsfönster:** Solu-Medrol avslutades 2/4 → immunsuppression kvarstår uppskattningsvis ~2 veckor. Förhöjd infektionsrisk.
+- **Vikt/vatska:** Vikt **53,6 kg** (11/4 — under baseline 56, ned ~7 kg från topp ~61 kg). **Albumin 20%** (200mg/ml 50ml/h) insatt — stödja oncotiskt tryck/cirkulation. **Fosfat-infusion** 34ml/h insatt (trolig hypofosfatemi — kan försvåra respiratoravvänjning).
 - **Behandling given:** Alla 5 PE-sessioner slutforda. **Solu-Medrol 3/3 doser given** (2026-03-31 till 2026-04-02), preventivt mot ADEM/BBE.
-- **Medicinering (2026-04-06):** Remifentanil (ersatt fentanyl — pausas dagtid, ges nattetid). Noradrenalin intermittent. Labetalol 350 µg/kg/h (pump). KCl 6 mmol/h. Glukos 50mg/ml 30ml/h. Pip/tazo (dos höjd 5/4). Dynastat vid behov.
+- **Medicinering (2026-04-11):** Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Labetalol 40 µg/kg/h. KCl 4 mmol/h. Glukos 50mg/ml 42ml/h. Albumin 20% 50ml/h. Fosfat-infusion 34ml/h. Pip/tazo. Inget noradrenalin.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen.
-- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (ej brådskande). **CRP: 165 (6/4, stigande).** PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. **Positiv blododling (6/4)** — organism under identifiering.
+- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (beställd 31/3). **CRP: 55 (11/4).** SR 186 (7/4). PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. **Positiv blododling (6/4)** — resistensbesked inväntas.
 - **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). **Bronkoskopi (4/4):** inget anmärkningsvärt.
 - **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
 - **Levervärden:** Försämrade (~2/4, specifika värden okända). Pip/tazo-hepatotoxicitet, paracetamolbelastning, och sepsisrelaterad kolestas som möjliga orsaker. Se [Hepatotoxicity and Liver Monitoring](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md#17-hepatotoxicity-and-liver-monitoring).
 - **Röntgen mage (5/4):** Ingen förstoppning. En hel del luft.
-- **Plan:** GBS–MFS–BBE overlap bekräftad. **Akut: bakteriemi under utredning** — inväntar artbestämning och resistens. CRP stigande (165). Ny PCT behövs. BDG bör beställas (candida-risk). Sedering pausas dagtid för neurologisk bedömning — ingen respons hittills. Passiv mobilisering pågår. Leverövervakning.
+- **Temperaturmätning:** Kontinuerlig probe borttagen (11/4, defekt). Öronmätning 37°C. Ny probe sätts vid ryggläge.
+- **Plan:** GBS–MFS–BBE overlap bekräftad. Bakteriemi — CRP viker (topp 186→55) men ej avslutad. Resistensbesked inväntas. Dysautonomi pendlar — labetalol justeras. Albumin + fosfat insatta. Ny PCT behövs. BDG bör beställas (candida-risk). NCS/EMG behövs. Anti-IgA-svar inväntas. Passiv mobilisering pågår. Leverövervakning.
 
 ---
 

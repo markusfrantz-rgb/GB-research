@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-04-06
+> Senast uppdaterad: 2026-04-11
 
 ## Fas: Live / Aktiv forskning
 
@@ -109,12 +109,19 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-04-04 | **Infektion:** Haemophilus identifierad ~10 dagar sedan. Cefotaxim → **piperacillin/tazobactam** ~3 dagar sedan. CRP: 135 (31/3) → 58 (3/4) → **36 (4/4)** — kraftigt fallande trots feber. Bronkoskopi, slangar, urin — inget nytt fokus. |
 | 2026-04-04 | **Procalcitonin beställd** (Stefan, IVA). Infektionskonsult begärd. Svampodling (candida) begärd — anamnes candidainfektion i ungdomen. Feber trots fallande CRP → misstanke autonom feber vs kvarvarande infektion vs svamp. |
 | 2026-04-05 (18:30) | **Dag 16:** Temp 38,7°C (Dynastat). BT 143/65, puls ~86. Sedering pausad dagtid (remifentanil ersatt fentanyl). Passiv cykling (maskin) 1,56 km/30 min. Röntgen mage: ingen förstoppning, luft. **Fortsatt total förlamning och medvetslöshet** — ingen neurologisk respons trots sederingspaus. |
+| 2026-04-06 | **Dag 17:** CRP 165 (↑↑ från 108). Positiv blododling — bakteriemi. Pip/tazo-dos höjd. Labetalol via pump. |
+| 2026-04-07 | **Dag 18:** SR 186. Vita blodkroppar nedåt (teamet tolkar positivt). Temp 37,5, puls ~102, BT 115/51. CRP 186 (topp). Neurologundersökning: **blygsam pupillförbättring** — marginellt bättre än sist. Fortsatt total förlamning och medvetslöshet. |
+| 2026-04-08 | **Dag 19:** CRP ~85 (kraftigt fall från topp 186). |
+| 2026-04-09 | **Dag 20:** CRP 36 (fortsatt fall). |
+| 2026-04-10 (kväll) | **Dag 21:** Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol 75→25 µg/kg/h (nedtrappat i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. CRP 31. |
+| 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — kontinuerlig probe borttagen, ny sätts vid ryggläge). Puls 111-113, BT 154/64 (dysautonomin svängt tillbaka till hypertension). Labetalol höjd till 40 µg/kg/h. CRP 55 (studs upp från 31, men kraftigt under topp 186). **Vikt 53,6 kg** (under baseline 56 — ned ~7 kg från topp ~61). **Nya läkemedel:** Albumin 20% (200mg/ml 50ml/h) — stödja oncotiskt tryck/cirkulation. Fosfat-infusion 34ml/h (trolig hypofosfatemi). Inget noradrenalin. Varm panna, svettighet (feber och/eller dysautonomi). |
 
 ### Kommunikation
 
 ~~Vid lättare sederingsdjup: svag höger ögonblinkning (ja), svag höger axel/deltoideus (nej).~~
 **Uppdatering 2026-03-31:** Ingen kommunikation möjlig. 100% förlamning i hela kroppen — kan inte öppna något öga. Sista ögonlocksrörelsen försvann troligen mellan 25/3 kväll och 26/3 fm (innan PE4). Total förlamning etablerad innan PE4–5 genomfördes.
 **Uppdatering 2026-04-06:** Sedering pausas dagtid (remifentanil, ultrakortverkande). Ingen kontakt etablerad trots sederingspaus. Fortsatt total förlamning och medvetslöshet. Passiv cykling (maskin) pågår.
+**Uppdatering 2026-04-11:** Fortsatt total förlamning och medvetslöshet. Dysautonomin pendlar mellan hypotension (BT 94/46, dag 21) och hypertension (BT 154/64, dag 22).
 
 ### Post-trakeostomi (2026-03-25 em)
 

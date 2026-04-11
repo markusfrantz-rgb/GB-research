@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning och medvetslöshet kvarstår (dag 17). Bakteriemi under utredning (CRP 165, positiv blododling). Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning och medvetslöshet kvarstår (dag 22). Bakteriemi — CRP-topp 186 (7/4) → 55 (11/4), infektionen viker. Vikt 53,6 kg. Dysautonomi: pendlar hypotension/hypertension, labetalol justeras. Albumin 20% och fosfat-infusion insatta. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -44,7 +44,7 @@ status: active
 **Observation:** Tre autoimmuna tillstånd (GBS + IgA-brist + Hashimotos) kopplade till HLA-B8/DR3/DQ2 — Multiple Autoimmune Syndrome typ 3.
 
 <details class="collapse-section" markdown="1">
-<summary>Klinisk tidslinje (2026-03-21 — 2026-04-07) — klicka för att visa</summary>
+<summary>Klinisk tidslinje (2026-03-21 — 2026-04-11) — klicka för att visa</summary>
 
 | Datum | Händelse |
 |-------|---------|
@@ -64,7 +64,11 @@ status: active
 | 2026-04-04 | Feberepisod (39°C), stabiliserad. CRP fallande (135→58→36). Haemophilus under behandling (pip/tazo). PCT beställd. Levervärden försämrade. |
 | 2026-04-05 | Sedering pausad dagtid (remifentanil ersatt fentanyl). Temp 38,7°C. Passiv cykling (maskin). Fortsatt total förlamning och medvetslöshet. |
 | 2026-04-06 | **CRP 165**. **Positiv blododling** — antibiotika ökad. |
-| 2026-04-07 | SR **186**. Resistensbesked inväntas. Neurologundersökning: blygsam pupillförbättring, i övrigt ingen respons. |
+| 2026-04-07 | SR **186**. CRP **186** (topp). Resistensbesked inväntas. Neurologundersökning: blygsam pupillförbättring, i övrigt ingen respons. |
+| 2026-04-08 | CRP ~85 (kraftigt fall från topp). |
+| 2026-04-09 | CRP 36 (fortsatt fall). |
+| 2026-04-10 | BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol 75→25. CRP 31. Temp 37,6. |
+| 2026-04-11 | **Dag 22.** BT 154/64 (tillbaka i hypertension). Puls 111-113. Labetalol 40. CRP 55 (studs). Vikt **53,6 kg** (under baseline). Albumin 20% + fosfat-infusion insatta. Tempprobe borttagen (manuell mätning 37°C). |
 
 </details>
 
