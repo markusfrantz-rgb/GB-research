@@ -84,7 +84,8 @@ status: active
 | 2026-04-08–09 | **Dag 19–20:** Temp **37,1** (normaliserad). CRP ~85 (8/4) → 36 (9/4) — kraftigt fall från topp. |
 | 2026-04-10 (em) | **Dag 21:** Temp **38,0** (upp igen efter normalisering). CRP 31. |
 | 2026-04-10 (kväll) | Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol nedtrappat 75→25 µg/kg/h (i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. |
-| 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — kontinuerlig probe borttagen, ny sätts vid ryggläge). Puls 111-113, BT 154/64 (svängt tillbaka till hypertension). Labetalol 40 µg/kg/h. CRP 55 (studs). **Vikt 53,6 kg** (under baseline 56 — ned ~7 kg från topp ~61). **Nya läkemedel:** Albumin 20% (200mg/ml 50ml/h), fosfat-infusion 34ml/h. Inget noradrenalin. Varm panna, svettighet (feber och/eller dysautonomi). |
+| 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — probe borttagen). Puls 111-113, BT 154/64. Labetalol 40 µg/kg/h. CRP 55. **Vikt 53,6 kg** (under baseline). Albumin 20% + fosfat-infusion insatta. |
+| 2026-04-11 (15:45) | **Dag 22 em:** Temp **38,0** (ny probe insatt). Puls **121**. BT **164/70**. **SpO2 94%** (normalt 97-99). Propofol 2 mg/kg/h (↑). Remifentanil 0,18 (↑). Labetalol 20→25→30. KCl 5 mmol/h. **VANKOMYCIN insatt.** **RESISTENSBESKED:** (1) **S. aureus runt trakeostomin** (trolig källa), (2) **Enterokock i blodet** (translokation från tarm). **Ekokardiografi senaste dagarna: ej endokardit.** MSSA/MRSA oklart. |
 
 ### Nuvarande status (2026-04-11, dag 22)
 
@@ -93,20 +94,21 @@ status: active
 - **Diagnos (2026-04-02):** **GBS–MFS–BBE överlappssyndrom.** Anti-GQ1b positiv (höga titrar). MR bekräftar BBE-komponenten. LP: albuminocytologisk dissociation. Klinisk bild: total kranialnervsutslagning (MFS), vitsubstanslesioner (BBE), ascending paralysi (GBS). Daniel: **prognos god, tar tid.**
 - **Medvetande:** **Medvetslös.** Fortsatt total förlamning och medvetslöshet. Ingen kontakt etablerad.
 - **Neurologisk bedomning:** **Fortsatt total förlamning.** 100% förlamning kvarstår — ingen aktiv motorik. Blygsam pupillförbättring (7/4). Passiv cykling (maskin) pågår.
-- **Autonom dysfunktion:** Dysautonomi **pendlar aktivt** — hypotension (BT 94/46, dag 21) → hypertension (BT 154/64, dag 22). Labetalol justeras: 350 (6/4) → 75→25 (10/4) → 40 (11/4). Inget noradrenalin (11/4). Svettighet/värmekänsla (dysautonomi och/eller feber).
-- **Infektion:** Haemophilus identifierad ~10 dagar sedan. Pip/tazo pågår. **CRP-kurva:** 36 (4/4) → 108 (5/4) → 165 (6/4) → **186 (7/4, topp)** → ~85 (8/4) → 36 (9/4) → 31 (10/4) → 55 (11/4, studs). **Infektionen viker men ej avslutad.** Resistensbesked inväntas (förväntades 8/4). PCT 0,12 (1/4, inaktuell — ny ej tagen).
+- **Autonom dysfunktion:** Dysautonomi **pendlar aktivt** — hypotension (BT 94/46, dag 21 kväll) → hypertension (BT 164/70, dag 22 em). Labetalol justeras aktivt: 350 (6/4) → 75→25 (10/4) → 40 (11/4 fm) → 20→30 (11/4 em). Inget noradrenalin. Svettighet/värmekänsla.
+- **Infektion — RESISTENSBESKED (11/4):** **Polymikrobiell bakteriemi.** (1) **S. aureus** — runt trakeostomin (trolig källa). (2) **Enterokock** — i blodet (translokation från tarm, förenligt med IgA-brist). **Vankomycin insatt** (täcker båda). Pip/tazo fortsätter (gram-negativ täckning). **Ekokardiografi senaste dagarna: ej endokardit.** MSSA/MRSA-status oklart. **CRP-kurva:** 36 (4/4) → 108 (5/4) → 165 (6/4) → **186 (7/4, topp)** → ~85 (8/4) → 36 (9/4) → 31 (10/4) → 55 (11/4). PCT 0,12 (1/4, inaktuell — ny ej tagen).
+- **SpO2:** 94% (11/4 em) — drop från normalt 97-99. Bör monitoreras.
 - **Post-steroid infektionsfönster:** Solu-Medrol avslutades 2/4 → immunsuppression kvarstår uppskattningsvis ~2 veckor. Förhöjd infektionsrisk.
 - **Vikt/vatska:** Vikt **53,6 kg** (11/4 — under baseline 56, ned ~7 kg från topp ~61 kg). **Albumin 20%** (200mg/ml 50ml/h) insatt — stödja oncotiskt tryck/cirkulation. **Fosfat-infusion** 34ml/h insatt (trolig hypofosfatemi — kan försvåra respiratoravvänjning).
 - **Behandling given:** Alla 5 PE-sessioner slutforda. **Solu-Medrol 3/3 doser given** (2026-03-31 till 2026-04-02), preventivt mot ADEM/BBE.
-- **Medicinering (2026-04-11):** Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Labetalol 40 µg/kg/h. KCl 4 mmol/h. Glukos 50mg/ml 42ml/h. Albumin 20% 50ml/h. Fosfat-infusion 34ml/h. Pip/tazo. Inget noradrenalin.
+- **Medicinering (2026-04-11 em):** Propofol IVA 2 mg/kg/h. Remifentanil 0,18 µg/kg/min. Labetalol 30 µg/kg/h (justeras). KCl 5 mmol/h. Glukos 50mg/ml 42ml/h. Albumin 20% 50ml/h. Fosfat-infusion 34ml/h. **Vankomycin** (ny). Pip/tazo. Inget noradrenalin.
 - **LP (2026-03-30):** **Forhojt albumin, normalt celltal** — albuminocytologisk dissociation. Starker GBS-diagnosen.
-- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (beställd 31/3). **CRP: 55 (11/4).** SR 186 (7/4). PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. **Positiv blododling (6/4)** — resistensbesked inväntas.
-- **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). **Bronkoskopi (4/4):** inget anmärkningsvärt.
+- **Lab:** fT3: normalt (2026-03-27). TSH mycket lagt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** Anti-IgA: inväntar svar (beställd 31/3). **CRP: 55 (11/4).** SR 186 (7/4). PCT 0,12 (1/4, inaktuell). Levervärden: ASAT uppåt, blandad bild. **Blododling (6/4): S. aureus + enterokock.** MSSA/MRSA oklart.
+- **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungrontgen/ekokardiografi: normalt hjarta (2026-03-27). **Ekokardiografi (~8-10/4): ej endokardit** (trots S. aureus-bakteriemi). **Bronkoskopi (4/4):** inget anmärkningsvärt.
 - **NCS/EMG:** Annu ej utford (fraga neurolog Daniel).
 - **Levervärden:** Försämrade (~2/4, specifika värden okända). Pip/tazo-hepatotoxicitet, paracetamolbelastning, och sepsisrelaterad kolestas som möjliga orsaker. Se [Hepatotoxicity and Liver Monitoring](/doc/07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md#17-hepatotoxicity-and-liver-monitoring).
 - **Röntgen mage (5/4):** Ingen förstoppning. En hel del luft.
-- **Temperaturmätning:** Kontinuerlig probe borttagen (11/4, defekt). Öronmätning 37°C. Ny probe sätts vid ryggläge.
-- **Plan:** GBS–MFS–BBE overlap bekräftad. Bakteriemi — CRP viker (topp 186→55) men ej avslutad. Resistensbesked inväntas. Dysautonomi pendlar — labetalol justeras. Albumin + fosfat insatta. Ny PCT behövs. BDG bör beställas (candida-risk). NCS/EMG behövs. Anti-IgA-svar inväntas. Passiv mobilisering pågår. Leverövervakning.
+- **Temperaturmätning:** Ny probe insatt 11/4 em (visar 38,0). Fungerar.
+- **Plan:** GBS–MFS–BBE overlap bekräftad. **Bakteriemi: S. aureus (trach) + enterokock (translokation) — vankomycin + pip/tazo insatt.** Eko rent. Kvarstår: MSSA/MRSA-status, BDG bör beställas (enterokock-translokation → candida via samma mekanism), ny PCT behövs, SpO2-drop 94% bör följas, NCS/EMG behövs, anti-IgA-svar inväntas. Passiv mobilisering pågår. Leverövervakning.
 
 ---
 
