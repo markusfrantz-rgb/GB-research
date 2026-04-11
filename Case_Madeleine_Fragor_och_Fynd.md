@@ -86,6 +86,7 @@ status: active
 | 2026-04-10 (kväll) | Temp 37,6, puls ~100, BT 94-100/46-51 (hypotension — dysautonomin svängt). Labetalol nedtrappat 75→25 µg/kg/h (i 2 steg). Propofol IVA 1,8 mg/kg/h. Remifentanil 0,17 µg/kg/min. Glukos 50mg/ml 42ml/h. KCl 4 mmol/h. |
 | 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — probe borttagen). Puls 111-113, BT 154/64. Labetalol 40 µg/kg/h. CRP 55. **Vikt 53,6 kg** (under baseline). Albumin 20% + fosfat-infusion insatta. |
 | 2026-04-11 (15:45) | **Dag 22 em:** Temp **38,0** (ny probe insatt). Puls **121**. BT **164/70**. **SpO2 94%** (normalt 97-99). Propofol 2 mg/kg/h (↑). Remifentanil 0,18 (↑). Labetalol 20→25→30. KCl 5 mmol/h. **VANKOMYCIN insatt.** **RESISTENSBESKED:** (1) **S. aureus runt trakeostomin** (trolig källa), (2) **Enterokock i blodet** (translokation från tarm). **Ekokardiografi senaste dagarna: ej endokardit.** MSSA/MRSA oklart. |
+| 2026-04-11 (17:40) | Temp **38,2**. SpO2 **95%** (↑ från 94). |
 
 ### Nuvarande status (2026-04-11, dag 22)
 
