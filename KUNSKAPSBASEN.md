@@ -92,13 +92,13 @@ IVA-sammanfattning: alert + undvik + checklista (2 sidor)
 IVA-protokoll: GBS–MFS–BBE Overlap (fullständigt)
 <span class="doc-sub">20 sektioner | 51 ref — medvetande, sedering, dysautonomi, candida, feber-DDx, IgA-brist, sköldkörtel, lever, checklista</span>
 </a>
-<a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
-<a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
-<a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Consciousness_Communication_Psychological_Care_GBS_BBE.md" class="doc-link doc-primary">
 Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE
 <span class="doc-sub">19 ref — cEEG-kommunikation, medvetandebedömning, sederingspauser, miljöoptimering, smärta, familjens roll, daglig checklista</span>
 </a>
+<a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
+<a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
+<a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link">Infektionshantering vid prolongerad IVA-vård — antibiotika, CRBSI, PCT, hepatotoxicitet</a>
 <a href="/doc/01-GBS/Severe_GBS_ICU_Management.md" class="doc-link">Svår GBS — intensivvård (generell)</a>
 </div>
