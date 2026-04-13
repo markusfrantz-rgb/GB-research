@@ -10,7 +10,7 @@ status: active
 
 <div class="stats-bar">
 <span>~810 peer-reviewed referenser</span>
-<span>23 forskningsdokument</span>
+<span>24 forskningsdokument</span>
 <span>406 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
@@ -95,6 +95,10 @@ IVA-protokoll: GBS–MFS–BBE Overlap (fullständigt)
 <a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
 <a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
+<a href="/doc/07-acute-icu-protocols/Consciousness_Communication_Psychological_Care_GBS_BBE.md" class="doc-link doc-primary">
+Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE
+<span class="doc-sub">19 ref — cEEG-kommunikation, medvetandebedömning, sederingspauser, miljöoptimering, smärta, familjens roll, daglig checklista</span>
+</a>
 <a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link">Infektionshantering vid prolongerad IVA-vård — antibiotika, CRBSI, PCT, hepatotoxicitet</a>
 <a href="/doc/01-GBS/Severe_GBS_ICU_Management.md" class="doc-link">Svår GBS — intensivvård (generell)</a>
 </div>
@@ -206,10 +210,10 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Källbibliotek:** 406 fulltexter (94 PDF + 312 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
 
-**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1809 kunskapsfragment) och genererar svar med källhänvisningar.
+**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1828 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 23 forskningsdokument — fullständig lista</summary>
+<summary>Alla 24 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -234,6 +238,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
 | [ADEM-GBS Overlap, MR-differentialdiagnostik](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | CCPD, PRES, BBE-spektrum, 33 MR-bilder |
+| [Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE](/doc/07-acute-icu-protocols/Consciousness_Communication_Psychological_Care_GBS_BBE.md) | 19 ref — cEEG-kommunikation, medvetandebedömning, sederingspauser, miljöoptimering, smärta vid locked-in, familjens roll, daglig checklista |
 | [Infektionshantering vid prolongerad IVA-vård](/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md) | ~35 ref — empirisk antibiotika, CRBSI, eskalering, PCT-styrning, hepatotoxicitet, IgA-övervakning, svenska riktlinjer |
 
 </details>
