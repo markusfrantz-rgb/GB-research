@@ -1,6 +1,6 @@
 ---
 doc_type: research
-date: 2026-03-26
+date: 2026-04-17
 status: active
 scope: Immunoglobulin therapy, IgA deficiency, and treatment alternatives for GBS/CIDP
 sources: 183 papers identified, 41 with fulltext
@@ -576,80 +576,106 @@ With a first GBS episode at age 16 and current recurrence at age 52, Madeleine m
 
 ---
 
-## 12. Clinical Decision Algorithm for Madeleine's Case
+## 12. Clinical Decision Context: This Patient's Situation
 
-**Patient context:** 52-year-old woman with selective IgA deficiency (serum IgA <0.07 g/L), established SCIG tolerance (Gamanorm, IgA <= 82.5 mcg/mL), recurrent severe GBS (first episode at age 16), currently in ICU with severe disease requiring treatment decisions.
+**Patient:** 52-year-old woman. Selective IgA deficiency (serum IgA <0.07 g/L). Recurrent GBS (first episode at age 16). Hashimoto's thyroiditis. Anti-GQ1b positive — confirmed GBS–MFS–BBE overlap syndrome.
 
-### 12.1 During Active GBS Episode
+**Current status (day 28, updated 2026-04-17):**
+- PE completed: 5 sessions (days 1–7), no clinical response
+- Solu-Medrol given: 3 doses (days 10–12), no clinical response
+- IVIg: never administered
+- Anti-IgA antibodies: **positive** (class not specified — likely IgG; IgE anti-IgA cannot be commercially measured)
+- Prior SCIG tolerance: Gamanorm (IgA ≤82.5 µg/mL) for ~2–3 years without reactions
+- Total paralysis and impaired consciousness persist
+- Active infection: S. aureus (tracheostomy site) + enterococcus (blood, translocation) — on vancomycin + piperacillin/tazobactam
+- Ventilator-dependent, ICU-monitored
 
-```
-PHASE 1: ACUTE TREATMENT (Days 1-14)
-=======================================
+### 12.1 The Central Question: Would IVIg Help at Day 28?
 
-Step 1: Is PE available and feasible?
-|
-+-- YES --> PE as first-line treatment
-|           - 4-5 exchanges over 7-14 days
-|           - 200-250 mL/kg total plasma volume
-|           - Replacement fluid: 5% ALBUMIN (NOT FFP -- contains IgA)
-|           - Advantage: eliminates IgA exposure entirely
-|           - Level 1 evidence for equivalence to IVIg
-|
-+-- NO or CONTRAINDICATED --> Step 2
-|
-Step 2: IVIg with IgA-safe protocol
-|
-+-- Product: Privigen (IgA <= 25 mcg/mL) -- lowest available in Sweden
-|   NOTE: Patient has tolerated Gamanorm (IgA <= 82.5 mcg/mL) via SCIG
-|         Privigen IgA is LOWER than her prior tolerated exposure
-|
-+-- Pre-medication:
-|   - Paracetamol 1 g PO/IV, 30-60 min before
-|   - Clemastine (Tavegyl) 2 mg IV, 30-60 min before
-|   - Hydrocortisone 100-200 mg IV, 30-60 min before
-|   - IV saline 250-500 mL pre-hydration
-|
-+-- Infusion protocol:
-|   - Start: 0.5 mL/kg/hr for 30 min
-|   - If tolerated: 1.0 mL/kg/hr for 30 min
-|   - Then stepwise to max 4.0 mL/kg/hr
-|   - Vitals q15min first hour, then q30min
-|   - Epinephrine drawn up at bedside
-|
-+-- Dose: 0.4 g/kg/day x 5 days
-|
-+-- ICU setting provides OPTIMAL safety environment
-|   (airway secured, continuous monitoring, vasopressors available)
+**Honest answer: We do not know.** There is no RCT, no prospective cohort study, and no guideline recommendation that addresses IVIg as rescue therapy after PE failure at day 28 in GBS. The evidence that exists is limited to case reports and clinical reasoning.
 
-Step 3: No improvement by Day 7-14?
-|
-+-- Do NOT repeat IVIg (SID-GBS trial: no benefit, increased AEs)
-|    [Level 1 -- Walgaard 2021, PMID: 33743237]
-|
-+-- If IVIg was first-line --> switch to PE
-|   If PE was first-line --> consider low-IgA IVIg with precautions
-|
-+-- Consider emerging therapies:
-|   a) Tanruprubart (if available via compassionate use/trial)
-|   b) Efgartigimod (800 mg IV x 4 doses; off-label)
-|   c) Imlifidase (contact Hansa Biopharma for compassionate use)
-|   d) Rituximab (especially if anti-paranodal antibodies positive)
-|
-+-- ALL above are IgA-safe (monoclonal antibodies/enzymes)
-```
+#### What the evidence shows
 
-### 12.2 Things to AVOID During Active GBS
+**Against expecting benefit:**
+- The EAN/PNS 2023 guideline recommends immunotherapy within 2 weeks of onset. At day 28, the patient is beyond this window. *[Level 1 — guideline]* (PMID: 37814552)
+- The 1997 PE/Sandoglobulin trial (n=379) showed no additional benefit of planned sequential PE→IVIg over either treatment alone. *[Level 1 — RCT]*
+- GBS is typically self-limiting. The autoimmune attack generally peaks within 4 weeks, after which the disease enters a plateau phase regardless of treatment. At day 28, the therapeutic window for modifying the immune attack may have closed.
+- The SID-GBS trial showed no benefit of a second IVIg course in poor-prognosis GBS. *[Level 1 — RCT]* (PMID: 33743237). Note: this applies to repeat IVIg, not first-ever IVIg after PE.
+
+**Factors that leave the question open:**
+- This patient has **never received IVIg**. The negative 1997 combination trial and the SID-GBS trial both involved patients who had already received one modality. This is a different scenario — switching to an untried mechanism, not repeating a failed one.
+- IVIg and PE act through **partially different mechanisms**: PE removes pathogenic antibodies; IVIg modulates Fc receptors, inhibits complement, and has anti-inflammatory effects. PE failure does not necessarily predict IVIg failure.
+- Roe et al. (2025) explicitly noted **"insufficient evidence"** regarding sequential therapy when the first treatment fails. The question is unanswered, not answered negatively.
+- One case report (Rouge 2016, PMC: 5106230) describes a fulminant GBS patient who received **4 courses of IVIg and 4 PE sessions**, with the authors noting: "repeated courses of IVIG may be effective in severe, unresponsive GBS." *[Level 4 — single case report]*
+- The BBE component may respond differently from pure peripheral GBS. Some anti-GQ1b case reports describe IVIg response in BBE even when given later (Tian 2023, PMC: 9936049). However, these patients received IVIg as first-line, not after PE failure.
+
+**Bottom line:** There is no strong evidence that IVIg will help at day 28 after PE failure. There is also no strong evidence that it will not. The question has never been studied. Any decision to attempt IVIg at this point is a **clinical judgement call** made in the absence of guiding evidence, not a guideline-supported recommendation.
+
+### 12.2 Anti-IgA Antibodies and IVIg Safety: Risk Assessment
+
+The positive anti-IgA test adds a safety concern but does not necessarily preclude IVIg.
+
+#### Risk-modifying factors in this patient
+
+| Factor | Direction | Reasoning |
+|--------|-----------|-----------|
+| Anti-IgA antibodies positive | Increases concern | Associated with anaphylaxis risk, though the association is weaker than historically believed (Section 3) |
+| Antibody class unknown (likely IgG) | Uncertain | IgG anti-IgA carries lower risk than IgE anti-IgA. IgE cannot be commercially measured. |
+| **Gamanorm tolerance ×2–3 years** | Reduces concern | She has been exposed to IgA-containing immunoglobulin (IgA ≤82.5 µg/mL) subcutaneously for years without reactions. This is real-world evidence of tolerance. |
+| SCIG ≠ IVIg pharmacokinetics | Increases concern | SCIG absorption is slow and local; IVIg delivers a rapid systemic IgA bolus. One patient in Rachid et al. (2011) tolerated SCIG for 2.5 years but had experienced IVIg anaphylaxis previously. SCIG tolerance does not guarantee IVIg safety. (PMID: 21397310) |
+| Privigen IgA ≤25 µg/mL | Reduces concern | Lower IgA content than the Gamanorm she tolerated (≤82.5 µg/mL). |
+| ICU setting, intubated | Reduces concern | Airway is secured. Continuous monitoring. Vasopressors and epinephrine immediately available. This is the safest possible environment for a trial dose. |
+| Active infection | Increases concern | Bacteremia adds haemodynamic instability risk. Any new reaction would be harder to distinguish from sepsis-related deterioration. |
+
+#### If the team considers attempting IVIg
+
+This is not a recommendation. It is a description of what a risk-mitigated protocol would look like, based on published approaches (Martinez 2021, Gharib 2016, Rachid 2011, BSI/UKPIN 2022):
+
+1. **Skin prick test** with Privigen before infusion — the only practical way to screen for IgE-mediated sensitization (Gharib 2016, PMID: 27190527). If strongly positive → do not proceed.
+
+2. **Product:** Privigen (IgA ≤25 µg/mL) — lowest routinely available in Sweden.
+
+3. **Pre-medication:**
+   - Clemastine (Tavegyl) 2 mg IV, 30–60 min before
+   - Hydrocortisone 100–200 mg IV, 30–60 min before
+   - IV saline pre-hydration
+
+4. **Test dose:** Start at 0.5 mL/kg/hr for 30 min. Observe. If tolerated, increase stepwise to 1.0, then 2.0 mL/kg/hr. Vitals every 15 min during first hour, then every 30 min.
+
+5. **Epinephrine drawn up at bedside.** Full anaphylaxis kit ready.
+
+6. **Full dose if tolerated:** 0.4 g/kg/day × 5 days.
+
+7. **Stop immediately** if: hypotension not attributable to dysautonomia, urticaria, bronchospasm, or any signs of anaphylaxis.
+
+#### What this protocol cannot eliminate
+
+- The risk of anaphylaxis, though low, is not zero
+- The risk of worsening renal function (IVIg is nephrotoxic; monitor creatinine)
+- The risk of thromboembolic events (IVIg increases viscosity)
+- The uncertainty about whether IVIg will have any therapeutic effect at day 28
+
+### 12.3 Alternative Immunological Options (All IgA-Safe)
+
+If IVIg is deemed too risky or not indicated at this stage, the following are IgA-safe alternatives. All have limited evidence in this specific scenario.
+
+| Agent | Mechanism | Evidence in GBS | Availability Sweden | Practical notes |
+|-------|-----------|----------------|--------------------|----|
+| **Efgartigimod** | FcRn inhibitor (lowers IgG) | Case reports + retrospective n=17; Phase 2 ongoing | EMA-approved for MG/CIDP; off-label for GBS | 800 mg IV ×4 doses. No IgA exposure. |
+| **Imlifidase** | IgG-cleaving enzyme | Phase 2 (n=30): walked 6 weeks earlier | Compassionate use via Hansa Biopharma, Lund | Single dose. Rapid IgG elimination. |
+| **Rituximab** | Anti-CD20 (B-cell depletion) | Case reports in refractory GBS; positive in IgG4+ CIDP | Available | More relevant if anti-paranodal antibodies positive |
+| **No additional immunotherapy** | — | GBS is self-limiting; spontaneous recovery expected | — | The disease will plateau and recovery will begin regardless of treatment. Treatment aims to shorten this timeline. |
+
+### 12.4 Things to AVOID
 
 | AVOID | Reason | Evidence |
 |-------|--------|----------|
-| Second IVIg course | No benefit; increased serious AEs | Level 1 (SID-GBS RCT) |
-| Combined PE + IVIg | No additional benefit | Level 1 (Cochrane) |
+| Second IVIg course (if one is given) | No benefit; increased serious AEs | Level 1 (SID-GBS RCT, PMID: 33743237) |
 | FFP as PE replacement fluid | Contains IgA | Clinical logic |
-| High-IgA IVIg products (Octagam, Panzyga, Yimmugo) | Unnecessary IgA exposure | Product data |
-| Corticosteroids as primary GBS treatment | Ineffective in GBS | Level 1 (Cochrane) |
-| Delaying treatment for anti-IgA test results | Time is critical in GBS | Guideline consensus |
+| High-IgA IVIg products (Octagam ≤400, Panzyga ≤300, Yimmugo ~500 µg/mL) | Unnecessary IgA exposure in a patient with anti-IgA antibodies | Product data |
+| Overstating expected benefit of any treatment at day 28 | No Level 1 or Level 2 evidence supports immunotherapy benefit at this timepoint | Evidence gap |
 
-### 12.3 During Rehabilitation Phase
+### 12.5 During Rehabilitation Phase
 
 ```
 PHASE 2: REHABILITATION (Weeks 2-52+)
@@ -690,7 +716,7 @@ Non-pharmacological:
 |   reduces fatigue symptoms per Garssen 2006 placebo effect)
 ```
 
-### 12.4 After Recovery: Monitoring and Prevention
+### 12.6 After Recovery: Monitoring and Prevention
 
 ```
 PHASE 3: POST-RECOVERY MONITORING
@@ -737,7 +763,7 @@ Prevention:
 |     prior GBS episodes for any future healthcare encounters
 ```
 
-### 12.5 If A-CIDP Criteria Are Met
+### 12.7 If A-CIDP Criteria Are Met
 
 ```
 PHASE 4: A-CIDP RECLASSIFICATION PATHWAY
