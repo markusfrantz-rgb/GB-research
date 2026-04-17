@@ -169,14 +169,20 @@ Before declaring PE failure, the following diagnostic reassessment MUST occur:
 **FOR A PATIENT WITH IgA DEFICIENCY WHO HAS FAILED PE:**
 
 ```
-PRIORITY 1 (Strongest evidence + IgA-safe) [Level 4 — fallrapporter/fallserier]:
+PRIORITY 1 (Most relevant IgA-safe option) [Level 4 — fallrapporter/fallserier]:
 ------------------------------------------
 EFGARTIGIMOD (Vyvgart)
 - 10 mg/kg IV weekly x 4 doses
 - Can start 24-48 hours after last PE session
 - Mechanism: FcRn blockade, accelerates IgG catabolism
-- Evidence: 5+ published case reports/series (2024-2026),
-  including PE/IVIg-refractory cases with dramatic improvement
+- Evidence: 11 published GBS cases (7 publications, 2024-2026).
+  Most were IVIg-refractory. Only 1 PE-refractory case (Ripellino 2025):
+  fulminant GBS, day 30, improvement in upper limbs within hours,
+  tracheostomy removed 1 week post-last dose, walked with aid 2 weeks later.
+  HOWEVER: The only retrospective cohort study (Qin 2025, n=3 GBS)
+  showed NO statistically significant improvement (p>0.05).
+  Case reports are inherently subject to publication bias —
+  failures are less likely to be published.
 - IgA-SAFE: contains no immunoglobulin
 - Synergistic with prior PE (PE depletes, efgartigimod prevents rebound)
 - Available in Sweden: approved for gMG, off-label for GBS
@@ -237,11 +243,17 @@ EFGARTIGIMOD 10 mg/kg IV weekly x 4
 WHY:
 1. Zero IgA-related anaphylaxis risk
 2. Synergistic with PE (different mechanisms)
-3. Published case evidence of efficacy in PE-refractory GBS
-4. Available in Sweden via off-label access
-5. Can start quickly (within 48h of last PE)
-6. Case 1 (Ripellino et al., 2025): improvement within HOURS of first dose
-   in a patient who had failed BOTH PE and IVIg
+3. Available in Sweden via off-label access
+4. Can start quickly (within 48h of last PE)
+
+EVIDENCE CAVEAT:
+- Only 1 published PE-refractory GBS case (Ripellino 2025):
+  improvement within hours, walked with aid 2 weeks later.
+  This is a single case report (Level 4).
+- The only cohort study (Qin 2025, n=3 GBS) showed no
+  statistically significant improvement.
+- No RCT exists for efgartigimod in GBS.
+- Publication bias: successful cases are more likely to be reported.
 
 ALTERNATIVE PATHWAY (if efgartigimod unavailable):
 ==================================================

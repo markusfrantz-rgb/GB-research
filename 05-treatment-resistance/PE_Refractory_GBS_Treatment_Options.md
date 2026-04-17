@@ -67,7 +67,7 @@ Walgaard C, Jacobs BC, et al. "Second intravenous immunoglobulin dose in patient
 - "Insufficient evidence" regarding TPE after IVIg failure, and IVIg after PE failure is similarly under-studied
 - Combined with the SID-GBS trial (Walgaard 2021, PMID: 33743237), the evidence clearly shows that **repeating the same treatment modality after failure is not supported**
 - The review reinforces that the "rinse or repeat" approach (either repeating IVIg or switching to PE after IVIg) has no proven benefit
-- **Clinical implication:** Treatment-refractory GBS patients should be considered for emerging targeted therapies (tanruprubart, efgartigimod, imlifidase) rather than repeating standard treatments
+- **Clinical implication:** When standard treatment fails, emerging targeted therapies (efgartigimod, imlifidase, tanruprubart) may be considered, but evidence is limited to case reports and one negative cohort study for efgartigimod
 
 > **Citation:** Roe T, Gordon A, Gourd N, et al. "Immunoglobulin unresponsive Guillain-Barre syndrome: rinse or repeat? A systematic review." *BMJ Neurol Open.* 2025;7(1):e000907. PMID: 39950094
 
@@ -284,10 +284,19 @@ IgG level kinetics:
 
 - **17 GBS patients** treated with efgartigimod (various dosing protocols)
 - **Key finding:** 1-point GBS-DS improvement in **4 days** — significantly faster than comparator groups
-- This provides the strongest quantitative evidence to date supporting efgartigimod's rapid onset of action in GBS
-- **Clinical implication:** Efgartigimod may offer the fastest route to neurological improvement among currently available therapies for refractory GBS
+- **NOTE:** Fulltext not available for independent verification. The study design (retrospective, non-randomized, no blinding) limits conclusions. Selection bias cannot be excluded.
 
 > **Citation:** Cheng Y et al. "Rapid neurological recovery in Guillain-Barre syndrome treated with efgartigimod." *Sci Rep.* 2026. PMID: 41851318
+
+### 4.5c Qin 2025 — Retrospective Cohort: NO Improvement in GBS Subgroup
+
+**Qin et al. (2025)** conducted the only retrospective cohort study of efgartigimod across multiple neurological autoimmune diseases (n=17 total: 8 MG, 5 AE, **3 GBS**, 1 NMOSD) *[Level 3 — retrospective cohort]*:
+
+- **3 GBS patients** treated with efgartigimod
+- **Key finding:** "INCAT scale scores didn't statistically differ in GBS patients before and after efgartigimod treatment (p > 0.05)"
+- This is the only comparative study and **directly contrasts** with the positive case reports, highlighting the risk of publication bias in the case report literature
+
+> **Citation:** Qin Z et al. Efgartigimod in neuroautoimmune disorders. *Front Immunol.* 2025.
 
 ### 4.6 Case Reports of Efgartigimod in Ventilator-Dependent GBS
 
@@ -617,7 +626,7 @@ The Japanese Phase 3 trial (JET-GBS Phase 3, Kuwabara et al., J Peripher Nerv Sy
 
 | Therapy | Evidence Level | Availability in Sweden | Key Advantage | Key Risk/Limitation |
 |---------|---------------|----------------------|---------------|---------------------|
-| **Efgartigimod (Vyvgart)** | Retrospective series (n=17) + case reports | Approved (off-label for GBS) | Immediate availability; 1-point improvement in 4 days (Cheng 2026) | Off-label; Phase 2 RCT ongoing |
+| **Efgartigimod (Vyvgart)** | 11 case reports + 1 retrospective series (n=17, unverified). 1 cohort (n=3 GBS) negative. No RCT. | Approved (off-label for GBS) | Immediate availability; IgA-safe | Off-label; only 1 published PE-refractory case; cohort study negative; Phase 2 RCT ongoing |
 | **IVIg (IgA-depleted)** | RCT for GBS (not after PE failure) | Available (Gammagard S/D, Privigen) | Established GBS treatment | IgA deficiency risk; may not work after PE failure |
 | **Imlifidase** | Phase 2 (n=30; 85% walking at 6mo) | Compassionate use (Hansa, Lund) | Fastest IgG removal; no coagulopathy; 6 days to 1-grade improvement | Investigational; temporary immunodeficiency |
 | **Tanruprubart** | Phase 3 positive | Compassionate use (MAA submitted) | Targeted complement inhibition | Investigational; access uncertain |
