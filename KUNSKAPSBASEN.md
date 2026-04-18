@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning och medvetslöshet kvarstår (dag 22). Bakteriemi: S. aureus (trach) + enterokock (translokation) — vankomycin + pip/tazo insatt, eko utan endokardit. CRP 55 (ned från topp 186). Vikt 53,6 kg. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning kvarstår (dag 29). Anti-IgA positiv — IVIg bedöms ej aktuell. Infektion utläkt (S. aureus + enterokock, behandlad). Sederingsstopp dag 29: möjlig svag haka/tunga-motorik observerad (bevittnad). Temp 37,7–38. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -68,6 +68,8 @@ status: active
 | 2026-04-08–09 | Temp **37,1** (normaliserad). CRP 85→36 (kraftigt fall). |
 | 2026-04-10 | Temp **38** (upp igen). BT 94-100/46-51 (hypotension). Labetalol 75→25. CRP 31. |
 | 2026-04-11 | **Dag 22.** CRP 55. Vikt **53,6 kg**. **Resistensbesked:** S. aureus (trach) + enterokock (blod, translokation). **Vankomycin insatt.** Eko: ej endokardit. Temp 38 (ny probe). SpO2 94% (drop). Dysautonomi pendlar. |
+| ~2026-04-13–17 | **Anti-IgA: POSITIV.** Infektion utläkt (bekräftat av IVA-läkare Mattias). Temp 37,7–38. |
+| 2026-04-18 | **Dag 29 — Sederingsstopp (~65–70 min).** Haka/tunga rörde sig vid 3–4 tillfällen (bevittnat av sjuksköterska). Inga ögonöppningar. BT 115→142→110/58. |
 
 </details>
 
