@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning kvarstår (dag 29). Anti-IgA positiv — IVIg bedöms ej aktuell. Infektion utläkt (S. aureus + enterokock, behandlad). Sederingsstopp dag 29: möjlig svag haka/tunga-motorik observerad (bevittnad). Temp 37,7–38. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning kvarstår (dag 29). Anti-IgA positiv — IVIg bedöms ej aktuell. Infektion utläkt (S. aureus + enterokock, behandlad). Sederingsstopp dag 29: svag haka/tunga-motorik observerad (bevittnad av sjuksköterska + oberoende bekräftad vid tandborstning). Temp 37,7–38. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
