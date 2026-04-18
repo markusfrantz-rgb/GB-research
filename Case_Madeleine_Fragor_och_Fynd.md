@@ -108,6 +108,17 @@ status: active
 - **NCS/EMG:** Ännu ej utförd.
 - **Plan:** GBS–MFS–BBE overlap bekräftad. Infektion utläkt. Anti-IgA positiv → IVIg bedöms ej aktuell. Kvarstår: NCS/EMG behövs, strukturerade sederingsstopp med medvetandeprotokoll bör upprepas (haka/tunga-motorik observerad), fortsatt passiv mobilisering.
 
+### Positiva tecken — kronologisk sammanställning
+
+| Dag | Datum | Observation |
+|-----|-------|-------------|
+| 7 | 2026-03-27 | Blygsam pupillreaktion noterad |
+| 16 | 2026-04-05 | Tolererade passiv cykling 1,56 km / 30 min |
+| 18 | 2026-04-07 | Pupillreaktion marginellt bättre än föregående undersökning |
+| 29 | 2026-04-18 | **Första voluntära motoriken:** haka/tunga-rörelser under sederingsstopp (3–4 tillfällen). Sjuksköterska bevittnade. Separat: annan sjuksköterska kände hakrörelse vid tandborstning. Helene (närstående) såg tydliga hakrörelser + möjlig huvudskakning. **Tre oberoende observatörer samma dag.** |
+
+> **Klinisk betydelse:** Haka = CN V (trigeminus), tunga = CN XII (hypoglossus), huvudskakning = cervikal muskulatur. Dessa är de första tecknen på motorisk aktivitet sedan insjuknandet. Kranialnervsmotorik kan vara ett tidigt tecken på remyelinisering i GBS–MFS–BBE.
+
 ---
 
 ## Oppna kliniska fragestallningar
