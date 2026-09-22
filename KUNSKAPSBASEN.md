@@ -107,7 +107,7 @@ Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE
 <a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS (IVA-fasen)</a>
 <a href="/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md" class="doc-link doc-primary">
 Nattlig weaning, proppträning och dekanylering efter långvarig trakeostomi
-<span class="doc-sub">NYTT 2026-09-22 | 27 ref — REM-hypoventilation, PtcCO₂, VC sittande/liggande, PCF-trösklar, hostmaskin, talventil/propp, FEES/SESETD, OSA efter dekanylering, beslutsalgoritm</span>
+<span class="doc-sub">NYTT 2026-09-22 | 29 ref — REM-hypoventilation, PtcCO₂, VC sittande/liggande, PCF-trösklar, hostmaskin, talventil/propp, FEES/SESETD, OSA efter dekanylering, beslutsalgoritm</span>
 </a>
 <a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link">Infektionshantering vid prolongerad IVA-vård — antibiotika, CRBSI, PCT, hepatotoxicitet</a>
@@ -120,7 +120,7 @@ Nattlig weaning, proppträning och dekanylering efter långvarig trakeostomi
 <div class="specialty-body">
 <a href="/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md" class="doc-link doc-primary">
 Nattlig weaning, proppträning och dekanylering — protokoll för vårdavdelning
-<span class="doc-sub">NYTT 2026-09-22 | 27 ref — kriterier för att avsluta nattlig ventilation, hoststyrka och hostmaskin, FEES, dekanyleringskriterier, OSA, uppföljning</span>
+<span class="doc-sub">NYTT 2026-09-22 | 29 ref — kriterier för att avsluta nattlig ventilation, hoststyrka och hostmaskin, FEES, dekanyleringskriterier, OSA, uppföljning</span>
 </a>
 <a href="/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
 Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
@@ -250,7 +250,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [PE-svikt: beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Definition, biomarkörer under sedering, NfL |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
 | [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
-| [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 27 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
+| [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 29 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
 | [ADEM-GBS Overlap, MR-differentialdiagnostik](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | CCPD, PRES, BBE-spektrum, 33 MR-bilder |
