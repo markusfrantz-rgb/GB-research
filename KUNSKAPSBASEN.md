@@ -9,15 +9,15 @@ status: active
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
 
 <div class="stats-bar">
-<span>~810 peer-reviewed referenser</span>
-<span>24 forskningsdokument</span>
+<span>~835 peer-reviewed referenser</span>
+<span>25 forskningsdokument</span>
 <span>406 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
 
 <div class="case-alert">
-<strong>Anti-GQ1b positiv (höga titrar)</strong> — GBS–MFS–BBE överlappssyndrom bekräftat 2026-04-02. PE-refraktär (5 sessioner utan svar). Solu-Medrol given (3 doser). Ventilatorsberoende sedan 2026-03-21. Total förlamning kvarstår (dag 29). Anti-IgA positiv — IVIg bedöms ej aktuell. Infektion utläkt (S. aureus + enterokock, behandlad). Sederingsstopp dag 29: haka/tunga-motorik observerad av tre oberoende observatörer + möjlig huvudrörelse. Temp 37,7–38. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Dag 185 (2026-09-22) — sen weaningfas på neurologisk vårdavdelning.</strong> GBS–MFS–BBE överlappssyndrom (anti-GQ1b positiv, bekräftat 2026-04-02), PE-refraktär, Solu-Medrol ×3, anti-IgA positiv. Ventilatorsberoende från dag 1; trakeostomi dag 5. Vårdavdelning sedan ~dag 140. <strong>Egen andning hela dygnet sedan ~dag 181</strong> (respirator endast ~1 h/morgon, normal blodgas före passet). Talventil hela dagarna — talar med egen röst. Oralt intag (timbalkost). FVC 1,31 L sittande / 1,21 L liggande (posturalt fall 7,6 %). Hostmaskin 2–4 ggr/dygn. Kanyl nedbytt 7→6 mm 16/9. Dekanylering ej diskuterad ännu. Känd lindrig OSA. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -30,7 +30,7 @@ status: active
 | | |
 |---|---|
 | **Namn** | Madeleine |
-| **Ålder** | 52 år |
+| **Ålder** | 53 år |
 | **Kända diagnoser** | Recidiverande GBS (första episod vid 16 års ålder, ~36 år sedan) |
 | | Selektiv IgA-brist |
 | | Hashimotos tyreoidit (autoimmun hypotyreos) |
@@ -70,6 +70,11 @@ status: active
 | 2026-04-11 | **Dag 22.** CRP 55. Vikt **53,6 kg**. **Resistensbesked:** S. aureus (trach) + enterokock (blod, translokation). **Vankomycin insatt.** Eko: ej endokardit. Temp 38 (ny probe). SpO2 94% (drop). Dysautonomi pendlar. |
 | ~2026-04-13–17 | **Anti-IgA: POSITIV.** Infektion utläkt (bekräftat av IVA-läkare Mattias). Temp 37,7–38. |
 | 2026-04-18 | **Dag 29 — Sederingsstopp (~65–70 min).** Haka/tunga rörde sig vid 3–4 tillfällen (bevittnat av sjuksköterska). Inga ögonöppningar. BT 115→142→110/58. |
+| apr–aug 2026 | **Dag 30–140 — Gradvis återhämtning.** Kommunikation: ja/nej → bokstavering → talventil (egen röst). Sväljfunktion åter (oralt intag). Respirator nedtrappad till endast nattetid. *(Detaljer ej dokumenterade i databasen under denna period.)* |
+| ~2026-08-10 | **Dag ~140 — Flytt IVA → neurologisk vårdavdelning (SU).** Respirator endast nattetid. |
+| 2026-09-16 | **Dag 179 — Kanyl nedbytt 7 → 6 mm.** |
+| ~2026-09-18 → | **Dag ~181 → Nätter utan respirator** (fuktnäsa på kanylen). Respirator ~1 h/morgon; blodgas före passet normal. SpO₂ 96–99 % dygnet runt. |
+| 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande.** Hostmaskin 2–4/dygn. 4 mål timbalkost/dag. Dekanylering ej diskuterad. |
 
 </details>
 
@@ -99,7 +104,11 @@ Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE
 <span class="doc-sub">19 ref — cEEG-kommunikation, medvetandebedömning, sederingspauser, miljöoptimering, smärta, familjens roll, daglig checklista</span>
 </a>
 <a href="/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md" class="doc-link">Post-trakeostomivård vid dysautonomi</a>
-<a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS</a>
+<a href="/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md" class="doc-link">Respiratoravvänjning vid GBS (IVA-fasen)</a>
+<a href="/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md" class="doc-link doc-primary">
+Nattlig weaning, proppträning och dekanylering efter långvarig trakeostomi
+<span class="doc-sub">NYTT 2026-09-22 | 27 ref — REM-hypoventilation, PtcCO₂, VC sittande/liggande, PCF-trösklar, hostmaskin, talventil/propp, FEES/SESETD, OSA efter dekanylering, beslutsalgoritm</span>
+</a>
 <a href="/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md" class="doc-link">Vätskestyrning vid GBS-dysautonomi</a>
 <a href="/doc/07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md" class="doc-link">Infektionshantering vid prolongerad IVA-vård — antibiotika, CRBSI, PCT, hepatotoxicitet</a>
 <a href="/doc/01-GBS/Severe_GBS_ICU_Management.md" class="doc-link">Svår GBS — intensivvård (generell)</a>
@@ -109,6 +118,10 @@ Medvetande, kommunikation och psykologisk vård vid locked-in GBS/BBE
 <div class="specialty-card specialty-neuro">
 <div class="specialty-header">Neurolog</div>
 <div class="specialty-body">
+<a href="/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md" class="doc-link doc-primary">
+Nattlig weaning, proppträning och dekanylering — protokoll för vårdavdelning
+<span class="doc-sub">NYTT 2026-09-22 | 27 ref — kriterier för att avsluta nattlig ventilation, hoststyrka och hostmaskin, FEES, dekanyleringskriterier, OSA, uppföljning</span>
+</a>
 <a href="/doc/01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md" class="doc-link doc-primary">
 Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 <span class="doc-sub">57 ref — klassifikation, diagnostik, behandling, prognos, rehabilitering</span>
@@ -215,7 +228,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1828 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 24 forskningsdokument — fullständig lista</summary>
+<summary>Alla 25 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -236,7 +249,8 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [Autoimmuna tillstånd](/doc/04-related-autoimmune/GBS-IgAD-Autoimmune-Conditions-Research.md) | Överlappande sjukdomar, HLA, molekylär mimikry |
 | [PE-svikt: beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Definition, biomarkörer under sedering, NfL |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
-| [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation |
+| [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
+| [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 27 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
 | [ADEM-GBS Overlap, MR-differentialdiagnostik](/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md) | CCPD, PRES, BBE-spektrum, 33 MR-bilder |
@@ -247,4 +261,4 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 ---
 
-*Sammanställd mars 2026. Baserad på ~810 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, RCT, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars–september 2026. Baserad på ~835 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, RCT, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*

@@ -6,7 +6,7 @@ status: active
 
 # Kliniskt Case: Svår recidiverande GBS med IgA-brist
 
-**Utskrivbart sammanfattningsdokument — 2026-03-25**
+**Utskrivbart sammanfattningsdokument — uppdaterat 2026-09-22 (dag 185)**
 
 ---
 
@@ -17,7 +17,7 @@ status: active
 | | |
 |---|---|
 | **Namn** | Madeleine |
-| **Alder** | 52 ar |
+| **Alder** | 53 ar |
 | **Längd** | 153–154 cm (PBW 46 kg) |
 | **Kanda diagnoser** | Recidiverande GBS (forsta episod vid 16 ars alder, ~36 ar sedan) |
 | | Selektiv IgA-brist |
@@ -89,24 +89,25 @@ status: active
 | 2026-04-11 (17:40) | Temp **38,2**. SpO2 **95%** (↑ från 94). |
 | ~2026-04-13–17 | **Anti-IgA: POSITIV** (klass ej specificerad, troligen IgG). Marcus (neurolog) bedömer att IVIg inte bör ges dag 28+ — risk finns, liten chans till stor skillnad så sent. Temp **37,7–38** de senaste dagarna. **Infektion utläkt** (bekräftat av IVA-läkare Mattias). |
 | 2026-04-18 | **Dag 29 — Sederingsstopp (~65–70 min).** BT 115–120 → 125–130 → 135–142 (efter sondvätska) → 110/58 vid nedsövning. Puls stabil ~110–115. **Motorik: haka/tunga rörde sig vid 3–4 tillfällen** — svag repetitiv upp-och-ner-rörelse, 2–3 ggr/tillfälle. Först spontant, sedan vid tilltal och beröring (pannan). Sjuksköterska bevittnade tillfälle 2 (möjligen 3). Inga tecken på ögonöppning. BT fluktuerade vid samtal/beröring. **Separat (kväll):** Annan sjuksköterska kände hakrörelse vid tandborstning. Närstående (Helene) såg tydliga hakrörelser + möjlig försiktig huvudskakning. Tre oberoende observatörer samma dag. |
+| 2026-04-18 → 2026-09 | **Dag 30–180 — Gradvis återhämtning (detaljer ej dokumenterade i databasen; Markus prioriterade kommunikation med Madeleine).** Kommunikation återupprättad stegvis: ja/nej-signaler → bokstavering (Markus pekar, Madeleine signalerar rätt bokstav) → **talventil hela dagarna** (egen röst). Sväljfunktion åter: oralt intag på timbalkost. Respirator trappad ned till **endast nattetid**. |
+| ~2026-08-10 | **Dag ~140 — Flytt från IVA till neurologisk vårdavdelning (SU).** Respirator endast nattetid sedan ~6 veckor. |
+| 2026-09-16 (ons) | **Dag 179 — Trakealkanyl bytt 7 → 6 mm** (förberedande steg inför proppträning/dekanylering). |
+| ~2026-09-18 → | **Dag ~181 → Nätter utan respirator:** sover med fuktnäsa (HME) på kanylen. Respirator endast **~1 h på morgonen** ("vädra ut CO₂"); blodgas tagen *före* passet rapporteras fin. SpO₂ 96–99 % hela dygnet. |
+| 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande** (fall 7,6 % — talar emot diafragmasvaghet). Hostmaskin (MI-E) 2–4 ggr/dygn; egen hosta finns men ej full styrka. Äter 4 mål timbalkost/dag + dricker. Dekanylering ej diskuterad ännu. |
 
-### Nuvarande status (2026-04-18, dag 29)
+### Nuvarande status (2026-09-22, dag 185)
 
-- **Respirator:** Ja, beroende.
-- **Trakeostomi:** Genomförd 2026-03-25 ~kl 12 (dag 24 post-trakeostomi)
-- **Diagnos (2026-04-02):** **GBS–MFS–BBE överlappssyndrom.** Anti-GQ1b positiv (höga titrar). MR bekräftar BBE-komponenten. LP: albuminocytologisk dissociation. Klinisk bild: total kranialnervsutslagning (MFS), vitsubstanslesioner (BBE), ascending paralysi (GBS). Daniel: **prognos god, tar tid.**
-- **Medvetande:** **Oklart.** Under sederingsstopp dag 29 observerades svag hak-/tungrörelse vid 3–4 tillfällen (bevittnat av sjuksköterska). Separat: annan sjuksköterska kände hakrörelse vid tandborstning samma kväll, och närstående (Helene) såg tydliga hakrörelser + möjlig försiktig huvudskakning — tre oberoende observatörer dag 29. Bedöms av närstående som möjligt medvetna rörelser. Strukturerat medvetandeprotokoll ej utfört. Inga ögonöppningar.
-- **Neurologisk bedömning:** **Fortsatt total förlamning** — ingen grovmotorisk aktivitet. Möjlig svag haka/tunga-motorik (se ovan). Blygsam pupillförbättring (7/4). Passiv cykling (maskin) pågår.
-- **Autonom dysfunktion:** Dysautonomi kvarstår. Under sederingsstopp dag 29: BT 115→135–142→110/58. Puls stabil ~110–115.
-- **Infektion — UTLÄKT (bekräftat av IVA-läkare Mattias 18/4).** Tidigare polymikrobiell bakteriemi: S. aureus (trach) + enterokock (blod). Behandlad med vankomycin + pip/tazo. Eko utan endokardit. **CRP-kurva:** 36 (4/4) → 108 → 165 → **186 (7/4, topp)** → ~85 → 36 → 31 → 55 (11/4) → okänt (18/4, infektion utläkt).
-- **Temp:** 37,7–38°C de senaste dagarna (stabil låggradig).
-- **Anti-IgA:** **POSITIV** (bekräftad ~13–17/4, klass ej specificerad, troligen IgG). Marcus (neurolog) bedömer att IVIg inte bör ges dag 28+ — risk finns, liten chans till stor skillnad så sent.
-- **Behandling given:** Alla 5 PE-sessioner slutförda. **Solu-Medrol 3/3 doser given** (2026-03-31 till 2026-04-02), preventivt mot ADEM/BBE.
-- **LP (2026-03-30):** **Förhöjt albumin, normalt celltal** — albuminocytologisk dissociation. Stärker GBS-diagnosen.
-- **Lab:** fT3: normalt (2026-03-27). TSH mycket lågt, fT4 10-12 pmol/L (2026-03-26). **Anti-GQ1b: POSITIV, höga titrar (2026-04-02).** **Anti-IgA: POSITIV (~13–17/4).** CRP: 55 (11/4, senast kända). SR 186 (7/4). **Blododling (6/4): S. aureus + enterokock** — infektion numera utläkt.
-- **Bilddiagnostik:** MR hjärna (2026-03-28): mycket små prickar. **MR hjärna + ryggmärg (2026-04-01):** bekräftar BBE-komponenten. Lungröntgen/ekokardiografi: normalt hjärta (2026-03-27). **Ekokardiografi (~8-10/4): ej endokardit.** **Bronkoskopi (4/4):** inget anmärkningsvärt.
-- **NCS/EMG:** Ännu ej utförd.
-- **Plan:** GBS–MFS–BBE overlap bekräftad. Infektion utläkt. Anti-IgA positiv → IVIg bedöms ej aktuell. Kvarstår: NCS/EMG behövs, strukturerade sederingsstopp med medvetandeprotokoll bör upprepas (haka/tunga-motorik observerad), fortsatt passiv mobilisering.
+- **Vårdnivå:** Neurologisk vårdavdelning, SU (sedan ~6 veckor). IVA-fasen avslutad.
+- **Andning:** Egen andning hela dygnet sedan ~3–4 nätter. Sover med fuktnäsa (HME) på kanylen. Respirator **endast ~1 h/morgon**; blodgas tagen *före* passet rapporteras fin. SpO₂ 96–99 % dygnet runt utan syrgas. Dessförinnan respirator endast nattetid i ~6 veckor.
+- **Lungfunktion (2026-09-21):** FVC **1,31 L sittande / 1,21 L liggande** (postural fall 7,6 %; >25 % skulle indikera diafragmasvaghet). Vid ~54 kg ≈ 24 mL/kg (dekanyleringströskel >20 mL/kg). ≈ 47–52 % av förväntat för kvinna 53 år/153 cm. MIP/MEP, hoststyrka (PCF) och nattlig CO₂ **ej uppmätta** (såvitt känt).
+- **Hosta/sekret:** Egen hosta men ej full styrka. Hostmaskin (MI-E) 2–4 ggr/dygn. Sugfrekvens via kanyl okänd.
+- **Trakeostomi:** Kanyl nedbytt 7 → 6 mm 2026-09-16. **Talventil hela dagarna.** Kuffstatus nattetid ej känt. Proppträning ej påbörjad. Dekanylering ej diskuterad.
+- **Kommunikation:** **Talar med egen röst** via talventil. Vägen dit: ja/nej → bokstavering → talventil.
+- **Sväljning:** Oralt intag, **4 mål timbalkost/dag + dryck.** FEES-status okänd.
+- **Motorik:** Detaljerad motorisk status (MRC, extremiteter) ej rapporterad till databasen — uppdateras.
+- **Sömnapné:** Känd lindrig, lägesberoende OSA före insjuknandet. Ingen CPAP. Bettskena föreslagen men ej tolererad; specialkudde. **Relevant för nattlig proppträning och tiden efter dekanylering** (kanylen förbigår svalget — OSA:n "återkommer" när luftvägen går via näsa/mun igen).
+- **Tidsläge mot litteraturen:** Median tid till dekanylering vid långtidsventilerad GBS = **193 dagar** (Cheng 2021, n=29). Madeleine är på dag 185 med huvudkriterierna för dekanylering uppfyllda eller nära — hoststyrkan är den kvarstående frågan.
+- **Plan (såvitt känt):** Fortsatt nedtrappning. Ingen uttalad dekanyleringsplan.
 
 ### Positiva tecken — kronologisk sammanställning
 
@@ -116,6 +117,12 @@ status: active
 | 16 | 2026-04-05 | Tolererade passiv cykling 1,56 km / 30 min |
 | 18 | 2026-04-07 | Pupillreaktion marginellt bättre än föregående undersökning |
 | 29 | 2026-04-18 | **Första voluntära motoriken:** haka/tunga-rörelser under sederingsstopp (3–4 tillfällen). Sjuksköterska bevittnade. Separat: annan sjuksköterska kände hakrörelse vid tandborstning. Helene (närstående) såg tydliga hakrörelser + möjlig huvudskakning. **Tre oberoende observatörer samma dag.** |
+| 30–140 | apr–aug 2026 | **Kommunikation återupprättad stegvis:** ja/nej-signaler → bokstavering → talventil. Sväljfunktion åter (oralt intag). *(Exakta datum ej dokumenterade.)* |
+| ~140 | ~2026-08-10 | **Flytt IVA → neurologisk vårdavdelning.** Respirator endast nattetid. |
+| ~140–180 | aug–sep 2026 | **Talventil hela dagarna — egen röst.** 4 mål timbalkost/dag. |
+| 179 | 2026-09-16 | Kanyl nedbytt 7 → 6 mm. |
+| ~181 | ~2026-09-18 | **Första nätterna utan respirator** (HME på kanylen). Endast ~1 h respirator/morgon. |
+| 184 | 2026-09-21 | **FVC 1,31 L / 1,21 L liggande** — posturalt fall 7,6 % (normalt <10 %, diafragmasvaghet >25 %). Dekanyleringströskeln (>20 mL/kg) passerad. |
 
 > **Klinisk betydelse:** Haka = CN V (trigeminus), tunga = CN XII (hypoglossus), huvudskakning = cervikal muskulatur. Dessa är de första tecknen på motorisk aktivitet sedan insjuknandet. Kranialnervsmotorik kan vara ett tidigt tecken på remyelinisering i GBS–MFS–BBE.
 
@@ -243,17 +250,44 @@ Viktuppgang 56→~61 kg (+8,9%) overstiger den kritiska 5%-troskeln (Chittawatan
 
 → [Fullstandig evidensgenomgang: Vatskestyrning vid GBS](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md)
 
-#### Respiratoravvanjning
+#### Respiratoravvanjning — historik (IVA-fasen)
 
-**21. Weaningplan och tidslinje**
-Storsta multicenter-studien (Thille 2025, n=513 GBS, 47 IVA): 64% prolonged weaning (>=7 dagar), 57% trakeostomi, median MV 25 dagar (IQR 13-51). Mortalitet 9.4%. Weaning readiness-kriterier:
-- FVC >22 mL/kg och NIF >-50 cmH2O (Nguyen 2006)
-- Effektiv hosta (starkaste prediktorn — 61% reintubation utan)
-- Bulbar funktion (svaljteknik)
-**Fraga:** Nar planeras forsta formella weaningbedomning (SBT)? Planeras FVC/NIF-monitorering?
+**21. Weaningplan och tidslinje** *(besvarad av förloppet — respirator endast ~1 h/dygn vid dag 185)*
+Thille 2025 (n=513 GBS): 64% prolonged weaning, 57% trakeostomi, median MV 25 dagar. Cheng 2021 (n=29 långtidsventilerade): median tid till dekanylering **193 dagar**.
 
-**22. Somnapne och weaning**
-Madeleines obstruktiva somnapne ar relevant for weaningplaneringen — CPAP/BiPAP kan behovas som brygga efter decannulation. Bor beaktas i avvanjningsprotokoll.
+**22. Somnapne och weaning** *(aktuell igen — se fråga 24 nedan)*
+
+---
+
+### Till neurologavdelningen (2026-09-22, dag 185)
+
+*Fullständig evidensgenomgång: [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md). Frågorna nedan är formulerade som underlag för samtal, inte som krav.*
+
+#### Nattlig andning och morgonpasset
+
+**23. Vad ska vara uppfyllt för att morgonpasset (~1 h respirator) ska tas bort?**
+Om blodgasen *före* passet är normal finns inget att "vädra ut" — passet fungerar då som säkerhetsmarginal/vila. Litteraturen saknar studier på *när* nattlig ventilation ska avslutas; praxis är att invertera startkriterierna (ERS 2013, CHEST 2023): normal morgongas ×3, ingen nattlig desaturation (<88 % ≥5 min), ingen nattlig hyperkapni. **Fråga:** Finns ett definierat kriterium, och kan en nattlig transkutan CO₂-registrering (PtcCO₂) göras för att bekräfta att natten klaras utan REM-relaterad hypoventilation? En enstaka morgongas fångar inte episoder mitt i natten (Ogna 2016; Orlikowski 2017).
+
+**24. Sömnapné — finns den med i weaningplanen?**
+Trakeostomin förbigår svalget: så länge kanylen är öppen finns ingen OSA. Vid *proppträning nattetid* och *efter dekanylering* är luftvägen åter via näsa/mun och OSA:n återkommer i sin tidigare form. Desaturationer de första proppade nätterna kan då vara OSA (cyklisk, normal CO₂) — inte andningsmuskelsvaghet (ihållande, stigande CO₂). De behandlas olika (CPAP vs bilevel). **Fråga:** Är avdelningen medveten om OSA-diagnosen? Bör kontinuerlig oximetri (± PtcCO₂) planeras för de första nätterna med propp, och finns beredskap för sömnutredning/CPAP efter dekanylering?
+
+#### Hosta och sekret
+
+**25. Hoststyrka — kan den mätas?**
+Bach 1996 (n=49 neuromuskulära): **PCF >160 L/min** var den *enda* variabeln som predikterade lyckad dekanylering. Chatwin 2018 (ENMC): <270 L/min = risk att svikta vid luftvägsinfektion. Med talventil: >100 L/min använt som gräns (Ge 2024, 1,9 % svikt). MI-E 2–4 ggr/dygn utgör *inte* hinder för dekanylering — i Bachs paradigm är hostmaskinen tvärtom det som möjliggör den, förutsatt att den kan ges via mask efteråt. **Fråga:** Kan PCF mätas (utan hjälp via mask med kanylen proppad, samt MI-E-assisterat)? Är planen att hostmaskinen följer med efter dekanylering, och är personal/anhöriga tränade i maskleverans?
+
+#### Sväljning
+
+**26. FEES före dekanylering?**
+Vid neurologisk dysfagi är nedsatt *laryngeal sensibilitet* (CN IX/X) — inte motoriken — den vanligaste orsaken till tyst aspiration, och den huvudsakliga orsaken till fördröjd dekanylering (Warnecke 2013, n=100). Det standardiserade FEES-protokollet SESETD (sekrethantering, spontan sväljfrekvens, laryngeal sensibilitet) friade nästan dubbelt så många för dekanylering som klinisk sväljbedömning, med 1,9 % svikt. Timbalkost ×4/dag visar funktionell sväljning men utesluter inte tyst aspiration av tunnflytande. **Fråga:** Har FEES gjorts sedan talventilen infördes? Planeras SESETD eller motsvarande inför dekanylering?
+
+#### Dekanylering
+
+**27. Finns en dekanyleringsplan, och vilka kriterier används?**
+Kanylbytet till 6 mm 16/9 är det klassiska förberedande steget. Konsoliderade kriterier (Ceriana 2003, Singh 2017, Dziewas 2025 "A2BC"): ≥24 h egen andning inkl. natt, propp tolererad 24–48 h på kufflös/nedbytt kanyl, PCF >160 (eller MI-E-assisterat adekvat), sug ≤2/dygn, FEES godkänd, vaken och samarbetande, infektionsfri. Madeleine uppfyller eller är nära de flesta; det som saknas är *mätningar* (PCF, nattlig CO₂, FEES), inte funktion. NEJM 2020 (n=330) visade att 24-timmars proppträning inte är ett validerat säkerhetsfilter — dess värde är att avslöja övre luftvägshinder. **Fråga:** Vilka kriterier tillämpar avdelningen? Är kanylen kufflös? När planeras proppträning, och behövs laryngo-trakeoskopi efter 6 månader med kanyl (granulation/stenos) — t.ex. i samband med nästa kanylbyte?
+
+**28. Uppföljning efter dekanylering**
+Cheng 2021: 14 % av dekanylerade GBS-patienter behövde långvarig nattlig NIV. CHEST 2023: lungfunktion (spirometri, MIP/MEP, PCF) minst var 6:e månad så länge risk kvarstår. IgA-brist → låg tröskel för tidig antibiotika vid luftvägsinfektion; PCF 160–270-gruppen sviktar just vid infektion. **Fråga:** Vem följer lungfunktionen efter utskrivning — lungklinik, neurolog, hemventilationsteam? Finns Madeleine i Andningssviktregistret (Swedevox)?
 
 ---
 
@@ -318,7 +352,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-21 forskningsdokument | ~810 peer-reviewed kallor | 390 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
+25 forskningsdokument | ~835 peer-reviewed kallor | 406 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 

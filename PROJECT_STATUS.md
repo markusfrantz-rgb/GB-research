@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-04-11
+> Senast uppdaterad: 2026-09-22
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (22 st, ~810+ referenser)
+### Forskningsdokument (25 st, ~835 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -33,6 +33,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 | 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
 | 21 | `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` | **Infektionshantering vid prolongerad IVA-vård: empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm (pip/tazo→meropenem), PCT-styrning (PRORATA/SAPS), hepatotoxicitet-alternativ, IgA-brist-övervakning, svenska riktlinjer (Strama/SILF), beslutsalgoritm vid positiv blododling, ~35 ref** | Komplett |
+| 23 | `07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md` | **Sen weaningfas på vårdavdelning: REM-hypoventilation, PtcCO₂-kriterier för att avsluta nattlig ventilation, VC sittande/liggande (Fromageot), PCF 160/270 (Bach/Chatwin), MI-E, talventil (Sutt/Freeman-Sanderson), proppträning vs sugfrekvens (NEJM 2020), FEES/SESETD (Warnecke), A2BC (Dziewas 2025), OSA efter dekanylering (Camacho), uppföljning (CHEST 2023), beslutsalgoritm, indexfallstabell, 27 ref** | Komplett |
 | 22 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
 
 ### Utskrivbart kliniskt dokument
@@ -45,7 +46,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1809 chunks (23 docs + 306 fulltexts) |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1848 chunks (24 docs + 306 fulltexts) |
 | Fulltext-källor | Live | 406 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
@@ -60,13 +61,13 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | | |
 |---|---|
-| **Ålder** | 52 år |
+| **Ålder** | 53 år |
 | **Diagnoser** | Recidiverande GBS (1:a episod vid 16, ~36 år sedan), selektiv IgA-brist, Hashimotos tyreoidit, obstruktiv sömnapné, ospecificerad födoämnesallergi, pollenallergi |
 | **Autoimmunt kluster** | GBS + IgA-brist + Hashimotos — MAS typ 3 (HLA-B8/DR3/DQ2) |
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-04-07)
+### Aktuellt förlopp (2026-03-21 → 2026-09-22)
 
 | Datum | Händelse |
 |-------|---------|
@@ -117,6 +118,12 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-04-11 (fm) | **Dag 22:** Temp 37°C (öronmätning — kontinuerlig probe borttagen). Puls 111-113, BT 154/64 (dysautonomin svängt tillbaka till hypertension). Labetalol 40 µg/kg/h. CRP 55 (studs upp från 31, men kraftigt under topp 186). **Vikt 53,6 kg** (under baseline 56 — ned ~7 kg från topp ~61). **Nya läkemedel:** Albumin 20% (200mg/ml 50ml/h) — stödja oncotiskt tryck/cirkulation. Fosfat-infusion 34ml/h (trolig hypofosfatemi). Inget noradrenalin. |
 | 2026-04-11 (15:45) | **Dag 22 em:** Temp **38,0** (ny probe insatt!). Puls **121** (↑). BT **164/70**. **SpO2 94%** (normalt 97-99 — drop). Labetalol 20→25→30 µg/kg/h (justeras uppåt). Propofol 2 mg/kg/h (↑ från 1,8). Remifentanil 0,18 µg/kg/min (↑). KCl 5 mmol/h. **VANKOMYCIN insatt** (10mg/ml). **RESISTENSBESKED:** (1) **S. aureus** — runt trakeostomin (trolig källa), (2) **Enterokock** — i blodet (translokation från tarm). Ekokardiografi gjord senaste dagarna: **inga tecken på endokardit.** Pip/tazo + vankomycin = täcker båda. MSSA/MRSA oklart (vankomycin-valet kan tyda på MRSA eller empiriskt i väntan på full resistens). |
 | 2026-04-11 (17:40) | Temp **38,2**. SpO2 **95%** (↑ från 94). |
+| ~2026-04-13–18 | Anti-IgA POSITIV. Infektion utläkt. **Dag 29 sederingsstopp:** haka/tunga-motorik, tre oberoende observatörer. |
+| 2026-04-18 → 2026-09 | **Dag 30–180 — Gradvis återhämtning (ej dokumenterad i databasen; Markus prioriterade kommunikation med Madeleine).** Kommunikation: ja/nej → bokstavering → talventil. Sväljfunktion åter. Respirator nedtrappad till endast nattetid. |
+| ~2026-08-10 | **Dag ~140 — Flytt IVA → neurologisk vårdavdelning (SU).** Respirator endast nattetid (~6 veckor). |
+| 2026-09-16 | **Dag 179 — Kanyl nedbytt 7 → 6 mm.** |
+| ~2026-09-18 → | **Dag ~181 → Nätter utan respirator** (HME på kanylen). Respirator ~1 h/morgon ("vädra ut CO₂"); blodgas före passet normal. SpO₂ 96–99 % dygnet runt. |
+| 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande** (fall 7,6 %). Hostmaskin 2–4/dygn, egen hosta ej full styrka. 4 mål timbalkost/dag + dryck. Dekanylering ej diskuterad. Känd lindrig OSA (ingen CPAP, bettskena ej tolererad, specialkudde). |
 
 ### Kommunikation
 
@@ -124,6 +131,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 **Uppdatering 2026-03-31:** Ingen kommunikation möjlig. 100% förlamning i hela kroppen — kan inte öppna något öga. Sista ögonlocksrörelsen försvann troligen mellan 25/3 kväll och 26/3 fm (innan PE4). Total förlamning etablerad innan PE4–5 genomfördes.
 **Uppdatering 2026-04-06:** Sedering pausas dagtid (remifentanil, ultrakortverkande). Ingen kontakt etablerad trots sederingspaus. Fortsatt total förlamning och medvetslöshet. Passiv cykling (maskin) pågår.
 **Uppdatering 2026-04-11:** Fortsatt total förlamning och medvetslöshet. Dysautonomin pendlar mellan hypotension (BT 94/46, dag 21) och hypertension (BT 154/64, dag 22).
+**Uppdatering 2026-09-22 (dag 185):** Kommunikation fullt återupprättad: ja/nej → bokstavering → **talventil hela dagarna, egen röst.** Oralt intag (4 mål timbalkost + dryck).
 
 ### Post-trakeostomi (2026-03-25 em)
 
@@ -293,3 +301,7 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-04-07 (~11:00) | **Dag 18:** Temp 37,5. SR **186**. Vita blodkroppar nedåt. Antibiotika ökad — resistensbesked förväntas idag. **Neurologundersökning: ingen respons, men blygsam pupillförbättring (marginellt bättre än sist).** Fortsatt total förlamning och medvetslöshet. |
 | 2026-04-06 | **Nytt forskningsdokument:** `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` — 11 sektioner, ~35 ref. Täcker empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm, PCT-styrning (PRORATA/SAPS), hepatotoxicitet, IgA-brist-övervakning, svenska Strama/SILF-riktlinjer, beslutsalgoritm vid positiv blododling. |
 | 2026-04-18 | **Sederingsstopp dag 29 (~65–70 min).** Hemodynamik: BT 115–120 → 125–130 → 135–142 (efter sondvätska) → 110/58 vid nedsövning. Puls stabil ~110–115 genomgående. **Motorik: haka/tunga rörde sig vid 3–4 separata tillfällen** — svag repetitiv upp-och-ner-rörelse, 2–3 ggr per tillfälle. Först spontant, sedan vid tilltal och beröring (strök pannan). Sjuksköterska bevittnade tillfälle 2 (möjligen 3). Markus bedömer rörelserna som medvetna. Inga tecken på ögonöppning. BT fluktuerade vid samtal/beröring. **Separat observation (kvällen):** Annan sjuksköterska rapporterade att hon kände hakrörelse hos Madeleine vid tandborstning. **Ytterligare observation:** Närstående (Helene, bästa vän) såg tydligt hakrörelser och rapporterade att Madeleine försiktigt skakade på huvudet vid ett tillfälle. Tre oberoende observatörer samma dag. |
+| 2026-09-22 | **Session 10 (efter 5 månaders uppehåll).** Klinisk uppdatering dag 185: vårdavdelning sedan ~dag 140, egen andning hela dygnet (respirator ~1 h/morgon), talventil/egen röst, oralt intag, FVC 1,31/1,21 L, kanyl 6 mm, hostmaskin 2–4/dygn. |
+| 2026-09-22 | **Nytt forskningsdokument:** `07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md` — 13 sektioner, 27 ref (PMIDs verifierade mot PubMed). Sen weaningfas för vårdavdelning: avsluta nattlig ventilation, hoststyrka/MI-E, propp, FEES, dekanylering, OSA, uppföljning, beslutsalgoritm, indexfallstabell. |
+| 2026-09-22 | Case_Madeleine: status dag 185, tidslinje, milstolpstabell utökad, **nya frågor 23–28 till neurologavdelningen** (morgonpassets kriterium, OSA i weaningplanen, PCF-mätning, FEES, dekanyleringsplan, uppföljning). Ålder 52 → 53. |
+| 2026-09-22 | KUNSKAPSBASEN: case-alert omskriven till dag 185, tidslinje, nytt dokument i IVA- och neurolog-korten + fullständig lista. 25 dokument, ~835 ref. |
