@@ -130,6 +130,8 @@ A residual short ventilator period after an otherwise unassisted night is a comm
 
 **(a) Over-ventilation → hypocapnia.** A ventilator set for a patient who *needed* support will deliver more alveolar ventilation than a patient who no longer needs it produces CO₂. The result is acute hypocapnia and respiratory alkalosis, which lowers ionised calcium and produces the classical symptom triad of **paresthesias in the hands, feet and perioral region**, light-headedness and, at higher degrees, carpopedal spasm (Laffey & Kavanagh 2002). *[Level 5 — established physiology]* In a recovering GBS patient the symptom is easily misattributed to sensory nerve regeneration, which also causes paresthesias (positive sensory symptoms persist in ~40% at 6 months). The distinction is temporal: **hypocapnic paresthesias begin during or shortly after the ventilator session and fade within ~30 minutes**; regenerative paresthesias are present independent of ventilation. A blood gas taken *during or immediately after* the session (low pCO₂, high pH) confirms the mechanism — the customary *pre*-session gas cannot detect it. If confirmed, the appropriate response is to shorten or remove the session, not to adjust settings to make over-ventilation more comfortable.
 
+The same mechanism applies to **mechanical insufflation-exsufflation**: each MI-E cycle is a large tidal breath, and consecutive cycles without pause constitute hyperventilation. Standard practice is sets of **4–6 cycles followed by a 20–30 s pause of spontaneous breathing** before the next set (Chatwin 2018), precisely to avoid hypocapnia; long uninterrupted runs — typically when secretions are difficult to clear — produce paresthesias and distress, which in turn increase respiratory drive and worsen the hypocapnia.
+
 **(b) Psychological ventilator dependence.** Fear of breathlessness after months of mechanical support is a recognised, independent cause of prolonged weaning. Jubran 2010 (prospective, 336 patients in a long-term weaning unit) found depressive disorders in 42% of patients during prolonged weaning, associated with weaning failure in 61% vs 33% and mortality 24% vs 10%. Staff reluctance to be the one who "removed support too early" operates in the same direction. *[Level 2b]* Both are legitimate — and neither can be distinguished from a true physiological need by clinical impression alone. Objective overnight measurement (Section 3) is what separates *reassurance* from *requirement*, and gives patient and staff a shared, documented basis for stopping.
 
 > **Citation:** Laffey JG, Kavanagh BP. Hypocapnia. *N Engl J Med*. 2002;347(1):43-53. PMID: 12097540
@@ -360,7 +362,7 @@ STEP 5 — DECANNULATE
 
 ## 12. WORKED EXAMPLE — APPLYING THE THRESHOLDS TO THE INDEX CASE
 
-Index case: female, 53 y, 153 cm, ~54 kg, GBS–MFS–BBE overlap with total paralysis and ventilator dependence from day 1; tracheostomy day 5; neurology ward from ~day 140; nocturnal-only ventilation ~6 weeks; last 3–4 nights HME on open tube with a single ~1 h ventilator session each morning; speaking valve all day; tube downsized 7 → 6 mm; oral intake 4 texture-modified meals/day plus fluids; MI-E 2–4×/day; SpO₂ 96–99% around the clock; reports paresthesias in hands/arms and feet/legs (temporal relation to ventilator session not yet established); known mild OSA (positional pillow, mandibular device not tolerated, no CPAP).
+Index case: female, 53 y, 153 cm, ~54 kg, GBS–MFS–BBE overlap with total paralysis and ventilator dependence from day 1; tracheostomy day 5; neurology ward from ~day 140; nocturnal-only ventilation ~6 weeks; last 3–4 nights HME on open tube with a single ~1 h ventilator session each morning; speaking valve all day; tube downsized 7 → 6 mm; oral intake 4 texture-modified meals/day plus fluids; MI-E 2–4×/day; SpO₂ 96–99% around the clock; paresthesias in hands/arms and feet/legs that begin rapidly during ventilator use and during difficult MI-E runs and resolve on spontaneous breathing; known mild OSA (positional pillow, mandibular device not tolerated, no CPAP).
 
 | Parameter | Measured (day ~185) | Threshold | Status |
 |---|---|---|---|
@@ -368,7 +370,7 @@ Index case: female, 53 y, 153 cm, ~54 kg, GBS–MFS–BBE overlap with total par
 | FVC % predicted | 1.31 / ~2.5–2.8 L (ECSC/GLI, F, 53 y, 153 cm) | — | ~47–52% predicted; trend more informative than absolute |
 | FVC supine | **1.21 L** | Fall <25% (here **7.6%**) | ✅ no diaphragm-weakness signature |
 | Morning gas (pre-ventilator) | Reported normal | pCO₂ <45 mmHg | ✅ (values not seen) |
-| Gas during/after ventilator session | **Not done** | pCO₂ not below normal | ❓ patient reports paresthesias in hands/feet — timing vs session to be clarified (§4.3a) |
+| Gas during/after ventilator session | **Not done** | pCO₂ not below normal | ⚠️ paresthesias in hands/feet **begin rapidly during ventilation and during prolonged MI-E runs, resolve when breathing spontaneously** — pattern consistent with hypocapnia (§4.3a); confirm with post-session gas |
 | SpO₂ overnight | 96–99% (spot/continuous?) | No <88% ≥5 min | ✅ if continuous; confirm recording |
 | Overnight PtcCO₂ | **Not done** | No definition met | ❓ the single most useful missing test |
 | Unassisted PCF | **Not measured** | >160 L/min | ❓ MI-E 2–4×/day implies <270, possibly <160 |
