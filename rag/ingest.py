@@ -64,7 +64,16 @@ def _embed_batch(client: genai.Client, texts: list[str], max_retries: int = 5) -
             )
             return [e.values for e in result.embeddings]
         except Exception as e:
-            if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+            msg = str(e)
+            # Depleted billing credits (402) also report RESOURCE_EXHAUSTED, but
+            # retrying cannot help — fail fast with an actionable message.
+            if "402" in msg or "credits are depleted" in msg:
+                raise RuntimeError(
+                    "Gemini API credits are depleted — embeddings unavailable. "
+                    "Top up at https://ai.studio/projects (billing). "
+                    f"Original error: {msg}"
+                ) from e
+            if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
                 wait = min(2 ** attempt * 10, 120)  # 10s, 20s, 40s, 80s, 120s
                 print(f"  Rate limited, waiting {wait}s (attempt {attempt + 1}/{max_retries})...")
                 time.sleep(wait)
