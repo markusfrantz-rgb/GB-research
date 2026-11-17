@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-09-22
+> Senast uppdaterad: 2026-11-17
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (25 st, ~835 referenser)
+### Forskningsdokument (26 st, ~848 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -33,6 +33,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 | 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
 | 21 | `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` | **Infektionshantering vid prolongerad IVA-vård: empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm (pip/tazo→meropenem), PCT-styrning (PRORATA/SAPS), hepatotoxicitet-alternativ, IgA-brist-övervakning, svenska riktlinjer (Strama/SILF), beslutsalgoritm vid positiv blododling, ~35 ref** | Komplett |
+| 24 | `06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md` | **Motorisk återinlärning i återhämtningsfasen: tre parallella processer (perifer reinnervation / kortikal re-mapping / muskuloskeletal förändring), Khan 2011 RCT (hög vs låg intensitet, 68% vs 32%), Cochrane 2010, Garssen 2004, Harvey 2017 (stretch — evidens EMOT), overwork weakness, vad som skiljer neurofysioterapi från allmän fysioterapi, implikationer för placeringsbeslut, explicit evidensgapstabell, 13 ref** | Komplett |
 | 23 | `07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md` | **Sen weaningfas på vårdavdelning: REM-hypoventilation, PtcCO₂-kriterier för att avsluta nattlig ventilation, VC sittande/liggande (Fromageot), PCF 160/270 (Bach/Chatwin), MI-E, talventil (Sutt/Freeman-Sanderson), proppträning vs sugfrekvens (NEJM 2020), FEES/SESETD (Warnecke), A2BC (Dziewas 2025), OSA efter dekanylering (Camacho), uppföljning (CHEST 2023), beslutsalgoritm, indexfallstabell, 27 ref** | Komplett |
 | 22 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
 
@@ -308,3 +309,6 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-09-22 | Parestesi-mönster bekräftat (under ventilering + lång MI-E, avtar vid egen andning) → hypokapni sannolik. MI-E-pausregel (4–6 cykler + paus) tillagd i §4.3 och fråga 23. |
 | 2026-09-22 | Morgon-CO₂ svagt stigande över senaste dygnen → nattlig autonomi vid gränsen; morgonpasset motiverat men inställningar för hårda (hypokapni). MI-E 3×2–4 inom rekommendation. Snuttefilt-hypotes nedtonad i doc + Case. |
 | 2026-09-22 | KUNSKAPSBASEN: case-alert omskriven till dag 185, tidslinje, nytt dokument i IVA- och neurolog-korten + fullständig lista. 25 dokument, ~835 ref. |
+| 2026-11-17 | **Klinisk uppdatering dag 241:** Trakeostomi borttagen, andas själv. Neurologen SU. Tränar gym med lätt vikt, fysioterapi 2×60 min/dag, äter normal kost själv med hjälpmedel, sitter i komfortrullstol 2×/dag. Höftskada från IVA-tiden (tillfällig nervblockad). Tarmdysfunktion (förstoppning/diarré, röntgen ×2) = aktiv autonom dysfunktion. Högsbo neurorehab har nekat flera remisser med olika skäl. Vårdplanering 2026-11-20. |
+| 2026-11-17 | **Nytt forskningsdokument:** `06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md` — 11 sektioner, 13 ref (PMIDs verifierade mot PubMed). Behandlar varför specialiserad neurofysioterapi skiljer sig från allmän fysioterapi under reinnervation. **Innehåller explicit evidensgapstabell** — bl.a. att Cochrane visar högkvalitativ evidens MOT att passiv stretch förebygger kontrakturer, vilket omformulerar argumentet. |
+| 2026-11-17 | Underlag inför vårdplanering: `privat/vardplanering_2026-11-20.md` (gitignorerat) — funktionsstatus, kriteriekronologi, allianstrategi, Madeleines delaktighet, alternativ (avd 134 SU ryggmärgsskador, bedömningsvecka Högsbo). |

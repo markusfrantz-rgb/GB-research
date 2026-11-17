@@ -9,8 +9,8 @@ status: active
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
 
 <div class="stats-bar">
-<span>~835 peer-reviewed referenser</span>
-<span>25 forskningsdokument</span>
+<span>~848 peer-reviewed referenser</span>
+<span>26 forskningsdokument</span>
 <span>406 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
@@ -129,6 +129,10 @@ Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 <a href="/doc/01-GBS/GBS_Comprehensive_Review.md" class="doc-link">GBS fullständig översikt</a>
 <a href="/doc/01-GBS/Recurrent_and_Severe_GBS.md" class="doc-link">Recidiverande och fulminant GBS</a>
 <a href="/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md" class="doc-link">Prognostisk monitorering — biomarkörer och skalor</a>
+<a href="/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md" class="doc-link doc-primary">
+Motorisk återinlärning och specialiserad neurofysioterapi i återhämtningsfasen
+<span class="doc-sub">NYTT 2026-11-17 | 13 ref — reinnervation vs kortikal återinlärning vs kontrakturutveckling, Khan 2011 RCT (intensitet), Cochrane om stretch, overwork weakness, vad som skiljer neurofysioterapi från allmän fysioterapi, implikationer för placeringsbeslut</span>
+</a>
 <a href="/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md" class="doc-link">ADEM-GBS overlap, MR-differentialdiagnostik, 33 MR-bilder</a>
 <a href="/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md" class="doc-link">PE-svikt: beslutsalgoritm</a>
 </div>
@@ -228,7 +232,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1828 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 25 forskningsdokument — fullständig lista</summary>
+<summary>Alla 26 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -250,6 +254,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [PE-svikt: beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Definition, biomarkörer under sedering, NfL |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
 | [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
+| [Motorisk återinlärning och neurofysioterapi i återhämtningsfasen](/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md) | 13 ref — tre parallella processer (reinnervation, kortikal re-mapping, muskuloskeletal förändring), Khan 2011 RCT 68% vs 32%, Cochrane: passiv stretch ej effektiv, overwork weakness, placeringsbeslut |
 | [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 29 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |
@@ -261,4 +266,4 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 ---
 
-*Sammanställd mars–september 2026. Baserad på ~835 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, RCT, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
+*Sammanställd mars–november 2026. Baserad på ~848 peer-reviewed referenser från PubMed, Cochrane Library och ClinicalTrials.gov. Inkluderar Cochrane-reviews, RCT, fas 2/3-data, EAN/PNS 2023-riktlinjer, IGOS-kohortdata och publicerade fallrapporter. Sammanställningen har inte genomgått formell peer review och ersätter inte klinisk bedömning. All behandling beslutas av ansvarig läkare.*
