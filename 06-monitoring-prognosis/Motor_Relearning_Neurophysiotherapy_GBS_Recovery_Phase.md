@@ -248,7 +248,7 @@ Where dependency is cited as grounds for declining admission, the clinically coh
 
 A readiness criterion that is not stated in advance, in full and in writing, cannot be worked toward. Where successive declines cite different criteria that the patient then meets, the clinically appropriate response is to request **the complete criterion set at once**, together with the planned date of re-assessment.
 
-International practice for inpatient rehabilitation admission commonly references the ability to tolerate on the order of **3 hours of therapy per day** and willingness to participate. A patient already completing ~2 hours of daily physiotherapy plus additional gym work, who requests more, is at or near that threshold — and tolerance is itself trainable.
+International practice for inpatient rehabilitation admission commonly references the ability to tolerate on the order of **3 hours of therapy per day** and willingness to participate. A patient already completing ~2 hours of daily therapy (gym work included), who requests more, is close to that threshold without having reached it — and tolerance is itself trainable, which argues for admission rather than against it.
 
 ### 9.3 Timing
 
