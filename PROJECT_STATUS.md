@@ -183,6 +183,8 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 - [x] RAG-konfiguration: alla 7 mappar indexerade
 
 ### Teknik
+- [ ] **Byt bort Gemini/Google (beslut 2026-11-18, ej brådskande).** Krediterna tog slut 17/11 → embeddings dog → siten 502. Berör `rag/config.py` (embedding_model, llm_model), `ingest.py`, `search.py`, `qa.py` + `GOOGLE_API_KEY` i Railway. Modellbyte kräver full reindexering (~1865 chunks, 768d idag). Kandidater att utvärdera: lokala embeddings (sentence-transformers, ingen API-kostnad) eller annan leverantör.
+- [x] Driftfix 2026-11-17: `start.sh` startar servern även om indexeringen misslyckas; 402 (krediter slut) skiljs från 429 (rate limit)
 - [x] Custom domän `gbs.ragbase.org`
 - [x] RAG indexerar alla 7 mappar (01-07)
 - [ ] Sökresultat: förbättra rendering av tabeller i expanderade chunks
@@ -312,3 +314,4 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-11-17 | **Klinisk uppdatering dag 241:** Trakeostomi borttagen, andas själv. Neurologen SU. Tränar gym med lätt vikt, fysioterapi 2×60 min/dag, äter normal kost själv med hjälpmedel, sitter i komfortrullstol 2×/dag. Höftskada från IVA-tiden (tillfällig nervblockad). Tarmdysfunktion (förstoppning/diarré, röntgen ×2) = aktiv autonom dysfunktion. Högsbo neurorehab har nekat flera remisser med olika skäl. Vårdplanering 2026-11-20. |
 | 2026-11-17 | **Nytt forskningsdokument:** `06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md` — 11 sektioner, 13 ref (PMIDs verifierade mot PubMed). Behandlar varför specialiserad neurofysioterapi skiljer sig från allmän fysioterapi under reinnervation. **Innehåller explicit evidensgapstabell** — bl.a. att Cochrane visar högkvalitativ evidens MOT att passiv stretch förebygger kontrakturer, vilket omformulerar argumentet. |
 | 2026-11-17 | Underlag inför vårdplanering: `privat/vardplanering_2026-11-20.md` (gitignorerat) — funktionsstatus, kriteriekronologi, allianstrategi, Madeleines delaktighet, alternativ (avd 134 SU ryggmärgsskador, bedömningsvecka Högsbo). |
+| 2026-11-18 | **Driftincident löst:** Gemini-krediterna slut → indexering misslyckades → `start.sh` avbröt före gunicorn → gbs.ragbase.org 502. Fix: servern startar oavsett indexeringsresultat; 402 retryas inte. Siten uppe. **Sök/fråga nere tills krediter fylls på — medvetet val av Markus, dokumenten via /doc/ räcker.** Beslut: byt bort Google-ekosystemet på sikt. |
