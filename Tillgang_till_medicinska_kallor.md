@@ -1,6 +1,6 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-04-06
+> Senast uppdaterad: 2026-11-18
 > Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **363** (94 PDF + 269 text) |
+| Filer i sources/fulltext/ | **367** (94 PDF + 273 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **306** |
+| Unika artiklar (efter deduplicering) | **310** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **406** |
+| **Totalt filer på disk** | **410** |
 
 ---
 
@@ -296,6 +296,10 @@
 | 199 | **Thomma 2023.** antiGM1 titers GBS | — | [text](/source/Thomma_2023_antiGM1_titers_GBS_FULLTEXT.txt) |
 | 200 | **vanTilburg 2024.** NfL dynamics IGOS | PMC10980997 | [PDF](/source/vanTilburg_2024_NfL_dynamics_IGOS_PMC10980997.pdf) <br> [text](/source/vanTilburg_2024_NfL_dynamics_IGOS_FULLTEXT.txt) |
 | 201 | **Thomma 2025.** IGOS antibody profiling | PMC12588681 | [text](/source/Thomma_2025_IGOS_Antibody_Profiling_PMC12588681.txt) |
+| 201a | **Khan 2011.** High- vs low-intensity rehabilitation GBS — RCT (n=79). Hög arm 3×1 h/v poliklinisk MD-rehab; låg arm 30 min gång+stretching 2×/v hemma. FIM-förbättring 68 % vs 32 % | PMID 21667009 | [text](/source/Khan_2011_High_vs_Low_Intensity_Rehab_GBS_RCT_PMID21667009_FULLTEXT.txt) |
+| 201b | **Khan 2010.** Multidisciplinary care for GBS — Cochrane. Inga RCT funna; 3 obs-studier "very low quality" | PMID 20927774 / PMC11621594 | [text](/source/Khan_2010_Multidisciplinary_Care_GBS_Cochrane_PMID20927774_PMC11621594.txt) |
+| 201c | **Harvey 2017.** Stretch for treatment/prevention of contractures — Cochrane (49 studier, n=2135). Högkvalitativ evidens: stretch utan kliniskt viktig effekt | PMID 28146605 / PMC6464268 | [text](/source/Harvey_2017_Stretch_Contractures_Cochrane_PMID28146605_PMC6464268.txt) |
+| 201d | **Prabhu 2013.** Passive movements for contractures — Cochrane (2 studier, n=122). Fotled: 4° skillnad (95 % KI 2–6) | PMID 24374605 / PMC11001291 | [text](/source/Prabhu_2013_Passive_Movements_Contractures_Cochrane_PMID24374605_PMC11001291.txt) |
 
 ### 05 — Behandling: IVIg, PE, CIDP
 

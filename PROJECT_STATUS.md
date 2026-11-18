@@ -48,7 +48,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
 | RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1852 chunks (25 docs + 306 fulltexts) |
-| Fulltext-källor | Live | 406 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
+| Fulltext-källor | Live | 410 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -315,3 +315,5 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-11-17 | **Nytt forskningsdokument:** `06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md` — 11 sektioner, 13 ref (PMIDs verifierade mot PubMed). Behandlar varför specialiserad neurofysioterapi skiljer sig från allmän fysioterapi under reinnervation. **Innehåller explicit evidensgapstabell** — bl.a. att Cochrane visar högkvalitativ evidens MOT att passiv stretch förebygger kontrakturer, vilket omformulerar argumentet. |
 | 2026-11-17 | Underlag inför vårdplanering: `privat/vardplanering_2026-11-20.md` (gitignorerat) — funktionsstatus, kriteriekronologi, allianstrategi, Madeleines delaktighet, alternativ (avd 134 SU ryggmärgsskador, bedömningsvecka Högsbo). |
 | 2026-11-18 | **Driftincident löst:** Gemini-krediterna slut → indexering misslyckades → `start.sh` avbröt före gunicorn → gbs.ragbase.org 502. Fix: servern startar oavsett indexeringsresultat; 402 retryas inte. Siten uppe. **Sök/fråga nere tills krediter fylls på — medvetet val av Markus, dokumenten via /doc/ räcker.** Beslut: byt bort Google-ekosystemet på sikt. |
+| 2026-11-18 | **4 nya fulltexter hämtade och verifierade mot dokumentet:** Khan 2011 RCT (J Rehabil Med, fulltext), Khan 2010 Cochrane, Harvey 2017 Cochrane (stretch), Prabhu 2013 Cochrane (passiva rörelser). Registrerade i Tillgångsfilen (310 artiklar, 410 filer). |
+| 2026-11-18 | **KORRIGERING av Khan 2011 i forskningsdokumentet.** Fulltexten visar att "hög intensitet" var **3 × 1 h/vecka polikliniskt** och kontrollarmen **30 min gång+stretching 2×/v hemma** — inte slutenvård vs öppenvård. Dokumentet hävdade tidigare dosresonemanget utan dessa tal, vilket kunde läsas som stöd för att eskalera över 3 h/v. Nu korrigerat: studien stöder INTE upptrappning över ~3 h/v, men är direkt evidens MOT nedtrappning till underhållsmodell (kontrollarmen = kommunal underhållsrehab, halva funktionsförbättringen). Evidensgapstabellen uppdaterad. |

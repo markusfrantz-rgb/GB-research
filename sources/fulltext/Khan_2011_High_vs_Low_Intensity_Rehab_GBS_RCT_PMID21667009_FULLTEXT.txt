@@ -1,0 +1,913 @@
+﻿
+
+Journal of Rehabilitation Medicine - Outcomes of high- and low-intensity rehabilitation programme for persons in chronic phase after Guillain-Barré syndrome: A randomized controlled trial - HTML 
+
+Content » Vol 43, Issue 7 
+
+Original report
+
+Tweet 
+
+Abstract 
+PDF 
+
+Outcomes of high- and low-intensity rehabilitation programme for persons in chronic phase after Guillain-Barré syndrome: A randomized controlled trial
+
+Fary Khan, MBBS, MD, FAFRM (RACP) 1,2 , Julie F. Pallant, PhD 3 , Bhasker Amatya, MD, MPH 2 , Louisa Ng, MBBS, FAFRM (RACP) 1 , Alexandra Gorelik, BA 4 and Caroline Brand, MBBS, BA, MPH, FRACP 1 
+From the 1 Department of Medicine, Dentistry & Health Sciences, University of Melbourne, 2 Department of Rehabilitation Medicine, Royal Melbourne Hospital, Parkville, Melbourne, 3 Rural Health Academic Centre, University of Melbourne and 4 Clinical Epidemiology & Health Service Evaluation Unit, Royal Melbourne Hospital, Parkville, Australia
+
+OBJECTIVE: To assess the effectiveness of a high- vs low-intensity multidisciplinary ambulatory rehabilitation programme over 12 months for persons in the chronic phase after Guillain-Barré syndrome (pwGBS) in an Australian community cohort.
+Method: A total of 79 pwGBS, recruited from a tertiary hospital, were randomized to a treatment group ( n = 40) for an individualized high-intensity programme, or a control group ( n = 39) for a lower intensity programme. The primary outcome the Functional Independence Measure (FIM) motor subscale assessed “activity limitation”; while secondary measures for “participation” included: World Health Organization Quality of Life; Depression, Anxiety Stress Scale; and Perceived Impact Problem Profile (PIPP) scales. All outcome measures were assessed at baseline and at 12 months. 
+RESULTS: Intention to treat analysis of data from 69 participants (treatment n = 35, control n = 34) showed reduced disability in the treatment group in post-treatment FIM domains (mobility, transfers, sphincter control and locomotion; all p < 0.005) and PIPP scores (relationships; p = 0.011), with moderate-to-small effect sizes ( r = 0.36–0.23). The treatment group compared with control group showed significant improvement in function (FIM scores): 68% vs 32%. 
+CONCLUSION: Higher intensity rehabilitation compared with less intense intervention reduces disability in pwGBS in later stages of recovery. Further information on rehabilitation modalities and impact on quality of life is needed.
+Key words: Guillain-Barré syndrome; disability; rehabilitation; outcome assessment; Functional Independence Measure.
+J Rehabil Med 2011; 43: 638–646
+Correspondence address: Fary Khan, Department of Medicine, Dentistry and Health Sciences, The University of Melbourne, Royal Melbourne Hospital, Poplar Road, Parkville, Melbourne VIC-3052, Australia. E-mail: fary.khan@mh.org.au
+Submitted February 9, 2011; accepted April 14, 2011
+INTRODUCTION
+Guillain-Barré syndrome (GBS), an immune-based illness, presents as evolving acute polyneuritis, usually with motor deficits (symmetrical ascending paralysis), autonomic dysfunction and respiratory failure (1, 2). The worldwide annual incidence of GBS is 1–2 per 100,000 population (3, 4). Although the overall mortality associated with GBS is low, and the outcome (influenced by disease subtype) generally favourable (the majority of patients are ambulant within 6 months of symptom onset), 25% of patients may require artificial ventilation and 10–20% may have residual permanent severe disability (deficits in ambulation or require ventilator assistance 12 months later) (5). The ongoing impact of GBS on activities of daily living, work, social activities and health-related quality of life (HRQoL) can be considerable (6). Although the incidence of GBS increases with age (more common in older persons), it can occur at a relatively young age (30–50 years), and be a significant cause of new long-term disability for many persons in the community. 
+Despite major advances in acute GBS care (7–9), the focus has been on improving survival and decreasing acute recovery time rather than on long-term benefits on disability and societal participation. A recent systematic review of the effectiveness of multidisciplinary (MD) care in GBS identified no randomized or clinical controlled studies (RCTs/CCTs) in this population, and highlighted gaps in scientific evidence (10). These include difficulty with study design and rigour, outcome measurement; and lack of agreement amongst treating MD clinicians concerning domains for treatment in persons with GBS (pwGBS). A recent study (11) identified problems relating to mobility, major life areas and interpersonal relationships as prioritized by pwGBS ( n = 77) (mean time since diagnosis 6 years), linked with the categories of the International Classification of Functioning, Disability and Health (ICF) framework (12). In addition, an expert consensus meeting identified the ICF Core Set for GBS (13). Core Sets are lists of categories in relevant ICF domains, which should be addressed in MD settings for quality care (13). This information has the potential for targeted intervention to manage these persons, and facilitate communication and awareness amongst treating clinicians.
+Persons with GBS report significant longer-term psychological sequelae with moderate-to-extreme impact on their ability to participate in work, family and social activities; and greater depression and anxiety compared with a normative population (11, 14). Despite this, clinical care for pwGBS remains fragmented. Collaborative research and development of GBS models of care are needed to provide a comprehensive continuum of care with improved treatment outcomes and QoL (5). Robust and long-term studies that address functional outcomes and care needs in pwGBS are lacking. There is a need for evidence to support and justify rehabilitation treatment for pwGBS. The aim of the current study was to conduct a RCT over 12 months with blinded care providers and outcome assessors to compare the effectiveness of high- and low-intensity MD ambulatory rehabilitation in pwGBS in later stages of recovery in an Australian community cohort. The effectiveness of rehabilitation in GBS is expected primarily in domains of “activity” (Functional Independence Measure; FIM), and secondly in “participation” (QoL).
+METHODS 
+Participants and setting
+This study was part of a rehabilitation research programme for pwGBS at the Royal Melbourne Hospital (RMH), a tertiary referral centre in Victoria, Australia. The study was approved by the hospital research committee. The RMH GBS programme provides integrated neurorehabilitation for inpatient and ambulatory care, 3–5 days per week for up to 12 weeks. The aim is to reduce patient symptoms (muscle weakness, pain), improve activity (ability to transfer, ambulate, everyday living activities), and participation (family, work, societal reintegration).
+Participant recruitment has been described previously (11, 14). A RMH audit, based on patient record ascertainment through use of the administrative hospital database (Hospital Information Systems, Department of Health) identified 157 consecutive patients admitted to RMH for acute care between 1996 and 2008, with the World Health Organization International Classification of Diseases (ICD) code (G61.0) for GBS as primary diagnosis (first admission only). The source of these participants was a pool of persons residing in the community, referred to the RMH from public and private medical clinics across Greater Melbourne. All participants were aged > 18 years, were assessed by a neurologist, and fulfilled standard diagnostic criteria for GBS, as defined by the National Institute of Neurologic Disorders and Stroke clinical criteria (15). 
+Study inclusion criteria included “definite” GBS, stable medical course, ability to participate in therapy and clinical judgement of the admitting rehabilitation physician regarding potential benefits of the MD programme to the individual. Those who received previous rehabilitation at RMH or at another facility within the previous 24 months were excluded. 
+Procedure
+Randomization. The 122 eligible pwGBS were invited by post to participate in the project (LN). Those who returned signed consent forms ( n = 79) were recruited for the study (disease duration between 1 and 12 years). The treatment group ( n = 40) received an individualized intensive outpatient centre-based rehabilitation programme, while the control group ( n = 39) received a lower intensity home-based programme. Computer-generated block randomization was used with stratification by time since diagnosis (early ≤ 4 years, late > 4 years) to allow equal distribution in each group. The patient randomization and assignment (AG) was conducted by the clinical epidemiology department. Opaque, sealed envelopes prevented selection bias. Fig. 1 shows the flowchart of participant allocation, follow-up and analyses.
+Assessment interviews. All baseline participant interviews and clinical assessments were completed in hospital clinics (or participants’ homes) in a 6-week period, using a structured format, by 4 independent assessors. These assessors (3 physicians, 1 research officer) were trained in cognitive and functional ability assessments; and were not in contact with the acute neurology or the rehabilitation treating teams. They did not share information about participants or assessments, and received separate and different clinical record forms at each interview. They completed demographic, functional assessments and health-related QoL measures using standardized instruments (see measures) for all participants. These assessment interviews took approximately 1 hour. The assessors did not prompt participants, but provided assistance for those who had difficulty completing the questionnaires. 
+The control group was assessed at recruitment and at 12 months’ follow-up. They were also monitored in the community as usual by their treating general practitioners and neurologists. The treatment group was evaluated at 12 months after completion of their rehabilitation programme. The assessors did not have access to previous assessments, treatment schedules or treating rehabilitation therapy team documentation. Participants were instructed to make no comments on whatever treatment they received in the time interval between examinations and only to report any concurrent illness or hospitalization. All assessments were secured and filed, and opened only at the time of entry into the database by an independent data entry officer. 
+Treatment schedules. Participants in the treatment group received an individualized higher intensity outpatient rehabilitation programme (for up to 12 weeks) over the study period. An assessment of each participant’s potential to benefit from this high-intensity programme (within available resources; see below) was based on clinical features, individual need and accessibility to services, and made by a treating therapy team at the rehabilitation campus, RMH. The treating therapy teams were not aware of participant allocation in the trial. They assessed these participants along with the usual referrals from the community referred by general practitioners, health centres and other hospitals for a range of disabilities. 
+The intensive rehabilitation included treatment beyond symptomatic management of GBS, and education to improve “activity” and “participation” within the limits of disease. The elements included individualized, achievable, time-based, functional goal-oriented MD treatment with active patient participation. The treatment programme included up to 3 1-h sessions of interrupted therapy/week, involving all relevant disciplines based on participant need and team consensus. This comprised half-hour blocks of therapy sessions (occupational, social, psychology, speech and physiotherapist) 2–3 times per week for up to 12 weeks. The methods used, for example, included physiotherapy for strengthening, endurance and gait training; occupational therapy to improve everyday function (domestic, community tasks), driving and return to work; and clinical psychology for counselling and support as required. An a priori compliance with outpatient treatment was participant attendance in > 80% of treatment sessions.
+The control group received a less intensive home-based programme of maintenance exercises and education for self-management with a 30-min physical programme (walking, stretching) twice weekly and usual activity at home. Those in the control group who needed more intensive rehabilitation were offered treatment. 
+Rehabilitation assessments for the treatment group were completed within 1 week of admission to the programme. Participant progress and goal-setting were assessed in structured bi-weekly meetings. The control group received bi-monthly telephone calls to note activity levels, and to obtain information about interim medical and hospital visits. Adverse effects of rehabilitation were noted (e.g. falls, injury during treatment). 
+Measurement
+GBS-related measures. Information obtained from medical records included: socio-demographic, clinical and treatment data; hospital stay, duration of ventilation and intensive care unit stay.
+Measures for activity. The FIM (16) motor scale contains 13 items assessing function (activity) and need for assistance in 4 subscales: Self-care, Transfers, Locomotion and Sphincter control. Each item was rated on a scale of 1–7 (1 = total assistance, 7 = independent). The score reflects burden of care in each area measured. 
+Measures for participation. The World Health Organization Quality of Life (WHOQoL-BREF) (17) is a valid and reliable tool with 26 items for domains assessing Physical health, Psychological health, Social relationships and Environment and QoL and Health. All items are rated on a 5-point scale with higher scores indicating higher QoL.
+The Depression Anxiety Stress Scale-21 (DASS) (18) has 3 7-item self-report subscales to measure the negative emotional states of depression, anxiety and stress. Participants rate the extent to which they experienced each state over the past week on a 4-point Likert rating scale. 
+The Perceived Impact of Problem Profile (PIPP) (19) contains 23 items that assess impact associated with a health condition across 5 domains (Mobility, Self-care, Relationships, Participation, Psychological Well-being). For each item, respondents rate “how much impact has your current health problems had on [item of function or activity].” The 6-point scale is anchored by “no impact” and “extreme impact”, with high scores indicating greater impact. 
+Statistical analysis
+A sample of 22 participants in each group was needed for an 80% chance to detect a 3-point difference (minimally clinically important difference; MCID) in FIM motor from baseline to 12 months in intervention vs control group (two-sided a = 0.05).
+Mann–Whitney U tests were used to compare FIM motor, DASS, WHOQoL, and PIPP change scores (baseline minus post-treatment) for the control and treatment groups. Effect size statistics ( r ) were calculated (20). Cohen’s criteria (21) evaluated effect size (0.1 = small, 0.3 = medium, 0.5 = large effect). Categorical data was analysed using Fisher’s exact test. Additional analyses were conducted comparing change scores on all measures. The χ 2 statistic compared the percentages of cases in the control and intervention groups who improved (increase in ≥ 1 point), remained the same or deteriorated (decrease of ≥ 1 points). A p -value of < 0.05 was considered statistically significant.
+A “complete case” approach was used throughout the study with only those participants who provided information at both time-points included in each of the analyses. Analyses were undertaken on an intention to treat (ITT) basis. FIM-Splats (see Fig. 2) were used graphically to display change across individual FIM items. A number of participants in the control group ( n = 9, 26.5%) required treatment. In addition to ITT, additional “treatment-based” analyses were conducted. 
+RESULTS 
+The total sample of 79 participants was randomized to treatment ( n = 40) and control groups ( n = 39). Five participants in each group were lost to follow-up. Of these, 4 in each group were unable to be contacted (due to moving interstate or overseas or changed address). One patient in the treatment group died, and one person in the control group was unable to participate due to unrelated co-morbidities. At 12 months a final sample of 69 pwGBS was available for analysis (treatment n = 35, control n = 34) (Fig. 1). There was no significant difference between participants lost to follow-up and those who provided post-treatment results in terms of gender, age, GBS duration, hospital stay and median scores for measures used. 
+Of the 35 persons in the treatment group, 22 completed the rehabilitation programme (8 declined, and 5 were unable to participate due to various reasons relating to work or home duties). Nine participants randomized to the control group required more intensive treatment during the course of the study as a result of intercurrent illness, de-conditioning, and/or participatory issues (work, driving, family). 
+Fig. 1. Recruitment process.
+
+Baseline characteristics
+Participant characteristics and comparison of baseline scores in both groups for all variables are summarized in Table I. Patient subtypes based on electrophysiological studies during acute hospitalization episode confirmed demyelinating (54%) and axonal neuropathy (4%), while the remaining participants had mixed patterns. The two groups were well matched, with no significant differences between groups for gender, age, admission to intensive care unit and median total scores on measures used. However, the control group reported more bladder (urgency, hesitancy) and bowel (constipation) problems compared with the treatment group (25.6% vs 7.5% for bladder, and 23.1% vs 7.5% for bowel). The control group had slightly longer disease duration compared with the treatment group (median 6.5 years, range 3.5–10.2 years vs 5.3 years, range 2–9.6 years), but this was not statistically significant. Participants in both groups had high median values on the FIM motor subscales, indicating good levels of functional independence. The mean duration of the rehabilitation programme was 28 days (range 21–84 days), which was similar for both groups. No adverse events were reported in either group.
+Table I. Baseline characteristics of intervention and control groups, and treatment-based groups (those who receive high-intensity or low-intensity treatment) 
+
+Characteristics
+Intervention group
+n = 40
+Control group
+n = 39
+Received high-intensity treatment
+n = 31 a 
+Received low-intensity treatment 
+n = 38 a 
+
+Female, n (%)
+16 (40.0)
+15 (38.5)
+13 (41.9)
+13 (34.2)
+
+Age, years, mean (SD)
+54.9 (17.1)
+55.7 (19.4)
+56.8 (15.1)
+52.0 (20.1)
+
+Discharge destination, n (%)
+
+Community
+18 (45.0)
+17 (43.6)
+10 (32.3)
+23 (60.5)
+
+Rehabilitation
+19 (47.5)
+17 (43.6)
+17 (54.8)
+11 (28.9)
+
+Acute care
+3 (7.5)
+5 (12.8)
+4 (12.9)
+4 (10.5)
+
+Year since diagnosis
+
+Median (IQR)
+5.3 (2, 9.6)
+6.5 (3.5, 10.2)
+4.4 (1, 7.5)
+8.8 (3.2, 11.6)*
+
+> 4 years, n (%)
+25 (62.5)
+23 (57.5)
+17 (42.5)
+24 (60.0)
+
+Acute LOS, days, median (IQR)
+11 (7, 17)
+9 (6, 16)
+11 (7, 17)
+9 (6, 11)
+
+ICU admission, n (%)
+8 (20.0)
+7 (17.9)
+7 (22.6)
+5 (13.2)
+
+ICU LOS, days, median (IQR)
+5.5 (3.5, 12)
+3 (2, 12)
+3 (2, 12)
+6 (3, 7)
+
+Signs and symptoms, n (%)
+
+Pain 
+25 (62.5)
+23 (59.0)
+21 (67.7)
+20 (52.6)
+
+Facial weakness
+15 (37.5)
+10 (25.6)
+9 (29.0)
+13 (34.2)
+
+Dysarthia
+9 (22.5)
+6 (15.4)
+8 (25.8)
+7 (18.4)
+
+Dysphagia
+8 (20.0)
+4 (10.3)
+6 (19.4)
+6 (15.8)
+
+Ophthalmoplegia
+5 (12.5)
+6 (15.4)
+4 (12.9)
+7 (18.4)
+
+Bladder problem
+3 (7.5)
+10 (25.6)*
+4 (12.9)
+8 (21.1)
+
+Bowel problem
+3 (7.5)
+9 (23.1)
+4 (12.9)
+5 (13.2)
+
+Autonomic dysfunction 
+4 (10.0)
+4 (10.3)
+3 (9.7)
+3 (7.9)
+
+Treatment, n (%)
+
+Plasma exchange
+8 (20.0)
+10 (25.6)
+7 (22.6)
+9 (23.7)
+
+Immunoglobulin
+32 (80.0)
+30 (76.9)
+28 (90.3)
+27 (71.1)
+
+Steroids
+0
+2 (5.1)
+1 (3.2)
+1 (2.6)
+
+FIM, median (IQR)
+
+Total
+86 (78, 90)
+82 (78, 86)
+78 (75, 86)
+84.5 (81, 89)
+
+Self-care
+41 (36, 42)
+38 (36, 40)
+36 (34, 42)
+39.5 (37, 42)
+
+Sphincter
+14 (12, 14)
+13 (12, 13)
+12 (12, 14)
+13 (12, 14)
+
+Mobility
+20 (18, 21)
+18 (18, 20)
+18 (18, 20)
+20 (18, 21)
+
+Locomotion
+12 (11.5, 14)
+12 (12, 12)
+12 (10, 12)
+12 (12, 13)
+
+DASS, median (IQR)
+
+Depression
+4 (0, 10)
+2 (0, 10)
+4 (0, 12)
+2 (0, 6)
+
+Anxiety
+4 (0, 9)
+2 (0, 6)
+6 (0, 12)
+2 (0, 6)
+
+Stress
+5 (1, 17)
+6 (2, 12)
+6 (2, 18)
+4 (0, 12)
+
+PIPP, median (IQR)
+
+Psychological
+1.7 (1, 3.1)
+1.2 (1, 2.6)
+2.6 (1.4, 3.6)
+1 (1, 2)
+
+Self-care
+1 (1, 1.25)
+1 (1, 1)
+1 (1, 1.25)
+1 (1, 1)
+
+Mobility
+1.2 (1, 2.2)
+1 (1, 1.8)
+1.4 (1, 3)
+1 (1, 1.4)
+
+Participation
+2 (1, 2.7)
+1 (1, 2.8)
+2.6 (1, 3.8)
+1 (1, 2)
+
+Relationship
+1 (1, 1)
+1 (1, 1.25)
+1 (1, 1.5)
+1 (1, 1)
+
+WHOQoL-BREF, median (IQR)
+
+Overall QoL
+4 (3, 5)
+5 (4, 5)
+4 (3, 4)
+5 (4, 5)
+
+Overall health
+4 (2.5, 4)
+4 (3, 5)
+3 (2, 4)
+4 (4, 5)
+
+Physical
+68 (50, 82)
+75 (61, 93)
+61 (46, 71)
+79 (68, 96)
+
+Psychological
+75 (58, 92)
+75 (58, 88)
+67 (58, 79)
+81 (71, 92)
+
+Social relationship
+75 (67, 92)
+75 (67, 92)
+75 (58, 83)
+79 (67, 100)
+
+Environment
+76.5 (69, 89.5)
+81 (69, 94)
+75 (66, 88)
+81 (69, 94)
+
+a These figures are based on the 12-month follow-up data. Out of 69 participants who completed the study, 22 from the intervention group and an additional 9 from the control group completed the rehabilitation programme. *Denotes p -value < 0.05 indicating differences at baseline between the groups. 
+SD: standard deviation; IQR: interquartile range; ICU: intensive care unit; LOS: length of stay; FIM: Functional Independent Measure; DASS: Depression Anxiety Stress Scale; PIPP: Perceived Impact of Problem Profile; WHOQoL-BREF: World Health Organization Quality of Life Scale; QoL: quality of life.
+
+Outcome measurements change scores
+Comparison of randomized groups (treatment and control). Compared with controls, the treatment group showed improvement in FIM total scores ( p < 0.003) (Table II). The individual FIM motor subscales showed significant differences between both groups for mobility/transfers ( p = 0.002), locomotion ( p = 0.005) and sphincter control ( p = 0.003), with moderate-to-small ( r ≥ 0.2 and < 0.5) effect sizes (21). Except for the PIPP “relationship” subscale ( p = 0.011), no significant differences between groups were observed for scales assessing participation restriction. 
+Table II. Summary of “intention to treat” analysis of outcomes of rehabilitation programme 
+
+Scale
+Intervention ( n = 35)
+Control ( n = 34)
+Mann–Whitney U test 
+
+n 
+Median
+IQR
+n 
+Median
+IQR
+Z
+p -value
+ES
+
+FIM
+
+Total 
+35
+4
+(0, 7)
+34
+0
+(–3, 5)
+2.974
+0.003
+0.36
+
+Self-care
+35
+0
+(0, 3)
+34
+0
+(–2, 2)
+1.915
+0.056
+0.23
+
+Sphincter
+35
+0
+(0, 1)
+34
+0
+(–1, 0)
+2.999
+0.003
+0.36
+
+Mobility
+35
+1
+(0, 3)
+34
+0
+(0, 0)
+3.161
+0.002
+0.38
+
+Locomotion
+35
+0
+(0, 2)
+34
+0
+(0, 0)
+2.79
+0.005
+0.34
+
+DASS
+
+Total
+35
+0
+(–2, 4)
+34
+0
+(–4, 2)
+0.277
+0.782
+0.03
+
+Depression
+35
+0
+(–8, 4)
+34
+–1
+(–6, 4)
+0.098
+0.922
+0.01
+
+Anxiety
+35
+0
+(–4, 2)
+34
+0
+(–2, 2)
+0.183
+0.855
+0.02
+
+Stress
+35
+0
+(–4, 4)
+34
+0
+(–4, 2)
+0.467
+0.640
+0.06
+
+PIPP
+
+Total
+35
+0
+(–5, 6)
+34
+0
+(–6, 2)
+0.83
+0.407
+0.10
+
+Psychological
+35
+0
+(–0.4, 0.4)
+34
+0
+(–0.2, 0.2)
+0.647
+0.518
+0.08
+
+Self-care
+35
+0
+(0, 0)
+34
+0
+(0, 0)
+1.08
+0.28
+0.13
+
+Mobility
+35
+0
+(–0.4, 0)
+34
+0
+(–0.2, 0)
+–1.042
+0.297
+0.13
+
+Participation
+35
+0
+(–0.2, 0)
+34
+0
+(–0.4, 0)
+0.318
+0.75
+0.04
+
+Relationship
+35
+0
+(0, 0.5)
+34
+0
+(0, 0)
+2.559
+0.011
+0.31
+
+WHOQoL-BREF
+
+Total
+35
+–1
+(–6, 2)
+34
+1
+(–2, 5)
+–1.160
+0.246
+0.14
+
+Overall QoL
+35
+0
+(–1, 0)
+34
+0
+(0, 0)
+–1.085
+0.278
+0.13
+
+Overall health
+35
+0
+(–1, 0)
+34
+0
+(0, 0)
+–1.490
+0.136
+0.18
+
+Physical
+35
+0
+(–7, 7)
+34
+0
+(–10, 7)
+0.562
+0.574
+0.07
+
+Psychological
+35
+–4
+(–13, 0)
+34
+0
+(–8, 5)
+–1.425
+0.154
+0.17
+
+Social relationship
+35
+–8
+(–9, 8)
+34
+0
+(0, 9)
+–1.622
+0.105
+0.20
+
+Environment
+35
+0
+(–9, 9)
+34
+0
+(–3, 6)
+–0.145
+0.885
+0.02
+
+IQR: interquartile range; ES: effect size; FIM: Functional Independent Measure; DASS: Depression Anxiety Stress Scale; PIPP: Perceived Impact of Problem Profile; WHOQoL-BREF: World Health Organization Quality of Life Scale; QoL: quality of life.
+
+Over the study period, more participants in the treatment group improved compared with controls (68.6%, 24/35 vs 32.4%, 11/34). More participants in the control group reported deterioration in function compared with the treatment group (41.2% vs 2.9%); this difference was statistically significant ( p < 0.001). 
+Eighty percent of the treatment group achieved a 3-point improvement in total FIM motor scores compared with 8% in the control group ( p < 0.001). The treatment group improved in domains for self-care (54.8%) and mobility (41.9%) compared with 5.3% and 2.6%, respectively, in the control group (both p < 0.001). The FIM-Splats display a modest, but clinically relevant, improvement in the treatment group at 12 months in their ability to transfer/walk and bowel (constipation) compared with the control group (Fig. 2).
+
+Fig. 2. Functional Independence Measure (FIM)-Splats ((a) treatment and (b) control groups). The FIM-Splat provides the disability profile in a radar chart. The 13 items are arranged as “spokes of the wheel” and the levels from 1 (total dependence) to 7 (total independence) run from the centre outwards. A perfect score therefore would be demonstrated as a large circle. The group median scores for each item are plotted for admission and discharge. The shaded area outlines change from admission to discharge (courtesy: Professor L. Turner-Stokes). 
+
+Comparison of groups based on treatment status (received high-intensity treatment vs low-intensity treatment). Nine participants in the control group required more intensive rehabilitation (de-conditioning, work issues requiring occupational therapy input). There were no baseline differences between these participants, compared with those remaining in the control group. The only significant baseline difference between these participants and those remaining in the control group was that they had a shorter time period since diagnosis ( p = 0.011).
+Significant differences, associated with large effect sizes ( r < 0.5) (21) in the change scores between the treated (high-intensity rehabilitation) ( n = 31) and low-intensity rehabilitation treatment ( n = 38) groups were detected for the FIM total and each motor subscales ( p < 0.001 for all) (Table III). There was no significant change in scores for DASS and WHOQoL subscales, except for the PIPP “relationship” subscale ( p = 0.028). Fig. 3 shows the FIM-Splats for participants who received intensive rehabilitation compared with those who did not. 
+Table III. Summary of analysis of outcomes of rehabilitation programme according to treatment status 
+
+Scale
+Received high-intensity treatment 
+( n = 31) a 
+Received low-intensity treatment
+( n = 38) a 
+Mann–Whitney U test 
+
+n 
+Median
+IQR
+n 
+Median
+IQR
+Z
+p -value
+ES
+
+FIM
+
+Total
+31
+7
+(4, 11)
+38
+0
+(–2, 0)
+–5.875
+< 0.001
+0.71
+
+Self-care
+31
+3
+(0, 6)
+38
+0
+(–2, 0)
+–4.912
+< 0.001
+0.59
+
+Sphincter
+31
+1
+(0, 2)
+38
+0
+(–1, 0)
+–4.382
+< 0.001
+0.53
+
+Mobility
+31
+2
+(0, 3)
+38
+0
+(0, 0)
+–5.311
+< 0.001
+0.64
+
+Locomotion
+31
+1
+(0, 2)
+38
+0
+(0, 0)
+–3.762
+0.001
+0.45
+
+DASS
+
+Total
+31
+–2
+(–18, 2)
+38
+0
+(–2, 6)
+1.787
+0.074
+0.22
+
+Depression
+31
+0
+(–8, 4)
+38
+0
+(–2, 2)
+1.09
+0.276
+0.13
+
+Anxiety
+31
+–2
+(–4, 0)
+38
+0
+(–2, 4)
+1.665
+0.096
+0.20
+
+Stress
+31
+–2
+(–8, 0)
+38
+0
+(–2, 4)
+2.203
+0.028
+0.27
+
+PIPP
+
+Total
+31
+0
+(–6, 7)
+38
+0
+(–4, 0)
+–0.512
+0.609
+0.06
+
+Psychological
+31
+0
+(–0.6, 0.4)
+38
+0
+(–0.2, 0.2)
+–0.15
+0.878
+0.02
+
+Self-care
+31
+0
+(0, 0)
+38
+0
+(0, 0)
+–0.082
+0.935
+0.01
+
+Mobility
+31
+–0.2
+(–0.4, 0)
+38
+0
+(0, 0)
+1.732
+0.083
+0.21
+
+Participation
+31
+0
+(–0.4, 0.4)
+38
+0
+(0, 0)
+–0.219
+0.826
+0.03
+
+Relationship
+31
+0
+(0, 0.5)
+38
+0
+(0, 0)
+–1.653
+0.098
+0.20
+
+WHOQoL–BREF
+
+Total
+31
+–1
+(–6, 5)
+38
+–0.5
+(–4, 3)
+0.223
+0.823
+0.03
+
+Overall QoL
+31
+0
+(–1, 1)
+38
+0
+(0, 0)
+–0.256
+0.798
+0.03
+
+Overall health
+31
+0
+(–1, 1)
+38
+0
+(–1, 0)
+–0.668
+0.504
+0.08
+
+Physical
+31
+0
+(–10, 7)
+38
+0
+(–7, 4)
+–0.455
+0.649
+0.05
+
+Psychological
+31
+–4
+(–12, 0)
+38
+–4
+(–8, 4)
+0.328
+0.743
+0.04
+
+Social relationship
+31
+0
+(–8, 8)
+38
+0
+(–8, 8)
+0.578
+0.563
+0.07
+
+Environment
+31
+0
+(–9, 7)
+38
+0
+(–6, 7)
+0.72
+0.471
+0.09
+
+a These figures are based on the 12-month follow-up data. Out of 69 participants who completed the study, 22 from the intervention group and additional 9 from the control group completed the rehabilitation programme. 
+IQR: interquartile range; ES: effect size; FIM: Functional Independent Measure; DASS: Depression, Anxiety Stress Scale: PIPP: Perceived Impact of Problem Profile; WHOQo-BREFL: World Health Organization Quality of Life Scale; QoL: quality of life.
+
+Fig. 3. Functional Independence Measure (FIM)-Splats ((a)received high-intensity rehabilitation treatment and (b) did not receive high-intensity rehabilitation treatment groups). The FIM-Splat provides the disability profile in a radar chart. The 13 items are arranged as “spokes of the wheel” and the levels from 1 (total dependence) to 7 (total independence) run from the centre outwards. A perfect score therefore would be demonstrated as a large circle. The group median scores for each item are plotted for admission and discharge. The shaded area outlines change from admission to discharge (courtesy: Professor L. Turner-Stokes). 
+
+DISCUSSION 
+This is the first RCT to evaluate the effectiveness of MD ambulatory rehabilitation in pwGBS after the initial post-acute phase. This study supports a modest benefit for reduced motor disability (mobility, self-care, continence programme), and positive impact on “ relationships ” for an individualized MD high-intensity ambulatory rehabilitation programme compared with a lesser intensity programme at 12 months. Tables II and III suggest that high-intensity rehabilitation programmes are effective using both the “per protocol” and “treatment-based” analyses. Although effect sizes were modest, the improvements are of clinical relevance. The rehabilitation programme offered standard treatment, consistent with current management guidelines for GBS (1, 7, 22) and other reports (2, 23). Despite no substantial expectation of recovery at 2–3 years after GBS, many pwGBS reported some functional improvement after therapy (15, 24). This finding, in addition to the “cross-over” of 9 control participants with a shorter disease duration in our study, raises the possibility that there is a two-phase need for rehabilitation therapy; firstly, in the early stages of recovery to reduce the burden of disability; and, secondly, in later stages to support “reconditioning” to improve function and participation. 
+Those with GBS duration of <12 months were excluded, as this study was designed for patients in the post-acute phase who had long-term symptoms. GBS survivors in the earlier phase often require intensive rehabilitation, which would not have allowed them to be randomized to a lower intensity programme for ethical reasons. Furthermore, their stronger response to high-intensity rehabilitation (and natural recovery), would have made it difficult to isolate the benefits from rehabilitation intervention alone. Those in the study with disease duration of 1–2 years received acute hospital treatment and were discharged to the community under the care of their treating doctors; they did not receive coordinated MD rehabilitative care. 
+Although continence issues are not commonly reported by pwGBS, those in the control group reported more problems with bladder (urgency, hesitancy) and bowel (constipation) compared with the intervention group. The reason for this is not entirely clear. Constipation was reported in those with “more” sedentary lifestyles. There were more men in the study and many were older. The presence of concurrent prostatism and/or other co-morbidities that may have contributed was beyond the scope of this study. At RMH, a study is currently underway to evaluate bladder impairments in pwGBS.
+A previous report (14) outlined the longer-term negative impact of GBS on mood (anxiety, depression) compared with a normative population, and adverse impact on QoL. In this study some improvement in the PIPP relationship domain occurred at 12 months follow-up, indicating a reduction in the impact on personal relationships. This is not surprising, as many factors influence QoL, and a limitation in activity alone plays a minor role in health-related QoL variance (25, 26). However, these findings have implications for clinical practice for longer-term education, counselling and support for pwGBS, and require further research. 
+This trial highlights the challenges of conducting RCTs in neurorehabilitation settings (10, 27). Although RCTs provide high-level evidence, they are less well suited to studying “complex” interventions such as rehabilitation. The pwGBS can present with diverse presentations and varied level of disability for rehabilitation requiring an individualized approach despite the MRC framework for complex interventions (28). Other methodological issues include: heterogeneous GBS populations and contexts, multi-layered treatments, interdependent components, individual interventions and ethical considerations (14). 
+Outcome measurement is challenging in rehabilitation research. Generic measures may not include domains relevant for pwGBS and may not be sensitive to change in functional capacity. Instruments such as the FIM do not reflect how the person adapts or copes with the challenges associated with a longer-term disabling condition. The FIM-Splats (Figs 2 and 3) show modest improvement in the post-treatment group in walking and transfer domains. Improved patient function reduces the associated burden of care, and this has important cost-benefits; for example, a one-point change on the total FIM scale equates to a reduction of approximately 5 minutes in care received per day (16). 
+What constitutes a MCID using standard outcomes measures is unclear. We considered a change of 3 points in the motor FIM score as the MCID. A patient can be considered as “improved” when one anchor-based value (patient scoring) and one distribution based method cut-off value have been reached (25, 29). One report compared outcome scales (FIM, Barthel Index) and showed the effect size of rehabilitation at group level comparisons, using responsiveness standard test methods (30). However, Rasch analyses of the same data demonstrated significant difference in responsiveness at the individual person level. Rasch analyses convert ordinal data to interval estimates, which allow improved measurement. This technique is recommended for future rehabilitation trials.
+The floor and ceiling effects of FIM are well documented, and this was confirmed in our study. During the study period the treatment group showed a ceiling effect (median FIM scores between 6 and 7), while the control group deteriorated slightly (from score 7 to 6). (FIM score 7 = independent in a functional task, while 6 = dependent using aids/adaptive equipment, or needing more time to complete task/activity).
+The current study was conducted in a “real world” public hospital setting and had its challenges. The pwGBS were in “chronic phase”, clinically stable, and difficult to recruit. In the control group 9 patients required more intensive rehabilitation due to functional de-compensation following inter-current illness, other unrelated co-morbidities; and workplace difficulties requiring more occupational therapy. It would have been unethical to withhold treatment. Participants were aware of the possible wait time (4–8 weeks) for rehabilitation, as it was beyond the resources of the hospital to provide therapy for this many patients simultaneously. We acknowledge that this may have created bias, as those in the control group reported greater difficulty in workplace, bladder/bowel during the study period. This was, however, unavoidable given the available resources. More research is needed to understand these issues. Rehabilitation is an expensive intervention. Emphasis should be on triaging and prioritizing pwGBS for targeted rehabilitation input, maintaining function over time, monitoring for “wear and tear”, ageing with disabilities, and for neuropsychological sequelae. Longer-term follow-up for pwGBS in the community is recommended (14). 
+Comparison of these results is difficult due to limited trials in GBS rehabilitation. Larger sample sizes in different settings are needed to confirm the generalizability of these findings. There is the potential for recruitment bias. The issues of design and “real life” challenges in MD clinical setting are mentioned above. The patient attrition rate was consistent with other studies in neurorehabilitation (27). There was no statistical difference in any of the study variables between pwGBS who completed post-treatment assessment and those who were lost to follow-up. 
+To reduce potential bias the treating therapists and assessors were blinded. The assessors were independent of the rehabilitation or acute hospital team. The time interval between the two assessments (12 months) was adequate to reduce the likelihood of spontaneous recovery or short-term gains following the rehabilitation programme. Whilst a comprehensive approach to outcome measurement was undertaken, we may have missed other important outcomes, such as impact on carers and families. Analysis of costs associated with care was beyond the scope of this study. The impact of other rehabilitation modalities and interventions is unknown.
+Future studies in GBS rehabilitation are required to quantify components comprising rehabilitation intervention. The specific rehabilitation treatments and their comparisons in the outpatient groups need further investigation. The concept of MCID should be considered to interpret clinical trials in neurorehabilitation. Future studies should consider the use of Rasch analyses to improve the reliability of measuring change in outcome measures.
+ACKNOWLEDGEMENTS
+We thank all GBS participants in the study. We are grateful to Drs Nina Zhang, Marina Demetrious, Geoff Abbott, and Ms Loren Oscari for patient assessments. We thank the staff of the Clinical Epidemiology and Health Service Evaluation Unit for their statistical advice and patient randomization and Ms Kathie Vezzoso for concealed allocation. We are grateful to Professor Lynne Turner-Stokes for providing the FIM-Splats for this study.
+REFERENCES
+
+Comments
+
+Do you want to comment on this paper? The comments will show up here and if appropriate the comments will also separately be forwarded to the authors. You need to login/create an account to comment on articles. Click here to login/create an account .
+
+Licenses
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . 
+
+Journal of Rehabilitation Medicine
+S:T Johannesgatan 22A
+SE-753 12 Uppsala, Sweden
+
+Copyright © Journal of Rehabilitation Medicine. All rights reserved. | Privacy Policy

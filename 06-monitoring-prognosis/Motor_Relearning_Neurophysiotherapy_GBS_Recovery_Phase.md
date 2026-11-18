@@ -87,6 +87,20 @@ This section is deliberately explicit about the limits of the evidence base. Reh
 
 A randomised controlled trial of **79 patients** in the chronic phase after GBS, comparing a high-intensity individualised multidisciplinary ambulatory rehabilitation programme (n=40) against a lower-intensity programme (n=39), over **12 months**. *[Level 1b — RCT]*
 
+**The actual intensities matter and are frequently misquoted.** Verified against the full text:
+
+| Arm | What was delivered |
+|---|---|
+| **"High intensity"** (n=40) | Up to **3 × 1-hour sessions per week**, outpatient, for up to 12 weeks. Half-hour blocks across disciplines (physiotherapy, occupational therapy, psychology, speech, social work) 2–3 times weekly. Goal-oriented, individualised, bi-weekly goal review. Compliance threshold >80 % attendance. |
+| **"Low intensity"** (n=39) | Home-based maintenance programme: **30 minutes of physical activity (walking, stretching) twice weekly** plus self-management education and bi-monthly telephone calls. |
+
+So the comparison is **~3 hours/week of multidisciplinary outpatient therapy versus ~1 hour/week of home exercise** — not inpatient versus outpatient, and not high-dose versus moderate-dose.
+
+**Two implications follow, and they run in opposite directions:**
+
+1. **This trial does not support escalating therapy above ~3 h/week.** A patient already receiving daily inpatient physiotherapy receives several times the "high-intensity" arm. Citing this trial as evidence that such a patient needs *more* misrepresents it.
+2. **It is direct evidence against de-escalation to a maintenance model.** The control arm — twice-weekly walking and stretching at home with telephone follow-up — is essentially the service model of community or municipal maintenance rehabilitation. That arm achieved **half the rate of functional improvement**. Where a placement decision would move a patient from daily multidisciplinary therapy toward a maintenance programme, this trial describes the expected consequence.
+
 | Outcome | Result |
 |---|---|
 | **Improvement in FIM (function)** | **68 % (treatment) vs 32 % (control)** |
@@ -96,7 +110,7 @@ A randomised controlled trial of **79 patients** in the chronic phase after GBS,
 
 **Conclusion of the authors:** higher-intensity rehabilitation reduces disability in people with GBS *in later stages of recovery* compared with less intense intervention.
 
-This is the single most directly relevant trial in the literature, and it supports the proposition that **the dose of rehabilitation changes the outcome** — not merely the presence of rehabilitation.
+This is the single most directly relevant trial in the literature, and it supports the proposition that **the dose and content of rehabilitation change the outcome** — not merely the presence of rehabilitation. Note also that the inferior arm's content was *walking and stretching*, consistent with the contracture evidence in Section 5: maintenance-style passive and generic exercise is the weaker model on two independent lines of evidence.
 
 > **Citation:** Khan F, Pallant JF, Amatya B, Ng L, Gorelik A, Brand C. Outcomes of high- and low-intensity rehabilitation programme for persons in chronic phase after Guillain-Barré syndrome: a randomized controlled trial. *J Rehabil Med*. 2011;43(7):638-646. PMID: 21667009
 
@@ -248,7 +262,8 @@ Stated plainly, because a clinical argument built on overstated evidence collaps
 
 | Claim | Strength | Caveat |
 |---|---|---|
-| Higher-intensity multidisciplinary rehabilitation improves function in GBS | **Moderate** | One RCT (n=79), chronic phase, ambulatory setting; effect sizes small-to-moderate |
+| ~3 h/week multidisciplinary outpatient rehabilitation outperforms ~1 h/week home maintenance exercise in chronic-phase GBS | **Moderate** | One RCT (n=79); effect sizes small-to-moderate; **does not address inpatient or higher doses** |
+| Daily inpatient therapy outperforms ~3 h/week outpatient therapy | **Not studied** | No trial compares these; inference only |
 | Exercise reduces fatigue in GBS | **Low–moderate** | Case series, n=20, selected for severe fatigue and good recovery |
 | Passive stretch prevents contractures | **Evidence against** | Cochrane: high-quality evidence of no clinically important effect |
 | Active movement and functional use preserve range | **Low** | Inferred; little direct trial evidence in this population |

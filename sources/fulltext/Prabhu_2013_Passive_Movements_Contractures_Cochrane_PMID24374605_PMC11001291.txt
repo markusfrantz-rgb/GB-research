@@ -1,0 +1,137 @@
+Cochrane Database Syst Rev
+Cochrane Database Syst Rev
+3102
+cochrev
+100909747
+14651858
+The Cochrane Database of Systematic Reviews
+1469-493X
+1361-6137
+John Wiley and Sons, Inc. and the Cochrane Library
+PMC11001291
+PMC11001291.1
+11001291
+11001291
+24374605
+10.1002/14651858.CD009331.pub2
+CD009331.pub2
+CD009331
+1
+Neurology
+Orthopaedics & trauma
+Spinal cord injury
+Generic Neuromuscular Symptoms
+Passive movements for the treatment and prevention of contractures
+Prabhu
+Rama KR
+physioram2002@yahoo.co.in
+Swaminathan
+Narasimman
+Harvey
+Lisa A
+Cochrane Injuries Group
+Father Muller Medical College
+Department of Physiotherapy
+Kankanady
+Mangalore
+Karnataka
+India
+575002
+The University of Sydney
+Rehabilitation Studies Unit, Sydney Medical School/Northern
+PO Box 6
+Ryde
+NSW
+Australia
+1680
+28
+12
+2013
+12
+2013
+3
+1
+2014
+2013
+12
+332754
+CD009331
+28
+12
+2014
+08
+04
+2024
+01
+03
+2026
+Copyright © 2014 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+10.1002/14651858.CD009331
+Abstract
+Background
+Contractures, a common complication following immobility, lead to restricted joint range of motion. Passive movements (PMs) are widely used for the treatment and prevention of contractures; however, it is not clear whether they are effective.
+Objectives
+The aim of this review was to determine the effects of PMs on persons with contractures or at risk of developing contractures. Specifically, the aim was to determine whether PMs increase joint mobility.
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid SP), EMBASE (Ovid SP), ISI Web of Science (SCI‐EXPANDED; SSCI; CPCI‐S; CPCI‐SSH), PEDro and PsycINFO (Ovid SP). The search was run on 21 November 2013.
+Selection criteria
+Randomised controlled trials of PMs administered for the treatment or prevention of contractures were included. Studies were included if they compared the effectiveness of PMs versus no intervention, sham intervention or placebo in people with or at risk of contracture. Studies that involved other co‐interventions were included, provided the co‐interventions were administered in the same way to all groups. Interventions administered through mechanical devices and interventions that involved sustained stretch were excluded.
+Data collection and analysis
+Three independent review authors screened studies for inclusion. Two review authors then extracted data and assessed risk of bias. Primary outcomes were joint mobility and occurrence of adverse events such as joint subluxations or dislocations, heterotopic ossification, autonomic dysreflexia and fractures or muscle tears. Secondary outcomes were quality of life, pain, spasticity, activity limitations and participation restrictions. We used standard methodological procedures as advocated by the 
+Cochrane Handbook for Systematic Reviews of Interventions
+.
+Main results
+Two identified studies randomly assigned a total of 122 participants with neurological conditions comparing PMs versus no PMs. Data from 121 participants were available for analysis. Both studies had a low risk of bias. One within‐participant study involving 20 participants (40 limbs) measured ankle joint mobility and reported a mean between‐group difference of four degrees (95% confidence interval (CI), two to six degrees) favouring the experimental group. Both studies measured spasticity with the Modified Ashworth Scale, but the results were not pooled because of clinical heterogeneity. Neither study reported a clinically or statistically relevant reduction in spasticity with PMs. In one study, the mean difference on a tallied 48‐point Modified Ashworth Scale for the upper limbs was one of 48 points (95% CI minus two to four points), and in the other study, the median difference on a six‐point Modified Ashworth Scale for the ankle plantar flexor muscles was zero points (95% CI minus one to zero points). In both studies, a negative between‐group difference indicated a reduction in spasticity in the experimental group compared with the control group. One study with a total of 102 participants investigated the short‐term effects on pain. The mean difference on a zero to 24‐point pain scale was ‐0.4 points in favour of the control group (95% CI ‐1.4 to 0.6 points). The GRADE level of evidence about the effects of PMs on joint mobility, spasticity and pain is very low. Neither study examined quality of life, activity limitations or participation restrictions or reported any adverse events.
+Authors' conclusions
+It is not clear whether PMs are effective for the treatment and prevention of contractures.
+Plain language summary
+Passive movements for the treatment and prevention of contractures
+This Cochrane systematic review determines the effects of passive movements for contractures.
+Passive movements are regularly administered for the treatment and prevention of contractures. They are typically administered manually by physiotherapists or care givers. The primary aim of passive movements is to improve joint mobility. The results of this review indicate that it is not yet clear whether passive movements are effective for the treatment and prevention of contractures.
+What are contractures?
+Contractures are characterised by stiffness around joints that restricts joint mobility. Contractures are common in people with paralysis such as those with stroke, spinal cord injury and cerebral palsy, and they lead to various other complications such as pain, pressure ulcers and deformities.
+Humans
+Ankle Joint
+Contracture
+Contracture/prevention & control
+Contracture/therapy
+Manipulation, Orthopedic
+Manipulation, Orthopedic/methods
+Muscle Spasticity
+Muscle Spasticity/therapy
+Pain Measurement
+Randomized Controlled Trials as Topic
+Range of Motion, Articular
+pmc-status-qastatus
+0
+pmc-status-live
+yes
+pmc-status-embargo
+no
+pmc-status-released
+yes
+pmc-prop-open-access
+no
+pmc-prop-olf
+no
+pmc-prop-manuscript
+no
+pmc-prop-legally-suppressed
+no
+pmc-prop-has-pdf
+yes
+pmc-prop-has-supplement
+no
+pmc-prop-pdf-only
+no
+pmc-prop-suppress-copyright
+no
+pmc-prop-is-real-version
+no
+pmc-prop-is-scanned-article
+no
+pmc-prop-preprint
+no
+pmc-prop-in-epmc
+yes
+Edited (no change to conclusions)

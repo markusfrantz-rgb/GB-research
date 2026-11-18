@@ -11,7 +11,7 @@ status: active
 <div class="stats-bar">
 <span>~848 peer-reviewed referenser</span>
 <span>26 forskningsdokument</span>
-<span>406 fulltexter</span>
+<span>410 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
@@ -227,7 +227,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Evidensskala:** *[Level 1]* Cochrane/RCT → *[Level 2]* Prospektiv kohort → *[Level 3]* Retrospektiv analys → *[Level 4]* Fallrapporter → *[Level 5]* Expertutlåtande
 
-**Källbibliotek:** 406 fulltexter (94 PDF + 312 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
+**Källbibliotek:** 410 fulltexter (94 PDF + 316 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
 
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1828 kunskapsfragment) och genererar svar med källhänvisningar.
 
