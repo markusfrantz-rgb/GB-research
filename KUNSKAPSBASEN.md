@@ -9,9 +9,9 @@ status: active
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
 
 <div class="stats-bar">
-<span>~848 peer-reviewed referenser</span>
+<span>~851 peer-reviewed referenser</span>
 <span>26 forskningsdokument</span>
-<span>410 fulltexter</span>
+<span>411 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
@@ -131,7 +131,7 @@ Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 <a href="/doc/06-monitoring-prognosis/GBS_Prognostic_Monitoring_Comprehensive_Review.md" class="doc-link">Prognostisk monitorering — biomarkörer och skalor</a>
 <a href="/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md" class="doc-link doc-primary">
 Motorisk återinlärning och specialiserad neurofysioterapi i återhämtningsfasen
-<span class="doc-sub">NYTT 2026-11-17 | 13 ref — reinnervation vs kortikal återinlärning vs kontrakturutveckling, Khan 2011 RCT (intensitet), Cochrane om stretch, overwork weakness, vad som skiljer neurofysioterapi från allmän fysioterapi, implikationer för placeringsbeslut</span>
+<span class="doc-sub">NYTT 2026-11-17 | 16 ref — reinnervation vs kortikal återinlärning vs kontrakturutveckling, Khan 2011 RCT (3 h/v vs 1 h/v → 68 % vs 32 %), Cochrane om stretch, overwork weakness, **sekt 10: kostnaden av fördröjd rehabilitering och hur långt strokeevidensen bär över till GBS**, implikationer för placeringsbeslut</span>
 </a>
 <a href="/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md" class="doc-link">ADEM-GBS overlap, MR-differentialdiagnostik, 33 MR-bilder</a>
 <a href="/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md" class="doc-link">PE-svikt: beslutsalgoritm</a>
@@ -227,7 +227,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Evidensskala:** *[Level 1]* Cochrane/RCT → *[Level 2]* Prospektiv kohort → *[Level 3]* Retrospektiv analys → *[Level 4]* Fallrapporter → *[Level 5]* Expertutlåtande
 
-**Källbibliotek:** 410 fulltexter (94 PDF + 316 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
+**Källbibliotek:** 411 fulltexter (94 PDF + 317 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
 
 **Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (1828 kunskapsfragment) och genererar svar med källhänvisningar.
 
@@ -254,7 +254,7 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [PE-svikt: beslutsalgoritm](/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md) | Definition, biomarkörer under sedering, NfL |
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
 | [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
-| [Motorisk återinlärning och neurofysioterapi i återhämtningsfasen](/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md) | 13 ref — tre parallella processer (reinnervation, kortikal re-mapping, muskuloskeletal förändring), Khan 2011 RCT 68% vs 32%, Cochrane: passiv stretch ej effektiv, overwork weakness, placeringsbeslut |
+| [Motorisk återinlärning och neurofysioterapi i återhämtningsfasen](/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md) | 16 ref — tre parallella processer (reinnervation, kortikal re-mapping, muskuloskeletal förändring), Khan 2011 RCT 68% vs 32%, Cochrane: passiv stretch ej effektiv, overwork weakness, kostnaden av fördröjd rehabilitering (Salter 2006, Maulden 2005, 2025-kohort) + överförbarhetsanalys stroke→GBS, placeringsbeslut |
 | [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 29 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |

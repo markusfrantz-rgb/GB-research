@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **367** (94 PDF + 273 text) |
+| Filer i sources/fulltext/ | **368** (94 PDF + 274 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **310** |
+| Unika artiklar (efter deduplicering) | **313** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **410** |
+| **Totalt filer på disk** | **411** |
 
 ---
 
@@ -300,6 +300,9 @@
 | 201b | **Khan 2010.** Multidisciplinary care for GBS — Cochrane. Inga RCT funna; 3 obs-studier "very low quality" | PMID 20927774 / PMC11621594 | [text](/source/Khan_2010_Multidisciplinary_Care_GBS_Cochrane_PMID20927774_PMC11621594.txt) |
 | 201c | **Harvey 2017.** Stretch for treatment/prevention of contractures — Cochrane (49 studier, n=2135). Högkvalitativ evidens: stretch utan kliniskt viktig effekt | PMID 28146605 / PMC6464268 | [text](/source/Harvey_2017_Stretch_Contractures_Cochrane_PMID28146605_PMC6464268.txt) |
 | 201d | **Prabhu 2013.** Passive movements for contractures — Cochrane (2 studier, n=122). Fotled: 4° skillnad (95 % KI 2–6) | PMID 24374605 / PMC11001291 | [text](/source/Prabhu_2013_Passive_Movements_Contractures_Cochrane_PMID24374605_PMC11001291.txt) |
+| 201e | **Salter 2006.** Early vs delayed admission to rehabilitation, stroke (n=435). Tidig (≤30 d) hade högre FIM-förändring och FIM-effektivitet (p<0,01); fördröjda hade längre vårdtid. Ingen ytterligare skillnad efter 60 d | PMID 16546768 | — (abstract) |
+| 201f | **Maulden/Horn 2005.** Timing of initiation of rehabilitation after stroke (n=969, 6 rehabsjukhus). Färre dagar till inskrivning → bättre FIM vid utskrivning; **starkast samband hos de svårast drabbade** (F>24,1) | PMID 16373138 | — (abstract) |
+| 201g | **Delayed inpatient rehabilitation 2025.** Stroke (n=487). Fördröjning >24 h efter kliniskt klar: sämre Relative Functional Gain (β −0,07) och FIM-effektivitet (β −0,18), längre vårdtid (IRR 1,11). Median fördröjning 2 dagar. Vanligaste orsak: platsbrist | PMID 40762230 / PMC12340994 | [text](/source/Delayed_Inpatient_Rehabilitation_Stroke_2025_PMID40762230_PMC12340994.txt) |
 
 ### 05 — Behandling: IVIg, PE, CIDP
 

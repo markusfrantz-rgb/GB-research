@@ -22,8 +22,9 @@ status: active
 7. [The Three Functions of Neurological Physiotherapy](#7-the-three-functions-of-neurological-physiotherapy)
 8. [What Distinguishes Specialist Neurophysiotherapy from General Physiotherapy](#8-what-distinguishes-specialist-neurophysiotherapy-from-general-physiotherapy)
 9. [Implications for Placement Decisions](#9-implications-for-placement-decisions)
-10. [Evidence Gaps and Honest Limitations](#10-evidence-gaps-and-honest-limitations)
-11. [References](#11-references)
+10. [The Cost of Delay — What the Timing Literature Shows, and How Far It Transfers](#10-the-cost-of-delay--what-the-timing-literature-shows-and-how-far-it-transfers)
+11. [Evidence Gaps and Honest Limitations](#11-evidence-gaps-and-honest-limitations)
+12. [References](#12-references)
 
 ---
 
@@ -34,6 +35,8 @@ A patient recovering from severe GBS with prolonged ICU care typically reaches a
 The decision is frequently framed as a question of **nursing need** ("how much help does this patient require?"). This document argues that the more consequential question is **what is physiologically happening right now, and what does it require?** — because the recovery phase of severe GBS contains a time-limited window in which the quality of therapy determines the ceiling of eventual function.
 
 **The central claim examined here:** during reinnervation, recovery of function is not automatic once axons regrow. The nervous system must re-establish cortical control over reinnervated muscle, and the joints must remain mobile long enough for that control to be usable. Both require active, specific intervention — not passive time.
+
+**Intended use.** Written for the treating neurologist or rehabilitation physician who must judge whether an interim placement during active reinnervation is acceptable. Section 10 addresses that question directly, including the limits of what the literature can support.
 
 **Companion documents:** [Ventilator_Weaning_GBS_Protocol.md](../07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) · [GBS_Prognostic_Monitoring_Comprehensive_Review.md](GBS_Prognostic_Monitoring_Comprehensive_Review.md) · [Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md](../01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md) §12.7
 
@@ -258,7 +261,108 @@ Process A continues for 1–2 years. Process C advances fastest early. The windo
 
 ---
 
-## 10. EVIDENCE GAPS AND HONEST LIMITATIONS
+## 10. THE COST OF DELAY — WHAT THE TIMING LITERATURE SHOWS, AND HOW FAR IT TRANSFERS
+
+This section addresses a specific clinical question: **if admission to specialist rehabilitation is postponed — the patient "waiting" in a general ward or a municipal facility — what is the expected cost to the final level of recovery, and to the duration of recovery?**
+
+It is written to be testable rather than persuasive, because the honest answer has two parts that point in different directions.
+
+### 10.1 What the evidence shows (stroke and acquired brain injury)
+
+No study has examined delayed admission to rehabilitation in GBS. The timing literature is from stroke and TBI.
+
+**Salter 2006** — retrospective cohort, **435 patients**, first-ever unilateral stroke, grouped by interval from event to rehabilitation admission (≤30 days vs 31–150 days, plus five subgroups). *[Level 3 — retrospective cohort]*
+
+| Finding | Result |
+|---|---|
+| Admission FIM, discharge FIM, FIM change, **FIM efficiency** | Significantly higher in early-admission patients (**p < 0.01**) |
+| **Length of stay in rehabilitation** | Significantly **longer** in delayed-admission patients (**p < 0.01**) |
+| Subgroup differences | Significant between 0–15 vs 16–30 days, and 16–30 vs 31–60 days (both p < 0.01) |
+| **Beyond 60 days** | **No significant differences** between 31–60 vs 61–90, or 61–90 vs 91–150 days |
+
+**Maulden/Horn 2005** — observational cohort, **969 patients** with moderate or severe stroke across six US inpatient rehabilitation facilities. Fewer days from onset to rehabilitation admission was significantly associated with better discharge FIM (total, motor, mobility, ADL), controlling for confounders. **The association was strongest in the most severely impaired patients** (F > 24.1 for each outcome). Shorter length of stay in the moderately impaired group. *[Level 3]*
+
+**Delayed inpatient rehabilitation 2025** — retrospective cohort, **487 stroke patients**; delay defined as rehabilitation starting >24 h after the patient was deemed clinically ready. 61.8 % were delayed, **median delay only 2 days**. *[Level 3]*
+
+| Outcome | Association with delay |
+|---|---|
+| Relative Functional Gain | β −0.07 (95 % CI −0.11 to −0.02), p = 0.009 |
+| FIM efficiency | β −0.18 (95 % CI −0.32 to −0.04), p = 0.014 |
+| **Length of stay in rehabilitation** | **IRR 1.11** (95 % CI 1.02–1.21), p = 0.021 |
+| Leading cause of delay | **Bed unavailability** |
+
+Two observations: a median delay of **two days** was sufficient to produce a measurable effect, and the cause was organisational rather than clinical — the same mechanism that produces most delays in practice.
+
+> **Citation:** Salter K, Jutai J, Hartley M, et al. Impact of early vs delayed admission to rehabilitation on functional outcomes in persons with stroke. *J Rehabil Med*. 2006;38(2):113-117. PMID: 16546768
+
+> **Citation:** Maulden SA, Gassaway J, Horn SD, Smout RJ, DeJong G. Timing of initiation of rehabilitation after stroke. *Arch Phys Med Rehabil*. 2005;86(12 Suppl 2):S34-S40. PMID: 16373138
+
+> **Citation:** Delayed inpatient rehabilitation and functional outcomes for acute stroke: a retrospective cohort study in an Australian regional hospital. *J Rehabil Med*. 2025;57:42506. PMID: 40762230 / PMC12340994
+
+### 10.2 The transferability problem — stated plainly
+
+**The objection a neurologist should raise first:** Salter found no further loss beyond 60 days. If the window has closed by then, what does a delay at day 240 cost?
+
+That objection is correct for stroke and does not transfer to GBS, and the reason is mechanistic.
+
+| | Stroke / TBI | Severe GBS |
+|---|---|---|
+| **What creates the window** | Heightened cortical plasticity after a single-event CNS injury, declining over months | **Ongoing peripheral reinnervation** — axonal regrowth ~1 mm/day, continuing 1–2 years |
+| **Is the window open at month 8?** | Largely closed | **Open and active** — distal muscles are still being reached |
+| **What closes it** | Time since injury | Completion of reinnervation, **or** loss of joint range before reinnervation arrives |
+
+In stroke the clock is biological and runs independently of care: the plastic window narrows whether or not the patient is in rehabilitation, which is why late delays stop mattering. In GBS the clock is different — the recovery substrate is still arriving, and what can foreclose it is not elapsed time but **Process C** (Section 2.3): contracture, heterotopic ossification, and established compensatory patterns.
+
+**The consequence:** stroke timing thresholds (30 days, 60 days) cannot be transferred to GBS in either direction. They do not establish that a delay at month 8 is harmful, and they do not establish that it is safe. The question has to be answered from GBS physiology instead.
+
+### 10.3 What risks becoming permanent, and what risks being prolonged
+
+The distinction matters because the two have very different evidence bases.
+
+**At risk of becoming permanent — mechanistic reasoning, no trial evidence:**
+
+| Mechanism | Why it may not be recoverable |
+|---|---|
+| **Joint contracture** | Established range loss is difficult to reverse even with weeks of remobilisation (Section 5). A reinnervated muscle crossing a fixed joint confers no function. Where distal stiffness is already present, this is an active process rather than a hypothetical one. |
+| **Heterotopic ossification with ROM restriction** | Where HO is maturing under an orthopaedic movement limit, the range preserved or lost during maturation sets the starting point for any later surgical correction. |
+| **Compensatory motor patterns** | Patterns learned during a period without specific retraining persist, and can suppress use of weaker distal muscles as those reinnervate (Section 3). |
+
+**At risk of being prolonged — here the evidence is direct:**
+
+Salter 2006 and the 2025 cohort both found **longer rehabilitation length of stay** with delay, independently and in the same direction; Maulden/Horn found the same for moderately impaired patients. Delay did not merely shift recovery later in time — it extended the amount of rehabilitation subsequently required.
+
+> **For a patient and family whose stated concern includes the duration of recovery, this is the best-supported finding in the whole timing literature: delay is associated with a longer rehabilitation course, not simply a later start.**
+
+### 10.4 How to weigh "we have done this before and it worked"
+
+Clinical experience that previous patients waited in interim placements without apparent harm is a legitimate observation and is not refuted by the above. It should, however, be qualified before it carries a placement decision:
+
+1. **Which patients?** Interim placement suits patients whose recovery is complete or near-complete and who need time rather than treatment. It is a different proposition for a patient in active reinnervation with distal stiffness and an unresolved orthopaedic complication.
+2. **What does "worked" mean, measured how?** Without FIM or an equivalent at the start and end of the interim period, "it worked" means no visible deterioration — which is not the same as no loss of eventual ceiling. The counterfactual is unobservable in the individual case.
+3. **Survivorship.** Patients who did well after an interim placement are the ones remembered; those whose recovery stalled tend to be attributed to disease severity.
+4. **Reversibility if it goes wrong.** Lost joint range is the component with the poorest reversibility. That asymmetry argues for caution under uncertainty.
+
+### 10.5 The clinically answerable version of the question
+
+Rather than "does delay harm final outcome", which the literature cannot answer for GBS, the question that can be acted on is:
+
+> **During the proposed interim period, which of the three processes in Section 2 continue to be addressed, and which do not?**
+
+| Process | Addressed by maintenance-level care? |
+|---|---|
+| A — Peripheral reinnervation | Proceeds regardless; requires nothing |
+| B — Cortical re-mapping / motor relearning | **No** — requires specialist input |
+| C — Musculoskeletal protection (range, HO limits) | **Partially at best** — and passive stretch alone has evidence against it |
+
+If B is not delivered and C only partially, during a period in which A is actively proceeding, then the interim placement does not pause recovery. It allows the substrate to arrive without the means to use it.
+
+**A defensible formulation for the clinical record:**
+
+> *There is no direct evidence on delayed rehabilitation in GBS. The stroke timing literature consistently shows poorer functional gain and longer rehabilitation stays with delay, but its time thresholds reflect a closing plasticity window and do not transfer to GBS, where reinnervation remains active for 1–2 years. The GBS-specific risk is not elapsed time but irreversible musculoskeletal change — contracture and heterotopic ossification — occurring while reinnervation is still arriving. Where distal stiffness and heterotopic ossification are already documented, that risk is established rather than theoretical, and the component at risk (joint range) is the one with the poorest reversibility.*
+
+---
+
+## 11. EVIDENCE GAPS AND HONEST LIMITATIONS
 
 Stated plainly, because a clinical argument built on overstated evidence collapses on contact with a well-read specialist:
 
@@ -272,6 +376,9 @@ Stated plainly, because a clinical argument built on overstated evidence collaps
 | Motor relearning improves outcome after reinnervation | **Low (mechanistic)** | No RCT in GBS; strongest support is physiological reasoning and rehabilitation-medicine practice |
 | Higher dose of task-specific training improves outcome | **Insufficient** | Stroke meta-analysis (26 RCTs, 1431 participants) found insufficient evidence on dose; only hand function >20 sessions (SMD 0.57, p=0.02) and arm function >50 repetitions (p=0.001, very low quality) |
 | Overwork weakness limits safe intensity in GBS | **Low** | Extrapolated from post-polio; GBS exercise studies report good tolerance |
+| Delayed admission to rehabilitation worsens functional gain | **Moderate (stroke/TBI only)** | Three cohorts, consistent direction; **no GBS data**; thresholds reflect stroke plasticity window |
+| Delayed admission prolongs rehabilitation length of stay | **Moderate (stroke only)** | Two independent cohorts, same direction |
+| Delay at month 8 in GBS lowers the final recovery ceiling | **No direct evidence** | Mechanistic argument only (contracture, HO, compensatory patterns); not establishable from existing literature |
 
 > **Citation:** Intensity of task-specific training for functional ability post-stroke: systematic review and meta-analysis. *Clin Rehabil*. 2025. PMID: 40576954
 
@@ -279,7 +386,7 @@ Stated plainly, because a clinical argument built on overstated evidence collaps
 
 ---
 
-## 11. REFERENCES
+## 12. REFERENCES
 
 1. Khan F, Pallant JF, Amatya B, Ng L, Gorelik A, Brand C. Outcomes of high- and low-intensity rehabilitation programme for persons in chronic phase after Guillain-Barré syndrome: a randomized controlled trial. *J Rehabil Med*. 2011;43(7):638-646. PMID: 21667009
 2. Khan F, Ng L, Amatya B, Brand C, Turner-Stokes L. Multidisciplinary care for Guillain-Barré syndrome. *Cochrane Database Syst Rev*. 2010;(10):CD008505. PMID: 20927774
@@ -294,6 +401,9 @@ Stated plainly, because a clinical argument built on overstated evidence collaps
 11. Lombet C, et al. BBE-GBS overlap rehabilitation. *Rev Med Liege*. 2021;76(7-8):608-613. PMID: 34357713
 12. Cheng MCF, et al. Prolonged Ventilatory Support for Patients Recovering From Guillain-Barré Syndrome. *Neurol Clin Pract*. 2021;11(1):18-24. PMID: 33968468
 13. Intensity of task-specific training for functional ability post-stroke: systematic review and meta-analysis. *Clin Rehabil*. 2025. PMID: 40576954
+14. Salter K, Jutai J, Hartley M, et al. Impact of early vs delayed admission to rehabilitation on functional outcomes in persons with stroke. *J Rehabil Med*. 2006;38(2):113-117. PMID: 16546768
+15. Maulden SA, Gassaway J, Horn SD, Smout RJ, DeJong G. Timing of initiation of rehabilitation after stroke. *Arch Phys Med Rehabil*. 2005;86(12 Suppl 2):S34-S40. PMID: 16373138
+16. Delayed inpatient rehabilitation and functional outcomes for acute stroke: a retrospective cohort study in an Australian regional hospital. *J Rehabil Med*. 2025;57:42506. PMID: 40762230 / PMC12340994
 
 ---
 

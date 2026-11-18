@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (26 st, ~848 referenser)
+### Forskningsdokument (26 st, ~851 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -48,7 +48,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
 | RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1852 chunks (25 docs + 306 fulltexts) |
-| Fulltext-källor | Live | 410 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
+| Fulltext-källor | Live | 411 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -318,3 +318,4 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-11-18 | **4 nya fulltexter hämtade och verifierade mot dokumentet:** Khan 2011 RCT (J Rehabil Med, fulltext), Khan 2010 Cochrane, Harvey 2017 Cochrane (stretch), Prabhu 2013 Cochrane (passiva rörelser). Registrerade i Tillgångsfilen (310 artiklar, 410 filer). |
 | 2026-11-18 | **KORRIGERING av Khan 2011 i forskningsdokumentet.** Fulltexten visar att "hög intensitet" var **3 × 1 h/vecka polikliniskt** och kontrollarmen **30 min gång+stretching 2×/v hemma** — inte slutenvård vs öppenvård. Dokumentet hävdade tidigare dosresonemanget utan dessa tal, vilket kunde läsas som stöd för att eskalera över 3 h/v. Nu korrigerat: studien stöder INTE upptrappning över ~3 h/v, men är direkt evidens MOT nedtrappning till underhållsmodell (kontrollarmen = kommunal underhållsrehab, halva funktionsförbättringen). Evidensgapstabellen uppdaterad. |
 | 2026-11-18 | **Datakorrigering träningsmängd:** **~11 h/vecka** — vardagar ~2 h/dag *inklusive* gym (ej 2×60 min + gym därutöver), lördag ~1 h, söndag vilodag. Motsvarar Högsbos kriterium 3×40 min = 120 min/dag. Jämförelse Khan 2011: kontrollarm 1 h/v, interventionsarm 3 h/v → Madeleine ~4× interventionsarmen. Rättat i forskningsdokumentet (§4.1, §9.2), vårdplaneringsunderlaget, PROJECT_STATUS och sprint-minnet. Siffran ska bekräftas av fysioterapeut före mötet. |
+| 2026-11-18 | **Ny sektion 10 i motorisk-återinlärning-dokumentet: "The Cost of Delay".** Skriven för neurolog Daniel, som inte förstår Högsbos avslag och som sagt att han inte kan gå med på något som försämrar Madeleines slutgiltiga återhämtningsnivå. Innehåller Salter 2006 (n=435), Maulden/Horn 2005 (n=969), 2025-kohort (n=487) + **explicit överförbarhetsanalys**: strokens tidsgränser (30/60 d) speglar ett stängande plasticitetsfönster och bär INTE över till GBS, där reinnervationen är aktiv i 1–2 år. GBS-risken är inte förfluten tid utan irreversibel muskuloskeletal förändring (kontraktur, HO). Skiljer på vad som riskerar bli **permanent** (mekanistiskt argument) och vad som riskerar **förlängas** (direkt evidens, 2 kohorter). Sektion 10.4 värderar "det har gjorts förut och det har funkat". 3 nya referenser + 1 fulltext. |
