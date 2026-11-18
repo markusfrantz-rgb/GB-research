@@ -96,6 +96,8 @@ A randomised controlled trial of **79 patients** in the chronic phase after GBS,
 
 So the comparison is **~3 hours/week of multidisciplinary outpatient therapy versus ~1 hour/week of home exercise** — not inpatient versus outpatient, and not high-dose versus moderate-dose.
 
+For orientation, a severely affected inpatient in active rehabilitation may receive on the order of **10–12 hours/week** (e.g. ~2 h on weekdays plus a shorter weekend session), i.e. several times the trial's intervention arm. The trial therefore cannot speak to escalation above ~3 h/week, but it speaks directly to the consequence of falling toward its control arm.
+
 **Two implications follow, and they run in opposite directions:**
 
 1. **This trial does not support escalating therapy above ~3 h/week.** A patient already receiving daily inpatient physiotherapy receives several times the "high-intensity" arm. Citing this trial as evidence that such a patient needs *more* misrepresents it.
