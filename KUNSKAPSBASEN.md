@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Dag 185 (2026-09-22) — sen weaningfas på neurologisk vårdavdelning.</strong> GBS–MFS–BBE överlappssyndrom (anti-GQ1b positiv, bekräftat 2026-04-02), PE-refraktär, Solu-Medrol ×3, anti-IgA positiv. Ventilatorsberoende från dag 1; trakeostomi dag 5. Vårdavdelning sedan ~dag 140. <strong>Egen andning hela dygnet sedan ~dag 181</strong> (respirator endast ~1 h/morgon, normal blodgas före passet). Talventil hela dagarna — talar med egen röst. Oralt intag (timbalkost). FVC 1,31 L sittande / 1,21 L liggande (posturalt fall 7,6 %). Hostmaskin 2–4 ggr/dygn. Kanyl nedbytt 7→6 mm 16/9. Dekanylering ej diskuterad ännu. Känd lindrig OSA. Selektiv IgA-brist. Hashimotos tyreoidit.<br>
+<strong>Dag 247 (2026-11-23) — återhämtningsfas, rehabiliteringsplacering olöst.</strong> GBS–MFS–BBE överlappssyndrom (anti-GQ1b positiv, bekräftat 2026-04-02), PE-refraktär, Solu-Medrol ×3, anti-IgA positiv. Ventilatorsberoende från dag 1, trakeostomi dag 5, <strong>dekanylerad under hösten — andas själv</strong>. Talar med egen röst. Normal kost, äter själv med hjälpmedel. <strong>Tränar ~11 h/vecka inkl. gym med lätt vikt</strong>; lyfter armarna mot tyngdkraften, handleder börjar komma, fingrar stela, kan inte stå. Lift för förflyttning. <strong>Heterotop ossifikation höger höft</strong> (ortopedisk restriktion max 50–60° flexion, operation ~1 år). <strong>Aktiv tarmdysfunktion</strong> (autonom, röntgen ×2). Selektiv IgA-brist. Hashimotos tyreoidit. <strong>NCS/EMG aldrig utförd.</strong><br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -75,6 +75,10 @@ status: active
 | 2026-09-16 | **Dag 179 — Kanyl nedbytt 7 → 6 mm.** |
 | ~2026-09-18 → | **Dag ~181 → Nätter utan respirator** (fuktnäsa på kanylen). Respirator ~1 h/morgon; blodgas före passet normal. SpO₂ 96–99 % dygnet runt. |
 | 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande.** Hostmaskin 2–4/dygn. 4 mål timbalkost/dag. Dekanylering ej diskuterad. |
+| sep–okt 2026 | **Dekanylerad** — trakealkanyl borttagen, andas själv. |
+| hösten 2026 | **Heterotop ossifikation höger höft** (trolig följd av mobilisering under IVA). Ortopedisk restriktion max 50–60° flexion, operation ~1 år. Tillfällig nervblockad möjliggör sittande. **Tarmdysfunktion** (autonom) — röntgen ×2. |
+| 2026-11-17 | **Dag 241:** Tränar ~11 h/vecka inkl. gym. Normal kost, äter själv med hjälpmedel. Handleder börjar få kontakt. Högsbo neurorehab har avslagit flera remisser (chefsnivå). |
+| 2026-11-20 | **Vårdplanering** — kommunal korttidsplats aktualiserad. Utfall ej dokumenterat. |
 
 </details>
 

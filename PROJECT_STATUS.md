@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-11-17
+> Senast uppdaterad: 2026-11-23
 
 ## Fas: Live / Aktiv forskning
 
@@ -68,7 +68,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | **Aktuella läkemedel** | Levotyroxin (dosjusterad 2-3 v före insjuknande, **TSH/fT4 ej kontrollerade — insjuknande före planerad uppföljning**), luftrörsvidgande inhalator + nässpray, antihistamin |
 | **Tidigare läkemedel** | Gamanorm SCIG (IgA-brist, ~2020–2023, **utsatt ca 2023**) |
 
-### Aktuellt förlopp (2026-03-21 → 2026-09-22)
+### Aktuellt förlopp (2026-03-21 → 2026-11-23)
 
 | Datum | Händelse |
 |-------|---------|
@@ -125,6 +125,14 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-09-16 | **Dag 179 — Kanyl nedbytt 7 → 6 mm.** |
 | ~2026-09-18 → | **Dag ~181 → Nätter utan respirator** (HME på kanylen). Respirator ~1 h/morgon ("vädra ut CO₂"); blodgas före passet normal. SpO₂ 96–99 % dygnet runt. |
 | 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande** (fall 7,6 %). Hostmaskin 2–4/dygn, egen hosta ej full styrka. 4 mål timbalkost/dag + dryck. Dekanylering ej diskuterad. Känd lindrig OSA (ingen CPAP, bettskena ej tolererad, specialkudde). |
+| sep–okt 2026 | **DEKANYLERAD** — trakealkanyl borttagen, andas själv utan problem. *(Exakt datum ej dokumenterat.)* |
+| vår/sommar 2026 | Madeleine rapporterar i **2–3 veckor** smärta höger höft som "inte är den vanliga nervsmärtan". CT → **inflammation**. Naproxen insatt. **Hon hade rätt.** |
+| hösten 2026 | **HETEROTOP OSSIFIKATION höger höft/ljumske** — kalk + begynnande benbildning. Trolig orsak: för hård mobilisering under IVA Mölndal. **Ortopedisk restriktion max 50–60° höftflexion vid lift.** Operation först när benbildningen mognat, ~1 år (överensstämmer med litteraturen: 12–18 mån). Naproxen = korrekt HO-profylax. Sitter tack vare **tillfällig nervblockad**. |
+| hösten 2026 | **Tarmdysfunktion:** växlar förstoppning/diarré, senast förstoppning genom hela tarmen. Behandlas aktivt, **röntgen ×2**. = autonom dysfunktion, aktiv GBS-manifestation. Dysautonomin ej utläkt. |
+| 2026-11-17 | **Dag 241:** Tränar **~11 h/vecka** (vardagar ~2 h inkl. gym med lätt vikt, lördag ~1 h, söndag vila). Armar lyfts mot tyngdkraften; handleder börjar få kontakt; fingrar stela; ben små rörelser liggande, kan ej stå. Lift 2 pers / drag 4 pers. **Normal kost**, äter själv med handledsskena + matband + tallrikskant. Komfortrullstol 2×/dag. Vill träna mer. |
+| 2026-11-17 | **Högsbo neurorehab: flera remisser avslagna, olika skäl varje gång** — (1) trakeostomi → borttagen, (2) omvårdnadsbehov (lift/rullstol), (3) ork "3 × 40 min" → uppfyllt. **Avslagen på chefsnivå.** Neurolog Daniel förstår inte avslagen; han och fysioterapeuten uppges förvånade och beklämda. Plan sedan sensommaren har varit: nuvarande avdelning → Högsbo. Daniel: kan inte tillåta utskrivning under pågående vård, kan inte gå med på något som försämrar slutgiltig återhämtningsnivå — men var senast mer öppen för korttidsboende som väntplats ("det har gjorts förut och det har funkat"). |
+| 2026-11-18 | **Neurokirurgisk bedömning** av långsiktig smärtblockad (inopererade elektroder mot smärtsignaler från höften). **Utfall ej dokumenterat.** |
+| 2026-11-20 | **Vårdplanering** (läkare, fysioterapeut, samordnare, biståndshandläggare Mölndals stad). **Madeleine deltog själv.** Initierad på chefsnivå efter remissavslagen. **UTFALL EJ DOKUMENTERAT — ska följas upp.** |
 
 ### Kommunikation
 
@@ -142,7 +150,7 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 
 | Test | Status | Varför det behövs |
 |------|--------|--------------------|
-| Elektrofysiologi (NCS/EMG) | **Ej utförd** | Subtypning (AIDP/AMAN/AMSAN), prognos |
+| Elektrofysiologi (NCS/EMG) | **Ej utförd (sedan mars 2026)** | Subtypning (AIDP/AMAN/AMSAN), prognos — **och nu: objektiv verifiering av pågående reinnervation.** Hela argumentet för att rehabiliteringsfönstret är öppet vilar på att reinnervation pågår; EMG skulle göra det till ett fynd i stället för ett resonemang. Starkt rekommenderad att beställas. |
 | Gangliosid-antikroppar (inkl. anti-GQ1b) | **✓ RESULTAT 2026-04-02: Anti-GQ1b POSITIV (höga titrar)** | GBS–MFS–BBE överlappssyndrom bekräftat |
 | Anti-IgA-antikroppar (IgE + IgG) | **Beställd 2026-03-31, inväntar svar** | IVIg-säkerhet (plan B-förberedelse, ej brådskande) |
 | Anti-NF155/NF186 | **Ej skickade** | A-CIDP-differentiering — möjligen mindre relevant nu med tydlig GQ1b-diagnos |
@@ -158,6 +166,12 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 3. **R-GBS vs A-CIDP**: 37-årsintervall talar starkt för R-GBS (Kuitwaard 2009). Men SCIG-utsättningens roll och behandlingsrespons kan tala för A-CIDP. Diagnostik behövs (NCS, CSF IL-8, anti-NF155).
 
 ## Möjliga nästa steg
+
+### Öppna uppgifter — rehabiliteringsplaceringen (prio 2026-11)
+- [ ] **Följ upp vårdplaneringen 2026-11-20** — utfall okänt
+- [ ] **NCS/EMG** — föreslå att Daniel beställer. Objektiv verifiering av pågående reinnervation vore det starkaste underlaget för ny remiss till Högsbo
+- [ ] **Neurokirurgbedömning 18/11** — utfall av långsiktig blockad okänt
+- [ ] Motorisk-återinlärning-dokumentet: tre identifierade luckor att åtgärda (ej beslutat av Markus) — (1) svensk systemkontext (HSL, regionala vårdprogram, formalia vid remissavslag), (2) argumentet att Högsbos egen målgrupp "andra skador och sjukdomar i CNS" omfattar MR-verifierad BBE, (3) handlingsalternativ för läkare vid avslag. Plus ev. svensk 1-sidassammanfattning till Daniel.
 
 ### Forskning — öppna uppgifter
 - [ ] Uppdatera med Madeleines kliniska utveckling (anonymiserat om publiceras)
@@ -319,3 +333,4 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-11-18 | **KORRIGERING av Khan 2011 i forskningsdokumentet.** Fulltexten visar att "hög intensitet" var **3 × 1 h/vecka polikliniskt** och kontrollarmen **30 min gång+stretching 2×/v hemma** — inte slutenvård vs öppenvård. Dokumentet hävdade tidigare dosresonemanget utan dessa tal, vilket kunde läsas som stöd för att eskalera över 3 h/v. Nu korrigerat: studien stöder INTE upptrappning över ~3 h/v, men är direkt evidens MOT nedtrappning till underhållsmodell (kontrollarmen = kommunal underhållsrehab, halva funktionsförbättringen). Evidensgapstabellen uppdaterad. |
 | 2026-11-18 | **Datakorrigering träningsmängd:** **~11 h/vecka** — vardagar ~2 h/dag *inklusive* gym (ej 2×60 min + gym därutöver), lördag ~1 h, söndag vilodag. Motsvarar Högsbos kriterium 3×40 min = 120 min/dag. Jämförelse Khan 2011: kontrollarm 1 h/v, interventionsarm 3 h/v → Madeleine ~4× interventionsarmen. Rättat i forskningsdokumentet (§4.1, §9.2), vårdplaneringsunderlaget, PROJECT_STATUS och sprint-minnet. Siffran ska bekräftas av fysioterapeut före mötet. |
 | 2026-11-18 | **Ny sektion 10 i motorisk-återinlärning-dokumentet: "The Cost of Delay".** Skriven för neurolog Daniel, som inte förstår Högsbos avslag och som sagt att han inte kan gå med på något som försämrar Madeleines slutgiltiga återhämtningsnivå. Innehåller Salter 2006 (n=435), Maulden/Horn 2005 (n=969), 2025-kohort (n=487) + **explicit överförbarhetsanalys**: strokens tidsgränser (30/60 d) speglar ett stängande plasticitetsfönster och bär INTE över till GBS, där reinnervationen är aktiv i 1–2 år. GBS-risken är inte förfluten tid utan irreversibel muskuloskeletal förändring (kontraktur, HO). Skiljer på vad som riskerar bli **permanent** (mekanistiskt argument) och vad som riskerar **förlängas** (direkt evidens, 2 kohorter). Sektion 10.4 värderar "det har gjorts förut och det har funkat". 3 nya referenser + 1 fulltext. |
+| 2026-11-23 | **Synkronisering (dokumentationsskuld åtgärdad):** `Case_Madeleine_Fragor_och_Fynd.md` och `KUNSKAPSBASEN.md` visade fortfarande dag 185-status medan PROJECT_STATUS var uppdaterad till dag 241. Båda nu uppdaterade till dag 247: dekanylering, heterotop ossifikation + ortopedisk restriktion, tarmdysfunktion, funktionsnivå, träningsmängd ~11 h/v, Högsbo-avslagen och chefsnivåbeslutet, vårdplaneringen 20/11. Milstolpstabellen utökad (dekanylering, normal kost, gymträning). NCS/EMG uppgraderad i diagnostiska luckor — nu motiverad som objektiv verifiering av pågående reinnervation. |

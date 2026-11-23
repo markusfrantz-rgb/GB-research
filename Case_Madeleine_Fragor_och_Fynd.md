@@ -6,7 +6,7 @@ status: active
 
 # Kliniskt Case: Svår recidiverande GBS med IgA-brist
 
-**Utskrivbart sammanfattningsdokument — uppdaterat 2026-09-22 (dag 185)**
+**Utskrivbart sammanfattningsdokument — uppdaterat 2026-11-23 (dag 247)**
 
 ---
 
@@ -94,21 +94,35 @@ status: active
 | 2026-09-16 (ons) | **Dag 179 — Trakealkanyl bytt 7 → 6 mm** (förberedande steg inför proppträning/dekanylering). |
 | ~2026-09-18 → | **Dag ~181 → Nätter utan respirator:** sover med fuktnäsa (HME) på kanylen. Respirator endast **~1 h på morgonen** ("vädra ut CO₂"); blodgas tagen *före* passet rapporteras fin. SpO₂ 96–99 % hela dygnet. |
 | 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande** (fall 7,6 % — talar emot diafragmasvaghet). Hostmaskin (MI-E) 2–4 ggr/dygn; egen hosta finns men ej full styrka. Äter 4 mål timbalkost/dag + dricker. Dekanylering ej diskuterad ännu. |
+| sep–okt 2026 | **Dekanylerad — trakealkanylen borttagen.** Andas själv utan problem. *(Exakt datum ej dokumenterat.)* |
+| Vår/sommar 2026 | Madeleine kommunicerar i **2–3 veckor** ökande smärta i höger höft, och att det **inte känns som den "vanliga" nervsmärtan**. CT/röntgen → **inflammation**. Naproxen insatt. |
+| Hösten 2026 | **Heterotop ossifikation höger höft/ljumske** — kalk och begynnande benbildning. Trolig orsak: för hård mobilisering under IVA-tiden i Mölndal. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation möjlig först när benbildningen stelnat, ca 1 år. |
+| Hösten 2026 | **Tarmdysfunktion:** växlar mellan kraftig förstoppning och diarré; senast förstoppning genom hela tarmen. Behandlas aktivt. **Röntgen ×2.** Bedöms som autonom dysfunktion = aktiv GBS-manifestation. |
+| 2026-11-17 | **Dag 241:** Neurologen SU. Tränar **~11 h/vecka** (vardagar ~2 h inkl. gym med lätt vikt, lördag ~1 h, söndag vila). Lyfter armar mot tyngdkraften; handleder börjar få kontakt; fingrar stela med svaga rörelser; ben små rörelser liggande, kan ej stå. Sitter i komfortrullstol 2×/dag (lift 2 pers, drag 4 pers). Äter **normal kost** själv med handledsskena + matband + tallrikskant. Vill träna mer. |
+| 2026-11-17 | **Högsbo neurorehab har avslagit flera remisser** med olika skäl vid varje tillfälle: (1) trakeostomi → borttagen, (2) omvårdnadsbehov (lift/rullstol), (3) ork, "ska klara 3 × 40 min" → uppfyllt. Avslagen uppges ligga på **chefsnivå**. Behandlande läkare och fysioterapeut uppger att de är förvånade och beklämda. Den plan som kommunicerats sedan sensommaren har varit: nuvarande avdelning → Högsbo. |
+| 2026-11-18 | **Neurokirurgisk bedömning** av mer långsiktig smärtblockad (inopererade elektroder som stör ut smärtsignaler från höften). *(Utfall ej dokumenterat.)* |
+| 2026-11-20 | **Vårdplanering** med läkare, fysioterapeut, samordnare och biståndshandläggare från Mölndals stad. Madeleine deltog själv. Initierad på chefsnivå efter remissavslagen, för att koppla in kommunal korttidsplats. **Utfall ej dokumenterat — ska följas upp.** |
 
-### Nuvarande status (2026-09-22, dag 185)
+### Nuvarande status (2026-11-23, dag 247)
 
-- **Vårdnivå:** Neurologisk vårdavdelning, SU (sedan ~6 veckor). IVA-fasen avslutad.
-- **Andning:** Egen andning hela dygnet sedan ~3–4 nätter. **Morgonblodgasen visar en svag stigande CO₂-trend över de senaste dygnen** (värden ej kända) — förenligt med begynnande ackumulerad nattlig hypoventilation; talar för att morgonpasset har ett syfte men bör ställas in mot normokapni (pirrningarna = överkorrigering). Sover med fuktnäsa (HME) på kanylen. Respirator **endast ~1 h/morgon**; blodgas tagen *före* passet rapporteras fin. SpO₂ 96–99 % dygnet runt utan syrgas. Dessförinnan respirator endast nattetid i ~6 veckor.
-- **Lungfunktion (2026-09-21):** FVC **1,31 L sittande / 1,21 L liggande** (postural fall 7,6 %; >25 % skulle indikera diafragmasvaghet). Vid ~54 kg ≈ 24 mL/kg (dekanyleringströskel >20 mL/kg). ≈ 47–52 % av förväntat för kvinna 53 år/153 cm. MIP/MEP, hoststyrka (PCF) och nattlig CO₂ **ej uppmätta** (såvitt känt).
-- **Nytt symtom (22/9):** **Pirrningar i händer/armar och fötter/ben**, rapporterade i samband med ventilatorproblem. **Tidssamband bekräftat 22/9: kommer snabbt under ventilering och vid hostmaskin när slemmet inte lossnar; avtar när hon andas själv.** Mönstret är förenligt med hypokapni vid överventilation (ej sensorisk regeneration, som är oberoende av maskin). Bekräftas med blodgas *efter* passet. IVA-läkare har framfört att ventilatorn ofta behålls längre än nödvändigt av både patient och personal ("snuttefilt").
-- **Hosta/sekret:** Egen hosta men ej full styrka. Hostmaskin (MI-E) 2–4 ggr/dygn. Sugfrekvens via kanyl okänd.
-- **Trakeostomi:** Kanyl nedbytt 7 → 6 mm 2026-09-16. **Talventil hela dagarna.** Kuffstatus nattetid ej känt. Proppträning ej påbörjad. Dekanylering ej diskuterad.
-- **Kommunikation:** **Talar med egen röst** via talventil. Vägen dit: ja/nej → bokstavering → talventil.
-- **Sväljning:** Oralt intag, **4 mål timbalkost/dag + dryck.** FEES-status okänd.
-- **Motorik:** Detaljerad motorisk status (MRC, extremiteter) ej rapporterad till databasen — uppdateras.
-- **Sömnapné:** Känd lindrig, lägesberoende OSA före insjuknandet. Ingen CPAP. Bettskena föreslagen men ej tolererad; specialkudde. **Relevant för nattlig proppträning och tiden efter dekanylering** (kanylen förbigår svalget — OSA:n "återkommer" när luftvägen går via näsa/mun igen).
-- **Tidsläge mot litteraturen:** Median tid till dekanylering vid långtidsventilerad GBS = **193 dagar** (Cheng 2021, n=29). Madeleine är på dag 185 med huvudkriterierna för dekanylering uppfyllda eller nära — hoststyrkan är den kvarstående frågan.
-- **Plan (såvitt känt):** Fortsatt nedtrappning. Ingen uttalad dekanyleringsplan.
+*Senast kända kliniska data: 2026-11-17–18 (dag 241–242).*
+
+- **Vårdnivå:** Neurologisk vårdavdelning, SU. Akutvårdsavdelning — bedöms av vården inte vara rätt vårdnivå på längre sikt.
+- **Andning:** **Dekanylerad.** Andas själv utan problem, ingen ventilator.
+- **Kommunikation:** Talar med egen röst.
+- **Motorik:**
+  - *Armar proximalt:* lyfter mot tyngdkraften, **tränar på gym med lätt vikt** (axlar, delar av rygg, biceps, triceps)
+  - *Handleder:* börjar få kontakt, svag funktion — **pågående återhämtning**
+  - *Fingrar:* **stela**, viss kontakt, svaga rörelser
+  - *Ben:* viss kontakt, små rörelser liggande. **Kan inte stå.**
+- **Förflyttning:** Lift/draglift 2 personer; drag 4 personer. Sitter i komfortrullstol 2×/dag.
+- **Nutrition:** **Normal kost.** Äter själv med handledsstöd/skena, matband, tallrik med kant. Behöver hjälp att dela maten och lägga den tillrätta. Dricker själv men behöver hjälp att lyfta glas och placera sugrör.
+- **Rehabilitering:** **~11 timmar strukturerad träning per vecka** — vardagar ~2 h/dag inklusive gym (undantag när fysioterapeut eller Madeleine inte kan), lördag ~1 h, söndag vilodag. **Vill träna mer.** Tydlig mental vinst av träningen.
+- **Höger höft — heterotop ossifikation:** Kalk och begynnande benbildning vid höft/ljumske, trolig följd av för hård mobilisering under IVA-tiden i Mölndal. Föregicks av att Madeleine i 2–3 veckor rapporterade smärta som inte liknade hennes nervsmärta — vilket bekräftades av CT. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation möjlig först när benbildningen mognat, ca 1 år. Sitter i komfortrullstol tack vare **tillfällig nervblockad**; neurokirurgisk bedömning 18/11 av mer långsiktig lösning (inopererade elektroder).
+- **Mage/tarm:** Växlar mellan kraftig förstoppning och diarré; senast förstoppning genom hela tarmen. Behandlas aktivt, **röntgen ×2**. Bedöms som autonom dysfunktion — alltså en **aktiv manifestation av grundsjukdomen**; dysautonomin är inte utläkt.
+- **Läkemedelsbalans:** Opiater (förstoppar) + naproxen (GI-belastning, men etablerad HO-profylax) + nervblockad + laxativa, hos patient med neurogen tarm. Kräver läkare med överblick.
+- **Rehabiliteringsplacering — olöst:** Högsbo neurorehab har avslagit flera remisser med skiftande motivering (chefsnivå). Vårdplanering 2026-11-20 initierad för att koppla in kommunal korttidsplats. Behandlande läkare har uppgett att han inte kan tillåta utskrivning under pågående vård, och inte kan gå med på något som försämrar den slutgiltiga återhämtningsnivån.
+- **Diagnostisk lucka som kvarstår:** **NCS/EMG har aldrig utförts.** Skulle objektivt kunna visa om reinnervation pågår — centralt för bedömningen av om rehabiliteringsfönstret är öppet.
 
 ### Positiva tecken — kronologisk sammanställning
 
@@ -124,6 +138,9 @@ status: active
 | 179 | 2026-09-16 | Kanyl nedbytt 7 → 6 mm. |
 | ~181 | ~2026-09-18 | **Första nätterna utan respirator** (HME på kanylen). Endast ~1 h respirator/morgon. |
 | 184 | 2026-09-21 | **FVC 1,31 L / 1,21 L liggande** — posturalt fall 7,6 % (normalt <10 %, diafragmasvaghet >25 %). Dekanyleringströskeln (>20 mL/kg) passerad. |
+| ~190–210 | sep–okt 2026 | **DEKANYLERAD** — trakealkanylen borttagen, andas själv utan problem. |
+| ~200+ | hösten 2026 | **Normal kost** (från timbalkost). Äter själv med hjälpmedel. |
+| 241 | 2026-11-17 | **Tränar på gym med lätt vikt** — lyfter armarna mot tyngdkraften. ~11 h träning/vecka. **Handlederna börjar få kontakt.** Vill träna mer. |
 
 > **Klinisk betydelse:** Haka = CN V (trigeminus), tunga = CN XII (hypoglossus), huvudskakning = cervikal muskulatur. Dessa är de första tecknen på motorisk aktivitet sedan insjuknandet. Kranialnervsmotorik kan vara ett tidigt tecken på remyelinisering i GBS–MFS–BBE.
 
@@ -354,7 +371,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-25 forskningsdokument | ~835 peer-reviewed kallor | 406 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
+26 forskningsdokument | ~851 peer-reviewed kallor | 411 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 
