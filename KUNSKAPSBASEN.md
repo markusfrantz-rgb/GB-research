@@ -17,7 +17,7 @@ status: active
 </div>
 
 <div class="case-alert">
-<strong>Dag 247 (2026-11-23) — återhämtningsfas, rehabiliteringsplacering olöst.</strong> GBS–MFS–BBE överlappssyndrom (anti-GQ1b positiv, bekräftat 2026-04-02), PE-refraktär, Solu-Medrol ×3, anti-IgA positiv. Ventilatorsberoende från dag 1, trakeostomi dag 5, <strong>dekanylerad under hösten — andas själv</strong>. Talar med egen röst. Normal kost, äter själv med hjälpmedel. <strong>Tränar ~11 h/vecka inkl. gym med lätt vikt</strong>; lyfter armarna mot tyngdkraften, handleder börjar komma, fingrar stela, kan inte stå. Lift för förflyttning. <strong>Heterotop ossifikation höger höft</strong> (ortopedisk restriktion max 50–60° flexion, operation ~1 år). <strong>Aktiv tarmdysfunktion</strong> (autonom, röntgen ×2). Selektiv IgA-brist. Hashimotos tyreoidit. <strong>NCS/EMG aldrig utförd.</strong><br>
+<strong>Dag 247 (2026-11-23) — återhämtningsfas. Plats på Högsbo neurorehab från 2027-01-11.</strong> GBS–MFS–BBE överlappssyndrom (anti-GQ1b positiv, bekräftat 2026-04-02), PE-refraktär, Solu-Medrol ×3, anti-IgA positiv. Ventilatorsberoende från dag 1, trakeostomi dag 5, <strong>dekanylerad under hösten — andas själv</strong>. Talar med egen röst. Normal kost, äter själv med hjälpmedel. <strong>Tränar ~11 h/vecka inkl. gym med lätt vikt</strong>; lyfter armarna mot tyngdkraften, handleder börjar komma, fingrar stela, kan inte stå. Lift för förflyttning. <strong>Heterotop ossifikation höger höft</strong> (ortopedisk restriktion max 50–60° flexion, operation ~1 år). <strong>Aktiv tarmdysfunktion</strong> (autonom, röntgen ×2). Selektiv IgA-brist. Hashimotos tyreoidit. <strong>NCS/EMG aldrig utförd.</strong><br>
 <a href="/doc/Case_Madeleine_Fragor_och_Fynd.md">Fullständig klinisk sammanfattning med frågor och evidenstabeller →</a>
 </div>
 
@@ -78,7 +78,8 @@ status: active
 | sep–okt 2026 | **Dekanylerad** — trakealkanyl borttagen, andas själv. |
 | hösten 2026 | **Heterotop ossifikation höger höft** (trolig följd av mobilisering under IVA). Ortopedisk restriktion max 50–60° flexion, operation ~1 år. Tillfällig nervblockad möjliggör sittande. **Tarmdysfunktion** (autonom) — röntgen ×2. |
 | 2026-11-17 | **Dag 241:** Tränar ~11 h/vecka inkl. gym. Normal kost, äter själv med hjälpmedel. Handleder börjar få kontakt. Högsbo neurorehab har avslagit flera remisser (chefsnivå). |
-| 2026-11-20 | **Vårdplanering** — kommunal korttidsplats aktualiserad. Utfall ej dokumenterat. |
+| 2026-11-20 | **Vårdplanering** — kommunal korttidsplats nämndes inte; fortsatt specialistvårdbehov. |
+| 2026-11-23 | **Besked: Högsbo neurorehab, intag 2027-01-11.** Vårdform fram till dess ej bekräftad. |
 
 </details>
 
