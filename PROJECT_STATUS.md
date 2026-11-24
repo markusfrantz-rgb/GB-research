@@ -171,7 +171,7 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 
 ### Öppna uppgifter — rehabiliteringsplaceringen (prio 2026-11)
 - [x] ~~Följ upp vårdplaneringen 2026-11-20~~ — **Högsbo intag 2027-01-11**; korttidsplats nämndes inte
-- [ ] **Var vårdas hon 2026-11-23 → 2027-01-11?** Förhoppning: kvar på nuvarande avdelning SU — ej tydligt bekräftat
+- [ ] **Var vårdas hon 2026-11-23 → 2027-01-11?** Önskemål: kvar inom SU (helst samma avdelning, men inte nödvändigt) — ej tydligt bekräftat
 - [ ] **Träning under väntetiden** — förhoppningsvis som nu (~11 h/v), undantag röda dagar över jul. Bevaka att det håller. (Khan 2011: nedtrappning till underhållsnivå = halva funktionsvinsten)
 - [ ] **NCS/EMG** — fortfarande aldrig utförd. Motivering nu: baslinje inför Högsbo (målsättning, prognos, följa reinnervation) snarare än remissunderlag
 - [ ] **Höftsmärta — TENS-test vecka 48** → beslut om inopererade elektroder. Bedömd som lämplig patient. Följ upp resultat + ev. operationstid i relation till Högsbo-intag 11/1
