@@ -120,7 +120,7 @@ status: active
 - **Förflyttning:** Lift/draglift 2 personer; drag 4 personer. Sitter i komfortrullstol 2×/dag.
 - **Nutrition:** **Normal kost.** Äter själv med handledsstöd/skena, matband, tallrik med kant. Behöver hjälp att dela maten och lägga den tillrätta. Dricker själv men behöver hjälp att lyfta glas och placera sugrör.
 - **Rehabilitering:** **~11 timmar strukturerad träning per vecka** — vardagar ~2 h/dag inklusive gym (undantag när fysioterapeut eller Madeleine inte kan), lördag ~1 h, söndag vilodag. **Vill träna mer.** Tydlig mental vinst av träningen.
-- **Höger höft — heterotop ossifikation:** Kalk och begynnande benbildning vid höft/ljumske, trolig följd av för hård mobilisering under IVA-tiden i Mölndal. Föregicks av att Madeleine i 2–3 veckor rapporterade smärta som inte liknade hennes nervsmärta — vilket bekräftades av CT. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation möjlig först när benbildningen mognat, ca 1 år. Sitter i komfortrullstol tack vare **femoralisblockad, nu perifer nervkateter längs n. femoralis**; neurokirurgisk bedömning 18/11 av mer långsiktig lösning (inopererade elektroder): bedömd som lämplig patient. **TENS-testet v.48 gav gott resultat**; beslut om implantat väntar. Evidensunderlag: [Femoralissmärta — TENS, DRG/ryggmärgsstimulering, samtalsunderlag](/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md).
+- **Höger höft — heterotop ossifikation:** Kalk och begynnande benbildning vid höft/ljumske, trolig följd av för hård mobilisering under IVA-tiden i Mölndal. Föregicks av att Madeleine i 2–3 veckor rapporterade smärta som inte liknade hennes nervsmärta — vilket bekräftades av CT. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation planerad när benbildningen mognat, ca 1 år — nyare studier visar dock att återfallsrisken inte beror på tidpunkt; se [samtalsunderlag om HO-operation](/doc/06-monitoring-prognosis/HO_Operation_Samtalsunderlag.md). Sitter i komfortrullstol tack vare **femoralisblockad, nu perifer nervkateter längs n. femoralis**; neurokirurgisk bedömning 18/11 av mer långsiktig lösning (inopererade elektroder): bedömd som lämplig patient. **TENS-testet v.48 gav gott resultat**; beslut om implantat väntar. Evidensunderlag: [Femoralissmärta — TENS, DRG/ryggmärgsstimulering, samtalsunderlag](/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md).
 - **Mage/tarm:** Växlar mellan kraftig förstoppning och diarré; senast förstoppning genom hela tarmen. Behandlas aktivt, **röntgen ×2**. Bedöms som autonom dysfunktion — alltså en **aktiv manifestation av grundsjukdomen**; dysautonomin är inte utläkt.
 - **Läkemedelsbalans:** Opiater (förstoppar) + naproxen (GI-belastning, men etablerad HO-profylax) + perifer nervkateter (n. femoralis) + laxativa, hos patient med neurogen tarm. Kräver läkare med överblick.
 - **Rehabiliteringsplacering — Högsbo neurorehab, intag 2027-01-11.** Efter flera avslag med skiftande motivering. Kommunal korttidsplats nämndes inte på vårdplaneringen 2026-11-20 (fortsatt specialistvårdbehov). Träningen förväntas fortsätta som nu under väntetiden (~7 veckor), med uppehåll röda dagar över jul. **Öppet:** vårdform under väntetiden, förväntad vårdtid på Högsbo (ej angiven).
@@ -218,7 +218,7 @@ Trakeostomi genomford 2026-03-25. Rekommenderade troskelarden for PDT:
 - Vilka varden hade patienten infor ingreppet? Eventuella komplikationer?
 
 **14. DVT-profylax**
-GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med LMWH (Bersano et al., 2016). Pagar:
+GBS-patienter har hog DVT-risk: 52% vid systematisk ultraljudsscreening aven med LMWH (Ryabinkina et al., 2016, PMID 27240174). Pagar:
 - LMWH (enoxaparin 40 mg SC dagligen)?
 - IPC-enheter (intermittent pneumatisk kompression)?
 - LMWH bor hallas pa PE-dagar och ateruptas nar fibrinogen >1.0 g/L.
@@ -373,7 +373,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-28 forskningsdokument | ~935 peer-reviewed kallor | 489 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
+30 forskningsdokument | ~1000 peer-reviewed kallor | 542 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 

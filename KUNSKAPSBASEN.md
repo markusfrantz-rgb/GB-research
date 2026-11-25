@@ -9,9 +9,9 @@ status: active
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
 
 <div class="stats-bar">
-<span>~935 peer-reviewed referenser</span>
-<span>28 forskningsdokument</span>
-<span>489 fulltexter</span>
+<span>~1000 peer-reviewed referenser</span>
+<span>30 forskningsdokument</span>
+<span>542 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
@@ -139,6 +139,11 @@ Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 Motorisk återinlärning och specialiserad neurofysioterapi i återhämtningsfasen
 <span class="doc-sub">NYTT 2026-11-17 | 16 ref — reinnervation vs kortikal återinlärning vs kontrakturutveckling, Khan 2011 RCT (3 h/v vs 1 h/v → 68 % vs 32 %), Cochrane om stretch, overwork weakness, **sekt 10: kostnaden av fördröjd rehabilitering och hur långt strokeevidensen bär över till GBS**, implikationer för placeringsbeslut</span>
 </a>
+<a href="/doc/06-monitoring-prognosis/HO_Operation_Samtalsunderlag.md" class="doc-link doc-primary">
+Operation av heterotop ossifikation i höften — samtalsunderlag (svenska)
+<span class="doc-sub">NYTT 2026-11-25 | "Vänta ett år" granskat (återfall oberoende av tidpunkt, Genêt 539 op), vad operationen ger (+50–60° böjning, sittförmåga) och kostar (blödning 1–2 l, infektion 10–17 %), n. femoralis och frilägning, återfallsprofylax och naproxen, **anti-IgA och blod**, **kirurgi som GBS-utlösare**, narkos efter GBS, ordningsföljd mot implantat och Högsbo, prioriterade frågor</span>
+</a>
+<a href="/doc/06-monitoring-prognosis/Hip_HO_Resection_Timing_Outcomes_Perioperative.md" class="doc-link">Hip HO resection — full evidence review (engelska, 85 ref)</a>
 <a href="/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md" class="doc-link doc-primary">
 Femoralissmärta vid HO — TENS, DRG/ryggmärgsstimulering och beslutsunderlag (svenska)
 <span class="doc-sub">NYTT 2026-11-25 | Samtalsunderlag inför neurokirurg: hur ytlig TENS används och placeras vid nedsatt känsel, DRG vs ryggmärgsstimulering (ACCURATE 74 % vs 53 %), hållbarhet och explantation, vad ett positivt TENS-test betyder, GBS och nervrötter (SSEP), **trycker HO på n. femoralis — tidpunkt för HO-operation**, prioriterade frågor</span>
@@ -238,12 +243,12 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Evidensskala:** *[Level 1]* Cochrane/RCT → *[Level 2]* Prospektiv kohort → *[Level 3]* Retrospektiv analys → *[Level 4]* Fallrapporter → *[Level 5]* Expertutlåtande
 
-**Källbibliotek:** 489 fulltexter (131 PDF + 358 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
+**Källbibliotek:** 542 fulltexter (155 PDF + 387 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
 
-**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (2276 kunskapsfragment) och genererar svar med källhänvisningar.
+**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (2468 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 28 forskningsdokument — fullständig lista</summary>
+<summary>Alla 30 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -266,6 +271,8 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
 | [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
 | [Motorisk återinlärning och neurofysioterapi i återhämtningsfasen](/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md) | 16 ref — tre parallella processer (reinnervation, kortikal re-mapping, muskuloskeletal förändring), Khan 2011 RCT 68% vs 32%, Cochrane: passiv stretch ej effektiv, overwork weakness, kostnaden av fördröjd rehabilitering (Salter 2006, Maulden 2005, 2025-kohort) + överförbarhetsanalys stroke→GBS, placeringsbeslut |
+| [Operation av HO i höften — samtalsunderlag (svenska)](/doc/06-monitoring-prognosis/HO_Operation_Samtalsunderlag.md) | Tidpunkt, utfall, komplikationer, n. femoralis, återfallsprofylax/naproxen, anti-IgA och transfusion, kirurgi som GBS-utlösare, narkos, ordningsföljd mot implantat och Högsbo, frågor till ortoped/neurolog/narkos |
+| [Hip HO resection — evidence review](/doc/06-monitoring-prognosis/Hip_HO_Resection_Timing_Outcomes_Perioperative.md) | 85 ref — HO after ICU/GBS, maturity rule revisited (Genêt, Chalidis, Almangour), CT/MRI work-up, outcomes and complications (bleeding, infection 10–17 %), femoral nerve entrapment, prophylaxis (RT sepsis signal, NSAIDs), anti-IgA transfusion and cell salvage, surgery as GBS trigger (Rudant OR 2.78), succinylcholine, VTE, sequencing |
 | [Femoralissmärta vid HO — samtalsunderlag (svenska)](/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md) | TENS-användning och placering vid nedsatt känsel, DRG vs ryggmärgsstimulering, hållbarhet/komplikationer, GBS-specifika frågor (SSEP, NCS/EMG), nervkompression av HO och operationstidpunkt, 12 prioriterade frågor till neurokirurg |
 | [Hip/groin pain neuromodulation — evidence review](/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md) | 86 ref — femoral neuropathic pain from HO, TENS dosing/placement (meta-TENS, Amer-Cuenca 2026, Léonard 2011), DRG vs SCS (ACCURATE, groin series, lead fracture, explant rates), TRIAL-STIM, Sindou SSEP, HO nerve compression (Salga 2015, Genêt 2011), hip capsule innervation, PNS |
 | [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 29 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |

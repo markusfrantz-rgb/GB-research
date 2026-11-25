@@ -250,7 +250,7 @@ PE is responsible for approximately **half of all fatal GBS cases.**
 ### 7.3 Special Situations
 
 - **During PE coagulopathy** (fibrinogen <2 g/L from plasmapheresis): maintain mechanical prophylaxis, hold LMWH until fibrinogen > 1.5 g/L
-- **DVT incidence with screening:** 52% even with LMWH (Bersano 2016) — consider routine screening in prolonged immobilization *[Level 3]*
+- **DVT incidence with screening:** 52% even with LMWH (Ryabinkina 2016) — consider routine screening in prolonged immobilization *[Level 3]*
 
 ---
 
@@ -537,7 +537,7 @@ Fever in ventilated GBS patients has multiple etiologies. The reflex to escalate
 | **Autonomic fever** | 29% of dysautonomic GBS (Chakraborty 2020, n=71) | Normal/falling CRP, low PCT, no localizing source, coincides with BP/HR lability, responds to dysautonomia treatment |
 | **Fungal infection** (candida) | Risk increases after day 12 | Low PCT (0.29 vs 1.73 in bacteremia), modest CRP, risk factors present, BDG elevated |
 | **Drug fever** | Variable | Temporal correlation with new medication, eosinophilia, no source, resolves with drug withdrawal |
-| **VTE/PE-related** | DVT 52% with systematic screening (Bersano 2016) | Tachycardia, hypoxia, D-dimer, CT-PA or duplex US |
+| **VTE/PE-related** | DVT 52% with systematic screening (Ryabinkina 2016) | Tachycardia, hypoxia, D-dimer, CT-PA or duplex US |
 | **Central fever** (BBE brainstem) | Rare but possible in BBE | No infection markers, associated with brainstem signs, hypothalamic involvement |
 | **Post-steroid rebound** | Days 1–7 after IVMP | Self-limiting, CRP may transiently rise |
 
@@ -908,7 +908,7 @@ DAILY ASSESSMENT — BBE-GBS OVERLAP
 17. Pandey CK et al. Gabapentin vs carbamazepine in GBS pain. *Anesth Analg*. 2005;101(1):220-225. PMID: 15976234
 
 ### VTE and Complications
-18. Bersano A et al. DVT in GBS: prevalence, timing and outcome. *Thromb Res*. 2016;143:122-127. PMID: 27240174
+18. Ryabinkina YV et al. [Venous thromboembolism in patients with Guillain-Barré syndrome] (Russian). *Zh Nevrol Psikhiatr Im S S Korsakova*. 2016;116(5):13-18. PMID: 27240174 *(citation corrected 2026-11-25)*
 19. Kimura M et al. Takotsubo in BBE. *Front Neurol*. 2021;12:822247. PMID: 35002947
 
 ### Rehabilitation and Long-Term

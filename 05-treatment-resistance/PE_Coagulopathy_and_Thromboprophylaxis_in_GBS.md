@@ -149,15 +149,15 @@ GBS patients are at **very high risk** for venous thromboembolism due to immobil
 | Study | DVT Incidence | PE Incidence | Notes |
 |-------|--------------|--------------|-------|
 | Gaber et al. 2002, Clin Rehabil | 7% clinical DVT | 4% had PE (3/5 DVT patients) | 1 fatal PE despite enoxaparin |
-| Bersano et al. 2016, Neurol Sci (PMID: 27240174) *[Level 3]* | 52% DVT (ultrasound-screened) | 15% PE | Despite LMWH prophylaxis |
+| Ryabinkina et al. 2016, Zh Nevrol Psikhiatr (PMID: 27240174) *[Level 3]* | 52% DVT (ultrasound-screened) | 15% PE | Despite LMWH prophylaxis |
 | Without prophylaxis (historical) | Up to **34%** DVT | Not specified | Before routine prophylaxis era |
 | Rehabilitation cohort (Yoo et al. 2003) | 11.1% DVT (4/36) | -- | During inpatient rehabilitation |
 
-**Critical finding:** The Bersano et al. (2016) study is particularly alarming -- even with LMWH prophylaxis, approximately **half** of GBS patients developed VTE when systematically screened with ultrasound. This suggests that subclinical DVT is far more common than clinically detected DVT.
+**Critical finding:** The Ryabinkina et al. (2016) study (prospective, n=65 ICU GBS patients, Moscow) is particularly alarming -- even with LMWH prophylaxis, approximately **half** of GBS patients developed VTE when systematically screened with ultrasound. This suggests that subclinical DVT is far more common than clinically detected DVT.
 
 **Pulmonary embolism as cause of death:** PE is one of the primary causes of death in GBS, responsible for death in approximately **half** of fatal GBS cases (alongside respiratory failure and sepsis). Overall GBS mortality is 3-7%, but in ventilated patients it rises to ~20% (Bellanti & Rinaldi, Eur J Neurol 2024).
 
-**Risk factors for VTE in GBS (Bersano et al. 2016):**
+**Risk factors for VTE in GBS (Ryabinkina et al. 2016):**
 - Severe disease requiring mechanical ventilation
 - Bed rest >3 days
 - Infectious complications
@@ -378,7 +378,7 @@ This dual-risk situation requires **individualized, dynamic risk assessment** ra
 - Only administer LMWH if fibrinogen >1.0 g/L
 
 **Weekly during immobilization:**
-- Duplex ultrasound of lower extremities (consider routine screening given the 52% subclinical DVT rate reported by Bersano et al.)
+- Duplex ultrasound of lower extremities (consider routine screening given the 52% subclinical DVT rate reported by Ryabinkina et al.)
 - D-dimer trend (rising levels may prompt earlier ultrasound)
 
 ### 4.4 Special Scenario: Active DVT/PE Discovered During PE Course with Coagulopathy
@@ -458,7 +458,7 @@ This is the most challenging scenario. Management options:
 
 ### DVT/PE in GBS
 14. Gaber TA, Kirker S, Jenner JR. "Current practice of prophylactic anticoagulation in Guillain-Barré syndrome." *Clin Rehabil.* 2002;16(2):190-193.
-15. Bersano A, Strazzer S, et al. "Venous thromboembolism in patients with Guillain-Barré syndrome." *Neurol Sci.* 2016;37(9):1541-1545. PMID: 27240174
+15. Ryabinkina YV, Piradov MA, Gnedovskaya EV, Suponeva NA, Prokazova PR. [Venous thromboembolism in patients with Guillain-Barré syndrome] (Russian). *Zh Nevrol Psikhiatr Im S S Korsakova.* 2016;116(5):13-18. PMID: 27240174 *(Citation corrected 2026-11-25 — previously misattributed to "Bersano et al., Neurol Sci"; figures unchanged.)*
 16. Yoo DS, et al. "Deep venous thrombosis in patients with Guillain-Barré syndrome undergoing inpatient rehabilitation." *Arch Phys Med Rehabil.* 2003;84(Suppl 2):S173.
 17. Bellanti R, Rinaldi S. "Guillain-Barré syndrome: a comprehensive review." *Eur J Neurol.* 2024;31(7):e16365.
 18. Ali MI, et al. "Tracheostomy in Guillain-Barré syndrome." *J Clin Neuromuscul Dis.* 1999;1(2):79-83.

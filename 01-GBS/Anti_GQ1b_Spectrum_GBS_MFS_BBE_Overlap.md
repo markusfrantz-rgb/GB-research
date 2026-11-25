@@ -683,7 +683,7 @@ Standard GBS weaning criteria apply (see `07-acute-icu-protocols/Ventilator_Wean
 
 **This paper's central lesson:** An 80-year-old BBE patient survived 7 weeks of coma and was actively recovering neurologically (eye movements improving, beginning to speak) when he **died of pulmonary embolism**. A preventable death.
 
-PE complicates 7% of ICU GBS cases (Weiss 2025). DVT incidence: 52% with systematic screening even with LMWH (Bersano et al., 2016, PMID: 27240174).
+PE complicates 7% of ICU GBS cases (Weiss 2025). DVT incidence: 52% with systematic screening even with LMWH (Ryabinkina et al., 2016, PMID: 27240174).
 
 **Protocol:** LMWH + intermittent pneumatic compression for the entire duration of immobility.
 

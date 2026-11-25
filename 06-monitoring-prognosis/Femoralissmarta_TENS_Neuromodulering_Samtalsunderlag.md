@@ -8,6 +8,8 @@ status: active
 
 *Sammanställt 2026-11-25 (dag ~249) inför samtal med neurokirurg. Svenskt samtalsunderlag; den fullständiga evidensgenomgången med alla referenser finns i [forskningsdokumentet (engelska)](Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md).*
 
+*Om HO-operationen (tidpunkt, risker, blod/anti-IgA, GBS-återfall): [HO_Operation_Samtalsunderlag.md](HO_Operation_Samtalsunderlag.md).*
+
 *Dokumentet sammanfattar vad forskningen visar och var den tar slut. Det är skrivet av en analytiker, inte av en specialist i neuromodulering, och ersätter inte behandlande läkares bedömning.*
 
 ---

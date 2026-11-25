@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **446** (130 PDF + 316 text) |
+| Filer i sources/fulltext/ | **499** (154 PDF + 345 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **355** |
+| Unika artiklar (efter deduplicering) | **384** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **489** |
+| **Totalt filer på disk** | **542** |
 
 ---
 
@@ -472,6 +472,40 @@
 | 339 | **Genêt 2011.** Neurogen HO: 539 operationer, återfall oberoende av tidpunkt | PMC3031592 | [PDF](/source/Genet_2011_NeurogenicHO_570Surgeries_PMC3031592.pdf) <br> [text](/source/Genet_2011_NeurogenicHO_570Surgeries_PMC3031592.txt) |
 | 340 | **de l'Escalopier 2019.** Resektion av HO i höft — översikt | PMC6549106 | [PDF](/source/deLEscalopier_2019_HO_Hip_Resection_Review_PMC6549106.pdf) <br> [text](/source/deLEscalopier_2019_HO_Hip_Resection_Review_PMC6549106.txt) |
 
+#### Tillagda 2026-11-25 (tredje omgången): HO-operation — tidpunkt, utfall, profylax, perioperativt
+
+| # | Artikel | PMID/PMC | Fulltext |
+|---|---------|----------|---------|
+| 341 | **Law-Ye 2016.** Pre-op CT av neurogen HO i höft, 101 pat — 22 % efter lång IVA-vård, kärlkontakt 42 % | PMC5070170 | [PDF](/source/LawYe_2016_NeurogenicHO_Hip_PreopCT_101pts_PMC5070170.pdf) <br> [text](/source/LawYe_2016_NeurogenicHO_Hip_PreopCT_101pts_PMC5070170.txt) |
+| 342 | **Genêt 2011b.** HO-utbredning och återfall (fall-kontroll) | PMC3154269 | [PDF](/source/Genet_2011_HipHO_Extent_Recurrence_PMC3154269.pdf) <br> [text](/source/Genet_2011_HipHO_Extent_Recurrence_PMC3154269.txt) |
+| 343 | **Beom 2023.** HO-resektion höft, stroke, främre snitt | PMC10728050 | [PDF](/source/Beom_2023_NeurogenicHO_Hip_Resection_Stroke_PMC10728050.pdf) <br> [text](/source/Beom_2023_NeurogenicHO_Hip_Resection_Stroke_PMC10728050.txt) |
+| 344 | **Le Tat 2026.** Embolisering före höft-HO-op: blodförlust ~1,8 l, 33 % transfunderade | PMC13136659 | [PDF](/source/LeTat_2026_HO_Hip_Preop_Embolization_PMC13136659.pdf) <br> [text](/source/LeTat_2026_HO_Hip_Preop_Embolization_PMC13136659.txt) |
+| 345 | **Amar 2021.** MR vs CT för benbedömning vid höft-NHO | PMC8686225 | [PDF](/source/Amar_2021_HipNHO_MRI_vs_CT_PMC8686225.pdf) <br> [text](/source/Amar_2021_HipNHO_MRI_vs_CT_PMC8686225.txt) |
+| 346 | **Solyom 2026.** Gigantisk iliofemoral HO, 3D-planerad resektion | PMC12985738 | [PDF](/source/Solyom_2026_Iliofemoral_HO_3D_Resection_PMC12985738.pdf) <br> [text](/source/Solyom_2026_Iliofemoral_HO_3D_Resection_PMC12985738.txt) |
+| 347 | **Keister 2026.** Myositis ossificans vid n. femoralis — resektion + neurolys | PMC13653596 | [PDF](/source/Keister_2026_MyositisOssificans_FemoralNerve_PMC13653596.pdf) <br> [text](/source/Keister_2026_MyositisOssificans_FemoralNerve_PMC13653596.txt) |
+| 348 | **Meyers 2019.** HO — omfattande översikt | PMC6478587 | [PDF](/source/Meyers_2019_HO_Comprehensive_Review_PMC6478587.pdf) <br> [text](/source/Meyers_2019_HO_Comprehensive_Review_PMC6478587.txt) |
+| 349 | **Yuan 2026.** Neurogen HO: mekanismer och behandling (inga validerade ALP-gränser) | PMC13380059 | [PDF](/source/Yuan_2026_NeurogenicHO_Mechanisms_Treatment_Review_PMC13380059.pdf) <br> [text](/source/Yuan_2026_NeurogenicHO_Mechanisms_Treatment_Review_PMC13380059.txt) |
+| 350 | **Kaynak 2026.** Tidig excision av HO i armbåge efter IVA-vård | PMC13400217 | [PDF](/source/Kaynak_2026_EarlyExcision_ElbowHO_ICU_PMC13400217.pdf) <br> [text](/source/Kaynak_2026_EarlyExcision_ElbowHO_ICU_PMC13400217.txt) |
+| 351 | **Stoira 2021.** HO hos 19 % av ventilerade covid-patienter, OR 2,64/vecka | PMC7833636 | [PDF](/source/Stoira_2021_HO_COVID19_ICU_Prevalence_PMC7833636.pdf) <br> [text](/source/Stoira_2021_HO_COVID19_ICU_Prevalence_PMC7833636.txt) |
+| 352 | **de l'Escalopier 2021.** Garches: HO efter IVA hanteras som NHO, tidig op möjlig | PMC7810024 | [PDF](/source/deLEscalopier_2021_HO_COVID19_Letter_PMC7810024.pdf) <br> [text](/source/deLEscalopier_2021_HO_COVID19_Letter_PMC7810024.txt) |
+| 353 | **Mezghani 2022.** HO efter covid-IVA, CT-analys | PMC9055793 | [PDF](/source/Mezghani_2022_HO_COVID19_ICU_CT_PMC9055793.pdf) <br> [text](/source/Mezghani_2022_HO_COVID19_ICU_CT_PMC9055793.txt) |
+| 354 | **Chaitani 2024.** HO efter covid — systematisk översikt | PMC11134613 | [PDF](/source/Chaitani_2024_HO_COVID19_SystematicReview_PMC11134613.pdf) <br> [text](/source/Chaitani_2024_HO_COVID19_SystematicReview_PMC11134613.txt) |
+| 355 | **Meyer 2020.** HO vid covid — 4 fall | PMC7587134 | [PDF](/source/Meyer_2020_HO_COVID19_4cases_PMC7587134.pdf) <br> [text](/source/Meyer_2020_HO_COVID19_4cases_PMC7587134.txt) |
+| 356 | **Vassiliou 2021.** HO hos kritiskt sjuka, biomarkörer | PMC8519375 | [PDF](/source/Vassiliou_2021_HO_CriticallyIll_Biomarkers_PMC8519375.pdf) <br> [text](/source/Vassiliou_2021_HO_CriticallyIll_Biomarkers_PMC8519375.txt) |
+| 357 | **Nalbantoglu 2020.** Neurogen HO vid GBS (fall) | PMC7104584 | [PDF](/source/Nalbantoglu_2020_NeurogenicHO_GBS_PMC7104584.pdf) <br> [text](/source/Nalbantoglu_2020_NeurogenicHO_GBS_PMC7104584.txt) |
+| 358 | **Aldhilan 2024.** HO efter GBS (fall) | PMC11374238 | [PDF](/source/Aldhilan_2024_HO_GBS_CaseReport_PMC11374238.pdf) <br> [text](/source/Aldhilan_2024_HO_GBS_CaseReport_PMC11374238.txt) |
+| 359 | **Lachhab 2025.** Neurogen HO efter GBS (fall) | PMC12364450 | [PDF](/source/Lachhab_2025_NeurogenicHO_GBS_PMC12364450.pdf) <br> [text](/source/Lachhab_2025_NeurogenicHO_GBS_PMC12364450.txt) |
+| 360 | **Blokhuis 2009.** Strålning vs indometacin, acetabulumfraktur | PMC2628498 | [PDF](/source/Blokhuis_2009_Radiation_vs_Indomethacin_Acetabular_HO_PMC2628498.pdf) <br> [text](/source/Blokhuis_2009_Radiation_vs_Indomethacin_Acetabular_HO_PMC2628498.txt) |
+| 361 | **Wen 2025.** Strålning mot HO — metaanalys RCT | PMC12339630 | [PDF](/source/Wen_2025_Radiotherapy_HO_MetaAnalysis_RCT_PMC12339630.pdf) <br> [text](/source/Wen_2025_Radiotherapy_HO_MetaAnalysis_RCT_PMC12339630.txt) |
+| 362 | **Xie 2025.** NSAID mot HO efter höftprotes — nätverksmetaanalys (naproxen ≈ indometacin) | PMC12613360 | [PDF](/source/Xie_2025_NSAID_HO_THA_NetworkMeta_PMC12613360.pdf) <br> [text](/source/Xie_2025_NSAID_HO_THA_NetworkMeta_PMC12613360.txt) |
+| 363 | **Ma 2018.** Naproxen mot HO — metaanalys | PMC5839069 | [PDF](/source/Ma_2018_Naproxen_HO_MetaAnalysis_PMC5839069.pdf) <br> [text](/source/Ma_2018_Naproxen_HO_MetaAnalysis_PMC5839069.txt) |
+| 364 | **Rizvi 2022.** Profylax vid neurogen HO — systematisk översikt | PMC9440349 | [PDF](/source/Rizvi_2022_NHO_Prophylaxis_SystematicReview_PMC9440349.pdf) <br> [text](/source/Rizvi_2022_NHO_Prophylaxis_SystematicReview_PMC9440349.txt) |
+| 365 | **Uchimura 2026.** Cellsparare (intraoperativ blodåtervinning) — rapid review | PMC13579282 | [text](/source/Uchimura_2026_Intraoperative_CellSalvage_RapidReview_PMC13579282.txt) |
+| 366 | **Radkowski 2024.** Muskelrelaxantia vid neuromuskulär sjukdom inkl. GBS | PMC11623016 | [text](/source/Radkowski_2024_MuscleRelaxants_NeuromuscularDisease_GBS_PMC11623016.txt) |
+| 367 | **Kapadia 2025.** GBS efter spinalanestesi (fall) | PMC12261857 | [text](/source/Kapadia_2025_GBS_After_SpinalAnesthesia_Knee_PMC12261857.txt) |
+| 368 | **Huang 2020.** Trauma-/kirurgi-relaterad GBS — systematisk översikt (median 9 d) | PMC7681248 | [text](/source/Huang_2020_TraumaRelated_GBS_SystematicReview_PMC7681248.txt) |
+| 369 | **Abwini 2024.** Återkommande GBS efter två knäprotesoperationer | PMC11827089 | [text](/source/Abwini_2024_Recurrent_GBS_After_TKA_PMC11827089.txt) |
+
 #### Ej nedladdade — för Markus att hämta (2026-11-25)
 
 Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i webbläsare" = gratis att läsa men sajten blockerar automatisk nedladdning; "PMC (blockerad text)" = finns i PMC men förlaget spärrar maskinläsning — öppna länken i webbläsaren och spara PDF.
@@ -516,6 +550,24 @@ Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i w
 | B | Gatin 2017; Chalidis 2007; Lachiewicz 2024 — HO-kirurgi: infektion, tidpunkt, smärtutfall | 28215612; 18001198; 38360283 | OTSR; J Neurotrauma; J Arthroplasty | Betalvägg |
 | B | Kromoser 2025; Keister 2026; Thejeel 2024 — Femoraliskompression reversibel / MR | 41123842; 42859843; 38457906 | Neurol Ther; Cureus; Clin Imaging | Kontrollera OA (Cureus är fri) |
 | B | Johnson 1991; Cheing 2003; Bjordal 2003 — TENS långtidsanvändning, passlängd, analgetikabehov | 2052389; 12691335; 12600800 | Pain; J Rehabil Med; Eur J Pain | Betalvägg |
+| A | Denormandie 2018 — Resektion av neurogen HO i höft (Garches teknik) | 29174871 | Orthop Traumatol Surg Res | Fri hos förlaget — hämta i webbläsare |
+| A | Almangour 2016 — Återfall efter HO-resektion, systematisk översikt + register | 27173174 | Ann Phys Rehabil Med | Fri hos förlaget — hämta i webbläsare |
+| A | Gatin 2017 — Infektion efter höft-NHO-resektion (n=411) | 28215612 | Orthop Traumatol Surg Res | Betalvägg |
+| A | Honore 2020 — Strålning mot NHO-återfall ökade sepsis | 32421202 | J Rehabil Med | Betalvägg (ev. fri) |
+| A | Azhideh 2026 — Återfallsprofylax vid NHO, metaanalys | 41134066 | J Spinal Cord Med | Gratis i PMC (ej OA-licens) — hämta i webbläsare |
+| A | Rudant 2018 — Kirurgi och GBS-risk (8 364 fall) | 30143563 | Neurology | Betalvägg |
+| A | Olivier 2010 — Återkommande GBS efter höftoperation | 20070996 | Rev Neurol (Paris) | Betalvägg |
+| A | Polfer 2013 — Nerv-/kärlinklämning av HO, nedre extremitet | 24352781 | J Bone Joint Surg Am | Betalvägg |
+| A | Feldman 1990; Martyn 2006 — Succinylkolin efter GBS / hyperkalemi | 2339807; 16394702 | Anesthesiology | Betalvägg (Anesthesiology ofta fri efter 12 mån) |
+| A | Sandler 2015; Bazin 2026; Keller 2026 — IgA-relaterade transfusionsreaktioner, internationell praxis | 25066014; 42272328; 42337837 | Transfusion; Vox Sang | Betalvägg |
+| B | Papalexis 2023 — Embolisering före höft-HO-op | 36481323 | J Vasc Interv Radiol | Betalvägg |
+| B | Garland 1989, 1991 ×2; Moore 1993; Melamed 2002; Sarafis 1999 — klassiska HO-resektionsserier | 2495875; 1899635; 1899638; 8433193; 12172519; 9932691 | Clin Orthop m.fl. | Betalvägg |
+| B | Genêt 2012; Genêt 2015; Genêt 2019 — tidpunkt, ryggmärgsskada, neuroortopedi | 22495100; 25687517; 30290282 | J Head Trauma Rehabil; Spinal Cord; Ann Phys Rehabil Med | Betalvägg |
+| B | Pakos 2004; Vavken 2009; Gregoritch 1994; Seegenschmiedt 1997; Pakos 2020 — strålning vs NSAID | 15465207; 19517202; 8083129; 9300751; 30990093 | | Betalvägg |
+| B | Beckmann 2015; Fransen 2006 (HIPAID); Banovac 2001/2004; Haran 2004 — NSAID/etidronat | 26677237; 16885182; 11464310; 15179440; 15495048 | | Betalvägg |
+| B | Walton 2023; Lewis 2023 (Cochrane); Fillingham 2019 — cellsparare, tranexamsyra | 37777212; 37294864; 30640647 | | Betalvägg |
+| B | Gensicke 2012; Staff 2010; Hebl 2006; Kopp 2015 — GBS efter kirurgi, regionalanestesi | 22519650; 20846945; 17056972; 26115188 | | Betalvägg |
+| B | Goodman 1997; Kerdoncuff 2002; Brooke 1991; Michelsson 1980; Daud 1993; Vasileiadis 2023 | 9324016; 12020987; 1905528; 7391105; 8374155; 35512120 | | Betalvägg |
 | B | Övriga i dokumentet utan fulltext: Yavuz 2013 (23411652), Oosterhof 2008 (17659838), Ruts 2012 (22154920), Yakovlev 2010 (20672555), Tolba 2020 (32823185), Manchikanti/ASIPP 2024 (39565237) | | | Betalvägg / ej försökt |
 
 ### Övriga relevanta artiklar
@@ -657,4 +709,4 @@ Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i w
 
 ---
 
-*355 unika artiklar (446 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 489 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-11-25.*
+*384 unika artiklar (499 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 542 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-11-25.*
