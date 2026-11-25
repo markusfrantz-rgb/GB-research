@@ -1,6 +1,6 @@
 # Projektstatus — GBS & IgA-brist Kunskapsdatabas
 
-> Senast uppdaterad: 2026-11-23
+> Senast uppdaterad: 2026-11-25
 
 ## Fas: Live / Aktiv forskning
 
@@ -8,7 +8,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 ## Vad som finns
 
-### Forskningsdokument (26 st, ~851 referenser)
+### Forskningsdokument (27 st, ~887 referenser)
 
 | # | Dokument | Område | Status |
 |---|----------|--------|--------|
@@ -33,6 +33,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 19 | `04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md` | **ADEM-GBS overlap, CCPD, kranialnervsinträdeszon, PRES, Hashimotos encefalopati, BBE-spektrum, MR-differentialdiagnostik, kortisonbeslut, 170+ papers, 34 MR-bilder** | Komplett |
 | 20 | `01-GBS/Anti_GQ1b_Spectrum_GBS_MFS_BBE_Overlap.md` | **Anti-GQ1b-spektrumet: klassifikation, patofys, diagnostik, behandling, prognos, MFS natural history (Mori 2001 n=50), pediatrisk BBE (Santoro 2018 n=52), rehabilitering (Lombet 2021), cEEG locked-in (Pisano 2025), 57 ref** | Komplett |
 | 21 | `07-acute-icu-protocols/Infection_Management_Prolonged_GBS_ICU.md` | **Infektionshantering vid prolongerad IVA-vård: empirisk antibiotika, CRBSI-protokoll, eskaleringsalgoritm (pip/tazo→meropenem), PCT-styrning (PRORATA/SAPS), hepatotoxicitet-alternativ, IgA-brist-övervakning, svenska riktlinjer (Strama/SILF), beslutsalgoritm vid positiv blododling, ~35 ref** | Komplett |
+| 25 | `06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md` | **Höftsmärta vid HO: höftkapselns nervförsörjning (femoralis/obturatorius/accessorius, Birnbaum/Laumonerie/Tomlinson), n. obturatorius i canalis obturatorius + delningsmönster (Prabhu 2025), canal-block (Labandeyra 2026), PENG, TENS-mekanismer och dosering (meta-TENS 381 RCT, Moran 2011, SIT-metoden, tolerans), GBS-specifik tolkning (Aβ-fibrer, Ruts 2012), PNS-riktlinjer (ASPN/ASIPP/Ontario HTA), höft-PNS fallrapporter (Elsharkawy 2026, Pierson 2024), neurolys vs icke-destruktivt vid reinnervation, MR-villkor, HO-kirurgi, frågor till teamet, 39 ref** | Komplett |
 | 24 | `06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md` | **Motorisk återinlärning i återhämtningsfasen: tre parallella processer (perifer reinnervation / kortikal re-mapping / muskuloskeletal förändring), Khan 2011 RCT (hög vs låg intensitet, 68% vs 32%), Cochrane 2010, Garssen 2004, Harvey 2017 (stretch — evidens EMOT), overwork weakness, vad som skiljer neurofysioterapi från allmän fysioterapi, implikationer för placeringsbeslut, explicit evidensgapstabell, 13 ref** | Komplett |
 | 23 | `07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md` | **Sen weaningfas på vårdavdelning: REM-hypoventilation, PtcCO₂-kriterier för att avsluta nattlig ventilation, VC sittande/liggande (Fromageot), PCF 160/270 (Bach/Chatwin), MI-E, talventil (Sutt/Freeman-Sanderson), proppträning vs sugfrekvens (NEJM 2020), FEES/SESETD (Warnecke), A2BC (Dziewas 2025), OSA efter dekanylering (Camacho), uppföljning (CHEST 2023), beslutsalgoritm, indexfallstabell, 27 ref** | Komplett |
 | 22 | `07-acute-icu-protocols/ICU_Management_GBS_MFS_BBE_Overlap.md` | **IVA-protokoll BBE-GBS overlap: 20 sektioner inkl. medvetandebedömning, sedering, dysautonomi, kommunikation, VTE, infektionsprevention, candida/svampövervakning (BDG, Candida Score), feber-differentialdiagnostik (PCT/CRP-algoritm), IgA-brist IVA-implikationer (blodprodukter, mukosal immunitet, IVIg-protokoll), sköldkörtelhantering (Hashimotos, NTIS, levotyroxin), leverövervakning (DILI), smärta, nutrition, rehabilitering, daglig checklista, 51 ref** | Komplett |
@@ -47,8 +48,8 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 
 | Komponent | Status | Detaljer |
 |-----------|--------|----------|
-| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 1852 chunks (25 docs + 306 fulltexts) |
-| Fulltext-källor | Live | 411 fulltexter (94 PDF + 269 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
+| RAG-system | Live | ChromaDB + Gemini embeddings, 8 mappar + fulltexter indexerade från 2 källmappar, 2068 chunks (27 docs + 333 fulltexts; senaste chunkning 2026-11-25 — embedding kräver Gemini-krediter) |
+| Fulltext-källor | Live | 441 fulltexter (107 PDF + 291 text i sources/fulltext/ + 43 i research-ivig-iga/fulltexts/) + 33 MR-referensbilder |
 | Webb (Flask) | Live | Sök, fråga, dokument-vy, fulltext-serving, PMID-linkifiering |
 | Auth | Live | ACCESS_CODE via env var, session-baserad |
 | Rate limiting | Live | 10 frågor/min, 30 sökningar/min per IP |
@@ -135,6 +136,7 @@ Kunskapsdatabasen är online och funktionell. Fokus nu är att utöka forskninge
 | 2026-11-20 | **Vårdplanering** (läkare, fysioterapeut, samordnare, biståndshandläggare Mölndals stad). **Madeleine deltog själv.** Initierad på chefsnivå efter remissavslagen. **Kommunal korttidsplats / boende i Mölndals stads regi nämndes inte på mötet** — fortsatt specialistvårdbehov. |
 | 2026-11-20 | **Läkarintyg för färdtjänst** (SU, utfärdat 20/11): diagnos angiven som **Bickerstaffs hjärnstamsencefalit**. Kan inte förflytta sig på egen hand, lift mellan säng och rullstol, eldriven rullstol, rekommenderad reshjälp. Funktionsnedsättningens förväntade varaktighet **>12 månader**. Styrka i armar och ben långsamt förbättrad senaste månaderna. *(Original i Drive, ej i repo — innehåller personuppgifter.)* |
 | 2026-11-23 | **BESKED (från neurolog Daniel): Plats på Högsbo neurorehab — intag 2027-01-11.** Inget sagt om vårdtidens längd på Högsbo. Fram till dess: förhoppningen är att hon stannar på nuvarande avdelning SU, men det är **inte tydligt bekräftat**. Träning under väntetiden: förhoppningsvis som nu (~11 h/v), med undantag för röda dagar över jul. Okänt: om NCS/EMG planeras. |
+| 2026-11-25 (v.48) | **TENS-test höger höft/ljumske: gott resultat** (enligt Markus). TENS-testet föregår beslut om inopererade elektroder (PNS). Den blockerade nerven beskrivs som löpande tillsammans med ett blodkärl genom en "tunnel" och därefter förgrenad — förenligt med **n. obturatorius** (canalis obturatorius), men exakt nerv/teknik ej bekräftad. Nytt forskningsdokument om TENS/PNS vid höftsmärta. |
 
 ### Kommunikation
 
@@ -174,7 +176,7 @@ Sedering lättas för att bedöma spontanandningsförmåga. Första indikationen
 - [ ] **Var vårdas hon 2026-11-23 → 2027-01-11?** Önskemål: kvar inom SU (helst samma avdelning, men inte nödvändigt) — ej tydligt bekräftat
 - [ ] **Träning under väntetiden** — förhoppningsvis som nu (~11 h/v), undantag röda dagar över jul. Bevaka att det håller. (Khan 2011: nedtrappning till underhållsnivå = halva funktionsvinsten)
 - [ ] **NCS/EMG** — fortfarande aldrig utförd. Motivering nu: baslinje inför Högsbo (målsättning, prognos, följa reinnervation) snarare än remissunderlag
-- [ ] **Höftsmärta — TENS-test vecka 48** → beslut om inopererade elektroder. Bedömd som lämplig patient. Följ upp resultat + ev. operationstid i relation till Högsbo-intag 11/1
+- [ ] **Höftsmärta — TENS-test v.48 gav gott resultat** → beslut om inopererade elektroder (PNS) väntar. Bekräfta vilken nerv/teknik (obturatorius? femoralis? PENG?), om provledning (percutan lead-trial) planeras, tillfälligt 60-dagarssystem vs permanent, MR-kompatibilitet, timing mot Högsbo 11/1 och HO-operation ~1 år. Se `06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md` §11
 - [ ] Motorisk-återinlärning-dokumentet: tre identifierade luckor att åtgärda (ej beslutat av Markus) — (1) svensk systemkontext (HSL, regionala vårdprogram, formalia vid remissavslag), (2) argumentet att Högsbos egen målgrupp "andra skador och sjukdomar i CNS" omfattar MR-verifierad BBE, (3) handlingsalternativ för läkare vid avslag. Plus ev. svensk 1-sidassammanfattning till Daniel. **Lägre prio efter beskedet 2026-11-23 — aktuellt igen bara om platsen faller.**
 
 ### Forskning — öppna uppgifter
@@ -339,3 +341,4 @@ Databasen är en strukturerad litteraturöversikt baserad på ~450 peer-reviewed
 | 2026-11-18 | **Ny sektion 10 i motorisk-återinlärning-dokumentet: "The Cost of Delay".** Skriven för neurolog Daniel, som inte förstår Högsbos avslag och som sagt att han inte kan gå med på något som försämrar Madeleines slutgiltiga återhämtningsnivå. Innehåller Salter 2006 (n=435), Maulden/Horn 2005 (n=969), 2025-kohort (n=487) + **explicit överförbarhetsanalys**: strokens tidsgränser (30/60 d) speglar ett stängande plasticitetsfönster och bär INTE över till GBS, där reinnervationen är aktiv i 1–2 år. GBS-risken är inte förfluten tid utan irreversibel muskuloskeletal förändring (kontraktur, HO). Skiljer på vad som riskerar bli **permanent** (mekanistiskt argument) och vad som riskerar **förlängas** (direkt evidens, 2 kohorter). Sektion 10.4 värderar "det har gjorts förut och det har funkat". 3 nya referenser + 1 fulltext. |
 | 2026-11-23 | **Synkronisering (dokumentationsskuld åtgärdad):** `Case_Madeleine_Fragor_och_Fynd.md` och `KUNSKAPSBASEN.md` visade fortfarande dag 185-status medan PROJECT_STATUS var uppdaterad till dag 241. Båda nu uppdaterade till dag 247: dekanylering, heterotop ossifikation + ortopedisk restriktion, tarmdysfunktion, funktionsnivå, träningsmängd ~11 h/v, Högsbo-avslagen och chefsnivåbeslutet, vårdplaneringen 20/11. Milstolpstabellen utökad (dekanylering, normal kost, gymträning). NCS/EMG uppgraderad i diagnostiska luckor — nu motiverad som objektiv verifiering av pågående reinnervation. |
 | 2026-11-23 | **Klinisk uppdatering:** Högsbo neurorehab — intag 2027-01-11. Väntetiden: förhoppning kvar på SU, ej bekräftat; kommunal korttidsplats nämndes inte på vårdplaneringen (fortsatt specialistvårdbehov). Färdtjänstintyg 20/11 läst från Drive: diagnos BBE, varaktighet >12 mån. Uppdaterat i PROJECT_STATUS, KUNSKAPSBASEN, Case_Madeleine. Neurokirurgi 18/11: lämplig patient, TENS-test v.48 före beslut om implantat. MCP: Gmail, Drive, Calendar anslutna (Jira avstängd — onödig för ensamprojekt). |
+| 2026-11-25 | **Klinisk uppdatering + nytt forskningsdokument:** TENS-test v.48 mot höftsmärtan (HO) gav gott resultat; beslut om inopererade elektroder väntar. Nytt dokument `06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md` (13 sektioner, 39 ref): höftkapselns nervförsörjning, n. obturatorius i canalis obturatorius, TENS-dosering (intensitet, SIT-metoden, tolerans, användning under aktivitet), GBS-specifik tolkning, PNS-evidens + höftfall (Elsharkawy 2026 läst i fulltext: 1499 Hz, elektrodmigration → revision), neurolys vs icke-destruktivt vid reinnervation, MR-villkor, HO-kirurgi, 11 frågor till teamet. **+30 filer (17 artiklar) i sources/fulltext/.** Ej nedladdade artiklar listade för Markus i Tillgang (sektion "Höftsmärta, TENS och PNS"). **Öppen fråga:** neurokirurgins metod kan vara ryggmärgsstimulering (SCS) eller DRG-stimulering snarare än perifer PNS — bekräfta. RAG-reindex: chunkning OK (2068), embedding misslyckades (Gemini-krediter slut) — lokalt index tomt tills krediter fylls på. |

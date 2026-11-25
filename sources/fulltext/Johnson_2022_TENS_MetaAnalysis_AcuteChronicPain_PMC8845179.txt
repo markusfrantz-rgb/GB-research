@@ -1,0 +1,293 @@
+# Efficacy and safety of transcutaneous electrical nerve stimulation (TENS) for acute and chronic pain in adults: a systematic review and meta-analysis of 381 studies (the meta-TENS study)
+
+Authors: Mark I. Johnson, Carole A. Paley, Gareth Jones, Matthew R. Mulvey, Priscilla G. Wittkopf
+Journal: BMJ Open. 2022;12(2):e051073
+DOI: 10.1136/bmjopen-2021-051073
+PMID: 35144946
+PMCID: PMC8845179
+License: https://creativecommons.org/licenses/by-nc/4.0/This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative w
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+**Objective** To investigate the efficacy and safety of transcutaneous electrical nerve stimulation (TENS) for relief of pain in adults.
+
+**Design** Systematic review and meta-analysis.
+
+**Data sources** Medline, Cochrane Central, Embase (and others) from inception to July 2019 and updated on 17 May 2020.
+
+**Eligibility criteria for study selection** Randomised controlled trials (RCTs) comparing strong non-painful TENS at or close to the site of pain versus placebo or other treatments in adults with pain, irrespective of diagnosis.
+
+**Data extraction and synthesis** Reviewers independently screened, extracted data and assessed risk of bias (RoB, Cochrane tool) and certainty of evidence (Grading and Recommendations, Assessment, Development and Evaluation). Mean pain intensity and proportions of participants achieving reductions of pain intensity (≥30% or >50%) during or immediately after TENS. Random effect models were used to calculate standardised mean differences (SMD) and risk ratios. Subgroup analyses were related to trial methodology and characteristics of pain.
+
+**Results** The review included 381 RCTs (24 532 participants). Pain intensity was lower during or immediately after TENS compared with placebo (91 RCTs, 92 samples, n=4841, SMD=−0·96 (95% CI −1·14 to –0·78), moderate-certainty evidence). Methodological (eg, RoB, sample size) and pain characteristics (eg, acute vs chronic, diagnosis) did not modify the effect. Pain intensity was lower during or immediately after TENS compared with pharmacological and non-pharmacological treatments used as part of standard of care (61 RCTs, 61 samples, n=3155, SMD = −0·72 (95% CI −0·95 to –0·50], low-certainty evidence). Levels of evidence were downgraded because of small-sized trials contributing to imprecision in magnitude estimates. Data were limited for other outcomes including adverse events which were poorly reported, generally mild and not different to comparators.
+
+**Conclusion** There was moderate-certainty evidence that pain intensity is lower during or immediately after TENS compared with placebo and without serious adverse events.
+
+**PROSPERO registration number** CRD42019125054.
+
+Strengths and limitations of this studyThis meta-analysis is the first to pool data from pain irrespective of diagnosis and meets ‘rule of thumb’ threshold standards for pooling pain data for meta-analysis (ie >500 participants per trial arm).Effect sizes were calculated during or immediately after strong non-painful transcutaneous electrical nerve stimulation (TENS) because this is ecologically valid and overcomes problems of analysing data gathered from a wide variety of TENS regimens, such as pro re nata, where participants are using TENS intermittently.There was a preponderance of small sample-sized studies, so a judicious approach was taken in interpretation of findings.Subgroup analyses were used to explore statistical heterogeneity and the effect of combining different types of pain; the trim and fill method was used to explore publication bias.Grading and Recommendations, Assessment, Development and Evaluation (GRADE) criteria were used to judge the impact of risk of bias, imprecision, inconsistency, indirectness and publication bias on the certainty of effect size estimates.
+
+## Background
+
+Pain is a global health problem with negative consequences for patients, society and healthcare systems.1 2 Transcutaneous electrical nerve stimulation (TENS) is used throughout the world for symptomatic relief of pain, supported by physiological evidence that TENS inhibits the activity and excitability of central nociceptive transmission neurons, irrespective of diagnosis (for review, see Johnson3). In most countries, TENS equipment and accessories are available without prescription; running costs and follow-up clinical support for TENS is inexpensive. Treatment can be self-administered without fear of toxicity, potentially offering symptomatic relief of pain throughout the day.
+
+Uncertainty about the clinical efficacy of TENS has fuelled a longstanding debate as to whether TENS should be offered to patients in public health systems (eg, within the National Health Service in the UK) or covered by private healthcare insurance (eg, by the Center for Medicare Services in the USA). Clinicians and policymakers are confused about the benefits and harm associated with TENS, and clinical practice guidelines are inconsistent. In 2021, the National Institute of Health and Care Excellence (NICE) released guidance for the management of chronic pain in over 16s that recommends not to offer TENS.4 The NICE does not recommend TENS for intrapartum care5 or non-specific chronic low back pain6 but does recommend TENS as an adjunct for osteoarthritis7 and rheumatoid arthritis.8 These guidelines are organised according to a traditional pathology-based classification of pain. This restricts the quantity of randomised controlled trials (RCTs) included for evaluation, despite many of these conditions having commonalities in the way that pain presents. Moreover, there is strong evidence that TENS acts via non-specific therapeutic neuromodulation irrespective of pathology, and that the lived experience of pain and response to pain-relieving interventions result from a complex interplay of biopsychosocial factors (for review, see Johnson3).
+
+The debate about the efficacy of TENS has been ongoing since the 1970s, despite the publication of more than 350 RCTs.9 A comprehensive appraisal of literature identified 169 systematic reviews, including Cochrane reviews, and at least 49 meta-analyses of TENS for specific pain conditions.10 Most reviews are inconclusive due to insufficient pooled data. A recent overview of eight Cochrane reviews on TENS for chronic pain analysed 51 RCTs (2895 participants) and was inconclusive, with reviewers reluctant to pool data for meta-analysis because of clinical heterogeneity.11 There is an absence of convincing or consistent evidence that TENS outcome is related to pathology, pain characteristics, medical diagnoses or clinical context.9 12
+
+It seems logical to evaluate efficacy from a phenomenological perspective, that is, by pooling pain intensity data irrespective of medical condition. This would increase the likelihood of exceeding thresholds for adequacy of pooled data. The intention of TENS is to provide symptomatic relief of pain and discomfort ‘in-the-moment’, so it would be ecologically valid to evaluate outcomes during or immediately after a single strong but comfortable TENS treatment. Assessing TENS at a single time point would mitigate for heterogeneity associated with variable treatment schedules used in RCTs. Clinical heterogeneity associated with combining pain conditions arising from different pathologies and settings can be explored through subgroup analyses. Concerns about the impact of risk of bias (RoB), imprecision, inconsistency, indirectness and publication bias can be assessed using Grading and Recommendations, Assessment, Development and Evaluation (GRADE) criteria. To date, there has been no attempt to undertake a meta-analyse of this nature, possibly because of the enormity of the task.
+
+The aim of our systematic review and meta-analysis was to evaluate the efficacy and safety of TENS for pain, irrespective of medical diagnoses in adults.
+
+## Methods
+
+This systematic review and meta-analysis were conducted and reported in accordance with guidelines from the Cochrane Collaboration of Systematic Reviews; GRADE and the Preferred Reporting Items for Systematic Review and Meta-analysis. The study was registered on PROSPERO and the protocol published (https://bmjopen.bmj.com/content/9/10/e029999).13 See online supplemental file 1 for full details of search strategy, eligibility screening, data extraction and analysis.
+
+### Search strategy and selection criteria
+
+One reviewer (PGW) searched electronic databases (Medline, Embase, Cochrane Central, CINAHL, PsycINFO, LILACS, PEDRO, Web of Science, AMED, SPORTDiscus) from inception to July 2019 and updated on 17 May 2020, for full-text publications of RCTs and for systematic reviews that evaluated TENS for adults with clinical pain vs:
+
+- placebo (eg, sham (no current) TENS device)
+- no treatment or waiting list control
+- standard of care (SoC) and
+- other treatment, both pharmacological and non-pharmacological.
+
+There were no language restrictions and articles were translated where possible.
+
+### Types of TENS interventions
+
+The TENS intervention was defined as pulsed electrical currents generated by a ‘standard TENS device’ administered across the intact surface of the skin using surface electrodes at the site of pain or over nerve bundles proximal (or near) to the site of pain, with the intention of stimulating peripheral nerves to alleviate pain.3 We included any type of pulse pattern and excluded pulse frequencies>250 pulses per second (pps), pulse durations>500 microseconds (µs) and peak-to-peak amplitudes>60 milliamperes (mA).
+
+We included TENS administered by a therapist and/or participant; as a sole treatment or in combination with other treatments, for any duration or regularity of treatment; as a single or multiple treatment intervention with or without follow-up. However, we only extracted data for the measurement timepoint during or immediately after a TENS treatment, as this is the most ecologically valid outcome (see Introduction). We considered participant-reported strong but comfortable TENS sensations as optimal and used this as our primary TENS comparison group. We excluded RCTs evaluating non-painful outcomes (eg, bladder dysfunction, constipation, dementia), or administering TENS at acupuncture points (unless over nerve bundles at the site of pain), using probes or electrode arrays, or using TENS-like currents (eg, interferential current, microcurrent).
+
+Two review authors (PGW and MIJ) independently screened titles, abstracts and full texts and extracted trial characteristics and numerical data. Disagreements were resolved by consensus with a third review author as arbiter (CAP or GJ). Records were not anonymised before assessment. Reasons for exclusion were coded and tabulated. The characteristics of included trials were extracted and tabulated including design, sample population, TENS intervention, comparator(s) and outcome measures. Decisions, trial characteristics and codes for analyses were documented in Excel spreadsheets.
+
+### Types of outcome measures
+
+Pain outcomes were mean (continuous data) patient-reported intensity of spontaneous or evoked pain (at rest or on movement) using standard subjective scales (eg, numerical rating scale (NRS) or visual analogue scale (VAS)) and the proportion of participants reporting a reduction in pain intensity of ≥30% (moderate) or ≥50% (substantial) relative to baseline.14 A between-group difference of ≥10 mm on a 100 mm VAS was set as the threshold for clinical importance in line with the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials (IMMPACT) criteria.15
+
+For standardised mean difference (SMD), we used ‘rules of thumb’ based on Cohen’s d16 17 for interpreting effect sizes as follows:
+
+- <0.4=small effect.
+- 0.4<0.7=moderate effect.
+- ≥0.7=large effect.
+
+We considered a SMD of 0.5 as a rule of thumb for an important difference.17 We were mindful that interpretations of this nature can be problematic due to a variety of factors including settings and context in which pain was evaluated.
+
+We only extracted data at the last during TENS time point (ie, while TENS was switched on) or the first time point immediately after TENS had been switched off. If TENS was administered as a course of treatments, we extracted data from the last treatment session.
+
+We analysed the proportion of participants experiencing an adverse event, irrespective of severity. We only extracted data as ‘zero’ when the RCT report included numerical data for the presence of at least one adverse event in one of the trial arms and clearly stated that no adverse events had occurred in the other trial arm(s).
+
+### Evaluation of TENS effects
+
+Full details of the process used to categorise comparators are provided in online supplemental file 1.
+
+#### TENS versus placebo
+
+We included any type of placebo TENS and conducted a subgroup analysis of the different types of approaches such as sham devices with no electrical current or pulses of current that fade to 0 mA within 1 min. We considered the use of a sham TENS device coupled with appropriate briefing information as an adequate method of blinding.
+
+#### TENS versus no treatment or waiting list control
+
+We considered an intervention as ‘no treatment’ if we were confident that participants did not receive any other ‘active’ treatment. Comparators described as ‘controls’ were not included if patients were taking any type of active treatment, including ad hoc non-prescriptive medication or advice to undertake regular exercises. RCTs that compared TENS in combination with a pharmacological agent versus a control consisting of the pharmacological agent on its own were not included in this analysis.
+
+#### TENS versus SoC comparators
+
+We considered an intervention as SoC when trial authors described the intervention(s) to be fully or part of ‘common’, ‘routine’, or ‘standard’ practice and/or care. Thus, comparisons were either TENS compared head-to-head with a SoC intervention (ie, TENS vs SoC) or TENS as an adjunct to a SoC intervention (ie, TENS combined with SoC vs SoC alone). If a study had more than one treatment comparator, we planned to select only one comparator for meta-analysis to avoid unit-of-analysis errors, although there were no instances of this.
+
+#### TENS versus other treatment comparators
+
+This analysis compared TENS with another treatment that had not been categorised as SoC. There was a variety of other treatment comparators and instances of studies with multiple treatment comparators. We produced a forest plot for visual inspection but did not undertake a subgroup analysis because this would violate criteria for unit of analysis (ie, double counting of primary TENS group data). None of these other treatment subgroups met our criteria for adequate sample size in treatment arms.
+
+### Data analysis
+
+Meta-analyses were conducted using Review Manager 5.3 and Stata 16 software. We calculated SMD for continuous data and risk ratio (RR) for dichotomous data. Pre-specified criteria were used to select the primary TENS comparison and we did not enter several interventions into the same meta-analysis to avoid double-counting and unit-of-analysis errors. We used an intention-to-treat analysis and combined data from first and second periods in cross-over trials because there was sufficient washout between interventions to eliminate contamination. We produced forest plots for visual inspection and calculated overall treatment effect sizes when there were at least 100 data points in both trial arms pooled from at least two RCTs. Data was considered imprecise if the TENS treatment arm was below 500 participants for pooled data or below 200 participants for a single RCT.18
+
+Two review authors (CAP and MIJ) independently assessed RoB using the Cochrane tool. We examined heterogeneity using visual inspection of forest plots, the I² statistic, the Chi2 test and the Cochrane Collaboration’s rough guide to interpretation. Small study effects were analysed using Egger’s regression test (p-value set at ≤0·1), and the trim and fill method was used to analyse potential publication bias.
+
+Pre-specified subgroup analyses were related to
+
+- trial methodology for example, overall RoB, trial arm sample size, and access to other treatments
+- characteristics of pain for example, duration (acute vs chronic), medical diagnosis (pain conditions), mechanistic descriptors (nociceptive or neuropathic), and systems or organs involved (musculoskeletal, visceral, somatosensory); and
+- characteristics of TENS and comparators for example, high vs low frequency TENS, types of placebos, and types of SoC.
+
+Eligibility criteria had optimised TENS technique by excluding RCTs that did not deliver TENS above sensory detection threshold or close to the site of pain, making subgroup analyses of optimal vs suboptimal intensity or site of stimulation impossible. There were insufficient data to undertake subgroup analyses of conventional vs acupuncture-like TENS.
+
+We interpreted subgroup analyses by considering: a p-value of <0·1 to indicate a statistically significant subgroup effect (interaction); the direction of each subgroup effect (ie, qualitative or quantitative); and the extent to which individual trials differed in treatment effects within each subgroup (ie, heterogeneity), in-line with Richardson et al.19 We evaluated the certainty of evidence using the GRADE system (GRADEpro GDT 2015, https://gradepro.org/).20
+
+Full details about the principles and operational procedures of subgroup analyses and GRADE assessments, including interpreting the findings, are provided in online supplemental file 1.
+
+### Patient and public involvement
+
+There was no patient or public involvement in any aspect of this study or its write-up.
+
+## Results
+
+Our searches yielded 7679 records (figure 1). After removal of duplicates, we screened 5384 records and reviewed 623 full-text reports of which 381 RCTs were included (383 samples, 24 532 participants, 334 parallel-group, see online supplemental file 2 for characteristics of included studies) and 19 RCTs are awaiting classification (online supplemental file 3). Violations of pre-specified criteria for TENS were the most common reasons for excluding studies (online supplemental file 4). See online supplemental file 1 for full details of screening, extraction, main and subgroup analyses, and interpretation, including RoB and GRADE judgements.
+
+[Figure] Figure 1 PRISMA flowchart. PRISMA, Preferred Reporting Items for Systematic Review and Meta-analysis; TENS, transcutaneous electrical nerve stimulation.
+
+Included trials consist of 176 samples with chronic pain (osteoarthritis=32 samples), 162 samples with acute pain (post-operative pain=95 samples), 10 samples mixed, and 35 samples unclear. There were 26 trials with overall low RoB (figure 2 and online supplemental file 1). Small sample size was an issue with 341 trials having fewer than 50 participants in the TENS group (mean±SD TENS group=27·71±21·89 participants; 13 RCTs enrolled >100 participants in the TENS group). There were at least 216 TENS interventions where participants had access to other treatments, most commonly medication or exercise as part of ongoing SoC, as a combination treatment or as rescue analgesia. Often, monitoring and/or reporting of concurrent treatment(s) was deficient.
+
+[Figure] Figure 2 Risk of bias graph: review authors’ judgments about each risk of bias item presented as percentages across all included studies.
+
+All studies met our pre-specified criteria for TENS, although unclear reporting hindered characterisation of specific aspects of TENS technique. We categorised 276 interventions as high-frequency TENS (100Hz=109 interventions) and 35 interventions as low-frequency TENS. Participants in some RCTs were instructed to adjust the pulse frequency of TENS as needed. TENS interventions varied considerably; supervised (therapist) or unsupervised (self-administered); prescribed or pro re nata (PRN); single or multiple treatments; short treatment duration <1 min for procedural pain or up to 2 years ‘as required’ for chronic pain. Inconsistency in treatment duration was mitigated by assessing TENS during or immediately after TENS treatment.
+
+There were 352 of 381 RCTs that gathered continuous data for pain intensity and 164 RCTs had extractable data for meta-analysis. Figure 3 summarises overall effect sizes for treatment comparisons with at least 100 pooled data points per intervention arm and figure 4 summarises subgroup analyses for types of pain. There was insufficient extractable data to conduct responder analyses of participants reporting a >30% or >50% reduction in pain intensity unless otherwise stated.
+
+[Figure] Figure 3 Summary of standardised mean difference (SMD) and 95% CI of pain intensity for intervention comparisons and subgroup analyses of risk of bias (RoB), trial arm size and type of standard of care (SoC) intervention.
+
+[Figure] Figure 4 Summary of standardised mean difference (SMD) and 95% CI of pain intensity between TENS and placebo for types of pain in analyses with greater than 100 pooled data points in each trial arm. RCTs, randomised controlled trials; TENS, transcutaneous electrical nerve stimulation.
+
+Online supplemental file 1 provides details about analyses (ie, main, subgroup and sensitivity), forest and funnel plots, and GRADE judgements with summary of findings tables.
+
+### TENS versus placebo
+
+We extracted mean (continuous) data from 91 of 202 RCTs comparing TENS with placebo. There was a significant overall effect in favour of TENS and substantial statistical heterogeneity (TENS=2426 participants, placebo=2415 participants, SMD = −0·96 [95% CI −1·14,–0·78], I²=88%).
+
+Subgroup analyses found that the effect of TENS was not modified by methodological variables including overall RoB (score <6, online supplemental file 5), sample size, or the type of placebo. Subgroup analyses found that the effect of TENS was not modified by any pain characteristic including the duration (acute vs chronic, (online supplemental file 6), mechanistic descriptors, or physiological structure involved.
+
+The test for subgroup differences for pain diagnoses was statistically significant (Chi²=202.12, df=23 (p<0.001), I²=88.6%) but there were more trials (and participants) contributing data from some pain conditions than others, and there was considerable unexplained heterogeneity between the trials within each of these subgroups. A sensitivity analysis following removal of subgroups with pooled sample sizes fewer than 100 participants in the TENS trial arm, rendered the test for subgroup differences for pain diagnoses not statistically significant (figure 5). Therefore, we interpret these findings as pain diagnosis does not modify the effect of TENS in comparison to placebo.
+
+[Figure] Figure 5 Foreste to downgrade further, and we judged the plot of pain diagnoses as stated by RCT author(s) for the SMD and 95% CI of pain intensity between TENS and placebo. See online supplemental file 2 for reference list of studies. RCTs, randomised controlled trials; SMD, standardised mean difference; TENS, transcutaneous electrical nerve stimulation.
+
+We downgraded evidence by one level for the combined effects of unexplained heterogeneity and possible publication bias. Egger’s regression test showed significant evidence of a small‐study effect (p<0·0001) and trim and fill analysis showed evidence of publication bias, indicating that eight trials might be missing to the right of the mean for an adjusted SMD of ‐0·78 (95% CI −0·995 to ‐0·565). Trim and fill did not alter the SMD to any appreciable degree. Approximately 90% of studies had ‘low’ or ‘unclear’ overall RoB scores although sub-group and sensitivity analyses of RoB did not modify the effect of TENS. We did not judge there to be serious limitations for blinding of placebo because sham TENS devices have been shown to create uncertainty about whether a device is correctly functioning21; and there was less than 10% incidence of high RoB for random sequence generation and allocation concealment. Thus, it was not appropriate to downgrade further, and we judged there to be moderate-certainty evidence.
+
+We extracted dichotomous data from nine RCTs and found a statistically significant difference in the proportion of participants reporting a reduction of pain intensity >50% in favour of TENS (TENS=106/241 responders, placebo 28/219 responders, RR=2·89 [2·02, 4·13], p<0·00001, I²=0%). There were too few RCTs and participants to be entirely certain of the validity of the treatment effect estimate so we downgraded by two levels to low-certainty evidence.
+
+### TENS versus no treatment
+
+We extracted mean (continuous) data from 10 of 16 RCTs (602 participants) comparing TENS with a no treatment control. There was a statistically significant difference in favour of TENS and substantial statistical heterogeneity (TENS=298 participants, no treatment=304 participants, SMD = −0·82 [95% CI −1·18,–0·46], I²=76%) (figure 4). There was insufficient data to undertake subgroup analyses to explore the effect of methodological nor clinical characteristics on outcome. Egger’s regression test showed significant evidence of a small‐study effect (p=0·0878). However, trim and fill analysis showed no evidence of publication bias. We downgraded two levels to low-certainty evidence due to unexplained heterogeneity and small study effect.
+
+### TENS versus treatment(s) used as SoC
+
+We extracted mean (continuous) data from 61 of 127 RCTs (3155 participants) comparing TENS with treatment(s) used as SoC. There was a statistically significant difference in favour of TENS and substantial statistical heterogeneity (TENS=1594 participants, SoC=1561 participants, SMD=−0.72 (95% CI −0.95 to −0.5), I²=88%) (figure 3). Subgroup analyses suggested that the type of SoC intervention (predominantly exercise/physiotherapy vs predominantly pharmacological) did not modify the effect of TENS. Egger’s regression test showed significant evidence of a small‐study effect (p=0·0062). Trim and fill analysis showed evidence of publication bias, indicating that 11 trials might be missing to left of mean for an adjusted SMD of −1·032 (95% CI –1·31 to –0·76). We downgraded one level for imprecision (unexplained heterogeneity effect) and one level for publication bias, small study effect and an RoB associated with unblinded treatment, that is, to low-certainty evidence.
+
+### TENS versus other treatment(s)
+
+We extracted mean (continuous) data from 67 of 118 RCTs that compared TENS with a treatment, not categorised by RCT authors as SoC (67 RCTs, 131 samples, 3327 participants). We chose not to report the meta-analysis due to the heterogeneous mix of comparators, the inclusion of duplicate data in the TENS arm and subgroups with too few comparisons. Therefore, we did not GRADE this evidence.
+
+### High versus low-frequency TENS
+
+We extracted mean (continuous) data from 13 of 37 RCTs (468 participants) that compared high with low-frequency TENS and found no statistically significant difference (high-frequency TENS=235 participants, low-frequency TENS=233 participants, SMD=−0.19 (95% CI −0.43 to −0.06), I²=39%) (figure 3). Egger’s regression test showed no significant evidence of a small‐study effect (p=0·8871). Trim and fill analysis showed no evidence of publication bias. We downgraded by one level to moderate-certainty evidence of no difference because the pooled data sample size did not meet prespecified threshold of at least 500 participants per trial arm.
+
+### Safety
+
+There were 136 reports that included a statement about adverse events (59/136=no adverse events in all intervention groups, 90/136=no adverse events related to TENS, see online supplemental file 7 for characteristics of adverse events). Often statements were unclear. Adverse events associated with TENS were mild in severity, infrequent in occurrence and included skin irritation, tenderness/soreness and TENS discomfort. There were no reports of a serious adverse event directly attributable to TENS. We extracted dichotomous data from 18 RCTs (1587 participants) and found no statistically significant difference in the risk of an adverse event, irrespective of severity, between TENS and comparators (RR=0·73 (95% CI 0·36 to 1·48), p=0·38, I2=66%). The type of comparator did not modify the effect. We downgraded by two levels for indirectness because of the use of spontaneous detection of adverse events based on ill-defined criteria, two levels for RoB and one level for imprecision, and for publication bias, that is, to very low-certainty evidence.
+
+## Discussion
+
+### Statement of principal findings
+
+Our meta-analysis of 91 RCTs (4841 participants) found that pain intensity was lower during or immediately after strong but comfortable TENS administered to painful body parts, when compared with placebo. RoB or trials with fewer than 50 participants per treatment arm did not modify the effect of TENS, allaying at least in part, concerns that small study size may undermine the veracity of our conclusion.22 Pain characteristics and diagnosis did not modify the effect of TENS compared with placebo. Inconsistency in individual trial results generated uncertainty in the magnitude of effect estimates for different types of pain, but this was quantitative in nature (ie, in the same direction and always in favour of TENS). Thus, we are confident that pain intensity is lower during or immediately after TENS treatment when compared with placebo.
+
+We judged there to be moderate-certainty evidence that the magnitude of the effect size estimate exceeds the threshold for clinical importance, that is, surpassed our 0.5 ‘rules of thumb’ for Cohen’s d. The magnitude of the SMD suggests that mean pain intensity during or immediately after TENS was 0·96 standard deviations (SDs) lower than placebo (95% CI 1·14 lower to 0·78 lower). The lower boundary of the 95% CI exceeds our prespecified threshold for a large and clinically meaningful difference using Cohen’s interpretation of effect size. This can be re-expressed by back transforming the SMD to a familiar scale such as a 0 mm (no pain) to 100 mm (worst pain imaginable) VAS. To do this, we selected a low RoB study that was representative of the population and intervention in the meta-analysis (ie, by Atamaz et al23—knee osteoarthritis) and multiplied the SD of the control group (20.3) by the pooled SMD (−0.96) producing a mean difference (MD) of 19.49 mm in favour of TENS17 (chapter 15.5.3.2). This exceeds our prespecified criterion for clinical importance in line with IMMPACT criteria (ie, set ≥10 mm on a 100 mm VAS).15 Likewise, we back-transformed the SMD of Dailey et al24 (fibromyalgia, high-frequency TENS, low RoB, used a 0–10 NRS) and calculated MD to be 1.91 points. This also exceeded our criterion for clinical importance. We emphasise that effect sizes re-expressed in this way should be interpreted with extreme caution because they are based on the SD of only one study.
+
+There was low-certainty evidence that more participants reported at least 50% reduction in pain during or immediately after TENS than placebo. There was low-certainty evidence that pain intensity was lower during TENS compared with treatments that we categorised as exercise/physiotherapy or analgesic medications when they were used wholly or as part of standard/routine care (61 RCTs, 3155 participants). Adverse events were minor with no serious adverse events reported in 381 RCTs, but there was very low-certainty evidence of the RR estimate suggesting no risk of an adverse event, irrespective of severity compared with comparators, provided very low-certainty evidence.
+
+### Strengths of the study
+
+Our systematic review of 381 RCTs (24 532 participants) is the most comprehensive to date and is the first to undertake an ‘all-encompassing’ meta-analysis. Our analysis is logical, systematic, rigorous and transparent, and we have been judicious when interpreting the analysis using the GRADE approach.
+
+Our estimates of effect size during or immediately after a treatment of TENS at, or close to the site of pain, is ecologically valid because symptomatic relief of pain ‘in-the-moment’ is of primary importance. In practice, patients tailor treatment regimens to match the temporal characteristics of their pain at that moment in time. Our primary endpoint accounts for confounders associated with variability of TENS techniques and regimens, such as PRN, where participants may be using TENS intermittently. Credence is given to effect size estimates of long-term follow-up, but analysis of such outcomes is complex for TENS. Often trial reports are unclear whether data were collected within an ongoing course of treatment, or after a course of TENS treatment had finished (ie, follow-up), and this would compromise simple pooling of long-term and/or follow-up data.10 Our analysis of outcomes during or immediately after treatment also reduces the influence of participants who stop using TENS within a prolonged course of treatment. We noted a scarcity of data at 6 weeks, 3 months, 6 months and 12 months after the end of a course of TENS treatment in studies included in our review. Thus, we suspect that effect sizes for long-term and/or follow-up outcomes will be less precise than those during or immediately after a TENS treatment.
+
+### Weaknesses of the study
+
+An overview of Cochrane reviews on TENS for chronic pain did not pool data from small-sized trials because of concern about imprecision.11 25 The purpose of our meta-analysis was to explore the nature of TENS data and as suspected high levels of unexplained statistical heterogeneity were found. We quantified small study effect and publication bias, although the adjusted SMD using the trim and fill method did not alter the effect size estimate for TENS versus placebo. Valentine et al argue that a prospective or retrospective power analysis can be of value,26 although we preferred to make inferences based on prespecified thresholds for pooling data suggested by Moore et al18 (ie, ≥500 participants per trial arm and credence given to individual trial arm sample sizes of ≥200 participants). There were insufficient studies with extractable data of at least 100 participants in the TENS group to conduct a sensitivity analysis, although removing studies with fewer than 50 participants did not affect the effect size estimates of any of our primary comparisons. The largest TENS trial arm sample size was 144 participants.27 There is potential to undertake further analyses in the future, such as examination of CI width and retrospective power analysis based on a clinically important effect size rather than the observed effect size.26 Meta-regression and network analyses could also explore the impact of interstudy heterogeneity and the relationships between different types of comparators on outcome.
+
+The impact of inadequate reporting contributed to unclear RoB judgements affecting the precision of categorising types of pain, the nature of comparators and whether participants used additional treatments. Remarkably few reports followed standards for design and reporting of TENS trials.28 In placebo comparisons, blinding of participants was achieved using a sham TENS device (commonly without current) and prestudy briefings to create uncertainty about which intervention was functioning properly. This has been shown to be a valid method of reducing performance bias, although few of the included studies measured blinding success.21 Contamination of effect size estimates by concurrent treatment was also an issue.29 We decided not to use generic inverse variance to correct for paired data associated with crossover trial data because of sufficient washout periods and an overwhelming number of parallel group data points.
+
+Most investigators reported spontaneous detection of adverse events based on ill-defined criteria resulting in very low-certainty for the precision of our estimate of RR. Inadequate adverse event reporting remains a concern in RCTs of non-pharmacological interventions for pain.30
+
+Judgements of the impact of study limitations (RoB), imprecision, inconsistency, indirectness and publication bias resulted in downgrading the certainty of all effect size estimates according to GRADE criteria (online supplemental file 1). Decisions to downgrade rely on judgements of the authorship team. Our decision to downgrade TENS versus placebo by only one level may be challenged. We decided that high statistical heterogeneity and possible publication bias were not sufficient enough to downgrade by two levels of evidence. Trim and fill did not alter the SMD to any appreciable degree. We did not downgrade for study limitation because subgroup analyses did not modify the effect of TENS and sensitivity analyses did not affect the overall effect size estimate. We argue that there would be low risk of blinding using sham TENS, especially when participants received briefings that some electrotherapies do not generate sensations (eg, microcurrent electrical stimulation). This promotes the belief that electrotherapy devices not generating sensations may be functioning correctly and delivering an active treatment.21
+
+### Strengths and weaknesses in relation to other studies
+
+The findings of our meta-analysis are consistent with clinical experience and physiological plausibility. Since its inception over 50 years ago, clinical experience and expert opinion have remained resolute that TENS provides some people with immediate short-term relief of pain by therapeutic neuromodulation, in a manner akin to rubbing the skin (for review, see Johnson3). Physiological evidence demonstrates that selective activation of low threshold somatosensory peripheral afferents by TENS reduces activity and excitability of sensitised and non-sensitised central nociceptive transmission cells; and this effect does not persist far beyond the duration of stimulation.31 32 Different frequencies of pulsed current influence central neuropharmacological actions in animal studies,33 but clinical research has failed to find relationships between electrical characteristics, type of pain and clinically meaningful outcome.12 Our finding that adverse events were minor and mostly erythema and itchiness at the site of electrodes is consistent with evaluations of safety by professional bodies.34
+
+Previous systematic reviews and meta-analyses, including Cochrane reviews, are inconsistent and/or inconclusive (for review, see Johnson3). The 2021 NICE guidelines for chronic pain did not recommend TENS for chronic primary pain based on analyses of two RCTs on fibromyalgia.4 The NICE excluded RCTs that had been evaluated in previous NICE guidelines (eg, non-specific low back pain6), reducing the quantity of extractable data for meta-analysis. We analysed data from 20 trials that we coded as chronic primary pain according to the International Classification of Diseases 11th revision (ICD-11) and found a statistically significant overall effect in favour of TENS compared with placebo (SMD=−0.66 (−1.20 to −0.29), p<0.0004, online supplemental file 1). Moreover, our finding that pain characteristics and diagnosis did not moderate the effect of TENS is of critical importance. Thus, we hope that these findings will be considered by future guideline panels.
+
+### Meaning of the study
+
+Our all-encompassing analysis of RCTs provides clinicians and policymakers with evidence that TENS is efficacious at reducing the intensity of pain ‘in-the-moment’. Data were extracted and combined from a variety of settings (ie, hospital, clinic and home) and when TENS was administered on its own or in combination with other treatments. Scrutiny of data and sub-group analyses did not suggest that these factors influence outcome to an appreciable degree.
+
+#### Implications for clinical practice
+
+Pain mechanisms are complex often causing uncertainty in finite diagnoses. Contemporary pain science suggests that pain acts to protect the integrity of tissue rather than monitor the status of tissue damage, that is, 'hurt does not always mean harm'. Our findings suggest that TENS may be beneficial for pain irrespective of pain characteristics or medical diagnosis, supporting the view that TENS should primarily be indicated according to symptoms, that is, the presence of pain rather than medical diagnosis. We encourage guideline panels to consider this evidence when evaluating TENS in the future. Nevertheless, we do not claim that TENS is efficacious for all types of pain because there were insufficient RCTs to judge for every diagnosis or pain characteristic.
+
+Optimal pain management strategies adopt a biopsychosocial approach and a self-management framework to aid recovery, including return to activities of daily living and improvements in quality of life. Core treatment involves physical activity and psychological interventions supported by pain education and lifestyle adjustments towards healthy living. Neuromodulation techniques such as TENS are indicated as adjuncts to core treatment and used to alleviate sensations of pain, muscle tension and spasm, and the impact of an ‘overprotective brain’. Patients report that TENS provides indirect benefits including enhanced function, improved psychological well-being, better sleep and medication reduction; therefore, TENS is widely accepted by patients because it is inexpensive, can be self-administered and has no toxicity.35 36 In clinical practice, users are advised to personalise their treatment strategy, including the electrical characteristics of currents, according to their personal needs.
+
+Recently, Johnson9 argued that the long-standing search for optimal TENS parameters for specific pathology-based pain conditions has been futile, and that the quality of the TENS sensation rather than specific electrical characteristics of current is the critical factor for success. Our analysis suggested that the frequency of currents does not modify outcome when a strong non-painful TENS sensation is generated within or close to the site of pain, and we suspect that this would also be the case for pulse duration (width) and pulse pattern if sufficient data became available. This supports best practice guidelines to advise patients to self-administer strong non-painful TENS within or close to the site of pain and to adjust pulse frequency, duration and pattern to what is most comfortable. Patients are advised to administer TENS as often as is necessary, although there is evidence that physiological tolerance may develop.37 This does not appear to have a significant impact in clinical practice when a variety of troubleshooting strategies are used, including the use of modulated currents to create a novel input to the nervous system.38
+
+In summary, TENS should be considered in a similar manner to rubbing, cooling or warming the skin to provide symptomatic relief of pain via neuromodulation. One advantage of TENS is that users can adjust electrical characteristics to produce a wide variety of TENS sensations such as pulsate and paraesthesiae to combat the dynamic nature of pain. Consequently, patients need to learn how to use a systematic process of trial and error to select electrode positions and electrical characteristics to optimise benefits and minimise problems on a moment to moment basis.39
+
+### Unanswered questions and future research
+
+Our findings should discourage publication of small-sized RCTs and new systematic reviews until larger RCTs become available. For decades, systematic reviewers have called for large multicentred RCTs to resolve the efficacy-impasse. This situation is unlikely to change in the foreseeable future, due in part to a lack of funding.9 We recommend the delivery of an enriched enrolment randomised withdrawal design with trial arm sample sizes of at least 200 participants to overcome methodological issues.9 28 We predict that such a trial would produce an effect size estimate close to our analysis of TENS versus placebo.
+
+Our findings justify the need for pragmatic ecologically valid studies gathering real-world data about how best to integrate TENS into practice. Recently, a 30 min TENS treatment was shown to predict longer term outcome in women with fibromyalgia.40 Real-world data can be used to develop educational packages to train and support patients to optimise TENS treatment within a self-care model of pain management.35 36 We did not undertake a cost-benefit analysis, although previous analyses provide evidence that TENS equipment, running costs and follow-up clinical support, is inexpensive and can reduce annual costs for chronic low back pain and knee osteoarthritis.41 42
+
+## Conclusions
+
+This systematic review resolves long-term uncertainty about the efficacy of TENS. The meta-analysis provides moderate-certainty evidence that strong non-painful TENS within or close to the site of pain produces clinically important reductions in the intensity of pain during or immediately after treatment, with no reports of serious adverse events. Clinicians, policymakers and funders should consider TENS as an adjunct to core treatment for immediate short-term relief of pain, irrespective of diagnosis. Patients should be advised to tailor TENS treatment according to their individual needs.
+
+## Supplementary Material
+
+## Data availability statement
+
+Data are available upon reasonable request. Data is available on request from Prof. Mark I. Johnson - m.johnson@leedsbeckett.ac.uk.
+
+## Ethics statements
+
+### Patient consent for publication
+
+Not applicable.
+
+### Ethics approval
+
+Ethical approval for the review was granted by Leeds Beckett University (Application Ref: 78097). This study does not involve human participants.
+
+## References
+
+1. GBD 2019 Diseases and Injuries Collaborators. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the global burden of disease study 2019. Lancet 2020; 396: 1204 – 22. 10.1016/S0140-6736(20)30925-9 33069326 PMC7567026
+2. Pitcher MH, Von Korff M, Bushnell MC, et al. Prevalence and profile of high-impact chronic pain in the United States. J Pain 2019; 20: 146 – 60. 10.1016/j.jpain.2018.07.006 30096445 PMC8822465
+3. Johnson MI. Transcutaneous electrical nerve stimulation. In: Watson T, Nussbaum EL, eds. Electrophysical agents. 13 edn. Elsevier, 2020: 264 – 95.
+4. National Institute for Health and Care Excellence (NICE). Chronic pain (primary and secondary) in over 16S: assessment of all chronic pain and management of chronic primary pain (NG193). London, UK: National Institute for Health and Care Excellence, 2021: 1 – 36. 33939353
+5. National Institute for Health and Clinical Excellence (NICE). Nice clinical guideline 55 intrapartum care: care of healthy women and their babies during childbirth. London, 2007: 1 – 65.
+6. National Institute for Health and Care Excellence (NICE). Low back pain and sciatica in over 16s: assessment and management. Clinical guideline [NG59]. National Institute for Health and Care Excellence (NICE), 2016: 1 – 18.
+7. National Institute for Health and Care Excellence (NICE). Osteoarthritis: care and management. NICE guidelines [CG177. London: NICE, 2014: 1 – 37. 31869054
+8. National Institute for Health and Clinical Excellence (NICE). Nice clinical guideline 79 rheumatoid arthritis: the management of rheumatoid arthritis in adults. London, 2009: 1 – 35.
+9. Johnson MI. Resolving long-standing uncertainty about the clinical efficacy of transcutaneous electrical nerve stimulation (TENS) to relieve pain: a comprehensive review of factors influencing outcome. Medicina 2021; 57: 378. 10.3390/medicina57040378 33919821 PMC8070828
+10. Paley CA, Wittkopf PG, Jones G, et al. Does TENS reduce the intensity of acute and chronic pain? A comprehensive appraisal of the characteristics and outcomes of 169 reviews and 49 meta-analyses. Medicina 2021; 57: 1060. 10.3390/medicina57101060 34684097 PMC8539683
+11. Gibson W, Wand BM, Meads C, et al. Transcutaneous electrical nerve stimulation (TENS) for chronic pain - an overview of Cochrane Reviews. Cochrane Database Syst Rev 2019; 2: CD011890. 10.1002/14651858.CD011890.pub2 30776855 PMC6379178
+12. Johnson MI, Ashton CH, Thompson JW. An in-depth study of long-term users of transcutaneous electrical nerve stimulation (TENS). Implications for clinical use of TENS. Pain 1991; 44: 221 – 9. 10.1016/0304-3959(91)90089-G 2052389
+13. Johnson MI, Jones G, Paley CA, et al. The clinical efficacy of transcutaneous electrical nerve stimulation (TENS) for acute and chronic pain: a protocol for a meta-analysis of randomised controlled trials (RCTs). BMJ Open 2019; 9: e029999. 10.1136/bmjopen-2019-029999 PMC6830670 31662366
+14. Moore RA, Derry S, Wiffen PJ. Challenges in design and interpretation of chronic pain trials. Br J Anaesth 2013; 111: 38 – 45. 10.1093/bja/aet126 23794643
+15. Dworkin RH, Turk DC, Wyrwich KW, et al. Interpreting the clinical importance of treatment outcomes in chronic pain clinical trials: IMMPACT recommendations. J Pain 2008; 9: 105 – 21. 10.1016/j.jpain.2007.09.005 18055266
+16. Cohen J. Statistical power analysis for the behavioral sciences. 2 ed. Hillsdale, NJ: Earlbaum, 1988.
+17. Higgins JPT. Cochrane Handbook for systematic reviews of interventions. 2nd edn. Wiley-Blackwell, 2019: 728.
+18. Moore AR, Gavaghan D, Tramèr RM, et al. Size is everything--large amounts of information are needed to overcome random effects in estimating direction and magnitude of treatment effects. Pain 1998; 78: 209 – 16. 10.1016/S0304-3959(98)00140-7 9870574
+19. Richardson M, Garner P, Donegan S. Interpretation of subgroup analyses in systematic reviews: a tutorial. Clin Epidemiol Glob Health 2019; 7: 192 – 8. 10.1016/j.cegh.2018.05.005
+20. Ryan R, Hill S. How to grade the quality of the evidence. Available: http://cccrg.cochrane.org/author-resources [Accessed 28 Sep 2021 ].
+21. Rakel B, Cooper N, Adams HJ, et al. A new transient sham TENS device allows for investigator blinding while delivering a true placebo treatment. J Pain 2010; 11: 230 – 8. 10.1016/j.jpain.2009.07.007 19945354 PMC2922105
+22. Dechartres A, Trinquart L, Boutron I, et al. Influence of trial sample size on treatment effect estimates: meta-epidemiological study. BMJ 2013; 346: f2304. 10.1136/bmj.f2304 23616031 PMC3634626
+23. Atamaz FC, Durmaz B, Baydar M, et al. Comparison of the efficacy of transcutaneous electrical nerve stimulation, interferential currents, and shortwave diathermy in knee osteoarthritis: a double-blind, randomized, controlled, multicenter study. Arch Phys Med Rehabil 2012; 93: 748 – 56. 10.1016/j.apmr.2011.11.037 22459699
+24. Dailey DL, Vance CGT, Rakel BA, et al. Transcutaneous electrical nerve stimulation reduces movement-evoked pain and fatigue: a randomized, controlled trial. Arthritis Rheumatol 2020; 72: 824 – 36. 10.1002/art.41170 31738014 PMC7188591
+25. Travers MJ, O'Connell NE, Tugwell P, et al. Transcutaneous electrical nerve stimulation (TENS) for chronic pain: the opportunity to begin again. Cochrane Database Syst Rev 2020; 20: ED000139. 10.1002/14651858.ED000139 PMC10408285 32323312
+26. Valentine JC, Pigott TD, Rothstein HR. How many studies do you need? A primer on statistical power for meta-analysis. Journal of Educational and Behavioral Statistics 2010; 35: 215 – 47.
+27. Borup L, Wurlitzer W, Hedegaard M, et al. Acupuncture as pain relief during delivery: a randomized controlled trial. Birth 2009; 36: 5 – 12. 10.1111/j.1523-536X.2008.00290.x 19278378
+28. Bennett MI, Hughes N, Johnson MI. Methodological quality in randomised controlled trials of transcutaneous electric nerve stimulation for pain: low fidelity may explain negative findings. Pain 2011; 152: 1226 – 32. 10.1016/j.pain.2010.12.009 21435786
+29. Grøvle L, Hasvik E, Haugen AJ. Rescue and concomitant analgesics in placebo-controlled trials of pharmacotherapy for neuropathic pain and low back pain. Pain 2020; 161: 3 – 10. 10.1097/j.pain.0000000000001690 31479067
+30. Hunsinger M, Smith SM, Rothstein D, et al. Adverse event reporting in nonpharmacologic, noninterventional pain clinical trials: ACTTION systematic review. Pain 2014; 155: 2253 – 62. 10.1016/j.pain.2014.08.004 25123543
+31. Ma YT, Sluka KA. Reduction in inflammation-induced sensitization of dorsal horn neurons by transcutaneous electrical nerve stimulation in anesthetized rats. Exp Brain Res 2001; 137: 94 – 102. 10.1007/s002210000629 11310176
+32. Garrison DW, Foreman RD. Effects of transcutaneous electrical nerve stimulation (TENS) on spontaneous and noxiously evoked dorsal horn cell activity in cats with transected spinal cords. Neurosci Lett 1996; 216: 125 – 8. 10.1016/0304-3940(96)13023-8 8904799
+33. Sluka KA, Vance CGT, Lisi TL. High-Frequency, but not low-frequency, transcutaneous electrical nerve stimulation reduces aspartate and glutamate release in the spinal cord dorsal horn. J Neurochem 2005; 95: 1794 – 801. 10.1111/j.1471-4159.2005.03511.x 16236028
+34. Houghton P, Nussbaum E, Hoens A. ELECTROPHYSICAL AGENTS - Contraindications And Precautions: An Evidence-Based Approach To Clinical Decision Making In Physical Therapy. Physiother Can 2010; 62: 5 – 80. 10.3138/ptc.62.5 PMC3031347 21886384
+35. Gozani SN, Ferree TC, Moynihan M, et al. Impact of transcutaneous electrical nerve stimulation on sleep in chronic low back pain: a real-world retrospective cohort study. J Pain Res 2019; 12: 743 – 52. 10.2147/JPR.S196129 30881088 PMC6394244
+36. Gladwell PW, Cramp F, Palmer S. Matching the perceived benefits of transcutaneous electrical nerve stimulation (TENS) for chronic musculoskeletal pain against patient reported outcome measures using the International classification of functioning, disability and health (ICF). Physiotherapy 2020; 106: 128 – 35. 10.1016/j.physio.2019.01.017 30930052
+37. Liebano RE, Rakel B, Vance CGT, et al. An investigation of the development of analgesic tolerance to TENS in humans. Pain 2011; 152: 335 – 42. 10.1016/j.pain.2010.10.040 21144659 PMC3027071
+38. Desantana JM, Santana-Filho VJ, Sluka KA. Modulation between high- and low-frequency transcutaneous electric nerve stimulation delays the development of analgesic tolerance in arthritic rats. Arch Phys Med Rehabil 2008; 89: 754 – 60. 10.1016/j.apmr.2007.11.027 18374009 PMC2744433
+39. Johnson MI. Transcutaneous electrical nerve stimulation (TENS). research to support clinical practice. Oxford, UK: Oxford University Press, 2014.
+40. Vance CGT, Zimmerman MB, Dailey DL, et al. Reduction in movement-evoked pain and fatigue during initial 30-minute transcutaneous electrical nerve stimulation treatment predicts transcutaneous electrical nerve stimulation responders in women with fibromyalgia. Pain 2021; 162: 1545 – 55. 10.1097/j.pain.0000000000002144 33230010 PMC8049882
+41. Pivec R, Minshall ME, Mistry JB, et al. Decreased opioid utilization and cost at one year in chronic low back pain patients treated with transcutaneous electric nerve stimulation (TENS). Surg Technol Int 2015; 27: 268 – 74. 26680409
+42. Woods B, Manca A, Weatherly H, et al. Cost-Effectiveness of adjunct non-pharmacological interventions for osteoarthritis of the knee. PLoS One 2017; 12: e0172749. 10.1371/journal.pone.0172749 28267751 PMC5340388

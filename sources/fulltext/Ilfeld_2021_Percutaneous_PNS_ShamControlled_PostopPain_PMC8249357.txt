@@ -1,0 +1,354 @@
+# Percutaneous Peripheral Nerve Stimulation (Neuromodulation) for Postoperative Pain: A Randomized, Sham-Controlled Pilot Study
+
+Authors: Brian M. Ilfeld, Anthony Plunkett, Alice M. Vijjeswarapu, Robert Hackworth, Sandeep Dhanjal, Alparslan Turan, Steven P. Cohen, James C. Eisenach, Scott Griffith, Steven Hanling, Daniel I. Sessler, Edward J. Mascha, Dongsheng Yang, Joseph W. Boggs, Amorn Wongsarnpigoon, Harold Gelfand, PAINfRE Investigators (a complete list is provided in Appendix B)
+Journal: Anesthesiology. 2021;135(1):95
+DOI: 10.1097/ALN.0000000000003776
+PMID: 33856424
+PMCID: PMC8249357
+License: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+**Background.** Percutaneous peripheral nerve stimulation is an analgesic technique involving the percutaneous implantation of a lead followed by the delivery of electric current using an external pulse generator. Percutaneous peripheral nerve stimulation has been used extensively for chronic pain, but only uncontrolled series have been published for acute postoperative pain. The current multicenter study was undertaken to (1) determine the feasibility and optimize the protocol for a subsequent clinical trial; and (2) estimate the treatment effect of percutaneous peripheral nerve stimulation on postoperative pain and opioid consumption.
+
+**Methods.** Preoperatively, an electrical lead was percutaneously implanted to target the sciatic nerve for major foot/ankle surgery (e.g., hallux valgus correction), femoral nerve for anterior cruciate ligament reconstruction, or brachial plexus for rotator cuff repair, followed by a single injection of long-acting local anesthetic along the same nerve/plexus. Postoperatively, participants were randomized to 14 days of either electrical stimulation (n=32) or sham stimulation (n=34) using an external pulse generator in a double-masked fashion. The dual primary treatment effect outcome measures were: (1) cumulative opioid consumption (in oral morphine equivalents); and, (2) mean value of the “average” daily pain scores measured on a 0–10 Numeric Rating Scale within the first 7 postoperative days.
+
+**Results.** During the first 7 postoperative days opioid consumption in participants given active stimulation was a median [IQR] of 5 mg [0, 30] versus 48 mg [25, 90] in patients given sham treatment: ratio of geometric means (97.5%CI) 0.20 (0.07, 0.57), P<0.001. During this same period the average pain intensity in patients given active stimulation was a mean ± SD of 1.1 ± 1.1 versus 3.1 ± 1.7 in those given sham: difference (97.5% CI) −1.8 (−2.6, −0.9), P<0.001.
+
+**Conclusions.** Percutaneous peripheral nerve stimulation reduced pain scores and opioid requirements free of systemic side effects during at least the initial week after ambulatory orthopedic surgery.
+
+## Introduction
+
+Tens-of-millions of surgical procedures are performed on an ambulatory basis each year in the United States.1 Many patients experience inadequate analgesia,2,3 leading to physical and emotional suffering, inferior rehabilitation,4 and the risk of transitioning from acute to chronic (“persistent”) postoperative pain which has an incidence of 10–50%.5 Inadequately-controlled postoperative pain is largely consequent to excessive reliance on perioperative opioids—the foundation of postoperative analgesia for over a century. Unfortunately, opioids have well-documented detrimental consequences for both individuals and society.6,7 Even minor ambulatory surgical procedures can lead to chronic opioid use, with significant negative consequences such as hyperalgesia, dependence, and substance use disorder.8
+
+Percutaneous peripheral nerve stimulation is an analgesic alternative that may improve postoperative analgesia while concurrently reducing or obviating opioid requirements, all without any demonstrated risk of adverse systemic side effects.9 Insulated leads small enough to be introduced via a needle are now available, enabling relatively rapid ultrasound-guided percutaneous implantation and subsequent withdrawal with simple traction.10 An external pulse generator is adhered directly to the skin, delivering a small electric current through the insulated lead to the target nerve.9
+
+Ultrasound-guided percutaneous peripheral nerve stimulation was first reported in situ by Huntoon and Burgher in 2009 using an epidural neurostimulation electrode for the treatment of neuropathic pain.11 While various lead designs and percutaneous approaches have been reported subsequently, they were used nearly exclusively for chronic pain conditions.12 In 2018 the U.S. Food and Drug Administration cleared the first percutaneous peripheral nerve stimulation lead and pulse generator system for use treating acute postoperative and chronic pain.9 Multiple case reports and small series suggest substantial analgesic and opioid sparing benefits after painful surgical procedures,13–18 but no data from randomized studies involving acute pain are available to validate the technique and quantify any risks and benefits.
+
+We therefore conducted a pilot multicenter, randomized, controlled study to assess feasibility of a future larger trial and estimate potential benefits and risks of percutaneous peripheral nerve stimulation for analgesia after moderate-to-severely-painful ambulatory surgery. Specifically, we sought to evaluate percutaneous peripheral nerve stimulation for ambulatory orthopedic surgical procedures to: (1) determine the feasibility of and optimize a study protocol; and, (2) estimate analgesia and opioid sparing within the initial postoperative week.
+
+## Methods
+
+This study followed Good Clinical Practice and was conducted within the ethical guidelines outlined in the Declaration of Helsinki. The trial was prospectively registered at clinicaltrials.gov (NCT03481725; Ilfeld, March 29, 2018). The protocol was approved by the Institutional Review Board at each of the 7 enrolling centers (Table A, Supplemental) as well as the United States Army Medical Research and Development Command Human Research Protection Office. An independent Data Safety Monitoring Board was responsible for the conduct and oversight of all aspects of the investigation from the planning phase through data analysis (Appendix A). Written, informed consent was obtained from all participants.
+
+### Participants.
+
+Enrollment was offered to adult patients at least 18 years of age scheduled for ambulatory orthopedic surgery with a planned single-injection peripheral nerve block for postoperative analgesia. The surgical procedures included rotator cuff repair, hallux valgus correction, anterior cruciate ligament repair with a patellar autograft, and ankle arthrodesis or arthroplasty. Patients were excluded for (1) chronic analgesic use including opioids (daily use within the 2 weeks prior to surgery and duration of use > 4 weeks); (2) neuro-muscular deficit of the target nerve(s); (3) compromised immune system based on medical history (e.g., immunosuppressive therapies such as chemotherapy, radiation, sepsis, infection), or other condition that placed the subject at increased infection risk; (4) implanted spinal cord stimulator, cardiac pacemaker/defibrillator, deep brain stimulator, or other implantable neurostimulator whose stimulus current pathway may overlap; (5) history of bleeding disorder; (6) antiplatelet or anticoagulation therapies other than aspirin; (7) allergy to skin-contact materials (occlusive dressings, bandages, tape etc.); (8) incarceration; (9) pregnancy; (10) chronic pain for more than 3 months of any severity in an anatomic location other than the surgical site; (11) anxiety disorder; (12) history of substance abuse; or (13) inability to contact the investigators during the treatment period, and vice versa (e.g., lack of telephone access).
+
+### Lead implantation.
+
+Preoperatively, participants had a percutaneous lead (MicroLead™, SPR Therapeutics, Inc., Cleveland, OH) inserted to target the brachial plexus (shoulder),18 femoral nerve (knee),15 or sciatic nerve (foot/ankle)16 under ultrasound guidance. Patients were positioned either supine (brachial plexus, femoral) or prone (sciatic) and had the lead site prepared with chlorhexidine gluconate/isopropyl alcohol solution and sterile drapes. A portable ultrasound and linear or curved array transducer within a sterile sleeve were utilized for lead implantation.
+
+The stimulating probe was inserted into an introducer “sleeve” and then passed through a lidocaine skin wheal to approximately 2 cm from the epineurium of the target nerve. The probe was connected to an external pulse generator or “stimulator” (SPRINT® PNS System®, SPR Therapeutics, Inc., Cleveland, OH) with a surface return electrode placed on the ipsilateral limb. Electric current was delivered at 100 Hz with the intensity slowly increased from zero. The pulse generator intensity setting spans a range of 0 (no current) to 100 (maximum), indicating a combination of amplitude (0–30 mA) and pulse duration (10–133 μs), the specific combination of which at each intensity setting is proprietary and therefore unavailable for publication. The optimal sensory changes targeted the surgical area; and, if sensory changes occurred in a different location or muscle contractions were induced, the stimulator was switched off, and then the probe/introducer advanced or withdrawn and readvanced with a slightly different trajectory.
+
+This process was repeated until sensory changes (often described as a “pleasant massage”) were perceived in the surgical area. The current was decreased to zero and the stimulating probe withdrawn from the introducing sleeve, leaving the latter in situ. An introducing needle which was preloaded with the lead was inserted through the sleeve. The introducing needle-sleeve combination was then withdrawn, deploying the lead.
+
+The lead was again connected to the stimulator to ensure lead dislodgement did not occur during deployment (if so, a new lead was inserted). Wound closure adhesive (2-Octyl 2-cyanoacrylate) was applied to the exit point, a connector block attached to the lead approximately 2 cm from the skin entry point, the excess lead removed with a sterile scissors, and the lead entry site covered with a sterile dressing. The lead was connected to the stimulator a final time and settings recorded. The stimulator was removed leaving the lead in situ.
+
+Immediately prior to surgery, participants received an ultrasound-guided single-injection interscalene (shoulder), adductor canal (knee), or popliteal-sciatic (foot/ankle) nerve block with 20 mL of ropivacaine 0.5% (with epinephrine). For surgical anesthesia, participants received a general anesthetic with intravenous propofol or inhaled volatile anesthetic in nitrous oxide and oxygen. Intravenous fentanyl, hydromorphone and/or morphine were administered intraoperatively, as needed.
+
+### Treatment group assignment.
+
+After confirmation of successful lead implantation, participants were randomly allocated to one of two possible treatments: receiving either electric current (experimental group) or not (sham/control group). Randomization was stratified by institution and anatomic lead location in a 1:1 ratio and in randomly chosen block sizes using computer-generated lists by the informatics group of the Department of Outcomes Research at the Cleveland Clinic. Treatment group assignment was conveyed to the enrolling sites via the same secure web-based system used to collect and collate all post-intervention outcomes (Research Electronic Data Capture, Cleveland Clinic, Cleveland, Ohio). The pulse generators (SPRINT® PNS System®, SPR Therapeutics, Inc., Cleveland, OH) are capable of being programmed to either (1) pass electrical current; or (2) not pass electrical current. Importantly, these 2 modes (active and sham) are indistinguishable in appearance, and therefore investigators, participants, and all clinical staff were masked to treatment group assignment, with the only exception being the unmasked individual who programed the stimulator and was not involved in subsequent patient assessments. The unmasked personnel who programmed the pulse generator provided the programmed unit in the off position to the individual interacting with the subject.
+
+Following surgery, the stimulator was attached to the lead and initiated within the recovery room. The level (0–100) was set for the lowest setting at which the participant had first sensed sensory changes following the initial lead implantation. Patients and their caretakers were educated on lead/stimulator care and functioning; and informed that individuals frequently do not have the sensations postoperatively that were experienced during preoperative lead implantation as therapeutic benefit with subthreshold stimulation occurs.20 In other words, once proper lead placement is confirmed with comfortable sensations during implantation, therapeutic levels of stimulation may be delivered sub-threshold—below the intensity required for sensation and still provide relief—following surgery. While the frequency (100 Hz) was fixed, the intensity was controlled by participants with a small Bluetooth-connected remote.19 Patients were provided with two rechargeable batteries, instructed to keep one in the wall charger and the other attached to the pulse generator,19 and exchange these two batteries at the same time once daily. A carryover analgesic effect allowed for showering following temporary stimulator disconnection and removal.21
+
+Prior to discharge, participants and their caretakers were provided with verbal and written stimulator/lead instructions and the telephone and pager numbers of a local healthcare provider available at all times while the lead was in situ. Participants were discharged home with their leads in situ and with a prescription for immediate release oral opioid tablets. Non-steroidal anti-inflammatory drugs were not standardized due to the multiple surgeons involved at multiple enrolling centers. Acetaminophen as not prescribed, but subjects could self-administer this over-the-counter analgesic if they desired. Participants were contacted by telephone for end point collection. Lead removal occurred on postoperative day 14 (+/− 2 days) by healthcare providers. Similar to perineural catheters, this procedure encompasses simply removing the occlusive dressing and slowly withdrawing the lead with gentle traction. If accidental premature dislodgement occurred, the patient could have the lead replaced, if desired. Following study completion, the results were provided to all participants using non-technical language.
+
+### Outcome measurements (end points).
+
+We selected outcome measures that have established reliability and validity, with minimal inter-rater discordance, and are recommended for pain-related clinical trials by the World Health Organization and the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials (IMMPACT) consensus statement.22 Outcomes were evaluated at baseline (prior to lead implantation); during the intervention (days 1–4, 7, and 11); and following lead removal (day 15, months 1 and 4). Baseline measurements were collected in person which included the Post-Traumatic Stress Disorder Checklist (PCL-C), a 20-item self-report measure validated in military,23 veteran,24–26 and civilian populations.27 All subsequent outcomes were collected by investigators at the University of California, San Diego by telephone regardless of enrolling center.
+
+### Primary outcome measures.
+
+The dual primary outcome measures were the (1) cumulative oral opioid consumption (in morphine equivalents);28 and, (2) mean value of the “average” daily pain scores measured on the 0–10 Numeric Rating Scale within the initial 7 postoperative days. To claim percutaneous peripheral nerve stimulation was more effective, at least one of the primary outcomes had to be superior with the other being either superior or at least noninferior. The Numeric Rating Scale is a highly-sensitive measure of pain intensity with numbers ranging from 0 to 10, zero equivalent to no pain and 10 equivalent to the worst imaginable pain; it is a valid and reliable measure for evaluating analgesic interventions.29 Additionally, Numeric Rating Scale scores correlate well with other measures of pain intensity,30 and demonstrate high test-retest reliability.31 These Numeric Rating Scale characteristics led to World Health Organization and the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials consensus recommendations for use of the 10-point Numeric Rating Scale of pain intensity for pain trials.22
+
+### Secondary outcome measures.
+
+The primary instrument was the Brief Pain Inventory (short form) which assesses pain and its interference with physical and emotional functioning on days 3, 7, 15 as well as months 1 and 4.32 The instrument includes three domains: (1) pain, with four questions using a Numeric Rating Scale to evaluate 4 pain levels: “current”, “least”, “worst”, and “average”; (2) percentage of relief provided by pain treatments with one question; and, (3) interference with physical and emotional functioning using a 0–10 scale (0 = no interference; 10 = complete interference). The seven interference questions involve general activity, mood, walking ability, normal work activities (both inside and outside of the home), relationships, sleep, and enjoyment of life32. These seven functioning questions can be combined to produce an interference subscale (0–70). The use of both single items (e.g., mood) and the composite scores is supported by the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials consensus recommendations for assessing pain in clinical trials22,33. Pain was also measured with the Defense and Veterans Pain Rating Scale on the same days as the Brief Pain Inventory. Quality of life was measured with the World Health Organization Quality of Life-BREF at months 1 and 4.34–36 This instrument was developed by the World Health Organization to focus on those aspects of life most important to patients and is composed of 24 questions assessing 4 dimensions: (1) physical health, (2) psychological health, (3) social relationships, and (4) environment.35 Adverse events were reported to the Institutional Review Boards, Data Safety Monitoring Boards, and the Army Human Research Protections Office.
+
+### Statistical analysis.
+
+The randomized groups were compared for balance on baseline characteristics using descriptive statistics and the standardized difference (i.e., difference in means or proportions divided by pooled standard deviation). Absolute standardized differences larger than 0.487 (using the formula in Austin (2009)37 were considered imbalanced and the corresponding variables considered for adjustment in all analyses, either as a covariate in a model or using the stratified Wilcoxon rank sum test. Primary analyses were modified intent-to-treat, such that all randomized patients who received at least some of the study intervention were included in the analyses, and with the group to which they were randomized.
+
+### Primary Outcomes.
+
+We assessed the treatment effect of peripheral nerve stimulation versus usual and customary care on pain and opioid consumption using a joint hypothesis testing framework. Specifically, we planned to conclude peripheral nerve stimulation was more effective than (better than) usual and customary analgesia if found superior on at least one of average pain score and opioid consumption, and not worse (i.e., noninferior) on either.38
+
+#### Noninferiority testing.
+
+We first assessed noninferiority of peripheral nerve stimulation to usual care on each of the two outcomes using 1-tailed noninferiority tests. The a priori-defined noninferiority deltas were 1 point (worse) in pain score and 20% higher in opioid consumption. Noninferiority was assessed at the overall 0.025 significance level with no adjustment to the significance criterion for testing two outcomes since noninferiority is required on both outcomes – i.e., an intersection union test. A noninferiority delta of 1 point in pain score is conservative since receiver operating characteristic curve analysis has demonstrated that changes from baseline of at least 1.7 along a 10-point Numeric Rating Scale accurately identified patients who rated improvements as “much improved” or more, compared with those who perceived no change or worsening following analgesic interventions.39–41
+
+We tested for noninferiority on pain score with a one tailed t-test in which the numerator was the estimated treatment effect from the model minus the noninferiority delta (1 point), and the denominator was the standard error of the estimated treatment effect. The estimated treatment effect for pain score was derived from a linear mixed effects model with the outcome of patient “average” pain score for each day, including fixed effects for intervention (peripheral nerve stimulation vs usual care) and time (days 1 through 7). In doing so, we assumed an autoregressive correlation structure among and measurements on the same patient over time. When presenting this analgesia data, the mean difference (97.5% CI) the stimulation vs. sham (placebo) was estimated from a repeated measures linear mixed model with an autoregressive correlation structure by adjusting for baseline BPI average pain score and imbalanced surgical location; adjusting for baseline BPI average pain score only; and adjusting for baseline BPI average pain score, surgical location and surgical type; interaction model (i.e., treatment * time) adjusting for baseline BPI average pain score and imbalanced surgical location, and mean difference (97.5% CI) at each day was estimated from the interaction effect model. And for the sensitivity analysis, median difference was estimated from Wilcoxon rank sum test adjusted for surgical location and the Hodges-Lehmann estimator of location shift between groups.
+
+Cumulative opioid consumption was not normally distributed, but approximately log-normal. We therefore assessed the treatment effect of peripheral nerve stimulation versus usual care on log-transformed cumulative opioid consumption from recovery room discharge through POD 7 using a simple linear regression model. The estimated treatment effect (i.e., difference between groups) was then used in a noninferiority test with null and alternative hypotheses as: H0: μ1 – μ2 ≥ log(1.2) = 0.263 versus HA: μ1 – μ2 < log(1.2) = 0.263, where μ1 and μ2 are the means of log-transformed opioid consumption for peripheral nerve stimulation and usual care, respectively, and μ1 – μ2 is estimated by the coefficient (i.e., beta) for peripheral nerve stimulation versus usual care in the regression model. The estimated treatment effect beta is also an estimate of the ratio of geometric means for peripheral nerve stimulation versus usual care, assuming data are log-normal with similar coefficient of variation between groups.
+
+In this planning phase we placed focus on the estimated confidence interval for the treatment effects and the variability of the outcomes (SD for pain score and coefficient of variation for opioid consumption). When presenting the opioid data, ratio of means (97.5% CI) of the stimulation vs. sham (placebo) was estimated from a multiple regression adjusting for imbalanced surgical location, without adjusting for surgical location, and adjusting for surgical location and surgical type; median difference was estimated from Wilcoxon rank sum test adjusted for surgical location and the Hodges-Lehmann estimator of location shift between groups.
+
+#### Superiority Testing.
+
+Since noninferiority was found on both pain and opioid consumption we next tested for superiority on each outcome using 1-tailed tests in the same direction. For superiority testing, since superiority on either outcome was sufficient to reject the joint null hypothesis (i.e., a union-intersection test), we controlled the type I error at 0.025 across the 2 outcomes by using a Bonferroni correction and using 0.025/2=0.0125 as the significance criterion for each outcome.
+
+### Secondary Outcomes.
+
+We used a linear mixed effects model to assess the treatment effect over time for additional outcomes measured at days POD 1–7 (1,2,3,4,7), as in the primary analysis, including worst pain and the Defense and Veterans Pain Rating Scale; we similarly assessed the treatment effect on total severity score and total interference score at days 3 and 7. For Brief Pain Inventory components and other outcomes analyzed at a single time point (days 11, 15; months 1, 4) we used linear regression or Wilcoxon rank sum test for ordinal outcomes, as appropriate, and chi-square analyses for binary outcomes (e.g., incidence of chronic pain). We used Wilcoxon rank sum test for quality of life measured by the World Health Organization Quality of Life-BREF Instrument.
+
+### Assessing Treatment Effect Heterogeneity.
+
+We assessed the interaction between the treatment effect and selected baseline variables of sex and surgical procedure (e.g., ankle versus shoulder/knee) on the primary outcomes of pain and opioid consumption using the relevant regression models. We did not require a significant interaction in order to report the treatment effect for each level of the baseline variables.
+
+### Missing Data.
+
+Missing outcomes data were summarized along with a known etiology of the absence. All analyses were intention to treat, and missing data were largely assumed to be missing at random. We therefore did not impute missing data for outcomes measured once or for repeated measures analyses. If we had reliable evidence that data were not missing at random, data would have been analyzed within patterns of the missing data mechanism.
+
+### Sample size considerations.
+
+The planned pilot study sample size of N=64 patients was chosen to be able to estimate the treatment effects of interest with moderate precision, i.e., a confidence interval width of roughly 1.1 standard deviations for each outcome measure. As well, we were able to estimate a confidence interval for a standard deviation with width of 0.70 standard deviations. Estimates of the primary outcome treatment effects, the observed variability in the outcomes (e.g., standard deviation for pain score and coefficient of variation for opioid consumption), as well as the within-subject correlation in the linear mixed effects model from this Phase I study were used to plan the sample size for the larger trial.
+
+The overall significance level was 0.025 for the 1-tailed noninferiority and superiority testing for the primary outcomes. It was 0.05 for all other hypotheses as those were 2-tailed tests for superiority. SAS statistical software (Cary, NC) was used for all analyses.
+
+## Results
+
+Between January 2019 and September 2020, a total of 66 patients were enrolled, had a lead successfully implanted, and randomized to either stimulation (n=32) or sham (n=34). The surgery for one participant randomized to active stimulation was cancelled and he was therefore not included in the analysis since he received no portion of the intervention (Figure 2). Among baseline characteristics (Table 1), only surgical side was imbalanced between the two randomized groups with an ASD of 0.490 (> imbalance criterion of 0.487) and was adjusted for in all analyses. One patient receiving stimulation withdrew from the study on postoperative day 3 and was included in all analyses per the intent-to-treat protocol.
+
+### Primary outcome.
+
+During the first 7 postoperative days opioid consumption (oral morphine equivalents) in participants receiving active stimulation was a median [IQR] of 5 mg [0, 30] versus 48 mg [25, 90] in patients given sham (estimated ratio of geometric means (97.5%CI) 0.20 (0.07, 0.57), P<0.001). During the same time period the average pain intensity in patients receiving active stimulation was a mean ± SD of 1.1 ± 1.1) versus 3.1 ± 1.7 in those given sham (difference in means (95% CI) from linear mixed effects model of −1.8 (−2.6, −0.9), P<0.001). No interaction between treatment and postoperative day on BPI average pain score was found (P=0.18). Since superiority (as well as noninferiority) was found on both primary outcomes, the joint null hypothesis was rejected and active stimulation is concluded to be better than sham for pain management in the first 7 days (Figure 2) Sensitivity analyses on the primary outcomes gave treatment effect estimates very close to the primary analysis results (Table 2).
+
+### Treatment effect heterogeneity on primary outcomes (Table B, Supplemental).
+
+The treatment effect of stimulation versus sham on opioid consumption in the first 7 days did not vary significantly as a function of sex (interaction P= 0.61) or surgical procedure (interaction P=0.99). Likewise, the treatment effect on average pain score during the first 7 days did not vary as a function of sex (interaction P= 0.52) or surgical procedure (interaction P=0.63) in a linear mixed effects model.
+
+### Secondary outcomes (Supplemental Tables C–H).
+
+Worst, average, and current pain scores (Figure 3) as well as opioid consumption were significantly lower for participants receiving stimulation on all individual days while the leads were in place, without correction for multiple testing (Figures 3, 4, Supplemental Figure 6). Participants who received active treatment had less physical and emotional interference due to pain during the treatment phase as well as the day following lead removal (Figure 5). Few statistically significant differences between treatments were identified at 1 and 4 months; although one notable exception was the complete lack of opioids required by participants of the stimulation group compared with 6 for controls (P=0.025; Supplemental Tables F and G).
+
+### Assessment of blinding.
+
+Among 64 participants with a recorded response, 61 (95%) believed they were either receiving active treatment or did not know to which group they were randomized. Among the 3 participants who believed they were receiving sham treatment, 2 had actually received active treatment. Thus, only a single person in the sham group accurately predicted their group assignment.
+
+### Adverse Events and protocol deviations.
+
+One pulse generator stopped functioning the day following surgery and was replaced. One subject with a sciatic lead withdrew on postoperative day 3 due to unpleasant sensations in the sciatic nerve distribution (he refused to decrease the level of current intensity). One subject developed erythema under the dressing which resolved following dressing removal (the lead was left in situ and affixed with paper tape by the patient). The leads of two participants fractured during intentional removal.
+
+## Discussion
+
+This multicenter, randomized, double-masked, sham-controlled pilot study provides evidence that ultrasound-guided percutaneous peripheral nerve stimulation improves analgesia and concurrently decreases opioid requirements to a statistically significant and clinically meaningful degree for at least a week after moderate-to-severely painful ambulatory orthopedic surgery. Secondary endpoints suggest that some analgesic and opioid benefits continued beyond lead removal on postoperative day 14. Pain’s interference with emotional and physical functioning was also decreased during the 2-week intervention and the day following lead removal; however, there appeared to be little residual benefit at Months 1 and 4.
+
+Various factors favor percutaneous peripheral nerve stimulation over opioid- or local anesthetic-based analgesics. Neuromodulation avoids the systemic side effects related to opioid use such as nausea, sedation, and respiratory depression; it also has no potential for abuse, addiction, and diversion.42 Unlike single-injection and continuous peripheral nerve blocks, neuromodulation induces no proprioception, sensory, or motor deficits16,18 and therefore should not decrease the ability to participate in postoperative rehabilitation or increase the risk of falling.43 The risk of infection for helically-coiled leads is significantly lower than for perineural catheters, and reported to be fewer than one per 32,000 indwelling days.44,45 Small pulse generators combined with rechargeable batteries allow treatment without the patient burden of carrying an infusion pump and local anesthetic reservoir. These attributes support prolonged application. For example, the leads used in this trial are Food and Drug Aadministration-approved for up to 60 days — thus providing analgesia which substantially outlasts the duration of acute pain following most operations. An additional consideration is that the leads and introducers are positioned 1–2 cm from the target nerve, unlike for peripheral nerve block and perineural catheter administration, thus reducing the risk of needle-to-nerve contact and possible neurologic injury.
+
+Limitations of percutaneous peripheral nerve stimulation includes a lack of surgical block or analgesia as potent as a single-injection local anesthetic-based peripheral nerve block.16–18 Consequently, we administered a single-injection peripheral nerve block with long-acting local anesthetic after lead implantation and immediately before the surgical start. The insertion time of electric leads is also a concern, with initial reports requiring significant time for this procedure.16–18 However, the insertion time for the present study decreased with the use of improved equipment and with increasing experience (Table 1). While still longer than perineural catheter insertion times,46,47 the decreased lead implantation time that came with increased experience allowed the majority of participants of the present study to have their leads inserted the morning of surgery and avoid an additional visit to the surgical center on a previous day.
+
+Based on previously-reported series involving acute pain, the most concerning technical challenges have been lead dislodgement (9%) and fracture (20%) either during use or removal.15–18 But among the 66 participants of our trial, there were no inadvertent lead dislodgements or fractures during use; and only two (3%) fractures during intentional withdrawal. Although speculative, lack of dislodgement might be attributed to the use of surgical glue at the point of lead entry; and decrease in fractures (20% to 3%) to more gentle traction during removal. In previous and current cases, fractured lead remnants were left in situ with no negative sequelae reported within the following year.10 Notably, magnetic resonance imaging remains safe with retained lead fragments of up to 12.7 cm—the maximum possible—at 1.5 Tesla.48 In practice, most fractures have occurred at or near the tip of the lead, leaving less than 2 cm of retained wire.48
+
+An important—and somewhat surprising—finding was the successful masking of treatment group assignments: all but 3 individuals (1 in sham and 2 in active treatment groups) either believed they were receiving active stimulation or were unsure of their treatment. All patients experienced active stimulation during lead implantation, and we therefore anticipated many who subsequently received sham to conclude they were, in fact, randomized to the placebo. The main cause of masking retention appeared to be due to the instruction that individuals should decrease the current if they experienced muscle contractions. Nearly all participants reported multiple cases daily of what they perceived as muscle contractions and decreased their stimulation level accordingly. Nearly complete masking increases confidence in our results and strongly suggests that the observed impressive treatment effect was not due to placebo effect.
+
+Our trial was a priori designated a pilot study because it was undertaken to plan for a subsequent randomized trial by: (1) determining the feasibility of and optimizing the study protocol; and (2) estimating the treatment effect to adequately power the future investigation. Our study was thus a true pilot trial with correctly specified a priori pilot objectives. Importantly, the label “pilot” in no way lessens the veracity or validity of the results: what the findings are used for (e.g. power estimation for an immediately subsequent larger trial) does not change the findings themselves. In fact, the treatment effect was much greater than what we had anticipated, concurrently reducing opioid consumption by 80% and pain scores more than 50%. Consequently, the results were highly statistically significant with both P values <0.001. Our results thus stand on their own and indicate that percutaneous peripheral nerve stimulation is highly effective for acute pain.
+
+A primary aim of our pilot trial was to evaluate the feasibility of a subsequent larger trial and to optimize the protocol. The former is now answered in the affirmative. Based on our experience, we plan to: (1) decrease the future sample size from the originally-planned 528 to 250 based on larger-than-anticipated effect sizes; (2) remove two treatment centers due to a lack of enrollment; (3) exclude anterior cruciate ligament reconstruction due to an inadequate volume of patellar autograft procedures at the enrolling centers; (4) call participants the evening of surgery to review the protocol and answer questions; (5) add a 12-month time point for detection of longer-term benefits and adverse events such as conversion of acute to chronic pain; and (6) define the stepwise gatekeeping order of outcome measures. Statistical method differences will include: 1) incorporating interim analyses for assessment of efficacy and futility; 2) incorporating an internal pilot study to re-assess outcome variability at 50% of the planned enrollment; and 3) inclusion of a more thorough assessment of treatment effect heterogeneity as a function of pre-specified baseline factors.
+
+In conclusion, percutaneous peripheral nerve stimulation reduced pain scores and opioid requirements free of systemic side effects during at least the initial week after ambulatory orthopedic surgery. Our results confirm feasibility of a future larger trial and suggest protocol enhancements.
+
+## Supplementary Material
+
+## Acknowledgements:
+
+The authors appreciate the invaluable assistance of Jeffrey Mills, BA (Clinical Translational Research Center, University California San Diego, La Jolla, CA). This manuscript is a product of the NIH-DoD-VA Pain Management Collaboratory. For more information about the Collaboratory, go to www.painmanagementcollaboratory.org.
+
+### Funding:
+
+The U.S. Army Medical Research Acquisition Activity, 820 Chandler Street, Fort Detrick MD 21702-5014 is the awarding and administering acquisition office. This work was supported by the Assistant Secretary of Defense for Health Affairs endorsed by the Department of Defense, through the Pain Management Collaboratory - Pragmatic Clinical Trials Demonstration Projects under Awards No. W81XWH-18-2-0003, W81XWH-18-2-0007, W81XWH-18-2-0008, and W81XWH-18-2-0009. Research reported in this publication was made possible by Grant Number U24 AT009769 from the National Center for Complementary and Integrative Health (NCCIH), and the Office of Behavioral and Social Sciences Research (OBSSR). Opinions, interpretations, conclusions and recommendations are those of the authors and are not necessarily endorsed by the funding agencies. This manuscript is a product of the NIH-DoD-VA Pain Management Collaboratory. For more information about the Collaboratory, visit https://painmanagementcollaboratory.org
+
+### Conflicts of Interest:
+
+Harold Gelfand, MD. The author is participating in Henry Jackson Foundation (Bethesda, MD) funded research through a grant from Pacira Pharmaceuticals (Parsippany, NJ).
+
+Brian Ilfeld, MD, MS. The author’s institution has received funding for other research from Infutronix (Natick, MA), Epimed International (Farmers Branch, TX), and SPR Therapeutics (Cleveland, OH).
+
+Daniel I. Sessler, MD. Consultant for Pacira Pharmaceuticals (Parsippany, NJ). The author’s institution receives funding from Pacira Pharmaceuticals (Parsippany, NJ) and Heron Therapeutics (San Diego, CA).
+
+Alparslan Turan, MD. The author’s institution receives funding from Pacira Pharmaceuticals (Parsippany, NJ) and Heron Therapeutics (San Diego, CA).
+
+Joseph W. Boggs, PhD, and Amorn Wongsarnpigoon, PhD. Employees of SPR Therapeutics, the manufacturer of the electrical leads and pulse generators under investigation in this study. Both authors own stock options in this company. Of note, this was an investigator-initiated project fully funded by the U.S. Department of Defense, and the first author retained complete control of the grant proposal; study protocol; data collection, analysis, and interpretation; and the resulting manuscript. Drs. Boggs and Wongsarnpigoon were provided the initial protocol on which to comment, with some suggested revisions incorporated into the protocol while others were not.
+
+The remaining authors report no conflicts.
+
+## Appendix A.
+
+Data Safety Monitoring Board (uncompensated)
+
+Steven Shafer, MD (Chair and Medical Monitor)
+
+Stanford University
+
+Stanford, California
+
+Pamela Flood, MD
+
+Stanford University
+
+Stanford, California
+
+Jarrod Dalton, PhD (statistician)
+
+Cleveland Clinic
+
+Cleveland, Ohio
+
+## Appendix B.
+
+Enrolling center Investigators (PAINfRE Investigators). No conflicts to report unless otherwise noted.
+
+Brooke Army Medical Center
+
+Fort Sam Houston, Texas
+
+Elizabeth Salazar, BS
+
+Cedars-Sinai Medical Center
+
+Los Angeles, California
+
+Daniel Chien, MD
+
+Katherine Kobayashi, BS
+
+Christopher Massey, MD, MPH
+
+Tiffany Pouldar, MD
+
+Michael A. Stone, MD
+
+David Blake Thordarson, MD
+
+Tina Vajdi, MD
+
+Wendy Weissberg, BS, BA, CCRP
+
+Cleveland Clinic
+
+Cleveland, Ohio
+
+Andrew Lucic, MD
+
+Naval Medical Center San Diego
+
+San Diego, California
+
+Richard Fisher, MD
+
+Ian Fowler, MD
+
+Lucas S. McDonald, MD
+
+Anthony Scherschel, MD
+
+Marisa Kinnally, BS
+
+Palo Alto Veterans Affairs
+
+Palo Alto, California
+
+Edward R. Mariano, MD, MAS
+
+University of California, San Diego
+
+San Diego, California
+
+Baharin Abdullah, MD (National Program Manager)
+
+David J. Dalstrom, MD
+
+John J. Finneran IV, MD
+
+COI: Epimed (Farmers Branch, Texas, research funding), Infutronics (Natick, Massachusetts, research funding), and SPR Therapeutics (Cleveland, Ohio, research funding) for other projects
+
+Rodney A. Gabriel, MD, MAS
+
+COI: Epimed (Farmers Branch, Texas, research funding), Infutronics (Natick, Massachusetts, research funding), and SPR Therapeutics (Cleveland, Ohio, research funding) for other projects
+
+Matthew J. Meunier, MD
+
+Catherine M. Robertson, MD
+
+Engy T. Said, MD
+
+COI: Epimed (Farmers Branch, Texas, research funding), Infutronics (Natick, Massachusetts, research funding), and SPR Therapeutics (Cleveland, Ohio, research funding) for other projects
+
+Matthew W. Swisher, MD, MS
+
+COI: Epimed (Farmers Branch, Texas, research funding), Infutronics (Natick, Massachusetts, research funding), and SPR Therapeutics (Cleveland, Ohio, research funding) for other projects
+
+Walter Reed National Military Medical Center
+
+Bethesda, Maryland
+
+Robert Burch, MD
+
+Kyle Cyr, MD
+
+Jeremy Dublon, DPM
+
+Morgan Hunt, BS
+
+Dylan V. Scarton, MS
+
+Megan Tsui, BS
+
+Womack Army Medical Center
+
+Fort Bragg, North Carolina
+
+Elizabeth Dennison, MS
+
+## References
+
+1. Cullen KA, Hall MJ, Golosinskiy A: Ambulatory surgery in the United States, 2006. National Health Statistics Reports 2009: 1 – 25 19294964
+2. Correll DJ, Vlassakov KV, Kissin I: No evidence of real progress in treatment of acute pain, 1993–2012: Scientometric analysis. J Pain Res 2015; 7: 199 – 210 10.2147/JPR.S60842 PMC3990387 24748816
+3. Apfelbaum JL, Chen C, Mehta SS, Gan TJ: Postoperative pain experience: results from a national survey suggest postoperative pain continues to be undermanaged. Anesth Analg 2003; 97: 534 – 40 12873949 10.1213/01.ANE.0000068822.10113.9E
+4. Ilfeld BM, Vandenborne K, Duncan PW, Sessler DI, Enneking FK, Shuster JJ, Theriaque DW, Chmielewski TL, Spadoni EH, Wright TW: Ambulatory continuous interscalene nerve blocks decrease the time to discharge readiness after total shoulder arthroplasty: A randomized, triple-masked, placebo-controlled study. Anesthesiology 2006; 105: 999 – 1007 17065895 10.1097/00000542-200611000-00022
+5. Kehlet H, Jensen TS, Woolf CJ: Persistent postsurgical pain: risk factors and prevention. Lancet 2006; 367: 1618 – 25 16698416 10.1016/S0140-6736(06)68700-X
+6. Dahan A, Aarts L, Smith TW: Incidence, Reversal, and Prevention of Opioid-induced Respiratory Depression. Anesthesiology 2010; 112: 226 – 38 20010421 10.1097/ALN.0b013e3181c38c25
+7. Chidambaran V, Olbrecht V, Hossain M, Sadhasivam S, Rose J, Meyer MJ: Risk predictors of opioid-induced critical respiratory events in children: naloxone use as a quality measure of opioid safety. Pain Med 2014; 15: 2139 – 49 25319840 10.1111/pme.12575
+8. Sun EC, Darnall BD, Baker LC, Mackey S: Incidence of and Risk Factors for Chronic Opioid Use Among Opioid-Naive Patients in the Postoperative Period. JAMA Intern Med 2016; 176: 1286 – 93 27400458 10.1001/jamainternmed.2016.3298 PMC6684468
+9. Ilfeld BM, Finneran JJ: Cryoneurolysis and Percutaneous Peripheral Nerve Stimulation to Treat Acute Pain. Anesthesiology 2020; 133: 1127 – 1149 32898231 10.1097/ALN.0000000000003532
+10. Ilfeld BM, Grant SA: Ultrasound-guided percutaneous peripheral nerve stimulation for postoperative analgesia: Could neurostimulation replace continuous peripheral nerve blocks? Reg Anesth Pain Med 2016; 41: 720 – 722 27685345 10.1097/AAP.0000000000000481 PMC5084632
+11. Huntoon MA, Burgher AH: Ultrasound-guided permanent implantation of peripheral nerve stimulation (PNS) system for neuropathic pain of the extremities: original cases and outcomes. Pain Med 2009; 10: 1369 – 77 20021597 10.1111/j.1526-4637.2009.00745.x
+12. Deer TR, Mekhail N, Provenzano D, Pope J, Krames E, Leong M, Levy RM, Abejon D, Buchser E, Burton A, Buvanendran A, Candido K, Caraway D, Cousins M, DeJongste M, Diwan S, Eldabe S, Gatzinsky K, Foreman RD, Hayek S, Kim P, Kinfe T, Kloth D, Kumar K, Rizvi S, Lad SP, Liem L, Linderoth B, Mackey S, McDowell G, McRoberts P, Poree L, Prager J, Raso L, Rauck R, Russo M, Simpson B, Slavin K, Staats P, Stanton-Hicks M, Verrills P, Wellington J, Williams K, North R, Neuromodulation Appropriateness Consensus C: The appropriate use of neurostimulation of the spinal cord and peripheral nervous system for the treatment of chronic pain and ischemic diseases: the Neuromodulation Appropriateness Consensus Committee. Neuromodulation 2014; 17: 515 – 50 25112889 10.1111/ner.12208
+13. Ilfeld BM, Gilmore CA, Grant SA, Bolognesi MP, Del Gaizo DJ, Wongsarnpigoon A, Boggs JW: Ultrasound-guided percutaneous peripheral nerve stimulation for analgesia following total knee arthroplasty: a prospective feasibility study. J Orthop Surg Res 2017; 12: 4 28086940 10.1186/s13018-016-0506-7 PMC5234248
+14. Ilfeld BM, Grant SA, Gilmore CA, Chae J, Wilson RD, Wongsarnpigoon A, Boggs JW: Neurostimulation for Postsurgical Analgesia: A Novel System Enabling Ultrasound-Guided Percutaneous Peripheral Nerve Stimulation. Pain Pract 2017; 17: 892 – 901 27910257 10.1111/papr.12539 PMC5637916
+15. Ilfeld BM, Ball ST, Gabriel RA, Sztain JF, Monahan AM, Abramson WB, Khatibi B, Said ET, Parekh J, Grant SA, Wongsarnpigoon A, Boggs JW: A Feasibility Study of Percutaneous Peripheral Nerve Stimulation for the Treatment of Postoperative Pain Following Total Knee Arthroplasty. Neuromodulation 2019; 22: 653 – 660 30024078 10.1111/ner.12790 PMC6339601
+16. Ilfeld BM, Gabriel RA, Said ET, Monahan AM, Sztain JF, Abramson WB, Khatibi B, Finneran JJt, Jaeger PT, Schwartz AK, Ahmed SS: Ultrasound-guided percutaneous peripheral nerve stimulation: Neuromodulation of the sciatic nerve for postoperative analgesia following ambulatory foot surgery, a proof-of-concept study. Reg Anesth Pain Med 2018; 43: 580 – 589 29905630 10.1097/AAP.0000000000000819 PMC6092098
+17. Ilfeld BM, Said ET, Finneran JJt, Sztain JF, Abramson WB, Gabriel RA, Khatibi B, Swisher MW, Jaeger P, Covey DC, Robertson CM: Ultrasound-guided percutaneous peripheral nerve stimulation: Neuromodulation of the femoral nerve for postoperative analgesia following ambulatory anterior cruciate ligament reconstruction, a proof of concept study. Neuromodulation 2018; 22: 621 – 629 30160335 10.1111/ner.12851 PMC6767389
+18. Ilfeld BM, Finneran JJt, Gabriel RA, Said ET, Nguyen PL, Abramson WB, Khatibi B, Sztain JF, Swisher MW, Jaeger P, Covey DC, Meunier MJ, Hentzen ER, Robertson CM: Ultrasound-guided percutaneous peripheral nerve stimulation: Neuromodulation of the suprascapular nerve and brachial plexus for postoperative analgesia following ambulatory rotator cuff repair. A proof-of-concept study. Reg Anesth Pain Med 2019 10.1136/rapm-2018-100121 30770421
+19. Ilfeld BM, Gelfand H, Dhanjal S, Hackworth R, Plunkett A, Turan A, Vijjeswarapu AM, Cohen SP, Eisenach JC, Griffith S, Hanling S, Mascha EJ, Sessler DI. Ultrasound-guided percutaneous peripheral nerve stimulation: A pragmatic effectiveness trial of a non-pharmacologic alternative for the treatment of postoperative pain. Pain Med 2020; 21: S53 – 61 33313729 10.1093/pm/pnaa332 PMC7824994
+20. Shamji MF, De Vos C, Sharan A: The Advancing Role of Neuromodulation for the Management of Chronic Treatment-Refractory Pain. Neurosurgery 2017; 80: S108 – S113 28350939 10.1093/neuros/nyw047
+21. Ristic D, Spangenberg P, Ellrich J: Analgesic and antinociceptive effects of peripheral nerve neurostimulation in an advanced human experimental model. Eur J Pain 2008; 12: 480 – 90 17881268 10.1016/j.ejpain.2007.07.013
+22. Dworkin RH, Turk DC, Peirce-Sandner S, Baron R, Bellamy N, Burke LB, Chappell A, Chartier K, Cleeland CS, Costello A, Cowan P, Dimitrova R, Ellenberg S, Farrar JT, French JA, Gilron I, Hertz S, Jadad AR, Jay GW, Kalliomaki J, Katz NP, Kerns RD, Manning DC, McDermott MP, McGrath PJ, Narayana A, Porter L, Quessy S, Rappaport BA, Rauschkolb C, Reeve BB, Rhodes T, Sampaio C, Simpson DM, Stauffer JW, Stucki G, Tobias J, White RE, Witter J: Research design considerations for confirmatory chronic pain clinical trials: IMMPACT recommendations. Pain 2010; 149: 177 – 93 20207481 10.1016/j.pain.2010.02.018
+23. Bliese PD, Wright KM, Adler AB, Cabrera O, Castro CA, Hoge CW: Validating the primary care posttraumatic stress disorder screen and the posttraumatic stress disorder checklist with soldiers returning from combat. J Consult Clin Psychol 2008; 76: 272 – 81 18377123 10.1037/0022-006X.76.2.272
+24. Yeager DE, Magruder KM, Knapp RG, Nicholas JS, Frueh BC: Performance characteristics of the posttraumatic stress disorder checklist and SPAN in Veterans Affairs primary care settings. Gen Hosp Psychiatry 2007; 29: 294 – 301 17591505 10.1016/j.genhosppsych.2007.03.004
+25. Dobie DJ, Kivlahan DR, Maynard C, Bush KR, McFall M, Epler AJ, Bradley KA: Screening for post-traumatic stress disorder in female Veteran’s Affairs patients: validation of the PTSD checklist. Gen Hosp Psychiatry 2002; 24: 367 – 74 12490337 10.1016/s0163-8343(02)00207-4
+26. Keen SM, Kutter CJ, Niles BL, Krinsley KE: Psychometric properties of PTSD Checklist in sample of male veterans. J Rehabil Res Dev 2008; 45: 465 – 74 18629754 10.1682/jrrd.2007.09.0138
+27. Freedy JR, Steenkamp MM, Magruder KM, Yeager DE, Zoller JS, Hueston WJ, Carek PJ: Post-traumatic stress disorder screening test performance in civilian primary care. Fam Pract 2010; 27: 615 – 24 20622049 10.1093/fampra/cmq049
+28. Gammaitoni AR, Fine P, Alvarez N, McPherson ML, Bergmark S: Clinical application of opioid equianalgesic data. Clin J Pain 2003; 19: 286 – 97 12966254 10.1097/00002508-200309000-00002
+29. Rowbotham M, Harden N, Stacey B, Bernstein P, Magnus-Miller L: Gabapentin for the treatment of postherpetic neuralgia: a randomized controlled trial. JAMA 1998; 280: 1837 – 42 9846778 10.1001/jama.280.21.1837
+30. Gilron I, Jensen MP: Clinical trial methodology of pain treatment studies: selection and measurement of self-report primary outcomes for efficacy. Reg Anesth Pain Med 2011; 36: 374 – 81 21610560 10.1097/AAP.0b013e318217a635
+31. Lundeberg T, Lund I, Dahlin L, Borg E, Gustafsson C, Sandin L, Rosen A, Kowalski J, Eriksson SV: Reliability and responsiveness of three different pain assessments. J Rehabil Med 2001; 33: 279 – 83 11766958 10.1080/165019701753236473
+32. Cleeland CS, Ryan KM: Pain assessment: Global use of the Brief Pain Inventory. Ann Acad Med Singapore 1994; 23: 129 – 38 8080219
+33. Turk DC, Dworkin RH, Burke LB, Gershon R, Rothman M, Scott J, Allen RR, Atkinson JH, Chandler J, Cleeland C, Cowan P, Dimitrova R, Dionne R, Farrar JT, Haythornthwaite JA, Hertz S, Jadad AR, Jensen MP, Kellstein D, Kerns RD, Manning DC, Martin S, Max MB, McDermott MP, McGrath P, Moulin DE, Nurmikko T, Quessy S, Raja S, Rappaport BA, Rauschkolb C, Robinson JP, Royal MA, Simon L, Stauffer JW, Stucki G, Tollett J, von Stein T, Wallace MS, Wernicke J, White RE, Williams AC, Witter J, Wyrwich KW: Developing patient-reported outcome measures for pain clinical trials: IMMPACT recommendations. Pain 2006; 125: 208 – 15 17069973 10.1016/j.pain.2006.09.028
+34. Ackerman IN, Graves SE, Bennell KL, Osborne RH: Evaluating quality of life in hip and knee replacement: Psychometric properties of the World Health Organization Quality of Life short version instrument. Arthritis Rheum 2006; 55: 583 – 90 16874780 10.1002/art.22107
+35. The World Health Organization Quality of Life assessment (WHOQOL): position paper from the World Health Organization. Soc Sci Med 1995; 41: 1403 – 9 8560308 10.1016/0277-9536(95)00112-k
+36. Saxena S, Orley J, Group W: Quality of life assessment: The world health organization perspective. Eur Psychiatry 1997; 12 Suppl 3: 263s – 6s 19698578 10.1016/S0924-9338(97)89095-5
+37. Austin PC: Balance diagnostics for comparing the distribution of baseline covariates between treatment groups in propensity-score matched samples. Stat Med 2009; 28: 3083 – 107 19757444 10.1002/sim.3697 PMC3472075
+38. Mascha EJ, Turan A: Joint hypothesis testing and gatekeeping procedures for studies with multiple endpoints. Anesth Analg 2012; 114: 1304 – 17 22556210 10.1213/ANE.0b013e3182504435
+39. Gerbershagen HJ, Rothaug J, Kalkman CJ, Meissner W: Determination of moderate-to-severe postoperative pain on the numeric rating scale: a cut-off point analysis applying four different methods. Br J Anaesth 2011; 107: 619 – 26 21724620 10.1093/bja/aer195
+40. Wright A, Hannon J, Hegedus EJ, Kavchak AE: Clinimetrics corner: a closer look at the minimal clinically important difference (MCID). J Man Manip Ther 2012; 20: 160 – 6 23904756 10.1179/2042618612Y.0000000001 PMC3419574
+41. Myles PS, Myles DB, Galagher W, Boyd D, Chew C, MacDonald N, Dennis A: Measuring acute postoperative pain using the visual analog scale: the minimal clinically important difference and patient acceptable symptom state. Br J Anaesth 2017; 118: 424 – 429 28186223 10.1093/bja/aew466
+42. Kharasch ED, Brunt LM: Perioperative Opioids and Public Health. Anesthesiology 2016; 124: 960 – 5 26808634 10.1097/ALN.0000000000001012
+43. Ilfeld BM, Duke KB, Donohue MC: The association between lower extremity continuous peripheral nerve blocks and patient falls after knee and hip arthroplasty. Anesth Analg 2010; 111: 1552 – 4 20889937 10.1213/ANE.0b013e3181fb9507 PMC3271722
+44. Ilfeld BM, Gabriel RA, Saulino MF, Chae J, Peckham PH, Grant SA, Gilmore CA, Donohue MC, deBock MG, Wongsarnpigoon A, Boggs JW: Infection Rates of Electrical Leads Used for Percutaneous Neurostimulation of the Peripheral Nervous System. Pain Pract 2017; 17: 753 – 762 27676323 10.1111/papr.12523 PMC5368033
+45. Capdevila X, Bringuier S, Borgeat A: Infectious risk of continuous peripheral nerve blocks. Anesthesiology 2009; 110: 182 – 188 19104185 10.1097/ALN.0b013e318190bd5b
+46. Mariano ER, Cheng GS, Choy LP, Loland VJ, Bellars RH, Sandhu NS, Bishop ML, Lee DK, Maldonado RC, Ilfeld BM: Electrical stimulation versus ultrasound guidance for popliteal-sciatic perineural catheter insertion: a randomized controlled trial. Reg Anesth Pain Med 2009; 34: 480 – 485 19920423 10.1097/AAP.0b013e3181ada57a
+47. Mariano ER, Loland VJ, Sandhu NS, Bishop ML, Meunier MJ, Afra R, Ferguson EJ, Ilfeld BM: A trainee-based randomized comparison of stimulating interscalene perineural catheters with a new technique using ultrasound guidance alone. J Ultrasound Med 2010; 29: 329 – 336 20194929 10.7863/jum.2010.29.3.329
+48. Shellock FG, Zare A, Ilfeld BM, Chae J, Strother RB: In Vitro Magnetic Resonance Imaging Evaluation of Fragmented, Open-Coil, Percutaneous Peripheral Nerve Stimulation Leads. Neuromodulation 2018; 21: 276 – 283 29057550 10.1111/ner.12705

@@ -103,6 +103,7 @@ status: active
 | 2026-11-18 | **Neurokirurgisk bedömning** av mer långsiktig smärtblockad (inopererade elektroder som stör ut smärtsignaler från höften). Bedöms som lämplig patient för metoden; **TENS-test vecka 48**, därefter beslut om implantat. |
 | 2026-11-20 | **Vårdplanering** med läkare, fysioterapeut, samordnare och biståndshandläggare från Mölndals stad. Madeleine deltog själv. Initierad på chefsnivå efter remissavslagen, för att koppla in kommunal korttidsplats. Boende i kommunal regi **nämndes inte** på mötet — fortsatt specialistvårdbehov. |
 | 2026-11-23 | **Besked från behandlande neurolog: plats på Högsbo neurorehab, intag 2027-01-11.** Vårdform fram till dess ej tydligt bekräftad (förhoppning: kvar på nuvarande avdelning). |
+| 2026-11-25 (v.48) | **TENS-test mot höftsmärtan: gott resultat.** Underlag inför beslut om inopererade elektroder (perifer nervstimulering, PNS). |
 
 ### Nuvarande status (2026-11-23, dag 247)
 
@@ -119,7 +120,7 @@ status: active
 - **Förflyttning:** Lift/draglift 2 personer; drag 4 personer. Sitter i komfortrullstol 2×/dag.
 - **Nutrition:** **Normal kost.** Äter själv med handledsstöd/skena, matband, tallrik med kant. Behöver hjälp att dela maten och lägga den tillrätta. Dricker själv men behöver hjälp att lyfta glas och placera sugrör.
 - **Rehabilitering:** **~11 timmar strukturerad träning per vecka** — vardagar ~2 h/dag inklusive gym (undantag när fysioterapeut eller Madeleine inte kan), lördag ~1 h, söndag vilodag. **Vill träna mer.** Tydlig mental vinst av träningen.
-- **Höger höft — heterotop ossifikation:** Kalk och begynnande benbildning vid höft/ljumske, trolig följd av för hård mobilisering under IVA-tiden i Mölndal. Föregicks av att Madeleine i 2–3 veckor rapporterade smärta som inte liknade hennes nervsmärta — vilket bekräftades av CT. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation möjlig först när benbildningen mognat, ca 1 år. Sitter i komfortrullstol tack vare **tillfällig nervblockad**; neurokirurgisk bedömning 18/11 av mer långsiktig lösning (inopererade elektroder): bedömd som lämplig patient, **TENS-test vecka 48** avgör om implantat blir aktuellt.
+- **Höger höft — heterotop ossifikation:** Kalk och begynnande benbildning vid höft/ljumske, trolig följd av för hård mobilisering under IVA-tiden i Mölndal. Föregicks av att Madeleine i 2–3 veckor rapporterade smärta som inte liknade hennes nervsmärta — vilket bekräftades av CT. **Ortopedisk restriktion: max 50–60° höftflexion vid lift.** Operation möjlig först när benbildningen mognat, ca 1 år. Sitter i komfortrullstol tack vare **tillfällig nervblockad**; neurokirurgisk bedömning 18/11 av mer långsiktig lösning (inopererade elektroder): bedömd som lämplig patient. **TENS-testet v.48 gav gott resultat**; beslut om implantat väntar. Evidensunderlag: [Höftsmärta — TENS och perifer nervstimulering](/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md).
 - **Mage/tarm:** Växlar mellan kraftig förstoppning och diarré; senast förstoppning genom hela tarmen. Behandlas aktivt, **röntgen ×2**. Bedöms som autonom dysfunktion — alltså en **aktiv manifestation av grundsjukdomen**; dysautonomin är inte utläkt.
 - **Läkemedelsbalans:** Opiater (förstoppar) + naproxen (GI-belastning, men etablerad HO-profylax) + nervblockad + laxativa, hos patient med neurogen tarm. Kräver läkare med överblick.
 - **Rehabiliteringsplacering — Högsbo neurorehab, intag 2027-01-11.** Efter flera avslag med skiftande motivering. Kommunal korttidsplats nämndes inte på vårdplaneringen 2026-11-20 (fortsatt specialistvårdbehov). Träningen förväntas fortsätta som nu under väntetiden (~7 veckor), med uppehåll röda dagar över jul. **Öppet:** vårdform under väntetiden, förväntad vårdtid på Högsbo (ej angiven).
@@ -372,7 +373,7 @@ All evidens bakom detta dokument finns tillganglig i en sokbar kunskapsdatabas:
 
 **https://gbs.ragbase.org**
 
-26 forskningsdokument | ~851 peer-reviewed kallor | 411 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
+27 forskningsdokument | ~887 peer-reviewed kallor | 441 fulltexter tillgangliga | 33 MR-referensbilder | sokbara kunskapsfragment
 
 ---
 

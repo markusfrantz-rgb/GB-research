@@ -1,0 +1,458 @@
+# Peripheral Nerve Stimulation Implant for Chronic Posttraumatic Hip and Pelvic Pain: A Case Report
+
+Authors: Hesham Elsharkawy, Nicolas M. Mas D Alessandro, Marianne Tanios, Emma Fu
+Journal: Pain Medicine Case Reports. 2026;10(2):215-222
+PMID: 42066282
+Source: Publisher PDF (painmedicine-casereports.com, ASIPP, free access), text extracted with pdftotext -layout
+
+---
+
+           Pain                                                                                                                     ISSN 2768-5152
+  Medicine                                                                                 ©2026, American Society of Interventional Pain Physicians©
+                                                                                                               Volume 10, Number 2, pp. 215-222
+     Case
+  Reports
+
+             Peripheral Nerve Stimulation Implant for
+            Chronic Posttraumatic Hip and Pelvic Pain:
+                                       A Case Report
+                                Hesham Elsharkawy, MD1, Nicolas M. Mas D Alessandro, MD2,3, Marianne Tanios, MD2,3,
+                                                                                              and Emma Fu, MD2,3
+
+   Background:           Chronic hip and pelvic pain following trauma can be challenging to treat, particularly when pain originates
+                         from multiple nerve distributions. Traditional treatments often provide limited relief; peripheral nerve
+                         stimulation is a minimally invasive alternative.
+
+   Case Report:          A 68-year-old woman with persistent pelvic and hip pain following a right iliac wing fracture reported
+                         minimal response to medications and injections. Diagnostic nerve blocks targeting the obturator nerve,
+                         femoral sensory branches, and middle cluneal nerve, provided significant but short-term pain relief. A
+                         peripheral nerve stimulation trial targeting the middle cluneal, obturator, and femoral nerves resulted in
+                         a 75% reduction in pain. Following permanent implantation, a revision was required due to lead migra-
+                         tion. Post revision, pain levels stabilized at 3-4/10 across both anterior and posterior pain distributions,
+                         with sustained improvement at 12 months.
+
+   Conclusion:           This case demonstrates the feasibility and sustained benefit of externally powered peripheral nerve
+                         stimulation for chronic posttraumatic hip and pelvic pain.
+
+   Key words:            Peripheral nerve stimulation, chronic pelvic pain syndrome, middle cluneal nerve, sensory branches of
+                         femoral and obturator nerves
+
+BACKGROUND
+                                                                                    procedures; and surgical options. However, due to the
+   Chronic Pelvic Pain Syndrome is a prevalent condition                            complex neural anatomy of the pelvic and hip regions,
+worldwide, occurring twice as frequently in women as                                employing nerve blocks or neuromodulation techniques
+in men in the United States (1). Notably, approximately                             presents unique challenges. Trauma-related factors,
+80% of pelvic pain in women originates from non-                                    such as joint misalignment or unhealed fractures, can
+gynecologic causes (2). Chronic pain following pelvic                               further exacerbate pain arising from the hip joint and
+fractures affects nearly half of patients (48.4%), and is                           sacral areas.
+associated with a substantial impairment in quality of                                Peripheral nerve stimulation (PNS) is a minimally
+life and physical functioning (3).                                                  invasive and targeted neuromodulation strategy for
+   Managing chronic pelvic pain requires a multidisci-                              managing chronic pain syndromes, particularly when
+plinary approach, including physical therapy; pharma-                               conventional treatments have proven inadequate. By
+cologic and nonpharmacologic therapies; interventional                              selectively modulating the activity of peripheral nerves,
+
+From: 1 Department of Anesthesiology, Pain, and Healing Center, MetroHealth Professor of Anesthesiology, Physical Medicine, and Rehabilitation, Case Western
+Reserve University, Outcomes Research Consortium, Houston, TX; 2MetroHealth Medical System, Cleveland, OH; 3Case Western Reserve University School of
+Medicine, Cleveland, OH
+
+Corresponding Author: Hesham Elsharkawy, MD, E-mail: helsharkawy@metrohealth.org
+Disclaimer: This project was supported in part by the Clinical and Translational Science Collaborative of Cleveland which is funded by the National Institutes of
+Health, the National Center for Advancing Translational Science, and a Clinical and Translational Science Award grant UL1TR002548. The content is solely the
+responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+Conflict of interest: Each author certifies that he or she, or a member of his or her immediate family, has no commercial association (i.e., consultancies, stock
+ownership, equity interest, patent/licensing arrangements, etc.) that might pose a conflict of interest in connection with the submitted manuscript.
+Patient consent for publication: Consent obtained directly from patient(s).
+This case report adheres to CARE Guidelines and the CARE Checklist has been provided to the journal editor.
+Accepted: 2025-12-18, Published: 2026-04-30
+
+
+
+                                                                              215
+Pain Medicine Case Reports
+
+
+
+
+PNS may offer sustained pain relief with fewer systemic         CASE PRESENTATION
+side effects. Its growing application for various neuro-              A 68-year-old woman presented with persistent pelvic
+pathic and musculoskeletal pain conditions supports                and hip pain 9 months after sustaining a right iliac
+its consideration for challenging pain presentations,              wing fracture due to a mechanical fall. X-rays revealed
+including chronic posttraumatic pelvic and hip pain (4).           a hypertrophic nonunion fracture with displacement
+   The pelvis receives innervation from the lumbar,                of the pubic symphysis and right sacroiliac joint. She
+sacral, cluneal, and coccygeal plexuses. The femoral and           described her pain as constant and excruciating, rating
+obturator nerves provide innervation to the anterior               it 8 out of 10 on the 11-point Numeric Rating Scale.
+hip joint (5).                                                     Her pain radiated to the lateral buttock and groin,
+   Middle cluneal nerve (MCN) entrapment has been                  worsening with walking, movement, transitioning from
+identified as a potential source of lower back and leg             sitting to standing, climbing stairs, and getting in and
+pain symptoms (6,7). MCNs are purely sensory cutane-               out of a vehicle.
+ous nerves originating from the dorsal rami of the                    She provided written informed consent to use her
+S1–S4 sacral nerve roots. Their lateral branches traverse          clinical information and imaging in this case report.
+the long posterior sacroiliac ligament, where they can                The patient managed her pain with tramadol (50 mg
+become entrapped near the iliac crest, resulting in                3 times daily), gabapentin (600 mg twice daily), and
+symptoms that mimic sacroiliac joint pain (6,8).                   baclofen (10 mg at bedtime). Right sacroiliac joint and
+   To our knowledge, peripheral PNS targeting the ob-              hip intra-articular steroid injections provided short-term
+turator, femoral articular branches, and middle cluneal            relief. Diagnostic nerve blocks targeting the right obtu-
+nerves has not been previously reported for treating               rator and femoral articular nerve branches resulted in
+chronic posttraumatic hip and pelvic pain. Our case                a 75% pain reduction in pain, decreasing from 8/10 to
+report highlights the potential of this approach for               2/10 for 2 days. After repeat injections, her symptoms
+managing pain within regions characterized by complex              improved by 50%, with the pain rating going from 8/10
+neural distributions.                                              to 4/10 for one week. Additionally, an MCN steroid and
+                                                                   local anesthetic injection achieved 100% pain relief on
+                                                                                    day one, reducing her pain from 8/10
+                                                                                    to 0/10. This relief was sustained for
+                                                                                    approximately one week, with the pain
+                                                                                    slowly returning to 3/10 by the end of
+                                                                                    that week.
+                                                                                       Due to the transient relief from these
+                                                                                    interventions and her inability to under-
+                                                                                    go surgery, we evaluated her for PNS.
+                                                                                    After a psychological evaluation, she
+                                                                                    became an appropriate candidate for a
+                                                                                    PNS trial using the Freedom® Peripheral
+                                                                                    Nerve Stimulator System (Curonix LLC).
+                                                                                    This device has an external, wireless,
+                                                                                    rechargeable transmitter assembly
+                                                                                    using high-frequency electromagnetic
+                                                                                    coupling (9).
+                                                                                       During the trial, 8-contact nontined
+                                                                                    electrode arrays were placed adjacent
+                                                                                    to the right MCN, obturator nerve, and
+                                                                                    femoral articular nerve branches. Over
+Fig. 1. X-ray pelvis: inlet and outlet views. This image shows diastasis of the the course of one week, the patient
+pubic symphysis with approximately 3–4 cm posterior displacement of the             reported significant improvement in
+right pubis relative to the left. Asymmetric widening of the right sacroiliac joint her activities of daily living and a 75%
+and a slightly displaced right parasymphyseal fracture are seen. No femoral or      reduction in pain, from a baseline pain
+acetabular fractures are seen.
+
+
+216                                                                               Pain Medicine Case Reports Vol. 10 No. 2, 2026
+                                                            Peripheral Nerve Stimulation for Chronic Hip and Pelvic Pain
+
+
+
+
+score of 8/10 to 2/10 on the Numeric Rating Scale. Based           until its tip reached the area lateral to the S3
+on these results, she underwent permanent implanta-                foramen within the posterior thoracolumbar
+tion with 4-contact tined electrode arrays connected to            fascia. Proper placement was confirmed using
+separate receivers.                                                fluoroscopy in both anteroposterior and lateral
+   At one-month postimplantation, she reported inad-               views, along with ultrasound. An 8-contact, non-
+equate pain relief. Imaging identified neurostimulator             tined electrode was then advanced through the
+migration; the middle cluneal neurostimulator had                  needle. The steering stylet was removed, and
+displaced cranially and the femoral and obturator                  the electrode array was connected to a separate
+neurostimulators had displaced caudally. Revision sur-             receiver. Subsequently, the needle was removed,
+gery occurred 2 months after the initial implantation.             intraoperative testing was performed, and ap-
+   At the one-month postrevision follow-up, she report-            propriate positioning was confirmed. The patient
+ed good pain relief in both the anterior and posterior             reported paresthesia around the sacroiliac joint.
+distributions, with a 50%–70% improvement in the                   Finally, the neurostimulator was sutured at the
+posterior region (from a baseline pain level of 8/10 to            skin level and covered with an adhesive dressing
+3–4/10) and a 30%–50% improvement in the anterior                  (Fig. 2A).
+region (from a baseline pain level of 7/10 to 4–5/10).
+This pain relief continued at the 3-month follow-up.        Femoral and Obturator Sensory Branches Trial
+She reported that her pain would recur within 2 hours       Implantation
+if the stimulator was turned off.                             •    The patient was then positioned supine, and the
+   By the 6-month follow-up, pain control remained con-            abdomen and groin were prepped and draped.
+sistent, with a 50%–70% improvement in both anterior               High-frequency ultrasound was used to visualize
+and posterior distributions (posterior pain decreased              the femoral artery and bowel, while fluoroscopy
+from 8/10 to 3–4/10, and anterior pain decreased from              was used to align the obturator foramen.
+7/10 to 3–-4/10). Imaging confirmed stable placement          •    A 13G Coudé needle was guided medially and
+of the system.                                                     superiorly in order to target the sensory branches
+   At the 9- and 12-month follow-ups, she continued                of the femoral and obturator nerves, with the
+to have 50% pain relief in both the anterior and pos-              intent of covering both nerve distributions. The
+terior distributions (posterior pain remained at 4/10,             femoral sensory branches were targeted at the
+and anterior pain remained at 3–4/10). However, she                superolateral aspect of the hip capsule at the
+reported worsening thigh and lateral leg pain, with a              middle third of the iliopectineal line. The obtura-
+50% increase in pain intensity (pain increased from 4/10           tor sensory branches were targeted lateral to the
+to 6/10) when walking or standing. Lumbar magnetic                 obturator foramen, inferior to the acetabulum,
+resonance imaging revealed stenosis due to ligamentum              at the teardrop shadow (medial inferior aspect
+flavum thickening, which was treated with a lumbar                 of the incisura acetabuli).
+epidural steroid injection, which provided a 33% reduc-       •    Placement was confirmed with fluoroscopy.
+tion in pain (from 6/10 to 4/10).                                  Electrode positioning deep to the femoral ves-
+                                                                   sels and iliopsoas tendon was confirmed with
+METHODS                                                            ultrasound. An 8-contact, nontined electrode
+                                                                   array was advanced through the needle. The
+Middle Cluneal Nerve Trial Implantation
+                                                                   steering stylet was removed, and the electrode
+  •    The patient was positioned prone and prepped                array was connected to a separate receiver. The
+       and draped using sterile technique.                         needle was then removed, intraoperative testing
+  •    Using fluoroscopy and ultrasound, a 13G Coudé               was performed, and appropriate positioning was
+       needle was advanced from the lower L4 area,                 confirmed, with the patient reporting paresthesia
+       lateral to the transverse process, until it gently          in the distribution of her groin pain. The neuro-
+       contacted the posterior surface of the sacrum,              stimulator was sutured in place, and an adhesive
+       lateral to the S1 dorsal foramen, superficial to            dressing was applied.
+       the posterior sacral crest, and medial to the          •    Pain distribution was assessed following trial
+       sacroiliac joint. The needle was then advanced              stimulation and programming adjustments.
+
+
+Pain Medicine Case Reports Vol. 10 No. 2, 2026                                                                      217
+Pain Medicine Case Reports
+
+
+
+
+       The distal 4 contacts, targeting the obturator             •       A second incision was made to create a receiver coil
+       sensory branches, provided greater relief of                       pocket in the lower thoracic paraspinal region. A
+       her anteromedial hip pain compared with the                        tunneled blunt introducer was used to subcutane-
+       proximal 4 contacts. Both neurostimulators were                    ously tunnel the neurostimulator from the initial
+       programmed to an amplitude of 3, a pulse rate                      incision site to the receiver pocket. The distal end
+       of 1499 Hz, and a pulse width of 30 µs (Fig. 2B).                  of the neurostimulator was coiled and secured to
+                                                                          the deep fascia using 2-0 nonabsorbable sutures.
+Middle Cluneal Nerve Permanent Implantation
+  •    The patient was positioned prone. Following             Femoral and Obturator Sensory Branches Per-
+       sterile preparation, the patient received 2 grams       manent Implantation
+       of cefazolin intravenously. Local anesthetic was           •       The patient was positioned supine. Additional
+       infiltrated, and an incision was made lateral to                   local anesthetic was infiltrated at the needle
+       the L4 transverse process.                                         entry site in the right lower abdominal quadrant,
+  •    A 13G blunt introducer was inserted, and a 2-0                     followed by the initial incision. Subcutaneous
+       nonabsorbable suture was placed around the                         tissue was dissected until the fascia was visual-
+       introducer. The introducer was advanced under                      ized and palpated. A 13G blunt introducer was
+       ultrasound and fluoroscopic guidance in the                        inserted, and a 2-0 nonabsorbable suture was
+       anteroposterior view. The tip was tracked with                     placed around the introducer. The introducer was
+       ultrasound until it was superficial to the posterior               advanced under combined ultrasound and fluoro-
+       sacral crest, medial to the sacroiliac joint, and                  scopic guidance in the anteroposterior view. The
+       lateral to the sacral foramen within the posterior                 introducer tip was tracked to the predetermined
+       thoracolumbar fascia. It was then advanced to a                    target for the 4-contact tined electrode array cov-
+       position lateral to the S3 dorsal foramen. Proper                  ering the obturator sensory branches, as defined
+       placement was confirmed using fluoroscopy in                       during the trial phase. The target was identified
+       anteroposterior and lateral views. A 4-contact,                    lateral to the obturator foramen, inferior to the
+       tined Freedom electrode array was advanced                         acetabulum, at the teardrop (medial inferior
+       through the introducer. The steering stylet was                    aspect of the incisura acetabuli). The steering
+       removed, and the electrode array was connected                     stylet was removed, and the electrode array was
+       to the separate receiver. The needle was removed,                  connected to a separate receiver. The needle was
+       intraoperative testing was performed, and posi-                    removed, intraoperative testing was performed,
+       tioning was confirmed.                                             and appropriate positioning was confirmed.
+
+
+
+A                                                                     B
+
+
+
+
+Fig. 2. A. Fluoroscopic image of the middle cluneal nerve 8-lead trial. B. 8-contact lead for both the femoral and obturator
+sensory branches.
+
+
+218                                                                                 Pain Medicine Case Reports Vol. 10 No. 2, 2026
+                                                                Peripheral Nerve Stimulation for Chronic Hip and Pelvic Pain
+
+
+
+
+  •    Following additional local anesthetic infiltration,          Externally powered systems tend to be more afford-
+       a second incision was made to create a receiver           able upfront compared to fully implantable alternatives,
+       coil pocket in the lateral midabdominal region            because they do not have internal pulse generators.
+       along the midaxillary line. A tunneled blunt              However, they may incur ongoing costs due to the main-
+       introducer was used to subcutaneously tunnel              tenance or replacement of external components (10).
+       the neurostimulator from the initial incision             In terms of mobility, proper transmitter alignment is
+       site to the receiver pocket. The distal end of the        essential in order to ensure continuous stimulation. Mis-
+       neurostimulator was coiled and secured to the             alignment during movement, especially in high-motion
+       deep fascia using 2-0 nonabsorbable sutures.              anatomical areas, can interrupt therapy. Nonetheless,
+  •    For the revision procedure performed due to               prior studies have reported that most patients tolerate
+       stimulator migration, the same procedural steps           the system well and often experience improved function
+       were repeated following explantation of both              and quality of life, suggesting that the clinical benefits
+       systems (Fig. 3).                                         outweigh these limitations (11).
+                                                                    Additionally, both patients and providers must receive
+DISCUSSION                                                       adequate training in order to optimize outcomes. This
+                                                                 includes education on transmitter placement, charging,
+Clinical Rationale and Overview
+                                                                 and troubleshooting potential device-related issues (12).
+  PNS is an emerging treatment that offers a long-term
+option for managing chronic hip and sacroiliac pain. For         Imaging and Outcomes
+patients with chronic pain in specific nerve distributions,         In our patient’s case, postprocedural imaging played
+percutaneous PNS placement can be a viable treatment             a critical role in confirming appropriate lead placement
+option. However, hip and pelvic pain present challenges          adjacent to the targeted peripheral nerves. Fluoroscopy
+for PNS because the nerve supply originates from both            was used intraoperatively to verify trajectory and final
+the lumbar and sacral plexuses, making it difficult to           position, while follow-up imaging ensured the absence
+target a specific nerve for complete coverage (9). In            of lead migration or other complications (13). Imaging
+our patient’s case, we successfully targeted the middle          findings throughout the follow-up period correlated
+cluneal nerve, as well as the obturator and femoral              with our patient’s sustained pain relief and functional
+sensory articular terminal branches, in
+order to treat chronic posttraumatic hip
+and pelvic pain. To our knowledge, this
+represents the first reported case using
+PNS of the obturator and middle cluneal
+nerves for this indication.
+
+Device Characteristics and Practi-
+cal Considerations
+  We utilized the Freedom Peripheral
+Nerve Stimulator System. This device
+features an externally powered pulse
+transmitter worn over the skin that
+wirelessly powers the implanted re-
+ceiver. This design allows for a mini-
+mally invasive procedure without a
+bulky implantable battery; the design
+reduces operative time and surgical
+burden. However, the need for an ex-
+ternal transmitter introduces practical
+considerations related to mobility and
+                                                 Fig. 3. Post revision 4-contact lead for the middle cluneal and obturator
+comfort.                                         sensory branches.
+
+
+Pain Medicine Case Reports Vol. 10 No. 2, 2026                                                                          219
+Pain Medicine Case Reports
+
+
+
+
+improvement. Previous studies have shown that consis-        under or within the long posterior sacroiliac ligament
+tent lead positioning is essential for long-term efficacy    can be a potential cause of low back and pelvic pain (20).
+in patients undergoing PNS (12,14).                            Due to the distribution of pain, MCN entrapment may
+                                                             be misdiagnosed as sacroiliac joint pain. A comparison
+Anatomical Rationale and Technical Approach                  of the effects of intra-articular versus peri-articular
+   The anterior branch of the obturator nerve runs           sacroiliac joint injections showed better pain relief for
+between the pectineus and adductor brevis muscles,           patients receiving peri-articular injections. This suggests
+then between the adductor longus, adductor brevis,           that sacroiliac joint pain can be mediated by the MCN
+and gracilis muscles. It innervates these muscles but        (21,22).
+rarely supplies the pectineus. The posterior branch
+travels between the adductor brevis and adductor             Comparison to Radiofrequency Ablation and
+magnus muscles, providing innervation to them. The           Lead Strategy
+obturator nerve also has articular branches around              Our patient had previously undergone a right
+the hip and knee joints. The anteromedial hip joint          sacroiliac joint injection and right hip intra-articular
+receives innervation from the common obturator               steroid injection, which initially provided some relief.
+nerve (anterior and posterior branches after exiting         However, the relief was short-lived. Radiofrequency
+the obturator canal), which we targeted below the            ablation (RFA) of branches of the femoral and ob-
+inferior junction of the symphysis pubis tubercle and        turator articular nerves is an accepted treatment for
+ischium, based on the patient’s reports of groin, pelvic,    chronic hip pain, though evidence supporting its use is
+and medial thigh pain (15-17) . Branches of the obtura-      limited to case reports and series (23,24). Additionally,
+tor nerve lie adjacent to the obturator foramen, just        RFA has many limitations. For widespread pain and
+beneath the acetabulum. This location corresponds            anatomical variations in the location of the articular
+with the “teardrop shadow” seen on radiographs, that         nerves around the hip joint, a large-sized lesion would
+is produced by the dense cortical bone at the base of        be necessary, and the analgesic effects tend to be of
+the acetabulum (5).                                          limited duration.
+   The anterior hip joint is supplied by the femoral            Multiple bony anatomical landmarks can serve as RFA
+articular nerve branches, which arise from the pos-          targets; these same targets can be used for PNS, which
+terior division of the femoral nerve (L2-L3-L4 nerve         can provide wider coverage than RFA. One advantage
+roots in the lumbar plexus). We targeted the femoral         of a PNS trial for anterior hip pain is that it allows for
+articular branch below and medial to the anterior            determining whether the femoral or obturator sensory
+superior iliac spine at the anterolateral aspect of the      branches are contributing more to the patient’s pain
+hip. The articular nerve branches at the hip supply the      before permanent implantation. Even if both sensory
+joint capsule, ligaments, synovial membranes, and the        branches contribute equally, PNS remains an option.
+rectus femoris (18)                                          Two 4-contact neurostimulators can be staggered for
+   The most common technique used to approach the            the femoral branches, with one placed for the obtura-
+obturator articular branches for injection and radio-        tor branches, since it is difficult to cover both with a
+frequency ablation involves targeting the anterome-          single system.
+dial junction of the pubis and ischium at the incisura          Other neuromodulation strategies, including dorsal
+acetabuli (19). The typical approach for targeting the       root ganglion stimulation and spinal cord stimulation,
+femoral articular sensory branches involves targeting        were considered but not selected in our patient’s case.
+the anterolateral side of the extra-articular hip joint      These treatments are generally more appropriate for
+underneath the anterior inferior iliac spine.                diffuse, dermatomal, or centrally mediated pain pat-
+   When the posterior pelvic ring is involved, the sacro-    terns. In contrast, this patient’s symptoms demonstrated
+iliac joint is often affected, potentially leading to MCN    a focal distribution corresponding to discrete peripheral
+entrapment and subsequent neuropathic pain. The              sensory branches. Given the ability to selectively target
+MCN, composed of sensory branches from the dorsal            and trial the involved nerves while minimizing unneces-
+rami of S1 to the S4 foramina, travels below the poste-      sary central neuromodulation, we decided percutane-
+rior superior iliac spine to supply the skin overlying the   ous PNS to be the most anatomically precise and least
+posteromedial area of the buttock. MCN entrapment            invasive option for our patient.
+
+
+
+220                                                                           Pain Medicine Case Reports Vol. 10 No. 2, 2026
+                                                                              Peripheral Nerve Stimulation for Chronic Hip and Pelvic Pain
+
+
+
+
+Novelty and Clinical Implications                                             prospective studies and larger case series evaluating
+   This case report contributes to the expanding literature                   pain reduction, functional outcomes, and complication
+on PNS for posttraumatic and postsurgical pain. While                         rates, as well as randomized controlled trials compar-
+prior studies have reported successful outcomes targeting                     ing percutaneous neurostimulation with conventional
+nerves such as the femoral, superior cluneal, sciatic, and                    interventional therapies. Such studies would help es-
+lateral femoral cutaneous, (3,7,25-28), stimulation of the                    tablish standardized implantation protocols and clarify
+obturator and middle cluneal nerves remains largely un-                       long-term efficacy and safety. Importantly, future
+reported. To our knowledge, this is the first documented                      research should also focus on developing and refining
+case of successful PNS implantation involving the middle                      implantation techniques aimed at reducing the lead
+cluneal, obturator, and femoral sensory branches.                             migration risk, which remains a crucial procedural
+                                                                              limitation. Our experience suggests that percutaneous
+Limitation                                                                    neurostimulation may represent a valuable addition
+  A limitation of an externally powered system is                             to the therapeutic armamentarium for chronic pain
+that patients must wear an external source of energy,                         management in this patient population.
+transmitted via radiofrequency, to the neurostimulator.
+One common complication with PNS, as seen with our                            CONCLUSION
+patient, is the neurostimulators’ migration risk despite                        Our case report highlights the role of a minimally
+using tined electrode arrays. When this happened to                           invasive, externally powered peripheral nerve stimula-
+our patient, we performed a revision; her outcome was                         tor for managing posttraumatic chronic hip and pelvic
+then satisfactory for at least one year.                                      pain. By targeting the MCN along with the obturator
+  The technique we used offers a promising alternative                        and femoral sensory branches, this technique may of-
+for patients with challenging-to-treat hip and pelvic                         fer a therapeutic option for patients with complex and
+pain. Further validation could be achieved through                            refractory pain in these regions.
+
+
+
+
+REFERENCES
+                                                                                    with a high frequency electromagnetic coupled (HF-EMC) pow-
+1.   Ahangari A. Prevalence of chronic pelvic pain among women: An                  ered implanted receiver in treating different pain targets/neural-
+     updated review. Pain Physician 2014; 17:E141-E147.                             gias. J Pain Res 2023; 16:589-596.
+2.   Lamvu G, Carrillo J, Ouyang C, Rapkin A. Chronic Pelvic Pain in          10.   Helm S, Shirsat N, Calodney A, et al. Peripheral nerve stimulation
+     Women: A Review. JAMA 2021; 325:2381-2391.                                     for chronic pain: A systematic review of effectiveness and safety.
+                                                                                    Pain Ther 2021; 10:985-1002.
+3.   Singh H, Gargya A, Lin T, Gulati A. Sciatic, femoral, and lateral
+     femoral cutaneous nerve ultrasound-guided percutaneous periph-           11.   Kaye AD, Ridgell S, Alpaugh ES, et al. Peripheral nerve stimula-
+     eral nerve stimulation. Pain Med 2020; 21(Suppl 1):S47-S50.                    tion: A review of techniques and clinical efficacy. Pain Ther 2021;
+                                                                                    10:961-972.
+4.   Deer TR, Esposito MF, McRoberts WP, et al. A systematic literature
+     review of peripheral nerve stimulation therapies for the treatment       12.   Ilfeld BM, Plunkett A, Vijjeswarapu AM, et al. Percutaneous pe-
+     of pain. Pain Med 2020; 21:1590-1603.                                          ripheral nerve stimulation (neuromodulation) for postoperative
+                                                                                    pain: A randomized, sham-controlled pilot study. Anesthesiology
+5.   Spence KT, Forro SD. Anatomy, bony pelvis and lower limb: Nerves.
+                                                                                    2021; 135:95-110.
+     In: StatPearls [Internet]. Treasure Island, FL: StatPearls Publishing;
+     2024. https://www.ncbi.nlm.nih.gov/books/NBK532304/                      13.   Chan I, Brown AR, Park K, Winfree CJ. Ultrasound-guided, per-
+                                                                                    cutaneous peripheral nerve stimulation. Neurosurgery 2010;
+6.   Kikuta S, Iwanaga J, Watanabe K, Tubbs RS. Revisiting the middle
+                                                                                    67:ons136-139.
+     cluneal nerves: An anatomic study with application to pain syn-
+     dromes and invasive procedures around the sacrum. World Neu-             14.   Gilmore CA, Ilfeld BM, Rosenow JM, et al. Percutaneous 60-day
+     rosurg 2019; 127:e1228-e1231.                                                  peripheral nerve stimulation implant provides sustained relief of
+                                                                                    chronic pain following amputation: 12-month follow-up of a ran-
+7.   Mas D Alessandro NM, Nisar F, Elsharkawy H. Peripheral superior
+                                                                                    domized, double-blind, placebo-controlled trial. Reg Anesth Pain
+     cluneal nerve stimulation for intractable low back pain: Combined
+                                                                                    Med 2020; 45:44-51.
+     fluoroscopy and ultrasound technique, a case series. Interv Pain
+     Med 2025; 4:100542.                                                      15.   Anagnostopoulou S, Kostopanagiotou G, Paraskeuopoulos T,
+                                                                                    Chantzi C, Lolis E, Saranteas T. Anatomic variations of the ob-
+8.   Konno T, Aota Y, Saito T, et al. Anatomical study of middle cluneal
+                                                                                    turator nerve in the inguinal region. Reg Anesth Pain Med 2009;
+     nerve entrapment. J Pain Res 2017; 10:1431-1435.
+                                                                                    34:33-39.
+9.   Abd-Elsayed A, Moghim R. Efficacy of peripheral nerve stimulation
+
+
+
+Pain Medicine Case Reports Vol. 10 No. 2, 2026                                                                                                    221
+Pain Medicine Case Reports
+
+
+
+
+16.   Yoshida T, Nakamoto T, Kamibayashi T. Ultrasound-guided obtura-          23.   Kapural L, Jolly S, Mantoan J, Badhey H, Ptacek T. Cooled radio-
+      tor nerve block: A focused review on anatomy and updated tech-                 frequency neurotomy of the articular sensory branches of the ob-
+      niques. Biomed Res Int 2017; 2017: 7023750.                                    turator and femoral nerves - Combined approach using fluorosco-
+17.   Singh O, Al Khalili Y. Anatomy, back, lumbar plexus. In: StatPearls            py and ultrasound guidance: Technical report, and observational
+      [Internet]. Treasure Island, FL: StatPearls Publishing; 2024. https://         study on safety and efficacy. Pain Physician 2018; 21:279-284.
+      www.ncbi.nlm.nih.gov/books/NBK545137/                                    24.   Cheney CW, Ahmadian A, Brennick C, et al. Radiofrequency abla-
+18.   Short AJ, Barnett JJG, Gofeld M, et al. Anatomic study of innerva-             tion for chronic hip pain: A comprehensive, narrative review. Pain
+      tion of the anterior hip capsule: Implication for image-guided in-             Med 2021; 22(Suppl 1):S14-S19.
+      tervention. Reg Anesth Pain Med 2018; 43:186-192.                        25.   Dalal S, Berger AA, Orhurhu V, Kaye AD, Hasoon J. Peripheral
+19.   Tinnirello A, Todeschini M, Pezzola D, Barbieri S. Pulsed radiofre-            nerve stimulation for the treatment of meralgia paresthetica. Or-
+      quency application on femoral and obturator nerves for hip joint               thop Rev (Pavia) 2021; 13:24437.
+      pain: Retrospective analysis with 12-month follow-up results. Pain       26.   Busch C, Smith O, Weaver T, Vallabh J, Abd-Elsayed A. Peripher-
+      Physician 2018; 21(4):407-414.                                                 al Nerve Stimulation for Lower Extremity Pain. Biomedicines 2022;
+20.   Aota Y. Entrapment of middle cluneal nerves as an unknown                      10:1666.
+      cause of low back pain. World J Orthop 2016; 7:167-170.                  27.   Joseph C, Parkash A, Chitneni A, Kalava A. ID: 205697 Femoral
+21.   Fortin JD, Kissling RO, O’Connor BL, Vilensky JA. Sacroiliac joint in-         peripheral nerve stimulator for chronic hip pain with total hip ar-
+      nervation and pain. Am J Orthop (Belle Mead NJ) 1999; 28:687-                  throplasty: A case report. Neuromodulation 2023; 26:S240.
+      690.                                                                     28.   Abd-Elsayed A. Wireless peripheral nerve stimulation for treat-
+22.   Forst SL, Wheeler MT, Fortin JD, Vilensky JA. The sacroiliac joint:            ment of peripheral neuralgias. Neuromodulation 2020; 23:827-
+      Anatomy, physiology and clinical significance. Pain Physician                  830.
+      2006; 9:61-67.
+
+
+
+
+222                                                                                                 Pain Medicine Case Reports Vol. 10 No. 2, 2026
+

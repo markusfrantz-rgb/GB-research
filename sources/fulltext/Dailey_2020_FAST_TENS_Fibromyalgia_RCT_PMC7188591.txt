@@ -1,0 +1,331 @@
+# Transcutaneous Electrical Nerve Stimulation Reduces Movement‐Evoked Pain and Fatigue: A Randomized, Controlled Trial
+
+Authors: Dana L. Dailey, Carol G. T. Vance, Barbara A. Rakel, M. Bridget Zimmerman, Jennie Embree, Ericka N. Merriwether, Katharine M. Geasland, Ruth Chimenti, Jon M. Williams, Meenakshi Golchha, Leslie J. Crofford, Kathleen A. Sluka
+Journal: Arthritis & Rheumatology (Hoboken, N.j.). 2020;72(5):824
+DOI: 10.1002/art.41170
+PMID: 31738014
+PMCID: PMC7188591
+License: https://creativecommons.org/licenses/by-nc-nd/4.0/This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc-nd/4.0/ License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifica
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+**Objective** Fibromyalgia (FM) is characterized by pain and fatigue, particularly during physical activity. Transcutaneous electrical nerve stimulation (TENS) activates endogenous pain inhibitory mechanisms. This study was undertaken to investigate if using TENS during activity would improve movement‐evoked pain and other patient‐reported outcomes in women with FM.
+
+**Methods** Participants were randomly assigned to receive active TENS (n = 103), placebo TENS (n = 99), or no TENS (n = 99) and instructed to use it at home during activity 2 hours each day for 4 weeks. TENS was applied to the lumbar and cervicothoracic regions using a modulated frequency (2–125 Hz) at the highest tolerable intensity. Participants rated movement‐evoked pain (primary outcome measure) and fatigue on an 11‐point scale before and during application of TENS. The primary outcome measure and secondary patient‐reported outcomes were assessed at baseline (time of randomization) and at 4 weeks.
+
+**Results** After 4 weeks, a greater reduction in movement‐evoked pain was reported in the active TENS group versus the placebo TENS group (group mean difference –1.0 [95% confidence interval –1.8, –0.2]; P = 0.008) and versus the no TENS group (group mean difference –1.8 [95% confidence interval –2.6, –1.0]; P < 0.0001). A reduction in movement‐evoked fatigue was also reported in the active TENS group versus the placebo TENS group (group mean difference –1.4 [95% confidence interval –2.4, –0.4]; P = 0.001) and versus the no TENS group (group mean difference –1.9 [95% confidence interval –2.9, –0.9]; P = <0.0001). A greater percentage of the patients in the active TENS group reported improvement on the global impression of change compared to the placebo TENS group (70% versus 31%; P < 0.0001) and the no TENS group (9%; P < 0.0001). There were no TENS‐related serious adverse events, and <5% of participants experienced minor adverse events from TENS.
+
+**Conclusion** Among women who had FM and were on a stable medication regimen, 4 weeks of active TENS use compared to placebo TENS or no TENS resulted in a significant improvement in movement‐evoked pain and other clinical outcomes. Further research is needed to examine effectiveness in a real‐world setting to establish the clinical importance of these findings.
+
+## Introduction
+
+Fibromyalgia (FM) is a complex condition characterized by widespread pain and fatigue. Pharmacologic interventions are only modestly effective for treating FM, with most individuals experiencing activity‐limiting pain despite use of multiple drugs 1, 2. It has become increasingly recognized that nonpharmacologic interventions should be considered as first‐line treatments for chronic pain 3, 4, 5 and as safe, low‐cost treatments that can be added to pharmacologic approaches. While there is strong evidence that exercise is an effective treatment for FM 6, 7, individuals report that movement‐evoked pain limits activity participation 8, 9. Use of nonpharmacologic approaches that reduce movement‐evoked pain would theoretically increase activity participation, resulting in a perceived global improvement.
+
+Transcutaneous electrical nerve stimulation (TENS) is a nonpharmacologic intervention that delivers electrical current through the skin for pain control. Animal studies show that TENS activates endogenous inhibitory mechanisms to reduce central excitability 10, 11, 12, 13, 14. In contrast, individuals with FM exhibit reduced endogenous inhibition and enhanced central excitability 15, 16. Thus, based on the mechanism of action of TENS, it may be useful in individuals with FM.
+
+Although TENS is effective for several pain conditions, recent systematic reviews have shown mixed results 17, 18, 19, 20. Johnson and colleagues have noted limitations of the TENS trials currently described in the literature, such as inadequate sample size, limited outcome data, and moderate risk of bias 17, 21. We have further suggested that variables not considered in TENS clinical trials also lead to equivocal results 22. Stimulation intensity must be strong, but comfortable or greater for TENS effectiveness 14, 23, 24. TENS works best for movement‐evoked pain 24, 25 and provides the greatest effects while the unit is on 22, 26, yet prior studies have routinely measured resting pain or assess pain after treatment, when physiologic effects of TENS are no longer optimal 25, 27, 28, 29, 30. Furthermore, few studies have examined effects on other domains such as fatigue, quality of life, or function.
+
+We designed a double‐blind randomized controlled trial to examine the effects of TENS in women with FM, using a study protocol that does not entail weaknesses of prior studies. The primary aim was to test effectiveness of repeated TENS on movement‐evoked pain in women with FM following random assignment to 3 groups: active TENS, placebo TENS, or no TENS. Secondary aims were to test the effects of TENS on fatigue, function, and other patient‐reported outcomes. We hypothesized that TENS would reduce movement‐evoked pain, resulting in perceived global improvement in women with FM.
+
+## Patients and methods
+
+#### Study design and participants
+
+The Fibromyalgia Activity Study with TENS (FAST) is a phase II randomized, double‐blind, placebo‐controlled, dual‐site clinical trial conducted at the University of Iowa and Vanderbilt University Medical Center and approved by the institutional review boards of both universities. The study protocol has been previously described 31, and the study was conducted in accordance with the Declaration of Helsinki. Written informed consent was obtained from all participants prior to enrollment.
+
+We examined the effects of TENS home use in women with FM in a trial in which women were treated with TENS or placebo for 4 weeks, followed by a 4‐week period during which all subjects received active TENS (Figure 1A). Participants were recruited from 2 sites using a variety of strategies (for details see Supplementary Methods, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). Eligibility was verified at both visit 1 and visit 2. Inclusion criteria were as follows: female sex, age 18–70 years, FM according to the American College of Rheumatology 1990 criteria 32, on a stable medication regimen during the 4 weeks preceding the study, and projected to be on a stable treatment regimen for the next 2 months. Exclusion criteria included a pain level of <4 on a 10‐point numerical rating scale (NRS) at the first and second visits, inability to walk 6 minutes without assistance, TENS use in the last 5 years, presence of a pacemaker, history of neuropathic or autoimmune disorder, history of spinal fusion or metal implants in the spine, allergy to adhesive or nickel, pregnancy, epilepsy, and/or a serious or unstable medical or psychiatric condition that would preclude participation 31. All participants continued current treatments prescribed by their health care provider and were asked not to change medications during the study. Current medications were recorded at each visit. Analgesic use before the second visit did not differ between groups (Supplementary Table 1, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+[Figure] Figure 1 Study design and Consolidated Standards of Reporting Trials (CONSORT) diagram. A, Study design for all 4 visits. At visit 1, participants were screened for pain and fibromyalgia (FM) according to the American College of Rheumatology 1990 criteria 32. At visit 2, subjects were re‐screened for pain and randomized into treatment (Tx) groups. Baseline questionnaires were assigned, and subjects were assessed for pain and fatigue at rest and during functional tasks. Transcutaneous electrical nerve stimulation (TENS) was applied during visit 2 and remained turned on for 30 minutes prior to reassessment of pain, fatigue, and function. Participants were given the TENS unit for home use over a 4‐week period before returning for visit 3. Visit 3 followed the same protocol as visit 2. After visit 3, all subjects received active TENS for 4 weeks and were reassessed with the same protocol as visits 2 and 3. All assessments were the same across treatment arms. B, CONSORT diagram. We assessed 1,046 participants for eligibility, with 468 excluded prior to enrollment. The main reasons for exclusion were previous TENS use and a pain level of <4 on a 10‐point numerical rating scale. Following enrollment at visit 1, 5 subjects did not meet the criteria for FM, and 1 week later at visit 2, 14 subjects were excluded for having a pain level of <4. After enrollment on visit 1, 17 subjects withdrew from the study due to personal reasons. Thus, the remaining 301 participants were then randomly assigned to receive active TENS (n = 103), placebo TENS (n = 99), or no TENS (n = 99). Color figure can be viewed in the online issue, which is available at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract.
+
+#### Outcome measures
+
+The primary outcome measure was movement‐evoked pain and secondary outcome measures were resting pain, fatigue, function, disease impact, quality of life, fear of movement, and other psychological factors. These measures are described briefly below, with more detail in the published protocol 31. The effects of TENS on pain and fatigue were examined before and during TENS treatment on visits 2, 3, and 4. Patient‐reported outcomes were examined before TENS treatment at these same visits.
+
+##### Assessment of pain, fatigue, and physical function
+
+Pain intensity at rest and during movement was measured with an 11‐point NRS before and during TENS. Movement‐evoked pain was measured during a 6‐minute walk test, which measures the distance a person can walk in 6 minutes, and a 5‐time sit‐to‐stand test, which measures how long it takes for a person to move from a seated position to standing 5 times. Pain intensity and interference were measured using the Brief Pain Inventory (BPI) 33. Fatigue at rest and during movement was measured with an 11‐point NRS before and during the 6‐minute walk test and 5‐time sit‐to‐stand test and with the Multidimensional Assessment of Fatigue (MAF) 34. Physical function was assessed using the 6‐minute walk test, the 5‐time sit‐to‐stand test, physical activity for 1 week recorded via accelerometry (Supplementary Methods, http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract), and the International Physical Activity Questionnaire (IPAQ) short form 35.
+
+##### Patient‐reported outcomes
+
+We examined fear of movement with the Tampa Scale of Kinesiophobia (TSK) 36, pain catastrophizing with the Pain Catastrophizing Scale (PCS) 37, self‐efficacy with the Pain Self‐Efficacy Questionnaire (PSEQ) 38, and depression and anxiety with Patient‐Reported Outcomes Measurement Information System (PROMIS) short forms. Disease impact was measured with the Revised Fibromyalgia Impact Questionnaire (FIQ) 39, and quality of life was assessed with the Short Form 36 (SF‐36) Health Survey 40. Use of rescue pain medication was examined using home logs for opioid and non‐opioid analgesic use 1 week before visits 2, 3, and 4. Of the 301 participants enrolled in the study, completed logs were available for 227 patients’ pain medication use, opioid and non‐opioid, (76 in the active TENS group, 70 in the placebo TENS group, and 81 in the no TENS group). Perceived improvement was examined with the Global Impression of Change (GIC) using a 7‐point scale.
+
+#### Randomization, allocation, and blinding
+
+Participants were randomly assigned to active TENS, placebo TENS, or no TENS groups with permuted blocks sizes of 6 and 9, stratified by site and opioid use status (Proc Plan; SAS/STAT software version 13.1). Subjects were classified as opioid users if they had taken an opioid at least 5 days per week for the last 30 days. The randomization schedule was password‐protected, with access granted only to those who were not blinded with regard to the intervention (the statistician [MBZ] who generated the randomization schedule and the TENS allocators [CGTV, JMW] who provided the TENS intervention). Neither the statistician nor the TENS allocators had any role in patient recruitment, scheduling, or assessment of outcomes.
+
+Assessments were performed by a separate person (outcome assessors [DLD, KMG, MG]) than the TENS allocators. Participants were blinded with regard to their treatment group (active TENS or placebo TENS), and outcome assessors were blinded with regard to all 3 groups. TENS allocators, who were not blinded with regard to treatment, were responsible for accessing the randomization schedule to assign participants to groups and for maintaining contact with participants between visits 2 and 3 (blinded phase). A mock TENS unit (a TENS unit with attached electrodes that provided no electric current intensity) was used in the no TENS group during visits 2 and 3 to blind outcome assessors. For all groups, a concealment pouch was used to prevent an outcome assessor from viewing the TENS unit, and participants were asked to not discuss treatment with outcome assessors. A standardized script for each treatment group specific to each visit was utilized so that all participants received the same instructions. The standardized script remained identical (except for 1 line that differed between the active TENS and placebo TENS groups, to reduce bias) (see Supplementary Methods, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). Blinding of outcome assessors was assessed after visit 3 by asking the assessors if the participant had received active TENS, placebo TENS, or no TENS (or if they did not know what treatment the participants received), and blinding of participants was determined by asking if they had received active TENS or placebo TENS, or if they did not know what treatment they received. Additional details on the integrity of blinding procedures performed in this study are available in Supplementary Methods.
+
+#### TENS intervention
+
+The EMPI Select TENS units (generously provided by DJO Global) delivered both active TENS and placebo TENS interventions via butterfly electrodes placed at the cervicothoracic junction and lower back (see Supplementary Figure 1, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). Active TENS parameters were as follows: asymmetric biphasic waveform with a modulating frequency of 2–125 Hz, pulse duration 200 μsec, and the highest tolerable stimulation intensity. During visits 2, 3, and 4, TENS was applied by a TENS allocator in a clinical setting for 30 minutes prior to an outcome assessor measuring its effects on pain, fatigue, and function. The placebo TENS unit had an appearance identical to that of the active TENS unit and delivered current for 45 seconds, ramping down to 0 in the last 15 seconds 41.
+
+Following completion of visit 2, active TENS or placebo TENS units were sent home with participants with an instruction manual developed by study personnel. TENS allocators used a standardized script to instruct participants on home use and for weekly contact. Participants were instructed to use TENS at least 2 hours per day during physical activity. Both active TENS and placebo TENS units monitored the number of sessions, number of minutes used, and average intensity per channel. All participants received active TENS between visit 3 and visit 4 (the nonblinded phase) with identical instructions.
+
+#### Statistical analysis
+
+Sample size was determined using data from our pilot study 25, in which a single active TENS treatment was compared to placebo TENS and no TENS (maximum SD 1.96 for movement‐evoked pain). Assuming an SD of 2.0, 80% power to detect a P value of <0.05, a correlation (r) of 0.5 between pain measurements in the same subject, and a sample size of 88 per group, linear mixed model analysis of repeated measures at 3 time points (visit 2 pre‐TENS, visit 3 pre‐TENS, and visit 3 post‐TENS) would be able to detect a clinically meaningful mean difference of at least 1.5 (equivalent to a 30% improvement in pain for this sample, which had an average baseline pain score of 5 on a 0–10 NRS), which corresponds to an effect size of 0.75. A 30% improvement in pain is considered clinically significant 42.
+
+Both intent‐to‐treat (ITT) and per‐protocol analyses were used to assess treatment effect. For per‐protocol analysis, minimal effective treatment was defined as an average of 30 minutes each day and a minimum of 8 sessions over 4 weeks. Primary and secondary outcome variables, except for rescue medication, were compared among groups using linear mixed models for repeated measures controlling for site, as there were significant differences between sites at baseline (Supplementary Table 2, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract) 42. For the outcome variables of movement‐evoked pain, resting pain, fatigue, and function during the randomized portion of the trial, the time variable comprised 4 time points: visit 2 pre‐TENS, visit 2 during TENS, visit 3 pre‐TENS, and visit 3 during TENS. In fitting the linear mixed model, Akaike's information criteria (AIC) and Bayesian information criteria (BIC) were used to select the covariance structure that best fit these longitudinal measures within‐subject. The covariance types that were considered included compound symmetry, heterogeneous compound symmetry, first‐order autoregressive, and unstructured.
+
+Based on these model parameter estimates and the fitted covariance structure, tests of mean contrast were performed to assess the effect of TENS, compared to placebo, and control on the primary outcome measures. These assessments included 1) testing within each treatment group for the immediate effect of TENS use (during TENS versus pre‐TENS at visits 2 and 3); 2) testing within each treatment group for the long‐term effect of TENS (during TENS at visit 3 versus pre‐TENS at visit 2, as well as pre‐TENS at visit 3 versus pre‐TENS at visit 2); and 3) comparison of long‐term effect of TENS according to treatment (visit 3 during TENS minus visit 2 pre‐TENS, as well as visit 3 pre‐TENS minus visit 2 pre‐TENS, compared between treatment groups).
+
+The analgesic effect of TENS is produced by release of inhibitory neurotransmitters (endogenous opioids, serotonin, γ‐aminobutyric acid [GABA]), and thus the effects are maximal during the actual time the unit is on 14. We therefore tested the primary outcome after 4 weeks of home use at a time point when the TENS unit was active (visit 3 during TENS) and compared this outcome to visit 2 before TENS use (visit 2 pre‐TENS). To account for the number of tests performed within each of the 3 sets of tests, P values with Bonferroni adjustment for multiple comparisons were used. Similar analysis was performed, using a linear mixed model for repeated measures, for the other secondary variables that were measured at 2 time points (visit 2 and visit 3). The following analyses were performed: 1) test for change (visit 3 versus visit 2) within each treatment group (Bonferroni‐adjusted for 3 tests) and 2) comparison of visit 3 minus visit 2 change between treatment groups (Bonferroni‐adjusted for 3 tests).
+
+Since Revised FIQ results and marital status differed at baseline between groups, treatment effect on outcome measures was also tested with Revised FIQ results and marital status as a covariate in the model. Estimates of mean change or difference between groups with 95% confidence intervals (95% CIs) were computed. Rescue pain medication (opioid and non‐opioid analgesics) was calculated as morphine equivalents for opioids and as the number of pills for non‐opioid analgesics. The groups were subdivided by those who reported rescue pain medication use at visit 2 and those who did not use pain medication. We then examined the change in rescue medication between visit 2 and visit 3 to classify study participants as either 1) those who decreased the amount of rescue medication or who remained non‐users or 2) those who increased or used the same amount of rescue medication. The percentages of participants in these 2 categories were compared among the treatment groups using the Cochran‐Mantel‐Haenszel test, controlling for site and rescue pain medication use at visit 2.
+
+The handling of missing data in linear mixed model analysis assumes that data are missing at random. However, a subsequent analysis that examined sensitivity of the findings if data were missing not at random (with a multiple imputation approach) was performed using a control‐based pattern imputation and delta‐adjustment imputation (Supplementary Methods and Supplementary Table 3, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+## Results
+
+#### Participants
+
+Between September 2013 and February 2018, 352 participants were enrolled in this study, with 301 randomly assigned to 1 of 3 groups (active TENS [n = 103], placebo TENS [n = 99], or no TENS [n = 99]), which comprised ITT analysis (Figure 1B). The majority of participants who were enrolled but not randomized failed to meet the pain severity threshold required for inclusion at visit 2. Of the 301 randomized participants, 238 were included in the per‐protocol analysis (active TENS [n = 76], placebo TENS [n = 68], and no TENS [n = 94]). Participant demographics and baseline characteristics prior to randomization at visit 2 were similar between all 3 groups except for marital status and Revised FIQ (Table 1 and Supplementary Results, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). Subjects used active TENS for a median of 77.1 minutes (interquartile range [IQR] 51.4–109.7) each day and placebo TENS for a median of 72 minutes (IQR 39.4–104.6) each day. The mean ± SD stimulation intensity in the active treatment group was 38.8 ± 7.98 mA for lumbar locations and 38.7 ± 7.2 mA for cervical locations.
+
+[Table] Table 1 Demographic and baseline clinical characteristics of the study participantsa
+|  | Active TENS (n = 103) | Placebo TENS (n = 99) | No TENS (n = 99) |
+| Demographic variablesb |  |  |  |
+| Age, years | 44.7 ± 14.3 | 47.2 ± 12.6 | 48.6 ± 11.8 |
+| White race, % | 92 | 92 | 92 |
+| Ethnicity, not Hispanic, % | 95 | 95 | 95 |
+| Married/living with partner, % | 33c | 51 | 52 |
+| Less than college graduate, % | 61 | 61 | 64 |
+| Working, % | 55 | 45 | 58 |
+| Health variables |  |  |  |
+| Never smoked, % | 82 | 80 | 70 |
+| Body mass index, kg/m2 | 34.8 ± 8.7 | 33.7 ± 8.8 | 34.0 ± 8.9 |
+| Duration of fibromyalgia, median (range) years | 7 (3–12) | 7 (2–14) | 7 (4–15) |
+| Opioid use for paind, no. (%) | 27 (26) | 26 (26) | 26 (26) |
+| Baseline measures |  |  |  |
+| Pain with movement during 6MWT (0–10) (primary outcome measure) | 6.5 ± 1.9 | 6.2 ± 1.9 | 6.4 ± 1.9 |
+| Pain with movement during 5STS (0–10) (primary outcome measure) | 5.8 ± 2.4 | 5.5 ± 2.2 | 5.6 ± 2.2 |
+| Pain at rest, NRS (0–10) | 6.2 ± 1.5 | 5.9 ± 1.4 | 6.1 ± 1.6 |
+| Fatigue at rest, NRS (0–10) | 6.8 ± 2.0 | 6.1 ± 1.8 | 6.4 ± 2.0 |
+| Revised FIQ pain score (0–10) | 6.7 ± 1.8e | 6.0 ± 1.6 | 6.15 ± 1.8 |
+| Revised FIQ disease impact score (0–100) | 59.2 ± 16.8f | 53.7 ± 15.9 | 55.6 ± 16.0 |
+| Mental quality of life (SF‐36 mental composite score, T score) | 38.7 ± 10.0 | 40.2 ± 10.2 | 39.5 ± 10.6 |
+| Physical quality of life (SF‐36 physical composite score, T score) | 32.7 ± 6.4 | 33.3 ± 6.2 | 32.7 ± 6.6 |
+| Pain catastrophizing (PCS, 0–52) | 23.1 ± 13.0 | 20.4 ± 12.5 | 20.8 ± 12.1 |
+| Self‐efficacy (PSEQ, 0–60) | 28.2 ± 13.3 | 29.9 ± 13.1 | 29.0 ± 13.2 |
+| Fear of movement (TSK, 17–68) | 36.5 ± 7.7 | 37.1 ± 8.0 | 37.4 ± 8.3 |
+| Anxiety (PROMIS, T score) | 58.8 ± 8.7 | 58.1 ± 8.0 | 58.3 ± 7.8 |
+| Depression (PROMIS, T score) | 58.1 ± 8.1 | 55.7 ± 8.5 | 56.6 ± 8.1 |
+| Function (6MWT, feet walked) | 1,386 ± 323 | 1,358 ± 305 | 1,316 ± 318 |
+| Function (5TSTS, sit‐to‐stand times in 10 seconds) | 4.1 ± 1.5 | 4.0 ± 1.4 | 3.9 ± 1.5 |
+| Physical activity, median (range) minutes per day of moderate‐to‐vigorous activity | 17.7 (7.4–29.0) | 16.5 (6.3–29.1) | 15.0 (7.3–36.0) |
+| Physical activity, IPAQ SF, median (range) METs per week | 1,290 (504–3,276) | 1,108 (198–2,839) | 1,386 (297–2,970) |
+| TENS use (n = 94) |  |  |  |
+| Intensity used on lumbar locations, mA | 38.67 ± 7.98 | – | – |
+| Intensity used on cervical locations, mA | 38.70 ± 7.24 | – | – |
+| Minutes used per day, median (range) | 77.1 (51.4–109.7) | – | – |
+aExcept where indicated otherwise, values are the mean ± SD. TENS = transcutaneous electrical nerve stimulation; 6MWT = 6‐minute walk test; 5TSTS = 5‐time sit‐to‐stand test; NRS = numerical rating scale; FIQ = Fibromyalgia Impact Questionnaire; SF‐36 = short‐form 36; PCS = Pain Catastrophizing Scale; PSEQ = Pain Self‐Efficacy Questionnaire; TSK = Tampa Scale of Kinesiophobia; PROMIS = Patient‐Reported Outcomes Measurement Information System; IPAQ SF = International Physical Activity Questionnaire short‐form; METs = metabolic equivalents.bPercentages are based on the number of participants who chose to respond.c P = 0.010 versus placebo TENS and no TENS groups.dGroups were stratified for opioid use during randomization.e P = 0.020.f P = 0.049.
+
+#### Outcome measures
+
+##### Pain
+
+After 4 weeks of active TENS use, within‐group movement‐evoked pain during a 6‐minute walk test was significantly reduced by 1.8 points (95% CI –2.3, –1.2) compared to pre‐TENS treatment on visit 2, and the reduction was greater compared to movement‐evoked pain observed in the placebo TENS group (mean –0.8 [95% CI –1.4, –0.2]; P = 0.008) and the no TENS group (mean –0.006 [95% CI –0.5, 0.6]; P < 0.0001) (Figure 2 and Table 2), per ITT analysis. Similar results were obtained after adjustment for baseline Revised FIQ and marital status. There were also significant reductions in resting pain (NRS), pain intensity and interference (BPI), and pain based on the Revised FIQ in the active TENS group compared to the placebo TENS or no TENS groups after 4 weeks of home use (P < 0.05) (Figure 2 and Table 2). Per‐protocol analysis demonstrated similar results for pain (Supplementary Figure 2 and Supplementary Table 4, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). There was no significant change observed at visit 3 in rescue pain medication use after 1 month of active TENS versus placebo TENS or no TENS (Supplementary Table 5, http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+[Figure] Figure 2 Active transcutaneous electrical nerve stimulation (TENS) use significantly decreased pain and fatigue in women with fibromyalgia during activity and at rest compared to placebo TENS or no TENS use, per intent‐to‐treat analysis. Graphs show movement‐evoked and resting pain and fatigue before and during treatment at visits 2 and 3. Between visits 2 and 3, participants used TENS at home for 4 weeks (dotted lines). A, Movement‐evoked pain during the 6‐minute walk test (6MWT). B, Movement‐evoked pain during a 5‐time sit‐to‐stand test (5TSTS). C, Resting pain. D, Movement‐evoked fatigue during the 6MWT. E, Movement‐evoked fatigue during the 5TSTS. F, Resting fatigue. * = P < 0.05 versus placebo TENS and no TENS. Data are the mean ± SEM.
+
+[Table] Table 2 Primary and secondary outcomes in the intent‐to‐treat analysis (corrected for study site differences at baseline)a
+|  | Change from visit 2 | Active TENS versus placebo TENS | Active TENS versus no TENS |
+| Active TENS (n = 103) | Placebo TENS (n = 99) | No TENS (n = 99) | Group mean difference (95% CI) | P | Group mean difference (95% CI) | P |
+| Pain (6MWT, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.8 (–2.3, –1.2)b | –0.8 (–1.4, –0.2)c | 0.0 (–0.5, 0.6) | –1.0 (–1.8, –0.2) | 0.008 | –1.8 (–2.6, –1.0) | <0.0001 |
+| Visit 4 (all with TENS) | –2.0 (–2.8, –1.3)b | –1.9 (–2.7, –1.2)b | –1.9 (–2.6, –1.2)b |  |  |  |  |
+| Pain (5TSTS, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.6 (–2.3, –1.0)b | –0.3 (–1.0, 0.3) | 0.2 (–0.4, 0.9) | –1.3 (–2.2, –0.4) | 0.002 | –1.8 (–2.8, –1.0) | <0.0001 |
+| Visit 4 (all with TENS) | –1.9 (–2.6, –1.1)b | –1.4 (–2.2, –0.7)b | –1.3 (–2.1, –0.6)b |  |  |  |  |
+| Resting pain (0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.9 (–2.5, –1.4)b | –0.7 (–1.3, –0.1)d | –0.5 (–1.1, 0.0) | –1.2 (–2.1, –0.4) | 0.0006 | –1.4 (–2.2, –0.6) | <0.0001 |
+| Visit 4 (all with TENS) | –2.2 (–2.9, –1.6)b | –1.9 (–2.6, –1.2)b | –2.2 (–2.8, –1.5)b |  |  |  |  |
+| Fatigue (6MWT, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.5 (–2.2, –0.8)b | –0.1 (–0.9, 0.7) | 0.4 (–0.3, 1.1) | –1.4 (–2.4, –0.4) | 0.001 | –1.9 (–2.9, –0.9) | <0.0001 |
+| Visit 4 (all with TENS) | –1.3 (–2.0, –0.6)b | –0.9 (–1.7, –0.2)c | –0.9 (–1.7, –0.2)c |  |  |  |  |
+| Fatigue (5TSTS, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.2 (–1.9, –0.5)b | 0.0 (–0.8, 0.7) | 0.8 (0.1, 1.5)d | –1.2 (–2.2, –0.2) | 0.011 | –2.0 (–3.0, –1.0) | <0.0001 |
+| Visit 4 (all with TENS) | –1.1 (–1.9, –0.4)b | –0.8 (–1.6, –0.1)d | –0.6 (–1.4, 0.1) |  |  |  |  |
+| Resting fatigue (0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.9 (–2.6, –1.2)b | –0.8 (–1.5, –0.04)d | –0.4 (–1.0, 0.4) | –1.2 (–2.2, –0.1) | 0.016 | –1.57 (–2.6, –0.6) | 0.0002 |
+| Visit 4 (all with TENS) | –2.1 (–2.9, –1.4)b | –1.6 (–2.4, –0.8)b | –1.8 (–2.6, –1.1)b |  |  |  |  |
+| Disease impact (Revised FIQ, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –8.5 (–12.9, –4.0)b | –3.4 (–6.5, –0.3)d | –1.39 (–4.4, 1.6) | –5.0 (–10.4, 0.3) | 0.074 | –7.1 (–12.4, –1.8) | 0.005 |
+| Visit 4 (all with TENS) | –9.6 (–13.8, –5.4)b | –11.1 (–15.2, 7.0)b | –10.7 (–14.8, –6.6)b |  |  |  |  |
+| Pain (Revised FIQ, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.3 (–1.8, –0.7)b | –0.4 (–0.9, 0.2) | –0.1 (–0.6, 0.4) | –0.9 (–1.7, –0.1) | 0.018 | –1.2 (–1.9, –0.4) | 0.0006 |
+| Visit 4 (all with TENS) | –1.4 (–2.0, –0.8)b | –1.2 (–1.7, –0.6)b | –1.4 (–1.9, –0.8)b |  |  |  |  |
+| Pain (BPI interference, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –0.9 (–1.4, –0.5)b | –0.3 (–0.7, 0.2) | –0.3 (–0.7, 0.2) | 0.7 (–1.3, 0.01) | 0.043 | –0.6 (–1.3, 0.0) | 0.048 |
+| Visit 4 (all with TENS) | –1.1 (–1.6, –0.6)b | –0.9 (–1.4, –0.3)b | –1.2 (–1.7, –0.7)b |  |  |  |  |
+| Pain (BPI intensity, 0–10) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –0.8 (–1.1, –0.4)b | –0.3 (–0.6, 0.1) | 0.15 (–0.2, 0.5) | –0.5 (–1.0, 0.0) | 0.036 | –0.9 (–1.4, –0.4) | <0.0001 |
+| Visit 4 (all with TENS) | –1.0 (–1.4, –0.6)b | –0.9 (–1.3, –0.5)b | –0.9 (–1.2, –0.5)b |  |  |  |  |
+| Fatigue (MAF GFI, 1–50) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –4.6 (–6.4, –2.8)b | –1.5 (–3.3, 0.4) | –0.3 (–2.0, 1.5) | –3.2 (–5.7, –0.6) | 0.009 | –4.4 (–6.8, –1.9) | <0.0001 |
+| Visit 4 (all with TENS) | –4.0 (–6.0, –1.9)b | –4.3 (–6.4, –2.2)b | –3.2 (–5.1, 1.2)b |  |  |  |  |
+| Self‐efficacy (PSEQ, 0–60)e |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 3.2 (0.8, 5.6)b | 1.5 (–0.9, 4.0) | 0.8 (–1.5, 3.1) | 1.6 (–1.8, 5.1) | 0.75 | 2.3 (–1.0, 5.7) | 0.28 |
+| Visit 4 (all with TENS) | 5.3 (2.6, 8.0)b | 4.4 (1.7, 7.1)b | 4.2 (1.6, 6.8)b |  |  |  |  |
+| Pain catastrophizing (PCS, 0–52) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –3.4 (–5.3, –1.4)b | –3.1 (–5.1, –1.2)b | –1.4 (–3.3, 0.5) | –0.3 (–3.0, 2.5) | >0.99 | –2.0 (–4.7, 0.7) | 0.23 |
+| Visit 4 (all with TENS) | –6.1 (–8.2, –3.9)b | –4.5 (–6.8, –2.3)b | –4.9 (–7.0, –2.8)b |  |  |  |  |
+| Fear of movement (TSK, 17–68) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –0.7 (–2.0, 0.6) | –0.3 (–1.7, 1.0) | –0.2 (–1.4, 1.1) | –0.4 (–2.3, 1.5) | >0.99 | –0.6 (–2.4, 1.3) | >0.99 |
+| Visit 4 (all with TENS) | –0.3 (–1.6, 1.1) | –2.3 (–3.7, 0.9)b | –3.3 (–4.6, –2.0)b |  |  |  |  |
+| Mental quality of life (SF‐36 mental composite score, T score)e |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 2.3 (0.2, 4.4)d | 1.2 (–0.9, 3.4) | –0.04 (–2.1, 2.0) | 1.1 (–1.9, 4.1) | >0.99 | 2.4 (–0.6, 5.3) | 0.17 |
+| Visit 4 (all with TENS) | 2.1 (–0.2, 4.4) | 3.6 (1.3, 6.0)b | 2.8 (0.6, 5.0)c |  |  |  |  |
+| Physical quality of life (SF‐36 physical composite score, T score) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 2.4 (1.0, 3.7)b | 1.2 (–0.2, 2.5) | 1.4 (0.1, 2.6) | 1.2 (–0.7, 3.1) | 0.36 | 1.0 (–0.8, 2.8) | 0.58 |
+| Visit 4 (all with TENS) | 3.5 (2.0, 5.1)b | 3.2 (1.6, 4.8)b | 4.4 (2.9, 5.9)b |  |  |  |  |
+| Anxiety (PROMIS, T score) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1.1 (–2.6, 0.5) | –0.6 (–2.1, 1.0) | –0.7 (–2.1, 0.8) | –0.5 (–2.7, 1.7) | >0.99 | –0.4 (–2.5, 1.7) | >0.99 |
+| Visit 4 (all with TENS) | –0.5 (–2.1, 1.2) | –1.6 (–3.3, 0.1) | –2.2 (–3.8, –0.6)c |  |  |  |  |
+| Depression (PROMIS, T score) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –2.8 (–4.2, –1.5)b | –0.1 (–1.5, 1.3) | 0.4 (–0.9, 1.7) | –2.7 (–4.7, –0.8) | 0.002 | –3.2 (–5.1, –1.3) | 0.0001 |
+| Visit 4 (all with TENS) | –2.0 (–3.4, –0.6)c | –1.3 (–2.7, 0.1) | –1.2 (–2.6, 0.2) |  |  |  |  |
+| Self‐reported function (Revised FIQ, 0–30) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –2.7 (–4.0, –1.4)b | –1.4 (–2.7, –0.1)d | –0.6 (–1.8, 0.7) | –1.3 (–3.2, 0.5) | 0.25 | –2.1 (–3.9, –0.4) | 0.013 |
+| Visit 4 (all with TENS) | –2.8 (–4.2, –1.4)b | –3.7 (–5.1, –2.3)b | –3.6 (–4.9, –2.3)b |  |  |  |  |
+| Self‐reported function (SF‐36, T score)e |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 1.4 (0.1, 2.7)d | 0.5 (–0.8, 1.8) | 0.8 (–0.5, 2.0) | 0.9 (–1.0, 2.7) | 0.79 | 0.6 (–1.2, 2.4) | >0.99 |
+| Visit 4 (all with TENS) | 2.9 (1.5, 4.4)b | 2.3 (0.9, 3.8)b | 3.0 (1.6, 4.4)b |  |  |  |  |
+| Self‐reported function/physical activity (IPAQ SF, % change in METs per week) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 8.1 (–22.0, 49.9) | 52.1 (9.0, 112.2)c | –14.2 (–37.5, 17.8) |  | 0.24 |  | 0.67 |
+| Visit 4 (all with TENS) | 38.1 (–1.2, 93.0) | 46.3 (4.1, 105.5)d | 29.9 (–6.3, 80.1) |  |  |  |  |
+| Performance‐based function (6MWT, feet walked) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –1 (–55, 54) | –20 (–75, 36) | –42.1 (–95, 11) | 19 (–58, 96) | >0.99 | 42 (–34, 117) | >0.99 |
+| Visit 4 (all with TENS) | 15 (–42, 71) | 16 (–41, 74) | –2 (–57, 53) |  |  |  |  |
+| Performance‐based function (5TSTS, sit‐to‐stand times in 10 seconds) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | 0.6 (0.3, 1.0)b | 0.4 (0.0, 0.7)d | 0.1 (–0.3, 0.4) | 0.2 (–0.2, 0.7) | 0.96 | 0.6 (0.1, 1.0) | 0.008 |
+| Visit 4 (all with TENS) | 0.6 (0.2, 1.0)b | 0.8 (0.4, 1.3)b | 0.6 (0.1, 1.0)c |  |  |  |  |
+| Performance‐based function (minutes per day of moderate‐to‐vigorous physical activity, % change) |  |  |  |  |  |  |  |
+| Visit 3 (randomized) | –9.4 (–27.8, 13.5) | 2.5 (–18.6, 29.1) | –14.1 (–29.5, 4.7) |  | >0.99 |  | >0.99 |
+| Visit 4 (all with TENS) | –6.8 (–27.2, 19.3) | –0.3 (–22.3, 27.9) | –17.0 (–33.9, 4.1) |  |  |  |  |
+aMean change (from baseline at visit 2) to visit 3 (after 4 weeks of home use of active TENS, placebo TENS, or no TENS) and visit 4 (after 4 weeks of home TENS use in all groups) with adjusted 95% confidence intervals (95% CIs). Change scores are presented for the randomized phase between visit 2 and visit 3, and for the difference from baseline at visit 4 when all subjects received active TENS. P values represent post hoc comparisons between groups. BPI = Brief Pain Inventory; MAF = Multidimensional Assessment of Fatigue; GFI = Global Fatigue Index (see Table 1 for other definitions).b P = <0.001.c P = <0.01.d P = <0.05.eHigher score represents improvement.
+
+As part of our recruitment and retention strategy, we provided active TENS units to all participants after visit 3 for 4 weeks of home use and then tested effects on visit 4. The active TENS group (n = 75) continued to exhibit a reduction in resting and movement‐evoked pain after an additional 4 weeks of home use (Table 2 and Supplementary Table 6, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract). After 4 weeks of active TENS use, the placebo TENS group (n = 68) and no TENS group (n = 94) had significant decreases in resting and movement‐evoked pain (Table 2 and Supplementary Table 6).
+
+##### Fatigue
+
+After 4 weeks of active TENS use, there was a significant reduction in movement‐evoked fatigue in the active TENS group compared to the placebo TENS group (P = 0.001) and the no TENS group (P < 0.0001) (Figure 2 and Table 2), per ITT analysis. Resting fatigue and MAF global fatigue index results showed significant differences between active TENS use and placebo TENS or no TENS use (P < 0.05) (Table 2). The per‐protocol analysis demonstrated similar results for fatigue (Supplementary Figure 2 and Supplementary Table 4, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+##### Function, disease impact, quality of life, and pain‐related psychological factors
+
+Active TENS produced significant reductions in disease impact (Revised FIQ) and self‐reported function (Revised FIQ function subscale) compared to no TENS use but not compared to placebo TENS (Table 2), per ITT analysis. No differences between groups were observed for performance‐based function (6‐minute walk test and 5‐time sit‐to‐stand test), physical activity (accelerometry and IPAQ short form), fear of movement (TSK), pain catastrophizing (PCS), self‐efficacy (PSEQ), anxiety (PROMIS), or quality of life (SF‐36), except for a small decrease in depression (PROMIS) with active TENS use (Table 2).
+
+#### Global impression of change
+
+The GIC showed that 70% of those in the active TENS group reported global improvement compared to 31% of those in the placebo TENS group (P < 0.0001) and 9% of those in the no TENS group (P < 0.0001), by ITT analysis (Figure 3A). The GIC rating was moderately correlated with the change in movement‐evoked pain (r = –0.39, P = 0.0001 by Spearman's coefficient; n = 242) (Supplementary Figure 3, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+[Figure] Figure 3 The active TENS group had an improved perception of change and a greater number of responders with regard to the degree of change in movement‐evoked pain or fatigue during a 6MWT compared to the placebo TENS or no TENS groups. A, The percentage of participants who reported feeling better or much better (blue), no change (green), and worse or extremely worse (red) after 4 weeks of active TENS, placebo TENS, or no TENS treatment. The majority of individuals reported a significant overall improvement after using active TENS compared to those who used placebo TENS or no TENS (P < 0.0001). There were no differences between the placebo TENS and no TENS groups (P = 0.175). B, Percentages (with 95% confidence intervals [95% CIs]) of subjects in each treatment group who had a clinically meaningful response to TENS (as described by Arnold and colleagues 43, i.e., ≥30% reduction [pain], ≥20% reduction [fatigue, function]). There was a significantly greater number of responders for pain, fatigue, and both pain and fatigue in the active TENS group compared to the placebo TENS and no TENS groups. Function was measured according to the Revised Fibromyalgia Impact Questionnaire 39. See Figure 2 for other definitions. Color figure can be viewed in the online issue, which is available at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract.
+
+#### Responders to TENS intervention
+
+We defined TENS responders as subjects who exhibited the following after TENS use: pain reduction of ≥30%, fatigue reduction of ≥20%, and function improvement of ≥20% (based on percentages that have been suggested as clinically meaningful in prior studies 42, 43). For pain, the active TENS group had significantly more responders compared to the placebo TENS and no TENS groups (P = 0.004 and P < 0.001, respectively) (Figure 3B). Similarly, for fatigue, the active TENS group had significantly more responders compared to the placebo TENS and no TENS groups (P = 0.019 and P = 0.004, respectively). For function (measured with the Revised FIQ function scale), the number of responders did not differ between groups (Figure 3B).
+
+#### Blinding
+
+The outcome assessors were adequately blinded with regard to active TENS, placebo TENS, and no TENS treatment (with correct treatment identification of 45%, 13%, and 20%, respectively). The participants were blinded with regard to placebo TENS treatment (with correct treatment identification of 49%), but correctly identified active TENS treatment 70% of the time. The reduction in movement‐evoked pain during the 6‐minute walk test after 4 weeks of active TENS use was not significantly different in those who correctly identified active TENS treatment (–1.9 [95% CI –2.6, –1.3]) compared to those who did not correctly identify active TENS treatment (–1.4 [95% CI –2.5, –0.3]), with a mean difference of –0.56 (95% CI –1.7, 0.6) (P = 0.50).
+
+#### Adverse events
+
+There were 30 adverse events related to TENS intervention in 30 participants on visits 1, 2, or 3. The most common adverse events were pain with TENS (4.8% in the active TENS group, 4% in the placebo TENS group, and 1% in the no TENS group) and skin irritation with electrodes (4.8% in the active TENS group, 1% in the placebo TENS group, and 0% in the no TENS group). Adverse events reported on visit 2 occurred during the first treatment at that visit, and adverse events reported on visit 3 were during treatment at that visit and during the 4‐week period of home use. Supplementary Table 7, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract, shows rates of TENS‐related adverse events by visit. There were 4 serious adverse events, with none related to TENS use (Supplementary Results, http://onlinelibrary.wiley.com/doi/10.1002/art.41170/abstract).
+
+## Discussion
+
+This double‐blind, randomized, controlled trial showed that active TENS use significantly reduced movement‐evoked and resting pain and fatigue compared to placebo TENS or no TENS use in women with FM. The current study used a classic design to examine active TENS–specific effects compared to placebo TENS use, but also included a unique method of comparison (no TENS use) as a more pragmatic application that includes both specific and nonspecific treatment effects. While participants in the active TENS group correctly identified the intervention 70% of the time, there was no difference in pain reduction between participants who correctly guessed the treatment and participants who did not—an argument against a difference based on inadequate blinding. We also demonstrated adequate blinding with regard to placebo TENS intervention by utilizing our novel transient placebo TENS unit with repeated use, further validating the placebo TENS intervention from our prior study that showed excellent blinding with a single use 41.
+
+Our primary outcome measure of movement‐evoked pain lacks formally validated minimally important differences in the published literature; however, we utilized the general thresholds recommended by the Outcome Measures in Rheumatology group (30% reduction in pain, 20% reduction in fatigue, and 20% reduction in functional impairment) 43. In the active TENS group, 44% of participants exhibited clinically important reductions of 30% and 45% in pain and fatigue, respectively, with 29% exhibiting a reduction in both pain and fatigue, suggesting that a subpopulation of individuals with FM responds well to TENS. The responder rates for pain are similar to those obtained with Food and Drug Administration–approved pharmaceutical agents for FM, such as duloxetine or pregabalin, which demonstrate responder rates of 31–41% based on a 30% reduction in pain 44, 45. The comparative reductions in movement‐evoked pain with active TENS compared to placebo TENS were small, averaging a 1‐point difference on an 11‐point scale. However, the comparative reduction was 1.8 when compared to no TENS. A 1.8‐point decrease equates to a >30% reduction for individuals with a pain rating of ≤6 42. It should be noted that some studies also suggest that a 2‐point reduction in pain is the clinically relevant threshold 46. Future studies should be conducted to identify which patients are most likely to respond to TENS, which would be an inexpensive, safe, and easy‐to‐disseminate intervention for pain management.
+
+The reductions in pain and fatigue, 2 common symptoms in FM, likely contributed to improvements in GIC reported by individuals who received active TENS. While pain is a defining characteristic of FM, fatigue is also a common symptom, occurring in the majority of individuals with FM 47. Both pain and fatigue contribute significantly to perceived disability and function 48, and the global rating of change is associated with improvements in pain and fatigue in individuals with FM 49, 50. We show in our trial, for the first time, the relationship between global improvement and movement‐evoked pain, with similar results to those obtained in prior studies on pain and GIC 49, 50. The magnitude of reduction in both pain and fatigue observed in the current study is likely to have a significant impact on the day‐to‐day experience of FM patients 51, 52.
+
+In a recent Cochrane review, Johnson et al examined the efficacy of TENS treatment for individuals with FM and concluded that there was insufficient high‐quality evidence 17. The main concerns were inadequately powered studies (n = 5–43 participants per group) with incomplete and limited outcome reporting. Additional concerns in regard to TENS clinical studies include use of an adequate placebo with blinding of participant and assessors, timing of outcome measurements, adequate dosing of TENS, and monitoring of concurrent analgesia 21, 22. The current study was designed to address these concerns, as well as the multiple dimensions of FM recommended by professional societies as clinically important domains 53. While we showed significant effects on pain, fatigue, and global improvement, we failed to detect a change in several FM domains, including function, psychological factors, and quality of life, after 4 weeks of TENS use. The lack of effect on function could be related to the short duration of TENS use, as functional changes may take a longer period of time to change or are harder to achieve, particularly in longstanding conditions such as FM. As an example, most exercise studies require 8–24 weeks for improved function, with improvements varying between 10% and 20% 54. It is also possible that TENS may improve adherence to an exercise task, while not directly improving function. Future studies are needed in order to examine more long‐term effects in a pragmatic setting so as to evaluate the interactions between function and adherence with physical activity interventions.
+
+Uniquely, the current study, compared to prior TENS studies 22, examined outcomes during TENS treatment. TENS activates endogenous inhibitory pathways in the central nervous system, releasing the inhibitory neurotransmitters serotonin, opioids, and GABA to reduce sensitization of central neurons 14, 55, and the greatest effects occur during stimulation, when endogenous inhibitory neurotransmitters are released. We also demonstrate that active TENS has a cumulative effect because there was a greater reduction after 4 weeks of home use when compared to the first single treatment. Further, active TENS remained effective after 8 weeks of repeated home use in the active TENS group. This is important as we have previously reported the development of analgesic tolerance to the repeated use of high‐frequency or low‐frequency TENS in animals and human participants, a phenomenon mediated by endogenous opioids 56, 57. The lack of tolerance to repeated use is likely a result of the mixed frequency used in the current study, as prior studies in animals have shown decreased tolerance with mixed frequencies 58. Thus, understanding the mechanisms underlying analgesia produced by nonpharmacologic interventions is critical to the design of an adequate clinical trial to detect clinical effectiveness.
+
+Importantly, the current study recorded adverse events in the active TENS and placebo TENS groups and showed minimal adverse events. Fewer than 5% of individuals receiving active TENS or placebo TENS reported pain with TENS or irritation with electrodes. This demonstrates that TENS is safe and could be a useful treatment for home use.
+
+There are several limitations to the study. The inability to achieve full blinding with regard to the active intervention, as noted above, may lead to reporting bias by the subject. However, if TENS is given at an adequate intensity (strong, but comfortable or greater 23, 41) to produce analgesic effects, this limitation may be unavoidable in a clinical trial of TENS. Data on medication usage were collected by self‐report, and thus subject recall bias and willingness of the subject to fill out the log can influence results. In the current study, 75% of subjects filled out enough logs for us to examine change in medication use as an outcome. A greater number of subjects withdrew from the active TENS group (n = 15) and the placebo TENS group (n = 11) group than the no TENS group (n = 4), which might suggest an unwillingness of some individuals to use the units on a regular basis. Additionally, this study was performed only in women with FM and thus the findings may not translate to men with FM. Last, the trial was designed as a 4‐week intervention, and while we observed significant effects on pain and fatigue, we did not see significant effects on function, rescue medication usage, or psychological outcomes. It is possible that longer treatment is necessary to see effects on these other outcomes, and thus future experiments will be needed to examine the more long‐term impact of TENS use.
+
+In conclusion, among women with FM who were on a stable medication regimen, the use of active TENS compared to placebo TENS for 4 weeks resulted in significantly reduced movement‐evoked pain. The use of active TENS compared to no TENS, as would be done clinically, resulted in a statistically and clinically meaningful improvement in movement‐evoked pain. Further research is needed for replication, to assess the duration of effect, and to establish clinical importance of these findings.
+
+## Author contributions
+
+All authors were involved in drafting the article or revising it critically for important intellectual content, and all authors approved the final version to be published. Dr. Sluka had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+### Study conception and design
+
+Dailey, Vance, Rakel, Zimmerman, Crofford, Sluka.
+
+### Acquisition of data
+
+Dailey, Vance, Embree, Merriwether, Geasland, Chimenti, Williams, Golchha, Crofford, Sluka.
+
+### Analysis and interpretation of data
+
+Dailey, Vance, Zimmerman, Merriwether, Geasland, Crofford, Sluka.
+
+## Supporting information
+
+## References
+
+1. Okifuji A, Hare BD. Management of fibromyalgia syndrome: review of evidence. Pain Ther 2013; 2: 87 – 104. 25135147 10.1007/s40122-013-0016-9 PMC4107911
+2. Vincent A, Whipple MO, McAllister SJ, Aleman KM, St Sauver JL. A cross‐sectional assessment of the prevalence of multiple chronic conditions and medication use in a sample of community‐dwelling adults with fibromyalgia in Olmsted County, Minnesota. BMJ Open 2015; 5: e006681. 10.1136/bmjopen-2014-006681 PMC4360829 25735301
+3. Qaseem A, Wilt TJ, McLean RM, Forciea MA, for the Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med 2017; 166: 514 – 30. 28192789 10.7326/M16-2367
+4. Macfarlane GJ, Kronisch C, Atzeni F, Häuser W, Choy EH, Amris K, et al. EULAR recommendations for management of fibromyalgia [letter]. Ann Rheum Dis 2017; 76: e54. 28476880 10.1136/annrheumdis-2017-211587
+5. Dowell D, Haegerich TM, Chou R. CDC guideline for prescribing opioids for chronic pain—United States, 2016. MMWR Recomm Rep 2016; 65: 1 – 49. 10.15585/mmwr.rr6501e1 26987082
+6. Bement MH, Sluka KA. Exercise‐induced hypoalgesia: an evidence‐based review In: Sluka KA, editor. Mechanisms and management of pain for the physical therapist. 2nd ed Philadelphia: Wolters Kluwer Health; 2016 p. 177 – 202.
+7. Bidonde J, Busch AJ, Bath B, Milosavljevic S. Exercise for adults with fibromyalgia: an umbrella systematic review with synthesis of best evidence. Curr Rheumatol Rev 2014; 10: 45 – 79. 25229499 10.2174/1573403x10666140914155304
+8. Dailey DL, Keffala VJ, Sluka KA. Do cognitive and physical fatigue tasks enhance pain, cognitive fatigue, and physical fatigue in people with fibromyalgia? Arthritis Care Res (Hoboken) 2015; 67: 288 – 96. 25074583 10.1002/acr.22417 PMC4310779
+9. Bair MJ, Matthias MS, Nyland KA, Huffman MA, Stubbs DL, Kroenke K, et al. Barriers and facilitators to chronic pain self‐management: a qualitative study of primary care patients with comorbid musculoskeletal pain and depression. Pain Med 2009; 10: 1280 – 90. 19818038 10.1111/j.1526-4637.2009.00707.x PMC2884223
+10. Ma YT, Sluka KA. Reduction in inflammation‐induced sensitization of dorsal horn neurons by transcutaneous electrical nerve stimulation in anesthetized rats. Exp Brain Res 2001; 137: 94 – 102. 11310176 10.1007/s002210000629
+11. Sluka KA, Deacon M, Stibal A, Strissel S, Terpstra A. Spinal blockade of opioid receptors prevents the analgesia produced by TENS in arthritic rats. J Pharmacol Exp Ther 1999; 289: 840 – 6. 10215661
+12. Kalra A, Urban MO, Sluka KA. Blockade of opioid receptors in rostral ventral medulla prevents antihyperalgesia produced by transcutaneous electrical nerve stimulation (TENS). J Pharmacol Exp Ther 2001; 298: 257 – 63. 11408550
+13. Radhakrishnan R, King EW, Dickman J, Herold CA, Johnston NF, Spurgin ML, et al. Spinal 5‐HT(2) and 5‐HT(3) receptors mediate low, but not high, frequency TENS‐induced antihyperalgesia in rats. Pain 2003; 105: 205 – 13. 14499437 10.1016/s0304-3959(03)00207-0 PMC2746627
+14. Vance CG, Dailey DL, Rakel BA, Sluka KA. Using TENS for pain control: the state of the evidence. Pain Manag 2014; 4: 197 – 209. 24953072 10.2217/pmt.14.13 PMC4186747
+15. Clauw DJ. Fibromyalgia: a clinical review. JAMA 2014; 311: 1547 – 55. 24737367 10.1001/jama.2014.3266
+16. Sluka KA, Clauw DJ. Neurobiology of fibromyalgia and chronic widespread pain. Neuroscience 2016; 338: 114 – 29. 27291641 10.1016/j.neuroscience.2016.06.006 PMC5083139
+17. Johnson MI, Claydon LS, Herbison GP, Jones G, Paley CA. Transcutaneous electrical nerve stimulation (TENS) for fibromyalgia in adults [review]. Cochrane Database Syst Rev 2017; 10: CD012172. 28990665 10.1002/14651858.CD012172.pub2 PMC6485914
+18. Johnson MI, Paley CA, Howe TE, Sluka KA. Transcutaneous electrical nerve stimulation for acute pain [review]. Cochrane Database Syst Rev 2015; CD006142. 26075732 10.1002/14651858.CD006142.pub3 PMC8094447
+19. Chen LX, Zhou ZR, Li YL, Ning GZ, Li Y, Wang XB, et al. Transcutaneous electrical nerve stimulation in patients with knee osteoarthritis: evidence from randomized‐controlled trials. Clin J Pain 2016; 32: 146 – 54. 25803757 10.1097/AJP.0000000000000233
+20. Resende L, Merriwether E, Rampazo ÉP, Dailey D, Embree J, Deberg J, et al. Meta‐analysis of transcutaneous electrical nerve stimulation for relief of spinal pain. Eur J Pain 2018; 22: 663 – 78. 29282846 10.1002/ejp.1168
+21. Bennett MI, Hughes N, Johnson MI. Methodological quality in randomised controlled trials of transcutaneous electric nerve stimulation for pain: low fidelity may explain negative findings. Pain 2011; 152: 1226 – 32. 21435786 10.1016/j.pain.2010.12.009
+22. Sluka KA, Bjordal JM, Marchand S, Rakel BA. What makes transcutaneous electrical nerve stimulation work? Making sense of the mixed results in the clinical literature. Phys Ther 2013; 93: 1397 – 402. 23641031 10.2522/ptj.20120281 PMC3788712
+23. Moran F, Leonard T, Hawthorne S, Hughes CM, McCrum‐Gardner E, Johnson MI, et al. Hypoalgesia in response to transcutaneous electrical nerve stimulation (TENS) depends on stimulation intensity. J Pain 2011; 12: 929 – 35. 21481649 10.1016/j.jpain.2011.02.352
+24. Rakel B, Frantz R. Effectiveness of transcutaneous electrical nerve stimulation on postoperative pain with movement. J Pain 2003; 4: 455 – 64. 14622666 10.1067/s1526-5900(03)00780-6
+25. Dailey DL, Rakel BA, Vance CG, Liebano RE, Amrit AS, Bush HM, et al. Transcutaneous electrical nerve stimulation reduces pain, fatigue and hyperalgesia while restoring central inhibition in primary fibromyalgia. Pain 2013; 154: 2554 – 62. 23900134 10.1016/j.pain.2013.07.043 PMC3972497
+26. Cowan S, McKenna J, McCrum‐Gardner E, Johnson MI, Sluka KA, Walsh DM. An investigation of the hypoalgesic effects of TENS delivered by a glove electrode. J Pain 2009; 10: 694 – 701. 19398378 10.1016/j.jpain.2008.12.004 PMC2761234
+27. Sunshine W, Field TM, Quintino O, Fierro K, Kuhn C, Burman I, et al. Fibromyalgia benefits from massage therapy and transcutaneous electrical stimulation. J Clin Rheumatol 1996; 2: 18 – 22. 19078022 10.1097/00124743-199602000-00005
+28. Löfgren M, Norrbrink C. Pain relief in women with fibromyalgia: a cross‐over study of superficial warmth stimulation and transcutaneous electrical nerve stimulation. J Rehabil Med 2009; 41: 557 – 62. 19543667 10.2340/16501977-0371
+29. Lauretti GR, Chubaci EF, Mattos AL. Efficacy of the use of two simultaneously TENS devices for fibromyalgia pain. Rheumatol Int 2013; 33: 2117 – 22. 23423539 10.1007/s00296-013-2699-y
+30. Carbonario F, Matsutani LA, Yuan SL, Marques AP. Effectiveness of high‐frequency transcutaneous electrical nerve stimulation at tender points as adjuvant therapy for patients with fibromyalgia. Eur J Phys Rehabil Med 2013; 49: 197 – 204. 23486303
+31. Noehren B, Dailey DL, Rakel BA, Vance CG, Zimmerman MB, Crofford LJ, et al. Effect of transcutaneous electrical nerve stimulation on pain, function, and quality of life in fibromyalgia: a double‐blind randomized clinical trial. Phys Ther 2015; 95: 129 – 40. 25212518 10.2522/ptj.20140218 PMC4295083
+32. Wolfe F, Smythe HA, Yunus MB, Bennett RM, Bombardier C, Goldenberg DL, et al. The American College of Rheumatology 1990 criteria for the classification of fibromyalgia: report of the Multicenter Criteria Committee. Arthritis Rheum 1990; 33: 160 – 72. 2306288 10.1002/art.1780330203
+33. Cleeland CS, Ryan KM. Pain assessment: global use of the Brief Pain Inventory. Ann Acad Med Singapore 1994; 23: 129 – 38. 8080219
+34. Belza BL. Comparison of self‐reported fatigue in rheumatoid arthritis and controls. J Rheumatol 1995; 22: 639 – 43. 7791155
+35. PloS One. International Physical Activity Questionnaire ‐ short form. URL: https://journals.plos.org/plosone/article/file?type=supplementary%26id=info:doi/10.1371/journal.pone.0219193.s010.
+36. Miller RP, Kori S, Todd D. The Tampa Scale: a measure of kinesiophobia. Clin J Pain 1991; 7: 51 – 2.
+37. Sullivan MJ, Bishop SR, Pivik J. The Pain Catastrophizing Scale: development and validation. Psychol Assess 1995; 7: 524 – 32.
+38. Nicholas MK. The pain self‐efficacy questionnaire: taking pain into account. Eur J Pain 2007; 11: 153 – 63. 16446108 10.1016/j.ejpain.2005.12.008
+39. Bennett RM, Friend R, Jones KD, Ward R, Han BK, Ross RL. The Revised Fibromyalgia Impact Questionnaire (FIQR): validation and psychometric properties. Arthritis Res Ther 2009; 11: R120. 19664287 10.1186/ar2783 PMC2745803
+40. Ware JE Jr, Snow KK, Kosinski M, Gandek B. SF‐36 health survey: manual and interpretation guide. Boston: The Health Institute, New England Medical Center; 1993.
+41. Rakel B, Cooper N, Adams HJ, Messer BR, Frey Law LA, Dannen DR, et al. A new transient sham TENS device allows for investigator blinding while delivering a true placebo treatment. J Pain 2010; 11: 230 – 8. 19945354 10.1016/j.jpain.2009.07.007 PMC2922105
+42. Farrar JT, Young JP Jr, LaMoreaux L, Werth JL, Poole RM. Clinical importance of changes in chronic pain intensity measured on an 11‐point numerical pain rating scale. Pain 2001; 94: 149 – 58. 11690728 10.1016/S0304-3959(01)00349-9
+43. Arnold LM, Williams DA, Hudson JI, Martin SA, Clauw DJ, Crofford LJ, et al. Development of responder definitions for fibromyalgia clinical trials. Arthritis Rheum 2012; 64: 885 – 94. 21953205 10.1002/art.33360 PMC3252491
+44. Straube S, Derry S, Moore RA, Cole P. Cervico‐thoracic or lumbar sympathectomy for neuropathic pain and complex regional pain syndrome [review]. Cochrane Database Syst Rev 2013; CD002918. 23999944 10.1002/14651858.CD002918.pub3 PMC6491249
+45. Moore RA, Wiffen PJ, Derry S, Toelle T, Rice AS. Gabapentin for chronic neuropathic pain and fibromyalgia in adults [review]. Cochrane Database Syst Rev 2014; CD007938. 24771480 10.1002/14651858.CD007938.pub3 PMC6464253
+46. Salaffi F, Stancati A, Silvestri CA, Ciapetti A, Grassi W. Minimal clinically important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale. Eur J Pain 2004; 8: 283 – 91. 15207508 10.1016/j.ejpain.2003.09.004
+47. Wolfe F, Clauw DJ, Fitzcharles MA, Goldenberg DL, Häuser W, Katz RL, et al. 2016 revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum 2016; 46: 319 – 29. 27916278 10.1016/j.semarthrit.2016.08.012
+48. Dailey DL, Frey Law LA, Vance CG, Rakel BA, Merriwether EN, Darghosian L, et al. Perceived function and physical performance are associated with pain and fatigue in women with fibromyalgia. Arthritis Res Ther 2016; 18: 68. 26979999 10.1186/s13075-016-0954-9 PMC4793621
+49. Arnold LM, Zlateva G, Sadosky A, Emir B, Whalen E. Correlations between fibromyalgia symptom and function domains and patient global impression of change: a pooled analysis of three randomized, placebo‐controlled trials of pregabalin. Pain Med 2011; 12: 260 – 7. 21266008 10.1111/j.1526-4637.2010.01047.x
+50. Rampakakis E, Ste‐Marie PA, Sampalis JS, Karellis A, Shir Y, Fitzcharles MA. Real‐life assessment of the validity of patient global impression of change in fibromyalgia. RMD Open 2015; 1: e000146. 26535150 10.1136/rmdopen-2015-000146 PMC4623367
+51. Arnold LM, Crofford LJ, Mease PJ, Burgess SM, Palmer SC, Abetz L, et al. Patient perspectives on the impact of fibromyalgia. Patient Educ Couns 2008; 73: 114 – 20. 18640807 10.1016/j.pec.2008.06.005 PMC2564867
+52. Okifuji A, Bradshaw DH, Donaldson GW, Turk DC. Sequential analyses of daily symptoms in women with fibromyalgia syndrome. J Pain 2011; 12: 84 – 93. 20591745 10.1016/j.jpain.2010.05.003 PMC2980792
+53. Mease PJ, Clauw DJ, Christensen R, Crofford LJ, Gendreau RM, Martin SA, et al. Toward development of a fibromyalgia responder index and disease activity score: OMERACT module update. J Rheumatol 2011; 38: 1487 – 95. 21724721 10.3899/jrheum.110277 PMC3426365
+54. Bidonde J, Busch AJ, Schachter CL, Overend TJ, Kim SY, Góes SM, et al. Aerobic exercise training for adults with fibromyalgia [review]. Cochrane Database Syst Rev 2017; 6: CD012700. 28636204 10.1002/14651858.CD012700 PMC6481524
+55. Sluka KA, Walsh DM. Transcutaneous electrical nerve stimulation and interferential therapy In: Sluka KA, editor. Pain mechanisms and management for the physical therapist. 2nd ed Philadelphia: Wolters Kluwer Health; 2016 p. 203 – 23.
+56. Chandran P, Sluka KA. Development of opioid tolerance with repeated transcutaneous electrical nerve stimulation administration. Pain 2003; 102: 195 – 201. 12620611 10.1016/s0304-3959(02)00381-0
+57. Liebano R, Rakel B, Vance CG, Walsh DM, Sluka KA. An investigation of the development of analgesic tolerance to TENS in humans. Pain 2011; 152: 335 – 42. 21144659 10.1016/j.pain.2010.10.040 PMC3027071
+58. DeSantana JM, Santana‐Filho VJ, Sluka KA. Modulation between high‐ and low‐frequency transcutaneous electric nerve stimulation delays the development of analgesic tolerance in arthritic rats. Arch Phys Med Rehabil 2008; 89: 754 – 60. 18374009 10.1016/j.apmr.2007.11.027 PMC2744433

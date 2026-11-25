@@ -1,0 +1,397 @@
+# A systematic review and meta-analysis of the hip capsule innervation and its clinical implications
+
+Authors: Joanna Tomlinson, Benjamin Ondruschka, Torsten Prietzel, Johann Zwirner, Niels Hammer
+Journal: Scientific Reports. 2021;11:5299
+DOI: 10.1038/s41598-021-84345-z
+PMID: 33674621
+PMCID: PMC7935927
+License: https://creativecommons.org/licenses/by/4.0/Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original autho
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+Detailed understanding of the innervation of the hip capsule (HC) helps inform surgeons’ and anaesthetists’ clinical practice. Post-interventional pain following radiofrequency nerve ablation (RFA) and dislocation following total hip arthroplasty (THA) remain poorly understood, highlighting the need for more knowledge on the topic. This systematic review and meta-analysis focuses on gross anatomical studies investigating HC innervation. The main outcomes were defined as the prevalence, course, density and distribution of the nerves innervating the HC and changes according to demographic variables. HC innervation is highly variable; its primary nerve supply seems to be from the nerve to quadratus femoris and obturator nerve. Many articular branches originated from muscular branches of the lumbosacral plexus. It remains unclear whether demographic or anthropometric variables may help predict potential differences in HC innervation. Consequently, primary targets for RFA should be the anterior inferomedial aspect of the HC. For THA performed on non-risk patients, the posterior approach with capsular repair appears to be most appropriate with the lowest risk of articular nerve damage. Care should also be taken to avoid damaging vessels and muscles of the hip joint. Further investigation is required to form a coherent map of HC innervation, utilizing combined gross and histological investigation.
+
+## Introduction
+
+When performing total hip arthroplasty (THA), one philosophy of orthopedic surgeons aiming to preserve and repair the hip joint capsule (HC) is to spare the surrounding muscles and surrounding tissue, in turn this may also spare the articular branches of nerves supplying the HC1,2. Conversely, anesthetists and pain physicians aim to target these structures for radiofrequency ablation (RFA) procedures when THA is contraindicated, such as in patients with severe comorbidity, THA is deemed inappropriate, or for patients who require RFA as a temporary measure3. These clinicians rely on the spatial anatomy of the hip joint and its innervation patterns to inform their practice. However, in spite of high success rates for both procedures, postprocedural persistent pain is prevalent4,5. Specifically, pain following RFA3,4 and dislocation rates following THA6,7 could be reduced. It is unclear if persistent pain following RFA is due to inaccuracy when approaching the nerve’s articular branches due to lacking detailed anatomical knowledge, insufficient RFA resulting from the size or number of radiofrequency lesions, destruction of the nerve architecture or other factors3. A reduction in dislocation rate following THA appears achievable by repairing the capsule8–23, it has been theorized that this may partly be a result of preservation proprioceptive functioning8–10,24, in addition to restoration of the biomechanical properties of the HC. Proprioception of the hip joint; which is the conscious and unconscious sensation of the body in space25; is thought to be controlled by the end-terminals of the nerves to the HC1, as well as receptors present in the skin and musculature acting on the joint26,27. To date, it is unclear to what extent the neural feedback of the HC contributes to the success of THA with capsular repair.
+
+The posterior [Kocher–Langenbeck] and lateral [Bauer or Hardinge] approaches appear to be the most commonly used methods during THA28. The choice of the surgical approach is often based on the surgeons’ educational environment, consequential experience and preference following good outcomes29. Surgeons focus on preserving muscular integrity30–34 and ensuring correct alignment of the implant9,35 in order to reduce risk of dislocation, rather than placing emphasis on assessing the patient’s peripheral neuroanatomy, which remains obscure when planning the surgery in the first instance. There is mixed evidence on the contribution of surgical approach to dislocation and instability36–41. Historically most studies report increased dislocation rate via the posterior approach39–43, however, when pooling data the risk appears to be similar38 and is further reduced when repair of the capsule and surrounding musculature is performed20,21. This indicates that other factors are likely to play a role in stability and an individualized approach which accounts for the patient’s anatomy may be required. A recent review of microscopic studies has shown that the highest number of nerve endings (type I-III mechanoreceptors and free nerve endings (FNE) are generally present in the proximal and superior lateral aspect of the HC, suggesting this region should be avoided during THA44 in order to maintain proprioceptive functioning. This region may be a suitable target for RFA to reduce pain, however, the anteromedial aspect of the HC is commonly used4. It is unclear if these microscopic findings corroborate with macroscopic studies and the extent of differences in innervation between individuals. The origin of these nerves also remains unclear, Hilton’s law suggests that any nerve supplying a muscle crossing the joint also innervates the inner aspects of the joint45; it is however uncertain if this also applies to the HC. It is also unclear if avoiding damage to these nerves is sufficient to prevent dislocation of the joint.
+
+### Aims and objectives
+
+This systematic review and meta-analysis aims to provide an encompassing synthesis of contemporary literature on the HC’s innervation from gross anatomical studies. This includes additional analyses that have not been performed to date4,46: a meta-analysis of the prevalence of nerves innervating the HC, discussion of the course, density, and distribution of articular nerves, and changes according to demographic, arthropometric variables and underlying pathology.
+
+## Methods
+
+### Selection of studies
+
+A systematic review of the literature on the HC’s innervation was performed to identify peer-reviewed articles published until October 2020 according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines47. Keywords relating to the HC’s innervation in gross anatomical studies (macroscopic studies) were searched using the following online databases: Amed (1985 <), Embase (1947 <), and Medline (1949 <) via Ovid, also PubMed, ScienceDirect, Scopus and Web of Science (all approximately 1900 <). Search terms are outlined in Table 1. Wiley and SpringerLink electronic databases were also screened ensure articles published in relevant anatomical journals from a wider date range were searched. The reference lists of previous literature reviews4,46 and the articles identified in this search were screened. To locate relevant articles that cite the included articles Web of Science Core Collection and ResearchGate.net were screened.
+
+[Table] Table 1 Search terms used in search strategy for this systematic review. Using the Boolean search method, the search lines were combined with the word ‘AND’. *Truncation of a word, this searches for words that begin with the word preceding the asterisk.
+| Search combinations |
+| (A) AND (B) AND (C) |
+| Search term (lines) |
+| (1) acetabulofemoral (2) coxa (3) hip |
+| (A) (1) OR (2) OR (3) |
+| (4) capsul* (5) iliofemoral (6) ischiofemoral(7) ligament* (8) pubofemoral (9) pseudocapsul* |
+| (B) (4) OR (5) OR (6) OR (7) OR (8) OR (9) |
+| (10) anatomy (11) cadaver* (12) dissect*(13) donor* (14) innervat* (15) morphology (16) nerve |
+| (C) (10) OR (11) OR (12) OR (13) (14) OR (15) OR (16) |
+
+When the databases included search options, these were configured to remove non-primary research articles and duplicates. Articles were inputted into an Excel spreadsheet to remove duplicates, then were screened by one author (J.T.) by their title and abstract, then by their full text. All screened articles that included macroscopic study of the HC or surrounding structures (i.e., musculature, bones and vessels) from either surgical or cadaveric studies were reviewed in their full text, to ensure all incidental findings on the HC’s innervation were included. The following exclusion criteria were applied during the literature search:Animal studiesNon-peer reviewed articlesNon-primary research articlesNon-macroscopic studiesStudies that did not investigate the HC or associated structures
+
+When an abstract was absent the full text was evaluated. Papers were included in the review if they contained specific information on the HC’s macroscopic innervation. Selected studies were assessed to ensure duplicated information was not included in this review.
+
+### Data extraction
+
+Relevant data was extracted from studies by one author (J.T.), this included information on the sample size investigated, demographic information of samples studied (age, sex, ethnicity, side and weight), as well as details on the prevalence, origin, course, and distribution of innervation.
+
+### Critique of the literature
+
+Papers were critiqued by one researcher (J.T.) according to the several criteria adapted from the AQUA48 and QUACS49 scales to assess the limitations to the conclusions made in cadaveric studies. This included assessing aspects of the methodology and potential variables affecting the reliability of the results presented, including determining if data was prospectively or retrospectively collected and if magnification was used. Additionally, the replicability of the study, data presentation and consideration of limitations were assessed.
+
+### Analyses
+
+The HC’s innervation was evaluated by collating information on the course and density of innervation and information on prevalence and distribution underwent analytical processing.
+
+### Prevalence
+
+Meta-analysis was performed to determine the pooled prevalence estimate (PPE) of each nerve innervating the HC. Analysis of the effect size was determined using a random effects model computed in Microsoft Excel 2016 with the MetaXL add-on version 5.3 (EpiGear International Pty Ltd, Queensland, Australia). The random effect model was selected as information from cadaveric samples generally have high heterogeneity50. By applying a random effects model this assumes a normal distribution within the sample, that the effects are estimated and different studies are not identical51. The PPE analysis included a double arcsine prevalence transformation, with a continuity correction of 0.5 and 95% confidence intervals (CI), in order to address the issues of variance instability52. The prevalence was obtained by multiplying the computed PPE by 100 to form a percentage. Several inclusion criteria were required for the PPE to be assessed:Studies with over 10 hip joints were investigated.The prevalence of a certain nerve innervating the HC was calculated when there were more than two studies investigating that nerve. More than 10 studies on the topic were regarded as a substantial number to form valid conclusions from the literature.Only prospective studies were included, retrospective studies were excluded as there is a risk of selection bias.
+
+The variance between studies included in the meta-analysis was studied using the I2 statistic (which assesses the amount of heterogeneity between studies). The following standard percentages were used to assess variance: < 40% indicates low heterogeneity, 30–60% suggests moderate, 50–90% implies substantial and 75–100% may be considerable heterogeneity51. Publication bias was analysed by visually assessing the funnel plots, doi plots and Luis–Furuva–Kanamori (LFK) index53. No publication bias was assumed from symmetry in the LFK index and in the absence of symmetry publication bias was assumed. An LFK index within ± 1 from 0 indicates no asymmetry, out of ± 1 but within ± 2 as minor asymmetry, and > ± 2 is to mean major asymmetry53.
+
+### Distribution
+
+The nerve distribution was assessed by collating information from the literature regarding which region of the HC was supplied by each nerve. A heat map was created for each nerve, to represent the areas of agreement of the distribution of innervation between studies. The opacity from black to white displayed in the heat map directly related to the percentage of agreement between studies, where black represents 100% agreement and white represents no agreement.
+
+## Results
+
+### Few papers on the hip capsule innervation were identified from the extensive search
+
+In total, 36 papers were identified as eligible for inclusion from 49,555 records overall (see Fig. 1). These were published between 1857 and 2020. Twenty-six were available in English, five were published in French54–58, three in German59–61, one in Russian62 and one in the Czech language63. Translations were performed by native speakers. Four studies potentially include duplicated results60,63–65. However, as they discuss different aspects of the HC innervation, they were included in the descriptive analysis but duplicates were excluded from the meta-analysis.
+
+[Figure] Figure 1 PRISMA flow chart displaying the search results based on Moher et al.(2010)22. The dotted line represents the articles located from the search of the databases undergoing forwards and backwards chain sampling to located further articles.
+
+### Varying methodologies were employed to study hip capsule innervation
+
+Despite all the studies including dissection of cadaveric material, the methodologies employed differed substantially and several papers provided limited information making it difficult to assess the quality of the studies included (see Table 2). Numerous authors acknowledge that factors may have affected the results presented: post-mortem changes66,67, their dissection66–69, embalming70, the limited sample size65,67,71 and the morphology of the articular nerves, which are noted to be thin and may have been damaged56,57,62,72. It is unclear if spatial distortion or excision of nerves during dissection affected the results66–69. Several authors partially accounted for potential limitations by excluding cadavers from their study based on their observations or records of the following: pathology67,73,74, previous spinal67,70, abdominal70 or hip surgery67,70,73. Others used magnification to aid their dissection58,60,69,72,75–78, which some authors thought this was essential when investigating this region77. Some studies used histological stains of capsular tissue alongside their dissection63,79. However, they did not clearly present their findings63,79.
+
+[Table] Table 2 Table of the critique of the literature.
+| Paper | Prospective or retrospective study | Clearly defined sample (e.g., age, sex, side) | Cadavers excluded with reasons | Study type (e.g., formalin, fresh-frozen) | Use of magnification during dissection | Replicable and clearly defined methodology | Clearly defined outcomes and results | Clear diagrams and images to display the results | Justified interpretation of the results and concise conclusion | Clearly state limitations or bias of research |
+| Berhanu et al. (2020)71 | P | Y | N | Embalmed | N | Y | Y | Y | Y | N |
+| Nielsen et al. 201866 | P | Y | N | Ethanol- glycerol and phenolic acid | NS | Y | Y | N | U | Y |
+| Sakamoto et al. 201864 | P | Y | N | Embalmed | NS | Y | Y | N | Y | Y |
+| Short et al. 201867 | P | Y | Y | 12 formalin and 1 light embalm | NS | Y | Y | Y | Y | Y |
+| Nielsen et al. 201768 | P | Y | N | Ethanol- glycerol and phenolic acid | NS | Y | Y | N | U | Y |
+| Turgut et al. 201780 | P | Y | N | Fresh frozen | NS | Y | Y | Y | U | N |
+| Sakamoto et al. 201465 | P | N | N | Formalin | NS | N | N | N | U | Y |
+| Rohini et al. 201281 | R | N | N | NS | NS | Y | Y | N | U | N |
+| Anagnostopoulou et al. 200982 | P | Y | N | NS | NS | Y | Y | N | Y | N |
+| Anloague and Hijbregts 200970 | P | Y | Y | Embalmed | NS | Y | U | N | Y | Y |
+| Apaydin et al. 200973 | P | Y | Y | NS | NS | Y | N | N | U | N |
+| Locher 200869 | P | Y | N | Embalmed | Y | Y | Y | U | Y | N |
+| Kampa et al. 200783 | P | Y | N | Formalin | NS | Y | Y | Y | Y | Y |
+| Birnbaum et al. 200074 | R | Y | N | NS | NS | N | Y | N | U | N |
+| Tubbs et al. 200384 | P | Y | Y | Formalin | NS | Y | Y | N | U | N |
+| Birnbaum et al. 199776 | P | N | N | Formalin | Y | N | Y | Y | Y | N |
+| Aizawa 199275 | P | N | N | NS | Y | N | N | N | U | N |
+| Katrisis 198085 | P | N | N | Embalmed | NS | N | N | N | U | N |
+| Dee 196978 | P | N | N | Fresh | Y | N | N | N | U | N |
+| Moghaddam 196259 | P | N | N | NS | NS | N | N | N | U | N |
+| Poláček 196360 | P | Y | N | NS | Y | N | N | Y | U | N |
+| Woodburne 196086 | R | N | N | NS | NS | N | N | N | U | N |
+| Poláček 195863 | P | N | N | NS | NS | N | Y | N | U | N |
+| Wertheimer 195277 | P | N | N | Formalin | Y | N | Y | Y | Y | N |
+| Gardner et al. 194887 | P | N | N | NS | NS | N | N | Y | U | N |
+| Kaiser 194979 | P | N | N | NS | NS | N | Y | Y | U | N |
+| Poulhés 194958 | R | N | N | NS | Y | N | N | Y | U | N |
+| Tavernier and Pellanda 194956 | R | N | N | NS | NS | N | N | N | U | N |
+| Kaplan 194872 | P | N | N | NS | Y | Y | Y | Y | Y | N |
+| Billet et al. 194757 | R | N | N | NS | NS | N | N | N | N | N |
+| Sadovsky 193362 | P | Y | N | NS | NS | Y | Y | N | U | N |
+| Jamieson 190388 | R | N | N | NS | NS | N | N | N | U | N |
+| Paterson 189189 | R | N | N | NS | NS | N | N | N | U | N |
+| Chandelux 188655 | R | N | N | NS | NS | N | N | N | U | N |
+| Duzéa 188654 | R | N | N | NS | NS | N | N | N | U | N |
+| Meyer 185761 | R | N | N | NS | NS | N | N | N | U | N |
+A quality analysis of papers included in this review was performed using a modified quality assessment tool for macroscopic anatomical studies, adapted from Henry et al. (2017) and Wilke et al. (2015)48,49.N no, NS not stated, P prospective, R retrospective, U unclear, Y yes.
+
+Several factors prevent a full assessment of the quality of studies. Many studies omitted to explain their methodology54–59,61,63,84–86,88,89 or failed to provide sufficient information that would enable it to be replicated60,65,75,77,78,87. While other studies were retrospective observational analyses54–58,61,74,81,86,88. Furthermore, some papers did not include images of their dissection54–62,69,72,73,75,77–79,86–89. No paper discussed the degree of degradation of the tissue or time from death to embalming as a measure of quality control. The studies included in this review have limitations as expected from this study type, but many authors are aware of these when drawing their conclusions.
+
+### Summary of descriptive data
+
+### Limited information on the sample characteristics were presented in the literature
+
+The study characteristics are presented in Table 3. All studies included in this review investigated cadaveric material. Studies included samples sizes ranging between 1–1000 (mean 92) hip joints, though seven studies did not specify the number of hip joints studied54,55,58,59,61,62,88. Available data in the literature was limited, as only eight studies indicated the age of the cadavers in their experiment64,66,67,70,74,82–84, five studies detailed the ethnicity64,65,71,75,79 and one study noted the average weight82. No other demographic or anthropometric variables were described in the studies included.
+
+[Table] Table 3 Table of study characteristics including sample size and demographic information of cadaveric material studied (age, sex, side, ethnicity), in descending chronological order list. NS = not stated.
+| Study | Number of cadavers included | Sample size (hip joints) | Range or average age at time of death | Sex ratio (female : male) | Side ratio (right:left) | Ethnicity |
+| Berhanu et al. (2020)71 | 34 | 67 | NS | NS | 34:33 | Ethiopian |
+| Nielsen et al. 201866 | 8 | 15 | 81–98 years | 7:1 | NS | NS |
+| Sakamoto et al. 201864 | 14 | 14 | 73.8 years | 5:9 | 0:14 | Japanese |
+| Short et al. 201867 | 13 | 13 | 79.3 years | 9:4 | NS | NS |
+| Nielsen et al. 201768 | 7 | 14 | NS | 4:3 | 7:7 | NS |
+| Turgut et al. 201780 | 20 | 40 | NS | 12:8 | 20:20 | NS |
+| Sakamoto et al. 201465 | 2 | NS | Adult | NS | NS | Japanese |
+| Rohini et al. 201281 | 1 | 1 | Adult | 0:1 | 0:1 | NS |
+| Anagnostopoulou et al. 200982 | 84 | 168 | 72 years | 30:54 | 84:84 | NS |
+| Anloague and Hijbregts. 200970 | 19 | 38 | 75.1 years | 9:10 | 19:19 | NS |
+| Apaydin et al. 200973 | 18 | 36 | NS | 8:10 | 18:18 | NS |
+| Locher 200869 | 10 | 14 | NS | 7:3 | NS | NS |
+| Kampa et al. 200783 | 20 | 20 | 81 years | 10:10 | 8:12 | NS |
+| Birnbaum et al. 200074 | NS | 14 | 78 years | 6:8 | NS | NS |
+| Tubbs et al. 200384 | 1 | 2 | 71 years | 1:0 | 1:1 | Caucasian |
+| Birnbaum et al. 199776 | NS | 11 | NS | NS | NS | NS |
+| Aizawa 199275 | 137 | 265 | NS | NS | NS | Japanese |
+| Katrisis 198085 | 500 | 1000 | Adult | 158: 342 | 500:500 | NS |
+| Dee 196978 | NS | 41 | NS | NS | NS | NS |
+| Moghaddam 196259 | 3 | NS | NS | NS | NS | NS |
+| Poláček 196360 | NS | 30 | Adult and foetus | NS | NS | NS |
+| Woodburne 196086 | NS | 550 | NS | NS | NS | NS |
+| Poláček 195863 | 25 | 30 | Adult and foetus | NS | NS | NS |
+| Wertheimer 195277 | NS | 124 | Adult | NS | NS | NS |
+| Gardner et al. 194887 | NS | 11 | NS | NS | NS | NS |
+| Kaiser 194979 | NS | 24 | NS | NS | NS | NS |
+| Poulhés 194958 | NS | NS | Adult and new-born | NS | NS | NS |
+| Tavernier and Pellanda 194956 | NS | 100 | NS | NS | NS | NS |
+| Kaplan 194872 | NS | 28 | NS | NS | NS | NS |
+| Billet et al. 194757 | NS | 12 | NS | NS | NS | NS |
+| Sadovsky 193362 | 30 | NS | Adult | NS | NS | NS |
+| Jamieson 190388 | NS | NS | NS | NS | NS | NS |
+| Paterson 189189 | 20 | 40 | NS | NS | 20:20 | NS |
+| Chandelux 188655 | NS | NS | NS | NS | NS | NS |
+| Duzéa 188654 | NS | NS | NS | NS | NS | NS |
+| Meyer 185761 | NS | NS | NS | NS | NS | NS |
+
+### The hip capsule receives innervation from a variety of nerves of the lumbosacral plexus and their muscular branches
+
+The HC appears to receive innervation from articular branches of nerves of the lumbosacral plexus. Specifically, studies have reported articular branches from the femoral54,56,57,60,62,64–67,75–78,83,87, obturator54,56–62,64,65,67,69,71,75–79,82,83,87, accessory obturator (AON)56,57,60,63,67,68,70,77,79–81,83–89, accessory femoral (AFN)56,60,76, superior gluteal60,62,74,76,83,87, accessory superior gluteal78, inferior gluteal83, sciatic55–57,60,62,76,77,83, posterior femoral cutaneous nerves72, nerve to quadratus femoris (NQF)57,61,76–78,87 and a direct supply from the sacral plexus72. One study explicitly noted an absence of articular branches originating from the pudendal nerve60, however, it is important to note that their study does not confirm its absence. Other studies suggested that sympathetic fibres supply the HC, but did not prove this histologically58,87.
+
+The roots of the nerves providing articular branches to the HC have only been reported for the obturator nerve, AON and AFN and are highly variable. In one study of Ethiopian cadavers, the obturator nerve originated primarily from L2,3,4 and in some cases from L3,471. When the AON was present, it originated from either L2-380,85,88, L2-485, L2-L567, L380,85,88,89, L3-463,80,81,84–86, from the obturator nerve80,85 or from the femoral nerve80. It is unclear which nerve root the AON most commonly originates from80,85. When the AFN was present its nerve roots were from L2,363 or L2,3,475 and therefore was more predictable.
+
+Articular branches appear to be derived from branches to some of the muscles that act on the hip joint56,60,62–66,75–79,85–89 or directly from the nerve before it divides to supply the muscles56–58,62,64,65,67,72,76–79,82,87. However, this has not been systematically studied to date. The location of the origin from the main trunk appears to be variable and has only been recorded for the obturator and femoral nerves. Articular branches from the obturator were from the posterior branch56,62,64,65,71,72,76,77,79,82, the anterior branch56,62,64,71,76,77,82,87 and most commonly from the common obturator trunk56,71,76–78,82,87. These articular branches may divide from the obturator nerve at several levels: proximal to the canal within the pelvis77,79, at the internal orifice77,79, within the canal56–58,77,79 or at the external orifice57,77,79. It is unclear if articular branches of the obturator nerve are most commonly derived from a high, low origin or both67. Whereas, articular branches of the femoral nerve more commonly originated from a high branch rather than from a low branch67,81.
+
+### Information on the course of hip capsule’s articular branches is sparse
+
+The course of the HC’s articular branches was described by few authors and lack a uniform description of their course in relation to the muscles, osseous landmarks, or vessels. Articular branches from the femoral58,76,77, obturator58 and superior gluteal83 nerves were described as coursing with vessels. Specifically, these articular branches coursed deep to the femoral artery58, also along the obturator58, the lateral circumflex58 and posterior circumflex arteries58,63. However, this has not been assessed systematically. Based on the literature, articular branches appear to cross all regions of the HC57,58,64,78,83,87. Some branches have a long course and do not terminate proximal to where the main trunk overlies the capsule, for example some articular branches from the obturator and femoral nerve coursed posteriorly55,58,63,76. To date, no study has described the course of the AON, AFN, sciatic or inferior gluteal nerves in detail. Articular branches appear to course indirectly across the anterior and posterior HC to their point of termination, but the current literature remains unclear with regards to the specific location of these nerves.
+
+### Hip capsule innervation from the obturator nerve and nerve to quadratus femoris is most prevalent
+
+The NQF appears to be the most frequent nerve to innervate the HC, followed by the obturator then the femoral nerve (Table 4). The AON appears to be present in 15% [95% CI (0.09–0.22), I2 = 73%] of the specimens studied in this review60,67,68,70,77,79,80,83,85. When the AON is present the PPE that it innervates the HC is 85% [95% CI (0.58–1.00), I2 = 86%]60,67,68,70,77,79,80,83,85. The prevalence of the AON innervating the HC in the specimens included in the review is presented in Table 4. Innervation of the HC from the AON and obturator nerve appears to be unrelated and highly variable55,60,67,79,80,83. The reported PPE of the obturator and femoral nerves are limited, as some studies which reported absence55 and presence of articular branches58,59,61 did not indicate the number of samples studied, so could not be included in the PPE (Figs. 2 and 3).
+
+[Table] Table 4 Prevalence of nerves innervating the hip capsule.
+| Nerve | Number of studies | Total sample size | Prevalence (%) | I2 | LFK index |
+| Accessory femoral nerve | 2 | 41 | 27 (95% CI [0.15–0.42]) | 0 | NS |
+| Accessory obturator | 9 | 1225 | 12 (95% CI [0.07–0.18]) | 67 | -0.03 |
+| Femoral | 8 | 156 | 80 (95% CI [0.49–1.00]) | 95 | -0.67 |
+| Inferior gluteal | 4 | 116 | 2 (95% CI [0.00–0.06]) | 36 | 2.07 |
+| Nerve to quadratus femoris | 2 | 73 | 99 (95% CI [0.97–1.00]) | 0 | NS |
+| Obturator | 11 | 441 | 93 (95% CI [0.84–0.98]) | 85 | -3.85 |
+| Sciatic | 6 | 185 | 50 (95% CI [0.00–1.00] | 98 | 2.07 |
+| Superior gluteal | 3 | 61 | 57 (95% CI [0.25–0.87]) | 82 | 0.99 |
+The LFK index of the accessory femoral nerve and nerve to quadratus femoris could not be calculated as only two studies were included in their meta-analysis of prevalence.CI confidence interval, LFK index Luis–Furuva–Kanamori index, NS not stated.
+
+[Figure] Figure 2 Prevalence of the obturator nerve innervating the hip capsule. Results indicate the variation in prevalence across studies with 95% confidence intervals. There is high heterogeneity between studies as shown by the I2 statistic of 85%.
+
+[Figure] Figure 3 Prevalence of the femoral nerve innervating the hip capsule. Results indicate the variation in prevalence across studies, as well as the high heterogeneity as shown by the I2 statistic of 95%.
+
+Considerable heterogeneity was present between studies, except for the AFN and NQF, which had low heterogeneity and the inferior gluteal nerve, which has low-moderate heterogeneity, as indicated by the high I2 statistic. The AON also had substantial heterogeneity. High publication bias was present within the meta-analysis for the obturator, sciatic and inferior gluteal nerves as represented by the major asymmetry in the LFK index. As a result of considerable heterogeneity and LFK index, the confidence intervals of the prevalence should be considered. The confidence intervals show that there is minimal variation in the PPE for the AON, NQF and inferior gluteal nerves, but these are based on few studies with small sample sizes. It is unclear if these reported PPE’s are more reliable. Furthermore, PPE specific innervation patterns across the whole HC could not be determined as limited data was available. The NQF and obturator nerves appear to be most prevalent, but the reported figures may not be representative of the wider population.
+
+### Most articular branches to hip capsule are located anteriorly
+
+A variable number of articular branches innervate the HC from each nerve (Table 5). These articular branches were described as thin, small and delicate structures54,57,58,62,72,77–79,82,87, which measure up to 17 μm in diameter78.
+
+[Table] Table 5 Articular branches of the hip capsule.
+| Nerve | Range of branches | Average maximum number of branches | References |
+| AON | 0–7 | 3.2 | 63,83,85,86,89 |
+| Femoral | 0–14 | 4.75 | 62,67,77,83 |
+| Inferior gluteal | 0–4 | 4 | 83 |
+| NQF | 0–5 | 3.6 | 76,83,87 |
+| Obturator | 0–7 | 3.33 | 54–56,62,67,69,77,82,83 |
+| Sciatic | 0–4 | 3 | 62,83 |
+| Superior gluteal | 0–4 | 2.5 | 62,83 |
+This table displays the range of branches and average maximum number of branches noted. Insufficient information prevented the average number of branches or information on the accessory femoral nerve from being displayed.AON accessory obturator nerve, NQF nerve to quadratus femoris.
+
+Further detailed information was provided for the obturator nerve but no other nerve, its articular branches span the HC in a 7–38 mm band, which appears to be wider medially69. Based on the density of innervation, the HC appears to receive greater innervation from nerves located anteriorly.
+
+### All regions of the hip capsule receive innervation from the lumbosacral plexus
+
+More information is available on the distribution of the obturator and femoral nerve than other nerves that innervate the HC. Both of these nerves supply the anterior hip capsule (AHC). Distribution of the branches from the femoral nerve appears to be nearly homogenous across the AHC in comparison to other nerves (Fig. 4). Strong general consensus indicates that the obturator nerve and AON innervate the anterior medial HC, with the articular branches of the obturator nerve commonly present over the radiographic teardrop of the inferomedial acetabulum67. General consensus indicates that the AFN supplies the AHC56,76,77, but no study to date provides more detailed information on the distribution of the AFN. Furthermore, one study which studied the HC’s innervation in a clockface orientation noted an absence of innervation in the anterior superior aspect of the HC at around the one o’clock to half two position83. However, other studies did not study the HC in this detail, nor did they report an absence of innervation in this region.
+
+[Figure] Figure 4 Sketch summarizing consensus findings on the distribution of innervation patterns of the accessory obturator, femoral, obturator, nerve to quadratus femoris, sciatic and superior gluteal nerves. Sketch adapted from Tomlinson et al (2020)19. The top row of sketches represents the anterior capsule and the bottom row shows the posterior capsule. Insufficient information was available on the distribution of innervation from other nerves of the lumbosacral plexus; therefore, they were not included in this diagram. The intensity of the shading relates to the percentage of studies that agree that a particular region of the hip capsule receives innervation from a certain nerve. Darker regions depict areas where the literature demonstrates more general consensus that the region is innervated by the nerve. Lighter areas are regions of less general consensus that the regions are supplied by a particular nerve. D distal, I inferior, L lateral, M medial, P proximal, S superior.
+
+The posterior capsule appears to be supplied by the superior gluteal, inferior gluteal, sciatic nerves, NQF and also the femoral nerve58,87 in a few cases. More specifically, general agreement indicates that the sciatic nerve supplies the posterosuperior capsule55,61,76,83 and the NQF innervates the posterior inferolateral portion76–78,83,87. The posteroinferior portion of the HC seems to be supplied by the inferior gluteal nerve83, however, this is based on a couple of samples in one relatively small-sample anatomical study (n = 20). Current literature remains unclear as to whether there are different innervation patterns and if any variables may predict these patterns.
+
+### Information on the hip capsule’s innervation according to demographic, anthropometric variables and pathology is lacking
+
+To date, no studies have made an attempt to quantify differences in the HC’s innervation according to demographic or anthropometric variables. Nor have these studies stated if individuals with pathology were included in their sample. Furthermore, the details of demographic and anthropometric variables of included cadavers were not routinely collected or at least not reported in detail. Based on the limited information, no differences appear to be present as a result of age58,60,63, however, no study has made attempt to compare this directly. A few studies investigated both sides of the HC68,70,71,73,80,82–85,89, one of which noted individual differences in the innervation pattern between sides, but omitted to compare this statistically57. It remains unclear, if there are differences in prevalence, density, distribution of innervation according to ethnicity, age, sex or other variables.
+
+## Discussion
+
+The primary aim of this systematic review and meta-analysis was to provide an encompassing synthesis on the macroscopic studies investigating the HC’s innervation. Several key findings have been identified from this review, most notably that specific information on the innervation of the HC is lacking. There was high heterogeneity between studies, therefore the presented PPE and distribution patterns may not be applicable to all individuals.
+
+### Articular branches to the hip capsule originate from many nerves of the lumbosacral plexus
+
+Strong evidence indicates that the HC is supplied by a variety of branches of the lumbosacral plexus, primarily by articular branches from the NQF and obturator nerve. There is however considerable heterogeneity between studies. The PPE’s have many limitations as they are formed from studies with different methodologies and some are based on only a few studies with small sample sizes particularly for the AON, NQF and inferior gluteal nerve. Consequently, it seems likely that studies employing larger sample sizes or by different examiners may produce different results in the future. On the other hand, numerous articular branches were noted making it unlikely that dissections have been consistently misinterpreted.
+
+Other nerves including the femoral, superior gluteal and sciatic may contribute to HC’s innervation in some individuals. However, this is uncertain as the root of these articular branches were not traced proximally and histological evaluation has not been performed to date. Rarely, the HC is supplied by other nerves of the lumbosacral plexus. Primarily, this highlights that injuries to the NQF and obturator nerve should be crucially avoided during THA and these nerves should be targeted during RFA in order to reduce pain. Clinicians should consider that articular branches from other nerves provide substantial nerve supply to the HC, therefore patients may continue to have some pain following RFA.
+
+### The inferior and medial regions of the posterior hip capsule seem the most suitable areas for capsular incision during THA, in order to reduce the risk of injuring articular nerves
+
+The anterior inferomedial region appears to have the greatest abundance of nerve supply, but all regions of the HC appear to be innervated. These findings do not completely corroborate with findings from a recent review of microscopic studies44, which reported that the superolateral region had the majority of mechanoreceptors. This indicates that the nerve may not terminate as type I–III mechanoreceptors in the same region as where the nerve enters the HC at the gross level, i.e., macroscopically visible nerves may have an intra-ligamentous course within the HC. When considering the macroscopic and microscopic innervation of the HC, the inferior and medial regions of the posterior HC appear to receive the least innervation. Risk of damaging articular nerves may therefore be lowest when incising these regions during THA. THA via the posterior approach with capsular repair may be most appropriate for the non-risk patient in order to reduce the risk of disrupting neural feedback loops, which could contribute to lower post-operative hip joint dislocation rates. Alternative approaches should continue to be considered for at-risk patients, i.e. those of older age, with a BMI of > 30 and with mobility or neuromuscular pathology38. The recent literature is contradictory with regards to which surgical approach produces the highest rate of instability post-operatively36–41. Therefore, implementing a combination of best practices which reduce the risk of dislocation may be more important when planning surgery than the surgical approach alone, including repairing the HC8–10 to restore biomechanical stability, preserving musculature and other surrounding soft tissue8, as well as correct joint alignment9,35.
+
+The anterior approach during THA appears most appropriate to reduce pain post-operatively, as the current literature reports lower patient pain scores following this approach90. The literature on microscopic innervation of the HC provides limited evidence with regards to the distribution of FNEs44. However, the capsule clearly appears to have a role in nociception and more robust immunohistochemical experiments mapping the capsule will allow more solid conclusions and recommendations to be formed.
+
+Furthermore, further research is required to determine the course of nerves towards and across the surface of the HC, as well as the differences in the number of nerves and terminal endings present in the surrounding tissues. Recent research highlights that the hip capsule may have the least innervation in comparison to the different tissue layers of the hip joint, including the skin, subcutaneous fat, muscle and fascia91. It may therefore be more important to consider the innervation of all of the soft tissue layers, variation between individuals and feasibility to avoid large nerve bundles when planning surgery. A comprehensive map of the nerves and end-terminals within all tissue layers surrounding the hip joint is lacking to date. Additionally, it is important to avoid vessel damage during THA as in doing so it is likely clinicians will also avoid damaging nerves, this supports previous microscopic findings44. The current literature suggests the HC should be repaired following THA, in order to reduce dislocation risk and allow for neural repair. When considering regions to target during RFA, the anterior inferomedial region appears to be a suitable location. However, further study is required that considers the cumulative density and distribution of articular branches in each region, as well as the modality of these nerves.
+
+### The origin of the capsular nerve branches resembles the innervation pattern of the hip muscles
+
+Many of the articular branches are derived from branches to musculature, rather than the common trunk of the nerve. These findings align with Hilton’s law45 and suggest that these muscles may contribute to proprioceptive control of the joint in response to changes in tension of the HC. To date, no study has recorded the origin of articular nerves and their relationship to musculature that acts on the joint, as a result the risk of nerve damage during THA and RFA is unknown. The literature also highlights that during pelvic surgery near the obturator canal there is considerable risk that both the sensory supply to the HC and the motor innervation to the muscles surrounding the joint could be damaged. Nerve damage is unlikely during RFA, as sensory testing is commonly performed prior to lesioning and some practitioners check for absence of motor stimulation4. Muscular weakness following RFA has not been commonly reported, however, this may be as muscular strength before and after RFA are not standardly recorded4. Albeit rare, these complications have been noted following THA due to insufficient muscular fixation34, muscular or nerve damage92,93. This can result in dislocation34, falls, numbness, muscle palsy or pain92. The rates of muscular weakness appear to differ according to the approach used30,32 or the experience of the surgeon94,95. It remains unclear which approach has the lowest risk of functional impairment31,33. Nonetheless, most of these nerve palsies appear to recover within 1–3 years92,93 and muscular weakness seems to improve with physiotherapy30 or further surgery96. Considering this, clinicians should take care when performing RFA and surgical procedures to avoid damaging nerves, periarticular soft tissue and muscles in order to preserve potential proprioceptive and nociceptive functioning. Additionally, where possible, surgeons should repair the HC and overlying muscles. Furthermore, increased accuracy during these procedures may be possible with intra-procedural imaging, such as polymetric imaging during THA97 or visualisation of RFA lesions using near field ultrasound98. Additionally, it may be beneficial to measure motor strength of the muscles related to the targeted nerves both pre and post intervention in order to identify individuals at increased risk of dislocation as a result of potential damage to neural feedback loops. It is important to gain greater understanding of the innervation of the HC and associated muscles to aid clinicians in preserving function of the hip joint. Further research should employ techniques that minimise the risk of spatial distortion or damage to the articular branches to increase the accuracy of the description of these branches.
+
+### Differences in innervation of the hip capsule appear to be present between individuals
+
+No information is available with regard to the relationship between demographic and anthropometric variables and their effect on HC innervation, but differences have been observed between individuals. This is partially due to incomplete descriptions of the sample characteristics limiting possible comparison between studies. The high heterogeneity reported between studies highlights that subgroup analysis should be performed in future research. It is important to understand the differences in innervation according to demographic variables as this may highlight that an individualized approach to surgery may be required. Male patients are at greater risk of revision following THA due to dislocation, particularly when the posterolateral approach is employed42. Whereas, age of the patient did not appear to alter the risk of revision due to dislocation42. Current systems available to adapt THA to address the sex-specific differences in boney morphology, such as the femoral head size and neck offset are thought to be sufficient to produce satisfactory outcomes and reduce this risk99. However, procedural changes according other demographic variables, such as ethnicity may be required. There are differences in the arrangement of the lumbar plexus according to ethnicity100. These alterations to innervation patterns may also relate to HC innervation, but this has not been studied to date.
+
+Differences have also been noted in microscopic innervation between individuals according to age101 and pathology1. Specifically, previous microscopic investigation showed a decreased density of mechanoreceptors in the HC of individuals with osteoarthritis compared to those with no known pathology1. However, it is remains unknown if these differences may be observed macroscopically, as it has not been studied to date. Further studies should include larger sample sizes in order to substantiate the differences in HC innervation according to demographic, anthropometric variables or pathology (e.g. sex, side, age, pelvic dimensions). This information may increase understanding why there is conflicting evidence on which approach produces lower dislocation rates as different approaches may be required during THA or RFA in specific patient populations.
+
+### Articular nerve density, distribution and prevalence of capsular branches seem highly dependent on the quality of the studies in current literature
+
+The reported data on HC innervation are at risk of invalid measurement, as these are highly dependent on method employed to visualise these nerves. Numerous biases are present within the available literature that will affect the given summary of results in this review and meta-analysis. Firstly, a substantial number of studies were retrospective studies and case reports, which therefore introduces the risk of selection bias, detection and publication bias. In order to reduce the effect of this bias, these studies were excluded from the meta-analysis. Secondly, no study stated that more than one author reviewed the structures identified. Thirdly, it is possible that the articular branches may have been misidentified, as limited information is available on the methods employed, which prevents the quality of the work from being assessed. Fourthly, the PPE reported is based on a small number of studies. It is possible that the reported prevalence may differ in the wider population.
+
+Under-reporting of HC innervation may have occurred as the small articular branches may be damaged easily during dissection69. To decrease the risk of under-reporting, several authors used magnification to aid in identifying these structures, one of which deemed this necessary77. Certain embalming methods reduce the risk of articular branches being damaged as they make structures more easily identifiable and forms the surrounding tissue in a suitable consistency for blunt dissection. Ethanol-based102, phenoxyethanol or Thiel103 embalmed cadavers may be more suitable for performing future macroscopic studies of nerves, ligaments and muscles in terms of haptics, compared to the stiffer tissues resulting from formaldehyde and ethanol embalming104. These specific embalming methods have not been employed to date when assessing HC innervation, this is likely because of the known regional differences in anatomical departments which favor one special embalming technique. Authors should consider the fixation of cadavers used in future work thoroughly as Thiel embalming does not permit for histologic assessment of small nerves104.
+
+Inaccurate reporting of HC innervation may be present in the current literature, as to date no study has used dyes, nor confirmed their findings with histological analysis. It may be possible that structures were misidentified. There are inconsistencies in the current literature with regards to the methodologies employed, for example in the use of magnification and embalming technique used. This highlights many areas for potential errors in the reporting of results. Additionally, identifying these inconsistencies allows future work to be more robust. However, the quality of anatomical dissection studies is often criticised and many of the limitations are unavoidable and a product of dissection studies. Supplementary investigations, such as histology, immunohistochemistry, or Sihler’s staining which aid in the identification of nerves would be extremely beneficial and would add credibility to the findings on HC innervation.
+
+### Limitations
+
+Difficulties were presented by performing meta-analysis of gross anatomical studies, as methodologies and sample sizes were variable, few studies could be compared, and several factors increased the risk of invalid reporting. This is clearly represented by the high heterogeneity reported between the studies included.
+
+It is possible that suitable articles may have been missed through the application of exclusion criteria, search filters, limited keywords searches and articles whose full text could not be located. However, to minimise the risk of bias and underreporting of the literature, articles in all languages were included if accessible to the authors. Some bias may persist as unpublished work was excluded, however, this was recommended previously50, as these may have not undergone a rigorous peer review. Finally, location bias may affect the results as articles in less accessible journals may have been missed by our search criteria. To address this issue, a variety of databases was searched.
+
+## Conclusion
+
+The gross anatomical innervation of the HC seems highly variable between individuals. Based on the current literature, the authors recommend that RFA procedures should continue to target the anterior inferomedial aspect of the HC but remain aware that other nerves are spared during this procedure and this may not completely resolve pain. In order to spare articular nerves and potential proprioceptive functioning during THA, the posterior approach appears to be most appropriate for non-risk patients. The HC should be repaired following THA as this is proven to lower dislocation risk and may aid in restoring HC innervation. Surgeons should continue to consider other factors which reduce dislocation risk when planning surgery. A coherent map of HC innervation is required to be able to improve the patient’s prognosis following RFA and THA. This research should use additional investigations to support dissection findings, such as microscopy.
+
+## Acknowledgements
+
+The authors would like to thank Miss Amélie Poilliot for translating the French papers included in this review, Dr. Veronica Antipova and Mr Kārlis Bērziņš for translating the Russian papers. Also, Prof. David Kachlík for translating the Czech papers and Assoc. Prof. Ming Zhang for translating the Chinese papers.
+
+## Author contributions
+
+J.T. and N.H. conceptualised the project. J.T. designed the methodology, performed the data collection, synthesis, analysis, created tables and figures and wrote the first draft of the paper. J.Z. translated the German papers included in the review, reviewed and edited the manuscript. N.H. provided supervision for the project, acquired funding, reviewed and edited the manuscript. B.O. and T.P. revised the paper critical for its content. J.T. received the University of Otago, Department of Anatomy Doctoral award, to support her studies and the completion of this work. The funder had no role in study design, data collection, analysis, decision to publish or preparation of the manuscript. All authors finally approved the paper before submission.
+
+## Data availability
+
+The articles included in this systematic review and meta-analysis may be found using the search strategy outlined in the methods section.
+
+## Competing interests
+
+The authors declare no competing interests.
+
+## References
+
+1. Moraes MRB The characteristics of the mechanoreceptors of the hip with arthrosis J. Orthop. Surg. Res. 2011 10.1186/1749-799x-6-58 22087603 PMC3233501
+2. Schleifenbaum S Tensile properties of the hip joint ligaments are largely variable and age-dependent—An in-vitro analysis in an age range of 14–93 years J. Biomech. 2016 49 3437 3443 10.1016/j.jbiomech.2016.09.001 27667477
+3. Bhatia A Hoydonckx Y Peng P Cohen SP Radiofrequency procedures to relieve chronic hip pain an evidence-based narrative review Reg. Anesth. Pain Med 2018 43 72 83 10.1097/Aap.0000000000000694 29140960
+4. Kumar P Hoydonckx Y Bhatia A A review of current denervation techniques for chronic hip pain: Anatomical and technical considerations Curr. Pain Headache Rep. 2019 23 38 10.1007/s11916-019-0775-z 31044316
+5. Beswick AD Wylde V Gooberman-Hill R Blom A Dieppe P What proportion of patients report long-term pain after total hip or knee replacement for osteoarthritis? A systematic review of prospective studies in unselected patients BMJ Open 2012 2 e000435 10.1136/bmjopen-2011-000435 22357571 PMC3289991
+6. Stamp LK Rates of joint replacement surgery in New Zealand, 1999–2015: A comparison of rheumatoid arthritis and osteoarthritis J. Rheumatol. 2017 44 1823 1827 10.3899/jrheum.170551 29032353
+7. Dargel J Oppermann J Bruggemann GP Eysel P Dislocation following total hip replacement Dtsch. Arztebl. Int. 2014 111 884 890 10.3238/arztebl.2014.0884 25597367 PMC4298240
+8. Zhou Y Is soft tissue repair a right choice to avoid early dislocation after THA in posterior approach? BMC Surg 2017 17 60 10.1186/s12893-017-0212-3 28525999 PMC5438560
+9. Jurkutat J The impact of capsular repair on the risk for dislocation after revision total hip arthroplasty—A retrospective cohort-study of 259 cases BMC Musculoskelet. Disord. 2018 19 314 10.1186/s12891-018-2242-0 30170580 PMC6119275
+10. Prietzel T The impact of capsular repair on the dislocation rate after primary total hip arthroplasty: A retrospective analysis of 1972 cases Z. Orthop. Unfall 2014 152 130 143 10.1055/s-0034-1368209 24760453
+11. Ho KW Whitwell GS Young SK Reducing the rate of early primary hip dislocation by combining a change in surgical technique and an increase in femoral head diameter to 36 mm Arch. Orthop. Trauma Surg 2012 132 1031 1036 10.1007/s00402-012-1508-5 22460352
+12. Hummel MT Malkani AL Yakkanti MR Baker DL Decreased dislocation after revision total hip arthroplasty using larger femoral head size and posterior capsular repair J. Arthroplasty 2009 24 73 76 10.1016/j.arth.2009.04.026 19577890
+13. White RE Forness TJ Allman JK Junick DW Effect of posterior capsular repair on early dislocation in primary total hip replacement Clin. Orthop. Relat. Res. 2001 393 163 167 10.1097/00003086-200112000-00019 11764346
+14. Sierra RJ Raposo JM Trousdale RT Cabanela ME Dislocation of primary THA done through a posterolateral approach in the elderly Clin. Orthop. Relat. Res. 2005 441 262 267 10.1097/01.blo.0000194308.23105.f4 16331013
+15. Iorio R Specht LM Healy WL Tilzey JF Presutti AH The effect of EPSTR and minimal incision surgery on dislocation after THA Clin. Orthop. Relat. Res. 2006 447 39 42 10.1097/01.blo.0000218750.14989.ef 16741472
+16. Tsai SJ Wang CT Jiang CC The effect of posterior capsule repair upon post-operative hip dislocation following primary total hip arthroplasty BMC Musculoskelet. Disord. 2008 9 29 10.1186/1471-2474-9-29 18307820 PMC2292160
+17. Prigent F Incidence of capsular closure and piriformis preservation on the prevention of dislocation after total hip arthroplasty through the minimal posterior approach: Comparative series of 196 patients Eur. J. Orthop. Surg. Traumatol. 2008 18 333 337 10.1007/s00590-008-0295-8
+18. Khan RJ Less invasive total hip arthroplasty: description of a new technique J. Arthroplasty 2006 21 1038 1046 10.1016/j.arth.2006.01.010 17027549
+19. Sun X The effect of posterior capsule repair in total hip arthroplasty: A systematic review and meta-analysis BMC Musculoskelet. Disord. 2020 21 263 10.1186/s12891-020-03244-y 32316961 PMC7175585
+20. Pellicci PM Bostrom M Poss R Posterior approach to total hip replacement using enhanced posterior soft tissue repair Clin. Orthop. Relat. Res. 1998 355 224 228 10.1097/00003086-199810000-00023 9917607
+21. Bottner F Pellicci PM Review: Posterior soft tissue repair in primary total hip arthroplasty HSS J. 2006 2 7 11 10.1007/s11420-005-0134-y 18751839 PMC2504121
+22. Goldstein WM Gleason TF Kopplin M Branson JJ Prevalence of dislocation after total hip arthroplasty through a posterolateral approach with partial capsulotomy and capsulorrhaphy J. Bone Joint Surg. 2001 83A S2 7 10.2106/00004623-200100021-00002 11685838
+23. Dixon MC Scott RD Schai PA Stamos V A simple capsulorrhaphy in a posterior approach for total hip arthroplasty J Arthroplasty 2004 19 373 376 10.1016/j.arth.2003.10.002 15067654
+24. Prietzel T On the permanent hip-stabilizing effect of atmospheric pressure J. Biomech. 2014 47 2660 2665 10.1016/j.jbiomech.2014.05.013 24938930
+25. Sherrington, C. S. Intergrative Action of the Nervous System. (Yale University Press, 1906).
+26. Reimann BL Lephart SM The sensorimotor system, Part I: The physiologic basis of functional joint stability J. Athl. Train 2002 37 71 79 16558670 PMC164311
+27. Reimann BL Lephart SM The sensorimotor system, Part II: The role of proprioception in motor control and functional joint stability J. Athl. Train 2002 37 80 84 16558671 PMC164312
+28. Chechik O Khashan M Lador R Salai M Amar E Surgical approach and prosthesis fixation in hip arthroplasty world wide Arch. Orthop. Trauma Surg. 2013 133 1595 1600 10.1007/s00402-013-1828-0 23912418
+29. Kerboull L Selecting the surgical approach for revision total hip arthroplasty Orthop. Traumatol. Surg. Res. 2015 101 S171 178 10.1016/j.otsr.2014.07.031 25553602
+30. Wang T Shao L Xu W Chen H Huang W Comparison of morphological changes of gluteus medius and abductor strength for total hip arthroplasty via posterior and modified direct lateral approaches Int. Orthop. 2019 43 2467 2475 10.1007/s00264-019-04331-z 31053885
+31. Berstock JR Blom AW Beswick AD A systematic review and meta-analysis of complications following the posterior and lateral surgical approaches to total hip arthroplasty Ann. R. Coll. Surg. Engl. 2015 97 11 16 10.1308/003588414X13946184904008 25519259 PMC4473890
+32. Winther, S. B. et al. Muscular strength after total hip arthroplasty. A prospective comparison of 3 surgical approaches. Acta Orthop. 87, 22–28, 10.3109/17453674.2015.1068032 (2016). 10.3109/17453674.2015.1068032 PMC4940587 26141371
+33. De Anta-Diaz B Serralta-Gomis J Lizaur-Utrilla A Benavidez E Lopez-Prats FA No differences between direct anterior and lateral approach for primary total hip arthroplasty related to muscle damage or functional outcome Int. Orthop. 2016 40 2025 2030 10.1007/s00264-015-3108-9 26753844
+34. Moon J-K Kim Y Hwang K-T Yang J-H Kim Y-H The incidence of hip dislocation and suture failure according to two different types of posterior soft tissue repair techniques in total hip arthroplasty: A prospective randomized controlled trial Int. Orthop. 2018 42 2049 2056 10.1007/s00264-018-3884-0 29564491
+35. Elkins JM Callaghan JJ Brown TD The 2014 Frank Stinchfield Award: The 'landing zone' for wear and stability in total hip arthroplasty is smaller than we thought: A computational analysis Clin. Orthop. Relat. Res. 2015 473 441 452 10.1007/s11999-014-3818-0 25091222 PMC4294904
+36. Miller LE Influence of surgical approach on complication risk in primary total hip arthroplasty Acta Orthop. 2018 89 289 294 10.1080/17453674.2018.1438694 29451051 PMC6055783
+37. Kwon MS Does surgical approach affect total hip arthroplasty dislocation rates? Clin. Orthop. Relat. Res. 2006 447 34 38 10.1097/01.blo.0000218746.84494.df 16741471
+38. Rowan FE Benjamin B Pietrak JR Haddad FS Prevention of dislocation after total hip arthroplasty J. Arthroplasty 2018 33 1316 1324 10.1016/j.arth.2018.01.047 29525344
+39. Taunton, M. J. et al. in The Hip Society (THS) 2019 Summer Meeting Vol. 101-B (Orthopaedic Proceedings, Kohler, 2019).
+40. Berry DJ Von Knoch M Schlek CD Harmsen WS Effect of femoral head diameter and operative approach on risk of dislocation after primary total hip arthroplasty J. Bone Jt. Surg. 2005 87A 2456 2463 10.2106/JBJS.D.02860 16264121
+41. Masonis JL Bourne RB Surgical approach, abductor function, and total hip arthroplasty dislocation Clin. Orthop. Relat. Res. 2002 405 46 53 10.1097/01.blo.0000038476.05771.6c 12461355
+42. Zijlstra WP De Hartog B Van Steenbergen LN Scheurs BW Nelissen R Effect of femoral head size and surgical approach on risk of revision for dislocation after total hip arthroplasty Acta Orthop. 2017 88 395 401 10.1080/17453674.2017.1317515 28440704 PMC5499330
+43. Skoogh O Contemporary posterior surgical approach in total hip replacement: Still more reoperations due to dislocation compared with direct lateral approach? An observational study of the Swedish Hip Arthroplasty Register including 156,979 hips Acta Orthop. 2019 90 411 416 10.1080/17453674.2019.1610269 31060427 PMC6746273
+44. Tomlinson, J., Zwirner, J., Ondruschka, B., Prietzel, T. & Hammer, N. Innervation of the hip joint capsular complex: A systematic review of histological and immunohistochemical studies and their clinical implications for contemporary treatment strategies in total hip arthroplasty. Plos One 15, 10.1371/journal.pone.0229128 (2020). 10.1371/journal.pone.0229128 PMC7043757 32101545
+45. Hilton, J. On the Influence of Mechanical and Physiological Rest in the the Treatment of Accidents and Surgical Diseases and the Diagnositic Value of Pain. A Course of Lectures Delivered at the Royal College of Surgeons of England in the Years 1860, 1861 and 1862. 157 (Bell and Daldy, 1863).
+46. Simons MJ Amin NH Cushner FD Scuderi GR Characterization of the neural anatomy in the hip joint to optimize periarticular regional anesthesia in total hip arthroplasty J. Surg. Orthop. Adv. 2015 24 221 224 10.3113/JSOA.2015.0221 26731384
+47. Moher, D., Liberati, A., Tetzlaff, J., Altman, D. G. & Group, P. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. Int. J. Surg. 8, 336-341, 10.1016/j.ijsu.2010.02.007 (2010).
+48. Henry BM Development of the anatomical quality assessment (AQUA) tool for the quality assessment of anatomical studies included in meta-analyses and systematic reviews Clin. Anat. 2017 30 6 13 10.1002/ca.22799 27718281
+49. Wilke J Appraising the methodological quality of cadaveric studies: Validation of the QUACS scale J. Anat. 2015 226 440 446 10.1111/joa.12292 25846130 PMC4450944
+50. Henry BM Tomaszewski KA Walocha JA Methods of evidence-based anatomy: A guide to conducting systematic reviews and meta-analysis of anatomical studies Ann. Anat. 2016 205 16 21 10.1016/j.aanat.2015.12.002 26844627
+51. Higgins, J. et al (eds). Cochrane Handbook for Systematic Reviews of Interventions version 6.0 (updated July 2019). https://www.training.cochrane.org/handbook. (Cochrane, 2019).
+52. Barendregt JJ Doi SA Lee YY Norman RE Vos T Meta-analysis of prevalence J. Epidemiol. Commun. Health 2013 67 974 978 10.1136/jech-2013-203104 23963506
+53. Furuya-Kanamori L Barendregt JJ Doi SA A new improved graphical and quantitative method for detecting bias in meta-analysis Int. J. Evid. Based Healthc. 2018 16 195 203 10.1097/XEB.0000000000000141 29621038
+54. Duzéa R Notes sur les Nerfs de L’Articulation Coxo-fémorale Lyon Med. 1886 52 35 38
+55. Chandelux A Note sur les Nerfs de L’Articulation Coxo-fémorale Lyon Med. 1886 51 551 554
+56. Tavernier L Pellanda C Les Nerfs Articulaires de la Hanche C. R. Assoc. Anat. 1949 36 662 671
+57. Billet H Vincent G Gaudefroy M Les Nerfs de la Hanche C. R. Assoc. Anat. 1947 34 42 47
+58. Poulhés, J., Planel, H. & Gédéon, A. Recherches sur L’Innervation de la Hanche. C. R. Assoc. Anat. 590–597 (1949).
+59. Moghaddam, T. C. Variationen des N. obturatorius und N. obturatorius accessorius. Ann. Ant. 113, 1–18 (1963). 14072455
+60. Poláček P Die Nervenversorgung des Hüft- und Kniegelenkes und ihre Besonderheiten Ann. Ant. 1963 112 243 256
+61. Meyer H Ueber die Nerven de Gelenkkapseln Virchows Arch. Pathol. Anat. Physiol. Klin. Med. 1857 12 75 78
+62. Sadovsky DM Innervation of the capsule of the hip joint Verstn Khir 1933 31 100 103
+63. Poláček, P. N. Femoralis Accessorius A N. Obturatorius Accessorius a Jejich Praktický Výzam v Chirurgii KyčelnÍho Kloubu. Acta Chir. Orthop. Tr. 25, 150–155 (1958). 13544776
+64. Sakamoto J Anatomical study of the articular branches innervated the hip and knee joint with reference to mechanism of referral pain in hip joint disease patients Clin. Anat. 2018 31 705 709 10.1002/ca.23077 29577432
+65. Sakamoto J Investigation and macroscopic anatomical study of referred pain in patients with hip disease J. Phys. Ther. Sci. 2014 26 203 208 10.1589/jpts.26.203 24648632 PMC3944289
+66. Nielsen ND Spread of injectate around hip articular sensory branches of the femoral nerve in cadavers Acta Anaesthesiol. Scand. 2018 62 1001 1006 10.1111/aas.13122 29664158
+67. Short AJ Anatomic study of innervation of the anterior hip capsule: Implication for image-guided intervention Reg. Anesth. Pain Med. 2018 43 186 192 10.1097/AAP.0000000000000701 29140962
+68. Nielsen TD A cadaveric study of ultrasound-guided subpectineal injectate spread around the obturator nerve and its hip articular branches Reg. Anesth. Pain Med. 2017 42 357 361 10.1097/aap.0000000000000587 28263244
+69. Locher S Radiological anatomy of the obturator nerve and its articular branches: Basis to develop a method of radiofrequency denervation for hip joint pain Pain Med. 2008 9 291 298 10.1111/j.1526-4637.2007.00353.x 18366509
+70. Anloague PA Huijbregts P Anatomical variations of the lumbar plexus: A descriptive anatomy study with proposed clinical implications J. Man Manip. Ther. 2009 17 e107 e114 10.1179/106698109791352201 20140146 PMC2813498
+71. Berhanu KA Taye M Abraha M Girma A Anatomical variations and distributions of obturator nerve on Ethiopian cadavers Anat. J. Afr. 2020 9 1671 1677 10.4314/aja.v9i1.1
+72. Kaplan EB Resection of the obturator nerve for relief of pain in arthritis pf the hip joint J. Bone Joint Surg. 1948 30A 213 216 10.2106/00004623-194830010-00021 18921639
+73. Apaydin N Bozkurt M Loukas M Tubbs RS Esmer AF The course of the inferior gluteal nerve and surgical landmarks for its localization during posterior approaches to hip Surg. Radiol. Anat. 2009 31 415 418 10.1007/s00276-008-0459-6 19190851
+74. Birnbaum K Pastor A Prescher A Heller KD Complications chiari and salter osteotomies a cadaver study Surg. Radiol. Anat. 2000 22 225 233 10.1007/s00276-000-0225-x 11236314
+75. Aizawa, Y. On the organization of the Plexus lumbalis. I. On the recognition of the three-layered divisions and the systematic description of the branches of the human femoral nerve. Okajimas Folia Anat. Jpn. 69, 36–74 (1992). 10.2535/ofaj1936.69.1_35 1620529
+76. Birnbaum K Prescher A Hebler S Heller KD The sensory innervation of the hip joint—An anatomical study Surg. Radiol. Anat. 1997 19 371 375 10.1007/BF01628504 9479711
+77. Wertheimer, L. G. Hip joint innervation. J. Bone Joint Surg. 34 A, 2 (1952). 14917714
+78. Dee R Structure and function of hip joint innervation Ann. R. Coll. Surg. Engl. 1969 45 357 374 5359432 PMC2387679
+79. Kaiser, R. A. Obturator neurectomy for coxalgia. An anatomical study of the obturator and the accessory obturator nerves. J. Bone Jt. Surg. 31A, 815–819 (1949). 18142923
+80. Turgut M The accessory obturator nerve: An anatomical study with literature analysis Anatomy 2017 11 121 127 10.2399/ana.17.043
+81. Rohini M Yogesh AS Banerjee C Goyal M Variant accessory obturator nerve – A case report and embryological review RRJMHS 2012 1 7 9
+82. Anagnostopoulou S Anatomic variations of the obturator nerve in the inguinal region: Implications in conventional and ultrasound regional anesthesia techniques Reg. Anesth. Pain Med. 2009 34 33 39 10.1097/AAP.0b013e3181933b51 19258986
+83. Kampa, R. J., Prasthofer, A., Lawrence-Watt, D. J. & Pattison, R. M. The internervous safe zone for incision of the capsule of the hip. A cadaver study. J Bone Joint Surg Br 89, 971–976, 10.1302/0301-620X.89B7.19053 (2007). 10.1302/0301-620X.89B7.19053 17673597
+84. Tubbs RS Sheetz J Salter G Oakes WJ Accessory obturator nerves with bilateral pseudoganglia in man Ann Anat. 2003 185 571 572 10.1016/S0940-9602(03)80130-9 14704003
+85. Katrisis E Anagnostopoulou S Papadopoulos N Anatomical observations of the accessory obturator nerve (based on 1000 specimens) Ann Ant. 1980 148 440 445 7235265
+86. Woodburne, R. T. The accessory obturator nerve and the innervation of the pecineus muscle. Anat. Rec. 367–369 (1960). 10.1002/ar.1091360303 13845846
+87. Gardner E The innervation of the hip joint Anat. Rec. 1948 101 353 371 10.1002/ar.1091010309 18873153
+88. Jamieson EB A Description of some anomalies in nerves arising from the lumbar plexus of a foetus, and of the bilaminar musculus pectineus found in the same foetus; with a study of the variations anf relation to nerve supply in man and some other mammals J. Anat. Physiol. 1903 37 266 286 17232559 PMC1287114
+89. Paterson AM The pectineus muscle and its nerve supply J. Anat. Physiol. 1891 26 43 47 17231955 PMC1328150
+90. Nistor, D. V., Bota, N. C., Caterev, S. & Todor, A. Are physical therapy pain levels affected by surgical approach in total hip arthroplasty? A randomized controlled trial. Orthop. Rev. (Pavia) 12, 8399, 10.4081/or.2020.8399 (2020). 10.4081/or.2020.8399 PMC7206361 32391134
+91. Fede C Fascia and soft tissues innervation in the human hip and their possible role in post-surgical pain J. Orthop. Res. 2020 10.1002/jor.24665 32181900
+92. Fleischman AN Rothman RH Parvizi J Femoral nerve palsy following total hip arthroplasty: Incidence and course of recovery J. Arthroplasty 2018 33 1194 1199 10.1016/j.arth.2017.10.050 29239773
+93. Zappe B Glauser PM Majewski M Stockli HR Ochsner PE Long-term prognosis of nerve palsy after total hip arthroplasty: Results of two-year-follow-ups and long-term results after a mean time of 8 years Arch. Orthop. Trauma Surg. 2014 134 1477 1482 10.1007/s00402-014-2038-0 24997583
+94. Stone AH Sibia US Atkinson R Turner TR King PJ Evaluation of the learning curve when transitioning from posterolateral to direct anterior hip arthroplasty: A consecutive series of 1000 cases J. Arthroplasty 2018 33 2530 2534 10.1016/j.arth.2018.02.086 29622494
+95. de Steiger, R. N., Lorimer, M. & Solomon, M. What is the learning curve for the anterior approach for total hip arthroplasty? Clin. Orthop. Relat. Res. 473, 3860–3866, 10.1007/s11999-015-4565-6 (2015). 10.1007/s11999-015-4565-6 PMC4626490 26394641
+96. Whiteside, L. A. & Roy, M. E. Incidence and treatment of abductor deficiency during total hip arthroplasty using the posterior approach. Bone Joint J 101-B, 116–122, 10.1302/0301-620X.101B6 (2019). 10.1302/0301-620X.101B6.BJJ-2018-1511.R1 31146555
+97. Cha J Real-time, label-free, intraoperative visualization of peripheral nerves and micro-vasculatures using multimodal optical imaging techniques Biomed. Opt. Express 2018 9 1097 1110 10.1364/BOE.9.001097 29541506 PMC5846516
+98. Haines, D. E. et al. Near-field ultrasound imaging during radiofrequency catheter ablation: Tissue thickness and epicardial wall visualization and assessment of radiofrequency ablation lesion formation and depth. Circ. Arrhythm Electrophysiol. 10, 10.1161/CIRCEP.117.005295 (2017). 10.1161/CIRCEP.117.005295 29242236
+99. Kostamo T Bourne RB Whittaker JP McCalden RW MacDonald SJ No difference in gender-specific hip replacement outcomes Clin. Orthop. Relat. Res. 2009 467 135 140 10.1007/s11999-008-0466-2 18780137 PMC2600988
+100. Bardeen, C. R. & Elting, A. W. A Statistical study of the variations in the formation and position of the lumbo-sacral plexus in man. Part 2. Ann. Ant. 19, 209–238 (1901).
+101. Haversath, M. et al. The distribution of nociceptive innervation in the painful hip: A histological investigation. Bone Joint J 95-B, 770–776, 10.1302/0301-620X.95B6.30262 (2013). 10.1302/0301-620X.95B6.30262 23723270
+102. Hammer N Ethanol-glycerin fixation with thymol conservation: A potential alternative to formaldehyde and phenol embalming Anat. Sci. Educ. 2012 5 225 233 10.1002/ase.1270 22434588
+103. Hammer N Comparison of modified Thiel embalming and ethanol-glycerin fixation in an anatomy environment: Potentials and limitations of two complementary techniques Anat. Sci. Educ. 2015 8 74 85 10.1002/ase.1450 24706536
+104. Crosado B Phenoxyethanol-based embalming for anatomy teaching: An 18 years' experience with crosado embalming at the University of Otago in New Zealand Anat. Sci. Educ. 2019 10.1002/ase.1933 PMC7687111 31758863

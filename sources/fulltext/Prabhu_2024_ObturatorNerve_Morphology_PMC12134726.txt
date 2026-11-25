@@ -1,0 +1,126 @@
+# Morphology of the obturator nerve, an anatomical study with emphasis on its clinical implications
+
+Authors: Latha V. Prabhu, Rajanigandha Vadgaonkar, Ashwin R. Rai, Vandana Blossom, Mangala M. Pai, B.V. Murlimanju
+Journal: F1000Research. 2025;13:329
+DOI: 10.12688/f1000research.147000.2
+PMID: 40469993
+PMCID: PMC12134726
+License: https://creativecommons.org/licenses/by/4.0/This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+**Background** The goal of this cadaveric cross-sectional study was to analyse the branching pattern of the obturator nerve morphologically and to determine its dimensions in embalmed cadavers.
+
+**Methods** In this cross-sectional study, we examined 50 embalmed adult cadaveric lower limbs. Gender was not taken into consideration in the analysis; however, a side-based comparison was performed. The measurements were performed using a digital Vernier caliper.
+
+**Results** The branching of obturator nerve was observed at the pelvic cavity in 28 specimens (56%) and inside the obturator canal in 12 specimens (24%). The division of obturator nerve wasn’t observed in 10 specimens (20%). The length, width and thickness of the trunk of obturator nerve was 108.26 ± 9.53 mm, 2.84 ± 0.88 mm and 1.11 ± 0.35 mm. The width and thickness of the anterior and posterior divisions of obturator nerve measured 2.19 ± 0.82 mm, 0.9 ± 0.1 mm, 0.99 ± 0.6 mm and 0.71 ± 0.26 mm. The topography of branching of obturator nerve from the superior and inferior border of the obturator foramen was located at 1.48 ± 0.58 mm and 3.07 ± 1.1 mm away. The length of anterior division of the obturator nerve measured 110.88 ± 12.02 mm over the right side and 107.13 ± 7.81 mm over the left side. The width of the main trunk of obturator nerve was 2.87 ± 0.64 mm over the right side and 2.82 ± 0.64 mm over the left side.
+
+**Conclusions** We believe that morphometric data of the obturator nerve will be enlightening to the operating surgeon during its procedures like nerve block, transplantation, and repairs as few of them are conducted laparoscopically, the prior knowledge of morphological dimensions and branching pattern will assist the surgeons in easy access of the obturator nerve. In this context, the dimensions of the obturator nerve observed in the present study can be utilized as a morphological database for our sample population.
+
+## Introduction
+
+Peripheral nerve injury is managed by exploration and nerve repair. Nerve regeneration is possible, but it has been reported to be associated with poor functional recovery. 1 The study of obturator nerve morphology may enlighten the clinician and provide successful clinical outcomes. Analysis of the morphology of the nerve may help the operating surgeon to assess the matching of the donor and recipient nerves. 1 Obturator nerve is formed in the lumbar plexus by the ventral division of the ventral rami of the L2, L3, and L4 nerves. It is also involved in several pathological diseases. Obturator nerve entrapment can occur due to pressure injury around the obturator canal. 2 This contributes to pain and decreased sensation over the adductor compartment of the thigh. There may be difficulty in adduction of the thigh. 3 The iatrogenic causes of obturator neuropathy also include traumatic injury, iatrogenic injuries during the surgical procedures like hip arthroplasty, urological surgeries, and spine surgeries through the retroperitoneal approach. 2 The obturator nerve entrapment is observed in sports acquired hernia and in gynecological conditions like ectopic pregnancies. 4 – 6 The benign swellings like cysts, neurofibroma, and lipoma can also cause pressure effect over the obturator nerve at this location. 7 , 8
+
+Prior information of the morphometry and topography of the obturator nerve and its divisions will assist the clinicians with the accurate ultrasound-guided nerve blocks. 9 – 11 The obturator nerve exhibits significant anatomic variability in its branching patterns and bifurcation points. Understanding the variability in the branching pattern and bifurcation is enlightening to the surgeons to avoid obturator nerve injury during the procedures of adductor compartment like transurethral bladder operation and repair of fracture acetabulum. 9 , 11 Obturator nerve can be utilized as a nerve transfer for the femoral nerve palsy in restoring the quadriceps femoris function and the data of its dimensions and its divisions can optimize the treatment procedures. 12 It was reported that the morphometry-based surgical procedures will help in preventing iatrogenic nerve injuries and accomplishing effective pain management 2 , 13 The knowledge of obturator nerve width is essential to diagnose the obturator neuropathy and its related effects. Additionally, the width influences the success rate of accomplishing complete analgesia. 14 These were the rationale to perform this anatomical investigation as it is good to have the normal anatomical morphometric data of the obturator nerve with respect to a set of population. A literature search revealed that there was not much information available about this subject in the Indian sample population. This was the motivation for performing this anatomical investigation. The goal of this research was to study the morphology of the branching pattern of the obturator nerve and its morphometry in embalmed cadavers.
+
+## Methods
+
+In this morphological study, we examined 50 embalmed cadaveric lower extremities (25 right and left side respectively) and analyzed for the topographical branching of obturator nerve into the anterior and posterior divisions. The gender category of the sample was not considered. Specimens showing pathological changes were not included in this anatomical study. The length, width, and thickness of the main trunk of the obturator nerve, anterior division, and posterior division were measured separately using Vernier calipers. The length of main trunk of obturator nerve was measured from the pelvic brim to the point of division of obturator nerve (from point ‘a’ to point ‘b’ in Figure 1). The length of anterior division was measured from the point of division till the muscular branch to adductor longus (from point ‘b’ to point ‘c’ in Figure 1) and the length of posterior division was till the muscular branch to the adductor magnus (from point ‘b’ to point ‘d’ in Figure 1). The point of origin of branch to the adductor longus and adductor magnus muscles were considered as the distal points for the measurements of length of anterior and posterior divisions respectively. The width and thickness of the trunk, anterior division and posterior division were measured at the mid-point between the corresponding points of these measurements. Three measurements were taken by the same researcher of this study and the average of three was taken. This prevented the intra and inter-observer bias. Side-based comparisons were also performed using Student’s paired t-test. A recent version of the SPSS software (Version 27) was employed for statistical exploration. The copyright license of the SPSS software is available with our university. The topographical location of the division of obturator nerve was analyzed. The mean distance of branching of the obturator nerve from the superior and inferior borders of the obturator foramen was also measured. This anatomical study was approved (IEC KMC MLR 09-18/310) by the institutional ethics committee of Kasturba Medical College, Mangaluru, India (Reg. No. ECR/541/Inst/KA/2014/RR-17). This was approved from 26 th September, 2018. We state that this research adheres to the Declaration of Helsinki. The protocol of this study was archived in the dx.doi.org/10.17504/protocols.io.5qpvo317dv4o/v1.
+
+[Figure] Figure 1. Schematic diagram representing the measurements performed in this study (length of trunk- from point ‘a’ to point ‘b’; length of anterior division- from point ‘b’ to point ‘c’; length of posterior division- from point ‘b’ to point ‘d’).
+
+## Results
+
+In the present study, obturator nerve branching occurred at the pelvic cavity into the anterior and posterior divisions ( Figure 2) in 28 specimens (56%), at the obturator canal ( Figure 3) in 12 specimens (24%), and there was no division ( Figure 4) of the obturator nerve in 10 specimens (20%). The frequency of the topographic anatomy of the obturator nerve division is shown in Figure 5. The mean length, width and thickness of the trunk was 107.26 ± 8.71 mm, 2.84 ± 0.88 mm and 1.11 ± 0.35 mm individually. The mean width and thickness of the anterior and posterior divisions were 2.19 ± 0.82 mm, 0.9 ± 0.1 mm, 0.99 ± 0.6 mm and 0.71 ± 0.26 mm individually. The length of anterior and posterior division of obturator nerve were 109.01 ± 9.91 mm and 106.08 ± 7.71 mm respectively ( Table 1).
+
+[Figure] Figure 2. Embalmed cadaveric lower limb showing the intrapelvic division (56% cases) of the obturator nerve (1-obturator nerve; 2-anterior division; 3-posterior division; 4-obturator artery; 5-obturator vein; IIA-internal iliac artery).
+
+[Figure] Figure 3. Embalmed cadaveric lower limb showing the branching of obturator nerve inside (24% cases) the obturator canal (1-obturator nerve; 2-anterior division; 3-posterior division).
+
+[Figure] Figure 4. Embalmed cadaveric lower limb showing the undivided (20% cases) obturator nerve (1-obturator nerve; 2-obturator artery).
+
+[Figure] Figure 5. Frequency of topographic anatomy of division of obturator nerve (n=50).
+
+[Table] Table 1. Morphometric data of the obturator nerve (n=50).
+| Obturator nerve | Length | Width | Thickness |
+| Trunk | 107.26 ± 8.71 mm | 2.84 ± 0.88 mm | 1.11 ± 0.35 mm |
+| Anterior division | 109.01 ± 9.91 mm | 2.19 ± 0.82 mm | 0.9 ± 0.1 mm |
+| Posterior division | 106.08 ± 7.71 mm | 0.99 ± 0.6 mm | 0.71 ± 0.26 mm |
+
+The width of the main trunk was 2.87 ± 0.64 mm and 2.82 ± 0.64 mm over the right and left sides. The obturator nerve length was 107.55± 8.15 mm over the right side and 106.98± 9.27 mm at the left side. Its thickness measured 0.94 ± 0.07 mm and 1.25 ± 0.46 mm over the right and left sides. The length of anterior division was 110.88 ± 12.02 mm over the right side and 107.13 ± 7.81 mm over the left side. The width of the anterior division was 1.4 ± 0.55 mm and 1.7 ± 0.57 mm over the right and left sides. The thickness of anterior division was 0.94 ± 0.05 mm and 0.88 ± 0.13 mm over the right and left sides. The width of the posterior division was 0.84 ± 0.21 mm and 1.06 ± 0.83 mm at the right and left sides. The thickness of posterior division was 0.54 ± 0.21 mm and 0.78 ± 0.29 mm at the right and left sides. The length of posterior division was 108.42 ± 9.31 mm and 105.54 ± 6.11 mm at the right and left sides ( Table 2). The topographical location of the branching of the obturator nerve from the upper and lower borders of obturator foramen was 1.48 ± 0.58 mm and 3.07 ± 1.1 mm.
+
+[Table] Table 2. Side based comparison of morphometric data of the obturator nerve (n=50).
+| Obturator nerve | Parameter | Right (n=25) | Left (n=25) |
+| Trunk | length | 107.55 ± 8.15 mm | 106.98 ± 9.27 mm |
+|  | width | 2.87 ± 0.64 mm | 2.82 ± 0.64 mm |
+|  | thickness | 0.94 ± 0.07 mm | 1.25 ± 0.46 mm |
+| Anterior division | length | 110.88 ± 12.02 mm | 107.13 ± 7.81 mm |
+|  | width | 1.4 ± 0.55 mm | 1.7 ± 0.57 mm |
+|  | thickness | 0.94 ± 0.05 mm | 0.88 ± 0.13 mm |
+| Posterior division | length | 108.42 ± 9.31 mm | 105.54 ± 6.11 mm |
+|  | width | 0.84 ± 0.21 mm | 1.06 ± 0.83 mm |
+|  | thickness | 0.54 ± 0.21 mm | 0.78 ± 0.29 mm |
+Statistical analysis, paired ‘t’ test, significance at p<0.05.
+
+The difference was not statistically significant when the comparison was performed between the right and left sides for all parameters studied (p>0.05).
+
+## Discussion
+
+The clinical anatomy of obturator nerve is essential. The obturator nerve is related to the internal iliac artery and internal iliac vein at the lateral pelvic wall. It traverses the obturator canal and exits the pelvis. Its anterior and posterior divisions innervate muscles, eventually. The anterior division courses over the obturator externus muscle and the adductor brevis is located posterior to the anterior division of obturator nerve. 15 The pectineus and adductor longus muscles are found anterior to the obturator nerve. The other adductor compartment muscles, gracilis, adductor longus, and adductor brevis are also supplied by the obturator nerve. Itsposterior division pierces the obturator externus muscle and courses in between the adductor brevis and adductor magnus muscles. The muscular branches of obturator externus and adductor magnus muscles also offer articular twigs to the hip and knee joints. Its cutaneous branches supply the skin at the medial aspect of the thigh. 15 It was reported that, there exists significant anatomical variation in the branching and subdivisions of the obturator nerve. These variations cause difficulty in the accomplishing the regional anesthesia. 9 The obturator nerve division is known for its variations with respect to its topography in the obturator canal. 13 Berhanu et al. 16 observed intrapelvic division of obturator nerve in 23.9% cases, in the obturator canal in 44.8% cases and infrapelvic in 31.3% cases. In the present study, no extrapelvic divisions were observed (0%). In our study, the obturator nerve branched into the anterior and posterior divisions inside the pelvic cavity in 56% and 24% of the specimens, respectively. There was no division of the obturator nerve in 20% of samples. According to Tshabalala et al. 13 from the South African population, intrapelvic branching was observed in 2% of cases, and the majority were branching in the obturator canal (93%). Extrapelvic branching was observed in 5% of cases. In another study in Greece by Anagnostopoulou et al., 9 intrapelvic branching was observed in 25% of cases, branching within the obturator canal was observed in 23% of cases, and extrapelvic branching was observed in 52% of cases. Other than these two previous studies, data is not available regarding the dimensions of the obturator nerve. In this context, our anatomical research may help anatomists and anthropologists to compare these data.
+
+The width of obturator nerve was 2.67 mm in males and 1.91 mm in females according to Yount et al. 1 In our study, the gender based comparison was not performed and the width was given for both the genders together, which was measuring 2.84 ± 0.88 mm. Yount et al. 1 reported that the average width of obturator nerve over the left and right sides were 2.28 mm and 2.29 mm. In our study, these dimensions were2.82 ± 0.64 mm and 2.87 ± 0.64 mm. Yount et al. 1 also reported the length of obturator nerve, which was measuring 10.86 cm and 10.83 cm at the right andleft sides. Our data is almost like their data as the same dimensions in our study measured 107.55± 8.15 mm and 106.98± 9.27 mm. In this study, the distance of the branching of obturator nerve from the superior and inferior borders of obturator foramen were 1.48 ± 0.58 mm and 3.07 ± 1.1 mm.
+
+The obturator nerve can be utilized as a nerve transfer for femoral nerve paralysis. 17 The neurectomy of anterior division of the obturator nerve and intrapelvic obturator neurotomy are performed to relieve spasticity in the medial compartment of the thigh in children suffering from cerebral palsy. 18 Lack of anatomical knowledge can lead to iatrogenic injury of the obturator nerve. Kendir et al. 14 emphasized the reputation of morphological awareness of the obturator nerve at the obturator canal in accomplishing the best obturator nerve block. Care should be taken while injecting the anesthetic drug simultaneously into the anterior and posterior divisions because of the variability in the branching of the obturator nerve. Anesthesia may be incomplete if there are variations in branching pattern. 13
+
+This study was aimed at helping clinicians, but its limitations, such as individual branches to the muscles it supplies, were not explored. The study describes the collated data on the obturator nerve morphometric parameters without gender differentiation. The measurements such as length and width may significantly differ in females, owing to their petite frame and stature. Therefore the mixed data of both the genders cannot be generalized for the wider population. This study did not record the prevalence of accessory obturator arteries. Future scope of this study include a gender-based comparison, more detailed topographical anatomy, such as the distance of the obturator nerve from the femoral artery. The distance between the anterior superior iliac spine and medial condyle of the femur can be determined to assess the ratio, and regression formulae could be obtained. The depth of the obturator nerve from the skin can also be determined. This may assist with the obturator nerve block procedure.
+
+## Conclusion
+
+We believe that morphometric data of the obturator nerve will be enlightening to the operating surgeon during its procedures like block, transplantation, and repairs as few of them are conducted laparoscopically, the prior knowledge of morphological dimensions and branching pattern will assist the surgeons in easy access of the obturator nerve. In this context, the dimensions of the obturator nerve observed in the present study can be utilized as a morphological database for our sample population.
+
+## Ethics and consent
+
+This anatomical study was approved (IEC KMC MLR 09-18/310) by the institutional ethics committee of Kasturba Medical College, Mangaluru, India (Reg. No. ECR/541/Inst/KA/2014/RR-17). This was approved from 26 th September, 2018. We state that this research adheres to the Declaration of Helsinki. The body donors of the cadavers, which are utilized in this study have consented to utilize their body for the medical research along with the medical teaching. They have put their signatures in their body donation form along with the witnesses.
+
+## Data availability
+
+### Underlying data
+
+Figshare: Medline database search strategy for ‘Morphology of obturator nerve’. https://doi.org/10.6084/m9.figshare.24955383.v1. 19
+
+The project contains the following underlying data: file name – Obturator Nerve.xlsx
+
+The statistical analysis was performed by using the recent version of SPSS software. 20
+
+Data are available under the terms of the Creative Commons Zero “No rights reserved” data waiver (CC0 1.0 Public domain dedication).
+
+### Extended data
+
+Figshare: The strobe checklist. Anatomical study of obturator nerve. https://doi.org/10.6084/m9.figshare.25526056.v1. 21
+
+Data are available under the terms of the Creative Commons Zero “No rights reserved” data waiver (CC0 1.0 Public domain dedication).
+
+## References
+
+1. Yount M Peruri A Morgan A: Morphology and morphometry of the human obturator nerve in males and females. Anat. Histol. Embryol. 2023; 52 ( 3): 490 – 499. 10.1111/ahe.12905 36692228
+2. Jo SY Chang JC Bae HG: A morphometric study of the obturator nerve around the obturator foramen. J. Korean Neurosurg. Soc. 2016; 59 ( 3): 282 – 286. 10.3340/jkns.2016.59.3.282 27226861 PMC4877552
+3. Kitagawa R Kim D Reid N: Surgical management of obturator nerve lesions. Neurosurgery. 2009; 65 ( 4 Suppl): A24 – A28. 10.1227/01.NEU.0000335652.61676.CC 19927074
+4. Ahmadian A Abel N Uribe JS: Functional recovery of severe obturator and femoral nerve injuries after lateral retroperitoneal transpsoas surgery. J. Neurosurg. Spine. 2013; 18: 409 – 414. 10.3171/2013.1.SPINE12958 23432325
+5. McConaghie FA Payne AP Kinninmonth AW: The role of retraction in direct nerve injury in total hip replacement: an anatomical study. Bone Joint Res. 2014; 3: 212 – 216. 10.1302/2046-3758.36.2000255 24973358 PMC4112776
+6. Zwolak P Eysel P William-Patrick Michael J: Femoral and obturator nerves palsy caused by pelvic cement extrusion after hip arthroplasty. Orthop. Rev (Pavia). 2011; 3: e6. 10.4081/or.2011.e6 21808718 PMC3143999
+7. Joniau SG Van Baelen AA Hsu CY: Complications and functional results of surgery for locally advanced prostate cancer. Adv. Urol. 2012; 2012: 1 – 8. 10.1155/2012/706309 PMC3265055 22291698
+8. Kim SH Seok H Lee SY: Acetabular paralabral cyst as a rare cause of obturator neuropathy: a case report. Ann. Rehabil. Med. 2014; 38: 427 – 432. 10.5535/arm.2014.38.3.427 25024971 PMC4092188
+9. Anagnostopoulou S Kostopanagiotou G Paraskeuopoulos T: Anatomic variations of the obturator nerve in the inguinal region: implications in conventional and ultrasound regional anesthesia techniques. Reg. Anesth. Pain Med. 2009; 34 ( 1): 33 – 39. 10.1097/AAP.0b013e3181933b51 19258986
+10. Soong J Schafhalter-Zoppoth I Gray AT: Sonographic imaging of the obturator nerve for regional block. Reg. Anesth. Pain. Med. 2007; 32: 146 – 151. 10.1016/j.rapm.2006.10.012 17350526
+11. Iwanaga J Ishak B Yilmaz E: Anatomic study of the bifurcation of the obturator nerve: application to more precise surgical/procedural localization. World Neurosurg. 2020; 140: e23 – e26. 10.1016/j.wneu.2020.03.113 32251810
+12. Lee A Robinson L Baltzer H: Nerve transfers in the management of femoral nerve palsy: a systematic review. Am. J. Phys. Med. Rehabil. 2024; 103: 1152 – 1158. 10.1097/PHM.0000000000002535 38984543
+13. Tshabalala ZN Human-Baron R Walt S van der: The anatomy of the obturator nerve and its branches in a South African cadaver sample. Transl. Res. Anat. 2022; 27: 100201. 10.1016/j.tria.2022.100201
+14. Kendir S Akkaya T Comert A: The location of the obturator nerve: a three-dimensional description of the obturator canal. Surg. Radiol. Anat. 2008; 30 ( 6): 495 – 501. 10.1007/s00276-008-0358-x 18478175
+15. Hanna AS: Obturator Nerve. Anatomy and exposures of spinal nerves. Cham: Springer; 2015.
+16. Berhanu K Taye M Abraha M: Anatomical variations and distributions of obturator nerve on Ethiopian cadavers. Anat. J. Africa. 2020; 9 ( 1): 1671 – 1677. 10.4314/aja.v9i1.1
+17. Campbell AA Eckhauser FE Belzberg A: Obturator nerve transfer as an option for femoral nerve repair: case report. Neurosurgery. 2010; 66 ( 6 Suppl Operative): onsE375. discussion 375. 10.1227/01.NEU.0000369649.31232.B0 20489532
+18. Snela S Rydzak B: The value of the adductor tenotomy with obturator neurectomy in the treatment of the hips at cerebral palsy children. Early clinical and radiological examination results. Orthop. Traumatol. Rehabil. 2002; 4 ( 1): 11 – 14. 17679893
+19. Prabhu LV Vadgaonkar R Murlimanju BV: Morphology of obturator nerve. [Dataset]. Figshare. 2024 [cited 2024 Apr 4]. 10.6084/m9.figshare.24955383.v1
+20. IBM Corp: IBM SPSS Statistics for Windows (Version 27.0) [Computer software]. IBM Corp; 2020.
+21. Murlimanju BV Vadgaonkar R: Anatomical study of obturator nerve. figshare. Preprint. 2024. 10.6084/m9.figshare.25526056.v1 PMC12134726 40469993

@@ -1,0 +1,563 @@
+# In Vitro Magnetic Resonance Imaging Evaluation of Fragmented, Open-Coil, Percutaneous Peripheral Nerve Stimulation Leads
+
+Authors: Frank G Shellock, Armaan Zare, Brian M Ilfeld, et al.
+Journal: Neuromodulation. 2018;21(3)
+DOI: 10.1111/ner.12705
+PMID: 29057550
+Source: Author manuscript, UC eScholarship (Unpaywall green OA), text extracted with pdftotext -layout
+
+---
+
+UC San Diego
+UC San Diego Previously Published Works
+
+Title
+In Vitro Magnetic Resonance Imaging Evaluation of Fragmented, Open-Coil,
+Percutaneous Peripheral Nerve Stimulation Leads
+
+Permalink
+https://escholarship.org/uc/item/258485fr
+
+Journal
+Neuromodulation Technology at the Neural Interface, 21(3)
+
+ISSN
+1094-7159
+
+Authors
+Shellock, Frank G
+Zare, Armaan
+Ilfeld, Brian M
+et al.
+
+Publication Date
+2018-04-01
+
+DOI
+10.1111/ner.12705
+
+
+Peer reviewed
+
+
+
+
+ eScholarship.org                            Powered by the California Digital Library
+                                                             University of California
+                                                                                                           Neuromodulation: Technology at the Neural Interface
+
+Received: June 20, 2017   Revised: September 3, 2017   Accepted: September 6, 2017
+
+(onlinelibrary.wiley.com) DOI: 10.1111/ner.12705
+
+
+
+In Vitro Magnetic Resonance Imaging
+Evaluation of Fragmented, Open-Coil,
+Percutaneous Peripheral Nerve Stimulation
+Leads
+Frank G. Shellock, PhD*; Armaan Zare†; Brian M. Ilfeld, MD, MS‡;
+John Chae, MD, ME§; Robert B. Strother¶
+       Objective: Percutaneous peripheral nerve stimulation (PNS) is an FDA-cleared pain treatment. Occasionally, fragments of the lead
+       (MicroLead, SPR Therapeutics, LLC, Cleveland, OH, USA) may be retained following lead removal. Since the lead is metallic, there
+       are associated magnetic resonance imaging (MRI) risks. Therefore, the objective of this investigation was to evaluate MRI-related
+       issues (i.e., magnetic ﬁeld interactions, heating, and artifacts) for various lead fragments.
+       Methods: Testing was conducted using standardized techniques on lead fragments of different lengths (i.e., 50, 75, and 100% of
+       maximum possible fragment length of 12.7 cm) to determine MRI-related problems. Magnetic ﬁeld interactions (i.e., translational
+       attraction and torque) and artifacts were tested for the longest lead fragment at 3 Tesla. MRI-related heating was evaluated at 1.5
+       Tesla/64 MHz and 3 Tesla/128 MHz with each lead fragment placed in a gelled-saline ﬁlled phantom. Temperatures were recorded
+       on the lead fragments while using relatively high RF power levels. Artifacts were evaluated using T1-weighted, spin echo, and gra-
+       dient echo (GRE) pulse sequences.
+       Results: The longest lead fragment produced only minor magnetic ﬁeld interactions. For the lead fragments evaluated, physio-
+       logically inconsequential MRI-related heating occurred at 1.5 Tesla/64 MHz while under certain 3 Tesla/128 MHz conditions,
+       excessive temperature elevations may occur. Artifacts extended approximately 7 mm from the lead fragment on the GRE pulse
+       sequence, suggesting that anatomy located at a position greater than this distance may be visualized on MRI.
+       Conclusions: MRI may be performed safely in patients with retained lead fragments at 1.5 Tesla using the speciﬁc conditions of
+       this study (i.e., MR Conditional). Due to possible excessive temperature rises at 3 Tesla, performing MRI at that ﬁeld strength is cur-
+       rently inadvisable.
+
+       Keywords: Artifacts, implants, magnetic resonance imaging, MRI, MRI safety, peripheral nerve stimulation
+       Conﬂict of Interest: Frank G. Shellock, PhD is a paid consultant for SPR Therapeutics, LLC. Armaan Zare has no potential conﬂicts
+       of interest. Brian M. Ilfeld, MD, MS has received research funding from SPR Therapeutics, LLC. John Chae, MD, ME is the Chief Medi-
+       cal Advisor, SPR Therapeutics and owns equity in SPR Therapeutics, LLC. Robert Strother is the Chief Engineer of SPR Therapeutics,
+       LLC and owns equity in SPR Therapeutics, LLC.
+
+
+
+
+Address correspondence to: Frank G. Shellock, PhD, Departments of Radiology and Medicine, University of Southern California, 7751 Veragua Dr., Los Angeles, CA,
+90293, USA. Email: frank.shellock@gte.net
+
+* Departments of Radiology and Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA;
+†
+  Loyola Marymount University, Los Angeles, CA, USA;
+‡
+  Department of Anesthesiology, University of California San Diego, San Diego, San Diego, CA, USA;
+§
+  Department of Physical Medicine and Rehabilitation, Case Western Reserve University, Cleveland, OH, USA; and
+¶
+  SPR Therapeutics, LLC, Cleveland, OH, USA
+
+For more information on author guidelines, an explanation of our peer review process, and conﬂict of interest informed consent policies, please go to http://www.wiley.
+com/WileyCDA/Section/id-301854.html
+
+Source(s) of ﬁnancial support: Research reported in this publication was supported, in part, by the Eunice Kennedy Shriver National Institute of Child Health and Human
+Development, Award Number R44HD067094; National Institute on Aging, Award Number R44AG052196; and the Department of Defense Peer Reviewed Orthopaedic
+Research Program, Award Number OR110066. The content of this article is solely the responsibility of the authors and does not necessarily represent the ofﬁcial views of
+the funding entities.                                                                                                                                                      1
+
+www.neuromodulationjournal.com                                 C 2017 International Neuromodulation Society
+                                                               V                                                                      Neuromodulation 2017; ••: ••–••
+    SHELLOCK ET AL.
+
+
+    INTRODUCTION                                                                  wound on a 101 mm (0.004 inch) arbor. The terminal end of the tip
+                                                                                  (5 mm) is bent at an acute angle forming an anchor designed to
+       Opioid addiction and misuse has become an epidemic in the                  resist lead migration (Fig. 2).
+    United States and, therefore, safe and effective non-opioid pain                 The lead fragments that were investigated in this study were
+    management therapies are urgently needed. Neurostimulation, such              constructed to provide representative examples that may pose
+    as traditional methods of spinal cord stimulation (SCS) and periph-           MRI-related problems. In clinical use, the lead is preloaded within
+    eral nerve stimulation (PNS), may be used to reduce pain and has              a 20 gauge, 12.7 cm (5.00 inch) introducer needle, which is placed
+    been reported to decrease or limit opioid use (1–8). However, these           into the target tissue using a percutaneous insertion procedure.
+    modalities typically require implantation of permanent stimulation            Notably, the needle is not typically inserted completely into the
+    devices through invasive surgery. As a result, neurostimulation using         tissue to reach the peripheral nerve, and the lead cannot be
+    permanent components is often one of the last options in the treat-           inserted beyond the tip of the needle due to the ﬂexibility of
+    ment continuum for pain.                                                      the lead. Thus, the maximum possible length of the lead under
+       Recently, a percutaneous PNS system received Food and Drug                 the skin is 12.7 cm. In consideration of the coiling of the wire, a
+    Administration clearance for use in the back and/or extremities for           maximum 12.7 cm length of coiled lead that can be under the
+    the treatment of chronic and acute pain, including postoperative              skin has a 37.6 cm length of insulated wire and a 9.5 cm length of
+    and posttraumatic pain. Clinical applications for percutaneous PNS            uninsulated wire, close-wound and touching collapsed onto a
+    have been investigated for the treatment of multiple types of pain,           1 cm straight length, and a 0.5 cm anchor (i.e., a total of 47.1 cm
+    including low back pain, neuropathic pain following amputation,               of 7-strand stainless steel wire which is an electrical straight wire
+    chronic shoulder pain, and postoperative pain following total knee            length of 39.1 cm). Thus, the aforementioned lengths were taken
+    replacement (1,2,9–20). This unique system consists of an external            into consideration to select the fragmented lengths of the leads
+    pulse generator connected to a percutaneously inserted, open-coil             that underwent testing.
+    lead that is placed through a minimally invasive procedure and                   While visual examination of over 100 leads removed following
+    left indwelling for up to 30 days. At the completion of therapy,              pain management therapy revealed that a majority of leads are
+    the lead is withdrawn. Thus, this percutaneous PNS strategy                   removed intact, the leads that fracture upon removal usually frac-
+    avoids the invasive surgical procedures required with traditional             ture at or near the distal tip (15 mm), indicating that the 12.7 cm
+    neurostimulation systems to implant permanent stimulation sys-                longest possible lead fragment that may be retained in the patient
+    tems with multiple components (i.e., pulse generator, lead exten-             is very rare. Also, for some of the removed leads, lengths of the PFA
+    sion, and lead).                                                              insulating coating were broken, resulting in uninsulated areas at the
+       Occasionally, small lead fragments (typical length range, 5–               end with the break. This resulted in an uninsulated length of wire
+    25 mm) may be retained following lead removal. Because of the                 (frequently <3 cm in length). Although it is most likely that this
+    presence of this metallic lead fragment, there may be serious risks           stretching, breaking and sliding of the PFA coating down the lead
+    relative to the use of magnetic resonance imaging (MRI) (21–24).              happened during the removal process, it remains a possibility that
+    Therefore, the goal of this investigation was to use in vitro test meth-      the portion of the lead retained in the tissue has a section of uninsu-
+    ods to evaluate MRI-related issues (magnetic ﬁeld interactions, MRI-          lated wire (Fig. 3).
+    related heating, and artifacts) for lead fragments of various lengths
+    that may be present in patients referred for MRI.
+
+
+    MATERIALS AND METHODS
+    Open-Coil Lead Used for Percutaneous PNS
+       This investigation evaluated MRI issues for lead fragments associ-
+    ated with the SPRINT Peripheral Nerve Stimulation (PNS) System
+    (SPR Therapeutics, LLC, Cleveland, OH, USA) (Fig. 1). The percutane-
+    ous PNS system consists of a lead connected via cables to a body-
+    worn external pulse generator (Fig. 1). The intact lead and external
+    components of the system are not intended for use in a patient
+    undergoing an MRI examination and can be removed prior to
+    undergoing an MRI. Therefore, they were not included in the MRI
+    testing performed in this study. This evaluation of MRI issues only
+    applies to any lead fragments retained in body tissue after the lead
+    has been removed.
+       The lead utilized with this system (MicroLead, SPR Therapeutics,
+    LLC, Cleveland, OH, USA) is a coiled, ﬁne-wire that permits the elec-
+    trode to be placed in tissue to deliver short-term electrical stimula-
+    tion therapy to a peripheral nerve (i.e., FDA clearance for up to 60
+    days). The lead is composed of 7-strands of non-ferromagnetic 316L
+    stainless steel, and each strand is 34 mm in diameter (0.00135 inch).
+    Almost the entire length (12.7 cm) of the 7-strand wire is insulated
+                                                                                  Figure 1. Body-worn percutaneous peripheral nerve stimulation system used
+    by perﬂuoroalkoxy, PFA (poly ﬂuorocarbon). The only portion of the            for the treatment of chronic pain and acute pain, including postoperative and
+    lead that is uninsulated is a closely wound wire at the distal tip. The       posttraumatic pain. This example shows application for management of
+2   tip consists of 15 mm of the 7-strand stainless steel wire and close-         chronic shoulder pain. Image used with permission from SPR Therapeutics.
+
+
+    www.neuromodulationjournal.com                        C
+                                                          V   2017 International Neuromodulation Society                       Neuromodulation 2017; ••: ••–••
+                                                                                                              MRI EVALUATION OF FRAGMENTED LEADS
+
+
+
+
+Figure 2. Open-coil lead used for percutaneous peripheral nerve stimulation, loaded into introducer needle. Inset: The 7-strand stainless steel wire is insulated
+except for the distal tip, which terminates in an anchor to secure the lead within tissue and prevent lead migration. Image used with permission from SPR
+Therapeutics.
+
+
+Magnetic Field Interactions                                                        angle for the lead from the vertical direction to the nearest 18 was
+   Testing for magnetic ﬁeld interactions involved evaluations of                  measured three times and a mean value was calculated (22–33).
+translational attraction and torque for the lead fragment, 12.7 cm
+length with the proximal 2 mm, uninsulated, using a 3 Tesla MR sys-                Qualitative Assessment of Torque
+tem (Fig. 3, bottom), following standard techniques (22–26).                          The next evaluation of magnetic ﬁeld interactions was conducted
+                                                                                   to qualitatively determine the presence of magnetic ﬁeld-induced
+Translational Attraction                                                           torque for the lead fragment using a standardized test, as previously
+   For the assessment of translational attraction, a test was conducted            described (22–26,28–33). This procedure involved the use of a ﬂat
+known as the deﬂection angle test, as previously described (22–26).                plastic material (low coefﬁcient of friction) with a millimeter grid.
+The lead fragment was attached to a special non-metallic, test appara-             The lead fragment was placed on the test apparatus in an orienta-
+tus to measure the deﬂection angle in the 3 Tesla MR system. The test              tion that was 458 relative to the static magnetic ﬁeld of the 3 Tesla
+ﬁxture consisted of a structure steadily holding the lead fragment in              MR system. The test apparatus with the lead fragment was posi-
+position and incorporated a protractor with 18-graduated markings,                 tioned in the center of the MR system, where the effect of torque
+rigidly mounted to the structure (22–26). The 08 indicator on the pro-             from the static magnetic ﬁeld is known to be the greatest (i.e., based
+tractor was oriented perpendicular. The test ﬁxture also had a plastic             on a previous magnetic ﬁeld survey and the well-known characteris-
+bubble level attached to the top to ensure proper orientation and                  tics of the 3 Tesla MR system with a horizontal magnetic ﬁeld used
+leveling in the MR system during the test procedure. Sources of forced             for this evaluation) (22–26,28–33). The lead fragment was directly
+air movement within the bore of the scanner were turned off during                 observed for possible movement with respect to alignment or rota-
+the measurements. The lead fragment was suspended from a thin,                     tion relative to the static magnetic ﬁeld of the scanner. Having the
+lightweight string (weight, less than 1% of the weight of the lead) that           investigator inside the bore of the MR system during the test proce-
+was attached to the protractor. Motion of the string with the lead frag-           dure facilitated the observation process. The lead was moved 458
+ment was not constrained by the support structure of the protractor.               relative to its previous position and again observed for alignment or
+   Measurements of deﬂection angles for the lead were obtained in                  rotation (22–26,28–33). This process was repeated to encompass a
+the MR system at the point of the highest, “patient accessible” (i.e.,             full 3608 rotation of positions for the lead fragment in the 3 Tesla
+the position of which the patient would pass through while entering                MR system. The entire procedure was conducted three times and a
+the bore of the MR system), spatial gradient magnetic ﬁeld (22–33).                mean value was calculated for the lead fragment with it orientated
+This position was assessed using a gauss meter (Extech Model                       along both its long axis (22–26,28–33).
+480823, Electromagnetic Field Meter; Extech, Nashua, NH, USA). The                    The following qualitative scale of torque was applied to the
+value of the static magnetic ﬁeld at the position where the transla-               results: 0, no torque; 11, mild or low torque, the device slightly
+tional attraction was determined for the lead was 1.53 Tesla and the               changed orientation but did not align to the magnetic ﬁeld; 12,
+spatial gradient magnetic ﬁeld was 466 gauss/cm. The deﬂection                     moderate torque, the device aligned gradually to the magnetic ﬁeld;
+
+
+
+
+Figure 3. Schematic illustrating two 12.7 cm length test samples with 30 mm (top) and 2 mm (bottom) of uninsulated proximal tips.                                   3
+
+www.neuromodulationjournal.com                            C
+                                                          V   2017 International Neuromodulation Society                         Neuromodulation 2017; ••: ••–••
+    SHELLOCK ET AL.
+
+
+      Table 1. Summary of Temperature Rises for Fragmented Leads Evaluated for MRI-Related Heating at 1.5 Tesla/64 MHz and 3 Tesla/128 MHz.
+
+      Sample         MRI condition          Fragment length (cm)          Proximal uninsulated       Highest temperature       Highest temperature rise
+                                            (% of maximum                 length (cm)                rise tip (8C)             uninsulated end (8C)
+                                            fragment length)
+
+      1              1.5 Tesla/64 MHz       12.7 (100%)                   3.0                        2.8                       3.1
+      2              1.5 Tesla/64 MHz       12.7 (100%)                   0.2                        3.3                       3.5
+      3              3 Tesla/128 MHz        12.7 (100%)                   3.0                        3.6                       4.5
+      4              3 Tesla/128 MHz        12.7 (100%)                   0.2                        3.8                       4.8
+      5              3 Tesla/128 MHz        12.7 (100%)                   0.2                        4.4                       5.2
+      6              3 Tesla/128 MHz        12.0 (94%)                    0.2                        5.8                       5.9
+      7              3 Tesla/128 MHz        11.2 (88%)                    0.2                        3.5                       3.7
+      8              3 Tesla/128 MHz        9.2 (72%)                     3.0                        2.5                       2.6
+      9              3 Tesla/128 MHz        9.2 (72%)                     0.2                        2.7                       2.9
+      10             3 Tesla/128 MHz        6.8 (50%)                     3                          2.3                       2.4
+      11             3 Tesla/128 MHz        6.8 (50%)                     0.2                        2.4                       2.5
+
+
+
+    13, strong torque, the device showed rapid and forceful alignment             Solutions, Malvern, PA, USA) and 3 Tesla/128 MHz (Excite, Software
+    to the magnetic ﬁeld; 14, very strong torque, the device showed               14X.M5, General Electric Healthcare, Milwaukee, WI, USA). The RF
+    both very rapid and forceful alignment to the magnetic ﬁeld                   body transmit coil was used in each case. The MRI parameters were
+    (22–26,28–33).                                                                selected to generate a high level of RF energy (22–24,26–34). The
+                                                                                  landmark position for both MRI system conditions was at the center
+    MRI-Related Heating                                                           of the thorax (the center of each lead fragment) of the head/torso
+        MRI-related heating tests were conducted on different lengths of          ASTM International phantom, with multiple section locations
+    the lead fragment in order to assess those that would cause the               obtained through the lead fragment. An MR system reported, whole
+    highest temperature rises (Table 1). Thus, the lengths of the frag-           body averaged, speciﬁc absorption rate (SAR) of 2.7 W/kg (calorime-
+    mented leads were selected based on ﬁndings from prior MRI test-              try value, 2.1 W/kg) was used at 1.5 Tesla/64 MHz and 2.9 W/kg (cal-
+    ing experience with other leads, computer simulations of similar              orimetry value, 2.7 W/kg) was used at 3 Tesla/128MHz, for a total
+    metallic objects, and information in the medical literature with              imaging time of 15 min in each case.
+    respect to which length versions would create the greatest amount
+    of heating at the frequencies of 64 MHz (1.5 Tesla) and 128 MHz (3            Measurement of Temperature
+    Tesla MR system) (21,22). The proximal ends of the leads were pulled             Temperature recordings were obtained using a Luxtron Model
+    straight and stripped of insulation to represent the shortest and lon-        3100 Fluoroptic Thermometry System (Lumasense, Santa Clara, CA,
+    gest credible cases (2 mm and 3 cm) consistent with the fragments             USA) previously demonstrated to be MRI-compatible and unper-
+    that have occurred with the clinical use of this particular PNS lead          turbed at static magnetic ﬁeld strengths up to 9.0 Tesla (i.e., an MR
+    (Unpublished observations, SPR Therapeutics). Each lead fragment              spectrometer) (22–24,28–34). This thermometry system has small
+    was assessed according to information from the American Society               ﬁber-optic probes (Model SFF-2; 0.5 mm diameter) that respond rap-
+    for Testing Materials (ASTM) International and the peer-reviewed lit-         idly (response time, 0.25 sec; sensitive volume radius, less than
+    erature (22–24,26–34). Because implant heating associated with                1 mm), with an accuracy and resolution of 10.18C. The thermometry
+    radiofrequency (RF) energy may be different for a given lead frag-            system was calibrated immediately before obtaining temperature
+    ment length in relation to the transmit frequency used by the MR              measurements for each experimental condition. Each lead fragment
+    system (21,22), MRI-related heating was evaluated for the different           had thermometry probes attached to record representative temper-
+    lead fragments at 1.5 Tesla/64 MHz and 3 Tesla/128 MHz.                       atures during the heating tests, as follows: Probe #1, sensor portion
+        The MRI-related heating test used a plastic ASTM International            of the probe placed in contact with one end of the lead fragment,
+    phantom ﬁlled to a depth of 10 cm with a semisolid, gelled-saline             uninsulated end; Probe #2, sensor portion of the probe placed in
+    (i.e., 1.32 g/L NaCl plus 10 g/L polyacrylic acid in distilled water)         contact with opposite end of the lead fragment, tip. In addition, a
+    (22–24,26–34). Each lead fragment was placed in a position in the             thermometry probe was placed in the phantom at a position
+    phantom where there was a high uniform electric ﬁeld tangential to            removed (at least 30 cm away from the lead and 1 cm from the
+    each lead fragment, ensuring extreme RF heating conditions for this           opposite edge of the phantom) from the lead but within the area of
+    experimental setup, as previously described (i.e., in consideration of        MR imaging, to record a reference temperature during the heating
+    an analysis of the ASTM International phantom and the MRI condi-              experiment (Probe #3).
+    tions used for this assessment) (22–24,26–34). A relatively high level
+    of RF energy was applied under each MRI condition during the MRI-             MRI-Related Heating Protocol
+    related heating evaluations (22–24,26–34). Because there is no blood             The gelled-saline-ﬁlled ASTM International head/torso phantom
+    ﬂow or perfusion simulated with this experimental set up, it repre-           was placed in the 1.5 Tesla/64 MHz and then the 3 Tesla MR sys-
+    sents an extreme condition used to assess the various heating sce-            tems, respectively, and allowed to equilibrate to the environmen-
+    narios for the lead fragments.                                                tal conditions for more than 24 hours in each case. The room
+                                                                                  temperature and temperature of the bore of each MR system
+    MRI Conditions                                                                were measured 15 min before and 15 min after each test session
+      MRI was performed at 1.5 Tesla/64 MHz (Magnetom, Software                   to ensure that no change greater than 0.28C occurred. The fan for
+4   Numaris/4, Version Syngo MR 2002B DHHS, Siemens Medical                       each MR system was not on during the heating tests. There was
+
+    www.neuromodulationjournal.com                        C
+                                                          V   2017 International Neuromodulation Society                    Neuromodulation 2017; ••: ••–••
+                                                                                                             MRI EVALUATION OF FRAGMENTED LEADS
+
+
+  Table 2. Summary of MRI Artifacts (Signal Loss) at 3 Tesla for the Lead Fragment (12.7 cm Length With 0.2 cm, Proximal Uninsulated End).
+
+  Pulse sequence                   T1-SE                           T1-SE                              GRE                         GRE
+                      2
+  Signal void size (mm )           667                             12                                 1197                        38
+  Imaging plane                    Parallel (long axis)            Perpendicular (short axis)         Parallel (long axis)        Perpendicular (short axis)
+  T1-SE, T1-weighted spin echo; GRE, gradient echo.
+
+
+
+
+sufﬁcient thermal equilibrium in the phantom such that the tem-                     lead fragment because it represents the highest static magnetic ﬁeld
+perature did not change by more than 0.28C during the pre-MRI                       strength used in the clinical setting.
+observation time for a period of 15 min. Baseline (pre-MRI) tem-
+peratures were recorded at 4 sec. intervals for 5 min. MRI was then
+performed for 15 min with temperatures recorded at 4 sec inter-                     RESULTS
+vals. Post-MRI temperatures were recorded for 2 min with tem-
+peratures recorded at 4 sec intervals. The highest temperature                         Translational attraction for the longest lead fragment (12.7 cm)
+changes are reported, herein, for the lead fragments tested at 1.5                  was a mean deﬂection angle of 78 6 08 and the qualitatively deter-
+Tesla/64 MHz and 3 Tesla/128 MHz.                                                   mined torque was 0, no torque at 3 Tesla.
+   Background temperatures (i.e., heating of the phantom without                       Table 1 summarizes the results of the ﬁndings for MRI-related
+each lead fragment present) were also recorded during the MRI-                      heating. At 1.5 Tesla/64 MHz, the highest temperature rises occurred
+related heating evaluation. Accordingly, the temperature changes                    at the uninsulated ends of the lead fragments and ranged from
+were measured at the same ﬂuoroptic thermometry probe positions                     2.88C to 3.58C. The highest background temperature rise at 1.5
+and at the same time intervals as those used when measuring the                     Tesla/64 MHz was 1.58C. At 3 Tesla/128 MHz, the highest tempera-
+temperatures for each lead fragment in the gelled-saline-ﬁlled ASTM                 ture rises also occurred at the uninsulated ends of the lead frag-
+International phantom (22–24,26–34). The highest background tem-                    ments and ranged 2.38C to 5.98C. The highest background
+perature rises obtained from these assessments at 1.5 Tesla/64 MHz                  temperature rise at 3 Tesla/128 MHz was 1.68C.
+and 3 Tesla/128 MHz are also reported.                                                 Artifact test results are presented in Table 2. The artifacts
+                                                                                    appeared as localized signal voids that corresponded to the size and
+                                                                                    shape of this lead fragment. The GRE pulse sequence produced
+Artifacts
+                                                                                    larger artifacts than the T1-weighted, spin echo pulse sequence. The
+   MR imaging artifacts were assessed for the lead fragment,
+                                                                                    maximum artifact size observed on MR images obtained using the
+12.7 cm length with the proximal 2 mm, uninsulated in association
+                                                                                    GRE pulse sequence (i.e., worst case for artifacts) extended 7 mm rel-
+with the use of a 3 Tesla MR system. MR imaging was conducted
+                                                                                    ative to the size and shape of the lead fragment (Fig. 4).
+with the lead placed inside of the gadolinium-doped, saline ﬁlled,
+plastic phantom (15 3 15 3 24 cm) (22–24,28–33). The lead frag-
+ment was attached to a plastic frame using non-conducting, non-
+insulating paper tape (3M Company, Minneapolis, MN, USA) to facili-
+tate positioning and MR imaging within this phantom. MR imaging
+was performed using a 3 Tesla MR system (Excite, Software 14X.M5,
+General Electric Healthcare, Milwaukee, WI, USA), a send–receive RF
+coil, and the following pulse sequences: T1-weighted, spin echo
+pulse sequence; repetition time, 500 msec; echo time, 20 msec;
+matrix size, 256 X 256; section thickness, 5 mm; ﬁeld of view, 24 cm;
+number of excitations, 2; bandwidth; 32 kHz, and gradient echo
+(GRE) pulse sequence; repetition time, 100 msec; echo time, 15
+msec; ﬂip angle, 308; matrix size, 256 3 256; section thickness,
+5 mm; ﬁeld of view, 24 cm; number of excitations, 2; bandwidth,
+32 kHz (22–24,26–34).
+   Planimetry software provided with the MR system was used to
+measure the cross-sectional areas for the artifacts (i.e., the signal
+loss) associated with the lead fragment (22–24,26–34). The accuracy
+of this measurement method is 610%. Measurements were
+obtained to determine the maximum or worst case artifact area
+related to the presence of the lead fragment for each MR imaging
+condition. This ensured that the sizes of the artifacts for the lead
+fragment were not underestimated. Image display parameters (i.e.,
+window and level settings, magniﬁcation, etc.) were carefully
+selected and applied in a consistent manner to obtain accurate                      Figure 4. Artifact observed on MRI using a gradient echo pulse sequence.
+measurements of sizes for the artifacts (22–24,26–34). The 3 Tesla/                 Note that the signal loss extended a maximum of 7 mm relative to the lead
+128 MHz MR system was selected for the artifact assessment for the                  fragment.                                                                    5
+
+www.neuromodulationjournal.com                            C
+                                                          V   2017 International Neuromodulation Society                       Neuromodulation 2017; ••: ••–••
+    SHELLOCK ET AL.
+
+
+    DISCUSSION                                                                    medical professional should inform the patient regarding these mat-
+                                                                                  ters and make a notation in the patient’s medical records. It should
+       Percutaneous PNS is a non-opioid, minimally invasive therapy for           be noted that the rate of lead fracture (as determined by visual
+    the treatment of pain that avoids many of the limitations of tradi-           inspection of the removed lead) associated with lead removal has
+    tional permanent implantable neurostimulation modalities. This                been reported to be 7.5% (1,2,9–20). Notably, there were no reports
+    therapy has been evaluated in clinical trials encompassing multiple           of infectious or neurologic complications related to the presence of
+    pain indications including low back pain, neuropathic pain following          lead fragments in situ, nor any reports of indwelling leads fracturing
+    amputation, chronic shoulder pain, and postoperative pain follow-             during therapy (1,2,9–20). The focus of the present investigation was
+    ing total knee arthroplasty (1,2,9–20). In each of these studies, a           to determine possible issues for the patient with retained lead frag-
+    majority (60–100%) of subjects reported at least a 50% reduction in           ments relative to the use of MRI performed at 1.5 Tesla/64 MHz and
+    pain or pain interference at the end of the short-term (60 day)              3 Tesla/128 MHz.
+    therapy (1,9–20). Also, multiple studies have demonstrated lasting
+    pain relief following the end of therapy (1,2,9,11–18) with one study         Magnetic Field Interactions
+    reporting sustained clinically signiﬁcant pain relief in more than 75%           Although translational attraction and torque acting on a metallic
+    of subjects one year following completion of therapy (1).                     implant may pose a risk for a patient undergoing MRI due to move-
+       The safety proﬁle of the open-coil percutaneous lead is well-              ment or dislodgment of the item (21,37), the lead fragments in the
+    documented (35,36). Importantly, there are relatively few complica-           present study produced only minor ﬁeld interactions. In this study,
+    tions associated with percutaneous PNS, with the most commonly                the largest lead fragment that was assessed for magnetic ﬁeld inter-
+    reported adverse events being minor skin conditions (e.g., irritation,        actions at 3 Tesla displayed a 78 deﬂection angle and no torque. The
+    erythema, blister, mild skin tear) that were usually attributed to the        criterion stated by the ASTM International indicates that if the
+    use of medical/surgical adhesive tapes, bandages, or the surface              implant deﬂects less than 458, then the magnetically induced deﬂec-
+    return electrode (a patch electrode with a hydrogel layer that con-           tion force is less than the force on the implant due to gravity such
+    ducts electricity and adheres to the skin) (1,2,9–20). No serious             as those imposed by normal daily activities in the Earth’s gravita-
+    device-related adverse events have occurred across all studies and,           tional ﬁeld (25). The absence of magnetic ﬁeld-related issues is due
+    for the adverse events that did occur, these required little or no            to the material used to make this particular lead (MicroLead, 316L
+    medical treatment (1,2,9–20). In addition, there have been no                 stainless steel), which has low, magnetic susceptibility. Therefore,
+    reports of induced sensory, motor, or proprioception deﬁcits during           from a magnetic ﬁeld interaction consideration, a patient with any
+    use of this unique means of applying PNS, thus, enabling percutane-           length of a retained lead fragment from this medical product will
+    ous PNS to be utilized during physical rehabilitation (e.g., during the       not be harmed in association with the use of a 3 Tesla or less MR
+    immediate postoperative period) and activities of daily living                system.
+    (1,2,9–20).
+       Infection is often one of the greatest limiting factors when using         MRI-Related Heating
+    any type of percutaneous device (e.g., central venous lines). Fortu-             MRI-related heating that potentially results in burn injuries to
+    nately, the risk of a clinically relevant infection reported for the lead     patients is a risk for neurostimulation systems (21,37). In the present
+    evaluated in the present investigation is considerably lower than             study, under relatively high RF power conditions at 1.5 Tesla/64 MHz
+    that for percutaneously inserted catheters used to deliver perineural         and 3 Tesla/128 MHz, MRI-related heating evaluated for a wide
+    local anesthetic for postoperative analgesia (e.g., continuous periph-        range of lead fragment lengths demonstrated highest temperature
+    eral nerve block catheters). That is, 0.03 infections per 1000 indwell-       rises of 3.58C and 5.98C, respectively, with the highest background
+    ing days in the case of this percutaneously inserted lead, making the         temperature rises being 1.58C and 1.68C, respectively. MR Condi-
+    risk of infection for this medical device extraordinarily low (36).           tional labeling that is applied to implants extrapolates the worst-
+       In addition, a patient with the percutaneous PNS system who                case temperature ﬁnding from the MRI-related heating test in con-
+    needs an MRI procedure faces fewer challenges than with traditional           sideration of the calorimetry determined SAR value, to the Normal
+    implantable neurostimulation systems. The use of MRI in patients              Operating Mode of operation for the MR scanner (default value,
+    with implantable neurostimulation systems is often prohibited or              whole body averaged SAR, 2 W/kg) (21,37). For example, the maxi-
+    limited because of labeling restrictions required to prevent hazards          mum temperature rise that would be indicated in the labeling for
+    related to magnetic ﬁeld interactions, MRI-related heating, and               the lead fragment would be 3.38C in association with 1.5 Tesla/64
+    potential damage to the implanted pulse generator (14,37). To date,           MHz MRI conditions. Thus, at 1.5 Tesla/64 MHz, this worst-case tem-
+    a limited number of neurostimulation systems exist with labeling              perature rise that can occur for a lead fragment during MRI will not
+    that permits the use of MRI examinations in patients with these               harm the patient, especially when considering that the surrounding
+    active devices (14,37). In contrast, percutaneous PNS is a temporary          tissue temperatures where the lead fragment may be located (i.e.,
+    therapy, and, therefore, the lead can be removed prior to MRI and             peripheral, relatively superﬁcial tissue) is substantially less than deep
+    reinserted in the same location (9–20). Furthermore, if the diagnostic        body temperature (i.e., 378C) (38–40). By comparison, the higher
+    study is not urgent, then MRI may be delayed until after the lead is          temperature rises observed at 3 Tesla/128 MHz conditions are
+    removed at the end of the short-term therapy. Patients with leads             potentially worrisome and, thus, warrant additional investigation
+    removed intact (i.e., without retained lead fragments) have no risk of        that should entail a higher level of analysis to include MRI simula-
+    MRI-related issues from the stimulation system since none of the              tions using human modeling or other similar strategy. However, in
+    system components remains in the body at the end of therapy.                  the event that it is necessary to perform an MRI at 3 Tesla on a
+       Removal of the lead is conducted by pulling on the exposed end,            patient with a lead fragment length that may pose an issue related
+    retracting the lead through the exit site along the same line in which        to excessive MRI-related heating (i.e., a lead fragment length that is
+    it was implanted (1,2,9–20). The lead may fracture during lead                11.2–12.7 cm), the whole body averaged SAR may be reduced by
+6   removal, resulting in a retained metallic fragment. Accordingly, the          adjusting the MRI pulse sequence parameters to achieve a whole
+
+    www.neuromodulationjournal.com                        C
+                                                          V   2017 International Neuromodulation Society                     Neuromodulation 2017; ••: ••–••
+                                                                                                            MRI EVALUATION OF FRAGMENTED LEADS
+
+body averaged SAR value of 1 W/kg, which will result in a 50%                 intellectual content, and ﬁnal approval of the version to be pub-
+decrease in the temperature rise and, thus, reduce the risk of the            lished. John Chae, MD, ME provided substantial contributions to the
+MRI examination.                                                              conception of the study, to drafting and reviewing the manuscript
+                                                                              critically for important intellectual content, and ﬁnal approval of the
+Artifacts                                                                     version to be published. Robert B. Strother provided substantial con-
+   The artifacts that were observed on the 3 Tesla, MR images                 tributions to conception and design, analysis and interpretation of
+related to the largest lead fragment appeared as areas of localized,          data, drafting and reviewing the manuscript for critically for impor-
+signal losses in relation to the size and shape of this object, with the      tant intellectual content, and ﬁnal approval of the version to be
+GRE pulse sequence exhibiting a greater area of signal loss com-              published.
+pared with the T1-weighted, spin echo pulse sequence. Importantly,
+the signal loss extended approximately 7 mm from the lead frag-
+ment on the GRE pulse sequence, indicating that anatomy located                                       How to Cite this Article:
+at positions further than this distance may be easily visualized on                Shellock F.G., Zare A., Ilfeld B.M., Chae J., Strother R.B.
+MRI examinations. The investigators understand that there are a                    2017. In Vitro Magnetic Resonance Imaging Evaluation
+myriad of possible MRI parameters that may be utilized to character-               of Fragmented, Open-Coil, Percutaneous Peripheral
+ize artifacts for metallic implants, however, the methodology used in              Nerve Stimulation Leads.
+the present investigation has been applied in many prior reports,                  Neuromodulation 2017; E-pub ahead of print.
+which permits comparison to other medical devices that have                        DOI:10.1111/ner.12705
+undergone similar artifact assessments (21–24,26–33). It should be
+noted that, when patients have metallic objects present in the area
+of interest, parameters can be optimized to substantially reduce the
+associated signal loss that may impact the diagnostic use of MRI                                              REFERENCES
+(21,22,37). Furthermore, MRI performed at lower ﬁeld strengths (i.e.,
+                                                                               1. Chae J, Yu DT, Walker ME et al. Intramuscular electrical stimulation for hemiplegic
+1.5 Tesla and less) will inherently result in smaller artifacts for the           shoulder pain: a 12-month follow-up of a multiple-center, randomized clinical trial.
+lead fragment (21).                                                               Am J Phys Med Rehabil 2005;84:832–842.
+                                                                               2. Kapural L, Gilmore CA, Chae J et al. Percutaneous peripheral nerve stimulation for
+                                                                                  the treatment of chronic low back pain: two clinical case reports of sustained rain
+                                                                                  relief. Pain Pract 2016;17:753–762.
+CONCLUSIONS                                                                    3. Kumar K, Taylor RS, Jacques L et al. Spinal cord stimulation versus conventional
+                                                                                  medical management for neuropathic pain: a multicentre randomised controlled
+   In consideration of the ﬁndings obtained from tests performed to               trial in patients with failed back surgery syndrome. Pain 2007;132:179–188.
+assess magnetic ﬁeld interactions, MRI-related heating, and artifacts          4. Deer T, Kim C, Bowman R, Ranson M, Douglas CS, Tolentino W. Spinal cord stimula-
+                                                                                  tion as a method of reducing opioids in severe chronic pain: a case report and
+for various lengths of lead fragments for this particular percutaneous            review of the literature. W V Med J 2010;106:56–59.
+PNS product (MicroLead), and taking into consideration conservative            5. North RB, Kidd DH, Farrokhi F, Piantadosi SA. Spinal cord stimulation versus
+                                                                                  repeated lumbosacral spine surgery for chronic pain: a randomized, controlled trial.
+advice to ensure MRI safety for patients, as well as based on the cur-            Neurosurgery 2005;56:98–107.
+rent MRI labeling terminology (21,41), these lead fragments are “MR            6. Cameron T. Safety and efﬁcacy of spinal cord stimulation for the treatment of
+Conditional” at 1.5 Tesla, only, meaning that they have been demon-               chronic pain: a 20-year literature review. J Neurosurg 2004;100:254–267.
+                                                                               7. Taylor RS, Van Buyten J-P, Buchser E. Spinal cord stimulation for chronic back and
+strated to pose no known hazards in a speciﬁed MRI environment                    leg pain and failed back surgery syndrome: a systematic review and analysis of
+with speciﬁed conditions of use indicated. Accordingly, the condi-                prognostic factors. Spine 2005;30:152–160.
+tions of use to ensure patient safety include the following: 1) 1.5            8. Sharan AD, Riley J, Falowski SM et al. Association of opioid usage with spinal cord
+                                                                                  stimulation outcomes. Presented at North American Neuromodulation Society 20th
+Tesla only and 2) whole body averaged SAR of 2 W/kg (i.e., with the               Annual Meeting 2017, Las Vegas, NV.
+MR system operating in the Normal Operating Mode) for 15 min of                9. Rauck RL, Cohen SP, Gilmore CA et al. Treatment of post-amputation pain with
+scanning per pulse sequence. As a result, patients with retained lead             peripheral nerve stimulation. Neuromodulation 2014;17:188–197.
+                                                                              10. Rauck RL, Kapural L, Cohen SP et al. Peripheral nerve stimulation for the treatment
+fragments requiring MRI exams are not expected to be markedly                     of postamputation pain. A case report. Pain Pract 2012;12:649–655.
+affected since the majority of MR systems that exit worldwide oper-           11. Renzenbrink GJ, IJzerman MJ. Percutaneous neuromuscular electrical stimulation (P-
+                                                                                  NMES) for treating shoulder pain in chronic hemiplegia. Effects on shoulder pain
+ate at 1.5 Tesla/64 MHz. Notably, the results demonstrated that,                  and quality of life. Clin Rehabil 2004;18:359–365.
+even if the entire lead fragment (i.e., from the exit site at the skin to     12. Yu DT, Chae J, Walker ME, Hart RL, Petroski GF. Comparing stimulation-induced
+the distal tip) remains in the patient due to a fracture just below the           pain during percutaneous (intramuscular) and transcutaneous neuromuscular elec-
+                                                                                  tric stimulation for treating shoulder subluxation in hemiplegia. Arch Phys Med Reha-
+level of the skin, this metallic object does not require total removal            bil 2001;82:756–760.
+because of the relative lack of risks.                                        13. Chae J, Wilson RD, Bennett ME, Lechman TE, Stager KW. Single-lead percutaneous
+                                                                                  peripheral nerve stimulation for the treatment of hemiplegic shoulder pain: a case
+                                                                                  series. Pain Pract 2013;13:59–67.
+                                                                              14. Wilson RD, Bennett ME, Lechman TE, Stager KW, Chae J. Single-lead percutaneous
+                   Authorship Statements                                          peripheral nerve stimulation for the treatment of hemiplegic shoulder pain: a case
+                                                                                  report. Arch Phys Med Rehabil 2011;92:837–840.
+   Frank G. Shellock, PhD provided substantial contributions to               15. Wilson RD, Harris MA, Bennett ME, Chae J. Single-lead percutaneous peripheral
+                                                                                  nerve stimulation for the treatment of shoulder pain from subacromial impinge-
+acquisition of data, analysis and interpretation of data, drafting and
+                                                                                  ment syndrome. PM R 2012;4:624–628.
+reviewing the manuscript for critically for important intellectual con-       16. Yu DT, Chae J, Walker ME et al. Intramuscular neuromuscular electric stimulation for
+tent, and ﬁnal approval of the version to be published. Armaan Zare               poststroke shoulder pain: a multicenter randomized clinical trial. Arch Phys Med
+                                                                                  Rehabil 2004;85:695–704.
+provided substantial contributions to drafting and reviewing the              17. Wilson RD, Gunzler DD, Bennett ME, Chae J. Peripheral nerve stimulation compared
+manuscript for critically for important intellectual content, and ﬁnal            with usual care for pain relief of hemiplegic shoulder pain: a randomized controlled
+approval of the version to be published. Brian M. Ilfeld, MD, MS pro-             trial. Am J Phys Med Rehabil 2014;93:17–28.
+                                                                              18. Wilson RD, Harris MA, Gunzler DD, Bennett ME, Chae J. Percutaneous peripheral
+vided substantial contributions to the conception of the study, to                nerve stimulation for chronic pain in subacromial impingement syndrome: a case
+drafting and reviewing the manuscript critically for important                    series. Neuromodulation 2014;17:771–776.
+                                                                                                                                                                          7
+
+www.neuromodulationjournal.com                        C
+                                                      V   2017 International Neuromodulation Society                              Neuromodulation 2017; ••: ••–••
+    SHELLOCK ET AL.
+
+    19. Ilfeld BM, Grant SA, Gilmore CA et al. Neurostimulation for post-surgical analgesia: a   31. Titterington B, Puschmann C, Shellock FG. A new vascular coupling device: assess-
+        novel system enabling ultrasound-guided percutaneous peripheral nerve stimula-               ment of MRI issues at 3-Tesla. Magn Reson Imaging 2014;32:585–589.
+        tion. Pain Pract 2017;17:892–901.                                                        32. Shellock FG, Giangarra CJ. In vitro assessment of 3-T MRI issues for a bioabsorb-
+    20. Ilfeld BM, Gilmore CA, Grant SA et al. Ultrasound-guided percutaneous peripheral             able, coronary artery scaffold with metallic markers. Magn Reson Imaging 2014;
+        nerve stimulation for analgesia following total knee arthroplasty: a prospective fea-        32:163–167.
+        sibility study. J Orthop Surg Res 2017;12:4.                                             33. Titterington B, Shellock FG. Evaluation of MRI issues for an access port with a
+    21. Shellock FG. Reference manual for magnetic resonance safety, implants, and devices,          radiofrequency identiﬁcation (RFID) tag. Magn Reson Imaging 2013;31:
+        2017 ed. Los Angeles, CA: Biomedical Research Publishing Group, 2017.                        1439–1444.
+    22. Shellock FG, Audet-Grifﬁn A. Evaluation of magnetic resonance imaging issues for a       34. American Society for Testing and Materials International, Designation F 2182-011a.
+        wirelessly-powered lead used for epidural, spinal cord stimulation. Neuromodulation          Standard test method for measurement of radio frequency induced heating near pas-
+        2014;17:334–339.                                                                             sive implants during magnetic resonance imaging. West Conshohocken, PA: ASTM
+    23. Shellock FG, Knebel J, Prat A. Evaluation of MRI issues for a new neurological               International, 2011.
+        implant, the Sensor Reservoir. Magn Reson Imaging 2013;31:1245–1250.                     35. Knutson JS, Naples GG, Peckham PH, Keith MW. Electrode fracture rates and occur-
+    24. Weiland JD, Faraji B, Greenberg RJ, Humayun MS, Shellock FG. Assessment of MRI               rences of infection and granuloma associated with percutaneous intramuscular
+        issues for the Argus II retinal prosthesis. Magn Reson Imaging 2012;30:382–389.              electrodes in upper-limb functional electrical stimulation applications. J Rehabil Res
+    25. ASTM International: F2052. Standard test method for measurement of magnetically              Dev 2002;39:671–683.
+        induced displacement force on passive implants in the magnetic resonance envi-           36. Ilfeld BM, Gabriel RA, Saulino MF et al. Infection rates of electrical leads used for per-
+        ronment. In: Annual book of ASTM standards: medical devices, Vol. 13.01. West Con-           cutaneous neurostimulation of the peripheral nervous system. Pain Pract 2016;6:
+        shohocken, PA: American Society for Testing and Materials, 2002:1576–1580.                   753–762.
+    26. Shellock FG, Valencerina S. In vitro evaluation of MR imaging issues at 3-T for aneu-    37. Shellock FG. MRI safety and neuromodulation systems. In: Krames ES, Peck-
+        rysm clips made from MP35N: ﬁndings and information applied to 155 additional                ham PH, Rezai AR, eds. Neuromodulation. New York: Academic Press, 2009:
+        aneurysm clips. AJNR Am J Neuroradiol 2010;31:615–619.                                       243–281.
+    27. Shellock FG, Kanal E, Gilk T. Confusion regarding the value reported for the term        38. van Rhoon GC, Samaras T, Yarmolenko PS, Dewhirst MW, Neufeld E, Kuster N.
+        “spatial gradient magnetic ﬁeld” and how this information is applied to labeling of          CEM438C thermal dose thresholds: a potential guide for magnetic resonance radio-
+        medical implants and devices. AJR Am J Roentgenol 2011;196:142–145.                          frequency exposure levels?. Eur Radiol 2013;23:2215–2227.
+    28. Karacozoff AM, Shellock FG. Fiducial marker for lung lesion: in vitro assessment of      39. Dewhirst MW, Viglianti BL, Lora-Michiels M, Hoopes PJ, Hanson M. Thermal dose
+        MRI issues at 3-Tesla. AJR Am J Roentgenol 2013;200:1234–1237.                               requirement for tissue effect: experimental and clinical ﬁndings. Proc SPIE Int Soc
+    29. Gill A, Shellock FG. Assessment of MRI issues at 3-Tesla for metallic surgical               Opt Eng 2003;2:37.
+        Implants: ﬁndings applied to 61 additional skin closure staples and vessel Ligation      40. Webb P. Temperatures of skin, subcutaneous tissue, muscle and core in resting
+        clips. J Cardiovasc Magn Reson 2012;14:3.                                                    men in cold, comfortable and hot conditions. Eur J Appl Physiol Occup Physiol 1992;
+    30. Karacozoff AM, Shellock FG, Wakhloo AK. A next-generation, ﬂow-diverting implant             64:471–476.
+        used to treat brain aneurysms: in vitro evaluation of magnetic ﬁeld interactions,        41. Shellock FG, Woods TO, Crues JV. MR labeling information for implants and devices:
+        heating and artifacts at 3-T. Magn Reson Imaging 2013;31:145–149.                            explanation of terminology. Radiology 2009;253:26–30.
+
+
+
+
+8
+
+    www.neuromodulationjournal.com                                     C
+                                                                       V   2017 International Neuromodulation Society                                   Neuromodulation 2017; ••: ••–••
+

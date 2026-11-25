@@ -1,0 +1,256 @@
+# Ultrasound‐Guided Percutaneous Peripheral Nerve Stimulation: Neuromodulation of the Femoral Nerve for Postoperative Analgesia Following Ambulatory Anterior Cruciate Ligament Reconstruction: A Proof of Concept Study
+
+Authors: Brian M. Ilfeld, Engy T. Said, John J. Finneran, Jacklynn F. Sztain, Wendy B. Abramson, Rodney A. Gabriel, Bahareh Khatibi, Matthew W. Swisher, Pia Jaeger, Dana C. Covey, Catherine M. Robertson
+Journal: Neuromodulation. 2018;22(5):621
+DOI: 10.1111/ner.12851
+PMID: 30160335
+PMCID: PMC6767389
+License: https://creativecommons.org/licenses/by-nc/4.0/This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial pur
+Source: PubMed Central (NCBI E-utilities efetch XML)
+
+## Abstract
+
+**Objectives** The purpose of this prospective proof of concept study was to investigate the feasibility of using percutaneous peripheral nerve stimulation of the femoral nerve to treat pain in the immediate postoperative period following ambulatory anterior cruciate ligament reconstruction with a patellar autograft.
+
+**Materials and Methods** Preoperatively, an electrical lead (SPRINT, SPR Therapeutics, Inc., Cleveland, OH, USA) was percutaneously implanted with ultrasound guidance anterior to the femoral nerve caudad to the inguinal crease. Within the recovery room, subjects received 5 min of either stimulation or sham in a randomized, double‐masked fashion followed by a 5‐min crossover period, and then continuous active stimulation until lead removal postoperative Day 14–28. Statistics were not applied to the data due to the small sample size of this feasibility study.
+
+**Results** During the initial 5‐min treatment period, subjects randomized to stimulation (n = 5) experienced a slight downward trajectory (decrease of 7%) in their pain over the 5 min of treatment, while those receiving sham (n = 5) reported a slight upward trajectory (increase of 4%) until their subsequent 5‐min stimulation crossover, during which time they also experienced a slight downward trajectory (decrease of 11% from baseline). A majority of subjects (80%) used a continuous adductor canal nerve block for rescue analgesia (in addition to stimulation) during postoperative Days 1–3, after which the median resting and dynamic pain scores remained equal or less than 1.5 on the numeric rating scale, respectively, and the median daily opioid consumption was less than 1.0 tablet.
+
+**Conclusions** This proof of concept study demonstrates that percutaneous femoral nerve stimulation is feasible for ambulatory knee surgery; and suggests that this modality may be effective in providing analgesia and decreasing opioid requirements following anterior cruciate ligament reconstruction. clinicaltrials.gov: NCT02898103.
+
+## Introduction
+
+Anterior cruciate ligament reconstruction is usually performed on an outpatient basis, and often results in a level of pain difficult to control solely with oral analgesics. One nonopioid option is neuromodulation—a technique that uses electric current to provide analgesia. Although the exact mechanism remains undetermined, the most‐commonly cited model involves “gate control” theory in which large‐diameter afferent nerve fibers are stimulated, inhibiting the transfer of pain signals from small‐diameter afferent fibers to the central nervous system at the level of the spinal cord 1. Although used widely to relieve chronic pain 2, the application of neuromodulation to acute pain has been essentially nonexistent due to the invasive nature of implanted systems: conventional units typically require invasive and time consuming surgery to both place and remove an implantable pulse generator and multiple electrodes in close proximity to the target nerve 3, 4.
+
+In contrast, percutaneous peripheral nerve stimulation (PNS) involves the insertion of a lead through an ultrasound‐guided needle, avoiding the necessity of a surgical incision and circumventing overstimulation of cutaneous sensory nerves 5, 6. Extraction is achieved with simple traction. Theoretical benefits over opioids include a lack of systemic side‐effects such as cognitive dysfunction, respiratory depression, and nausea as well as the potential for diversion, abuse, and addiction 7. Compared to local anesthetic‐based peripheral nerve blocks, possible benefits include a lack of induced sensory, motor and proprioception deficits that diminish the ability to participate in physical therapy and possibly increase the risk of falling 8. Moreover, leads are optimally implanted 1–3 cm away from a target nerve in contrast to perineural catheters that are frequently implanted immediately adjacent to and within the same fascial plane as the target nerve. Theoretically, the longer distance from the target nerve when using a lead decreases the possibility of neurologic injury due to needle‐nerve contact 9.
+
+Additionally, helically coiled leads have a considerably lower infection risk compared to perineural catheters (less than one per 32,000 indwelling days) 10, 11 and stimulators (“pulse generators”) are now produced which are so small that they may be adhered directly to the skin with no large local anesthetic reservoir or infusion pump to carry. Helically coiled leads have been used to deliver PNS in other applications for multiple months—even years—compared with the far more‐limited duration of continuous peripheral nerve blocks, which are typically utilized for only a few days 12.
+
+Providing a nonopioid analgesic that outlasts surgical pain is now a possibility with the recent United States Food and Drug Administration clearance of a percutaneous lead (Fig. 1a) and wearable stimulator (Fig. 1b) to treat acute postoperative pain 13, 14. A short series of patients using this system adjacent to the femoral and sciatic nerves beginning the day following inpatient knee arthroplasty was recently reported 15. However, subjects initiated stimulation following recover room discharge so that little efficacy data is available for the day of surgery; all subjects remained hospitalized for multiple days; and, no control group was included.
+
+[Figure] Figure 1 The percutaneous peripheral nerve stimulation equipment used for this study: A 12.5 cm, 20 g needle with a preloaded helically coiled monopolar insulated electrical lead (Panel a; MicroLead, SPR Therapeutics, Inc., Cleveland, OH, USA; illustration used with permission from Brian M. Ilfeld, MD, MS); and, a stimulator attached to the surface return electrode (Panel b; SPR Therapeutics, Inc., Cleveland, OH, USA; illustration used with permission from Brian M. Ilfeld, MD, MS). The power source (battery) for the pulse generator is integrated into the white surface return electrode pad.
+
+We therefore conducted a registered, prospective proof of concept study to evaluate the feasibility of providing percutaneous femoral PNS following ambulatory anterior cruciate ligament reconstruction. A brief randomized, double‐masked, sham‐controlled, partial‐crossover study was performed within the recovery room, providing the first available efficacy data for femoral neuromodulation with a control group in the immediate postoperative period. Stimulation was subsequently provided to all subjects for 14–28 days on an outpatient basis.
+
+## Methods
+
+This study adhered to Good Clinical Practice quality standards and ethical guidelines defined by the Declaration of Helsinki. Study protocol approval as well as data and safety oversight was conducted by the University of California, San Diego Institutional Review Board (IRB #151094; San Diego, CA, USA). Written, informed consent was obtained from all subjects participating in the trial. The trial was prospectively registered at clinicaltrials.gov (NCT02898103, Principal Investigator: Brian Ilfeld, MD, MS, Date of registration: September 13, 2016) prior to initiation of enrollment.
+
+Enrollment was offered to adults at least 18 years old scheduled for ambulatory, primary, unilateral, anterior cruciate ligament reconstruction with a patellar autograft. Exclusion criteria were a postoperative analgesic plan that included a single‐injection peripheral nerve block in the surgical extremity; chronic opioid use (daily use within the two weeks prior to surgery and duration of use greater than four weeks); neuromuscular deficit within the femoral nerve distribution; anticipated magnetic resonance imaging within the following two weeks; compromised immune system based on medical history or other conditions that increase the risk of infection; implanted spinal cord stimulator, cardiac pacemaker/defibrillator, deep brain stimulator, or other implantable neurostimulator; history of bleeding disorder; antiplatelet or anticoagulation therapies other than aspirin; allergy to local anesthetics, occlusive dressings, tape, or bandages; incarceration; or pregnancy.
+
+Leads were implanted within two days prior to surgery. Subjects were positioned supine and had their ipsilateral limb prepared with chlorhexidine gluconate/isopropyl alcohol solution and sterile drapes. The insertion point was immediately caudad to the inguinal crease.
+
+### Lead Placement Technique
+
+A portable ultrasound (M‐Turbo, SonoSite, Bothell, WA, USA) and linear array transducer (HFL38x, SonoSite, Bothell, WA, USA) within a sterile sleeve were utilized for lead implantation. The femoral nerve was imaged in a transverse cross‐sectional (short axis) view. A local anesthetic skin wheal was raised lateral to the ultrasound transducer. A 12.5 cm, 20 g needle (Fig. 1a) with a preloaded, helically coiled, insulated lead (MicroLead, SPR Therapeutics, Inc., Cleveland, OH, USA) was implanted through the skin wheal and advanced toward a point immediately anterior to the fascia iliaca on the medial side of the femoral nerve. When the needle tip was immediately anterior to the lateral border of the femoral nerve, the lead was subsequently attached to an external pulse generator or “stimulator” (SPRINT, SPR Therapeutics, Inc., Cleveland, OH, USA), and a surface return electrode was placed on the ipsilateral limb (Fig. 1b).
+
+Stimulation was delivered at 100 Hz, and amplitude (range: 0.2–20 mA) and pulse duration (range: 15–200 μsec) were adjusted until the subject reported sensory changes in the ipsilateral leg or until muscle contractions occurred 16. The optimal sensory changes targeted the lower thigh and knee; and, if changes occurred at or cephalad to the mid‐thigh or muscle contractions occurred, the current was decreased to the minimum settings, stimulator was switched off, and needle further advanced.
+
+This process was repeated until sensory changes (often described as a “pleasant massage”) were reported in the knee or lower thigh, or the needle tip had reached the medial border of the femoral nerve (whichever came first). If the latter, an additional pass with a new lead at a different level or slightly different trajectory were attempted until the optimal sensory changes with stimulation was achieved. The preloaded lead has a 1.5 cm electrode at its tip which is deployed by withdrawing the needle over the lead. After needle removal, the lead was again connected to the stimulator to confirm lead dislodgement did not occur during needle withdrawal (if so, a new lead was implanted). Wound closure adhesive (2‐octyl 2‐cyanoacrylate) was applied to the exit point, a connector block attached to the lead approximately 2 cm from the skin entry point, the excess lead removed, and the lead entry site covered with a sterile dressing.
+
+The lead was again connected to the stimulator and settings recorded. The stimulator was removed and the subject returned home with the only limitation being a prohibition on submerging the lead entry site in water (until postoperative lead removal). Throughout the study, subjects were asked to rate both the worst and “average” pain they experienced within the specified time period using the Numeric Rating Scale (NRS, 0–10).
+
+### Day of Surgery
+
+On postoperative day (POD) 0 prior to surgery, the lead was again attached to a stimulator and the current increased with the revised settings recorded. The stimulator allowed a minimum, intermediate, and maximum pulse duration to be set by the healthcare provider that was subsequently controlled by subjects. The stimulator was removed and the lead connecting wire covered with gauze and an occlusive dressing for the surgery. Preoperatively, an ultrasound‐guided perineural catheter was inserted into the adductor canal to be used as a rescue analgesic. The catheter was inserted within the mid‐third of the thigh using exclusively normal saline via the needle, as described previously 17. For surgical anesthesia, subjects received a general anesthetic with inhaled volatile anesthetic in nitrous oxide and oxygen. Intravenous fentanyl, hydromorphone, and/or morphine were administered intraoperatively, as needed. At the end of the procedure, bupivacaine 0.25% was infiltrated into the surgical site.
+
+### Randomization
+
+Within the recovery room baseline measurements were recorded, including a pain score at the surgical site using the NRS and sensory deficits on the lowest point on the thigh remaining unbandaged (binary end point measured with an alcohol pad and von Frey filament, compared to the contralateral limb, with any decrease considered a positive finding). Subjects were randomized to one of two groups using computer generated lists and opaque, sealed envelopes: an initial 5 min of either electrical stimulation or sham, followed by five additional minutes of the opposite treatment. Two separate stimulators were programmed with the intermediate preoperative settings, one set to deliver active stimulation and the other set to sham (the sham mode is identical in appearance to the active mode which delivers current). The investigator recording outcome measures and remaining masked to treatment group was provided the initial “Stimulator A” by an assistant, attached it to the lead, and initiated the stimulator. All investigators, clinical healthcare providers, and the subjects were masked to treatment group with the exception of the assistants who opened the sealed envelopes. Outcome measures were recorded every minute for 5 min, at which time the alternative “Stimulator B” was attached to the lead and initiated. Outcome measures were again recorded every minute for 5 min after which a “Stimulator C” programmed to deliver actual current for all subjects was initiated and end points measured after 5 and 30 min of this third stimulator.
+
+Five minutes following Stimulator C initiation, a portable infusion pump (ambIT Preset, Summit Medical, Salt Lake City, UT, USA) and 500 mL reservoir of ropivacaine 0.2% was attached to the perineural catheter (basal 8 mL/hour, bolus 4 mL, 30 min lockout) in the off setting. From this point forward, subjects could receive intravenous fentanyl or hydromorphone prior to discharge; and could initiate their perineural local anesthetic infusion at any time until the catheters were removed on POD 3. Subjects and their caretakers were provided verbal and written instructions on stimulator/pump and lead/catheter care and management. The contact information for an investigator was provided (available at all times during the treatment period). Subjects were discharged home with a prescription for oxycodone 5 mg tablets (5–10 mg every 4–6 to be taken if necessary), replacement lead dressings, enough stimulator batteries for the duration of treatment, and their lead/catheter in situ. To increase analgesia, subjects were instructed to first increase the stimulation level on their pulse generators, then take oral opioids, and use their perineural infusion as a last‐resort. They were free to leave the infusion running continuously or trigger the infusion pump for any duration of their choosing.
+
+Subjects were contacted by telephone daily for data collection POD 1–14, 30, and 90. Information included pain level at the surgical site, opioid consumption, perceived sensory deficits (cold and light touch) in the ipsilateral thigh, and whether or not the perineural infusion had been triggered in the previous 24 hours. Perineural catheters were removed at home by the subjects or their caretakers. Subjects returned to the orthopedic clinic for lead withdrawal which entailed an investigator removing the occlusive dressing and continuous, gentle traction on the lead.
+
+### Statistical Analysis
+
+This was a proof of concept study to demonstrate feasibility and generate data to help design and power a subsequent definitive clinical trial. Therefore, a convenience sample of ten subjects was enrolled and statistics were not applied to the data due to the small sample size.
+
+## Results
+
+Ten subjects enrolled, and all had a lead implanted successfully reporting minimal pain without requiring sedation (Tables 1 and 2). Within the recovery room, subjects who were randomized initially to stimulation (n = 5) experienced a slight downward trend in their surgical pain over the 5 min of treatment, while those randomized to sham (n = 5) reported a slight upward trend in their surgical pain over the period (Fig. 2). The subjects initially receiving sham treatment experienced a similar downward trend in their surgical pain over the second 5‐min crossover period of stimulation (Fig. 2). Pain levels for both groups continued to decrease to a mean of 84% of baseline (n = 10) during the subsequent 5 min with stimulation. Following this time point, five subjects (50%) requested supplemental opioids and seven subjects (70%) subsequently initiated the continuous adductor canal nerve block prior to discharge (a mean of 33 min following baseline).
+
+[Figure] Figure 2 Effects of percutaneous peripheral nerve stimulation of the femoral nerve on surgical pain within the recovery room immediately following anterior cruciate ligament reconstruction with a patellar autograft. Subjects were randomized to receive 5 min of either electric current (“stimulation”; n = 5) or sham (n = 5) in a double‐masked fashion (Treatment Period A) followed by a 5‐min crossover period (Treatment Period B). Stimulation was subsequently delivered to all subjects (n = 10) for 30 additional minutes. Data presented as means at each time point with the original pain scores measured using the numeric rating scale. Given the relatively small sample size, statistics were not applied to the data. The group that received stimulation during the initial treatment has data shown in ghost during the subsequent period because peripheral nerve stimulation has a “carryover” effect and these data points are therefore difficult to interpret. The yellow star indicates that five subjects initiated their local anesthetic perineural infusion during this period of time.
+
+[Table] Table 1 Anthropomorphic and Preoperative Lead/Stimulator Characteristics (n = 10).
+| Demographics and lead implantation | Mean | SD | Percentile of 7 Subjects |
+| (or #) | (or %) | 10th | 25th | 50th | 75th | 90th |
+| Age (years) | 25 | 6 | 20 | 20 | 23 | 27 | 32 |
+| Female sex (#) | 5 | 50% |  |  |  |  |  |
+| Height (cm) | 178 | 8 | 171 | 172 | 177 | 182 | 186 |
+| Weight (kg) | 82 | 14 | 68 | 74 | 84 | 92 | 94 |
+| Body mass index (kg/m2) | 26 | 4 | 23 | 23 | 25 | 27 | 30 |
+| Right sided surgery (#) | 8 | 80% |  |  |  |  |  |
+| Average NRS of lead implantation | 0.1 | 0.3 | 0.0 | 0.0 | 0.0 | 0.0 | 0.1 |
+| Worst NRS of lead implantation | 3.1 | 1.6 | 1.9 | 2.3 | 3.0 | 3.0 | 4.3 |
+| Leads used during initial implantation (#) | 1.6 | 0.7 | 1.0 | 1.0 | 1.5 | 2.0 | 2.1 |
+| Average lead implantation time (min) | 20 | 14 | 10 | 11 | 15 | 24 | 32 |
+| Distance of lead tip to (cm): |  |  |  |  |  |  |  |
+| Femoral nerve midpoint | 0.4 | 0.4 | 0.0 | 0.0 | 0.4 | 0.9 | 1.0 |
+| Femoral nerve epineurium | 1.0 | 0.3 | 0.5 | 0.8 | 1.0 | 1.0 | 1.5 |
+| Skin | 1.5 | 0.6 | 1.0 | 1.0 | 1.3 | 1.9 | 2.1 |
+| Inguinal crease | 0.9 | 0.9 | 0.0 | 0.0 | 0.8 | 1.8 | 2.0 |
+NRS, numeric rating scale (0–10, 0 = no pain, 10 = worst imaginable pain).
+
+[Table] Table 2 Stimulation Parameters.
+| Subject | Time point: | Lead implantation | Preoperative |
+| μsec | mA | μsec | mA |
+| A | Minimum detected | 15 | 15 | 22 | 20 |
+| Optimal | 18 | 20 | 35 | 20 |
+| Maximum tolerated | 20 | 20 | 45 | 20 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 24 | 45 | 60 |
+|  |
+| B | Minimum detected | 15 | 5 | 15 | 20 |
+| Optimal | 18 | 20 | 22 | 20 |
+| Maximum tolerated | 20 | 20 | 24 | 20 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 15 | 30 | 40 |
+|  |
+| C | Minimum detected | 15 | 18 | 15 | 13 |
+| Optimal | 17 | 18 | 16 | 13 |
+| Maximum tolerated | 19 | 18 | 17 | 13 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 12 | 15 | 19 | 22 |
+|  |
+| D | Minimum detected | 15 | 5 | 15 | 10 |
+| Optimal | 15 | 12 | 22 | 20 |
+| Maximum tolerated | 15 | 15 | 35 | 20 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 18 | 22 | 35 |
+|  |
+| E | Minimum detected | 15 | 11 | * | * |
+| Optimal | 22 | 20 | * | * |
+| Maximum tolerated | 26 | 20 | * | * |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 15 | 20 | 26 |
+|  |
+| F | Minimum detected | 15 | 4 | 15 | 4 |
+| Optimal | 15 | 10 | 15 | 10 |
+| Maximum tolerated | 15 | 14 | 15 | 14 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 15 | 40 | 50 |
+|  |
+| G | Minimum detected | 15 | 5 | 15 | 10 |
+| Optimal | 15 | 8 | 15 | 15 |
+| Maximum tolerated | 15 | 9 | 15 | 19 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 15 | 15 | 17 | 20 |
+|  |
+| H | Minimum detected | 15 | 2 | 20 | 10 |
+| Optimal | 15 | 2 | 20 | 30 |
+| Maximum tolerated | 15 | 3 | 20 | 42 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 10 | 20 | 30 |
+|  |
+| I | Minimum detected | 15 | 11 | 60 | 20 |
+| Optimal | 20 | 20 | 100 | 20 |
+| Maximum tolerated | 30 | 20 | 120 | 20 |
+| Contractions | – | – | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 20 | 100 | 100 | 120 |
+|  |
+| J | Minimum detected | 15 | 11 | 15 | 10 |
+| Optimal | 15 | 11 | 18 | 12 |
+| Maximum tolerated | 15 | 12 | 20 | 12 |
+| Contractions | 15 | 12 | – | – |
+| Final current (mA) and pulse duration (μsec) settings | 11 | 15 | 18 | 20 |
+Final pulse duration settings are presented as minimum, intermediate, and maximum.–: No muscle contractions elicited at maximum tolerated sensory current.* Data not collected.
+
+No motor or sensory deficits (light touch or cold) were detected by any subject at any time point during the follow‐up period with the exception of during continuous adductor canal nerve block use. During the first two postoperative days, eight subjects (80%) triggered their perineural infusions for at least 10 min each day, falling to three subjects (40%) on POD 3 when the catheters were discontinued. Overall, resting and dynamic pain scores as well as opioid requirements were relatively low (Figs. 3, 4, 5). Leads were removed on POD 14–22 with three exceptions described below.
+
+[Figure] Figure 3 Pain at rest during percutaneous peripheral nerve stimulation of the femoral nerve following anterior cruciate ligament reconstruction with a patellar autograft. Each circle represents one subject, and the median for each time point is denoted with a horizontal line.
+
+[Figure] Figure 4 Pain with movement during percutaneous peripheral nerve stimulation of the femoral nerve following anterior cruciate ligament reconstruction with a patellar autograft. Each circle represents one subject, and the median for each time point is denoted with a horizontal line.
+
+[Figure] Figure 5 Opioid requirements during percutaneous peripheral nerve stimulation of the femoral nerve following anterior cruciate ligament reconstruction with a patellar autograft. Each circle represents one subject, and the median for each time point is denoted with a horizontal line.
+
+### Adverse Events and Protocol Deviations
+
+Subjects B and J reported what they both described as “poking” in the area of the lead tip beginning on POD 3 and 0, respectively, exclusively when lying supine or standing, respectively. This temporarily resolved with current discontinuation or flexion of the ipsilateral hip for Subject B, and a lack of movement for Subject J. Due to a low level of pain at the end of the first postoperative week, both subjects elected to have their lead removed (POD 7 and 6, respectively). Subject C had to travel out of the state unexpectedly, and we therefore elected to remove his lead early on POD 6. Lastly, Subject G reported a broken lead outside of the body on POD 9 at the point where the thin lead connects with a larger cable that is attached to the stimulator. A new connecting cable was attached to the remaining externalized portion of the lead without any loss of PNS functioning.
+
+No lead infections or nerve injuries were identified during the final two data‐collection phone calls on POD 30 or 90 for any subject.
+
+## Discussion
+
+This proof of concept study demonstrates that percutaneous PNS is feasible for ambulatory knee surgery; and suggests that this modality provides analgesia and decreases opioid requirements following anterior cruciate ligament reconstruction with a patellar autograft. To our knowledge, it is the first report of using percutaneous PNS to treat postoperative pain following an ambulatory surgical procedure of the knee, and the first including a control group involving percutaneous femoral neuromodulation, albeit only for a brief period.
+
+### Time to Peak Analgesia
+
+Prior experience with percutaneous PNS in postoperative subjects 6–97 days following knee arthroplasty suggested that analgesia onset and peak were nearly instantaneous following the introduction of electrical current 13, 14. We therefore designed the randomized, sham‐controlled, crossover portion of this study with only 5‐min treatment periods so that subjects randomized to sham initially would have a minimal duration without supplemental analgesia. However, our results suggest that for acute pain in the immediate postoperative period, maximum PNS‐induced analgesia requires far longer than 5 min: pain scores continued to decrease even as subjects emerged from general anesthesia through the 15‐min time point (Fig. 2). A number of subjects received intravenous opioids and perineural local anesthetic prior to the 40‐min time point, so it remains unknown how much of the additional decrease in pain can be attributed to the PNS treatment following the 15‐min time point. Therefore, the duration for maximum analgesic effect remains to be determined.
+
+Regardless, while the randomized portion of this feasibility study suggests that percutaneous PNS provides limited analgesia in the immediate postoperative period, the relatively small decrease in pain scores and prevalent reliance on rescue analgesics suggest that supplemental analgesics will be required within the recovery room. Revealingly, pain scores and opioids—while low relative to previously published values—had a clear drop‐off following POD 2 18. Considering eight of ten of subjects used their continuous adductor canal local anesthetic infusion—itself an analgesic potent enough to produce complete anesthesia in the distribution of the terminal femoral nerve—for the first two postoperative days, yet pain scores still fell the day the catheters were removed suggests that a significant amount of the experienced pain originated from the obturator and/or sciatic nerves. These two nerves help to innervate the knee but were not targeted by either the femoral PNS or perineural local anesthetic infusion. Evidence for this relationship may be found following total knee arthroplasty, in which pain scores and opioid requirements are significantly decreased when a continuous sciatic nerve block is added to a continuous femoral nerve block 19. Therefore, we suspect that regardless of the potency of femoral neuromodulation ultimately revealed with a future randomized, controlled study, systemic analgesics or a sciatic nerve stimulation/block will remain highly beneficial for the first two postoperative days following anterior cruciate ligament reconstruction.
+
+This proof of concept study lacked a control group following the initial 10‐min treatment period within the recovery room; and, therefore documentation and quantification of analgesia delivery and opioid sparing require additional investigation. However, the reported pain scores and oral opioid requirements of the current feasibility study are dramatically lower than published controls; and, the specific type of reconstruction included in our study—utilizing a patellar autograft—frequently produces more pain than alternative techniques 20, 21. The significant potential opioid sparing is particularly noteworthy given the current opioid epidemic and desire to replace opioids as the main postoperative analgesic modality 22. In addition, since persistent postsurgical pain has an incidence of 10–70% and is associated with poorly controlled pain in the immediate postoperative period 23, percutaneous PNS may significantly reduce chronic pain following surgical procedures of the knee.
+
+### Lead Design
+
+The mean (range) implantation time for individual leads was 11 (7–25) min, which included equipment setup for any second lead attempt. However, because five subjects had multiple lead insertions, the mean (range) overall treatment time for each subject was 15 (10–32) min. Because percutaneous lead implantation to treat postoperative pain is a relatively recent development with little prior experience to guide current practice, we often attempted additional implantations in an effort to improve the location of induced sensory changes to/toward the knee; and, some repeated insertions ultimately proved unnecessary. One of the limitations of the current lead design is that the needle cannot be withdrawn without deploying the lead. Therefore, instead of withdrawing and repositioning the needle/lead combination if a first attempt passed the femoral nerve without the desired response, an entirely new lead had to be implanted at a different trajectory. This obviously added greatly to both the required attempts and overall procedure duration since multiple implantation kits and leads had to be prepared.
+
+### Lead Fracture
+
+One lead of the current investigation broke exterior to the subject where the lead met the connection block, which has not yet been reported 12, 13, 14, 15, 16, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34. Previous investigations involving the same helically coiled lead used in the current study have reported a 7.5% average incidence of fracture deep to the skin during removal (none occurred in the subjects of the current study) 12, 13, 14, 15, 16, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34. All previous lead remnants have been left in situ with no negative sequelae reported in up to a one year period of assessment 12, 13, 14, 15, 16, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34. Importantly, magnetic resonance imaging may be performed safely in patients with retained lead fragments at 1.5 Tesla 35. Finally, most previously reported fractures occurred at or near the tip of the lead, leaving a relatively short remnant of less than 1.6 cm 35.
+
+### Limitations
+
+In addition to the limitations discussed above, we were aware of a “carryover” effect following PNS so that subjects continue to receive a variable duration and degree of analgesia following electrical current discontinuation, possibly due to sustained modification of supraspinal pain processing 36. We knew that this carryover effect would make the data of the 5‐min sham period for the group which initially received active current difficult or impossible to interpret. However, to keep the double‐masked study design, we had no choice but to collect the measurements from this 5‐min period. We therefore included the collected data but present it in ghost to indicate the uncertainty of its interpretation (Fig. 2).
+
+### Conclusions
+
+This prospective proof of concept study demonstrates that percutaneous femoral PNS is feasible for ambulatory knee surgery beginning within the recovery room; and suggests that this modality may be effective in providing analgesia and decreasing opioid requirements following anterior cruciate ligament reconstruction with a patellar autograft. The results of this pilot study indicate that a subsequent clinical trial is warranted.
+
+## Authorship Statements
+
+Brian M. Ilfeld substantially contributed to the study conception, design, funding, acquisition of data, analysis, and interpretation of data, drafting and critically reviewing the manuscript for intellectual content, and final approval of the version to be submitted. Drs. Engy T. Said, John J. Finneran IV, Jacklynn F. Sztain, Wendy B. Abramson, Rodney A. Gabriel, Bahareh Khatibi, and Matthew W. Swisher substantially contributed to the acquisition of data, analysis, and interpretation of data, critically reviewing the manuscript for intellectual content, and final approval of the version to be submitted. Drs. Dana C. Covey, Catherine M. Robertson, and Pia Jaeger substantially contributed to study design, data analysis, and interpretation, critically reviewing the manuscript for intellectual content, and final approval of the version to be submitted.
+
+## COMMENT
+
+This proof of concept, pilot study demonstrates the feasibility of using peripheral nerve stimulation for acute postoperative pain following knee surgery. The magnitude of the therapeutic effect seen in this study was not clinically significant, but perhaps the findings from this study will inform both study design and changes to the technique or device.
+
+Christopher Gilligan, MD
+
+Boston, MA, USA
+
+Comments not included in the Early View version of this paper.
+
+## Acknowledgements
+
+The authors appreciate the invaluable assistance of Madelyn Bernard, RN (Hillcrest Hospital, San Diego, CA, USA); and Baharin Abdullah (Clinical Translational Research Center, University California, San Diego, La Jolla, CA, USA).
+
+## References
+
+1. Melzack R, Wall PD. Pain mechanisms: a new theory. Science 1965; 150: 971 – 979. 5320816 10.1126/science.150.3699.971
+2. Deer TR, Mekhail N, Provenzano D et al. The appropriate use of neurostimulation of the spinal cord and peripheral nervous system for the treatment of chronic pain and ischemic diseases: the Neuromodulation Appropriateness Consensus Committee. Neuromodulation 2014; 17: 515 – 550. 25112889 10.1111/ner.12208
+3. Nashold BS Jr, Goldner JL, Mullen JB, Bright DS. Long‐term pain control by direct peripheral‐nerve stimulation. J Bone Joint Surg Am 1982; 64: 1 – 10. 6976348
+4. Picaza JA, Hunter SE, Cannon BW. Pain suppression by peripheral nerve stimulation. Chronic effects of implanted devices. Appl Neurophysiol 1977; 40: 223 – 234. 309314 10.1159/000102446
+5. Huntoon MA, Burgher AH. Ultrasound‐guided permanent implantation of peripheral nerve stimulation (PNS) system for neuropathic pain of the extremities: original cases and outcomes. Pain Med 2009; 10: 1369 – 1377. 20021597 10.1111/j.1526-4637.2009.00745.x
+6. Narouze SN, Zakari A, Vydyanathan A. Ultrasound‐guided placement of a permanent percutaneous femoral nerve stimulator leads for the treatment of intractable femoral neuropathy. Pain Physician 2009; 12: E305 – E308. 19668289
+7. Kharasch ED, Brunt LM. Perioperative opioids and public health. Anesthesiology 2016; 124: 960 – 965. 26808634 10.1097/ALN.0000000000001012
+8. Ilfeld BM, Duke KB, Donohue MC. The association between lower extremity continuous peripheral nerve blocks and patient falls after knee and hip arthroplasty. Anesth Analg 2010; 111: 1552 – 1554. 20889937 10.1213/ANE.0b013e3181fb9507 PMC3271722
+9. Ilfeld BM, Grant SA. Ultrasound‐guided percutaneous peripheral nerve stimulation for postoperative analgesia: could neurostimulation replace continuous peripheral nerve blocks? Reg Anesth Pain Med 2016; 41: 720 – 722. 27685345 10.1097/AAP.0000000000000481 PMC5084632
+10. Ilfeld BM, Gabriel RA, Saulino MF et al. Infection rates of electrical leads used for percutaneous neurostimulation of the peripheral nervous system. Pain Pract 2017; 17: 753 – 762. 27676323 10.1111/papr.12523 PMC5368033
+11. Capdevila X, Bringuier S, Borgeat A. Infectious risk of continuous peripheral nerve blocks. Anesthesiology 2009; 110: 182 – 188. 19104185 10.1097/ALN.0b013e318190bd5b
+12. Shimada Y, Matsunaga T, Misawa A, Ando S, Itoi E, Konishi N. Clinical application of peroneal nerve stimulator system using percutaneous intramuscular electrodes for correction of foot drop in hemiplegic patients. Neuromodulation 2006; 9: 320 – 327. 22151766 10.1111/j.1525-1403.2006.00074.x
+13. Ilfeld BM, Gilmore CA, Grant SA et al. Ultrasound‐guided percutaneous peripheral nerve stimulation for analgesia following total knee arthroplasty: a prospective feasibility study. J Orthop Surg Res 2017; 12: 14. 28086940 10.1186/s13018-016-0506-7 PMC5234248
+14. Ilfeld BM, Grant SA, Gilmore CA et al. Neurostimulation for postsurgical analgesia: a novel system enabling ultrasound‐guided percutaneous peripheral nerve stimulation. Pain Pract 2017; 17: 892 – 901. 27910257 10.1111/papr.12539 PMC5637916
+15. Ilfeld BM, Gilmore CA, Chae J et al. Percutaneous peripheral nerve stimulation for the treatment of postoperative pain following total knee arthroplasty [abstract]. N Am Neuromod Soc Conf 2016; 19: 10562.
+16. Rauck RL, Cohen SP, Gilmore CA et al. Treatment of post‐amputation pain with peripheral nerve stimulation. Neuromodulation 2014; 17: 188 – 197. 23947830 10.1111/ner.12102
+17. Machi AT, Sztain JF, Kormylo NJ et al. Discharge readiness after tricompartment knee arthroplasty: adductor canal versus femoral continuous nerve blocks. A dual‐center, randomized trial. Anesthesiology 2015; 123: 444 – 456. 26079800 10.1097/ALN.0000000000000741
+18. Williams BA, Kentor ML, Vogt MT et al. Reduction of verbal pain scores after anterior cruciate ligament reconstruction with 2‐day continuous femoral nerve block: a randomized clinical trial. Anesthesiology 2006; 104: 315 – 327. 16436852 10.1097/00000542-200602000-00018
+19. Wegener JT, van Ooij B, van Dijk CN, Hollmann MW, Preckel B, Stevens MF. Value of single‐injection or continuous sciatic nerve block in addition to a continuous femoral nerve block in patients undergoing total knee arthroplasty: a prospective, randomized, controlled trial. Reg Anesth Pain Med 2011; 36: 481 – 488. 21857273 10.1097/AAP.0b013e318228c33a
+20. Cupido C, Peterson D, Sutherland MS, Ayeni O, Stratford PW. Tracking patient outcomes after anterior cruciate ligament reconstruction. Physiother Can 2014; 66: 199 – 205. 24799759 10.3138/ptc.2013-19BC PMC4006415
+21. Robbins SM, Rastogi R, Howard J, Rosedale R. Comparison of measurement properties of the P4 pain scale and disease specific pain measures in patients with knee osteoarthritis. Osteoarthr Cartil 2014; 22: 805 – 812. 24721460 10.1016/j.joca.2014.03.018
+22. Scully RE, Schoenfeld AJ, Jiang W et al. Defining optimal length of opioid pain medication prescription after common surgical procedures. JAMA Surg 2018; 153: 37 – 43. 28973092 10.1001/jamasurg.2017.3132 PMC5833616
+23. Zaccagnino MP, Bader AM, Sang CN, Correll DJ. The perioperative surgical home: a new role for the acute pain service. Anesth Analg 2017; 125: 1394 – 1402. 28795967 10.1213/ANE.0000000000002165
+24. Ilfeld BM, Ball ST, Gabriel RA et al. A feasibility study of percutaneous peripheral nerve stimulation for the treatment of postoperative pain following total knee arthroplasty: a case series. Neuromodulation e‐pub ahead of print. 10.1111/ner.12790 PMC6339601 30024078
+25. Chae J, Harley MY, Hisel TZ et al. Intramuscular electrical stimulation for upper limb recovery in chronic hemiparesis: an exploratory randomized clinical trial. Neurorehabil Neural Repair 2009; 23: 569 – 578. 19155351 10.1177/1545968308328729
+26. Chae J, Wilson RD, Bennett ME, Lechman TE, Stager KW. Single‐lead percutaneous peripheral nerve stimulation for the treatment of hemiplegic shoulder pain: a case series. Pain Pract 2013; 13: 59 – 67. 22448759 10.1111/j.1533-2500.2012.00541.x PMC3387352
+27. Chae J, Yu DT, Walker ME et al. Intramuscular electrical stimulation for hemiplegic shoulder pain: a 12‐month follow‐up of a multiple‐center, randomized clinical trial. Am J Phys Med Rehabil 2005; 84: 832 – 842. 16244520 10.1097/01.phm.0000184154.01880.72
+28. Yu DT, Chae J, Walker ME, Fang ZP. Percutaneous intramuscular neuromuscular electric stimulation for the treatment of shoulder subluxation and pain in patients with chronic hemiplegia: a pilot study. Arch Phys Med Rehabil 2001; 82: 20 – 25. 11239281 10.1053/apmr.2001.18666
+29. Yu DT, Chae J, Walker ME, Hart RL, Petroski GF. Comparing stimulation‐induced pain during percutaneous (intramuscular) and transcutaneous neuromuscular electric stimulation for treating shoulder subluxation in hemiplegia. Arch Phys Med Rehabil 2001; 82: 756 – 760. 11387579 10.1053/apmr.2001.23310
+30. Yu DT, Chae J, Walker ME et al. Intramuscular neuromuscular electric stimulation for poststroke shoulder pain: a multicenter randomized clinical trial. Arch Phys Med Rehabil 2004; 85: 695 – 704. 15129391 10.1016/j.apmr.2003.07.015
+31. Renzenbrink GJ, IJzerman MJ. Percutaneous neuromuscular electrical stimulation (P‐NMES) for treating shoulder pain in chronic hemiplegia. Effects on shoulder pain and quality of life. Clin Rehabil 2004; 18: 359 – 365. 15180118 10.1191/0269215504cr759oa
+32. Wilson RD, Bennett ME, Lechman TE, Stager KW, Chae J. Single‐lead percutaneous peripheral nerve stimulation for the treatment of hemiplegic shoulder pain: a case report. Arch Phys Med Rehabil 2011; 92: 837 – 840. 21530732 10.1016/j.apmr.2010.11.003 PMC3086727
+33. Wilson RD, Harris MA, Gunzler DD, Bennett ME, Chae J. Percutaneous peripheral nerve stimulation for chronic pain in subacromial impingement syndrome: a case series. Neuromodulation 2014; 17: 771 – 776. 24512114 10.1111/ner.12152 PMC4128958
+34. Wilson RD, Gunzler DD, Bennett ME, Chae J. Peripheral nerve stimulation compared with usual care for pain relief of hemiplegic shoulder pain: a randomized controlled trial. Am J Phys Med Rehabil 2014; 93: 17 – 28. 24355994 10.1097/PHM.0000000000000011 PMC4038163
+35. Shellock FG, Zare A, Ilfeld BM, Chae J, Strother RB. In vitro magnetic resonance imaging evaluation of fragmented, open‐coil, percutaneous peripheral nerve stimulation leads. Neuromodulation 2018; 21: 276 – 283. 29057550 10.1111/ner.12705
+36. Ristic D, Spangenberg P, Ellrich J. Analgesic and antinociceptive effects of peripheral nerve neurostimulation in an advanced human experimental model. Eur J Pain. 2008; 12: 480 – 490. 17881268 10.1016/j.ejpain.2007.07.013

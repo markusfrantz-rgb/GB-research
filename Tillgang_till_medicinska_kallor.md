@@ -1,6 +1,6 @@
 # Tillgång till medicinska källor
 
-> Senast uppdaterad: 2026-11-18
+> Senast uppdaterad: 2026-11-25
 > Källmappar: `sources/fulltext/` + `research-ivig-iga/fulltexts/`
 
 ---
@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **368** (94 PDF + 274 text) |
+| Filer i sources/fulltext/ | **398** (107 PDF + 291 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **313** |
+| Unika artiklar (efter deduplicering) | **330** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **411** |
+| **Totalt filer på disk** | **441** |
 
 ---
 
@@ -420,6 +420,55 @@
 | 281 | **Zhang 2011.** EPO Nerve Repair GBS Model | PMC3203932 | [text](/source/Zhang_2011_EPO_Nerve_Repair_GBS_Model_PMC3203932.txt) |
 | 282 | **Lombet 2021.** BBE-GBS overlap rehabilitering (franska) | PMID:34357713 | [PDF](/source/Lombet_2021_BBE_GBS_Rehabilitation_PMID34357713.pdf) <br> [text](/source/Lombet_2021_BBE_GBS_Rehabilitation_PMID34357713.txt) |
 
+### Höftsmärta, TENS och perifer nervstimulering (tillagda 2026-11-25)
+
+| # | Artikel | PMID/PMC | Fulltext |
+|---|---------|----------|---------|
+| 299 | **Johnson 2022.** meta-TENS: 381 RCT, SMD −0,96 under/direkt efter TENS (moderat evidens) | PMC8845179 | [PDF](/source/Johnson_2022_TENS_MetaAnalysis_AcuteChronicPain_PMC8845179.pdf) <br> [text](/source/Johnson_2022_TENS_MetaAnalysis_AcuteChronicPain_PMC8845179.txt) |
+| 300 | **Vance 2022.** TENS evidensuppdatering — intensitet avgörande | PMC9611192 | [PDF](/source/Vance_2022_TENS_PainControl_EvidenceUpdate_PMC9611192.pdf) <br> [text](/source/Vance_2022_TENS_PainControl_EvidenceUpdate_PMC9611192.txt) |
+| 301 | **Vance 2018.** SIT-metoden för att maximera TENS-intensitet | PMC6188186 | [PDF](/source/Vance_2018_TENS_MaximizeIntensity_Method_PMC6188186.pdf) <br> [text](/source/Vance_2018_TENS_MaximizeIntensity_Method_PMC6188186.txt) |
+| 302 | **Vance 2021.** FAST: första 30-min-sessionen predicerar respons, rörelseutlöst smärta | PMC8049882 | [text](/source/Vance_2021_FAST_TENS_MovementEvokedPain_PMC8049882.txt) |
+| 303 | **Dailey 2020.** FAST RCT: TENS vid fibromyalgi, rörelseutlöst smärta (n=301) | PMC7188591 | [PDF](/source/Dailey_2020_FAST_TENS_Fibromyalgia_RCT_PMC7188591.pdf) <br> [text](/source/Dailey_2020_FAST_TENS_Fibromyalgia_RCT_PMC7188591.txt) |
+| 304 | **Sato 2012.** Ökande intensitet förhindrar TENS-tolerans (råtta) | PMC3461840 | [text](/source/Sato_2012_TENS_IncreasingIntensity_PreventsTolerance_PMC3461840.txt) |
+| 305 | **Tomlinson 2021.** Höftkapselns innervation — metaanalys | PMC7935927 | [PDF](/source/Tomlinson_2021_HipCapsule_Innervation_MetaAnalysis_PMC7935927.pdf) <br> [text](/source/Tomlinson_2021_HipCapsule_Innervation_MetaAnalysis_PMC7935927.txt) |
+| 306 | **Prabhu 2025.** N. obturatorius morfologi, delningsställe (bäcken 56 %, kanal 24 %) | PMC12134726 | [PDF](/source/Prabhu_2024_ObturatorNerve_Morphology_PMC12134726.pdf) <br> [text](/source/Prabhu_2024_ObturatorNerve_Morphology_PMC12134726.txt) |
+| 307 | **Crema 2023.** RCT fenol vs lidokain, obturatoriusblockad vid höftartros | PMC10502965 | [PDF](/source/Crema_2023_Phenol_vs_Lidocaine_ObturatorNeurolysis_Hip_PMC10502965.pdf) <br> [text](/source/Crema_2023_Phenol_vs_Lidocaine_ObturatorNeurolysis_Hip_PMC10502965.txt) |
+| 308 | **Ilfeld 2021.** PNS vs sham postoperativt (RCT, n=66) | PMC8249357 | [text](/source/Ilfeld_2021_Percutaneous_PNS_ShamControlled_PostopPain_PMC8249357.txt) |
+| 309 | **Ilfeld 2019.** Femoralis-PNS, ultraljudsledd | PMC6767389 | [PDF](/source/Ilfeld_2019_FemoralNerve_PNS_Ultrasound_PMC6767389.pdf) <br> [text](/source/Ilfeld_2019_FemoralNerve_PNS_Ultrasound_PMC6767389.txt) |
+| 310 | **Strand 2022.** ASPN-riktlinje implanterbar PNS | PMC9419727 | [PDF](/source/Strand_2022_ASPN_PNS_Guideline_PMC9419727.pdf) <br> [text](/source/Strand_2022_ASPN_PNS_Guideline_PMC9419727.txt) |
+| 311 | **Xu 2021.** PNS systematisk översikt (227 studier) | PMC8897810 | [text](/source/Xu_2021_PNS_PainManagement_SystematicReview_PMC8897810.txt) |
+| 312 | **Harris 2025.** Temporär PNS vid ortopedisk kirurgi — systematisk översikt | PMC12706534 | [PDF](/source/Harris_2025_TemporaryPNS_Orthopedic_SystematicReview_PMC12706534.pdf) <br> [text](/source/Harris_2025_TemporaryPNS_Orthopedic_SystematicReview_PMC12706534.txt) |
+| 313 | **Elsharkawy 2026.** **PNS-implantat obturatorius + femoralis + n. clunium medius vid höft-/bäckensmärta.** 1499 Hz/30 µs, trial −75 %, alla elektroder migrerade → revision, 3–4/10 vid 12 mån | PMID:42066282 | [PDF](/source/Elsharkawy_2026_PNS_Implant_PosttraumaticHipPelvicPain_PMID42066282.pdf) <br> [text](/source/Elsharkawy_2026_PNS_Implant_PosttraumaticHipPelvicPain_PMID42066282.txt) |
+| 314 | **Shellock 2018.** MR med PNS-elektrodfragment: säkert 1,5 T, ej 3 T | PMID:29057550 | [PDF](/source/Shellock_2018_MRI_PNS_LeadFragments_PMID29057550.pdf) <br> [text](/source/Shellock_2018_MRI_PNS_LeadFragments_PMID29057550.txt) |
+| 315 | **Mavrogenis 2012.** Klassifikation neurogen HO i höft (främre/bakre/anteromedial/cirkumferent) | PMC3349026 | [PDF](/source/Mavrogenis_2012_NeurogenicHO_Hip_Classification_PMC3349026.pdf) <br> [text](/source/Mavrogenis_2012_NeurogenicHO_Hip_Classification_PMC3349026.txt) |
+
+#### Ej nedladdade — för Markus att hämta (2026-11-25)
+
+Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i webbläsare" = gratis att läsa men sajten blockerar automatisk nedladdning; "PMC (blockerad text)" = finns i PMC men förlaget spärrar maskinläsning — öppna länken i webbläsaren och spara PDF.
+
+| Prio | Artikel | PMID | Tidskrift / förlag | Åtkomst |
+|---|---|---|---|---|
+| A | Pierson 2024 — Femoralis-PNS efter posttraumatisk höftprotes, 100 Hz → 12 Hz motorisk nivå | 38466169 | Am J Phys Med Rehabil (LWW) | Betalvägg |
+| A | Girón-Arango 2018 — PENG-blockad (originalbeskrivning) | 30063657 | Reg Anesth Pain Med (BMJ) | Betalvägg |
+| A | Girón-Arango & Peng 2025 — PENG: 5 års lärdomar | 38724271 | Reg Anesth Pain Med (BMJ) | Betalvägg |
+| A | Labandeyra 2026 — Obturatoriuskanal-blockad, anatomisk studie | 39489527 | Reg Anesth Pain Med (BMJ) | Betalvägg |
+| A | Laumonerie 2021 — Höftledens sensoriska innervation, systematisk översikt | 33565587 | Pain Med (OUP) | Betalvägg |
+| A | Gilmore 2019 — Perkutan PNS vid amputationssmärta, RCT | 30954936 | Reg Anesth Pain Med (BMJ) | Fri i webbläsare (CC BY-NC) |
+| A | Ontario Health 2024 — PNS vid kronisk neuropatisk smärta, HTA | 39886278 | Ont Health Technol Assess Ser | PMC11778797 (blockerad text) / hqontario.ca |
+| B | Birnbaum 1997 — Höftledens sensoriska innervation | 9479711 | Surg Radiol Anat (Springer) | Betalvägg |
+| B | Bhatia 2018 — Radiofrekvensbehandling vid kronisk höftsmärta | 29140960 | Reg Anesth Pain Med (BMJ) | Betalvägg |
+| B | Ruts 2010 — Smärta vid GBS, 1-årsuppföljning | 20861454 | Neurology (LWW) | Betalvägg |
+| B | Moran 2011 — TENS-hypoalgesi beror på intensitet | 21481649 | J Pain (Elsevier) | Fri i webbläsare |
+| B | Sluka & Walsh 2003 — TENS-mekanismer | 14622708 | J Pain (Elsevier) | Fri i webbläsare |
+| B | Eldabe 2016 — Komplikationer SCS/PNS | 26814260 | Pain Med (OUP) | Fri i webbläsare |
+| B | Gibson 2017 — Cochrane: TENS vid neuropatisk smärta | 28905362 | Cochrane | PMC6426434 (blockerad text) |
+| B | Liu 2015 — Cochrane: farmakologisk smärtbehandling vid GBS | 25855461 | Cochrane | PMC6361619 (blockerad text) |
+| B | DeSantana 2008 — Blandad frekvens fördröjer TENS-tolerans | 18374009 | Arch Phys Med Rehabil | PMC2744433 (blockerad text) |
+| B | Gordon 2016 — Elstimulering för axonregeneration | 26754579 | Neurotherapeutics (Springer) | PMC4824030 (blockerad text) |
+| B | Bennett 2011 — Låg TENS-dos förklarar negativa studier | 21435786 | Pain (LWW) | Betalvägg |
+| B | Rippe 2026 — Multisite PNS vid höftsmärta (avaskulär nekros) | — | Pain Med Case Rep | Fri PDF på tidskriftens sajt (ej hämtad) |
+| B | Övriga i dokumentet utan fulltext: Yavuz 2013 (23411652), Oosterhof 2008 (17659838), Ruts 2012 (22154920), Yakovlev 2010 (20672555), Tolba 2020 (32823185), Manchikanti/ASIPP 2024 (39565237) | | | Betalvägg / ej försökt |
+
 ### Övriga relevanta artiklar
 
 | # | Artikel | PMID/PMC | Fulltext |
@@ -559,4 +608,4 @@
 
 ---
 
-*306 unika artiklar (363 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 406 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-04-06.*
+*330 unika artiklar (398 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 441 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-11-25.*
