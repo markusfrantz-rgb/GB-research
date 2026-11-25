@@ -4,10 +4,10 @@ date: 2026-11-25
 status: active
 ---
 
-# Hip Pain Neuromodulation in the GBS Recovery Phase: TENS, Peripheral Nerve Stimulation and the Nerves of the Hip
+# Hip/Groin Pain Neuromodulation in the GBS Recovery Phase: TENS, PNS, DRG and Spinal Cord Stimulation for Femoral Neuropathic Pain From Heterotopic Ossification
 
 *Research compiled: November 25, 2026*
-*Focus: How TENS is used optimally against hip/groin pain, which nerves carry pain from the hip joint, what the evidence says about implanted peripheral nerve stimulation (PNS) of the obturator and femoral nerves, and which questions are specific to a patient with heterotopic ossification (HO) and active peripheral nerve recovery after severe GBS.*
+*Focus: Femoral neuropathic pain from heterotopic ossification (HO) at the groin — how surface TENS is used and placed optimally, the evidence for DRG stimulation, spinal cord stimulation and peripheral nerve stimulation, whether HO compression of the femoral nerve changes surgical timing, and which questions are specific to a patient with active nerve recovery after severe GBS. Updated 2026-11-25 after the neurosurgical note was read (see correction note §1). Swedish discussion summary: [Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md](Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md).*
 
 ---
 
@@ -21,27 +21,33 @@ status: active
 6. [The GBS-Specific Question: TENS and PNS on a Recovering Nerve](#6-the-gbs-specific-question-tens-and-pns-on-a-recovering-nerve)
 7. [From TENS to Implanted Peripheral Nerve Stimulation (PNS)](#7-from-tens-to-implanted-peripheral-nerve-stimulation-pns)
 8. [PNS for Hip and Groin Pain: What Has Been Published](#8-pns-for-hip-and-groin-pain-what-has-been-published)
-9. [Alternatives: Blocks, Neurolysis and Radiofrequency — and Why Destructive Options Carry Extra Cost Here](#9-alternatives-blocks-neurolysis-and-radiofrequency--and-why-destructive-options-carry-extra-cost-here)
-10. [Interaction With Heterotopic Ossification and Future HO Surgery](#10-interaction-with-heterotopic-ossification-and-future-ho-surgery)
-11. [Questions Worth Raising With the Team](#11-questions-worth-raising-with-the-team)
-12. [Evidence Gaps and Honest Limitations](#12-evidence-gaps-and-honest-limitations)
-13. [References](#13-references)
+9. [DRG Stimulation vs Spinal Cord Stimulation for Focal Femoral/Groin Neuropathic Pain](#9-drg-stimulation-vs-spinal-cord-stimulation-for-focal-femoralgroin-neuropathic-pain)
+10. [Could the Femoral Nerve Be Compressed by HO — and Does It Change the Timing?](#10-could-the-femoral-nerve-be-compressed-by-ho--and-does-it-change-the-timing)
+11. [Alternatives: Blocks, Neurolysis and Radiofrequency — and Why Destructive Options Carry Extra Cost Here](#11-alternatives-blocks-neurolysis-and-radiofrequency--and-why-destructive-options-carry-extra-cost-here)
+12. [Interaction With Heterotopic Ossification and Future HO Surgery](#12-interaction-with-heterotopic-ossification-and-future-ho-surgery)
+13. [Questions Worth Raising With the Team](#13-questions-worth-raising-with-the-team)
+14. [Evidence Gaps and Honest Limitations](#14-evidence-gaps-and-honest-limitations)
+15. [References](#15-references)
 
 ---
 
 ## 1. SCOPE AND THE CLINICAL QUESTION
 
-**Clinical context (as of 2026-11-25, day ~249):** A 52-year-old woman in the recovery phase of severe recurrent GBS (anti-GQ1b spectrum with Bickerstaff brainstem encephalitis overlap) has developed **heterotopic ossification (HO) at the right hip/groin**, most likely after vigorous mobilisation during the ICU phase. Resection is planned only when the bone has matured (~1 year). Sitting in a comfort wheelchair has been possible thanks to a **temporary nerve block**. A neurosurgical assessment (2026-11-18) judged her a suitable candidate for **implanted electrodes**; a **TENS trial in week 48** was to precede the implant decision. **The TENS trial has now been reported as giving a good result.**
+**Clinical context (as of 2026-11-25, day ~249):** A 52-year-old woman in the recovery phase of severe recurrent GBS (anti-GQ1b spectrum with Bickerstaff brainstem encephalitis overlap) has **heterotopic ossification (HO) / myositis ossificans at the right hip/groin**. Resection has been planned for when the bone has matured (~1 year).
 
-The nerve targeted by the block has been described by the family as running **together with a blood vessel through a "tunnel" before branching into smaller nerves**. This description fits the **obturator nerve**, which passes through the **obturator canal** together with the obturator artery and vein and divides into anterior and posterior branches (§3). The **femoral nerve** is the other main candidate for anterior hip pain; it runs beside (not inside) the femoral vascular sheath beneath the inguinal ligament and fans out into many branches in the femoral triangle. **Which nerve was actually blocked should be confirmed with the treating team** — the evidence in this document covers both.
+**The pain (neurosurgical note 2026-11-18):** acute onset in early summer **during a lift transfer** — intense right groin pain radiating to the anterior thigh — interpreted as **neuropathic pain from injury to the right femoral nerve at groin level by the local HO** (ICD G58.8, mononeuropathy). Examination: **hypoaesthesia to touch below the groin on the anterior right thigh**, normal sensation above the groin. A **femoral nerve block** gave very good relief; she now has a **continuous peripheral nerve catheter along the femoral nerve** (effective, but not a long-term solution). The neurosurgeon is considering **spinal cord stimulation (SCS) or dorsal root ganglion (DRG) stimulation** and required a **local TENS trial** (groin/anterior thigh) first. **The TENS trial (week 48) gave a good result.**
+
+> **Correction note (2026-11-25):** The first version of this document assumed the blocked nerve was probably the obturator nerve and framed the pain as hip-joint (capsular) pain. The neurosurgical note establishes that it is the **femoral nerve** and that the pain is **neuropathic**. Sections 2–3 (hip capsule innervation, obturator anatomy) are retained as background; the decision-relevant material is in §4–6 (TENS), §9 (DRG vs SCS) and §10 (HO compression of the femoral nerve).
+
+**The femoral nerve at the groin.** The femoral nerve (L2–L4) descends within iliopsoas and passes **beneath the inguinal ligament** in the lacuna musculorum, immediately lateral to the femoral artery and vein, then fans out in the femoral triangle into anterior cutaneous branches (anterior thigh — the hypoaesthetic area), the saphenous nerve, and motor branches to **quadriceps** and hip flexors. *[Level 5 — standard anatomy]*
 
 **Questions addressed:**
 
-1. Which nerves carry pain from the hip joint and groin — and is one nerve enough?
-2. How is TENS used to get the maximal effect, and why do many TENS trials fail?
-3. Does a positive TENS response predict that an implanted PNS will work?
-4. What has been published on PNS of the obturator/femoral nerves for hip pain?
-5. What is specific to a patient whose peripheral nerves are still recovering after GBS, and who will need HO surgery later?
+1. How is surface TENS used and placed for maximal effect — particularly when the painful territory is hypoaesthetic?
+2. Does a positive TENS response (or nerve block) predict that an implanted system will work?
+3. DRG vs SCS vs peripheral nerve stimulation (PNS) for focal femoral/groin neuropathic pain — effect, durability, complications.
+4. What is specific to a patient whose roots and peripheral nerves are recovering after GBS?
+5. Could the femoral nerve be compressed by HO — and does that change the timing and choice of treatment?
 
 **Intended use.** Background for the treating neurologist, neurosurgeon, pain/anaesthesia team and physiotherapist. It is written by an analyst compiling evidence, not by a specialist in neuromodulation; it describes what the literature shows and where it stops.
 
@@ -177,8 +183,8 @@ The following table summarises what the literature supports. It is meant as a di
 | **Intensity** | **"Strong but comfortable"** — clearly strong, not painful. Below-threshold is ineffective. | Moran 2011 *[L2]*; Vance 2022 |
 | **Finding the right intensity** | The **SIT method**: raise to sensory threshold → strong-comfortable → briefly to noxious → back to strong-comfortable. Final intensity ends up higher (median +1.7 mA) than without the noxious step. | Vance 2018 (n=143) *[L2]* |
 | **Re-titration during session** | Perceived intensity fades within minutes (habituation); **turn up** when the sensation weakens to keep the dose. Few clinical studies did this. | Gibson 2017; Vance 2022 *[L5]* |
-| **Frequency** | High (80–100 Hz) or low (2–4 Hz) both work in models; **mixed/alternating frequency delays tolerance**. With high opioid doses, high frequency may be preferable (δ- vs μ-receptor). | DeSantana 2008; Sluka & Walsh 2003 *[L5, animal]* |
-| **Placement** | At or close to the pain site, or **over the nerve trunk / its cutaneous territory proximal to the pain**. For an obturator/femoral pathway: groin/medial thigh, or over the femoral nerve below the inguinal ligament. | Johnson 2022 inclusion criteria; *[L5]* |
+| **Frequency** | **High frequency (80–100 Hz) in opioid users**: low-frequency TENS had no effect in opioid users whereas conventional TENS did (Léonard 2011, crossover n=23). Mixed/alternating frequency delays tolerance in animals. | Léonard 2011 *[L2]*; DeSantana 2008 *[L5, animal]* |
+| **Placement** | At or close to the pain site, over nerve bundles proximal to it, or — **when the painful area is hypoaesthetic — on skin with intact sensation** (bracketing the numb area, proximal, paravertebral at the same segments, or contralateral). For femoral pain with anterior-thigh hypoaesthesia: around the groin/lateral and medial thigh (L2–L4 territories with intact sensation) or paravertebral L2–L4. Placement matters less than intensity (Amer-Cuenca 2026). Nerve-dense skin beat the exact pain spot in knee OA (Xu 2025, RCT n=80); lumbar-plexus placement ≥ wound placement after hip fracture (Oksar 2024, RCT n=120). | Johnson 2021 *[L5]*; Xu 2025, Oksar 2024 *[L2]*; Amer-Cuenca 2026 *[L1–2]* |
 | **Timing** | Use **during the painful activity** — transfers, sitting, training — not only at rest. In the FAST trial (n=301), TENS used **during activity** 2 h/day for 4 weeks reduced **movement-evoked pain** vs placebo TENS (−1.0) and vs no TENS (−1.8); global improvement 70% vs 31%. | Dailey 2020 *[L1–2 — RCT]* |
 | **Predicting responders** | The response to the **first 30-minute session** predicted response after one month (NNT 3.3–5.3). | Vance 2021 *[L2]* |
 | **Tolerance** | Repeated daily TENS at the **same** intensity and frequency produced analgesic tolerance by **day ~5** in rats. **Increasing intensity ~10%/day** prevented it; **mixed frequency** delayed it ~5 days. | Sato 2012; DeSantana 2008 *[L5, animal]* |
@@ -199,7 +205,7 @@ IF TENS gives good relief now:
 
 ### 5.2 Safety in this specific patient
 
-- **Skin:** reduced or altered sensation after GBS means she may not reliably report electrode-site discomfort; electrode sites should be inspected. Skin irritation is the commonly reported adverse event (Gibson 2017).
+- **Skin:** the anterior right thigh is **hypoaesthetic** (neurosurgical note) — electrodes should not sit only on numb skin, which cannot report heat or irritation; impaired sensation is a listed precaution (Physiotherapy Canada 2010). Electrode sites should be inspected. Skin irritation is the commonly reported adverse event (Gibson 2017).
 - **Autonomic dysfunction:** no specific signal in the TENS literature; TENS over the groin/thigh is far from the sites of concern (anterior neck, chest).
 - **Standard contraindications** (cardiac pacemaker/ICD, over the anterior neck, broken skin) apply. *[Level 5]*
 
@@ -302,7 +308,83 @@ The hip-specific PNS literature is **small and consists of case reports and case
 
 ---
 
-## 9. ALTERNATIVES: BLOCKS, NEUROLYSIS AND RADIOFREQUENCY — AND WHY DESTRUCTIVE OPTIONS CARRY EXTRA COST HERE
+## 9. DRG STIMULATION VS SPINAL CORD STIMULATION FOR FOCAL FEMORAL/GROIN NEUROPATHIC PAIN
+
+### 9.1 Efficacy
+
+| Study | Design | Finding |
+|---|---|---|
+| **ACCURATE** (Deer 2017) | RCT, n=152, lower-limb CRPS-I and causalgia (CRPS-II, i.e. pain after peripheral nerve injury) | Treatment success DRG vs SCS **81.2% vs 55.7%** (3 mo), **74.2% vs 53.0%** (12 mo). Causalgia subgroup at 3 mo: **79.3% vs 53.3%**. Paraesthesia confined to the painful area 94.5% vs 61.2%. Industry-sponsored. *[Level 1–2]* |
+| **Levy 2020** (ACCURATE) | Habituation analysis | DRG relief stable ~69–74%; SCS declined 66.9% → 57.9% over 12 months *[Level 2]* |
+| **Martin 2020** | Case series, n=14, neuropathic knee pain (femoral/saphenous territory); leads mostly at **L3** | All 12 retained devices responded; median NRS 8.5 → 2; 2 explants *[Level 4]* |
+| **Schu 2015** | Retrospective, n=29, groin pain, leads T12–L4 | 86% converted to permanent; 82.6% >50% relief at ~28 weeks *[Level 3–4]* |
+| **Morgalla 2017** | Prospective, n=34, groin pain | 30/34 converted; median VAS 8 → 4.5 at 3 years; complications 16.7% *[Level 3]* |
+| **SMASHING** (Mol 2023) | RCT stopped early, n=18, post-surgical groin pain, DRG vs conventional management | Pain −50% vs +13%; 19 adverse events in 9 DRG patients *[Level 2, underpowered]* |
+| **Petersen 2021** (SENZA-PDN) | RCT, n=216, painful diabetic neuropathy, 10 kHz SCS | 79% vs 5% responders — paraesthesia-free SCS works despite large-fibre neuropathy *[Level 1, different population]* |
+| **Odonkor 2026** | Case | PNS of a femoral nerve branch for lateral hip pain → complete relief; pain recurred after lead removal → DRG L1–L2 + S1, ~75% relief *[Level 4]* |
+
+**No study compares PNS with DRG or SCS. No study addresses femoral mononeuropathy from HO, and none addresses GBS.**
+
+### 9.2 Durability, complications, explants
+
+| Outcome | Figure | Source |
+|---|---|---|
+| SCS explanted **or** <50% relief at 3 years | **44.7%** | Saw 2026 (meta-analysis) |
+| SCS explant rate | ~7.9%/year; 9.8% of 13,026 (38% for lack of effect) | Van Buyten 2017; Wahezi 2025 |
+| SCS trial-to-permanent conversion (national database) | 41% | Huang 2015 |
+| DRG lead fracture | **22.8% of patients** over ~2.9 years (3.2%/lead/year) | Chapman 2026 |
+| DRG pooled (industry) | Lead fracture 5.9%, migration 5.9%, infection 5.1%, explant 6.3% | Huygen 2020 |
+| DRG, pelvic pain | 45% revision, 35% explant | Burns 2024 |
+| SCS infection | 2.45%; 77.6% of infected systems explanted | Bendel 2017 |
+| Post-implant falls | Predicted explant | Gheith 2025 |
+
+*[Level 1–3]*
+
+### 9.3 Do a positive block or TENS trial predict success?
+
+- **No study shows that a positive TENS trial or nerve block predicts DRG or SCS success.**
+- For PNS, the size of diagnostic-block relief predicted temporary-PNS relief at 3 months but not permanent-PNS outcome (Hoffmann 2024, n=173); relief during a 60-day temporary PNS trial predicted permanent-PNS relief weakly at 6 months but not at 12 months, and relief fell ~25% by 12 months (D'Souza 2025, n=47).
+- The only TENS→implant link: TENS responders responded to **peripheral nerve field stimulation** (94%; Schwarm 2021, n=41) — a peripheral, not spinal, technique.
+- Screening trials themselves discriminate poorly: in TRIAL-STIM (Eldabe 2020, RCT n=105) the SCS trial had sensitivity 100% but **specificity 8%**, and did not improve outcome.
+
+*[Level 2–3]*
+
+### 9.4 Dorsal-column and root integrity — the GBS question
+
+- **Sindou 2003** (n=95, including 27 root lesions): SCS success **0%** when dorsal-column conduction on SSEP was markedly abnormal vs **75.4%** when normal. A 2026 systematic review (Odonkor) ranks pre-operative SSEP as the strongest single predictor, though unreplicated. *[Level 3]*
+- GBS is a **polyradiculoneuropathy** and may involve dorsal roots and dorsal root ganglia. The femoral lesion itself is distal to the DRG, but GBS-related loss of DRG neurones or dorsal-column input could plausibly reduce DRG or tonic SCS efficacy. **No data exist.** *[Level 5]*
+- Paraesthesia-free 10 kHz SCS (Petersen 2021) and burst SCS (one CIDP case, Iovenko 2025) may depend less on intact large fibres. *[Level 1 for diabetes; Level 4 for CIDP]*
+- **Implication:** SSEP and femoral/saphenous NCS/EMG with side-to-side comparison would inform method choice. NCS/EMG has not been performed in this episode.
+
+### 9.5 Immunodeficiency
+
+No data on implant infection in IgA deficiency; two case reports of infected SCS systems in immunosuppressed patients (Kesayan 2026). *[Level 4–5]*
+
+---
+
+## 10. COULD THE FEMORAL NERVE BE COMPRESSED BY HO — AND DOES IT CHANGE THE TIMING?
+
+| Finding | Source | Level |
+|---|---|---|
+| In 116 posterior hip NHO resections, **47% required sciatic nerve release**; the nerve was **entrapped within HO** in 26. Only 22% had clinical signs; ENMG abnormal in only 10/18. Nerve compression is under-diagnosed; CT and repeated examination recommended. | Salga 2015 | 3 |
+| **MRI visualises the femoral nerve better than CT** in hip NHO; CT/MRI agreement for the femoral nerve only moderate (κ 0.47) | Amar 2024 (n=31 hips) | 2–3 |
+| Femoral neuropathy after anterior THA: MRI showed mass effect in 4/17, one from HO | Thejeel 2024 | 4 |
+| **Recurrence after NHO excision 5.8%, unrelated to delay to surgery**; 181 operations within the first year without recurrence. Indications include neurological involvement and pain difficult to manage medically. | Genêt 2011 (539 surgeries) | 3 |
+| Loss of range of motion more relevant than HO "maturity" for timing; early surgery limits joint damage | Genêt 2009; Chalidis 2007 (systematic review) | 3 |
+| Infection after hip NHO excision ~10% (5% when aetiology not spinal cord injury) | Gatin 2017 (n=411) | 3 |
+| Compression-related femoral palsy can reverse after decompression | Kromoser 2025; Keister 2026 (myositis ossificans adjacent to femoral nerve) | 4 |
+| Pain relief after HO excision is **inconsistent** (post-THA population) | Lachiewicz 2024 | 3 |
+| HO occurs in ~6% of GBS patients | Zeilig 2006 (n=65) | 3 |
+
+**Caveats:** no series addresses femoral entrapment by groin HO specifically; the large French series concern HO after brain/spinal cord injury — this patient has GBS with brainstem (BBE) involvement.
+
+> **Why this may be the pivotal question.** If the neuropathic pain is driven by **ongoing compression**, the generator may be **removable**, and a permanent implant would treat a pain source that surgery could eliminate. The recurrence data no longer mandate waiting ~1 year for maturation, and nerve involvement is an accepted indication. Conversely, if the injury is complete and compression no longer active, decompression may not relieve pain — which is where neuromodulation fits. *[Level 5 — synthesis]*
+
+> **Motor relevance.** The femoral nerve supplies **quadriceps** — the muscle needed for standing. Ongoing compression could plausibly superimpose a focal lesion on the GBS deficit and limit right quadriceps recovery. Not demonstrated in this patient; assessable by side-to-side strength, femoral NCS/EMG (quadriceps, iliopsoas, saphenous) and MRI/high-resolution ultrasound of the nerve. *[Level 5]*
+
+---
+
+## 11. ALTERNATIVES: BLOCKS, NEUROLYSIS AND RADIOFREQUENCY — AND WHY DESTRUCTIVE OPTIONS CARRY EXTRA COST HERE
 
 | Option | Duration | Evidence | Consideration in this patient |
 |---|---|---|---|
@@ -316,45 +398,50 @@ The hip-specific PNS literature is **small and consists of case reports and case
 
 ---
 
-## 10. INTERACTION WITH HETEROTOPIC OSSIFICATION AND FUTURE HO SURGERY
+## 12. INTERACTION WITH HETEROTOPIC OSSIFICATION AND FUTURE HO SURGERY
 
-- **Pain mechanism changes over time.** HO pain in the early inflammatory phase differs from pain caused by mature bone mechanically limiting movement. Neuromodulation addresses nociceptive signalling; it **does not** change the bone or the range-of-motion limitation. The orthopaedic flexion restriction (50–60° in lift) remains decisive.
+- **Pain mechanism changes over time.** HO pain in the early inflammatory phase differs from pain caused by mature bone mechanically limiting movement. Neuromodulation addresses pain signalling; it **does not** change the bone or relieve any ongoing nerve compression (§10) or the range-of-motion limitation. The orthopaedic flexion restriction (50–60° in lift) remains decisive.
 - **Location matters for the surgical approach.** Mavrogenis 2012 classifies neurogenic hip HO by location — **anterior, posterior, anteromedial, circumferential** — because location determines the surgical approach (and anteromedial/circumferential types had more blood loss). HO described at the **hip/groin** is likely anterior or anteromedial, i.e., in the same region as the obturator/femoral nerve course and the PENG target; the exact type should come from the CT. *[Level 3–4]*
-- **Practical questions** this raises (§11): lead path relative to the future surgical approach; whether a **temporary 60-day system** could bridge a defined period without leaving hardware in a future surgical field; infection risk management at HO surgery if a permanent system is present.
+- **Practical questions** this raises (§13): lead path relative to the future surgical approach; whether a **temporary 60-day system** could bridge a defined period without leaving hardware in a future surgical field; infection risk management at HO surgery if a permanent system is present.
 - **Pain-free movement and HO.** Better pain control may allow more sitting and active training. It also means pain no longer acts as a warning signal of over-stretching. Madeleine correctly identified HO-type pain as different from her nerve pain **before** imaging confirmed it. Under good analgesia the flexion restriction must be respected by protocol, not by pain. *[Level 5]*
 
 ---
 
-## 11. QUESTIONS WORTH RAISING WITH THE TEAM
+## 13. QUESTIONS WORTH RAISING WITH THE TEAM
 
 Framed as open questions to the treating team — the decisions rest with them.
 
-**About the target**
-1. Which nerve was blocked — **obturator** (canal approach?), **femoral**, or a **PENG** block of articular branches? Would a lead target the same structure?
-2. Has relief been complete, or is there residual pain in other areas (lateral/posterior hip) that suggests a second nerve (§2)?
+**About the cause**
+1. Is the femoral neuropathy driven by **ongoing compression** by HO, or is it a completed injury? Has CT/MRI shown the relation between the HO and the femoral nerve (MRI visualises the nerve better than CT — Amar 2024)?
+2. Given that recurrence after NHO excision does not depend on timing (Genêt 2011) and nerve involvement is an accepted indication, has **earlier excision with femoral neurolysis** been discussed with orthopaedics?
 
-**About the TENS trial**
-3. What parameters were used (frequency, intensity, placement, duration), and how was the effect measured (pain score, sitting time, opioid use)?
-4. Could TENS be used **during transfers, wheelchair sitting and gym** while the implant decision is pending — and with re-titration to counter tolerance (§5)?
+**About the method**
+3. **DRG or SCS** — which is favoured, and at which level (L3 ± L2/L4)? The only RCT favours DRG for focal nerve-injury pain (§9.1).
+4. Has **femoral PNS** (permanent or 60-day temporary) been considered as a less invasive option or as a bridge until HO surgery?
+5. Would **SSEP and femoral/saphenous NCS/EMG with side-to-side comparison** inform method choice, given root/DRG involvement in GBS (§9.4)?
 
-**About the implant**
-5. Is a **percutaneous lead trial** planned before permanent implantation, or is TENS + block considered sufficient?
-6. **Temporary (60-day) or permanent** system? How does the choice relate to the planned **HO resection** in ~1 year?
-7. Which system — and what is its **MRI conditionality** (1.5 T / 3 T, body coil)?
-8. How is **lead migration** risk managed, given lift transfers and hip movement?
-9. **Timing relative to Högsbo admission 2027-01-11** — would surgery/adjustment fall in the middle of the rehabilitation stay?
+**About the trial and durability**
+6. Will there be a temporary-lead trial, for how long, and what counts as success (given the low specificity of screening trials — §9.3)?
+7. Expected lead fracture/migration and revision risk with lift transfers, fall risk and later hip surgery?
+8. Reversibility if efficacy wanes?
 
-**About the recovering nerve**
-10. Any neurophysiological reason to prefer **sensory-level** vs **motor-level** settings on a mixed nerve still undergoing reinnervation?
-11. Would a **baseline NCS/EMG** of the adductor/quadriceps territories be useful before implantation?
+**About practicalities**
+9. Which system, and its **MRI conditionality**?
+10. **Infection risk** with selective IgA deficiency — any specific prophylaxis?
+11. **Timing** relative to Högsbo admission 2027-01-11 and HO surgery.
+12. Can TENS and the peripheral catheter continue meanwhile — for how long can the catheter stay?
+
+**About TENS now (§5)**
+13. Electrodes on skin with **intact sensation** (bracketing the hypoaesthetic anterior thigh, proximal, or paravertebral L2–L4)? High-frequency (opioid co-treatment), strong-but-comfortable, used during transfers and sitting?
 
 ---
 
-## 12. EVIDENCE GAPS AND HONEST LIMITATIONS
+## 14. EVIDENCE GAPS AND HONEST LIMITATIONS
 
-- **No study** of TENS or PNS for **heterotopic ossification** pain.
-- **No study** of TENS or PNS in patients **after GBS** or with any acquired demyelinating/axonal polyneuropathy in recovery.
-- **No direct evidence** that a positive TENS trial predicts PNS success.
+- **No study** of TENS, PNS, DRG or SCS for **heterotopic ossification** pain, and **no series of femoral nerve entrapment by groin HO**.
+- **No study** of TENS, PNS, DRG or SCS in patients **after GBS** or with any acquired demyelinating/axonal polyneuropathy in recovery.
+- **No direct evidence** that a positive TENS trial or nerve block predicts DRG or SCS success; no study compares PNS with DRG or SCS.
+- Most DRG efficacy data are **industry-sponsored**; independent durability data (lead fracture, explant, 3-year failure) are more sobering.
 - **Hip-specific PNS data are case reports/series** (Level 4); the stronger PNS evidence comes from other indications (post-amputation, postoperative knee/shoulder/foot, migraine).
 - Much of the TENS **parameter evidence** (tolerance, frequency-dependent opioid mechanisms) is from **animal models**.
 - Hip capsule innervation is **highly variable** — individual anatomy may not match textbook descriptions, which is why diagnostic blocks matter.
@@ -362,7 +449,7 @@ Framed as open questions to the treating team — the decisions rest with them.
 
 ---
 
-## 13. REFERENCES
+## 15. REFERENCES
 
 ### Hip innervation and obturator nerve anatomy
 
@@ -453,3 +540,99 @@ Framed as open questions to the treating team — the decisions rest with them.
 ### Heterotopic ossification
 
 > **Citation:** Mavrogenis AF, Guerra G, Staals EL, Bianchi G, Ruggieri P. A classification method for neurogenic heterotopic ossification of the hip. *J Orthop Traumatol*. 2012;13(2):69-78. PMID: 22476356
+
+### Added 2026-11-25 — DRG/SCS, TENS placement, HO nerve compression
+
+> **Citation:** Johnson MI. Resolving long-standing uncertainty about the clinical efficacy of transcutaneous electrical nerve stimulation (TENS) to relieve pain: a comprehensive review of factors influencing outcome. *Medicina (Kaunas)*. 2021;57(4):378. PMID: 33919821
+
+> **Citation:** Amer-Cuenca JJ, et al. Dose-response effects of transcutaneous electrical nerve stimulation for chronic low back pain: meta-analysis. *Eur J Pain*. 2026;30:e70222. PMID: 41615263
+
+> **Citation:** Xu Y, et al. Electrode placement affects clinical outcome in transcutaneous electrical nerve stimulation. *Pain Ther*. 2025;14:1363-77. PMID: 40457161
+
+> **Citation:** Oksar M, et al. Transcutaneous electrical nerve stimulation for reducing postoperative acute pain after hip fracture surgery. *Eur Rev Med Pharmacol Sci*. 2024;28:2788-96. PMID: 38639518
+
+> **Citation:** Léonard G, Cloutier C, Marchand S. Reduced analgesic effect of acupuncture-like TENS but not conventional TENS in opioid-treated patients. *J Pain*. 2011;12(2):213-21. PMID: 20870464
+
+> **Citation:** Elboim-Gabyzon M, Andrawus Najjar S, Shtarker H. Effects of TENS on acute postoperative pain intensity and mobility after hip fracture: a double-blinded, randomized trial. *Clin Interv Aging*. 2019;14:1841-50. PMID: 31754300
+
+> **Citation:** Johnson MI, Ashton CH, Thompson JW. An in-depth study of long-term users of transcutaneous electrical nerve stimulation (TENS). *Pain*. 1991;44(3):221-9. PMID: 2052389
+
+> **Citation:** Cheing GL, Tsui AY, Lo SK, Hui-Chan CW. Optimal stimulation duration of TENS in the management of osteoarthritic knee pain. *J Rehabil Med*. 2003;35(2):62-8. PMID: 12691335
+
+> **Citation:** Bjordal JM, Johnson MI, Ljunggreen AE. TENS can reduce postoperative analgesic consumption: a meta-analysis with assessment of optimal treatment parameters. *Eur J Pain*. 2003;7(2):181-8. PMID: 12600800
+
+> **Citation:** Rakel BA, et al. Transcutaneous electrical nerve stimulation for the control of pain during rehabilitation after total knee arthroplasty: a randomized, blinded, placebo-controlled trial. *Pain*. 2014;155(12):2599-611. PMID: 25270585
+
+> **Citation:** Deer TR, Levy RM, Kramer J, et al. Dorsal root ganglion stimulation yielded higher treatment success rate for complex regional pain syndrome and causalgia at 3 and 12 months: a randomized comparative trial. *Pain*. 2017;158(4):669-81. PMID: 28030470
+
+> **Citation:** Levy RM, et al. Therapy habituation at 12 months: spinal cord stimulation versus dorsal root ganglion stimulation for complex regional pain syndrome type I and II. *J Pain*. 2020;21:399-408. PMID: 31494275
+
+> **Citation:** Martin SC, et al. Dorsal root ganglion stimulation for the treatment of chronic neuropathic knee pain. *World Neurosurg*. 2020;143:e303-8. PMID: 32711140
+
+> **Citation:** Schu S, et al. Spinal cord stimulation of the dorsal root ganglion for groin pain — a retrospective review. *Pain Pract*. 2015;15(4):293-9. PMID: 24690212
+
+> **Citation:** Morgalla MH, et al. Dorsal root ganglion stimulation used for the treatment of chronic neuropathic pain in the groin: a single-center study with long-term prospective results in 34 cases. *Neuromodulation*. 2017;20(8):753-60. PMID: 29131488
+
+> **Citation:** Mol F, et al. Comparing the efficacy of dorsal root ganglion stimulation with conventional medical management in patients with chronic postsurgical inguinal pain (SMASHING). *Neuromodulation*. 2023;26(8):1788-94. PMID: 36456417
+
+> **Citation:** Huygen FJPM, et al. Effectiveness and safety of dorsal root ganglion stimulation for the treatment of chronic pain: a pooled analysis. *Neuromodulation*. 2020;23(2):213-21. PMID: 31730273
+
+> **Citation:** Chapman KB, et al. Lead fracture and other device-related complications with dorsal root ganglion stimulation. *Neuromodulation*. 2026 (online ahead of print). PMID: 42439846
+
+> **Citation:** Burns SL, et al. Dorsal root ganglion stimulation for patients with chronic pelvic pain: a retrospective long-term outcome study. *Interv Pain Med*. 2024;3:100397. PMID: 39239506
+
+> **Citation:** Saw M, et al. Long-term pain reduction and explantation rates of spinal cord stimulation: meta-analysis. *Neuromodulation*. 2026 (online ahead of print). PMID: 42573547
+
+> **Citation:** Van Buyten JP, et al. Therapy-related explants after spinal cord stimulation: results of an international retrospective chart review study. *Neuromodulation*. 2017;20(7):642-9. PMID: 28834092
+
+> **Citation:** Wahezi SE, et al. Spinal cord stimulation explantation and chronic pain: a systematic review. *J Pain Res*. 2025;18:1327-40. PMID: 40124536
+
+> **Citation:** Huang KT, et al. A national survey of spinal cord stimulation trial-to-permanent conversion rates. *Neuromodulation*. 2015;18(2):133-9. PMID: 24930992
+
+> **Citation:** Bendel MA, et al. Spinal cord stimulator related infections: findings from a multicenter retrospective analysis of 2737 implants. *Neuromodulation*. 2017;20(6):553-7. PMID: 28726312
+
+> **Citation:** Gheith R, et al. Real-world outcomes of spinal cord stimulation: a consecutive institutional cohort. *J Pain Res*. 2025;18:6381-95. PMID: 41341898
+
+> **Citation:** Eldabe S, et al. Does a screening trial for spinal cord stimulation in patients with chronic pain of neuropathic origin have clinical utility (TRIAL-STIM)? *Pain*. 2020;161(12):2820-9. PMID: 32618875
+
+> **Citation:** Hoffmann CM, et al. Is response to a pre-implant diagnostic peripheral nerve block associated with efficacy after peripheral nerve stimulation implantation? A ten-year enterprise-wide analysis. *Neuromodulation*. 2024;27(5):873-80. PMID: 37943242
+
+> **Citation:** D'Souza RS, et al. Prognostic value of 60-day temporary peripheral nerve stimulation in predicting analgesic outcomes after permanent peripheral nerve stimulator implantation: a multicenter analysis. *Neuromodulation*. 2025 (online ahead of print). PMID: 41379062
+
+> **Citation:** Schwarm FP, et al. The predictive value of transcutaneous electrical nerve stimulation for peripheral nerve field stimulation. *Neuromodulation*. 2021;24(6):1051-8. PMID: 32757257
+
+> **Citation:** Sindou MP, Mertens P, Bendavid U, García-Larrea L, Mauguière F. Predictive value of somatosensory evoked potentials for long-lasting pain relief after spinal cord stimulation. *Neurosurgery*. 2003;52(6):1374-83. PMID: 12762882
+
+> **Citation:** Petersen EA, et al. Effect of high-frequency (10-kHz) spinal cord stimulation in patients with painful diabetic neuropathy: a randomized clinical trial. *JAMA Neurol*. 2021;78(6):687-98. PMID: 33818600
+
+> **Citation:** Iovenko D, et al. BurstDR spinal cord stimulation for chronic inflammatory demyelinating polyneuropathy. *Surg Neurol Int*. 2025;16:430. PMID: 41216157
+
+> **Citation:** Odonkor CA, Karpe J. Peripheral nerve stimulation targeting the trochanteric branch of the femoral nerve, followed by DRG stimulation, for hip pain. *Interv Pain Med*. 2026;5:100770. PMID: 42164454
+
+> **Citation:** Kesayan T, et al. Capsulectomy at explant: rethinking spinal cord stimulator infected generator management. *Pain Pract*. 2026;26:e70212. PMID: 42837216
+
+> **Citation:** Sherwood D, et al. Clinical practice audit of 60-day temporary peripheral nerve stimulation. *Am J Phys Med Rehabil*. 2026. PMID: 42733135
+
+> **Citation:** Salga M, et al. Sciatic nerve compression by neurogenic heterotopic ossification: use of CT to determine surgical indications. *Skeletal Radiol*. 2015;44(2):233-40. PMID: 25218150
+
+> **Citation:** Amar R, et al. Neurogenic heterotopic ossification of the hip: magnetic resonance imaging versus computed tomography for preoperative assessment. *Eur J Radiol*. 2024;175:111466. PMID: 38615504
+
+> **Citation:** Genêt F, et al. Troublesome heterotopic ossification after central nervous system damage: a survey of 570 surgeries. *PLoS One*. 2011;6(1):e16632. PMID: 21304993
+
+> **Citation:** Genêt F, et al. Impact of late surgical intervention on heterotopic ossification of the hip after traumatic neurological injury. *J Bone Joint Surg Br*. 2009;91(11):1493-8. PMID: 19880896
+
+> **Citation:** Chalidis B, Stengel D, Giannoudis PV. Early excision and late excision of heterotopic ossification after traumatic brain injury are equivalent: a systematic review of the literature. *J Neurotrauma*. 2007;24(11):1675-86. PMID: 18001198
+
+> **Citation:** de l'Escalopier N, et al. Resection of heterotopic ossification around the hip after trauma. *EFORT Open Rev*. 2019;4(6):263-8. PMID: 31210967
+
+> **Citation:** Gatin L, et al. Postoperative infections after excision of neurogenic heterotopic ossifications at the hip. *Orthop Traumatol Surg Res*. 2017;103(3):357-61. PMID: 28215612
+
+> **Citation:** Lachiewicz PF, et al. Surgical treatment of severe heterotopic ossification after total hip arthroplasty. *J Arthroplasty*. 2024;39:S312-7. PMID: 38360283
+
+> **Citation:** Kromoser C, et al. Femoral nerve neuropathy by synovial hip cyst as a treatable cause. *Neurol Ther*. 2025;14:2765-72. PMID: 41123842
+
+> **Citation:** Keister ET, et al. Nontraumatic myositis ossificans adjacent to the femoral nerve. *Cureus*. 2026;18:e116056. PMID: 42859843
+
+> **Citation:** Thejeel B, et al. Magnetic resonance imaging of femoral nerve injury in the setting of anterior approach total hip arthroplasty. *Clin Imaging*. 2024;108:110112. PMID: 38457906
+
+> **Citation:** Zeilig G, Weingarden HP, Levi R, Peer I, Ohry A, Blumen N. Heterotopic ossification in Guillain-Barré syndrome: incidence and effects on functional outcome with long-term follow-up. *Arch Phys Med Rehabil*. 2006;87(1):92-5. PMID: 16401445

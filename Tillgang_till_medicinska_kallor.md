@@ -9,11 +9,11 @@
 
 | | Antal |
 |---|---|
-| Filer i sources/fulltext/ | **398** (107 PDF + 291 text) |
+| Filer i sources/fulltext/ | **446** (130 PDF + 316 text) |
 | Filer i research-ivig-iga/fulltexts/ | **43** (1 PDF + 42 text) |
-| Unika artiklar (efter deduplicering) | **330** |
+| Unika artiklar (efter deduplicering) | **355** |
 | Ej publicerad i journal | **1** |
-| **Totalt filer på disk** | **441** |
+| **Totalt filer på disk** | **489** |
 
 ---
 
@@ -442,6 +442,36 @@
 | 314 | **Shellock 2018.** MR med PNS-elektrodfragment: säkert 1,5 T, ej 3 T | PMID:29057550 | [PDF](/source/Shellock_2018_MRI_PNS_LeadFragments_PMID29057550.pdf) <br> [text](/source/Shellock_2018_MRI_PNS_LeadFragments_PMID29057550.txt) |
 | 315 | **Mavrogenis 2012.** Klassifikation neurogen HO i höft (främre/bakre/anteromedial/cirkumferent) | PMC3349026 | [PDF](/source/Mavrogenis_2012_NeurogenicHO_Hip_Classification_PMC3349026.pdf) <br> [text](/source/Mavrogenis_2012_NeurogenicHO_Hip_Classification_PMC3349026.txt) |
 
+#### Tillagda 2026-11-25 (andra omgången): DRG/SCS, TENS-placering, HO och nervkompression
+
+| # | Artikel | PMID/PMC | Fulltext |
+|---|---------|----------|---------|
+| 316 | **Deer 2017.** **ACCURATE RCT: DRG vs SCS** (n=152), 74 % vs 53 % vid 12 mån; kausalgi-undergrupp 79 % vs 53 % | PMC5359787 | [PDF](/source/Deer_2017_ACCURATE_DRG_vs_SCS_RCT_PMC5359787.pdf) <br> [text](/source/Deer_2017_ACCURATE_DRG_vs_SCS_RCT_PMC5359787.txt) |
+| 317 | **Huygen 2020.** DRG poolad analys (n=217): elektrodbrott 5,9 %, infektion 5,1 % | PMC7079258 | [PDF](/source/Huygen_2020_DRG_Pooled_Analysis_PMC7079258.pdf) <br> [text](/source/Huygen_2020_DRG_Pooled_Analysis_PMC7079258.txt) |
+| 318 | **D'Souza 2022.** DRG-översikt nedre extremitet | PMC9464732 | [PDF](/source/DSouza_2022_DRG_Stimulation_LowerExtremity_Review_PMC9464732.pdf) <br> [text](/source/DSouza_2022_DRG_Stimulation_LowerExtremity_Review_PMC9464732.txt) |
+| 319 | **Burns 2024.** DRG bäckensmärta: 45 % revision, 35 % explantation | PMC11372976 | [PDF](/source/Burns_2024_DRG_ChronicPelvicPain_LongTerm_PMC11372976.pdf) <br> [text](/source/Burns_2024_DRG_ChronicPelvicPain_LongTerm_PMC11372976.txt) |
+| 320 | **Parkash 2023.** DRG L1–L2 vid ljumsksmärta efter neurektomi | PMC11372865 | [PDF](/source/Parkash_2023_DRG_Inguinal_TripleNeurectomy_PMC11372865.pdf) <br> [text](/source/Parkash_2023_DRG_Inguinal_TripleNeurectomy_PMC11372865.txt) |
+| 321 | **Odonkor 2026.** PNS femoralisgren → DRG vid höftsmärta (fall) | PMC13185760 | [PDF](/source/Odonkor_2026_PNS_DRG_Hip_GTPS_PMC13185760.pdf) <br> [text](/source/Odonkor_2026_PNS_DRG_Hip_GTPS_PMC13185760.txt) |
+| 322 | **Odonkor 2026.** Biomarkörer/prediktorer för SCS-svar (SSEP) — systematisk översikt | PMC13706508 | [PDF](/source/Odonkor_2026_SCS_Biomarker_Predictors_PMC13706508.pdf) <br> [text](/source/Odonkor_2026_SCS_Biomarker_Predictors_PMC13706508.txt) |
+| 323 | **Eldabe 2020.** TRIAL-STIM RCT: SCS-provperiod specificitet 8 % | PMC7654945 | [PDF](/source/Eldabe_2020_TRIALSTIM_SCS_ScreeningTrial_RCT_PMC7654945.pdf) <br> [text](/source/Eldabe_2020_TRIALSTIM_SCS_ScreeningTrial_RCT_PMC7654945.txt) |
+| 324 | **Eldabe 2023.** TRIAL-STIM 36 månader | PMC10158909 | [PDF](/source/Eldabe_2023_TRIALSTIM_36month_PMC10158909.pdf) <br> [text](/source/Eldabe_2023_TRIALSTIM_36month_PMC10158909.txt) |
+| 325 | **Van Buyten 2017.** SCS-explantation ~7,9 %/år | PMC5656934 | [PDF](/source/VanBuyten_2017_SCS_Explants_PMC5656934.pdf) <br> [text](/source/VanBuyten_2017_SCS_Explants_PMC5656934.txt) |
+| 326 | **Wahezi 2025.** SCS-explantation systematisk översikt (n=13 026) | PMC11929510 | [PDF](/source/Wahezi_2025_SCS_Explantation_SR_PMC11929510.pdf) <br> [text](/source/Wahezi_2025_SCS_Explantation_SR_PMC11929510.txt) |
+| 327 | **Gheith 2025.** 505 SCS-provperioder, explantation 14 %, fall predicerar | PMC12672166 | [PDF](/source/Gheith_2025_SCS_505Trials_Explant_PMC12672166.pdf) <br> [text](/source/Gheith_2025_SCS_505Trials_Explant_PMC12672166.txt) |
+| 328 | **Edelbroek 2026.** Psykologiska prediktorer SCS | PMC13052926 | [PDF](/source/Edelbroek_2026_SCS_Psychological_Predictors_PMC13052926.pdf) <br> [text](/source/Edelbroek_2026_SCS_Psychological_Predictors_PMC13052926.txt) |
+| 329 | **Petersen 2021.** SENZA-PDN RCT: 10 kHz SCS vid diabetesneuropati 79 % vs 5 % | PMC8022268 | [text](/source/Petersen_2021_SENZA_PDN_10kHz_RCT_PMC8022268.txt) |
+| 330 | **Iovenko 2025.** Burst-SCS vid CIDP (fall) | PMC12596761 | [PDF](/source/Iovenko_2025_BurstSCS_CIDP_PMC12596761.pdf) <br> [text](/source/Iovenko_2025_BurstSCS_CIDP_PMC12596761.txt) |
+| 331 | **Sabiroglu 2026.** Neuromodulering vid neuromuskulär sjukdom — översikt | PMC13541842 | [PDF](/source/Sabiroglu_2026_Neuromodulation_Neuromuscular_PMC13541842.pdf) <br> [text](/source/Sabiroglu_2026_Neuromodulation_Neuromuscular_PMC13541842.txt) |
+| 332 | **Kesayan 2026.** SCS-infektion hos immunsupprimerade | PMC13641286 | [PDF](/source/Kesayan_2026_SCS_Infection_Immunocompromised_PMC13641286.pdf) <br> [text](/source/Kesayan_2026_SCS_Infection_Immunocompromised_PMC13641286.txt) |
+| 333 | **Gilmore 2025.** 60-dagars PNS, 4-årsuppföljning | PMC12085521 | [PDF](/source/Gilmore_2025_60dayPNS_LBP_4yearFollowUp_PMC12085521.pdf) <br> [text](/source/Gilmore_2025_60dayPNS_LBP_4yearFollowUp_PMC12085521.txt) |
+| 334 | **Johnson 2021.** TENS: faktorer som påverkar utfall, placering vid domningar | PMC8070828 | [PDF](/source/Johnson_2021_TENS_FactorsInfluencingOutcome_Review_PMC8070828.pdf) <br> [text](/source/Johnson_2021_TENS_FactorsInfluencingOutcome_Review_PMC8070828.txt) |
+| 335 | **Amer-Cuenca 2026.** TENS dos–respons metaanalys: intensitet viktigast | PMC12857606 | [PDF](/source/AmerCuenca_2026_TENS_DoseResponse_CLBP_MetaAnalysis_PMC12857606.pdf) <br> [text](/source/AmerCuenca_2026_TENS_DoseResponse_CLBP_MetaAnalysis_PMC12857606.txt) |
+| 336 | **Xu 2025.** TENS elektrodplacering RCT (knäartros) | PMC12279651 | [PDF](/source/Xu_2025_TENS_ElectrodePlacement_KneeOA_RCT_PMC12279651.pdf) <br> [text](/source/Xu_2025_TENS_ElectrodePlacement_KneeOA_RCT_PMC12279651.txt) |
+| 337 | **Elboim-Gabyzon 2019.** TENS efter höftfraktur, under gång (RCT) | PMC6825510 | [PDF](/source/ElboimGabyzon_2019_TENS_HipFracture_RCT_PMC6825510.pdf) <br> [text](/source/ElboimGabyzon_2019_TENS_HipFracture_RCT_PMC6825510.txt) |
+| 338 | **Rakel 2014.** TENS efter knäprotes (RCT n=317) | PMC4250415 | [text](/source/Rakel_2014_TENS_TKA_Rehabilitation_RCT_PMC4250415.txt) |
+| 339 | **Genêt 2011.** Neurogen HO: 539 operationer, återfall oberoende av tidpunkt | PMC3031592 | [PDF](/source/Genet_2011_NeurogenicHO_570Surgeries_PMC3031592.pdf) <br> [text](/source/Genet_2011_NeurogenicHO_570Surgeries_PMC3031592.txt) |
+| 340 | **de l'Escalopier 2019.** Resektion av HO i höft — översikt | PMC6549106 | [PDF](/source/deLEscalopier_2019_HO_Hip_Resection_Review_PMC6549106.pdf) <br> [text](/source/deLEscalopier_2019_HO_Hip_Resection_Review_PMC6549106.txt) |
+
 #### Ej nedladdade — för Markus att hämta (2026-11-25)
 
 Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i webbläsare" = gratis att läsa men sajten blockerar automatisk nedladdning; "PMC (blockerad text)" = finns i PMC men förlaget spärrar maskinläsning — öppna länken i webbläsaren och spara PDF.
@@ -467,6 +497,25 @@ Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i w
 | B | Gordon 2016 — Elstimulering för axonregeneration | 26754579 | Neurotherapeutics (Springer) | PMC4824030 (blockerad text) |
 | B | Bennett 2011 — Låg TENS-dos förklarar negativa studier | 21435786 | Pain (LWW) | Betalvägg |
 | B | Rippe 2026 — Multisite PNS vid höftsmärta (avaskulär nekros) | — | Pain Med Case Rep | Fri PDF på tidskriftens sajt (ej hämtad) |
+| A | Salga 2015 — Ischiaskompression av neurogen HO (47 % behövde frilägning) | 25218150 | Skeletal Radiol (Springer) | Betalvägg |
+| A | Amar 2024 — MR vs CT vid höft-HO, n. femoralis | 38615504 | Eur J Radiol (Elsevier) | Betalvägg |
+| A | Genêt 2009 — Sen operation av höft-HO | 19880896 | J Bone Joint Surg Br | Betalvägg |
+| A | Sindou 2003 — SSEP predicerar SCS-effekt (0 % vs 75 %) | 12762882 | Neurosurgery (OUP) | Betalvägg |
+| A | Martin 2020 — DRG L3 vid neuropatisk knäsmärta | 32711140 | World Neurosurg (Elsevier) | Betalvägg |
+| A | Chapman 2026 — Elektrodbrott vid DRG | 42439846 | Neuromodulation | Betalvägg |
+| A | Saw 2026 — SCS långtidsutfall och explantation, metaanalys | 42573547 | Neuromodulation | Betalvägg |
+| A | Léonard 2011 — Lågfrekvent TENS verkningslös vid opioidbehandling | 20870464 | J Pain (Elsevier) | Betalvägg / ev. fri i webbläsare |
+| A | Oksar 2024 — TENS-placering efter höftfraktur (RCT) | 38639518 | Eur Rev Med Pharmacol Sci | Betalvägg |
+| A | Zeilig 2006 — HO vid GBS (6 %) | 16401445 | Arch Phys Med Rehabil | Betalvägg |
+| B | Levy 2020 — Habituation SCS vs DRG | 31494275 | J Pain | Betalvägg |
+| B | Schu 2015; Morgalla 2017; Mol 2023 — DRG vid ljumsksmärta | 24690212; 29131488; 36456417 | Pain Pract; Neuromodulation | Betalvägg |
+| B | Hoffmann 2024; D'Souza 2025 — Blockad/temporär PNS som prediktor | 37943242; 41379062 | Neuromodulation | Betalvägg |
+| B | Schwarm 2021 — TENS predicerar perifer fältstimulering | 32757257 | Neuromodulation | Betalvägg |
+| B | Huang 2015; Bendel 2017 — SCS konvertering, infektion | 24930992; 28726312 | Neuromodulation | Betalvägg |
+| B | Sherwood 2026 — 60-dagars PNS, oberoende audit | 42733135 | Am J Phys Med Rehabil | Betalvägg |
+| B | Gatin 2017; Chalidis 2007; Lachiewicz 2024 — HO-kirurgi: infektion, tidpunkt, smärtutfall | 28215612; 18001198; 38360283 | OTSR; J Neurotrauma; J Arthroplasty | Betalvägg |
+| B | Kromoser 2025; Keister 2026; Thejeel 2024 — Femoraliskompression reversibel / MR | 41123842; 42859843; 38457906 | Neurol Ther; Cureus; Clin Imaging | Kontrollera OA (Cureus är fri) |
+| B | Johnson 1991; Cheing 2003; Bjordal 2003 — TENS långtidsanvändning, passlängd, analgetikabehov | 2052389; 12691335; 12600800 | Pain; J Rehabil Med; Eur J Pain | Betalvägg |
 | B | Övriga i dokumentet utan fulltext: Yavuz 2013 (23411652), Oosterhof 2008 (17659838), Ruts 2012 (22154920), Yakovlev 2010 (20672555), Tolba 2020 (32823185), Manchikanti/ASIPP 2024 (39565237) | | | Betalvägg / ej försökt |
 
 ### Övriga relevanta artiklar
@@ -608,4 +657,4 @@ Prioritet: **A** = central för höft-/PNS-frågan, **B** = stödjande. "Fri i w
 
 ---
 
-*330 unika artiklar (398 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 441 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-11-25.*
+*355 unika artiklar (446 filer i sources/fulltext/, 43 filer i research-ivig-iga/fulltexts/, totalt 489 filer). 1 ej publicerad (Hansa imlifidase). Uppdaterad 2026-11-25.*

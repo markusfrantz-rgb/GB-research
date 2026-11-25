@@ -1,0 +1,375 @@
+TITLE: Dose–Response Effects of Transcutaneous Electrical Nerve Stimulation for Chronic Low Back Pain: A Systematic Review and Meta‐Analysis
+ABSTRACT: Transcutaneous electrical nerve stimulation (TENS) is a widely used non‐pharmacological method for pain management, though its effectiveness in individuals with chronic low back pain (CLBP) is uncertain. Previous studies and systematic reviews have not systematically analysed the influence of TENS dosing parameters on treatment outcomes. To assess the impact of TENS on pain relief in individuals with CLBP and to explore the dose‐dependent effects of TENS parameters on pain relief. A systematic review and meta‐analysis was conducted following PROSPERO registration. Searches were performed in PubMed, Cochrane and Scopus databases. A total of 29 studies out of 1162 screened were included. Study quality was assessed using the PEDro scale and RoB‐2 tool. Meta‐analyses using random‐ and mixed‐effects models were conducted. The initial random‐effects model showed no significant effect of TENS on pain (d
++ = 0.16, p > 0.050, k = 64) when dosing parameters were not considered. However, moderator analyses comparing TENS with control or placebo groups revealed that appropriate intensity was associated with larger effects than inappropriate intensity (Δd
++≈0.67; F(1, 16) = 7.27, p = 0.016), with subgroup estimates of d
++ = 0.97 (95% CI 0.65–1.30; k = 12) versus d
++ = 0.30 (95% CI −0.11 to 0.72; k = 6). Frequency, number of sessions and electrode placement showed no significant impact. TENS can reduce pain in individuals with CLBP when delivered at a sensory‐level intensity that is clearly perceptible and titrated throughout the session. Fixed intensity and stimulation strong enough to elicit muscle contractions are generally not recommended. These findings support the relevance of dosing in optimising TENS effectiveness. Overall, the certainty of evidence appears low due to the high risk of bias and substantial heterogeneity. This meta‐analysis provides a comprehensive synthesis of the evidence on transcutaneous electrical nerve stimulation (TENS) for pain relief in chronic low back pain (CLBP), with a specific focus on the role of stimulation parameters as sources of heterogeneity. By systematically examining dose‐related characteristics, particularly stimulation intensity, this work helps clarify why previous reviews have reported inconsistent findings. The results suggest that inadequate dosing may obscure potential analgesic effects, highlighting the importance of parameter reporting and implementation when interpreting existing trials. Overall, this review offers a clinically and methodologically relevant framework to inform the design of future high‐quality trials and to guide more nuanced evaluation of TENS within multimodal CLBP management. PROSPERO: CRD42023468176
+
+## Introduction
+Chronic low back pain (CLBP) is highly prevalent and a leading cause of disability worldwide, contributing substantially to years lived with disability and imposing a considerable burden on healthcare systems (Andersson 1999; Devereaux 2004; Sliwa and Global Burden of Disease Study 2013 Collaborators 2015). Its growing incidence (Zagórski et al. 2024), underscoring the urgency of developing effective and scalable treatment strategies (Suri et al. 2017; Knauer et al. 2010).
+Preserving physical function is a crucial component in managing CLBP, as exercise has been shown to improve mobility and alleviate pain over time (Maher 2004; Airaksinen et al. 2006). However, pain can significantly limit patients' ability to engage in physical activity, making pain relief a critical factor not only for symptom management but also for enabling therapeutic exercise. While pharmacological treatments, particularly opioids, may provide symptomatic relief, their use is associated with serious risks (Volkow and McLellan 2016). Consistent with contemporary guidance, non‐pharmacological interventions, especially structured exercise, multidisciplinary rehabilitation and psychologically informed approaches, are prioritised, with drugs used cautiously and long‐term opioids generally discouraged (Volkow and McLellan 2016; Wu et al. 2018). In this context, short‐term analgesia can be clinically valuable to support engagement and adherence to active care.
+Transcutaneous electrical nerve stimulation (TENS) represents a non‐pharmacological modality that is widely used in clinical and self‐management settings (Wright and Sluka 2001; Verville et al. 2023). TENS delivers electrical pulses via skin‐surface electrodes to stimulate peripheral nerves, inducing physiological responses that typically alleviate pain (Johnson and Bjordal 2011), notably by enhancing endogenous opioid release and reducing central nervous system excitability (Vance et al. 2014). TENS is safe, non‐invasive and can be self‐administered, making a plausible adjunct to facilitate participation in guideline‐endorsed active interventions (e.g., exercise) (Johnson et al. 2022; Walsh et al. 2009). When these parameters are optimised, TENS has demonstrated substantial pain relief, particularly in cases of postoperative pain, fibromyalgia and osteoarthritis (Bjordal et al. 2003; Amer‐Cuenca et al. 2023; Vance et al. 2012). Conversely, suboptimal dosing has been associated with a lack of therapeutic benefit (Amer‐Cuenca et al. 2023; Bjordal et al. 2007). Clarifying dose‐dependent effects is therefore essential to define the expected benefits and appropriate clinical use of TENS in CLBP.
+Evidence for TENS in CLBP specifically remains inconclusive, which has led to clinical guidelines advising against its use. For example, the 2021 guidelines from the National Institute for Health and Care Excellence (NICE) in the United Kingdom recommend against the use of TENS for non‐specific CLBP, citing limited evidence supporting its effectiveness (Johnson et al. 2022). Similarly, the Center for Medicare Services (CMS) issued a decision memorandum in 2012, stating that TENS is neither reasonable nor necessary for the treatment of CLBP, a position that remains in effect (cms.gov). These recommendations reflect the inconsistent findings reported in numerous systematic reviews and meta‐analyses, including earlier studies (notably the Cochrane review on TENS versus placebo in CLBP; Khadilkar et al. 2008) and the four meta‐analyses published in the last decade (Jauregui et al. 2016; Resende et al. 2018; Wu et al. 2018; Verville et al. 2023). However, these reviews either combined TENS with other interventions, making it difficult to isolate its specific effects, or failed to account for variations in stimulation parameters, limiting the interpretation of their results.
+To address the need to examine how TENS dosing affects treatment outcomes, the present meta‐analysis assessed the efficacy of TENS for pain reduction in CLBP and explored how parameters such as frequency, intensity, electrode placement and treatment duration influence treatment outcomes.
+
+## Methods
+This systematic review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) guidelines (Page et al. 2021). The protocol for this study was prospectively registered on the Prospective Register of Systematic Reviews (PROSPERO) on October 10, 2023, and the full text is available online (https://www.crd.york.ac.uk/PROSPERO/view/CRD42023468176).
+
+## Search Strategy
+We searched MEDLINE (via PubMed), the Cochrane Central Register of Controlled Trials, and Scopus from inception to November 16, 2024. Search terms included MeSH headings and synonyms related to the intervention (transcutaneous electrical nerve stimulation), and the MeSH term related to the population (‘Low Back Pain’). To ensure completeness, reference lists of relevant studies and systematic reviews were also manually screened. Only studies involving humans and published in English, Spanish, Portuguese or French were included. Full search strategies are detailed in Data S1.
+
+## Eligibility Criteria and Selection
+Eligible studies met the following criteria: (1) randomised controlled trial design; (2) adult participants (≥ 18 years) with a diagnosis of non‐specific CLBP (pain > 12 weeks); (3) TENS administered alone or alongside other treatments; (4) pain intensity measured from baseline to follow‐up using a standardised quantitative scale; and (5) comparison of TENS with non‐intervention, placebo or other pain treatments (e.g., exercise, pharmacological agents, cryotherapy, heat, acupuncture or other electrotherapies). Co‐interventions equally applied to both groups were permitted. Studies using other electrical modalities, including invasive techniques (e.g., electroacupuncture, percutaneous electrical nerve stimulation) or non‐sensory stimulation (e.g., microcurrents), were excluded.
+All records were screened for duplicates, and titles and abstracts were independently reviewed by two authors (M.D.A. and J.F.L.). Studies not meeting inclusion criteria were excluded, and those with insufficient data were assessed via full‐text review. Disagreements were resolved by consensus or, if needed, by a third reviewer (J.J.A.‐C.).
+
+## Data Extraction
+A standardised data extraction form was developed. Extracted data included author, study title, objective, randomisation methods, treatment allocation, blinding, comparison groups, participant characteristics, number of sessions, TENS parameters, stimulation sites, adverse effects, and baseline and post‐intervention pain outcomes. When studies reported pain at both rest and during movement, data from the resting condition were extracted, as this was the most frequently reported measure across the included studies. If multiple pain assessments were available, the one closest to treatment completion was selected, in line with evidence suggesting TENS produces its greatest analgesic effects during the treatment period. Disability was collected as registered but not meta‐analysed due to heterogeneity across instruments and incomplete reporting (see Table S1).
+For subgroup analysis of dose‐dependent effects, four TENS parameters were assessed in each trial and classified as either ‘appropriate’ or ‘inappropriate’ delivery of stimulation:
+Frequency above 10 Hz but below 200 Hz, which is considered optimal for chronic pain management compared to lower frequencies (≤ 10 Hz) (Sluka et al. 2000). Mixed frequency applications (alternating between low and high frequencies within a session) were also considered appropriate, as they can mitigate the analgesic tolerance that may occur with prolonged TENS use (Liebano et al. 2009).TENS intensity was required to produce a sustained sensory response, ranging from a distinct but comfortable sensation to the maximum tolerable level. Intensity was deemed inappropriate when it: (1) exceeded the motor threshold, eliciting muscle contractions that could aggravate pain in sensitised CLBP patients; (2) was fixed across participants, disregarding individual sensory thresholds; (3) prevented participants from adjusting intensity during treatment—necessary to counteract accommodation; or (4) lacked reporting on whether patients received instructions for intensity adjustment (Chesterton et al. 2002; Pantaleao et al. 2011).Electrode placement should correspond to the pain site or nerve bundles near the reported pain location (Johnson 2021; Johnson et al. 2022), as the optimal placement may vary across individuals based on their specific pain experiences. Therefore, applying the same electrode placement to all participants cannot be considered appropriate.A minimum of 10 sessions was required, as TENS has been shown to produce cumulative effects in chronic pain conditions (Amer‐Cuenca et al. 2023; Marchand et al. 1993).
+
+Frequency above 10 Hz but below 200 Hz, which is considered optimal for chronic pain management compared to lower frequencies (≤ 10 Hz) (Sluka et al. 2000). Mixed frequency applications (alternating between low and high frequencies within a session) were also considered appropriate, as they can mitigate the analgesic tolerance that may occur with prolonged TENS use (Liebano et al. 2009).
+TENS intensity was required to produce a sustained sensory response, ranging from a distinct but comfortable sensation to the maximum tolerable level. Intensity was deemed inappropriate when it: (1) exceeded the motor threshold, eliciting muscle contractions that could aggravate pain in sensitised CLBP patients; (2) was fixed across participants, disregarding individual sensory thresholds; (3) prevented participants from adjusting intensity during treatment—necessary to counteract accommodation; or (4) lacked reporting on whether patients received instructions for intensity adjustment (Chesterton et al. 2002; Pantaleao et al. 2011).
+Electrode placement should correspond to the pain site or nerve bundles near the reported pain location (Johnson 2021; Johnson et al. 2022), as the optimal placement may vary across individuals based on their specific pain experiences. Therefore, applying the same electrode placement to all participants cannot be considered appropriate.
+A minimum of 10 sessions was required, as TENS has been shown to produce cumulative effects in chronic pain conditions (Amer‐Cuenca et al. 2023; Marchand et al. 1993).
+A subgroup analysis was conducted to focus exclusively on studies comparing TENS with a control or placebo, in order to minimise overall heterogeneity. This approach sought to reduce variability arising from differences in treatment modalities with potentially distinct mechanisms of action and study designs, enhancing the understanding of TENS' effect on pain.
+In cases where outcome data were unclear or missing, authors were contacted for clarification. Two reviewers (M.D.A. and J.F.L.) independently extracted data, resolving disagreements by discussion or, if needed, with a third reviewer (J.J.A.‐C.).
+
+## Assessment of Methodological Quality and Bias Risk
+The methodological quality and risk of bias for each study were independently assessed by two reviewers (M.D.A. and F.F.S.) using the PEDro scale (De Morton 2009) and version 2 of the Cochrane risk‐of‐bias tool for randomised trials (RoB 2) (Higgins et al. 2016). PEDro (pre‐specified in the protocol) served as the methodological‐quality threshold for sensitivity analyses (≥ 6), and RoB‐2 provided a complementary domain‐level assessment. The PEDro scale is an 11‐item tool assessing eligibility criteria, randomisation, allocation concealment, baseline comparability, blinding (participants, therapists, assessors), retention, intention‐to‐treat analysis, between‐group differences and variability (De Morton 2009). Items 2–11 evaluate internal validity, each scored as one point (total 0–10); item 1, addressing external validity, is not scored. Studies scoring ≥ 6 were classified as moderate to high quality. Disagreements were resolved by discussion.
+The RoB 2 tool assessed internal validity by evaluating sequence generation, allocation concealment, blinding and other biases (Higgins et al. 2016). Each domain was rated as ‘Low’ (minimal risk), ‘High’ (high risk) or ‘Some Concerns’ (unclear risk due to insufficient reporting). An overall risk‐of‐bias judgement was then assigned to each RCT.
+
+## Data Synthesis
+
+## Effect Size
+The effect size (d) was calculated as the standardised mean difference in change scores between TENS and control groups. For each comparison (k) and pain outcome, the effect size (d) was computed by subtracting the mean pre‐post change in the control group from that of the TENS group and dividing by the pooled pretest standard deviation. To correct for small sample bias (n < 20), a correction was applied (Hedges and Olkin 2014). Sampling variances were estimated following Morris (2008). As Pearson correlation coefficients between pre‐ and post‐scores were not reported, r = 0.7 was imputed based on Rosenthal (1991). Positive d values indicated that the outcome of the TENS group has improved to a greater extent (from the pre‐ to the post‐test) as compared to the control group. Effect sizes were interpreted as follows: 0.20 for small, 0.50 for moderate and 0.80 for large effects (Cohen 1988). To aid clinical interpretation, pooled standardised mean differences (SMDs) were back‐translated into the 0–100 mm Visual Analogue Scale (VAS) by multiplying each pooled SMD and its 95% CI by a representative baseline SD (sample‐size–weighted mean of pooled pretest SDs across comparisons). When outcomes were reported on 0–10 NRS, we rescaled to 0–100 prior to computing SDs. Based on established guidance, a 10–20 mm reduction on the VAS (or ≈30% improvement) was considered a minimal clinically important difference for chronic low back pain (Ostelo et al. 2008; Dworkin et al. 2008).
+In RCTs with two treatment groups and one control group (e.g., Bolarinde et al. 2023; Pivovarsky et al. 2021; Yakşi et al. 2021), the control group sample size was divided by two to enable two independent comparisons while avoiding statistical dependence. Similarly, in RCTs with one treatment group and two control groups (e.g., Hsieh and Lee 2002; Itoh et al. 2009; Kibar et al. 2020; Kofotolis et al. 2008; Petrofsky et al. 2020; Shimoji et al. 2007; Tella et al. 2022), the treatment group sample size was also divided by two to allow independent comparisons. In studies with multiple groups, sample sizes were divided by the number of groups to avoid dependence.
+
+## Statistical Analysis
+The PROSPERO pre‐specified dose–response aims were operationalised before quantitative synthesis, and protocol deviations were documented. Specifically, we (i) defined the moderator framework (mixed‐effects weighted ANOVA for categorical moderators; meta‐regression for continuous moderators), (ii) specified criteria for dose appropriateness, and (iii) prioritised control/sham comparators to minimise confounding. See Table S1 for all protocol deviations, rationale and timing.
+A random‐effects model was assumed for statistical calculations. Standardised mean change differences were weighted by inverse variance, with inter‐study variance (τ
+2) estimated using restricted maximum likelihood (Borenstein et al. 2021). The pooled standardised mean change differences (d
++) and corresponding 95% confidence intervals (CIs) were calculated following Hartung and Knapp (2001), and statistical significance was determined using the t‐test. Forest plots provided a visual inspection of effect size heterogeneity. Additionally, Cochran's Q‐statistic and the I
+2 index were calculated to assess variability among effect sizes, with Q‐statistic p ≤ 0.05 indicating variability and I
+2 index thresholds for interpreting heterogeneity (Higgins and Thompson 2002) as follows: null (< 25%), low (25%–49.9%), moderate (50%–74.9%) and large (> 75%).
+Outlier and influence diagnostic procedures were conducted to assess the potential impact of outliers or influential cases on the meta‐analytic estimates (Viechtbauer and Cheung 2010). First, studentised deleted residuals were calculated for each effect size, considering effect sizes with studentised deleted residuals exceeding ±1.96 as potential outliers. Next, case deletion diagnostics were applied to evaluate the influence of removing each effect size on overall parameter estimates as well as on individual parameter estimates. When potential outliers demonstrated an influential impact on the meta‐analytic results, they were removed, and all analyses were subsequently repeated without these values. As a sensitivity analysis, we repeated the primary random‐effects meta‐analysis restricted to comparisons from trials with PEDro ≥ 6. Publication bias was assessed using funnel plot inspection, Egger's test (Egger et al. 1997) and the trim‐and‐fill method (Duval and Tweedie 2000).
+Finally, to investigate the influence of moderator variables on effect size, moderator analyses were conducted. Categorical moderators were analysed using weighted analyses of variance (ANOVAs) with a mixed‐effects model, following the improved method proposed by Knapp and Hartung (2003) as described by Viechtbauer et al. (2015). Furthermore, the proportion of variance explained by each moderator variable was estimated based on Raudenbush (2009) method. Model misspecification was assessed using the QE statistic. All statistical analyses were performed using the metafor package in R at a 5% significance level (p ≤ 0.050) using two‐tailed tests.
+
+## Results
+
+## Characteristics of the Included Studies
+The electronic database search initially yielded 1159 potentially relevant trials, with three additional studies identified through reference list screening. After removing duplicates, 845 trials were assessed for eligibility based on title and abstract. A total of 316 full‐text articles were reviewed, and 29 studies met the inclusion criteria and were included in the analysis (Figure 1).
+PRISMA (2020) flow diagram. PRISMA, preferred reporting items for systematic reviews and meta‐analyses.
+Across the included studies, a total of 1969 participants were analysed, with 1095 receiving TENS either as a standalone intervention or in combination with other treatments. The mean participant age was 47.4 years, ranging from 29.6 to 62.0 years. Women represented an average of 64.0% of the sample, with individual study proportions varying between 19.4% and 100%. This predominance of middle‐aged women with CLBP is consistent with epidemiological trends reported in the literature (Vos et al. 2020).
+Pain intensity was assessed homogenously in 28 of the 29 studies using either visual analogue scale or numeric rating scale (Aguilar‐Ferrándiz et al. 2022; Barker et al. 2008; Bolarinde et al. 2023; de Alencar Caldas et al. 2021; Çolak et al. 2024; Depaoli Lemos et al. 2021; Dias et al. 2021; Elserty et al. 2016; Ezema et al. 2022; Ebadi et al. 2018; Hsieh and Lee 2002; Itoh et al. 2009; Kibar et al. 2020; Kofotolis et al. 2008; Ozkaraoglu et al. 2020; Petrofsky et al. 2020; Pivovarsky et al. 2021; Rajfur et al. 2017; Ratajczak et al. 2011; Sayilir and Yildizgoren 2017; Shimoji et al. 2007; Tella et al. 2022; Topuz et al. 2004; Ramos et al. 2018; Witkoś et al. 2018; Yakşi et al. 2021; Yokoyama et al. 2004; Yoon et al. 2012), both of which are well‐established and widely used measures, demonstrating strong validity and reliability. One study instead employed the McGill Pain Questionnaire, a numerical tool that also quantifies pain intensity (Jalalvandi et al. 2022). Baseline pain intensity averaged 5.2 on a 10‐point scale, with values ranging from 2.3 to 9, corresponding to a moderate pain level. This ensured the absence of a ‘floor effect’, which can obscure post‐treatment improvements when initial pain levels are too low. Such pain intensities are representative of the clinical presentation of CLBP, where moderate to severe pain commonly interferes with daily activities (McGorry et al. 2000). No significant differences in baseline characteristics were observed between groups in any of the included studies (Table 1).
+[TABLE] Author (year) | Design | Interventions groups | Sample size per group | Female (% sample) | Age ± SD | Outcome (ranges) | Pain score during or immediately after TENS | Baseline pain intensity ± SD | Aguilar‐Ferrándiz et al. ( 2022 ) | RCT | Exercise + TENS | 29 | 72.4 | 46 ± 5 | Numerical Rating Scale (0–100) | No | 5.79 ± 2.96 | Exercise + Kinesiotape | 29 | 58.6 | 44 ± 9 | 6.19 ± 2.29 | Barker et al. ( 2008 ) | RCT | TENS | 28 | 50 | 54.1 ± 12.5 | Visual Analogue Scale (0–10) | No | 6.6 ± 1.4 | Sensory discrimination training | 32 | 50 | 52.7 ± 10.7 | 6.3 ± 1.9 | Bolarinde et al. ( 2023 ) | RCT | Conventional PT + HF TENS | 8 | 62.5 | 57.33 ± 8.88 | Numerical Rating Scale (0–10) | No | 6.44 ± 1.81 | Conventional PT + LF TENS | 10 | 60 | 51.38 ± 8.63 | 6.00 ± 2.83 | Conventional PT | 0 | 40 | 50.88 ± 13.18 | 4.90 ± 1.59 | de Alencar Caldas et al. ( 2021 ) | RCT | Education + TENS | 11 | 54.5 | 29.63 ± 9.54 | Visual Analogue Scale (0–10) | No | 4.74 ± 0.83 | Education + cryotherapy | 11 | 54.5 | 29.00 ± 8.09 | 4.23 ± 1.20 | Çolak et al. ( 2024 ) | RCT | US + Exercise + Hot Pack + TENS | 25 | 81 | 53.23 ± 12.08 | Numerical Rating Scale (0–10) | No | 3.76 ± 1.99 | US + Exercise + Hot Pack + IF | 25 | 87 | 54.78 ± 12.27 | 3.60 ± 2.67 | Depaoli Lemos et al. ( 2021 ) | RCT | Exercise + HF TENS | 16 | 81.3 | 52.50 ± 12.42 | Visual Analogue Scale (0–10) | No | 8.88 ± 1.03 | Exercise + electroacupuncture | 16 | 87.5 | 45.37 ± 13.51 | 8.75 ± 0.93 | Exercise | 16 | 68.8 | 50.81 ± 12.96 | 9.19 ± 0.83 | Dias et al. ( 2021 ) | RCT | HF TENS | 35 | 65.7 | 44.0 ± 13.3 | Numerical Rating Scale (0–10) | Yes | 5.4 ± 1.6 | IF 2 KHz (100 Hz) | 35 | 65.7 | 42.5 ± 15.1 | 5.5 ± 1.9 | IF 2 KHz (2 Hz) | 35 | 65.7 | 41.9 ± 14.2 | 4.7 ± 1.8 | IF 4 KHz (100 Hz) | 35 | 57.1 | 32.2 ± 16.1 | 4.9 ± 1.8 | IF 4 KHz (2 Hz) | 35 | 51.4 | 38.2 ± 18.4 | 5.1 ± 2.5 | Placebo IF | 35 | 60 | 33.7 ± 16.2 | 4.7 ± 1.9 | Placebo TENS | 35 | 68.6 | 40.8 ± 16.0 | 4.2 ± 2.2 | LF TENS | 35 | 77.1 | 42.6 ± 13.2 | 4.7 ± 2.3 | Elserty et al. ( 2016 ) | RCT | Exercise + fixed amplitude TENS | 15 | 69 | 36 ± 2.07 | Visual Analogue Scale (0–10) | No | 7.60 ± 1.2 | Exercise + different amplitude TENS | 15 | 69 | 35 ± 2.17 | 7.50 ± 0.95 | Exercise | 15 | 69 | 35 ± 2.21 | 7.33 ± 1.05 | Ezema et al. ( 2022 ) | RCT | TENS | 30 | 13.3 | 53.23 ± 5.14 | Numerical Rating Scale (0–10) | Yes | 9.0 ± 0.50 | Placebo TENS | 32 | 25 | 53.34 ± 5.08 | 9.0 ± 0.38 | Ebadi et al. ( 2018 ) | RCT | TENS | 15 | 66.7 | 44.26 ± 11.54 | Visual Analogue Scale (0–100) | Yes | 44.13 ± 18.17 | Diadynamic current | 15 | 33.3 | 44.43 ± 8.52 | 45.13 ± 21.17 | Hsieh and Lee ( 2002 ) | RCT | Medication + TENS | 49 | 67 | NR | Visual Analogue Scale (0–10) | Yes | 5.33 ± 1.89 | Medication + PENS | 53 | 66 | NR | 5.53 ± 1.97 | Medication | 31 | 68 | NR | 4.90 ± 2.17 | Itoh et al. ( 2009 ) | RCT | TENS | 6 | NR | NR | Visual Analogue Scale (0–100) | Yes | 63.8 ± 16.5 | Acupuncture | 7 | NR | NR | 60.0 ± 19.8 | Control | 6 | NR | NR | 63.7 ± 19.0 | Jalalvandi et al. ( 2022 ) | RCT | TENS | 22 | 63.6 | 36.05 ± 5.11 | McGill Pain Questionnaire (0–78). | No | 51.36 ± 8.46 | Exercise | 22 | 72.7 | 37.86 ± 6.74 | 46.91 ± 9.09 | Kibar et al. ( 2020 ) | RCT | Hot Pack + TENS | 31 | 67.7 | 53.64 ± 13.7 | Visual Analogue Scale (0–10) | No | 6 (0–8) 
+ a 
+ 
+ | Hot Pack + IF | 30 | 66.7 | 59 ± 7.9 | 5 (1–7) 
+ a 
+ 
+ | Hot Pack + Placebo TENS | 30 | 76.7 | 53.7 ± 11.59 | 6 (4–9) 
+ a 
+ 
+ | Kofotolis et al. ( 2008 ) | RCT | TENS | 23 | 100 | 41.2 ± 5.0 | Borg Verbal Numerical Scale (0–10) | Yes | 2.30 ± 0.40 | Exercise | 21 | 100 | 41.0 ± 5.5 | 2.1 ± 0.8 | Placebo TENS | 21 | 100 | 42.2 ± 7.8 | 2.1 ± 0.7 | Ozkaraoglu et al. ( 2020 ) | RCT | TENS | 20 | 55 | 41.60 ± 11.05 | Visual Analogue Scale (0–10) | Yes | 6.10 ± 2.38 | LASER | 20 | 40 | 39.35 ± 12.61 | 7.1 ± 1.65 | Petrofsky et al. ( 2020 ) | RCT | TENS | 15 | NR | 47.3 ± 13.3 | Visual Analogue Scale (0–10) | Yes | 42.2 ± 18.8 | Thermotherapy | 15 | NR | 39.7 ± 12.2 | 40.3 ± 28.2 | Control | 15 | NR | 43.3 ± 11.0 | 49.1 ± 20.6 | Pivovarsky et al. ( 2021 ) | RCT | HF TENS | 35 | 65.7 | 44 ± 2.2 | Numerical Rating Scale (0–10) | Yes | 5.4 ± 1.6 | LF TENS | 35 | 77.7 | 42.6 ± 2.2 | 4.7 ± 2.2 | Placebo TENS | 35 | 68.6 | 40.8 ± 2.7 | 4.2 ± 2.2 | Rajfur et al. ( 2017 ) | RCT | TENS | 20 | 55 | 50.23 ± 16.34 | Visual Analogue Scale (0–10) | Yes | 7.69 ± 1.34 | High voltage electric stimulation | 19 | 60 | 47.75 ± 14.84 | 57.9 ± 7.37 | IF | 21 | 57.9 | 48.67 ± 15.19 | 7.63 ± 1.53 | Diadynamic current | /21 / | 61.9 | 52.11 ± 17.21 | 7.29 ± 1.66 | Control | 21 | 61.9 | 49.77 ± 13.67 | 7.34 ± 1.57 | Ratajczak et al. ( 2011 ) | RCT | TENS | 40 | 67.5 | 50.8 | Visual Analogue Scale (0–10) | No | 7.07 ± 1.89 | Diadynamic current | 40 | 75 | 52.2 | 6.55 ± 2.24 | Sayilir and Yildizgoren ( 2017 ) | RCT | TENS | 29 | 58.6 | 51.1 ± 12.5 | Visual Analogue Scale (0–10) | No | 6.3 ± 2.1 | Diadynamic current | 26 | 57.7 | 51.4 ± 7.7 | 6.1 ± 1.9 | Shimoji et al. ( 2007 ) | RCT | TENS | 9 | 77.8 | 61 ± 7 | Numerical Rating Scale (0–10) | Yes | 5.2 ± 2.0 | IF | 11 | 36.4 | 62 ± 4 | 4.6 ± 1.3 | Placebo TENS | 8 | 37.5 | 31 ± 3 | 4.5 ± 1.6 | Tella et al. ( 2022 ) | RCT | Exercise + TENS | 11 | NR | 48.82 ± 8.01 | Numerical Rating Scale (0–10) | No | 7.45 ± 1.57 | Exercise + IF | 11 | NR | 53.91 ± 13.60 | 7.36 ± 1.75 | Exercise | 11 | NR | 47.09 ± 12.79 | 8.00 ± 1.41 | Topuz et al. ( 2004 ) | RCT | HF TENS | 15 | 60 | 45.20 ± 11.19 | Numerical Rating Scale (0–10) | No | 6.53 ± 1.18 | LF TENS | 15 | 73.3 | 50.13 ± 11.97 | 6.86 ± 1.24 | PENS | 13 | 76.9 | 37.92 ± 14.49 | 7.00 ± 1.47 | Placebo TENS | 12 | 91.7 | 41.92 ± 7.70 | 5.75 ± 1.35 | Ramos et al. ( 2018 ) | RCT | TENS | 14 | 46.6 | 40.9 ± 5.57 | Visual Analogue Scale (0–10) | No | 6.00 ± 1.84 | Exercise | 15 | 50 | 43.3 ± 5.98 | 5.13 ± 1.30 | Witkoś et al. ( 2018 ) | RCT | TENS | 25 | NR | NR | Numerical Rating Scale (0–10) | Yes | 4.9 ± 1.8 | Medium frequency current | 25 | NR | NR | 3.2 ± 0.7 | Yakşi et al. ( 2021 ) | RCT | HF TENS | 25 | 52 | 43.2 ± 12.8 | Visual Analogue Scale (0–10) | Yes | 6.2 ± 1.7 | Mixed frequency TENS | 25 | 64 | 45.6 ± 9.4 | 6.8 ± 1.5 | Placebo TENS | 23 | 78 | 40.8 ± 11.5 | 6.6 ± 1.1 | Yokoyama et al. ( 2004 ) | RCT | TENS | 18 | 55.6 | 59 ± 13 | Visual Analogue Scale (0–100) | No | 57 ± 11 | PENS | 18 | 61.1 | 60 ± 12 | 55 ± 11 | Yoon et al. ( 2012 ) | RCT | TENS | 10 | 60 | 53.30 ± 6.67 | Numerical Rating Scale (0–100) | No | 55.56 ± 13.37 | Deep cross‐friction massage | 12 | 58.3 | 50.25 ± 6.69 | 56.67 ± 15.13
+Characteristics of the included studies.
+Abbreviations: HF, high frequency; IF, interferential current; LF, low frequency; NR, not reported; PENS, percutaneous electrical nerve stimulation; PT, physiotherapy; RCT, randomised controlled trial.
+Minimum and maximum values within the data range.
+Regarding the TENS parameters applied in the included studies (Table 2), 12 of the 29 trials used high‐frequency stimulation (ranging from 10 to 200 Hz) (Barker et al. 2008; Elserty et al. 2016; Ebadi et al. 2018; Itoh et al. 2009; Jalalvandi et al. 2022; Ozkaraoglu et al. 2020; Rajfur et al. 2017; Sayilir and Yildizgoren 2017; Shimoji et al. 2007; Tella et al. 2022; Ramos et al. 2018; Yoon et al. 2012). Five studies used low‐frequency TENS (10 Hz or less) (de Alencar Caldas et al. 2021; Ezema et al. 2022; Kibar et al. 2020; Kofotolis et al. 2008; Witkoś et al. 2018), while five others employed both high and low frequencies in different trial groups (Bolarinde et al. 2023; Depaoli Lemos et al. 2021; Dias et al. 2021; Pivovarsky et al. 2021; Topuz et al. 2004). Two studies varied frequencies within the high‐frequency range during a single treatment session (Aguilar‐Ferrándiz et al. 2022; Çolak et al. 2024), and two used varying low frequencies within the same session (Hsieh and Lee 2002; Yokoyama et al. 2004). One study applied alternating (switching) from low to high‐frequency pulses (Ratajczak et al. 2011), and another used both varying low‐frequency and alternating frequencies (Yakşi et al. 2021). One trial did not report the frequency used (Petrofsky et al. 2020). High‐frequency, varying high‐frequency and mixed frequencies were considered appropriate dosages, whereas both low‐frequency and varying low‐frequency stimulation were deemed inappropriate. In terms of intensity, 17 trials adjusted stimulation to elicit sensory perceptions throughout the treatment, ranging from a distinct but comfortable sensation to the maximum tolerable level (Aguilar‐Ferrándiz et al. 2022; Çolak et al. 2024; Depaoli Lemos et al. 2021; Hsieh and Lee 2002; Jalalvandi et al. 2022; Kibar et al. 2020; Kofotolis et al. 2008; Ozkaraoglu et al. 2020; Rajfur et al. 2017; Sayilir and Yildizgoren 2017; Shimoji et al. 2007; Tella et al. 2022; Topuz et al. 2004; Ramos et al. 2018; Yakşi et al. 2021; Yokoyama et al. 2004; Yoon et al. 2012), which was considered appropriate. Three studies applied motor threshold intensities, which were considered inadequate (de Alencar Caldas et al. 2021; Ratajczak et al. 2011; Witkoś et al. 2018), and two used both sensory and motor threshold intensities in different TENS groups (Dias et al. 2021; Pivovarsky et al. 2021). One study applied a fixed intensity to all participants, which was considered inadequate (Ezema et al. 2022), while another used both fixed and sensory intensities in separate TENS groups (Elserty et al. 2016). Three studies restricted participants from adjusting intensity during treatment (Barker et al. 2008; Itoh et al. 2009; Petrofsky et al. 2020), which was deemed inadequate. Additionally, two studies did not report patient instructions on intensity adjustment, which was also considered inadequate (Bolarinde et al. 2023; Ebadi et al. 2018). Electrode placement was patient‐selected in nine studies, allowing participants to choose the location based on their pain experience (Barker et al. 2008; Ebadi et al. 2018; Itoh et al. 2009; Ratajczak et al. 2011; Shimoji et al. 2007; Tella et al. 2022; Topuz et al. 2004; Witkoś et al. 2018; Yoon et al. 2012), which was considered appropriate. However, 19 studies used a fixed electrode placement site for all participants, regardless of reported pain locations (Aguilar‐Ferrándiz et al. 2022; de Alencar Caldas et al. 2021; Çolak et al. 2024; Depaoli Lemos et al. 2021; Dias et al. 2021; Elserty et al. 2016; Ezema et al. 2022; Hsieh and Lee 2002; Kibar et al. 2020; Kofotolis et al. 2008; Ozkaraoglu et al. 2020; Petrofsky et al. 2020; Pivovarsky et al. 2021; Rajfur et al. 2017; Sayilir and Yildizgoren 2017; Ramos et al. 2018; Yakşi et al. 2021; Yokoyama et al. 2004), which was considered inappropriate, as CLBP can affect various areas of the lumbar region. One study did not report the electrode placement (Bolarinde et al. 2023). TENS treatments were applied over 10 or more sessions in 21 of the 29 studies, which was considered appropriate (Aguilar‐Ferrándiz et al. 2022; Barker et al. 2008; Bolarinde et al. 2023; de Alencar Caldas et al. 2021; Çolak et al. 2024; Depaoli Lemos et al. 2021; Elserty et al. 2016; Jalalvandi et al. 2022; Kibar et al. 2020; Kofotolis et al. 2008; Ozkaraoglu et al. 2020; Rajfur et al. 2017; Ratajczak et al. 2011; Sayilir and Yildizgoren 2017; Tella et al. 2022; Topuz et al. 2004; Ramos et al. 2018; Witkoś et al. 2018; Yakşi et al. 2021; Yokoyama et al. 2004; Yoon et al. 2012). However, in eight studies, this parameter was considered inadequate, with one trial administering only five sessions (Itoh et al. 2009), and seven studies applying just one session (Dias et al. 2021; Ezema et al. 2022; Ebadi et al. 2018; Hsieh and Lee 2002; Petrofsky et al. 2020; Pivovarsky et al. 2021; Shimoji et al. 2007).
+[TABLE] Author (Year) | Frequency | Intensity described | Electrode placement | Number of sessions | Main findings in terms of pain | Aguilar‐Ferrándiz et al. ( 2022 ) | 30–50 Hz ✓ | Depending on the tolerance of each patient. ✓ | Standardised: Lumbar region, 2 cm from the spinous, square placement. ✗ | 12 sessions over 3 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.001) and greater decrease than Kinesiotape group ( p  < 0.001). | Barker et al. ( 2008 ) | 80 Hz ✓ | Tingling sensation limited to 2–3 times the sensory threshold. ✗ | Patient‐specific: adjacent to the painful area at 5–20 cm apart. ✓ | 42 sessions over 3 weeks. ✓ | TENS group showed no significant reduction, with no significant differences between groups ( p  = 0.82). | Bolarinde et al. ( 2023 ) | 85 Hz ✓ | NR | NR | 12 sessions over 6 weeks. ✓ | Both modes of TENS produced a significant reduction ( p  < 0.05), with no significant differences between groups ( p  > 0.05). | 5 Hz ✗ | NR | NR | 12 sessions over 6 weeks. ✓ | de Alencar Caldas et al. ( 2021 ) | 5 Hz ✗ | Causing visible muscle contraction. ✗ | Standardised: at four points at two lumbar levels. ✗ | 10 sessions over 4 weeks. ✓ | TENS group showed no significant reduction ( p  > 0.05), with no significant differences between groups ( p  = 0.598). | Çolak et al. ( 2024 ) | 60–120 Hz ✓ | Strong but comfortable. ✓ | Standardised: over the lumbar region. ✗ | 20 sessions over 4 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.01), with no significant differences between groups ( p  > 0.05). | Depaoli Lemos et al. ( 2021 ) | 10 Hz ✗ | Depending on the tolerance of each patient. ✓ | Standardised: bilaterally in the L1–L5 paravertebral musculature. ✗ | 10 sessions over 4 weeks. ✓ | TENS group showed a significant reduction ( p  = 0.0001), with no significant differences compared to exercise ( p  > 0.05) and a smaller reduction than electroacupuncture ( p  = 0.02). | Dias et al. ( 2021 ) | 100 Hz ✓ | Sensory level. ✓ | Standardised: four electrodes, 3 cm on both sides of L3 and L5. ✗ | 1 session. ✗ | Both modes of TENS produced a significant reduction ( p  < 0.01) and greater decrease than placebo TENS group ( p  < 0.005). | 2 Hz ✗ | Motor level. ✗ | 1 session. ✗ | Elserty et al. ( 2016 ) | 120 Hz ✓ | Comfortable tingling sensation, adjustable. ✓ | Standardised: bilaterally at the lumbar vertebral level. ✗ | 12 sessions over 4 weeks. ✓ | Both modes of TENS produced a significant reduction ( p  < 0.05), with no significant difference between them, and resulted in a greater decrease than the exercise‐only group ( p  < 0.05). | 120 Hz ✓ | Comfortable tingling sensation, fixed. ✗ | 12 sessions over 4 weeks. ✓ | Ezema et al. ( 2022 ) | 2 Hz burst ✗ | Fixed output intensity of 40 mA. ✗ | Standardised: two electrodes, 10 cm on both sides of L1 and L5. ✗ | 1 session. ✗ | TENS group showed a significant reduction ( p  < 0.001). No significant differences in the placebo‐TENS group. | Ebadi et al. ( 2018 ) | 120 Hz ✓ | NR | Patient‐specific: applied to maximum pain site. ✓ | 1 session. ✗ | TENS group showed a significant reduction ( p  = 0.009) with greater decrease compared to the diadynamic group ( p  < 0.000). | Hsieh and Lee ( 2002 ) | 3–15 Hz ✓ | Increased to a level deemed neither painful nor intolerable. ✓ | Standardised: specific acupuncture points. ✗ | 1 session. ✗ | TENS group showed a significant reduction ( p < 0.01 ) with no significant differences compared to percutaneous electrical nerve stimulation ( p  > 0.05) | Itoh et al. ( 2009 ) | 122 Hz ✓ | Tingling sensation limited to 2–3 times the sensory threshold. ✗ | Patient‐specific: on the patient‐identified tender point and its side. ✓ | 5 sessions over 5 weeks. ✗ | TENS group showed no significant reduction, with no significant differences between groups ( p  > 0.05). | Jalalvandi et al. ( 2022 ) | 100 Hz ✓ | Increased to comfortable prickling sensation. ✓ | Standardised: on the lower back region. ✗ | 18 sessions over 6 weeks. ✓ | TENS group showed a significant reduction ( p < 0.0001 ) with significant differences compared exercises group ( p  = 0.03). | Kibar et al. ( 2020 ) | 2 Hz Burst ✗ | Increased until there was a painless tingling sensation. ✓ | Standardised: Two electrodes at L1 and two at S2 paravertebral levels. ✗ | 15 sessions over 3 weeks. ✓ | TENS group showed significant improvement, but no difference compared to the Interferential group ( p  < 0.001). No significant differences were found in the placebo TENS group. | Kofotolis et al. ( 2008 ) | 4 Hz ✗ | Strong but comfortable. ✓ | Standardised: on the thoracolumbar fascia, 10 cm proximal along the midline. ✗ | 20 sessions over 4 weeks. ✓ | TENS group showed no significant improvement ( p  > 0.05), while the exercise group had significantly lower pain scores ( p  < 0.05) compared to both the placebo and TENS groups. | Ozkaraoglu et al. ( 2020 ) | 80 Hz ✓ | Depending on the tolerance of each patient. ✓ | Standardised: Lumbar paravertebral area. ✗ | 20 sessions over 4 weeks. ✓ | TENS group showed significant improvement ( p  < 0.05), although the exercise group had even greater reductions in pain scores ( p  = 0.031). | Petrofsky et al. ( 2020 ) | NR | NR | Standardised: Two electrodes at L1 and two at S2 paravertebral levels. ✗ | 1 session. ✗ | TENS group showed significant pain relief, but no difference compared to the Thermotherapy group ( p  < 0.001). No significant differences were found in the placebo TENS group. | Pivovarsky et al. ( 2021 ) | 100 Hz ✓ | Sensory level. ✓ | Standardised: four electrodes, 3 cm on both sides of L3 and L5. ✗ | 1 session. ✗ | Both modes of TENS produced a significant reduction ( p  < 0.05), with no significant difference between them, or placebo ( p  < 0.05). | 2 Hz ✗ | Motor level. ✗ | Rajfur et al. ( 2017 ) | 100 Hz ✓ | Distinguishable sensation maintained during treatment. ✓ | Standardised: in the lumbar region, along the posterior axillary line. ✗ | 15 sessions over 3 weeks. ✓ | TENS group showed significant improvement ( p  = 0.00017) compared to control, with no significant differences observed between the other groups, except for the Interferential group, which demonstrated even greater reductions in pain scores ( p  < 0.05). | Ratajczak et al. ( 2011 ) | 10/100 Hz ✓ | NR | Patient‐specific: on the painful area identified by the patient. ✓ | 10 sessions over 2 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.05) with no significant differences observed with the diadynamic group. | Sayilir and Yildizgoren ( 2017 ) | 100 Hz ✓ | Intensity adjusted to individual threshold. ✓ | Standardised: placed crosswise in the paravertebral area. ✗ | 10 sessions over 2 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.05) with no significant differences observed with the diadynamic group. | Shimoji et al. ( 2007 ) | 16 Hz ✓ | Strong but tolerable. ✓ | Patient‐specific: over the skin of spinal segments from the painful area, as identified by the patient. ✓ | 1 session. ✗ | TENS group showed no significant reduction compared to the other electrotherapy modality or the placebo group. | Tella et al. ( 2022 ) | 150 Hz ✓ | Maintained at a comfortable level for the participant throughout treatment. ✓ | Patient‐specific: on the painful area identified by the patient. ✓ | 10 sessions over 5 weeks. ✓ | TENS group showed a significant reduction ( p  = 0.001), with no significant differences observed with the other groups. | Topuz et al. ( 2004 ) | 80 Hz ✓ | Patient's perception of paraesthesia. ✓ | Patient‐specific: over the most painful area, as identified by the patient. ✓ | 10 sessions over 2 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.05) compared the placebo group, with no significant differences observed between the other groups. | 4 Hz ✗ | Maximum tolerated amplitude, ensuring no muscle contractions. ✓ | Ramos et al. ( 2018 ) | 20 Hz ✓ | A tolerable level of intensity. ✓ | Standardised: bilaterally over lumbar paraspinal points. ✗ | 16 sessions over 8 weeks. ✓ | TENS group showed a significant reduction ( p  = 0.12), although the exercise group demonstrated significant greater reductions in pain scores ( p  < 0.001). | Witkoś et al. ( 2018 ) | 5 Hz ✗ | Motor level. ✗ | Patient‐specific: on the most painful area identified by the patient. ✓ | 10 sessions over 2 weeks. ✓ | TENS group showed a significant reduction ( p  = 0.04), while Medium Frequency Current also showed a significant reduction ( p  = 0.05) | Yakşi et al. ( 2021 ) | 1–4/50–100 Hz ✓ | Moderate intensity, depending on the patient's tolerance. ✓ | Standardised: laterally at L2–L4 level. ✗ | 15 sessions over 3 weeks. ✓ | Both modes of TENS produced a significant reduction ( p  < 0.001) and greater decrease than placebo TENS group ( p  = 0.016). | 60–80 Hz ✓ |  | Yokoyama et al. ( 2004 ) | 4–30 Hz ✓ | Maximum tolerable amplitude without muscle contraction. ✓ | Standardised: same dermatomal pattern across participants. ✗ | 16 sessions over 8 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.5), while PENS group also showed a significant reduction ( p  < 0.01) | Yoon et al. ( 2012 ) | 100 Hz ✓ | Maximum tolerable amplitude. ✓ | Patient‐specific: on patient‐reported pain regions. ✓ | 10 sessions over 2 weeks. ✓ | TENS group showed a significant reduction ( p  < 0.5), while Deep Cross‐friction Massage group also showed a significant reduction ( p  < 0.5).
+The TENS parameters applied in each included trial.
+
+Note: ✓, appropriate dose; ✗, inappropriate dose.
+Abbreviation: NR, not reported or insufficiently described to determine appropriateness.
+
+## Methodological Quality and Risk of Bias Assessment
+
+## The PEDro Scale
+The methodological quality of the 29 studies included in this meta‐analysis was evaluated using the PEDro scale (see Table 3). The item with the lowest quality was the blinding of therapists, as all but two studies (Pivovarsky et al. 2021; Shimoji et al. 2007) failed to meet these criteria. Of the 29 studies, 15 were rated as having moderate to high methodological quality (scoring between 6 and 10 out of 10) (Aguilar‐Ferrándiz et al. 2022; Barker et al. 2008; Çolak et al. 2024; Depaoli Lemos et al. 2021; Elserty et al. 2016; Ezema et al. 2022; Ebadi et al. 2018; Jalalvandi et al. 2022; Kibar et al. 2020; Petrofsky et al. 2020; Pivovarsky et al. 2021; Shimoji et al. 2007; Topuz et al. 2004; Ramos et al. 2018; Yakşi et al. 2021), while the remaining 14 studies were classified as having acceptable to low methodological quality, scoring 5 or lower (Bolarinde et al. 2023; de Alencar Caldas et al. 2021; Dias et al. 2021; Hsieh and Lee 2002; Itoh et al. 2009; Kofotolis et al. 2008; Ozkaraoglu et al. 2020; Rajfur et al. 2017; Ratajczak et al. 2011; Sayilir and Yildizgoren 2017; Tella et al. 2022; Witkoś et al. 2018; Yokoyama et al. 2004; Yoon et al. 2012).
+[TABLE]  | Items | — | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | Total | Aguilar‐Ferrándiz et al. ( 2022 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 8 | Barker et al. ( 2008 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 8 | Bolarinde et al. ( 2023 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | de Alencar Caldas et al. ( 2021 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 5 | Çolak et al. ( 2024 ) | 
+ — 
+ | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 7 | Depaoli Lemos et al. ( 2021 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 7 | Dias et al. ( 2021 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 5 | Elserty et al. ( 2016 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 6 | Ezema et al. ( 2022 ) | 
+ — 
+ | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 8 | Ebadi et al. ( 2018 ) | 
+ — 
+ | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 9 | Hsieh and Lee ( 2002 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 5 | Itoh et al. ( 2009 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | Jalalvandi et al. ( 2022 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 7 | Kibar et al. ( 2020 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 6 | Kofotolis et al. ( 2008 ) | 
+ — 
+ | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 5 | Ozkaraoglu et al. ( 2020 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 5 | Petrofsky et al. ( 2020 ) | 
+ — 
+ | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 7 | Pivovarsky et al. ( 2021 ) | 
+ — 
+ | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 9 | Rajfur et al. ( 2017 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | Ratajczak et al. ( 2011 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | Sayilir and Yildizgoren ( 2017 ) | 
+ — 
+ | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 5 | Shimoji et al. ( 2007 ) | 
+ — 
+ | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 8 | Tella et al. ( 2022 ) | 
+ — 
+ | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 5 | Topuz et al. ( 2004 ) | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 6 | Ramos et al. ( 2018 ) | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 8 | Witkoś et al. ( 2018 ) | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | Yakşi et al. ( 2021 ) | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 7 | Yokoyama et al. ( 2004 ) | 
+ — 
+ | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 8 | Yoon et al. ( 2012 ) | 
+ — 
+ | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 6
+Assessment of the quality of the studies based on the PEDro scale.
+
+Note: 1: participant choice criteria are specified (this item is not included in the total PEDro score); 2: random assignment of participants to groups; 3: hidden assignment; 4: groups were similar at baseline; 5: all participants were blinded; 6: all therapists were blinded; 7: all evaluators were blinded; 8: measurement of at least one of the key outcomes was obtained from more than 85% of baseline participants; 9: intention‐to‐treat analysis was performed; 10: results from statistical comparisons between groups were reported for at least one key outcome; 11: the study provides point and variability measures for at least one key outcome.
+
+## RoB‐2 Assessment
+The 29 RCTs included in this review were assessed for risk of bias using the Risk of Bias 2 (RoB‐2) tool. Among the domains evaluated, deviations from intended interventions were identified as having the highest risk of bias, with nearly 50% of studies showing a high risk. Additionally, 55% of the studies had high or certain risks related to outcome measurements, and 62% presented concerns regarding participant randomisation. Missing outcome data were associated with a low risk of bias in 76% of studies. All studies were classified as having minimal risk of bias in the selection of reported results (D5). However, 72% of the studies were considered to have an overall high risk of bias. The summary results from the RoB‐2 tool and the corresponding risk of bias graph are presented in Figures 2 and 3. The inter‐rater reliability for the risk of bias assessment was high (κ = 0.793).
+Summary results of the risk of bias 2 (RoB 2) tool assessment.
+Risk of bias graph according to the risk of bias 2 (RoB 2) tool assessment.
+
+## Effects of Transcutaneous Electrical Nerve Stimulation on Pain
+Figure 4 presents the forest plot for the meta‐analysis of the pooled standardised mean change difference in pain. When all studies were considered collectively, without accounting for variations in TENS dosage, the overall effect of TENS on pain was not statistically significant (d
++ = 0.16, SE = 0.12, 95% CI [−0.08, 0.39], p = 0.198, k = 64). However, a high degree of variability was observed among the effect sizes (Q(63) = 335.23, p < 0.0001, I
+2 = 86.5%).
+Forest plot of the meta‐analysis for assessing the efficacy of TENS to alleviate pain. RE, random effects.
+
+## Analysis of Outliers and Influence Cases
+Two potential outliers were identified: one from the study by Depaoli Lemos et al. (2021) and another from the study by Ezema et al. (2022). Diagnostic analysis of influential cases indicated that only the study by Ezema et al. (2022) significantly affected the meta‐analytic results (see Figure S1). As a result, this study was excluded from the meta‐analysis to enhance the robustness of the estimates. After removing this outlier and reanalysing the data, the pooled standardised mean change difference was 0.09 (SE = 0.10, 95% CI [−0.11, 0.29], p = 0.393, k = 63). Large heterogeneity among the standardised mean change differences was again observed (Q(62) = 246.76, p < 0.0001, I
+2 = 79.4%).
+
+## Sensitivity to Methodological Quality
+Restricting the analysis to higher quality comparisons (PEDro ≥ 6) yielded a non‐significant pooled effect (d
++ = 0.17, 95% CI −0.19 to 0.54; k = 31; Q(30) = 173.114; I
+2 = 87.6%; p = 0.342), similar in direction and magnitude to the main analysis (see Figure S2).
+
+## Effects of Transcutaneous Electrical Nerve Stimulation Dosage on Pain
+Mixed‐effects ANOVAs were conducted to assess the potential differential effects of TENS dosage, considering TENS parameters (frequency, intensity and application site) as well as the number of treatment sessions. Additionally, we examined the effects of TENS in comparison with a control or placebo group. In these analyses, the dependent variable was the d index for pain reduction, and five categorical moderator variables were included (see Table 4). As shown in Table 4, a significant association was found between effect sizes and the comparison with a control or placebo group (p < 0.001). However, no significant associations were observed for the other four categorical moderator variables: TENS frequency (p = 0.058), intensity (p = 0.251), electrode placement (p = 0.963) and the number of sessions (p = 0.548). The comparison with control or placebo groups explained 42.2% of the variance (p < 0.001). Specifically, when active TENS groups were compared with control or placebo groups, a substantial mean pain reduction was observed in individuals with CLBP (d
++ = 0.76, k = 18), whereas comparisons with other active treatments did not result in significant pain relief for these individuals. For clinical interpretability, this pooled SMD corresponds to an estimated reduction of 10.33 mm on the 0–100 mm VAS (95% CI 7.75–18.60).
+[TABLE] Moderator variable | 
+ k 
+ | 
+ d 
+ + 
+ | 95% CI | ANOVA results | 
+ d l | 
+ d u | Frequency | Appropriate | 40 | 0.23 | −0.02 | 0.48 | 
+ 
+ F (1, 59) = 3.73,  p  = 0.058 
+ 
+ R 
+ 2  = 0.793 
+ 
+ Q 
+ E  (59) = 226.22,  p  < 0.001 
+ | Inappropriate | 21 | −0.18 | −0.52 | 0.16 | Intensity | Appropriate | 41 | 0.17 | −0.08 | 0.42 | 
+ 
+ F (1, 60) = 1.34,  p  = 0.251 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (61) = 245.08,  p  < 0.001 
+ | Inappropriate | 22 | −0.07 | −0.40 | 0.26 | Electrode placement | Appropriate | 19 | 0.08 | −0.31 | 0.47 | 
+ 
+ F (1, 59) = 0.00,  p  = 0.963 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (59) = 246.66,  p  < 0.001 
+ | Inappropriate | 42 | 0.09 | −0.15 | 0.34 | Number of sessions | Appropriate | 40 | 0.13 | −0.12 | 0.39 | 
+ 
+ F (1, 61) = 0.36,  p  = 0.548 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (61) = 246.35,  p  < 0.001 
+ | Inappropriate | 23 | 0.01 | −0.32 | 0.34 | Comparison groups for TENS | Control or placebo | 18 | 0.76 | 0.45 | 1.08 | 
+ 
+ F (1, 61) = 25.70,  p  < 0.001 
+ 
+ R 
+ 2  = 0.422 
+ 
+ Q 
+ E (61) = 184.26,  p  < 0.001 
+ | Other active treatments | 45 | −0.17 | −0.36 | 0.02
+Results of the weighted ANOVAs for the influence of categorical variables on the effect sizes.
+
+F(1, 59) = 3.73, p = 0.058
+
+R
+2 = 0.793
+
+Q
+E (59) = 226.22, p < 0.001
+
+F(1, 60) = 1.34, p = 0.251
+
+R
+2 = 0.00
+
+Q
+E(61) = 245.08, p < 0.001
+
+F(1, 59) = 0.00, p = 0.963
+
+R
+2 = 0.00
+
+Q
+E(59) = 246.66, p < 0.001
+
+F(1, 61) = 0.36, p = 0.548
+
+R
+2 = 0.00
+
+Q
+E(61) = 246.35, p < 0.001
+
+F(1, 61) = 25.70, p < 0.001
+
+R
+2 = 0.422
+
+Q
+E(61) = 184.26, p < 0.001
+Abbreviations: 95% CI, 95% confidence interval; ANOVA, analysis of variance; d
++, pooled standardised mean change difference; dl, lower confidence limit for d
++; du, upper confidence limit for d
++; F, Knapp–Hartung statistic for testing the significance of the moderator variable; k, number of comparisons between treatment and control group; Q
+W, statistic for testing the model misspecification; R
+2, proportion of variance accounted for by the moderator.
+Lastly, we performed separate moderator analyses with the studies that compared TENS with control or placebo groups (k = 18) to assess the potential difference these might have had on the effects of the TENS dosage. As shown in Table 5, only one moderator variable showed a significant relationship with the effect sizes: an appropriate intensity. This indicated that there were differences in the efficacy of TENS to reduce pain in the studies which had or had not administered an appropriate intensity. Specifically, studies that had implemented an appropriate intensity achieved a higher pain relief effect compared to those that had not, with this effect accounting for 44.9% of the variance (p = 0.016). In this case, the studies that used an appropriate intensity achieved a large mean pain reduction in individuals with CLBP (d
++ = 0.97, k = 12), whereas those did not see no change in the levels of pain. For clinical interpretability, the appropriate‐intensity subgroup corresponds to an estimated reduction of 15.03 mm on the 0–100 mm VAS (95% CI 10.08–20.15).
+[TABLE] Moderator variable | 
+ k 
+ | 
+ d 
+ + 
+ | 95% CI | ANOVA results | 
+ d l | 
+ d u | Frequency | Appropriate | 11 | 0.89 | 0.48 | 1.29 | 
+ 
+ F (1, 15) = 0.79,  p  = 0.387 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (15) = 34.08,  p  = 0.003 
+ | Inappropriate | 6 | 0.60 | 0.07 | 1.14 | Intensity | Appropriate | 12 | 0.97 | 0.65 | 1.30 | 
+ 
+ F (1, 16) = 7.27,  p  = 0.016 
+ 
+ R 
+ 2  = 0.449 
+ 
+ Q 
+ E (16) = 27.98,  p  = 0.0321 
+ | Inappropriate | 6 | 0.30 | −0.11 | 0.72 | Electrode placement | Appropriate | 6 | 1.20 | 0.57 | 1.82 | 
+ 
+ F (1, 16) = 3.08,  p  = 0.0981 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (16) = 34.200,  p  = 0.005 
+ | Inappropriate | 12 | 0.62 | 0.29 | 0.94 | Number of sessions | Appropriate | 9 | 0.98 | 0.54 | 1.41 | 
+ 
+ F (1, 16) = 2.34,  p  = 0.146 
+ 
+ R 
+ 2  = 0.00 
+ 
+ Q 
+ E (16) = 38.33,  p  = 0.001 
+ | Inappropriate | 9 | 0.55 | 0.14 | 0.96
+Results of the weighted ANOVAs for the influence of categorical variables on the effect sizes in studies that compared TENS with control or placebo groups (k = 18).
+
+F(1, 15) = 0.79, p = 0.387
+
+R
+2 = 0.00
+
+Q
+E(15) = 34.08, p = 0.003
+
+F(1, 16) = 7.27, p = 0.016
+
+R
+2 = 0.449
+
+Q
+E(16) = 27.98, p = 0.0321
+
+F(1, 16) = 3.08, p = 0.0981
+
+R
+2 = 0.00
+
+Q
+E(16) = 34.200, p = 0.005
+
+F(1, 16) = 2.34, p = 0.146
+
+R
+2 = 0.00
+
+Q
+E(16) = 38.33, p = 0.001
+Abbreviations: 95% CI, 95% confidence interval; ANOVA, analysis of variance; d
++, mean effect size; dl and du, lower and upper confidence limits for d
++; F, Knapp–Hartung statistic for testing the significance of the moderator variable; k, number of comparisons between treatment and control group; Q
+E, statistic for testing the model misspecification; R
+2, proportion of variance accounted for by the moderator.
+
+## Publication Bias
+Egger's test revealed no significant relationship between the standard errors and their corresponding effect sizes (t(61) = 1.17, p = 0.247). Additionally, the trim‐and‐fill method did not impute any data to correct for asymmetry in the funnel plot for the meta‐analysis on pain. Consequently, after a comprehensive evaluation, the potential impact of publication bias on the meta‐analysis results can be considered negligible.
+
+## Discussion
+This study shows that, when compared to control or placebo groups within a dose–response framework, the selection of application parameters may influence the clinical effectiveness of TENS in CLBP. Specifically, avoiding intensities that reach the motor threshold and induce muscle contractions, as well as avoiding the use of a fixed intensity, while applying an intensity that elicits comfortable sensory perceptions and allows for adjustments throughout the treatment session, was associated with greater pain reduction. In contrast, variations in frequency, electrode placement and the number of treatment sessions did not appear to have a meaningful impact on pain relief. From a clinical perspective, the overall pooled effect translates to an estimated ≈10 mm on a 0–100 mm VAS (95% CI 7.75–18.60), close to the lower bound of minimal clinical importance, whereas appropriate‐intensity protocols correspond to ≈15 mm (95% CI 10.08–20.15), typically within commonly cited MIC thresholds for chronic low back pain (≈10–20 mm or ≈30% improvement). In guideline‐endorsed care for CLBP, structured exercise, multidisciplinary rehabilitation and psychologically informed approaches generally achieve small‐to‐moderate improvements in pain and function (Nicol et al. 2023; Verville et al. 2023). In this context, the pooled effects we observed for TENS versus control/sham were modest, and head‐to‐head comparisons with other active interventions did not show superiority. Accordingly, TENS should be viewed as a complementary option that provides short‐term analgesia to enable participation and adherence to active treatments, rather than as a replacement for them.
+Despite the widespread use of TENS for CLBP, previous reviews and meta‐analyses have not provided conclusive evidence to support its effectiveness, which may explain why clinical guidelines even recommend against its use. Reviews have varied in their methodologies and conclusions, with some failing to consider the role of TENS dosing parameters (Jauregui et al. 2016; Wu et al. 2018; Verville et al. 2023) and others including different electrotherapeutic modalities, making it difficult to isolate the effects of TENS itself (Resende et al. 2018). While the largest and most recent of these reviews included 17 RCTs with a total of 1027 participants (Verville et al. 2023), the present meta‐analysis incorporated 29 studies with 1969 participants, allowing for a more comprehensive assessment of TENS efficacy. When replicating the approach of previous meta‐analyses, pooling the results from all included studies, we found no significant effect of TENS on pain, consistent with prior findings. Given the differences in treatment modalities with potentially distinct mechanisms of action and study designs, we focused on analysing study groups comparing TENS with a control or placebo to minimise overall heterogeneity. In these study groups, we further examined the influence of TENS dosing parameters, specifically frequency, intensity, electrode placement and number of sessions. Accordingly, our findings update and extend the earlier Cochrane review (Khadilkar et al. 2008) by synthesising a larger CLBP evidence base and by examining dosing parameters. To minimise confounding from active co‐interventions, dose‐parameter analyses were conducted within the control/placebo subset, with active‐comparator results reported separately for context; within this framework, non‐superiority versus active comparators is consistent with an adjunctive role for TENS, providing short‐term analgesia to facilitate engagement with guideline‐endorsed active care, rather than evidence of no clinical utility.
+There appears to be broad consensus in the literature, both in experimental studies on healthy individuals and in clinical trials involving patients with pain, that the intensity of TENS must be clearly perceptible in order to achieve its analgesic effect (Chesterton et al. 2002, 2003; Pantaleao et al. 2011). Moreover, patients should be instructed to adjust the intensity throughout the session to maintain a consistent sensory‐level stimulation, as the perceived sensation tends to fade over time due to habituation of the nervous system to repetitive non‐painful stimuli (Johnson 2021). Our findings align with this evidence: studies that applied a fixed intensity or did not allow participants to adjust the intensity during treatment generally failed to demonstrate significant pain relief. Interestingly, studies applying intensities that elicited muscle contractions, although perceptible, were also not effective. Although motor‐level TENS has been discussed in the literature as a potential application (Sluka et al. 2013; Vance et al. 2014), our findings suggest that this approach may be less suitable for individuals with CLBP. One possible explanation is that, in cases of central sensitisation, which may be present in some patients with CLBP, evoking muscle contractions in a sensitised area could exacerbate discomfort rather than relieve it. This interpretation is supported by existing evidence indicating that patients with central sensitisation exhibit heightened responses to non‐noxious stimuli, including those applied to deep tissues (Opara et al. 2025). These findings support the clinical relevance of appropriate‐intensity TENS while acknowledging the high heterogeneity and low certainty of evidence.
+Regarding the other parameters we considered clinically relevant, frequency, electrode placement and number of sessions, our hypotheses were not confirmed. We anticipated that high‐frequency stimulation (either fixed or modulated) or the use of alternating frequencies would result in greater pain relief. However, one possible explanation for the lack of significant effects is that the subgroups defined by frequency were heterogeneous in terms of intensity: while some studies applied perceptible and adjustable stimulation, others did not, potentially obscuring the influence of frequency on treatment outcomes.
+As for electrode placement, we expected that targeting either the pain site or nerve bundles near the affected area would yield superior outcomes. However, it has been suggested that when other key parameters, especially intensity, are applied properly, electrode placement might become less relevant in individuals with chronic pain (Amer‐Cuenca et al. 2023; Johnson 2021). This is because the main analgesic mechanism of TENS in these cases may not be mediated by local effects, but rather through central modulation, which could occur regardless of the precise electrode location (Garrison and Foreman 1996; Kalra et al. 2001). Additionally, variability in how intensity was applied across studies may have further masked any differences related to electrode positioning.
+We also hypothesised that receiving more than 10 sessions would be beneficial, as it would provide prolonged exposure to the treatment and align more closely with the chronic nature of pain experienced by individuals with CLBP (Amer‐Cuenca et al. 2023; Facci et al. 2011). However, given that TENS has been shown to be effective from the very first application, if pain is measured while the unit is on or immediately after stimulation, the analgesic effect would not necessarily be diminished in studies using only a single session. Again, inconsistencies in intensity dosing may have contributed to the non‐significant findings for this parameter. If adequate intensity is indeed a prerequisite for TENS to exert its analgesic effects, its absence could override the influence of other variables. This may help explain why the potential benefits of optimal frequency, electrode placement or treatment duration were not evident in our meta‐analysis.
+A critical factor in evaluating the effectiveness of TENS is the timing of pain measurement. Research suggests that the most significant analgesic effects of TENS occur during the application of the treatment or immediately afterward (Resende et al. 2018; Sluka et al. 2006). In our analysis, 16 out of the 29 studies included did not assess pain at the point when the peak effect of TENS was expected. Furthermore, TENS is generally believed to be more effective in alleviating pain induced by movement rather than resting pain (Johnson 2021; Resende et al. 2018). While all the studies in our review assessed resting pain, only three measured pain triggered by movement. The fact that the majority of studies did not measure pain at the time of peak TENS effects (during or immediately after stimulation, particularly with movement‐induced pain) could have resulted in an underestimation of its analgesic benefits.
+Our results contrast with a recent comprehensive meta‐analysis by (Johnson et al. 2022) that evaluated the effect of TENS on pain intensity across a wide range of conditions, regardless of specific medical diagnoses, in adult populations. That study concluded that diagnosis and pain characteristics did not significantly modify the analgesic effect of TENS and therefore argued against the need to tailor stimulation parameters to specific clinical populations. In contrast, our findings suggest that in individuals with CLBP, the way TENS is applied does matter: as practices such as fixed intensities, lack of intensity adjustment during sessions or motor‐level stimulation are associated with poorer outcomes.
+This study has certain limitations that should be acknowledged. Our review and meta‐analysis primarily focused on the effect of TENS on pain relief, as this is its primary therapeutic goal. However, we did not assess its impact on other relevant outcomes, such as patients' functional capacity, quality of life, physical activity or related symptoms, including anxiety, fatigue and sleep disturbances. While TENS may influence these secondary outcomes, any improvements in these areas are likely attributable to more complex interactions.
+Furthermore, it is important to note that 72% of the studies included demonstrated a high overall risk of bias. This could have influenced the results and may explain the negative outcomes observed in certain clinical trials. Findings were robust to study quality; excluding trials with PEDro < 6 did not materially alter the pooled effect. A more detailed analysis of the risk of bias revealed that the highest proportion of bias occurred in the measurement of the outcome (domain 4). Specifically, many studies failed to adequately blind participants, therapists or evaluators. While blinding presents inherent challenges in this type of intervention, it is crucial for future studies to implement more rigorous masking protocols in order to reduce bias and enhance the validity of the findings in this meta‐analysis. Although the PROSPERO record pre‐specified the main objectives and the exploration of dose‐related effects, certain methodological refinements to the statistical analysis plan were introduced before data synthesis; these did not alter the primary research question or the study's conclusions. Overall, the certainty in the pooled estimates should be interpreted cautiously given the high proportion of trials at high risk of bias and the substantial heterogeneity.
+This review offers hypothesis‐generating considerations regarding TENS parameters for managing pain in individuals with CLBP, along with proposed dosing protocols for future clinical trials. We suggest that intensity be individually adjusted during each session to maintain sensory‐level stimulation, ranging from a distinct but comfortable sensation to the maximum tolerable level. Motor‐level stimulation (which causes muscle contractions), fixed intensity and protocols that prevent adjustment during treatment are not recommended. Future trials should recruit large sample sizes, assess movement‐evoked pain during or immediately after TENS application, and evaluate long‐term benefits, secondary outcomes and carryover effects. We also recommend that future systematic reviews adopt the dose–response criteria outlined here, by pre‐specifying (a priori) dosing adequacy and addressing it through planned subgroup or sensitivity analyses. At present, the available evidence does not justify changes to current clinical guidelines. Any future reconsideration would require adequately powered, high‐quality randomised trials that explicitly implement and report appropriate TENS dosing parameters.
+
+## Funding
+This work was supported by the Spanish Ministry of Science and Innovation (State Plan for Scientific and Technical Research and Innovation; grant PID2020‐115609RB‐C22) and by institutional funding from University CEU Cardenal Herrera (INDI24/37, GIR24/29).
+
+## Conflicts of Interest
+The authors declare no conflicts of interest.
+
+## Supporting information
+
+Appendix S1: ejp70222‐sup‐0001‐AppendixS1.docx.

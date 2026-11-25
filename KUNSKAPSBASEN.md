@@ -9,9 +9,9 @@ status: active
 **Evidensbaserad kunskapsdatabas — sammanställd för behandlande team**
 
 <div class="stats-bar">
-<span>~887 peer-reviewed referenser</span>
-<span>27 forskningsdokument</span>
-<span>441 fulltexter</span>
+<span>~935 peer-reviewed referenser</span>
+<span>28 forskningsdokument</span>
+<span>489 fulltexter</span>
 <span>33 MR-referensbilder</span>
 <span>Evidensgradering Level 1–5</span>
 </div>
@@ -76,11 +76,11 @@ status: active
 | ~2026-09-18 → | **Dag ~181 → Nätter utan respirator** (fuktnäsa på kanylen). Respirator ~1 h/morgon; blodgas före passet normal. SpO₂ 96–99 % dygnet runt. |
 | 2026-09-21 | **Dag 184 — FVC 1,31 L sittande / 1,21 L liggande.** Hostmaskin 2–4/dygn. 4 mål timbalkost/dag. Dekanylering ej diskuterad. |
 | sep–okt 2026 | **Dekanylerad** — trakealkanyl borttagen, andas själv. |
-| hösten 2026 | **Heterotop ossifikation höger höft** (trolig följd av mobilisering under IVA). Ortopedisk restriktion max 50–60° flexion, operation ~1 år. Tillfällig nervblockad möjliggör sittande. **Tarmdysfunktion** (autonom) — röntgen ×2. |
+| hösten 2026 | **Heterotop ossifikation höger höft** (trolig följd av mobilisering under IVA). Ortopedisk restriktion max 50–60° flexion, operation ~1 år. Smärta i ljumske/framsida lår (trolig femoralisskada av HO) — femoralisblockad, nu perifer nervkateter, möjliggör sittande. **Tarmdysfunktion** (autonom) — röntgen ×2. |
 | 2026-11-17 | **Dag 241:** Tränar ~11 h/vecka inkl. gym. Normal kost, äter själv med hjälpmedel. Handleder börjar få kontakt. Högsbo neurorehab har avslagit flera remisser (chefsnivå). |
 | 2026-11-20 | **Vårdplanering** — kommunal korttidsplats nämndes inte; fortsatt specialistvårdbehov. |
 | 2026-11-23 | **Besked: Högsbo neurorehab, intag 2027-01-11.** Vårdform fram till dess ej bekräftad. |
-| 2026-11-25 | **TENS-test mot höftsmärtan (HO): gott resultat.** Beslut om inopererade elektroder (PNS) väntar. |
+| 2026-11-25 | **TENS-test mot smärtan i ljumske/lår: gott resultat.** Smärtan bedöms av neurokirurg (18/11) som neuropatisk, sannolikt skada på höger n. femoralis i ljumsknivå av HO. Beslut om ryggmärgs- eller DRG-stimulering väntar. |
 
 </details>
 
@@ -139,10 +139,11 @@ Anti-GQ1b-spektrumet: GBS–MFS–BBE Overlap
 Motorisk återinlärning och specialiserad neurofysioterapi i återhämtningsfasen
 <span class="doc-sub">NYTT 2026-11-17 | 16 ref — reinnervation vs kortikal återinlärning vs kontrakturutveckling, Khan 2011 RCT (3 h/v vs 1 h/v → 68 % vs 32 %), Cochrane om stretch, overwork weakness, **sekt 10: kostnaden av fördröjd rehabilitering och hur långt strokeevidensen bär över till GBS**, implikationer för placeringsbeslut</span>
 </a>
-<a href="/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md" class="doc-link doc-primary">
-Höftsmärta vid heterotop ossifikation — TENS och perifer nervstimulering (PNS)
-<span class="doc-sub">NYTT 2026-11-25 | 39 ref — höftledens nervförsörjning (n. obturatorius, n. femoralis, PENG), optimal TENS-dosering (intensitet, tolerans, användning under belastning), PNS-evidens och fallrapporter för höft, GBS-specifika frågor (återhämtande blandnerv, NCS/EMG-baslinje), samspel med kommande HO-operation, frågor till teamet</span>
+<a href="/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md" class="doc-link doc-primary">
+Femoralissmärta vid HO — TENS, DRG/ryggmärgsstimulering och beslutsunderlag (svenska)
+<span class="doc-sub">NYTT 2026-11-25 | Samtalsunderlag inför neurokirurg: hur ytlig TENS används och placeras vid nedsatt känsel, DRG vs ryggmärgsstimulering (ACCURATE 74 % vs 53 %), hållbarhet och explantation, vad ett positivt TENS-test betyder, GBS och nervrötter (SSEP), **trycker HO på n. femoralis — tidpunkt för HO-operation**, prioriterade frågor</span>
 </a>
+<a href="/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md" class="doc-link">Hip/groin pain neuromodulation — full evidence review (engelska, 86 ref)</a>
 <a href="/doc/04-related-autoimmune/ADEM_GBS_Overlap_Brain_White_Matter_Research.md" class="doc-link">ADEM-GBS overlap, MR-differentialdiagnostik, 33 MR-bilder</a>
 <a href="/doc/05-treatment-resistance/Complete_PE_Failure_Protocol_and_Decision_Algorithm.md" class="doc-link">PE-svikt: beslutsalgoritm</a>
 </div>
@@ -237,12 +238,12 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 
 **Evidensskala:** *[Level 1]* Cochrane/RCT → *[Level 2]* Prospektiv kohort → *[Level 3]* Retrospektiv analys → *[Level 4]* Fallrapporter → *[Level 5]* Expertutlåtande
 
-**Källbibliotek:** 441 fulltexter (108 PDF + 333 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
+**Källbibliotek:** 489 fulltexter (131 PDF + 358 text). [Komplett artikelöversikt med PMIDs och nyckeldata →](/doc/Tillgang_till_medicinska_kallor.md)
 
-**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (2068 kunskapsfragment) och genererar svar med källhänvisningar.
+**Sök i databasen:** Använd flikarna **Sök** och **Fråga** ovan. Systemet söker semantiskt genom all indexerad forskning (2276 kunskapsfragment) och genererar svar med källhänvisningar.
 
 <details class="collapse-section" markdown="1">
-<summary>Alla 27 forskningsdokument — fullständig lista</summary>
+<summary>Alla 28 forskningsdokument — fullständig lista</summary>
 
 | Dokument | Beskrivning |
 |----------|-------------|
@@ -265,7 +266,8 @@ Ingen publicerad guideline täcker specifikt kombinationen GBS + selektiv IgA-br
 | [Post-trakeostomivård vid dysautonomi](/doc/07-acute-icu-protocols/Post_Tracheostomy_Care_GBS_Dysautonomia.md) | Sugningsprotokoll, vagolytika, autonom storm |
 | [Respiratoravvänjning vid GBS](/doc/07-acute-icu-protocols/Ventilator_Weaning_GBS_Protocol.md) | FVC/NIF-trösklar, SBT, decannulation (IVA-fasen) |
 | [Motorisk återinlärning och neurofysioterapi i återhämtningsfasen](/doc/06-monitoring-prognosis/Motor_Relearning_Neurophysiotherapy_GBS_Recovery_Phase.md) | 16 ref — tre parallella processer (reinnervation, kortikal re-mapping, muskuloskeletal förändring), Khan 2011 RCT 68% vs 32%, Cochrane: passiv stretch ej effektiv, overwork weakness, kostnaden av fördröjd rehabilitering (Salter 2006, Maulden 2005, 2025-kohort) + överförbarhetsanalys stroke→GBS, placeringsbeslut |
-| [Höftsmärta vid HO — TENS och perifer nervstimulering](/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md) | 39 ref — höftledens nervförsörjning, n. obturatorius i canalis obturatorius, TENS-dos (Johnson 2022 meta-TENS, Moran 2011, tolerans), PNS-riktlinjer och höftfall (Elsharkawy 2026), neurolys vs icke-destruktiva metoder vid pågående reinnervation, MR-kompatibilitet, HO-kirurgi |
+| [Femoralissmärta vid HO — samtalsunderlag (svenska)](/doc/06-monitoring-prognosis/Femoralissmarta_TENS_Neuromodulering_Samtalsunderlag.md) | TENS-användning och placering vid nedsatt känsel, DRG vs ryggmärgsstimulering, hållbarhet/komplikationer, GBS-specifika frågor (SSEP, NCS/EMG), nervkompression av HO och operationstidpunkt, 12 prioriterade frågor till neurokirurg |
+| [Hip/groin pain neuromodulation — evidence review](/doc/06-monitoring-prognosis/Hip_Pain_Neuromodulation_TENS_PNS_Heterotopic_Ossification.md) | 86 ref — femoral neuropathic pain from HO, TENS dosing/placement (meta-TENS, Amer-Cuenca 2026, Léonard 2011), DRG vs SCS (ACCURATE, groin series, lead fracture, explant rates), TRIAL-STIM, Sindou SSEP, HO nerve compression (Salga 2015, Genêt 2011), hip capsule innervation, PNS |
 | [Nattlig weaning, proppträning och dekanylering](/doc/07-acute-icu-protocols/Nocturnal_Weaning_Capping_Decannulation_Prolonged_Tracheostomy_GBS.md) | 29 ref — REM-hypoventilation, PtcCO₂-kriterier, VC sittande/liggande, PCF 160/270, MI-E, talventil, propp, FEES/SESETD, OSA, beslutsalgoritm, tillämpning på indexfallet |
 | [Vätskestyrning vid GBS-dysautonomi](/doc/07-acute-icu-protocols/Fluid_Management_GBS_ICU_Protocol.md) | 5%-tröskel, deresuscitation, diuretika-evidens |
 | [Immunoglobulin-IgA-säkerhet](/doc/08-immunoglobulin-iga-safety/Clinical_Synthesis_Immunoglobulin_IgA_Safety.md) | 183 papers, paradigmskifte, beslutsalgoritm |

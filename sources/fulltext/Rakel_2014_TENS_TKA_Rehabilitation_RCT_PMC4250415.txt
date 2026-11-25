@@ -1,0 +1,714 @@
+TITLE: Transcutaneous Electrical Nerve Stimulation (TENS) for the Control of Pain
+during Rehabilitation Following Total Knee Arthroplasty (TKA): A Randomized, Blinded,
+Placebo-Controlled Trial
+ABSTRACT: This study evaluated the efficacy of TENS in reducing pain and hyperalgesia and
+increasing function following total knee arthroplasty (TKA). We hypothesized participants
+using TENS during rehabilitation exercises would: 1) report significantly lower pain
+during range-of-motion (ROM) and fast walking but not at rest; 2) have less hyperalgesia;
+and, 3) have better function than participants receiving Placebo-TENS or Standard Care. We
+also hypothesized that change in ROM pain would differ based on psychological
+characteristics (trait anxiety, pain catastrophizing and depression) and treatment group.
+This prospective, randomized study used intent-to-treat analyses on 317 subjects after
+primary, unilateral TKA. Assessors, blinded to treatment allocation, measured pain,
+function (ROM and gait speed), and hyperalgesia (quantitative sensory tests)
+postoperatively and 6 weeks after surgery. Analgesic intake, anxiety, depression, and pain
+catastrophizing were also assessed. TENS participants used it 1–2 times/day at 42
+mA (on average) and had less pain postoperatively during active knee extension (p=0.019)
+and fast walking (p=0.006) than Standard Care participants. TENS and Placebo-TENS were not
+significantly different. TENS participants who scored low on anxiety and pain
+catastrophizing had a greater reduction in ROM pain at 6 weeks than those scoring high on
+these factors (p=0.002 and 0.03). Both TENS and Placebo-TENS participants had less
+postoperative mechanical hyperalgesia (p=0.03 – 0.01) than Standard Care
+participants. Supplementing pharmacologic analgesia with TENS during rehabilitation
+exercises reduces movement pain postoperatively but a placebo influence exists and the
+effect is gone by 6 weeks. Patients with low anxiety and pain catastrophizing may benefit
+most from TENS.
+
+## Introduction
+Total knee arthroplasty (TKA) is a common procedure performed to reduce pain and
+improve function for patients with degenerative knee osteoarthritis (OA). However,
+rehabilitation following this procedure can be painful, particularly during movements such
+as flexion/extension of the knee joint, and severe pain during these activities has been
+associated with poor functional recovery [8,76]. Patients rarely receive treatment beyond
+pharmacologic strategies [20] and this approach is
+not effective for controlling the severe movement pain associated with rehabilitation of the
+joint.
+Transcutaneous electrical nerve stimulation (TENS) is a potentially efficacious
+pain treatment for use as a supplement to pharmacologic analgesia during rehabilitation
+exercises to better control this severe pain. Basic science evidence suggests that there are
+peripheral and central nervous system mechanisms underlying the analgesic action of TENS
+[24]. TENS activates endogenous inhibitory
+mechanisms including opioid receptors in the spinal cord and brainstem [22,41,65], reduces central neuron sensitization [47], and reduces primary and secondary mechanical
+hyperalgesia (i.e. pain sensitivity to force or pressure) induced by knee joint inflammation
+[56,61,64,72].
+TENS reduces postoperative movement pain in human subjects [23,24,57]. However, the few clinical trials that have evaluated the efficacy of
+TENS for pain following TKA were conducted over 10 years ago with small sample sizes and
+varying results [4]. used high frequency TENS with a
+strong amplitude (30–40mA) and reported significant differences compared to
+placebo-TENS on pain at rest, pain after quadriceps femoris contraction, and muscle
+contraction ability, while others [6,75] showed no significant difference in analgesic
+consumption among TENS, placebo-TENS, or no TENS. One of these studies used sensory
+threshold TENS and the other did not provide specific information on amplitude. Prior work
+shows that amplitude is critical in providing analgesia with TENS in healthy controls [48] and those with postoperative pain [5], suggesting low amplitude may have contributed to the
+nonsignificant findings in these studies. Additionally, these two studies used analgesic
+intake as the primary outcome which may have been influenced by other factors, such as
+inability to administer medications during sleep or programmed safety intervals. We have
+shown that TENS reduces movement but not resting pain [19,57] which is not well controlled with
+analgesics. Finally, all these studies evaluated a one-time application of TENS during the
+immediate postoperative period. There have been no large, randomized, blinded,
+placebo-controlled studies evaluating the long-term usage and efficacy of TENS in
+controlling pain during rehabilitation following TKA.
+
+## Purpose of Study
+The purpose of this study was to evaluate the efficacy of TENS in reducing pain and
+hyperalgesia and increasing function following TKA. We hypothesized that participants
+receiving TENS during rehabilitation after TKA would: 1) report significantly lower pain
+during range-of-motion (ROM) and walking but not at rest; 2) have less hyperalgesia (i.e.
+pain sensitivity) around the surgical incision and at a distant site (i.e. anterior tibialis
+muscle); and, 3) have better function (i.e. faster walking and greater ROM) than
+participants receiving Placebo-TENS or Standard Care. We also hypothesized that change in
+movement pain (i.e. ROM pain) would differ based on psychological characteristics (i.e.
+trait anxiety, pain catastrophizing and depression screening) and treatment group.
+
+## Methods and Design
+
+## Study Design
+This was a prospective, randomized, double-blinded (2 of 3 groups),
+placebo-controlled study (ClinicalTrials.gov Identifier:
+NCT01364870). Participants were randomly assigned to receive: 1) TENS; 2) Placebo-TENS; or
+3) Standard Care (i.e. no TENS) as a supplement to standard pharmacologic analgesia for
+the control of pain during rehabilitation exercises following TKA.
+
+## Setting/Sample
+With approval of the local Institutional Review Board and written informed
+consent, English speaking patients, aged 30 years or older, with knee OA who were
+scheduled for a primary, unilateral total knee arthroplasty were recruited from The
+University of Iowa Hospitals and Clinics and the Iowa City Veteran’s Affairs
+Medical Center. There were 699 patients who met these inclusion criteria and were
+approached to participate in this study. Potential participants were excluded if they: 1)
+had experienced a stroke/CNS disease or had mental impairment affecting their ability to
+understand tests/measures; 2) had chronic pain other than knee OA that was being treated;
+3) had sensory impairment, defined as lack of sharp or dull sensations over any of five
+dermatomes in their surgical leg; 6) were permanently or indefinitely wheelchair bound; 7)
+use of TENS by subject in the last 5 years (this criteria was changed to current TENS use
+due to the number of potential subjects being excluded on this criteria and the
+determination that the type of placebo-TENS used in this study was different from previous
+TENS use so as to not influence expectation if receiving placebo-TENS) or it was being
+used by anyone in their household; 8) had a condition that precluded TENS use, such as
+pacemaker or allergy to nickel; or 9) a prisoner. The first five participants who passed
+screening assessments and agreed to sign a consent form served as pilot subjects to test
+and verify the data collection procedures.
+Sample size was determined using pain ratings from six studies that compared TENS
+plus analgesic medication to placebo and/or analgesic medication alone and measured
+resting or overall pain intensity [7,13,18,29,63,70]. These studies were used because there were no
+between subject studies evaluating the effect of TENS on movement pain. This approach was
+considered the most conservative because the effect on resting pain is smaller than
+movement pain. Based on these studies, the average effect size was .44 for TENS versus
+standard treatment and .21 for TENS versus placebo-TENS with maximum variance of 27.57.
+Using this information, a three group design, an α = .05, and power = .80, a
+sample size of 255 (85 participants per group) was targeted. To account for an estimated
+20% attrition, 317 participants were recruited. Additionally, we recalculated our
+target sample sizes using the variance in the primary outcome measures from our sample
+during an interim analysis conducted halfway through the study to detect a smaller effect
+size between TENS and Placebo-TENS and a larger effect between TENS and Standard Care.
+This resulted in a target sample of 58 in Standard Care and a change in randomization to
+the other two groups alone (TENS and Placebo-TENS). This allowed us to detect an effect
+size of .54 and a difference of 4.9 between TENS and Standard Care and an effect size of
+.46 with a difference of 4.1 between TENS and placebo-TENS.
+
+## Treatments
+
+## TENS
+TENS was provided using the EMPI-Select TENS unit (DJO, Inc.). Four circular
+2” adhesive electrodes (Empi) were placed around the knee incision approximately
+two inches from the proximal and distal ends of the surgical incision (see Figure 1). The TENS unit produces a balanced,
+asymmetrical, biphasic waveform with alternating pulses between channels. A continuous
+frequency of 150 pps with pulse duration of 150 µs was used and participants
+were instructed to use the highest tolerable intensity. They were advised to adjust the
+amplitude setting during the TENS application to maintain this intensity level. TENS was
+applied 20 minutes prior to each exercise session (to reach peak effect) and then
+continued until the end of the session. These sessions included a combination of
+flexibility, strength, and endurance exercises with a physical therapist (in the
+hospital and following discharge) or alone (at home following discharge). TENS was used
+during every exercise session (1–2 times per day) until the
+participant’s 6 week follow-up visit in the clinic. The TENS unit used 3 AAA
+batteries. Participants were instructed to change the batteries once a week after
+discharge and were sent home with an adequate supply of batteries, electrodes, and
+wires. An instruction pamphlet and verbal instructions on how to attach the TENS unit
+and apply the same settings was given to participants prior to discharge. The TENS unit
+recorded number of sessions, average amplitude, and average session length on both
+channels. This information was obtained from the TENS unit at the 6 week clinic visit.
+Participants were told the TENS unit recorded this information to generate an adherence
+pipeline. Participants were called once a week following discharge to determine
+adherence with TENS application and address issues as needed.
+
+## Placebo-TENS
+Placebo-TENS was provided using the same EMPI-Select TENS unit (DJO, Inc.)
+customized to deliver current for 30 seconds (both channels) and then ramp off over the
+next 15 seconds so that it was active for a total of 45 seconds. This allowed the
+participant to feel the TENS sensation while applying the settings. In a study comparing
+this placebo-TENS approach to standard placebo-TENS methods and active TENS, this
+transient placebo-TENS was found to improve blinding without providing analgesia [58]. Participants were instructed to report when they
+first felt a sensation. The amplitude was then decreased by 0.5 and left at this setting
+throughout the application. Participants were instructed to apply the unit at this same
+intensity at home and that it was normal to not feel the sensation during the entire
+application period. This sham unit displayed an active indicator light suggesting to the
+participant that the unit was actively emitting current even after the 45 seconds.
+Instructions on electrode placement, battery insertion, and application 20 minutes prior
+to exercise was the same as for the TENS treatment.
+
+## Standard care
+Participants randomized to Standard Care received standard pharmacologic
+analgesia alone (i.e. with no TENS application). This included Oxycontin 10 mg and
+Celebrex 200 mg orally once prior to surgery and twice a day while hospitalized
+beginning on postoperative day 1 (POD 1). Intraoperative anesthesia included regional
+anesthesia with bupivacaine and/or general anesthesia with propofol followed by
+isoflurane or sevoflurane. Intraoperative analgesia included femoral block using
+ropivacaine with or without intravenous narcotics. Oxycodone/acetaminophen 5/325 mg 1 to
+2 tablets and/or morphine 1 mg intravenously every 30 minutes were used for breakthrough
+pain as needed after surgery. On discharge from the hospital, participants were given a
+prescription for Percocet 1 to 2 tabs (325 mg/5 mg), as needed, for breakthrough
+pain.
+All analgesic medications taken by participants before and after surgery were
+recorded for use as a control variable, if needed. Following discharge, participants
+self-reported their pain medication in a Home Record Log (HRL). All opioid medications
+(oral and intravenous) were converted to an equianalgesic dosage of oral morphine [30,43,52,67] and all
+non-opioid analgesic medications were converted to acetaminophen equivalents using a
+conversion table [2] as previously described
+[59].
+
+## Outcome Measures
+Pain intensity during range of motion of the joint and waking were primary
+outcome measures. Pain intensity at rest, hyperalgesia and function were secondary outcome
+measures. All measurements (i.e. pain intensity, hyperalgesia, and function) were obtained
+prior to surgery (pre-operative), while hospitalized after surgery (resting pain, ROM pain
+and function on POD 1, gait speed and hyperalgesia on POD 2–3), and 6 weeks
+following discharge.
+
+## Pain intensity (rest and movement)
+A 21-point numeric rating scale (0–20 NRS) was used to measure pain
+intensity in the surgical knee. Participants were asked to rate their pain intensity on
+this scale where 0 represents “no pain” and 20 represents “the
+most intense pain imaginable”. A laminated tool was made available for the
+participants to view with each rating. Previous studies have shown that the use of the
+Numeric Rating Scale is associated with higher compliance and lower failure rates in
+older adults when compared to the Visual Analog Scale [35] and has established validity and reliability for assessing acute [12,34,40,50] and
+postoperative [28] pain. The NRS correlates well
+with the Visual Analogue Scale during the postoperative period (.90 to .95) [21,28,36]. A 21-point scale was used (vs. an 11-point
+scale) based on evidence that 21 points provide a sufficient and needed level of
+discrimination [39]. This assessment was
+conducted both at rest and with movement. Resting pain intensity was measured prior to
+any study procedures while the participant was comfortably sitting or lying down without
+movement of the knee. Movement pain was measured during active flexion and extension of
+the surgical knee as well as during a gait speed test.
+
+## Hyperalgesia (quantitative sensory tests)
+Quantitative sensory tests were performed on the surgical leg to assess
+hyperalgesia (i.e. pain sensitivity). Three test sites were marked 4 cm apart and 4 cm
+medial to the surgical knee. Three test sites were also marked 4 cm apart and 2 cm
+lateral to the tibial crest over the anterior tibialis muscle of the surgical leg. A
+laminated template was used to guide standard placement of the testing sites.
+Pressure Pain Threshold (PPT) was used to measure deep
+mechanical pain sensitivity at the knee (primary hyperalgesia) and the anterior
+tibialis muscle (secondary hyperalgesia). A hand-held pressure algometer (Somedic
+AB, Farsta, Sweden) with a 1 cm2 digital probe was used. Prior to PPT
+testing, a Versaform pillow was placed under the participant’s knees for
+support. Then a familiarization test with the algometer was performed on the
+participant’s arm. This was repeated, if needed, to reinforce understanding
+of the test. To measure PPT, the algometer probe was pressed over the marked test
+sites perpendicularly to the skin at a rate of 40 kPa/second. The participant was
+instructed to press a button when the pressure was first perceived as painful.
+Participants were instructed that if they felt they pressed the button too early or
+too late, they could let the assessment RA (Research Assistant) know and the test
+could be repeated. With this method, mean PPT of the knee averages approximately 250
+kPa [1,49]. PPT has strong inter-rater reliability across multiple raters
+(ICC=0.91) and test-retest reliability shows good results (ICC=0.77–0.86) in
+participants with knee OA [33] and
+postoperatively (0.70–0.94) [15,27,53,55,74].
+Heat pain threshold and tolerance were measured to
+determine cutaneous thermal pain sensitivity at the knee and the anterior tibialis
+muscle. A computer-controlled TSA-II Neurosensory Analyzer (Medoc, Israel) and a
+Peltier thermode, size 16 × 16 mm were used. Minimum temperature was set at
+34 °C and maximum at 52 °C. The rate of increase in temperature was
+1 °C /s. Participants were informed that the thermode would not reach a
+temperature that would cause skin damage. A familiarization test was performed on
+the arm prior to testing. For threshold measures, participants were instructed to
+concentrate on the stimulus and to press a mouse button when the heat sensation was
+first perceived as painful. For tolerance measures, participants were instructed to
+press the mouse button when the heat sensation was no longer tolerable. Once the
+mouse button was pressed, the probe stopped heating and a temperature registered on
+the computer screen.
+Prior to determining averages at each site (i.e. knee and anterior tibialis
+muscle), outlier values were identified and removed. A value was identified to be an
+outlier if the difference between this value and the middle value was greater than the
+average variance and the difference between the other 2 values was less than 50%
+of this difference. The remaining readings were averaged to obtain a representative
+value for each site. Inter-rater reliability estimates were also conducted for each of
+the measures with Intraclass Correlation Coefficients ranging from 0.82 –
+0.97.
+
+## Function
+Function was determined using flexibility of the knee (i.e. active extension
+and flexion ROM), strength of the quadriceps femoris muscles (i.e. extensor lag), and
+endurance (i.e. gait speed).
+Range of Motion and Extensor Lag. Range of motion
+measures of the knee were taken with a hand held goniometer which has been found to
+be a valid and reliable method for quantifying knee movement [54]. Measures included active extension, extensor lag and
+flexion. While the participant was lying supine on a table, a towel roll was placed
+under the ankle to elevate the leg. The participant was asked to straighten the knee
+as far as possible by pressing the knee toward the table. The assessment RA aligned
+the stationary aim of the goniometer to the greater trochanter and the moveable arm
+to the lateral malleolus and measured the maximum extension reached in degrees from
+straight (e.g. −4 indicates 4 degrees from straight). The participant then
+raised their leg off the towel roll while keeping the knee as straight as possible.
+Keeping the goniometer in alignment, the degrees from straight were measured and
+recorded. This measure was subtracted from the extension degrees to obtain the
+degrees of “lag”. Lastly, the towel roll was removed and the
+participant was asked to bend the knee as far as possible. Degrees of active flexion
+were measured with the same goniometer and landmarks.
+Gait Speed Test. Walking function was measured using a
+gait speed test where participants were instructed to walk as fast as they were
+safely able to for 15 seconds in a well-lit, unobstructed hallway. Participants
+began at a predetermined start line. The RA said, “Ready, set, go”,
+and the participant began walking as the digital stopwatch was started. The
+assessment RA walked beside the participant and provided assistance as needed. When
+15 seconds elapsed, the assessment RA instructed the participant to stop and placed
+a piece of tape on the floor at the point of contact of the participant’s
+back heel. The distance from the start line to the piece of tape was then measured
+with a measuring tape. Participants were permitted to use a walking aid such as a
+cane or walker, if necessary, for safety and use of an assistive device was recorded
+for treatment comparisons.
+
+## Secondary Variables
+Variables that could influence the efficacy of TENS were measured preoperatively
+or prior to treatment allocation on POD 1 to determine group equivalency. These variables
+included demographics (i.e. age, sex, ethnicity, race, marital status, and education),
+medical information (i.e. Kellgren-Lawrence OA grade, height and weight, pain duration,
+secondary diagnoses, length of pain in the affected knee, current use of pain medication,
+and previous surgeries), psychological dimensions (i.e. state and trait anxiety, pain
+catastrophizing, depression), and perception of overall knee pain and function (Knee
+Injury and Osteoarthritis Outcome Score - KOOS).
+
+## Demographic and medical information questionnaire
+The demographic and medical information questionnaire was a five page form in
+which participants were asked demographic and medical information. This form had been
+used by the research team in prior studies and asked questions in a standardized
+manner.
+
+## State and trait anxiety
+The State-Trait Anxiety Inventory (STAI) was used to measure state and trait
+anxiety prior to surgery. The S-Anxiety scale (STAI Form Y-1) consists of twenty
+statements that evaluate how respondents feel “right now, at
+this moment” on a 4-point scale. The T-Anxiety scale (STAI Form Y-2) consists of
+twenty statements that assess how people generally feel on the same
+4-point scale [66]. High scores on their
+respective scales mean more trait or state anxiety and low scores mean less. This tool
+has been used successfully in older adults after hip and knee surgery [26].
+
+## Pain catastrophizing
+The Pain Catastrophizing Scale (PCS) was used to measure pain catastrophizing
+prior to surgery. It is a 13–item survey designed to measure the extent that
+individuals ruminate, magnify, or feel helpless about their pain. It uses a 5-point
+scale ranging from “not at all” to “all the time”. Pain
+castrophizing has been shown to correlate positively with many aspects of the pain
+experience, including pain intensity, emotional distress, pain-related disability, heath
+services use, pain behavior and reliance on medication [31,32,68,69].
+
+## Geriatric depression scale
+The Geriatric Depression Scale (GDS) is a five item screening tool for
+depression in the older population. The five item version was chosen over the 15-item
+GDS because it had better sensitivities, specificities, predictive values and accuracies
+for outpatients [37,60]. Individuals who have ≥ 2 positive answers are considered
+to have a positive depression screen [37,78].
+
+## Knee injury and osteoarthritis outcome score
+The Knee Injury and Osteoarthritis Outcome Score (KOOS) is a knee-specific
+instrument, developed to assess both short-term and long-term consequences of knee
+injury using 42 items in 5 separately scored subscales:(1) Pain; (2) Other Symptoms; (3)
+Activity in Daily Living (ADL); (4) Function in Sport and Recreation (Sport/Rec); and,
+(5) Knee-related Quality of Life (QOL). Participants respond using a 5-point scale from
+no difficulty (0) to extreme difficulty (4). Scores are then transformed to a
+0–100 scale (0 = extreme knee problems to 100 = no knee problems). The KOOS is
+an extension of the Western Ontario and McMaster Universities Osteoarthritis Index
+(WOMAC) and has demonstrated adequate reliability (test-retest, ICC=0.6–0.94)
+and validity (Internal Consistency, Cronbach’s alpha = 0.56–0.98) in
+patients with knee OA [16].
+
+## Data Collection Procedures
+
+## Preoperative
+At the preoperative clinic visit approximately 1 week prior to surgery,
+participants were given the demographic and medical information form, STAI, PCS, GDS and
+KOOS to fill out. They were familiarized with the 0–20 NRS and, while seated
+comfortably on an exam table, were asked to rate the intensity of pain (at rest) in
+their surgical knee. Then participants were asked to lie supine on the exam table and a
+Versaform pillow was placed under their knees for support and comfort. Testing spots
+were marked and quantitative sensory tests were performed as described above. Active
+extension and flexion ROM were obtained and the participant rated the pain during each
+of these movements. Then the participant walked to a straight hallway immediately
+outside the exam room and the gait speed test was performed. At the end of this test,
+the participant was asked to rate the maximum pain experienced during this test in their
+surgical knee. Participants were then reminded of the postoperative protocol including
+randomization into treatment group on POD 1. A package of 4 sterile electrodes was
+provided to the surgeon the morning of surgery for application in the OR.
+
+## Postoperative
+Immediately following skin closure and prior to application of the
+postoperative dressing, the sterile electrodes were applied at the top and bottom of the
+knee incision, 2 inches from the incision on either side. The electrodes were attached
+to wires that extended beyond the dressing. On the morning of POD 1, the assessment RA
+determined the participant’s continued eligibility and measured resting pain,
+flexion and extension ROM, and pain during these movements. The assessment RA then left
+the room and the treatment allocation RA randomized participants to treatment group and
+applied the appropriate TENS unit. After 20 minutes, the assessment RA re-entered the
+room and measured pain at rest and again during active flexion and extension of the
+knee. TENS was applied prior to each physical therapy session until discharge.
+On the morning of POD 2, the assessment RA determined continued eligibility
+and sensation in the surgical leg using dull and sharp stimuli across five dermatomes.
+The allocation RA applied the TENS and quantitative sensory tests were performed by the
+assessment RA after a 20 minute wait period. The participant then performed the gait
+speed test, rated their pain during that test and completed their routine physical
+therapy session. If sensation was not normal, quantitative sensory and gait speed tests
+were performed on POD 3.
+Prior to discharge from the hospital, participants were given an instruction
+pamphlet and TENS supplies and taught to apply the TENS at home with a return
+demonstration. Participants were given a HRL to record on a daily basis: exercise
+sessions, application of TENS 20 minutes prior to exercise sessions, and pain
+medication.
+
+## Following discharge
+Physical therapy sessions were scheduled 2 to 3 times per week. Additionally,
+participants performed exercise sessions that included flexibility, strength and
+endurance exercises twice a day at home. To help ensure accuracy and facilitate
+adherence, participants were called the day after discharge and weekly by the allocation
+RA to address any issues with TENS application or HRL documentation.
+Participants returned to the clinic 6 weeks after surgery. At this visit, they
+were asked to apply their TENS unit according to how they had been using it at home.
+Participants were reminded not to discuss the function of the unit with the assessment
+RA so that the RA remained blinded to treatment group. After 20 minutes, the assessment
+RA measured resting pain in the surgical knee. Quantitative sensory tests were performed
+followed by the gait speed test. At the conclusion of testing, the TENS unit was removed
+and data on the number of sessions, average session length, and average intensity were
+downloaded from the TENS unit. These data were used to determine TENS dose.
+
+## Randomization and Blinding
+A randomization sequence using SPSS was generated with randomization occurring
+in permuted blocks of 3 and 6, stratified by gender. Allocation to treatment groups
+remained concealed in a central office until POD 1 when the allocation RA made a phone
+call to the Project Director to receive the participant’s assigned treatment. The
+allocation RA then verified the serial number on the TENS unit corresponded with the
+appropriate TENS treatment. After verification, the allocation RA attached the TENS unit
+around the knee incision at the participant’s bedside. The participant was
+instructed to not disclose any information regarding TENS settings or TENS-related
+sensations to the assessment RA. This approach was done to minimize potential sources of
+experimenter and participant bias by protecting the randomization sequence in a central
+office, maintaining concealment of treatment allocation until the last possible moment,
+and keeping participants and the RA who collects outcome data blinded to whether the TENS
+unit was set to active or placebo mode. Given the nature of the design, it was not
+possible to blind participants assigned to Standard Care. At the end of the study,
+participants in the TENS and Placebo-TENS groups were asked if they thought they received
+an active or placebo treatment and this information was recorded.
+
+## Data Analyses
+Data were described using percentages for categorical variables, and mean
+± SD or median and 25th to 75th percentiles (IQR) for continuous
+variables. Data from the TENS unit were converted to mA using the calibrated amplitudes
+determined for each unit. Intent-to-treat analyses were performed including all
+participants randomized to treatment groups, regardless of adherence to treatment
+protocols. Outcomes were analyzed at POD 1 (POD 2 for gait speed and pain sensitivity
+measures) and at 6 weeks following surgery. The distribution of continuous variables was
+evaluated for normality using histograms. Analgesic intake (opioids and non-opioids) was
+normally distributed so was compared using linear mixed model analyses. The fixed effects
+in the model included treatment group, time, and treatment by time interaction. Pain, pain
+sensitivity and function data at each time point were not normally distributed. Treatment
+comparisons at each time point were performed using Kruskal-Wallis non-parametric tests.
+Pairwise comparisons were performed for significant tests using ordered rankings. To test
+for a treatment by time interaction, linear mixed model analyses were used on difference
+scores (which were normally distributed) for these measures. The p values
+for all tests comparing the three treatment groups were adjusted using
+Bonferroni’s method to account for the multiple comparisons. Associations between
+pain and function were evaluated using Spearman rho correlations. For analyses of pain
+intensity, a p < 0.025 was considered statistically significant. This was adjusted
+from a p < 0.05 due to the interim analysis on these variables that was conducted
+halfway through the study. For all other analyses, a p < 0.05 was considered
+statistically significant. Analyses were conducted using SAS statistical software version
+9.3 (SAS Institute, Inc., Cary, NC, USA).
+
+## Results
+Between June 26, 2008 and December 20, 2012, 699 patients met inclusion criteria.
+Of these, 242 were ineligible (35%) and 140 declined to participate (20%),
+leaving 317 randomized to treatment on POD 1 (see Figure
+2, CONSORT Diagram). Of the 242 patients who were excluded, 40% had current
+TENS use, 18% had a condition that precluded TENS use, 17% were being
+treated for a chronic pain condition, 11% had a CNS disease or mental impairment
+affecting their ability to understand tests/measures, 7% were prisoners, 5%
+had sensory impairment, and 2% were permanently or indefinitely wheelchair
+bound.
+The 317 participants ranged in age from 40 to 90 years with a mean of 62 ±
+9.5 years (± SD). There were slightly more women (54.4%) than men
+(45.6%), most were non-Hispanic (97.8%), white (94.3%), married or
+living with someone (59.1%), had at least some college education (60.1%), a
+household income < $60,000 (55.7%), an OA grade of 4 (73%), pain in
+their affected knee for 3 or more years (65.7%) and were taking either a non-opioid
+or nothing for this pain (68.9%). Most had not undergone a previous knee
+arthroplasty in their opposite knee or hip arthroplasty (64.8%). There were no
+significant differences across treatment groups on these variables (see Table 1).
+Of the 317 participants randomized, 251 (79%) completed the study (i.e.
+continued to be enrolled at their 6 week postoperative visit). The 70 participants who did
+not complete the study either withdrew due to study burden (73%) or were excluded
+due to surgical complications (22%) or rash from TENS electrodes (5%), most
+during the immediate postoperative period. These participants were not significantly
+different than those who remained in the study in sex, race/ethnicity, marital status,
+education, income, BMI, OA grade, pain duration, resting or movement pain, pain medication,
+or physical function. Those who participated, however, were significantly younger (average
+age of 61.5 versus 65 years). Retention of participants was not significantly different by
+treatment group.
+Participants took an average of 22.4 ± 12.2 mEq of morphine per hour (i.e.
+opioids) and 1077.84 ± 724.82 mEq of acetaminophen per hour (i.e. non-opioids)
+between surgery and testing on POD #2. These intakes were not significantly
+different across the three treatment groups (p=0.67 and 0.35, respectively). During the
+first week following discharge, participants took an average of 45.37 ± 4.01 mEq of
+morphine per day and this decreased to 10.96 ± 1.61 mEq of morphine per day on
+average during week 6. For non-opioids, participants took an average of 1914.13 ±
+171.4 mEq of acetaminophen per day during the first week and this decreased to an average of
+1007.37 ± 136.63 mEq of acetaminophen per day during week 6. Participants in all
+three groups reduced their opioid and non-opioid intake significantly over the 6 week period
+(linear mixed model analysis, p<0.001 for both opioid and non-opioid) but these
+reductions were not significantly different across treatment groups (opioids p=0.90;
+non-opioids p=0.88) and the average intake during this time period was not significantly
+different across groups (opioids p=0.33; non-opioids p=0.16) (see Figure 3).
+Of the participants who received active TENS, 16 % were blinded (i.e.
+thought they received Placebo-TENS or did not know which treatment they received) and 84
+% knew they had received an active treatment. Of the participants who received
+Placebo-TENS, 45 % were blinded and 55 % indicated they had received a
+placebo treatment.
+Data retrieved from the active TENS units at the 6 week visit was normally
+distributed and showed an average number of sessions of 54.03 ± 34.05 (consistent
+with application 1–2 times per day), average amplitude of 42.04 ± 8.12 mA,
+and average session length of 55.2 ± 25.8 minutes (suggesting the TENS was applied
+20 minutes before exercise and left on during exercise sessions that lasted an average of
+35.2 minutes, which is consistent with instructions). Data from the weekly phone calls
+showed that the weekly average amplitudes stayed at 42 mA throughout the 6 week period (i.e.
+averaged 42 mA at week 1, 2, 3, 4, 5, and 6). There were no significant associations between
+TENS dose or TENS amplitude and outcome variables. Data could not be reliably retrieved from
+the sham TENS units due to amplitudes that were below the recording cut off of 3mA for some
+participants.
+
+## Pain Intensity
+Prior to surgery, participants rated their movement pain intensity mild to
+moderate (i.e. active extension 6/20, 2–10; active flexion 8/20, 3–13, and
+gait speed 5/20, 2–10) and their resting pain intensity as mild (i.e. median 2/20,
+IQR 0–5). Immediately prior to treatment on POD 1, movement pain intensity during
+active extension and flexion of the knee was moderate to severe (i.e. 12, 7–17 and
+15, 10–19, respectively) and resting pain intensity was moderate (i.e. 9,
+5–15). Participants randomized to Standard Care reported significantly higher pain
+during active flexion of the knee prior to treatment than participants randomized to
+Placebo-TENS (pairwise comparison, p=0.03). Due to the need for nonparametric analyses,
+this variable could not be controlled in the analyses. However, no significant differences
+were found between groups on flexion pain postoperatively or at 6 weeks (see below).
+Therefore, this difference did not affect the results. There were no other significant
+differences between treatment groups.
+Following surgery, the treatment by time interaction using difference scores was
+significant for extension pain (p=0.035) but not for flexion or gait pain (p=0.91 and
+0.77, respectively). There was a suggested treatment by time interaction for resting pain
+(p=0.063) but it did not reach significance at the 0.05 level.
+During the immediate postoperative period, pain during active extension of the
+knee was significantly different between groups (Kruskal-Wallis, p=0.016) with pairwise
+comparisons showing participants receiving TENS reported significantly lower pain than
+participants receiving Standard Care (median 9.5 versus 14, p=0.019, effect size = 0.5).
+There was no significant difference between Placebo-TENS and Standard Care (p=0.05),
+although the effect size was also 0.5, suggesting a possible effect exists even though
+differences did not reach significance at p<0.025. There was no significant
+difference between Placebo-TENS and TENS (p=1.0, effect size = 0). Pain during the gait
+speed test postoperatively was also significantly different between groups (p=0.008) with
+pairwise comparisons showing participants receiving TENS had significantly lower pain than
+participants receiving Standard Care (median 8 versus 10, p=0.006, effect size = 0.24).
+There were no significant differences between Placebo-TENS and Standard Care (p=0.24,
+effect size = 0) or Placebo-TENS and TENS (p=0.3, effect size = 0.25). Pain during active
+flexion and at rest were not significantly different across the 3 treatment groups (p=0.19
+and p=0.13, respectively) postoperatively (see Figure
+4).
+At 6 weeks following surgery, pain at rest was significantly different between
+groups (Kruskal-Wallis, p=0.019). However, even though participants receiving TENS and
+Placebo-TENS reported lower resting pain than participants receiving Standard Care (0
+versus 1.5), pairwise comparisons did not reach significance at p<0.025 (TENS
+versus Standard Care p=0.036, effect size = 0.5; Placebo-TENS versus Standard Care p=0.13,
+effect size = 0.5) (see Figure 4). Pairwise
+comparisons for TENS and Placebo-TENS were not significant (p=1.0, effect size = 0). There
+were no significant differences in extension pain (p=0.89), flexion pain (p=0.18), or gait
+speed pain (p=0.90) between treatment groups at 6 weeks following surgery. In keeping with
+the intent-to-treat analysis, missing data at 6 weeks were imputed using a predictive mean
+matching imputation method. This method allows for discrete target variables and
+imputations are based on values observed elsewhere so are realistic and meaningful [71]. Postoperative pain, age, preoperative trait
+anxiety, depression and pain catastrophizing were used to calculate predicted values at 6
+weeks. Five imputation scenarios were conducted and all results were similar to the
+original findings.
+Based on literature that anxiety, pain catastrophizing and depression are
+predictive of pain following surgery [25,38,59], it was
+hypothesized that change in movement pain (i.e. average extension and flexion pain from
+POD 1 to 6 weeks) would differ based on these psychological characteristics and treatment
+group. As hypothesized, change in ROM pain was significantly different across treatment
+groups depending on how individuals scored on the Trait Anxiety Inventory, Pain
+Catastrophizing Scale, and Geriatric Depression Scale preoperatively (p=0.012, 0.046, and
+0.032, respectively). For TENS participants, decrease in pain was significantly larger for
+those with lower trait anxiety (p=0.002) and lower pain catastrophizing (p=0.03). A
+similar trend was seen for participants receiving Standard Care but, while the results for
+trait anxiety suggest a possible difference, these trends did not reach significance
+(trait anxiety p=0.05 and pain catastrophizing p=0.10). In contrast, Placebo-TENS
+participants had little change in their ROM pain based on trait anxiety (p=0.45) or pain
+catastrophizing (p=0.36). Additionally, TENS and Standard Care participants who screened
+negative for depression had a larger decrease in ROM pain than those who screened positive
+for depression but Placebo-TENS participants who screened negative for depression had a
+smaller decrease in ROM pain than those who screened positive for depression. These trends
+did not reach significance (TENS p=0.12, Standard Care p=0.11, and Placebo-TENS p=0.10)
+(see Figure 5).
+
+## Pain Sensitivity
+Prior to surgery, median algometer pressure pain thresholds (PPTs) were 215 kPa
+(IQR 155–320) at the knee and 251 kPa (IQR 183–357) at the anterior
+tibialis muscle. Median heat pain thresholds were 43.74 °C (IQR 41.3–45.8)
+at the knee and 44.57 °C (IQR 43–46.6) at the anterior tibialis muscle.
+Heat pain tolerances were 47.4 °C (IQR 46.1–48.6) and 47.8 °C (IQR
+46.6–49.1) at the knee and anterior tibialis muscle, respectively. There were no
+significant differences in any of these measures between groups prior to surgery.
+Following surgery, the treatment by time interaction was non-significant for all
+pain sensitivity measures (p=0.12 to 0.625). During the immediate postoperative period,
+PPTs at the knee were significantly different across treatment groups (Kruskal-Wallis,
+p=.009), with pairwise comparisons showing participants receiving TENS and Placebo-TENS
+had significantly higher PPTs than participants receiving Standard Care (i.e. median 156
+kPa for Standard Care versus 194 kPa for TENS, p=.01, effect size = 0.3 and 187kPa for
+Placebo-TENS, p=.03, effect size = 0.2). PPTs at the anterior tibialis muscle were also
+significantly different across treatment groups (Kruskal-Wallis, p=.02), with pairwise
+comparisons showing participants receiving Placebo-TENS had significantly higher PPTs than
+those receiving Standard Care (median 310 versus 247, p=0.023, effect size = 0.3).
+Participants receiving TENS had a median PPT of 288 but this did not reach significance at
+p<0.05 compared to Standard Care (p=0.083, effect size = 0.2) or Placebo-TENS
+(p=1.0). Heat pain thresholds and tolerances were similar across groups with no
+significant differences at the knee or at the anterior tibialis muscle postoperatively. At
+6 weeks, there were no significant differences in PPTs, heat pain thresholds, or heat pain
+tolerances between groups (see Figure 6).
+
+## Function
+Prior to surgery, knee extension for all participants was −4 (median
+degrees, IQR −9 to −.75), knee flexion was 115.5 (median,
+IQR105–125), and extensor lag (minus extension degrees) was −1 (median,
+IQR −3 to 0). Immediately prior to treatment postoperatively, extension was
+−14 (median, IQR −19 to −10), flexion was 52 (median, IQR 41 to
+65), and extensor lag was −5 worse than extension (median, IQR −10 to
+−2). There were no significant differences across treatment groups prior to
+treatment allocation on any of these measures.
+Following surgery, the treatment by time interaction was non-significant for all
+the function measures (p ≥ 0.11). Postoperatively, there was no significant
+difference across treatment groups for extension (p=0.17), flexion (p=0.71) or extensor
+lag (p=0.92). At 6 weeks following surgery, there were also no significant differences
+across treatment groups (extension, p=0.99, flexion, p=0.58, extensor lag, p=0.24).
+The distance walked prior to surgery during the gait speed test was 62.7 ft
+(median, IQR 49–74.6 ft). Postoperatively, the distance walked reduced to 11.2 ft
+(median, IQR 6.7–18.8 ft) but increased back to 60.8 ft (median, IQR
+50–72.3 ft) at 6 weeks. There was no significant difference across treatment
+groups in distance walked postoperatively or at 6 weeks (Kruskal-Wallis p=.60 and .24,
+respectively) (see Figure 7).
+Correlations between pain and function were performed to determine if increased
+pain was associated with decreased function (i.e. poorer extension and flexion of the knee
+and shorter walking distance). All correlations were significant and negative
+demonstrating that increased pain was associated with decreased function (see Table 2).
+
+## Discussion
+This study demonstrated that adding TENS to routine pharmacologic analgesia
+significantly reduces movement pain (i.e. pain during active joint range of motion and
+walking) during the immediate postoperative period following TKA compared to pharmacologic
+analgesia alone. There were no significant differences between TENS and Placebo-TENS,
+suggesting that the expectation of receiving additional pain relief through TENS had
+comparable effects to actually receiving TENS. Participants receiving Placebo-TENS, however,
+did not report significantly less pain than participants receiving Standard Care.
+A potentially important finding in this study was that participants receiving TENS
+who scored low on trait anxiety and pain catastrophizing had a significantly larger decrease
+in ROM pain than participants receiving TENS who scored high on these factors. This finding
+is consistent with a prospective, double-blind, controlled trial conducted by Lim, et al.
+[46] evaluating the influence of psychological
+factors and TENS in determining the intensity of pain after abdominal surgery. They found
+that when the contribution of neuroticism was included in the analysis, subjects receiving
+TENS had significantly less morphine requirements than subjects receiving placebo-TENS. This
+connection between TENS effect and psychological factors on pain suggests that patients
+scoring high on these factors may not benefit from TENS and that this treatment should be
+targeted to those who are not anxious or catastrophizing their pain. Further investigation
+is needed to confirm these results.
+There were no significant differences between TENS and Placebo-TENS in this study
+suggesting a placebo effect occurs when applying TENS. This may be due to the large
+percentage of participants who were blinded to the Placebo-TENS treatment (45%).
+Blinding of participants was higher using the transient sham unit in this study than
+blinding reported with conventional sham units that do not turn on but use active indicator
+lights to stimulate a placebo effect (i.e. 13%) [58]. The blinding achieved in this study was similar to other studies using this
+same transient sham unit [48,51,58,73] and, consistent with these studies, is a lack of significance between
+TENS and Placebo-TENS when this transient sham unit is compared to TENS in clinical
+populations [73]. The lack of significance in
+subjective pain intensities between TENS and Placebo-TENS is also consistent with a
+meta-analysis conducted by AHRQ in 1992 evaluating TENS for postoperative pain [9]. Placebo treatments can have a powerful and real effect
+on pain scores [17]. Prior studies show that this
+effect can be manipulated and mimic the effect of morphine [3,44]. Thus, when delivered so that people
+believe they are receiving an active treatment, the differences between an active treatment
+and a placebo treatment can be mitigated.
+Additionally, PPTs at the surgical knee were significantly higher for participants
+receiving both TENS and Placebo-TENS compared to those receiving Standard Care and
+significantly higher for Placebo-TENS then Standard Care at the anterior tibialis muscle
+postoperatively, suggesting the effect of TENS on deep mechanical primary and secondary
+hyperalgesia also involves placebo influences. This finding is in contrast to studies
+showing that high frequency TENS reduces primary and secondary hyperalgesia when compared to
+placebo-TENS [42,56,61,64,72] and our prior study in patients with
+OA using the same placebo-TENS treatment [73]. The
+lack of significant differences in heat pain thresholds and tolerances is similar to prior
+studies in healthy controls and in people with OA [58,73]. These studies suggest that TENS is
+more effective for mechanical deep tissue pain than thermal cutaneous pain. In healthy
+controls we and others routinely show that TENS reduces PPTs [45,48,51].
+Bjordal, et al. [5] found that TENS
+intensity was a variable that improved the effect of TENS for postoperative pain. All
+participants receiving TENS in this study used the treatment well above Bjordal’s
+cut off of 15mA [5]. Additionally, there was no
+significant correlation between TENS amplitude (or dose) and outcomes in this study. This
+finding suggests that the effect of TENS was similar across amplitudes and that all
+participants used a potentially effective amplitude.
+This is the first clinical trial to evaluate the effect of long term TENS on
+postoperative pain following TKA. The lack of significance on movement pain at 6 weeks is
+consistent with other studies that have evaluated the effect of repeated TENS application
+beyond a few days [11,77]. This is in contrast to significance found with one-time TENS applications
+[4,19]. It is
+possible that the reduced effect over time is due to the development of tolerance to the
+TENS stimulation. Studies that have evaluated the effect of repeated TENS use have
+demonstrated tolerance to TENS after five days of repeated application when given at the
+same dose (frequency and intensity) in healthy human subjects and in animal studies [10,45]. Factors
+that prolong this tolerance include alternating between low and high frequency [23] and increasing the amplitude over time [62]. While the amplitude was high for all participants in
+this study, it did not increase over time and high frequency was used throughout. Future
+studies should incorporate these strategies to determine their influence on the efficacy of
+TENS over time following TKA. Another possible explanation for this lack of significance at
+6 weeks following surgery is that pain improved in all participants by 6 weeks making
+significant differences between groups more difficult to detect. Future studies evaluating
+the effect of pain interventions may want to consider an earlier target for this
+evaluation.
+Finally, while pain and function were significantly correlated across all
+participants, this correlation was small and the moderate effect of TENS on pain was not
+enough to significantly improve function beyond the other treatment groups. These results
+suggest that other factors contribute to the functional limitations experienced following
+TKA, such as concomitant low back pain [14] or
+differences in maximum muscle strength and torque development deficits [79]. Future studies should consider other variables that
+may contribute to functional ability when making these comparisons.
+A limitation of this study was the lack of ethnic diversity in the sample. A large
+majority (95%) of the sample was non-Hispanic and white. This limits generalization
+to similar patients and it is therefore, unknown if the efficacy of TENS would be different
+for other ethnicities or races. Further studies are needed that evaluate the effect of TENS
+in a more ethnically diverse population. In addition, while participants in the Placebo-TENS
+groups were blinded to treatment, the majority of participants receiving TENS knew they
+received an active treatment, and the Standard Care group could not be blinded. This lack of
+blinding of the TENS participants is similar to other studies where TENS is given at strong
+intensities [19,58,73]. This is a problem with all
+non-pharmacologic clinical trials and illustrates the importance of including a placebo-TENS
+treatment that can be appropriately blinded.
+In summary, this large, blinded, randomized, placebo-controlled trial with
+intent-to-treat analyses demonstrated that adding TENS during rehabilitation exercises (i.e.
+as a supplement to routine pharmacologic analgesia) resulted in significantly reduced
+movement pain during the immediate postoperative period compared to Standard Care. However,
+no significant differences were found between TENS and Placebo-TENS suggesting a placebo
+influence. Additionally, there were no group differences at 6 weeks following TKR suggesting
+that TENS is not beneficial beyond the immediate postoperative period. The benefit of adding
+TENS may be greatest for patients who are not anxious or catastrophizing their pain.
+
+## Supplementary Material
